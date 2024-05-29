@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Drow Priestess of Lolth
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Priestess Of Lolth.md|Drow Priestess of Lolth]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow Priestess Of Lolth.md|Drow Priestess of Lolth]]
 *Source: Monster Manual p. 129*
 
 Female drow with blood ties to a noble house are molded and trained from birth to become priestesses of Lolth. The Spider Queen doesn't allow male drow to hold such positions.

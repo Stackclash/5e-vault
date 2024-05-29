@@ -14,7 +14,6 @@ aliases:
   - Hamund's Harvesting Hands
 ---
 # Hamund's Harvesting Hands
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Conjuration (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

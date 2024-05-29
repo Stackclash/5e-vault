@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Booyahg Wielder
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Booyahg Wielder.md|Booyahg Wielder]]
+# [[5. Mechanics/Bestiary/Humanoid/Booyahg Wielder.md|Booyahg Wielder]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin found a magic item (a [[5. Mechanics/Items/Necklace Of Fireballs.md|necklace of fireballs]], a [[5. Mechanics/Items/Circlet Of Blasting.md|circlet of blasting]], or the like) and learned how to use it.

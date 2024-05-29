@@ -12,7 +12,6 @@ aliases:
   - Banishing Smite
 ---
 # Banishing Smite
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Abjuration*  
 
 - **Casting time:** 1 bonus

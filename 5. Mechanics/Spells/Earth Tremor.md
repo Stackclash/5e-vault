@@ -15,7 +15,6 @@ aliases:
   - Earth Tremor
 ---
 # Earth Tremor
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Evocation*  
 
 - **Casting time:** 1 action

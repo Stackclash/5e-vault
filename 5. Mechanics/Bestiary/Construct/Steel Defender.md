@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Steel Defender
 ---
-# [[5. Mechanics\Bestiary\Construct\Steel Defender.md|Steel Defender]]
+# [[5. Mechanics/Bestiary/Construct/Steel Defender.md|Steel Defender]]
 *Source: Tasha's Cauldron of Everything p. 19, Eberron: Rising from the Last War p. 61*
 
 ```statblock

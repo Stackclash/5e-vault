@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/18
-- monster/size/gargantuan
-- monster/type/monstrosity
+  - compendium/src/5e/veor
+  - monster/cr/18
+  - monster/size/gargantuan
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Citadel Spider"]
+aliases:
+  - Citadel Spider
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Citadel Spider.md|Citadel Spider]]
+# [[5. Mechanics/Bestiary/Monstrosity/Citadel Spider.md|Citadel Spider]]
 *Source: Vecna: Eve of Ruin p. 214*
 
 > [!quote]- A quote from Camlash, Balor General of Lolth  

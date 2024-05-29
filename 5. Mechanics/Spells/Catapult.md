@@ -14,7 +14,6 @@ aliases:
   - Catapult
 ---
 # Catapult
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Transmutation*  
 
 - **Casting time:** 1 action

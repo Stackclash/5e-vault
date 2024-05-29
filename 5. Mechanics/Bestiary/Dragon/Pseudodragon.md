@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Pseudodragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Pseudodragon.md|Pseudodragon]]
+# [[5. Mechanics/Bestiary/Dragon/Pseudodragon.md|Pseudodragon]]
 *Source: Monster Manual p. 254, Eberron: Rising from the Last War. Available in the SRD.*
 
 The elusive pseudodragon dwells in the quiet places of the world, making its home in the hollows of trees and small caves. With its red-brown scales, horns, and a maw filled with sharp teeth, a pseudodragon resembles a tiny red dragon but its disposition is playful.

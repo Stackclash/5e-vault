@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Acolyte
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Acolyte.md|Acolyte]]
+# [[5. Mechanics/Bestiary/Humanoid/Acolyte.md|Acolyte]]
 *Source: Monster Manual p. 342, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Acolytes are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities.

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Tortle
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Tortle.md|Tortle]]
+# [[5. Mechanics/Bestiary/Humanoid/Tortle.md|Tortle]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*
 
 The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.

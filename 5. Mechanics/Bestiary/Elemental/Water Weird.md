@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Water Weird
 ---
-# [[5. Mechanics\Bestiary\Elemental\Water Weird.md|Water Weird]]
+# [[5. Mechanics/Bestiary/Elemental/Water Weird.md|Water Weird]]
 *Source: Monster Manual p. 299, Vecna: Eve of Ruin*
 
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.

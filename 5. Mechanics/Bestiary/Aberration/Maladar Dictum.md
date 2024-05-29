@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Maladar Dictum
 ---
-# [[5. Mechanics\Bestiary\Aberration\Maladar Dictum.md|Maladar Dictum]]
+# [[5. Mechanics/Bestiary/Aberration/Maladar Dictum.md|Maladar Dictum]]
 *Source: Strongholds and Followers p. 175*
 
 Currently one of the Dukes of Chaos, Lord Dictum serves the Red Queen. He is ambitious and plans to replace both the King and Queen...but so do all the Dukes and Duchesses of Chaos. For now, Dictum bides his time and waits.

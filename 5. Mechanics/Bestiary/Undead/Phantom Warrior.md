@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Phantom Warrior
 ---
-# [[5. Mechanics\Bestiary\Undead\Phantom Warrior.md|Phantom Warrior]]
+# [[5. Mechanics/Bestiary/Undead/Phantom Warrior.md|Phantom Warrior]]
 *Source: Curse of Strahd p. 235*
 
 A phantom warrior is the spectral remnant of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.

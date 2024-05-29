@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Kalaraq Quori
 ---
-# [[5. Mechanics\Bestiary\Aberration\Kalaraq Quori.md|Kalaraq Quori]]
+# [[5. Mechanics/Bestiary/Aberration/Kalaraq Quori.md|Kalaraq Quori]]
 *Source: Eberron: Rising from the Last War p. 306*
 
 The most powerful quori are the kalaraqs, also known as eyebinders—entities formed of pure shadow that is outlined by a nimbus of energy. A host of disembodied eyes whirl around a kalaraq, each reflecting a consciousness the creature has consumed.

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Young Wereraven
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Young Wereraven.md|Young Wereraven]]
+# [[5. Mechanics/Bestiary/Humanoid/Young Wereraven.md|Young Wereraven]]
 *Source: Curse of Strahd p. 98*
 
 ```statblock

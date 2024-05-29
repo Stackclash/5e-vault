@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Death
 ---
-# [[5. Mechanics\Bestiary\Construct\Death.md|Death]]
+# [[5. Mechanics/Bestiary/Construct/Death.md|Death]]
 *Source: Strongholds and Followers p. 228*
 
 > [!quote]-  

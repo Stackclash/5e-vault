@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Time
 ---
-# [[5. Mechanics\Bestiary\Construct\Time.md|Time]]
+# [[5. Mechanics/Bestiary/Construct/Time.md|Time]]
 *Source: Strongholds and Followers p. 231*
 
 Time is something of the hypocrite among the Inexorables, perfectly happy to speed things up for itself while denying that same ability to anyone else. Many of the Inexorables don't mind if their allies bend the rules so long as their enemies toe the line, and if this seems like commentary on the nature of law and how it tends to be applied, of course it is. Or is it? Maybe it's the opposite.

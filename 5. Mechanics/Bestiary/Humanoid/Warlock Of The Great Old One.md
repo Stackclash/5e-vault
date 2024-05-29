@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Warlock of the Great Old One
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Warlock Of The Great Old One.md|Warlock of the Great Old One]]
+# [[5. Mechanics/Bestiary/Humanoid/Warlock Of The Great Old One.md|Warlock of the Great Old One]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 256, Volo's Guide to Monsters p. 220*
 
 Warlocks of the Great Old One gain their powers through magical pacts forged with eldritch entities from strange and distant realms of existence. Some of these warlocks associate with cultists devoted to these entities, as well as Aberrations that share their goals, yet other warlocks of the Great Old One are experts at rooting out the chaos and wickedness inspired by bizarre beings from beyond the stars.

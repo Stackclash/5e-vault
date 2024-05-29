@@ -12,7 +12,6 @@ aliases:
   - Holy Weapon
 ---
 # Holy Weapon
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Evocation*  
 
 - **Casting time:** 1 bonus

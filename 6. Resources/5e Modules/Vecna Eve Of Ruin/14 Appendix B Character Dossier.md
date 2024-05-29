@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/veor
-aliases: ["Appendix B: Character Dossier"]
+  - compendium/src/5e/veor
+aliases:
+  - 'Appendix B: Character Dossier'
 ---
 # Appendix B: Character Dossier
 *Source: Vecna: Eve of Ruin* 

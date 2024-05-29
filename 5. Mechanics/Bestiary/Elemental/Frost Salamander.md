@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Frost Salamander
 ---
-# [[5. Mechanics\Bestiary\Elemental\Frost Salamander.md|Frost Salamander]]
+# [[5. Mechanics/Bestiary/Elemental/Frost Salamander.md|Frost Salamander]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 132, Mordenkainen's Tome of Foes p. 223*
 
 Frost salamanders are natives of the Plane of Ice, also called the Frostfell, which rests between the Plane of Air and the Plane of Water. Frost salamanders especially like to hunt warm-blooded creatures. They sometimes travel to frigid climes on the Material Plane by wandering through planar gates.

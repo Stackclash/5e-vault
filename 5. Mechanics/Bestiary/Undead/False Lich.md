@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/21
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/veor
+  - monster/cr/21
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["False Lich"]
+aliases:
+  - False Lich
 ---
-# [[5. Mechanics\Bestiary\Undead\False Lich.md|False Lich]]
+# [[5. Mechanics/Bestiary/Undead/False Lich.md|False Lich]]
 *Source: Vecna: Eve of Ruin p. 220*
 
 Occasionally, liches create nefarious magical copies of themselves to fool enemies, to guard treasure, or for other inscrutable reasons.

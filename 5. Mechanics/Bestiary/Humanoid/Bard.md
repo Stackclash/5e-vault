@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Bard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Bard.md|Bard]]
+# [[5. Mechanics/Bestiary/Humanoid/Bard.md|Bard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 59, Volo's Guide to Monsters p. 211*
 
 Bards are gifted poets, storytellers, and entertainers who travel far and wide. They're commonly found in taverns or in the company of jolly bands of adventurers, rough-and-tumble mercenaries, and wealthy patrons.

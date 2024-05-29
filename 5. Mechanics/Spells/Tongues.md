@@ -17,7 +17,6 @@ aliases:
   - Tongues
 ---
 # Tongues
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Divination*  
 
 - **Casting time:** 1 action

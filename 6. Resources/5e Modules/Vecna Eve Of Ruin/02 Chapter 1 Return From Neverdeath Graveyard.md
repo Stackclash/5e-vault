@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/veor
-aliases: ["Chapter 1: Return from Neverdeath Graveyard"]
+  - compendium/src/5e/veor
+aliases:
+  - 'Chapter 1: Return from Neverdeath Graveyard'
 ---
 # Chapter 1: Return from Neverdeath Graveyard
 *Source: Vecna: Eve of Ruin* 

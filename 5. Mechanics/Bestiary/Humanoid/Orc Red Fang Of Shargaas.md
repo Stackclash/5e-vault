@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Orc Red Fang of Shargaas
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Red Fang Of Shargaas.md|Orc Red Fang of Shargaas]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Red Fang Of Shargaas.md|Orc Red Fang of Shargaas]]
 *Source: Volo's Guide to Monsters p. 185*
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.

@@ -15,7 +15,6 @@ aliases:
   - Sword Burst
 ---
 # Sword Burst
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Conjuration*  
 
 - **Casting time:** 1 action

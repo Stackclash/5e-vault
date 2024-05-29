@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/veor
-aliases: ["Chapter 2: The Wizards Three"]
+  - compendium/src/5e/veor
+aliases:
+  - 'Chapter 2: The Wizards Three'
 ---
 # Chapter 2: The Wizards Three
 *Source: Vecna: Eve of Ruin* 

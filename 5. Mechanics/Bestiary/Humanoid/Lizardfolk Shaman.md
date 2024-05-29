@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Lizardfolk Shaman
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Lizardfolk Shaman.md|Lizardfolk Shaman]]
+# [[5. Mechanics/Bestiary/Humanoid/Lizardfolk Shaman.md|Lizardfolk Shaman]]
 *Source: Monster Manual p. 205*
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.

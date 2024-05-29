@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Vampiric Mind Flayer
 ---
-# [[5. Mechanics\Bestiary\Undead\Vampiric Mind Flayer.md|Vampiric Mind Flayer]]
+# [[5. Mechanics/Bestiary/Undead/Vampiric Mind Flayer.md|Vampiric Mind Flayer]]
 *Source: Van Richten's Guide to Ravenloft p. 252*
 
 When the mind flayers of Bluetspur (see chapter 3) could find no cure for their overlord's affliction, their degenerating elder brain turned to radical methods to stave off dementia and death. The results were vampiric mind flayers, feral atrocities spawned from mind flayer tadpoles infected with vampirism. These specialized but flawed terrors serve a single purpose: to drain the cerebral fluids from sapient minds. After doing so, they return to the Elder Brain of Bluetspur, which liquefies them into its pool and releases their stolen essences amid a hormone brine. This grotesque balm stalls the elder brain's degeneration but is far from a cure.

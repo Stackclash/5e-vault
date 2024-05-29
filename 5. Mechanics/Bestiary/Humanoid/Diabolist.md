@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Diabolist
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Diabolist.md|Diabolist]]
+# [[5. Mechanics/Bestiary/Humanoid/Diabolist.md|Diabolist]]
 *Source: Strongholds and Followers p. 80*
 
 ```statblock

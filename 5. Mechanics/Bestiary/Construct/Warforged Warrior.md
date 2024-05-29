@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/1
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/veor
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Warforged Warrior"]
+aliases:
+  - Warforged Warrior
 ---
-# [[5. Mechanics\Bestiary\Construct\Warforged Warrior.md|Warforged Warrior]]
+# [[5. Mechanics/Bestiary/Construct/Warforged Warrior.md|Warforged Warrior]]
 *Source: Vecna: Eve of Ruin p. 238*
 
 Warforged warriors are formed from wood and steel, then magically imbued with life and sentience. They were created to fight in the Last War on the continent of Khorvaire in Eberron. In the aftermath of that conflict, they struggle to understand their place in the world.

@@ -12,7 +12,6 @@ aliases:
   - Summon Aberration
 ---
 # Summon Aberration
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 action

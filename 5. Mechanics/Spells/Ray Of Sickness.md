@@ -15,7 +15,6 @@ aliases:
   - Ray of Sickness
 ---
 # Ray of Sickness
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Necromancy*  
 
 - **Casting time:** 1 action

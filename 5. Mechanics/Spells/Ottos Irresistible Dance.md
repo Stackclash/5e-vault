@@ -11,7 +11,6 @@ aliases:
   - Otto's Irresistible Dance
 ---
 # Otto's Irresistible Dance
-%%-- Embedded content starts on the next line. --%%
 *6th-level, Enchantment*  
 
 - **Casting time:** 1 action

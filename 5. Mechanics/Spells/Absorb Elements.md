@@ -16,7 +16,6 @@ aliases:
   - Absorb Elements
 ---
 # Absorb Elements
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Abjuration*  
 
 - **Casting time:** 1 reaction

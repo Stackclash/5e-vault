@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Drow Elite Warrior
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Elite Warrior.md|Drow Elite Warrior]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow Elite Warrior.md|Drow Elite Warrior]]
 *Source: Monster Manual p. 128*
 
 ## Drow

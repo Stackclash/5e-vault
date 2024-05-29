@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/veor
-aliases: ["Chapter 6: Night of Blue Fire"]
+  - compendium/src/5e/veor
+aliases:
+  - 'Chapter 6: Night of Blue Fire'
 ---
 # Chapter 6: Night of Blue Fire
 *Source: Vecna: Eve of Ruin* 
@@ -869,7 +870,7 @@ Nothing can physically pass through solid moonlight or teleport through it. It i
 The following locations are keyed to map 6.4.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/102-6-04-three-moons-vault-upper-level.webp#gallery\|Map 6.4: Three Moons Vault - Upper Level]]
+> ![Map 6.4: Three Moons Vault—Upper Level](compendium/adventures/vecna-eve-of-ruin/img/102-6-04-three-moons-vault-upper-level.webp#gallery)
 > ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/103-6-04-three-moons-vault-upper-level-player.webp#gallery\|Player Version]]
 
 #### U1: White Lunarium

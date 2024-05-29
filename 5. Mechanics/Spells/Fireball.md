@@ -17,7 +17,6 @@ aliases:
   - Fireball
 ---
 # Fireball
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Evocation*  
 ![[5. Mechanics/Spells/img/fireball.webp#right]]  
 

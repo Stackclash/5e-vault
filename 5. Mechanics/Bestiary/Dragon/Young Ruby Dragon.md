@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Young Ruby Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young Ruby Dragon.md|Young Ruby Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young Ruby Dragon.md|Young Ruby Dragon]]
 *Source: Strongholds and Followers p. 205*
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.

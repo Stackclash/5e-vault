@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Giant Owl
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Owl.md|Giant Owl]]
+# [[5. Mechanics/Bestiary/Beast/Giant Owl.md|Giant Owl]]
 *Source: Monster Manual p. 327, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Giant owls often befriend fey and other sylvan creatures and are guardians of their woodland realms.

@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Raven
 ---
-# [[5. Mechanics\Bestiary\Beast\Raven.md|Raven]]
+# [[5. Mechanics/Bestiary/Beast/Raven.md|Raven]]
 *Source: Monster Manual p. 335, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
 
 ```statblock

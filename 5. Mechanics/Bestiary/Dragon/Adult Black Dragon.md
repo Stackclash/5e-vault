@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Adult Black Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Black Dragon.md|Adult Black Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Adult Black Dragon.md|Adult Black Dragon]]
 *Source: Monster Manual p. 88. Available in the SRD.*
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.

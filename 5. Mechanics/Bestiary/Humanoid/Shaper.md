@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Shaper
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Shaper.md|Shaper]]
+# [[5. Mechanics/Bestiary/Humanoid/Shaper.md|Shaper]]
 *Source: Strongholds and Followers p. 81*
 
 ```statblock

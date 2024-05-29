@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Xvart Warlock of Raxivort
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Xvart Warlock Of Raxivort.md|Xvart Warlock of Raxivort]]
+# [[5. Mechanics/Bestiary/Monstrosity/Xvart Warlock Of Raxivort.md|Xvart Warlock of Raxivort]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*
 
 Some xvarts are spawned with a trace of Raxivort's divine energy. These xvarts usually form a pact with him and wield magic in his service as warlocks.

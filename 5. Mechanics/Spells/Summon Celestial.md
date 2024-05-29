@@ -10,7 +10,6 @@ aliases:
   - Summon Celestial
 ---
 # Summon Celestial
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Conjuration*  
 ![[5. Mechanics/Spells/img/summon-celestial.webp#right]]  
 

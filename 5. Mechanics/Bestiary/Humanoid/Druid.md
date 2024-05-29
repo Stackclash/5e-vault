@@ -19,7 +19,7 @@ statblock: inline
 aliases:
   - Druid
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Druid.md|Druid]]
+# [[5. Mechanics/Bestiary/Humanoid/Druid.md|Druid]]
 *Source: Monster Manual p. 346, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD.*
 
 Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.

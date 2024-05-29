@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Homunculus Servant
 ---
-# [[5. Mechanics\Bestiary\Construct\Homunculus Servant.md|Homunculus Servant]]
+# [[5. Mechanics/Bestiary/Construct/Homunculus Servant.md|Homunculus Servant]]
 *Source: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 62*
 
 ```statblock

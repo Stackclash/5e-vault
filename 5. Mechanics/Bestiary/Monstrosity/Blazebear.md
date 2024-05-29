@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/12
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/veor
+  - monster/cr/12
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Blazebear"]
+aliases:
+  - Blazebear
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Blazebear.md|Blazebear]]
+# [[5. Mechanics/Bestiary/Monstrosity/Blazebear.md|Blazebear]]
 *Source: Vecna: Eve of Ruin p. 210*
 
 > [!quote]- A quote from Clank, Warforged Merchant from Sharn  

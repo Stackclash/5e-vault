@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Couatl
 ---
-# [[5. Mechanics\Bestiary\Celestial\Couatl.md|Couatl]]
+# [[5. Mechanics/Bestiary/Celestial/Couatl.md|Couatl]]
 *Source: Monster Manual p. 43, Vecna: Eve of Ruin. Available in the SRD.*
 
 Couatls are benevolent serpentine beings of great intellect and insight. Their brilliantly colored wings and gentle manner speak to their celestial origins.

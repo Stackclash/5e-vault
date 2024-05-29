@@ -35,6 +35,11 @@ Normal activity, such as moving and attacking, doesn't interfere with [[/5. Mech
 
 The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] on a spell.
 
+## Dazed
+_Source: Flee, Mortals! (Packet 1) p. 17_
+
+A dazed creature can only do one of the following things on their turn: move, use an action, or use a bonus action. If a creature becomes dazed during their turn, their turn ends.
+
 ## Deafened
 _Source: Player's Handbook p. 290. Available in the SRD and the Basic Rules._
 

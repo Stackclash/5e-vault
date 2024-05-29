@@ -14,7 +14,6 @@ aliases:
   - Spiritual Weapon
 ---
 # Spiritual Weapon
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 bonus

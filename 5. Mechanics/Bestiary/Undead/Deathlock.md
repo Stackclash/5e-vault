@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Deathlock
 ---
-# [[5. Mechanics\Bestiary\Undead\Deathlock.md|Deathlock]]
+# [[5. Mechanics/Bestiary/Undead/Deathlock.md|Deathlock]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 86, Mordenkainen's Tome of Foes p. 128*
 
 An overpowering urge to serve consumes the mind of a newly awakened deathlock. Any goals and ambitions it had in life that don't please its patron fall away as its master's desires become the purpose that drives it. The deathlock immediately resumes work on its patron's behalf.

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/14
-- monster/size/huge
-- monster/type/fiend/demon
+  - compendium/src/5e/veor
+  - monster/cr/14
+  - monster/size/huge
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Hazvongel"]
+aliases:
+  - Hazvongel
 ---
-# [[5. Mechanics\Bestiary\Fiend\Hazvongel.md|Hazvongel]]
+# [[5. Mechanics/Bestiary/Fiend/Hazvongel.md|Hazvongel]]
 *Source: Vecna: Eve of Ruin p. 222*
 
 > [!quote]- A quote from The Demon Lord Pazuzu  

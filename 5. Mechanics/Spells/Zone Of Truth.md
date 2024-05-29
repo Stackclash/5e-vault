@@ -16,7 +16,6 @@ aliases:
   - Zone of Truth
 ---
 # Zone of Truth
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Enchantment*  
 
 - **Casting time:** 1 action

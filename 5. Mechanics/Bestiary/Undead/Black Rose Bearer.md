@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/6
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/veor
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Black Rose Bearer"]
+aliases:
+  - Black Rose Bearer
 ---
-# [[5. Mechanics\Bestiary\Undead\Black Rose Bearer.md|Black Rose Bearer]]
+# [[5. Mechanics/Bestiary/Undead/Black Rose Bearer.md|Black Rose Bearer]]
 *Source: Vecna: Eve of Ruin p. 208*
 
 > [!quote]- A quote from Common saying among the Knights of Solamnia  

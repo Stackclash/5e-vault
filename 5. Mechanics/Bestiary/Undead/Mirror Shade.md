@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/10
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/veor
+  - monster/cr/10
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Mirror Shade"]
+aliases:
+  - Mirror Shade
 ---
-# [[5. Mechanics\Bestiary\Undead\Mirror Shade.md|Mirror Shade]]
+# [[5. Mechanics/Bestiary/Undead/Mirror Shade.md|Mirror Shade]]
 *Source: Vecna: Eve of Ruin p. 226*
 
 > [!quote]- A quote from Hopewell Lightfinger, Sword Coast Adventurer  

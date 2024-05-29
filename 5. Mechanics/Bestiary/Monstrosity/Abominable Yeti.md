@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Abominable Yeti
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Abominable Yeti.md|Abominable Yeti]]
+# [[5. Mechanics/Bestiary/Monstrosity/Abominable Yeti.md|Abominable Yeti]]
 *Source: Monster Manual p. 306*
 
 A yeti's windborne howl sounds out across remote mountains, striking fear into the hearts of the scattered miners and herders that dwell there. These hulking creatures stalk alpine peaks in a ceaseless hunt for food. Their snow-white fur lets them move like ghosts against the frozen landscape. A yeti's icy simian eyes can freeze its prey in place.

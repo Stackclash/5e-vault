@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Giant Crab
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Crab.md|Giant Crab]]
+# [[5. Mechanics/Bestiary/Beast/Giant Crab.md|Giant Crab]]
 *Source: Monster Manual p. 324, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
 
 ```statblock

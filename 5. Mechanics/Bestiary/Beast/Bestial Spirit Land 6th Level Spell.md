@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - 'Bestial Spirit (Land, 6th-Level Spell)'
 ---
-# [[5. Mechanics\Bestiary\Beast\Bestial Spirit Land 6th Level Spell.md|Bestial Spirit (Land, 6th-Level Spell)]]
+# [[5. Mechanics/Bestiary/Beast/Bestial Spirit Land 6th Level Spell.md|Bestial Spirit (Land, 6th-Level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock

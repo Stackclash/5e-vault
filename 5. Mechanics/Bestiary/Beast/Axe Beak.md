@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Axe Beak
 ---
-# [[5. Mechanics\Bestiary\Beast\Axe Beak.md|Axe Beak]]
+# [[5. Mechanics/Bestiary/Beast/Axe Beak.md|Axe Beak]]
 *Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*
 
 An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.

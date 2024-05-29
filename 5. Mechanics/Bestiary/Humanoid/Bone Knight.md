@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Bone Knight
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Bone Knight.md|Bone Knight]]
+# [[5. Mechanics/Bestiary/Humanoid/Bone Knight.md|Bone Knight]]
 *Source: Eberron: Rising from the Last War p. 316*
 
 Bone knights are the champions of the Order of the Emerald Claw. Clad in distinctive bonecraft armor—heavy armor adorned with the bones of fallen enemies—these fearsome warriors command squads of undead soldiers as they pursue the sinister goals of Lady Illmarrow.

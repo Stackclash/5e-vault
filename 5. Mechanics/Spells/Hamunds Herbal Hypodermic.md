@@ -15,7 +15,6 @@ aliases:
   - Hamund's Herbal Hypodermic
 ---
 # Hamund's Herbal Hypodermic
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 bonus

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Walking Corpse
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Walking Corpse.md|Walking Corpse]]
+# [[5. Mechanics/Bestiary/Humanoid/Walking Corpse.md|Walking Corpse]]
 *Source: Curse of Strahd p. 165*
 
 ```statblock

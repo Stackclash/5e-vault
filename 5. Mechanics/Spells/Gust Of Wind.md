@@ -17,7 +17,6 @@ aliases:
   - Gust of Wind
 ---
 # Gust of Wind
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 action

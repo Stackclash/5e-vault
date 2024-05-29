@@ -17,7 +17,7 @@ statblock: inline
 aliases:
   - Orc Eye of Gruumsh
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Eye Of Gruumsh.md|Orc Eye of Gruumsh]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Eye Of Gruumsh.md|Orc Eye of Gruumsh]]
 *Source: Monster Manual p. 247*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.

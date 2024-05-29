@@ -14,7 +14,6 @@ aliases:
   - Aura of Purity
 ---
 # Aura of Purity
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Abjuration*  
 
 - **Casting time:** 1 action

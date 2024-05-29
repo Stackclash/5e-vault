@@ -10,7 +10,6 @@ aliases:
   - Primordial Ward
 ---
 # Primordial Ward
-%%-- Embedded content starts on the next line. --%%
 *6th-level, Abjuration*  
 
 - **Casting time:** 1 action

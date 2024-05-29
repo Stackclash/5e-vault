@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Lizard
 ---
-# [[5. Mechanics\Bestiary\Beast\Lizard.md|Lizard]]
+# [[5. Mechanics/Bestiary/Beast/Lizard.md|Lizard]]
 *Source: Monster Manual p. 332. Available in the SRD and the Basic Rules.*
 
 ```statblock

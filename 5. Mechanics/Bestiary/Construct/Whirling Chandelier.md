@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/7
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/veor
+  - monster/cr/7
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Whirling Chandelier"]
+aliases:
+  - Whirling Chandelier
 ---
-# [[5. Mechanics\Bestiary\Construct\Whirling Chandelier.md|Whirling Chandelier]]
+# [[5. Mechanics/Bestiary/Construct/Whirling Chandelier.md|Whirling Chandelier]]
 *Source: Vecna: Eve of Ruin p. 239*
 
 Compared to other animated objects, whirling chandeliers seem to have capricious personalities. Victims typically perceive a whirling chandelier's Blazing Vortex as mischievousness or outright malevolence, though the chandelier lacks any understanding of such concepts. A whirling chandelier makes tactical decisions only as a means to perform its master's orders to the best of its ability.

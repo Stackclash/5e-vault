@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Yuan-ti Broodguard
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Broodguard.md|Yuan-ti Broodguard]]
+# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Broodguard.md|Yuan-ti Broodguard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203*
 
 > [!quote]- A quote from Mordekainen  

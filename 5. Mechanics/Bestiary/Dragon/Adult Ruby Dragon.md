@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Adult Ruby Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Ruby Dragon.md|Adult Ruby Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Adult Ruby Dragon.md|Adult Ruby Dragon]]
 *Source: Strongholds and Followers p. 204*
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.

@@ -14,7 +14,6 @@ aliases:
   - Animate Objects
 ---
 # Animate Objects
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Transmutation*  
 
 - **Casting time:** 1 action

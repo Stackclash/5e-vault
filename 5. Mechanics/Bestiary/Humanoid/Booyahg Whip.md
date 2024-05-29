@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Booyahg Whip
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Booyahg Whip.md|Booyahg Whip]]
+# [[5. Mechanics/Bestiary/Humanoid/Booyahg Whip.md|Booyahg Whip]]
 *Source: Volo's Guide to Monsters p. 42*
 
 Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has `dice: 1d3|avg|noform` (`1d3`) other goblins that slavishly obey its orders.

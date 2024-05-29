@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/bam
-- monster/cr/18
-- monster/size/gargantuan
-- monster/type/aberration
+  - compendium/src/5e/bam
+  - monster/cr/18
+  - monster/size/gargantuan
+  - monster/type/aberration
 statblock: inline
-aliases: ["Cosmic Horror"]
+aliases:
+  - Cosmic Horror
 ---
-# [[5. Mechanics\Bestiary\Aberration\Cosmic Horror Bam.md|Cosmic Horror]]
+# [[5. Mechanics/Bestiary/Aberration/Cosmic Horror Bam.md|Cosmic Horror]]
 *Source: Boo's Astral Menagerie p. 18, Vecna: Eve of Ruin*
 
 ```statblock

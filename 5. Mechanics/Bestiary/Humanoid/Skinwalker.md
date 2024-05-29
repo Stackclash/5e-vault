@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Skinwalker
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Skinwalker.md|Skinwalker]]
+# [[5. Mechanics/Bestiary/Humanoid/Skinwalker.md|Skinwalker]]
 *Source: Strongholds and Followers p. 75*
 
 ```statblock

@@ -16,7 +16,6 @@ aliases:
   - Web
 ---
 # Web
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Conjuration*  
 ![[5. Mechanics/Spells/img/web.webp#right]]  
 

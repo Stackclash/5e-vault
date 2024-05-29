@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/veor
-aliases: ["Chapter 8: The Dragon Queen's Pride"]
+  - compendium/src/5e/veor
+aliases:
+  - 'Chapter 8: The Dragon Queen''s Pride'
 ---
 # Chapter 8: The Dragon Queen's Pride
 *Source: Vecna: Eve of Ruin* 

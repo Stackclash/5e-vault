@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Lesser Erinyes
 ---
-# [[5. Mechanics\Bestiary\Fiend\Lesser Erinyes.md|Lesser Erinyes]]
+# [[5. Mechanics/Bestiary/Fiend/Lesser Erinyes.md|Lesser Erinyes]]
 *Source: Strongholds and Followers p. 153*
 
 ```statblock

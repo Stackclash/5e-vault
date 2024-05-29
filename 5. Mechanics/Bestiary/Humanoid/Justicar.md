@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Justicar
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Justicar.md|Justicar]]
+# [[5. Mechanics/Bestiary/Humanoid/Justicar.md|Justicar]]
 *Source: Strongholds and Followers p. 77*
 
 ```statblock

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/9
-- monster/size/medium
-- monster/type/construct/warforged
+  - compendium/src/5e/veor
+  - monster/cr/9
+  - monster/size/medium
+  - monster/type/construct/warforged
 statblock: inline
-aliases: ["Blade Lieutenant"]
+aliases:
+  - Blade Lieutenant
 ---
-# [[5. Mechanics\Bestiary\Construct\Blade Lieutenant.md|Blade Lieutenant]]
+# [[5. Mechanics/Bestiary/Construct/Blade Lieutenant.md|Blade Lieutenant]]
 *Source: Vecna: Eve of Ruin p. 209*
 
 Blade lieutenants lead subordinates on raids on behalf of the Lord of Blades. Soldiers who fail to meet a lieutenant's demands are harshly disciplined.

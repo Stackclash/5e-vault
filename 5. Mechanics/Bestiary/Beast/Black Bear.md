@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Black Bear
 ---
-# [[5. Mechanics\Bestiary\Beast\Black Bear.md|Black Bear]]
+# [[5. Mechanics/Bestiary/Beast/Black Bear.md|Black Bear]]
 *Source: Monster Manual p. 318. Available in the SRD and the Basic Rules.*
 
 ```statblock

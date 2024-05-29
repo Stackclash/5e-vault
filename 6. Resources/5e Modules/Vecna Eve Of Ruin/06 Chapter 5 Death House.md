@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/veor
-aliases: ["Chapter 5: Death House"]
+  - compendium/src/5e/veor
+aliases:
+  - 'Chapter 5: Death House'
 ---
 # Chapter 5: Death House
 *Source: Vecna: Eve of Ruin* 

@@ -13,7 +13,6 @@ aliases:
   - Skill Empowerment
 ---
 # Skill Empowerment
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Transmutation*  
 
 - **Casting time:** 1 action

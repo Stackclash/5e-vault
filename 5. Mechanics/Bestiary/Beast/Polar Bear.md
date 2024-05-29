@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Polar Bear
 ---
-# [[5. Mechanics\Bestiary\Beast\Polar Bear.md|Polar Bear]]
+# [[5. Mechanics/Bestiary/Beast/Polar Bear.md|Polar Bear]]
 *Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*
 
 ```statblock

@@ -14,7 +14,6 @@ aliases:
   - Fire Bolt
 ---
 # Fire Bolt
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Evocation*  
 
 - **Casting time:** 1 action

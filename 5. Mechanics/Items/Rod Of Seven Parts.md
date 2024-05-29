@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/veor
-- item/attunement/required
-- item/property/versatile
-- item/rarity/artifact
-- item/wondrous/rod
-aliases: 
-- "Rod of Seven Parts"
+  - compendium/src/5e/veor
+  - item/attunement/required
+  - item/property/versatile
+  - item/rarity/artifact
+  - item/wondrous/rod
+aliases:
+  - Rod of Seven Parts
 one-hand-damage: 1d6 B
 two-hand-damage: 1d8 B
 ---

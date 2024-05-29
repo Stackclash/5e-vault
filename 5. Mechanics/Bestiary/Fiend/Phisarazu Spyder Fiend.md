@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/13
-- monster/size/large
-- monster/type/fiend/demon
+  - compendium/src/5e/veor
+  - monster/cr/13
+  - monster/size/large
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Phisarazu Spyder-Fiend"]
+aliases:
+  - Phisarazu Spyder-Fiend
 ---
-# [[5. Mechanics\Bestiary\Fiend\Phisarazu Spyder Fiend.md|Phisarazu Spyder-Fiend]]
+# [[5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend.md|Phisarazu Spyder-Fiend]]
 *Source: Vecna: Eve of Ruin p. 235*
 
 Phisarazu spyder-fiends have a pair of muscular arms sprouting beneath their wolf heads. They are resentful and suspicious of all other creatures, which makes them useful for corralling kakkuus or standing guard.

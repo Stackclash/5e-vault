@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/veor
-aliases: ["Chapter 3: The Lambent Zenith's Last Voyage"]
+  - compendium/src/5e/veor
+aliases:
+  - 'Chapter 3: The Lambent Zenith''s Last Voyage'
 ---
 # Chapter 3: The Lambent Zenith's Last Voyage
 *Source: Vecna: Eve of Ruin* 

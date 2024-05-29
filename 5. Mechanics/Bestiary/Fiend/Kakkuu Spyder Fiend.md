@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/5
-- monster/size/medium
-- monster/type/fiend/demon
+  - compendium/src/5e/veor
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Kakkuu Spyder-Fiend"]
+aliases:
+  - Kakkuu Spyder-Fiend
 ---
-# [[5. Mechanics\Bestiary\Fiend\Kakkuu Spyder Fiend.md|Kakkuu Spyder-Fiend]]
+# [[5. Mechanics/Bestiary/Fiend/Kakkuu Spyder Fiend.md|Kakkuu Spyder-Fiend]]
 *Source: Vecna: Eve of Ruin p. 234*
 
 Resembling enormous spiders, kakkuus are the most numerous and least intelligent spyder-fiends. In large conflicts, they serve as foot soldiers, but they prefer to avoid more powerful Fiends, who boss them around. Left on their own, kakkuus lurk in ambush and use their webs to snare prey.

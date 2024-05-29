@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Black Pudding
 ---
-# [[5. Mechanics\Bestiary\Ooze\Black Pudding.md|Black Pudding]]
+# [[5. Mechanics/Bestiary/Ooze/Black Pudding.md|Black Pudding]]
 *Source: Monster Manual p. 241, Curse of Strahd. Available in the SRD.*
 
 A black pudding resembles a heaving mound of sticky black sludge. In dim passageways, the pudding appears to be little more than a blot of shadow.

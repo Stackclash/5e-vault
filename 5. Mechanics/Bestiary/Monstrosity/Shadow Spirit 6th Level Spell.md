@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Shadow Spirit (6th-level Spell)
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit 6th Level Spell.md|Shadow Spirit (6th-level Spell)]]
+# [[5. Mechanics/Bestiary/Monstrosity/Shadow Spirit 6th Level Spell.md|Shadow Spirit (6th-level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock

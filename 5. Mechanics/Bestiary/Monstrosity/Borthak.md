@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/15
-- monster/size/huge
-- monster/type/monstrosity
+  - compendium/src/5e/veor
+  - monster/cr/15
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Borthak"]
+aliases:
+  - Borthak
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Borthak.md|Borthak]]
+# [[5. Mechanics/Bestiary/Monstrosity/Borthak.md|Borthak]]
 *Source: Vecna: Eve of Ruin p. 212*
 
 Borthaks are irascible, wolflike behemoths that ravage northern wetlands and alpine fens on Krynn. Few mountain animals can challenge a borthak physically. Its powerful jaws, acidic spittle, and lightning-quick tail make the borthak an apex predator in its home territory.

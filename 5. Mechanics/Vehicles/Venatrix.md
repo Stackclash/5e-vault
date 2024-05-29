@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-vehicle
 tags:
-- compendium/src/5e/veor
-- vehicle/size/gargantuan
-- vehicle/terrain/land
-- vehicle/type/infernal-war-machine
-aliases: ["Venatrix"]
+  - compendium/src/5e/veor
+  - vehicle/size/gargantuan
+  - vehicle/terrain/land
+  - vehicle/type/infernal-war-machine
+aliases:
+  - Venatrix
 ---
 # Venatrix
-%%-- Embedded content starts on the next line. --%%
 *Source: Vecna: Eve of Ruin*  
 
 

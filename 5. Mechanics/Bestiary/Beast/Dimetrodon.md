@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Dimetrodon
 ---
-# [[5. Mechanics\Bestiary\Beast\Dimetrodon.md|Dimetrodon]]
+# [[5. Mechanics/Bestiary/Beast/Dimetrodon.md|Dimetrodon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*
 
 This sail-backed reptile is commonly found in areas where dinosaurs live. It hunts on shores and in shallow water, filling a similar role to a crocodile.

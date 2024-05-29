@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/15
-- monster/size/large
-- monster/type/fiend
+  - compendium/src/5e/veor
+  - monster/cr/15
+  - monster/size/large
+  - monster/type/fiend
 statblock: inline
-aliases: ["Relentless Impaler"]
+aliases:
+  - Relentless Impaler
 ---
-# [[5. Mechanics\Bestiary\Fiend\Relentless Impaler.md|Relentless Impaler]]
+# [[5. Mechanics/Bestiary/Fiend/Relentless Impaler.md|Relentless Impaler]]
 *Source: Vecna: Eve of Ruin p. 231*
 
 In the Domains of Dread, practitioners of foul magic perform a profane ritual that turns living creatures into fiendish killers. This ritual necessitates the use of a ceremonial stake, which is plunged into the heart of a living sacrifice. The hulking form of the relentless impaler then emerges from the sacrifice's pool of blood, spear in hand.

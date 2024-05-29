@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Astral Dreadnought
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Astral Dreadnought.md|Astral Dreadnought]]
+# [[5. Mechanics/Bestiary/Monstrosity/Astral Dreadnought.md|Astral Dreadnought]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51, Mordenkainen's Tome of Foes p. 117, Vecna: Eve of Ruin*
 
 Enormous and terrifying, astral dreadnoughts haunt the silvery void of the Astral Plane, causing planar travelers to shudder at the very thought of them. Dreadnoughts have been gliding through the astral mists since the dawn of the multiverse, trying to devour all other creatures they encounter.

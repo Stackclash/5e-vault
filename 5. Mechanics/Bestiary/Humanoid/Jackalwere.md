@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Jackalwere
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Jackalwere.md|Jackalwere]]
+# [[5. Mechanics/Bestiary/Humanoid/Jackalwere.md|Jackalwere]]
 *Source: Monster Manual p. 193*
 
 Ordinary jackals tainted by demonic power, jackalweres haunt roads and trails, waylaying and murdering those they meet.

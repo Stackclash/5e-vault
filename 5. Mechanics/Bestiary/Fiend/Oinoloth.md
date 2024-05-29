@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Oinoloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Oinoloth.md|Oinoloth]]
+# [[5. Mechanics/Bestiary/Fiend/Oinoloth.md|Oinoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 202, Mordenkainen's Tome of Foes p. 251*
 
 Grim specters of death, oinoloths bring pestilence wherever they go. When armies recognize their awful forms, their mere appearance causes soldiers to break ranks and flee, lest they succumb to one of the awful plagues that oinoloths let loose.

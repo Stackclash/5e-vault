@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/15
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/veor
+  - monster/cr/15
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Deathwolf"]
+aliases:
+  - Deathwolf
 ---
-# [[5. Mechanics\Bestiary\Undead\Deathwolf.md|Deathwolf]]
+# [[5. Mechanics/Bestiary/Undead/Deathwolf.md|Deathwolf]]
 *Source: Vecna: Eve of Ruin p. 217*
 
 A deathwolf combines the might of a werewolf, the unholy powers of undeath, and the magic of the full moon. Deathwolves are most common on Krynn but occasionally are found in other locations where lycanthropy and necromancy are prevalent.

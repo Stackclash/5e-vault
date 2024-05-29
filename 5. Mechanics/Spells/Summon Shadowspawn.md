@@ -11,7 +11,6 @@ aliases:
   - Summon Shadowspawn
 ---
 # Summon Shadowspawn
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Conjuration*  
 ![[5. Mechanics/Spells/img/summon-shadowspawn.webp#right]]  
 

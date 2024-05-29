@@ -2,6 +2,20 @@
 obsidianUIMode: preview
 active_world: "[[Eldoria]]"
 active_party: "[[Curse of Strahd]]"
+locations:
+  Session Prep:
+  Session Journal:
+  NPCs:
+  Parties:
+  Players:
+  Quests:
+  Groups:
+  Places of Interest:
+  Regions:
+  Settlements:
+  Shops:
+  Worlds:
+  Monsters:
 ---
 > [!infobox]
 > | | |

@@ -17,7 +17,7 @@ statblock: inline
 aliases:
   - Guard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Guard.md|Guard]]
+# [[5. Mechanics/Bestiary/Humanoid/Guard.md|Guard]]
 *Source: Monster Manual p. 347, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Guards include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Planetar
 ---
-# [[5. Mechanics\Bestiary\Celestial\Planetar.md|Planetar]]
+# [[5. Mechanics/Bestiary/Celestial/Planetar.md|Planetar]]
 *Source: Monster Manual p. 17. Available in the SRD.*
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.

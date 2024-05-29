@@ -10,7 +10,6 @@ aliases:
   - Otiluke's Freezing Sphere
 ---
 # Otiluke's Freezing Sphere
-%%-- Embedded content starts on the next line. --%%
 *6th-level, Evocation*  
 
 - **Casting time:** 1 action

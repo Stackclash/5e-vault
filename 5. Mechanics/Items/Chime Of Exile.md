@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/veor
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Chime of Exile"
+  - compendium/src/5e/veor
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Chime of Exile
 ---
 # Chime of Exile
 *Wondrous Item, very rare*  

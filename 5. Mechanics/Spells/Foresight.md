@@ -13,7 +13,6 @@ aliases:
   - Foresight
 ---
 # Foresight
-%%-- Embedded content starts on the next line. --%%
 *9th-level, Divination*  
 
 - **Casting time:** 1 minute

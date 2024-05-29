@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Vampire Spawn
 ---
-# [[5. Mechanics\Bestiary\Undead\Vampire Spawn.md|Vampire Spawn]]
+# [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|Vampire Spawn]]
 *Source: Monster Manual p. 298, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD.*
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.

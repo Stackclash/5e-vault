@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/veor
-aliases: ["Credits"]
+  - compendium/src/5e/veor
+aliases:
+  - Credits
 ---
 # Credits
 *Source: Vecna: Eve of Ruin* 

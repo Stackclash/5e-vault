@@ -10,7 +10,6 @@ aliases:
   - Titan Ship
 ---
 # Titan Ship
-%%-- Embedded content starts on the next line. --%%
 *Source: Hamund's Harvesting Handbook: Volume I p. 142*  
 
 
@@ -20,8 +19,6 @@ title: Titan Ship
 
 - **Creature Capacity** 60 passengers
 - **Cargo Capacity** 200 tons
-- **Travel Pace** 2 miles per hour (48 miles per day)
-- *Speed* 20 ft. ^[Based on _Special Travel Pace_, DMG p242]
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|

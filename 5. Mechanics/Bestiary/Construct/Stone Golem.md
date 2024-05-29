@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Stone Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Stone Golem.md|Stone Golem]]
+# [[5. Mechanics/Bestiary/Construct/Stone Golem.md|Stone Golem]]
 *Source: Monster Manual p. 170, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
 
 Stone golems display great variety in shape and form, cut and chiseled from stone to appear as tall, impressive statues. Though most bear humanoid features, stone golems can be carved in any form the sculptor can imagine. Ancient stone golems found in sealed tombs or flanking the gates of lost cities sometimes take the forms of giant beasts.

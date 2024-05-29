@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Spider
 ---
-# [[5. Mechanics\Bestiary\Beast\Spider.md|Spider]]
+# [[5. Mechanics/Bestiary/Beast/Spider.md|Spider]]
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*
 
 ```statblock

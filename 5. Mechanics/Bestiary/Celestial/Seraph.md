@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Seraph
 ---
-# [[5. Mechanics\Bestiary\Celestial\Seraph.md|Seraph]]
+# [[5. Mechanics/Bestiary/Celestial/Seraph.md|Seraph]]
 *Source: Strongholds and Followers p. 165*
 
 And you thought the Throne was weird! You were right about that, by the way.

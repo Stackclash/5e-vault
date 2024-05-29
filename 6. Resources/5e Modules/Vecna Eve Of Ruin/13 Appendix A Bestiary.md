@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/veor
-aliases: ["Appendix A: Bestiary"]
+  - compendium/src/5e/veor
+aliases:
+  - 'Appendix A: Bestiary'
 ---
 # Appendix A: Bestiary
 *Source: Vecna: Eve of Ruin* 

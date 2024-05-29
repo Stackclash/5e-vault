@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Reaver
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Reaver.md|Reaver]]
+# [[5. Mechanics/Bestiary/Humanoid/Reaver.md|Reaver]]
 *Source: Strongholds and Followers p. 72*
 
 ```statblock

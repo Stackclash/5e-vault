@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Salamander
 ---
-# [[5. Mechanics\Bestiary\Elemental\Salamander.md|Salamander]]
+# [[5. Mechanics/Bestiary/Elemental/Salamander.md|Salamander]]
 *Source: Monster Manual p. 266. Available in the SRD.*
 
 Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.

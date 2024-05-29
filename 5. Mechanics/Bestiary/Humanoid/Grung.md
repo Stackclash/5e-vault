@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Grung
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grung.md|Grung]]
+# [[5. Mechanics/Bestiary/Humanoid/Grung.md|Grung]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156*
 
 The grung stat block represents a typical grung warrior or hunter, met either in a grung community or traveling elsewhere as a mercenary, game warden, guard, or bandit.

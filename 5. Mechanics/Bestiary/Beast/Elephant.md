@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Elephant
 ---
-# [[5. Mechanics\Bestiary\Beast\Elephant.md|Elephant]]
+# [[5. Mechanics/Bestiary/Beast/Elephant.md|Elephant]]
 *Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*
 
 ```statblock

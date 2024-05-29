@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/veor
-- item/attunement/required
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "Crown of Lies"
+  - compendium/src/5e/veor
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - Crown of Lies
 ---
 # Crown of Lies
 *Wondrous Item, artifact (requires attunement)*  

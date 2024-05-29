@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Swarm of Maggots
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Maggots.md|Swarm of Maggots]]
+# [[5. Mechanics/Bestiary/Beast/Swarm Of Maggots.md|Swarm of Maggots]]
 *Source: Van Richten's Guide to Ravenloft p. 247*
 
 Base creatures are among the first to respond to sinister forces at work in a land. As nefarious powers grip an area, populations of maggots, scarabs, and similar scavenging insects explode and become aggressive predators. Roll on the Swarm Behavior table to see how such swarms might manifest.

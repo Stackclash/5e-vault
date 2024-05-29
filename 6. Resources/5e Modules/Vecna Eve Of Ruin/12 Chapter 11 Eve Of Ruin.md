@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/veor
-aliases: ["Chapter 11: Eve of Ruin"]
+  - compendium/src/5e/veor
+aliases:
+  - 'Chapter 11: Eve of Ruin'
 ---
 # Chapter 11: Eve of Ruin
 *Source: Vecna: Eve of Ruin* 

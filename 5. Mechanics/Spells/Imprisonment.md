@@ -11,7 +11,6 @@ aliases:
   - Imprisonment
 ---
 # Imprisonment
-%%-- Embedded content starts on the next line. --%%
 *9th-level, Abjuration*  
 
 - **Casting time:** 1 minute

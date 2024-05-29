@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Animated Armor
 ---
-# [[5. Mechanics\Bestiary\Construct\Animated Armor.md|Animated Armor]]
+# [[5. Mechanics/Bestiary/Construct/Animated Armor.md|Animated Armor]]
 *Source: Monster Manual p. 19, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
 
 This empty steel shell clamors as it moves, heavy plates banging and grinding against one another like the vengeful spirit of a fallen knight. Ponderous but persistent, this magical guardian is almost always a suit of plate armor.

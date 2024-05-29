@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Beast Lord
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Beast Lord.md|Beast Lord]]
+# [[5. Mechanics/Bestiary/Humanoid/Beast Lord.md|Beast Lord]]
 *Source: Strongholds and Followers p. 78*
 
 ```statblock

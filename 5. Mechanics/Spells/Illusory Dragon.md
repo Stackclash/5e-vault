@@ -10,7 +10,6 @@ aliases:
   - Illusory Dragon
 ---
 # Illusory Dragon
-%%-- Embedded content starts on the next line. --%%
 *8th-level, Illusion*  
 
 - **Casting time:** 1 action

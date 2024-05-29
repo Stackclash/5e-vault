@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Adult Topaz Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Topaz Dragon.md|Adult Topaz Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Adult Topaz Dragon.md|Adult Topaz Dragon]]
 *Source: Strongholds and Followers p. 218*
 
 The youngest species, the most enthusiastic about the world, the one you're most likely to meet, topaz dragons study magic obsessively, and their older kin consider this juvenile. When you're older you'll realize magic is just ambient interference from overlapping manifolds constrained by oblique functions. Well, poo on that, look, I made a fireball!

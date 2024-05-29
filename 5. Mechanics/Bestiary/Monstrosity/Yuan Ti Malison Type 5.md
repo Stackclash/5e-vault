@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Yuan-ti Malison (Type 5)
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Malison Type 5.md|Yuan-ti Malison (Type 5)]]
+# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Malison Type 5.md|Yuan-ti Malison (Type 5)]]
 *Source: Volo's Guide to Monsters p. 96*
 
 ## Yuan-ti Malison Variants: Types 4 and 5

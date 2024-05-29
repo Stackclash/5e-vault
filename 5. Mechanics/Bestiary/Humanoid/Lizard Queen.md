@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Lizard Queen
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Lizard Queen.md|Lizard Queen]]
+# [[5. Mechanics/Bestiary/Humanoid/Lizard Queen.md|Lizard Queen]]
 *Source: Monster Manual p. 205*
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.

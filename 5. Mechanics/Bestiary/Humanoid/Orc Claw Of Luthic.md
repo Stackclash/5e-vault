@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Orc Claw of Luthic
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Claw Of Luthic.md|Orc Claw of Luthic]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Claw Of Luthic.md|Orc Claw of Luthic]]
 *Source: Volo's Guide to Monsters p. 183*
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.

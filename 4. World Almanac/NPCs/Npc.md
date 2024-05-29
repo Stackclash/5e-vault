@@ -76,6 +76,7 @@ cssclasses: json5e-note
 - [[Lief Lipsiege.md|Lief Lipsiege]]
 - [[Lord Rall.md|Lord Rall]]
 - [[Lord Soth Dsotdq.md|Lord Soth]]
+- [[Lord Syuul.md|Lord Syuul]]
 - [[Ludmilla Vilisevic.md|Ludmilla Vilisevic]]
 - [[Luvash.md|Luvash]]
 - [[Lysan.md|Lysan]]

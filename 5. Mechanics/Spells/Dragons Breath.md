@@ -13,7 +13,6 @@ aliases:
   - Dragon's Breath
 ---
 # Dragon's Breath
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 bonus

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Illithilich
 ---
-# [[5. Mechanics\Bestiary\Undead\Illithilich.md|Illithilich]]
+# [[5. Mechanics/Bestiary/Undead/Illithilich.md|Illithilich]]
 *Source: Volo's Guide to Monsters p. 172*
 
 Mind flayers that pursue arcane magic are exiled as deviants, and for them no eternal communion with an elder brain is possible. The road to lichdom offers a way to escape the permanency of death, but that path is long and solitary. Alhoons are mind flayers that use a shortcut.

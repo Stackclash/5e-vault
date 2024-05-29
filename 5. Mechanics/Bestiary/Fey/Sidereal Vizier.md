@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Sidereal Vizier
 ---
-# [[5. Mechanics\Bestiary\Fey\Sidereal Vizier.md|Sidereal Vizier]]
+# [[5. Mechanics/Bestiary/Fey/Sidereal Vizier.md|Sidereal Vizier]]
 *Source: Strongholds and Followers p. 184*
 
 Val's magus, the Vizier is the most powerful mage in Arcadia. When a concordant petitions the Court for an ally, the Vizier reviews their case and chooses who among the Arcadians to send. Thus, when the Sidereal Vizier arrives on the battlefield, it is because he chose to come, deeming the situation dire enough, or the concordant pious enough, to attend to the matter personally.

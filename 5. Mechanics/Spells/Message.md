@@ -15,7 +15,6 @@ aliases:
   - Message
 ---
 # Message
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Transmutation*  
 
 - **Casting time:** 1 action

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/bam
-- monster/cr/10
-- monster/size/large
-- monster/type/aberration
+  - compendium/src/5e/bam
+  - monster/cr/10
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
-aliases: ["Eye Monger"]
+aliases:
+  - Eye Monger
 ---
-# [[5. Mechanics\Bestiary\Aberration\Eye Monger Bam.md|Eye Monger]]
+# [[5. Mechanics/Bestiary/Aberration/Eye Monger Bam.md|Eye Monger]]
 *Source: Boo's Astral Menagerie p. 21, Vecna: Eve of Ruin*
 
 ```statblock

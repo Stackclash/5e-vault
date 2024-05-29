@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/veor
-aliases: ["Chapter 10: The War of Pandesmos"]
+  - compendium/src/5e/veor
+aliases:
+  - 'Chapter 10: The War of Pandesmos'
 ---
 # Chapter 10: The War of Pandesmos
 *Source: Vecna: Eve of Ruin* 

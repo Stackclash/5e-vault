@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/12
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/veor
+  - monster/cr/12
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Granite Juggernaut"]
+aliases:
+  - Granite Juggernaut
 ---
-# [[5. Mechanics\Bestiary\Construct\Granite Juggernaut.md|Granite Juggernaut]]
+# [[5. Mechanics/Bestiary/Construct/Granite Juggernaut.md|Granite Juggernaut]]
 *Source: Vecna: Eve of Ruin p. 221*
 
 > [!quote]- A quote from Teythorn, Oerthian Adventurer  

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Radiant Idol
 ---
-# [[5. Mechanics\Bestiary\Celestial\Radiant Idol.md|Radiant Idol]]
+# [[5. Mechanics/Bestiary/Celestial/Radiant Idol.md|Radiant Idol]]
 *Source: Eberron: Rising from the Last War p. 308*
 
 A radiant idol was an angel that was banished from the celestial realm of Syrania and cast down to the Material Plane. One sin led to their fall: the desire to be worshiped by mortals. Now in the mortal realm, most radiant idols gather cults of devoted followers.

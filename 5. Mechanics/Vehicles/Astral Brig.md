@@ -10,7 +10,6 @@ aliases:
   - Astral Brig
 ---
 # Astral Brig
-%%-- Embedded content starts on the next line. --%%
 *Source: Mordenkainen's Tome of Foes p. 90*  
 
 

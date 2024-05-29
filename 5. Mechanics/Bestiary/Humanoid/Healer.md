@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Healer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Healer.md|Healer]]
+# [[5. Mechanics/Bestiary/Humanoid/Healer.md|Healer]]
 *Source: Strongholds and Followers p. 73*
 
 ```statblock

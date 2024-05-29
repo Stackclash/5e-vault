@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/veor
-aliases: ["Introduction: Danger to the Multiverse"]
+  - compendium/src/5e/veor
+aliases:
+  - 'Introduction: Danger to the Multiverse'
 ---
 # Introduction: Danger to the Multiverse
 *Source: Vecna: Eve of Ruin* 

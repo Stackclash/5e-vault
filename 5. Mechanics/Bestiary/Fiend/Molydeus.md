@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Molydeus
 ---
-# [[5. Mechanics\Bestiary\Fiend\Molydeus.md|Molydeus]]
+# [[5. Mechanics/Bestiary/Fiend/Molydeus.md|Molydeus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 184, Mordenkainen's Tome of Foes p. 134*
 
 The fearsome molydeus speaks for the demon lord it serves and enforces its master's will. This demon is 12 feet tall, and its bipedal body has a slavering wolfs head and a fanged serpent's head. Its demon lord can speak and see through the serpent head; this master also uses the molydeus to guard treasures, slay foes, and terrify troops into obedience.

@@ -12,7 +12,6 @@ aliases:
   - Dissonant Whispers
 ---
 # Dissonant Whispers
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Enchantment*  
 
 - **Casting time:** 1 action

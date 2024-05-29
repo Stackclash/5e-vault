@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Annis Hag
 ---
-# [[5. Mechanics\Bestiary\Fey\Annis Hag.md|Annis Hag]]
+# [[5. Mechanics/Bestiary/Fey/Annis Hag.md|Annis Hag]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 47, Volo's Guide to Monsters p. 159*
 
 Annis hags lair in mountains or hills. These hunchbacked and hump-shouldered hags are the largest and most physically imposing of their kind, standing eight feet tall. They can easily tear a fully grown person apart, but they love hunting the young, preferring their flesh above all others.

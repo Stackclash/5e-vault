@@ -14,7 +14,6 @@ aliases:
   - Transfusion
 ---
 # Transfusion
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Necromancy*  
 
 - **Casting time:** 1 action

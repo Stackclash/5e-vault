@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/8
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/veor
+  - monster/cr/8
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Star Angler"]
+aliases:
+  - Star Angler
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Star Angler.md|Star Angler]]
+# [[5. Mechanics/Bestiary/Monstrosity/Star Angler.md|Star Angler]]
 *Source: Vecna: Eve of Ruin p. 237*
 
 Distantly related to scavvers, star anglers are astral predators that resemble hulking, golden anglerfish with iridescent fins and tails. A star angler lacks eyes, and its hide is dotted with bioluminescent specks, allowing it to easily blend into the vast expanse of the Astral Plane. A star angler's signature lure emits an enchanting glow that has pulled many Wildspace explorers to their demises.

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/bam
-- monster/cr/13
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/bam
+  - monster/cr/13
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Lunar Dragon"]
+aliases:
+  - Adult Lunar Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Lunar Dragon Bam.md|Adult Lunar Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Adult Lunar Dragon Bam.md|Adult Lunar Dragon]]
 *Source: Boo's Astral Menagerie p. 34, Vecna: Eve of Ruin*
 
 ```statblock

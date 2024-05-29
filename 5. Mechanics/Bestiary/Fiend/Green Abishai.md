@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Green Abishai
 ---
-# [[5. Mechanics\Bestiary\Fiend\Green Abishai.md|Green Abishai]]
+# [[5. Mechanics/Bestiary/Fiend/Green Abishai.md|Green Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162, Vecna: Eve of Ruin*
 
 Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.

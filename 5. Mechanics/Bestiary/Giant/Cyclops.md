@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Cyclops
 ---
-# [[5. Mechanics\Bestiary\Giant\Cyclops.md|Cyclops]]
+# [[5. Mechanics/Bestiary/Giant/Cyclops.md|Cyclops]]
 *Source: Monster Manual p. 45, Vecna: Eve of Ruin. Available in the Basic Rules.*
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.

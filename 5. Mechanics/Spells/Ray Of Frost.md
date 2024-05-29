@@ -14,7 +14,6 @@ aliases:
   - Ray of Frost
 ---
 # Ray of Frost
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Evocation*  
 
 - **Casting time:** 1 action

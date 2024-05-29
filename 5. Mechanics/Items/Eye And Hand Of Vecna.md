@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "Eye and Hand of Vecna"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - Eye and Hand of Vecna
 ---
 # Eye and Hand of Vecna
 *Wondrous Item, artifact (requires attunement)*  

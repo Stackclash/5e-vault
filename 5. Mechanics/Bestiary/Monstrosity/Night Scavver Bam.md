@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/bam
-- monster/cr/5
-- monster/size/huge
-- monster/type/monstrosity
+  - compendium/src/5e/bam
+  - monster/cr/5
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Night Scavver"]
+aliases:
+  - Night Scavver
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Night Scavver Bam.md|Night Scavver]]
+# [[5. Mechanics/Bestiary/Monstrosity/Night Scavver Bam.md|Night Scavver]]
 *Source: Boo's Astral Menagerie p. 49, Vecna: Eve of Ruin*
 
 ```statblock

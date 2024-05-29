@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Nightmare
 ---
-# [[5. Mechanics\Bestiary\Fiend\Nightmare.md|Nightmare]]
+# [[5. Mechanics/Bestiary/Fiend/Nightmare.md|Nightmare]]
 *Source: Monster Manual p. 235, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD.*
 
 A nightmare appears in a cloud of roiling smoke, its mane, tail, and hooves wreathed in flame. The creature's unearthly black form moves with supernatural speed, vanishing in a cloud of brimstone as quickly as it appeared.

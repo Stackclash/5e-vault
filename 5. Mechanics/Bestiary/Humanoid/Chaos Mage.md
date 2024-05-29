@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Chaos Mage
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Chaos Mage.md|Chaos Mage]]
+# [[5. Mechanics/Bestiary/Humanoid/Chaos Mage.md|Chaos Mage]]
 *Source: Strongholds and Followers p. 79*
 
 ```statblock

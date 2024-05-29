@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Canoloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Canoloth.md|Canoloth]]
+# [[5. Mechanics/Bestiary/Fiend/Canoloth.md|Canoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 69, Mordenkainen's Tome of Foes p. 247*
 
 > [!quote]- A quote from Mordenkainen  

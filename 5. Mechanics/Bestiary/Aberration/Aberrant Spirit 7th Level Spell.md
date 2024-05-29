@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Aberrant Spirit (7th-level Spell)
 ---
-# [[5. Mechanics\Bestiary\Aberration\Aberrant Spirit 7th Level Spell.md|Aberrant Spirit (7th-level Spell)]]
+# [[5. Mechanics/Bestiary/Aberration/Aberrant Spirit 7th Level Spell.md|Aberrant Spirit (7th-level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock

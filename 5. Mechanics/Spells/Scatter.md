@@ -12,7 +12,6 @@ aliases:
   - Scatter
 ---
 # Scatter
-%%-- Embedded content starts on the next line. --%%
 *6th-level, Conjuration*  
 
 - **Casting time:** 1 action

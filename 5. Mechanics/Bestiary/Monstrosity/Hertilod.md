@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/17
-- monster/size/huge
-- monster/type/monstrosity
+  - compendium/src/5e/veor
+  - monster/cr/17
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Hertilod"]
+aliases:
+  - Hertilod
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Hertilod.md|Hertilod]]
+# [[5. Mechanics/Bestiary/Monstrosity/Hertilod.md|Hertilod]]
 *Source: Vecna: Eve of Ruin p. 223*
 
 > [!quote]- A quote from Melthena Vellaine, Wizard and Spelljammer  

@@ -15,7 +15,6 @@ aliases:
   - Arcane Eye
 ---
 # Arcane Eye
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Divination*  
 
 - **Casting time:** 1 action

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/veor
-aliases: ["Chapter 9: The Betrayer Revealed"]
+  - compendium/src/5e/veor
+aliases:
+  - 'Chapter 9: The Betrayer Revealed'
 ---
 # Chapter 9: The Betrayer Revealed
 *Source: Vecna: Eve of Ruin* 

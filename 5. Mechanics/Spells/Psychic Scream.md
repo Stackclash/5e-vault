@@ -13,7 +13,6 @@ aliases:
   - Psychic Scream
 ---
 # Psychic Scream
-%%-- Embedded content starts on the next line. --%%
 *9th-level, Enchantment*  
 
 - **Casting time:** 1 action

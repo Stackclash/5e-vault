@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/8
-- monster/size/huge
-- monster/type/undead
+  - compendium/src/5e/veor
+  - monster/cr/8
+  - monster/size/huge
+  - monster/type/undead
 statblock: inline
-aliases: ["Bone Roc"]
+aliases:
+  - Bone Roc
 ---
-# [[5. Mechanics\Bestiary\Undead\Bone Roc.md|Bone Roc]]
+# [[5. Mechanics/Bestiary/Undead/Bone Roc.md|Bone Roc]]
 *Source: Vecna: Eve of Ruin p. 211*
 
 A bone roc is a birdlike Undead that can incorporate the bones of multiple flying creatures. Despite their name, bone rocs aren't always reanimated skeletons of rocs. You may customize a bone roc by rolling on the Bone Roc Sources table to determine the type of bones used and how that affects its stat block.

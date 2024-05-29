@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Smoke Mephit
 ---
-# [[5. Mechanics\Bestiary\Elemental\Smoke Mephit.md|Smoke Mephit]]
+# [[5. Mechanics/Bestiary/Elemental/Smoke Mephit.md|Smoke Mephit]]
 *Source: Monster Manual p. 217, Curse of Strahd*
 
 ## Mephits

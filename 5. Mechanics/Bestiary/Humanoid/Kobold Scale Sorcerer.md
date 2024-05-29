@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Kobold Scale Sorcerer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kobold Scale Sorcerer.md|Kobold Scale Sorcerer]]
+# [[5. Mechanics/Bestiary/Humanoid/Kobold Scale Sorcerer.md|Kobold Scale Sorcerer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 165, Volo's Guide to Monsters p. 167*
 
 Kobold scale sorcerers have an innate talent for arcane magic, making them highly valuable members of their communities. These sorcerers typically fill the role of advisor, and when threatened, a scale sorcerer lashes out with colorful magic.

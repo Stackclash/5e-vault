@@ -10,7 +10,6 @@ aliases:
   - Prismatic Wall
 ---
 # Prismatic Wall
-%%-- Embedded content starts on the next line. --%%
 *9th-level, Abjuration*  
 
 - **Casting time:** 1 action

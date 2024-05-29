@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Skull Lord
 ---
-# [[5. Mechanics\Bestiary\Undead\Skull Lord.md|Skull Lord]]
+# [[5. Mechanics/Bestiary/Undead/Skull Lord.md|Skull Lord]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220, Mordenkainen's Tome of Foes p. 230*
 
 Skull lords have claimed vast regions of the Shadowfell as their dominion. From these blighted lands, they wage war against their rivals, commanding hordes of the undying in a bid to establish dominance. Yet skull lords always prove to be their own worst enemies; each is a combined being born from three hateful individuals, and they constantly plot against themselves.

@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Clockwork Oaken Bolter
 ---
-# [[5. Mechanics\Bestiary\Construct\Clockwork Oaken Bolter.md|Clockwork Oaken Bolter]]
+# [[5. Mechanics/Bestiary/Construct/Clockwork Oaken Bolter.md|Clockwork Oaken Bolter]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*
 
 No ordinary ballista, an oaken bolter is a Construct capable of striking at long distances. The bolts it launches can rend flesh, destroy armor, or drag enemies toward traps or melee-oriented clockworks—and at shorter ranges, burst with explosive force.

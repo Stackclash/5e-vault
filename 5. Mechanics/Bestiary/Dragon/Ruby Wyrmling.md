@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Ruby Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Ruby Wyrmling.md|Ruby Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Ruby Wyrmling.md|Ruby Wyrmling]]
 *Source: Strongholds and Followers p. 205*
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.

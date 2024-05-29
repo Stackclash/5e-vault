@@ -9,7 +9,6 @@ aliases:
   - Blade of Disaster
 ---
 # Blade of Disaster
-%%-- Embedded content starts on the next line. --%%
 *9th-level, Conjuration*  
 
 - **Casting time:** 1 bonus

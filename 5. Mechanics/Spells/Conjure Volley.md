@@ -10,7 +10,6 @@ aliases:
   - Conjure Volley
 ---
 # Conjure Volley
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Conjuration*  
 
 - **Casting time:** 1 action

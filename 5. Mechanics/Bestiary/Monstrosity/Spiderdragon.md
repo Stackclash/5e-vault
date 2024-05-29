@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/11
-- monster/size/huge
-- monster/type/monstrosity
+  - compendium/src/5e/veor
+  - monster/cr/11
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Spiderdragon"]
+aliases:
+  - Spiderdragon
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Spiderdragon.md|Spiderdragon]]
+# [[5. Mechanics/Bestiary/Monstrosity/Spiderdragon.md|Spiderdragon]]
 *Source: Vecna: Eve of Ruin p. 233*
 
 The terrors known as spiderdragons were first found in the deepest corners of the Underdark and trace their origins to black dragon wyrmlings who ate a steady diet of spiders. Though spiderdragons were not created in the Abyss or by Lolth's faithful, worshipers of the Spider Queen claim that spiderdragons are a gift from their deity, as spiderdragons are most numerous in Underdark areas that Lolth's faithful claim as their own. Lolth worshipers might employ spiderdragons as guards or treat them as venerated guests. The creatures aren't as powerful as their black dragon progenitors, though, and they often drain the enclaves' resources with their selfish demands.

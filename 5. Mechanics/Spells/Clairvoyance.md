@@ -18,7 +18,6 @@ aliases:
   - Clairvoyance
 ---
 # Clairvoyance
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Divination*  
 
 - **Casting time:** 10 minute

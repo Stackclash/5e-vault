@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/veor
-- monster/cr/7
-- monster/size/medium
-- monster/type/construct/warforged
+  - compendium/src/5e/veor
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/construct/warforged
 statblock: inline
-aliases: ["Blade Scout"]
+aliases:
+  - Blade Scout
 ---
-# [[5. Mechanics\Bestiary\Construct\Blade Scout.md|Blade Scout]]
+# [[5. Mechanics/Bestiary/Construct/Blade Scout.md|Blade Scout]]
 *Source: Vecna: Eve of Ruin p. 209*
 
 Blade scouts are responsible for exploring and charting Mournland regions not yet claimed by the Lord of Blades' legions.

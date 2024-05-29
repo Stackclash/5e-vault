@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/veor
-aliases: ["Chapter 7: Tomb of Wayward Souls"]
+  - compendium/src/5e/veor
+aliases:
+  - 'Chapter 7: Tomb of Wayward Souls'
 ---
 # Chapter 7: Tomb of Wayward Souls
 *Source: Vecna: Eve of Ruin* 

@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Orc Hand of Yurtrus
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Hand Of Yurtrus.md|Orc Hand of Yurtrus]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Hand Of Yurtrus.md|Orc Hand of Yurtrus]]
 *Source: Volo's Guide to Monsters p. 184*
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
