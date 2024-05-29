@@ -378,8 +378,12 @@ dv.table([
 ```dataviewjs
 const armor = dv.current().inventory.filter(inv => inv.type === 'Armor')
 
-dv.table(['Name', 'Armor Class'], armor.map(inv => {
-  return [inv.name, dv.page(inv.name.path).armorClass]
+dv.table(['Name', 'Equipped', 'Attuned', 'Armor Class'], armor.map(inv => {
+  return [
+    inv.name,
+    inv.equipped ? '✅' : '❌',
+    inv.attuned ? '✅' : '❌',
+    dv.page(inv.name.path).armorClass || inv.armorClass]
 }))
 ```
 
