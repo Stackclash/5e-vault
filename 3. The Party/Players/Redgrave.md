@@ -651,18 +651,16 @@ location:
 const result = []
 const spellLevels = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 dv.current().classSpells.map((classSpellConfig, classIndex) => {
-  const classSpellLevels = spellLevels.filter(level => classSpellConfig.spellSlots.max[level-1] > 0)
+  const classSpellLevels = spellLevels.filter(level => classSpellConfig.spellSlots.max[level-1] > 0 || level === 0)
   dv.header(3, classSpellConfig.name)
   classSpellLevels.forEach((level, levelIndex) => {
     let levelText = ''
     levelText += `>> ### ${level === 0 ? `Cantrips` : `Level ${level}`}\n`
-    // levelText += `>> **Slots: ${classSpellConfig.spellSlots.used[level-1]}/${classSpellConfig.spellSlots.max[level-1]}**\n`
-    // levelText += `>>\`INPUT[slider(minValue(0),maxValue(${classSpellConfig.spellSlots.max[levelIndex]})):classSpells[${classIndex}].spellSlots.used[${levelIndex}]]\`\n`
-//     levelText += `>>> [!checks|no-t]
-// >>>   - [ ] %%
-// >>>   - [ ] %%
-// >>\n`
-    levelText += `<input type="checkbox" disabled=true/>\n\n`
+    if (level > 0) {
+      const totalSlots = classSpellConfig.spellSlots.max[levelIndex]
+      const usedSlots = classSpellConfig.spellSlots.used[levelIndex]
+      levelText += `>> <input type="checkbox" disabled=true/><input type="checkbox" disabled=true/>\n>>\n`
+    }
     levelText += `>> ${classSpellConfig.spells.filter(spell => spell.level === (level)).map(spell => spell.name).join(`\n>>\n>> `)}`
     result.push(levelText)
   })
