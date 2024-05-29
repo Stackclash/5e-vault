@@ -658,7 +658,12 @@ dv.current().classSpells.map((classSpellConfig, classIndex) => {
     levelText += `>> ### ${level === 0 ? `Cantrips` : `Level ${level}`}\n`
     // levelText += `>> **Slots: ${classSpellConfig.spellSlots.used[level-1]}/${classSpellConfig.spellSlots.max[level-1]}**\n`
     // levelText += `>>\`INPUT[slider(minValue(0),maxValue(${classSpellConfig.spellSlots.max[levelIndex]})):classSpells[${classIndex}].spellSlots.used[${levelIndex}]]\`\n`
-    console.log(`>> ${classSpellConfig.spells.filter(spell => spell.level === (level)).map(spell => spell.name).join(`\n>>\n>> `)}`)
+    levelText += `>>> [!checks|no-t]
+>>> - GROUP
+>>>
+>>> - [ ] %% %%
+>>> - [ ] %% %%
+>>\n`
     levelText += `>> ${classSpellConfig.spells.filter(spell => spell.level === (level)).map(spell => spell.name).join(`\n>>\n>> `)}`
     result.push(levelText)
   })
