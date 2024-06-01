@@ -571,7 +571,7 @@ condition:
 location:
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
-## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name, '(', dv.current().party, ')'].join(' ')`
+## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name, ' (', dv.current().party, ')'].join(' ')`
 > [!infobox|left clear n-th]
 > 
 > |||
@@ -694,7 +694,6 @@ dv.current().classSpells.map((classSpellConfig, classIndex) => {
 dv.paragraph(`> [!cards|wfull]\n${result.join(`\n>\n`)}`)
 ```
 
-<!-- Need to add columns for equipped/attuned -->
 ## Weapons
 ```dataviewjs
 const weapons = dv.current().inventory.filter(inv => inv.type === 'Weapon')
@@ -720,8 +719,6 @@ dv.table([
 }))
 ```
 
-<!-- Need to add columns for equipped/attuned -->
-<!-- Add armorClass from Beyond when can't find in notes -->
 ## Armor
 ```dataviewjs
 const armor = dv.current().inventory.filter(inv => inv.type === 'Armor')
@@ -758,15 +755,6 @@ dv.table(['Name', 'Equipped', 'Attuned', 'Armor Class'], armor.map(inv => {
 ## Short-term
 
 ## Long-term
-
-# History
-## Backstory
-
-## Religion
-
-## Enemies
-
-## Allies
 
 # DM Notes
 ## Additional Notes From Players 
