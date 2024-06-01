@@ -1,4 +1,5 @@
 const tp = app.plugins.getPlugin("templater-obsidian").templater.current_functions_object
+console.log(tp)
 
 const build_object_yaml = (object, spaces, config, startWithNewLine) => {
   const result = Object.entries(object).reduce((accum, [key, value]) => {
