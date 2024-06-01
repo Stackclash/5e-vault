@@ -571,7 +571,7 @@ condition:
 location:
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
-## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')`
+## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name, '(', dv.current().party, ')'].join(' ')`
 > [!infobox|left clear n-th]
 > 
 > |||
