@@ -1,8 +1,9 @@
 const dv = app.plugins.getPlugin("dataview").api
 const path = require('path')
-const MiniSearch = require(path.join(app.vault.adapter.getBasePath(), 'node_modules/minisearch/dist/es5m/index.js'))
+const MiniSearch = require(path.join(app.vault.adapter.getBasePath(), 'node_modules/minisearch/dist/cjs/index.cjs'))
 
 module.exports = (text, searchPath) => {
+    console.log(text, searchPath)
     // const searchTerms = text.replace(/[\(\)']/gm,'').replace(/s$/, '').split(' ')
     // const scores = dv.pages(`"${path}"`).array().reduce((accum, page) => {
     //     let score = 0
@@ -23,7 +24,7 @@ module.exports = (text, searchPath) => {
 
     //     return accum
     // }, []).sort((a, b) => b.score - a.score)
-    const pages = dv.pages(`"${searchPath}"`).array().map(p => ({name: p.file.name, path: p.file.path}))
+    const pages = dv.pages(`"${searchPath}"`).array().map((p,i) => ({id: i,name: p.file.name, path: p.file.path}))
     const minisearch = new MiniSearch({
         fields: ['name'],
         storeFields: ['name', 'path']
