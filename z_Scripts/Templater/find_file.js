@@ -1,5 +1,6 @@
 const dv = app.plugins.getPlugin("dataview").api
-const MiniSearch = require('minisearch')
+const path = require('path')
+const MiniSearch = require(path.join(app.vault.adapter.getBasePath(), 'node_modules/minisearch/dist/es5m/index.js'))
 
 module.exports = (text, searchPath) => {
     // const searchTerms = text.replace(/[\(\)']/gm,'').replace(/s$/, '').split(' ')
