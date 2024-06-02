@@ -31,8 +31,9 @@ module.exports = (text, searchPath) => {
     })
     minisearch.addAll(pages)
 
-    const result = minisearch.search(text)
-    console.log(text, result)
+    const results = minisearch.search(text)
+    console.log(text, results)
+    return `[[${results[0].path}|${results[0].name}]]`
     // return scores[0].score === 0 || scores.filter(item => item.score === scores[0].score).length > 5 || scores[0].value.file.name.length > text.length * 2 ?
     //     text :
     //     `[[${scores[0].value.file.path}|${scores[0].value.file.name}]]`
