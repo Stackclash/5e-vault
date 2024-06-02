@@ -451,7 +451,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Artisans Tools.md|Artisans Tools]]"
+  - name: "[[5. Mechanics/Items/Smiths Tools.md|Smiths Tools]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
@@ -539,7 +539,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Artisans Tools.md|Artisans Tools]]"
+  - name: "[[5. Mechanics/Items/Masons Tools.md|Masons Tools]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
@@ -550,7 +550,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Artisans Tools.md|Artisans Tools]]"
+  - name: "[[5. Mechanics/Items/Tinkers Tools.md|Tinkers Tools]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1

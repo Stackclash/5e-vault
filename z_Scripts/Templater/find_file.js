@@ -24,9 +24,12 @@ module.exports = (text, searchPath) => {
 
     //     return accum
     // }, []).sort((a, b) => b.score - a.score)
-    const pages = dv.pages(`"${searchPath}"`).array().map((p,i) => ({id: i,name: p.file.name, path: p.file.path}))
+    const pages = dv.pages(`"${searchPath}"`).array().map((p,i) => {
+        console.log(p.aliases)
+        return {id: i,name: p.file.name, path: p.file.path, alias: p.aliases && p.aliases.length ? p.aliases[0] : ''}
+    })
     const minisearch = new MiniSearch({
-        fields: ['name'],
+        fields: ['name', 'alias'],
         storeFields: ['name', 'path']
     })
     minisearch.addAll(pages)
