@@ -1,4 +1,5 @@
 const dv = app.plugins.getPlugin("dataview").api
+const minisearch = require('minisearch')
 
 module.exports = (text, path) => {
     const searchTerms = text.replace(/[\(\)']/gm,'').replace(/s$/, '').split(' ')
