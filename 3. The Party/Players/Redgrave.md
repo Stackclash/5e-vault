@@ -742,7 +742,8 @@ dv.table(['Name', 'Equipped', 'Attuned', 'Armor Class'], armor.map(inv => {
 > AND inventory.type != "Weapon"
 > ```
 
-
+# Background
+`INPUT[textArea(title(Backstory)):background.backstory]`
 
 # Personality
 ## Loves
