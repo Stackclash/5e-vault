@@ -570,6 +570,13 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 condition:
 location:
 ---
+
+> [!infobox|n-th center wm-sm]
+> ### Status
+> |||||
+> |:---:|:---:|:---:|:---:|
+> | **Party** | `$=dv.current().party` | **Location** | `$=dv.current().location` |
+
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')`
 > [!infobox|left clear n-th]
@@ -581,7 +588,7 @@ location:
 > | **Initiative** | `$=dv.current().modifier` |
 > | **Speed** | `$=dv.current().speed` |
 
-> [!columns|no-t 3]
+> [!columns|no-t]
 > 
 >> [!blank]
 >> ### Ability Scores
@@ -599,12 +606,6 @@ location:
 >> | **Dexterity** | `$=dv.current().savingThrows.dexterity.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.dexterity.value` | **Wisdom** | `$=dv.current().savingThrows.wisdom.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.wisdom.value` |
 >> | **Constitution** | `$=dv.current().savingThrows.constitution.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.constitution.value` | **Charisma** | `$=dv.current().savingThrows.charisma.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.charisma.value` |
 >> **Notes**: `$=dv.current().savingThrows.notes`
->
->> [!blank]
->> ### Status
->> |||
->> |:---:|:---:|
->> | **Party** | `$=dv.current().party` |
 
 > [!infobox|wfull]
 > ## Skills
