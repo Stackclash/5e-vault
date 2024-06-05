@@ -9,7 +9,6 @@ if (tp.config.run_mode !== 1) {
     
     if (selectedNpc) {
         let selectedNpcFile = tp.file.find_tfile(selectedNpc)
-        console.log(selectedNpc, selectedNpcFile)
 
         app.fileManager.processFrontMatter(tp.config.active_file, (fm) => {
             if (Array.isArray(fm.relationships)) {

@@ -566,13 +566,26 @@ condition:
 location:
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
-## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')`
+## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[dndb-update]`
+```meta-bind-button
+style: primary
+label: Update From DnD Beyond
+id: dndb-update
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: dnd
+  - type: input
+    str: update
+```
 
 > [!infobox|n-th center wm-sm]
 > ### Status
 > |||||||
 > |:---:|:---:|:---:|:---:|:---:|:---:|
-> | **`BUTTON[change-party]`** | `$=dv.current().party` | **Condition** | `$=dv.current().condition` | **Location** | `$=dv.current().location` |
+> | **`BUTTON[change-party]`** | `$=dv.current().party` | **`BUTTON[change-condition]`** | `$=dv.current().condition` | **`BUTTON[change-location]`** | `$=dv.current().location` |
 ```meta-bind-button
 style: primary
 label: Party
@@ -585,6 +598,32 @@ actions:
     str: change
   - type: input
     str: party
+```
+```meta-bind-button
+style: primary
+label: Condition
+id: change-condition
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: change
+  - type: input
+    str: condition
+```
+```meta-bind-button
+style: primary
+label: Location
+id: change-location
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: change
+  - type: input
+    str: location
 ```
 
 > [!infobox|left clear n-th]
