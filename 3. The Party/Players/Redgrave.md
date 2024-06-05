@@ -572,7 +572,20 @@ location:
 > ### Status
 > |||||||
 > |:---:|:---:|:---:|:---:|:---:|:---:|
-> | **Party** | `$=dv.current().party` | **Condition** | `$=dv.current().condition` | **Location** | `$=dv.current().location` |
+> | **`BUTTON[change-party]`** | `$=dv.current().party` | **Condition** | `$=dv.current().condition` | **Location** | `$=dv.current().location` |
+```meta-bind-button
+style: primary
+label: Party
+id: change-party
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: change
+  - type: input
+    str: party
+```
 
 > [!infobox|left clear n-th]
 > 
