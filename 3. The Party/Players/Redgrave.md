@@ -581,9 +581,9 @@ location:
 > | **Initiative** | `$=dv.current().modifier` |
 > | **Speed** | `$=dv.current().speed` |
 
-> [!statblocks|columns]
+> [!column]
 > 
->> [!blank]
+>> [!note]
 >> ## Ability Scores
 >> ||| Mod ||| Mod |
 >> |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -599,6 +599,12 @@ location:
 >> | **Dexterity** | `$=dv.current().savingThrows.dexterity.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.dexterity.value` | **Wisdom** | `$=dv.current().savingThrows.wisdom.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.wisdom.value` |
 >> | **Constitution** | `$=dv.current().savingThrows.constitution.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.constitution.value` | **Charisma** | `$=dv.current().savingThrows.charisma.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.charisma.value` |
 >> **Notes**: `$=dv.current().savingThrows.notes`
+
+> [!infobox|right]
+> # Status
+> |||
+> |:---:|:---:|
+> | **Party** | `$=dv.current().party` |
 
 > [!infobox|wfull]
 > ## Skills
