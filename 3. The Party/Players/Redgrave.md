@@ -571,7 +571,7 @@ condition:
 location:
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
-## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name, ' (', dv.current().party, ')'].join(' ')`
+## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')`
 > [!infobox|left clear n-th]
 > 
 > |||
@@ -747,19 +747,16 @@ dv.table(['Name', 'Equipped', 'Attuned', 'Armor Class'], armor.map(inv => {
 `$=dv.current().background.background.description`
 ## Backstory
 `$=dv.current().background.backstory`
+## Organization
+`$=dv.current().background.organizations`
+## Allies
+`$=dv.current().background.allies`
+## Enemies
+`$=dv.current().background.enemies`
 
-# Personality
-## Loves
-
-## Hates
-
-# Goals
-## Short-term
-
-## Long-term
-
-# DM Notes
-## Additional Notes From Players 
+# Notes
+## Additional Notes From Players
+`$=dv.current().background.notes`
 
 ## Hidden Details
 

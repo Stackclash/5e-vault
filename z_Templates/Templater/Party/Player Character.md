@@ -227,20 +227,21 @@ dv.table(['Name', 'Equipped', 'Attuned', 'Armor Class'], armor.map(inv => {
 > AND inventory.type != "Weapon"
 > ```
 
+# Background
+## Background (`$=dv.current().background.background.name`)
+`$=dv.current().background.background.description`
+## Backstory
+`$=dv.current().background.backstory`
+## Organization
+`$=dv.current().background.organizations`
+## Allies
+`$=dv.current().background.allies`
+## Enemies
+`$=dv.current().background.enemies`
 
-
-# Personality
-## Loves
-
-## Hates
-
-# Goals
-## Short-term
-
-## Long-term
-
-# DM Notes
-## Additional Notes From Players 
+# Notes
+## Additional Notes From Players
+`$=dv.current().background.notes`
 
 ## Hidden Details
 
