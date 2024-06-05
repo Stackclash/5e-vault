@@ -21,7 +21,10 @@ if (tp.config.run_mode !== 1) {
     await character.initialize()
 
     app.fileManager.processFrontMatter(tp.config.active_file, (fm) => {
+        console.log(character)
         fm = character
+    }).catch(e => {
+        console.log(e)
     })
 }
 -%>
