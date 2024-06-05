@@ -561,24 +561,19 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-ideal: 
-bond: 
-flaw: 
-likes: 
-dislikes: 
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 condition:
 location:
 ---
+`$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
+## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')`
 
 > [!infobox|n-th center wm-sm]
 > ### Status
-> |||||
-> |:---:|:---:|:---:|:---:|
-> | **Party** | `$=dv.current().party` | **Location** | `$=dv.current().location` |
+> |||||||
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | **Party** | `$=dv.current().party` | **Condition** | `$=dv.current().condition` | **Location** | `$=dv.current().location` |
 
-`$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
-## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')`
 > [!infobox|left clear n-th]
 > 
 > |||

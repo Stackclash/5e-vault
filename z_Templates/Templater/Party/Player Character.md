@@ -46,17 +46,19 @@ raceSpells: <% tp.user.build_yaml(character.spells.race, 2) %>
 classSpells: <% tp.user.build_yaml(character.spells.class, 2, {name: '5. Mechanics/Spells'}) %>
 currencies: <% tp.user.build_yaml(character.currencies, 2) %>
 inventory: <% tp.user.build_yaml(character.inventory, 2, {name: '5. Mechanics/Items'}) %>
-ideal: 
-bond: 
-flaw: 
-likes: 
-dislikes: 
 party: "[[<% selectedParty.join('|') %>]]"
 condition:
 location:
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
-## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name, ' (', dv.current().party, ')'].join(' ')`
+## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')`
+
+> [!infobox|n-th center wm-sm]
+> ### Status
+> |||||||
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | **Party** | `$=dv.current().party` | **Condition** | `$=dv.current().condition` | **Location** | `$=dv.current().location` |
+
 > [!infobox|left clear n-th]
 > 
 > |||
