@@ -744,8 +744,9 @@ dv.table(['Name', 'Equipped', 'Attuned', 'Armor Class'], armor.map(inv => {
 
 # Background
 ## Backstory
-`INPUT[textArea:background.backstory]`
-## 
+`$=dv.current().background.backstory`
+## Background (`$=dv.current().background.background.name`)
+`$=dv.current().background.background.description`
 
 # Personality
 ## Loves
