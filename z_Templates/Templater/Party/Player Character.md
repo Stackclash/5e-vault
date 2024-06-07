@@ -1,7 +1,7 @@
 <%*
 const dv = app.plugins.getPlugin("dataview").api
 
-const currentPage = dv.page(tp.config.active_file.path)
+const currentPage = dv.page((tp.config.active_file && tp.config.active_file.path) || '') || {}
 let selectedParty
 let dndBeyondInfo
 console.log(currentPage)
@@ -33,6 +33,7 @@ const filePath = '3. The Party/Players/' + character.name
 if (tp.file.exists(`${filePath}.md`)) {
   await app.vault.delete(tp.file.find_tfile(currentPage.file.name))
 }
+console.log(character)
 await tp.file.move('3. The Party/Players/' + character.name)
 -%>
 ---
