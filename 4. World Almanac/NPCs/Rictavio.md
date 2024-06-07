@@ -118,9 +118,7 @@ actions:
   - type: command
     command: templater-obsidian:insert-templater
   - type: input
-    str: add
-  - type: input
-    str: relationship
+    str: "Add Relationship"
 ```
 ```meta-bind-button
 style: destructive
