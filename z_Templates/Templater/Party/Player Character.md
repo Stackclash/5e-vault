@@ -4,10 +4,11 @@ const dv = app.plugins.getPlugin("dataview").api
 const currentPage = dv.page(tp.config.active_file.path)
 let selectedParty
 let dndBeyondInfo
+console.log(currentPage)
 
 if (!currentPage.party) {
   let parties = dv.pages('"3. The Party/Parties"')
-  selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => [p.file.path, p.file.name]), false, "What party is the character a part of?")
+  selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => `[[${p.file.path}|${p.file.name}]]`), false, "What party is the character a part of?")
 } else {
   selectedParty = currentPage.party.toString()
 }
@@ -30,7 +31,7 @@ await character.initialize()
 const filePath = '3. The Party/Players/' + character.name
 
 if (tp.file.exists(`${filePath}.md`)) {
-  await app.vault.delete(currentPage)
+  await app.vault.delete(tp.file.find_tfile(currentPage.file.name))
 }
 await tp.file.move('3. The Party/Players/' + character.name)
 -%>
@@ -64,7 +65,7 @@ raceSpells: <% tp.user.build_yaml(character.spells.race, 2) %>
 classSpells: <% tp.user.build_yaml(character.spells.class, 2, {name: '5. Mechanics/Spells'}) %>
 currencies: <% tp.user.build_yaml(character.currencies, 2) %>
 inventory: <% tp.user.build_yaml(character.inventory, 2, {name: '5. Mechanics/Items'}) %>
-party: "[[<% selectedParty.join('|') %>]]"
+party: "<% selectedParty%>"
 condition:
 location:
 ---
