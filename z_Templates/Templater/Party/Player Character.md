@@ -26,6 +26,12 @@ if (isNaN(dndBeyondInfo)) {
 }
 const character = new tp.user.dndBeyondCharacter(dndBeyondId)
 await character.initialize()
+
+const filePath = '3. The Party/Players/' + character.name
+
+if (tp.file.exists(`${filePath}.md`)) {
+  await app.vault.delete(currentPage)
+}
 await tp.file.move('3. The Party/Players/' + character.name)
 -%>
 ---
