@@ -1,5 +1,6 @@
 <%*
 const dv = app.plugins.getPlugin("dataview").api
+console.log(tp.config.active_file)
 
 let parties = dv.pages('"3. The Party/Parties"')
 let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => [p.file.path, p.file.name]), false, "What party is the character a part of?")
