@@ -566,7 +566,18 @@ condition:
 location:
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
-## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')`
+## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
+```meta-bind-button
+style: primary
+label: Update From DnD Beyond
+id: updateDnDBeyond
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:create-new-note-from-template
+  - type: input
+    str: "player character"
+```
 
 > [!infobox|n-th center wm-sm]
 > ### Status
