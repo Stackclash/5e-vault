@@ -4,12 +4,10 @@ const currentFile = dv.page((tp.config.active_file && tp.config.active_file.path
 const currentTFile = tp.file.find_tfile(currentFile.file && currentFile.file.name)
 let selectedParty
 let dndBeyondInfo
-console.log(tp.config.run_mode)
 
-if (tp.config.run_mode === 1) {
-  selectedParty = currentFile.party.toString()
+if (currentFile) {
+  selectedParty = currentFile.party && currentFile.party.toString()
   dndBeyondInfo = currentFile.url
-  app.vault.modify(currentTFile, '')
 }
 
 if (!selectedParty) {
@@ -32,9 +30,10 @@ await character.initialize()
 
 const filePath = '3. The Party/Players/' + character.name
 
-if (tp.config.run_mode !== 1) {
-  await tp.file.move('3. The Party/Players/' + character.name)
+if (await tp.file.exists(`${filePath}.md`) && currentTFile) {
+  await app.vault.delete(currentTFile)
 }
+await tp.file.move('3. The Party/Players/' + character.name)
 -%>
 ---
 obsidianUIMode: preview
