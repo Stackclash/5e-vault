@@ -1,21 +1,21 @@
 <%*
 const dv = app.plugins.getPlugin("dataview").api
-
-const currentPage = dv.page((tp.config.active_file && tp.config.active_file.path) || '') || {}
 let selectedParty
 let dndBeyondInfo
 
-if (!currentPage.party) {
-  let parties = dv.pages('"3. The Party/Parties"')
-  selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => `[[${p.file.path}|${p.file.name}]]`), false, "What party is the character a part of?")
-} else {
+if (tp.config.run_mode === 1) {
+  const currentPage = dv.page((tp.config.active_file && tp.config.active_file.path) || '') || {}
   selectedParty = currentPage.party.toString()
+  dndBeyondInfo = currentPage.url
 }
 
-if (!currentPage.url) {
+if (!selectedParty) {
+  let parties = dv.pages('"3. The Party/Parties"')
+  selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => `[[${p.file.path}|${p.file.name}]]`), false, "What party is the character a part of?")
+}
+
+if (!dndBeyondInfo) {
   dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
-} else {
-  dndBeyondInfo = currentPage.url
 }
 
 let dndBeyondId
