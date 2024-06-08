@@ -1,29 +1,29 @@
 ---
 obsidianUIMode: preview
 statblock: true
-name: Redgrave
+name: Seluvis Felo'melorn
 level: 6
-ac: 23
-hp: 45
-modifier: -1
+ac: 19
+hp: 47
+modifier: 3
 proficiency: 3
-url: https://dndbeyond.com/characters/29682199
-image: https://www.dndbeyond.com/avatars/10846/680/1581111423-29682199.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
-race: "[[5. Mechanics/Races/Warforged.md|Warforged]]"
-alignment: Neutral Good
+url: https://dndbeyond.com/characters/103214475
+image: https://www.dndbeyond.com/avatars/35471/817/1581111423-103214475.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+race: "[[5. Mechanics/Races/Elf High.md|Elf High]]"
+alignment: undefined
 description:
   gender: ""
   age: ""
   hair: ""
-  eyes: Emeralds
-  skin: Metallic with gold engraving
-  height: 6'5"
-  weight: 300
+  eyes: ""
+  skin: ""
+  height: ""
+  weight: ""
   size: Medium
 passives:
-  perception: 17
-  investigation: 11
-  insight: 17
+  perception: 14
+  investigation: 17
+  insight: 14
 proficiencies:
   armor:
     - Light Armor
@@ -33,167 +33,115 @@ proficiencies:
   weapons:
     - Simple Weapons
   tools:
-    - Mason's Tools
-    - Smith's Tools
+    - Thieves' Tools
     - Tinker's Tools
+    - Smith's Tools
+    - Cartographer's Tools
   languages:
     - Common
-    - Draconic
     - Elvish
+    - Dwarvish
+    - Halfling
 speed: 30
 defences:
   immunities:
-    - disease
+    - magical-sleep
   resistances:
-    - poison
-    - fire
+    - all
 background:
   background:
     name: Guild Artisan / Guild Merchant
     description: <p>You are a member of an artisan’s guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.</p>
-  backstory: |
-    Forged in lightning and blood by the dark wizard Eludrax, "Eight" was born. The wizard's thirst for eternal life led him not to the cultivation of a new fleshy body, but a perfect one of his own design.
-    Using ancient techniques from lands quite distant, Eludrax forged machines for his allies war efforts. Nothing, however, could keep him from his true life's work.
-
-    ---
-
-    It was the eighth of Eludrax's shield guardians, and thus aptly named. 
-
-    Most of of the Lich's constructs bore no soul of their own, merely mindless automatons for his own bidding. He would often pluck lost souls from Limbo and twist and torture them to suit his machinations. 
-
-    But the eight were different. They were his personal bodyguards, improved physically in every way, and candidates for his transference of life. Most importantly, they were devoid of soul.
-
-    At the aging dark wizard's command the constructs committed unspeakable atrocities. They were the harbingers of his dirty work, and Eludrax was not above committing horrors in the name of his research.
-
-    Eight was his magnum opus, and thus his intended vessel. His plan to transfer his own soul into the guardian was made haste, however, as Eludrax awoke one night to an adventurer's group tearing through his laboratory. He commanded Eight to follow, sending the other seven to combat the coming threat. 
-
-    He clamored as fast as he could to the dark crystal machine intended to bind his soul into his vessel,  and spilled his blood on the dais with a quick slice to the palm. He grasped Eight's cool metal hand, and forced it onto the crystal. Thus, the dark ritual began. Eludrax's eyes went white as his spirit was ripped from his body and absorbed into the orb. 
-
-    What he miscalculated, however, was that a soul already existed inside his creation. It was faint, beaten down by years of cruelty and transgression, but there nonetheless.
-
-    The Lich's powerful spirit growled menacingly as it reached out to pluck the soul from Eight. Before he could, however, a burst of radiance appeared to encapsulate the soul. Eludrax's fury burned hot, but was not strong enough to pierce the veil of light. 
-
-    Time was not on the dark wizard's side. The party that'd breached his laboratory had finally made it into this sanctum. The group exchanged quick words, deliberating on their plan of action. Before their sorcerer could cry out, however, the paladin raised her mace and brought it crashing down on the large swirling crystal. As it shattered, the wizard's soul was cast into limbo, spiraling out of the material plane with a guttural scream.
-
-    "Am I...?" Eight spoke aloud with a sound of relief, before collapsing to the cold stone floor with a hearty thud. 
-
-    ---
-
-    Eight awoke to the stench of burning and the feel of a warm hand against its cold metal chest. In the distance the tower it'd known as its home, the place of its creation, was fervently ablaze.
-
-    "Can it understand us?" One of the adventurers pondered out loud. 
-    Eight nodded in response 
-
-    The woman whose hand was pulsating over it with life magic leaned in a bit closer to its face.
-    "So, do you have a name?" She asked in a soft voice, curiously, as if she were talking to a child.
-
-    Eight looked down at the ground, then back at the burning spire behind him. 
-
-    "Redgrave," it muttered quietly, then returned its gaze to hers. 
-
-    "My name is Redgrave."
-
-    "Like that tower?" One of the men in the group asked questioningly. 
-
-    "Yes," the forged known formerly as Eight responded.
-    "So that I may never forget what happened here." 
-  organizations: |+
-    Forgemaster of Gond
-    Cleric of The Watchers over the Fallen
-    Artisan's Guild Adept
-
+  backstory: ""
+  organizations: "I.T.E.M.S: International Traders Emporium Merchant Services - Current guild."
   allies: ""
   enemies: ""
   notes: |+
-    Since its severing from Eludrax, Redgrave has traveled the countryside with wanderlust. It was eventually taken in by an artisan's guild, and trained even further by their master craftsmen. It was quite gifted in the trade, fitting in relation to its own creation. 
+    Day 3: "Proof of Concept" - Weapon Construction Logs
+     Redgrave and I have begun working on a device to focus magic projectiles through.  The device combined with my magical infusion would be able to be more compact than this crossbow I currently use.  (At this moment Yevelda is entering a drinking contest with a half elf for his hat, we'll see who wins.  Results are in!  She reached for his hat while passing out )  The device maybe able to be able to be attached to these Gauntlets.
 
-    It found its calling in reverence to Gond, father of all smiths. It felt if nothing else, it owed its very existence to the Wonderbringer. It took solace in the fact that every one of its crafts gained it favor with its patron.
 
-    Like its former master it was driven to create automatons. Its creations however were on a much smaller scale. It would often forge clockwork toys or pets, and funded its travels by selling them to wealthy families.
 
-    Its smithing work in creating and embellishing arms and armor was also quite valued. No matter where it traveled, it was often easy to find work in its trade. 
+    Day 5: Back in the bar continuing work with Redgrave.  The rest of the party has ventured out in a love mission for Yevelda.   Progress is slow...
 
-    Redgrave had avoided martial combat for years,  mostly because of its dark past. Though as fate would have it, it eventually came to find its place as the quartermaster for a group of battle healers known as the Watchers over the Fallen. It was they who taught Redgrave to embrace the light that'd been within it since the beginning of its creation. They would eventually teach it how to use that light, its god's favor, and wield it like a weapon with one hand and a blessing with the other. Through the radiance of Helm, The Vigilant One, it would be a stalwart shield to his allies.
-
-    Redgrave eventually parted ways from the ranks of the Watchers, choosing to forge its own path. Its life's work was to atone for the atrocities it partook in during its servitude to the dark wizard. With peace in the land quickly deteriorating, and dark forces starting to rise once more, Redgrave set out on a new direction. It was going to take the fight to those who subjugate others, and strike them down with the divine wrath granted to it by the gods. 
 
 
 classes:
-  - name: "[[5. Mechanics/Classes/Cleric.md|Cleric]]"
-    subClass: "[[5. Mechanics/Classes/Cleric Forge Domain.md|Cleric Forge Domain]]"
+  - name: "[[5. Mechanics/Classes/Artificer.md|Artificer]]"
+    subClass: "[[5. Mechanics/Classes/Artificer Armorer.md|Artificer Armorer]]"
     level: 6
 abilityScores:
   strength:
-    value: 15
-    modifier: 2
-  dexterity:
     value: 8
     modifier: -1
+  dexterity:
+    value: 16
+    modifier: 3
   constitution:
-    value: 14
-    modifier: 2
-  intelligence:
-    value: 12
+    value: 13
     modifier: 1
-  wisdom:
+  intelligence:
     value: 18
     modifier: 4
+  wisdom:
+    value: 12
+    modifier: 1
   charisma:
     value: 10
     modifier: 0
 savingThrows:
   strength:
-    value: 3
-    baseValue: 2
-    proficiency: false
-  dexterity:
-    value: 0
-    baseValue: -1
-    proficiency: false
-  constitution:
-    value: 3
-    baseValue: 2
-    proficiency: false
-  intelligence:
-    value: 2
-    baseValue: 1
-    proficiency: false
-  wisdom:
-    value: 8
-    baseValue: 4
-    proficiency: true
-  charisma:
-    value: 4
-    baseValue: 0
-    proficiency: true
-  notes:
-    - Advantage Against Poison
-skills:
-  acrobatics:
     value: -1
     baseValue: -1
+    proficiency: false
+  dexterity:
+    value: 3
+    baseValue: 3
+    proficiency: false
+  constitution:
+    value: 4
+    baseValue: 1
+    proficiency: true
+  intelligence:
+    value: 7
+    baseValue: 4
+    proficiency: true
+  wisdom:
+    value: 1
+    baseValue: 1
+    proficiency: false
+  charisma:
+    value: 0
+    baseValue: 0
+    proficiency: false
+  notes:
+    - Advantage against being charmed
+skills:
+  acrobatics:
+    value: 3
+    baseValue: 3
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   animal-handling:
-    value: 4
-    baseValue: 4
-    proficiency: false
-    expertise: false
-    disadvantage: false
-    advantage: false
-  arcana:
     value: 1
     baseValue: 1
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
+  arcana:
+    value: 4
+    baseValue: 4
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
   athletics:
-    value: 5
-    baseValue: 2
-    proficiency: true
+    value: -1
+    baseValue: -1
+    proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
@@ -205,15 +153,15 @@ skills:
     disadvantage: false
     advantage: false
   history:
-    value: 1
-    baseValue: 1
+    value: 4
+    baseValue: 4
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   insight:
-    value: 7
-    baseValue: 4
+    value: 4
+    baseValue: 1
     proficiency: true
     expertise: false
     disadvantage: false
@@ -226,29 +174,29 @@ skills:
     disadvantage: false
     advantage: false
   investigation:
-    value: 1
-    baseValue: 1
-    proficiency: false
+    value: 7
+    baseValue: 4
+    proficiency: true
     expertise: false
     disadvantage: false
-    advantage: false
+    advantage: true
   medicine:
-    value: 4
-    baseValue: 4
+    value: 1
+    baseValue: 1
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   nature:
-    value: 1
-    baseValue: 1
-    proficiency: false
+    value: 7
+    baseValue: 4
+    proficiency: true
     expertise: false
     disadvantage: false
     advantage: false
   perception:
-    value: 7
-    baseValue: 4
+    value: 4
+    baseValue: 1
     proficiency: true
     expertise: false
     disadvantage: false
@@ -269,74 +217,85 @@ skills:
     advantage: false
   religion:
     value: 4
-    baseValue: 1
-    proficiency: true
-    expertise: false
-    disadvantage: false
-    advantage: false
-  sleight-of-hand:
-    value: -1
-    baseValue: -1
-    proficiency: false
-    expertise: false
-    disadvantage: false
-    advantage: false
-  stealth:
-    value: -1
-    baseValue: -1
-    proficiency: false
-    expertise: false
-    disadvantage: true
-    advantage: false
-  survival:
-    value: 4
     baseValue: 4
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
+  sleight-of-hand:
+    value: 3
+    baseValue: 3
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
+  stealth:
+    value: 3
+    baseValue: 3
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: true
+  survival:
+    value: 1
+    baseValue: 1
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
 racialTraits:
-  - name: Warforged Resilience
-    description: You have advantage on saving throws against being poisoned, and you have resistance to poison damage. You are immune to disease. You don’t need to eat, drink, or breathe. You don’t need to sleep and don’t suffer the effects of exhaustion due to lack of rest, and magic can’t put you to sleep.
-  - name: Integrated Protection
-    description: Your body has built-in defensive layers, which determine your armor class.
-  - name: Sentry's Rest
-    description: When you take a long rest, you must spend at least 6 hours in an inactive state rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal.
-  - name: Ability Score Increase
-    description: Two different ability scores of your choice increase by 1.
-  - name: Specialized Design
-    description: You gain one skill proficiency, one tool proficiency, and fluency in one language of your choice.
-  - name: Integrated Tool
-    description: A chosen tool you are proficient with is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool.
+  - name: Darkvision
+    description: You can see in darkness (shades of gray) up to 60 ft.
+  - name: Keen Senses
+    description: You have proficiency in the Perception skill.
+  - name: Fey Ancestry
+    description: You have advantage on saves against being charmed, and magic can’t put you to sleep.
+  - name: Trance
+    description: You don't need to sleep, but meditate semiconsciously for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+  - name: Elf Weapon Training
+    description: You have proficiency with the longsword, shortsword, shortbow, and longbow.
+  - name: Cantrip
+    description: You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it.
+  - name: Extra Language
+    description: You can speak, read, and write one extra language of your choice.
 classFeatures:
-  - name: Domain Spells
-    description: You gain domain spells based on your cleric level.
-  - name: Bonus Proficiencies
-    description: You gain proficiency with heavy armor and smith’s tools.
-  - name: Blessing of the Forge
-    description: At the end of a long rest, you can imbue magic into a weapon or armor by touching a nonmagical version. Until your next long rest or you die, the object grants a +1 bonus to either AC or attack and damage rolls. You can't use this feature again until you finish a long rest.
-  - name: "Channel Divinity: Artisan's Blessing"
-    description: "You can use your Channel Divinity to conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armor, ten pieces of ammunition, a set of tools, or another metal object. The thing you create can be something that is worth no more than 100 gp."
-  - name: Soul of the Forge
-    description: You gain resistance to fire damage and while wearing heavy armor, you gain a +1 bonus to AC.
+  - name: Tools of the Trade
+    description: You gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan’s tools of your choice.
+  - name: Armorer Spells
+    description: You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table.
+  - name: Arcane Armor
+    description: Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith’s tools in hand.
+  - name: Armor Model
+    description: "You can customize your Arcane Armor. When you do so, choose one of the following armor models: Guardian or Infiltrator."
+  - name: Extra Attack
+    description: You can attack twice, rather than once, whenever you take the Attack action on your turn.
+  - name: Magical Tinkering
+    description: "Imbue a Tiny nonmagical object with a magical property of your choice: 5ft. radius light, up to 6 second long recorded message, emits odor or nonverbal sound, static visual effect including up to 25 words of text. You can affect a maximum of {{modifier:int@min:1#unsigned}} objects at a time."
   - name: Spellcasting
-    description: You can cast prepared cleric spells using WIS as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared cleric spells as rituals if they have the ritual tag. You can use a holy symbol as a spellcasting focus.
-  - name: Divine Domain
-    description: You choose a divine domain that grants you additional spells and other features related to your deity.
-  - name: Channel Divinity
-    description: You can channel divine energy to fuel magical effects a number of times per short rest
-  - name: Destroy Undead
-    description: When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level.
+    description: You can cast prepared artificer spells using INT as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared artificer spells as rituals if they have the ritual tag. You must have a spellcasting focus — specifically thieves’ tools or some kind of artisan’s tool — in hand when you cast any spell with this feature.
+  - name: Infuse Item
+    description: "Whenever you finish a long rest, you can touch up to {{scalevalue}} nonmagical objects, imbuing each of them with one of your artificer infusions, turning it into a magic item. You can attune yourself to the item the instant you infuse it, or you can forgo attunement so that someone else can attune to the item. Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after {{modifier:int@min:1#unsigned}} days. The infusion also vanishes if you give up your knowledge of the infusion or you exceed your maximum number of infusions. "
+  - name: Artificer Infusions
+    description: You have invented numerous magical  infusions that rapidly create magic items. Each infusion tells you the type of item that can receive it and if the resulting magic item requires attunement. Some infusions specify a minimum artificer level, and unless an infusion’s description says otherwise, you can’t learn it more than once.
+  - name: Artificer Specialist
+    description: "The type of specialist are:"
+  - name: The Right Tool for the Job
+    description: With thieves’ tools or artisan’s tools in hand, you can magically create one set of artisan’s tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+  - name: Tool Expertise
+    description: Your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
 feats: []
-raceSpells: []
+raceSpells:
+  - name: Prestidigitation
+    level: 0
+    isPrepared: true
 classSpells:
-  - name: Cleric
-    cantripsKnown: 4
+  - name: Artificer
+    cantripsKnown: 2
     spellSlots:
       max:
         - 4
-        - 3
-        - 3
+        - 2
+        - 0
         - 0
         - 0
         - 0
@@ -344,9 +303,9 @@ classSpells:
         - 0
         - 0
       used:
+        - 1
+        - 2
         - 0
-        - 1
-        - 1
         - 0
         - 0
         - 0
@@ -354,67 +313,63 @@ classSpells:
         - 0
         - 0
     spells:
-      - name: "[[5. Mechanics/Spells/Sacred Flame.md|Sacred Flame]]"
+      - name: "[[5. Mechanics/Spells/Guidance.md|Guidance]]"
         level: 0
         isPrepared: true
-      - name: "[[5. Mechanics/Spells/Thaumaturgy.md|Thaumaturgy]]"
+      - name: "[[5. Mechanics/Spells/Acid Splash.md|Acid Splash]]"
         level: 0
         isPrepared: true
-      - name: "[[5. Mechanics/Spells/Word Of Radiance.md|Word Of Radiance]]"
-        level: 0
-        isPrepared: true
-      - name: "[[5. Mechanics/Spells/Mending.md|Mending]]"
-        level: 0
-        isPrepared: true
-      - name: "[[5. Mechanics/Spells/Cure Wounds.md|Cure Wounds]]"
+      - name: "[[5. Mechanics/Spells/Absorb Elements.md|Absorb Elements]]"
         level: 1
         isPrepared: true
-      - name: "[[5. Mechanics/Spells/Healing Word.md|Healing Word]]"
+      - name: "[[5. Mechanics/Spells/Detect Magic.md|Detect Magic]]"
         level: 1
         isPrepared: true
-      - name: "[[5. Mechanics/Spells/Detect Evil And Good.md|Detect Evil And Good]]"
+      - name: "[[5. Mechanics/Spells/Purify Food And Drink.md|Purify Food And Drink]]"
         level: 1
         isPrepared: true
-      - name: "[[5. Mechanics/Spells/Spiritual Weapon.md|Spiritual Weapon]]"
+      - name: "[[5. Mechanics/Spells/Aid.md|Aid]]"
         level: 2
         isPrepared: true
-      - name: "[[5. Mechanics/Spells/Zone Of Truth.md|Zone Of Truth]]"
+      - name: "[[5. Mechanics/Spells/Invisibility.md|Invisibility]]"
         level: 2
         isPrepared: true
-      - name: "[[5. Mechanics/Spells/Silence.md|Silence]]"
+      - name: "[[5. Mechanics/Spells/Web.md|Web]]"
         level: 2
         isPrepared: true
-      - name: "[[5. Mechanics/Spells/Spirit Guardians.md|Spirit Guardians]]"
-        level: 3
-        isPrepared: true
-      - name: "[[5. Mechanics/Spells/Daylight.md|Daylight]]"
-        level: 3
-        isPrepared: true
-      - name: "[[5. Mechanics/Spells/Revivify.md|Revivify]]"
-        level: 3
-        isPrepared: true
-      - name: "[[5. Mechanics/Spells/Remove Curse.md|Remove Curse]]"
-        level: 3
+      - name: "[[5. Mechanics/Spells/Spider Climb.md|Spider Climb]]"
+        level: 2
         isPrepared: true
 currencies:
   cp: 0
-  sp: 498
-  gp: 0
+  sp: 35
+  gp: 34
   ep: 0
   pp: 0
 inventory:
-  - name: "[[5. Mechanics/Items/Cloak Of Protection.md|Cloak Of Protection]]"
+  - name: "[[5. Mechanics/Items/Bag Of Holding.md|Bag Of Holding]]"
     type: Wondrous item
     rarity: Uncommon
     quantity: 1
     canEquip: true
     equipped: true
-    canAttune: true
-    attuned: true
+    canAttune: false
+    attuned: false
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Heavy Crossbow.md|Heavy Crossbow]]"
+  - name: "[[5. Mechanics/Items/Eyes Of Minute Seeing.md|Eyes Of Minute Seeing]]"
+    type: Wondrous item
+    rarity: Uncommon
+    quantity: 1
+    canEquip: true
+    equipped: true
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Chain Mail.md|Chain Mail]]"
     type: Armor
     rarity: Common
     quantity: 1
@@ -425,51 +380,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: 16
-  - name: "[[5. Mechanics/Items/Shield.md|Shield]]"
-    type: Armor
-    rarity: Common
-    quantity: 1
-    canEquip: true
-    equipped: true
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: 2
-  - name: "[[5. Mechanics/Items/Javelin.md|Javelin]]"
-    type: Weapon
-    rarity: Common
-    quantity: 6
-    canEquip: true
-    equipped: true
-    canAttune: false
-    attuned: false
-    damage: 1d6
-    damageType: Piercing
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Mace.md|Mace]]"
-    type: Weapon
-    rarity: Common
-    quantity: 1
-    canEquip: true
-    equipped: true
-    canAttune: false
-    attuned: false
-    damage: 1d6
-    damageType: Bludgeoning
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Quarterstaff.md|Quarterstaff]]"
-    type: Weapon
-    rarity: Common
-    quantity: 1
-    canEquip: true
-    equipped: true
-    canAttune: false
-    attuned: false
-    damage: 1d6
-    damageType: Bludgeoning
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Spear.md|Spear]]"
+  - name: "[[5. Mechanics/Items/Handaxe.md|Handaxe]]"
     type: Weapon
     rarity: Common
     quantity: 1
@@ -478,13 +389,46 @@ inventory:
     canAttune: false
     attuned: false
     damage: 1d6
+    damageType: Slashing
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Light Crossbow.md|Light Crossbow]]"
+    type: Weapon
+    rarity: Common
+    quantity: 1
+    canEquip: true
+    equipped: true
+    canAttune: false
+    attuned: false
+    damage: 1d8
     damageType: Piercing
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Crossbow Bolts 20.md|Crossbow Bolts 20]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 20
+    canEquip: true
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
     type: Other Gear
     rarity: Common
     quantity: 1
     canEquip: true
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Travelers Clothes.md|Travelers Clothes]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 1
+    canEquip: false
     equipped: false
     canAttune: false
     attuned: false
@@ -502,42 +446,9 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Waterskin.md|Waterskin]]"
+  - name: "[[5. Mechanics/Items/Pouch.md|Pouch]]"
     type: Other Gear
     rarity: Common
-    quantity: 1
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Smiths Tools.md|Smiths Tools]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 1
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Holy Symbol.md|Holy Symbol]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 1
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Wand Of Secrets.md|Wand Of Secrets]]"
-    type: Wand
-    rarity: Uncommon
     quantity: 1
     canEquip: true
     equipped: false
@@ -546,7 +457,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Bedroll.md|Bedroll]]"
+  - name: "[[5. Mechanics/Items/Cartographers Tools.md|Cartographers Tools]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -557,7 +468,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Mess Kit.md|Mess Kit]]"
+  - name: "[[5. Mechanics/Items/Tinkers Tools.md|Tinkers Tools]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -568,10 +479,109 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
+  - name: "[[5. Mechanics/Items/Herbalism Kit.md|Herbalism Kit]]"
     type: Other Gear
     rarity: Common
     quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Thieves Tools.md|Thieves Tools]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Potion Of Invulnerability.md|Potion Of Invulnerability]]"
+    type: Potion
+    rarity: Rare
+    quantity: 4
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Glamoured Studded Leather.md|Glamoured Studded Leather]]"
+    type: Armor
+    rarity: Common
+    quantity: 1
+    canEquip: true
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: 12
+  - name: "[[5. Mechanics/Items/Hunting Trap.md|Hunting Trap]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 6
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Cooks Utensils.md|Cooks Utensils]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Contagion Plate.md|Contagion Plate]]"
+    type: Armor
+    rarity: Common
+    quantity: 1
+    canEquip: true
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: 18
+  - name: "[[5. Mechanics/Items/Hammer.md|Hammer]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Potion Of Healing.md|Potion Of Healing]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Rations 1 Day.md|Rations 1 Day]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 10
     canEquip: false
     equipped: false
     canAttune: false
@@ -590,29 +600,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Torch.md|Torch]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 10
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Masons Tools.md|Masons Tools]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 1
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Tinkers Tools.md|Tinkers Tools]]"
+  - name: "[[5. Mechanics/Items/Waterskin.md|Waterskin]]"
     type: Other Gear
     rarity: Common
     quantity: 1

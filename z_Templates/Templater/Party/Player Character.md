@@ -87,7 +87,7 @@ actions:
 > ### Status
 > |||||||
 > |:---:|:---:|:---:|:---:|:---:|:---:|
-> | **Party** | `$=dv.current().party` | **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` | **Location** | `$=dv.current().location` |
+> | **Party** | `INPUT[suggester(optionQuery("3. The Party/Parties"))]` | **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` | **Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 > [!infobox|left clear n-th]
 > 

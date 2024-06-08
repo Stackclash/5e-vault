@@ -588,7 +588,7 @@ id: updateDnDBeyond
 hidden: true
 actions:
   - type: command
-    command: templater-obsidian:insert-templater
+    command: templater-obsidian:create-new-note-from-template
   - type: input
     str: "Player Character"
 ```
