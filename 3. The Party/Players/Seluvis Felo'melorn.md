@@ -1,110 +1,117 @@
 ---
 obsidianUIMode: preview
 statblock: true
-name: Yevelda Ovak 
+name: Seluvis Felo'melorn
 level: 6
-ac: 15
-hp: 72
-modifier: 2
+ac: 19
+hp: 47
+modifier: 3
 proficiency: 3
-url: https://dndbeyond.com/characters/103814449
-image: https://www.dndbeyond.com/avatars/17/342/636377874944041516.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
-race: "[[5. Mechanics/Races/Human.md|Human]]"
-alignment: "Chaotic Neutral"
+url: https://dndbeyond.com/characters/103214475
+image: https://www.dndbeyond.com/avatars/35471/817/1581111423-103214475.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+race: "[[5. Mechanics/Races/Elf High.md|Elf High]]"
+alignment: "undefined"
 description: 
-    gender: "FEMALE"
+    gender: ""
     age: ""
     hair: ""
     eyes: ""
     skin: ""
-    height: "6’4"
-    weight: 275
-    size: ""
+    height: ""
+    weight: ""
+    size: "Medium"
 passives: 
     perception: 14
-    investigation: 10
-    insight: 11
+    investigation: 17
+    insight: 14
 proficiencies: 
     armor: 
     - "Light Armor"
     - "Medium Armor"
     - "Shields"
+    - "Heavy Armor"
     weapons: 
     - "Simple Weapons"
-    - "Martial Weapons"
-    - "Improvised Weapons"
-    tools: []
+    tools: 
+    - "Thieves' Tools"
+    - "Tinker's Tools"
+    - "Smith's Tools"
+    - "Cartographer's Tools"
     languages: 
     - "Common"
-    - "Infernal"
-    - "Abyssal"
+    - "Elvish"
+    - "Dwarvish"
+    - "Halfling"
 speed: 30
 defences: 
-    immunities: []
-    resistances: []
+    immunities: 
+    - "magical-sleep"
+    resistances: 
+    - "all"
 background: 
     background: 
-      name: "Outlander"
-      description: "<p>You grew up in the wilds, far from the comforts of town and technology. You’ve witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don’t know the specific features of the terrain, you know the ways of the wild.</p>"
+      name: "Guild Artisan / Guild Merchant"
+      description: "<p>You are a member of an artisan’s guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.</p>"
     backstory: ""
-    organizations: ""
+    organizations: "I.T.E.M.S: International Traders Emporium Merchant Services - Current guild."
     allies: ""
     enemies: ""
-    notes: ""
+    notes: "Day 3: \"Proof of Concept\" - Weapon Construction Logs\n Redgrave and I have begun working on a device to focus magic projectiles through.  The device combined with my magical infusion would be able to be more compact than this crossbow I currently use.  (At this moment Yevelda is entering a drinking contest with a half elf for his hat, we'll see who wins.  Results are in!  She reached for his hat while passing out )  The device maybe able to be able to be attached to these Gauntlets.\n\n\n\nDay 5: Back in the bar continuing work with Redgrave.  The rest of the party has ventured out in a love mission for Yevelda.   Progress is slow...\n\n\n\n"
 classes: 
-  - name: "[[5. Mechanics/Classes/Barbarian.md|Barbarian]]"
-    subClass: "[[5. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md|Barbarian Path Of The Totem Warrior]]"
+  - name: "[[5. Mechanics/Classes/Artificer.md|Artificer]]"
+    subClass: "[[5. Mechanics/Classes/Artificer Armorer.md|Artificer Armorer]]"
     level: 6
 abilityScores: 
     strength: 
-      value: 18
-      modifier: 4
+      value: 8
+      modifier: -1
     dexterity: 
-      value: 14
-      modifier: 2
-    constitution: 
       value: 16
       modifier: 3
-    intelligence: 
-      value: 10
-      modifier: 0
-    wisdom: 
+    constitution: 
       value: 13
       modifier: 1
-    charisma: 
+    intelligence: 
+      value: 18
+      modifier: 4
+    wisdom: 
       value: 12
       modifier: 1
+    charisma: 
+      value: 10
+      modifier: 0
 savingThrows: 
     strength: 
+      value: -1
+      baseValue: -1
+      proficiency: false
+    dexterity: 
+      value: 3
+      baseValue: 3
+      proficiency: false
+    constitution: 
+      value: 4
+      baseValue: 1
+      proficiency: true
+    intelligence: 
       value: 7
       baseValue: 4
       proficiency: true
-    dexterity: 
-      value: 2
-      baseValue: 2
-      proficiency: false
-    constitution: 
-      value: 6
-      baseValue: 3
-      proficiency: true
-    intelligence: 
-      value: 0
-      baseValue: 0
-      proficiency: false
     wisdom: 
       value: 1
       baseValue: 1
       proficiency: false
     charisma: 
-      value: 1
-      baseValue: 1
+      value: 0
+      baseValue: 0
       proficiency: false
-    notes: []
+    notes: 
+    - "Advantage against being charmed"
 skills: 
     acrobatics: 
-      value: 5
-      baseValue: 2
-      proficiency: true
+      value: 3
+      baseValue: 3
+      proficiency: false
       expertise: false
       disadvantage: false
       advantage: false
@@ -116,54 +123,54 @@ skills:
       disadvantage: false
       advantage: false
     arcana: 
-      value: 0
-      baseValue: 0
+      value: 4
+      baseValue: 4
       proficiency: false
       expertise: false
       disadvantage: false
       advantage: false
     athletics: 
-      value: 7
-      baseValue: 4
-      proficiency: true
-      expertise: false
-      disadvantage: false
-      advantage: false
-    deception: 
-      value: 1
-      baseValue: 1
+      value: -1
+      baseValue: -1
       proficiency: false
       expertise: false
       disadvantage: false
       advantage: false
-    history: 
+    deception: 
       value: 0
       baseValue: 0
       proficiency: false
       expertise: false
       disadvantage: false
       advantage: false
-    insight: 
-      value: 1
-      baseValue: 1
+    history: 
+      value: 4
+      baseValue: 4
       proficiency: false
       expertise: false
       disadvantage: false
       advantage: false
-    intimidation: 
+    insight: 
       value: 4
       baseValue: 1
       proficiency: true
       expertise: false
       disadvantage: false
       advantage: false
-    investigation: 
+    intimidation: 
       value: 0
       baseValue: 0
       proficiency: false
       expertise: false
       disadvantage: false
       advantage: false
+    investigation: 
+      value: 7
+      baseValue: 4
+      proficiency: true
+      expertise: false
+      disadvantage: false
+      advantage: true
     medicine: 
       value: 1
       baseValue: 1
@@ -172,9 +179,9 @@ skills:
       disadvantage: false
       advantage: false
     nature: 
-      value: 0
-      baseValue: 0
-      proficiency: false
+      value: 7
+      baseValue: 4
+      proficiency: true
       expertise: false
       disadvantage: false
       advantage: false
@@ -186,84 +193,231 @@ skills:
       disadvantage: false
       advantage: false
     performance: 
-      value: 1
-      baseValue: 1
-      proficiency: false
-      expertise: false
-      disadvantage: false
-      advantage: false
-    persuasion: 
-      value: 1
-      baseValue: 1
-      proficiency: false
-      expertise: false
-      disadvantage: false
-      advantage: false
-    religion: 
       value: 0
       baseValue: 0
       proficiency: false
       expertise: false
       disadvantage: false
       advantage: false
+    persuasion: 
+      value: 3
+      baseValue: 0
+      proficiency: true
+      expertise: false
+      disadvantage: false
+      advantage: false
+    religion: 
+      value: 4
+      baseValue: 4
+      proficiency: false
+      expertise: false
+      disadvantage: false
+      advantage: false
     sleight-of-hand: 
-      value: 2
-      baseValue: 2
+      value: 3
+      baseValue: 3
       proficiency: false
       expertise: false
       disadvantage: false
       advantage: false
     stealth: 
-      value: 5
-      baseValue: 2
-      proficiency: true
+      value: 3
+      baseValue: 3
+      proficiency: false
       expertise: false
       disadvantage: false
-      advantage: false
+      advantage: true
     survival: 
-      value: 4
+      value: 1
       baseValue: 1
-      proficiency: true
+      proficiency: false
       expertise: false
       disadvantage: false
       advantage: false
 racialTraits: 
-  - name: "Languages"
-    description: "You can speak, read, and write Common and one extra language."
+  - name: "Darkvision"
+    description: "You can see in darkness (shades of gray) up to 60 ft."
+  - name: "Keen Senses"
+    description: "You have proficiency in the Perception skill."
+  - name: "Fey Ancestry"
+    description: "You have advantage on saves against being charmed, and magic can’t put you to sleep."
+  - name: "Trance"
+    description: "You don't need to sleep, but meditate semiconsciously for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+  - name: "Elf Weapon Training"
+    description: "You have proficiency with the longsword, shortsword, shortbow, and longbow."
+  - name: "Cantrip"
+    description: "You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it."
+  - name: "Extra Language"
+    description: "You can speak, read, and write one extra language of your choice."
 classFeatures: 
-  - name: "Spirit Seeker"
-    description: "You can cast beast sense and speak with animals as rituals."
-  - name: "Totem Spirit"
-    description: "You have adopted a totem spirit."
-  - name: "Aspect of the Beast"
-    description: "You gain a magical benefit based on the totem animal of your choice."
-  - name: "Rage"
-    description: "As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), {{scalevalue#signed}} melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action."
-  - name: "Unarmored Defense"
-    description: "While not wearing armor, your AC equals 10 + DEX modifier + CON modifier + any shield bonus."
-  - name: "Reckless Attack"
-    description: "When you make your first attack on your turn, you can decide to attack recklessly, giving you advantage on melee weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn."
-  - name: "Danger Sense"
-    description: "You have advantage on DEX saving throws against effects that you can see while not blinded, deafened, or incapacitated."
+  - name: "Tools of the Trade"
+    description: "You gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan’s tools of your choice."
+  - name: "Armorer Spells"
+    description: "You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table."
+  - name: "Arcane Armor"
+    description: "Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith’s tools in hand."
+  - name: "Armor Model"
+    description: "You can customize your Arcane Armor. When you do so, choose one of the following armor models: Guardian or Infiltrator."
   - name: "Extra Attack"
-    description: "You can attack twice, instead of once, whenever you take the Attack action on your turn."
-  - name: "Fast Movement"
-    description: "Your speed increases by 10 ft. while you aren't wearing heavy armor."
-feats: 
-  - name: "Tavern Brawler"
-    description: "Increase your STR or CON score by 1. You are proficient with improvised weapons. Your unarmed strike uses a d4 for damage. When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target."
-raceSpells: []
-classSpells: []
+    description: "You can attack twice, rather than once, whenever you take the Attack action on your turn."
+  - name: "Magical Tinkering"
+    description: "Imbue a Tiny nonmagical object with a magical property of your choice: 5ft. radius light, up to 6 second long recorded message, emits odor or nonverbal sound, static visual effect including up to 25 words of text. You can affect a maximum of {{modifier:int@min:1#unsigned}} objects at a time."
+  - name: "Spellcasting"
+    description: "You can cast prepared artificer spells using INT as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared artificer spells as rituals if they have the ritual tag. You must have a spellcasting focus — specifically thieves’ tools or some kind of artisan’s tool — in hand when you cast any spell with this feature."
+  - name: "Infuse Item"
+    description: "Whenever you finish a long rest, you can touch up to {{scalevalue}} nonmagical objects, imbuing each of them with one of your artificer infusions, turning it into a magic item. You can attune yourself to the item the instant you infuse it, or you can forgo attunement so that someone else can attune to the item. Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after {{modifier:int@min:1#unsigned}} days. The infusion also vanishes if you give up your knowledge of the infusion or you exceed your maximum number of infusions. "
+  - name: "Artificer Infusions"
+    description: "You have invented numerous magical  infusions that rapidly create magic items. Each infusion tells you the type of item that can receive it and if the resulting magic item requires attunement. Some infusions specify a minimum artificer level, and unless an infusion’s description says otherwise, you can’t learn it more than once."
+  - name: "Artificer Specialist"
+    description: "The type of specialist are:"
+  - name: "The Right Tool for the Job"
+    description: "With thieves’ tools or artisan’s tools in hand, you can magically create one set of artisan’s tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again."
+  - name: "Tool Expertise"
+    description: "Your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool."
+feats: []
+raceSpells: 
+  - name: "Prestidigitation"
+    level: 0
+    isPrepared: true
+classSpells: 
+  - name: "Artificer"
+    cantripsKnown: 2
+    spellSlots: 
+      max: 
+      - 4
+      - 2
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      used: 
+      - 1
+      - 2
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+    spells: 
+    - name: "[[5. Mechanics/Spells/Guidance.md|Guidance]]"
+      level: 0
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Acid Splash.md|Acid Splash]]"
+      level: 0
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Absorb Elements.md|Absorb Elements]]"
+      level: 1
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Detect Magic.md|Detect Magic]]"
+      level: 1
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Purify Food And Drink.md|Purify Food And Drink]]"
+      level: 1
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Aid.md|Aid]]"
+      level: 2
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Invisibility.md|Invisibility]]"
+      level: 2
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Web.md|Web]]"
+      level: 2
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Spider Climb.md|Spider Climb]]"
+      level: 2
+      isPrepared: true
 currencies: 
-    cp: 70
-    sp: 7
-    gp: 46
+    cp: 0
+    sp: 35
+    gp: 34
     ep: 0
     pp: 0
 inventory: 
-  - name: "[[5. Mechanics/Items/Potion Of Greater Healing.md|Potion Of Greater Healing]]"
-    type: "Potion"
+  - name: "[[5. Mechanics/Items/Bag Of Holding.md|Bag Of Holding]]"
+    type: "Wondrous item"
     rarity: "Uncommon"
+    quantity: 1
+    canEquip: true
+    equipped: true
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Eyes Of Minute Seeing.md|Eyes Of Minute Seeing]]"
+    type: "Wondrous item"
+    rarity: "Uncommon"
+    quantity: 1
+    canEquip: true
+    equipped: true
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Chain Mail.md|Chain Mail]]"
+    type: "Armor"
+    rarity: "Common"
+    quantity: 1
+    canEquip: true
+    equipped: true
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: 16
+  - name: "[[5. Mechanics/Items/Handaxe.md|Handaxe]]"
+    type: "Weapon"
+    rarity: "Common"
+    quantity: 1
+    canEquip: true
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: "1d6"
+    damageType: "Slashing"
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Light Crossbow.md|Light Crossbow]]"
+    type: "Weapon"
+    rarity: "Common"
+    quantity: 1
+    canEquip: true
+    equipped: true
+    canAttune: false
+    attuned: false
+    damage: "1d8"
+    damageType: "Piercing"
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Crossbow Bolts 20.md|Crossbow Bolts 20]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 20
+    canEquip: true
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: true
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Travelers Clothes.md|Travelers Clothes]]"
+    type: "Other Gear"
+    rarity: "Common"
     quantity: 1
     canEquip: false
     equipped: false
@@ -272,55 +426,55 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Handaxe.md|Handaxe]]"
-    type: "Weapon"
+  - name: "[[5. Mechanics/Items/Potion Of Healing.md|Potion Of Healing]]"
+    type: "Other Gear"
     rarity: "Common"
-    quantity: 1
-    canEquip: true
+    quantity: 0
+    canEquip: false
     equipped: false
     canAttune: false
     attuned: false
-    damage: "1d6"
-    damageType: "Slashing"
+    damage: ""
+    damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Handaxe.md|Handaxe]]"
-    type: "Weapon"
-    rarity: "Common"
-    quantity: 1
-    canEquip: true
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: "1d6"
-    damageType: "Slashing"
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Javelin.md|Javelin]]"
-    type: "Weapon"
-    rarity: "Common"
-    quantity: 4
-    canEquip: true
-    equipped: true
-    canAttune: false
-    attuned: false
-    damage: "1d6"
-    damageType: "Piercing"
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Greataxe.md|Greataxe]]"
-    type: "Weapon"
-    rarity: "Common"
-    quantity: 1
-    canEquip: true
-    equipped: true
-    canAttune: false
-    attuned: false
-    damage: "1d12"
-    damageType: "Slashing"
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
+  - name: "[[5. Mechanics/Items/Pouch.md|Pouch]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
     canEquip: true
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Cartographers Tools.md|Cartographers Tools]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Tinkers Tools.md|Tinkers Tools]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Herbalism Kit.md|Herbalism Kit]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
     equipped: false
     canAttune: false
     attuned: false
@@ -338,7 +492,40 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Bedroll.md|Bedroll]]"
+  - name: "[[5. Mechanics/Items/Potion Of Invulnerability.md|Potion Of Invulnerability]]"
+    type: "Potion"
+    rarity: "Rare"
+    quantity: 4
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Glamoured Studded Leather.md|Glamoured Studded Leather]]"
+    type: "Armor"
+    rarity: "Common"
+    quantity: 1
+    canEquip: true
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: 12
+  - name: "[[5. Mechanics/Items/Hunting Trap.md|Hunting Trap]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 6
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Cooks Utensils.md|Cooks Utensils]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
@@ -349,7 +536,29 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Mess Kit.md|Mess Kit]]"
+  - name: "[[5. Mechanics/Items/Contagion Plate.md|Contagion Plate]]"
+    type: "Armor"
+    rarity: "Common"
+    quantity: 1
+    canEquip: true
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: 18
+  - name: "[[5. Mechanics/Items/Hammer.md|Hammer]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Potion Of Healing.md|Potion Of Healing]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
@@ -363,18 +572,7 @@ inventory:
   - name: "[[5. Mechanics/Items/Rations 1 Day.md|Rations 1 Day]]"
     type: "Other Gear"
     rarity: "Common"
-    quantity: 29
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
-    type: "Other Gear"
-    rarity: "Common"
-    quantity: 1
+    quantity: 10
     canEquip: false
     equipped: false
     canAttune: false
@@ -386,17 +584,6 @@ inventory:
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Torch.md|Torch]]"
-    type: "Other Gear"
-    rarity: "Common"
-    quantity: 10
     canEquip: false
     equipped: false
     canAttune: false

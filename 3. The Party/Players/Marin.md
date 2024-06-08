@@ -1,29 +1,29 @@
 ---
 obsidianUIMode: preview
 statblock: true
-name: Yevelda Ovak 
+name: Marin
 level: 6
-ac: 15
-hp: 72
-modifier: 2
+ac: 19
+hp: 51
+modifier: 3
 proficiency: 3
-url: https://dndbeyond.com/characters/103814449
-image: https://www.dndbeyond.com/avatars/17/342/636377874944041516.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+url: https://dndbeyond.com/characters/103873194
+image: https://www.dndbeyond.com/avatars/17/209/636377840545349096.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+race: "[[5. Mechanics/Races/Half Elf.md|Half Elf]]"
 alignment: "Chaotic Neutral"
 description: 
-    gender: "FEMALE"
+    gender: ""
     age: ""
     hair: ""
     eyes: ""
     skin: ""
-    height: "6’4"
-    weight: 275
-    size: ""
+    height: ""
+    weight: ""
+    size: "Medium"
 passives: 
-    perception: 14
+    perception: 11
     investigation: 10
-    insight: 11
+    insight: 14
 proficiencies: 
     armor: 
     - "Light Armor"
@@ -32,78 +32,82 @@ proficiencies:
     weapons: 
     - "Simple Weapons"
     - "Martial Weapons"
-    - "Improvised Weapons"
     tools: []
     languages: 
     - "Common"
-    - "Infernal"
-    - "Abyssal"
+    - "Elvish"
+    - "Celestial"
+    - "Draconic"
+    - "Goblin"
 speed: 30
 defences: 
-    immunities: []
+    immunities: 
+    - "magical-sleep"
     resistances: []
 background: 
     background: 
-      name: "Outlander"
-      description: "<p>You grew up in the wilds, far from the comforts of town and technology. You’ve witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don’t know the specific features of the terrain, you know the ways of the wild.</p>"
-    backstory: ""
-    organizations: ""
+      name: "Acolyte"
+      description: "<p>You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric&mdash;performing sacred rites is not the same thing as channeling divine power.</p>
+\n<p>Choose a god, a pantheon of gods, or some other quasi-divine being, and work with your DM to detail the nature of your religious service. The <a title=\"Gods of the Multiverse\" href=\"https://www.dndbeyond.com/sources/phb/appendix-b-gods-of-the-multiverse\">Gods of the Multiverse</a> section contains a sample pantheon, from the Forgotten Realms setting. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.</p>"
+    backstory: "Sun elves are more reclusive than the other branch of high elves, the moon elves, but Oghma has called you to live among other peoples, rather than in the sanctuaries of your kin.\n\nYou have spent your life dedicated to Oghma, all-seeing god of knowledge, and spent years learning the lore of the multiverse.\n\nThrough visions delivered in your trances, your god has called you to a new mission. A goblin tribe has made its lair in an ancient ruin now called Cragmaw Castle, where they have defiled a shrine once sacred to Oghma. Now dedicated to the vile goblin god Maglubiyet, the altar is an offense to Oghma that must not stand.\n\nYou’re sure Oghma has greater things in store for you if you can complete this quest. In the meantime, your visions suggest that Sister Garaele—a priest of Tymora, the goddess of luck—can aid you in the town of Phandalin."
+    organizations: "You have ties to the temple of Oghma in Neverwinter, where you have a residence. When you are in Neverwinter, you can call upon the priests there for assistance that won’t endanger them."
     allies: ""
     enemies: ""
-    notes: ""
+    notes: "The pursuit and acquisition of knowledge is for the benefit of all. Kingdoms and laws are useful so far as they allow knowledge to flourish. Tyrants who seek to suppress and control it are the worst villains. You share your knowledge freely, and use what you have learned to help where you can.\n\n• Looking for ideas on how to level up your character? Check out this PDF for more information! https://www.dndbeyond.com/file-attachments/0/777/elf-wizard.pdf"
 classes: 
-  - name: "[[5. Mechanics/Classes/Barbarian.md|Barbarian]]"
-    subClass: "[[5. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md|Barbarian Path Of The Totem Warrior]]"
+  - name: "[[5. Mechanics/Classes/Warlock.md|Warlock]]"
+    subClass: "[[5. Mechanics/Classes/Warlock The Hexblade.md|Warlock The Hexblade]]"
     level: 6
 abilityScores: 
     strength: 
-      value: 18
-      modifier: 4
+      value: 7
+      modifier: -2
     dexterity: 
-      value: 14
-      modifier: 2
+      value: 16
+      modifier: 3
     constitution: 
       value: 16
       modifier: 3
     intelligence: 
-      value: 10
+      value: 11
       modifier: 0
     wisdom: 
       value: 13
       modifier: 1
     charisma: 
-      value: 12
-      modifier: 1
+      value: 20
+      modifier: 5
 savingThrows: 
     strength: 
-      value: 7
-      baseValue: 4
-      proficiency: true
+      value: -2
+      baseValue: -2
+      proficiency: false
     dexterity: 
-      value: 2
-      baseValue: 2
+      value: 3
+      baseValue: 3
       proficiency: false
     constitution: 
-      value: 6
+      value: 3
       baseValue: 3
-      proficiency: true
+      proficiency: false
     intelligence: 
       value: 0
       baseValue: 0
       proficiency: false
     wisdom: 
-      value: 1
+      value: 4
       baseValue: 1
-      proficiency: false
+      proficiency: true
     charisma: 
-      value: 1
-      baseValue: 1
-      proficiency: false
-    notes: []
+      value: 8
+      baseValue: 5
+      proficiency: true
+    notes: 
+    - "Advantage against being charmed, and magic can’t put you to sleep"
 skills: 
     acrobatics: 
-      value: 5
-      baseValue: 2
+      value: 6
+      baseValue: 3
       proficiency: true
       expertise: false
       disadvantage: false
@@ -116,22 +120,22 @@ skills:
       disadvantage: false
       advantage: false
     arcana: 
-      value: 0
+      value: 3
       baseValue: 0
-      proficiency: false
-      expertise: false
-      disadvantage: false
-      advantage: false
-    athletics: 
-      value: 7
-      baseValue: 4
       proficiency: true
       expertise: false
       disadvantage: false
       advantage: false
+    athletics: 
+      value: -2
+      baseValue: -2
+      proficiency: false
+      expertise: false
+      disadvantage: false
+      advantage: false
     deception: 
-      value: 1
-      baseValue: 1
+      value: 5
+      baseValue: 5
       proficiency: false
       expertise: false
       disadvantage: false
@@ -144,16 +148,16 @@ skills:
       disadvantage: false
       advantage: false
     insight: 
-      value: 1
+      value: 4
       baseValue: 1
-      proficiency: false
+      proficiency: true
       expertise: false
       disadvantage: false
       advantage: false
     intimidation: 
-      value: 4
-      baseValue: 1
-      proficiency: true
+      value: 5
+      baseValue: 5
+      proficiency: false
       expertise: false
       disadvantage: false
       advantage: false
@@ -172,107 +176,166 @@ skills:
       disadvantage: false
       advantage: false
     nature: 
-      value: 0
+      value: 3
       baseValue: 0
-      proficiency: false
-      expertise: false
-      disadvantage: false
-      advantage: false
-    perception: 
-      value: 4
-      baseValue: 1
       proficiency: true
       expertise: false
       disadvantage: false
       advantage: false
-    performance: 
+    perception: 
       value: 1
       baseValue: 1
+      proficiency: false
+      expertise: false
+      disadvantage: false
+      advantage: false
+    performance: 
+      value: 5
+      baseValue: 5
       proficiency: false
       expertise: false
       disadvantage: false
       advantage: false
     persuasion: 
+      value: 5
+      baseValue: 5
+      proficiency: false
+      expertise: false
+      disadvantage: false
+      advantage: false
+    religion: 
+      value: 3
+      baseValue: 0
+      proficiency: true
+      expertise: false
+      disadvantage: false
+      advantage: false
+    sleight-of-hand: 
+      value: 3
+      baseValue: 3
+      proficiency: false
+      expertise: false
+      disadvantage: false
+      advantage: false
+    stealth: 
+      value: 6
+      baseValue: 3
+      proficiency: true
+      expertise: false
+      disadvantage: false
+      advantage: false
+    survival: 
       value: 1
       baseValue: 1
       proficiency: false
       expertise: false
       disadvantage: false
       advantage: false
-    religion: 
-      value: 0
-      baseValue: 0
-      proficiency: false
-      expertise: false
-      disadvantage: false
-      advantage: false
-    sleight-of-hand: 
-      value: 2
-      baseValue: 2
-      proficiency: false
-      expertise: false
-      disadvantage: false
-      advantage: false
-    stealth: 
-      value: 5
-      baseValue: 2
-      proficiency: true
-      expertise: false
-      disadvantage: false
-      advantage: false
-    survival: 
-      value: 4
-      baseValue: 1
-      proficiency: true
-      expertise: false
-      disadvantage: false
-      advantage: false
 racialTraits: 
-  - name: "Languages"
-    description: "You can speak, read, and write Common and one extra language."
+  - name: "Darkvision"
+    description: "You can see in darkness (shades of gray) up to 60 ft."
+  - name: "Fey Ancestry"
+    description: "You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+  - name: "Skill Versatility"
+    description: "You gain proficiency in two skills of your choice."
 classFeatures: 
-  - name: "Spirit Seeker"
-    description: "You can cast beast sense and speak with animals as rituals."
-  - name: "Totem Spirit"
-    description: "You have adopted a totem spirit."
-  - name: "Aspect of the Beast"
-    description: "You gain a magical benefit based on the totem animal of your choice."
-  - name: "Rage"
-    description: "As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), {{scalevalue#signed}} melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action."
-  - name: "Unarmored Defense"
-    description: "While not wearing armor, your AC equals 10 + DEX modifier + CON modifier + any shield bonus."
-  - name: "Reckless Attack"
-    description: "When you make your first attack on your turn, you can decide to attack recklessly, giving you advantage on melee weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn."
-  - name: "Danger Sense"
-    description: "You have advantage on DEX saving throws against effects that you can see while not blinded, deafened, or incapacitated."
-  - name: "Extra Attack"
-    description: "You can attack twice, instead of once, whenever you take the Attack action on your turn."
-  - name: "Fast Movement"
-    description: "Your speed increases by 10 ft. while you aren't wearing heavy armor."
-feats: 
-  - name: "Tavern Brawler"
-    description: "Increase your STR or CON score by 1. You are proficient with improvised weapons. Your unarmed strike uses a d4 for damage. When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target."
+  - name: "Expanded Spell List"
+    description: "Additional spells are added to the warlock spell list for you."
+  - name: "Hexblade’s Curse"
+    description: "Once per short rest, as a bonus action, choose one creature you can see within 30 ft. to curse it for 1 minute (or until the target dies, you die, or you are incapacitated). Against the cursed target, you gain a {{proficiency#signed}} bonus to damage rolls, score a critical hit on a roll of 19 or 20, and you regain {{(classlevel+modifier:cha)@min:1#unsigned}} HP if it dies."
+  - name: "Hex Warrior"
+    description: "You gain proficiency with medium armor, shields, and martial weapons. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. With that weapon, you can use your CHA modifier for the attack and damage rolls until you finish your next long rest. You can also use your CHA modifier for the attack and damage rolls for any of your pact weapons if you have that feature."
+  - name: "Accursed Specter"
+    description: "When you slay a humanoid, you can cause its spirit to rise as a specter that gains {{(classlevel/2)@rounddown#signed}} temp HP. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, gains a {{modifier:cha@min:0#signed}} bonus to its attack rolls, and remains until the end of your next long rest."
+  - name: "Otherworldly Patron"
+    description: "You have struck a bargain with an otherworldly being."
+  - name: "Pact Magic"
+    description: "You can cast known warlock spells using CHA as your spellcasting modifier (Spell DC 16, Spell Attack 8). You can use an arcane focus as a spellcasting focus."
+  - name: "Eldritch Invocations"
+    description: "You learn fragments of forbidden knowledge that imbue you with an abiding magical ability."
+  - name: "Pact Boon"
+    description: "Your otherworldly patron bestows a gift upon you for your loyal service."
+feats: []
 raceSpells: []
-classSpells: []
+classSpells: 
+  - name: "Warlock"
+    cantripsKnown: 3
+    spellSlots: 
+      max: 
+      - 0
+      - 0
+      - 2
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      used: 
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+    spells: 
+    - name: "[[5. Mechanics/Spells/Frostbite.md|Frostbite]]"
+      level: 0
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Eldritch Blast.md|Eldritch Blast]]"
+      level: 0
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Witch Bolt.md|Witch Bolt]]"
+      level: 1
+      isPrepared: false
+    - name: "[[5. Mechanics/Spells/Unseen Servant.md|Unseen Servant]]"
+      level: 1
+      isPrepared: false
+    - name: "[[5. Mechanics/Spells/Armor Of Agathys.md|Armor Of Agathys]]"
+      level: 1
+      isPrepared: false
+    - name: "[[5. Mechanics/Spells/Invisibility.md|Invisibility]]"
+      level: 2
+      isPrepared: false
+    - name: "[[5. Mechanics/Spells/Shatter.md|Shatter]]"
+      level: 2
+      isPrepared: false
+    - name: "[[5. Mechanics/Spells/Remove Curse.md|Remove Curse]]"
+      level: 3
+      isPrepared: false
 currencies: 
     cp: 70
-    sp: 7
-    gp: 46
+    sp: 0
+    gp: 29
     ep: 0
     pp: 0
 inventory: 
-  - name: "[[5. Mechanics/Items/Potion Of Greater Healing.md|Potion Of Greater Healing]]"
-    type: "Potion"
-    rarity: "Uncommon"
+  - name: "[[5. Mechanics/Items/Elven Chain.md|Elven Chain]]"
+    type: "Armor"
+    rarity: "Rare"
     quantity: 1
-    canEquip: false
-    equipped: false
+    canEquip: true
+    equipped: true
     canAttune: false
     attuned: false
     damage: ""
     damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Handaxe.md|Handaxe]]"
+    armorClass: 13
+  - name: "[[5. Mechanics/Items/Shield.md|Shield]]"
+    type: "Armor"
+    rarity: "Common"
+    quantity: 1
+    canEquip: true
+    equipped: true
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: 2
+  - name: "[[5. Mechanics/Items/Dagger.md|Dagger]]"
     type: "Weapon"
     rarity: "Common"
     quantity: 1
@@ -280,10 +343,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: "1d6"
-    damageType: "Slashing"
+    damage: "1d4"
+    damageType: "Piercing"
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Handaxe.md|Handaxe]]"
+  - name: "[[5. Mechanics/Items/Dagger.md|Dagger]]"
     type: "Weapon"
     rarity: "Common"
     quantity: 1
@@ -291,13 +354,24 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: "1d6"
-    damageType: "Slashing"
+    damage: "1d4"
+    damageType: "Piercing"
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Javelin.md|Javelin]]"
+  - name: "[[5. Mechanics/Items/Light Crossbow.md|Light Crossbow]]"
     type: "Weapon"
     rarity: "Common"
-    quantity: 4
+    quantity: 1
+    canEquip: true
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: "1d8"
+    damageType: "Piercing"
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Shortsword.md|Shortsword]]"
+    type: "Weapon"
+    rarity: "Common"
+    quantity: 1
     canEquip: true
     equipped: true
     canAttune: false
@@ -305,16 +379,16 @@ inventory:
     damage: "1d6"
     damageType: "Piercing"
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Greataxe.md|Greataxe]]"
-    type: "Weapon"
+  - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
+    type: "Other Gear"
     rarity: "Common"
     quantity: 1
     canEquip: true
     equipped: true
     canAttune: false
     attuned: false
-    damage: "1d12"
-    damageType: "Slashing"
+    damage: ""
+    damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
     type: "Other Gear"
@@ -327,7 +401,18 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Thieves Tools.md|Thieves Tools]]"
+  - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: true
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Common Clothes.md|Common Clothes]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
@@ -338,7 +423,18 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Bedroll.md|Bedroll]]"
+  - name: "[[5. Mechanics/Items/Component Pouch.md|Component Pouch]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: true
+    equipped: true
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Bullseye Lantern.md|Bullseye Lantern]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
@@ -349,7 +445,18 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Mess Kit.md|Mess Kit]]"
+  - name: "[[5. Mechanics/Items/Pouch.md|Pouch]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: true
+    equipped: true
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Spellbook.md|Spellbook]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
@@ -360,18 +467,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Rations 1 Day.md|Rations 1 Day]]"
-    type: "Other Gear"
-    rarity: "Common"
-    quantity: 29
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
+  - name: "[[5. Mechanics/Items/Holy Symbol.md|Holy Symbol]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
@@ -382,7 +478,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Tinderbox.md|Tinderbox]]"
+  - name: "[[5. Mechanics/Items/Arcane Focus.md|Arcane Focus]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
@@ -393,7 +489,62 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Torch.md|Torch]]"
+  - name: "[[5. Mechanics/Items/Spell Scroll 1st Level.md|Spell Scroll 1st Level]]"
+    type: "Scroll"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Spell Scroll 2nd Level.md|Spell Scroll 2nd Level]]"
+    type: "Scroll"
+    rarity: "Uncommon"
+    quantity: 2
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Book.md|Book]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 3
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Ink 1 Ounce Bottle.md|Ink 1 Ounce Bottle]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Ink Pen.md|Ink Pen]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Parchment One Sheet.md|Parchment One Sheet]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 10
@@ -404,7 +555,150 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Waterskin.md|Waterskin]]"
+  - name: "[[5. Mechanics/Items/Bag Of Beans.md|Bag Of Beans]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Charming Knife.md|Charming Knife]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Book.md|Book]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Ink 1 Ounce Bottle.md|Ink 1 Ounce Bottle]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Ink Pen.md|Ink Pen]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Parchment One Sheet.md|Parchment One Sheet]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 10
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Bag Of Beans.md|Bag Of Beans]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Charming Knife.md|Charming Knife]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Book.md|Book]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Ink 1 Ounce Bottle.md|Ink 1 Ounce Bottle]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Ink Pen.md|Ink Pen]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Parchment One Sheet.md|Parchment One Sheet]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 10
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Bag Of Beans.md|Bag Of Beans]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Charming Knife.md|Charming Knife]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
