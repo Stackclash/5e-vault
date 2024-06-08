@@ -3,19 +3,19 @@ obsidianUIMode: preview
 active_world: "[[Eldoria]]"
 active_party: "[[Curse of Strahd]]"
 locations:
-  Session Prep: 1. DM Stu
-  Session Journals: 
-  Parties: 
-  Players: 
-  Quests: 
-  Groups: 
-  Worlds: 
-  Regions: 
-  Settlements: 
-  Places of Interest: 
-  Shops: 
-  NPCs: 
-  Monsters: 
+  Session Prep: 1. DM Stuff/Session Prep
+  Session Journals: 1. DM Stuff/Session Journals
+  Parties: 3. The Party/Parties
+  Players: 3. The Party/Players
+  Quests: 3. The Party/Quests
+  Groups: 4. World Almanac/Groups
+  Worlds: 4. World Almanac/Worlds
+  Regions: 4. World Almanac/Regions
+  Settlements: 4. World Almanac/Settlements
+  Places of Interest: 4. World Almanac/Places of Interest
+  Shops: 4. World Almanac/Shops
+  NPCs: 4. World Almanac/NPCs
+  Monsters: 5. Mechanics/Bestiary
 ---
 > [!infobox]
 > | | |
@@ -126,6 +126,7 @@ actions:
 >> | Places of Interest | `INPUT[text:locations["Places of Interest"]]` |
 >> | Shops | `INPUT[text:locations["Shops"]]` |
 >> | NPCs | `INPUT[text:locations["NPCs"]]` |
+>> | Groups | `INPUT[text:locations["Groups"]]` |
 >> | Monsters | `INPUT[text:locations["Monsters"]]` |
 
 # Stats
