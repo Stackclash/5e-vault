@@ -576,8 +576,8 @@ inventory:
     damageType: ""
     armorClass: ""
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-condition:
-location:
+condition: healthy
+location: "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]"
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
@@ -593,11 +593,11 @@ actions:
     str: "Player Character"
 ```
 
-> [!infobox|n-th center wm-sm]
+> [!infobox|n-th center wm-tl]
 > ### Status
 > |||||||
 > |:---:|:---:|:---:|:---:|:---:|:---:|
-> | **Party** | `$=dv.current().party` | **Condition** | `$=dv.current().condition` | **Location** | `$=dv.current().location` |
+> | **Party** | `INPUT[suggester(optionQuery("3. The Party/Parties")):party]` | **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` | **Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 > [!infobox|left clear n-th]
 > 
