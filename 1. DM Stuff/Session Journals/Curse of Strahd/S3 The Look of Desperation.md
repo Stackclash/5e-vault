@@ -39,10 +39,10 @@ N/A
 
 ## What Happened
 - The party fought Carl and Elisabeth in the first level of Death House. While the room is filled with poisonous smoke.
-- [[Yevelda Ovak]] gets possessed by Elisabeth but [[Redgrave]]  casts her out with Turn Undead. Elisabeth flees the room.
-- [[Yevelda Ovak]] searches the walls for the door, but decides to break down the now bricked up window.
+- [[Yevelda Ovak ]] gets possessed by Elisabeth but [[Redgrave]]  casts her out with Turn Undead. Elisabeth flees the room.
+- [[Yevelda Ovak ]] searches the walls for the door, but decides to break down the now bricked up window.
 - [[Marin]] is knocked unconscious by Carl.
-- [[Seluvis Felo'melorn]] and [[Yevelda Ovak]] carry [[Marin]] out the window.
+- [[Seluvis Felo'melorn]] and [[Yevelda Ovak ]] carry [[Marin]] out the window.
 - Once everyone is out the window Carl screeches at them as the damaged window heals and closes up.
 - The party makes its way to the store and [[Marin]] buys a [[Dagger|dagger]].
 - They go to the tavern and purchase a room where they lay down [[Marin]].

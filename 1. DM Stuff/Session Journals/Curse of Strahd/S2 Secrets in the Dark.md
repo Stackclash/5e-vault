@@ -35,7 +35,7 @@ prep-notes:
 - 4 healing potions - [[Redgrave]] 
 - [[Mess Kit]] - [[Redgrave]] 
 - [[Alchemists Fire Flask]] - [[Seluvis Felo'melorn]] 
-- [[Thieves Tools]] - [[Yevelda Ovak]] 
+- [[Thieves Tools]] - [[Yevelda Ovak ]] 
 - [[Bullseye Lantern]] - [[Marin]] 
 - [[Chain Shirt]] - [[Redgrave]] 
 - [[Spellbook]] - [[Marin]] 
@@ -46,5 +46,5 @@ prep-notes:
 - [[Seluvis Felo'melorn]] takes an orb from a statue of [[Strahd Von Zarovich]]
 - [[Marin]] takes several trinkets
 - The party finds a large room meant for sacrifices
-- [[Yevelda Ovak]] leans on the altar and spirits of cultist's start chanting "One must die"
+- [[Yevelda Ovak ]] leans on the altar and spirits of cultist's start chanting "One must die"
 - The party decide to leave. When they do they summon a [[Gibbering Mouther]] and [[5. Mechanics/Bestiary/Undead/Zombie|Zombies]] 

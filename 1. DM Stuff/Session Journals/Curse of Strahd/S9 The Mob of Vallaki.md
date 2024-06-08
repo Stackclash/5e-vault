@@ -71,7 +71,7 @@ Loot, rewards and purchases.
 Things to keep in mind during the session, from items to important details
 
 ## Events
-The party having stayed off Strahd's attack. Help get everything in order at the Church. But the baron and his family are no where to be seen. They find that they are hold up in their house under guard. Many villagers are enraged that he would abandon them in their time of need. A quiet angry mob grows in the night, all the while [[Yevelda Ovak]] is flirting with [[Izek Strazni]]. In the morning the town has dragged [[Baron Vargas Vallakovich]] and his wife out to be executed, encouraged by Fiona Watcher. The party is able to halt this madness and get the Baron and his wife to safety but where is Victor?
+The party having stayed off Strahd's attack. Help get everything in order at the Church. But the baron and his family are no where to be seen. They find that they are hold up in their house under guard. Many villagers are enraged that he would abandon them in their time of need. A quiet angry mob grows in the night, all the while [[Yevelda Ovak ]] is flirting with [[Izek Strazni]]. In the morning the town has dragged [[Baron Vargas Vallakovich]] and his wife out to be executed, encouraged by Fiona Watcher. The party is able to halt this madness and get the Baron and his wife to safety but where is Victor?
 
 # Summary
 ## New NPCs

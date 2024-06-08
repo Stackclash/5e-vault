@@ -117,7 +117,7 @@ creatures:
 	- They strong arm him into revealing the location of the bones
 	- Henrik reveals that [[Strahd von Zarovich]] made him take them
 - The party fights off a group of vampire spawn
-- [[Yevelda Ovak]] throws Henrik at a [[5. Mechanics/Bestiary/Undead/Vampire Spawn]]  which breaks one of his legs.
+- [[Yevelda Ovak ]] throws Henrik at a [[5. Mechanics/Bestiary/Undead/Vampire Spawn]]  which breaks one of his legs.
 - One spawn tries to escape with the bones but is stopped
 
 # Summary

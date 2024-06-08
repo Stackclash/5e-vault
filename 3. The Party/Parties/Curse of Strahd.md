@@ -8,7 +8,7 @@ party_player:
   - "[[3. The Party/Players/Marin.md|Marin]]"
   - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
   - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
-  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
+  - "[[Yevelda Ovak |Yevelda Ovak ]]"
 exhaustion_level: .nan
 movement: walking
 speed: normal

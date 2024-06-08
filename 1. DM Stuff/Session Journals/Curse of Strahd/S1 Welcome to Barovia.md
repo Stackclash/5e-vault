@@ -47,7 +47,7 @@ prep-notes:
 - The party goes in when the doors shut behind them.
 - They try to force the door open and eventually blast it open with fire.
 - When outside they decide to go back in for Walter
-- While exploring the house, [[Yevelda Ovak]] continuously looks for secrets under rugs.
+- While exploring the house, [[Yevelda Ovak ]] continuously looks for secrets under rugs.
 - The party has a short encounter with a enchanted armor
 - They make their way to the attic where they find the room that the children were kept.
 	- The party takes the bones of the children to put to rest
