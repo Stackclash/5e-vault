@@ -112,9 +112,7 @@ actions:
   - type: command
     command: templater-obsidian:insert-templater
   - type: input
-    str: remove
-  - type: input
-    str: relationship
+    str: "Remove Relationship"
 ```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
