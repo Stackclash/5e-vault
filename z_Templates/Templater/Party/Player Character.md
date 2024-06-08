@@ -11,7 +11,7 @@ if (currentFile) {
   selectedParty = currentFile.party && currentFile.party.toString()
   dndBeyondInfo = currentFile.url
   condition = currentFile.condition
-  location = currentFile.location.toString()
+  location = currentFile.location && currentFile.location.toString()
 }
 
 if (!selectedParty) {
@@ -71,7 +71,7 @@ currencies: <% tp.user.build_yaml(character.currencies, 2) %>
 inventory: <% tp.user.build_yaml(character.inventory, 2, {name: '5. Mechanics/Items'}) %>
 party: "<% selectedParty%>"
 condition: <% condition %>
-location: <% location %>
+location: "<% location %>"
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
@@ -91,7 +91,7 @@ actions:
 > ### Status
 > |||||||
 > |:---:|:---:|:---:|:---:|:---:|:---:|
-> | **Party** | `INPUT[suggester(optionQuery("3. The Party/Parties"))]` | **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` | **Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
+> | **Party** | `INPUT[suggester(optionQuery("3. The Party/Parties")):party]` | **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` | **Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 > [!infobox|left clear n-th]
 > 
