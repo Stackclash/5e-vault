@@ -4,10 +4,14 @@ const currentFile = dv.page((tp.config.active_file && tp.config.active_file.path
 const currentTFile = tp.file.find_tfile(currentFile.file && currentFile.file.name)
 let selectedParty
 let dndBeyondInfo
+let condition = 'healthy'
+let location = ''
 
 if (currentFile) {
   selectedParty = currentFile.party && currentFile.party.toString()
   dndBeyondInfo = currentFile.url
+  condition = currentFile.condition
+  location = currentFile.location.toString()
 }
 
 if (!selectedParty) {
@@ -66,8 +70,8 @@ classSpells: <% tp.user.build_yaml(character.spells.class, 2, {name: '5. Mechani
 currencies: <% tp.user.build_yaml(character.currencies, 2) %>
 inventory: <% tp.user.build_yaml(character.inventory, 2, {name: '5. Mechanics/Items'}) %>
 party: "<% selectedParty%>"
-condition:
-location:
+condition: <% condition %>
+location: <% location %>
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
@@ -78,12 +82,12 @@ id: updateDnDBeyond
 hidden: true
 actions:
   - type: command
-    command: templater-obsidian:insert-templater
+    command: templater-obsidian:create-new-note-from-template
   - type: input
     str: "Player Character"
 ```
 
-> [!infobox|n-th center wm-sm]
+> [!infobox|n-th center wm-tl]
 > ### Status
 > |||||||
 > |:---:|:---:|:---:|:---:|:---:|:---:|

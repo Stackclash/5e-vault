@@ -613,7 +613,7 @@ inventory:
     armorClass: ""
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 condition: healthy
-location: 
+location: "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]"
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
@@ -624,16 +624,16 @@ id: updateDnDBeyond
 hidden: true
 actions:
   - type: command
-    command: templater-obsidian:insert-templater
+    command: templater-obsidian:create-new-note-from-template
   - type: input
     str: "Player Character"
 ```
 
-> [!infobox|n-th center wm-sm]
+> [!infobox|n-th center wmed]
 > ### Status
 > |||||||
 > |:---:|:---:|:---:|:---:|:---:|:---:|
-> | **Party** | `$=dv.current().party` | **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` | **Location** | `$=dv.current().location` |
+> | **Party** | `INPUT[suggester(optionQuery("3. The Party/Parties"))]` | **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` | **Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 > [!infobox|left clear n-th]
 > 
