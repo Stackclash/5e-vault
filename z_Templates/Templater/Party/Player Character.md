@@ -1,10 +1,10 @@
 <%*
 const dv = app.plugins.getPlugin("dataview").api
+const currentPage = dv.page((tp.config.active_file && tp.config.active_file.path) || '') || {}
 let selectedParty
 let dndBeyondInfo
 
 if (tp.config.run_mode === 1) {
-  const currentPage = dv.page((tp.config.active_file && tp.config.active_file.path) || '') || {}
   selectedParty = currentPage.party.toString()
   dndBeyondInfo = currentPage.url
 }
