@@ -10,7 +10,7 @@ const build_object_yaml = (object, spaces, config, startWithNewLine) => {
         itemString = `${key}: "${tp.user.find_file(finalValue, config[key])}"`
 
       } else {
-        itemString = `${key}: "${finalValue.replaceAll('"', '\\"').replaceAll('\n', '\\n')}"`
+        itemString = `${key}: "${finalValue.replaceAll('"', '\\"').replaceAll('\r\n', '\\n').replaceAll('\n', '\\n')}"`
       }
     } else if (Array.isArray(value)) {
       itemString = `${key}: ${build_array_yaml(value, spaces+2, config)}`
