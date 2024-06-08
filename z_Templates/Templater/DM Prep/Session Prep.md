@@ -1,15 +1,16 @@
 <%*
+const path = require('path')
 const dv = app.plugins.getPlugin("dataview").api
-const config = dv.page('1. DM Stuff/Configuration')
-console.log('here', config)
+const locationConfig = dv.page('1. DM Stuff/Configuration').locations
 
 let date = await tp.system.prompt("What date is this session supposed to happen? (MM-DD-YYYY)")
 let formattedDate = moment(date).format("YYYY-MM-DD")
 
-let parties = dv.pages('"3. The Party/Parties"')
+let parties = dv.pages(`"${locationConfig.parties}"`)
 let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => p.file.name), false, "What party is this Session for?")
+console.log(path.join(locationConfig.preps, selectedParty, formattedDate))
 
-await tp.file.move('1. DM Stuff/Session Prep/' + selectedParty + '/' + formattedDate)
+await tp.file.move(path.join(locationConfig.preps, selectedParty, formattedDate))
 -%>
 ---
 date: <% formattedDate %>
