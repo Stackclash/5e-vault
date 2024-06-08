@@ -1,7 +1,69 @@
 {
-  "players": [],
-  "parties": [],
-  "defaultParty": null,
+  "players": [
+    {
+      "note": null,
+      "path": null,
+      "name": "Faerah Duskrane",
+      "ac": 16,
+      "hp": 38,
+      "level": 5,
+      "modifier": 6,
+      "player": true
+    },
+    {
+      "note": null,
+      "path": null,
+      "name": "Redgrave",
+      "ac": 23,
+      "hp": 45,
+      "level": 6,
+      "modifier": -1,
+      "player": true
+    },
+    {
+      "note": "Marin",
+      "path": "3. The Party/Players/Marin.md",
+      "name": "Marin",
+      "ac": 15,
+      "hp": 43,
+      "level": 5,
+      "modifier": 3,
+      "player": true
+    },
+    {
+      "note": "Yevelda Ovak",
+      "path": "3. The Party/Players/Yevelda Ovak.md",
+      "name": "Yevelda Ovak",
+      "ac": 15,
+      "hp": 72,
+      "level": 6,
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "note": "Seluvis Felo'melorn",
+      "path": "3. The Party/Players/Seluvis Felo'melorn.md",
+      "name": "Seluvis Felo'melorn",
+      "ac": 19,
+      "hp": 47,
+      "level": 6,
+      "modifier": 3,
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "Curse of Strahd",
+      "players": [
+        "Faerah Duskrane",
+        "Redgrave",
+        "Marin",
+        "Yevelda Ovak",
+        "Seluvis Felo'melorn"
+      ]
+    }
+  ],
+  "defaultParty": "Curse of Strahd",
   "statuses": [
     {
       "name": "Blinded",
@@ -88,19 +150,245 @@
   "version": [
     13,
     0,
-    12
+    11
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": false,
+  "sync": true,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Faerah Duskrane",
+        "initiative": 15,
+        "static": false,
+        "modifier": 6,
+        "hp": 38,
+        "currentMaxHP": 38,
+        "ac": 16,
+        "currentAC": 16,
+        "note": null,
+        "path": null,
+        "id": "ID_8a29a8b9b90b",
+        "currentHP": 38,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 5,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Redgrave",
+        "initiative": 16,
+        "static": false,
+        "modifier": -1,
+        "hp": 45,
+        "currentMaxHP": 45,
+        "ac": 23,
+        "currentAC": 23,
+        "note": "Redgrave",
+        "path": "3. The Party/Players/Redgrave.md",
+        "id": "ID_1b0928b8883a",
+        "tempHP": 0,
+        "status": [],
+        "level": 6,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Marin",
+        "initiative": 13,
+        "static": false,
+        "modifier": 3,
+        "hp": 43,
+        "currentMaxHP": 43,
+        "ac": 15,
+        "currentAC": 15,
+        "note": "Marin",
+        "path": "3. The Party/Players/Marin.md",
+        "id": "ID_bb4a2bea9b6b",
+        "currentHP": 43,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 5,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Yevelda Ovak",
+        "initiative": 15,
+        "static": false,
+        "modifier": 2,
+        "hp": 72,
+        "currentMaxHP": 72,
+        "ac": 15,
+        "currentAC": 15,
+        "note": "Yevelda Ovak",
+        "path": "3. The Party/Players/Yevelda Ovak.md",
+        "id": "ID_785a8a89f889",
+        "tempHP": 0,
+        "status": [],
+        "level": 5,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Seluvis Felo'melorn",
+        "initiative": 9,
+        "static": false,
+        "modifier": 3,
+        "hp": 47,
+        "currentMaxHP": 47,
+        "ac": 19,
+        "currentAC": 19,
+        "note": "Seluvis Felo'melorn",
+        "path": "3. The Party/Players/Seluvis Felo'melorn.md",
+        "id": "ID_4a192aaa8b69",
+        "currentHP": 13,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 5,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Scarecrow",
+        "initiative": 14,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_39d828abd9b8",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "rollHP": false
+      },
+      {
+        "name": "Scarecrow",
+        "initiative": 14,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_aa4b29898b28",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "rollHP": false
+      },
+      {
+        "name": "Scarecrow",
+        "initiative": 5,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_6bb96999088b",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "rollHP": false
+      },
+      {
+        "name": "Scarecrow",
+        "initiative": 7,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_0889c999b96b",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "rollHP": false
+      },
+      {
+        "name": "Scarecrow",
+        "initiative": 18,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_5beb095aab5b",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "rollHP": false
+      },
+      {
+        "name": "Scarecrow",
+        "initiative": 7,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_4948e8abe849",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "rollHP": false
+      },
+      {
+        "name": "Scarecrow",
+        "initiative": 8,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_fa2ada49692a",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "rollHP": false
+      }
+    ],
     "state": false,
-    "name": null,
+    "name": "Encounter",
     "round": 1,
     "logFile": "",
     "rollHP": false
@@ -130,9 +418,165 @@
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": true,
-    "showXP": true,
-    "sidebarIcon": true
+    "showParty": false,
+    "showXP": false,
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "cr",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [
+            0,
+            30
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "Large",
+            "Medium",
+            "Huge",
+            "Gargantuan",
+            "Small",
+            "Tiny"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "aberration",
+            "humanoid",
+            "dragon",
+            "undead",
+            "elemental",
+            "monstrosity",
+            "construct",
+            "beast",
+            "plant",
+            "fiend",
+            "ooze",
+            "fey",
+            "giant",
+            "celestial",
+            "swarm of Tiny beasts"
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "Lawful Evil",
+            "any alignment",
+            "chaotic evil",
+            "lawful evil",
+            "chaotic good",
+            "lawful good",
+            "neutral",
+            "lawful neutral",
+            "unaligned",
+            "Unaligned",
+            "any non-good alignment",
+            "any non-lawful alignment",
+            "neutral evil",
+            "any chaotic alignment",
+            "neutral good",
+            "Chaotic Evil",
+            "Chaotic Neutral",
+            "neutral good (50%) or neutral evil (50%)",
+            "Neutral Good",
+            "Neutral Evil",
+            "Neutral",
+            "any evil alignment",
+            "chaotic neutral",
+            "Typically  Chaotic Evil",
+            "Typically  Neutral Evil",
+            "Typically  Lawful Neutral",
+            "Typically  Lawful Evil",
+            "Chaotic",
+            "Any Evil alignment",
+            "Lawful Good",
+            "Any alignment",
+            "Chaotic Good",
+            "Lawful Neutral"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   },
   "rollPlayerInitiatives": 0
 }
