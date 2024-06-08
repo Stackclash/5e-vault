@@ -3,18 +3,18 @@ obsidianUIMode: preview
 active_world: "[[Eldoria]]"
 active_party: "[[Curse of Strahd]]"
 locations:
-  Session Prep: ""
+  Session Prep: 1. DM Stu
   Session Journals: 
   Parties: 
   Players: 
   Quests: 
-  NPCs: 
   Groups: 
-  Places of Interest: 
+  Worlds: 
   Regions: 
   Settlements: 
+  Places of Interest: 
   Shops: 
-  Worlds: 
+  NPCs: 
   Monsters: 
 ---
 > [!infobox]
@@ -22,27 +22,6 @@ locations:
 > |---|---|
 > | **Active World:** | `INPUT[suggester(optionQuery("4. World Almanac/Worlds")):active_world]` |
 > | **Active Party:** | `INPUT[suggester(optionQuery("3. The Party/Parties")):active_party]` |
-
-# File Location Configuration
-## DM Details
-|||
-|:---:|:---:|
-| Session Prep | `INPUT[text:locations["Session Prep"]]` |
-| Session Journals | `INPUT[text:locations["Session Journals"]]` |
-
-## Player Details
-|||
-|:---:|:---:|
-| Parties | `INPUT[text:locations["Parties"]]` |
-| Players | `INPUT[text:locations["Players"]]` |
-| Quests | `INPUT[text:locations["Quests"]]` |
-
-## World Details
-|||
-|:---:|:---:|
-| Regions | `INPUT[text:locations["Regions"]]` |
-| Settlements | `INPUT[text:locations["Settlements"]]` |
-| Places of Interest | `INPUT[text:locations["Places of Interest"]]` |
 
 # DM Tools/Calculators
 ```dataview
@@ -98,9 +77,7 @@ actions:
   - type: command
     command: templater-obsidian:create-new-note-from-template
   - type: input
-    str: Player
-  - type: input
-    str: Character
+    str: "Player Character"
 ```
 ```meta-bind-button
 style: primary
@@ -111,9 +88,7 @@ actions:
   - type: command
     command: templater-obsidian:create-new-note-from-template
   - type: input
-    str: Session
-  - type: input
-    str: Journal
+    str: "Session Journal"
 ```
 ```meta-bind-button
 style: primary
@@ -124,10 +99,35 @@ actions:
   - type: command
     command: templater-obsidian:create-new-note-from-template
   - type: input
-    str: Session
-  - type: input
-    str: Prep
+    str: "Session Prep"
 ```
+
+# File Location Configuration
+> [!columns|no-t 3]
+>> ## DM Details
+>> |||
+>> |:---:|:---:|
+>> | Session Prep | `INPUT[text:locations["Session Prep"]]` |
+>> | Session Journals | `INPUT[text:locations["Session Journals"]]` |
+>
+>> ## Player Details
+>> |||
+>> |:---:|:---:|
+>> | Parties | `INPUT[text:locations["Parties"]]` |
+>> | Players | `INPUT[text:locations["Players"]]` |
+>> | Quests | `INPUT[text:locations["Quests"]]` |
+>
+>> ## World Details
+>> |||
+>> |:---:|:---:|
+>> | Worlds | `INPUT[text:locations["Worlds"]]` |
+>> | Regions | `INPUT[text:locations["Regions"]]` |
+>> | Settlements | `INPUT[text:locations["Settlements"]]` |
+>> | Places of Interest | `INPUT[text:locations["Places of Interest"]]` |
+>> | Shops | `INPUT[text:locations["Shops"]]` |
+>> | NPCs | `INPUT[text:locations["NPCs"]]` |
+>> | Monsters | `INPUT[text:locations["Monsters"]]` |
+
 # Stats
 ```dataviewjs
 let finalGroups = []
