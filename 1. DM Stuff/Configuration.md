@@ -33,7 +33,7 @@ FROM "1. DM Stuff/Lookup Tables"
 | World Building            | Party                             |
 | ------------------------- | --------------------------------- |
 | `BUTTON[create-npc]`      | `BUTTON[create-player-character]` |
-| `BUTTON[create-location]` | `BUTTON[create-session-log]`      |
+| `BUTTON[create-location]` | `BUTTON[create-session-journal]`      |
 | `BUTTON[create-shop]`     | `BUTTON[create-session-prep]`     |
 ```meta-bind-button
 style: primary

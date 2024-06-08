@@ -1,7 +1,7 @@
 <%*
 const dv = app.plugins.getPlugin("dataview").api
-const config = dv.page('"Configuration"')
-console.log(config)
+const config = dv.page('1. DM Stuff/Configuration')
+console.log('here', config)
 
 let date = await tp.system.prompt("What date is this session supposed to happen? (MM-DD-YYYY)")
 let formattedDate = moment(date).format("YYYY-MM-DD")
