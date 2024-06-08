@@ -87,7 +87,7 @@ actions:
 > ### Status
 > |||||||
 > |:---:|:---:|:---:|:---:|:---:|:---:|
-> | **Party** | `$=dv.current().party` | **Condition** | `$=dv.current().condition` | **Location** | `$=dv.current().location` |
+> | **Party** | `$=dv.current().party` | **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` | **Location** | `$=dv.current().location` |
 
 > [!infobox|left clear n-th]
 > 
