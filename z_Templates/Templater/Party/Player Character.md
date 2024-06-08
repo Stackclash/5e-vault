@@ -1,12 +1,14 @@
 <%*
 const dv = app.plugins.getPlugin("dataview").api
-const currentPage = dv.page((tp.config.active_file && tp.config.active_file.path) || '') || {}
+const currentFile = dv.page((tp.config.active_file && tp.config.active_file.path) || '') || {}
+const currentTFile = tp.file.find_tfile(currentFile.file && currentFile.file.name)
 let selectedParty
 let dndBeyondInfo
 
 if (tp.config.run_mode === 1) {
-  selectedParty = currentPage.party.toString()
-  dndBeyondInfo = currentPage.url
+  selectedParty = currentFile.party.toString()
+  dndBeyondInfo = currentFile.url
+  app.vault.modify(currentTFile, '')
 }
 
 if (!selectedParty) {
@@ -29,10 +31,9 @@ await character.initialize()
 
 const filePath = '3. The Party/Players/' + character.name
 
-if (await tp.file.exists(`${filePath}.md`)) {
-  await app.vault.delete(tp.file.find_tfile(currentPage.file.name))
+if (tp.config.run_mode !== 1) {
+  await tp.file.move('3. The Party/Players/' + character.name)
 }
-await tp.file.move('3. The Party/Players/' + character.name)
 -%>
 ---
 obsidianUIMode: preview
