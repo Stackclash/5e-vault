@@ -3,25 +3,47 @@ obsidianUIMode: preview
 active_world: "[[Eldoria]]"
 active_party: "[[Curse of Strahd]]"
 locations:
-  Session Prep:
-  Session Journal:
-  NPCs:
-  Parties:
-  Players:
-  Quests:
-  Groups:
-  Places of Interest:
-  Regions:
-  Settlements:
-  Shops:
-  Worlds:
-  Monsters:
+  Session Prep: ""
+  Session Journals: 
+  Parties: 
+  Players: 
+  Quests: 
+  NPCs: 
+  Groups: 
+  Places of Interest: 
+  Regions: 
+  Settlements: 
+  Shops: 
+  Worlds: 
+  Monsters: 
 ---
 > [!infobox]
 > | | |
 > |---|---|
 > | **Active World:** | `INPUT[suggester(optionQuery("4. World Almanac/Worlds")):active_world]` |
-> | **Active Party:** | `INPUT[suggester(optionQuery("3. The Party/Parties")):active_party]` | 
+> | **Active Party:** | `INPUT[suggester(optionQuery("3. The Party/Parties")):active_party]` |
+
+# File Location Configuration
+## DM Details
+|||
+|:---:|:---:|
+| Session Prep | `INPUT[text:locations["Session Prep"]]` |
+| Session Journals | `INPUT[text:locations["Session Journals"]]` |
+
+## Player Details
+|||
+|:---:|:---:|
+| Parties | `INPUT[text:locations["Parties"]]` |
+| Players | `INPUT[text:locations["Players"]]` |
+| Quests | `INPUT[text:locations["Quests"]]` |
+
+## World Details
+|||
+|:---:|:---:|
+| Regions | `INPUT[text:locations["Regions"]]` |
+| Settlements | `INPUT[text:locations["Settlements"]]` |
+| Places of Interest | `INPUT[text:locations["Places of Interest"]]` |
+
 # DM Tools/Calculators
 ```dataview
 LIST WITHOUT ID file.link
