@@ -4,6 +4,7 @@ const currentFile = dv.page((tp.config.active_file && tp.config.active_file.path
 const currentTFile = tp.file.find_tfile(currentFile.file && currentFile.file.name)
 let selectedParty
 let dndBeyondInfo
+console.log(tp.config.run_mode)
 
 if (tp.config.run_mode === 1) {
   selectedParty = currentFile.party.toString()
