@@ -1,6 +1,8 @@
 const locationConfig = dv.page('Configuration').locations
 const config = input
 
-console.log(`\`${config.bindType}[${config.type}:${config.key}]\``)
+const test = `${config.bindType}[${config.type}(optionQuery("1. DM Stuff/Session Prep")):${config.key}]`
 
-dv.span(`\`${config.bindType}[${config.type}:${config.key}]\``)
+console.log(test)
+
+dv.span(test)
