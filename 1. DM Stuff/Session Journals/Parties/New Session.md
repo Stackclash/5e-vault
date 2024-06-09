@@ -15,9 +15,7 @@ prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-05-26.md|2024-05-26
 > |---|---|
 > | **Party:** | `INPUT[suggester(optionQuery("3. The Party/Parties")):party]` |
 > | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | ```dataviewjs
-> await dv.view("generateMetaBindInput", {bindType: 'INPUT', type: 'suggester', key: 'prep-notes', options: {optionQuery: ['preps']}})
-> ``` |
+> | **Prep Notes:** | `INPUT[suggester(optionQuery("1. DM Stuff/Session Prep")):prep-notes]` |
 > ## Fantasy Dates
 > | | |
 > |---|---|
@@ -41,3 +39,4 @@ Description
 - [[Yevelda Ovak ]] Failures: 1
 
 `$=await dv.view("generateMetaBindInput", {bindType: 'INPUT', type: 'suggester', key: 'prep-notes', options: {optionQuery: ['preps']}})`
+`$=\`${dv.page("Configuration").locations.preps}\``
