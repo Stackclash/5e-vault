@@ -38,4 +38,7 @@ Description
 - [[Seluvis Felo'melorn]] Failures: 2
 - [[Yevelda Ovak ]] Failures: 1
 - 
-`$=await dv.view('generateMetaBindInput', {bindType: 'INPUT', type: 'suggester', key: 'prep-notes'})`
+
+```dataviewjs
+await dv.view("generateMetaBindInput", {bindType: 'INPUT', type: 'suggester', key: 'prep-notes'})
+```
