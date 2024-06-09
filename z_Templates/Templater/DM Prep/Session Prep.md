@@ -1,7 +1,7 @@
 <%*
 const path = require('path')
 const dv = app.plugins.getPlugin("dataview").api
-const locationConfig = dv.page('1. DM Stuff/Configuration').locations
+const locationConfig = dv.page('Configuration').locations
 
 let date = await tp.system.prompt("What date is this session supposed to happen? (MM-DD-YYYY)")
 let formattedDate = moment(date).format("YYYY-MM-DD")
