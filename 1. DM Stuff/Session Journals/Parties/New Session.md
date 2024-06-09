@@ -37,8 +37,5 @@ Description
 - Survival Checks: 4, 17, 6; 12, 23, 17;
 - [[Seluvis Felo'melorn]] Failures: 2
 - [[Yevelda Ovak ]] Failures: 1
-- 
 
-```dataviewjs
-await dv.view("generateMetaBindInput", {bindType: 'INPUT', type: 'suggester', key: 'prep-notes', options: {optionQuery: ['preps']}})
-```
+`$=await dv.view("generateMetaBindInput", {bindType: 'INPUT', type: 'suggester', key: 'prep-notes', options: {optionQuery: ['preps']}})`
