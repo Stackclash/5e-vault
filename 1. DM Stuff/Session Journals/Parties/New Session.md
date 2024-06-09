@@ -39,4 +39,4 @@ Description
 - [[Yevelda Ovak ]] Failures: 1
 
 `$=await dv.view("generateMetaBindInput", {bindType: 'INPUT', type: 'suggester', key: 'prep-notes', options: {optionQuery: ['preps']}})`
-`$=\`${dv.page("Configuration").locations.preps}\``
+`$='INPUT[suggester(optionQuery("' + dv.page("Configuration").locations.preps + '")):prep-notes]'`
