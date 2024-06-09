@@ -24,8 +24,4 @@ if (input.options) {
     optionsString += ')'
 }
 
-const test = `\`${config.bindType}[${config.type}${optionsString}:${config.key}]\``
-
-console.log(test)
-
-dv.span(test)
+return `\`${config.bindType}[${config.type}${optionsString}:${config.key}]\``
