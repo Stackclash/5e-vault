@@ -8,7 +8,6 @@ let formattedDate = moment(date).format("YYYY-MM-DD")
 
 let parties = dv.pages(`"${locationConfig.parties}"`)
 let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => p.file.name), false, "What party is this Session for?")
-console.log(path.join(locationConfig.preps, selectedParty, formattedDate))
 
 await tp.file.move(path.join(locationConfig.preps, selectedParty, formattedDate))
 -%>
@@ -20,7 +19,8 @@ date: <% formattedDate %>
 
 ## Details to Remember
 ```dataviewjs
-dv.list(dv.pages('"1. DM Stuff/Session Journals"').file.lists.where(t => t.text.includes("#remember")).map((t) => t.text))
+const locationConfig = dv.page('Configuration').locations
+dv.list(dv.pages(`"${locationConfig.journals}"`).file.lists.where(t => t.text.includes("#remember")).map((t) => t.text))
 ```
 
 ## Strong Start  
