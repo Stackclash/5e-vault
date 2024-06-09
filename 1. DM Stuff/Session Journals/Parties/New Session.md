@@ -40,5 +40,5 @@ Description
 - 
 
 ```dataviewjs
-await dv.view("generateMetaBindInput", {bindType: 'INPUT', type: 'suggester', key: 'prep-notes'})
+await dv.view("generateMetaBindInput", {bindType: 'INPUT', type: 'suggester', key: 'prep-notes', options: {optionQuery: ['preps']}})
 ```
