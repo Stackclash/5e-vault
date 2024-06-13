@@ -6,7 +6,7 @@ const locationConfig = dv.page('Configuration').locations
 let date = await tp.system.prompt("What date is this session supposed to happen? (MM-DD-YYYY)")
 let formattedDate = moment(date).format("YYYY-MM-DD")
 
-let parties = dv.pages(`"${locationConfig.parties}"`)
+let parties = dv.pages("#party")
 let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => p.file.name), false, "What party is this Session for?")
 
 await tp.file.move(path.join(locationConfig.journals, selectedParty, formattedDate))
