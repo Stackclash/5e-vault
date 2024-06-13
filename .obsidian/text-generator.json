@@ -37,15 +37,13 @@
     "awesomePrompts": {
       "packageId": "awesomePrompts",
       "name": "Awesome Prompts",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "minTextGeneratorVersion": "0.5.7",
       "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
       "author": "f",
       "tags": "writing, brainstorming, awesome",
       "authorUrl": "https://github.com/f/awesome-chatgpt-prompts",
-      "repo": "text-gen/awesome-tg-package",
-      "installed": false,
-      "downloads": 8216
+      "repo": "text-gen/awesome-tg-package"
     },
     "tts": {
       "packageId": "tts",
