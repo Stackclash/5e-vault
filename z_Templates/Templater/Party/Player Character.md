@@ -15,7 +15,7 @@ if (currentFile) {
 }
 
 if (!selectedParty) {
-  let parties = dv.pages('"3. The Party/Parties"')
+  let parties = dv.pages('#party')
   selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => `[[${p.file.path}|${p.file.name}]]`), false, "What party is the character a part of?")
 }
 
