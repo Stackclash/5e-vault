@@ -18,7 +18,7 @@ tags:
 > ## Info
 > | | |
 > |---|---|
-> | **Party:** | `INPUT[suggester(optionQuery("3. The Party/Parties")):party]` |
+> | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
 > | **Session Date:** | `INPUT[datePicker:date]` |
 > | **Prep Notes:** | `INPUT[suggester(optionQuery("3. The Party/Session Prep")):prep-notes]` |
 > ## Fantasy Dates

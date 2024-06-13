@@ -91,7 +91,7 @@ actions:
 > ### Status
 > |||||||
 > |:---:|:---:|:---:|:---:|:---:|:---:|
-> | **Party** | `INPUT[suggester(optionQuery("3. The Party/Parties")):party]` | **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` | **Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
+> | **Party** | `INPUT[suggester(optionQuery(#party)):party]` | **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` | **Location** | `INPUT[suggester(optionQuery(#location)):location]` |
 
 > [!infobox|left clear n-th]
 > 

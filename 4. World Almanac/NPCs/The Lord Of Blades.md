@@ -47,7 +47,7 @@ dislikes: null
 > **Occupation(s)** | `INPUT[inlineList:occupation]` |
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
-> **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
+> **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
 
 # **`=this.file.name`**
 *Source: Eberron: Rising from the Last War p. 300*

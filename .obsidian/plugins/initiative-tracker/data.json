@@ -41,8 +41,8 @@
       "player": true
     },
     {
-      "note": null,
-      "path": null,
+      "note": "Seluvis Felo'melorn",
+      "path": "3. The Party/Players/Seluvis Felo'melorn.md",
       "name": "Seluvis Felo'melorn",
       "ac": 19,
       "hp": 47,
@@ -151,7 +151,6 @@
     13,
     0,
     12
-    12
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
@@ -241,7 +240,6 @@
         "tempHP": 0,
         "status": [],
         "level": 6,
-        "level": 6,
         "player": true,
         "active": false,
         "hidden": false,
@@ -263,7 +261,6 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "level": 6,
         "level": 6,
         "player": true,
         "active": false,
