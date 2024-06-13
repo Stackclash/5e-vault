@@ -1,9 +1,9 @@
 ```dataviewjs
-const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === 'Eldoria Calendar')
+const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === 'Eldoria Calendar').static
 console.log(calendarConfig)
-const months = calendarConfig.months.reduce((accum, month) => month.name, [])
-const weekdays = calendarConfig.weekdays.reduce((accum, weekday) => weekday.name, [])
-const moons = calendarConfig.moons.reduce((accum, moon) => ({name: moon.name, cycle: moon.cycle, offset: moon.offset }), [])
+const months = calendarConfig.months
+const weekdays = calendarConfig.weekdays
+const moons = calendarConfig.moons
 
 console.log(months, weekdays, moons)
 
