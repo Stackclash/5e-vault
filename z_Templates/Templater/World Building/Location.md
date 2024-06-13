@@ -1,7 +1,8 @@
 <%*
 const dv = app.plugins.getPlugin("dataview").api
+typeLocations = ['Regions', 'Settlements', 'Places of Interest']
 
-let selectedType = await tp.system.suggester(['Region', 'Settlement', 'Place of Interest'], ['Regions', 'Settlements', 'Places of Interest'], false, "What type of location is this?")
+let selectedType = await tp.system.suggester(['Region', 'Settlement', 'Place of Interest'], typeLocations, false, "What type of location is this?")
 
 await tp.file.move(`4. World Almanac/${selectedType}/` + tp.file.title)
 if (tp.config.run_mode === 0) {
@@ -32,6 +33,9 @@ religions: []
 imports: []
 exports: []
 aliases: []
+tags:
+  - location
+  - <% ['region', 'settlement', 'place-of-interest'][typeLocations.indexOf(selectedType)] %>
 ---
 > [!infobox]
 > # `=this.file.name`

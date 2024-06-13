@@ -16,6 +16,7 @@ exports: []
 aliases: []
 tags:
   - region
+  - location
 ---
 > [!infobox]
 > # `=this.file.name`

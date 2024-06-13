@@ -51,6 +51,8 @@ staff: <%* if (selectedStaff.length == 0) { %>[]<%* } %>
 <%* } -%>
 cost_modifier: 1
 items: []
+tags:
+  - shop
 ---
 > [!infobox]
 > # `=this.file.name`

@@ -2,6 +2,7 @@
 database-plugin: basic
 tags:
   - world
+  - location
 ---
 
 ```yaml:dbfolder
