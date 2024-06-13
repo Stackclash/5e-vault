@@ -1,5 +1,7 @@
 <%*
+const path = require('path')
 const dv = app.plugins.getPlugin("dataview").api
+const locationConfig = dv.page('Configuration').locations
 
 await tp.file.move('4. World Almanac/Shops/' + tp.file.title)
 if (tp.config.run_mode === 0) {
@@ -9,7 +11,7 @@ if (tp.config.run_mode === 0) {
 
 let selectMoreOwners = true
 let selectedOwners = []
-let owners = dv.pages('"4. World Almanac/NPCs"')
+let owners = dv.pages('#npc')
 
 while (selectMoreOwners) {
     let choice = await tp.system.suggester(owners.map(o => o.file.name), owners.map(o => [o.file.path, o.file.name]), false, "Who owns the shop?")
@@ -22,7 +24,7 @@ while (selectMoreOwners) {
 
 let selectMoreStaff = true
 let selectedStaff = []
-let staff = dv.pages('"4. World Almanac/NPCs"')
+let staff = dv.pages('#npc')
 
 while (selectMoreStaff) {
     let choice = await tp.system.suggester(staff.map(o => o.file.name), staff.map(o => [o.file.path, o.file.name]), false, "Who staffs the shop?")

@@ -1,4 +1,5 @@
 <%*
+const path = require('path')
 const dv = app.plugins.getPlugin("dataview").api
 const locationConfig = dv.page('Configuration').locations
 const currentFile = dv.page((tp.config.active_file && tp.config.active_file.path) || '') || {}
@@ -33,7 +34,7 @@ if (isNaN(dndBeyondInfo)) {
 const character = new tp.user.dndBeyondCharacter(dndBeyondId)
 await character.initialize()
 
-const filePath = locationConfig.players + character.name
+const filePath = path.join(locationConfig.players, character.name)
 
 if (await tp.file.exists(`${filePath}.md`) && currentTFile) {
   await app.vault.delete(currentTFile)

@@ -1,7 +1,8 @@
 <%*
+const path = require('path')
 const dv = app.plugins.getPlugin("dataview").api
 const locationConfig = dv.page('Configuration').locations
-await tp.file.move(locationConfig.npcs + tp.file.title)
+await tp.file.move(path.join(locationConfig.npcs, tp.file.title))
 if (tp.config.run_mode === 0) {
     let title = await tp.system.prompt("What is the name of the NPC?")
     await tp.file.rename(title)
