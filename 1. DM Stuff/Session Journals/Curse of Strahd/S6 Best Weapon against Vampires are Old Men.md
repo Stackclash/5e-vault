@@ -1,19 +1,15 @@
 ---
 obsidianUIMode: preview
 date: 2023-11-04T00:00:00.000Z
-summary: >-
-  The party discovers where St. Andral's Bones are kept by talking the Milvoj.
-  The bones are protected by a nest of vampire spawn in the house of Henrik, the
-  local coffin maker. After retrieving the bones and returning them to Father
-  Lucius, the party gets invited to a dinner with Baron Vargas and his family.
+summary: The party discovers where St. Andral's Bones are kept by talking the Milvoj. The bones are protected by a nest of vampire spawn in the house of Henrik, the local coffin maker. After retrieving the bones and returning them to Father Lucius, the party gets invited to a dinner with Baron Vargas and his family.
 fc-date: 973-2-13
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: '[[Curse of Strahd]]'
-prep-notes: '[[2023-11-04]]'
-fc-end: 973-214
+party: "[[Curse of Strahd]]"
+prep-notes: "[[2023-11-04]]"
+fc-end: 973-2-14
 tags:
   - session-journal
 ---
