@@ -156,7 +156,7 @@ TABLE WITHOUT ID
 	choice(!!age, "✅", "✘") as age,
 	choice(!!alignment, "✅", "✘") as alignment,
 	choice(!!location, "✅", "✘") as location
-FROM "4. World Almanac/NPCs"
+FROM #npc
 WHERE (!gender or !alignment or !location or !age)
 and file.name != "Npc"
 SORT file.name
@@ -169,7 +169,7 @@ TABLE WITHOUT ID
   choice(!!location, "✅", "✘") as location,
   choice(!contains(file.path, "Shops") or length(items) > 0, "✅", "✘") as items,
   choice(!!image or image != "z_Assets/PlaceholderImage.png", "✅", "✘") as image
-FROM "4. World Almanac/Places of Interest" or "4. World Almanac/Regions" or "4. World Almanac/Settlements" or "4. World Almanac/Shops"
+FROM #location
 WHERE (!location or (contains(file.path, "Shops") and length(items) = 0))
 and (!image or image = "z_Assets/PlaceholderImage.png")
 and !contains(list("Places of Interest", "Regions", "Settlements", "Shops"), file.name)

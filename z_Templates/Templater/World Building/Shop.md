@@ -3,7 +3,7 @@ const path = require('path')
 const dv = app.plugins.getPlugin("dataview").api
 const locationConfig = dv.page('Configuration').locations
 
-await tp.file.move('4. World Almanac/Shops/' + tp.file.title)
+await tp.file.move(path.join(locationConfig.shops, tp.file.title))
 if (tp.config.run_mode === 0) {
     let title = await tp.system.prompt("What is the name of the shop?")
     await tp.file.rename(title)
@@ -35,7 +35,7 @@ while (selectMoreStaff) {
     }
 }
 
-let parentLocations = dv.pages('"4. World Almanac/Worlds" or "4. World Almanac/Regions" or "4. World Almanac/Settlements" or "4. World Almanac/Places of Interest"')
+let parentLocations = dv.pages('#location')
 
 let selectedLocation = await tp.system.suggester(parentLocations.map(p => p.file.name), parentLocations.map(p => [p.file.path, p.file.name]), false, "Where is this shop located?")
 -%>

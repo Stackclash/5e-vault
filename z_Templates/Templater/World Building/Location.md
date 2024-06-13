@@ -10,7 +10,7 @@ if (tp.config.run_mode === 0) {
     await tp.file.rename(title)
 }
 
-let parentLocations = dv.pages('"4. World Almanac/Worlds" or "4. World Almanac/Regions" or "4. World Almanac/Settlements"')
+let parentLocations = dv.pages('#location')
 
 let selectedLocation = await tp.system.suggester(parentLocations.map(p => p.file.name), parentLocations.map(p => [p.file.path, p.file.name]), false, "Where is this place located?")
 
@@ -45,7 +45,7 @@ tags:
 >  |
 > ---|---|
 > **Pronounced:** | `INPUT[text:pronounced]` |
-> **Location:** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Regions"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Worlds")):location]` |
+> **Location:** | `INPUT[suggester(optionQuery(#location)):location]` |
 > **Resource(s):** | `INPUT[inlineListSuggester(optionQuery("6. Resources")):resources]` |
 > ###### Info
 >  |
