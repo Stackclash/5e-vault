@@ -1,17 +1,22 @@
 const matter = require('gray-matter')
+const fs = require('fs')
+const getAllFiles = require('./z_Scripts/Templater/get_all_files')
 
 function addTagsToPrepNotes() {
-    const prepNotes = app.valut.getFiles()//.filter(file => file.name.startsWith('prep_'))
-    console.log(prepNotes[0])
+    const prepNotes = getAllFiles(__dirname, '1. DM Stuff/Session Prep')
 
+    prepNotes.forEach(note => {
+        const content = fs.readFileSync(note.path, 'utf-8')
+        const tags = matter(content).data.tags
 
-    // prepNotes.forEach(note => {
-    //     const content = note.getContents()
-    //     const tags = matter(content).data.tags
-
-    //     if (!tags.includes('prep')) {
-    //         tags.push('prep')
-    //         note.setContents(matter.stringify(content, { tags }))
-    //     }
-    // })
+        if (!tags) {
+            tags = ['session-prep']
+        } else if (!tags.includes('prep')) {
+            tags.push('session-prep')
+            note.setContents(matter.stringify(content, { tags }))
+        }
+        process.exit()
+    })
 }
+
+addTagsToPrepNotes()
