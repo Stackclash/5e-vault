@@ -7,15 +7,13 @@ function addTagsToPrepNotes() {
 
     prepNotes.forEach(note => {
         const content = fs.readFileSync(note.path, 'utf-8')
-        const tags = matter(content).data.tags
+        const data = matter(content).data
+        const tags = data.tags || []
 
-        if (!tags) {
-            tags = ['session-prep']
-        } else if (!tags.includes('prep')) {
+        if (!tags.includes('session-prep')) {
             tags.push('session-prep')
-            note.setContents(matter.stringify(content, { tags }))
+            fs.writeFileSync(note.path, matter.stringify(content, { ...data, tags }))
         }
-        process.exit()
     })
 }
 
