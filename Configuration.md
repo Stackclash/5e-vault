@@ -2,20 +2,6 @@
 obsidianUIMode: preview
 active_world: "[[Eldoria]]"
 active_party: "[[Curse of Strahd]]"
-locations:
-  preps: 1. DM Stuff/Session Prep
-  journals: 1. DM Stuff/Session Journals
-  parties: 3. The Party/Parties
-  players: 3. The Party/Players
-  quests: 3. The Party/Quests
-  worlds: 4. World Almanac/Worlds
-  regions: 4. World Almanac/Regions
-  settlements: 4. World Almanac/Settlements
-  pois: 4. World Almanac/Places of Interest
-  shops: 4. World Almanac/Shops
-  npcs: 4. World Almanac/NPCs
-  groups: 4. World Almanac/Groups
-  monsters: 5. Mechanics/Bestiary
 ---
 > [!infobox]
 > | | |
@@ -101,33 +87,6 @@ actions:
   - type: input
     str: "Session Prep"
 ```
-
-# File Location Configuration
-> [!columns|no-t 3]
->> ## DM Details
->> |||
->> |:---:|:---:|
->> | Session Prep | `INPUT[text:locations.preps]` |
->> | Session Journals | `INPUT[text:locations.journals]` |
->
->> ## Player Details
->> |||
->> |:---:|:---:|
->> | Parties | `INPUT[text:locations.parties]` |
->> | Players | `INPUT[text:locations.players]` |
->> | Quests | `INPUT[text:locations.quests]` |
->
->> ## World Details
->> |||
->> |:---:|:---:|
->> | Worlds | `INPUT[text:locations.worlds]` |
->> | Regions | `INPUT[text:locations.regions]` |
->> | Settlements | `INPUT[text:locations.settlements]` |
->> | Places of Interest | `INPUT[text:locations.pois]` |
->> | Shops | `INPUT[text:locations.shops]` |
->> | NPCs | `INPUT[text:locations.npcs]` |
->> | Groups | `INPUT[text:locations.groups]` |
->> | Monsters | `INPUT[text:locations.monsters]` |
 
 # Stats
 ```dataviewjs

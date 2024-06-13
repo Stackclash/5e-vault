@@ -453,7 +453,7 @@ class DnDBeyondCharacter {
   async initialize() {
     return requestUrl(`https://character-service.dndbeyond.com/character/v5/character/${this.#id}`)
       .then(response => this.#data = response.json.data)
-      .then(() => fs.writeFileSync(path.join(app.vault.adapter.getBasePath(), 'test.json'), JSON.stringify(this, null, 2)))
+      // .then(() => fs.writeFileSync(path.join(app.vault.adapter.getBasePath(), 'test.json'), JSON.stringify(this, null, 2)))
   }
 
   #isItemActive(item) {
