@@ -1,28 +1,14 @@
 ```dataviewjs
-const months = {
-	1: 'Winterwane',
-	2: 'Rainmoot',
-	3: 'Palesun',
-	4: 'Highsun',
-	5: 'Firewane',
-	6: 'Lowsun',
-	7: 'Redfall',
-	8: 'Snowmoot',
-	9: 'Fellnight'
-}
-const days = {
-	1: 'Cinderday',
-	2: 'Terraday',
-	3: 'Twilightday',
-	4: 'Rainday',
-	5: 'Sonnetday',
-	6: 'Windday',
-	7: 'Phoenixday'
-}
+const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === 'Eldoria Calendar')
+console.log(calendarConfig)
+const months = calendarConfig.months.reduce((accum, month) => month.name, [])
+const weekdays = calendarConfig.weekdays.reduce((accum, weekday) => weekday.name, [])
+const moons = calendarConfig.moons.reduce((accum, moon) => ({name: moon.name, cycle: moon.cycle, offset: moon.offset }), [])
+
+console.log(months, weekdays, moons)
 
 const journals = dv.pages('#session-journal').filter(page => page['fc-date']).sort(page => page.date)
 const calendarApi = Calendarium.getAPI('Eldoria Calendar')
-console.log(Calendarium.plugin.calendars[0].static)
 
 journals.forEach(journal => {
 	const date = new Date(journal.date).toDateString()
