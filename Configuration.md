@@ -20,8 +20,8 @@ locations:
 > [!infobox]
 > | | |
 > |---|---|
-> | **Active World:** | `INPUT[suggester(optionQuery("4. World Almanac/Worlds")):active_world]` |
-> | **Active Party:** | `INPUT[suggester(optionQuery("3. The Party/Parties")):active_party]` |
+> | **Active World:** | `INPUT[suggester(optionQuery("#world")):active_world]` |
+> | **Active Party:** | `INPUT[suggester(optionQuery("#party")):active_party]` |
 
 # DM Tools/Calculators
 ```dataview
