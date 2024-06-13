@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-date: 2024-05-26
-summary: 
-fc-date: 
-timelines: 
+date: 2024-05-26T00:00:00.000Z
+summary: null
+fc-date: null
+timelines: null
 aat-render-enabled: true
 fc-category: Session
-party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-05-26.md|2024-05-26]]"
+party: '[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]'
+prep-notes: '[[1. DM Stuff/Session Prep/Curse of Strahd/2024-05-26.md|2024-05-26]]'
+tags:
+  - session-journal
 ---
 > [!infobox]
 > ## Info

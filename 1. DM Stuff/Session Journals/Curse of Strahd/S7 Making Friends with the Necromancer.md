@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-date: 2023-11-10
+date: 2023-11-10T00:00:00.000Z
 summary: >-
   Everyone is invited to a dinner at Baron Vargas' home. The Baron makes the
   proposition to have Ireena marry their son, Victor. He doesn't want to and
@@ -13,6 +13,8 @@ aat-render-enabled: true
 fc-category: Session
 party: '[[Curse of Strahd]]'
 prep-notes: '[[2023-11-10]]'
+tags:
+  - session-journal
 ---
 > [!infobox]
 > ## Info

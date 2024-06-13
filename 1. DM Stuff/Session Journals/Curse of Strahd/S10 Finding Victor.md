@@ -1,14 +1,24 @@
 ---
 obsidianUIMode: preview
-date: 2023-12-30
-summary: The party sets out to find Victor. They discover that he may have used his teleportation sigil to visit Gertruda. The teleportation circle takes them to the Village of Barovia. Having got there they talk the Mad Mary and Ismark Kolyanovich. Finding out that Gertruda has been missing for about a week they take the teleportation circle to get back to Vallaki, however it ends up teleporting them to Castle Ravenloft. They find Victor Vallakovich here. They decipher the trick to the teleportation system and make it to the Coffin Maker's Shop.
+date: 2023-12-30T00:00:00.000Z
+summary: >-
+  The party sets out to find Victor. They discover that he may have used his
+  teleportation sigil to visit Gertruda. The teleportation circle takes them to
+  the Village of Barovia. Having got there they talk the Mad Mary and Ismark
+  Kolyanovich. Finding out that Gertruda has been missing for about a week they
+  take the teleportation circle to get back to Vallaki, however it ends up
+  teleporting them to Castle Ravenloft. They find Victor Vallakovich here. They
+  decipher the trick to the teleportation system and make it to the Coffin
+  Maker's Shop.
 fc-date: 973-2-16
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: "[[Curse of Strahd]]"
-prep-notes: "[[2023-12-30]]"
+party: '[[Curse of Strahd]]'
+prep-notes: '[[2023-12-30]]'
+tags:
+  - session-journal
 ---
 > [!infobox]
 > ## Info

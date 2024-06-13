@@ -1,19 +1,21 @@
 ---
 obsidianUIMode: preview
-location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
+location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
 image: z_Assets/PlaceholderImage.png
-pronounced: 
+pronounced: null
 resources:
-  - "[[13 Chapter-11 Van Richtens Tower|Van Richten's Tower]]"
-population: 
-terrain: 
-rulers: 
-government: 
-army: 
-religions: 
-imports: 
-exports: 
-aliases:
+  - '[[13 Chapter-11 Van Richtens Tower|Van Richten''s Tower]]'
+population: null
+terrain: null
+rulers: null
+government: null
+army: null
+religions: null
+imports: null
+exports: null
+aliases: null
+tags:
+  - place-of-interest
 ---
 > [!infobox]
 > # `=this.file.name`

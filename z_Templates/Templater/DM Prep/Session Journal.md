@@ -21,6 +21,8 @@ aat-render-enabled: true
 fc-category: Session
 party:
 prep-notes:
+tags:
+  - session-journal
 ---
 > [!infobox]
 > ## Info

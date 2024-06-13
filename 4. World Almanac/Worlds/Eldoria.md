@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 economic_scale: 0.5
+tags:
+  - world
 ---
 
 `INPUT[number(title("Economic Scale")):economic_scale]`

@@ -1,14 +1,19 @@
 ---
 obsidianUIMode: preview
-date: 2023-07-22
-summary: Exploring the basement of the mansion. They find dark ritual items and an altar made for sacrifices. After refusing to sacrifice something they battle a large monster.
+date: 2023-07-22T00:00:00.000Z
+summary: >-
+  Exploring the basement of the mansion. They find dark ritual items and an
+  altar made for sacrifices. After refusing to sacrifice something they battle a
+  large monster.
 fc-date: 973-2-11
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-prep-notes: 
+party: '[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]'
+prep-notes: null
+tags:
+  - session-journal
 ---
 > [!infobox]
 > ## Info

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-date: 2023-12-16
+date: 2023-12-16T00:00:00.000Z
 summary: >-
   The party helps calm an entire town of angry villagers looking for revenger
   against their leader
@@ -11,6 +11,8 @@ aat-render-enabled: true
 fc-category: Session
 party: '[[Curse of Strahd]]'
 prep-notes: '[[2023-12-16]]'
+tags:
+  - session-journal
 ---
 > [!infobox]
 > ## Info

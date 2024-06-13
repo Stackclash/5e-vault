@@ -1,18 +1,20 @@
 ---
 obsidianUIMode: preview
-location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
+location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
 image: z_Assets/PlaceholderImage.png
-pronounced: 
+pronounced: null
 resources: []
-population: 
-terrain: 
+population: null
+terrain: null
 rulers: []
-government: 
-army: 
+government: null
+army: null
 religions: []
 imports: []
 exports: []
 aliases: []
+tags:
+  - place-of-interest
 ---
 > [!infobox]
 > # `=this.file.name`

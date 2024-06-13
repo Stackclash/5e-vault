@@ -1,20 +1,22 @@
 ---
 obsidianUIMode: preview
-location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
+location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
 image: z_Assets/PlaceholderImage.png
-pronounced: 
+pronounced: null
 resources:
-  - "[[06 Chapter-4 Castle Ravenloft|Castle Ravenloft]]"
-  - "[[CoS Companion - Digital - Lite.pdf#page=82|To Dine at Castle Ravenloft]]"
-population: 
-terrain: 
-rulers: 
-government: 
-army: 
-religions: 
-imports: 
-exports: 
-aliases:
+  - '[[06 Chapter-4 Castle Ravenloft|Castle Ravenloft]]'
+  - '[[CoS Companion - Digital - Lite.pdf#page=82|To Dine at Castle Ravenloft]]'
+population: null
+terrain: null
+rulers: null
+government: null
+army: null
+religions: null
+imports: null
+exports: null
+aliases: null
+tags:
+  - place-of-interest
 ---
 > [!infobox]
 > # `=this.file.name`

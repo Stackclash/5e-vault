@@ -1,14 +1,18 @@
 ---
 obsidianUIMode: preview
-date: 2023-07-08
-summary: Players were drawn together by mysterious fog and lured by the ghosts of two children (Ivy and Thorn) into a haunted mansion.
+date: 2023-07-08T00:00:00.000Z
+summary: >-
+  Players were drawn together by mysterious fog and lured by the ghosts of two
+  children (Ivy and Thorn) into a haunted mansion.
 fc-date: 973-2-11
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-prep-notes: 
+party: '[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]'
+prep-notes: null
+tags:
+  - session-journal
 ---
 > [!infobox]
 > ## Info

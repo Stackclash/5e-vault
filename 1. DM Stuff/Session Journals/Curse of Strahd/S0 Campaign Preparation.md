@@ -1,7 +1,9 @@
 ---
-date: 2023-06-24
+date: 2023-06-24T00:00:00.000Z
 summary: Went over theme of campaign and characters.
-party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+party: '[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]'
+tags:
+  - session-journal
 ---
 
 # Dungeon Master Statements/Questions

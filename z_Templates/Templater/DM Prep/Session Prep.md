@@ -13,6 +13,8 @@ await tp.file.move(path.join(locationConfig.preps, selectedParty, formattedDate)
 -%>
 ---
 date: <% formattedDate %>
+tags:
+  - session-prep
 ---
 ## Resources
 

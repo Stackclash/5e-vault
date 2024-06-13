@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 owners:
-  - "[[4. World Almanac/NPCs/Gadof Blinsky.md|Gadof Blinsky]]"
-staff: 
+  - '[[4. World Almanac/NPCs/Gadof Blinsky.md|Gadof Blinsky]]'
+staff: null
 cost_modifier: 1
-items: 
+items: null
 resources:
-  - "[[07 Chapter-5 The Town Of Vallaki#N7. Blinsky Toys|Blinsky Toys]]"
+  - '[[07 Chapter-5 The Town Of Vallaki#N7. Blinsky Toys|Blinsky Toys]]'
+tags:
+  - shop
 ---
 > [!infobox]
 > # `=this.file.name`

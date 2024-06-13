@@ -1,19 +1,21 @@
 ---
 obsidianUIMode: preview
-location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
+location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
 image: z_Assets/PlaceholderImage.png
-pronounced: 
+pronounced: null
 resources:
-  - "[[14 Chapter-12 The Wizard Of Wines|The Wizard of Wines]]"
-population: 
-terrain: 
-rulers: 
-government: 
-army: 
-religions: 
-imports: 
-exports: 
-aliases:
+  - '[[14 Chapter-12 The Wizard Of Wines|The Wizard of Wines]]'
+population: null
+terrain: null
+rulers: null
+government: null
+army: null
+religions: null
+imports: null
+exports: null
+aliases: null
+tags:
+  - place-of-interest
 ---
 > [!infobox]
 > # `=this.file.name`

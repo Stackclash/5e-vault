@@ -1,7 +1,7 @@
 ---
-
 database-plugin: basic
-
+tags:
+  - place-of-interest
 ---
 
 ```yaml:dbfolder

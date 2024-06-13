@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 owners:
-  - "[[4. World Almanac/NPCs/Urwin Martikov.md|Urwin Martikov]]"
-  - "[[4. World Almanac/NPCs/Danika Dorakova.md|Danika Dorakova]]"
+  - '[[4. World Almanac/NPCs/Urwin Martikov.md|Urwin Martikov]]'
+  - '[[4. World Almanac/NPCs/Danika Dorakova.md|Danika Dorakova]]'
 staff:
-  - "[[4. World Almanac/NPCs/Brom Martikov.md|Brom Martikov]]"
-  - "[[4. World Almanac/NPCs/Bray Martikov.md|Bray Martikov]]"
+  - '[[4. World Almanac/NPCs/Brom Martikov.md|Brom Martikov]]'
+  - '[[4. World Almanac/NPCs/Bray Martikov.md|Bray Martikov]]'
 cost_modifier: 1
 items: []
+tags:
+  - shop
 ---
 > [!infobox]
 > # `=this.file.name`

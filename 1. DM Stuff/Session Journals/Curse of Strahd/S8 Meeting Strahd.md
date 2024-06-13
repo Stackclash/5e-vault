@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-date: 2023-11-25
+date: 2023-11-25T00:00:00.000Z
 summary: >-
   The party attends the Festival of the Blazing Sun and when it ultimately falls
   apart a guard laughs at the misfortune. The Baron has him arrested. Yevelda
@@ -16,6 +16,8 @@ aat-render-enabled: true
 fc-category: Session
 party: '[[Curse of Strahd]]'
 prep-notes: '[[2023-11-25]]'
+tags:
+  - session-journal
 ---
 > [!infobox]
 > ## Info
