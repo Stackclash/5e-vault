@@ -14,6 +14,8 @@ let selectedImage = await tp.system.suggester(images, images, false, "Placeholde
 obsidianUIMode: preview
 banner: "![[PlaceholderImage.png]]"
 banner_y: 0
+tags:
+  - party
 ---
 # `=this.file.name`
 ## **Characters**

@@ -72,6 +72,8 @@ inventory: <% tp.user.build_yaml(character.inventory, 2, {name: '5. Mechanics/It
 party: "<% selectedParty%>"
 condition: <% condition %>
 location: "<% location %>"
+tags:
+  - player
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
