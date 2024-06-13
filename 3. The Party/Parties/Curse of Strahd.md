@@ -38,7 +38,7 @@ tags:
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	summary
-> FROM "1. DM Stuff/Session Journals"
+> FROM #session-journal
 > WHERE party = this.file.link
 > SORT file.frontmatter.date DESC
 >```
