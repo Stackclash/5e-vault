@@ -6,6 +6,7 @@ tags:
   - monster/cr/6
   - monster/size/medium
   - monster/type/humanoid/dusk-elf
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/kasimir-velikov.webp

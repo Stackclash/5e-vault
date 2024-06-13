@@ -6,6 +6,7 @@ tags:
   - monster/cr/3
   - monster/size/small
   - monster/type/undead
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/thornboldt-thorn-durst.webp

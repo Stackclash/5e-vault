@@ -6,6 +6,7 @@ tags:
   - monster/cr/1-4
   - monster/size/medium
   - monster/type/humanoid/mongrelfolk
+  - npc
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
   Saint Markovia]]

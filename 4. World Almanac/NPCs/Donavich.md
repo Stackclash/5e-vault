@@ -6,6 +6,7 @@ tags:
   - monster/cr/1-4
   - monster/size/medium
   - monster/type/humanoid/human
+  - npc
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 image: 4. World Almanac/NPCs/img/donavich.webp

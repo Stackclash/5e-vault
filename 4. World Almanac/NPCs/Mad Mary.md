@@ -6,6 +6,7 @@ tags:
   - monster/cr/0
   - monster/size/medium
   - monster/type/humanoid/human
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/016-cos03-04.webp

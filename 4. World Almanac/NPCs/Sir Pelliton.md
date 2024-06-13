@@ -6,7 +6,8 @@ condition: healthy
 image: >-
   https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sir-pelliton.jpg
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - Sir Pelliton
 pronounced: null

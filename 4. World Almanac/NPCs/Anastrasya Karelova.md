@@ -6,6 +6,7 @@ tags:
   - monster/cr/5
   - monster/size/medium
   - monster/type/undead
+  - npc
 location: '[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]'
 condition: healthy
 image: 4. World Almanac/NPCs/img/anastrasya-karelova.webp

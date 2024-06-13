@@ -6,7 +6,8 @@ condition: healthy
 image: >-
   https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/lord-rall.jpg
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - Lord Rall
 pronounced: null

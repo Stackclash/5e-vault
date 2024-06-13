@@ -6,7 +6,8 @@ condition: healthy
 image: >-
   https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/queen-of-bones.jpg
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - The Queen of Bones
 pronounced: null

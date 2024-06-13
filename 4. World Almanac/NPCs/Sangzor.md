@@ -6,6 +6,7 @@ tags:
   - monster/cr/1
   - monster/size/large
   - monster/type/beast
+  - npc
 location: null
 condition: healthy
 image: null

@@ -5,7 +5,8 @@ location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/orcus.webp
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - Orcus
 pronounced: null

@@ -5,7 +5,8 @@ location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/zuggtmoy.webp
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - Zuggtmoy
 pronounced: null

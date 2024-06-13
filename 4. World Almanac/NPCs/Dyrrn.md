@@ -5,7 +5,8 @@ location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/dyrrn.webp
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - Dyrrn
 pronounced: null

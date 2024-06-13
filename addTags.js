@@ -3,7 +3,7 @@ const fs = require('fs')
 const getAllFiles = require('./z_Scripts/Templater/get_all_files')
 
 function addTagToNotes(path, tag) {
-    const prepNotes = getAllFiles(__dirname, path).filter(file => file.path.endsWith('.md')
+    const prepNotes = getAllFiles(__dirname, path).filter(file => file.path.endsWith('.md'))
 
     prepNotes.forEach(note => {
         const content = fs.readFileSync(note.path, 'utf-8')
@@ -18,7 +18,7 @@ function addTagToNotes(path, tag) {
 }
 
 function removeTagFromNotes(path, tag) {
-    const prepNotes = getAllFiles(__dirname, path)
+    const prepNotes = getAllFiles(__dirname, path).filter(file => file.path.endsWith('.md'))
 
     prepNotes.forEach(note => {
         const content = fs.readFileSync(note.path, 'utf-8')
@@ -42,3 +42,4 @@ addTagToNotes('4. World Almanac/Regions', 'location')
 addTagToNotes('4. World Almanac/Settlements', 'location')
 addTagToNotes('4. World Almanac/Shops', 'shop')
 addTagToNotes('4. World Almanac/Worlds', 'location')
+addTagToNotes('4. World Almanac/NPCs', 'npc')

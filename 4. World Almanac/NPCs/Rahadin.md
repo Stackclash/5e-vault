@@ -6,6 +6,7 @@ tags:
   - monster/cr/10
   - monster/size/medium
   - monster/type/humanoid/elf
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/rahadin.webp

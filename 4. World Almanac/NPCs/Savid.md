@@ -6,6 +6,7 @@ tags:
   - monster/cr/1-2
   - monster/size/medium
   - monster/type/humanoid/dusk-elf
+  - npc
 location: null
 condition: healthy
 image: null

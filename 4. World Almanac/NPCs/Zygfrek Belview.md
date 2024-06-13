@@ -6,6 +6,7 @@ tags:
   - monster/cr/1-4
   - monster/size/medium
   - monster/type/humanoid/mongrelfolk
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/zygfrek-belview.webp

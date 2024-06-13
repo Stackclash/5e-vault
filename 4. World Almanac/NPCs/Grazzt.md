@@ -5,7 +5,8 @@ location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/grazzt.webp
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - Graz'zt
 pronounced: null

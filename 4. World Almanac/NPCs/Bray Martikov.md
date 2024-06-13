@@ -7,6 +7,7 @@ tags:
   - monster/size/small
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
+  - npc
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 image: 4. World Almanac/NPCs/img/bray-martikov.webp

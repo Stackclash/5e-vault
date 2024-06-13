@@ -6,6 +6,7 @@ tags:
   - monster/cr/1-8
   - monster/size/medium
   - monster/type/humanoid/human
+  - npc
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 condition: healthy
 image: null

@@ -6,6 +6,7 @@ tags:
   - monster/cr/10
   - monster/size/medium
   - monster/type/humanoid/human
+  - npc
 location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
 condition: healthy
 image: z_Assets/Madam Eva.webp

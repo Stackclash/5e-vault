@@ -5,7 +5,8 @@ location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/sul-khatesh.webp
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - Sul Khatesh
 pronounced: null

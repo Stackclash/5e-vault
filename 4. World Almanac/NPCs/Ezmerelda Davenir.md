@@ -6,6 +6,7 @@ tags:
   - monster/cr/8
   - monster/size/medium
   - monster/type/humanoid/human
+  - npc
 location: >-
   [[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's
   Tower]]

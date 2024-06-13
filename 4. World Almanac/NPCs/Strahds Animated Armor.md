@@ -6,6 +6,7 @@ tags:
   - monster/cr/6
   - monster/size/medium
   - monster/type/construct
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/strahds-animated-armor.webp

@@ -6,6 +6,7 @@ tags:
   - monster/cr/1
   - monster/size/tiny
   - monster/type/fiend/devil
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/060-cos05-11.webp

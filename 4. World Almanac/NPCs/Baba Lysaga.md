@@ -7,6 +7,7 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
+  - npc
 location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
 condition: healthy
 image: 4. World Almanac/NPCs/img/baba-lysaga.webp

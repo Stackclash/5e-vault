@@ -5,7 +5,8 @@ location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/hutijin.webp
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - Hutijin
 pronounced: null

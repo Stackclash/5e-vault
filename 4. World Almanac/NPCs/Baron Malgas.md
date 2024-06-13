@@ -6,7 +6,8 @@ condition: healthy
 image: >-
   https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/baron-malgas.jpg
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - Baron Malgas
 pronounced: null

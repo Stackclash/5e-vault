@@ -6,6 +6,7 @@ tags:
   - monster/cr/2
   - monster/size/medium
   - monster/type/humanoid/human
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/luvash.webp

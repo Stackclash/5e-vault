@@ -15,6 +15,9 @@ LIST WITHOUT ID file.link
 FROM "1. DM Stuff/Lookup Tables"
 ```
 
+`INPUT[suggester(optionQuery(#session-prep))]`
+
+
 # Templates
 | World Building            | Party                             |
 | ------------------------- | --------------------------------- |

@@ -6,6 +6,7 @@ tags:
   - monster/cr/1-4
   - monster/size/small
   - monster/type/construct
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/pidlwick-ii.webp

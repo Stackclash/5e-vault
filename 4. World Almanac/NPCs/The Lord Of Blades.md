@@ -5,7 +5,8 @@ location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/the-lord-of-blades.webp
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - The Lord of Blades
 pronounced: null

@@ -5,7 +5,8 @@ location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/elise.webp
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - Elise
 pronounced: null

@@ -7,6 +7,7 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/kiril-stoyanovich.webp

@@ -6,6 +6,7 @@ tags:
   - monster/cr/11
   - monster/size/gargantuan
   - monster/type/construct
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/baba-lysagas-creeping-hut.webp

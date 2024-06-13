@@ -15,6 +15,7 @@ exports: []
 aliases: []
 tags:
   - settlement
+  - location
 ---
 > [!infobox]
 > # `=this.file.name`

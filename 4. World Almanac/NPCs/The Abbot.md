@@ -6,6 +6,7 @@ tags:
   - monster/cr/10
   - monster/size/medium
   - monster/type/celestial
+  - npc
 location: null
 condition: healthy
 image: null

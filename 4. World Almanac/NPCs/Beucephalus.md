@@ -6,6 +6,7 @@ tags:
   - monster/cr/3
   - monster/size/large
   - monster/type/fiend
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/beucephalus.webp

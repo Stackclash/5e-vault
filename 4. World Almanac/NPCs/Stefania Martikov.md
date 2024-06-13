@@ -1,29 +1,30 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
-image: 
+image: null
 relationships:
   - Davian Martikov|father
   - Dag Tomescu|husband
-tags: 
+tags:
+  - npc
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
-alignment: 
-occupation: [] 
+pronounced: null
+race: null
+gender: null
+age: null
+alignment: null
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]

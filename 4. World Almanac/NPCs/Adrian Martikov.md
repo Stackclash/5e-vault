@@ -1,15 +1,18 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
+location: >-
+  [[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of
+  Wines]]
 condition: healthy
-image: 
+image: null
 relationships:
   - Davian Martikov|father
-tags: 
-aliases: 
+tags:
+  - npc
+aliases: null
 pronounced: AY-dree-an MAR-ti-kov
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 37
 alignment: Neutral Good
@@ -17,15 +20,21 @@ occupation:
   - Vintner
 groups:
   - Keepers of the Feather
-religions: 
-personality: Hardworking, practical, deeply loyal to his family and cause
+religions: null
+personality: 'Hardworking, practical, deeply loyal to his family and cause'
 ideal: We must protect our own and fight against the darkness that encroaches.
 bond: His family's legacy and the secret mission of the Keepers of the Feather.
-flaw: Tends to prioritize the greater good over individual needs, which can sometimes alienate those close to him.
+flaw: >-
+  Tends to prioritize the greater good over individual needs, which can
+  sometimes alienate those close to him.
 goals:
-  - To restore the Wizard of Wines to full production, to aid in the fight against Strahd.
-likes: The craft of winemaking, birds, the quiet of nature.
-dislikes: Threats to his family and winery, Strahd and his minions, failure to protect his loved ones
+  - >-
+    To restore the Wizard of Wines to full production, to aid in the fight
+    against Strahd.
+likes: 'The craft of winemaking, birds, the quiet of nature.'
+dislikes: >-
+  Threats to his family and winery, Strahd and his minions, failure to protect
+  his loved ones
 ---
 
 > [!infobox]

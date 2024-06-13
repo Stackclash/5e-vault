@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
+tags:
+  - npc
 ---
 # Index of Npc
 

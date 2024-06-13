@@ -6,6 +6,7 @@ tags:
   - monster/cr/7
   - monster/size/medium
   - monster/type/undead
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/vladimir-horngaard.webp

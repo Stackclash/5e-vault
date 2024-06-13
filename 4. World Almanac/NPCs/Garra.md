@@ -5,7 +5,8 @@ location: null
 condition: healthy
 image: null
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - Garra
 pronounced: null

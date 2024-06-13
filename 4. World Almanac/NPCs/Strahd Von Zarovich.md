@@ -6,6 +6,7 @@ tags:
   - monster/cr/15
   - monster/size/medium
   - monster/type/undead/shapechanger
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/153-636988936829621698.webp

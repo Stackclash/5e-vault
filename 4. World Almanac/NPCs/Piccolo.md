@@ -6,6 +6,7 @@ tags:
   - monster/cr/0
   - monster/size/small
   - monster/type/beast
+  - npc
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/piccolo.webp

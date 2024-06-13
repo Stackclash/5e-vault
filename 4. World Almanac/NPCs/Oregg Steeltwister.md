@@ -6,7 +6,8 @@ condition: healthy
 image: >-
   https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/oregg-steeltwister.jpg
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - Oregg Steeltwister
 pronounced: null

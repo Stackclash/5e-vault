@@ -6,6 +6,7 @@ tags:
   - monster/cr/10
   - monster/size/medium
   - monster/type/undead
+  - npc
 location: null
 condition: healthy
 image: null

@@ -6,7 +6,8 @@ condition: healthy
 image: >-
   https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/korsoth-vastikan.jpg
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - Korsoth Vastikan
 pronounced: null

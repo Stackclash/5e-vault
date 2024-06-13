@@ -5,7 +5,8 @@ location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/fraz-urbluu.webp
 relationships: []
-tags: null
+tags:
+  - npc
 aliases:
   - Fraz-Urb'luu
 pronounced: null

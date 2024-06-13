@@ -6,6 +6,7 @@ tags:
   - monster/cr/8
   - monster/size/medium
   - monster/type/humanoid/human
+  - npc
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 condition: healthy
 image: 4. World Almanac/NPCs/img/arrigal.webp
