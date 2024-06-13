@@ -22,7 +22,7 @@ const days = {
 
 const journals = dv.pages('#session-journal').filter(page => page['fc-date']).sort(page => page.date)
 const calendarApi = Calendarium.getAPI('Eldoria Calendar')
-console.log(Calendarium)
+console.log(Calendarium.plugin.calendars[0].static)
 
 journals.forEach(journal => {
 	const date = new Date(journal.date).toDateString()
