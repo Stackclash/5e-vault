@@ -1,5 +1,7 @@
 ```dataviewjs
-const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === 'Eldoria Calendar').static
+// const dv = app.plugins.getPlugin("dataview").api
+const calendarName = dv.page(dv.page('Configuration').active_world.path).calendar
+const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
 console.log(calendarConfig)
 const months = calendarConfig.months
 const weekdays = calendarConfig.weekdays
