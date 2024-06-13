@@ -32,9 +32,12 @@ function getDayNumberFromBeginning(month, day, year, monthsConfig) {
 			return accum
 		}
 	}, 0)
-	console.log(numberDayInYear)
+	const numberOfDaysInYear = monthsConfig.reduce((accum, monthConfig) => {
+		return accum + monthConfig.length
+	}, 0)
+	return numberDayInYear + (numberOfDaysInYear * year)
 }
-getDayNumberFromBeginning(2, 11, 973, months)
+console.log(getDayNumberFromBeginning(2, 20, 973, months) % weekdays.length)
 
 // console.log(parseDate('973-2-11'))
 
