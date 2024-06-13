@@ -1,5 +1,6 @@
 <%*
 const dv = app.plugins.getPlugin("dataview").api
+const locationConfig = dv.page('Configuration').locations
 const currentFile = dv.page((tp.config.active_file && tp.config.active_file.path) || '') || {}
 const currentTFile = tp.file.find_tfile(currentFile.file && currentFile.file.name)
 let selectedParty
@@ -32,12 +33,12 @@ if (isNaN(dndBeyondInfo)) {
 const character = new tp.user.dndBeyondCharacter(dndBeyondId)
 await character.initialize()
 
-const filePath = '3. The Party/Players/' + character.name
+const filePath = locationConfig.players + character.name
 
 if (await tp.file.exists(`${filePath}.md`) && currentTFile) {
   await app.vault.delete(currentTFile)
 }
-await tp.file.move('3. The Party/Players/' + character.name)
+await tp.file.move(filePath)
 -%>
 ---
 obsidianUIMode: preview

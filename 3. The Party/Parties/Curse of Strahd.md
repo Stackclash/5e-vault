@@ -26,7 +26,7 @@ tags:
 > race AS "Race",
 > condition AS "Condition",
 > location AS "Location"
-> FROM "3. The Party/Players"
+> FROM #player
 > WHERE contains(file.frontmatter.party, this.file.name)
 > SORT file.name asc
 > ```
