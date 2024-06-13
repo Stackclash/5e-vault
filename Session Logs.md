@@ -22,12 +22,12 @@ const days = {
 
 const journals = dv.pages('#session-journal').filter(page => page['fc-date']).sort(page => page.date)
 const calendarApi = Calendarium.getAPI('Eldoria Calendar')
+console.log(calendarApi.getStore().staticStore.months.subscribe())
 
 journals.forEach(journal => {
 	const date = new Date(journal.date).toDateString()
 	const temp = journal['fc-date'].split('-')
 	const fantasyDate = `${months[temp[1]]} ${temp[2]} ${temp[0]}`
-	console.log(calendarApi.getStore())
 	dv.header(2, `${journal.file.name} - ${fantasyDate}`)
 	dv.header(3, `${date}`)
 	dv.paragraph(journal.summary)
