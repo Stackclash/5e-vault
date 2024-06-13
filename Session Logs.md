@@ -5,6 +5,7 @@ const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === cal
 const months = calendarConfig.months
 const weekdays = calendarConfig.weekdays
 const moons = calendarConfig.moons
+console.log(Calendarium)
 
 function parseDate(date) {
 	const dateArray = date.split('-')
