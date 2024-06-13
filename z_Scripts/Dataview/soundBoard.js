@@ -1,7 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 
-const diceRollerPlugin = app.plugins.getPlugin('obsidian-dice-roller')
+const diceRollerPlugin = window.DiceRoller
 
 const vaultPath = app.vault.adapter.getBasePath()
 

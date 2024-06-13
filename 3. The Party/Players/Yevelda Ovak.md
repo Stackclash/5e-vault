@@ -427,10 +427,8 @@ label: Update From DnD Beyond
 id: updateDnDBeyond
 hidden: true
 actions:
-  - type: command
-    command: templater-obsidian:create-new-note-from-template
-  - type: input
-    str: "Player Character"
+  - type: templaterCreateNote
+    templateFile: "z_Templates/Templater/Party/Player Character.md"
 ```
 
 > [!infobox|n-th center wm-tl]

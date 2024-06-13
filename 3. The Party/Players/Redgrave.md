@@ -562,8 +562,8 @@ inventory:
     damageType: ""
     armorClass: ""
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-condition: undefined
-location: "undefined"
+condition: healthy
+location: "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]"
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
@@ -573,10 +573,8 @@ label: Update From DnD Beyond
 id: updateDnDBeyond
 hidden: true
 actions:
-  - type: command
-    command: templater-obsidian:create-new-note-from-template
-  - type: input
-    str: "Player Character"
+  - type: templaterCreateNote
+    templateFile: "z_Templates/Templater/Party/Player Character.md"
 ```
 
 > [!infobox|n-th center wm-tl]
