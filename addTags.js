@@ -4,6 +4,8 @@ const getAllFiles = require('./z_Scripts/Templater/get_all_files')
 
 function addTagToNotes(path, tag) {
     const prepNotes = getAllFiles(__dirname, path).filter(file => file.path.endsWith('.md'))
+    // console.log(prepNotes)
+    // process.exit()
 
     prepNotes.forEach(note => {
         const content = fs.readFileSync(note.path, 'utf-8')
@@ -33,13 +35,13 @@ function removeTagFromNotes(path, tag) {
     })
 }
 
-addTagToNotes('1. DM Stuff/Session Prep', 'session-prep')
-addTagToNotes('1. DM Stuff/Session Journals', 'session-journal')
-addTagToNotes('3. The Party/Parties', 'party')
-addTagToNotes('3. The Party/Players', 'player')
-addTagToNotes('4. World Almanac/Places of Interest', 'place-of-interest')
-addTagToNotes('4. World Almanac/Regions', 'location')
-addTagToNotes('4. World Almanac/Settlements', 'location')
-addTagToNotes('4. World Almanac/Shops', 'shop')
-addTagToNotes('4. World Almanac/Worlds', 'location')
-addTagToNotes('4. World Almanac/NPCs', 'npc')
+// addTagToNotes('1. DM Stuff/Session Prep', 'session-prep')
+// addTagToNotes('1. DM Stuff/Session Journals', 'session-journal')
+// addTagToNotes('3. The Party/Parties', 'party')
+// addTagToNotes('3. The Party/Players', 'player')
+addTagToNotes('4. World Almanac/Places of Interest', 'location')
+// addTagToNotes('4. World Almanac/Regions', 'location')
+// addTagToNotes('4. World Almanac/Settlements', 'location')
+// addTagToNotes('4. World Almanac/Shops', 'location')
+// addTagToNotes('4. World Almanac/Worlds', 'location')
+// addTagToNotes('4. World Almanac/NPCs', 'npc')

@@ -17,6 +17,7 @@ exports: null
 aliases: null
 tags:
   - place-of-interest
+  - location
 ---
 > [!infobox]
 > # `=this.file.name`

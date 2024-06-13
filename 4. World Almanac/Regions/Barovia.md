@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
-location: '[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]'
+location: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 image: z_Assets/Barovia_Banner.webp
 pronounced: Bar - o - via
-resources: null
-population: null
-terrain: null
+resources: 
+population: 
+terrain: 
 rulers:
-  - '[[4. World Almanac/NPCs/Strahd Von Zarovich.md|Strahd Von Zarovich]]'
-government: null
-army: null
-religions: null
-imports: []
-exports: []
-aliases: []
+  - "[[4. World Almanac/NPCs/Strahd Von Zarovich.md|Strahd Von Zarovich]]"
+government: 
+army: 
+religions: 
+imports: 
+exports: 
+aliases: 
 tags:
   - region
   - location

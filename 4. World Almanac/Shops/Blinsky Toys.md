@@ -10,6 +10,7 @@ resources:
   - '[[07 Chapter-5 The Town Of Vallaki#N7. Blinsky Toys|Blinsky Toys]]'
 tags:
   - shop
+  - location
 ---
 > [!infobox]
 > # `=this.file.name`
