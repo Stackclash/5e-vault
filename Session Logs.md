@@ -8,6 +8,7 @@ const moons = calendarConfig.moons
 
 function parseDate(date) {
 	const dateArray = date.split('-')
+	console.log(parseInt(dateArray[2])-1, parseInt(dateArray[2])-1 % weekdays.length)
 	return {
 		original: {
 			month: parseInt(dateArray[1]),
@@ -15,8 +16,8 @@ function parseDate(date) {
 			year: parseInt(dateArray[0])
 		},
 		prettyPrint: {
-			month: weekdays[parseInt(dateArray[1])+1].name,
-			day: months[parseInt(dateArray[2])+1].name,
+			month: months[parseInt(dateArray[1])-1].name,
+			day: weekdays[parseInt(dateArray[2])-1].name,
 			year: dateArray[0]
 		}
 	}
