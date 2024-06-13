@@ -20,7 +20,7 @@ const days = {
 	7: 'Phoenixday'
 }
 
-const journals = dv.pages('"1. DM Stuff/Session Journals"').filter(page => page['fc-date']).sort(page => page.date)
+const journals = dv.pages('#session-journal').filter(page => page['fc-date']).sort(page => page.date)
 const calendarApi = Calendarium.getAPI('Eldoria Calendar')
 
 journals.forEach(journal => {
