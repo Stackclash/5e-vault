@@ -11,6 +11,7 @@ function addTagToNotes(path, tag) {
         const content = fs.readFileSync(note.path, 'utf-8')
         const data = matter(content).data
         const tags = data.tags || []
+        if (note.name === 'Yester Hill.md') console.log(content, data)
 
         if (!tags.includes(tag)) {
             tags.push(tag)

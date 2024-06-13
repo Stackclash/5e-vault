@@ -30,15 +30,10 @@ FROM "1. DM Stuff/Lookup Tables"
 ```
 
 # Templates
-```dataview
-LIST file.name
-FROM #location
-```
-
 | World Building            | Party                             |
 | ------------------------- | --------------------------------- |
 | `BUTTON[create-npc]`      | `BUTTON[create-player-character]` |
-| `BUTTON[create-location]` | `BUTTON[create-session-journal]`      |
+| `BUTTON[create-location]` | `BUTTON[create-session-journal]`  |
 | `BUTTON[create-shop]`     | `BUTTON[create-session-prep]`     |
 ```meta-bind-button
 style: primary
