@@ -1,14 +1,19 @@
 ---
 obsidianUIMode: preview
 date: 2023-12-31T00:00:00.000Z
-summary: 'Back in Vallaki '
+summary: |-
+  In their investigation of Fiona Watcher's sinister activities, the party stumbled upon a hidden cellar beneath her house, adorned with deceptive occult paraphernalia. Triggering a trap that summoned skeletal warriors, they valiantly fought and overcame the undead guardians. Their confrontation with Fiona herself followed, revealing her ambitions to seize leadership in Vallaki, citing her belief that the town needed a new direction away from the faltering Vallakovich rule.
+
+  Fiona unabashedly confessed her allegiance to Strahd, presenting the party with a moral dilemma: oppose her and risk further chaos, or reluctantly accept her as a ruler to maintain some semblance of order. After much deliberation, the adventurers reluctantly decided to allow Fiona to ascend to power, judging it as the lesser evil compared to the alternative turmoil that could ensue. With heavy hearts and a sense of impending doom, the party prepared to depart Vallaki, uncertain of what the future held and whether they would ever return to confront the consequences of their decision.
+
+  As they ventured forth, the shadow of Strahd's influence loomed large over Vallaki, leaving behind a town grappling with new leadership and the unsettling knowledge of who truly held sway over its fate.
 fc-date: 973-2-16
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: '[[Curse of Strahd]]'
-prep-notes: '[[2023-12-31]]'
+party: "[[Curse of Strahd]]"
+prep-notes: "[[2023-12-31]]"
 tags:
   - session-journal
 ---
