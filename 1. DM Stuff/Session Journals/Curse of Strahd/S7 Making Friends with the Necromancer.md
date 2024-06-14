@@ -1,18 +1,17 @@
 ---
 obsidianUIMode: preview
 date: 2023-11-10T00:00:00.000Z
-summary: >-
-  Everyone is invited to a dinner at Baron Vargas' home. The Baron makes the
-  proposition to have Ireena marry their son, Victor. He doesn't want to and
-  goes to his room. The party to trying to talk to him discover that he is a
-  self taught necromancer and befriend him.
+summary: |-
+  The adventurers found themselves guests at the opulent home of Baron Vargas, whose grandiose demeanor quickly became apparent. Over dinner, the Baron expounded on his belief that his village festivals, meant to instill collective happiness, would somehow free Vallaki from Strahd's dark grip. Amidst this optimistic but delusional discourse, the Baron made a surprising proposition: he suggested that Ireena marry his son, Victor, as a means to strengthen alliances and perhaps shield her from Strahd.
+
+  Victor, clearly displeased with his father's plans, stormed off to his room in the attic. Concerned and curious, the party followed to speak with him. In Victor's secluded space, they uncovered his secret: he was a self-taught necromancer, delving into forbidden arcane arts. Rather than condemning him, the adventurers found common ground and befriended Victor, recognizing the potential of his unorthodox skills. This unexpected alliance with the Baron's rebellious son hinted at new and powerful avenues to explore in their ongoing struggle against Strahd's malevolent influence.
 fc-date: 973-2-14
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: '[[Curse of Strahd]]'
-prep-notes: '[[2023-11-10]]'
+party: "[[Curse of Strahd]]"
+prep-notes: "[[2023-11-10]]"
 tags:
   - session-journal
 ---

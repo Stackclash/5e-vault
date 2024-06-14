@@ -1,7 +1,12 @@
 ---
 obsidianUIMode: preview
 date: 2023-11-04T00:00:00.000Z
-summary: The party discovers where St. Andral's Bones are kept by talking the Milvoj. The bones are protected by a nest of vampire spawn in the house of Henrik, the local coffin maker. After retrieving the bones and returning them to Father Lucius, the party gets invited to a dinner with Baron Vargas and his family.
+summary: |-
+  Determined to restore the sanctity of St. Andral's Church, the party sought out Milivoj at his home and, through a mix of persuasion and determination, convinced him to reveal the whereabouts of the stolen bones. Their investigation led them to the Coffin Maker's Shop, where they confronted Henrik van der Voort. With a combination of intimidation and force, they compelled Henrik to confess that Strahd von Zarovich had ordered him to steal the sacred relics.
+
+  Their confrontation was violently interrupted by an attack from a group of vampire spawn. A fierce battle ensued, with Yevelda Ovak demonstrating her raw strength by hurling Henrik at one of the vampires, breaking his leg in the process. In the chaos, one spawn attempted to escape with the bones, but the party swiftly thwarted the attempt. Victorious, they returned the bones to Father Lucian, restoring the church's protective power against Barovia's encroaching evil.
+
+  Their success did not go unnoticed. That evening, the party received an unexpected invitation to dine with Baron Vargas and his family, offering a rare opportunity for respite and perhaps new alliances. Yet, the shadows of intrigue and danger in Vallaki suggest that this dinner may hold more than just food and conversation.
 fc-date: 973-2-13
 timelines:
   - COS
