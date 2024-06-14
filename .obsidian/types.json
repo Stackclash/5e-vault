@@ -33,6 +33,7 @@
     "statblock": "checkbox",
     "groups": "multitext",
     "religions": "multitext",
-    "speed": "number"
+    "speed": "number",
+    "date": "date"
   }
 }
