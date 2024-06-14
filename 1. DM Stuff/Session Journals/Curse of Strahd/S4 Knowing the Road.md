@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 date: 2023-08-26T00:00:00.000Z
-summary: >-
-  On their travels they meet a band of Vistani and get their fortune read by
-  Madam Eva. She tells them of artifacts and an ally that will help them destroy
-  Strahd.
+summary: |-
+  Continuing their harrowing journey, the party arrived at Tser Pool, where they encountered an eclectic mix of Vistani. Magda, a large woman, offered mysterious potions, while the eccentric Alek enthralled them with wild tales. Sergei, a craftsman of unsettling dolls, piqued their curiosity. Before delving further, the adventurers respectfully laid the bones of the tragic children to rest beneath a willow tree by the pool, a moment of somber peace in their otherwise perilous quest.
+
+  Their path led them to the enigmatic Madam Eva, a seer with unnerving knowledge of their backgrounds. Through a mystical tarot reading, she provided cryptic yet invaluable guidance for their quest. She spoke of a wizard's tower on a lake, hinting at ancient knowledge vital to understanding their enemy. A powerful holy symbol awaited in a dead village drowned by a river. The sword of sunlight, a weapon of vengeance, lay hidden amidst treasure beyond amber doors. She foretold of an ally—a man with a monkey, more than he seemed. Lastly, she revealed that their ultimate foe, a creature of darkness, haunted the tomb of a man he envied above all. With Madam Eva’s cryptic prophecies in mind, the adventurers now have a clearer direction, but the shadows of Barovia grow darker, and the stakes ever higher as they inch closer to their fated confrontation with Strahd.
 fc-date: 973-2-12
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: '[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]'
-prep-notes: null
+party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+prep-notes: 
 tags:
   - session-journal
 ---
@@ -37,7 +37,13 @@ Description of any important information that the party learned.
 Who Did They Meet?
 
 ## Items Of Importance
-Description
+- [Redgrave](app://obsidian.md/Redgrave) buys 5lbs of iron for 20cp
+- [Marin](app://obsidian.md/Marin) buys Potion of Growth for 75gp
+- 5 x 5gp healing potion
+- 2 x 15gp greater potion
+- Sells 2 short swords
+    - 5gp
+- 40 gp for all
 
 ## What Happened
 - Met the following NPCs at Tser Pool
@@ -45,13 +51,7 @@ Description
   - Alek (crazy) - Storyteller
   - Sergei - Vistani sells dolls
 - Buries kids' bones next to willow tree right before Tser Pool
-- [[Redgrave]] buys 5lbs of iron for 20cp
-- [[Marin]] buys Potion of Growth for 75gp
-- 5 x 5gp healing potion
-- 2 x 15gp greater potion
-- Sells 2 short swords
-	- 5gp
-- 40 gp for all
+- Madam Eva who seems to know about the players backgrounds and gives them a reading using Tarot Cards that give them direction on their quest
 
 ### Madam Eva's Reading
 This card tells of history. Knowledge of the ancient will help you better understand your enemy.
