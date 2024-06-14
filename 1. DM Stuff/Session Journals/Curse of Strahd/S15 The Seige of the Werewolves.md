@@ -31,7 +31,7 @@ tags:
 > | **Timelines:** | `INPUT[inlineList:timelines]` |
 # `=this.file.name`
 ## Session Overview
-`INPUT[textArea:summary]`
+`INPUT[textArea(class(mb-70)):summary]`
 
 ## Key Learnings
 N/A
