@@ -1,14 +1,27 @@
 ---
 obsidianUIMode: preview
 date: 2024-04-13T00:00:00.000Z
-summary: null
+summary: |-
+  As the rain began to pour and the party caught sight of a looming castle in the distance, they pressed onward, eventually arriving at Argynvostholt. The ancient castle stood shrouded in mist and mystery, beckoning them to explore its darkened halls.
+
+  Inside, Redgrave's mind was haunted by fragmented memories of a past life—a life spent as a member of the Order of the Silver Dragon, now fleeting and elusive.
+
+  Their exploration led them to Savid, a troubled soul searching for a missing Vistani girl and hiding from the relentless undead that plagued Argynvostholt's halls.
+
+  Guided by the ethereal presence of Argynvost, manifesting as a spectral fire in the form of a dragon, the party received a solemn plea: to redeem the fallen knights of the Order and relight the beacon atop the high tower, restoring the Order's noble ideals to Barovia.
+
+  Discovering the mournful revenants known as the Mournful Three, the party faced a tense confrontation. Through Redgrave's earnest diplomacy, they managed to convince one of the revenants that they sought peace, easing the immediate tension.
+
+  Their path then led them to Vladimir Horngaard, another revenant who guarded the castle. Vladimir sternly informed them of Strahd Von Zarovich's unending suffering, implying a deeper understanding of the curse that bound Barovia.
+
+  To earn passage and gain Vladimir's trust, the party agreed to undergo a trial. They boldly walked through a wall of fire, demonstrating their resolve and commitment to their mission in the land tormented by darkness.
 fc-date: 973-2-19
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: '[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]'
-prep-notes: '[[1. DM Stuff/Session Prep/Curse of Strahd/2024-04-13.md|2024-04-13]]'
+party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-04-13.md|2024-04-13]]"
 fc-end: 973-2-19
 tags:
   - session-journal

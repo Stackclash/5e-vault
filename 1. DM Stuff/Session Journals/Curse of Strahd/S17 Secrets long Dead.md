@@ -44,10 +44,10 @@ tags:
 - [[Redgrave]] finds a diary of Godfrey Gwilym
 - Savid was killed by something while the party was away
 - [[Marin]] casts [[Speak With Dead]] on Savid and asks the following questions:
-	1. What killed you?
-	2. What were you doing here?
-	3. Why can the Vistani leave?
-	4. Who imprisoned Strahd here?
+	1. What killed you? A ghost killed me
+	2. What were you doing here? Looking for a lost Vistani girl
+	3. Why can the Vistani leave? It is an ability given to them by Strahd
+	4. Who imprisoned Strahd here? There a legend of a dark power that keeps him here
 - The party discusses whether to bring Savid with them in the [[Bag Of Holding]]
 - They decide to take Savid
 - The party finds [[Redgrave]]/Godfry Gwilym's grave
