@@ -1,7 +1,10 @@
 ---
 obsidianUIMode: preview
 date: 2023-07-08T00:00:00.000Z
-summary: Players all from different ways of life and locations were drawn together by a mysterious fog before the large gates of Barovia. After traveling for a time through a dark forest covered in eerie fog they come to the Village of Barovia, an run down and seemingly abandoned village. They are lured by the ghosts of two children (Ivy and Thorn) into a haunted mansion that seems to be alive.
+summary: |-
+  In the latest chapter of our tale, the party found themselves ensnared by a sinister, mystical fog, forcing them together and leading them to the eerie Village of Barovia. There, the mournful cries of a small boy, Thorn, and his sister Rose guided them to the ominous Death House. The children, pleading for the rescue of their infant brother Walter, set the adventurers on a perilous path. Upon entering the house, the doors slammed shut, trapping them inside. Desperate, the party used fiery magic to blast their way out, only to resolve to re-enter in a determined bid to save Walter.
+
+  Inside, they faced numerous horrors, including an encounter with an enchanted suit of armor. Yevelda Ovak, ever vigilant, scoured under every rug for hidden secrets. Their search led them to the attic where they discovered the tragic remains of Thorn and Rose, who had been imprisoned there. With the children's bones, the party sought to lay their spirits to rest. Guided by the ghost of Rose, they uncovered a hidden passage leading to the basement. There, amid the eerie stillness, they discovered the crypts of the house’s former inhabitants, setting the stage for the next haunting revelation in their dark journey. The weight of their mission and the secrets of the Death House loomed heavily, promising more peril and mystery ahead.
 fc-date: 973-2-11
 timelines:
   - COS
