@@ -40,8 +40,12 @@ Description
 ## What Happened
 - [[Izek Strazni]] and [[Ireena Kolyana]] stay in [[Van Richten's Tower]] 
 - [[Ezmerelda Davenir]] leaves going east to find Richten
+- A rain storm begins as the party sees a castle in the distance
 - The party discovers [[Argynvostholt]] and begin exploring
+- [[Redgrave]] is plagued by half remembered memories of a previous life as a member of the order of the Silver Dragon
 - The party finds Savid who was looking for a missing Vistani girl and was hiding from all of the undead
+- Argynvost's spirit as a fire in the shape of a dragon says to the party, "My knights have fallen to darkness. Redeem them! Show them the light they have lost! Light the high tower’s beacon and let the ideals of the Order shine upon Barovia once again!"
+- Argynvost was a silver dragon and the leader of the order of the Silver Dragon
 - The party confronts and fights the mournful 3
 - [[Redgrave]] is able to convince the [[5. Mechanics/Bestiary/Undead/Revenant|Revenant]] that they come in peace
 - The party is brought before [[Vladimir Horngaard]] and was told that [[4. World Almanac/NPCs/Strahd Von Zarovich|Strahd Von Zarovich's]] suffering must not end
