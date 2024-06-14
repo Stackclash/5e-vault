@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 date: 2023-07-22T00:00:00.000Z
-summary: >-
-  Exploring the basement of the mansion. They find dark ritual items and an
-  altar made for sacrifices. After refusing to sacrifice something they battle a
-  large monster.
+summary: |-
+  The party delved deeper into the chilling basement of the Death House, uncovering a macabre history of the cultists who once revered the dark lord, Strahd Von Zarovich. Seluvis Felo'melorn, drawn to a statue of Strahd, boldly took a glowing orb from its grip, while Marin collected several ominous trinkets. Their exploration led them to a grand, foreboding chamber clearly designed for sacrificial rituals.
+
+  As they investigated, Yevelda Ovak inadvertently triggered the wrathful spirits of the cultists by leaning on the blood-stained altar, inciting a ghostly chant of "One must die." Faced with the echoing demands of the dead, the party decided to retreat, but their departure summoned a nightmarish Gibbering Mouther and a horde of zombies. Now, trapped in the bowels of the Death House with monstrosities closing in, the adventurers must fight for their lives, the stakes higher than ever as the shadows of Barovia tighten their grip around them.
 fc-date: 973-2-11
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: '[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]'
-prep-notes: null
+party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+prep-notes: 
 tags:
   - session-journal
 ---
