@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2023-07-08T00:00:00.000Z
-summary: Players all from different ways of life and locations were drawn together by a mysterious fog before the large gates of Barovia. After traveling for a time through a dark forest covered in eerie fog they come to the Village of Barovia and lured by the ghosts of two children (Ivy and Thorn) into a haunted mansion.
+summary: Players all from different ways of life and locations were drawn together by a mysterious fog before the large gates of Barovia. After traveling for a time through a dark forest covered in eerie fog they come to the Village of Barovia, an run down and seemingly abandoned village. They are lured by the ghosts of two children (Ivy and Thorn) into a haunted mansion that seems to be alive.
 fc-date: 973-2-11
 timelines:
   - COS
@@ -54,4 +54,4 @@ tags:
 - They make their way to the attic where they find the room that the children were kept.
 	- The party takes the bones of the children to put to rest
 - Guided by the ghost of Rose they find the secret door to the basement
-- In the basement they find the crypts of the family that owned the hou
+- In the basement they find the crypts of the family that owned the house.
