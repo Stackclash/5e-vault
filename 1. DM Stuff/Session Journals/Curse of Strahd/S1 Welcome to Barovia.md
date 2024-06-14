@@ -29,7 +29,7 @@ tags:
 > | **Timelines:** | `INPUT[inlineList:timelines]` |
 # `=this.file.name`
 ## Session Overview
-`INPUT[textArea:summary]`
+`INPUT[textArea(class(mb-75)):summary]`
 
 ## Key Learnings
 - Cultists that lived in the Death House looked up to [[Strahd Von Zarovich]]

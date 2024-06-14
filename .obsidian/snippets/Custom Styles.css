@@ -5,24 +5,29 @@
 } */
 
 /* Metabind classes to use */
-.mb-35 input {
-  width: 35px;
+.mb-35 {
+  display: inline-block;
+  width: 35%;
 }
 
-.mb-45 input {
-  width: 45px;
+.mb-45 {
+  display: inline-block;
+  width: 45%;
 }
 
-.mb-55 input {
-  width: 55px;
+.mb-55 {
+  display: inline-block;
+  width: 55%;
 }
 
-.mb-75 input {
-  width: 75px;
+.mb-75 {
+  display: inline-block;
+  width: 75%;
 }
 
-.mb-100 input {
-  width: 100px;
+.mb-100 {
+  display: inline-block;
+  width: 100%;
 }
 
 /* Hides File Name in Meta Bind Image Suggester */
