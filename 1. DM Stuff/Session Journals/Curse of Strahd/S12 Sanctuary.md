@@ -1,14 +1,20 @@
 ---
 obsidianUIMode: preview
 date: 2024-01-21T00:00:00.000Z
-summary: ''
+summary: |-
+  
+  Following their preparations and acquisitions, including Boots of Striding and Springing from Urwin Martikov, Assassin's Blood purchased by Marin, and the generous gifts of Elven Chain and Cloak of Elvenkind from Szoldar Szoldarovich and Yevgeni Krushkin, the party stocked up on healing potions and equipment. Gadof Blinsky's enhancements to Nyxia and the provision of Eyes of Minute Seeing further fortified their capabilities. With a wagon and draft horses secured, the adventurers set off to escort Ireena to Krezk.
+
+  Their journey led them to a mysterious tower ensconced on a small island in the heart of a lake. Covered in creeping vegetation and showing signs of decay, the tower presented a formidable challenge: a magical lock that required a unique dance to unlock, solved deftly by Seluvis. Inside, they encountered four golems operating an ancient elevator that ascended to the tower's top floor.
+
+  Here, amidst a recently used living area, they discovered the coveted Tome of Strahd. This pivotal artifact promised deeper insights into their nemesis and the dark history of Barovia. With the tome in hand, the party now faced crucial decisions about their next steps in confronting the looming shadow of Strahd Von Zarovich.
 fc-date: 973-2-17
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: '[[Curse of Strahd]]'
-prep-notes: '[[2024-01-21]]'
+party: "[[Curse of Strahd]]"
+prep-notes: "[[2024-01-21]]"
 tags:
   - session-journal
 ---
