@@ -5,7 +5,6 @@ const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === cal
 const months = calendarConfig.months
 const weekdays = calendarConfig.weekdays
 const moons = calendarConfig.moons
-console.log(Calendarium)
 
 function parseDate(date) {
 	const dateArray = date.split('-'),
@@ -20,14 +19,14 @@ function parseDate(date) {
 		},
 		prettyPrint: {
 			month: months[month-1].name,
-			day: weekdays[day-1].name,
+			day: weekdays[getDayNumberFromBeginning(month, day, year, months) % weekdays.length].name,
 			year
 		}
 	}
 }
 
-function getDayNumberFromBeginning(month, day, year, monthsConfig) {
-	const numberDayInYear = monthsConfig.reduce((accum, monthConfig, index) => {
+function getDayNumberFromBeginning(month, day, year) {
+	const numberDayInYear = months.reduce((accum, monthConfig, index) => {
 		if ((month-1) === index) {
 			return accum + day
 		} else if (index < (month-1)) {
@@ -36,12 +35,12 @@ function getDayNumberFromBeginning(month, day, year, monthsConfig) {
 			return accum
 		}
 	}, 0)
-	const numberOfDaysInYear = monthsConfig.reduce((accum, monthConfig) => {
+	const numberOfDaysInYear = months.reduce((accum, monthConfig) => {
 		return accum + monthConfig.length
 	}, 0)
 	return numberDayInYear + (numberOfDaysInYear * (year+1))
 }
-console.log(getDayNumberFromBeginning(2, 21, 973, months) % weekdays.length)
+console.log(parseDate('973-2-20'))
 
 // console.log(parseDate('973-2-11'))
 
