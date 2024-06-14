@@ -8,17 +8,20 @@ const moons = calendarConfig.moons
 console.log(Calendarium)
 
 function parseDate(date) {
-	const dateArray = date.split('-')
+	const dateArray = date.split('-'),
+		month = parseInt(dateArray[1]),
+		day = parseInt(dateArray[2]),
+		year = parseInt(dateArray[0])
 	return {
 		original: {
-			month: parseInt(dateArray[1]),
-			day: parseInt(dateArray[2]),
-			year: parseInt(dateArray[0])
+			month,
+			day,
+			year
 		},
 		prettyPrint: {
-			month: months[parseInt(dateArray[1])-1].name,
-			day: weekdays[parseInt(dateArray[2])-1].name,
-			year: dateArray[0]
+			month: months[month-1].name,
+			day: weekdays[day-1].name,
+			year
 		}
 	}
 }
@@ -36,9 +39,9 @@ function getDayNumberFromBeginning(month, day, year, monthsConfig) {
 	const numberOfDaysInYear = monthsConfig.reduce((accum, monthConfig) => {
 		return accum + monthConfig.length
 	}, 0)
-	return numberDayInYear + (numberOfDaysInYear * year)
+	return numberDayInYear + (numberOfDaysInYear * (year+1))
 }
-console.log(getDayNumberFromBeginning(2, 20, 973, months) % weekdays.length)
+console.log(getDayNumberFromBeginning(2, 21, 973, months) % weekdays.length)
 
 // console.log(parseDate('973-2-11'))
 
