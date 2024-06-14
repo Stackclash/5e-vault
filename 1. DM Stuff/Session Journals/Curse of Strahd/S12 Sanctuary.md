@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 date: 2024-01-21T00:00:00.000Z
 summary: |-
-  
-  Following their preparations and acquisitions, including Boots of Striding and Springing from Urwin Martikov, Assassin's Blood purchased by Marin, and the generous gifts of Elven Chain and Cloak of Elvenkind from Szoldar Szoldarovich and Yevgeni Krushkin, the party stocked up on healing potions and equipment. Gadof Blinsky's enhancements to Nyxia and the provision of Eyes of Minute Seeing further fortified their capabilities. With a wagon and draft horses secured, the adventurers set off to escort Ireena to Krezk.
+  Following meticulous preparations and acquisitions, including Boots of Striding and Springing from Urwin Martikov, Assassin's Blood purchased by Marin, and generous gifts of Elven Chain and Cloak of Elvenkind from Szoldar Szoldarovich and Yevgeni Krushkin, the party stocked up on healing potions and equipment. Gadof Blinsky's enhancements to Nyxia with Docent qualities and the provision of Eyes of Minute Seeing further bolstered their resources. With a wagon and draft horses secured, the adventurers embarked on their journey to escort Ireena to Krezk.
 
-  Their journey led them to a mysterious tower ensconced on a small island in the heart of a lake. Covered in creeping vegetation and showing signs of decay, the tower presented a formidable challenge: a magical lock that required a unique dance to unlock, solved deftly by Seluvis. Inside, they encountered four golems operating an ancient elevator that ascended to the tower's top floor.
+  After traveling through the mist-shrouded lands of Barovia, they arrived at a foreboding tower standing solitary on a small island amidst a murky lake. The tower, enveloped in creeping vegetation and showing signs of decay, harbored a surprise—a colorful wagon filled with monster hunting gear, abandoned by its elusive owner.
 
-  Here, amidst a recently used living area, they discovered the coveted Tome of Strahd. This pivotal artifact promised deeper insights into their nemesis and the dark history of Barovia. With the tome in hand, the party now faced crucial decisions about their next steps in confronting the looming shadow of Strahd Von Zarovich.
+  The tower's entrance posed a challenge with a magical lock that demanded a unique dance to unlock, a puzzle swiftly solved by Seluvis. Inside, they encountered four golems operating an ancient elevator that led to the top floor. There, amidst evidence of recent habitation, they discovered the coveted Tome of Strahd. This pivotal artifact promised crucial insights into their nemesis and the dark history of Barovia, propelling them deeper into their quest with newfound determination and purpose.
 fc-date: 973-2-17
 timelines:
   - COS
