@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 date: 2024-02-24T00:00:00.000Z
 summary: |-
-  As the party delved into the Tome of Strahd, they were unexpectedly transported into a vivid memory of Castle Ravenloft's courtyard, witnessing a young Strahd von Zarovich in his formative years. They interacted with him during a training session with Rahadin, the Zarovich family chamberlain, where the young lord struggled under the weight of familial expectations and impending sibling rivalry.
+  As the party delved into the Tome of Strahd, they were transported into a vivid memory of Castle Ravenloft's courtyard, witnessing a young Strahd von Zarovich training with Rahadin, his chamberlain. They conversed with the young Strahd, learning of his impending sibling's birth and the pressures he felt as heir to the Zarovich legacy.
 
-  Returning to the tower, they discovered a magical wand on a desk that had mysteriously appeared, alongside a chest containing a preserved severed head. Marin, intrigued by whispers promising knowledge, accepted the ability to communicate with the head, revealing it belonged to Yan, a Vistani slain by a traveler named Rictavio.
+  Returning abruptly to the tower, they discovered a magical wand and a chest containing a preserved severed head named Yan, a Vistani killed by Rictavio. Marin, intrigued by whispered promises, used the power offered to communicate with Yan, unraveling details of his tragic fate.
 
-  Deciphering the second chapter of the Tome, the party found themselves embroiled in a battle at the village of Zmei, where they fought in Strahd's name against members of the Order of the Silver Dragon. This encounter stirred buried memories in Redgrave, hinting at his possible connection to this noble order.
+  Decoding the Tome's second chapter, they found themselves thrust into a battle in Strahd's name against the village of Zmei, defended by members of the Order of the Silver Dragon. This encounter stirred memories in Redgrave, hinting at his possible affiliation with this noble order.
 
-  Outside the Tome once more, Redgrave experimented with the wand and discovered its remarkable ability to repair and manipulate the tower itself, unveiling new possibilities and potentials for their ongoing quest. As they continued to unravel the secrets within the Tome of Strahd, each revelation brought them closer to understanding their adversary and the dark history that bound them to Barovia.
+  Outside the Tome once more, Redgrave experimented with the wand's abilities, discovering its power to repair and control the tower itself. Amidst their exploration, they were interrupted by Ezmerelda, a fierce monster hunter seeking her mentor, Rudolph van Richten. Tensions eased as introductions were made, and the party realized they had gained a powerful ally in their quest against Strahd. Together, they prepared to delve deeper into Barovia's secrets, armed with newfound knowledge and companionship.
 fc-date: 973-2-17
 timelines:
   - COS

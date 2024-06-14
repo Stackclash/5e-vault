@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2024-03-09T00:00:00.000Z
-summary: The party uses the wand they found to return the tower to its former glory. As they continue to use it the power of the wand seems to grow until a mysterious mystical door appears on a wall. When they go in they find themselves in a dark dimension where the air is acrid and the ground is littered with bones. The meet Khazan, the previous owner of the tower, who has gone mad trying to escape his prison and has transformed into a hideous beast with long limbs and sharp claws. After defeating Khazan they escape the dark dimension back into the tower.
+summary: ""
 fc-date: 973-2-17
 timelines:
   - COS
