@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 date: 2023-12-16T00:00:00.000Z
-summary: >-
-  The party helps calm an entire town of angry villagers looking for revenger
-  against their leader
+summary: |-
+  In the aftermath of Strahd's brutal attack on Vallaki, the party emerged as crucial defenders, restoring order and aiding in the cleanup at St. Andral's Church. However, their efforts were overshadowed by the sudden disappearance of Baron Vargas Vallakovich and his family, who were found holed up in their mansion under heavy guard, sparking outrage among the villagers left vulnerable during the assault.
+
+  As tensions mounted, a quiet but seething mob formed, fueled by resentment and led by the charismatic and manipulative Fiona Wachter. The mob's fury escalated overnight, culminating in a brazen attempt to execute the Baron and his wife in the town square come morning. Amidst this chaos, Yevelda Ovak's unexpected flirtation with Izek Strazni added an unpredictable element to the volatile situation.
+
+  The party intervened just in time, preventing the execution and whisking the Baron and his wife to safety. However, amidst the turmoil, the whereabouts of Victor, the Baron's necromancer son, remained unknown, raising concerns about his safety and potential influence in the unfolding crisis gripping Vallaki.
 fc-date: 973-2-15
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: '[[Curse of Strahd]]'
-prep-notes: '[[2023-12-16]]'
+party: "[[Curse of Strahd]]"
+prep-notes: "[[2023-12-16]]"
 tags:
   - session-journal
 ---
