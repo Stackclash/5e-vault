@@ -5,7 +5,7 @@
   "api_key": "",
   "encrypt_keys": false,
   "selectedProvider": "OpenAI Chat (Langchain)",
-  "max_tokens": 500,
+  "max_tokens": 1000,
   "temperature": 0.7,
   "frequency_penalty": 0.5,
   "showStatusBar": true,
@@ -13,8 +13,8 @@
   "freeCursorOnStreaming": false,
   "allowJavascriptRun": false,
   "experiment": false,
-  "promptsPath": "z_Templates/Text Generator",
-  "textGenPath": "textgenerator/",
+  "promptsPath": "z_Templates/Text Generator/Templates",
+  "textGenPath": "z_Templates/Text Generator/Backups/",
   "prefix": "\n\n",
   "tgSelectionLimiter": "^\\*\\*\\*",
   "stream": true,
@@ -92,7 +92,8 @@
       "basePath": "https://api.openai.com/v1",
       "model": "gpt-4",
       "api_key": ""
-    }
+    },
+    "Ollama (Langchain)": {}
   },
   "LLMProviderOptionsKeysHashed": {
     "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-Pkpvknsf3QZ8BmHSfYuhT3BlbkFJZfqD8ll38AI0MAglYmwV"

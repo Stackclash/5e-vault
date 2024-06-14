@@ -1,16 +1,14 @@
 ---
 obsidianUIMode: preview
 date: 2023-07-08T00:00:00.000Z
-summary: >-
-  Players were drawn together by mysterious fog and lured by the ghosts of two
-  children (Ivy and Thorn) into a haunted mansion.
+summary: Players all from different ways of life and locations were drawn together by a mysterious fog before the large gates of Barovia. After traveling for a time through a dark forest covered in eerie fog they come to the Village of Barovia and lured by the ghosts of two children (Ivy and Thorn) into a haunted mansion.
 fc-date: 973-2-11
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: '[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]'
-prep-notes: null
+party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+prep-notes: 
 tags:
   - session-journal
 ---
@@ -56,4 +54,4 @@ tags:
 - They make their way to the attic where they find the room that the children were kept.
 	- The party takes the bones of the children to put to rest
 - Guided by the ghost of Rose they find the secret door to the basement
-- In the basement they find the crypts of the family that owned the house.
+- In the basement they find the crypts of the family that owned the hou
