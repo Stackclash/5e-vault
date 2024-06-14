@@ -1,7 +1,13 @@
 ---
 obsidianUIMode: preview
 date: 2024-03-09T00:00:00.000Z
-summary: The party uses the wand they found to return the tower to its former glory. As they continue to use it the power of the wand seems to grow until a mysterious mystical door appears on a wall. When they go in they find themselves in a dark dimension where the air is acrid and the ground is littered with bones. They meet Khazan, the previous owner of the tower, who has gone mad trying to escape his prison and has transformed into a hideous beast with long limbs and sharp claws. After defeating Khazan they escape the dark dimension back into the tower.
+summary: |-
+  
+  Using the powerful wand discovered in the tower, the party meticulously restored the structure to its former grandeur. As they continued to harness its growing potency, a mysterious door materialized on a previously barren wall. Venturing through, they were transported to a grim dimension where the air was thick with decay and the ground strewn with bones. Here, they confronted Khazan, the tower's former owner driven mad by his relentless attempts to escape, transforming into a grotesque beast with formidable claws and elongated limbs.
+
+  In a fierce battle, the party prevailed over Khazan, freeing him from his nightmarish existence and returning to the safety of the tower. Marin, guided by whispered offers from her dark patron, made a pact to animate the preserved head they had discovered earlier. Through this grisly communion, they learned the head belonged to Yan, a Vistani slain by a traveler known as Rictavio.
+
+  Meanwhile, Faerah Duskrane was contacted by Eilistraee through her pendant, beseeching her to become a champion in the struggle to liberate the oppressed souls of Barovia. With newfound powers, alliances, and daunting challenges ahead, the party stood ready to confront the pervasive darkness that gripped the land, their resolve strengthened by each revelation and encounter.
 fc-date: 973-2-17
 timelines:
   - COS
