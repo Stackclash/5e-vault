@@ -1,14 +1,27 @@
 ---
 obsidianUIMode: preview
 date: 2024-05-11T00:00:00.000Z
-summary: null
+summary: |-
+  The party's exploration of Barovia led them through a series of profound discoveries and perilous encounters, revealing deeper layers of the realm's haunted history. They unearthed the diary of Godfrey Gwilym, shedding light on his past affiliations with Argynvostholt and the Order of the Silver Dragon, which would prove crucial in their ongoing quest.
+
+  During their discussion with Vladimir Horngaard, tragedy struck as Savid met his end at the hands of a malevolent ghost. His death served as a stark reminder of the pervasive dangers lurking within the castle's walls, where even the spirits of the past held sway.
+
+  Marin's spell, Speak with Dead, enabled a brief communion with Savid's spirit. Through it, they learned key details: he had been hunting for a missing Vistani girl, the Vistani possessed the ability to leave Barovia due to a gift from Strahd, and there were legends hinting at a dark power that bound Strahd to his cursed domain.
+
+  After deliberation, the party chose to carry Savid's remains with them, honoring his quest and seeking perhaps to fulfill it in his stead. This decision underscored their commitment to unraveling the mysteries that entangled the fates of those within Barovia.
+
+  In a poignant moment, Marin uncovered Redgrave's grave and discovered a delicate silver dragon crafted from silver wire. Touching the dragon triggered a profound vision for Redgrave, revealing fragments of his past friendship with Emeric and their fateful encounter with Eludrax, the entity responsible for Redgrave's creation.
+
+  Their journey southward brought them to the ruined town of Berez, where they encountered ghostly apparitions of long-deceased villagers, oblivious to the living world around them. Only the Burgomaster Ulrich seemed attuned to the present, warning the party about the malevolent witch residing amidst the town's decay.
+
+  Throughout these experiences, the party not only confronted external threats but also delved deeper into the personal histories and intertwined destinies that bound them to the cursed land of Barovia.
 fc-date: 973-2-19
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: '[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]'
-prep-notes: '[[1. DM Stuff/Session Prep/Curse of Strahd/2024-05-11.md|2024-05-11]]'
+party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-05-11.md|2024-05-11]]"
 fc-end: 973-2-20
 tags:
   - session-journal
