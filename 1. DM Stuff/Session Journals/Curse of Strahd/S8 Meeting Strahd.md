@@ -1,21 +1,17 @@
 ---
 obsidianUIMode: preview
 date: 2023-11-25T00:00:00.000Z
-summary: >-
-  The party attends the Festival of the Blazing Sun and when it ultimately falls
-  apart a guard laughs at the misfortune. The Baron has him arrested. Yevelda
-  stands up for the guard and is arrested as well. During a sermon given by
-  Father Lucian, the bones of St. Andral are secretly stolen and Strahd shows up
-  with a hoard of vampire spawn and starts killing everyone. Faerah is able to
-  intercept the bones and return them casting Strahd and his hoard out of the
-  church.
+summary: |-
+  The party attended the much-anticipated Festival of the Blazing Sun, a cornerstone of Baron Vargas's attempts to foster cheer and defiance against Strahd. However, as the festival unfolded, a torrential downpour thwarted the Baron's plans, rendering the grand bonfire unlit. Amid the chaos, a guard's ill-timed laughter at the Baron's misfortune led to his immediate arrest. Yevelda, ever the stalwart protector of justice, stood up for the guard and found herself arrested as well, further straining relations with the Baron.
+
+  As tensions simmered, the congregation gathered for a sermon by Father Lucian. Unbeknownst to them, the sacred bones of St. Andral were once again stolen. Seizing the moment of vulnerability, Strahd himself appeared at the church's doorstep, leading a horde of vampire spawn in a brutal assault on the unsuspecting villagers. Chaos erupted as Strahd and his minions wreaked havoc. In a desperate bid to save the town, Faerah intercepted the stolen bones, bravely returning them to their rightful place. The relics' restored power surged through the church, casting Strahd and his dark brood out and granting the beleaguered townsfolk a brief but crucial reprieve from the vampire lord's wrath.
 fc-date: 973-2-15
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: '[[Curse of Strahd]]'
-prep-notes: '[[2023-11-25]]'
+party: "[[Curse of Strahd]]"
+prep-notes: "[[2023-11-25]]"
 tags:
   - session-journal
 ---
