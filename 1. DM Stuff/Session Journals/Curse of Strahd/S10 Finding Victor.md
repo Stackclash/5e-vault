@@ -59,7 +59,7 @@ Things I need to get ready before the session:
 ## Plan
 High story beats, main things I want to happen this session.
 - [ ] Victor took his teleportation circle to [[Gertruda]]
-	- [ ] [[CoS Companion - Digital - Lite.pdf#page=113]]
+	- [ ] [[Curse of Strahd Companion.pdf#page=113]]
 - [ ] [[Gertruda|Gertruda's]] teleportation circle teleports to [[06 Chapter-4 Castle Ravenloft#K78. Brazier Room|Castle Ravenloft's Brazier Room]]
 
 # Session
