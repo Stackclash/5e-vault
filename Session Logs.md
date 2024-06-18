@@ -1,3 +1,6 @@
+---
+test: Hello
+---
 ```dataviewjs
 // const dv = app.plugins.getPlugin("dataview").api
 const calendarName = dv.page(dv.page('Configuration').active_world.path).calendar
