@@ -2,19 +2,14 @@
 obsidianUIMode: preview
 date: 2024-05-11T00:00:00.000Z
 summary: |-
-  The party's exploration of Barovia led them through a series of profound discoveries and perilous encounters, revealing deeper layers of the realm's haunted history. They unearthed the diary of Godfrey Gwilym, shedding light on his past affiliations with Argynvostholt and the Order of the Silver Dragon, which would prove crucial in their ongoing quest.
+  
+  Redgrave discovered the diary of Godfrey Gwilym, a significant find as it unveiled the identity of the man he used to be. Meanwhile, the party faced a somber moment upon learning that Savid had been killed by a ghost during their absence. To uncover the circumstances of his death, Marin cast Speak With Dead on Savid and asked several questions. They learned that a ghost had killed him while he was searching for a lost Vistani girl. Savid also revealed that the Vistani could leave Barovia due to a special ability granted by Strahd and mentioned a legend about a dark power imprisoning Strahd in Barovia.
 
-  During their discussion with Vladimir Horngaard, tragedy struck as Savid met his end at the hands of a malevolent ghost. His death served as a stark reminder of the pervasive dangers lurking within the castle's walls, where even the spirits of the past held sway.
+  The party debated whether to bring Savid's remains with them in their Bag of Holding and ultimately decided to take him along. Their exploration continued as they found Redgrave's, or rather Godfrey Gwilym's, grave. Marin dug up the grave and found a silver dragon made from silver wire. Upon touching the silver dragon, Redgrave experienced a vivid flashback of a close friend named Emeric. The vision revealed that Emeric had left to investigate a danger, which turned out to be Eludrax, the being responsible for Redgrave's creation. Godfrey had followed his friend, leading to an eventual battle with Eludrax.
 
-  Marin's spell, Speak with Dead, enabled a brief communion with Savid's spirit. Through it, they learned key details: he had been hunting for a missing Vistani girl, the Vistani possessed the ability to leave Barovia due to a gift from Strahd, and there were legends hinting at a dark power that bound Strahd to his cursed domain.
+  Their journey took a tense turn when Strahd intercepted the party, grappling Seluvis and threatening to kill him while demanding to know Ireena Kolyana's whereabouts. The party managed to feign ignorance regarding Ireena's location, avoiding immediate conflict with Strahd.
 
-  After deliberation, the party chose to carry Savid's remains with them, honoring his quest and seeking perhaps to fulfill it in his stead. This decision underscored their commitment to unraveling the mysteries that entangled the fates of those within Barovia.
-
-  In a poignant moment, Marin uncovered Redgrave's grave and discovered a delicate silver dragon crafted from silver wire. Touching the dragon triggered a profound vision for Redgrave, revealing fragments of his past friendship with Emeric and their fateful encounter with Eludrax, the entity responsible for Redgrave's creation.
-
-  Their journey southward brought them to the ruined town of Berez, where they encountered ghostly apparitions of long-deceased villagers, oblivious to the living world around them. Only the Burgomaster Ulrich seemed attuned to the present, warning the party about the malevolent witch residing amidst the town's decay.
-
-  Throughout these experiences, the party not only confronted external threats but also delved deeper into the personal histories and intertwined destinies that bound them to the cursed land of Barovia.
+  Continuing south, they arrived in the ruined town of Berez. Here, they encountered the ghosts of long-dead villagers who seemed oblivious to the living. The party met the Burgomaster Ulrich, the only one aware of their presence. Ulrich warned them of the dangers in Berez, particularly cautioning them about a witch who resided there.
 fc-date: 973-2-19
 timelines:
   - COS
