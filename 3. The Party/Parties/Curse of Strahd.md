@@ -17,11 +17,10 @@ tags:
 ---
 # `=this.file.name`
 ## **Characters**
-> [!cards| 5]
-> ```dataviewjs
-> const players = dv.pages('#player').filter(p => dv.current().file.path = p.party.path )
-> dv.span(players.map(p => `> ${p.file.name}`).join(`\n>\n`))
-> ```
+```dataviewjs
+const players = dv.pages('#player').filter(p => dv.current().file.path = p.party.path )
+dv.span('> [!cards]\n' + players.map(p => `> ${p.file.name}`).join(`\n>\n`))
+```
 
 ## **Session Log**
 > [!cards|dataview 3]
