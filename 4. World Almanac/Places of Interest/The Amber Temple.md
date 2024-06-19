@@ -87,6 +87,8 @@ TBD
 > darkMode: false  
 > ```
 
+![[Leaflet Bounds Calculator]]
+
 ```dataviewjs
  await dv.view("locations", {current: dv.current()})
 ```
