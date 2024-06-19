@@ -668,7 +668,7 @@ location: '[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber T
 tags:
   - player
 ---
-`$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
+`$="[![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")](" + dv.current().url + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
 ```meta-bind-button
 style: primary

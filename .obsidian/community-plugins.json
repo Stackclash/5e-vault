@@ -17,6 +17,7 @@
   "actions-uri",
   "aprils-automatic-timelines",
   "obsidian-meta-bind-plugin",
+  "new-tab-default-page",
   "obsidian-textgenerator-plugin",
   "obsidian42-brat",
   "calendarium",
@@ -26,5 +27,5 @@
   "obsidian-import-json",
   "obsidian-javascript-init",
   "obsidian-admonition",
-  "new-tab-default-page"
+  "obsidian-banners"
 ]

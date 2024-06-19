@@ -7,19 +7,18 @@ ac: 19
 hp: 51
 modifier: 3
 proficiency: 3
-url: 'https://dndbeyond.com/characters/103873194'
-image: >-
-  https://www.dndbeyond.com/avatars/17/209/636377840545349096.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
-race: '[[5. Mechanics/Races/Half Elf.md|Half Elf]]'
+url: https://dndbeyond.com/characters/103873194
+image: https://www.dndbeyond.com/avatars/17/209/636377840545349096.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+race: "[[5. Mechanics/Races/Half Elf.md|Half Elf]]"
 alignment: Chaotic Neutral
 description:
-  gender: ''
-  age: ''
-  hair: ''
-  eyes: ''
-  skin: ''
-  height: ''
-  weight: ''
+  gender: ""
+  age: ""
+  hair: ""
+  eyes: ""
+  skin: ""
+  height: ""
+  weight: ""
   size: Medium
 passives:
   perception: 11
@@ -48,55 +47,27 @@ defences:
 background:
   background:
     name: Acolyte
-    description: >-
-      <p>You have spent your life in the service of a temple to a specific god
-      or pantheon of gods. You act as an intermediary between the realm of the
-      holy and the mortal world, performing sacred rites and offering sacrifices
-      in order to conduct worshipers into the presence of the divine. You are
-      not necessarily a cleric&mdash;performing sacred rites is not the same
-      thing as channeling divine power.</p>
+    description: |-
+      <p>You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric&mdash;performing sacred rites is not the same thing as channeling divine power.</p>
+      <p>Choose a god, a pantheon of gods, or some other quasi-divine being, and work with your DM to detail the nature of your religious service. The <a title="Gods of the Multiverse" href="https://www.dndbeyond.com/sources/phb/appendix-b-gods-of-the-multiverse">Gods of the Multiverse</a> section contains a sample pantheon, from the Forgotten Realms setting. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.</p>
+  backstory: |-
+    Sun elves are more reclusive than the other branch of high elves, the moon elves, but Oghma has called you to live among other peoples, rather than in the sanctuaries of your kin.
 
-      <p>Choose a god, a pantheon of gods, or some other quasi-divine being, and
-      work with your DM to detail the nature of your religious service. The <a
-      title="Gods of the Multiverse"
-      href="https://www.dndbeyond.com/sources/phb/appendix-b-gods-of-the-multiverse">Gods
-      of the Multiverse</a> section contains a sample pantheon, from the
-      Forgotten Realms setting. Were you a lesser functionary in a temple,
-      raised from childhood to assist the priests in the sacred rites? Or were
-      you a high priest who suddenly experienced a call to serve your god in a
-      different way? Perhaps you were the leader of a small cult outside of any
-      established temple structure, or even an occult group that served a
-      fiendish master that you now deny.</p>
-  backstory: >-
-    Sun elves are more reclusive than the other branch of high elves, the moon
-    elves, but Oghma has called you to live among other peoples, rather than in
-    the sanctuaries of your kin.
+    You have spent your life dedicated to Oghma, all-seeing god of knowledge, and spent years learning the lore of the multiverse.
 
+    Through visions delivered in your trances, your god has called you to a new mission. A goblin tribe has made its lair in an ancient ruin now called Cragmaw Castle, where they have defiled a shrine once sacred to Oghma. Now dedicated to the vile goblin god Maglubiyet, the altar is an offense to Oghma that must not stand.
 
-    You have spent your life dedicated to Oghma, all-seeing god of knowledge,
-    and spent years learning the lore of the multiverse.
+    You’re sure Oghma has greater things in store for you if you can complete this quest. In the meantime, your visions suggest that Sister Garaele—a priest of Tymora, the goddess of luck—can aid you in the town of Phandalin.
+  organizations: You have ties to the temple of Oghma in Neverwinter, where you have a residence. When you are in Neverwinter, you can call upon the priests there for assistance that won’t endanger them.
+  allies: ""
+  enemies: ""
+  notes: |-
+    The pursuit and acquisition of knowledge is for the benefit of all. Kingdoms and laws are useful so far as they allow knowledge to flourish. Tyrants who seek to suppress and control it are the worst villains. You share your knowledge freely, and use what you have learned to help where you can.
 
-
-    Through visions delivered in your trances, your god has called you to a new
-    mission. A goblin tribe has made its lair in an ancient ruin now called
-    Cragmaw Castle, where they have defiled a shrine once sacred to Oghma. Now
-    dedicated to the vile goblin god Maglubiyet, the altar is an offense to
-    Oghma that must not stand.
-
-
-    You’re sure Oghma has greater things in store for you if you can complete
-    this quest. In the meantime, your visions suggest that Sister Garaele—a
-    priest of Tymora, the goddess of luck—can aid you in the town of Phandalin.
-  organizations: >-
-    You have ties to the temple of Oghma in Neverwinter, where you have a
-    residence. When you are in Neverwinter, you can call upon the priests there
-    for assistance that won’t endanger them.
-  allies: ''
-  enemies: ''
-  notes: "The pursuit and acquisition of knowledge is for the benefit of all. Kingdoms and laws are useful so far as they allow knowledge to flourish. Tyrants who seek to suppress and control it are the worst villains. You share your knowledge freely, and use what you have learned to help where you can.\n\n•\_Looking for ideas on how to level up your character? Check out this PDF for more information! https://www.dndbeyond.com/file-attachments/0/777/elf-wizard.pdf"
+    • Looking for ideas on how to level up your character? Check out this PDF for more information! https://www.dndbeyond.com/file-attachments/0/777/elf-wizard.pdf
 classes:
-  - name: '[[5. Mechanics/Classes/Warlock.md|Warlock]]'
-    subClass: '[[5. Mechanics/Classes/Warlock The Hexblade.md|Warlock The Hexblade]]'
+  - name: "[[5. Mechanics/Classes/Warlock.md|Warlock]]"
+    subClass: "[[5. Mechanics/Classes/Warlock The Hexblade.md|Warlock The Hexblade]]"
     level: 6
 abilityScores:
   strength:
@@ -143,7 +114,7 @@ savingThrows:
     baseValue: 5
     proficiency: true
   notes:
-    - 'Advantage against being charmed, and magic can’t put you to sleep'
+    - Advantage against being charmed, and magic can’t put you to sleep
 skills:
   acrobatics:
     value: 6
@@ -275,49 +246,24 @@ racialTraits:
   - name: Darkvision
     description: You can see in darkness (shades of gray) up to 60 ft.
   - name: Fey Ancestry
-    description: >-
-      You have advantage on saving throws against being charmed, and magic can’t
-      put you to sleep.
+    description: You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
   - name: Skill Versatility
     description: You gain proficiency in two skills of your choice.
 classFeatures:
   - name: Expanded Spell List
     description: Additional spells are added to the warlock spell list for you.
   - name: Hexblade’s Curse
-    description: >-
-      Once per short rest, as a bonus action, choose one creature you can see
-      within 30 ft. to curse it for 1 minute (or until the target dies, you die,
-      or you are incapacitated). Against the cursed target, you gain a
-      {{proficiency#signed}} bonus to damage rolls, score a critical hit on a
-      roll of 19 or 20, and you regain
-      {{(classlevel+modifier:cha)@min:1#unsigned}} HP if it dies.
+    description: Once per short rest, as a bonus action, choose one creature you can see within 30 ft. to curse it for 1 minute (or until the target dies, you die, or you are incapacitated). Against the cursed target, you gain a {{proficiency#signed}} bonus to damage rolls, score a critical hit on a roll of 19 or 20, and you regain {{(classlevel+modifier:cha)@min:1#unsigned}} HP if it dies.
   - name: Hex Warrior
-    description: >-
-      You gain proficiency with medium armor, shields, and martial weapons.
-      Whenever you finish a long rest, you can touch one weapon that you are
-      proficient with and that lacks the two-handed property. With that weapon,
-      you can use your CHA modifier for the attack and damage rolls until you
-      finish your next long rest. You can also use your CHA modifier for the
-      attack and damage rolls for any of your pact weapons if you have that
-      feature.
+    description: You gain proficiency with medium armor, shields, and martial weapons. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. With that weapon, you can use your CHA modifier for the attack and damage rolls until you finish your next long rest. You can also use your CHA modifier for the attack and damage rolls for any of your pact weapons if you have that feature.
   - name: Accursed Specter
-    description: >-
-      When you slay a humanoid, you can cause its spirit to rise as a specter
-      that gains {{(classlevel/2)@rounddown#signed}} temp HP. Roll initiative
-      for the specter, which has its own turns. It obeys your verbal commands,
-      gains a {{modifier:cha@min:0#signed}} bonus to its attack rolls, and
-      remains until the end of your next long rest.
+    description: When you slay a humanoid, you can cause its spirit to rise as a specter that gains {{(classlevel/2)@rounddown#signed}} temp HP. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, gains a {{modifier:cha@min:0#signed}} bonus to its attack rolls, and remains until the end of your next long rest.
   - name: Otherworldly Patron
     description: You have struck a bargain with an otherworldly being.
   - name: Pact Magic
-    description: >-
-      You can cast known warlock spells using CHA as your spellcasting modifier
-      (Spell DC 16, Spell Attack 8). You can use an arcane focus as a
-      spellcasting focus.
+    description: You can cast known warlock spells using CHA as your spellcasting modifier (Spell DC 16, Spell Attack 8). You can use an arcane focus as a spellcasting focus.
   - name: Eldritch Invocations
-    description: >-
-      You learn fragments of forbidden knowledge that imbue you with an abiding
-      magical ability.
+    description: You learn fragments of forbidden knowledge that imbue you with an abiding magical ability.
   - name: Pact Boon
     description: Your otherworldly patron bestows a gift upon you for your loyal service.
 feats: []
@@ -347,28 +293,28 @@ classSpells:
         - 0
         - 0
     spells:
-      - name: '[[5. Mechanics/Spells/Frostbite.md|Frostbite]]'
+      - name: "[[5. Mechanics/Spells/Frostbite.md|Frostbite]]"
         level: 0
         isPrepared: true
-      - name: '[[5. Mechanics/Spells/Eldritch Blast.md|Eldritch Blast]]'
+      - name: "[[5. Mechanics/Spells/Eldritch Blast.md|Eldritch Blast]]"
         level: 0
         isPrepared: true
-      - name: '[[5. Mechanics/Spells/Witch Bolt.md|Witch Bolt]]'
+      - name: "[[5. Mechanics/Spells/Witch Bolt.md|Witch Bolt]]"
         level: 1
         isPrepared: false
-      - name: '[[5. Mechanics/Spells/Unseen Servant.md|Unseen Servant]]'
+      - name: "[[5. Mechanics/Spells/Unseen Servant.md|Unseen Servant]]"
         level: 1
         isPrepared: false
-      - name: '[[5. Mechanics/Spells/Armor Of Agathys.md|Armor Of Agathys]]'
+      - name: "[[5. Mechanics/Spells/Armor Of Agathys.md|Armor Of Agathys]]"
         level: 1
         isPrepared: false
-      - name: '[[5. Mechanics/Spells/Invisibility.md|Invisibility]]'
+      - name: "[[5. Mechanics/Spells/Invisibility.md|Invisibility]]"
         level: 2
         isPrepared: false
-      - name: '[[5. Mechanics/Spells/Shatter.md|Shatter]]'
+      - name: "[[5. Mechanics/Spells/Shatter.md|Shatter]]"
         level: 2
         isPrepared: false
-      - name: '[[5. Mechanics/Spells/Remove Curse.md|Remove Curse]]'
+      - name: "[[5. Mechanics/Spells/Remove Curse.md|Remove Curse]]"
         level: 3
         isPrepared: false
 currencies:
@@ -378,7 +324,7 @@ currencies:
   ep: 0
   pp: 0
 inventory:
-  - name: '[[5. Mechanics/Items/Elven Chain.md|Elven Chain]]'
+  - name: "[[5. Mechanics/Items/Elven Chain.md|Elven Chain]]"
     type: Armor
     rarity: Rare
     quantity: 1
@@ -386,10 +332,10 @@ inventory:
     equipped: true
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
+    damage: ""
+    damageType: ""
     armorClass: 13
-  - name: '[[5. Mechanics/Items/Shield.md|Shield]]'
+  - name: "[[5. Mechanics/Items/Shield.md|Shield]]"
     type: Armor
     rarity: Common
     quantity: 1
@@ -397,10 +343,10 @@ inventory:
     equipped: true
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
+    damage: ""
+    damageType: ""
     armorClass: 2
-  - name: '[[5. Mechanics/Items/Dagger.md|Dagger]]'
+  - name: "[[5. Mechanics/Items/Dagger.md|Dagger]]"
     type: Weapon
     rarity: Common
     quantity: 1
@@ -410,8 +356,8 @@ inventory:
     attuned: false
     damage: 1d4
     damageType: Piercing
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Dagger.md|Dagger]]'
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Dagger.md|Dagger]]"
     type: Weapon
     rarity: Common
     quantity: 1
@@ -421,8 +367,8 @@ inventory:
     attuned: false
     damage: 1d4
     damageType: Piercing
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Light Crossbow.md|Light Crossbow]]'
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Light Crossbow.md|Light Crossbow]]"
     type: Weapon
     rarity: Common
     quantity: 1
@@ -432,8 +378,8 @@ inventory:
     attuned: false
     damage: 1d8
     damageType: Piercing
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Shortsword.md|Shortsword]]'
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Shortsword.md|Shortsword]]"
     type: Weapon
     rarity: Common
     quantity: 1
@@ -443,8 +389,8 @@ inventory:
     attuned: false
     damage: 1d6
     damageType: Piercing
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Backpack.md|Backpack]]'
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -452,10 +398,10 @@ inventory:
     equipped: true
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Backpack.md|Backpack]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -463,10 +409,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Backpack.md|Backpack]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -474,10 +420,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Common Clothes.md|Common Clothes]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Common Clothes.md|Common Clothes]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -485,32 +431,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Component Pouch.md|Component Pouch]]'
-    type: Other Gear
-    rarity: Common
-    quantity: 1
-    canEquip: true
-    equipped: true
-    canAttune: false
-    attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Bullseye Lantern.md|Bullseye Lantern]]'
-    type: Other Gear
-    rarity: Common
-    quantity: 1
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Pouch.md|Pouch]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Component Pouch.md|Component Pouch]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -518,10 +442,10 @@ inventory:
     equipped: true
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Spellbook.md|Spellbook]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Bullseye Lantern.md|Bullseye Lantern]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -529,10 +453,21 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Holy Symbol.md|Holy Symbol]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Pouch.md|Pouch]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 1
+    canEquip: true
+    equipped: true
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Spellbook.md|Spellbook]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -540,10 +475,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Arcane Focus.md|Arcane Focus]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Holy Symbol.md|Holy Symbol]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -551,10 +486,21 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Spell Scroll 1st Level.md|Spell Scroll 1st Level]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Arcane Focus.md|Arcane Focus]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Spell Scroll 1st Level.md|Spell Scroll 1st Level]]"
     type: Scroll
     rarity: Common
     quantity: 1
@@ -562,10 +508,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Spell Scroll 2nd Level.md|Spell Scroll 2nd Level]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Spell Scroll 2nd Level.md|Spell Scroll 2nd Level]]"
     type: Scroll
     rarity: Uncommon
     quantity: 2
@@ -573,10 +519,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Book.md|Book]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Book.md|Book]]"
     type: Other Gear
     rarity: Common
     quantity: 3
@@ -584,10 +530,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Ink 1 Ounce Bottle.md|Ink 1 Ounce Bottle]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Ink 1 Ounce Bottle.md|Ink 1 Ounce Bottle]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -595,10 +541,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Ink Pen.md|Ink Pen]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Ink Pen.md|Ink Pen]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -606,10 +552,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Parchment One Sheet.md|Parchment One Sheet]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Parchment One Sheet.md|Parchment One Sheet]]"
     type: Other Gear
     rarity: Common
     quantity: 10
@@ -617,10 +563,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Bag Of Beans.md|Bag Of Beans]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Bag Of Beans.md|Bag Of Beans]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -628,10 +574,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Charming Knife.md|Charming Knife]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Charming Knife.md|Charming Knife]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -639,10 +585,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Book.md|Book]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Book.md|Book]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -650,10 +596,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Ink 1 Ounce Bottle.md|Ink 1 Ounce Bottle]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Ink 1 Ounce Bottle.md|Ink 1 Ounce Bottle]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -661,10 +607,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Ink Pen.md|Ink Pen]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Ink Pen.md|Ink Pen]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -672,10 +618,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Parchment One Sheet.md|Parchment One Sheet]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Parchment One Sheet.md|Parchment One Sheet]]"
     type: Other Gear
     rarity: Common
     quantity: 10
@@ -683,10 +629,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Bag Of Beans.md|Bag Of Beans]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Bag Of Beans.md|Bag Of Beans]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -694,10 +640,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Charming Knife.md|Charming Knife]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Charming Knife.md|Charming Knife]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -705,10 +651,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Book.md|Book]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Book.md|Book]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -716,10 +662,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Ink 1 Ounce Bottle.md|Ink 1 Ounce Bottle]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Ink 1 Ounce Bottle.md|Ink 1 Ounce Bottle]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -727,10 +673,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Ink Pen.md|Ink Pen]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Ink Pen.md|Ink Pen]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -738,10 +684,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Parchment One Sheet.md|Parchment One Sheet]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Parchment One Sheet.md|Parchment One Sheet]]"
     type: Other Gear
     rarity: Common
     quantity: 10
@@ -749,10 +695,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Bag Of Beans.md|Bag Of Beans]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Bag Of Beans.md|Bag Of Beans]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -760,10 +706,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Charming Knife.md|Charming Knife]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Charming Knife.md|Charming Knife]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -771,16 +717,16 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-party: '[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]'
-condition: undefined
-location: undefined
+    damage: ""
+    damageType: ""
+    armorClass: ""
+party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+condition: healthy
+location: "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]"
 tags:
   - player
 ---
-`$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
+`$="[![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")](" + dv.current().url + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
 ```meta-bind-button
 style: primary

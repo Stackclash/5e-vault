@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-banner: '![[Barovia_Banner.webp]]'
+banner: "![[Barovia_Banner.webp]]"
 banner_y: 0
 hours_per_day: 8
 party_player:
