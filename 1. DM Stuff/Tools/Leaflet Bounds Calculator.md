@@ -1,5 +1,5 @@
 ---
-image: z_Assets/Barovia.jpg
+image: z_Assets/Amber Temple 1.webp
 distance_measure: 69
 units: 0.25
 ---
@@ -15,7 +15,7 @@ INPUT[imageSuggester(optionQuery("z_Assets")):image]
 ```dataviewjs
 const measure = dv.current().distance_measure,
 units = dv.current().units,
-img = document.querySelector(".mb-image-suggest-image"),
+img = document.querySelector(".mb-image-card-image"),
 height = parseFloat(img.naturalHeight/(measure/units)).toFixed(2),
 width = parseFloat(img.naturalWidth/(measure/units)).toFixed(2)
 
