@@ -19,16 +19,8 @@ tags:
 ## **Characters**
 ### **[[Players|Edit Players]]**
 > [!cards|dataview 5]
-> ```dataview
-> TABLE WITHOUT ID
-> link(file.path, name) AS "Name",
-> embed(link(image)) AS "Art",
-> race AS "Race",
-> condition AS "Condition",
-> location AS "Location"
-> FROM #player
-> WHERE contains(file.frontmatter.party, this.file.name)
-> SORT file.name asc
+> ```dataviewjs
+> const players = dv.pages('#player').filter(p => console.log(p))
 > ```
 
 ## **Session Log**
