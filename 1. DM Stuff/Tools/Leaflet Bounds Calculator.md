@@ -1,7 +1,7 @@
 ---
 image: z_Assets/Amber Temple 1.webp
 distance_measure: 69
-units: 10
+units: 0.25
 ---
 
 
@@ -18,7 +18,6 @@ units = dv.current().units,
 img = document.querySelector(".mb-image-card-image"),
 height = parseFloat(img.naturalHeight/(measure/units)).toFixed(2),
 width = parseFloat(img.naturalWidth/(measure/units)).toFixed(2)
-console.log(img.naturalHeight)
 
 dv.paragraph(`bounds: [\\[0,0], [${height},${width}\\]]`)
 dv.paragraph(`lat: ${height/2}`)
