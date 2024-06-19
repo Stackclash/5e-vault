@@ -20,8 +20,8 @@ tags:
 ### **[[Players|Edit Players]]**
 > [!cards|dataview 5]
 > ```dataviewjs
-> const players = dv.pages('#player').filter(p => dv.current().file.path = p.path )
-> dv.table(['Name', 'Image'], players.map(p => p.file.name, p.image))
+> const players = dv.pages('#player').filter(p => dv.current().file.path = p.party.path )
+> dv.table(['Name', 'Image'], players.map(p => [p.file.link, `![](${p.image})`]))
 > ```
 
 ## **Session Log**
