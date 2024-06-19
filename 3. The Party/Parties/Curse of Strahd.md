@@ -17,7 +17,6 @@ tags:
 ---
 # `=this.file.name`
 ## **Characters**
-### **[[Players|Edit Players]]**
 > [!cards|dataview 5]
 > ```dataviewjs
 > const players = dv.pages('#player').filter(p => dv.current().file.path = p.party.path )
@@ -25,10 +24,9 @@ tags:
 > ```
 
 ## **Session Log**
-### **[[Session Journals|New Session Log]]**
 > [!cards|dataview 3]
 >```dataview
-TABLE WITHOUT ID
+> TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	summary
 > FROM #session-journal
@@ -36,28 +34,6 @@ TABLE WITHOUT ID
 > SORT file.frontmatter.date DESC
 >```
 
-## **Quests**
-### **[[Quests| New Quest]]**
-> [!cards|dataview 3]
->```dataview
-TABLE WITHOUT ID
->	link(file.path, name) AS "Name",
->	summary
-> FROM "3. The Party/Quests"
-> WHERE party = this.file.name AND active AND !side-quest
->SORT file.name asc
->```
-
-### **[[Quests| New Side Quest]]**
-> [!cards|dataview 3]
->```dataview
-TABLE WITHOUT ID
->	link(file.path, name) AS "Name",
->	summary
-> FROM "3. The Party/Quests"
-> WHERE party = this.file.name AND active AND side-quest
->SORT file.name asc
->```
 
 # **Timelines**
 ```aat-vertical
