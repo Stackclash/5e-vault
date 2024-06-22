@@ -4,7 +4,14 @@
 - Dresden Files
 - Eragon
 - Riddick
-- 
+- How to Train Your Dragon
+- Dune
+- Elder Scrolls Games
+- Dark Crystal
+- Studio Ghibli movies
+- Labyrinth
+- The Witcher
+- Percy Jackson
 # Specific Ideas from Media
 - Various different types of werewolves. - Dresden Files: Fool Moon
 	- Hexenwolf
@@ -14,3 +21,4 @@
 - Old god like beings that rule aspects of our existence - Sandman
 - Names or “True” names of people give others power over them. Although names can change when the person does. - Eragon and Dresden Files
 - Thresholds preventing magical beings from passing: Dresden Files
+- Glamour surround mystical creatures so normal people don't notice them
