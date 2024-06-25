@@ -24,11 +24,10 @@ locations:
 > | **Active Party:** | `INPUT[suggester(optionQuery("#party")):active_party]` |
 
 # Current Party/World Info
-Current Date: 
 ```dataviewjs
-console.log(dv.current())
-const players = dv.pages('#player').filter(p => p.party === dv.current().active_party)
-console.log(players)
+console.log(dv.page(dv.current().active_world).calendar)
+const players = dv.pages('#player').filter(p => p.party.path === dv.current().active_party.path)
+dv.span(`Current Party Size: ${players.length}`)
 ```
 
 # DM Tools/Calculators
