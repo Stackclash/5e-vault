@@ -41,7 +41,7 @@ Updating the calculator below will flows the changes out to any notes that autom
 | **Days Travel 🕓:** `VIEW[round(({TravelDistance} * ({varMins}/(({BaseSpeed} / ({ExhaustionLevel} > 1 ? 2 : 1) + ({Encumbered} ? -10 : 0) + ({HorseshoesofSpeed} ? 30 : 0) + {AdditionalBonus}) / 10) * {SpeedMultiplier})) / 60 / {HoursPerDay}, 1)]`  |
 
 ### Travelling More Than 8 Hours A Day
-Requires hourly [[08-using-ability-scores#Constitution Checks|Constitution Saves]]  after 8 hours:
+Requires hourly [[08 Using Ability Scores#Constitution Checks|Constitution Checks]]  after 8 hours:
 
 DC 11 at hour 9
 DC 12 at hour 10
