@@ -25,7 +25,11 @@ locations:
 
 # Current Party/World Info
 Current Date: 
-Current Party Size: `=`
+```dataviewjs
+console.log(dv.current())
+const players = dv.pages('#player').filter(p => p.party === dv.current().active_party)
+console.log(players)
+```
 
 # DM Tools/Calculators
 ```dataview
