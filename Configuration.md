@@ -23,6 +23,10 @@ locations:
 > | **Active World:** | `INPUT[suggester(optionQuery("#world")):active_world]` |
 > | **Active Party:** | `INPUT[suggester(optionQuery("#party")):active_party]` |
 
+# Current Party/World Info
+Current Date: 
+Current Party Size: `=`
+
 # DM Tools/Calculators
 ```dataview
 LIST WITHOUT ID file.link
