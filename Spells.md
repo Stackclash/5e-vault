@@ -1,6 +1,6 @@
 ---
 class: rogue
-level: cantrip
+level: ""
 school: ""
 ---
 Class: `INPUT[inlineSelect(option('','Any'),option('wizard','Wizard'),option('sorcerer','Sorcerer'),option('cleric','Cleric'),option('druid','Druid'),option('warlock','Warlock'),option('fighter','Fighter'),option('rogue','Rogue'),option('artificer','Artificer'),option('bard','Bard'),option('paladin','Paladin'),option('ranger','Ranger'),option('monk','Monk'),option('barbarian','Barbarian')):class]`
@@ -11,13 +11,13 @@ School: `INPUT[inlineSelect(option('','Any'),option('evocation','Evocation'),opt
 const currentPage = dv.current()
 let spells = dv.pages('#spell')
 if (currentPage.class) {
-	spells = spells.filter(p => p.tags.includes(`spell/class/${currentPage.class}`))
+	spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/class\/${currentPage.class}`).test(t)))
 }
 if (currentPage.level) {
-    spells = spells.filter(p => p.tags.includes(`spell/level/${currentPage.level}`))
+    spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/level\/${currentPage.level}`).test(t)))
 }
 if (currentPage.school) {
-    spells = spells.filter(p => p.tags.includes(`spell/school/${currentPage.school}`))
+    spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/school\/${currentPage.school}`).test(t)))
 }
 dv.list(spells.map(p => p.file.link))
 ```
