@@ -25,9 +25,11 @@ locations:
 
 # Current Party/World Info
 ```dataviewjs
-console.log(dv.page(dv.current().active_world).calendar)
+const calendarApi = Calendarium.getAPI(dv.page(dv.current().active_world).calendar)
+const currentDate = calendarApi.getCurrentDate()
 const players = dv.pages('#player').filter(p => p.party.path === dv.current().active_party.path)
-dv.span(`Current Party Size: ${players.length}`)
+dv.paragraph(`Current Party Size: ${players.length}`)
+dv.paragraph(`Current Date: ${currentDate.month}-${currentDate.day}-${currentDate.year}`)
 ```
 
 # DM Tools/Calculators
