@@ -6,11 +6,18 @@ const months = calendarConfig.months
 const weekdays = calendarConfig.weekdays
 const moons = calendarConfig.moons
 
-function parseDate(date) {
-	const dateArray = date.split('-'),
+function getDate(date = ) {
+	let month, day, year
+	if (typeof date === 'string') {
+		const dateArray = date.split('-')
 		month = parseInt(dateArray[1]),
 		day = parseInt(dateArray[2]),
 		year = parseInt(dateArray[0])
+	} else if (typeof date === 'object') {
+		month = date.month
+		day = date.day
+		year = date.year
+	}
 	return {
 		original: {
 			month,
@@ -45,7 +52,7 @@ const journals = dv.pages('#session-journal').filter(page => page['fc-date']).so
 
 journals.forEach(journal => {
 	const date = new Date(journal.date).toDateString()
-	const fantasyDate = parseDate(journal['fc-date'])
+	const fantasyDate = getDate(journal['fc-date'])
 	const fantasyDateString = `${fantasyDate.prettyPrint.month} ${fantasyDate.original.day}, ${fantasyDate.original.year} (${fantasyDate.prettyPrint.day})`
 	dv.header(2, `${journal.file.name} - ${fantasyDateString}`)
 	dv.header(3, `${date}`)
