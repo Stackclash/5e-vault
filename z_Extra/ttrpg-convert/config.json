@@ -10,7 +10,9 @@
         "TCE",
         "ERLW",
         "MTF",
-        "VEoR"
+        "VEoR",
+        "TGS1",
+        "DM"
     ],
     "paths": {
         "rules": "/compendium/rules/"
@@ -50,7 +52,9 @@
             "z_Extra/ttrpg-convert/homebrew/Jasmine Yang; Hamund's Herbalism Handbook.json",
             "z_Extra/ttrpg-convert/homebrew/MCDM Productions; Strongholds and Followers.json",
             "z_Extra/ttrpg-convert/homebrew/MCDM Productions; Flee, Mortals! Packet 1.json",
-            "z_Extra/ttrpg-convert/homebrew/MCDM Productions; Strongholds and Followers.json"
+            "z_Extra/ttrpg-convert/homebrew/MCDM Productions; Strongholds and Followers.json",
+            "z_Extra/ttrpg-convert/homebrew/Griffin Macaulay; The Griffon's Saddlebag, Book 1.json",
+            "z_Extra/ttrpg-convert/homebrew/Kobold Press; Deep Magic.json"
         ],
         "adventure": [
             "CoS",
