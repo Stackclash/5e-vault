@@ -1,5 +1,5 @@
 ---
-class: rogue
+class: ""
 level: ""
 school: ""
 ---
