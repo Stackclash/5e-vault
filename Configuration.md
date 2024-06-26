@@ -27,6 +27,7 @@ locations:
 ```dataviewjs
 const calendarApi = Calendarium.getAPI(dv.page(dv.current().active_world).calendar)
 const currentDate = calendarApi.getCurrentDate()
+console.log(await dv.view('locations', {current: dv.current()}))
 const players = dv.pages('#player').filter(p => p.party.path === dv.current().active_party.path)
 dv.paragraph(`Current Party Size: ${players.length}`)
 dv.paragraph(`Current Date: ${currentDate.month}-${currentDate.day}-${currentDate.year}`)
