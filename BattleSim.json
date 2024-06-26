@@ -1,0 +1,307 @@
+{
+    "updated": 1719371403327,
+    "name": "Curse of Strahd",
+    "players": [
+        {
+            "id": "e7bdb026-955f-4214-a5fb-ae5638f64f1a",
+            "mode": "custom",
+            "class": {
+                "type": "barbarian",
+                "level": 6,
+                "options": {}
+            },
+            "name": "Yevelda Ovak (Barbarian)",
+            "count": 1,
+            "hp": 72,
+            "AC": 15,
+            "saveBonus": 3,
+            "actions": [
+                {
+                    "id": "4d71abcd-d131-42c7-a94c-41b2f476bdfc",
+                    "name": "Reckless Attack",
+                    "actionSlot": 5,
+                    "freq": "at will",
+                    "condition": "default",
+                    "targets": 1,
+                    "type": "buff",
+                    "target": "self",
+                    "buff": {
+                        "duration": "1 round",
+                        "condition": "Attacks and is attacked with Advantage"
+                    }
+                },
+                {
+                    "id": "80c217bf-1048-43b6-bb52-377e69a8e01e",
+                    "name": "Greatsword x2",
+                    "actionSlot": 0,
+                    "freq": "at will",
+                    "condition": "default",
+                    "targets": 2,
+                    "type": "atk",
+                    "dpr": "2d6 + 5[STR] + 2[RAGE]",
+                    "toHit": "3[PB] + 5[STR]",
+                    "target": "enemy with least HP"
+                },
+                {
+                    "id": "693fbaff-4e85-4d8e-abf2-91364f864e38",
+                    "name": "Rage",
+                    "actionSlot": 1,
+                    "freq": {
+                        "reset": "lr",
+                        "uses": 4
+                    },
+                    "condition": "not used yet",
+                    "targets": 1,
+                    "type": "buff",
+                    "target": "self",
+                    "buff": {
+                        "duration": "entire encounter",
+                        "damageTakenMultiplier": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "id": "f2e8a9d1-da09-4416-bbf6-771e3d357932",
+            "mode": "custom",
+            "class": {
+                "type": "artificer",
+                "level": 6,
+                "options": {}
+            },
+            "name": "Seluvis Felo'melorn (Artificer)",
+            "count": 1,
+            "hp": 47,
+            "AC": 19,
+            "saveBonus": 3,
+            "actions": [
+                {
+                    "id": "4356da44-aa22-4639-abd0-0e7eaefe5f42",
+                    "name": "Shield Turret",
+                    "actionSlot": 1,
+                    "freq": "at will",
+                    "condition": "default",
+                    "targets": 2,
+                    "type": "heal",
+                    "amount": "1d8+5",
+                    "tempHP": true,
+                    "target": "ally with the least HP"
+                },
+                {
+                    "id": "94a14357-0434-4940-92d0-70d50d65dc9e",
+                    "name": "Artificer Infusions",
+                    "actionSlot": -3,
+                    "freq": "1/fight",
+                    "condition": "is available",
+                    "targets": 100,
+                    "type": "buff",
+                    "target": "ally with the most HP",
+                    "buff": {
+                        "duration": "entire encounter",
+                        "ac": "1",
+                        "toHit": 1
+                    }
+                },
+                {
+                    "type": "template",
+                    "id": "9310891a-9afa-4fbc-bbc1-8a732de5a18c",
+                    "freq": {
+                        "reset": "lr",
+                        "uses": 3
+                    },
+                    "condition": "is under half HP",
+                    "templateOptions": {
+                        "templateName": "Shield"
+                    }
+                },
+                {
+                    "id": "894152cc-e144-467a-aa1c-bf4fd68f924d",
+                    "name": "Firebolt",
+                    "actionSlot": 0,
+                    "freq": "at will",
+                    "condition": "default",
+                    "targets": 1,
+                    "type": "atk",
+                    "dpr": "2d10+1d8[Arcane Firearm]",
+                    "toHit": "8",
+                    "target": "enemy with least HP"
+                }
+            ]
+        },
+        {
+            "id": "68970016-3ff5-4e2f-b260-dffd2b868d03",
+            "mode": "custom",
+            "class": {
+                "type": "paladin",
+                "level": 6,
+                "options": {}
+            },
+            "name": "Redgrave (Paladin)",
+            "count": 1,
+            "hp": 47,
+            "AC": 19,
+            "saveBonus": 3,
+            "actions": [
+                {
+                    "id": "babf71b5-8ecf-412e-829e-7dd36166e195",
+                    "name": "Aura of Protection",
+                    "actionSlot": 6,
+                    "freq": "at will",
+                    "condition": "default",
+                    "targets": 2,
+                    "type": "buff",
+                    "target": "ally with the least HP",
+                    "buff": {
+                        "duration": "1 round",
+                        "save": "2"
+                    }
+                },
+                {
+                    "id": "0bb0bb91-6418-4e69-b0b5-d5a813aa1b4a",
+                    "name": "Divine Smite",
+                    "actionSlot": 5,
+                    "freq": {
+                        "reset": "lr",
+                        "uses": 3
+                    },
+                    "condition": "is available",
+                    "targets": 1,
+                    "type": "buff",
+                    "target": "self",
+                    "buff": {
+                        "duration": "until next attack made",
+                        "damage": "3d8"
+                    }
+                },
+                {
+                    "id": "d1a2c698-6957-47b1-bd80-1f38eab3ab0e",
+                    "name": "Lay on Hands",
+                    "actionSlot": 0,
+                    "freq": "1/day",
+                    "condition": "ally at 0 HP",
+                    "targets": 1,
+                    "type": "heal",
+                    "amount": "30",
+                    "target": "ally with the least HP"
+                },
+                {
+                    "id": "d67d6263-2999-4f19-ad27-060897e1389f",
+                    "name": "Longsword x2",
+                    "actionSlot": 0,
+                    "freq": "at will",
+                    "condition": "default",
+                    "targets": 2,
+                    "type": "atk",
+                    "dpr": "1d8 + 5[STR] + 2[Fighting Style]",
+                    "toHit": "3[PB] + 5[STR]",
+                    "target": "enemy with least HP"
+                }
+            ]
+        },
+        {
+            "id": "5addc89c-3036-4796-a970-b166ac659760",
+            "mode": "custom",
+            "class": {
+                "type": "rogue",
+                "level": 6,
+                "options": {}
+            },
+            "name": "Lv6 Rogue",
+            "count": 1,
+            "hp": 40,
+            "AC": 18,
+            "saveBonus": 3,
+            "actions": [
+                {
+                    "id": "097b6b05-6902-44c2-b5d4-670734488252",
+                    "name": "Uncanny Dodge",
+                    "actionSlot": 6,
+                    "freq": "at will",
+                    "condition": "default",
+                    "targets": 1,
+                    "type": "buff",
+                    "target": "self",
+                    "buff": {
+                        "duration": "until next attack taken",
+                        "damageTakenMultiplier": 0.5
+                    }
+                },
+                {
+                    "id": "98694576-df76-4d8f-b1e2-f713b7cf0ac8",
+                    "name": "Sneak Attack",
+                    "actionSlot": 5,
+                    "freq": "at will",
+                    "condition": "default",
+                    "targets": 1,
+                    "type": "buff",
+                    "target": "self",
+                    "buff": {
+                        "duration": "until next attack made",
+                        "damage": "3d6"
+                    }
+                },
+                {
+                    "id": "68d1b35d-03be-4a63-b1d2-efde854c1fae",
+                    "name": "Hand Crossbow + Crossbow Expert",
+                    "actionSlot": 0,
+                    "freq": "at will",
+                    "condition": "default",
+                    "targets": 2,
+                    "type": "atk",
+                    "dpr": "1d6 + 5[DEX]",
+                    "toHit": "3[PB] + 5[DEX]",
+                    "target": "enemy with least HP"
+                }
+            ]
+        },
+        {
+            "id": "b5a74840-7259-4606-80a2-43eda19dfa7b",
+            "mode": "custom",
+            "class": {
+                "type": "warlock",
+                "level": 6,
+                "options": {}
+            },
+            "name": "Marin (Warlock)",
+            "count": 1,
+            "hp": 51,
+            "AC": 19,
+            "saveBonus": 3,
+            "actions": [
+                {
+                    "type": "template",
+                    "id": "a18cc779-c79c-4e76-9160-a56af665fd15",
+                    "freq": {
+                        "reset": "sr",
+                        "uses": 2
+                    },
+                    "condition": "not used yet",
+                    "templateOptions": {
+                        "target": "enemy with highest DPR",
+                        "templateName": "Hypnotic Pattern",
+                        "saveDC": 16
+                    }
+                },
+                {
+                    "id": "eec292b4-acbf-4294-9d46-ce3158bd78f9",
+                    "name": "Eldritch Blast + Hex",
+                    "actionSlot": 0,
+                    "freq": "at will",
+                    "condition": "default",
+                    "targets": 2,
+                    "type": "atk",
+                    "dpr": "1d10 + 1d6[HEX] + 5[AB]",
+                    "toHit": "8",
+                    "target": "enemy with least HP"
+                }
+            ]
+        }
+    ],
+    "encounters": [
+        {
+            "monsters": [],
+            "playersSurprised": false,
+            "monstersSurprised": false
+        }
+    ]
+}
