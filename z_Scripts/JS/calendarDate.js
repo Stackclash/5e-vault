@@ -1,14 +1,13 @@
-```dataviewjs
 // const dv = app.plugins.getPlugin("dataview").api
-const calendarName = dv.page(dv.page('Configuration').active_world).calendar
-const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
-const calendarApi = Calendarium.getAPI(calendarName)
-const months = calendarConfig.months
-const weekdays = calendarConfig.weekdays
-const moons = calendarConfig.moons
 
-function getDate(date = calendarApi.getCurrentDate()) {
-	let month, day, year
+function getDate(dv, date = calendarApi.getCurrentDate()) {
+    let month, day, year
+    const calendarName = dv.page(dv.page('Configuration').active_world).calendar
+    const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
+    const calendarApi = Calendarium.getAPI(calendarName)
+    const months = calendarConfig.months
+    const weekdays = calendarConfig.weekdays
+    const moons = calendarConfig.moons
 	if (typeof date === 'string') {
 		const dateArray = date.split('-')
 		month = parseInt(dateArray[1]),
@@ -49,14 +48,6 @@ function getDayNumberFromBeginning(month, day, year) {
 	return numberDayInYear + (numberOfDaysInYear * (year+1))
 }
 
-const journals = dv.pages('#session-journal').filter(page => page['fc-date']).sort(page => page.date)
-
-journals.forEach(journal => {
-	const date = new Date(journal.date).toDateString()
-	const fantasyDate = getDate(journal['fc-date'])
-	const fantasyDateString = `${fantasyDate.prettyPrint.month} ${fantasyDate.original.day}, ${fantasyDate.original.year} (${fantasyDate.prettyPrint.day})`
-	dv.header(2, `${journal.file.name} - ${fantasyDateString}`)
-	dv.header(3, `${date}`)
-	dv.paragraph(journal.summary)
-})
-```
+module.exports = {
+    getDate
+}
