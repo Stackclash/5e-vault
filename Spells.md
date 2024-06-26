@@ -1,12 +1,14 @@
 ---
-class: 'Wizard'
+class: wizard
 level: 1
-school: 'necromancy'
+school: necromancy
 ---
 
-```dataview
-LIST WITHOUT ID
-    file.link
-FROM #spell
-WHERE tags.
+```dataviewjs
+const currentPage = dv.current()
+let spells = dv.pages('#spell')
+if (currentPage.class) {
+	spells = spells.filter(p => p.tags.includes(`spell/class/${currentPage.class}`))
+}
+dv.list(spells.map(p => p.file.link))
 ```
