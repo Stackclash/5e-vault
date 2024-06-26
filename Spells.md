@@ -3,7 +3,7 @@ class: wizard
 level: 1
 school: necromancy
 ---
-
+`INPUT[inlineSelect(option('wizard','Wizard')):class]` `INPUT[inlineSelect(option('cantrip'),option('1')):level]`
 ```dataviewjs
 const currentPage = dv.current()
 let spells = dv.pages('#spell')
