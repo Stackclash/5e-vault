@@ -15,3 +15,5 @@ for (let group of pages) {
         group.rows.map(p => [p.file.link, p.pronounced])
     )
 }
+
+return 'test hello'
