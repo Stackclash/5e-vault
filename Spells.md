@@ -1,5 +1,5 @@
 ---
-class: ""
+class: fighter
 level: cantrip
 school: ""
 ---
