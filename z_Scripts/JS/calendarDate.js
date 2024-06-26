@@ -1,19 +1,21 @@
 // const dv = app.plugins.getPlugin("dataview").api
 
-function getDate(dv, date = calendarApi.getCurrentDate()) {
+function getDate(dv, date) {
     let month, day, year
     const calendarName = dv.page(dv.page('Configuration').active_world).calendar
     const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
-    const calendarApi = Calendarium.getAPI(calendarName)
     const months = calendarConfig.months
     const weekdays = calendarConfig.weekdays
     const moons = calendarConfig.moons
 	if (typeof date === 'string') {
-		const dateArray = date.split('-')
+        const dateArray = date.split('-')
 		month = parseInt(dateArray[1]),
 		day = parseInt(dateArray[2]),
 		year = parseInt(dateArray[0])
-	} else if (typeof date === 'object') {
+        } else if (!date) {
+        const calendarApi = Calendarium.getAPI(calendarName)
+        date = calendarApi.getCurrentDate()
+            
 		month = date.month
 		day = date.day
 		year = date.year
