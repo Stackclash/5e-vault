@@ -1,5 +1,5 @@
 {
-    "updated": 1719371403327,
+    "updated": 1719417305719,
     "name": "Curse of Strahd",
     "players": [
         {
@@ -12,7 +12,7 @@
             },
             "name": "Yevelda Ovak (Barbarian)",
             "count": 1,
-            "hp": 72,
+            "hp": 73,
             "AC": 15,
             "saveBonus": 3,
             "actions": [
@@ -31,18 +31,6 @@
                     }
                 },
                 {
-                    "id": "80c217bf-1048-43b6-bb52-377e69a8e01e",
-                    "name": "Greatsword x2",
-                    "actionSlot": 0,
-                    "freq": "at will",
-                    "condition": "default",
-                    "targets": 2,
-                    "type": "atk",
-                    "dpr": "2d6 + 5[STR] + 2[RAGE]",
-                    "toHit": "3[PB] + 5[STR]",
-                    "target": "enemy with least HP"
-                },
-                {
                     "id": "693fbaff-4e85-4d8e-abf2-91364f864e38",
                     "name": "Rage",
                     "actionSlot": 1,
@@ -58,6 +46,18 @@
                         "duration": "entire encounter",
                         "damageTakenMultiplier": 0.5
                     }
+                },
+                {
+                    "id": "80c217bf-1048-43b6-bb52-377e69a8e01e",
+                    "name": "Great Axe",
+                    "actionSlot": 0,
+                    "freq": "at will",
+                    "condition": "default",
+                    "targets": 2,
+                    "type": "atk",
+                    "dpr": "1d12 + 4 + 2[RAGE]",
+                    "toHit": "3[PB] + 4[STR]",
+                    "target": "enemy with least HP"
                 }
             ]
         },
@@ -71,59 +71,20 @@
             },
             "name": "Seluvis Felo'melorn (Artificer)",
             "count": 1,
-            "hp": 47,
-            "AC": 19,
+            "hp": 39,
+            "AC": 16,
             "saveBonus": 3,
             "actions": [
                 {
-                    "id": "4356da44-aa22-4639-abd0-0e7eaefe5f42",
-                    "name": "Shield Turret",
-                    "actionSlot": 1,
-                    "freq": "at will",
-                    "condition": "default",
-                    "targets": 2,
-                    "type": "heal",
-                    "amount": "1d8+5",
-                    "tempHP": true,
-                    "target": "ally with the least HP"
-                },
-                {
-                    "id": "94a14357-0434-4940-92d0-70d50d65dc9e",
-                    "name": "Artificer Infusions",
-                    "actionSlot": -3,
-                    "freq": "1/fight",
-                    "condition": "is available",
-                    "targets": 100,
-                    "type": "buff",
-                    "target": "ally with the most HP",
-                    "buff": {
-                        "duration": "entire encounter",
-                        "ac": "1",
-                        "toHit": 1
-                    }
-                },
-                {
-                    "type": "template",
-                    "id": "9310891a-9afa-4fbc-bbc1-8a732de5a18c",
-                    "freq": {
-                        "reset": "lr",
-                        "uses": 3
-                    },
-                    "condition": "is under half HP",
-                    "templateOptions": {
-                        "templateName": "Shield"
-                    }
-                },
-                {
-                    "id": "894152cc-e144-467a-aa1c-bf4fd68f924d",
-                    "name": "Firebolt",
+                    "id": "2c71b8d9-2219-450f-96de-5bf17911aa7e",
                     "actionSlot": 0,
+                    "name": "Infiltrator Armor (Melee Attack)",
                     "freq": "at will",
                     "condition": "default",
                     "targets": 1,
                     "type": "atk",
-                    "dpr": "2d10+1d8[Arcane Firearm]",
-                    "toHit": "8",
+                    "dpr": "1d6 + 4",
+                    "toHit": "7",
                     "target": "enemy with least HP"
                 }
             ]
@@ -138,62 +99,47 @@
             },
             "name": "Redgrave (Paladin)",
             "count": 1,
-            "hp": 47,
-            "AC": 19,
+            "hp": 45,
+            "AC": 23,
             "saveBonus": 3,
             "actions": [
                 {
-                    "id": "babf71b5-8ecf-412e-829e-7dd36166e195",
-                    "name": "Aura of Protection",
-                    "actionSlot": 6,
+                    "id": "cb6b6e56-5c1d-4c32-965a-343a876000c9",
+                    "actionSlot": 0,
+                    "name": "Sacred Flame",
                     "freq": "at will",
                     "condition": "default",
-                    "targets": 2,
-                    "type": "buff",
-                    "target": "ally with the least HP",
-                    "buff": {
-                        "duration": "1 round",
-                        "save": "2"
-                    }
-                },
-                {
-                    "id": "0bb0bb91-6418-4e69-b0b5-d5a813aa1b4a",
-                    "name": "Divine Smite",
-                    "actionSlot": 5,
-                    "freq": {
-                        "reset": "lr",
-                        "uses": 3
-                    },
-                    "condition": "is available",
                     "targets": 1,
-                    "type": "buff",
-                    "target": "self",
-                    "buff": {
-                        "duration": "until next attack made",
-                        "damage": "3d8"
-                    }
+                    "type": "atk",
+                    "dpr": "1d8",
+                    "toHit": "15",
+                    "target": "enemy with least HP",
+                    "useSaves": true
                 },
                 {
                     "id": "d1a2c698-6957-47b1-bd80-1f38eab3ab0e",
-                    "name": "Lay on Hands",
+                    "name": "Cure Wounds",
                     "actionSlot": 0,
-                    "freq": "1/day",
+                    "freq": {
+                        "reset": "lr",
+                        "uses": 4
+                    },
                     "condition": "ally at 0 HP",
                     "targets": 1,
                     "type": "heal",
-                    "amount": "30",
+                    "amount": "1d8 + 4[WIS]",
                     "target": "ally with the least HP"
                 },
                 {
-                    "id": "d67d6263-2999-4f19-ad27-060897e1389f",
-                    "name": "Longsword x2",
+                    "id": "8efab5c7-390a-4cc8-86ee-fd24ac430dec",
                     "actionSlot": 0,
+                    "name": "Javelin",
                     "freq": "at will",
                     "condition": "default",
-                    "targets": 2,
+                    "targets": 1,
                     "type": "atk",
-                    "dpr": "1d8 + 5[STR] + 2[Fighting Style]",
-                    "toHit": "3[PB] + 5[STR]",
+                    "dpr": "1d6 + 2[STR]",
+                    "toHit": "3[PB] + 2[STR]",
                     "target": "enemy with least HP"
                 }
             ]
@@ -206,10 +152,10 @@
                 "level": 6,
                 "options": {}
             },
-            "name": "Lv6 Rogue",
+            "name": "Faerah Duskrane (Rogue)",
             "count": 1,
-            "hp": 40,
-            "AC": 18,
+            "hp": 45,
+            "AC": 16,
             "saveBonus": 3,
             "actions": [
                 {
@@ -242,14 +188,26 @@
                 },
                 {
                     "id": "68d1b35d-03be-4a63-b1d2-efde854c1fae",
-                    "name": "Hand Crossbow + Crossbow Expert",
+                    "name": "Scimitar",
                     "actionSlot": 0,
                     "freq": "at will",
                     "condition": "default",
-                    "targets": 2,
+                    "targets": 1,
                     "type": "atk",
-                    "dpr": "1d6 + 5[DEX]",
-                    "toHit": "3[PB] + 5[DEX]",
+                    "dpr": "1d6 + 4[DEX]",
+                    "toHit": "3[PB] + 4[DEX]",
+                    "target": "enemy with least HP"
+                },
+                {
+                    "id": "6e4c79d5-ed92-4e41-a481-565d2fe84b57",
+                    "actionSlot": 1,
+                    "name": "Scimitar (Off Hand)",
+                    "freq": "at will",
+                    "condition": "default",
+                    "targets": 1,
+                    "type": "atk",
+                    "dpr": "1d6",
+                    "toHit": "3[PB] + 4[DEX]",
                     "target": "enemy with least HP"
                 }
             ]
@@ -265,34 +223,31 @@
             "name": "Marin (Warlock)",
             "count": 1,
             "hp": 51,
-            "AC": 19,
+            "AC": 18,
             "saveBonus": 3,
             "actions": [
                 {
-                    "type": "template",
-                    "id": "a18cc779-c79c-4e76-9160-a56af665fd15",
-                    "freq": {
-                        "reset": "sr",
-                        "uses": 2
-                    },
-                    "condition": "not used yet",
-                    "templateOptions": {
-                        "target": "enemy with highest DPR",
-                        "templateName": "Hypnotic Pattern",
-                        "saveDC": 16
-                    }
-                },
-                {
                     "id": "eec292b4-acbf-4294-9d46-ce3158bd78f9",
-                    "name": "Eldritch Blast + Hex",
+                    "name": "Eldritch Blast + Hexblade Curse",
                     "actionSlot": 0,
                     "freq": "at will",
                     "condition": "default",
                     "targets": 2,
                     "type": "atk",
-                    "dpr": "1d10 + 1d6[HEX] + 5[AB]",
+                    "dpr": "1d10 + 5[AB] + 3[HEX]",
                     "toHit": "8",
                     "target": "enemy with least HP"
+                },
+                {
+                    "id": "3edf5368-c477-4aa6-b310-c7196d02a0ea",
+                    "name": "Hexblade Curse (Creature Dies)",
+                    "actionSlot": -2,
+                    "condition": "default",
+                    "freq": "1/fight",
+                    "targets": 1,
+                    "type": "heal",
+                    "amount": "11",
+                    "target": "self"
                 }
             ]
         }
