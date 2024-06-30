@@ -37,7 +37,6 @@ dv.paragraph(`Current Date: ${currentDate.month}-${currentDate.day}-${currentDat
 LIST WITHOUT ID file.link
 FROM "1. DM Stuff/Lookup Tables"
 ```
-
 # Templates
 | World Building            | Party                             |
 | ------------------------- | --------------------------------- |
