@@ -21,16 +21,20 @@ function getDate(app, date) {
 		},
 		prettyPrint: {
 			month: calendarConfig.months[month-1].name,
-			day: calendarConfig.weekdays[getDayNumberFromBeginning(month, day, year) % weekdays.length].name,
+			day: calendarConfig.weekdays[getDayNumberFromBeginning(app, month, day, year) % weekdays.length].name,
 			year
 		}
 	}
 }
 
-function getCalendarConfig (app) {
+function getCalendarName(app) {
 	const dv = app.plugins.getPlugin("dataview").api
+	return dv.page(dv.page('Configuration').active_world).calendar
+}
+
+function getCalendarConfig (app) {
 	const Calendarium = app.plugins.getPlugin("calendarium").api
-	const calendarName = dv.page(dv.page('Configuration').active_world).calendar
+	const calendarName = getCalendarName(app)
     const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
 
 	return {
@@ -41,13 +45,16 @@ function getCalendarConfig (app) {
 }
 
 function getCurrentDate(app) {
+	const Calendarium = app.plugins.getPlugin("calendarium").api
+	const calendarName = getCalendarName(app)
 	const calendarApi = Calendarium.getAPI(calendarName)
 	const date = calendarApi.getCurrentDate()
 	return date
 }
 
-function getDayNumberFromBeginning(month, day, year) {
-	const numberDayInYear = months.reduce((accum, monthConfig, index) => {
+function getDayNumberFromBeginning(app, month, day, year) {
+	const calendarConfig = getCalendarConfig(app)
+	const numberDayInYear = calendarConfig.months.reduce((accum, monthConfig, index) => {
 		if ((month-1) === index) {
 			return accum + day
 		} else if (index < (month-1)) {
