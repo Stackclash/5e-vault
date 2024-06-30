@@ -26,7 +26,7 @@ locations:
 # Current Party/World Info
 ```dataviewjs
 const {getDate} = require(app.vault.adapter.basePath + "/z_Scripts/JS/calendarDate");
-console.log(getDate)
+console.log(getDate(app))
 const players = dv.pages('#player').filter(p => p.party.path === dv.current().active_party.path)
 const currentDate = getDate(dv)
 dv.paragraph(`Current Party Size: ${players.length}`)
