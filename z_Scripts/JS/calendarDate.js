@@ -21,7 +21,7 @@ function getDate(app, date) {
 		},
 		prettyPrint: {
 			month: calendarConfig.months[month-1].name,
-			day: calendarConfig.weekdays[getDayNumberFromBeginning(app, month, day, year) % weekdays.length].name,
+			day: calendarConfig.weekdays[getDayNumberFromBeginning(app, month, day, year) % calendarConfig.weekdays.length].name,
 			year
 		}
 	}
@@ -63,7 +63,7 @@ function getDayNumberFromBeginning(app, month, day, year) {
 			return accum
 		}
 	}, 0)
-	const numberOfDaysInYear = months.reduce((accum, monthConfig) => {
+	const numberOfDaysInYear = calendarConfig.months.reduce((accum, monthConfig) => {
 		return accum + monthConfig.length
 	}, 0)
 	return numberDayInYear + (numberOfDaysInYear * (year+1))

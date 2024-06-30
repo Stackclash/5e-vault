@@ -29,7 +29,7 @@ const {getDate} = require(app.vault.adapter.basePath + "/z_Scripts/JS/calendarDa
 const players = dv.pages('#player').filter(p => p.party.path === dv.current().active_party.path)
 const currentDate = getDate(app)
 dv.paragraph(`Current Party Size: ${players.length}`)
-dv.paragraph(`Current Date: ${currentDate.month}-${currentDate.day}-${currentDate.year}`)
+dv.paragraph(`Current Date: ${currentDate.prettyPrint.month} ${currentDate.original.day}, ${currentDate.original.year} (${currentDate.prettyPrint.day})`)
 ```
 
 # DM Tools/Calculators
