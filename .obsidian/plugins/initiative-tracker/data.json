@@ -179,7 +179,7 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -217,7 +217,7 @@
         "note": null,
         "path": null,
         "id": "ID_4ba9983b5a8b",
-        "currentHP": 43,
+        "currentHP": 33,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -267,7 +267,7 @@
         "enabled": true,
         "level": 6,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -326,9 +326,11 @@
         "ac": 13,
         "currentAC": 13,
         "id": "ID_1909f9293979",
-        "currentHP": 63,
+        "currentHP": 43,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Hexed"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -347,7 +349,7 @@
         "ac": 14,
         "currentAC": 14,
         "id": "ID_88aa8b298849",
-        "currentHP": 37,
+        "currentHP": 27,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -360,7 +362,7 @@
     ],
     "state": true,
     "name": "Wildings",
-    "round": 2,
+    "round": 3,
     "logFile": "",
     "rollHP": false
   },
