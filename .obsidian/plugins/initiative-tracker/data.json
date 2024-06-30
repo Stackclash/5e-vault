@@ -219,11 +219,13 @@
         "id": "ID_4ba9983b5a8b",
         "currentHP": 43,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Concentrating"
+        ],
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -245,7 +247,7 @@
         "enabled": true,
         "level": 6,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -285,7 +287,7 @@
         "currentHP": 23,
         "tempHP": 0,
         "status": [],
-        "enabled": true,
+        "enabled": false,
         "active": false,
         "hidden": false,
         "friendly": false,
@@ -303,9 +305,11 @@
         "ac": 13,
         "currentAC": 13,
         "id": "ID_ea4988d9eb8b",
-        "currentHP": 26,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
