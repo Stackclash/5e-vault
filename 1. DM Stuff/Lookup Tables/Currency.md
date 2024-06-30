@@ -1,9 +1,10 @@
 ---
-CoinsCopper: 1000
-CoinsSilver: 10
-CoinsElectrum: 20
-CoinsGold: 1
-CoinsPlatinum: 100
+obsidianUIMode: preview
+CoinsCopper: 17500
+CoinsSilver: 0
+CoinsElectrum: 0
+CoinsGold: 0
+CoinsPlatinum: 0
 PartySize: 2
 ---
 
