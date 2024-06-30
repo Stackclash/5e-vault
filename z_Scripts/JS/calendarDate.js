@@ -2,10 +2,10 @@ function getDate(app, date) {
 	const dv = app.plugins.getPlugin("dataview").api
 	const Calendarium = app.plugins.getPlugin("calendarium").api
 	
-	console.log(Calendarium)
     let month, day, year
     const calendarName = dv.page(dv.page('Configuration').active_world).calendar
     const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
+	console.log(calendarName, calendarConfig)
     const months = calendarConfig.months
     const weekdays = calendarConfig.weekdays
     const moons = calendarConfig.moons
