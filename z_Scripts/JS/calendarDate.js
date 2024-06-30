@@ -1,22 +1,13 @@
 function getDate(app, date) {
-	const dv = app.plugins.getPlugin("dataview").api
-	const Calendarium = app.plugins.getPlugin("calendarium").api
-	
-    let month, day, year
-    const calendarName = dv.page(dv.page('Configuration').active_world).calendar
-    const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
-	console.log(calendarName, calendarConfig)
-    const months = calendarConfig.months
-    const weekdays = calendarConfig.weekdays
-    const moons = calendarConfig.moons
+	const calendarConfig = getCalendarConfig(app)
+
 	if (typeof date === 'string') {
         const dateArray = date.split('-')
 		month = parseInt(dateArray[1]),
 		day = parseInt(dateArray[2]),
 		year = parseInt(dateArray[0])
-        } else if (!date) {
-        const calendarApi = Calendarium.getAPI(calendarName)
-        date = calendarApi.getCurrentDate()
+	} else if (!date) {
+        date = getCurrentDate(app)
             
 		month = date.month
 		day = date.day
@@ -29,11 +20,30 @@ function getDate(app, date) {
 			year
 		},
 		prettyPrint: {
-			month: months[month-1].name,
-			day: weekdays[getDayNumberFromBeginning(month, day, year, months) % weekdays.length].name,
+			month: calendarConfig.months[month-1].name,
+			day: calendarConfig.weekdays[getDayNumberFromBeginning(month, day, year) % weekdays.length].name,
 			year
 		}
 	}
+}
+
+function getCalendarConfig (app) {
+	const dv = app.plugins.getPlugin("dataview").api
+	const Calendarium = app.plugins.getPlugin("calendarium").api
+	const calendarName = dv.page(dv.page('Configuration').active_world).calendar
+    const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
+
+	return {
+		months: calendarConfig.months,
+		weekdays: calendarConfig.weekdays,
+		moons: calendarConfig.moons
+	}
+}
+
+function getCurrentDate(app) {
+	const calendarApi = Calendarium.getAPI(calendarName)
+	const date = calendarApi.getCurrentDate()
+	return date
 }
 
 function getDayNumberFromBeginning(month, day, year) {
