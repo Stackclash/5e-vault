@@ -44,12 +44,11 @@ function editFrontmatter(path, field) {
         //     data[field] = { Eldoria: data[field] }
         //     fs.writeFileSync(note.path, matter.stringify(content, data))
         // }
-        if (!Object.hasOwnProperty.call(data, field) || !Object.hasOwnProperty.call(data[field], 'Curse of Strahd')) {
-            data[field] = { 'Curse of Strahd': '' }
+        if (!Object.hasOwnProperty.call(data, field)) {
+            data[field] = ''
             fs.writeFileSync(note.path, matter.stringify(content, data))
             
         }
-        console.log(note.path)
         process.exit()
     })
 }
