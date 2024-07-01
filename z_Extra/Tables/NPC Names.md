@@ -16,8 +16,8 @@ Random place name
 
 
 ## Main Table
-| dice: 1d2 | Names                                                                   |
-| --------- | ----------------------------------------------------------------------- |
+| dice: 1d2 | Names                                                     |
+| --------- | --------------------------------------------------------- |
 | 1         | `dice: [[NPC Names#^names]]` `dice: [[NPC Names#^femme]]` |
 | 2         | `dice: [[NPC Names#^names]]` `dice: [[NPC Names#^masc]]`  |
 ^main
