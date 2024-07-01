@@ -12,6 +12,8 @@
 - Labyrinth
 - The Witcher
 - Percy Jackson
+- Dragon Prince
+- Warcraft Movie
 # Specific Ideas from Media
 - Various different types of werewolves. - Dresden Files: Fool Moon
 	- Hexenwolf
