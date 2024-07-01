@@ -40,9 +40,14 @@ function editFrontmatter(path, field) {
         const content = fs.readFileSync(note.path, 'utf-8')
         const data = matter(content).data
 
-        if (!Object.hasOwnProperty.call(data[field], 'Eldoria')) {
-            data[field] = { Eldoria: data[field] }
+        // if (!Object.hasOwnProperty.call(data[field], 'Eldoria')) {
+        //     data[field] = { Eldoria: data[field] }
+        //     fs.writeFileSync(note.path, matter.stringify(content, data))
+        // }
+        if (!Object.hasOwnProperty.call(data, field) || !Object.hasOwnProperty.call(data[field], 'Curse of Strahd')) {
+            data[field] = { 'Curse of Strahd': '' }
             fs.writeFileSync(note.path, matter.stringify(content, data))
+            
         }
         console.log(note.path)
         process.exit()
@@ -60,4 +65,4 @@ function editFrontmatter(path, field) {
 // addTagToNotes('4. World Almanac/Worlds', 'location')
 // addTagToNotes('4. World Almanac/NPCs', 'npc')
 
-editFrontmatter('4. World Almanac/NPCs', 'location')
+editFrontmatter('4. World Almanac/NPCs', 'partyRelationships')
