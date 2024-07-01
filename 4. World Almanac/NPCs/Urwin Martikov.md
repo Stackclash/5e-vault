@@ -8,9 +8,8 @@ tags:
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
   - npc
-location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
-image: null
+image: 
 relationships:
   - Brom Martikov|son
   - Danika Dorakova|wife
@@ -18,21 +17,23 @@ relationships:
   - Bray Martikov|son
 aliases:
   - Urwin Martikov
-pronounced: null
-race: null
+pronounced: 
+race: 
 gender: male
-age: null
+age: 
 alignment: Lawful Good
-occupation: []
-groups: []
-religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+occupation: 
+groups: 
+religions: 
+personality: 
+ideal: 
+bond: 
+flaw: 
+goals: 
+likes: 
+dislikes: 
+location:
+  Eldoria: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 ---
 
 > [!infobox]
@@ -56,8 +57,7 @@ dislikes: null
 > **Occupation(s)** | `INPUT[inlineList:occupation]` |
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
-> **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Current Location** | `$=await dv.view('metaBindInput', {type: 'suggester', options: ['optionQuery(#location)'], field: 'location["' + dv.page(dv.page('Configuration').active_world).file.name + '"]'})` |
+> **Current Location** | `$=await dv.view('metaBindInput', {type: 'suggester', options: ['optionQuery(#location)'], field: ['location', dv.page(dv.page('Configuration').active_world).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*
