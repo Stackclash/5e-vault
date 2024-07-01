@@ -102,6 +102,12 @@
         "icon": "FasPerson",
         "for": "everything",
         "order": 12
+      },
+      {
+        "rule": "Configuration",
+        "icon": "FasGear",
+        "for": "everything",
+        "order": 13
       }
     ],
     "extraMargin": {
