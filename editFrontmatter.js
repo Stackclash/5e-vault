@@ -3,15 +3,12 @@ const fs = require('fs')
 const getAllFiles = require('./z_Scripts/Templater/get_all_files')
 
 function addTagToNotes(path, tag) {
-    const prepNotes = getAllFiles(__dirname, path).filter(file => file.path.endsWith('.md'))
-    // console.log(prepNotes)
-    // process.exit()
+    const notes = getAllFiles(__dirname, path).filter(file => file.path.endsWith('.md'))
 
-    prepNotes.forEach(note => {
+    notes.forEach(note => {
         const content = fs.readFileSync(note.path, 'utf-8')
         const data = matter(content).data
         const tags = data.tags || []
-        if (note.name === 'Yester Hill.md') console.log(content, data)
 
         if (!tags.includes(tag)) {
             tags.push(tag)
@@ -21,9 +18,9 @@ function addTagToNotes(path, tag) {
 }
 
 function removeTagFromNotes(path, tag) {
-    const prepNotes = getAllFiles(__dirname, path).filter(file => file.path.endsWith('.md'))
+    const notes = getAllFiles(__dirname, path).filter(file => file.path.endsWith('.md'))
 
-    prepNotes.forEach(note => {
+    notes.forEach(note => {
         const content = fs.readFileSync(note.path, 'utf-8')
         const data = matter(content).data
         const tags = data.tags || []
@@ -36,13 +33,31 @@ function removeTagFromNotes(path, tag) {
     })
 }
 
+function editFrontmatter(path, field) {
+    const notes = getAllFiles(__dirname, path).filter(file => file.path.endsWith('.md'))
+
+    notes.forEach(note => {
+        const content = fs.readFileSync(note.path, 'utf-8')
+        const data = matter(content).data
+
+        if (!Object.hasOwnProperty.call(data[field], 'Eldoria')) {
+            data[field] = { Eldoria: data[field] }
+            fs.writeFileSync(note.path, matter.stringify(content, data))
+        }
+        console.log(note.path)
+        process.exit()
+    })
+}
+
 // addTagToNotes('1. DM Stuff/Session Prep', 'session-prep')
 // addTagToNotes('1. DM Stuff/Session Journals', 'session-journal')
 // addTagToNotes('3. The Party/Parties', 'party')
 // addTagToNotes('3. The Party/Players', 'player')
-addTagToNotes('4. World Almanac/Places of Interest', 'location')
+// addTagToNotes('4. World Almanac/Places of Interest', 'location')
 // addTagToNotes('4. World Almanac/Regions', 'location')
 // addTagToNotes('4. World Almanac/Settlements', 'location')
 // addTagToNotes('4. World Almanac/Shops', 'location')
 // addTagToNotes('4. World Almanac/Worlds', 'location')
 // addTagToNotes('4. World Almanac/NPCs', 'npc')
+
+editFrontmatter('4. World Almanac/NPCs', 'location')
