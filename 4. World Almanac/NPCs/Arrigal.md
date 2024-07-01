@@ -33,6 +33,7 @@ flaw: Greed and self-interest often overshadow his better judgement
 goals: 'To protect and serve his Vistani clan, to amass personal wealth and power'
 likes: 'Wealth, power, the respect of his peers'
 dislikes: 'The forces of Strahd (publicly), betrayal, weakness'
+partyRelationships: {}
 ---
 
 > [!infobox]
@@ -57,6 +58,7 @@ dislikes: 'The forces of Strahd (publicly), betrayal, weakness'
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 121*

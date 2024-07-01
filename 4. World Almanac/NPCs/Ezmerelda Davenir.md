@@ -32,6 +32,7 @@ flaw: I go where angels fear to tread.
 goals: 'To defeat Strahd, to become the greatest monster hunter in the land'
 likes: 'Knowledge about monsters, vanquishing evil, proving her skill and courage'
 dislikes: 'Cowardice, betrayal, the undead, those who underestimate her'
+partyRelationships: {}
 ---
 
 > [!infobox]
@@ -56,6 +57,7 @@ dislikes: 'Cowardice, betrayal, the undead, those who underestimate her'
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 231*

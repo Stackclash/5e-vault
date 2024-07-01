@@ -38,6 +38,7 @@ likes: >-
 dislikes: >-
   Cowardice, betrayal, Strahd and his minions, the failure of the Order to
   protect Barovia
+partyRelationships: {}
 ---
 
 > [!infobox]
@@ -62,6 +63,7 @@ dislikes: >-
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 139*

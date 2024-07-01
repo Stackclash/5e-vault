@@ -30,6 +30,7 @@ flaw: Can be overly cautious and sometimes distrustful of strangers
 goals: 'To secure a safe place for Ireena, away from Strahd’s reach'
 likes: 'Quiet moments of peace, strong leadership, loyalty'
 dislikes: 'Threats to his family, Strahd''s minions, chaos'
+partyRelationships: {}
 ---
 
 > [!infobox]
@@ -54,6 +55,7 @@ dislikes: 'Threats to his family, Strahd''s minions, chaos'
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 43*

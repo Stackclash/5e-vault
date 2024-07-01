@@ -32,6 +32,7 @@ flaw: >-
 goals: To guide the souls that come to her towards their destiny.
 likes: 'Reading fortunes, the respect of her people, the mystic arts.'
 dislikes: 'Those who disrespect the Vistani, closed-mindedness.'
+partyRelationships: {}
 ---
 
 > [!infobox]
@@ -56,6 +57,7 @@ dislikes: 'Those who disrespect the Vistani, closed-mindedness.'
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 233*

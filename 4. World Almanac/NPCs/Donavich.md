@@ -30,6 +30,7 @@ flaw: His faith wavers in the face of his son's affliction.
 goals: 'To protect his flock, to cure his son'
 likes: 'Dawn, prayer, community gatherings'
 dislikes: 'Darkness, Strahd’s influence, seeing his parishioners suffer'
+partyRelationships: {}
 ---
 
 > [!infobox]
@@ -54,6 +55,7 @@ dislikes: 'Darkness, Strahd’s influence, seeing his parishioners suffer'
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 46*

@@ -33,6 +33,7 @@ flaw: >-
 goals: ' To keep Vallaki free from Strahd''s influence, to maintain order at all costs'
 likes: 'Obedience, festivals, public displays of happiness'
 dislikes: 'Dissent, failure, anything that threatens his control or Vallaki''s ''happiness'''
+partyRelationships: {}
 ---
 
 > [!infobox]
@@ -57,6 +58,7 @@ dislikes: 'Dissent, failure, anything that threatens his control or Vallaki''s '
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 105*

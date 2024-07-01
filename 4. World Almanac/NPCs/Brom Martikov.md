@@ -33,6 +33,7 @@ flaw: His curiosity and mischievousness sometimes get him into trouble
 goals: 'To explore the world beyond Vallaki, to make a name for himself'
 likes: 'Pranks, stories of faraway places, animals'
 dislikes: 'Restrictions, Strahd’s minions, when others treat him like a child'
+partyRelationships: {}
 ---
 
 > [!infobox]
@@ -57,6 +58,7 @@ dislikes: 'Restrictions, Strahd’s minions, when others treat him like a child'
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*

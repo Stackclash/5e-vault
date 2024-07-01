@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
   - npc
+partyRelationships: {}
 ---
 # Index of Npc
 

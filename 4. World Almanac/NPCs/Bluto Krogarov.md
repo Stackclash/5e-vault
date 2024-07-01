@@ -29,6 +29,7 @@ goals: >-
   superstitions
 likes: 'Drinking, solitude, the rare good day of fishing'
 dislikes: 'The mockery of others, his own bad luck, the Burgomaster''s enforced happiness'
+partyRelationships: {}
 ---
 
 > [!infobox]
@@ -53,6 +54,7 @@ dislikes: 'The mockery of others, his own bad luck, the Burgomaster''s enforced 
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 38*

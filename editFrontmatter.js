@@ -45,11 +45,10 @@ function editFrontmatter(path, field) {
         //     fs.writeFileSync(note.path, matter.stringify(content, data))
         // }
         if (!Object.hasOwnProperty.call(data, field)) {
-            data[field] = ''
+            data[field] = {}
             fs.writeFileSync(note.path, matter.stringify(content, data))
             
         }
-        process.exit()
     })
 }
 
