@@ -32,6 +32,7 @@ flaw:
 goals: 
 likes: 
 dislikes: 
+partyRelationships: \{\}
 ---
 
 > [!infobox]
