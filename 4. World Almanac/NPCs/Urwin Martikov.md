@@ -57,6 +57,7 @@ dislikes: null
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
+> **Current Location** | `$=await dv.view('metaBindInput', {type: 'suggester', options: ['optionQuery(#location)'], field: 'location["' + dv.page(dv.page('Configuration').active_world).file.name + '"]'})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*
