@@ -68,18 +68,18 @@ TBD
 > ### Map Pixel Width x 1 / (Pixels between Bar Scale / 100)  
 > ### Note that this formula requires adjustments depending on your map. The idea is to determine the number of units between your bar scale. We divide by 100 here because my bar scale measures in 100 units. If your maps scale bar measures in units of 50 them you should divide by 50 instead. The idea is to calculate how many pixels are equal to 1 unit.  
 > ### Bounds is entered as [Height, Width]  
-> bounds: [[0,0] ,[11.68,18.21]]
+> bounds: [[0,0] ,[46.72,72.84]]
 > height: 700px  
 > width: 95%  
 > ### This sets where the map starts by default. Set it to the middle (half) of your bounds.  
-> lat: 5.84 
-> long: 9.10 
+> lat: 23.36 
+> long: 36.4
 > ### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map.  
-> minZoom: 6
+> minZoom: 4
 > ### Max zoom is 18.
-> maxZoom: 8.5
+> maxZoom: 6.5
 > ### Hover mouse over the Reset Zoom icon to see your current zoom level.
-> defaultZoom: 6
+> defaultZoom: 4
 > ### How far it zooms in or out with each step. Can be in decimals.
 > zoomDelta: 0.5
 > ### This is a string so can be any text. Change it to match your maps measurement scale.
@@ -87,7 +87,7 @@ TBD
 > scale: 1
 > darkMode: false
 > marker:
-> - village, 4.43, 14.37, [[Village of Barovia]]
+> - village, 17.72, 57.48, [[Village of Barovia]]
 > - village, 7.6, 7.2733, [[Vallaki]]
 > - village, 8, 2.0379, [[Krezk]]
 > - castle, 5.6302, 13.0019, [[Castle Ravenloft]]
