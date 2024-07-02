@@ -86,7 +86,7 @@ TBD
 > ### This is a string so can be any text. Change it to match your maps measurement scale.  
 > unit: miles  
 > scale: 1  
-> darkMode: false  
+> darkMode: false
 > ```
 
 ```dataviewjs
