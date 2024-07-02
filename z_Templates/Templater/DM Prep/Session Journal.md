@@ -10,15 +10,15 @@ let parties = dv.pages("#party")
 let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties, false, "What party is this Session for?")
 
 let latestJournal = dv.pages("#session-journal").filter(p => p.party && p.party.path === selectedParty.file.path).sort(p => p.date, 'desc')[0]
-console.log(latestJournal, latestJournal.match(/^S(\d{1,})/))
+const newSessionNumber = parseInt(latestJournal.file.name.match(/^S(\d{1,})/)[1])+1
 
-//await tp.file.move(path.join(locationConfig.journals, selectedParty.file.name, 'S New Session Journal'))
+await tp.file.move(path.join(locationConfig.journals, selectedParty.file.name, `S${newSessionNumber} New Session Journal`))
 -%>
 ---
 obsidianUIMode: preview
 date: <% formattedDate %>
 summary:
-fc-date: 
+fc-date: <% latestJournal['fc-end'] || latestJournal['fc-date'] %>
 fc-end: 
 timelines:
 aat-render-enabled: true
