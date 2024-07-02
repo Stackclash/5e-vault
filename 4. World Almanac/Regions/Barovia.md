@@ -88,14 +88,14 @@ TBD
 > darkMode: false
 > marker:
 > - village, 17.72, 57.48, [[Village of Barovia]]
-> - village, 7.6, 7.2733, [[Vallaki]]
-> - village, 8, 2.0379, [[Krezk]]
-> - castle, 5.6302, 13.0019, [[Castle Ravenloft]]
-> - village, 6.2077, 2.0323, [[The Wizard of Wines]]
-> - village, 4.528, 11.9744, [[Tser Pool]]
-> - tower, 8.3729, 4.2887, [[Van Richten's Tower]]
-> - village, 8.6254, 7.7459, [[Lake Zarovich]]
-> - dungeon, 1.9545, 6.2847, [[The Amber Temple]]
+> - village, 30.4, 29.0932, [[Vallaki]]
+> - village, 32, 8.1516, [[Krezk]]
+> - castle, 22.5208, 52.0076, [[Castle Ravenloft]]
+> - village, 24.8308, 8.1292, [[The Wizard of Wines]]
+> - village, 18.112, 47.8976, [[Tser Pool]]
+> - tower, 33.4916, 17.1548, [[Van Richten's Tower]]
+> - village, 34.5016, 30.9836, [[Lake Zarovich]]
+> - dungeon, 7.818, 25.1388, [[The Amber Temple]]
 > ```
 
 ```dataviewjs
