@@ -96,6 +96,7 @@ TBD
 > - tower, 33.4916, 17.1548, [[Van Richten's Tower]]
 > - village, 34.5016, 30.9836, [[Lake Zarovich]]
 > - dungeon, 7.818, 25.1388, [[The Amber Temple]]
+> - castle, 24.0882, 24.1528, [[Argynvostholt]]
 > ```
 
 ```dataviewjs
