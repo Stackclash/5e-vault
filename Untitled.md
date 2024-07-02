@@ -1,17 +1,36 @@
-~~~meta-bind
+>[!infobox]
+> ```meta-bind
+> INPUT[select(
+> option(1, Tab 1),
+> option(2, Tab 2),
+> option(3, Tab 3),
+> class(tabbed)
+> )]
+> ```
+>>[!tabbed-box]
+>>>[!div-m|no-t]
+>>> This is Tab 1
+>>
+>>> [!div-m|no-t]
+>>> Now you're on Tab 2
+>> 
+>>> [!div-m|no-t]
+>>> Finally this is Tab 3
+
+```meta-bind
 INPUT[select(
-option(1, option 1),
-option(2, option 2),
-option(3, option 3),
+option(1, Tab 1),
+option(2, Tab 2),
+option(3, Tab 3),
 class(tabbed)
 )]
-~~~
+```
 >[!tabbed-box]
-> >[!div-m|no-t]
-> > $a^2$ plus
+>>[!div-m|no-t]
+>> This is Tab 1
 >
-> > [!div-m|no-t]
-> > $b^2$ equals
+>> [!div-m|no-t]
+>> Now you're on Tab 2
 > 
-> > [!div-m|no-t]
-> > $\frac{E}{m}$
+>> [!div-m|no-t]
+>> Finally this is Tab 3
