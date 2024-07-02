@@ -7,6 +7,11 @@ tags:
 - {tag}
 {/for}
 {/if}
+level: {resource.level}
+range: {resource.ritual}
+school: {resource.school}
+time: {resource.time}
+duration: {resource.duration}
 aliases: ["{resource.name}"]
 ---
 # {resource.name}
