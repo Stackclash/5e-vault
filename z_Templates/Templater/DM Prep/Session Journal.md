@@ -12,6 +12,8 @@ let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), par
 let latestJournal = dv.pages("#session-journal").filter(p => p.party && p.party.path === selectedParty.file.path).sort(p => p.date, 'desc')[0]
 const newSessionNumber = parseInt(latestJournal.file.name.match(/^S(\d{1,})/)[1])+1
 
+let prepNote = dv.pages("#session-prep").filter(p => p.file.name === formattedDate)[0]
+
 await tp.file.move(path.join(locationConfig.journals, selectedParty.file.name, `S${newSessionNumber} New Session Journal`))
 -%>
 ---
@@ -21,10 +23,11 @@ summary:
 fc-date: <% latestJournal['fc-end'] || latestJournal['fc-date'] %>
 fc-end: 
 timelines:
+  - <% latestJournal.timelines[0] %>
 aat-render-enabled: true
 fc-category: Session
 party: "<% selectedParty.file.link %>"
-prep-notes:
+prep-notes: "<% prepNote ? prepNote.file.link: '' %>"
 tags:
   - session-journal
 ---
