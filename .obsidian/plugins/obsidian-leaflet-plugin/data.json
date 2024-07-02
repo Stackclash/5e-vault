@@ -1,5 +1,34 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "AmberTemple",
+      "locked": true,
+      "lastAccessed": 1719964371376,
+      "markers": [
+        {
+          "id": "ID_1a199918e9c9",
+          "type": "default",
+          "loc": [
+            91.7177734375,
+            77.59255583126551
+          ],
+          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4. World Almanac/Places of Interest/The Amber Temple.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
