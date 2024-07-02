@@ -2,12 +2,11 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-{#if resource.tags }
 tags:
+- npc
 {#for tag in resource.tags}
 - {tag}
 {/for}
-{/if}
 location: 
 condition: healthy
 {#if resource.fluffImages && resource.fluffImages.size > 0 }{#let first=resource.fluffImages.get(0)}
