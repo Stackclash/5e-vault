@@ -49,10 +49,8 @@ label: Create NPC
 id: create-npc
 hidden: true
 actions:
-  - type: command
-    command: templater-obsidian:create-new-note-from-template
-  - type: input
-    str: NPC
+  - type: templaterCreateNote
+    templateFile: "z_Templates/Templater/World Building/NPC.md"
 ```
 ```meta-bind-button
 style: primary
@@ -60,10 +58,8 @@ label: Create Location
 id: create-location
 hidden: true
 actions:
-  - type: command
-    command: templater-obsidian:create-new-note-from-template
-  - type: input
-    str: Location
+  - type: templaterCreateNote
+    templateFile: "z_Templates/Templater/World Building/Location.md"
 ```
 ```meta-bind-button
 style: primary
@@ -71,10 +67,8 @@ label: Create Shop
 id: create-shop
 hidden: true
 actions:
-  - type: command
-    command: templater-obsidian:create-new-note-from-template
-  - type: input
-    str: Shop
+  - type: templaterCreateNote
+    templateFile: "z_Templates/Templater/World Building/Shop.md"
 ```
 ```meta-bind-button
 style: primary
@@ -82,10 +76,8 @@ label: Create Player Character
 id: create-player-character
 hidden: true
 actions:
-  - type: command
-    command: templater-obsidian:create-new-note-from-template
-  - type: input
-    str: "Player Character"
+  - type: templaterCreateNote
+    templateFile: "z_Templates/Templater/Party/Player Character.md"
 ```
 ```meta-bind-button
 style: primary
@@ -93,10 +85,8 @@ label: Create Session Journal
 id: create-session-journal
 hidden: true
 actions:
-  - type: command
-    command: templater-obsidian:create-new-note-from-template
-  - type: input
-    str: "Session Journal"
+  - type: templaterCreateNote
+    templateFile: "z_Templates/Templater/DM Prep/Session Journal.md"
 ```
 ```meta-bind-button
 style: primary
@@ -104,10 +94,8 @@ label: Create Session Prep
 id: create-session-prep
 hidden: true
 actions:
-  - type: command
-    command: templater-obsidian:create-new-note-from-template
-  - type: input
-    str: "Session Prep"
+  - type: templaterCreateNote
+    templateFile: "z_Templates/Templater/DM Prep/Session Prep.md"
 ```
 
 # File Location Configuration
