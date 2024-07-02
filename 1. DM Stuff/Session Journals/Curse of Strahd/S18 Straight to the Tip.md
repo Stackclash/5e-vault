@@ -10,7 +10,8 @@ summary: |-
 
   Seizing the opportunity, the party quickly retreated up Mount Ghakis. After a challenging climb, they arrived at the peak and found a Fiend's Chili. Seluvis successfully created the potion and cured his lycanthropy. In the midst of their search for the chili, they stumbled upon a massive, ominous temple carved into the side of the mountain, its presence foreboding and mysterious.
 fc-date: 973-2-20
-timelines: 
+timelines:
+  - COS
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"

@@ -10,7 +10,8 @@ summary: |-
 
   Witnessing Karina's soul being consumed by the lich through a portal above the amber, the party confronted the grim reality of the temple's horrors.
 fc-date: 973-2-20
-timelines: 
+timelines:
+  - COS
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
