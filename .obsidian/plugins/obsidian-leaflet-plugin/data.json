@@ -2,20 +2,24 @@
   "mapMarkers": [
     {
       "id": "Barovia",
-      "locked": true,
-      "lastAccessed": 1719947759761,
+      "locked": false,
+      "lastAccessed": 1719947794089,
       "markers": [
         {
           "id": "ID_8869783aba3b",
           "type": "village",
           "loc": [
-            16.251355480477308,
-            32.94282942794132
+            17.824726970368815,
+            36.01763260586353
           ],
+          "link": "Conditions",
           "layer": "%5B%5B40-01_Amber_Temple_Entry-scen_raw.png%7CAmber%20Temple%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            1.9877707128110675,
+            -1.749794056544421
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
