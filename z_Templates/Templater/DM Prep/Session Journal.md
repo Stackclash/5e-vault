@@ -7,12 +7,12 @@ let date = await tp.system.prompt("What date is this session supposed to happen?
 let formattedDate = moment(date).format("YYYY-MM-DD")
 
 let parties = dv.pages("#party")
-let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => p.file), false, "What party is this Session for?")
+let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties, false, "What party is this Session for?")
 
-let latestJournal = dv.pages("#session-journal").filter(p => p.party.file.path === selectedParty.path).sort((a,b) => a-b)[0]
+let latestJournal = dv.pages("#session-journal").filter(p => p.party === selectedParty.file.link).sort((a,b) => a.date - b.date)[0]
 console.log(latestJournal)
 
-await tp.file.move(path.join(locationConfig.journals, selectedParty.name, 'S New Session Journal'))
+await tp.file.move(path.join(locationConfig.journals, selectedParty.file.name, 'S New Session Journal'))
 -%>
 ---
 obsidianUIMode: preview
@@ -23,7 +23,7 @@ fc-end:
 timelines:
 aat-render-enabled: true
 fc-category: Session
-party: "<% selectedParty.link %>"
+party: "<% selectedParty.file.link %>"
 prep-notes:
 tags:
   - session-journal
