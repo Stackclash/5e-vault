@@ -10,7 +10,7 @@ let parties = dv.pages("#party")
 let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties, false, "What party is this Session for?")
 
 let latestJournal = dv.pages("#session-journal").filter(p => p.party && p.party.path === selectedParty.file.path)
-console.log(latestJournal.map(p => p.file.name), latestJournal.sort((a,b) => new Date(a.date) - new Date(b.date)).map(p => p.file.name))
+console.log(latestJournal)
 
 //await tp.file.move(path.join(locationConfig.journals, selectedParty.file.name, 'S New Session Journal'))
 -%>
