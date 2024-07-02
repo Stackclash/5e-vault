@@ -10,14 +10,16 @@ let parties = dv.pages("#party")
 let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => p.file), false, "What party is this Session for?")
 
 let latestJournal = dv.pages("#session-journal").filter(p => p.party.file.path === selectedParty.path).sort((a,b) => a-b)[0]
+console.log(latestJournal)
 
-await tp.file.move(path.join(locationConfig.journals, selectedParty.name, formattedDate))
+await tp.file.move(path.join(locationConfig.journals, selectedParty.name, 'S New Session Journal'))
 -%>
 ---
 obsidianUIMode: preview
 date: <% formattedDate %>
 summary:
 fc-date: 
+fc-end: 
 timelines:
 aat-render-enabled: true
 fc-category: Session
@@ -36,7 +38,7 @@ tags:
 > ## Fantasy Dates
 > | | |
 > |---|---|
-> | **Start Date:** | `INPUT[text:fc-date]`
+> | **Start Date:** | `INPUT[text:fc-date]` |
 > | **End Date:** | `INPUT[text:fc-end]` |
 > | **Timelines:** | `INPUT[inlineList:timelines]` |
 # `=this.file.name`
