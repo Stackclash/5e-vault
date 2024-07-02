@@ -3,7 +3,7 @@
     {
       "id": "Barovia",
       "locked": false,
-      "lastAccessed": 1719947794089,
+      "lastAccessed": 1719953082400,
       "markers": [
         {
           "id": "ID_8869783aba3b",
@@ -19,6 +19,25 @@
           "percent": [
             1.9877707128110675,
             -1.749794056544421
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa38690848f9",
+          "type": "castle",
+          "loc": [
+            23.520733279580895,
+            24.125
+          ],
+          "layer": "%5B%5BBarovia.jpg%7CBarovia%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2172682328660755,
+            -0.3300548465209898
           ],
           "description": null,
           "minZoom": null,
