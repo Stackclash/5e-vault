@@ -12,6 +12,7 @@ range: {resource.ritual}
 school: {resource.school}
 time: {resource.time}
 duration: {resource.duration}
+components: {resource.components}
 aliases: ["{resource.name}"]
 ---
 # {resource.name}
