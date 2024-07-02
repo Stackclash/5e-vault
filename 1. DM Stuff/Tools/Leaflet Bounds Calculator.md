@@ -1,6 +1,6 @@
 ---
 image: z_Assets/Amber Temple 1.webp
-distance_measure: 25
+distance_measure: 30
 units: 5
 ---
 
