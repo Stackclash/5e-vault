@@ -76,11 +76,11 @@ TBD
 > lat: 69.565
 > long: 69.565  
 > ### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map.  
-> minZoom: 2 
+> minZoom: 3 
 > ### Max zoom is 18.  
 > maxZoom: 4
 > ### Hover mouse over the Reset Zoom icon to see your current zoom level.  
-> defaultZoom: 2 
+> defaultZoom: 3 
 > ### How far it zooms in or out with each step. Can be in decimals.  
 > zoomDelta: 0.5  
 > ### This is a string so can be any text. Change it to match your maps measurement scale.  
@@ -90,7 +90,7 @@ TBD
 > ```
 
 ```dataviewjs
- await dv.view("locations", {current: dv.current()})
+await dv.view("locations", {current: dv.current()})
 ```
 
 ```dataviewjs

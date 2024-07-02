@@ -7,7 +7,7 @@ const pages = dv.pages('#location').where(p => {
     return items[items.length - 1]
 })
 
-dv.header(2, "Notable Locations")
+if (pages.length > 0) dv.header(2, "Notable Locations")
 
 for (let group of pages) {
     dv.header(3, group.key)
@@ -15,5 +15,3 @@ for (let group of pages) {
         group.rows.map(p => [p.file.link, p.pronounced])
     )
 }
-
-return 'test hello'

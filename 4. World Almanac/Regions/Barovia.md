@@ -103,7 +103,7 @@ TBD
 > ```
 
 ```dataviewjs
- await dv.view("locations", {current: dv.current()})
+await dv.view("locations", {current: dv.current()})
 ```
 
 ```dataviewjs
