@@ -2,8 +2,8 @@
   "mapMarkers": [
     {
       "id": "Barovia",
-      "locked": false,
-      "lastAccessed": 1719953629548,
+      "locked": true,
+      "lastAccessed": 1719953991713,
       "markers": [
         {
           "id": "ID_8869783aba3b",
@@ -227,6 +227,23 @@
       },
       "isImage": true,
       "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAztJREFUSEullr9rE2Ecxp+3Sv+BgsGpKYIBcelqhzRCh4JuTnXIBYrg3E2HuxvqUJw7tEPSUgsFQXAoRYckIMTJQrCUltaki0OLJIuFVsuZ5/We4/VIasUXQu7ee9/v5/v7fQ0uGVEU3QbwCMAkgLsAbnD54eHht7Ozs/1Op/NxYmJi2RizP0iM6fchFuzXarWZdruNer2OfD6PbDaLUqkEzvGZv3K5zP91AGE/kAvwAOTHx8dvdzqdewRPTlJxWOEcnudZ4RqFQsGFXAB4aoxZdpUWIAugJSG+76NWq9l11J6D7xRerVbtexiGVnv+cz62hJ+eG2NeCCKA35sIqDEFUDNucrWl9gTLTVKA61dWVlCpVOxefgfwRJZYAH1erVZ3V1dXh/jORcVi0QJoATcLJiWoeRAEVlFqf3R0ZK2MLaG77jAmArwCMCOzuJCCFUzGgM8UomCPjY39kR+COZB1Y8xjE2fM3qA0c2HUjkPuk/9lHSFUQPHJZrM5Ap4BmOdGuoIuoE8pWAF14RTGVKUbKYzrOac9jNXo6KiFrK2tvSTgHYApCqHZXECQk+ODjLNKULDiJvdxnkrs7Ox8IOArgJuyQNJUSHFWDIT0ixstIuTg4OCYgJ8Arv0vIO1GAjzPu0gAonKhsoXPqua/mhAXn1s7vu9bgHWRMkOVq/bwLwDG0AXIRTbIaQALLTbzKson7UNpHBfg+yRN073nqgC5Nm0532dnZ22asufvCcC0U45zM9NWg+/Mb8LpOu5h33KH1jPVwzC8n7SKSqUyQ8ECUAif2eA0uEma8juH6kBrFLuNjY0vW1tbt5JmVy6XdwuFwhA1VLNLA9SyBXGFSnNaGQRBtLm5+ebk5GQuOXCmp6ffZjKZh665BLkWqHJpSdot7FNqI3I3m4MAPLraURSxo84r1fSvqk4HNG0BwUtLS58ajUYz/lYSIOpNsLnXFxYWHiwuLs65+dxqtazb3BjI13JXFEVRs9lsbG9v68jkORsK8PscBMLe0VkcHh6eyuVy10dGRjKcVFd1zwCdz3TH6enp92632z0/P//BpswzK76JJC7qW0yDri0AjnvXmc88qnvXmdeXXVt+AdtyObF21l1ZAAAAAElFTkSuQmCC",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "cave",
+      "iconName": "map-marker",
+      "color": "#000000",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAApdJREFUSEuVVruuElEUXQcbv4DEBoaEeBNj4gdQ8G4sjZXehKHQj4BimEJjYUtMtAAKb+UX2AwFhR8g3lxDMtBYXH5BMrLOnT05nHlwPclkhvNYa++1HweFghFF0WMALwG0ADwFUI633x7nfx7nl8f5b0qp33kwKmshBvYAvCoyYLvdYjgcotfr/TgcDiPP8wJ7f4ogiqI3AD4BeHAOvFarJVsGg0F0eXk56vf7H8xzJwRRFI0AvLOBBchxHL3E93w+T/FPJhN4njdWSr2XxYQgtvyzfcr3ffCgOVqtFigPH3vMZjO4rvtWKfWFa5og1vxXlixKpcNEwmq1isViofGFjMQkAHBwHOcJgy8EX7MCmmW9WEwwPs1mM5GNHwz6YDCgF1dKqdcqtv7GdlXc55tEfBOQ+tuS2Wdd1xVPLkiQCuxyuUS73dbnCEqL+KYk58CFLAxDGjMmwXcAfVkokiUvbUlOo+xEmE6nKxL8AfCIi9xEDbOyIwvcCGriHeUhDjE2m80tCf6a2fM/HkhdEIySEJikNJLfYRgeUgS0lIVlemFalSeTSWbEQRMkEhGUzLvdTgeTh5jX0nPywPPmRSIdZLol5R8EgQaXFLUDeF+i9Xqtg6zT1JalCIQGMFbniFer1cek0MzcPwcuvUhI8rLO9/3OSaswZcoioWzMFnNI3EhKQqvSa0mzC4LgutPplIqKSYJuE0jteJ6n68GQ7o6ALR7AqWnHLinpyYPSNiQdTZICzxMCXnWter0ejsdjfU0RnFklDU6KKMvDgvhpghPrK5XKTalUupDASWfk7yzrhdDKQjamIddSBLaF9IBpeWZclcvlh/v9/kW8T666thmDFIbv+7Vut/u80Wg8u8fflrsL+3Rs/wHCkITNLeTtwQAAAABJRU5ErkJggg==",
       "tags": [],
       "minZoom": null,
       "maxZoom": null
