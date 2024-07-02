@@ -7,9 +7,9 @@ let date = await tp.system.prompt("What date is this session supposed to happen?
 let formattedDate = moment(date).format("YYYY-MM-DD")
 
 let parties = dv.pages("#party")
-let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => p.file.name), false, "What party is this Session for?")
+let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => p.file), false, "What party is this Session for?")
 
-await tp.file.move(path.join(locationConfig.journals, selectedParty, formattedDate))
+await tp.file.move(path.join(locationConfig.journals, selectedParty.name, formattedDate))
 -%>
 ---
 obsidianUIMode: preview
@@ -19,7 +19,7 @@ fc-date:
 timelines:
 aat-render-enabled: true
 fc-category: Session
-party:
+party: "<% selectedParty.link %>"
 prep-notes:
 tags:
   - session-journal
