@@ -95,6 +95,7 @@ TBD
 > - village, 4.528, 11.9744, [[Tser Pool]]
 > - tower, 8.3729, 4.2887, [[Van Richten's Tower]]
 > - village, 8.6254, 7.7459, [[Lake Zarovich]]
+> - dungeon, 1.9545, 6.2847, [[The Amber Temple]]
 > ```
 
 ```dataviewjs

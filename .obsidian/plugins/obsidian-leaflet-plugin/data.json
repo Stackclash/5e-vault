@@ -163,6 +163,23 @@
       "tags": [],
       "minZoom": null,
       "maxZoom": null
+    },
+    {
+      "type": "dungeon",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAuNJREFUSEutlr+PElEQx2ekBxMTk6uARk0w4R8gYZfE2BELq2t2KTSxo7C6Kx6vOBst6Ey0YEnUygY6veQWIn+CxGjD0twlJiZCLT75vuxsFg4OTG4alvdm5jO/3ttlukKMMXeI6DEROUR0P4qi21AvFAo/l+tfl+uD5fpHZv6xzQ1v2ogdqyiKDrHf7Xap1WqtqPq+T0opwLD+gYj0JtAlgDHmCRG91lpn4NRxHPI8jxqNxgpgMpmQ67p2DSDf9xdE9IyZ36YVVwDGmCOt9Um1WiWtNQ0GqABRp9NZASB66Ag0DEObJbJRSh0z8wuBJABEHgTBGxhBEUbFYjEBTKfTpEzYkwCQITKQbADvdDpPJRMLQM3DMPxWq9VuCBnlQWniplIURTYjwOEU/wGBTjpb6HueZ4IguIeeCOC967qHUhI4QY33FQDSQwD7Xq/XK5fLjxjRDwaD75JinNG+vhO9IAhW+gSgUuouAEeu655I9PHGfwNQMvRP/MS9OAbgcxAED8QjNkRgFM/5VmBaB89pW8dxTgE4Z+YD2cBIAoJIUFtMCJq6SaCDqGEDHTyjVCLGmAsA/jBzJg3A83A4tLOO+cZYbhL0TTLELzJYAywsoNFoZKCQz+eTaKGMqCSLbQBEjyCQ6YYMLOBca30Ah1JPGCESAPbpAUqFssIGMJEwDC94PB5/KZVKFVmEUznF8R1z5URJH3BuAMCJF1FKnfJoNHpZqVSerwOYGSd857gia1wp0F0v0Wg0esVaa1cpdZYGIHKkilLtI3AMG/Qr3WStdQ1XBS705F6QEu3jeF1nPYPlO4ItoF6vV5rNZpeZ7WW3be53QdEPlCyfz/9tt9tev99/d+0ZCCQOxr1WAJqdvi6W59UCcA8kRzWbzf6azWY3iSg53btKE+8vcrnc7/l8fiulfxlARJEx5iFetURkX/p7iLz0P8VDIyZJidI+kitx/bOFiOxnCxFt+2yxnxgpif4Bv8Gwg3QFXRgAAAAASUVORK5CYII=",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
     }
   ],
   "color": "#dddddd",
