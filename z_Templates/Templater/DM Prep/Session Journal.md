@@ -9,7 +9,7 @@ let formattedDate = moment(date).format("YYYY-MM-DD")
 let parties = dv.pages("#party")
 let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties, false, "What party is this Session for?")
 
-let latestJournal = dv.pages("#session-journal").filter(p => p.party && p.party.path === selectedParty.file.path)
+let latestJournal = dv.pages("#session-journal").filter(p => p.party && p.party.path === selectedParty.file.path).sort(p => p.date, 'desc')
 console.log(latestJournal)
 
 //await tp.file.move(path.join(locationConfig.journals, selectedParty.file.name, 'S New Session Journal'))
