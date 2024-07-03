@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 date: 2023-12-30T00:00:00.000Z
 summary: |-
-  
   In their pursuit of Victor Vallakovich, the party uncovered evidence suggesting he had utilized a teleportation sigil to visit Gertruda. Following this lead, they activated the teleportation circle, intending to reach the Village of Barovia. Conversations with Mad Mary and Ismark Kolyanovich there confirmed Gertruda's disappearance, deepening their resolve to find her.
 
   Attempting to return to Vallaki via the teleportation circle, they unexpectedly found themselves transported to the dreaded Castle Ravenloft, Strahd's imposing fortress. Inside, they unexpectedly encountered Victor Vallakovich, adding an unexpected twist to their quest. Determined to understand the intricacies of the teleportation system, the party deciphered its workings and successfully redirected it, finally arriving at the Coffin Maker's Shop in Vallaki.
@@ -17,6 +16,11 @@ party: "[[Curse of Strahd]]"
 prep-notes: "[[2023-12-30]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+  - "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+  - "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
+  - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 ---
 > [!infobox]
 > ## Info

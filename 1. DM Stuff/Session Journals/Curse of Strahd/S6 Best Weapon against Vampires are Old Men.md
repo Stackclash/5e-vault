@@ -17,6 +17,8 @@ prep-notes: "[[2023-11-04]]"
 fc-end: 973-2-14
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 ---
 > [!infobox]
 > ## Info
