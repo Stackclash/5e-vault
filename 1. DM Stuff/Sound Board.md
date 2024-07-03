@@ -1,3 +1,13 @@
+---
+obsidianUIMode: preview
+---
+```meta-bind-button
+style: primary
+label: Recreate Sound Board
+actions:
+  - type: templaterCreateNote
+    templateFile: "z_Templates/Templater/Extra/Sound Board.md"
+```
 ## Atmosphere
 ### Cold Creepy
 ![[Music/Atmosphere/Cold Creepy/Cold Atmosphere A.mp3#loop]]
@@ -16,7 +26,7 @@
 ### Whispering Forest
 ![[Music/Atmosphere/Whispering Forest.mp3#loop]]
 ### Forest Day
-![[Music/Atmosphere/Forest Day/Forest Day B.mp3#loop]]
+![[Music/Atmosphere/Forest Day/Forest Day A.mp3#loop]]
 ## Battle
 ### Anticipation
 ![[Music/Battle/Anticipation/Anticipation.mp3#loop]]
@@ -35,18 +45,18 @@
 ### Showdown
 ![[Music/Battle/Showdown.mp3#loop]]
 ### Boss Fight
-![[Music/Battle/Boss Fight/Boss Fight B.mp3#loop]]
+![[Music/Battle/Boss Fight/Boss Fight.mp3#loop]]
 ### Marching Into Uncertain Odds
-![[Music/Battle/Marching Into Uncertain Odds/Marching Into Uncertain Odds III.mp3#loop]]
+![[Music/Battle/Marching Into Uncertain Odds/Marching Into Uncertain Odds.mp3#loop]]
 ### Pre Battle
-![[Music/Battle/Pre Battle/Pre Battle Theme Strings.mp3#loop]]
+![[Music/Battle/Pre Battle/Pre Battle Theme.mp3#loop]]
 ### Warzone
 ![[Music/Battle/Warzone/Warzone.mp3#loop]]
 ## Sound Effects
 ### Horror Reveal
-![[Music/Sound Effects/Horror Reveal/Horror Reveal A.mp3#loop]]
+![[Music/Sound Effects/Horror Reveal/Horror Reveal B.mp3#loop]]
 ### Horse
-![[Music/Sound Effects/Horse/Horseback B.mp3#loop]]
+![[Music/Sound Effects/Horse/Horseback A.mp3#loop]]
 ### Pyroblast
 ![[Music/Sound Effects/Pyroblast.mp3#loop]]
 ### Snake Hiss

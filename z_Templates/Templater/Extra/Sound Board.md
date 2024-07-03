@@ -62,10 +62,12 @@ if (await tp.file.exists('1. DM Stuff/Sound Board.md')) {
 
 await tp.file.move('1. DM Stuff/Sound Board')
 -%>
+---
+obsidianUIMode: preview
+---
 ```meta-bind-button
 style: primary
 label: Recreate Sound Board
-hidden: true
 actions:
   - type: templaterCreateNote
     templateFile: "z_Templates/Templater/Extra/Sound Board.md"
