@@ -13,7 +13,7 @@
 	- [ ] Worlds
 	- [ ] Regions
 	- [ ] Settlements
-- [ ] Fix Relationships map on NPCs to be centered
+- [x] Fix Relationships map on NPCs to be centered
 - [x] Fix Inventory table on Shops to fit with ITS Theme info boxes (callouts)
 - [ ] Create Event template and folder location in World Almanac
 - [ ] Create separate template for Place of Interest
