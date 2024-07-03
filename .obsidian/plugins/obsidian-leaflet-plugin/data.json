@@ -1,9 +1,42 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Barovia",
+      "locked": true,
+      "lastAccessed": 1719953991713,
+      "markers": [
+        {
+          "id": "ID_8869783aba3b",
+          "type": "village",
+          "loc": [
+            17.824726970368815,
+            36.01763260586353
+          ],
+          "link": "Conditions",
+          "layer": "%5B%5B40-01_Amber_Temple_Entry-scen_raw.png%7CAmber%20Temple%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.9877707128110675,
+            -1.749794056544421
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4. World Almanac/Regions/Barovia.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
-    "color": "#dddddd",
+    "color": "#000000",
     "transform": {
       "size": 6,
       "x": 0,
@@ -163,6 +196,57 @@
       "tags": [],
       "minZoom": null,
       "maxZoom": null
+    },
+    {
+      "type": "dungeon",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAuNJREFUSEutlr+PElEQx2ekBxMTk6uARk0w4R8gYZfE2BELq2t2KTSxo7C6Kx6vOBst6Ey0YEnUygY6veQWIn+CxGjD0twlJiZCLT75vuxsFg4OTG4alvdm5jO/3ttlukKMMXeI6DEROUR0P4qi21AvFAo/l+tfl+uD5fpHZv6xzQ1v2ogdqyiKDrHf7Xap1WqtqPq+T0opwLD+gYj0JtAlgDHmCRG91lpn4NRxHPI8jxqNxgpgMpmQ67p2DSDf9xdE9IyZ36YVVwDGmCOt9Um1WiWtNQ0GqABRp9NZASB66Ag0DEObJbJRSh0z8wuBJABEHgTBGxhBEUbFYjEBTKfTpEzYkwCQITKQbADvdDpPJRMLQM3DMPxWq9VuCBnlQWniplIURTYjwOEU/wGBTjpb6HueZ4IguIeeCOC967qHUhI4QY33FQDSQwD7Xq/XK5fLjxjRDwaD75JinNG+vhO9IAhW+gSgUuouAEeu655I9PHGfwNQMvRP/MS9OAbgcxAED8QjNkRgFM/5VmBaB89pW8dxTgE4Z+YD2cBIAoJIUFtMCJq6SaCDqGEDHTyjVCLGmAsA/jBzJg3A83A4tLOO+cZYbhL0TTLELzJYAywsoNFoZKCQz+eTaKGMqCSLbQBEjyCQ6YYMLOBca30Ah1JPGCESAPbpAUqFssIGMJEwDC94PB5/KZVKFVmEUznF8R1z5URJH3BuAMCJF1FKnfJoNHpZqVSerwOYGSd857gia1wp0F0v0Wg0esVaa1cpdZYGIHKkilLtI3AMG/Qr3WStdQ1XBS705F6QEu3jeF1nPYPlO4ItoF6vV5rNZpeZ7WW3be53QdEPlCyfz/9tt9tev99/d+0ZCCQOxr1WAJqdvi6W59UCcA8kRzWbzf6azWY3iSg53btKE+8vcrnc7/l8fiulfxlARJEx5iFetURkX/p7iLz0P8VDIyZJidI+kitx/bOFiOxnCxFt+2yxnxgpif4Bv8Gwg3QFXRgAAAAASUVORK5CYII=",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "ruins",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAztJREFUSEullr9rE2Ecxp+3Sv+BgsGpKYIBcelqhzRCh4JuTnXIBYrg3E2HuxvqUJw7tEPSUgsFQXAoRYckIMTJQrCUltaki0OLJIuFVsuZ5/We4/VIasUXQu7ee9/v5/v7fQ0uGVEU3QbwCMAkgLsAbnD54eHht7Ozs/1Op/NxYmJi2RizP0iM6fchFuzXarWZdruNer2OfD6PbDaLUqkEzvGZv3K5zP91AGE/kAvwAOTHx8dvdzqdewRPTlJxWOEcnudZ4RqFQsGFXAB4aoxZdpUWIAugJSG+76NWq9l11J6D7xRerVbtexiGVnv+cz62hJ+eG2NeCCKA35sIqDEFUDNucrWl9gTLTVKA61dWVlCpVOxefgfwRJZYAH1erVZ3V1dXh/jORcVi0QJoATcLJiWoeRAEVlFqf3R0ZK2MLaG77jAmArwCMCOzuJCCFUzGgM8UomCPjY39kR+COZB1Y8xjE2fM3qA0c2HUjkPuk/9lHSFUQPHJZrM5Ap4BmOdGuoIuoE8pWAF14RTGVKUbKYzrOac9jNXo6KiFrK2tvSTgHYApCqHZXECQk+ODjLNKULDiJvdxnkrs7Ox8IOArgJuyQNJUSHFWDIT0ixstIuTg4OCYgJ8Arv0vIO1GAjzPu0gAonKhsoXPqua/mhAXn1s7vu9bgHWRMkOVq/bwLwDG0AXIRTbIaQALLTbzKson7UNpHBfg+yRN073nqgC5Nm0532dnZ22asufvCcC0U45zM9NWg+/Mb8LpOu5h33KH1jPVwzC8n7SKSqUyQ8ECUAif2eA0uEma8juH6kBrFLuNjY0vW1tbt5JmVy6XdwuFwhA1VLNLA9SyBXGFSnNaGQRBtLm5+ebk5GQuOXCmp6ffZjKZh665BLkWqHJpSdot7FNqI3I3m4MAPLraURSxo84r1fSvqk4HNG0BwUtLS58ajUYz/lYSIOpNsLnXFxYWHiwuLs65+dxqtazb3BjI13JXFEVRs9lsbG9v68jkORsK8PscBMLe0VkcHh6eyuVy10dGRjKcVFd1zwCdz3TH6enp92632z0/P//BpswzK76JJC7qW0yDri0AjnvXmc88qnvXmdeXXVt+AdtyObF21l1ZAAAAAElFTkSuQmCC",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "cave",
+      "iconName": "map-marker",
+      "color": "#000000",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAApdJREFUSEuVVruuElEUXQcbv4DEBoaEeBNj4gdQ8G4sjZXehKHQj4BimEJjYUtMtAAKb+UX2AwFhR8g3lxDMtBYXH5BMrLOnT05nHlwPclkhvNYa++1HweFghFF0WMALwG0ADwFUI633x7nfx7nl8f5b0qp33kwKmshBvYAvCoyYLvdYjgcotfr/TgcDiPP8wJ7f4ogiqI3AD4BeHAOvFarJVsGg0F0eXk56vf7H8xzJwRRFI0AvLOBBchxHL3E93w+T/FPJhN4njdWSr2XxYQgtvyzfcr3ffCgOVqtFigPH3vMZjO4rvtWKfWFa5og1vxXlixKpcNEwmq1isViofGFjMQkAHBwHOcJgy8EX7MCmmW9WEwwPs1mM5GNHwz6YDCgF1dKqdcqtv7GdlXc55tEfBOQ+tuS2Wdd1xVPLkiQCuxyuUS73dbnCEqL+KYk58CFLAxDGjMmwXcAfVkokiUvbUlOo+xEmE6nKxL8AfCIi9xEDbOyIwvcCGriHeUhDjE2m80tCf6a2fM/HkhdEIySEJikNJLfYRgeUgS0lIVlemFalSeTSWbEQRMkEhGUzLvdTgeTh5jX0nPywPPmRSIdZLol5R8EgQaXFLUDeF+i9Xqtg6zT1JalCIQGMFbniFer1cek0MzcPwcuvUhI8rLO9/3OSaswZcoioWzMFnNI3EhKQqvSa0mzC4LgutPplIqKSYJuE0jteJ6n68GQ7o6ALR7AqWnHLinpyYPSNiQdTZICzxMCXnWter0ejsdjfU0RnFklDU6KKMvDgvhpghPrK5XKTalUupDASWfk7yzrhdDKQjamIddSBLaF9IBpeWZclcvlh/v9/kW8T666thmDFIbv+7Vut/u80Wg8u8fflrsL+3Rs/wHCkITNLeTtwQAAAABJRU5ErkJggg==",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
     }
   ],
   "color": "#dddddd",
@@ -177,7 +261,7 @@
     "patch": 5
   },
   "warnedAboutMapMarker": false,
-  "copyOnClick": false,
+  "copyOnClick": true,
   "displayMarkerTooltips": "hover",
   "displayOverlayTooltips": true,
   "configDirectory": null,
