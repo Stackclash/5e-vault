@@ -19,7 +19,7 @@ journals.forEach((p,i) => {
         } else if (history.length === 0) {
             history.push({
                 location: l,
-                start: p['fc-end'] || p['fc-date']
+                start: p['fc-date']
             })
         }
     })
