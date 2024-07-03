@@ -28,7 +28,7 @@ dislikes: null
 partyRelationships: {}
 ---
 
-> [!infobox]
+> [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```meta-bind

@@ -33,7 +33,7 @@ dislikes: 'Threats to his family, Strahd''s minions, chaos'
 partyRelationships: {}
 ---
 
-> [!infobox]
+> [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```meta-bind

@@ -14,11 +14,11 @@
 	- [ ] Regions
 	- [ ] Settlements
 - [ ] Fix Relationships map on NPCs to be centered
-- [ ] Fix Inventory table on Shops to fit with ITS Theme info boxes (callouts)
+- [x] Fix Inventory table on Shops to fit with ITS Theme info boxes (callouts)
 - [ ] Create Event template and folder location in World Almanac
 - [ ] Create separate template for Place of Interest
 - [ ] Update Quests to have a list of checkboxes to be completed. Pull in Session Journals
-- [ ] Fix ITS infoboxes to be fixed width (no scrollbars)
+- [x] Fix ITS infoboxes to be fixed width (no scrollbars)
 - [x] Put Session Journal summary textboxes in callouts
 - [ ] Place "Show to Players" button under location image
 - [ ] Make Soundboard a template to avoid Dataview from reloading and turning off music

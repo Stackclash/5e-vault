@@ -17,7 +17,7 @@ tags:
   - settlement
   - location
 ---
-> [!infobox]
+> [!infobox | wsmall]
 > # `=this.file.name`
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("z_Assets")):image]

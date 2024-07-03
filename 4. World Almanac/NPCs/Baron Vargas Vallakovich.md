@@ -36,7 +36,7 @@ dislikes: 'Dissent, failure, anything that threatens his control or Vallaki''s '
 partyRelationships: {}
 ---
 
-> [!infobox]
+> [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```meta-bind

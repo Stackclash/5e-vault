@@ -38,7 +38,7 @@ dislikes: 'Violence, the harsh judgments of outsiders, the complexities of moral
 partyRelationships: {}
 ---
 
-> [!infobox]
+> [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```meta-bind

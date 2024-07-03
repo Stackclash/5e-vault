@@ -36,7 +36,7 @@ dislikes: 'Restrictions, Strahd’s minions, when others treat him like a child'
 partyRelationships: {}
 ---
 
-> [!infobox]
+> [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```meta-bind

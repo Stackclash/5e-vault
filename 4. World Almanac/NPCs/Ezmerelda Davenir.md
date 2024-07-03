@@ -35,7 +35,7 @@ dislikes: 'Cowardice, betrayal, the undead, those who underestimate her'
 partyRelationships: {}
 ---
 
-> [!infobox]
+> [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```meta-bind

@@ -33,7 +33,7 @@ dislikes: 'Disloyalty, failure, threats to her status'
 partyRelationships: {}
 ---
 
-> [!infobox]
+> [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```meta-bind

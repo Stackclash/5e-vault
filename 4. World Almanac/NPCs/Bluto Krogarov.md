@@ -32,7 +32,7 @@ dislikes: 'The mockery of others, his own bad luck, the Burgomaster''s enforced 
 partyRelationships: {}
 ---
 
-> [!infobox]
+> [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```meta-bind

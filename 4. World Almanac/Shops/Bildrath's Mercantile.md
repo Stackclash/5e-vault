@@ -10,7 +10,7 @@ tags:
   - shop
   - location
 ---
-> [!infobox]
+> [!infobox | wsmall]
 > # `=this.file.name`
 > |||
 > |---|---|

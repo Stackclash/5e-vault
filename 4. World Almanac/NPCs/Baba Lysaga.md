@@ -35,7 +35,7 @@ dislikes: 'Intruders in Berez, those who oppose Strahd, the light'
 partyRelationships: {}
 ---
 
-> [!infobox]
+> [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```meta-bind
