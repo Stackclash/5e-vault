@@ -1,6 +1,8 @@
 ```dataviewjs
-const activeParty = dv.pages('"Configuration"').active_party
-const journals = dv.pages('#session-journal').filter(p => p.party.path === activeParty.file.path)
+const activeParty = dv.page('Configuration').active_party
+const journals = dv.pages('#session-journal').filter(p => p.party.path === activeParty.path).sort(p => p.date, 'desc')
 
-dv.span(journal)
+journals.forEach(p => {
+	
+})
 ```
