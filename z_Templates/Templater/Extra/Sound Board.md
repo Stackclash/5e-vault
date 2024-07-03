@@ -55,6 +55,12 @@ mp3s = mp3s.reduce((accum, value) => {
     return accum
 }, {})
 
+const currentTFile = tp.file.find_tfile('Sound Board')
+if (await tp.file.exists(`${filePath}.md`) && currentTFile) {
+  await app.vault.delete(currentTFile)
+}
+
+
 for (const group of Object.keys(mp3s)) {
     const groupData = mp3s[group]
 
