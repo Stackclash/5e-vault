@@ -29,7 +29,7 @@ locations:
 > | **Start Date:** | `INPUT[text:fc-date]`
 > | **End Date:** | `INPUT[text:fc-end]` |
 > | **Timelines:** | `INPUT[inlineList:timelines]` |
-> | **Locations:** | `$=await dv.view('metaBindInput', {type: 'multiSelect', options: dv.pages('#location').map(p => 'option(' + p.file.link + ',' + p.file.name + ')'), field: 'locations'})` |
+> | **Locations:** | `$=await dv.view('metaBindInput', {type: 'inlineListSuggester', options: dv.pages('"4. World Almanac/NPCs"').map(p => 'option(' + p.file.link + ',' + p.file.name + ')'), field: 'locations'})` |
 # `=this.file.name`
 ## Session Overview
 `INPUT[textArea(class(mb-70)):summary]`
