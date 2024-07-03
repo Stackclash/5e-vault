@@ -1,20 +1,7 @@
-- [x] Finalize location relationships
-- [x] Create script to take world economic field to adjust prices in shop template
-- [x] Create selection dropdowns for alignment and other fields for NPCs (watch [video](https://www.youtube.com/watch?v=iAYS0254a7I))
-- [x] Update import script to correctly point to new NPC location
-- [x] Finalize Monster ttrpg-convert-cli template to populate information as well as statblock
-	- [x] Move Acquaintances above statblock
-	- [x] Fix image being correct for NPCs
-	- [x] Fix Overview to include multiple lines
-	- [x] Fix statblock sometimes not showing up
 - [ ] Create flowchart of campaign (watch [video]())
-- [ ] Optimize syncing vault to github (watch [video](https://www.youtube.com/watch?v=gOdh8wdbxm4))
-	- [ ] Maybe exclude workspace json from github
 - [ ] Insert travel times into Settlements template (watch [video](https://www.youtube.com/watch?v=X6AT9G0uV-Y&t=1805s))
 - [ ] Look into weather generation (watch [video](https://www.youtube.com/watch?v=mDSHjLJyyTs&t=222s))
 - [ ] Look into using AI for generating notes (watch [Obsidian - Create Random Notes with ChatGPT Templates](https://www.youtube.com/watch?v=X9tlAZC6DSU&t=111s), [Obsidian - Creating TTRPG Calculators with DataviewJS and ChatGPT](https://www.youtube.com/watch?v=LgljhGhNWCA))
-- [x] Create a DM Screen (watch [video](https://www.youtube.com/watch?v=PuZNjzwQCmI))
-- [x] Create Soundboard (watch [video](https://www.youtube.com/watch?v=PeAzPP5XeZ8&t=407s))
 - [ ] Fill out information for all:
 	- [ ] Regions
 	- [ ] Places of Interest
@@ -26,13 +13,10 @@
 	- [ ] Worlds
 	- [ ] Regions
 	- [ ] Settlements
-- [x] Create note to appear as new note screen
-- [x] Fix location NPCs table to include child locations
-- [x] Create NPC relationship graph in mermaid
-- [x] Fix meta-bind fields to take up necessary space
-- [x] Make ttrpg-convert import script use existing metadata when file is replaced
 - [ ] Fix Relationships map on NPCs to be centered
-- [x] Create "Remove Relationships" Templater template
-- [x] Use meta-bind menu for Session Notes
-- [ ] Fix Inventory table on Shops to fit with ITS Theme info boxes
-- [ ] get_all_files might not be working correctly
+- [ ] Fix Inventory table on Shops to fit with ITS Theme info boxes (callouts)
+- [ ] Create Event template and folder location in World Almanac
+- [ ] Create separate template for Place of Interest
+- [ ] Update Quests to have a list of checkboxes to be completed. Pull in Session Journals
+- [ ] Fix ITS infoboxes to be fixed width (no scrollbars)
+- [ ] Put Session Journal summary textboxes in callouts

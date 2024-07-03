@@ -35,7 +35,7 @@ tags:
 > | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
 # `=this.file.name`
 ## Session Overview
-`INPUT[textArea:summary]`
+> `INPUT[textArea:summary]`
 
 ## Key Learnings
 Description of any important information that the party learned.
