@@ -19,5 +19,6 @@
 - [ ] Create separate template for Place of Interest
 - [ ] Update Quests to have a list of checkboxes to be completed. Pull in Session Journals
 - [ ] Fix ITS infoboxes to be fixed width (no scrollbars)
-- [ ] Put Session Journal summary textboxes in callouts
+- [x] Put Session Journal summary textboxes in callouts
 - [ ] Place "Show to Players" button under location image
+- [ ] Make Soundboard a template to avoid Dataview from reloading and turning off music
