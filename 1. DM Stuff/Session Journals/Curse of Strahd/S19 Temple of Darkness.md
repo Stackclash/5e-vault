@@ -9,7 +9,7 @@ summary: |-
   Their brief respite was shattered when a seizure gripped the entire party, draining their life force until only Marin remained unaffected. As they struggled against this supernatural assault, realizing the depth of the temple's evil, they attempted to escape, only to find the exit had vanished. Forced to delve deeper, they confronted the source of the malevolence—an imprisoned lich encased in amber, suspended above an arcane mechanism.
 
   Witnessing Karina's soul being consumed by the lich through a portal above the amber, the party confronted the grim reality of the temple's horrors.
-fc-date: 973-2-20
+fc-date: 973-2-21
 timelines:
   - COS
 aat-render-enabled: true
@@ -18,6 +18,8 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-06-29.md|2024-06-29]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]"
 ---
 > [!infobox]
 > ## Info
@@ -35,6 +37,7 @@ tags:
 > | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
 # `=this.file.name`
 ## Session Overview
+> [!div|clean no-t]
 > `INPUT[textArea:summary]`
 
 ## Key Learnings

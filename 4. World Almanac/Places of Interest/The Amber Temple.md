@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
-location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
-image: z_Assets/PlaceholderImage.png
-pronounced: null
+location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
+image: z_Assets/Amber Temple.png
+pronounced: 
 resources: []
-population: null
-terrain: null
+population: 
+terrain: 
 rulers: []
-government: null
-army: null
+government: 
+army: 
 religions: []
 imports: []
 exports: []
