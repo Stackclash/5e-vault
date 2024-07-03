@@ -4,10 +4,12 @@ const journals = dv.pages('#session-journal').filter(p => p.party.path === activ
 
 const history = []
 journals.forEach((p,i) => {
+    console.log(`-->${p.file.name}`)
 	const previousJournal = i-1 >= 0 ? journals[i-1] : null
 
     p.locations && p.locations.forEach((l,i2) => {
-        if (previousJournal && previousJournal.locations.length && l.path !== previousJournal.locations[previousJournal.locations.length-1].path) {
+        console.log(l.path, previousJournal.locations, history)
+        if (previousJournal && previousJournal.locations && l.path !== previousJournal.locations[previousJournal.locations.length-1].path) {
             const previousHistory = history[history.length-1]
             history[history.length-1] = {
                 ...previousHistory,
