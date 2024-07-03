@@ -4,11 +4,11 @@ const journals = dv.pages('#session-journal').filter(p => p.party.path === activ
 
 const history = []
 journals.forEach((p,i) => {
-	const previousJournal = i-1 < 0 ? journals[i-1] : null
+	const previousJournal = i-1 >= 0 ? journals[i-1] : null
 
     p.locations && p.locations.forEach((l,i2) => {
-        if (previousJournal && l.path !== previousJournal.locations.at(-1).path) {
-            const previousHistory = history.at(-1)
+        if (previousJournal && previousJournal.locations.length && l.path !== previousJournal.locations[previousJournal.locations.length-1].path) {
+            const previousHistory = history[history.length-1]
             history[history.length-1] = {
                 ...previousHistory,
                 end: p['fc-date']
