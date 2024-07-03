@@ -18,6 +18,8 @@ party: "[[Curse of Strahd]]"
 prep-notes: "[[2024-02-24]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
 ---
 > [!infobox]
 > ## Info

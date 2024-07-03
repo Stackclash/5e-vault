@@ -25,6 +25,8 @@ prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-04-13.md|2024-04-13
 fc-end: 973-2-19
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Places of Interest/Argynvostholt.md|Argynvostholt]]"
 ---
 > [!infobox]
 > ## Info

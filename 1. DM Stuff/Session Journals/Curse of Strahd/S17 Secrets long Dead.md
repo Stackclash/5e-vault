@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 date: 2024-05-11T00:00:00.000Z
 summary: |-
-  
   Redgrave discovered the diary of Godfrey Gwilym, a significant find as it unveiled the identity of the man he used to be. Meanwhile, the party faced a somber moment upon learning that Savid had been killed by a ghost during their absence. To uncover the circumstances of his death, Marin cast Speak With Dead on Savid and asked several questions. They learned that a ghost had killed him while he was searching for a lost Vistani girl. Savid also revealed that the Vistani could leave Barovia due to a special ability granted by Strahd and mentioned a legend about a dark power imprisoning Strahd in Barovia.
 
   The party debated whether to bring Savid's remains with them in their Bag of Holding and ultimately decided to take him along. Their exploration continued as they found Redgrave's, or rather Godfrey Gwilym's, grave. Marin dug up the grave and found a silver dragon made from silver wire. Upon touching the silver dragon, Redgrave experienced a vivid flashback of a close friend named Emeric. The vision revealed that Emeric had left to investigate a danger, which turned out to be Eludrax, the being responsible for Redgrave's creation. Godfrey had followed his friend, leading to an eventual battle with Eludrax.
@@ -20,6 +19,9 @@ prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-05-11.md|2024-05-11
 fc-end: 973-2-20
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Places of Interest/Argynvostholt.md|Argynvostholt]]"
+  - "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
 ---
 > [!infobox]
 > ## Info

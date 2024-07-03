@@ -25,5 +25,7 @@ journals.forEach((p,i) => {
     })
 })
 
-console.log(history)
+history.forEach(h => {
+    dv.header(2, h.location)
+})
 ```

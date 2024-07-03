@@ -16,6 +16,9 @@ party: "[[Curse of Strahd]]"
 prep-notes: "[[2024-01-21]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+  - "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
 ---
 > [!infobox]
 > ## Info

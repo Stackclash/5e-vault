@@ -16,6 +16,8 @@ party: "[[Curse of Strahd]]"
 prep-notes: "[[2023-12-31]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 ---
 > [!infobox]
 > ## Info

@@ -19,6 +19,8 @@ prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-05-26.md|2024-05-26
 tags:
   - session-journal
 fc-end: 973-2-21
+locations:
+  - "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
 ---
 > [!infobox]
 > ## Info
