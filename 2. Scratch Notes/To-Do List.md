@@ -20,5 +20,4 @@
 - [ ] Update Quests to have a list of checkboxes to be completed. Pull in Session Journals
 - [x] Fix ITS infoboxes to be fixed width (no scrollbars)
 - [x] Put Session Journal summary textboxes in callouts
-- [ ] Place "Show to Players" button under location image
 - [ ] Make Soundboard a template to avoid Dataview from reloading and turning off music
