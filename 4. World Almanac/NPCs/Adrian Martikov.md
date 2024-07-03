@@ -37,6 +37,13 @@ partyRelationships:
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("z_Assets")):image]
 > ```
+> ```meta-bind-button
+> style: default
+> label: Meta Bind Help
+> action:
+>   type: command
+>   command: obsidian-meta-bind-plugin:open-faq
+> ```
 > ###### Bio
 >  |
 >  ---|---|
