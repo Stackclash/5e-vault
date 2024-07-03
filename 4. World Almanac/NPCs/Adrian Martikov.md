@@ -38,8 +38,8 @@ partyRelationships:
 > INPUT[imageSuggester(optionQuery("z_Assets")):image]
 > ```
 > ```meta-bind-button
-> style: default
-> label: Meta Bind Help
+> style: primary
+> label: Show To Players
 > action:
 >   type: command
 >   command: obsidian-meta-bind-plugin:open-faq
