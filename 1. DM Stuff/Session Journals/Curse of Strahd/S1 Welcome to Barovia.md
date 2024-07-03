@@ -14,6 +14,7 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 prep-notes: 
 tags:
   - session-journal
+locations:
 ---
 > [!infobox]
 > ## Info
