@@ -55,9 +55,9 @@ mp3s = mp3s.reduce((accum, value) => {
     return accum
 }, {})
 
-const currentTFile = tp.file.find_tfile('Sound Board')
-if (await tp.file.exists(`${filePath}.md`) && currentTFile) {
-  await app.vault.delete(currentTFile)
+if (await tp.file.exists('1. DM Stuff/Sound Board')) {
+    const currentTFile = tp.file.find_tfile('1. DM Stuff/Sound Board')
+    await app.vault.delete(currentTFile)
 }
 
 
