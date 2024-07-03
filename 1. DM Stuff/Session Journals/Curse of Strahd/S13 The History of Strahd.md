@@ -35,7 +35,8 @@ tags:
 > | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
 # `=this.file.name`
 ## Session Overview
-`INPUT[textArea(class(mb-70)):summary]`
+> [!div|no-t clean]
+> `INPUT[textArea:summary]`
 
 ## Key Learnings
 - Strahd's home kingdom is Mauristatia #remember

@@ -34,7 +34,8 @@ locations:
 > | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
 # `=this.file.name`
 ## Session Overview
-`INPUT[textArea(class(mb-70)):summary]`
+> [!div|no-t clean]
+> `INPUT[textArea:summary]`
 
 ## Key Learnings
 - [[Ireena Kolyana]] is wanted by [[4. World Almanac/NPCs/Strahd Von Zarovich|Strahd Von Zarovich]] and has been bitten twice

@@ -36,7 +36,8 @@ fc-end: 973-2-21
 > | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
 # `=this.file.name`
 ## Session Overview
-`INPUT[textArea(class(mb-70)):summary]`
+> [!div|no-t clean]
+> `INPUT[textArea:summary]`
 
 ## Key Learnings
 Description of any important information that the party learned.

@@ -37,7 +37,8 @@ tags:
 > | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
 # `=this.file.name`
 ## Session Overview
-`INPUT[textArea(class(mb-70)):summary]`
+> [!div|no-t clean]
+> `INPUT[textArea:summary]`
 
 ## Key Learnings
 - It is late summer #remember
