@@ -17,7 +17,7 @@ tags:
   - place-of-interest
   - location
 ---
-> [!infobox|t-w n-th wsmall]
+> [!infobox|wsmall]
 > # `=this.file.name`
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("z_Assets")):image]
