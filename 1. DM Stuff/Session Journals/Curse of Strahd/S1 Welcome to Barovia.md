@@ -14,7 +14,7 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 prep-notes: 
 tags:
   - session-journal
-locations:
+locations: []
 ---
 > [!infobox]
 > ## Info
@@ -29,7 +29,7 @@ locations:
 > | **Start Date:** | `INPUT[text:fc-date]`
 > | **End Date:** | `INPUT[text:fc-end]` |
 > | **Timelines:** | `INPUT[inlineList:timelines]` |
-> | **Locations:** | `$=await dv.view('metaBindInput', {type: 'inlineListSuggester', options: dv.pages('"4. World Almanac/NPCs"').map(p => 'option(' + p.file.link + ',' + p.file.name + ')'), field: 'locations'})` |
+> | **Locations:** | `$=await dv.view('metaBindInput', {type: 'inlineListSuggester', options: ['optionQuery(#location)'], field: 'locations'})` |
 # `=this.file.name`
 ## Session Overview
 `INPUT[textArea(class(mb-70)):summary]`
