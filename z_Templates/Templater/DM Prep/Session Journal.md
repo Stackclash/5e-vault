@@ -44,6 +44,7 @@ tags:
 > | **Start Date:** | `INPUT[text:fc-date]` |
 > | **End Date:** | `INPUT[text:fc-end]` |
 > | **Timelines:** | `INPUT[inlineList:timelines]` |
+> | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
 # `=this.file.name`
 ## Session Overview
 `INPUT[textArea:summary]`

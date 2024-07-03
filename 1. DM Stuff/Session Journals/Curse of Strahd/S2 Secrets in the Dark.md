@@ -14,6 +14,8 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 prep-notes: 
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
 ---
 > [!infobox]
 > ## Info
@@ -28,6 +30,7 @@ tags:
 > | **Start Date:** | `INPUT[text:fc-date]`
 > | **End Date:** | `INPUT[text:fc-end]` |
 > | **Timelines:** | `INPUT[inlineList:timelines]` |
+> | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
 # `=this.file.name`
 ## Session Overview
 `INPUT[textArea(class(mb-70)):summary]`
