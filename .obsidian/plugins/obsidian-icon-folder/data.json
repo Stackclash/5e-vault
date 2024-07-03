@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": 6,
+    "migrated": 5,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
@@ -102,12 +102,6 @@
         "icon": "FasPerson",
         "for": "everything",
         "order": 12
-      },
-      {
-        "rule": "Configuration",
-        "icon": "FasGear",
-        "for": "everything",
-        "order": 13
       }
     ],
     "extraMargin": {
@@ -129,6 +123,5 @@
     "iconInTitlePosition": "above"
   },
   "1. DM Stuff/Tools/Herbs.md": "RaFlowers",
-  "1. DM Stuff/DM Screen.md": "FasDiceD20",
-  "1. DM Stuff/Sound Board.md": "FasFileAudio"
+  "1. DM Stuff/DM Screen.md": "FasDiceD20"
 }

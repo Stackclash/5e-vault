@@ -55,12 +55,22 @@ mp3s = mp3s.reduce((accum, value) => {
     return accum
 }, {})
 
-if (await tp.file.exists('1. DM Stuff/Sound Board')) {
+if (await tp.file.exists('1. DM Stuff/Sound Board.md')) {
     const currentTFile = tp.file.find_tfile('1. DM Stuff/Sound Board')
     await app.vault.delete(currentTFile)
 }
 
-
+await tp.file.move('1. DM Stuff/Sound Board')
+-%>
+```meta-bind-button
+style: primary
+label: Recreate Sound Board
+hidden: true
+actions:
+  - type: templaterCreateNote
+    templateFile: "z_Templates/Templater/Extra/Sound Board.md"
+```
+<%*
 for (const group of Object.keys(mp3s)) {
     const groupData = mp3s[group]
 
