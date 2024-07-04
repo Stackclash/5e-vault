@@ -1,7 +1,20 @@
 ---
 travel:
-- []
+  - - path: 4. World Almanac/Shops/Blue Water Inn.md
+      embed: false
+      type: file
+    - "10"
 ---
-```dataviewjs
+```meta-bind-button
+style: primary
+label: Add Travel Distance
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: "Add Travel Distance"
+```
 
+```dataviewjs
+dv.table(['Location', 'Distance', 'Travel Time'], dv.current().travel.map(t => [t[0], `${t[1]} mi.`, `VIEW[round((${t[1]}* {Travel#TravelCalc}) / 60 / {Travel#HoursPerDay}, 1)]`]))
 ```
