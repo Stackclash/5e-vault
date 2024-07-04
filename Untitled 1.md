@@ -1,3 +1,6 @@
 ```dataviewjs
-dv.list(dv.pages('#npc').filter(p => !p.tags.contains('compendium/src/5e/cos')).map(p => p.file.link))
+const toDelete = dv.pages('#npc').filter(p => !p.tags.contains('compendium/src/5e/cos') && p.relationships.length === 0).map(p => p.file.link)
+toDelete.forEach(p => {
+	
+})
 ```

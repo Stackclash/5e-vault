@@ -8,6 +8,7 @@ relationships:
   - Davian Martikov|father
 tags:
   - npc
+  - compendium/src/5e/cos
 aliases: 
 pronounced: AY-dree-an MAR-ti-kov
 race: "[[5. Mechanics/Races/Human.md|Human]]"
