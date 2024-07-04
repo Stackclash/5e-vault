@@ -45,6 +45,16 @@ tags:
 > ---|---|
 > **Imports:** | `INPUT[inlineList:imports]` |
 > **Exports:** | `INPUT[inlineList:exports]` |
+Hello, world!!!!
+> ```meta-bind-button
+> style: primary
+> label: Insert Into Note
+> action:
+>  type: insertIntoNote
+>  line: 48
+>  value: "Hello, world!!!!"
+>  templater: false
+> ```
 
 `$= await dv.view("locationBreadcrumbs", {current: dv.current()})`
 # **`=this.file.name`**

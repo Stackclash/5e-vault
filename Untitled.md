@@ -45,8 +45,12 @@ label: Insert Into Note
 action:
   type: insertIntoNote
   line: 52
-  value: "Hello, world!"
+  value: "Hello, world!!!!"
   templater: false
 ```
 Hello, world!
+Hello, world!!!!
+Hello, world!!!!
+Hello, world!!!!
+Hello, world!!!!
 Hello, world!
