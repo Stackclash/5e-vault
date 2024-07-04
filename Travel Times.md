@@ -5,9 +5,12 @@ travel:
   - - "[[4. World Almanac/Places of Interest/Old Bonegrinder.md|Old Bonegrinder]]"
     - "200"
 ---
+`BUTTON[addtravel]`
 ```meta-bind-button
 style: primary
+id: addtravel
 label: Add Travel Distance
+hidden: true
 actions:
   - type: command
     command: templater-obsidian:insert-templater
