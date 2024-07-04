@@ -30,9 +30,7 @@ tags:
 > **Location:** | `INPUT[suggester(optionQuery(#location)):location]` |
 > **Resource(s):** | `INPUT[inlineListSuggester(optionQuery("6. Resources")):resources]` |
 > ###### Nearby Locations
-> TABLE WITHOUT ID distances[0] AS Location, distances[1] AS Distance
-> FROM this
-> FLATTEN this.travelDistances as distances
+> `$=dv.table(['Location', 'Distance'], dv.current().travelDistances)`
 > ###### Info
 >  |
 > ---|---|
