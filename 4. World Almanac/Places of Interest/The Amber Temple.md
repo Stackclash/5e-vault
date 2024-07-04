@@ -13,6 +13,8 @@ religions: []
 imports: []
 exports: []
 aliases: []
+travelDistances:
+  - ["[[4. World Almanac/Regions/Barovia.md|Barovia]]", 5]
 tags:
   - place-of-interest
   - location
@@ -27,6 +29,10 @@ tags:
 > **Pronounced:** | `INPUT[text:pronounced]` |
 > **Location:** | `INPUT[suggester(optionQuery(#location)):location]` |
 > **Resource(s):** | `INPUT[inlineListSuggester(optionQuery("6. Resources")):resources]` |
+> ###### Nearby Locations
+> TABLE WITHOUT ID distances[0] AS Location, distances[1] AS Distance
+> FROM this
+> FLATTEN this.travelDistances as distances
 > ###### Info
 >  |
 > ---|---|
@@ -45,16 +51,6 @@ tags:
 > ---|---|
 > **Imports:** | `INPUT[inlineList:imports]` |
 > **Exports:** | `INPUT[inlineList:exports]` |
-Hello, world!!!!
-> ```meta-bind-button
-> style: primary
-> label: Insert Into Note
-> action:
->  type: insertIntoNote
->  line: 48
->  value: "Hello, world!!!!"
->  templater: false
-> ```
 
 `$= await dv.view("locationBreadcrumbs", {current: dv.current()})`
 # **`=this.file.name`**
