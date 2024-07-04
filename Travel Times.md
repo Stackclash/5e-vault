@@ -14,7 +14,7 @@ actions:
 ```
 
 ```dataviewjs
-dv.table(['Location', 'Distance', 'Travel Time'], dv.current().travel.map(t => [t[0], `${t[1]} mi.`, `VIEW[round((10* {Travel#TravelCalc}) / 60 / {Travel#HoursPerDay}, 1)]`]))
+dv.table(['Location', 'Distance', 'Travel Time'], dv.current().travel.map(t => [t[0], `${t[1]} mi.`, `\`VIEW[round((${t[1]}* {Travel#TravelCalc}) / 60 / {Travel#HoursPerDay}, 1)]\``]))
 ```
 
 `VIEW[round((10* {Travel#TravelCalc}) / 60 / {Travel#HoursPerDay}, 1)]`
