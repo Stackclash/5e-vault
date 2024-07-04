@@ -2,6 +2,8 @@
 travel:
   - - Werewolf Den
     - "50"
+  - - Tsolenka Pass
+    - "1000"
 ---
 `BUTTON[addtravel,removetravel]`
 ```meta-bind-button
