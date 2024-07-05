@@ -29,4 +29,5 @@ dv.paragraph(`test new: ${((measure/units) * (units/actualUnitsDistance))}`)
 dv.paragraph(`bounds: [\\[0,0], [${height},${width}\\]]`)
 dv.paragraph(`lat: ${height/2}`)
 dv.paragraph(`long: ${width/2}`)
+dv.paragraph(`zoom: ${(height*wid)}`)
 ```
