@@ -2,7 +2,7 @@
 image: z_Assets/Vallaki.jpg
 distance_measure: 30
 units: 250
-actual_units_distance: 41.4
+actual_units_distance: 41.2
 ---
 
 
@@ -22,6 +22,8 @@ img = document.querySelector(".mb-image-card-image"),
 height = parseFloat(img.naturalHeight/(actualUnitsDistance ? ((measure/units) * (units/actualUnitsDistance)) : (measure/units))).toFixed(2),
 width = parseFloat(img.naturalWidth/(actualUnitsDistance ? ((measure/units) * (units/actualUnitsDistance)) : (measure/units))).toFixed(2)
 
+dv.paragraph(`test: ${(actualUnitsDistance ? true : false)}`)
+dv.paragraph(`height, width: ${height}, ${width}`)
 dv.paragraph(`test original: ${(measure/units)}`)
 dv.paragraph(`test new: ${((measure/units) * (units/actualUnitsDistance))}`)
 dv.paragraph(`bounds: [\\[0,0], [${height},${width}\\]]`)
