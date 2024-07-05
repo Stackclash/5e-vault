@@ -2,7 +2,7 @@
 image: z_Assets/Vallaki.jpg
 distance_measure: 69
 units: 250
-actual_units_distance: 41.2
+actual_units_distance: 42
 ---
 
 
