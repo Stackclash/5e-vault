@@ -15,12 +15,13 @@ INPUT[imageSuggester(optionQuery("z_Assets")):image]
 **Actual Units Distance:** `INPUT[number:actual_units_distance]`
 
 ```dataviewjs
-const measure = dv.current().distance_measure,
+const sizeOf = require(app.vault.adapter.getBasePath() + '/node_modules/image-size/dist'),
+measure = dv.current().distance_measure,
 units = dv.current().units,
 actualUnitsDistance = dv.current().actual_units_distance,
-img = document.querySelector(".mb-image-card-image"),
-height = parseFloat(img.naturalHeight/(actualUnitsDistance ? ((measure * (actualUnitsDistance/units))/units) : (measure/units))).toFixed(2),
-width = parseFloat(img.naturalWidth/(actualUnitsDistance ? ((measure * (actualUnitsDistance/units))/units) : (measure/units))).toFixed(2)
+img = sizeOf(document.querySelector(".mb-image-card-image").href),
+height = parseFloat(img.height/(actualUnitsDistance ? ((measure * (actualUnitsDistance/units))/units) : (measure/units))).toFixed(2),
+width = parseFloat(img.width/(actualUnitsDistance ? ((measure * (actualUnitsDistance/units))/units) : (measure/units))).toFixed(2)
 
 dv.paragraph(`test: ${(actualUnitsDistance ? true : false)}`)
 dv.paragraph(`height, width: ${img.naturalHeight}, ${img.naturalWidth}`)
