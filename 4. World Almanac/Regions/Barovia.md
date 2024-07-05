@@ -103,13 +103,9 @@ TBD
 > - cave, 35.4037, 13.1939, [[Werewolf Den]]
 > ```
 
-```dataviewjs
-await dv.view("locations", {current: dv.current()})
-```
+`$=await dv.view("locations", {current: dv.current()})`
 
-```dataviewjs
-await dv.view("npcsInLocation", {current: dv.current()})
-```
+`$=await dv.view("npcsInLocation", {current: dv.current()})`
 
 ## History
 TBD

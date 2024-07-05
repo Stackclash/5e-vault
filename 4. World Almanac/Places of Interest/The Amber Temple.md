@@ -94,13 +94,9 @@ TBD
 > darkMode: false
 > ```
 
-```dataviewjs
-await dv.view("locations", {current: dv.current()})
-```
+`$=await dv.view("locations", {current: dv.current()})`
 
-```dataviewjs
-await dv.view("npcsInLocation", {current: dv.current()})
-```
+`$=await dv.view("npcsInLocation", {current: dv.current()})`
 
 ## History
 TBD

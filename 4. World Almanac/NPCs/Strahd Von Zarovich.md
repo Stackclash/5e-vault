@@ -151,9 +151,7 @@ actions:
     str: "Remove Relationship"
 ```
 > [!div | no-t clean txt-c]
-> ```dataviewjs
-> await dv.view("npcRelationships", { current: dv.current() })
-> ```
+> `$=await dv.view("npcRelationships", { current: dv.current() })`
 
 ## Stats
 ```statblock
