@@ -1,5 +1,4 @@
 const sizeOf = require('image-size')
-const readline = require('readline')
 const grayMatter = require('gray-matter')
 
 const frontmatter = grayMatter.read('1. DM Stuff/Tools/Leaflet Bounds Calculator.md').data
@@ -11,16 +10,14 @@ let {
     actual_units_distance,
     image
 } = frontmatter
-image = sizeOf(image)
+image = sizeOf('z_Assets/Barovia.jpg')
 
-console.log(image.height, image.width)
+const height = parseFloat(image.height/(actual_units_distance ? ((distance_measure * (actual_units_distance/units))/units) : (distance_measure/units))).toFixed(2),
+width = parseFloat(image.width/(actual_units_distance ? ((distance_measure * (actual_units_distance/units))/units) : (distance_measure/units))).toFixed(2)
 
-// const height = parseFloat(img.height/(actualUnitsDistance ? ((measure * (actualUnitsDistance/units))/units) : (measure/units))).toFixed(2),
-// width = parseFloat(img.width/(actualUnitsDistance ? ((measure * (actualUnitsDistance/units))/units) : (measure/units))).toFixed(2)
-
-// const measure = dv.current().distance_measure,
-// units = dv.current().units,
-// actualUnitsDistance = dv.current().actual_units_distance,
-// img = sizeOf(document.querySelector(".mb-image-card-image").href),
-// height = parseFloat(img.height/(actualUnitsDistance ? ((measure * (actualUnitsDistance/units))/units) : (measure/units))).toFixed(2),
-// width = parseFloat(img.width/(actualUnitsDistance ? ((measure * (actualUnitsDistance/units))/units) : (measure/units))).toFixed(2)
+console.log(`height: ${image.height}`)
+console.log(`width: ${image.width}`)
+console.log(`bounds: [[0,0], [${height},${width}]]`)
+console.log(`lat: ${height/2}`)
+console.log(`long: ${width/2}`)
+console.log(`zoom: ${parseFloat((height*width)*0.0013144922773579).toFixed(0)}`)
