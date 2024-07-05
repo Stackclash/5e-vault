@@ -10,7 +10,7 @@ let {
     actual_units_distance,
     image
 } = frontmatter
-image = sizeOf('z_Assets/Barovia.jpg')
+image = sizeOf(image)
 
 const height = parseFloat(image.height/(actual_units_distance ? ((distance_measure * (actual_units_distance/units))/units) : (distance_measure/units))).toFixed(2),
 width = parseFloat(image.width/(actual_units_distance ? ((distance_measure * (actual_units_distance/units))/units) : (distance_measure/units))).toFixed(2)
