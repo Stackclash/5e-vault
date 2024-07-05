@@ -1,5 +1,5 @@
 ---
-image: z_Assets/Amber Temple 1.webp
+image: z_Assets/Vallaki.jpg
 distance_measure: 30
 units: 5
 ---
@@ -11,6 +11,7 @@ INPUT[imageSuggester(optionQuery("z_Assets")):image]
 
 **Width of Unit:** `INPUT[number:distance_measure]`
 **Distance of Unit:** `INPUT[number:units]`
+**Actual Units Distance**
 
 ```dataviewjs
 const measure = dv.current().distance_measure,
