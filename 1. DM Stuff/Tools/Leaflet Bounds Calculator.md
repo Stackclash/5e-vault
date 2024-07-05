@@ -19,8 +19,8 @@ const measure = dv.current().distance_measure,
 units = dv.current().units,
 actualUnitsDistance = dv.current().actual_units_distance,
 img = document.querySelector(".mb-image-card-image"),
-height = parseFloat(img.naturalHeight/(actualUnitsDistance ? ((measure/(units/actualUnitsDistance))) : (measure/units))).toFixed(2),
-width = parseFloat(img.naturalWidth/(actualUnitsDistance ? ((measure/(units/actualUnitsDistance))) : (measure/units))).toFixed(2)
+height = parseFloat(img.naturalHeight/(actualUnitsDistance ? (measure/units) : (measure/units))).toFixed(2),
+width = parseFloat(img.naturalWidth/(actualUnitsDistance ? (measure/(units/actualUnitsDistance)) : (measure/units))).toFixed(2)
 
 dv.paragraph(`test original: ${(measure/units)}`)
 dv.paragraph(`test new: ${((measure/(units/actualUnitsDistance)))}`)
