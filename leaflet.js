@@ -12,12 +12,7 @@ let {
 } = frontmatter
 image = sizeOf(image)
 
-const height = parseFloat(image.height/(actual_units_distance ? ((distance_measure * (actual_units_distance/units))/units) : (distance_measure/units))).toFixed(2),
-width = parseFloat(image.width/(actual_units_distance ? ((distance_measure * (actual_units_distance/units))/units) : (distance_measure/units))).toFixed(2)
-
-console.log(`height: ${image.height}`)
-console.log(`width: ${image.width}`)
-console.log(`bounds: [[0,0], [${height},${width}]]`)
-console.log(`lat: ${height/2}`)
-console.log(`long: ${width/2}`)
-console.log(`zoom: ${parseFloat((height*width)*0.0013144922773579).toFixed(0)}`)
+console.log(`bounds: [[0,0], [${image.height},${image.width}]]`)
+console.log(`lat: ${image.height/2}`)
+console.log(`long: ${image.width/2}`)
+console.log(`scale: ${parseFloat(units/actual_units_distance).toFixed(2)}`)
