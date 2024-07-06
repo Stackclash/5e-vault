@@ -27,5 +27,6 @@
   "obsidian-import-json",
   "obsidian-javascript-init",
   "obsidian-admonition",
-  "obsidian-banners"
+  "obsidian-banners",
+  "fix-require-modules"
 ]
