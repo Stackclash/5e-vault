@@ -75,13 +75,13 @@ TBD
 > lat: 600
 > long: 975
 > ### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map.  
-> minZoom: -1.5  
+> minZoom: -.2  
 > ### Max zoom is 18.  
 > maxZoom: 1.5  
 > ### Hover mouse over the Reset Zoom icon to see your current zoom level.  
-> defaultZoom: -.22  
+> defaultZoom: -.2  
 > ### How far it zooms in or out with each step. Can be in decimals.  
-> zoomDelta: 0.5  
+> zoomDelta: 0.3  
 > ### This is a string so can be any text. Change it to match your maps measurement scale.  
 > unit: feet  
 > scale: 5.95 
