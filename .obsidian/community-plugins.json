@@ -28,5 +28,5 @@
   "obsidian-javascript-init",
   "obsidian-admonition",
   "obsidian-banners",
-  "fix-require-modules"
+  "modules"
 ]
