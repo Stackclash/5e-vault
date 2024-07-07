@@ -22,4 +22,12 @@
 - [x] Put Session Journal summary textboxes in callouts
 - [x] Make Soundboard a template to avoid Dataview from reloading and turning off music
 - [ ] Integrate the following into the Vault
-	- [ ] 
+	- [ ] Session Log Timeline with Fantasy Dates
+	- [ ] Spells List
+	- [ ] Locations Visited
+		- [ ] Fix logic where the `fc-end` is not used
+	- [ ] Travel Times Buttons and Table
+- [ ] Create script and configuration page for daily weather
+	- [ ] Use [Google Sheet](https://docs.google.com/spreadsheets/d/1x9pTHiW0ldBiWTfGaOdjzVEl1QBbT2xh9rW1jo8LNIU/edit?usp=sharing) for inspiration on logic
+	- [ ] Script should save result to Session Log or another page to keep track of weather for that day
+	- [ ] Configuration page should take Fantasy Calendar into consideration for Months vs Seasons
