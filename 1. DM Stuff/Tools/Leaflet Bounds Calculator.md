@@ -15,7 +15,7 @@ INPUT[imageSuggester(optionQuery("z_Assets")):image]
 **Actual Units Distance:** `INPUT[number:actual_units_distance]`
 
 ```dataviewjs
-const sizeOf = self.require('https://unpkg.com/image-size'),
+const sizeOf = await self.require.import('https://unpkg.com/image-size'),
 measure = dv.current().distance_measure,
 units = dv.current().units,
 actualUnitsDistance = dv.current().actual_units_distance,
