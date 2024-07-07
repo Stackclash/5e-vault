@@ -70,3 +70,26 @@
 > ![[clearSkiesNight.png]]
 
 # Weather Micro V2
+> [!oRPG-Weatherm-v2]
+> 
+> ![[stormy.png]]
+> 
+> Strange Phenomena
+> 
+> Winds
+> 
+> Strong
+> 
+> Temperature
+> 
+> <span class='cold'>Colder than normal</span>
+> 
+> ![[temperatureCold.png]]
+> 
+> Season: Winter
+> 
+> Night: Clear Skies
+> 
+> Wind: Squally
+> 
+> ![[clearSkiesNight.png]]
