@@ -35,6 +35,7 @@
     "religions": "multitext",
     "speed": "number",
     "date": "date",
-    "level": "text"
+    "level": "text",
+    "travel": "multitext"
   }
 }
