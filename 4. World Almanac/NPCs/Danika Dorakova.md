@@ -8,7 +8,7 @@ tags:
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
   - npc
-location: null
+location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 condition: healthy
 image: 4. World Almanac/NPCs/img/danika-dorakova.webp
 relationships:
@@ -17,22 +17,23 @@ relationships:
   - Bray Martikov|son
 aliases:
   - Danika Dorakova
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced: 
+race: 
+gender: 
+age: 
 alignment: Lawful Good
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
-partyRelationships: {}
+personality: 
+ideal: 
+bond: 
+flaw: 
+goals: 
+likes: 
+dislikes: 
+partyRelationships:
+  Curse of Strahd: Ally
 ---
 
 > [!infobox | wsmall]
