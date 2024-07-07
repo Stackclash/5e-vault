@@ -1,20 +1,20 @@
 ---
 title: Teleportation Error
 aliases: 
-unit: miles
-fam: 4
-TP_dist: 103
-roll: 10
-angle: 22.354283025845334
-comp_angle: 6.3542830258453336
+unit: km
+fam: 5
+TP_dist: 12
+roll: 50
+angle: 28.25068320156025
+comp_angle: 12.25068320156025
 ---
 # `=this.title`
 
 ##### Input
 
-| Teleportation Distance `INPUT[inlineSelect(option(ft), option(m), option(km), option(miles), option(AU), option(ly), option(pc)):unit]` | Familiarity                                                                                                                                                                                                                                   | Roll                                   |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| `INPUT[number():TP_dist]`                                                                                                               | `INPUT[inlineSelect(option(7, Associated Object), option(6, Permanent Circle), option(5, Very Familiar), option(4, Seen Casually), option(3, Viewed Once), option(2, Description), option(1, Conceptual), option(0, False Destination)):fam]` | `INPUT[number(class(nb-mb-css)):roll]` |
+| Teleportation Distance `INPUT[inlineSelect(option(ft), option(m), option(km), option(miles), option(AU), option(ly), option(pc)):unit]`    | Familiarity        | Roll |
+| ------------------------- | ------- | - |
+| `INPUT[number():TP_dist]` | `INPUT[inlineSelect(option(7, Associated Object), option(6, Permanent Circle), option(5, Very Familiar), option(4, Seen Casually), option(3, Viewed Once), option(2, Description), option(1, Conceptual), option(0, False Destination)):fam]` | `INPUT[number(class(nb-mb-css)):roll]` |
 
 ##### Output
 

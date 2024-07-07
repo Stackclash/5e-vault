@@ -1,32 +1,47 @@
-
-
+---
+metric: true
+gemType: 15
+gemValue: 2.2
+gemMass: 0.4
+gemDensity: 3.514788000000008
+---
 # Gem Table
 
-**Inline Roller:** `dice: [[Gems Random Table^GemTable]]`
+> [!infobox]
+> # Gem Calculator
+> Metric? | `INPUT[toggle():metric]` (`VIEW[{metric} ? "g, mL" : "mlbs, fl oz"]`) |
+> -|:-:|
+> Mineral | `INPUT[inlineSelect(option(1, Quartz), option(2, Jade), option(3, Onyx), option(4, Turquoise), option(5, Lapis Lazuli), option(6, Pearl), option(7, Aquamarine), option(8, Topaz), option(9, Peridot), option(10, Amethyst), option(11, Opal), option(12, Ruby), option(13, Sapphire), option(14, Emerald), option(15, Diamond)):gemType]`
+> Value | `INPUT[number(class(nb-mb-css)):gemValue]` gp
+> Mass | `VIEW[round((1-0.546485*{metric})*1000*({gemType} == 1 ? {gemValue}/1000 : {gemType} >= 2 & {gemType} <= 5 ? {gemValue}/1250 : {gemType} == 6 ? {gemValue}/1500 : {gemType} >= 7 & {gemType} <= 10 ? {gemValue}/1750 : {gemType} >= 11 & {gemType} <= 14 ? {gemValue}/2000 : {gemValue}/2500), 2)][:gemMass]` `VIEW[{metric} ? "g" : "mlbs"]`
+> Size `VIEW[(1-0.98398*{metric})*({gemType} <= 6 ? 170 : {gemType} >= 7 & {gemType} <= 14 ? 200 : 219.4)][math(hidden):gemDensity]` | `VIEW[round((0.9575+0.0425*{metric})*{gemMass}/{gemDensity}, 2)]` `VIEW[{metric} ? "mL" : "fl oz"]`
 
-| dice: 1d15 | Gems                                                                                                  |
-| ---------- | ----------------------------------------------------------------------------------------------------- |
-| 1          | `dice: [[Gems Random Table^NumGems]]` Quartz worth `dice: [[Gems Random Table^QuartzGem]]` gp each            |
-| 2          | `dice: [[Gems Random Table^NumGems]]` Jade worth `dice: [[Gems Random Table^PSGem]]` gp each          |
-| 3          | `dice: [[Gems Random Table^NumGems]]` Onyxes worth `dice: [[Gems Random Table^PSGem]]` gp each        |
-| 4          | `dice: [[Gems Random Table^NumGems]]` Turquoises worth `dice: [[Gems Random Table^PSGem]]` gp each    |
-| 5          | `dice: [[Gems Random Table^NumGems]]` Lapis Lazulis worth `dice: [[Gems Random Table^PSGem]]` gp each |
-| 6          | `dice: [[Gems Random Table^NumGems]]` Pearls worth `dice: [[Gems Random Table^PearlGem]]` gp each     |
-| 7          | `dice: [[Gems Random Table^NumGems]]` Aquamarines worth `dice: [[Gems Random Table^mGem]]` gp each    |
-| 8          | `dice: [[Gems Random Table^NumGems]]` Topaz worth `dice: [[Gems Random Table^mGem]]` gp each          |
-| 9          | `dice: [[Gems Random Table^NumGems]]` Peridots worth `dice: [[Gems Random Table^mGem]]` gp each       |
-| 10         | `dice: [[Gems Random Table^NumGems]]` Amethysts worth `dice: [[Gems Random Table^mGem]]` gp each      |
-| 11         | `dice: [[Gems Random Table^NumGems]]` Opals worth `dice: [[Gems Random Table^PGem]]` gp each          |
-| 12         | `dice: [[Gems Random Table^NumGems]]` Rubies worth `dice: [[Gems Random Table^PGem]]` gp each         |
-| 13         | `dice: [[Gems Random Table^NumGems]]` Sapphires worth `dice: [[Gems Random Table^PGem]]` gp each      |
-| 14         | `dice: [[Gems Random Table^NumGems]]` Emeralds worth `dice: [[Gems Random Table^PGem]]` gp each       |
-| 15         | `dice: [[Gems Random Table^NumGems]]` Diamonds worth `dice: [[Gems Random Table^Diamond]]` gp each    |
 
+
+**Inline Roller:** `dice: [[Random Gems Table^GemTable]]`
+
+| dice: 1d100 | Gems                                                                                                  |
+| ----------- | ----------------------------------------------------------------------------------------------------- |
+| 1 - 21      | `dice: [[Random Gems Table^NumGems]]` Quartz worth `dice: [[Random Gems Table^QuartzGem]]` gp each    |
+| 22 - 38     | `dice: [[Random Gems Table^NumGems]]` Jade worth `dice: [[Random Gems Table^PSGem]]` gp each          |
+| 39 - 52     | `dice: [[Random Gems Table^NumGems]]` Onyxes worth `dice: [[Random Gems Table^PSGem]]` gp each        |
+| 53 - 62     | `dice: [[Random Gems Table^NumGems]]` Turquoises worth `dice: [[Random Gems Table^PSGem]]` gp each    |
+| 63 - 71     | `dice: [[Random Gems Table^NumGems]]` Lapis Lazulis worth `dice: [[Random Gems Table^PSGem]]` gp each |
+| 72 - 78     | `dice: [[Random Gems Table^NumGems]]` Pearls worth `dice: [[Random Gems Table^PearlGem]]` gp each     |
+| 79 - 83     | `dice: [[Random Gems Table^NumGems]]` Aquamarines worth `dice: [[Random Gems Table^mGem]]` gp each    |
+| 84 - 87     | `dice: [[Random Gems Table^NumGems]]` Topaz worth `dice: [[Random Gems Table^mGem]]` gp each          |
+| 88 - 90     | `dice: [[Random Gems Table^NumGems]]` Peridots worth `dice: [[Random Gems Table^mGem]]` gp each       |
+| 91 - 93     | `dice: [[Random Gems Table^NumGems]]` Amethysts worth `dice: [[Random Gems Table^mGem]]` gp each      |
+| 94 - 95     | `dice: [[Random Gems Table^NumGems]]` Opals worth `dice: [[Random Gems Table^PGem]]` gp each          |
+| 96 - 96     | `dice: [[Random Gems Table^NumGems]]` Rubies worth `dice: [[Random Gems Table^PGem]]` gp each         |
+| 97 - 98     | `dice: [[Random Gems Table^NumGems]]` Sapphires worth `dice: [[Random Gems Table^PGem]]` gp each      |
+| 99          | `dice: [[Random Gems Table^NumGems]]` Emeralds worth `dice: [[Random Gems Table^PGem]]` gp each       |
+| 100         | `dice: [[Random Gems Table^NumGems]]` Diamonds worth `dice: [[Random Gems Table^Diamond]]` gp each    |
 ^GemTable
 
 ###### Number of Gems found
 
-You've found `dice: [[Gems Random Table^NumGems]]` Gems.
+You've found `dice: [[Random Gems Table^NumGems]]` Gems.
 
 | dice: 1d20 | # of gems |
 |------------|-----------|
@@ -39,7 +54,7 @@ You've found `dice: [[Gems Random Table^NumGems]]` Gems.
 ^NumGems
 
 ## Gem Data 
-The following tables detail the likelihood of founding a precious mineral of a certain size (weight). The tables follow roughly the formula `{ValueDensity} * 0.003744*2^(X/10.7273)` .
+The following tables detail the likelihood of finding a precious mineral of a certain size (weight). The tables follow roughly the formula `{ValueDensity} * 0.003744*2^(X/10.7273)`.
 
 | dice: 1d100 | Quartz (lbs) |
 |------------|--------------|

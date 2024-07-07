@@ -1,18 +1,18 @@
 ---
 title: Falling Calculator
 aliases: 
-fall_dist: 15
-time_unit: 1
-dist_unit: 1
+fall_dist: 10
+time_unit: 0
+dist_unit: 0
 fall_time: 1
-v: 9.393686882687701
-x: 148.35483197987398
-v2: 832
+v: 13.758597847544072
+x: 4.876380110218176
+v2: 10
 drop_dist: 11
 dicenum: "2"
-drop_DC: 11
-drop_DC_half: 6
-drop_dmg: 1
+drop_DC: 36
+drop_DC_half: 18
+drop_dmg: 4
 acr: 17
 fall_dmg: 17
 dex_save: 15
@@ -74,7 +74,7 @@ When a creature make a conscious drop to a lower level that risks damaging the c
 > DC | `VIEW[round(sqrt(10*{fall_dmg}), 0)]`
 > **Prone?** | **`VIEW[{dex_save} >= round(sqrt(10*{fall_dmg}), 0) ? "No" : "Yes"]`**
 
-Even when a creature unwillingly falls, they might be able to use some of the momentum to get back up standing at the end of their fall. To determine if the creature is prone, roll a Dexterity Saving Throw against the square of 10 times the fall damage taken. On a success, the creature is not prone. On a failure, the creature is [[prone]].
+Even when a creature unwillingly falls, they might be able to use some of the momentum to get back up standing at the end of their fall. To determine if the creature ends its fall prone, roll a Dexterity Saving Throw against the square of 10 times the fall damage taken. On a success, the creature is not prone. On a failure, the creature is [[prone]].
 
 
 
