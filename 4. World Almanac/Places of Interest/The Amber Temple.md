@@ -133,8 +133,20 @@ TBD
 > [!div | no-t clean]
 > ![[15 Chapter 13 The Amber Temple#X24. West Shrine]]
 #### X25
+> [!div | no-t clean]
+> ![[15 Chapter 13 The Amber Temple#X25. West Archer Post]]
 #### X26
+> [!div | no-t clean]
+> ![[15 Chapter 13 The Amber Temple#X26. Secret Alcove]]
 #### X27
+> [!div | no-t clean]
+> ![[15 Chapter 13 The Amber Temple#X27. Lich's Lair]]
 #### X28
+> [!div | no-t clean]
+> ![[15 Chapter 13 The Amber Temple#X28. Hidden Phylactery]]
 #### X29
+> [!div | no-t clean]
+> ![[15 Chapter 13 The Amber Temple#X29. Secret Room]]
 #### X30
+> [!div | no-t clean]
+> ![[15 Chapter 13 The Amber Temple#X30. Preserved Library]]
