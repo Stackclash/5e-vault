@@ -110,16 +110,28 @@ TBD
 ### General Notes
 #### X17
 > [!div | no-t clean]
->> ![[15 Chapter 13 The Amber Temple#X17. Upper West Hall]]
+> ![[15 Chapter 13 The Amber Temple#X17. Upper West Hall]]
 #### X18
 > [!div | no-t clean]
 > ![[15 Chapter 13 The Amber Temple#X18. Hallway]]
 #### X19
+> [!div | no-t clean]
+> ![[15 Chapter 13 The Amber Temple#X19. Potion Storage]]
 #### X20
+> [!div | no-t clean]
+> ![[15 Chapter 13 The Amber Temple#X20. Architect's Room]]
 #### X21
+> [!div | no-t clean]
+> ![[15 Chapter 13 The Amber Temple#X21. West Staircase]]
 #### X22
+> [!div | no-t clean]
+> ![[15 Chapter 13 The Amber Temple#X22. Northwest Annex]]
 #### X23
+> [!div | no-t clean]
+> ![[15 Chapter 13 The Amber Temple#X23. Northwest Balcony]]
 #### X24
+> [!div | no-t clean]
+> ![[15 Chapter 13 The Amber Temple#X24. West Shrine]]
 #### X25
 #### X26
 #### X27
