@@ -1,24 +1,72 @@
+# Weather Template
 > [!oRPG-Weather]
 > 
-> ![[mostlyCloudy.png]]
+> ![[clearSkies.png]]
 > 
-> Season: Summer
+> Season: Spring
 > 
-> Mostly Clouds
+> Clear Skies
 > 
-> Wind: Gale-Force
+> Wind: Light
 > 
 > Temperature
 > 
-> <span class='hot'>Hotter than normal</span>
+> <span class='cold'>Colder than normal</span>
 > 
-> ![[temperatureHot.png]]
+> ![[temperatureCold.png]]
 > 
 > &nbsp;
 > 
+> Night: Foggy
+> 
+> Wind: Bitter
+> 
+> ![[foggyNight.png]]
+>
+
+# Weather Template Specified
+> [!oRPG-Weather]
+> 
+> ![[cloudy.png]]
+> 
+> Season: Summer
+> 
+> Hello
+> 
+> Wind: Windy
+> 
+> Temperature
+> 
+> <span class='warm'>Normal</span>
+> 
+> ![[temperatureWarm.png]]
+> 
+> &nbsp;
+> 
+> Night: Rainy
+> 
+> Wind: Very Windy
+> 
+> ![[lightningNight.png]]
+>
+
+# Weather Micro
+> [!oRPG-Weatherm]
+> 
+> ![[windy.png]]
+> 
+> High Winds(Blustery)
+> 
+> Temperature
+> 
+> <span class='cold'>Colder than normal</span>
+> 
+> ![[temperatureCold.png]]
+> 
 > Night: Clear Skies
 > 
-> Wind: None
+> Wind: Brisk
 > 
 > ![[clearSkiesNight.png]]
->
+
+# Weather Micro V2

@@ -11,7 +11,11 @@
     "Multiple Property Columns",
     "Custom Styles",
     "External CSS",
-    "TabsInObsidian"
+    "TabsInObsidian",
+    "weatherGenerator",
+    "weatherGeneratorMicro",
+    "weatherGeneratorMicroV2",
+    "weatherGeneratorVertical"
   ],
   "theme": "obsidian",
   "cssTheme": "ITS Theme",
