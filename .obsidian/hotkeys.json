@@ -46,5 +46,13 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "templater-obsidian:z_Templates/Templater/Editing/Columns.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
   ]
 }
