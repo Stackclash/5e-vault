@@ -170,12 +170,695 @@
       ],
       "supportInlineEvents": false,
       "inlineEventTag": "#inline-events"
+    },
+    {
+      "name": "Exandrian Calendar",
+      "description": null,
+      "id": "ID_68e868f8d958",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 2,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Miresen",
+            "id": "ID_b838a8ba79bb",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Grissen",
+            "id": "ID_9b89d80ba83b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Whelsen",
+            "id": "ID_f83bb9a8898b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Conthsen",
+            "id": "ID_e8ab4adb68ba",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Folsen",
+            "id": "ID_cb1af93a682a",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Yulisen",
+            "id": "ID_5938493aa8c8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Da'leysen",
+            "id": "ID_687b7999f878",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Horisal",
+            "type": "month",
+            "length": 29,
+            "id": "ID_1b8beb199bd9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Misuthar",
+            "type": "month",
+            "length": 30,
+            "id": "ID_4b49d98b2b2b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Dualahei",
+            "type": "month",
+            "length": 30,
+            "id": "ID_f9cb990b0afa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Thunsheer",
+            "type": "month",
+            "length": 31,
+            "id": "ID_abd96bb8fa59",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Unndilar",
+            "type": "month",
+            "length": 28,
+            "id": "ID_dbaa58884a59",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Brussendar",
+            "type": "month",
+            "length": 31,
+            "id": "ID_19387bb8da9a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Sydenstar",
+            "type": "month",
+            "length": 32,
+            "id": "ID_da2a6ab8295a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Fessuran",
+            "type": "month",
+            "length": 29,
+            "id": "ID_9a1a89fb08fb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Quen'pillar",
+            "type": "month",
+            "length": 27,
+            "id": "ID_287a3868e8b9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Cuersaar",
+            "type": "month",
+            "length": 29,
+            "id": "ID_7aabba8ba9f8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Duscar",
+            "type": "month",
+            "length": 32,
+            "id": "ID_494bb8fadb3b",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Catha",
+            "cycle": 33,
+            "offset": 7,
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_18fa8a6bda58"
+          },
+          {
+            "name": "Ruidus",
+            "cycle": 328,
+            "offset": 80,
+            "faceColor": "#ff6161",
+            "shadowColor": "#1f1f1f",
+            "id": "ID_78090b397849"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_0a88181a7bfb",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Age of Arcanum",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "date": {
+              "year": -1500,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_0bd9b8da383a",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "The Calamity",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "date": {
+              "year": -665,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_4b3b8aab2be9",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "The Founding",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_c91b1a6af829",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Post-Divergence",
+            "description": "",
+            "format": "Year {{year}} P.D.",
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "category": null
+          }
+        ]
+      },
+      "current": {
+        "year": 836,
+        "month": 5,
+        "day": 24
+      },
+      "events": [
+        {
+          "name": "Spring Equinox",
+          "description": "<p>The spring equinox is when the day and the night are equally as long, and are getting longer.</p>",
+          "id": "2495519",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Summer Solstice",
+          "description": "<p>\tAt the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.</p>",
+          "id": "2495520",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Autumn Equinox",
+          "description": "<p>The autumn equinox is when the day and the night are equally as long, and are getting shorter.</p>",
+          "id": "2495521",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Winter Solstice",
+          "description": "<p>The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.</p>",
+          "id": "2495522",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "New Dawn",
+          "description": "<p>The first day of the new year is also the holy day of the Changebringer, as the old year gives way to a new path.</p>\n\n<p>In Tal'Dorei, Emon celebrates New Dawn with a grand midnight feast, which commonly features a short play celebrating the changes witnessed in the past year.<br></p>\n\n<p>On the Menagerie Coast, people celebrate by having a feast on the shore at dusk to watch the sunset. They feast and discuss their hopes for the new year until the sun rises.</p>",
+          "id": "2495523",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 0
+          },
+          "category": "religious-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Hillsgold",
+          "description": "<p>This holiday is up to the calendar owner to decide what it is for! :)<br></p>",
+          "id": "2495524",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 27,
+            "year": null,
+            "month": 0
+          },
+          "category": "secular-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Day of Challenging",
+          "description": "<p>The holy day of the Stormlord is one of the most raucous holidays in Emon. Thousands of spectators attend the annual Godsbrawl, which is held in the fighting ring within the Temple of the Stormlord. The people root for their deity's favored champion, and there is a fierce (yet friendly) rivalry between the Champion of the Stormlord and the Champion of the Platinum Dragon. The winner earns the title of \"Supreme Champion\" for an entire year.<br></p>\n\n<p>The Day of Challenging is one of the most raucous holidays in Port Damali, and thousands of spectators attend the annual Godsbrawl held in the Temple of Kord to root for their favored deity's champion, particularly the chosen champions of the Storm Lord and the All-Hammer. </p>",
+          "id": "2495525",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 7,
+            "year": null,
+            "month": 1
+          },
+          "category": "religious-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Renewal Festival",
+          "description": "<p>Spring begins early in the month of Dualahei, officially starting on the 13th with the Renewal Festival.<br></p>",
+          "id": "2495526",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 13,
+            "year": null,
+            "month": 2
+          },
+          "category": "secular-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Wild's Grandeur",
+          "description": "<p>Though the Archeart is the god of spring, the peak of the spring season is the holy day of the Wildmother.</p>\n\n<p>The people in the southern wilds of Tal'Dorei celebrate the Wildmother's strength by journeying to a place of great natural beauty. This could be the top of a mountainous waterfall, the center of a desert, or even an old and peaceful city park (such as Azalea Street Park in Emon). Though Emon rarely celebrates Wild's Grandeur, the few who do will plant trees in observance of the holiday.<br></p>\n\n<p>The people of the Menagerie Coast set aside this day to sail for no reason other than the pleasure of observing the natural beauty of their surroundings. Those who still partake in elements of Ki'Nau culture take this day to appreciate the fruits and foods granted by the sea, leaving offerings of delicacies and small handmade crafts at temporary altars of twisted roots and grasses.<br></p>",
+          "id": "2495527",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 20,
+            "year": null,
+            "month": 2
+          },
+          "category": "religious-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Harvest's Rise",
+          "description": "<p>This holiday is up to the calendar owner to decide what it is for! :)<br></p>",
+          "id": "2495528",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 11,
+            "year": null,
+            "month": 3
+          },
+          "category": "secular-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Merryfrond's Day",
+          "description": "<p>This holiday is up to the calendar owner to decide what it is for! :)<br></p>",
+          "id": "2495529",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 31,
+            "year": null,
+            "month": 3
+          },
+          "category": "secular-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Deep Solace",
+          "description": "<p>Moradin's holy day is Deep Solace, which is celebrated on the eighteenth day of the fifth month. Especially devout followers of the All-Hammer spend the day in isolation, meditating on the meaning of family and how they may be better mothers, fathers, siblings, and children.</p>\n\n<p>The dwarven communities across Exandria, such as the ones in Grimgolir and Kraghammer, celebrate with a full day of feasting and drinking. <br></p>",
+          "id": "2495530",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 18,
+            "year": null,
+            "month": 4
+          },
+          "category": "religious-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Zenith",
+          "description": "<p>Summer begins in the middle of Unndilar, officially starting at noon on the 26th day known as the Zenith.<br></p>",
+          "id": "2495531",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 26,
+            "year": null,
+            "month": 4
+          },
+          "category": "secular-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Artisan's Faire",
+          "description": "<p>This holiday is up to the calendar owner to decide what it is for! :)</p>",
+          "id": "2495532",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 15,
+            "year": null,
+            "month": 5
+          },
+          "category": "secular-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Elvendawn",
+          "description": "<p>Corellon's holy day is called Elvendawn,\nor Midsummer. It is celebrated on the twentieth day\nof the sixth month, and commemorates the elves' first\nemergence from the Feywild.</p>\n\n<p>In Syngorn, the Elves open small doorways into the Feywild and celebrate alongside the wild fey with uncharacteristic vigor.<br></p>\n\n<p>Though the Dwendalian\nEmpire doesn't promote the worship of the Arch Heart,\nthe elves of Bysaes Tyl quietly celebrate in private by\nopening small doors to the Feywild and having a little\nmore wine than usual. </p>",
+          "id": "2495533",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 20,
+            "year": null,
+            "month": 5
+          },
+          "category": "religious-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Highsummer",
+          "description": "<p>The holy day of the Dawnfather is the peak of the summer season.</p>\n\n<p>Emon celebrates with an entire week of gift-giving and feasting, ending at midnight on the 21st of Sydenstar (the anniversary of the Battle of the Umbra Hills, where Zan Tal'Dorei dethroned Trist Drassig).</p>\n\n<p>Whitestone (where the Dawnfather is the city's patron god) celebrates with gift-giving and a festival of lights around the Sun Tree. Due to the Briarwood occupation, money is thin, so most Whitestone folk choose to recount the small things they are thankful for, rather than buy gifts.<br></p>\n\n<p>While other parts of Exandria feast, the Dwendalian\nEmpire uses this day as an opportunity to enlist more\nsoldiers in its army. The military holds great feasts and\nhands out toy soldiers and other propaganda, encouraging people to enlist and help fight against the evil that\nthreatens the king. <br></p>",
+          "id": "2495534",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 7,
+            "year": null,
+            "month": 6
+          },
+          "category": "religious-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Morn of Largesse",
+          "description": "<p>This holiday is up to the calendar owner to decide what it is for! :)<br></p>",
+          "id": "2495535",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 14,
+            "year": null,
+            "month": 6
+          },
+          "category": "secular-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Harvest's Close",
+          "description": "<p>Autumn begins on the 3rd of Fessuran and is typically celebrated with feasting in rural regions and with carnivals in the cities. </p>",
+          "id": "2495536",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 3,
+            "year": null,
+            "month": 7
+          },
+          "category": "secular-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "The Hazel Festival",
+          "description": "<p>This holiday is up to the calendar owner to decide what it is for! :)<br></p>",
+          "id": "2495537",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 12,
+            "year": null,
+            "month": 8
+          },
+          "category": "secular-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Civilization's Dawn",
+          "description": "<p>The Law Bearer's holy day is Civilization's\nDawn, which is celebrated on the autumnal equinox,\nusually the twenty-second day of the ninth month.</p>\n\n<p>Emon celebrates with a great bonfire in the square of each neighborhood, around which each community dances and gives gifts.<br></p>\n\n<p>In the\nDwendalian Empire, people celebrate by having feasts \nin honor of the laws of the Dwendal bloodline. One seat\nat every table is left open for the king, who eats in spirit\nwith the people he rules. <br></p>",
+          "id": "2495538",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 22,
+            "year": null,
+            "month": 8
+          },
+          "category": "religious-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Night of Ascension",
+          "description": "<p>The Raven Queen's holy day is called the Night of Ascension, celebrating her apotheosis. The actual date of the her rise to divinity is unclear, but the Night of Ascension is celebrated on the thirteenth day of the tenth month.</p>\n\n<p>Though most in Emon see this celebration of the dead as unnerving and macabre, the followers of the Matron of Ravens believe that the honored dead would prefer to be venerated with cheer, not misery.<br></p>\n\n<p>What was once a night of cheery celebration of the dead in the Dwendalian Empire has recently become an occasion to burn effigies and decry the Kryn Dynasty for their unnatural relationship with death.</p>",
+          "id": "2495539",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 13,
+            "year": null,
+            "month": 9
+          },
+          "category": "religious-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Zan's Cup",
+          "description": "<p>This holiday is up to the calendar owner to decide what it is for! :)<br></p>",
+          "id": "2495540",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 21,
+            "year": null,
+            "month": 9
+          },
+          "category": "secular-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Barren Eve",
+          "description": "<p>Winter begins on the 2nd day of Duscar, the Barren Eve, which is a nighttime celebration and remembrance of those who fell in battle.<br></p>",
+          "id": "2495541",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 2,
+            "year": null,
+            "month": 10
+          },
+          "category": "secular-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Embertide",
+          "description": "<p>Bahamut's holy day is called Embertide, and is celebrated on the fifth day of Duscar. This is a day of remembrance, solemnity, and respect for those who have fallen in the defense of others.</p>",
+          "id": "2495542",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 5,
+            "year": null,
+            "month": 10
+          },
+          "category": "religious-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Winter's Crest",
+          "description": "<p>This day celebrates the freedom of Tal'Dorei from Errevon the Rimelord. It is the peak of the winter season, so devout followers of the Matron of Ravens (as the goddess of winter) consider it to be one of her holy days.</p>\n\n<p>However, in most of the land, people see Winter's Crest as a secular holiday, often celebrated with omnipresent music in public areas, lavish gift-giving to relatives and loved ones, and the cutting and decorating of trees placed indoors. The Sun Tree in Whitestone is often decorated with lights and other baubles for Winter's Crest.</p>",
+          "id": "2495543",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 20,
+            "year": null,
+            "month": 10
+          },
+          "category": "secular-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        }
+      ],
+      "categories": [
+        {
+          "name": "Religious Holidays",
+          "id": "religious-holidays",
+          "color": "#0D47A1"
+        },
+        {
+          "name": "Secular Holidays",
+          "id": "secular-holidays",
+          "color": "#4A148C"
+        },
+        {
+          "id": "ID_c95878abfa39",
+          "color": "#a6e064",
+          "name": "Session"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
     }
   ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "ID_6b2b79a86a39",
+  "defaultCalendar": "ID_68e868f8d958",
   "eventPreview": false,
   "exit": {
     "saving": false,
