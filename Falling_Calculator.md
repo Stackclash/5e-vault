@@ -1,18 +1,18 @@
 ---
 title: Falling Calculator
 aliases: 
-fall_dist: 10
+fall_dist: 15
 time_unit: 1
 dist_unit: 1
 fall_time: 1
-v: "7.6908990877747225"
-x: "148.35483197987398"
-v2: "832"
+v: 9.393686882687701
+x: 148.35483197987398
+v2: 832
 drop_dist: 11
 dicenum: "2"
-drop_DC: "11"
-drop_DC_half: "6"
-drop_dmg: "1"
+drop_DC: 11
+drop_DC_half: 6
+drop_dmg: 1
 acr: 17
 fall_dmg: 17
 dex_save: 15
