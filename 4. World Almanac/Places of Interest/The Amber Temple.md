@@ -112,6 +112,8 @@ TBD
 > [!div | no-t clean]
 >> ![[15 Chapter 13 The Amber Temple#X17. Upper West Hall]]
 #### X18
+> [!div | no-t clean]
+> ![[15 Chapter 13 The Amber Temple#X18. Hallway]]
 #### X19
 #### X20
 #### X21

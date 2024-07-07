@@ -50,9 +50,17 @@
   "templater-obsidian:z_Templates/Templater/Editing/Columns.md": [
     {
       "modifiers": [
-        "Mod"
+        "Ctrl"
       ],
       "key": "C"
+    }
+  ],
+  "templater-obsidian:z_Templates/Templater/Editing/Blank Callout.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "X"
     }
   ]
 }
