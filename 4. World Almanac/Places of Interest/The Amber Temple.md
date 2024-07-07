@@ -29,8 +29,6 @@ tags:
 > **Pronounced:** | `INPUT[text:pronounced]` |
 > **Location:** | `INPUT[suggester(optionQuery(#location)):location]` |
 > **Resource(s):** | `INPUT[inlineListSuggester(optionQuery("6. Resources")):resources]` |
-> ###### Nearby Locations
-> `$=dv.table(['Location', 'Distance'], dv.current().travelDistances)`
 > ###### Info
 >  |
 > ---|---|
