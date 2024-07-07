@@ -21,3 +21,5 @@
 - [x] Fix ITS infoboxes to be fixed width (no scrollbars)
 - [x] Put Session Journal summary textboxes in callouts
 - [x] Make Soundboard a template to avoid Dataview from reloading and turning off music
+- [ ] Integrate the following into the Vault
+	- [ ] 
