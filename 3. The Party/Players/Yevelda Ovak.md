@@ -4,23 +4,22 @@ statblock: true
 name: Yevelda Ovak
 level: 6
 ac: 15
-hp: 72
+hp: 17
 modifier: 2
 proficiency: 3
-url: 'https://dndbeyond.com/characters/103814449'
-image: >-
-  https://www.dndbeyond.com/avatars/17/342/636377874944041516.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+url: https://dndbeyond.com/characters/103814449
+image: https://www.dndbeyond.com/avatars/17/342/636377874944041516.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 alignment: Chaotic Neutral
 description:
   gender: FEMALE
-  age: ''
-  hair: ''
-  eyes: ''
-  skin: ''
+  age: ""
+  hair: ""
+  eyes: ""
+  skin: ""
   height: 6’4
   weight: 275
-  size: ''
+  size: ""
 passives:
   perception: 14
   investigation: 10
@@ -46,25 +45,15 @@ defences:
 background:
   background:
     name: Outlander
-    description: >-
-      <p>You grew up in the wilds, far from the comforts of town and technology.
-      You’ve witnessed the migration of herds larger than forests, survived
-      weather more extreme than any city-dweller could comprehend, and enjoyed
-      the solitude of being the only thinking creature for miles in any
-      direction. The wilds are in your blood, whether you were a nomad, an
-      explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places
-      where you don’t know the specific features of the terrain, you know the
-      ways of the wild.</p>
-  backstory: ''
-  organizations: ''
-  allies: ''
-  enemies: ''
-  notes: ''
+    description: <p>You grew up in the wilds, far from the comforts of town and technology. You’ve witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don’t know the specific features of the terrain, you know the ways of the wild.</p>
+  backstory: ""
+  organizations: ""
+  allies: ""
+  enemies: ""
+  notes: ""
 classes:
-  - name: '[[5. Mechanics/Classes/Barbarian.md|Barbarian]]'
-    subClass: >-
-      [[5. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md|Barbarian
-      Path Of The Totem Warrior]]
+  - name: "[[5. Mechanics/Classes/Barbarian.md|Barbarian]]"
+    subClass: "[[5. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md|Barbarian Path Of The Totem Warrior]]"
     level: 6
 abilityScores:
   strength:
@@ -240,7 +229,7 @@ skills:
     advantage: false
 racialTraits:
   - name: Languages
-    description: 'You can speak, read, and write Common and one extra language.'
+    description: You can speak, read, and write Common and one extra language.
 classFeatures:
   - name: Spirit Seeker
     description: You can cast beast sense and speak with animals as rituals.
@@ -249,42 +238,20 @@ classFeatures:
   - name: Aspect of the Beast
     description: You gain a magical benefit based on the totem animal of your choice.
   - name: Rage
-    description: >-
-      As a bonus action enter a rage for up to 1 minute (10 rounds). You gain
-      advantage on STR checks and saving throws (not attacks),
-      {{scalevalue#signed}} melee damage with STR weapons, resistance to
-      bludgeoning, piercing, slashing damage. You can't cast or concentrate on
-      spells while raging. Your rage ends early if you are knocked unconscious
-      or if your turn ends and you haven’t attacked a hostile creature since
-      your last turn or taken damage since then. You can also end your rage as a
-      bonus action.
+    description: As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), {{scalevalue#signed}} melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action.
   - name: Unarmored Defense
-    description: >-
-      While not wearing armor, your AC equals 10 + DEX modifier + CON modifier +
-      any shield bonus.
+    description: While not wearing armor, your AC equals 10 + DEX modifier + CON modifier + any shield bonus.
   - name: Reckless Attack
-    description: >-
-      When you make your first attack on your turn, you can decide to attack
-      recklessly, giving you advantage on melee weapon attack rolls using STR
-      during this turn, but attack rolls against you have advantage until your
-      next turn.
+    description: When you make your first attack on your turn, you can decide to attack recklessly, giving you advantage on melee weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
   - name: Danger Sense
-    description: >-
-      You have advantage on DEX saving throws against effects that you can see
-      while not blinded, deafened, or incapacitated.
+    description: You have advantage on DEX saving throws against effects that you can see while not blinded, deafened, or incapacitated.
   - name: Extra Attack
-    description: >-
-      You can attack twice, instead of once, whenever you take the Attack action
-      on your turn.
+    description: You can attack twice, instead of once, whenever you take the Attack action on your turn.
   - name: Fast Movement
     description: Your speed increases by 10 ft. while you aren't wearing heavy armor.
 feats:
   - name: Tavern Brawler
-    description: >-
-      Increase your STR or CON score by 1. You are proficient with improvised
-      weapons. Your unarmed strike uses a d4 for damage. When you hit a creature
-      with an unarmed strike or an improvised weapon on your turn, you can use a
-      bonus action to attempt to grapple the target.
+    description: Increase your STR or CON score by 1. You are proficient with improvised weapons. Your unarmed strike uses a d4 for damage. When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
 raceSpells: []
 classSpells: []
 currencies:
@@ -294,20 +261,18 @@ currencies:
   ep: 0
   pp: 0
 inventory:
-  - name: >-
-      [[5. Mechanics/Items/Potion Of Greater Healing.md|Potion Of Greater
-      Healing]]
+  - name: "[[5. Mechanics/Items/Potion Of Greater Healing.md|Potion Of Greater Healing]]"
     type: Potion
     rarity: Uncommon
-    quantity: 1
+    quantity: 0
     canEquip: false
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Handaxe.md|Handaxe]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Handaxe.md|Handaxe]]"
     type: Weapon
     rarity: Common
     quantity: 1
@@ -317,8 +282,8 @@ inventory:
     attuned: false
     damage: 1d6
     damageType: Slashing
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Handaxe.md|Handaxe]]'
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Handaxe.md|Handaxe]]"
     type: Weapon
     rarity: Common
     quantity: 1
@@ -328,8 +293,8 @@ inventory:
     attuned: false
     damage: 1d6
     damageType: Slashing
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Javelin.md|Javelin]]'
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Javelin.md|Javelin]]"
     type: Weapon
     rarity: Common
     quantity: 4
@@ -339,8 +304,8 @@ inventory:
     attuned: false
     damage: 1d6
     damageType: Piercing
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Greataxe.md|Greataxe]]'
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Greataxe.md|Greataxe]]"
     type: Weapon
     rarity: Common
     quantity: 1
@@ -350,8 +315,8 @@ inventory:
     attuned: false
     damage: 1d12
     damageType: Slashing
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Backpack.md|Backpack]]'
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -359,10 +324,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Thieves Tools.md|Thieves Tools]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Thieves Tools.md|Thieves Tools]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -370,10 +335,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Bedroll.md|Bedroll]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Bedroll.md|Bedroll]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -381,10 +346,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Mess Kit.md|Mess Kit]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Mess Kit.md|Mess Kit]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -392,10 +357,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Rations 1 Day.md|Rations 1 Day]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Rations 1 Day.md|Rations 1 Day]]"
     type: Other Gear
     rarity: Common
     quantity: 29
@@ -403,10 +368,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -414,10 +379,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Tinderbox.md|Tinderbox]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Tinderbox.md|Tinderbox]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -425,10 +390,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Torch.md|Torch]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Torch.md|Torch]]"
     type: Other Gear
     rarity: Common
     quantity: 10
@@ -436,10 +401,10 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-  - name: '[[5. Mechanics/Items/Waterskin.md|Waterskin]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Waterskin.md|Waterskin]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -447,12 +412,12 @@ inventory:
     equipped: false
     canAttune: false
     attuned: false
-    damage: ''
-    damageType: ''
-    armorClass: ''
-party: '[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]'
-condition: healthy
-location: '[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]'
+    damage: ""
+    damageType: ""
+    armorClass: ""
+party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+condition: injured
+location: "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]"
 tags:
   - player
 ---
