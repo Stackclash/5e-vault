@@ -14,5 +14,4 @@ if (tp.config.run_mode !== 1) {
         }
     })
 }
-
 -%>
