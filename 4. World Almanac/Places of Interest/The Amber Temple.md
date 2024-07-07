@@ -109,10 +109,8 @@ TBD
 
 ### General Notes
 #### X17
-> [!columns | 2]
+> [!div | no-t clean]
 >> ![[15 Chapter 13 The Amber Temple#X17. Upper West Hall]]
->
->> This is a test
 #### X18
 #### X19
 #### X20
