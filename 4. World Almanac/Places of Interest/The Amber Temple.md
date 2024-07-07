@@ -1,20 +1,21 @@
 ---
-obsidianUIMode: preview
+obsidianUIMode: live
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
 image: z_Assets/Amber Temple.png
 pronounced: 
-resources: []
+resources: 
 population: 
 terrain: 
-rulers: []
+rulers: 
 government: 
 army: 
-religions: []
-imports: []
-exports: []
-aliases: []
+religions: 
+imports: 
+exports: 
+aliases: 
 travelDistances:
-  - ["[[4. World Almanac/Regions/Barovia.md|Barovia]]", 5]
+  - - "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
+    - 5
 tags:
   - place-of-interest
   - location
@@ -108,6 +109,10 @@ TBD
 
 ### General Notes
 #### X17
+> [!columns | 2]
+>> ![[15 Chapter 13 The Amber Temple#X17. Upper West Hall]]
+>
+>> This is a test
 #### X18
 #### X19
 #### X20
