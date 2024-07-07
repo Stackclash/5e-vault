@@ -67,8 +67,8 @@ TBD
 > ### If true, disables mouse scroll for zomming in and out of a map. Button controls still work.  
 > noScrollZoom: true  
 > image:
->   - [[Amber Temple 1.webp|Level 2]]
->   - [[Amber Temple 2.webp|Level 1]]
+>   - [[Locations/Maps/Amber Temple 1.webp|Level 2]]
+>   - [[Locations/Maps/Amber Temple 2.webp|Level 1]]
 > ### Map Pixel Height x 1 / (Pixels between Bar Scale / 100)  
 > ### Map Pixel Width x 1 / (Pixels between Bar Scale / 100)  
 > ### Note that this formula requires adjustments depending on your map. The idea is to determine the number of units between your bar scale. We divide by 100 here because my bar scale measures in 100 units. If your maps scale bar measures in units of 50 them you should divide by 50 instead. The idea is to calculate how many pixels are equal to 1 unit.  
