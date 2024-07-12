@@ -171,14 +171,14 @@ Unarmed Strike:
 | 1          | Arm - Lost Fingers      |
 | 2          | Arm - Broken Fingers    |
 | 3          | Arm - Dropped Item      |
-| 4          | Arm - Broken Wrist      |
-| 5          | Arm - Broken Shoulder   |
+| 4          | Arm - Severed Arm       |
+| 5          | Arm - Broken Arm        |
 | 6          | Arm - Compound Fracture |
 | 7          | Arm - Pierced Hand      |
-| 8          | Arm - Flung Weapon      |
-| 9          | Arm - Slit Wrists       |
-| 10         | Arm - Finger Tipped     |
-| 11         | Arm - Broken Elbow      |
+| 8          | Arm - Split Hand        |
+| 9          | Arm - Severed Hand      |
+| 10         | Arm - Slit Wrists       |
+| 11         | Arm - Finger Tipped     |
 ^slashing-arm-critical
 
 | dice: 1d12 | Slashing Head Critical      |
