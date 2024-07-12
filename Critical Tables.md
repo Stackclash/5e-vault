@@ -3,7 +3,7 @@ Arrow: `dice: [[Critical Tables#^arrow-critical]]`
 Bludgeoning: `dice: [[Critical Tables#^bludgeoning-critical]]`
 Piercing: `dice: [[Critical Tables#^piercing-critical]]`
 Slashing: `dice: [[Critical Tables#^slashing-critical]]`
-Unarmed Strike: 
+Unarmed Strike: `dice: [[Critical Tables#^unarmed-critical]]`
 
 | dice: 1d12 | Arrow Critical       |
 | ---------- | -------------------- |
@@ -198,7 +198,7 @@ Unarmed Strike:
 | 12         | Head - Beheaded             |
 ^slashing-head-critical
 
-| dice: 1d11 | Slashing Leg Critical   |
+| dice: 1d12 | Slashing Leg Critical   |
 | ---------- | ----------------------- |
 | 1          | Leg - Lost Toes         |
 | 2          | Leg - Broken Leg        |
@@ -229,3 +229,41 @@ Unarmed Strike:
 | 11         | Torso - Pierced Lung      |
 | 12         | Torso - Knocked Down      |
 ^slashing-torso-critical
+
+| dice: 1d2 | Unarmed Critical                                    |
+| --------- | ---------------------------------------------------- |
+| 1         | `dice: [[Critical Tables#^unarmed-kick-critical]]`   |
+| 2         | `dice: [[Critical Tables#^unarmed-punch-critical]]`  |
+^unarmed-critical
+
+| dice: 1d12 | Unarmed Kick Critical |
+| ---------- | --------------------- |
+| 1          | Knee Capped           |
+| 2          | Broken Nose           |
+| 3          | Compound Fracture     |
+| 4          | Slipped Vertebrae     |
+| 5          | Broken Jaw            |
+| 6          | Nethers               |
+| 7          | Broken Leg            |
+| 8          | Dazing Blow           |
+| 9          | Knocked Out           |
+| 10         | Thrown                |
+| 11         | Finger Tipped         |
+| 12         | Broken Elbow          |
+^unarmed-kick-critical
+
+| dice: 1d12 | Unarmed Punch Critical      |
+| ---------- | --------------------------- |
+| 1          | Lost Teeth           |
+| 2          | Severed Nose         |
+| 3          | Severed Ear          |
+| 4          | Forehead Cleave      |
+| 5          | Broken Jaw           |
+| 6          | Eye Plucked          |
+| 7          | Throat Slashed       |
+| 8          | Dazing Blow          |
+| 9          | Knocked Out          |
+| 10         | Scalped              |
+| 11         | Horrific Facial Scar |
+| 12         | Beheaded             |
+^unarmed-punch-critical
