@@ -142,17 +142,17 @@ Unarmed Strike:
 | 11         | Leg - Off Balance       |
 ^piercing-leg-critical
 
-| dice: 1d9 | Piercing Torso Critical |
-| --------- | -------------------------- |
-| 1         | Torso - Broken Tailbone            |
-| 2         | Torso - Broken Back                |
-| 3         | Torso - Nethers                    |
-| 4         | Torso - Wind Knocked Out           |
-| 5         | Torso - Kidney Strike              |
-| 6         | Torso - Knocked Down               |
-| 7         | Torso - Slipped Vertebrae          |
-| 8         | Torso - Off Balance                |
-| 9         | Torso - Thrown                     |
-| 10        | Torso - Broken Hip                 |
-| 11        | Torso - Broken Ribs                |
+| dice: 1d9 | Piercing Torso Critical   |
+| --------- | ------------------------- |
+| 1         | Torso - Pierced Backside  |
+| 2         | Torso - Nethers           |
+| 3         | Torso - Back Stabbed      |
+| 4         | Torso - Impaled Stomach   |
+| 5         | Torso -                   |
+| 6         | Torso - Knocked Down      |
+| 7         | Torso - Slipped Vertebrae |
+| 8         | Torso - Off Balance       |
+| 9         | Torso - Thrown            |
+| 10        | Torso - Broken Hip        |
+| 11        | Torso - Broken Ribs       |
 ^piercing-torso-critical
