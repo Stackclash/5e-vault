@@ -267,3 +267,13 @@ Unarmed Strike: `dice: [[Critical Tables#^unarmed-critical]]`
 | 11         | Dropped Item           |
 | 12         | Knocked Down           |
 ^unarmed-punch-critical
+
+| dice: 1d12 | Critical Failure Bow |
+| ---------- | -------------------- |
+| 1          | Drop Bow             |
+| 2          | Sprained Wrist       |
+| 3          | Broken String        |
+| 4          | Dislocated Shoulder  |
+| 5          | Broken Arrow         |
+| 6          | Wrong Target         |
+| 7          |                      |
