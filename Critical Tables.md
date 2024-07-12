@@ -111,34 +111,35 @@ Unarmed Strike:
 | 11         | Arm - Broken Elbow      |
 ^piercing-arm-critical
 
-| dice: 1d9 | Piercing Head Critical      |
-| --------- | --------------------------- |
-| 1         | Head - Lost Teeth           |
-| 2         | Head - Severed Nose         |
-| 3         | Head - Pierced Eardrum      |
-| 4         | Head - Pierced Mouth        |
-| 5         | Head - Broken Jaw           |
-| 6         | Head - Eye Plucked          |
-| 7         | Head - Pierced Throat       |
-| 8         | Head - Dazing Blow          |
-| 9         | Head - Knocked Out          |
-| 10        | Head - Knocked Down         |
-| 11        | Head - Horrific Facial Scar |
-| 12        | Head - Pierced Brain        |
+| dice: 1d12 | Piercing Head Critical      |
+| ---------- | --------------------------- |
+| 1          | Head - Lost Teeth           |
+| 2          | Head - Severed Nose         |
+| 3          | Head - Pierced Eardrum      |
+| 4          | Head - Pierced Mouth        |
+| 5          | Head - Broken Jaw           |
+| 6          | Head - Eye Plucked          |
+| 7          | Head - Pierced Throat       |
+| 8          | Head - Dazing Blow          |
+| 9          | Head - Knocked Out          |
+| 10         | Head - Knocked Down         |
+| 11         | Head - Horrific Facial Scar |
+| 12         | Head - Pierced Brain        |
 ^piercing-head-critical
 
-| dice: 1d9 | Piercing Leg Critical   |
-| --------- | ----------------------- |
-| 1         | Leg - Femoral Artery    |
-| 2         | Leg - Compound Fracture |
-| 3         | Leg - Shattered Foot    |
-| 4         | Leg - Broken Foot       |
-| 5         | Leg - Off Balance       |
-| 6         | Leg - Knocked Down      |
-| 7         | Leg - Compound Fracture |
-| 8         | Leg - Broken Ankle      |
-| 9         | Leg - Broken Knee       |
-| 10        | Leg - Fractured Heel    |
+| dice: 1d11 | Piercing Leg Critical   |
+| ---------- | ----------------------- |
+| 1          | Leg - Femoral Artery    |
+| 2          | Leg - Compound Fracture |
+| 3          | Leg - Pierced Foot      |
+| 4          | Leg - Pierced Knee      |
+| 5          | Leg - Broken Ankle      |
+| 6          | Leg - Knocked Down      |
+| 7          | Leg - Achilles Tendon   |
+| 8          | Leg - Lost Toes         |
+| 9          | Leg - Broken Foot       |
+| 10         | Leg - Broken Heel       |
+| 11         | Leg - Off Balance       |
 ^piercing-leg-critical
 
 | dice: 1d9 | Piercing Torso Critical |
