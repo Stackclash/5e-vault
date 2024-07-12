@@ -1,66 +1,69 @@
-| dice: 1d4 | Bludgeoning Critical                                  |
-| --------- | ----------------------------------------------------- |
-| 1         | `dice: [[Critical Tables#^bludgeoning-arm-critical]]` |
-| 2         | Head                                                  |
-| 3         | Leg                                                   |
-| 4         | Torso                                                 |
+# Critical Hits
+Bludgeoning: `dice: [[Critical Tables#^bludgeoning-critical]]`
+
+| dice: 1d4 | Bludgeoning Critical                                    |
+| --------- | ------------------------------------------------------- |
+| 1         | `dice: [[Critical Tables#^bludgeoning-arm-critical]]`   |
+| 2         | `dice: [[Critical Tables#^bludgeoning-head-critical]]`  |
+| 3         | `dice: [[Critical Tables#^bludgeoning-leg-critical]]`   |
+| 4         | `dice: [[Critical Tables#^bludgeoning-torso-critical]]` |
 ^bludgeoning-critical
 
-| dice: 1d9 | Bludgeoning Arm Critical                                                                                          |
-| --------- | ----------------------------------------------------------------------------------------------------------------- |
-| 1         | Broken Arm: Can't hold heavy items in that hand and Disadvantage to attacks with that hand for `dice: 2d6` weeks. |
-| 2         | Shattered Hand:                                                                                                   |
-| 3         | Shattered Wrist:                                                                                                  |
-| 4         | Broken Wrist:                                                                                                     |
-| 5         | Flung Weapon:                                                                                                     |
-| 6         | Dropped Item:                                                                                                     |
-| 7         | Compound Fracture:                                                                                                |
-| 8         | Broken Shoulder:                                                                                                  |
-| 9         | Broken Finger:                                                                                                    |
-| 10        | Broken Elbow:                                                                                                     |
+| dice: 1d9 | Bludgeoning Arm Critical |
+| --------- | ------------------------ |
+| 1         | Arm - Broken Arm               |
+| 2         | Arm - Shattered Hand           |
+| 3         | Arm - Shattered Wrist          |
+| 4         | Arm - Broken Wrist             |
+| 5         | Arm - Flung Weapon             |
+| 6         | Arm - Dropped Item             |
+| 7         | Arm - Compound Fracture        |
+| 8         | Arm - Broken Shoulder          |
+| 9         | Arm - Broken Finger            |
+| 10        | Arm - Broken Elbow             |
 ^bludgeoning-arm-critical
 
 | dice: 1d9 | Bludgeoning Head Critical |
 | --------- | ------------------------- |
-| 1         | Caved Cranium             |
-| 2         | Shattered Eye             |
-| 3         | Crushed Larynx            |
-| 4         | Lost Teeth                |
-| 5         | Broken Nose               |
-| 6         | Broken Neck               |
-| 7         | Dazing Blow               |
-| 8         | Knocked Down              |
-| 9         | Concussed Ear             |
-| 10        | Cracked Skull             |
-| 11        | Knocked Out               |
-| 12        | Broken Jaw                |
+| 1         | Head - Caved Cranium             |
+| 2         | Head - Shattered Eye             |
+| 3         | Head - Crushed Larynx            |
+| 4         | Head - Lost Teeth                |
+| 5         | Head - Broken Nose               |
+| 6         | Head - Broken Neck               |
+| 7         | Head - Dazing Blow               |
+| 8         | Head - Knocked Down              |
+| 9         | Head - Concussed Ear             |
+| 10        | Head - Cracked Skull             |
+| 11        | Head - Knocked Out               |
+| 12        | Head - Broken Jaw                |
 ^bludgeoning-head-critical
 
 | dice: 1d9 | Bludgeoning Leg Critical |
 | --------- | ------------------------ |
-| 1         | Knee Capped              |
-| 2         | Broken Leg               |
-| 3         | Shattered Foot           |
-| 4         | Broken Foot              |
-| 5         | Off Balance              |
-| 6         | Knocked Down             |
-| 7         | Compound Fracture        |
-| 8         | Broken Ankle             |
-| 9         | Broken Knee              |
-| 10        | Fractured Heel           |
+| 1         | Leg - Knee Capped              |
+| 2         | Leg - Broken Leg               |
+| 3         | Leg - Shattered Foot           |
+| 4         | Leg - Broken Foot              |
+| 5         | Leg - Off Balance              |
+| 6         | Leg - Knocked Down             |
+| 7         | Leg - Compound Fracture        |
+| 8         | Leg - Broken Ankle             |
+| 9         | Leg - Broken Knee              |
+| 10        | Leg - Fractured Heel           |
 ^bludgeoning-leg-critical
 
 | dice: 1d9 | Bludgeoning Torso Critical |
 | --------- | -------------------------- |
-| 1         | Broken Tailbone            |
-| 2         | Broken Back                |
-| 3         | Nethers                    |
-| 4         | Wind Knocked Out           |
-| 5         | Kidney Strike              |
-| 6         | Knocked Down               |
-| 7         | Slipped Vertebrae          |
-| 8         | Off Balance                |
-| 9         | Thrown                     |
-| 10        | Broken Hip                 |
-| 11        | Broken Rib                 |
+| 1         | Torso - Broken Tailbone            |
+| 2         | Torso - Broken Back                |
+| 3         | Torso - Nethers                    |
+| 4         | Torso - Wind Knocked Out           |
+| 5         | Torso - Kidney Strike              |
+| 6         | Torso - Knocked Down               |
+| 7         | Torso - Slipped Vertebrae          |
+| 8         | Torso - Off Balance                |
+| 9         | Torso - Thrown                     |
+| 10        | Torso - Broken Hip                 |
+| 11        | Torso - Broken Ribs                |
 ^bludgeoning-torso-critical
