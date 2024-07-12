@@ -3,7 +3,9 @@ Arrow: `dice: [[Critical Tables#^arrow-critical]]`
 Bludgeoning: `dice: [[Critical Tables#^bludgeoning-critical]]`
 Piercing: `dice: [[Critical Tables#^piercing-critical]]`
 Slashing: `dice: [[Critical Tables#^slashing-critical]]`
-Unarmed Punchdice: [[Critical Tables#^unarmed-critical]]
+Unarmed Punch: `dice: [[Critical Tables#^unarmed-punch-critical]]`
+Unarmed Kick: `dice: [[Critical Tables#^unarmed-kick-critical]]`
+
 # Critical Failures
 Bow: `dice: [[Critical Tables#^bow-critical-failure]]`
 Melee: `dice: [[Critical Tables#^melee-critical-failure]]`
@@ -11,7 +13,7 @@ Thrown: `dice: [[Critical Tables#^thrown-critical-failure]]`
 
 | dice: 1d12 | Arrow Critical       |
 | ---------- | -------------------- |
-| 1          | Severed Fingers      |
+| 1          | Severed Fingers:       |
 | 2          | Compound Fracture    |
 | 3          | Pierced Heart        |
 | 4          | Pierced Hand         |
