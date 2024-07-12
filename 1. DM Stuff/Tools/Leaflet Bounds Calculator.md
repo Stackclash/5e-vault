@@ -1,7 +1,7 @@
 ---
-image: z_Assets/Vallaki.jpg
+image: z_Assets/Locations/Ruins of Berez.webp
 distance_measure: 69
-units: 250
+units: 100
 actual_units_distance: 42
 ---
 
