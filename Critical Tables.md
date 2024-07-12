@@ -152,7 +152,7 @@ Unarmed Strike:
 | 6          | Torso - Broken Back       |
 | 7          | Torso - Slipped Vertebrae |
 | 8          | Torso - Broken Ribs       |
-| 9          | Torso - Knocked Dwon      |
+| 9          | Torso - Knocked Down      |
 | 10         | Torso - Disemboweled      |
 | 11         | Torso - Pierced Lung      |
 | 12         | Torso - Broken Hip        |
@@ -200,31 +200,32 @@ Unarmed Strike:
 
 | dice: 1d11 | Slashing Leg Critical   |
 | ---------- | ----------------------- |
-| 1          | Leg - Femoral Artery    |
-| 2          | Leg - Compound Fracture |
-| 3          | Leg - Pierced Foot      |
-| 4          | Leg - Pierced Knee      |
-| 5          | Leg - Broken Ankle      |
-| 6          | Leg - Knocked Down      |
-| 7          | Leg - Achilles Tendon   |
-| 8          | Leg - Lost Toes         |
-| 9          | Leg - Broken Foot       |
-| 10         | Leg - Broken Heel       |
-| 11         | Leg - Off Balance       |
+| 1          | Leg - Lost Toes         |
+| 2          | Leg - Broken Leg        |
+| 3          | Leg - Severed Foot      |
+| 4          | Leg - Severed Leg       |
+| 5          | Leg - Broken Knee       |
+| 6          | Leg - Achilles Tendon   |
+| 7          | Leg - Compound Fracture |
+| 8          | Leg - Pierced Foot      |
+| 9          | Leg - Knocked Down      |
+| 10         | Leg - Broken Foot       |
+| 11         | Leg - Broken Ankle      |
+| 12         | Leg - Femoral Artery    |
 ^slashing-leg-critical
 
 | dice: 1d12 | Slashing Torso Critical   |
 | ---------- | ------------------------- |
 | 1          | Torso - Pierced Backside  |
-| 2          | Torso - Nethers           |
+| 2          | Torso - Broken Hip        |
 | 3          | Torso - Back Stabbed      |
 | 4          | Torso - Impaled Stomach   |
 | 5          | Torso - Broken Heart      |
 | 6          | Torso - Broken Back       |
 | 7          | Torso - Slipped Vertebrae |
 | 8          | Torso - Broken Ribs       |
-| 9          | Torso - Knocked Dwon      |
+| 9          | Torso - Nethers           |
 | 10         | Torso - Disemboweled      |
 | 11         | Torso - Pierced Lung      |
-| 12         | Torso - Broken Hip        |
+| 12         | Torso - Knocked Down      |
 ^slashing-torso-critical
