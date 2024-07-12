@@ -1,7 +1,7 @@
 # Critical Hits
 Arrow: `dice: [[Critical Tables#^arrow-critical]]`
 Bludgeoning: `dice: [[Critical Tables#^bludgeoning-critical]]`
-Piercing: 
+Piercing: `dice: [[Critical Tables#^piercing-critical]]`
 Slashing: 
 Unarmed Strike: 
 
@@ -87,3 +87,70 @@ Unarmed Strike:
 | 10        | Torso - Broken Hip                 |
 | 11        | Torso - Broken Ribs                |
 ^bludgeoning-torso-critical
+
+| dice: 1d4 | Piercing Critical                                    |
+| --------- | ------------------------------------------------------- |
+| 1         | `dice: [[Critical Tables#^piercing-arm-critical]]`   |
+| 2         | `dice: [[Critical Tables#^piercing-head-critical]]`  |
+| 3         | `dice: [[Critical Tables#^piercing-leg-critical]]`   |
+| 4         | `dice: [[Critical Tables#^piercing-torso-critical]]` |
+^piercing-critical
+
+| dice: 1d9 | Piercing Arm Critical   |
+| --------- | ----------------------- |
+| 1         | Arm - Lost Fingers      |
+| 2         | Arm - Shattered Hand    |
+| 3         | Arm - Shattered Wrist   |
+| 4         | Arm - Broken Wrist      |
+| 5         | Arm - Flung Weapon      |
+| 6         | Arm - Dropped Item      |
+| 7         | Arm - Compound Fracture |
+| 8         | Arm - Broken Shoulder   |
+| 9         | Arm - Broken Finger     |
+| 10        | Arm - Broken Elbow      |
+^piercing-arm-critical
+
+| dice: 1d9 | Piercing Head Critical |
+| --------- | ------------------------- |
+| 1         | Head - Caved Cranium             |
+| 2         | Head - Shattered Eye             |
+| 3         | Head - Crushed Larynx            |
+| 4         | Head - Lost Teeth                |
+| 5         | Head - Broken Nose               |
+| 6         | Head - Broken Neck               |
+| 7         | Head - Dazing Blow               |
+| 8         | Head - Knocked Down              |
+| 9         | Head - Concussed Ear             |
+| 10        | Head - Cracked Skull             |
+| 11        | Head - Knocked Out               |
+| 12        | Head - Broken Jaw                |
+^piercing-head-critical
+
+| dice: 1d9 | Piercing Leg Critical |
+| --------- | ------------------------ |
+| 1         | Leg - Knee Capped              |
+| 2         | Leg - Broken Leg               |
+| 3         | Leg - Shattered Foot           |
+| 4         | Leg - Broken Foot              |
+| 5         | Leg - Off Balance              |
+| 6         | Leg - Knocked Down             |
+| 7         | Leg - Compound Fracture        |
+| 8         | Leg - Broken Ankle             |
+| 9         | Leg - Broken Knee              |
+| 10        | Leg - Fractured Heel           |
+^piercing-leg-critical
+
+| dice: 1d9 | Piercing Torso Critical |
+| --------- | -------------------------- |
+| 1         | Torso - Broken Tailbone            |
+| 2         | Torso - Broken Back                |
+| 3         | Torso - Nethers                    |
+| 4         | Torso - Wind Knocked Out           |
+| 5         | Torso - Kidney Strike              |
+| 6         | Torso - Knocked Down               |
+| 7         | Torso - Slipped Vertebrae          |
+| 8         | Torso - Off Balance                |
+| 9         | Torso - Thrown                     |
+| 10        | Torso - Broken Hip                 |
+| 11        | Torso - Broken Ribs                |
+^piercing-torso-critical
