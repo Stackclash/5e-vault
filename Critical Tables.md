@@ -2,7 +2,7 @@
 Arrow: `dice: [[Critical Tables#^arrow-critical]]`
 Bludgeoning: `dice: [[Critical Tables#^bludgeoning-critical]]`
 Piercing: `dice: [[Critical Tables#^piercing-critical]]`
-Slashing: 
+Slashing: `dice: [[Critical Tables#^slashing-critical]]`
 Unarmed Strike: 
 
 | dice: 1d12 | Arrow Critical       |
@@ -142,17 +142,88 @@ Unarmed Strike:
 | 11         | Leg - Off Balance       |
 ^piercing-leg-critical
 
-| dice: 1d9 | Piercing Torso Critical   |
-| --------- | ------------------------- |
-| 1         | Torso - Pierced Backside  |
-| 2         | Torso - Nethers           |
-| 3         | Torso - Back Stabbed      |
-| 4         | Torso - Impaled Stomach   |
-| 5         | Torso -                   |
-| 6         | Torso - Knocked Down      |
-| 7         | Torso - Slipped Vertebrae |
-| 8         | Torso - Off Balance       |
-| 9         | Torso - Thrown            |
-| 10        | Torso - Broken Hip        |
-| 11        | Torso - Broken Ribs       |
+| dice: 1d12 | Piercing Torso Critical   |
+| ---------- | ------------------------- |
+| 1          | Torso - Pierced Backside  |
+| 2          | Torso - Nethers           |
+| 3          | Torso - Back Stabbed      |
+| 4          | Torso - Impaled Stomach   |
+| 5          | Torso - Broken Heart      |
+| 6          | Torso - Broken Back       |
+| 7          | Torso - Slipped Vertebrae |
+| 8          | Torso - Broken Ribs       |
+| 9          | Torso - Knocked Dwon      |
+| 10         | Torso - Disemboweled      |
+| 11         | Torso - Pierced Lung      |
+| 12         | Torso - Broken Hip        |
 ^piercing-torso-critical
+
+| dice: 1d4 | Slashing Critical                                    |
+| --------- | ---------------------------------------------------- |
+| 1         | `dice: [[Critical Tables#^slashing-arm-critical]]`   |
+| 2         | `dice: [[Critical Tables#^slashing-head-critical]]`  |
+| 3         | `dice: [[Critical Tables#^slashing-leg-critical]]`   |
+| 4         | `dice: [[Critical Tables#^slashing-torso-critical]]` |
+^slashing-critical
+
+| dice: 1d11 | Slashing Arm Critical   |
+| ---------- | ----------------------- |
+| 1          | Arm - Lost Fingers      |
+| 2          | Arm - Broken Fingers    |
+| 3          | Arm - Dropped Item      |
+| 4          | Arm - Broken Wrist      |
+| 5          | Arm - Broken Shoulder   |
+| 6          | Arm - Compound Fracture |
+| 7          | Arm - Pierced Hand      |
+| 8          | Arm - Flung Weapon      |
+| 9          | Arm - Slit Wrists       |
+| 10         | Arm - Finger Tipped     |
+| 11         | Arm - Broken Elbow      |
+^slashing-arm-critical
+
+| dice: 1d12 | Slashing Head Critical      |
+| ---------- | --------------------------- |
+| 1          | Head - Lost Teeth           |
+| 2          | Head - Severed Nose         |
+| 3          | Head - Pierced Eardrum      |
+| 4          | Head - Pierced Mouth        |
+| 5          | Head - Broken Jaw           |
+| 6          | Head - Eye Plucked          |
+| 7          | Head - Pierced Throat       |
+| 8          | Head - Dazing Blow          |
+| 9          | Head - Knocked Out          |
+| 10         | Head - Knocked Down         |
+| 11         | Head - Horrific Facial Scar |
+| 12         | Head - Pierced Brain        |
+^slashing-head-critical
+
+| dice: 1d11 | Slashing Leg Critical   |
+| ---------- | ----------------------- |
+| 1          | Leg - Femoral Artery    |
+| 2          | Leg - Compound Fracture |
+| 3          | Leg - Pierced Foot      |
+| 4          | Leg - Pierced Knee      |
+| 5          | Leg - Broken Ankle      |
+| 6          | Leg - Knocked Down      |
+| 7          | Leg - Achilles Tendon   |
+| 8          | Leg - Lost Toes         |
+| 9          | Leg - Broken Foot       |
+| 10         | Leg - Broken Heel       |
+| 11         | Leg - Off Balance       |
+^slashing-leg-critical
+
+| dice: 1d12 | Slashing Torso Critical   |
+| ---------- | ------------------------- |
+| 1          | Torso - Pierced Backside  |
+| 2          | Torso - Nethers           |
+| 3          | Torso - Back Stabbed      |
+| 4          | Torso - Impaled Stomach   |
+| 5          | Torso - Broken Heart      |
+| 6          | Torso - Broken Back       |
+| 7          | Torso - Slipped Vertebrae |
+| 8          | Torso - Broken Ribs       |
+| 9          | Torso - Knocked Dwon      |
+| 10         | Torso - Disemboweled      |
+| 11         | Torso - Pierced Lung      |
+| 12         | Torso - Broken Hip        |
+^slashing-torso-critical
