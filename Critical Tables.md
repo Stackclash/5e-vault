@@ -1,5 +1,25 @@
 # Critical Hits
+Arrow: 
 Bludgeoning: `dice: [[Critical Tables#^bludgeoning-critical]]`
+Piercing: 
+Slashing: 
+Unarmed Strike: 
+
+| dice: 1d9 | Arrow Critical    |
+| --------- | ----------------- |
+| 1         | Severed Fingers   |
+| 2         | Compound Fracture |
+| 3         | Pierced Heart     |
+| 4         | Pierced Hand      |
+| 5         | Nethers           |
+| 6         | Eye Plucked       |
+| 7         | Throat Pierced    |
+| 8         | Pierced Knee      |
+| 9         | Pierced           |
+| 10        | Broken Elbow      |
+| 11        |                   |
+| 12        |                   |
+^bludgeoning-arm-critical
 
 | dice: 1d4 | Bludgeoning Critical                                    |
 | --------- | ------------------------------------------------------- |
