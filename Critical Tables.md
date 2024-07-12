@@ -268,7 +268,7 @@ Unarmed Strike: `dice: [[Critical Tables#^unarmed-critical]]`
 | 12         | Knocked Down           |
 ^unarmed-punch-critical
 
-| dice: 1d12 | Critical Failure Bow |
+| dice: 1d12 | Bow Critical Failure |
 | ---------- | -------------------- |
 | 1          | Drop Bow             |
 | 2          | Sprained Wrist       |
@@ -276,4 +276,33 @@ Unarmed Strike: `dice: [[Critical Tables#^unarmed-critical]]`
 | 4          | Dislocated Shoulder  |
 | 5          | Broken Arrow         |
 | 6          | Wrong Target         |
-| 7          |                      |
+| 7          | Slipped Vertebrae    |
+| 8          | Fall Down            |
+| 9          | Dislocated Elbow     |
+| 10         | Stumble              |
+| 11         | Dropped Arrow        |
+| 12         | Wrong Target         |
+^bow-critical-failure
+
+| dice: 1d12 | Melee Critical Failure |
+| ---------- | ---------------------- |
+| 1          | Dropped Weapon         |
+| 2          | Sprained Wrist         |
+| 3          | Sprained Ankle         |
+| 4          | Horrific Facial Scar   |
+| 5          | Twisted Knee           |
+| 6          | Fell Down              |
+| 7          | Slipped Vertebrae      |
+| 8          | Wrong Target           |
+| 9          | Dislocated Elbow       |
+| 10         | Juggled Weapon         |
+| 11         | Flung Weapon           |
+| 12         | Stumble                |
+^melee-critical-failure
+
+| dice: 1d12 | Thrown Critical Failure |
+| ---------- | ----------------------- |
+| 1          | Dropped Weapon          |
+| 2          | Sprained Wrist          |
+| 3          | Dislocated Shoulder     |
+| 45         |                         |
