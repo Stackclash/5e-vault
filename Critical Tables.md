@@ -248,22 +248,22 @@ Unarmed Strike: `dice: [[Critical Tables#^unarmed-critical]]`
 | 8          | Dazing Blow           |
 | 9          | Knocked Out           |
 | 10         | Thrown                |
-| 11         | Finger Tipped         |
-| 12         | Broken Elbow          |
+| 11         | Knocked Down          |
+| 12         | Broken Ribs           |
 ^unarmed-kick-critical
 
-| dice: 1d12 | Unarmed Punch Critical      |
-| ---------- | --------------------------- |
-| 1          | Lost Teeth           |
-| 2          | Severed Nose         |
-| 3          | Severed Ear          |
-| 4          | Forehead Cleave      |
-| 5          | Broken Jaw           |
-| 6          | Eye Plucked          |
-| 7          | Throat Slashed       |
-| 8          | Dazing Blow          |
-| 9          | Knocked Out          |
-| 10         | Scalped              |
-| 11         | Horrific Facial Scar |
-| 12         | Beheaded             |
+| dice: 1d12 | Unarmed Punch Critical |
+| ---------- | ---------------------- |
+| 1          | Crushed Larnyx         |
+| 2          | Broken Nose            |
+| 3          | Knocked Out            |
+| 4          | Kidney Strike          |
+| 5          | Off Balance            |
+| 6          | Wind Knocked           |
+| 7          | Broken Jaw             |
+| 8          | Dazing Blow            |
+| 9          | Lost Teeth             |
+| 10         | Broken Ribs            |
+| 11         | Dropped Item           |
+| 12         | Knocked Down           |
 ^unarmed-punch-critical
