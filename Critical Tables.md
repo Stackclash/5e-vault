@@ -3,7 +3,11 @@ Arrow: `dice: [[Critical Tables#^arrow-critical]]`
 Bludgeoning: `dice: [[Critical Tables#^bludgeoning-critical]]`
 Piercing: `dice: [[Critical Tables#^piercing-critical]]`
 Slashing: `dice: [[Critical Tables#^slashing-critical]]`
-Unarmed Strike: `dice: [[Critical Tables#^unarmed-critical]]`
+Unarmed Punchdice: [[Critical Tables#^unarmed-critical]]
+# Critical Failures
+Bow: `dice: [[Critical Tables#^bow-critical-failure]]`
+Melee: `dice: [[Critical Tables#^melee-critical-failure]]`
+Thrown: `dice: [[Critical Tables#^thrown-critical-failure]]`
 
 | dice: 1d12 | Arrow Critical       |
 | ---------- | -------------------- |
@@ -230,12 +234,6 @@ Unarmed Strike: `dice: [[Critical Tables#^unarmed-critical]]`
 | 12         | Torso - Knocked Down      |
 ^slashing-torso-critical
 
-| dice: 1d2 | Unarmed Critical                                    |
-| --------- | ---------------------------------------------------- |
-| 1         | `dice: [[Critical Tables#^unarmed-kick-critical]]`   |
-| 2         | `dice: [[Critical Tables#^unarmed-punch-critical]]`  |
-^unarmed-critical
-
 | dice: 1d12 | Unarmed Kick Critical |
 | ---------- | --------------------- |
 | 1          | Knee Capped           |
@@ -305,4 +303,13 @@ Unarmed Strike: `dice: [[Critical Tables#^unarmed-critical]]`
 | 1          | Dropped Weapon          |
 | 2          | Sprained Wrist          |
 | 3          | Dislocated Shoulder     |
-| 45         |                         |
+| 4          | Juggled Weapon          |
+| 5          | Broken Weapon           |
+| 6          | Wrong Target            |
+| 7          | Slipped Vertebrae       |
+| 8          | Flung Weapon            |
+| 9          | Dislocated Elbow        |
+| 10         | Stumble                 |
+| 11         | Fell Down               |
+| 12         | Wrong Target            |
+^thrown-critical-failure
