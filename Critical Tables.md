@@ -11,20 +11,20 @@ Bow: `dice: [[Critical Tables#^bow-critical-failure]]`
 Melee: `dice: [[Critical Tables#^melee-critical-failure]]`
 Thrown: `dice: [[Critical Tables#^thrown-critical-failure]]`
 
-| dice: 1d12 | Arrow Critical       |
-| ---------- | -------------------- |
-| 1          | Severed Fingers:       |
-| 2          | Compound Fracture    |
-| 3          | Pierced Heart        |
-| 4          | Pierced Hand         |
-| 5          | Nethers              |
-| 6          | Eye Plucked          |
-| 7          | Throat Pierced       |
-| 8          | Pierced Knee         |
-| 9          | Pierced Foot         |
-| 10         | Femoral Artery       |
-| 11         | Horrific Facial Scar |
-| 12         | Knocked Down         |
+| dice: 1d12 | Arrow Critical                                                                                                                      |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Severed Fingers: Drop item held in that hand, Lose `dice: 1d4` fingers, Disadvantage to skills requiring that hand `dice: 2d4` days |
+| 2          | Compound Fracture: Drop item held in that hand and Disadvantage to attacks with that hand for `dice: 2d6` weeks                                                                                                                   |
+| 3          | Pierced Heart: Victim drops to 0 hp with two automatically failed Death Saves                                                                                                                       |
+| 4          | Pierced Hand: Drop item held in that hand, Disadvantage to skills requiring that hand for `dice: 1d4` days                                                                                                                        |
+| 5          | Nethers                                                                                                                             |
+| 6          | Eye Plucked                                                                                                                         |
+| 7          | Throat Pierced                                                                                                                      |
+| 8          | Pierced Knee                                                                                                                        |
+| 9          | Pierced Foot                                                                                                                        |
+| 10         | Femoral Artery                                                                                                                      |
+| 11         | Horrific Facial Scar                                                                                                                |
+| 12         | Knocked Down                                                                                                                        |
 ^arrow-critical
 
 | dice: 1d4 | Bludgeoning Critical                                    |
@@ -110,7 +110,7 @@ Thrown: `dice: [[Critical Tables#^thrown-critical-failure]]`
 | 4          | Arm - Broken Wrist      |
 | 5          | Arm - Broken Shoulder   |
 | 6          | Arm - Compound Fracture |
-| 7          | Arm - Pierced Hand      |
+| 7          | Arm - Pierced Hand: Drop item held in that hand, Disadvantage to skills requiring that hand for `dice: 1d4` days      |
 | 8          | Arm - Flung Weapon      |
 | 9          | Arm - Slit Wrists       |
 | 10         | Arm - Finger Tipped     |
@@ -180,7 +180,7 @@ Thrown: `dice: [[Critical Tables#^thrown-critical-failure]]`
 | 4          | Arm - Severed Arm       |
 | 5          | Arm - Broken Arm        |
 | 6          | Arm - Compound Fracture |
-| 7          | Arm - Pierced Hand      |
+| 7          | Arm - Pierced Hand: Drop item held in that hand, Disadvantage to skills requiring that hand for `dice: 1d4` days      |
 | 8          | Arm - Split Hand        |
 | 9          | Arm - Severed Hand      |
 | 10         | Arm - Slit Wrists       |
