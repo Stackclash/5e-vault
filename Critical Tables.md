@@ -166,7 +166,7 @@ Unarmed Strike:
 | 4         | `dice: [[Critical Tables#^slashing-torso-critical]]` |
 ^slashing-critical
 
-| dice: 1d11 | Slashing Arm Critical   |
+| dice: 1d12 | Slashing Arm Critical   |
 | ---------- | ----------------------- |
 | 1          | Arm - Lost Fingers      |
 | 2          | Arm - Broken Fingers    |
@@ -179,22 +179,23 @@ Unarmed Strike:
 | 9          | Arm - Severed Hand      |
 | 10         | Arm - Slit Wrists       |
 | 11         | Arm - Finger Tipped     |
+| 12         | Arm - Broken Elbow      |
 ^slashing-arm-critical
 
 | dice: 1d12 | Slashing Head Critical      |
 | ---------- | --------------------------- |
 | 1          | Head - Lost Teeth           |
 | 2          | Head - Severed Nose         |
-| 3          | Head - Pierced Eardrum      |
-| 4          | Head - Pierced Mouth        |
+| 3          | Head - Severed Ear          |
+| 4          | Head - Forehead Cleave      |
 | 5          | Head - Broken Jaw           |
 | 6          | Head - Eye Plucked          |
-| 7          | Head - Pierced Throat       |
+| 7          | Head - Throat Slashed       |
 | 8          | Head - Dazing Blow          |
 | 9          | Head - Knocked Out          |
-| 10         | Head - Knocked Down         |
+| 10         | Head - Scalped              |
 | 11         | Head - Horrific Facial Scar |
-| 12         | Head - Pierced Brain        |
+| 12         | Head - Beheaded             |
 ^slashing-head-critical
 
 | dice: 1d11 | Slashing Leg Critical   |
