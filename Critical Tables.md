@@ -14,11 +14,11 @@ Thrown: `dice: [[Critical Tables#^thrown-critical-failure]]`
 | dice: 1d12 | Arrow Critical                                                                                                                      |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | 1          | Severed Fingers: Drop item held in that hand, Lose `dice: 1d4` fingers, Disadvantage to skills requiring that hand `dice: 2d4` days |
-| 2          | Compound Fracture: Drop item held in that hand and Disadvantage to attacks with that hand for `dice: 2d6` weeks                                                                                                                   |
-| 3          | Pierced Heart: Victim drops to 0 hp with two automatically failed Death Saves                                                                                                                       |
-| 4          | Pierced Hand: Drop item held in that hand, Disadvantage to skills requiring that hand for `dice: 1d4` days                                                                                                                        |
-| 5          | Nethers                                                                                                                             |
-| 6          | Eye Plucked                                                                                                                         |
+| 2          | Compound Fracture: Drop item held in that hand and Disadvantage to attacks with that hand for `dice: 2d6` weeks                     |
+| 3          | Pierced Heart: Victim drops to 0 hp with two automatically failed Death Saves                                                       |
+| 4          | Pierced Hand: Drop item held in that hand, Disadvantage to skills requiring that hand for `dice: 1d4` days                          |
+| 5          | Nethers: Stunned to end of next turn, Allies with line of sight spend Reaction gasping in empathy                                   |
+| 6          | Eye Plucked: All ranged attacks -2 to hit, Advantage to Intimdation during first impressions                                        |
 | 7          | Throat Pierced                                                                                                                      |
 | 8          | Pierced Knee                                                                                                                        |
 | 9          | Pierced Foot                                                                                                                        |
