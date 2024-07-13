@@ -1,8 +1,8 @@
 {
   "players": [
     {
-      "note": "Faerah Duskrane",
-      "path": "3. The Party/Players/Faerah Duskrane.md",
+      "note": null,
+      "path": null,
       "name": "Faerah Duskrane",
       "ac": 16,
       "hp": 38,
@@ -11,8 +11,8 @@
       "player": true
     },
     {
-      "note": "Redgrave",
-      "path": "3. The Party/Players/Redgrave.md",
+      "note": null,
+      "path": null,
       "name": "Redgrave",
       "ac": 23,
       "hp": 45,
@@ -21,8 +21,8 @@
       "player": true
     },
     {
-      "note": "Marin",
-      "path": "3. The Party/Players/Marin.md",
+      "note": null,
+      "path": null,
       "name": "Marin",
       "ac": 19,
       "hp": 51,
@@ -45,7 +45,7 @@
       "path": "3. The Party/Players/Seluvis Felo'melorn.md",
       "name": "Seluvis Felo'melorn",
       "ac": 19,
-      "hp": 47,
+      "hp": 42,
       "level": 6,
       "modifier": 3,
       "player": true
@@ -232,8 +232,8 @@
         "initiative": 13,
         "static": false,
         "modifier": 2,
-        "hp": 17,
-        "currentMaxHP": 17,
+        "hp": 72,
+        "currentMaxHP": 72,
         "ac": 15,
         "currentAC": 15,
         "note": "Yevelda Ovak",
@@ -245,7 +245,7 @@
         "enabled": true,
         "level": 6,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -303,13 +303,13 @@
         "ac": 13,
         "currentAC": 13,
         "id": "ID_ea4988d9eb8b",
-        "currentHP": 0,
+        "currentHP": 10,
         "tempHP": 0,
         "status": [
           "Unconscious"
         ],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "9d8 + 26",
@@ -349,7 +349,7 @@
         "ac": 14,
         "currentAC": 14,
         "id": "ID_88aa8b298849",
-        "currentHP": 27,
+        "currentHP": 17,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -384,8 +384,8 @@
   "hpOverflow": "ignore",
   "additiveTemp": false,
   "rpgSystem": "dnd5e",
-  "logging": false,
-  "logFolder": "/",
+  "logging": true,
+  "logFolder": "2. Scratch Notes",
   "useLegacy": false,
   "diplayPlayerHPValues": true,
   "rollHP": false,
@@ -551,5 +551,5 @@
       ]
     }
   },
-  "rollPlayerInitiatives": 0
+  "rollPlayerInitiatives": 1
 }
