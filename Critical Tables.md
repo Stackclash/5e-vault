@@ -19,8 +19,8 @@ Thrown: `dice: [[Critical Tables#^thrown-critical-failure]]`
 | 4          | Pierced Hand: Drop item held in that hand, Disadvantage to skills requiring that hand for `dice: 1d4` days                          |
 | 5          | Nethers: Stunned to end of next turn, Allies with line of sight spend [[10 Combat#Reactions\|reaction]] gasping in empathy          |
 | 6          | Eye Plucked: All ranged attacks -2 to hit, Advantage to [[Skills#Intimidation\|intimidation]] during first impressions              |
-| 7          | Throat Pierced                                                                                                                      |
-| 8          | Pierced Knee                                                                                                                        |
+| 7          | Throat Pierced: Bleeding `dice: 1d6` damage per round, Can't speak above whisper                                                    |
+| 8          | Pierced Knee: Walking speed is 5 feet and receive no AC Dexterity bonus for `dice: 2d6` weeks, Unable to [[Actions#Dash\|dash]]     |
 | 9          | Pierced Foot                                                                                                                        |
 | 10         | Femoral Artery                                                                                                                      |
 | 11         | Horrific Facial Scar                                                                                                                |
@@ -138,7 +138,7 @@ Thrown: `dice: [[Critical Tables#^thrown-critical-failure]]`
 | 1          | Leg - Femoral Artery    |
 | 2          | Leg - Compound Fracture |
 | 3          | Leg - Pierced Foot      |
-| 4          | Leg - Pierced Knee      |
+| 4          | Leg - Pierced Knee: Walking speed is 5 feet and receive no AC Dexterity bonus for `dice: 2d6` weeks, Unable to Dash      |
 | 5          | Leg - Broken Ankle      |
 | 6          | Leg - Knocked Down      |
 | 7          | Leg - Achilles Tendon   |
