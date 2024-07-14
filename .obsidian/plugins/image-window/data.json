@@ -24,8 +24,8 @@
         "Ricks-MBP.lan": {
           "x": 0,
           "y": 0,
-          "width": 1280,
-          "height": 800,
+          "width": 1920,
+          "height": 1080,
           "fullscreen": true,
           "maximized": false
         }
