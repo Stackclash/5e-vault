@@ -27,7 +27,7 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
 
   keys = keys.concat(page.relationships?.map(r => {
     const name = r.split('|')[0],
-    styleClass = relationshipMapping[r.split('|')[1].split(',')[0]].styleClass
+    styleClass = relationshipMapping[r.split('|')[1]].styleClass
     if (!keys.find(k => k.name === name)) {
       // 65 is unicode for A
       // 97 is unicode for a
