@@ -12,6 +12,7 @@ The buttons call the `insert-templater` command and insert the text to select th
 It will display 2 input menus. The first is to select the NPC to add a relationship with and the second is to select the type of relationship.
 Adding a relationship also adds the opposite relationship to the NPC you create the relationship with. And removing the relationship also removes it from the associated NPC.
 ie. You add a relationship on Bob to denote he is the son of Fred. Fred will get the relationship of father to Bob. This configuration is handled in the `Add Relationship` template.
+The template also looks at the `sex` frontmatter of the connected NPC. If it doesn't exist it'll ask you to clarify which one to use. ie. Fred being either father or mother of Bob
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`

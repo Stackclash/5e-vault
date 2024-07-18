@@ -31,8 +31,8 @@ if (tp.config.run_mode !== 1) {
 
     let otherSelectedRelationship
     if (typeof selectedRelationship.from === 'object' && !Array.isArray(selectedRelationship.from)) {
-        if (tp.frontmatter.gender) {
-            otherSelectedRelationship = selectedRelationship.from[tp.frontmatter.gender]
+        if (tp.frontmatter.sex) {
+            otherSelectedRelationship = selectedRelationship.from[tp.frontmatter.sex]
         } else {
             otherSelectedRelationship = await tp.system.suggester(Object.values(selectedRelationship.from), Object.values(selectedRelationship.from), false, `What relationship does ${tp.config.active_file.basename} have to ${selectedNpc}?`)
         }
@@ -42,6 +42,9 @@ if (tp.config.run_mode !== 1) {
 
     if (selectedNpc && selectedRelationship && otherSelectedRelationship) {
         app.fileManager.processFrontMatter(tp.config.active_file, (fm) => {
+            if (!fm.relationships || !Array.isArray(fm.relationships)) {
+                fm.relationships = []
+            }
             if (!fm.relationships.includes(`${selectedNpc}|${selectedRelationship.to.toLowerCase()}`)) {
                 fm.relationships.push(`${selectedNpc}|${selectedRelationship.to.toLowerCase()}`)
             }
@@ -50,6 +53,9 @@ if (tp.config.run_mode !== 1) {
         let selectedNpcFile = tp.file.find_tfile(selectedNpc)
         if (selectedNpcFile) {
             app.fileManager.processFrontMatter(selectedNpcFile, (fm) => {
+                if (!fm.relationships || !Array.isArray(fm.relationships)) {
+                    fm.relationships = []
+                }
                 if (!fm.relationships.includes(`${tp.config.active_file.basename}|${otherSelectedRelationship.toLowerCase()}`)) {
                     fm.relationships.push(`${tp.config.active_file.basename}|${otherSelectedRelationship.toLowerCase()}`)
                 }
