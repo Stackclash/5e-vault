@@ -7,7 +7,12 @@ relationships: []
 - Meta Bind (to make the buttons work and call the templates)
 
 # How to Use
-Update the `Add Relationship` template to pull the list of NPCs (see templates on where to edit)
+1. Update the `Add Relationship` template to pull the list of NPCs (see templates on where to edit)
+2. Place `Add Relationship` and `Remove Relationship` in your Templater template folder
+3. Place `npcRelationships.js` in your Dataview scripts folder
+4. That's it
+
+# How it Works
 The buttons call the `insert-templater` command and insert the text to select the correct template. Just hit `Enter` after clicking the button.
 It will display 2 input menus. The first is to select the NPC to add a relationship with and the second is to select the type of relationship.
 Adding a relationship also adds the opposite relationship to the NPC you create the relationship with. And removing the relationship also removes it from the associated NPC.
@@ -38,5 +43,5 @@ actions:
   - type: input
     str: "Remove Relationship"
 ```
-> [!div | no-t clean txt-c]
-> `$=await dv.view("npcRelationships", { current: dv.current() })`
+
+`$=await dv.view("npcRelationships", { current: dv.current() })`
