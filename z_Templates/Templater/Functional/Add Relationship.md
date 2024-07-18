@@ -24,11 +24,14 @@ const relationshipMapping = [
 if (tp.config.run_mode !== 1) {
     tR += "This template can only be inserted"
 } else {
-    const currentNpcs = tp.frontmatter.relationships.map(r => r.split('|')[0]),
+    const currentNpcs = tp.frontmatter.relationships && tp.frontmatter.relationships.map(r => r.split('|')[0]),
+
+    // UPDATE THE PATH TO YOUR NPCs HERE!!!
     npcs = dv.pages('"4. World Almanac/NPCs"').filter(n => !currentNpcs.includes(n.file.name)),
     selectedNpc = await tp.system.suggester(npcs.map(n => n.file.name), npcs.map(p => p.file.name), false, "What NPC should be used for the relationship?"),
     selectedRelationship = await tp.system.suggester(relationshipMapping.map(r => r.to), relationshipMapping, false, `What relationship does ${selectedNpc} have to ${tp.config.active_file.basename}?`)
 
+    // Get relationship for related NPC
     let otherSelectedRelationship
     if (typeof selectedRelationship.from === 'object' && !Array.isArray(selectedRelationship.from)) {
         if (tp.frontmatter.gender) {
@@ -40,8 +43,12 @@ if (tp.config.run_mode !== 1) {
         otherSelectedRelationship = selectedRelationship.from
     }
 
+    // Update current NPC and related NPC with relationship
     if (selectedNpc && selectedRelationship && otherSelectedRelationship) {
         app.fileManager.processFrontMatter(tp.config.active_file, (fm) => {
+            if (!fm.relationships || !Array.isArray(fm.relationships)) {
+                fm.relationships = []
+            }
             if (!fm.relationships.includes(`${selectedNpc}|${selectedRelationship.to.toLowerCase()}`)) {
                 fm.relationships.push(`${selectedNpc}|${selectedRelationship.to.toLowerCase()}`)
             }
@@ -50,6 +57,9 @@ if (tp.config.run_mode !== 1) {
         let selectedNpcFile = tp.file.find_tfile(selectedNpc)
         if (selectedNpcFile) {
             app.fileManager.processFrontMatter(selectedNpcFile, (fm) => {
+                if (!fm.relationships || !Array.isArray(fm.relationships)) {
+                    fm.relationships = []
+                }
                 if (!fm.relationships.includes(`${tp.config.active_file.basename}|${otherSelectedRelationship.toLowerCase()}`)) {
                     fm.relationships.push(`${tp.config.active_file.basename}|${otherSelectedRelationship.toLowerCase()}`)
                 }
