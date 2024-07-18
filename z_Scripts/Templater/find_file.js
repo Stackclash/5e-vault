@@ -1,6 +1,5 @@
 const dv = app.plugins.getPlugin("dataview").api
-const path = require('path')
-// const MiniSearch = require(path.join(app.vault.adapter.getBasePath(), 'node_modules/minisearch/dist/cjs/index.cjs'))
+const MiniSearch = self.require.import('node_modules/minisearch/dist/cjs/index.cjs')
 
 module.exports = (text, searchPath) => {
     const pages = dv.pages(`"${searchPath}"`).array().map((p,i) => ({id: i,name: p.file.name, path: p.file.path, alias: p.aliases && p.aliases.length ? p.aliases[0] : ''}))
