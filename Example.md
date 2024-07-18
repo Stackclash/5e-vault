@@ -7,7 +7,7 @@ relationships: []
 - Meta Bind (to make the buttons work and call the templates)
 
 # How to Use
-Update the `Add Relationship` and `Remove Relationship` templates to pull the list of NPCs (see templates on where to edit)
+Update the `Add Relationship` template to pull the list of NPCs (see templates on where to edit)
 The buttons call the `insert-templater` command and insert the text to select the correct template. Just hit `Enter` after clicking the button.
 It will display 2 input menus. The first is to select the NPC to add a relationship with and the second is to select the type of relationship.
 Adding a relationship also adds the opposite relationship to the NPC you create the relationship with. And removing the relationship also removes it from the associated NPC.
