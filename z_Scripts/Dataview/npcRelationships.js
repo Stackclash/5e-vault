@@ -1,4 +1,5 @@
-// recursive through relationships?
+// This object is the configuration for the script
+// It is used to define the mermaid relationship string and style class for each relationship type
 const relationshipMapping = {
     son: { string: '--Son -->', styleClass: 'family'},
     daughter: { string: '--Daughter -->', styleClass: 'family'},
@@ -17,6 +18,9 @@ const relationshipMapping = {
 
 const backticks = "```"
 
+// This function iterates through the relationships of a page and their children
+// and builds an array of unique keys to use for mermaid (A-Z) for each page and its relationships
+// This results in an array of [ {name: 'NpcName1', key: 'A'}, {name: 'NpcName2', key: 'B'} ]
 function buildRelationshipKeys(page, charIndex=0, keys=[]) {
   if (!keys.find(k => k.name === page.file.name)) {
     keys.push({name: page.file.name, key: String.fromCharCode(65 + charIndex)})
@@ -27,7 +31,8 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
 
   keys = keys.concat(page.relationships?.map(r => {
     const name = r.split('|')[0],
-    styleClass = relationshipMapping[r.split('|')[1]].styleClass
+    styleClass = relationshipMapping[r.split('|')[1].split(',')[0]].styleClass
+    // Makes sure there isn't already a key for this NPC
     if (!keys.find(k => k.name === name)) {
       // 65 is unicode for A
       // 97 is unicode for a
@@ -44,6 +49,7 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
     }
   }).filter( Boolean ))
 
+  // If new NPC keys were added iterate through their relationships
   if (initialLength !== keys.length) {
 
     keys = keys.concat(page.relationships.filter(r => r.name !== page.file.name).flatMap(r => {
@@ -69,6 +75,9 @@ function getKey(name, keys) {
   return keys.find(k => k.name === name).key
 }
 
+// This function iterates through the relationships of a page and their children
+// and builds an array of relationship strings to use for mermaid
+// This results in an array of [ {from: 'NpcName1', to: 'NpcName2', string: 'A --Son --> B'} ]
 function buildRelationshipArray(page, keys, relationships=[]) {
   const initialLength = relationships.length
 
@@ -103,10 +112,15 @@ function buildRelationshipArray(page, keys, relationships=[]) {
 }
 
 let keys = buildRelationshipKeys(input.current)[0]
+// removes duplicates that may happen
 keys = keys.filter((key, i) => keys.findIndex(k => k.name === key.name) === i)
 
 const relationshipString = buildRelationshipArray(input.current, keys).map(i => i.string).join('')
 
+// This creates the mermaid diagram
+// It uses the keys array to create the nodes and the relationship array to create the relationships
+// It also creates a classDef and class for each node to style
+// Add more classDef and class if you need to style different types of relationships
 dv.paragraph(
   `${backticks}mermaid
 graph LR
