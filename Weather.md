@@ -1,5 +1,6 @@
 ---
-useCalendarium: false
+obsidianUIMode: preview
+useCalendarium: true
 months:
   - Winterwane
   - Rainmoot
@@ -15,24 +16,27 @@ seasons:
   - Summer
 ---
 ```meta-bind-button
+style: primary
+label: Reload
+actions:
+  - type: command
+    command: dataview:dataview-rebuild-current-view
 ```
+
 **Use Calendarium:** `INPUT[toggle:useCalendarium]`
 **Months:** `INPUT[inlineList:months]`
 **Seasons:** `INPUT[inlineList:seasons]`
 
 ```dataviewjs
-const weatherGenerator = (currentTFile) => {
-    const useCalendarium = app.vault.metadataCache.getFileCache(currentTFile)
-    console.log('HEY')
-    if (currentPage.useCalendarium) {
-        const calendarName = dv.page(dv.page('Configuration').active_world).calendar
-        const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
-        
-        app.fileManager.processFrontMatter(currentTFile, (fm) => {
-            fm.months = calendarConfig.months.map((month, i) => month.name)
-        })
-    }
+const useCalendarium = dv.current().useCalendarium
+console.log(app)
+if (useCalendarium) {
+    const currentTFile = app.workspace.getActiveFile()
+    const calendarName = dv.page(dv.page('Configuration').active_world).calendar
+    const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
+    
+    app.fileManager.processFrontMatter(currentTFile, (fm) => {
+        fm.months = calendarConfig.months.map((month, i) => month.name)
+    })
 }
-
-app.vault.on('modify', weatherGenerator)
 ```
