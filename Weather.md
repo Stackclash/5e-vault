@@ -1,6 +1,9 @@
 ---
 useCalendarium: false
 months:
+  - Winterwane
+  - Rainmoot
+  - Palesun
   - Highsun
   - Firewane
   - Lowsun
@@ -9,20 +12,26 @@ months:
   - Fellnight
 seasons:
   - Spring
+  - Summer
+  - Fall
 ---
 **Use Calendarium:** `INPUT[toggle:useCalendarium]`
 **Months:** `INPUT[inlineList:months]`
 **Seasons:** `INPUT[inlineList:seasons]`
 
 ```dataviewjs
-const currentPage = dv.current()
-if (currentPage.useCalendarium) {
-    const currentTFile = app.vault.getFileByPath(currentPage.file.path)
-    const calendarName = dv.page(dv.page('Configuration').active_world).calendar
-    const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
-    
-    app.fileManager.processFrontMatter(currentTFile, (fm) => {
-        fm.months = calendarConfig.months.map((month, i) => month.name)
-    })
+const weatherGenerator = (currentTFile) => {
+    const currentPage = dv.current()
+    console.log('HEY', currentPage.useCalendarium, currentTFile)
+    if (currentPage.useCalendarium) {
+        const calendarName = dv.page(dv.page('Configuration').active_world).calendar
+        const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
+        
+        app.fileManager.processFrontMatter(currentTFile, (fm) => {
+            fm.months = calendarConfig.months.map((month, i) => month.name)
+        })
+    }
 }
+
+app.vault.on('modify', weatherGenerator)
 ```
