@@ -28,5 +28,6 @@
   "obsidian-javascript-init",
   "obsidian-admonition",
   "obsidian-banners",
-  "modules"
+  "modules",
+  "js-engine"
 ]

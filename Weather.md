@@ -35,6 +35,18 @@ actions:
 **Use Calendarium:** `INPUT[toggle:useCalendarium]`
 **Seasons:** `INPUT[inlineList:seasons]`
 
+# Months
+```meta-bind-button
+label: "Add Month"
+id: "add-month"
+style: primary
+actions:
+  - type: updateMetadata
+    bindTarget: months
+    evaluate: true
+    value: console.log(x)
+```
+
 ```dataviewjs
 dv.table(['Month', 'Length'], dv.current().months.map((month, i) => [`\`INPUT[text:months[${i}].name]\``, `\`INPUT[number:months[${i}].length]\``]))
 ```
@@ -50,4 +62,9 @@ if (currentPage.useCalendarium) {
         fm.months = calendarConfig.months.map((month, i) => ({name: month.name, length: month.length}))
     })
 }
+```
+# Seasons
+
+```dataviewjs
+dv.table(['Season'], dv.current().seasons.map((month, i) => [`\`INPUT[text:seasons[${i}].name]\``]))
 ```
