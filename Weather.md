@@ -1,6 +1,9 @@
 ---
 obsidianUIMode: preview
 useCalendarium: true
+seasons:
+  - Spring
+  - Summer
 months:
   - name: Winterwane
     length: 40
@@ -20,9 +23,6 @@ months:
     length: 40
   - name: Fellnight
     length: 40
-seasons:
-  - Spring
-  - Summer
 ---
 ```meta-bind-button
 style: primary
@@ -44,7 +44,7 @@ actions:
   - type: updateMetadata
     bindTarget: months
     evaluate: true
-    value: console.log(x)
+    value: x.concat([{}])
 ```
 
 ```dataviewjs
