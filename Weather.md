@@ -13,8 +13,9 @@ months:
 seasons:
   - Spring
   - Summer
-  - Fall
 ---
+```meta-bind-button
+```
 **Use Calendarium:** `INPUT[toggle:useCalendarium]`
 **Months:** `INPUT[inlineList:months]`
 **Seasons:** `INPUT[inlineList:seasons]`
