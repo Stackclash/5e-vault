@@ -33,8 +33,11 @@ actions:
 ```
 
 **Use Calendarium:** `INPUT[toggle:useCalendarium]`
-**Months:** `INPUT[inlineList:months]`
 **Seasons:** `INPUT[inlineList:seasons]`
+
+```dataviewjs
+dv.table(['Month', 'Length'], dv.current().months.map((month, i) => [`\`INPUT[text:months[${i}].name]\``, `\`INPUT[number:months[${i}].length]\``]))
+```
 
 ```dataviewjs
 const currentPage = dv.current()
