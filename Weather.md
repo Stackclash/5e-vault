@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-useCalendarium: true
+useCalendarium: false
 seasons:
   - Spring
   - Summer
@@ -44,7 +44,7 @@ actions:
   - type: updateMetadata
     bindTarget: months
     evaluate: true
-    value: x.concat([{}])
+    value: console.log(app)
 ```
 
 ```dataviewjs
