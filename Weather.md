@@ -28,15 +28,20 @@ actions:
 **Seasons:** `INPUT[inlineList:seasons]`
 
 ```dataviewjs
-const useCalendarium = dv.current().useCalendarium
+const currentPage = dv.current()
 console.log(app)
-if (useCalendarium) {
+if (currentPage.useCalendarium) {
     const currentTFile = app.workspace.getActiveFile()
     const calendarName = dv.page(dv.page('Configuration').active_world).calendar
     const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
     
     app.fileManager.processFrontMatter(currentTFile, (fm) => {
-        fm.months = calendarConfig.months.map((month, i) => month.name)
+        fm.months = calendarConfig.months.map((month, i) => {
+          console.log(month)
+          return month.name
+        })
     })
 }
+
+currentPage.months.forEach(month => )
 ```
