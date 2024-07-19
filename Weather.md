@@ -1,9 +1,6 @@
 ---
-useCalendarium: true
+useCalendarium: false
 months:
-  - Winterwane
-  - Rainmoot
-  - Palesun
   - Highsun
   - Firewane
   - Lowsun
@@ -20,13 +17,12 @@ seasons:
 ```dataviewjs
 const currentPage = dv.current()
 if (currentPage.useCalendarium) {
-
+    const currentTFile = app.vault.getFileByPath(currentPage.file.path)
+    const calendarName = dv.page(dv.page('Configuration').active_world).calendar
+    const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
+    
+    app.fileManager.processFrontMatter(currentTFile, (fm) => {
+        fm.months = calendarConfig.months.map((month, i) => month.name)
+    })
 }
-const currentTFile = app.vault.getFileByPath(currentPage.file.path)
-const calendarName = dv.page(dv.page('Configuration').active_world).calendar
-const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
-
-app.fileManager.processFrontMatter(currentTFile, (fm) => {
-	fm.months = calendarConfig.months.map((month, i) => month.name)
-})
 ```
