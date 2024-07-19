@@ -21,8 +21,8 @@ seasons:
 
 ```dataviewjs
 const weatherGenerator = (currentTFile) => {
-    const currentPage = dv.current()
-    console.log('HEY', currentPage.useCalendarium, currentTFile)
+    const useCalendarium = app.vault.metadataCache.getFileCache(currentTFile)
+    console.log('HEY')
     if (currentPage.useCalendarium) {
         const calendarName = dv.page(dv.page('Configuration').active_world).calendar
         const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
