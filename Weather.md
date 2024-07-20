@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 useCalendarium: false
 seasons:
-  - Spring
-  - Summer
+  - name: ""
+    length: 0
 months:
   - name: Winterwane
     length: 40
@@ -41,7 +41,11 @@ actions:
   - type: inlineJS
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+        if (!Array.isArray(fm.months)) {
+          fm.months = [{name: '', length}]
+        } else {
           fm.months = [...fm.months, {name: '', length: 0}]
+        }
       })
 ```
 ```meta-bind-button
@@ -53,7 +57,7 @@ actions:
   - type: inlineJS
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-          fm.months.splice(-1)
+        fm.months.splice(-1)
       })
 ```
 ```dataviewjs
@@ -82,7 +86,11 @@ actions:
   - type: inlineJS
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-          fm.seasons = [...fm.seasons, {name: '', length: 0}]
+        if (!Array.isArray(fm.seasons)) {
+          fm.seasons = [{name: ''}]
+        } else {
+          fm.seasons = [...fm.seasons, {name: ''}]
+        }
       })
 ```
 ```meta-bind-button
@@ -94,9 +102,43 @@ actions:
   - type: inlineJS
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-          fm.seasons.splice(-1)
+        fm.seasons.splice(-1)
       })
 ```
 ```dataviewjs
 dv.table(['Season'], dv.current().seasons.map((season, i) => [`\`INPUT[text:seasons[${i}].name]\``]))
+```
+
+# Climates
+`BUTTON[add-climate,remove-climate]`
+```meta-bind-button
+label: Add Climate
+hidden: true
+id: add-climate
+style: primary
+actions:
+  - type: inlineJS
+    code: |-
+      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+        if (!Array.isArray(fm.climates)) {
+          fm.climates = [{name: ''}]
+        } else {
+          fm.climates = [...fm.climates, {name: ''}]
+        }
+      })
+```
+```meta-bind-button
+label: Remove Climate
+hidden: true
+id: remove-climate
+style: primary
+actions:
+  - type: inlineJS
+    code: |-
+      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+        fm.climates.splice(-1)
+      })
+```
+```dataviewjs
+dv.table(['Climate'], dv.current().climates.map((climate, i) => [`\`INPUT[text:climates[${i}].name]\``]))
 ```
