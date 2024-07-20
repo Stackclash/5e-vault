@@ -36,8 +36,21 @@ actions:
 **Seasons:** `INPUT[inlineList:seasons]`
 
 # Months
-
-
+```meta-bind-button
+label: Add Month
+icon: ""
+hidden: true
+class: ""
+tooltip: ""
+id: add-month
+style: primary
+actions:
+  - type: inlineJS
+    code: |-
+      app.fileManager.processFrontMatter(currentTFile, (fm) => {
+          fm.months = [...fm.months, {name: '', length: 0}]
+      })
+```
 ```dataviewjs
 dv.table(['Month', 'Length'], dv.current().months.map((month, i) => [`\`INPUT[text:months[${i}].name]\``, `\`INPUT[number:months[${i}].length]\``]))
 ```
