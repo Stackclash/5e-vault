@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-useCalendarium: true
+useCalendarium: false
 seasons:
   - Spring
   - Summer
@@ -19,10 +19,6 @@ months:
     length: 40
   - name: Redfall
     length: 40
-  - name: Snowmoot
-    length: 40
-  - name: Fellnight
-    length: 40
 ---
 ```meta-bind-button
 style: primary
@@ -36,19 +32,29 @@ actions:
 **Seasons:** `INPUT[inlineList:seasons]`
 
 # Months
+`BUTTON[add-month,remove-month]`
 ```meta-bind-button
 label: Add Month
-icon: ""
 hidden: true
-class: ""
-tooltip: ""
 id: add-month
 style: primary
 actions:
   - type: inlineJS
     code: |-
-      app.fileManager.processFrontMatter(currentTFile, (fm) => {
+      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
           fm.months = [...fm.months, {name: '', length: 0}]
+      })
+```
+```meta-bind-button
+label: Remove Month
+hidden: true
+id: remove-month
+style: primary
+actions:
+  - type: inlineJS
+    code: |-
+      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+          fm.months.splice(-1)
       })
 ```
 ```dataviewjs
