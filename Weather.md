@@ -57,9 +57,8 @@ style: primary
 actions:
   - type: updateMetadata
     bindTarget: months
-    evaluate: false
-    value: "[...x, {name: '', value: 0}]"
-
+    evaluate: true
+    value: [...x, {name: '', value: 0}]
 ```
 ```dataviewjs
 dv.table(['Month', 'Length'], dv.current().months.map((month, i) => [`\`INPUT[text:months[${i}].name]\``, `\`INPUT[number:months[${i}].length]\``]))
