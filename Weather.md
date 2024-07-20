@@ -29,7 +29,6 @@ actions:
 ```
 
 **Use Calendarium:** `INPUT[toggle:useCalendarium]`
-**Seasons:** `INPUT[inlineList:seasons]`
 
 # Months
 `BUTTON[add-month,remove-month]`
@@ -58,10 +57,6 @@ actions:
       })
 ```
 ```dataviewjs
-dv.table(['Month', 'Length'], dv.current().months.map((month, i) => [`\`INPUT[text:months[${i}].name]\``, `\`INPUT[number:months[${i}].length]\``]))
-```
-
-```dataviewjs
 const currentPage = dv.current()
 if (currentPage.useCalendarium) {
     const currentTFile = app.workspace.getActiveFile()
@@ -72,9 +67,36 @@ if (currentPage.useCalendarium) {
         fm.months = calendarConfig.months.map((month, i) => ({name: month.name, length: month.length}))
     })
 }
-```
-# Seasons
 
+dv.table(['Month', 'Length'], dv.current().months.map((month, i) => [`\`INPUT[text:months[${i}].name]\``, `\`INPUT[number:months[${i}].length]\``]))
+```
+
+# Seasons
+`BUTTON[add-season,remove-season]`
+```meta-bind-button
+label: Add Season
+hidden: true
+id: add-season
+style: primary
+actions:
+  - type: inlineJS
+    code: |-
+      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+          fm.seasons = [...fm.seasons, {name: '', length: 0}]
+      })
+```
+```meta-bind-button
+label: Remove Season
+hidden: true
+id: remove-season
+style: primary
+actions:
+  - type: inlineJS
+    code: |-
+      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+          fm.seasons.splice(-1)
+      })
+```
 ```dataviewjs
-dv.table(['Season'], dv.current().seasons.map((month, i) => [`\`INPUT[text:seasons[${i}].name]\``]))
+dv.table(['Season'], dv.current().seasons.map((season, i) => [`\`INPUT[text:seasons[${i}].name]\``]))
 ```
