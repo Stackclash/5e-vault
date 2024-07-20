@@ -87,7 +87,7 @@ if (currentPage.useCalendarium) {
     })
 }
 
-dv.table(['Month', 'Length'], dv.current().months.map((month, i) => [`\`INPUT[text:months[${i}].name]\``, `\`INPUT[number:months[${i}].length]\``]))
+dv.table(['#', 'Month', 'Length'], dv.current().months.map((month, i) => [(i+1).toString(), `\`INPUT[text:months[${i}].name]\``, `\`INPUT[number:months[${i}].length]\``]))
 ```
 
 # Seasons
@@ -175,4 +175,5 @@ dv.table(['Climate', 'Season Tempearture Flux', 'Precipitation Modifier', 'Wind 
 
 # Thoughts about how to calculate weather
 1. Seasons determine how close temperature gets to the min and max of a climate
-2. 
+2. There needs to a mechanic that weather doesn't switch from one extreme to the other day to day
+3. 
