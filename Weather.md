@@ -1,7 +1,14 @@
 ---
 obsidianUIMode: preview
 useCalendarium: false
-seasons: []
+seasons:
+  - name: Spring
+    tempMod: 0
+  - name: Summer
+    tempMod: 0
+  - name: Fall
+    tempMod: 0
+  - name: Winter
 months:
   - name: Winterwane
     length: 40
@@ -17,7 +24,11 @@ months:
     length: 40
   - name: Redfall
     length: 40
-climates: []
+climates:
+  - name: ""
+    seasonFlux: 0
+    precipMod: 0
+    windMod: 0
 ---
 ```meta-bind-button
 style: primary
@@ -86,9 +97,9 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.seasons)) {
-          fm.seasons = [{name: '', tempMod: 0, precipMod: 0, windMod: 0}]
+          fm.seasons = [{name: '', tempMod: 0}]
         } else {
-          fm.seasons = [...fm.seasons, {name: '', tempMod: 0, precipMod: 0, windMod: 0}]
+          fm.seasons = [...fm.seasons, {name: '', tempMod: 0}]
         }
       })
 ```
@@ -105,12 +116,10 @@ actions:
       })
 ```
 ```dataviewjs
-dv.table(['Season', 'Temperature Modifier', 'Precipitation Modifier', 'Wind Modifier'], dv.current().seasons.map((season, i) => {
+dv.table(['Season', 'Temperature Modifier'], dv.current().seasons.map((season, i) => {
   return [
     `\`INPUT[text:seasons[${i}].name]\``,
     `\`INPUT[text:seasons[${i}].tempMod]\``,
-    `\`INPUT[text:seasons[${i}].precipMod]\``,
-    `\`INPUT[text:seasons[${i}].windMod]\``,
   ]
 }))
 ```
@@ -127,9 +136,9 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.climates)) {
-          fm.climates = [{name: ''}]
+          fm.climates = [{name: '', seasonFlux: 0, precipMod: 0, windMod: 0}]
         } else {
-          fm.climates = [...fm.climates, {name: ''}]
+          fm.climates = [...fm.climates, {name: '', seasonFlux: 0, precipMod: 0, windMod: 0}]
         }
       })
 ```
@@ -146,5 +155,12 @@ actions:
       })
 ```
 ```dataviewjs
-dv.table(['Climate'], dv.current().climates.map((climate, i) => [`\`INPUT[text:climates[${i}].name]\``]))
+dv.table(['Climate', 'Season Tempearture Flux', 'Precipitation Modifier', 'Wind Modifier'], dv.current().climates.map((climate, i) => {
+  return [
+    `\`INPUT[text:climates[${i}].name]\``,
+    `\`INPUT[text:climates[${i}].seasonFlux]\``,
+    `\`INPUT[text:climates[${i}].precipMod]\``,
+    `\`INPUT[text:climates[${i}].windMod]\``,
+  ]
+}))
 ```
