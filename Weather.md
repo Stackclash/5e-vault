@@ -87,7 +87,7 @@ if (currentPage.useCalendarium) {
     })
 }
 
-dv.table(['#', 'Month', 'Length'], dv.current().months.map((month, i) => [(i+1).toString(), `\`INPUT[text:months[${i}].name]\``, `\`INPUT[number:months[${i}].length]\``]))
+dv.table(['Number', 'Month', 'Length'], dv.current().months.map((month, i) => [(i+1).toString(), `\`INPUT[text:months[${i}].name]\``, `\`INPUT[number:months[${i}].length]\``]))
 ```
 
 # Seasons
@@ -102,9 +102,9 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.seasons)) {
-          fm.seasons = [{name: '', tempMod: 0}]
+          fm.seasons = [{name: '', tempMod: 0, begin: '', end: ''}]
         } else {
-          fm.seasons = [...fm.seasons, {name: '', tempMod: 0}]
+          fm.seasons = [...fm.seasons, {name: '', tempMod: 0, begin: '', end: ''}]
         }
       })
 ```
@@ -121,10 +121,12 @@ actions:
       })
 ```
 ```dataviewjs
-dv.table(['Season', 'Temperature Modifier'], dv.current().seasons.map((season, i) => {
+dv.table(['Season', 'Temperature Modifier', 'Beginning', 'Ending'], dv.current().seasons.map((season, i) => {
   return [
     `\`INPUT[text:seasons[${i}].name]\``,
     `\`INPUT[text:seasons[${i}].tempMod]\``,
+    `\`INPUT[text:seasons[${i}].begin]\``,
+    `\`INPUT[text:seasons[${i}].end]\``,
   ]
 }))
 ```
