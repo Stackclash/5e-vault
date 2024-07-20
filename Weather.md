@@ -29,11 +29,7 @@ months:
     length: 40
   - name: Fellnight
     length: 40
-climates:
-  - name: ""
-    seasonFlux: 0
-    precipMod: 0
-    windMod: 0
+climates: []
 ---
 ```meta-bind-button
 style: primary
