@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-useCalendarium: false
+useCalendarium: true
 seasons:
   - name: Spring
     tempMod: 0
@@ -9,6 +9,7 @@ seasons:
   - name: Fall
     tempMod: 0
   - name: Winter
+    tempMod: 0
 months:
   - name: Winterwane
     length: 40
@@ -23,6 +24,10 @@ months:
   - name: Lowsun
     length: 40
   - name: Redfall
+    length: 40
+  - name: Snowmoot
+    length: 40
+  - name: Fellnight
     length: 40
 climates:
   - name: ""
