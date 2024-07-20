@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
 useCalendarium: false
-seasons:
-  - name: ""
-    length: 0
+seasons: []
 months:
   - name: Winterwane
     length: 40
@@ -19,6 +17,7 @@ months:
     length: 40
   - name: Redfall
     length: 40
+climates: []
 ---
 ```meta-bind-button
 style: primary
