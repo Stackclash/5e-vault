@@ -169,3 +169,10 @@ dv.table(['Climate', 'Season Tempearture Flux', 'Precipitation Modifier', 'Wind 
   ]
 }))
 ```
+
+# To Do
+1. Need config table to determine beginning and end of seasons in the configured months
+
+# Thoughts about how to calculate weather
+1. Seasons determine how close temperature gets to the min and max of a climate
+2. 
