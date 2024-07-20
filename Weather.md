@@ -46,7 +46,21 @@ actions:
     evaluate: true
     value: app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => fm.months = fm.months.concat([{}]))
 ```
+```meta-bind-button
+label: This is a button
+icon: ""
+hidden: false
+class: ""
+tooltip: ""
+id: ""
+style: primary
+actions:
+  - type: updateMetadata
+    bindTarget: months
+    evaluate: false
+    value: "[...x, {name: '', value: 0}]"
 
+```
 ```dataviewjs
 dv.table(['Month', 'Length'], dv.current().months.map((month, i) => [`\`INPUT[text:months[${i}].name]\``, `\`INPUT[number:months[${i}].length]\``]))
 ```
