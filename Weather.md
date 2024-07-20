@@ -86,9 +86,9 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.seasons)) {
-          fm.seasons = [{name: ''}]
+          fm.seasons = [{name: '', tempMod: 0, precipMod: 0, windMod: 0}]
         } else {
-          fm.seasons = [...fm.seasons, {name: ''}]
+          fm.seasons = [...fm.seasons, {name: '', tempMod: 0, precipMod: 0, windMod: 0}]
         }
       })
 ```
@@ -105,7 +105,14 @@ actions:
       })
 ```
 ```dataviewjs
-dv.table(['Season'], dv.current().seasons.map((season, i) => [`\`INPUT[text:seasons[${i}].name]\``]))
+dv.table(['Season', 'Temperature Modifier', 'Precipitation Modifier', 'Wind Modifier'], dv.current().seasons.map((season, i) => {
+  return [
+    `\`INPUT[text:seasons[${i}].name]\``,
+    `\`INPUT[text:seasons[${i}].tempMod]\``,
+    `\`INPUT[text:seasons[${i}].precipMod]\``,
+    `\`INPUT[text:seasons[${i}].windMod]\``,
+  ]
+}))
 ```
 
 # Climates
