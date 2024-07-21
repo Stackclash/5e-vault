@@ -83,7 +83,15 @@ if (currentPage.useCalendarium) {
     })
 }
 
-dv.table(['Number', 'Month', 'Length'], dv.current().months.map((month, i) => [(i+1).toString(), `\`INPUT[text:months[${i}].name]\``, `\`INPUT[number:months[${i}].length]\``]))
+dv.table([
+  'Number',
+  'Month',
+  'Length'
+], dv.current().months.map((month, i) => [
+  (i+1).toString(),
+  `\`INPUT[text:months[${i}].name]\``,
+  `\`INPUT[number:months[${i}].length]\``
+]))
 ```
 
 # Seasons
@@ -117,7 +125,12 @@ actions:
       })
 ```
 ```dataviewjs
-dv.table(['Season', 'Temperature Modifier', 'Beginning', 'Ending'], dv.current().seasons.map((season, i) => {
+dv.table([
+  'Season',
+  'Temperature Modifier',
+  'Beginning',
+  'Ending'
+], dv.current().seasons.map((season, i) => {
   return [
     `\`INPUT[text:seasons[${i}].name]\``,
     `\`INPUT[text:seasons[${i}].tempMod]\``,
@@ -139,9 +152,9 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.climates)) {
-          fm.climates = [{name: '', seasonFlux: 0, precipMod: 0, windMod: 0}]
+          fm.climates = [{name: '', seasonFlux: 0, precipMod: 0, windMod: 0, tempHigh: 0, tempLow: 0}]
         } else {
-          fm.climates = [...fm.climates, {name: '', seasonFlux: 0, precipMod: 0, windMod: 0}]
+          fm.climates = [...fm.climates, {name: '', seasonFlux: 0, precipMod: 0, windMod: 0, tempHigh: 0, tempLow: 0}]
         }
       })
 ```
@@ -158,12 +171,21 @@ actions:
       })
 ```
 ```dataviewjs
-dv.table(['Climate', 'Season Tempearture Flux', 'Precipitation Modifier', 'Wind Modifier'], dv.current().climates.map((climate, i) => {
+dv.table([
+  'Climate',
+  'Season Tempearture Flux',
+  'Precipitation Modifier',
+  'Wind Modifier',
+  'Temperature High',
+  'Temperature Low'
+], dv.current().climates.map((climate, i) => {
   return [
     `\`INPUT[text:climates[${i}].name]\``,
     `\`INPUT[text:climates[${i}].seasonFlux]\``,
     `\`INPUT[text:climates[${i}].precipMod]\``,
     `\`INPUT[text:climates[${i}].windMod]\``,
+    `\`INPUT[text:climates[${i}].tempHigh]\``,
+    `\`INPUT[text:climates[${i}].tempLow]\``,
   ]
 }))
 ```
