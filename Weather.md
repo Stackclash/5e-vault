@@ -200,4 +200,7 @@ dv.table([
 3. Maybe create a table of wind and precipitation types with changeable rules (ie. snow when temp is below 32 degrees)
 4. I'll need to create functions for the following:
 	- calculate distance to end or beginning of season
-	- 
+
+# Resources
+- [[06 Adventure Environments#Weather|Dungeon Master Guide - Weather]]
+- 
