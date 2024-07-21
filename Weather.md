@@ -197,6 +197,7 @@ dv.table([
 # Thoughts about how to calculate weather
 1. Seasons determine how close temperature gets to the min and max of a climate
 2. There needs to be a mechanic that weather doesn't switch from one extreme to the other day to day
-3. I'll need to create functions for the following:
+3. Maybe create a table of wind and precipitation types with changeable rules (ie. snow when temp is below 32 degrees)
+4. I'll need to create functions for the following:
 	- calculate distance to end or beginning of season
 	- 
