@@ -122,7 +122,7 @@ dv.table(['Season', 'Temperature Modifier', 'Beginning', 'Ending'], dv.current()
     `\`INPUT[text:seasons[${i}].name]\``,
     `\`INPUT[text:seasons[${i}].tempMod]\``,
     `\`INPUT[text:seasons[${i}].begin]\``,
-    `\`INPUT[text:seasons[${i}].end]\``
+    `\`INPUT[text:seasons[${i}].end]\``,
   ]
 }))
 ```
@@ -139,9 +139,9 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.climates)) {
-          fm.climates = [{name: '', seasonFlux: 0, precipMod: 0, windMod: 0, tempLow: 0, tempHigh: 0}]
+          fm.climates = [{name: '', seasonFlux: 0, precipMod: 0, windMod: 0}]
         } else {
-          fm.climates = [...fm.climates, {name: '', seasonFlux: 0, precipMod: 0, windMod: 0, tempLow: 0, tempHigh: 0}]
+          fm.climates = [...fm.climates, {name: '', seasonFlux: 0, precipMod: 0, windMod: 0}]
         }
       })
 ```
@@ -158,21 +158,19 @@ actions:
       })
 ```
 ```dataviewjs
-dv.table(['Climate', 'Season Tempearture Flux', 'Precipitation Modifier', 'Wind Modifier', 'Temperature Low', 'Temperature High'], dv.current().climates.map((climate, i) => {
+dv.table(['Climate', 'Season Tempearture Flux', 'Precipitation Modifier', 'Wind Modifier'], dv.current().climates.map((climate, i) => {
   return [
     `\`INPUT[text:climates[${i}].name]\``,
     `\`INPUT[text:climates[${i}].seasonFlux]\``,
     `\`INPUT[text:climates[${i}].precipMod]\``,
     `\`INPUT[text:climates[${i}].windMod]\``,
-    `\`INPUT[text:climates[${i}].tempLow]\``,
-    `\`INPUT[text:climates[${i}].tempHigh]\``,
   ]
 }))
 ```
 
 # To Do
-1. Need a config table to determine beginning and end of seasons in the configured months
-2. Need a config table to denote high and low temperatures for a climate
+- [x] Need a config table to determine beginning and end of seasons in the configured months
+- [ ] Need a config table to denote high and low temperatures for a climate
 
 # Thoughts about how to calculate weather
 1. Seasons determine how close temperature gets to the min and max of a climate
