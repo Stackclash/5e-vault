@@ -21,10 +21,10 @@ Thrown: `dice: [[Critical Tables#^thrown-critical-failure]]`
 | 6          | Eye Plucked: All ranged attacks -2 to hit, Advantage to [[Skills#Intimidation\|intimidation]] during first impressions              |
 | 7          | Throat Pierced: Bleeding `dice: 1d6` damage per round, Can't speak above whisper                                                    |
 | 8          | Pierced Knee: Walking speed is 5 feet and receive no AC Dexterity bonus for `dice: 2d6` weeks, Unable to [[Actions#Dash\|dash]]     |
-| 9          | Pierced Foot                                                                                                                        |
-| 10         | Femoral Artery                                                                                                                      |
-| 11         | Horrific Facial Scar                                                                                                                |
-| 12         | Knocked Down                                                                                                                        |
+| 9          | Pierced Foot: Unable to Dash and Disadvantage to skills requiring footwork for `dice: 1d6` days                                     |
+| 10         | Femoral Artery: Bleeding `dice: 1d12` HP/round                                                                                      |
+| 11         | Horrific Facial Scar: Advantage to [[Skills#Intimidation\|intimidation]] during first impressions                                   |
+| 12         | Knocked Down: Knocked [[Conditions#Prone\|prone]]                                                                                   |
 ^arrow-critical
 
 | dice: 1d4 | Bludgeoning Critical                                    |
