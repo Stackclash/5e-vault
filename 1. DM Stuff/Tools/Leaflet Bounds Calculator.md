@@ -1,5 +1,5 @@
 ---
-image: z_Assets/Locations/Ruins of Berez.webp
+image: z_Assets/Locations/Maps/Tsolenka Pass.webp
 distance_measure: 69
 units: 100
 actual_units_distance: 42
