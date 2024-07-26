@@ -15,6 +15,8 @@ INPUT[imageSuggester(optionQuery("z_Assets")):image]
 **Actual Units Distance:** `INPUT[number:actual_units_distance]`
 
 ```dataviewjs
+const {imageDimensionsFromStream} = await self.require.import('https://esm.sh/image-dimensions')
+dv.paragraph(typeof imageDimensionsFromStream)
 const path = require('path')
 const image = new Image()
 image.src = path.join(app.vault.adapter.getBasePath(), dv.current().image)
