@@ -15,7 +15,11 @@ INPUT[imageSuggester(optionQuery("z_Assets")):image]
 **Actual Units Distance:** `INPUT[number:actual_units_distance]`
 
 ```dataviewjs
-const image = new Image()
+const sizeOf = self.require('https://esm.sh/image-size')
+console.log(sizeOf)
+const img = sizeOf(document.querySelector(".mb-image-card-image").href)
+dv.paragraph(JSON.stringify(img))
+// const image = new Image()
 // image.src = `${app.vault.adapter.getBasePath()}/${dv.current().image}`
 // const measure = dv.current().distance_measure,
 // units = dv.current().units,
