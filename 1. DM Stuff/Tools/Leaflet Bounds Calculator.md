@@ -15,8 +15,9 @@ INPUT[imageSuggester(optionQuery("z_Assets")):image]
 **Actual Units Distance:** `INPUT[number:actual_units_distance]`
 
 ```dataviewjs
+const path = require('path')
 const image = new Image()
-image.src = `${app.vault.adapter.getBasePath()}/${dv.current().image}`
+image.src = path.join(app.vault.adapter.getBasePath(), dv.current().image)
 const measure = dv.current().distance_measure,
 units = dv.current().units,
 actualUnitsDistance = dv.current().actual_units_distance,
