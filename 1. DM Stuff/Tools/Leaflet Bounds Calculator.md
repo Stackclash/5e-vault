@@ -16,20 +16,20 @@ INPUT[imageSuggester(optionQuery("z_Assets")):image]
 
 ```dataviewjs
 const image = new Image()
-image.src = `${app.vault.adapter.getBasePath()}/${dv.current().image}`
-const measure = dv.current().distance_measure,
-units = dv.current().units,
-actualUnitsDistance = dv.current().actual_units_distance,
+// image.src = `${app.vault.adapter.getBasePath()}/${dv.current().image}`
+// const measure = dv.current().distance_measure,
+// units = dv.current().units,
+// actualUnitsDistance = dv.current().actual_units_distance,
 // img = sizeOf(document.querySelector(".mb-image-card-image").href),
 // height = parseFloat(img.height/(actualUnitsDistance ? ((measure * (actualUnitsDistance/units))/units) : (measure/units))).toFixed(2),
 // width = parseFloat(img.width/(actualUnitsDistance ? ((measure * (actualUnitsDistance/units))/units) : (measure/units))).toFixed(2)
 
-dv.paragraph(`test: ${(actualUnitsDistance ? true : false)}`)
-dv.paragraph(`height, width: ${img.naturalHeight}, ${img.naturalWidth}`)
-dv.paragraph(`test original: ${(measure/units)}`)
-dv.paragraph(`test new: ${((measure * (actualUnitsDistance/units))/units)}`)
+// dv.paragraph(`test: ${(actualUnitsDistance ? true : false)}`)
+// dv.paragraph(`height, width: ${img.naturalHeight}, ${img.naturalWidth}`)
+// dv.paragraph(`test original: ${(measure/units)}`)
+// dv.paragraph(`test new: ${((measure * (actualUnitsDistance/units))/units)}`)
 // dv.paragraph(`bounds: [\\[0,0], [${height},${width}\\]]`)
 // dv.paragraph(`lat: ${height/2}`)
 // dv.paragraph(`long: ${width/2}`)
-dv.paragraph(`zoom: ${parseFloat((height*width)*0.0013144922773579).toFixed(0)}`)
+// dv.paragraph(`zoom: ${parseFloat((height*width)*0.0013144922773579).toFixed(0)}`)
 ```
