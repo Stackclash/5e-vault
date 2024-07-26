@@ -18,7 +18,6 @@ INPUT[imageSuggester(optionQuery("z_Assets")):image]
 // const sizeOf = await self.require.import("https://esm.sh/lodash-es"),
 const image = new Image()
 image.src = `${app.vault.adapter.getBasePath()}/${dv.current().image}`
-console.log(image.width, image.height)
 measure = dv.current().distance_measure,
 units = dv.current().units,
 actualUnitsDistance = dv.current().actual_units_distance,
