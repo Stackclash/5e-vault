@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 date: 2024-07-27
-summary:
+summary: 
 fc-date: 973-2-21
-fc-end: 
+fc-end: 973-2-22
 timelines:
   - COS
 aat-render-enabled: true
@@ -12,6 +12,8 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-07-27.md|2024-07-27]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Places of Interest/Tsolenka Pass.md|Tsolenka Pass]]"
 ---
 > [!infobox]
 > ## Info
@@ -41,5 +43,5 @@ Description
 
 ## What Happened
 - [[Seluvis Felo'melorn]] investigates from the top of the guard tower at [[Tsolenka Pass]]
-- [[Redgrave]] decodes chapter 2 from the Tome of Strahd
-- 
+- [[Redgrave]] decodes chapter 2 from the Tome of Strahd while the party has a long rest
+- The party reads chapter 2 from the Tome of Strahd
