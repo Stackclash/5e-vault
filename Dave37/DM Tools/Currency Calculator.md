@@ -1,22 +1,22 @@
 ---
 title: Currency Calculator
 aliases: 
-amountCoin: 5300
-CoinsCopper: 0
-CoinsSilver: 30
-CoinsElectrum: 0
-CoinsGold: 50
+amountCoin: 572500
+CoinsCopper: 32500
+CoinsSilver: 21000
+CoinsElectrum: 6600
+CoinsGold: 
 CoinsPlatinum: 0
 CoinsAdamantine: 0
-PartySize: 4
+PartySize: 1
 metric: 0.4536
 unit: kg
 ---
 ## Input
 
-| Party Size                                  |                    Copper                     |                    Silver                     |                    Electrum                     |                    Gold                     |                    Platinum                     |                    Adamantine                     | Metric? |
-| ------------------------------------------- |:---------------------------------------------:|:---------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------------:|:-:|
-| `INPUT[number(class(nb-mb-css)):PartySize]` | `INPUT[number(class(nb-mb-css)):CoinsCopper]` | `INPUT[number(class(nb-mb-css)):CoinsSilver]` | `INPUT[number(class(nb-mb-css)):CoinsElectrum]` | `INPUT[number(class(nb-mb-css)):CoinsGold]` | `INPUT[number(class(nb-mb-css)):CoinsPlatinum]` | `INPUT[number(class(nb-mb-css)):CoinsAdamantine]` |`INPUT[toggle(offValue(1), onValue(0.4536)):metric]` |
+| Party Size                                  |                    Copper                     |                    Silver                     |                    Electrum                     |                    Gold                     |                    Platinum                     |                    Adamantine                     |                       Metric?                        |
+| ------------------------------------------- | :-------------------------------------------: | :-------------------------------------------: | :---------------------------------------------: | :-----------------------------------------: | :---------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------------: |
+| `INPUT[number(class(nb-mb-css)):PartySize]` | `INPUT[number(class(nb-mb-css)):CoinsCopper]` | `INPUT[number(class(nb-mb-css)):CoinsSilver]` | `INPUT[number(class(nb-mb-css)):CoinsElectrum]` | `INPUT[number(class(nb-mb-css)):CoinsGold]` | `INPUT[number(class(nb-mb-css)):CoinsPlatinum]` | `INPUT[number(class(nb-mb-css)):CoinsAdamantine]` | `INPUT[toggle(offValue(1), onValue(0.4536)):metric]` |
 
 ## Amount
 
