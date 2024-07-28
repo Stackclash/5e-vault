@@ -223,7 +223,7 @@
         "enabled": true,
         "level": 6,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -293,10 +293,10 @@
         "rollHP": false
       }
     ],
-    "state": false,
+    "state": true,
     "name": "Encounter",
     "round": 1,
-    "logFile": "2. Scratch Notes/1720908195415 - Encounter.md",
+    "logFile": "2. Scratch Notes/1722143410726 - Encounter.md",
     "rollHP": false
   },
   "condense": false,
