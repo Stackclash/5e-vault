@@ -41,4 +41,5 @@ Description
 
 ## What Happened
 - [[Seluvis Felo'melorn]] investigates from the top of the guard tower at [[Tsolenka Pass]]
+- [[Redgrave]] decodes chapter 2 from the Tome of Strahd
 - 
