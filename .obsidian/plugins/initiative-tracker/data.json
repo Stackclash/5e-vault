@@ -163,7 +163,7 @@
     "creatures": [
       {
         "name": "Faerah Duskrane",
-        "initiative": 18,
+        "initiative": 22,
         "static": false,
         "modifier": 6,
         "hp": 38,
@@ -185,7 +185,7 @@
       },
       {
         "name": "Redgrave",
-        "initiative": 9,
+        "initiative": 14,
         "static": false,
         "modifier": -1,
         "hp": 45,
@@ -207,7 +207,7 @@
       },
       {
         "name": "Marin",
-        "initiative": 9,
+        "initiative": 18,
         "static": false,
         "modifier": 3,
         "hp": 51,
@@ -251,7 +251,7 @@
       },
       {
         "name": "Seluvis Felo'melorn",
-        "initiative": 6,
+        "initiative": 18,
         "static": false,
         "modifier": 3,
         "hp": 42,
