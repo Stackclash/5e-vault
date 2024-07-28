@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2024-07-13
-summary:
+summary: 
 fc-date: 973-2-21
 fc-end: 
 timelines:
@@ -12,6 +12,8 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-07-13.md|2024-07-13]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]"
 ---
 > [!infobox]
 > ## Info
