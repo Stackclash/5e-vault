@@ -5,8 +5,8 @@ unit: km
 fam: 5
 TP_dist: 12
 roll: 50
-angle: 28.25068320156025
-comp_angle: 12.25068320156025
+angle: 30.24893809050722
+comp_angle: 14.24893809050722
 ---
 # `=this.title`
 
