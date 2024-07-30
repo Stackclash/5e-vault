@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
-class: cleric
-level: 3
+class: wizard
+level: ""
 school: ""
 ---
 Class: `INPUT[inlineSelect(option('','Any'),option('wizard','Wizard'),option('sorcerer','Sorcerer'),option('cleric','Cleric'),option('druid','Druid'),option('warlock','Warlock'),option('fighter','Fighter'),option('rogue','Rogue'),option('artificer','Artificer'),option('bard','Bard'),option('paladin','Paladin'),option('ranger','Ranger'),option('monk','Monk'),option('barbarian','Barbarian')):class]`
@@ -20,5 +20,5 @@ if (currentPage.level) {
 if (currentPage.school) {
     spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/school\/${currentPage.school}`).test(t)))
 }
-dv.list(spells.map(p => p.file.link))
+spells.reduce
 ```
