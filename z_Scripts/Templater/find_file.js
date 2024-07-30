@@ -1,7 +1,8 @@
 const dv = app.plugins.getPlugin("dataview").api
-const MiniSearch = self.require.import('node_modules/minisearch/dist/cjs/index.cjs')
+const MiniSearch = await self.require.import('https://esm.sh/minisearch')
 
 module.exports = (text, searchPath) => {
+    console.log(MiniSearch)
     const pages = dv.pages(`"${searchPath}"`).array().map((p,i) => ({id: i,name: p.file.name, path: p.file.path, alias: p.aliases && p.aliases.length ? p.aliases[0] : ''}))
     const minisearch = new MiniSearch({
         fields: ['name', 'alias'],
