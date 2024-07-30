@@ -27,8 +27,6 @@ journals.forEach((p,i) => {
 
 history.forEach(h => {
     dv.header(2, h.location)
-    dv.header(3, `${h.start}${h.end ? `- ${h.end}` : ''}`)
+    dv.header(3, `${h.start}${h.end ? ` - ${h.end}` : ''}`)
 })
-
-console.log(app)
 ```
