@@ -8,7 +8,6 @@ kanban-plugin: board
 
 - [ ] [[Create flowchart of campaign]]
 - [ ] [[Insert travel times into Settlements template]]
-- [ ] [[Weather Generation]]
 - [ ] [[AI templates for notes]]
 - [ ] [[Fill out info for CoS Region]]
 - [ ] [[Fill out info for CoS PoI]]
@@ -20,10 +19,12 @@ kanban-plugin: board
 - [ ] [[Create Event Template]]
 - [ ] [[Update PoI template to not include Ruler and other unrelated data]]
 - [ ] [[Find where to include various DM tools]]
+- [ ] Create script to generate list of items sold at a Shop
 
 
 ## Research
 
+- [ ] [[Weather Generation]]
 
 
 ## In Progress

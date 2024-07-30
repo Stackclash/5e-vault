@@ -1,0 +1,3 @@
+- [ ] Use [Weather Generator](https://docs.google.com/spreadsheets/d/1x9pTHiW0ldBiWTfGaOdjzVEl1QBbT2xh9rW1jo8LNIU/edit?usp=sharing) or [RPG Weather](https://docs.google.com/spreadsheets/d/1x9pTHiW0ldBiWTfGaOdjzVEl1QBbT2xh9rW1jo8LNIU/edit?gid=1396814895#gid=1396814895) for inspiration on logic
+- [ ] Script should save result to Session Log or another page to keep track of weather for that day
+- [ ] Configuration page should take Fantasy Calendar into consideration for Months vs Seasons
