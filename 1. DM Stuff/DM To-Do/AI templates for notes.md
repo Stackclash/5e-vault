@@ -1,0 +1,1 @@
+[Obsidian - Create Random Notes with ChatGPT Templates](https://www.youtube.com/watch?v=X9tlAZC6DSU&t=111s)
