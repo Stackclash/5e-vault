@@ -20,5 +20,10 @@ if (currentPage.level) {
 if (currentPage.school) {
     spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/school\/${currentPage.school}`).test(t)))
 }
-spells.reduce
+spells.toArray().reduce((accum, spell) => {
+    const level = spell.tags.find(tag => new RegExp('spell\/level\/.*').test(tag)).match(new RegExp('spell\/level\/(.+)$'))[1]
+    const school = spell.tags.find(tag => new RegExp('spell\/school\/.*').test(tag)).match(new RegExp('spell\/school\/(.+)$'))[1]
+
+    console.log(spell.file.name, level, school)
+}, [])
 ```
