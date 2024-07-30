@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 statblock: true
 name: Marin
-level: 6
+level: 7
 ac: 19
-hp: 17
+hp: 59
 modifier: 3
 proficiency: 3
 url: https://dndbeyond.com/characters/103873194
@@ -56,7 +56,7 @@ background:
 classes: 
   - name: "[[5. Mechanics/Classes/Warlock.md|Warlock]]"
     subClass: "[[5. Mechanics/Classes/Warlock The Hexblade.md|Warlock The Hexblade]]"
-    level: 6
+    level: 7
 abilityScores: 
     strength: 
       value: 7
@@ -263,8 +263,8 @@ classSpells:
       max: 
       - 0
       - 0
-      - 2
       - 0
+      - 2
       - 0
       - 0
       - 0
@@ -557,7 +557,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Bag Of Colding.md|Bag Of Colding]]"
+  - name: "[[5. Mechanics/Items/Bag Of Beans.md|Bag Of Beans]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
@@ -623,7 +623,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Bag Of Colding.md|Bag Of Colding]]"
+  - name: "[[5. Mechanics/Items/Bag Of Beans.md|Bag Of Beans]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
@@ -689,7 +689,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Bag Of Colding.md|Bag Of Colding]]"
+  - name: "[[5. Mechanics/Items/Bag Of Beans.md|Bag Of Beans]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1

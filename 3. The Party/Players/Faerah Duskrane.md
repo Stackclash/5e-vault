@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 statblock: true
 name: Faerah Duskrane
-level: 6
+level: 7
 ac: 16
-hp: 38
+hp: 52
 modifier: 6
 proficiency: 3
 url: https://dndbeyond.com/characters/105635812
@@ -53,7 +53,7 @@ background:
 classes: 
   - name: "[[5. Mechanics/Classes/Rogue.md|Rogue]]"
     subClass: "[[5. Mechanics/Classes/Rogue Swashbuckler.md|Rogue Swashbuckler]]"
-    level: 6
+    level: 7
 abilityScores: 
     strength: 
       value: 8
@@ -257,6 +257,8 @@ classFeatures:
     description: "You can take a bonus action on each of your turns to take the Dash, Disengage, or Hide action."
   - name: "Uncanny Dodge"
     description: "When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you."
+  - name: "Evasion"
+    description: "When you are subjected to an effect that allows you to make a DEX saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail."
   - name: "Expertise"
     description: "Your proficiency bonus is doubled for any ability check you make that uses any of the chosen proficiencies."
 feats: []
@@ -339,6 +341,17 @@ inventory:
     quantity: 1
     canEquip: true
     equipped: false
+    canAttune: false
+    attuned: false
+    damage: "1d8"
+    damageType: "Piercing"
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Rapier.md|Rapier]]"
+    type: "Weapon"
+    rarity: "Common"
+    quantity: 1
+    canEquip: true
+    equipped: true
     canAttune: false
     attuned: false
     damage: "1d8"

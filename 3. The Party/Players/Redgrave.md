@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 statblock: true
 name: Redgrave
-level: 6
+level: 7
 ac: 23
-hp: 34
+hp: 52
 modifier: -1
 proficiency: 3
 url: https://dndbeyond.com/characters/29682199
@@ -59,7 +59,7 @@ background:
 classes: 
   - name: "[[5. Mechanics/Classes/Cleric.md|Cleric]]"
     subClass: "[[5. Mechanics/Classes/Cleric Forge Domain.md|Cleric Forge Domain]]"
-    level: 6
+    level: 7
 abilityScores: 
     strength: 
       value: 15
@@ -275,17 +275,17 @@ classSpells:
       - 4
       - 3
       - 3
-      - 0
+      - 1
       - 0
       - 0
       - 0
       - 0
       - 0
       used: 
-      - 1
-      - 1
+      - 0
       - 1
       - 0
+      - 1
       - 0
       - 0
       - 0
@@ -310,20 +310,14 @@ classSpells:
     - name: "[[5. Mechanics/Spells/Healing Word.md|Healing Word]]"
       level: 1
       isPrepared: true
-    - name: "[[5. Mechanics/Spells/Detect Evil And Good.md|Detect Evil And Good]]"
+    - name: "[[5. Mechanics/Spells/Shield Of Faith.md|Shield Of Faith]]"
       level: 1
       isPrepared: true
     - name: "[[5. Mechanics/Spells/Spiritual Weapon.md|Spiritual Weapon]]"
       level: 2
       isPrepared: true
-    - name: "[[5. Mechanics/Spells/Zone Of Truth.md|Zone Of Truth]]"
-      level: 2
-      isPrepared: true
     - name: "[[5. Mechanics/Spells/Silence.md|Silence]]"
       level: 2
-      isPrepared: true
-    - name: "[[5. Mechanics/Spells/Spirit Guardians.md|Spirit Guardians]]"
-      level: 3
       isPrepared: true
     - name: "[[5. Mechanics/Spells/Daylight.md|Daylight]]"
       level: 3
@@ -333,6 +327,15 @@ classSpells:
       isPrepared: true
     - name: "[[5. Mechanics/Spells/Remove Curse.md|Remove Curse]]"
       level: 3
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Spirit Guardians.md|Spirit Guardians]]"
+      level: 3
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Mass Healing Word.md|Mass Healing Word]]"
+      level: 3
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Control Water.md|Control Water]]"
+      level: 4
       isPrepared: true
 currencies: 
     cp: 0
@@ -351,6 +354,17 @@ inventory:
     attuned: true
     damage: ""
     damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Sun Blade.md|Sun Blade]]"
+    type: "Weapon"
+    rarity: "Rare"
+    quantity: 1
+    canEquip: true
+    equipped: true
+    canAttune: true
+    attuned: true
+    damage: "1d8"
+    damageType: "Slashing"
     armorClass: ""
   - name: "[[5. Mechanics/Items/Heavy Crossbow.md|Heavy Crossbow]]"
     type: "Armor"
@@ -390,7 +404,7 @@ inventory:
     rarity: "Common"
     quantity: 1
     canEquip: true
-    equipped: true
+    equipped: false
     canAttune: false
     attuned: false
     damage: "1d6"
