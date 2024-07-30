@@ -1,5 +1,6 @@
 function getDate(app, date) {
 	const calendarConfig = getCalendarConfig(app)
+	let month, day, year
 
 	if (typeof date === 'string') {
         const dateArray = date.split('-')
