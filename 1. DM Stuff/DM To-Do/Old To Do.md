@@ -1,0 +1,33 @@
+- [ ] Create flowchart of campaign (watch [video]())
+- [ ] Insert travel times into Settlements template (watch [video](https://www.youtube.com/watch?v=X6AT9G0uV-Y&t=1805s))
+- [ ] Look into weather generation (watch [video](https://www.youtube.com/watch?v=mDSHjLJyyTs&t=222s))
+- [ ] Look into using AI for generating notes (watch [Obsidian - Create Random Notes with ChatGPT Templates](https://www.youtube.com/watch?v=X9tlAZC6DSU&t=111s), [Obsidian - Creating TTRPG Calculators with DataviewJS and ChatGPT](https://www.youtube.com/watch?v=LgljhGhNWCA))
+- [ ] Fill out information for all:
+	- [ ] Regions
+	- [ ] Places of Interest
+	- [ ] Settlements
+	- [ ] Shops
+	- [ ] NPCs
+	- [ ] Groups
+- [ ] Create maps for:
+	- [ ] Worlds
+	- [ ] Regions
+	- [ ] Settlements
+- [x] Fix Relationships map on NPCs to be centered
+- [x] Fix Inventory table on Shops to fit with ITS Theme info boxes (callouts)
+- [ ] Create Event template and folder location in World Almanac
+- [ ] Create separate template for Place of Interest
+- [ ] Update Quests to have a list of checkboxes to be completed. Pull in Session Journals
+- [x] Fix ITS infoboxes to be fixed width (no scrollbars)
+- [x] Put Session Journal summary textboxes in callouts
+- [x] Make Soundboard a template to avoid Dataview from reloading and turning off music
+- [ ] Integrate the following into the Vault
+	- [ ] Session Log Timeline with Fantasy Dates
+	- [ ] Spells List
+	- [ ] Locations Visited
+		- [ ] Fix logic where the `fc-end` is not used
+	- [ ] Travel Times Buttons and Table
+- [ ] Create script and configuration page for daily weather
+	- [ ] Use [Weather Generator](https://docs.google.com/spreadsheets/d/1x9pTHiW0ldBiWTfGaOdjzVEl1QBbT2xh9rW1jo8LNIU/edit?usp=sharing) or [RPG Weather](https://docs.google.com/spreadsheets/d/1x9pTHiW0ldBiWTfGaOdjzVEl1QBbT2xh9rW1jo8LNIU/edit?gid=1396814895#gid=1396814895) for inspiration on logic
+	- [ ] Script should save result to Session Log or another page to keep track of weather for that day
+	- [ ] Configuration page should take Fantasy Calendar into consideration for Months vs Seasons

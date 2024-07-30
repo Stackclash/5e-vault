@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Create flowchart of campaign
+- [ ] [[Create flowchart of campaign]]
 - [ ] Insert travel times into Settlements template
 - [ ] Weather Generation
 - [ ] AI templates for notes
@@ -38,6 +38,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"new-note-folder":"1. DM Stuff/DM To-Do"}
 ```
 %%
