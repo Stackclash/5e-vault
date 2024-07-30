@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 statblock: true
 name: Seluvis Felo'melorn
-level: 6
-ac: 19
-hp: 42
+level: 7
+ac: 23
+hp: 49
 modifier: 3
 proficiency: 3
 url: https://dndbeyond.com/characters/103214475
@@ -60,7 +60,7 @@ background:
 classes: 
   - name: "[[5. Mechanics/Classes/Artificer.md|Artificer]]"
     subClass: "[[5. Mechanics/Classes/Artificer Armorer.md|Artificer Armorer]]"
-    level: 6
+    level: 7
 abilityScores: 
     strength: 
       value: 8
@@ -274,6 +274,8 @@ classFeatures:
     description: "With thieves’ tools or artisan’s tools in hand, you can magically create one set of artisan’s tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again."
   - name: "Tool Expertise"
     description: "Your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool."
+  - name: "Flash of Genius"
+    description: "When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add {{modifier:int#signed}} to the roll. You can use this feature {{modifier:int@min:1#unsigned}} times, regaining uses on finishing a long rest."
 feats: []
 raceSpells: 
   - name: "Prestidigitation"
@@ -285,7 +287,7 @@ classSpells:
     spellSlots: 
       max: 
       - 4
-      - 2
+      - 3
       - 0
       - 0
       - 0
@@ -294,7 +296,7 @@ classSpells:
       - 0
       - 0
       used: 
-      - 4
+      - 1
       - 2
       - 0
       - 0
@@ -313,14 +315,11 @@ classSpells:
     - name: "[[5. Mechanics/Spells/Absorb Elements.md|Absorb Elements]]"
       level: 1
       isPrepared: true
-    - name: "[[5. Mechanics/Spells/Detect Magic.md|Detect Magic]]"
-      level: 1
-      isPrepared: true
     - name: "[[5. Mechanics/Spells/Purify Food And Drink.md|Purify Food And Drink]]"
       level: 1
       isPrepared: true
-    - name: "[[5. Mechanics/Spells/Aid.md|Aid]]"
-      level: 2
+    - name: "[[5. Mechanics/Spells/Feather Fall.md|Feather Fall]]"
+      level: 1
       isPrepared: true
     - name: "[[5. Mechanics/Spells/Invisibility.md|Invisibility]]"
       level: 2
@@ -328,7 +327,10 @@ classSpells:
     - name: "[[5. Mechanics/Spells/Web.md|Web]]"
       level: 2
       isPrepared: true
-    - name: "[[5. Mechanics/Spells/Spider Climb.md|Spider Climb]]"
+    - name: "[[5. Mechanics/Spells/Levitate.md|Levitate]]"
+      level: 2
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Blur.md|Blur]]"
       level: 2
       isPrepared: true
 currencies: 
@@ -360,7 +362,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Chain Mail.md|Chain Mail]]"
+  - name: "[[5. Mechanics/Items/Shield.md|Shield]]"
     type: "Armor"
     rarity: "Common"
     quantity: 1
@@ -370,7 +372,18 @@ inventory:
     attuned: false
     damage: ""
     damageType: ""
-    armorClass: 16
+    armorClass: 2
+  - name: "[[5. Mechanics/Items/Contagion Plate.md|Contagion Plate]]"
+    type: "Armor"
+    rarity: "Common"
+    quantity: 1
+    canEquip: true
+    equipped: true
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: 18
   - name: "[[5. Mechanics/Items/Handaxe.md|Handaxe]]"
     type: "Weapon"
     rarity: "Common"
@@ -459,17 +472,6 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Tinkers Tools.md|Tinkers Tools]]"
-    type: "Other Gear"
-    rarity: "Common"
-    quantity: 1
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
   - name: "[[5. Mechanics/Items/Thieves Tools.md|Thieves Tools]]"
     type: "Other Gear"
     rarity: "Common"
@@ -482,6 +484,17 @@ inventory:
     damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Herbalism Kit.md|Herbalism Kit]]"
+    type: "Other Gear"
+    rarity: "Common"
+    quantity: 1
+    canEquip: false
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: ""
+  - name: "[[5. Mechanics/Items/Tinkers Tools.md|Tinkers Tools]]"
     type: "Other Gear"
     rarity: "Common"
     quantity: 1
@@ -514,6 +527,28 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: 12
+  - name: "[[5. Mechanics/Items/Chain Mail.md|Chain Mail]]"
+    type: "Armor"
+    rarity: "Common"
+    quantity: 1
+    canEquip: true
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: 16
+  - name: "[[5. Mechanics/Items/Contagion Plate.md|Contagion Plate]]"
+    type: "Armor"
+    rarity: "Common"
+    quantity: 1
+    canEquip: true
+    equipped: false
+    canAttune: false
+    attuned: false
+    damage: ""
+    damageType: ""
+    armorClass: 18
   - name: "[[5. Mechanics/Items/Hunting Trap.md|Hunting Trap]]"
     type: "Other Gear"
     rarity: "Common"
@@ -536,17 +571,6 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Contagion Plate.md|Contagion Plate]]"
-    type: "Armor"
-    rarity: "Common"
-    quantity: 1
-    canEquip: true
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: 18
   - name: "[[5. Mechanics/Items/Hammer.md|Hammer]]"
     type: "Other Gear"
     rarity: "Common"
@@ -572,7 +596,7 @@ inventory:
   - name: "[[5. Mechanics/Items/Rations 1 Day.md|Rations 1 Day]]"
     type: "Other Gear"
     rarity: "Common"
-    quantity: 10
+    quantity: 7
     canEquip: false
     equipped: false
     canAttune: false
