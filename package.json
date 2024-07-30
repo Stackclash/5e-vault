@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "gray-matter": "^4.0.3",
-    "image-size": "^1.1.1",
-    "minisearch": "^6.3.0",
-    "moment": "^2.30.1"
-  }
-}

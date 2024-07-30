@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-const matter = require('gray-matter')
+const matter = require('https://esm.sh/gray-matter')
 
 // Create reliable logging
 

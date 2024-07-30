@@ -1,4 +1,4 @@
-const matter = require('gray-matter')
+const matter = require('https://esm.sh/gray-matter')
 const fs = require('fs')
 const getAllFiles = require('./z_Scripts/Templater/get_all_files')
 

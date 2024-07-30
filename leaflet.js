@@ -1,5 +1,5 @@
-const sizeOf = require('image-size')
-const grayMatter = require('gray-matter')
+const sizeOf = require('https://esm.sh/image-size')
+const grayMatter = require('https://esm.sh/gray-matter')
 
 const frontmatter = grayMatter.read('1. DM Stuff/Tools/Leaflet Bounds Calculator.md').data
 
