@@ -29,5 +29,6 @@
   "obsidian-admonition",
   "obsidian-banners",
   "modules",
-  "js-engine"
+  "js-engine",
+  "obsidian-kanban"
 ]
