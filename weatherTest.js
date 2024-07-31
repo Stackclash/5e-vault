@@ -79,33 +79,24 @@ const getTempBaseOnPrecentThroughSeason = (climate, date) => {
     const tempFluxToClosestSeason = percentToNextSeason - .5
     const prevTempBase = getTempBaseTemp(climate, getPrevSeason(date).name)
     const nextTempBase = getTempBaseTemp(climate, getNextSeason(date).name)
-    console.log({
-        currentTempBase,
-        percentToNextSeason,
-        tempFluxToClosestSeason,
-        prevTempBase,
-        nextTempBase,
-        calculation: tempFluxToClosestSeason < 0 ? (currentTempBase - prevTempBase) * tempFluxToClosestSeason : (currentTempBase - nextTempBase) * tempFluxToClosestSeason
-    })
-    return tempFluxToClosestSeason < 0 ? currentTempBase + (currentTempBase - prevTempBase) * tempFluxToClosestSeason : currentTempBase + (currentTempBase - nextTempBase) * tempFluxToClosestSeason
+    return tempFluxToClosestSeason < 0 ? currentTempBase + (prevTempBase - currentTempBase) * tempFluxToClosestSeason : currentTempBase + (nextTempBase - currentTempBase) * tempFluxToClosestSeason
 }
 
 const getTempRange = (climate, date) => {
-    const currentTempBase = getTempBaseTemp(climate, getSeason(date).name)
-    const percentToNextSeason = getPercentThroughSeason(date)
-    const nextTempBase = getTempBaseTemp(climate, getNextSeason(date).name)
+    const currentTempBase = getTempBaseOnPrecentThroughSeason(climate, date)
     const randomTempFlux = parseFloat((Math.random() * tempFlux).toFixed(2))
-    console.log(currentTempBase, percentToNextSeason, nextTempBase, randomTempFlux)
     return { 
-        low: currentTempBase,
-        high: currentTempBase
+        low: currentTempBase - randomTempFlux,
+        high: currentTempBase + randomTempFlux
     }
 }
 
 // console.log(getTempRange('Coast','5-5-213'))
-const date = '5-20-213'
-console.log(`Season: ${getSeason(date).name}`)
-console.log(`Next Season: ${getNextSeason(date).name}`)
-console.log(`Prev Season: ${getPrevSeason(date).name}`)
+const date = '6-5-213'
+console.log('Climate:', climates.find(climate => climate.name === 'Coast'))
+console.log(`Season:`, getSeason(date))
+console.log(`Next Season:`, getNextSeason(date))
+console.log(`Prev Season:`, getPrevSeason(date))
 console.log(`Percent Through Season: ${getPercentThroughSeason(date)}`)
 console.log(`Temp Base Based on Percent Through Season: ${getTempBaseOnPrecentThroughSeason('Coast', date)}`)
+console.log(`Temp Range: ${JSON.stringify(getTempRange('Coast', date))}`)
