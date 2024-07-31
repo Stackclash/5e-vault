@@ -79,7 +79,8 @@ const getTempBaseOnPrecentThroughSeason = (climate, date) => {
     const tempFluxToClosestSeason = percentToNextSeason - .5
     const prevTempBase = getTempBaseTemp(climate, getPrevSeason(date).name)
     const nextTempBase = getTempBaseTemp(climate, getNextSeason(date).name)
-    return 
+    console.log(currentTempBase, percentToNextSeason, tempFluxToClosestSeason, prevTempBase, nextTempBase)
+    return tempFluxToClosestSeason < 0 ? currentTempBase - (currentTempBase - prevTempBase) * tempFluxToClosestSeason : currentTempBase + (nextTempBase - currentTempBase) * tempFluxToClosestSeason
 }
 
 const getTempRange = (climate, date) => {
