@@ -32,7 +32,49 @@ months:
   - name: Fellnight
     length: 40
 climates:
-  - name: ""
+  - name: Coast
+    seasonFlux: 0
+    precipProb: 0
+    windHigh: 0
+    windLow: 0
+    tempHigh: 0
+    tempLow: 0
+  - name: Desert
+    seasonFlux: 0
+    precipProb: 0
+    windHigh: 0
+    windLow: 0
+    tempHigh: 0
+    tempLow: 0
+  - name: Forest
+    seasonFlux: 0
+    precipProb: 0
+    windHigh: 0
+    windLow: 0
+    tempHigh: 0
+    tempLow: 0
+  - name: Grassland
+    seasonFlux: 0
+    precipProb: 0
+    windHigh: 0
+    windLow: 0
+    tempHigh: 0
+    tempLow: 0
+  - name: Hill
+    seasonFlux: 0
+    precipProb: 0
+    windHigh: 0
+    windLow: 0
+    tempHigh: 0
+    tempLow: 0
+  - name: Mountain
+    seasonFlux: 0
+    precipProb: 0
+    windHigh: 0
+    windLow: 0
+    tempHigh: 0
+    tempLow: 0
+  - name: Open Water
     seasonFlux: 0
     precipProb: 0
     windHigh: 0
