@@ -45,7 +45,7 @@ precipitations:
 winds:
   - name: ""
     rules: []
-hasErrors: false
+hasErrors: true
 ---
 ```meta-bind-button
 style: primary
@@ -96,9 +96,11 @@ dv.current().months.forEach((month, i) => {
   if (month.name.length === 0) errorMessages.push(`Month number ${i} should have a name`)
 })
 if (errorMessages.length > 0) {
-  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-    fm.hasErrors = true
-  })
+  if (!dv.current().hasErrors) {
+    app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+      fm.hasErrors = true
+    })
+  }
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Month Errors\n${errorLines}`)
 } else if (dv.current().hasErrors) {
@@ -166,9 +168,11 @@ actions:
 const errorMessages = []
 dv.current().seasons.forEach((season, i) => {})
 if (errorMessages.length > 0) {
-  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-    fm.hasErrors = true
-  })
+  if (!dv.current().hasErrors) {
+    app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+      fm.hasErrors = true
+    })
+  }
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Season Errors\n${errorLines}`)
 } else if (dv.current().hasErrors) {
@@ -233,9 +237,11 @@ actions:
 const errorMessages = []
 dv.current().climates.forEach((climate, i) => {})
 if (errorMessages.length > 0) {
-  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-    fm.hasErrors = true
-  })
+  if (!dv.current().hasErrors) {
+    app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+      fm.hasErrors = true
+    })
+  }
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Climate Errors\n${errorLines}`)
 } else if (dv.current().hasErrors) {
@@ -302,9 +308,11 @@ actions:
 const errorMessages = []
 dv.current().precipitations.forEach((precipitation, i) => {})
 if (errorMessages.length > 0) {
-  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-    fm.hasErrors = true
-  })
+  if (!dv.current().hasErrors) {
+    app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+      fm.hasErrors = true
+    })
+  }
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Precipitation Errors\n${errorLines}`)
 } else if (dv.current().hasErrors) {
@@ -361,9 +369,11 @@ actions:
 const errorMessages = []
 dv.current().winds.forEach((wind, i) => {})
 if (errorMessages.length > 0) {
-  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-    fm.hasErrors = true
-  })
+  if (!dv.current().hasErrors) {
+    app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+      fm.hasErrors = true
+    })
+  }
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Wind Errors\n${errorLines}`)
 } else if (dv.current().hasErrors) {
