@@ -23,6 +23,7 @@ const getDatesInRange = (startDate, endDate) => {
     const dateRangeLength = getDuration(startDate, endDate)
     const dateRange = []
     for (let i = 0; i < 2; i++) {
+        console.log(Math.floor((startDay + i - 1) / months.reduce((accu, curr) => accu + curr.length , 0)), )
         const month = startMonth + Math.floor((startDay + i - 1) / months.reduce((accu, curr) => accu + curr.length , 0)) % months.length + 1
         const day = (startDay + i) % months.reduce((accu, curr) => accu + curr.length , 0)
         const year = startYear + Math.floor((month - 1) / months.length)
@@ -44,4 +45,4 @@ const getTempRange = (climate, date) => {
 
 }
 
-console.log(getDatesInRange('1-4-213','2-20-213')) // should return 'Winter'
+console.log(getDatesInRange('1-40-213','2-20-213')) // should return 'Winter'
