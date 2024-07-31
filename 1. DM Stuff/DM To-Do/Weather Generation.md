@@ -109,9 +109,9 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.seasons)) {
-          fm.seasons = [{name: '', tempMod: 0, begin: '', end: ''}]
+          fm.seasons = [{name: '', tempMod: 0, precipMod: 0, begin: '', end: ''}]
         } else {
-          fm.seasons = [...fm.seasons, {name: '', tempMod: 0, begin: '', end: ''}]
+          fm.seasons = [...fm.seasons, {name: '', tempMod: 0, precipMod: 0, begin: '', end: ''}]
         }
       })
 ```
@@ -131,12 +131,14 @@ actions:
 dv.table([
   'Season',
   'Temperature Modifier',
+  'Precipitation Modifier',
   'Beginning',
   'Ending'
 ], dv.current().seasons.map((season, i) => {
   return [
     `\`INPUT[text:seasons[${i}].name]\``,
     `\`INPUT[text:seasons[${i}].tempMod]\``,
+    `\`INPUT[text:seasons[${i}].precipMod]\``,
     `\`INPUT[text:seasons[${i}].begin]\``,
     `\`INPUT[text:seasons[${i}].end]\``,
   ]
@@ -155,9 +157,9 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.climates)) {
-          fm.climates = [{name: '', seasonFlux: 0, precipMod: 0, windMod: 0, tempHigh: 0, tempLow: 0}]
+          fm.climates = [{name: '', seasonFlux: 0, precipMod: 0, windHigh: 0, windLow: 0 tempHigh: 0, tempLow: 0}]
         } else {
-          fm.climates = [...fm.climates, {name: '', seasonFlux: 0, precipMod: 0, windMod: 0, tempHigh: 0, tempLow: 0}]
+          fm.climates = [...fm.climates, {name: '', seasonFlux: 0, precipMod: 0, windHigh: 0, windLow: 0 tempHigh: 0, tempLow: 0}]
         }
       })
 ```
@@ -178,7 +180,8 @@ dv.table([
   'Climate',
   'Season Tempearture Flux',
   'Precipitation Modifier',
-  'Wind Modifier',
+  'Wind High',
+  'Wind Low',
   'Temperature High',
   'Temperature Low'
 ], dv.current().climates.map((climate, i) => {
@@ -186,7 +189,8 @@ dv.table([
     `\`INPUT[text:climates[${i}].name]\``,
     `\`INPUT[text:climates[${i}].seasonFlux]\``,
     `\`INPUT[text:climates[${i}].precipMod]\``,
-    `\`INPUT[text:climates[${i}].windMod]\``,
+    `\`INPUT[text:climates[${i}].windHigh]\``,
+    `\`INPUT[text:climates[${i}].windLow]\``,
     `\`INPUT[text:climates[${i}].tempHigh]\``,
     `\`INPUT[text:climates[${i}].tempLow]\``,
   ]
