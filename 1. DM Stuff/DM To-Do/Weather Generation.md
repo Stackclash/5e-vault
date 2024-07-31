@@ -94,8 +94,6 @@ climates:
     tempHigh: 0
     tempLow: 0
 precipitations:
-  - name: Clear Skies
-    rules: []
   - name: Light Rain
     rules: []
   - name: Heavy Rain
@@ -105,8 +103,6 @@ precipitations:
   - name: Heavy Snow
     rules: []
 winds:
-  - name: No Wind
-    rules: []
   - name: Light Wind
     rules: []
   - name: Heavy Wind
