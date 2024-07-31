@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "gray-matter": "^4.0.3",
     "markov-chains": "^1.0.2"
   }
 }
