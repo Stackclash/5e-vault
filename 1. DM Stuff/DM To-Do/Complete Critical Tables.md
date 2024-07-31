@@ -1,15 +1,15 @@
 # Critical Hits
-Arrow: `dice: [[Critical Tables#^arrow-critical]]`
-Bludgeoning: `dice: [[Critical Tables#^bludgeoning-critical]]`
-Piercing: `dice: [[Critical Tables#^piercing-critical]]`
-Slashing: `dice: [[Critical Tables#^slashing-critical]]`
-Unarmed Punch: `dice: [[Critical Tables#^unarmed-punch-critical]]`
-Unarmed Kick: `dice: [[Critical Tables#^unarmed-kick-critical]]`
+Arrow: `dice: [[Complete Critical Tables#^arrow-critical]]`
+Bludgeoning: `dice: [[Complete Critical Tables#^bludgeoning-critical]]`
+Piercing: `dice: [[Complete Critical Tables#^piercing-critical]]`
+Slashing: `dice: [[Complete Critical Tables#^slashing-critical]]`
+Unarmed Punch: `dice: [[Complete Critical Tables#^unarmed-punch-critical]]`
+Unarmed Kick: `dice: [[Complete Critical Tables#^unarmed-kick-critical]]`
 
 # Critical Failures
-Bow: `dice: [[Critical Tables#^bow-critical-failure]]`
-Melee: `dice: [[Critical Tables#^melee-critical-failure]]`
-Thrown: `dice: [[Critical Tables#^thrown-critical-failure]]`
+Bow: `dice: [[Complete Critical Tables#^bow-critical-failure]]`
+Melee: `dice: [[Complete Critical Tables#^melee-critical-failure]]`
+Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 
 | dice: 1d12 | Arrow Critical                                                                                                                      |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,10 +29,10 @@ Thrown: `dice: [[Critical Tables#^thrown-critical-failure]]`
 
 | dice: 1d4 | Bludgeoning Critical                                    |
 | --------- | ------------------------------------------------------- |
-| 1         | `dice: [[Critical Tables#^bludgeoning-arm-critical]]`   |
-| 2         | `dice: [[Critical Tables#^bludgeoning-head-critical]]`  |
-| 3         | `dice: [[Critical Tables#^bludgeoning-leg-critical]]`   |
-| 4         | `dice: [[Critical Tables#^bludgeoning-torso-critical]]` |
+| 1         | `dice: [[Complete Critical Tables#^bludgeoning-arm-critical]]`   |
+| 2         | `dice: [[Complete Critical Tables#^bludgeoning-head-critical]]`  |
+| 3         | `dice: [[Complete Critical Tables#^bludgeoning-leg-critical]]`   |
+| 4         | `dice: [[Complete Critical Tables#^bludgeoning-torso-critical]]` |
 ^bludgeoning-critical
 
 | dice: 1d10 | Bludgeoning Arm Critical |
@@ -96,10 +96,10 @@ Thrown: `dice: [[Critical Tables#^thrown-critical-failure]]`
 
 | dice: 1d4 | Piercing Critical                                    |
 | --------- | ---------------------------------------------------- |
-| 1         | `dice: [[Critical Tables#^piercing-arm-critical]]`   |
-| 2         | `dice: [[Critical Tables#^piercing-head-critical]]`  |
-| 3         | `dice: [[Critical Tables#^piercing-leg-critical]]`   |
-| 4         | `dice: [[Critical Tables#^piercing-torso-critical]]` |
+| 1         | `dice: [[Complete Critical Tables#^piercing-arm-critical]]`   |
+| 2         | `dice: [[Complete Critical Tables#^piercing-head-critical]]`  |
+| 3         | `dice: [[Complete Critical Tables#^piercing-leg-critical]]`   |
+| 4         | `dice: [[Complete Critical Tables#^piercing-torso-critical]]` |
 ^piercing-critical
 
 | dice: 1d11 | Piercing Arm Critical   |
@@ -166,10 +166,10 @@ Thrown: `dice: [[Critical Tables#^thrown-critical-failure]]`
 
 | dice: 1d4 | Slashing Critical                                    |
 | --------- | ---------------------------------------------------- |
-| 1         | `dice: [[Critical Tables#^slashing-arm-critical]]`   |
-| 2         | `dice: [[Critical Tables#^slashing-head-critical]]`  |
-| 3         | `dice: [[Critical Tables#^slashing-leg-critical]]`   |
-| 4         | `dice: [[Critical Tables#^slashing-torso-critical]]` |
+| 1         | `dice: [[Complete Critical Tables#^slashing-arm-critical]]`   |
+| 2         | `dice: [[Complete Critical Tables#^slashing-head-critical]]`  |
+| 3         | `dice: [[Complete Critical Tables#^slashing-leg-critical]]`   |
+| 4         | `dice: [[Complete Critical Tables#^slashing-torso-critical]]` |
 ^slashing-critical
 
 | dice: 1d12 | Slashing Arm Critical   |

@@ -1,7 +1,24 @@
 ---
-
 kanban-plugin: board
-
+months:
+  - name: Winterwane
+    length: 40
+  - name: Rainmoot
+    length: 40
+  - name: Palesun
+    length: 40
+  - name: Highsun
+    length: 40
+  - name: Firewane
+    length: 40
+  - name: Lowsun
+    length: 40
+  - name: Redfall
+    length: 40
+  - name: Snowmoot
+    length: 40
+  - name: Fellnight
+    length: 40
 ---
 
 ## Backlog

@@ -192,7 +192,7 @@ dv.table([
 
 # To Do
 - [x] Need a config table to determine beginning and end of seasons in the configured months
-- [ ] Need a config table to denote high and low temperatures for a climate
+- [x] Need a config table to denote high and low temperatures for a climate
 
 # Thoughts about how to calculate weather
 1. Seasons determine how close temperature gets to the min and max of a climate
