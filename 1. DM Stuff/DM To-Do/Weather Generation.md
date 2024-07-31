@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 useCalendarium: true
 hasError: false
-errors: []
+errors: {}
 seasons:
   - name: Spring
     tempMod: 0
@@ -86,6 +86,11 @@ actions:
         fm.months.splice(-1)
       })
 ```
+> [!info]- Months Configuration
+> This is info
+```dataviewjs
+if (dv.current().errors)
+```
 ```dataviewjs
 const currentPage = dv.current()
 if (currentPage.useCalendarium) {
@@ -139,6 +144,8 @@ actions:
         fm.seasons.splice(-1)
       })
 ```
+> [!info]- Seasons Configuration
+> This is info
 ```dataviewjs
 dv.table([
   'Season',
@@ -243,6 +250,8 @@ actions:
         fm.precipitations.splice(-1)
       })
 ```
+> [!info]- Precipitation Configuration
+> This is info
 ```dataviewjs
 dv.table([
   'Precipitation',
@@ -285,6 +294,8 @@ actions:
         fm.winds.splice(-1)
       })
 ```
+> [!info]- Wind Configuration
+> This is info
 ```dataviewjs
 dv.table([
   'Wind',
