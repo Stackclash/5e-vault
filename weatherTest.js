@@ -53,6 +53,12 @@ const getNextSeason = (date) => {
     return seasons[(currentSeasonIndex + 1) % seasons.length]
 }
 
+const getPrevSeason = (date) => {
+    const {name} = getSeason(date)
+    const currentSeasonIndex = seasons.findIndex(season => season.name === name)
+    return seasons[(currentSeasonIndex - 1 + seasons.length) % seasons.length]
+}
+
 const getTempBaseTemp = (climate, seasonName) => {
     const {tempLow, tempHigh} = climates.find(climateData => climateData.name === climate)
     const {tempMod} = seasons.find(season => season.name === seasonName)
@@ -74,9 +80,13 @@ const getTempRange = (climate, date) => {
     const randomTempFlux = parseFloat((Math.random() * tempFlux).toFixed(2))
     console.log(currentTempBase, percentToNextSeason, nextTempBase, randomTempFlux)
     return { 
-        low: currentTempBase - (nextTempBase - currentTempBase) * percentToNextSeason - randomTempFlux,
-        high: currentTempBase + (nextTempBase - currentTempBase) * percentToNextSeason + randomTempFlux
+        low: currentTempBase,
+        high: currentTempBase
     }
 }
 
-console.log(getTempRange('Coast','5-5-213')) // should return 'Winter'
+// console.log(getTempRange('Coast','5-5-213'))
+const date = '5-5-213'
+console.log(`Season: ${getSeason(date).name}`)
+console.log(`Next Season: ${getNextSeason(date).name}`)
+console.log(`Prev Season: ${getPrevSeason(date).name}`)
