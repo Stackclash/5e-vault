@@ -234,21 +234,36 @@ if (errorMessages.length > 0) {
 }
 ```
 ```dataviewjs
+const getDayInYear = (date) => {
+    const [month, day] = date.split('-').map(Number)
+    return dv.current().months.slice(0, month - 1).reduce((acc, curr) => acc + curr.length, 0) + day
+}
+
+const getTotalDaysInYear = () => dv.current().months.reduce((acc, curr) => acc + curr.length, 0)
+
+const getDuration = (startDate, endDate) => {
+    const startDay = getDayInYear(startDate)
+    const endDay = getDayInYear(endDate)
+    return endDay < startDay ? endDay + getTotalDaysInYear() - startDay + 1 : endDay - startDay + 1
+}
 dv.table([
   'Season',
   'Precipitation Modifier',
   'Wind Modifier',
   'Temperature Modifier',
   'Beginning',
-  'Ending'
+  'Ending',
+  'Duration'
 ], dv.current().seasons.map((season, i) => {
+  const {start, end} = season
   return [
     `\`INPUT[text:seasons[${i}].name]\``,
     `\`INPUT[number:seasons[${i}].precipMod]\``,
     `\`INPUT[number:seasons[${i}].windMod]\``,
     `\`INPUT[number:seasons[${i}].tempMod]\``,
-    `\`INPUT[text:seasons[${i}].begin]\``,
+    `\`INPUT[text:seasons[${i}].start]\``,
     `\`INPUT[text:seasons[${i}].end]\``,
+    start && end ? getDuration(start,end) : 'Fill out Beginning and End of Season'
   ]
 }))
 ```
