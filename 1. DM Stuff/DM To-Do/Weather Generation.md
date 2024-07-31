@@ -46,11 +46,11 @@ months:
 climates:
   - name: Coast
     seasonFlux: 0
-    precipProb: 0
+    precipProb: 0.4
     windHigh: 0
     windLow: 0
-    tempHigh: 0
-    tempLow: 0
+    tempHigh: 105
+    tempLow: 50
   - name: Desert
     seasonFlux: 0
     precipProb: 0.1
