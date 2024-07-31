@@ -111,7 +111,7 @@ winds:
     rules: []
   - name: Hurricane
     rules: []
-hasErrors: false
+hasErrors: true
 ---
 ```meta-bind-button
 style: primary
