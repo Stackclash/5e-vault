@@ -1,8 +1,7 @@
 ---
 obsidianUIMode: preview
 useCalendarium: true
-hasError: false
-errors: {}
+tempFlux: 10
 seasons:
   - name: Spring
     tempMod: 0.5

@@ -2,7 +2,7 @@ const matter = require('gray-matter')
 const fs = require('fs')
 const path = require('path')
 
-const { seasons, months, climates, precipitations, winds } = matter(fs.readFileSync(path.join(__dirname, '1. DM Stuff/DM To-Do/Weather Generation.md'), 'utf8')).data
+const { tempFlux, seasons, months, climates, precipitations, winds } = matter(fs.readFileSync(path.join(__dirname, '1. DM Stuff/DM To-Do/Weather Generation.md'), 'utf8')).data
 
 const getDayInYear = (date) => {
     const [month, day, year] = date.split('-').map(Number)
@@ -49,12 +49,10 @@ const getSeason = (date) => {
 
 const getTempRange = (climate, date) => {
     const {tempMod} = getSeason(date)
-
     const {tempLow, tempHigh} = climates.find(climateData => climateData.name === climate)
     const baseTemp = ((tempHigh - tempLow) * tempMod) + tempLow
-    const tempFlux = (Math.random() * .1)
-    console.log(baseTemp, tempFlux, baseTemp * tempFlux)
-    return { low: baseTemp, high: baseTemp  }
+    const randomTempFlux = parseFloat((Math.random() * tempFlux).toFixed(2))
+    return { low: baseTemp-randomTempFlux, high: baseTemp+randomTempFlux  }
 }
 
 console.log(getTempRange('Coast','5-5-213')) // should return 'Winter'
