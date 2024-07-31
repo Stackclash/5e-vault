@@ -2,6 +2,6 @@ const matter = require('gray-matter')
 const fs = require('fs')
 const path = require('path')
 
-const weatherData = matter(fs.readFileSync(path.join(__dirname, '1. DM Stuff/DM To-Do/Weather Generation.md'), 'utf8')).data
+const { seasons, months, climates, precipitations, winds } = matter(fs.readFileSync(path.join(__dirname, '1. DM Stuff/DM To-Do/Weather Generation.md'), 'utf8')).data
 
-console.log(weatherData)
+console.log(seasons, months, climates, precipitations, winds)

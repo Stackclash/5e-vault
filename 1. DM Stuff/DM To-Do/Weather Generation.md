@@ -5,22 +5,25 @@ hasError: false
 errors: {}
 seasons:
   - name: Spring
-    tempMod: 0
+    tempMod: 0.5
     begin: 2-11
     end: 4-5
-    precipMod: 0.6
+    precipMod: 0.4
   - name: Summer
-    tempMod: 0
+    tempMod: 0.75
     begin: 4-6
     end: 6-7
+    precipMod: 0.2
   - name: Fall
-    tempMod: 0
+    tempMod: 0.3
     begin: 6-8
     end: 7-22
+    precipMod: 0.1
   - name: Winter
-    tempMod: 0
+    tempMod: 0.2
     begin: 7-23
     end: 2-10
+    precipMod: 0.3
 months:
   - name: Winterwane
     length: 40
