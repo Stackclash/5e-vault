@@ -91,8 +91,15 @@ const getTempRange = (climate, date) => {
     }
 }
 
+const getPrecipitation = (climate, date) => {
+    const { precipProb } = climates.find(climateData => climateData.name === climate)
+    const { precipMod } = getSeason(date)
+    console.log(precipProb * precipMod)
+    return Math.random() < (precipProb * precipMod) ? true : false
+}
+
 // console.log(getTempRange('Coast','5-5-213'))
-const date = '6-5-213'
+const date = '2-11-213'
 console.log('Climate:', climates.find(climate => climate.name === 'Coast'))
 console.log(`Season:`, getSeason(date))
 console.log(`Next Season:`, getNextSeason(date))
@@ -100,3 +107,4 @@ console.log(`Prev Season:`, getPrevSeason(date))
 console.log(`Percent Through Season: ${getPercentThroughSeason(date)}`)
 console.log(`Temp Base Based on Percent Through Season: ${getTempBaseOnPrecentThroughSeason('Coast', date)}`)
 console.log(`Temp Range: ${JSON.stringify(getTempRange('Coast', date))}`)
+console.log(`Precipitation: ${getPrecipitation('Coast', date)}`)
