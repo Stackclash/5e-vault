@@ -20,13 +20,12 @@ const getDuration = (startDate, endDate) => {
 
 const getDatesInRange = (startDate, endDate) => {
     const [startMonth, startDay, startYear] = startDate.split('-').map(Number)
-    const [endMonth, endDay, endYear] = endDate.split('-').map(Number)
     const dateRangeLength = getDuration(startDate, endDate)
     const dateRange = []
     for (let i = 0; i < dateRangeLength; i++) {
         const day = startDay + Math.floor(i % months[startMonth - 1].length)
         const month = startMonth + Math.floor((day - 1) / months[startMonth - 1].length)
-        const year = startYear + Math.floor((month - 1) / 12)
+        const year = startYear + Math.floor((month - 1) / months.length)
         dateRange.push(`${month}-${day}-${year}`)
     }
     return dateRange
