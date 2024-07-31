@@ -11,14 +11,15 @@ const getDayInYear = (date) => {
 
 const getTotalDaysInYear = () => months.reduce((acc, curr) => acc + curr.length, 0)
 
+const getDuration = (startDay, endDay) => endDay < startDay ? endDay + getTotalDaysInYear() - startDay + 1 : endDay - startDay + 1 
+
 seasons.forEach(season => {
     const { name, start, end } = season
     const startDay = getDayInYear(start)
     const endDay = getDayInYear(end)
-    const duration = endDay < startDay ? endDay + getTotalDaysInYear() - startDay + 1 : endDay - startDay + 1
     console.log(`Season: ${name}`)
     console.log(`Start: ${startDay}`)
     console.log(`End: ${endDay}`)
-    console.log(`Duration: ${duration} days`)
+    console.log(`Duration: ${getDuration(startDay, endDay)} days`)
     console.log()
 })
