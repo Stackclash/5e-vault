@@ -190,6 +190,48 @@ dv.table([
 }))
 ```
 
+# Precipitation States
+`BUTTON[add-precipitation,remove-precipitation]`
+```meta-bind-button
+label: Add Climate
+hidden: true
+id: add-precipitation
+style: primary
+actions:
+  - type: inlineJS
+    code: |-
+      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+        if (!Array.isArray(fm.precipitations)) {
+          fm.precipitations = [{name: '', rules: []}]
+        } else {
+          fm.precipitations = [...fm.precipitations, {name: '', rules: []}]
+        }
+      })
+```
+```meta-bind-button
+label: Remove Climate
+hidden: true
+id: remove-precipitation
+style: primary
+actions:
+  - type: inlineJS
+    code: |-
+      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+        fm.precipitations.splice(-1)
+      })
+```
+```dataviewjs
+dv.table([
+  'Precipitation',
+  'Rules'
+], dv.current().precipitations.map((climate, i) => {
+  return [
+    `\`INPUT[text:precipitations[${i}].name]\``,
+    `\`INPUT[inlineList:precipitations[${i}].rules]\``
+  ]
+}))
+```
+
 # To Do
 - [x] Need a config table to determine beginning and end of seasons in the configured months
 - [x] Need a config table to denote high and low temperatures for a climate
