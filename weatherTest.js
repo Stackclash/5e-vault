@@ -50,8 +50,8 @@ const getSeason = (date) => {
 const getTempRange = (climate, date) => {
     const {name, tempMod} = getSeason(date)
     const {tempLow, tempHigh} = climates.find(climateData => climateData.name === climate)
-    console.log(name, tempLow, tempHigh, tempMod)
-    return ((tempHigh - tempLow) * tempMod) + tempLow
+    const baseTemp = ((tempHigh - tempLow) * tempMod) + tempLow
+    return { low: baseTemp, high: baseTemp * 1.25 }
 }
 
 console.log(getTempRange('Coast','5-5-213')) // should return 'Winter'
