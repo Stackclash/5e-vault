@@ -65,7 +65,7 @@ const getTempBaseTemp = (climate, seasonName) => {
     return ((tempHigh - tempLow) * tempMod) + tempLow
 }
 
-const getPercentToNextSeason = (date) => {
+const getPercentThroughSeason = (date) => {
     const {start, end} = getSeason(date)
     const day = getDayInYear(date)
     const seasonStartDay = getDayInYear(start)
@@ -73,9 +73,18 @@ const getPercentToNextSeason = (date) => {
     return (day - seasonStartDay) / (seasonEndDay - seasonStartDay)
 }
 
+const getTempBaseOnPrecentThroughSeason = (climate, date) => {
+    const currentTempBase = getTempBaseTemp(climate, getSeason(date).name)
+    const percentToNextSeason = getPercentThroughSeason(date)
+    const tempFluxToClosestSeason = percentToNextSeason - .5
+    const prevTempBase = getTempBaseTemp(climate, getPrevSeason(date).name)
+    const nextTempBase = getTempBaseTemp(climate, getNextSeason(date).name)
+    return 
+}
+
 const getTempRange = (climate, date) => {
     const currentTempBase = getTempBaseTemp(climate, getSeason(date).name)
-    const percentToNextSeason = getPercentToNextSeason(date)
+    const percentToNextSeason = getPercentThroughSeason(date)
     const nextTempBase = getTempBaseTemp(climate, getNextSeason(date).name)
     const randomTempFlux = parseFloat((Math.random() * tempFlux).toFixed(2))
     console.log(currentTempBase, percentToNextSeason, nextTempBase, randomTempFlux)
@@ -90,3 +99,5 @@ const date = '5-5-213'
 console.log(`Season: ${getSeason(date).name}`)
 console.log(`Next Season: ${getNextSeason(date).name}`)
 console.log(`Prev Season: ${getPrevSeason(date).name}`)
+console.log(`Percent Through Season: ${getPercentThroughSeason(date)}`)
+console.log(`Temp Base Based on Percent Through Season: ${getTempBaseOnPrecentThroughSeason('Coast', date)}`)
