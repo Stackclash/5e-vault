@@ -18,17 +18,24 @@ const getDuration = (startDate, endDate) => {
     return endDay < startDay ? endDay + getTotalDaysInYear() - startDay + 1 : endDay - startDay + 1
 }
 
-const getDatesInRange = (start, end) => {
-    const startDay = getDayInYear(start)
-    const endDay = getDayInYear(end)
-    return startDay < endDay ? Array.from({ length: endDay - startDay + 1 }, (_, i) => i + startDay) : Array.from({ length: getTotalDaysInYear() - startDay + endDay + 1 }, (_, i) => i + startDay > getTotalDaysInYear() ? i + startDay - getTotalDaysInYear() : i + startDay)
+const getDatesInRange = (startDate, endDate) => {
+    const [startMonth, startDay, startYear] = startDate.split('-').map(Number)
+    const [endMonth, endDay, endYear] = endDate.split('-').map(Number)
+    const dateRangeLength = getDuration(startDate, endDate)
+    const dateRange = []
+    for (let i = 0; i < dateRangeLength; i++) {
+        const day = startDay + Math.floor(i % months[startMonth - 1].length)
+        const month = startMonth + Math.floor((day - 1) / months[startMonth - 1].length)
+        const year = startYear + Math.floor((month - 1) / 12)
+        dateRange.push(`${month}-${day}-${year}`)
+    }
+    return dateRange
 }
 
 const getSeason = (date) => {
     let season = ''
     const day = getDayInYear(date)
     seasons.forEach(season => {
-        console.log(season.name, getDayInYear(season.start) <= day, day <= getDayInYear(season.end), day)
         if ((getDayInYear(season.start) <= day) && day <= getDayInYear(season.end)) season = season.name
     })
     return season
