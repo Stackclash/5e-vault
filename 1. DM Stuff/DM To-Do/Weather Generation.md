@@ -101,7 +101,7 @@ if (errorMessages.length > 0) {
   })
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Month Errors\n${errorLines}`)
-} else {
+} else if (dv.current().hasErrors) {
   app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
     fm.hasErrors = false
   })
@@ -171,7 +171,7 @@ if (errorMessages.length > 0) {
   })
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Season Errors\n${errorLines}`)
-} else {
+} else if (dv.current().hasErrors) {
   app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
     fm.hasErrors = false
   })
@@ -238,7 +238,7 @@ if (errorMessages.length > 0) {
   })
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Climate Errors\n${errorLines}`)
-} else {
+} else if (dv.current().hasErrors) {
   app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
     fm.hasErrors = false
   })
@@ -307,7 +307,7 @@ if (errorMessages.length > 0) {
   })
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Precipitation Errors\n${errorLines}`)
-} else {
+} else if (dv.current().hasErrors) {
   app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
     fm.hasErrors = false
   })
@@ -366,7 +366,7 @@ if (errorMessages.length > 0) {
   })
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Wind Errors\n${errorLines}`)
-} else {
+} else if (dv.current().hasErrors) {
   app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
     fm.hasErrors = false
   })
