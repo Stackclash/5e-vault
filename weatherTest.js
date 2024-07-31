@@ -47,12 +47,23 @@ const getSeason = (date) => {
     return seasonResult
 }
 
-const getTempRange = (climate, date) => {
-    const {tempMod} = getSeason(date)
+const getNextSeason = (date) => {
+    const {name} = getSeason(date)
+    const currentSeasonIndex = seasons.findIndex(season => season.name === name)
+    return seasons[(currentSeasonIndex + 1) % seasons.length]
+}
+
+const getTempBaseTemp = (climate, seasonName) => {
     const {tempLow, tempHigh} = climates.find(climateData => climateData.name === climate)
-    const baseTemp = ((tempHigh - tempLow) * tempMod) + tempLow
+    const {tempMod} = seasons.find(season => season.name === seasonName)
+    return ((tempHigh - tempLow) * tempMod) + tempLow
+}
+
+const getTempRange = (climate, date) => {
+    const currentTempBase = getTempBaseTemp(climate, getSeason(date).name)
+    const nextTempBase = getTempBaseTemp(climate, getNextSeason(date).name)
     const randomTempFlux = parseFloat((Math.random() * tempFlux).toFixed(2))
-    return { low: baseTemp-randomTempFlux, high: baseTemp+randomTempFlux  }
+    return { low: currentTempBase-randomTempFlux, high: currentTempBase+randomTempFlux  }
 }
 
 console.log(getTempRange('Coast','5-5-213')) // should return 'Winter'
