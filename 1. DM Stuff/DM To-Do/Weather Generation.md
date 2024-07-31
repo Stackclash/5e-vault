@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-useCalendarium: true
+useCalendarium: false
 hasError: false
 errors: {}
 seasons:
@@ -13,7 +13,7 @@ seasons:
   - name: Winter
     tempMod: 0
 months:
-  - name: Winterwane
+  - name: ""
     length: 40
   - name: Rainmoot
     length: 40
@@ -45,6 +45,7 @@ precipitations:
 winds:
   - name: ""
     rules: []
+hasErrors: false
 ---
 ```meta-bind-button
 style: primary
@@ -90,10 +91,20 @@ actions:
 > This is info
 ```dataviewjs
 const errorMessages = []
-dv.current().months.forEach((month, i) => {})
+dv.current().months.forEach((month, i) => {
+  if (month.length <= 0) errorMessages.push(`Month ${month.name} must have a length of a positive number`)
+  if (month.name.length === 0) errorMessages.push(`Month number ${i} should have a name`)
+})
 if (errorMessages.length > 0) {
+  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+    fm.hasErrors = true
+  })
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Month Errors\n${errorLines}`)
+} else {
+  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+    fm.hasErrors = false
+  })
 }
 ```
 ```dataviewjs
@@ -153,9 +164,17 @@ actions:
 > This is info
 ```dataviewjs
 const errorMessages = []
+dv.current().seasons.forEach((season, i) => {})
 if (errorMessages.length > 0) {
+  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+    fm.hasErrors = true
+  })
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Season Errors\n${errorLines}`)
+} else {
+  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+    fm.hasErrors = false
+  })
 }
 ```
 ```dataviewjs
@@ -212,9 +231,17 @@ actions:
 > This is info
 ```dataviewjs
 const errorMessages = []
+dv.current().climates.forEach((climate, i) => {})
 if (errorMessages.length > 0) {
+  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+    fm.hasErrors = true
+  })
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Climate Errors\n${errorLines}`)
+} else {
+  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+    fm.hasErrors = false
+  })
 }
 ```
 ```dataviewjs
@@ -273,9 +300,17 @@ actions:
 > This is info
 ```dataviewjs
 const errorMessages = []
+dv.current().precipitations.forEach((precipitation, i) => {})
 if (errorMessages.length > 0) {
+  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+    fm.hasErrors = true
+  })
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Precipitation Errors\n${errorLines}`)
+} else {
+  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+    fm.hasErrors = false
+  })
 }
 ```
 ```dataviewjs
@@ -324,9 +359,17 @@ actions:
 > This is info
 ```dataviewjs
 const errorMessages = []
+dv.current().winds.forEach((wind, i) => {})
 if (errorMessages.length > 0) {
+  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+    fm.hasErrors = true
+  })
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Wind Errors\n${errorLines}`)
+} else {
+  app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+    fm.hasErrors = false
+  })
 }
 ```
 ```dataviewjs
