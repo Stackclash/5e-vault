@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 useCalendarium: true
+hasError: false
+errors: []
 seasons:
   - name: Spring
     tempMod: 0
@@ -38,6 +40,9 @@ climates:
     tempHigh: 0
     tempLow: 0
 precipitations:
+  - name: ""
+    rules: []
+winds:
   - name: ""
     rules: []
 ---
@@ -184,6 +189,8 @@ actions:
         fm.climates.splice(-1)
       })
 ```
+> [!info]- Climate Configuration
+> This is info
 ```dataviewjs
 dv.table([
   'Climate',
@@ -209,7 +216,7 @@ dv.table([
 # Precipitation States
 `BUTTON[add-precipitation,remove-precipitation]`
 ```meta-bind-button
-label: Add Climate
+label: Add Precipitation State
 hidden: true
 id: add-precipitation
 style: primary
@@ -225,7 +232,7 @@ actions:
       })
 ```
 ```meta-bind-button
-label: Remove Climate
+label: Remove Precipitation State
 hidden: true
 id: remove-precipitation
 style: primary
@@ -244,6 +251,48 @@ dv.table([
   return [
     `\`INPUT[text:precipitations[${i}].name]\``,
     `\`INPUT[inlineList:precipitations[${i}].rules]\``
+  ]
+}))
+```
+
+# Wind States
+`BUTTON[add-wind,remove-wind]`
+```meta-bind-button
+label: Add Wind State
+hidden: true
+id: add-wind
+style: primary
+actions:
+  - type: inlineJS
+    code: |-
+      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+        if (!Array.isArray(fm.winds)) {
+          fm.winds = [{name: '', rules: []}]
+        } else {
+          fm.winds = [...fm.winds, {name: '', rules: []}]
+        }
+      })
+```
+```meta-bind-button
+label: Remove Wind State
+hidden: true
+id: remove-wind
+style: primary
+actions:
+  - type: inlineJS
+    code: |-
+      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+        fm.winds.splice(-1)
+      })
+```
+```dataviewjs
+dv.table([
+  'Wind',
+  'Rules'
+], dv.current().winds.map((climate, i) => {
+  return [
+    `\`INPUT[text:winds[${i}].name]\``,
+    `\`INPUT[inlineList:winds[${i}].rules]\``
   ]
 }))
 ```
