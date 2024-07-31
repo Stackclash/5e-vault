@@ -36,7 +36,14 @@ const getSeason = (date) => {
     let season = ''
     const day = getDayInYear(date)
     seasons.forEach(season => {
-        if ((getDayInYear(season.start) <= day) && day <= getDayInYear(season.end)) season = season.name
+        const seasonStart = getDayInYear(season.start)
+        const seasonEnd = getDayInYear(season.end)
+        if (seasonStart > seasonEnd) {
+            console.log(season.name, seasonStart, seasonEnd, day)
+            if (seasonStart <= day || day <= seasonEnd) season = season.name
+        } else {
+            if (seasonStart <= day && day <= seasonEnd) season = season.name
+        }
     })
     return season
 }
@@ -45,4 +52,4 @@ const getTempRange = (climate, date) => {
 
 }
 
-console.log(getDatesInRange('1-5-213','2-5-213')) // should return 'Winter'
+console.log(getSeason('1-5-213')) // should return 'Winter'
