@@ -22,9 +22,9 @@ const getDatesInRange = (startDate, endDate) => {
     const [startMonth, startDay, startYear] = startDate.split('-').map(Number)
     const dateRangeLength = getDuration(startDate, endDate)
     const dateRange = []
-    for (let i = 0; i < dateRangeLength; i++) {
-        const month = startMonth + Math.floor((day - 1) / months[startMonth - 1].length)
-        const day = startDay + Math.floor(i % months.slice(0, month-1).reduce((acc, curr) => acc + curr.length, 0))
+    for (let i = 0; i < 2; i++) {
+        const month = startMonth + Math.floor((startDay + i - 1) / months.reduce((accu, curr) => accu + curr.length , 0)) % months.length + 1
+        const day = (startDay + i) % months.reduce((accu, curr) => accu + curr.length , 0)
         const year = startYear + Math.floor((month - 1) / months.length)
         dateRange.push(`${month}-${day}-${year}`)
     }
