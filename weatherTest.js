@@ -94,8 +94,7 @@ const getTempRange = (climate, date) => {
 const getPrecipitation = (climate, date) => {
     const { precipProb } = climates.find(climateData => climateData.name === climate)
     const { precipMod } = getSeason(date)
-    console.log(precipProb * precipMod)
-    return Math.random() < (precipProb * precipMod) ? true : false
+    return Math.random() < precipProb * precipMod ? true : false
 }
 
 // console.log(getTempRange('Coast','5-5-213'))
