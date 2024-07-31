@@ -150,6 +150,12 @@ actions:
 > [!info]- Seasons Configuration
 > This is info
 ```dataviewjs
+if (dv.current().errors.hasOwnProperty('seasons')) {
+  const errorLines = dv.current().errors.seasons.map(line => `> - ${line}`).join('\n')
+  dv.paragraph(`> [!fail] Season Errors\n${errorLines}`)
+}
+```
+```dataviewjs
 dv.table([
   'Season',
   'Precipitation Modifier',
@@ -201,6 +207,12 @@ actions:
 ```
 > [!info]- Climate Configuration
 > This is info
+```dataviewjs
+if (dv.current().errors.hasOwnProperty('climates')) {
+  const errorLines = dv.current().errors.climates.map(line => `> - ${line}`).join('\n')
+  dv.paragraph(`> [!fail] Climate Errors\n${errorLines}`)
+}
+```
 ```dataviewjs
 dv.table([
   'Climate',
@@ -256,6 +268,12 @@ actions:
 > [!info]- Precipitation Configuration
 > This is info
 ```dataviewjs
+if (dv.current().errors.hasOwnProperty('precipitations')) {
+  const errorLines = dv.current().errors.precipitations.map(line => `> - ${line}`).join('\n')
+  dv.paragraph(`> [!fail] Precipitation Errors\n${errorLines}`)
+}
+```
+```dataviewjs
 dv.table([
   'Precipitation',
   'Rules'
@@ -299,6 +317,12 @@ actions:
 ```
 > [!info]- Wind Configuration
 > This is info
+```dataviewjs
+if (dv.current().errors.hasOwnProperty('winds')) {
+  const errorLines = dv.current().errors.winds.map(line => `> - ${line}`).join('\n')
+  dv.paragraph(`> [!fail] Wind Errors\n${errorLines}`)
+}
+```
 ```dataviewjs
 dv.table([
   'Wind',
