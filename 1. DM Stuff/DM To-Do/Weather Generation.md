@@ -30,6 +30,9 @@ months:
   - name: Fellnight
     length: 40
 climates: []
+precipitations:
+  - name: ""
+    rules: []
 ---
 ```meta-bind-button
 style: primary

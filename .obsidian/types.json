@@ -36,6 +36,8 @@
     "speed": "number",
     "date": "date",
     "level": "text",
-    "travel": "multitext"
+    "travel": "multitext",
+    "precipitations": "multitext",
+    "climates": "multitext"
   }
 }
