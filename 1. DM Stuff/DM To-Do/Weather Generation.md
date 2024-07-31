@@ -45,8 +45,8 @@ months:
 climates:
   - name: Coast
     precipProb: 0.4
-    windHigh: 0
-    windLow: 0
+    windHigh: 8
+    windLow: 50
     tempHigh: 105
     tempLow: 50
   - name: Desert
