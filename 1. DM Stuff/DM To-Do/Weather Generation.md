@@ -41,7 +41,7 @@ climates:
     tempLow: 0
   - name: Desert
     seasonFlux: 0
-    precipProb: 0
+    precipProb: 0.1
     windHigh: 0
     windLow: 0
     tempHigh: 0
@@ -82,10 +82,26 @@ climates:
     tempHigh: 0
     tempLow: 0
 precipitations:
-  - name: ""
+  - name: Clear Skies
+    rules: []
+  - name: Light Rain
+    rules: []
+  - name: Heavy Rain
+    rules: []
+  - name: Light Snow
+    rules: []
+  - name: Heavy Snow
     rules: []
 winds:
-  - name: ""
+  - name: No Wind
+    rules: []
+  - name: Light Wind
+    rules: []
+  - name: Heavy Wind
+    rules: []
+  - name: Tornado
+    rules: []
+  - name: Hurricane
     rules: []
 hasErrors: false
 ---
