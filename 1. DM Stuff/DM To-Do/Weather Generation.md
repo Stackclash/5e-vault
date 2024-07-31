@@ -91,7 +91,6 @@ actions:
 ```dataviewjs
 const errorMessages = []
 dv.current().months.forEach(month => {
-  console.log(month)
   if (month.length <= 0) errorMessages.push(`Month ${month.name} must have a length of a positive number`)
 })
 if (errorMessages.length > 0) {
@@ -155,8 +154,9 @@ actions:
 > [!info]- Seasons Configuration
 > This is info
 ```dataviewjs
-if (dv.current().errors.hasOwnProperty('seasons')) {
-  const errorLines = dv.current().errors.seasons.map(line => `> - ${line}`).join('\n')
+const errorMessages = []
+if (errorMessages.length > 0) {
+  const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Season Errors\n${errorLines}`)
 }
 ```
@@ -213,8 +213,9 @@ actions:
 > [!info]- Climate Configuration
 > This is info
 ```dataviewjs
-if (dv.current().errors.hasOwnProperty('climates')) {
-  const errorLines = dv.current().errors.climates.map(line => `> - ${line}`).join('\n')
+const errorMessages = []
+if (errorMessages.length > 0) {
+  const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Climate Errors\n${errorLines}`)
 }
 ```
@@ -273,8 +274,9 @@ actions:
 > [!info]- Precipitation Configuration
 > This is info
 ```dataviewjs
-if (dv.current().errors.hasOwnProperty('precipitations')) {
-  const errorLines = dv.current().errors.precipitations.map(line => `> - ${line}`).join('\n')
+const errorMessages = []
+if (errorMessages.length > 0) {
+  const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Precipitation Errors\n${errorLines}`)
 }
 ```
@@ -323,8 +325,9 @@ actions:
 > [!info]- Wind Configuration
 > This is info
 ```dataviewjs
-if (dv.current().errors.hasOwnProperty('winds')) {
-  const errorLines = dv.current().errors.winds.map(line => `> - ${line}`).join('\n')
+const errorMessages = []
+if (errorMessages.length > 0) {
+  const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Wind Errors\n${errorLines}`)
 }
 ```
