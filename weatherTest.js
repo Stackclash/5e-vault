@@ -18,12 +18,18 @@ const getDuration = (startDate, endDate) => {
     return endDay < startDay ? endDay + getTotalDaysInYear() - startDay + 1 : endDay - startDay + 1
 }
 
+const getDatesInRange = (start, end) => {
+    const startDay = getDayInYear(start)
+    const endDay = getDayInYear(end)
+    return startDay < endDay ? Array.from({ length: endDay - startDay + 1 }, (_, i) => i + startDay) : Array.from({ length: getTotalDaysInYear() - startDay + endDay + 1 }, (_, i) => i + startDay > getTotalDaysInYear() ? i + startDay - getTotalDaysInYear() : i + startDay)
+}
+
 const getSeason = (date) => {
     let season = ''
     const day = getDayInYear(date)
     seasons.forEach(season => {
         console.log(season.name, getDayInYear(season.start) <= day, day <= getDayInYear(season.end), day)
-        if ((getDayInYear(season.start) <= day || ) && day <= getDayInYear(season.end)) season = season.name
+        if ((getDayInYear(season.start) <= day) && day <= getDayInYear(season.end)) season = season.name
     })
     return season
 }
@@ -32,4 +38,4 @@ const getTempRange = (climate, date) => {
 
 }
 
-console.log(getTotalDaysInYear()) // should return 'Winter'
+console.log(getDatesInRange('1-4-213','2-20-213')) // should return 'Winter'
