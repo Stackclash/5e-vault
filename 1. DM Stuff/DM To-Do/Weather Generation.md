@@ -89,8 +89,13 @@ actions:
 > [!info]- Months Configuration
 > This is info
 ```dataviewjs
-if (dv.current().errors.hasOwnProperty('months')) {
-  const errorLines = dv.current().errors.months.map(line => `> - ${line}`).join('\n')
+const errorMessages = []
+dv.current().months.forEach(month => {
+  console.log(month)
+  if (month.length <= 0) errorMessages.push(`Month ${month.name} must have a length of a positive number`)
+})
+if (errorMessages.length > 0) {
+  const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Month Errors\n${errorLines}`)
 }
 ```
