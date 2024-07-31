@@ -2,6 +2,7 @@ const matter = require('gray-matter')
 const fs = require('fs')
 const path = require('path')
 const { get } = require('http')
+const { start } = require('repl')
 
 const { seasons, months, climates, precipitations, winds } = matter(fs.readFileSync(path.join(__dirname, '1. DM Stuff/DM To-Do/Weather Generation.md'), 'utf8')).data
 
@@ -19,14 +20,16 @@ const getDuration = (startDate, endDate) => {
 }
 
 const getDatesInRange = (startDate, endDate) => {
-    const [startMonth, startDay, startYear] = startDate.split('-').map(Number)
     const dateRangeLength = getDuration(startDate, endDate)
-    const dateRange = []
-    for (let i = 0; i < 2; i++) {
-        console.log(Math.floor((startDay + i - 1) / months.reduce((accu, curr) => accu + curr.length , 0)), )
-        const month = startMonth + Math.floor((startDay + i - 1) / months.reduce((accu, curr) => accu + curr.length , 0)) % months.length + 1
-        const day = (startDay + i) % months.reduce((accu, curr) => accu + curr.length , 0)
-        const year = startYear + Math.floor((month - 1) / months.length)
+    console.log(dateRangeLength)
+    const dateRange = [startDate]
+    for (let i = 1; i < dateRangeLength; i++) {
+        const [previousMonth, previousDay, previousYear] = dateRange[i - 1].split('-').map(Number)
+
+
+        const month = previousDay + 1 > months[previousMonth - 1].length ? previousMonth + 1 : previousMonth
+        const day = previousDay + 1 > months[previousMonth - 1].length ? 1 : previousDay + 1
+        const year = previousMonth === months.length && month === 1 ? previousYear + 1 : previousYear
         dateRange.push(`${month}-${day}-${year}`)
     }
     return dateRange
@@ -45,4 +48,4 @@ const getTempRange = (climate, date) => {
 
 }
 
-console.log(getDatesInRange('1-40-213','2-20-213')) // should return 'Winter'
+console.log(getDatesInRange('1-5-213','2-5-213')) // should return 'Winter'
