@@ -89,7 +89,10 @@ actions:
 > [!info]- Months Configuration
 > This is info
 ```dataviewjs
-if (dv.current().errors)
+if (dv.current().errors.hasOwnProperty('months')) {
+  const errorLines = dv.current().errors.months.map(line => `> - ${line}`).join('\n')
+  dv.paragraph(`> [!fail] Month Errors\n${errorLines}`)
+}
 ```
 ```dataviewjs
 const currentPage = dv.current()
