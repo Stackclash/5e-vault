@@ -44,49 +44,42 @@ months:
     length: 40
 climates:
   - name: Coast
-    seasonFlux: 0
     precipProb: 0.4
     windHigh: 0
     windLow: 0
     tempHigh: 105
     tempLow: 50
   - name: Desert
-    seasonFlux: 0
     precipProb: 0.1
     windHigh: 0
     windLow: 0
     tempHigh: 0
     tempLow: 0
   - name: Forest
-    seasonFlux: 0
     precipProb: 0
     windHigh: 0
     windLow: 0
     tempHigh: 0
     tempLow: 0
   - name: Grassland
-    seasonFlux: 0
     precipProb: 0
     windHigh: 0
     windLow: 0
     tempHigh: 0
     tempLow: 0
   - name: Hill
-    seasonFlux: 0
     precipProb: 0
     windHigh: 0
     windLow: 0
     tempHigh: 0
     tempLow: 0
   - name: Mountain
-    seasonFlux: 0
     precipProb: 0
     windHigh: 0
     windLow: 0
     tempHigh: 0
     tempLow: 0
   - name: Open Water
-    seasonFlux: 0
     precipProb: 0
     windHigh: 0
     windLow: 0
@@ -275,9 +268,9 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.climates)) {
-          fm.climates = [{name: '', seasonFlux: 0, precipProb: 0, windHigh: 0, windLow: 0, tempHigh: 0, tempLow: 0}]
+          fm.climates = [{name: '', precipProb: 0, windHigh: 0, windLow: 0, tempHigh: 0, tempLow: 0}]
         } else {
-          fm.climates = [...fm.climates, {name: '', seasonFlux: 0, precipProb: 0, windHigh: 0, windLow: 0, tempHigh: 0, tempLow: 0}]
+          fm.climates = [...fm.climates, {name: '', precipProb: 0, windHigh: 0, windLow: 0, tempHigh: 0, tempLow: 0}]
         }
       })
 ```
