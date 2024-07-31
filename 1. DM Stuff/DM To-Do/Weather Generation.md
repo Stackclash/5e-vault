@@ -29,7 +29,14 @@ months:
     length: 40
   - name: Fellnight
     length: 40
-climates: []
+climates:
+  - name: ""
+    seasonFlux: 0
+    precipProb: 0
+    windHigh: 0
+    windLow: 0
+    tempHigh: 0
+    tempLow: 0
 precipitations:
   - name: ""
     rules: []
@@ -109,9 +116,9 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.seasons)) {
-          fm.seasons = [{name: '', tempMod: 0, precipMod: 0, begin: '', end: ''}]
+          fm.seasons = [{name: '', precipMod: 0, windMod: 0, tempMod: 0, begin: '', end: ''}]
         } else {
-          fm.seasons = [...fm.seasons, {name: '', tempMod: 0, precipMod: 0, begin: '', end: ''}]
+          fm.seasons = [...fm.seasons, {name: '', precipMod: 0, windMod: 0, tempMod: 0, begin: '', end: ''}]
         }
       })
 ```
@@ -130,15 +137,17 @@ actions:
 ```dataviewjs
 dv.table([
   'Season',
-  'Temperature Modifier',
   'Precipitation Modifier',
+  'Wind Modifier',
+  'Temperature Modifier',
   'Beginning',
   'Ending'
 ], dv.current().seasons.map((season, i) => {
   return [
     `\`INPUT[text:seasons[${i}].name]\``,
-    `\`INPUT[text:seasons[${i}].tempMod]\``,
     `\`INPUT[text:seasons[${i}].precipMod]\``,
+    `\`INPUT[text:seasons[${i}].windMod]\``,
+    `\`INPUT[text:seasons[${i}].tempMod]\``,
     `\`INPUT[text:seasons[${i}].begin]\``,
     `\`INPUT[text:seasons[${i}].end]\``,
   ]
@@ -157,9 +166,9 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.climates)) {
-          fm.climates = [{name: '', seasonFlux: 0, precipMod: 0, windHigh: 0, windLow: 0 tempHigh: 0, tempLow: 0}]
+          fm.climates = [{name: '', seasonFlux: 0, precipProb: 0, windHigh: 0, windLow: 0, tempHigh: 0, tempLow: 0}]
         } else {
-          fm.climates = [...fm.climates, {name: '', seasonFlux: 0, precipMod: 0, windHigh: 0, windLow: 0 tempHigh: 0, tempLow: 0}]
+          fm.climates = [...fm.climates, {name: '', seasonFlux: 0, precipProb: 0, windHigh: 0, windLow: 0, tempHigh: 0, tempLow: 0}]
         }
       })
 ```
@@ -179,7 +188,7 @@ actions:
 dv.table([
   'Climate',
   'Season Tempearture Flux',
-  'Precipitation Modifier',
+  'Precipitation Probability',
   'Wind High',
   'Wind Low',
   'Temperature High',
@@ -188,7 +197,7 @@ dv.table([
   return [
     `\`INPUT[text:climates[${i}].name]\``,
     `\`INPUT[text:climates[${i}].seasonFlux]\``,
-    `\`INPUT[text:climates[${i}].precipMod]\``,
+    `\`INPUT[text:climates[${i}].precipProb]\``,
     `\`INPUT[text:climates[${i}].windHigh]\``,
     `\`INPUT[text:climates[${i}].windLow]\``,
     `\`INPUT[text:climates[${i}].tempHigh]\``,
