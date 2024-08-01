@@ -65,7 +65,15 @@ hidden: true
 actions:
   - type: inlineJS
     code: |-
-      await Promise((resolve, reject) => resolve(100))
+      const dndBeyondCharacter = await self.require.import('z_Scripts/Templater/dndBeyondCharacter.js')
+      const activeFile = app.workspace.getActiveFile()
+      const dndBeyondId = app.metadataCache.getFileCache(activeFile).frontmatter.url.match(/\d+$/)[0]
+      const character = new dndBeyondCharacter(dndBeyondId)
+      await character.initialize()
+
+      console.log(app.plugins.getPlugin("templater-obsidian").templater.current_functions_object)
+
+      // app.fileManager.processFrontMatter(activeFile, (fm) => {})
 ```
 
 > [!infobox|n-th center wm-tl]
