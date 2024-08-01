@@ -23,9 +23,8 @@ const getDatesInRange = (startDate, endDate) => {
     const dateRange = [startDate]
     for (let i = 1; i < dateRangeLength; i++) {
         const [previousMonth, previousDay, previousYear] = dateRange[i - 1].split('-').map(Number)
-        console.log(previousMonth, months[previousMonth - 1])
 
-        const month = previousDay + 1 > months[previousMonth - 1].length ? previousMonth + 1 : previousMonth
+        const month = previousDay + 1 > months[previousMonth - 1].length ? (previousMonth + 1 > months.length ? 1 : previousMonth + 1) : previousMonth
         const day = previousDay + 1 > months[previousMonth - 1].length ? 1 : previousDay + 1
         let year = ''
         if (previousYear) year = previousMonth === months.length && month === 1 ? previousYear + 1 : previousYear
@@ -171,6 +170,7 @@ let totalRainDays = 0
 yearWeather.forEach(weather => {
     if (weather.precipitation) totalRainDays++
 })
+fs.writeFileSync(path.join(__dirname, 'weather.json'), JSON.stringify(yearWeather, null, 2))
 
 console.log(`Total Days in Year: ${totalDaysInYear}`)
 console.log(`Total Rain Days in Year: ${totalRainDays}`)
