@@ -659,10 +659,11 @@ actions:
       const character = new dndBeyondCharacter(dndBeyondId)
       await character.initialize()
       const find_file = await self.require.import('z_Scripts/Templater/find_file.js')
+      const build_yaml = await self.require.import('z_Scripts/Templater/build_yaml.js')
 
-      console.log(find_file)
-
-      // app.fileManager.processFrontMatter(activeFile, (fm) => {})
+      app.fileManager.processFrontMatter(activeFile, (fm) => {
+        
+      })
 ```
 
 > [!infobox|n-th center wm-tl]
