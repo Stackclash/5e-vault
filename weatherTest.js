@@ -108,8 +108,10 @@ const getWeatherForDate = (climate, date) => {
     const tempRange = getTempRange(climate, date)
     const precipitation = getPrecipitation(climate, date)
     const wind = getWind(climate)
+    const season = getSeason(date).name
     return {
         date,
+        season,
         tempRange,
         precipitation,
         wind
@@ -134,3 +136,4 @@ console.log(`Precipitation: ${getPrecipitation('Coast', date)}`)
 console.log(`Wind: ${getWind('Coast')}`)
 
 console.log(getWeatherForDate('Coast', date))
+console.log(getWeatherForDateRange('Coast', '3-20-213', '4-20-213'))
