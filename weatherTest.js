@@ -120,12 +120,11 @@ const getWeatherForDate = (climate, date) => {
 
 const assignRainDaysInSeason = (climate, season) => {
     const { precipProb } = climates.find(climateData => climateData.name === climate)
-    const { precipMod, start } = seasons.find(season => season.name === season)
-    const seasonStart = getDayInYear(start)
-    const totalRainDaysInYear = Math.floor(precipProb * seasonLength)
-    const totalRainDaysInSeason = totalRainDaysInYear * precipMod
-
+    const { precipMod, start, end } = seasons.find(season => season.name === season)
+    const seasonDays = getDatesInRange(start, end)
+    const totalRainDaysInSeason = Math.floor(precipProb * seasonLength) * precipMod
     const precipitationDays = new Set()
+
     for (let i = 0; i < seasonLength; i++) {
         if (Math.random() < precipProb) precipitationDays.push(i)
     }
