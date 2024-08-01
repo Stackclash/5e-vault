@@ -1,4 +1,4 @@
-const tp = app.plugins.getPlugin("templater-obsidian").templater.current_functions_object
+const find_file = self.require('./find_file.js')
 
 const build_object_yaml = (object, spaces, config, startWithNewLine) => {
   const result = Object.entries(object).reduce((accum, [key, value]) => {
@@ -45,7 +45,7 @@ const build_array_yaml = (list, spaces, config) => {
     list.forEach(item => {
       let itemString
       if (typeof item === 'string') {
-        itemString = `- "${config && typeof config === 'string' ? tp.user.find_file(item, config) : item}"`
+        itemString = `- "${config && typeof config === 'string' ? find_file(item, config) : item}"`
       } else if (typeof item === 'number') {
         itemString = `- ${item}`
       } else if (typeof item === 'object') {

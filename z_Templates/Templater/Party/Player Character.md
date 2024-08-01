@@ -70,8 +70,9 @@ actions:
       const dndBeyondId = app.metadataCache.getFileCache(activeFile).frontmatter.url.match(/\d+$/)[0]
       const character = new dndBeyondCharacter(dndBeyondId)
       await character.initialize()
+      const find_file = await self.require.import('z_Scripts/Templater/find_file.js')
 
-      console.log(app.plugins.getPlugin("templater-obsidian").templater.current_functions_object)
+      console.log(find_file)
 
       // app.fileManager.processFrontMatter(activeFile, (fm) => {})
 ```
