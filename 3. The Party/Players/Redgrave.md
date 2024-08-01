@@ -659,7 +659,7 @@ actions:
       const character = new dndBeyondCharacter(dndBeyondId)
       await character.initialize()
 
-      console.log(app.plugins.getPlugin("templater-obsidian").templater.current_functions_object)
+      console.log(app.plugins.plugins)
 
       // app.fileManager.processFrontMatter(activeFile, (fm) => {})
 ```
