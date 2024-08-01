@@ -651,8 +651,9 @@ label: Update From DnD Beyond
 id: updateDnDBeyond
 hidden: true
 actions:
-  - type: templaterCreateNote
-    templateFile: "z_Templates/Templater/Party/Player Character.md"
+  - type: inlineJS
+    code: |-
+      console.log(app)
 ```
 
 > [!infobox|n-th center wm-tl]
