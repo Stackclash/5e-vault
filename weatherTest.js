@@ -95,7 +95,7 @@ const getTempRange = (climate, date) => {
 const getPrecipitation = (climate, date) => {
     const { precipProb } = climates.find(climateData => climateData.name === climate)
     const { precipMod } = getSeason(date)
-    return Math.random() < precipProb * precipMod ? true : false
+    return Math.random() < precipProb ? true : false
 }
 
 // Not taking into account seasons
@@ -125,15 +125,24 @@ const getWeatherForDateRange = (climate, startDate, endDate) => {
 
 // console.log(getTempRange('Coast','5-5-213'))
 const date = '3-20-213'
-console.log('Climate:', climates.find(climate => climate.name === 'Coast'))
-console.log(`Season:`, getSeason(date))
-console.log(`Next Season:`, getNextSeason(date))
-console.log(`Prev Season:`, getPrevSeason(date))
-console.log(`Percent Through Season: ${getPercentThroughSeason(date)}`)
-console.log(`Temp Base Based on Percent Through Season: ${getTempBaseOnPrecentThroughSeason('Coast', date)}`)
-console.log(`Temp Range: ${JSON.stringify(getTempRange('Coast', date))}`)
-console.log(`Precipitation: ${getPrecipitation('Coast', date)}`)
-console.log(`Wind: ${getWind('Coast')}`)
+// console.log('Climate:', climates.find(climate => climate.name === 'Coast'))
+// console.log(`Season:`, getSeason(date))
+// console.log(`Next Season:`, getNextSeason(date))
+// console.log(`Prev Season:`, getPrevSeason(date))
+// console.log(`Percent Through Season: ${getPercentThroughSeason(date)}`)
+// console.log(`Temp Base Based on Percent Through Season: ${getTempBaseOnPrecentThroughSeason('Coast', date)}`)
+// console.log(`Temp Range: ${JSON.stringify(getTempRange('Coast', date))}`)
+// console.log(`Precipitation: ${getPrecipitation('Coast', date)}`)
+// console.log(`Wind: ${getWind('Coast')}`)
 
-console.log(getWeatherForDate('Coast', date))
-console.log(getWeatherForDateRange('Coast', '3-20-213', '4-20-213'))
+// console.log(getWeatherForDate('Coast', date))
+const yearWeather = getWeatherForDateRange('Coast', '1-1-213', '9-40-213')
+const totalDaysInYear = yearWeather.length
+let totalRainDays = 0
+yearWeather.forEach(weather => {
+    if (weather.precipitation) totalRainDays++
+})
+
+console.log(`Total Days in Year: ${totalDaysInYear}`)
+console.log(`Total Rain Days in Year: ${totalRainDays}`)
+console.log(`Rain Percentage: ${totalRainDays / totalDaysInYear * 100}%`)
