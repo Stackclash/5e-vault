@@ -653,7 +653,8 @@ hidden: true
 actions:
   - type: inlineJS
     code: |-
-      console.log(app.plugins.getPlugin("templater-obsidian").templater.current_functions_object)
+      const dndBeyondCharacter = await self.require.import('z_Scripts/Templater/dndBeyondCharacter.js')
+      console.log(app.workspace.getActiveFile())
 ```
 
 > [!infobox|n-th center wm-tl]
