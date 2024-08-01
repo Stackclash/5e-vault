@@ -2,28 +2,11 @@
 const path = require('path')
 const dv = app.plugins.getPlugin("dataview").api
 const locationConfig = dv.page('Configuration').locations
-const currentFile = dv.page((tp.config.active_file && tp.config.active_file.path) || '') || {}
-const currentTFile = tp.file.find_tfile(currentFile.file && currentFile.file.name)
-let selectedParty
-let dndBeyondInfo
-let condition = 'healthy'
-let location = ''
 
-if (currentFile) {
-  selectedParty = currentFile.party && currentFile.party.toString()
-  dndBeyondInfo = currentFile.url
-  condition = currentFile.condition
-  location = currentFile.location && currentFile.location.toString()
-}
+let parties = dv.pages('#party')
+selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => `[[${p.file.path}|${p.file.name}]]`), false, "What party is the character a part of?")
 
-if (!selectedParty) {
-  let parties = dv.pages('#party')
-  selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => `[[${p.file.path}|${p.file.name}]]`), false, "What party is the character a part of?")
-}
-
-if (!dndBeyondInfo) {
-  dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
-}
+dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
 
 let dndBeyondId
 if (isNaN(dndBeyondInfo)) {
@@ -34,12 +17,7 @@ if (isNaN(dndBeyondInfo)) {
 const character = new tp.user.dndBeyondCharacter(dndBeyondId)
 await character.initialize()
 
-const filePath = path.join(locationConfig.players, character.name)
-
-if (await tp.file.exists(`${filePath}.md`) && currentTFile) {
-  await app.vault.delete(currentTFile)
-}
-await tp.file.move(filePath)
+await tp.file.move(path.join(locationConfig.players, character.name))
 -%>
 ---
 obsidianUIMode: preview
