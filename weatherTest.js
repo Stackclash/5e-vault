@@ -24,7 +24,7 @@ const getDatesInRange = (startDate, endDate) => {
     for (let i = 1; i < dateRangeLength; i++) {
         const [previousMonth, previousDay, previousYear] = dateRange[i - 1].split('-').map(Number)
 
-        const month = previousDay + 1 > months[previousMonth - 1].length ? previousMonth + 1 : previousMonth
+        const month = previousDay + 1 > months[previousMonth - 1].length ? (previousMonth + 1 > months.length ? 1 : previousMonth + 1) : previousMonth
         const day = previousDay + 1 > months[previousMonth - 1].length ? 1 : previousDay + 1
         let year = ''
         if (previousYear) year = previousMonth === months.length && month === 1 ? previousYear + 1 : previousYear
@@ -104,6 +104,28 @@ const getWind = (climate) => {
     return Math.random() * (windHigh - windLow) + windLow
 }
 
+const getRainDaysInYear = (climate) => {
+    const rainDays = []
+    seasons.forEach(season => {
+        rainDays.push(...getRainDaysInSeason(climate, season.name))
+    })
+    return rainDays
+}
+
+const getRainDaysInSeason = (climate, season) => {
+    const { precipProb } = climates.find(climateData => climateData.name === climate)
+    const { precipMod, start, end } = seasons.find(seasonData => seasonData.name === season)
+    const seasonDays = getDatesInRange(start, end)
+    const totalRainDaysInSeason = Math.floor(precipProb * seasonDays.length) * precipMod
+    const precipitationDays = new Set()
+
+    while (precipitationDays.size < totalRainDaysInSeason) {
+        const randomDay = Math.floor(Math.random() * seasonDays.length)
+        precipitationDays.add(seasonDays[randomDay])
+    }
+    return Array.from(precipitationDays)
+}
+
 const getWeatherForDate = (climate, date) => {
     const tempRange = getTempRange(climate, date)
     const precipitation = getPrecipitation(climate, date)
@@ -118,23 +140,15 @@ const getWeatherForDate = (climate, date) => {
     }
 }
 
-const assignRainDaysInSeason = (climate, season) => {
-    const { precipProb } = climates.find(climateData => climateData.name === climate)
-    const { precipMod, start } = seasons.find(season => season.name === season)
-    const seasonStart = getDayInYear(start)
-    const totalRainDaysInYear = Math.floor(precipProb * seasonLength)
-    const totalRainDaysInSeason = totalRainDaysInYear * precipMod
-
-    const precipitationDays = new Set()
-    for (let i = 0; i < seasonLength; i++) {
-        if (Math.random() < precipProb) precipitationDays.push(i)
-    }
-    return precipitationDays
-}
-
-const getWeatherForDateRange = (climate, startDate, endDate) => {
-    const dateRange = getDatesInRange(startDate, endDate)
-    const weather = dateRange.map(date => getWeatherForDate(climate, date))
+const getWeatherForYear = (climate, year) => {
+    const dateRange = getDatesInRange(`1-1-${year}`, `${months.length}-${months[months.length - 1].length}-${year}`)
+    const rainDays = getRainDaysInYear(climate)
+    return dateRange.map(date => {
+        const weather = getWeatherForDate(climate, date)
+        const monthDay = date.split('-').slice(0, 2).join('-')
+        if (rainDays.includes(monthDay)) weather.precipitation = true
+        return weather
+    })
 }
 
 // console.log(getTempRange('Coast','5-5-213'))
@@ -150,12 +164,13 @@ const date = '3-20-213'
 // console.log(`Wind: ${getWind('Coast')}`)
 
 // console.log(getWeatherForDate('Coast', date))
-const yearWeather = getWeatherForDateRange('Coast', '1-1-213', '9-40-213')
+const yearWeather = getWeatherForYear('Coast', '213')
 const totalDaysInYear = yearWeather.length
 let totalRainDays = 0
 yearWeather.forEach(weather => {
     if (weather.precipitation) totalRainDays++
 })
+fs.writeFileSync(path.join(__dirname, 'weather.json'), JSON.stringify(yearWeather, null, 2))
 
 console.log(`Total Days in Year: ${totalDaysInYear}`)
 console.log(`Total Rain Days in Year: ${totalRainDays}`)

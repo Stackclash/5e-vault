@@ -651,8 +651,17 @@ label: Update From DnD Beyond
 id: updateDnDBeyond
 hidden: true
 actions:
-  - type: templaterCreateNote
-    templateFile: "z_Templates/Templater/Party/Player Character.md"
+  - type: inlineJS
+    code: |-
+      const dndBeyondCharacter = await self.require.import('z_Scripts/Templater/dndBeyondCharacter.js')
+      const activeFile = app.workspace.getActiveFile()
+      const dndBeyondId = app.metadataCache.getFileCache(activeFile).frontmatter.url.match(/\d+$/)[0]
+      const character = new dndBeyondCharacter(dndBeyondId)
+      await character.initialize()
+
+      console.log(app.plugins.plugins)
+
+      // app.fileManager.processFrontMatter(activeFile, (fm) => {})
 ```
 
 > [!infobox|n-th center wm-tl]
