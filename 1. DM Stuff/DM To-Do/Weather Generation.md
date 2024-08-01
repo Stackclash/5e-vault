@@ -46,7 +46,7 @@ climates:
   - name: Coast
     precipProb: 0.4
     windHigh: 8
-    windLow: 40
+    windLow: 30
     tempHigh: 105
     tempLow: 50
   - name: Desert
