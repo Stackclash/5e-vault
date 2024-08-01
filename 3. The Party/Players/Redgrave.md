@@ -11,15 +11,16 @@ url: https://dndbeyond.com/characters/29682199
 image: https://www.dndbeyond.com/avatars/10846/680/1581111423-29682199.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: "[[5. Mechanics/Races/Warforged.md|Warforged]]"
 alignment: Neutral Good
-description:
-  gender: ""
-  age: ""
-  hair: ""
-  eyes: Emeralds
-  skin: Metallic with gold engraving
-  height: 6'5"
-  weight: 300
-  size: Medium
+description: |-2
+  
+      gender: ""
+      age: ""
+      hair: ""
+      eyes: "Emeralds"
+      skin: "Metallic with gold engraving"
+      height: "6'5\""
+      weight: 300
+      size: "Medium"
 passives:
   perception: 17
   investigation: 11
@@ -327,8 +328,8 @@ classFeatures:
     description: You can channel divine energy to fuel magical effects a number of times per short rest
   - name: Destroy Undead
     description: When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level.
-feats: []
-raceSpells: []
+feats: 
+raceSpells: 
 classSpells:
   - name: Cleric
     cantripsKnown: 4
@@ -670,25 +671,25 @@ actions:
         fm.proficiency = character.proficiencyBonus
         fm.url = character.url
         fm.image = character.image
-        fm.race = `"${find_file(character.race.fullName, '5. Mechanics/Races')}"`
+        fm.race = `"${await find_file(character.race.fullName, '5. Mechanics/Races')}"`
         fm.alignment = `"${character.alignment}"`
-        fm.description = build_yaml(character.description, 2)
-        fm.passives = build_yaml(character.passives, 2)
-        fm.proficiencies = build_yaml(character.proficiencies, 2)
+        fm.description = await build_yaml(character.description, 2)
+        fm.passives = await build_yaml(character.passives, 2)
+        fm.proficiencies = await build_yaml(character.proficiencies, 2)
         fm.speed = character.speeds.walk
-        fm.defences = build_yaml(character.defences, 2)
-        fm.background = build_yaml(character.background, 2)
-        fm.classes = build_yaml(character.classes, 2, {name: '5. Mechanics/Classes', subClass: '5. Mechanics/Classes'})
-        fm.abilityScores = build_yaml(character.abilityScores, 2)
-        fm.savingThrows = build_yaml(character.savingThrows, 2)
-        fm.skills = build_yaml(character.skills, 2)
-        fm.racialTraits = build_yaml(character.racialTraits, 2)
-        fm.classFeatures = build_yaml(character.classFeatures, 2)
-        fm.feats = build_yaml(character.feats, 2)
-        fm.raceSpells = build_yaml(character.spells.race, 2)
-        fm.classSpells = build_yaml(character.spells.class, 2, {name: '5. Mechanics/Spells'})
-        fm.currencies = build_yaml(character.currencies, 2)
-        fm.inventory = build_yaml(character.inventory, 2, {name: '5. Mechanics/Items'})
+        fm.defences = await build_yaml(character.defences, 2)
+        fm.background = await build_yaml(character.background, 2)
+        fm.classes = await build_yaml(character.classes, 2, {name: '5. Mechanics/Classes', subClass: '5. Mechanics/Classes'})
+        fm.abilityScores = await build_yaml(character.abilityScores, 2)
+        fm.savingThrows = await build_yaml(character.savingThrows, 2)
+        fm.skills = await build_yaml(character.skills, 2)
+        fm.racialTraits = await build_yaml(character.racialTraits, 2)
+        fm.classFeatures = await build_yaml(character.classFeatures, 2)
+        fm.feats = await build_yaml(character.feats, 2)
+        fm.raceSpells = await build_yaml(character.spells.race, 2)
+        fm.classSpells = await build_yaml(character.spells.class, 2, {name: '5. Mechanics/Spells'})
+        fm.currencies = await build_yaml(character.currencies, 2)
+        fm.inventory = await build_yaml(character.inventory, 2, {name: '5. Mechanics/Items'})
       })
 ```
 
