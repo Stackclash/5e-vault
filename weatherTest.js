@@ -104,6 +104,28 @@ const getWind = (climate) => {
     return Math.random() * (windHigh - windLow) + windLow
 }
 
+const assignRainDaysInYear = (climate) => {
+    const rainDays = []
+    seasons.forEach(season => {
+        rainDays.push(...assignRainDaysInSeason(climate, season.name))
+    })
+    return rainDays
+}
+
+const assignRainDaysInSeason = (climate, season) => {
+    const { precipProb } = climates.find(climateData => climateData.name === climate)
+    const { precipMod, start, end } = seasons.find(seasonData => seasonData.name === season)
+    const seasonDays = getDatesInRange(start, end)
+    const totalRainDaysInSeason = Math.floor(precipProb * seasonLength) * precipMod
+    const precipitationDays = new Set()
+
+    while (precipitationDays.size < totalRainDaysInSeason) {
+        const randomDay = Math.floor(Math.random() * seasonDays.length)
+        precipitationDays.add(seasonDays[randomDay])
+    }
+    return Array.from(precipitationDays)
+}
+
 const getWeatherForDate = (climate, date) => {
     const tempRange = getTempRange(climate, date)
     const precipitation = getPrecipitation(climate, date)
@@ -118,22 +140,10 @@ const getWeatherForDate = (climate, date) => {
     }
 }
 
-const assignRainDaysInSeason = (climate, season) => {
-    const { precipProb } = climates.find(climateData => climateData.name === climate)
-    const { precipMod, start, end } = seasons.find(season => season.name === season)
-    const seasonDays = getDatesInRange(start, end)
-    const totalRainDaysInSeason = Math.floor(precipProb * seasonLength) * precipMod
-    const precipitationDays = new Set()
-
-    for (let i = 0; i < seasonLength; i++) {
-        if (Math.random() < precipProb) precipitationDays.push(i)
-    }
-    return precipitationDays
-}
-
 const getWeatherForDateRange = (climate, startDate, endDate) => {
     const dateRange = getDatesInRange(startDate, endDate)
     const weather = dateRange.map(date => getWeatherForDate(climate, date))
+    weather.
 }
 
 // console.log(getTempRange('Coast','5-5-213'))
