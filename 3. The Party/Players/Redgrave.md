@@ -655,6 +655,7 @@ actions:
     code: |-
       const dndBeyondCharacter = await self.require.import('z_Scripts/Templater/dndBeyondCharacter.js')
       console.log(app.workspace.getActiveFile())
+      console.log(app.metadataCache.getFileCache(app.workspace.getActiveFile()).frontmatter.url)
 ```
 
 > [!infobox|n-th center wm-tl]
