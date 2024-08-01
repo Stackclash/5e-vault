@@ -653,7 +653,7 @@ hidden: true
 actions:
   - type: inlineJS
     code: |-
-      console.log(app)
+      console.log(app.plugins.getPlugin("templater-obsidian").templater.current_functions_object)
 ```
 
 > [!infobox|n-th center wm-tl]
