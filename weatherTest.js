@@ -92,9 +92,8 @@ const getTempRange = (climate, date) => {
 }
 
 // Not taking into account previous and next seasons
-const getPrecipitation = (climate, date) => {
+const getPrecipitation = (climate) => {
     const { precipProb } = climates.find(climateData => climateData.name === climate)
-    const { precipMod } = getSeason(date)
     return Math.random() < precipProb ? true : false
 }
 
@@ -118,9 +117,25 @@ const getWeatherForDate = (climate, date) => {
     }
 }
 
+const assignRainDaysInSeason = (climate, season) => {
+    const { precipProb } = climates.find(climateData => climateData.name === climate)
+    const { precipMod } = seasons.find(season => season.name === season)
+    const totalRainDaysInYear = Math.floor(precipProb * seasonLength)
+    const totalRainDaysInSeason = totalRainDaysInYear * precipMod
+
+    
+    const seasonLength = getDuration(start, end)
+    const { start, end } = season
+    const precipitationDays = []
+    for (let i = 0; i < seasonLength; i++) {
+        if (Math.random() < precipProb) precipitationDays.push(i)
+    }
+    return precipitationDays
+}
+
 const getWeatherForDateRange = (climate, startDate, endDate) => {
     const dateRange = getDatesInRange(startDate, endDate)
-    return dateRange.map(date => getWeatherForDate(climate, date))
+    const weather = dateRange.map(date => getWeatherForDate(climate, date))
 }
 
 // console.log(getTempRange('Coast','5-5-213'))
