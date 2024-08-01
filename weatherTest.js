@@ -1,6 +1,7 @@
 const matter = require('gray-matter')
 const fs = require('fs')
 const path = require('path')
+const { get } = require('http')
 
 const { tempFlux, seasons, months, climates, precipitations, winds } = matter(fs.readFileSync(path.join(__dirname, '1. DM Stuff/DM To-Do/Weather Generation.md'), 'utf8')).data
 
@@ -119,14 +120,12 @@ const getWeatherForDate = (climate, date) => {
 
 const assignRainDaysInSeason = (climate, season) => {
     const { precipProb } = climates.find(climateData => climateData.name === climate)
-    const { precipMod } = seasons.find(season => season.name === season)
+    const { precipMod, start } = seasons.find(season => season.name === season)
+    const seasonStart = getDayInYear(start)
     const totalRainDaysInYear = Math.floor(precipProb * seasonLength)
     const totalRainDaysInSeason = totalRainDaysInYear * precipMod
 
-    
-    const seasonLength = getDuration(start, end)
-    const { start, end } = season
-    const precipitationDays = []
+    const precipitationDays = new Set()
     for (let i = 0; i < seasonLength; i++) {
         if (Math.random() < precipProb) precipitationDays.push(i)
     }
