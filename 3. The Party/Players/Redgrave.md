@@ -661,8 +661,34 @@ actions:
       const find_file = await self.require.import('z_Scripts/Templater/find_file.js')
       const build_yaml = await self.require.import('z_Scripts/Templater/build_yaml.js')
 
-      app.fileManager.processFrontMatter(activeFile, (fm) => {
-        
+      app.fileManager.processFrontMatter(activeFile, async (fm) => {
+        fm.name = character.name
+        fm.level = character.level
+        fm.ac = character.armorClass
+        fm.hp = character.healthPoints.current
+        fm.modifier = character.initiative
+        fm.proficiency = character.proficiencyBonus
+        fm.url = character.url
+        fm.image = character.image
+        fm.race = `"${find_file(character.race.fullName, '5. Mechanics/Races')}"`
+        fm.alignment = `"${character.alignment}"`
+        fm.description = build_yaml(character.description, 2)
+        fm.passives = build_yaml(character.passives, 2)
+        fm.proficiencies = build_yaml(character.proficiencies, 2)
+        fm.speed = character.speeds.walk
+        fm.defences = build_yaml(character.defences, 2)
+        fm.background = build_yaml(character.background, 2)
+        fm.classes = build_yaml(character.classes, 2, {name: '5. Mechanics/Classes', subClass: '5. Mechanics/Classes'})
+        fm.abilityScores = build_yaml(character.abilityScores, 2)
+        fm.savingThrows = build_yaml(character.savingThrows, 2)
+        fm.skills = build_yaml(character.skills, 2)
+        fm.racialTraits = build_yaml(character.racialTraits, 2)
+        fm.classFeatures = build_yaml(character.classFeatures, 2)
+        fm.feats = build_yaml(character.feats, 2)
+        fm.raceSpells = build_yaml(character.spells.race, 2)
+        fm.classSpells = build_yaml(character.spells.class, 2, {name: '5. Mechanics/Spells'})
+        fm.currencies = build_yaml(character.currencies, 2)
+        fm.inventory = build_yaml(character.inventory, 2, {name: '5. Mechanics/Items'})
       })
 ```
 
