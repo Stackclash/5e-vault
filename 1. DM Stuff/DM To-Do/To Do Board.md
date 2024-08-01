@@ -1,4 +1,5 @@
 ---
+
 kanban-plugin: board
 months:
   - name: Winterwane
@@ -19,6 +20,7 @@ months:
     length: 40
   - name: Fellnight
     length: 40
+
 ---
 
 ## Backlog
@@ -40,6 +42,7 @@ months:
 - [ ] Create script/roll tables to generate a NPC
 - [ ] [[Complete Critical Tables]]
 - [ ] [[See if info callout could use tabs]] ^lifr6c
+- [ ] Update Player Template to use a function for updating from DnD Beyond
 
 
 ## Research
