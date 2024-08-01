@@ -7,7 +7,7 @@ const build_object_yaml = (object, spaces, config, startWithNewLine) => {
     if (typeof value === 'string') {
       let finalValue = value
       if (config && typeof config === 'object' && config.hasOwnProperty(key)) {
-        itemString = `${key}: "${tp.user.find_file(finalValue, config[key])}"`
+        itemString = `${key}: "${find_file(finalValue, config[key])}"`
 
       } else {
         itemString = `${key}: "${finalValue.replaceAll('"', '\\"').replaceAll('\r\n', '\\n').replaceAll('\n', '\\n')}"`
