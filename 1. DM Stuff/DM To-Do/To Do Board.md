@@ -42,16 +42,16 @@ months:
 - [ ] Create script/roll tables to generate a NPC
 - [ ] [[Complete Critical Tables]]
 - [ ] [[See if info callout could use tabs]] ^lifr6c
-- [ ] Update Player Template to use a function for updating from DnD Beyond
 
 
 ## Research
 
-- [ ] [[Weather Generation]]
 
 
 ## In Progress
 
+- [ ] Update Player Template to use a function for updating from DnD Beyond
+- [ ] [[Weather Generation]]
 
 
 ## Done
