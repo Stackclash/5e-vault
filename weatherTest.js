@@ -238,8 +238,9 @@ const getConditionStates = (weather) => {
     const conditionStates = { }
     conditions.forEach(state => {
         if (state.conditions.every(condition => eval(condition))) {
-            precipitationState.name.push(state.name)
-            precipitationState.rules.push(...state.rules)
+            if (!conditionStates.hasOwnProperty(state.category)) conditionStates[state.category] = { name: '', rules: [] }
+            conditionStates[state.category].name.length > 0 ? conditionStates[state.category].name += `, ${state.name}` : conditionStates[state.category].name = state.name
+            conditionStates[state.category].rules.push(...state.rules)
         }
     })
     return conditionStates

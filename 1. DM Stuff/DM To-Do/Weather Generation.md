@@ -87,48 +87,48 @@ climates:
     tempLow: 0
 conditions:
   - name: Light Rain
-    category: ""
+    category: precipitation
     conditions: []
     rules: []
   - name: Heavy Rain
-    category: ""
+    category: precipitation
     conditions: []
     rules: []
   - name: Light Snow
-    category: ""
+    category: precipitation
     conditions: []
     rules: []
   - name: Heavy Snow
-    category: ""
+    category: precipitation
     conditions: []
     rules: []
   - name: Winter Test
-    category: ""
+    category: precipitation
     conditions:
       - season === 'Winter'
     rules:
       - It's cold!! Roll a Constitution Save
       - This is another rule
   - name: Summer Test
-    category: ""
+    category: precipitation
     conditions:
       - season === 'Summer'
     rules:
       - It's warm!
   - name: Light Wind
-    category: ""
+    category: wind
     conditions: []
     rules: []
   - name: Heavy Wind
-    category: ""
+    category: wind
     conditions: []
     rules: []
   - name: Tornado
-    category: ""
+    category: wind
     conditions: []
     rules: []
   - name: Hurricane
-    category: ""
+    category: wind
     conditions: []
     rules: []
 ---
@@ -393,7 +393,7 @@ dv.table([
 ], dv.current().conditions.map((climate, i) => {
   return [
     `\`INPUT[text:conditions[${i}].name]\``,
-    `\`INPUT[inlineSelect(option(precipitation,Precipitation),option(wind,Wind),option(temperature,Temperature)):conditions[${i}].category]\``,
+    `\`INPUT[inlineSelect(defaultValue(general),option(general,General),option(precipitation,Precipitation),option(wind,Wind),option(temperature,Temperature)):conditions[${i}].category]\``,
     `\`INPUT[inlineList:conditions[${i}].conditions]\``,
     `\`INPUT[inlineList:conditions[${i}].rules]\``
   ]
