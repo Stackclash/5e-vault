@@ -114,6 +114,7 @@ actions:
 ```
 
 **Use Calendarium:** `INPUT[toggle:useCalendarium]`
+**Daily Temp Flux:** `INPUT[number:tempFlux]`
 
 # Months
 `BUTTON[add-month,remove-month]`
@@ -330,9 +331,9 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.precipitations)) {
-          fm.precipitations = [{name: '', rules: []}]
+          fm.precipitations = [{name: '', conditions: [], rules: []}]
         } else {
-          fm.precipitations = [...fm.precipitations, {name: '', rules: []}]
+          fm.precipitations = [...fm.precipitations, {name: '', conditions: [], rules: []}]
         }
       })
 ```
@@ -361,10 +362,12 @@ if (errorMessages.length > 0) {
 ```dataviewjs
 dv.table([
   'Precipitation',
+  'Conditions',
   'Rules'
 ], dv.current().precipitations.map((climate, i) => {
   return [
     `\`INPUT[text:precipitations[${i}].name]\``,
+    `\`INPUT[inlineList:precipitations[${i}].conditions]\``,
     `\`INPUT[inlineList:precipitations[${i}].rules]\``
   ]
 }))
@@ -382,9 +385,9 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.winds)) {
-          fm.winds = [{name: '', rules: []}]
+          fm.winds = [{name: '', conditions: [], rules: []}]
         } else {
-          fm.winds = [...fm.winds, {name: '', rules: []}]
+          fm.winds = [...fm.winds, {name: '', conditions: [], rules: []}]
         }
       })
 ```
@@ -413,10 +416,12 @@ if (errorMessages.length > 0) {
 ```dataviewjs
 dv.table([
   'Wind',
+  'Conditions',
   'Rules'
 ], dv.current().winds.map((climate, i) => {
   return [
     `\`INPUT[text:winds[${i}].name]\``,
+    `\`INPUT[inlineList:winds[${i}].conditions]\``,
     `\`INPUT[inlineList:winds[${i}].rules]\``
   ]
 }))
