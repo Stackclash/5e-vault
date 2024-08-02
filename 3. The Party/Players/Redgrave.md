@@ -11,16 +11,15 @@ url: https://dndbeyond.com/characters/29682199
 image: https://www.dndbeyond.com/avatars/10846/680/1581111423-29682199.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: "[[5. Mechanics/Races/Warforged.md|Warforged]]"
 alignment: Neutral Good
-description: |-2
-  
-      gender: ""
-      age: ""
-      hair: ""
-      eyes: "Emeralds"
-      skin: "Metallic with gold engraving"
-      height: "6'5\""
-      weight: 300
-      size: "Medium"
+description:
+  gender: ""
+  age: ""
+  hair: ""
+  eyes: "Emeralds"
+  skin: "Metallic with gold engraving"
+  height: "6'5\""
+  weight: 300
+  size: "Medium"
 passives:
   perception: 17
   investigation: 11
@@ -654,6 +653,7 @@ hidden: true
 actions:
   - type: inlineJS
     code: |-
+      console.log('HERE')
       const dndBeyondCharacter = await self.require.import('z_Scripts/Templater/dndBeyondCharacter.js')
       const activeFile = app.workspace.getActiveFile()
       const dndBeyondId = app.metadataCache.getFileCache(activeFile).frontmatter.url.match(/\d+$/)[0]
@@ -673,23 +673,49 @@ actions:
         fm.image = character.image
         fm.race = `"${await find_file(character.race.fullName, '5. Mechanics/Races')}"`
         fm.alignment = `"${character.alignment}"`
-        fm.description = await build_yaml(character.description, 2)
-        fm.passives = await build_yaml(character.passives, 2)
-        fm.proficiencies = await build_yaml(character.proficiencies, 2)
+        fm.description = character.description
+        fm.passives = character.passives
+        fm.proficiencies = character.proficiencies
         fm.speed = character.speeds.walk
-        fm.defences = await build_yaml(character.defences, 2)
-        fm.background = await build_yaml(character.background, 2)
-        fm.classes = await build_yaml(character.classes, 2, {name: '5. Mechanics/Classes', subClass: '5. Mechanics/Classes'})
-        fm.abilityScores = await build_yaml(character.abilityScores, 2)
-        fm.savingThrows = await build_yaml(character.savingThrows, 2)
-        fm.skills = await build_yaml(character.skills, 2)
-        fm.racialTraits = await build_yaml(character.racialTraits, 2)
-        fm.classFeatures = await build_yaml(character.classFeatures, 2)
-        fm.feats = await build_yaml(character.feats, 2)
-        fm.raceSpells = await build_yaml(character.spells.race, 2)
-        fm.classSpells = await build_yaml(character.spells.class, 2, {name: '5. Mechanics/Spells'})
-        fm.currencies = await build_yaml(character.currencies, 2)
-        fm.inventory = await build_yaml(character.inventory, 2, {name: '5. Mechanics/Items'})
+        fm.defences = character.defences
+        fm.background = character.background
+        fm.classes character.classes.map(async (class) => {
+          return {
+            name: await find_file(class.name, '5. Mechanics/Classes'),
+            subClass: await find_file(class.subClass, '5. Mechanics/Classes'),
+            level: class.level
+          }
+        })
+        fm.abilityScores = character.abilityScores
+        fm.savingThrows = character.savingThrows
+        fm.skills = character.skills
+        fm.racialTraits = character.racialTraits
+        fm.classFeatures = character.classFeatures
+        fm.feats = character.feats
+        fm.raceSpells = character.spells.race
+        fm.classSpells = character.spells.class.map(async (classSpell) => {
+          return {
+            name: await find_file(classSpell, '5. Mechanics/Spells'),
+            level: classSpell.level
+            isPrepared: classSpell.isPrepared
+          }
+        })
+        fm.currencies = character.currencies
+        fm.inventory = character.inventory.map(async (inv) => {
+          return {
+            name: await find_file(inv.name, '5. Mechanics/Items')
+            type: inv.type
+            rarity: inv.rarity
+            quantity: inv.quantity
+            canEquip: inv.canEquip
+            equipped: inv.equipped
+            canAttune: inv.canAttune
+            attuned: inv.attuned
+            damage: inv.damage
+            damageType: inv.damageType
+            armorClass: inv.armorClass
+          }
+        })
       })
 ```
 
