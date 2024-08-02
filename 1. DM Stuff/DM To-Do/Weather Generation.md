@@ -92,8 +92,11 @@ states:
     rules: []
   - name: Heavy Rain
     category: precipitation
-    conditions: []
-    rules: []
+    conditions:
+      - blah blah blah
+      - aldkhahoianboinsaodifnoaidngona dfadf
+    rules:
+      - hey oh
   - name: Light Snow
     category: precipitation
     conditions: []
@@ -102,19 +105,6 @@ states:
     category: precipitation
     conditions: []
     rules: []
-  - name: Winter Test
-    category: precipitation
-    conditions:
-      - season === 'Winter'
-    rules:
-      - It's cold!! Roll a Constitution Save
-      - This is another rule
-  - name: Summer Test
-    category: precipitation
-    conditions:
-      - season === 'Summer'
-    rules:
-      - It's warm!
   - name: Light Wind
     category: wind
     conditions: []
