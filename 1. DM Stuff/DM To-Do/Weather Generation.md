@@ -139,20 +139,6 @@ actions:
   - type: command
     command: dataview:dataview-rebuild-current-view
 ```
-```meta-bind-button
-label: ""
-icon: x
-hidden: true
-class: ""
-tooltip: Delete?
-id: remove-item
-style: destructive
-actions:
-  - type: js
-    file: z_Scripts/Meta Bind/removeItem.js
-    args: {}
-
-```
 **Use Calendarium:** `INPUT[toggle:useCalendarium]`
 **Daily Temp Flux:** `INPUT[number:tempFlux]`
 
@@ -402,13 +388,15 @@ dv.table([
   'State',
   'Category',
   'Conditions',
-  'Rules'
+  'Rules',
+  'Delete'
 ], dv.current().conditions.map((climate, i) => {
   return [
     `\`INPUT[text:conditions[${i}].name]\``,
     `\`INPUT[inlineSelect(defaultValue(general),option(general,General),option(precipitation,Precipitation),option(wind,Wind),option(temperature,Temperature)):conditions[${i}].category]\``,
     `\`INPUT[inlineList:conditions[${i}].conditions]\``,
-    `\`INPUT[inlineList:conditions[${i}].rules]\``
+    `\`INPUT[inlineList:conditions[${i}].rules]\``,
+    `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: conditions\n      index: ${i}\n\`\`\``
   ]
 }))
 ```
