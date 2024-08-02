@@ -4,7 +4,7 @@ statblock: true
 name: Redgrave
 level: 7
 ac: 23
-hp: 52
+hp: 51
 modifier: -1
 proficiency: 3
 url: https://dndbeyond.com/characters/29682199
