@@ -3,3600 +3,5040 @@
     "date": "1-1-213",
     "season": "Winter",
     "tempRange": {
-      "low": 63.32011070110701,
-      "high": 79.32011070110701
+      "low": 67.30011070110702,
+      "high": 75.34011070110701
     },
-    "precipitation": true,
-    "wind": 52.855721993941025
+    "precipitation": false,
+    "wind": 30.06100956856213,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-2-213",
     "season": "Winter",
     "tempRange": {
-      "low": 62.98922509225092,
-      "high": 79.52922509225091
+      "low": 64.82922509225091,
+      "high": 77.68922509225092
     },
-    "precipitation": true,
-    "wind": 58.82980399554819
+    "precipitation": false,
+    "wind": 55.401530697694184,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-3-213",
     "season": "Winter",
     "tempRange": {
-      "low": 66.48833948339484,
-      "high": 75.90833948339483
+      "low": 69.12833948339484,
+      "high": 73.26833948339483
     },
-    "precipitation": true,
-    "wind": 31.938971930041134
+    "precipitation": false,
+    "wind": 57.57952304647419,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-4-213",
     "season": "Winter",
     "tempRange": {
-      "low": 70.52745387453875,
-      "high": 71.74745387453875
+      "low": 62.53745387453875,
+      "high": 79.73745387453874
     },
     "precipitation": false,
-    "wind": 31.304880364650863
+    "wind": 37.95123697691101,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-5-213",
     "season": "Winter",
     "tempRange": {
-      "low": 68.51656826568265,
-      "high": 73.63656826568266
+      "low": 62.87656826568265,
+      "high": 79.27656826568266
     },
-    "precipitation": false,
-    "wind": 58.07933215907068
+    "precipitation": true,
+    "wind": 30.806135511370442,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-6-213",
     "season": "Winter",
     "tempRange": {
-      "low": 69.78568265682657,
-      "high": 72.24568265682657
+      "low": 64.45568265682657,
+      "high": 77.57568265682657
     },
     "precipitation": true,
-    "wind": 55.02538968969138
+    "wind": 73.2924655395105,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-7-213",
     "season": "Winter",
     "tempRange": {
-      "low": 62.25479704797047,
-      "high": 79.65479704797048
+      "low": 61.70479704797047,
+      "high": 80.20479704797047
     },
-    "precipitation": true,
-    "wind": 31.033650214702753
+    "precipitation": false,
+    "wind": 62.567595992290244,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-8-213",
     "season": "Winter",
     "tempRange": {
-      "low": 61.39391143911439,
-      "high": 80.39391143911439
+      "low": 63.82391143911439,
+      "high": 77.96391143911438
     },
     "precipitation": false,
-    "wind": 42.75745217111124
+    "wind": 35.648775925613535,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-9-213",
     "season": "Winter",
     "tempRange": {
-      "low": 68.3030258302583,
-      "high": 73.36302583025831
+      "low": 70.56302583025831,
+      "high": 71.1030258302583
     },
     "precipitation": false,
-    "wind": 39.26344236491225
+    "wind": 30.430755226882972,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-10-213",
     "season": "Winter",
     "tempRange": {
-      "low": 66.08214022140221,
-      "high": 75.46214022140221
+      "low": 66.9821402214022,
+      "high": 74.56214022140222
     },
-    "precipitation": true,
-    "wind": 59.35132255177743
+    "precipitation": false,
+    "wind": 47.419931658776875,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-11-213",
     "season": "Winter",
     "tempRange": {
-      "low": 69.45125461254612,
-      "high": 71.97125461254613
+      "low": 68.15125461254613,
+      "high": 73.27125461254613
     },
-    "precipitation": true,
-    "wind": 72.92444474904033
+    "precipitation": false,
+    "wind": 32.21169696400057,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-12-213",
     "season": "Winter",
     "tempRange": {
-      "low": 69.90036900369003,
-      "high": 71.40036900369003
+      "low": 68.86036900369002,
+      "high": 72.44036900369004
     },
-    "precipitation": false,
-    "wind": 58.32513488042923
+    "precipitation": true,
+    "wind": 54.775059962761674,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-13-213",
     "season": "Winter",
     "tempRange": {
-      "low": 63.47948339483395,
-      "high": 77.69948339483395
+      "low": 67.25948339483395,
+      "high": 73.91948339483395
     },
-    "precipitation": false,
-    "wind": 36.33428201227781
+    "precipitation": true,
+    "wind": 51.713746940259796,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-14-213",
     "season": "Winter",
     "tempRange": {
-      "low": 62.83859778597787,
-      "high": 78.21859778597786
+      "low": 69.91859778597787,
+      "high": 71.13859778597786
     },
-    "precipitation": true,
-    "wind": 61.374740708963465
+    "precipitation": false,
+    "wind": 53.195207061641355,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-15-213",
     "season": "Winter",
     "tempRange": {
-      "low": 64.70771217712176,
-      "high": 76.22771217712177
+      "low": 67.39771217712178,
+      "high": 73.53771217712176
     },
     "precipitation": true,
-    "wind": 54.88700585200036
+    "wind": 78.79796519536353,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-16-213",
     "season": "Winter",
     "tempRange": {
-      "low": 61.306826568265684,
-      "high": 79.50682656826568
+      "low": 64.06682656826568,
+      "high": 76.74682656826569
     },
     "precipitation": true,
-    "wind": 59.60432443069999
+    "wind": 34.61540058522125,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-17-213",
     "season": "Winter",
     "tempRange": {
-      "low": 69.83594095940958,
-      "high": 70.8559409594096
+      "low": 66.29594095940959,
+      "high": 74.39594095940959
     },
-    "precipitation": true,
-    "wind": 32.98484064347697
+    "precipitation": false,
+    "wind": 33.45024495904285,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-18-213",
     "season": "Winter",
     "tempRange": {
-      "low": 62.5550553505535,
-      "high": 78.01505535055351
+      "low": 65.8550553505535,
+      "high": 74.71505535055351
     },
     "precipitation": false,
-    "wind": 32.44948394405375
+    "wind": 50.55223859019621,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-19-213",
     "season": "Winter",
     "tempRange": {
-      "low": 66.63416974169742,
-      "high": 73.81416974169743
+      "low": 62.364169741697424,
+      "high": 78.08416974169742
     },
     "precipitation": true,
-    "wind": 73.07116853003717
+    "wind": 77.39472904273177,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-20-213",
     "season": "Winter",
     "tempRange": {
-      "low": 69.16328413284133,
-      "high": 71.16328413284133
+      "low": 65.00328413284133,
+      "high": 75.32328413284132
     },
     "precipitation": true,
-    "wind": 75.01161412786459
+    "wind": 52.149198580985086,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-21-213",
     "season": "Winter",
     "tempRange": {
-      "low": 63.47239852398524,
-      "high": 76.73239852398524
+      "low": 61.11239852398524,
+      "high": 79.09239852398524
     },
     "precipitation": false,
-    "wind": 75.46514043426487
+    "wind": 45.296979129830035,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-22-213",
     "season": "Winter",
     "tempRange": {
-      "low": 61.051512915129145,
-      "high": 79.03151291512914
+      "low": 66.49151291512915,
+      "high": 73.59151291512914
     },
     "precipitation": false,
-    "wind": 73.00823804133395
+    "wind": 64.48533623546696,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-23-213",
     "season": "Winter",
     "tempRange": {
-      "low": 68.62062730627306,
-      "high": 71.34062730627306
+      "low": 67.51062730627307,
+      "high": 72.45062730627306
     },
     "precipitation": false,
-    "wind": 44.948206358172214
+    "wind": 76.38402554603744,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-24-213",
     "season": "Winter",
     "tempRange": {
-      "low": 65.81974169741697,
-      "high": 74.01974169741696
+      "low": 61.76974169741697,
+      "high": 78.06974169741697
     },
-    "precipitation": true,
-    "wind": 69.95535310832742
+    "precipitation": false,
+    "wind": 73.98664765415978,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-25-213",
     "season": "Winter",
     "tempRange": {
-      "low": 69.30885608856089,
-      "high": 70.40885608856088
+      "low": 66.03885608856089,
+      "high": 73.67885608856088
     },
     "precipitation": true,
-    "wind": 75.00397268355773
+    "wind": 73.44707765774555,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-26-213",
     "season": "Winter",
     "tempRange": {
-      "low": 65.83797047970481,
-      "high": 73.7579704797048
+      "low": 61.2379704797048,
+      "high": 78.3579704797048
     },
     "precipitation": false,
-    "wind": 30.03547416073515
+    "wind": 54.3985972026142,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-27-213",
     "season": "Winter",
     "tempRange": {
-      "low": 62.1370848708487,
-      "high": 77.3370848708487
+      "low": 60.627084870848705,
+      "high": 78.8470848708487
     },
     "precipitation": true,
-    "wind": 68.56495425829677
+    "wind": 41.69377499434404,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-28-213",
     "season": "Winter",
     "tempRange": {
-      "low": 61.84619926199262,
-      "high": 77.50619926199262
+      "low": 68.27619926199262,
+      "high": 71.07619926199263
     },
-    "precipitation": false,
-    "wind": 55.045002829917586
+    "precipitation": true,
+    "wind": 46.151075814552456,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-29-213",
     "season": "Winter",
     "tempRange": {
-      "low": 60.655313653136524,
-      "high": 78.57531365313653
+      "low": 69.29531365313653,
+      "high": 69.93531365313652
     },
-    "precipitation": true,
-    "wind": 72.14692198243625
+    "precipitation": false,
+    "wind": 32.727351816972565,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-30-213",
     "season": "Winter",
     "tempRange": {
-      "low": 63.85442804428044,
-      "high": 75.25442804428044
+      "low": 65.07442804428044,
+      "high": 74.03442804428045
     },
-    "precipitation": false,
-    "wind": 52.0227770906036
+    "precipitation": true,
+    "wind": 42.24849467174146,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-31-213",
     "season": "Winter",
     "tempRange": {
-      "low": 68.75354243542436,
-      "high": 70.23354243542435
+      "low": 66.37354243542435,
+      "high": 72.61354243542436
     },
-    "precipitation": false,
-    "wind": 67.55586375285777
+    "precipitation": true,
+    "wind": 77.01187406522935,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-32-213",
     "season": "Winter",
     "tempRange": {
-      "low": 61.172656826568264,
-      "high": 77.69265682656827
+      "low": 62.742656826568265,
+      "high": 76.12265682656826
     },
     "precipitation": true,
-    "wind": 73.88558944777415
+    "wind": 32.67380177003824,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-33-213",
     "season": "Winter",
     "tempRange": {
-      "low": 60.38177121771218,
-      "high": 78.36177121771217
+      "low": 63.74177121771218,
+      "high": 75.00177121771218
     },
-    "precipitation": false,
-    "wind": 71.95615801884215
+    "precipitation": true,
+    "wind": 43.92633242523904,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-34-213",
     "season": "Winter",
     "tempRange": {
-      "low": 67.70088560885608,
-      "high": 70.92088560885608
+      "low": 68.66088560885608,
+      "high": 69.96088560885609
     },
-    "precipitation": true,
-    "wind": 38.13974156885248
+    "precipitation": false,
+    "wind": 64.23993852178887,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-35-213",
     "season": "Winter",
     "tempRange": {
-      "low": 64.85,
-      "high": 73.65
+      "low": 69.11,
+      "high": 69.39
     },
-    "precipitation": true,
-    "wind": 70.1106691106824
+    "precipitation": false,
+    "wind": 71.6991688849733,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-36-213",
     "season": "Spring",
     "tempRange": {
-      "low": 81.67,
-      "high": 89.83
+      "low": 79.22,
+      "high": 92.28
     },
-    "precipitation": true,
-    "wind": 72.41432333474994
+    "precipitation": false,
+    "wind": 56.02569256198355,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "1-37-213",
     "season": "Spring",
     "tempRange": {
-      "low": 85.48460674157303,
-      "high": 85.64460674157303
+      "low": 84.24460674157304,
+      "high": 86.88460674157302
     },
     "precipitation": true,
-    "wind": 68.42366237730468
+    "wind": 37.671368723492236,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-38-213",
     "season": "Spring",
     "tempRange": {
-      "low": 82.45921348314606,
-      "high": 88.29921348314606
+      "low": 82.38921348314607,
+      "high": 88.36921348314605
     },
     "precipitation": true,
-    "wind": 34.41860188422722
+    "wind": 61.7579388204378,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-39-213",
     "season": "Spring",
     "tempRange": {
-      "low": 81.0038202247191,
-      "high": 89.3838202247191
+      "low": 80.6338202247191,
+      "high": 89.7538202247191
     },
-    "precipitation": false,
-    "wind": 60.784877514707105
+    "precipitation": true,
+    "wind": 38.38222689919379,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "1-40-213",
     "season": "Spring",
     "tempRange": {
-      "low": 82.86842696629213,
-      "high": 87.14842696629213
+      "low": 79.13842696629213,
+      "high": 90.87842696629214
     },
     "precipitation": true,
-    "wind": 76.81672442515989
+    "wind": 64.77055522410404,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-1-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.28303370786516,
-      "high": 91.36303370786517
+      "low": 78.19303370786517,
+      "high": 91.45303370786516
     },
-    "precipitation": true,
-    "wind": 73.29214953827727
+    "precipitation": false,
+    "wind": 76.28752858699687,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-2-213",
     "season": "Spring",
     "tempRange": {
-      "low": 81.1576404494382,
-      "high": 88.11764044943821
+      "low": 76.56764044943822,
+      "high": 92.7076404494382
     },
     "precipitation": false,
-    "wind": 64.699835863917
+    "wind": 38.870335444298284,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-3-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.40224719101124,
-      "high": 92.50224719101124
+      "low": 81.42224719101124,
+      "high": 87.48224719101124
     },
-    "precipitation": false,
-    "wind": 50.395856066628504
+    "precipitation": true,
+    "wind": 55.97338687762968,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-4-213",
     "season": "Spring",
     "tempRange": {
-      "low": 82.54685393258427,
-      "high": 85.98685393258427
+      "low": 79.30685393258427,
+      "high": 89.22685393258426
     },
-    "precipitation": true,
-    "wind": 78.07430796950345
+    "precipitation": false,
+    "wind": 44.463473921853144,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-5-213",
     "season": "Spring",
     "tempRange": {
-      "low": 82.2814606741573,
-      "high": 85.8814606741573
+      "low": 75.1014606741573,
+      "high": 93.0614606741573
     },
-    "precipitation": false,
-    "wind": 41.66368064746668
+    "precipitation": true,
+    "wind": 73.2902051735038,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-6-213",
     "season": "Spring",
     "tempRange": {
-      "low": 74.63606741573034,
-      "high": 93.15606741573035
+      "low": 74.86606741573034,
+      "high": 92.92606741573034
     },
-    "precipitation": true,
-    "wind": 76.89648191905155
+    "precipitation": false,
+    "wind": 38.710649120669146,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-7-213",
     "season": "Spring",
     "tempRange": {
-      "low": 75.84067415730337,
-      "high": 91.58067415730338
+      "low": 79.23067415730337,
+      "high": 88.19067415730338
     },
-    "precipitation": false,
-    "wind": 60.191307312451855
+    "precipitation": true,
+    "wind": 35.93807261421402,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-8-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.1352808988764,
-      "high": 90.9152808988764
+      "low": 81.9452808988764,
+      "high": 85.1052808988764
     },
-    "precipitation": true,
-    "wind": 79.84953699790528
+    "precipitation": false,
+    "wind": 57.00947029739356,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-9-213",
     "season": "Spring",
     "tempRange": {
-      "low": 74.31988764044944,
-      "high": 92.35988764044943
+      "low": 74.99988764044943,
+      "high": 91.67988764044944
     },
-    "precipitation": false,
-    "wind": 51.47454813999104
+    "precipitation": true,
+    "wind": 69.72706908388551,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-10-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.23449438202248,
-      "high": 88.07449438202248
+      "low": 75.22449438202247,
+      "high": 91.08449438202248
     },
-    "precipitation": false,
-    "wind": 50.16104111034774
+    "precipitation": true,
+    "wind": 69.87684878421857,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-11-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.1791011235955,
-      "high": 85.75910112359551
+      "low": 82.3191011235955,
+      "high": 83.61910112359551
     },
     "precipitation": true,
-    "wind": 38.999853040767206
+    "wind": 33.41533605279276,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-12-213",
     "season": "Spring",
     "tempRange": {
-      "low": 82.33370786516853,
-      "high": 83.23370786516854
+      "low": 80.63370786516853,
+      "high": 84.93370786516854
     },
-    "precipitation": false,
-    "wind": 45.93126480189706
+    "precipitation": true,
+    "wind": 43.51574501932649,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-13-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.81831460674157,
-      "high": 88.37831460674157
+      "low": 78.10831460674157,
+      "high": 87.08831460674156
     },
-    "precipitation": false,
-    "wind": 51.459007938038795
+    "precipitation": true,
+    "wind": 60.37180161919326,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-14-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.46292134831461,
-      "high": 84.36292134831461
+      "low": 77.3429213483146,
+      "high": 87.48292134831462
     },
     "precipitation": true,
-    "wind": 68.6208814606764
+    "wind": 71.63558044381534,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-15-213",
     "season": "Spring",
     "tempRange": {
-      "low": 81.27752808988764,
-      "high": 83.17752808988764
+      "low": 79.24752808988764,
+      "high": 85.20752808988765
     },
     "precipitation": false,
-    "wind": 30.423275500388954
+    "wind": 79.22353776348096,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-16-213",
     "season": "Spring",
     "tempRange": {
-      "low": 75.87213483146067,
-      "high": 88.21213483146067
+      "low": 78.68213483146067,
+      "high": 85.40213483146067
     },
     "precipitation": false,
-    "wind": 61.46438987538886
+    "wind": 40.55808089207862,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-17-213",
     "season": "Spring",
     "tempRange": {
-      "low": 75.4667415730337,
-      "high": 88.2467415730337
+      "low": 75.2367415730337,
+      "high": 88.4767415730337
     },
     "precipitation": false,
-    "wind": 74.98244978893774
+    "wind": 35.133003924909204,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-18-213",
     "season": "Spring",
     "tempRange": {
-      "low": 73.01134831460675,
-      "high": 90.33134831460674
+      "low": 74.91134831460674,
+      "high": 88.43134831460675
     },
-    "precipitation": false,
-    "wind": 73.15004713562766
+    "precipitation": true,
+    "wind": 44.11234518568203,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-19-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.90595505617978,
-      "high": 86.06595505617977
+      "low": 81.07595505617978,
+      "high": 81.89595505617977
     },
     "precipitation": true,
-    "wind": 58.40576600326242
+    "wind": 60.27108989500867,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-20-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.47056179775281,
-      "high": 85.1305617977528
+      "low": 75.34056179775281,
+      "high": 87.2605617977528
     },
-    "precipitation": false,
-    "wind": 50.537331071381836
+    "precipitation": true,
+    "wind": 75.5257842958014,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-21-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.81516853932584,
-      "high": 81.41516853932583
+      "low": 72.43516853932584,
+      "high": 89.79516853932583
     },
-    "precipitation": false,
-    "wind": 76.97458988268335
+    "precipitation": true,
+    "wind": 33.029207893807126,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-22-213",
     "season": "Spring",
     "tempRange": {
-      "low": 71.33977528089888,
-      "high": 90.51977528089888
+      "low": 73.40977528089888,
+      "high": 88.44977528089888
     },
     "precipitation": true,
-    "wind": 33.4225095965595
+    "wind": 56.07400568742213,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-23-213",
     "season": "Spring",
     "tempRange": {
-      "low": 72.57438202247191,
-      "high": 88.91438202247191
+      "low": 78.07438202247191,
+      "high": 83.41438202247191
     },
-    "precipitation": true,
-    "wind": 43.58693022416138
+    "precipitation": false,
+    "wind": 37.764676920189906,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-24-213",
     "season": "Spring",
     "tempRange": {
-      "low": 74.77898876404494,
-      "high": 86.33898876404494
+      "low": 71.27898876404494,
+      "high": 89.83898876404494
     },
-    "precipitation": true,
-    "wind": 45.09488165264526
+    "precipitation": false,
+    "wind": 44.97680203046991,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-25-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.92359550561797,
-      "high": 83.82359550561797
+      "low": 74.34359550561797,
+      "high": 86.40359550561797
     },
-    "precipitation": true,
-    "wind": 63.881031985537824
+    "precipitation": false,
+    "wind": 52.31757230283071,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-26-213",
     "season": "Spring",
     "tempRange": {
-      "low": 70.19820224719102,
-      "high": 90.17820224719101
+      "low": 74.75820224719101,
+      "high": 85.61820224719102
     },
-    "precipitation": false,
-    "wind": 68.74712578959928
+    "precipitation": true,
+    "wind": 37.130759795175415,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-27-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.90280898876405,
-      "high": 82.10280898876404
+      "low": 76.79280898876405,
+      "high": 83.21280898876404
     },
-    "precipitation": false,
-    "wind": 67.25847634714256
+    "precipitation": true,
+    "wind": 60.63084840893623,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-28-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.64741573033707,
-      "high": 81.98741573033708
+      "low": 79.40741573033708,
+      "high": 80.22741573033707
     },
-    "precipitation": false,
-    "wind": 76.69245712329675
+    "precipitation": true,
+    "wind": 76.59070096690348,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-29-213",
     "season": "Spring",
     "tempRange": {
-      "low": 72.24202247191012,
-      "high": 87.02202247191012
+      "low": 75.00202247191012,
+      "high": 84.26202247191011
     },
-    "precipitation": true,
-    "wind": 71.40194433312803
+    "precipitation": false,
+    "wind": 63.66888395763965,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-30-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.66662921348315,
-      "high": 81.22662921348315
+      "low": 70.74662921348315,
+      "high": 88.14662921348315
     },
     "precipitation": true,
-    "wind": 72.58588891615734
+    "wind": 76.94618683165663,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-31-213",
     "season": "Spring",
     "tempRange": {
-      "low": 79.18123595505618,
-      "high": 79.34123595505618
+      "low": 73.88123595505618,
+      "high": 84.64123595505617
     },
-    "precipitation": false,
-    "wind": 78.30770690904993
+    "precipitation": true,
+    "wind": 47.92981956649238,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-32-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.99584269662921,
-      "high": 79.15584269662921
+      "low": 75.9858426966292,
+      "high": 82.16584269662921
     },
     "precipitation": true,
-    "wind": 38.89110150377134
+    "wind": 75.35389327852948,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-33-213",
     "season": "Spring",
     "tempRange": {
-      "low": 72.31044943820226,
-      "high": 85.47044943820225
+      "low": 77.20044943820226,
+      "high": 80.58044943820225
     },
     "precipitation": false,
-    "wind": 43.32001783440365
+    "wind": 52.921775416839125,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-34-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.99505617977529,
-      "high": 80.41505617977528
+      "low": 74.60505617977529,
+      "high": 82.80505617977528
     },
     "precipitation": true,
-    "wind": 62.52171674932529
+    "wind": 46.88787619853959,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-35-213",
     "season": "Spring",
     "tempRange": {
-      "low": 70.50966292134831,
-      "high": 86.52966292134832
+      "low": 70.04966292134831,
+      "high": 86.98966292134831
     },
-    "precipitation": true,
-    "wind": 55.17973412316091
+    "precipitation": false,
+    "wind": 65.17766048759685,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-36-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.11426966292134,
-      "high": 80.55426966292134
+      "low": 70.04426966292135,
+      "high": 86.62426966292134
     },
-    "precipitation": true,
-    "wind": 74.34786436540432
+    "precipitation": false,
+    "wind": 68.67505048519777,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-37-213",
     "season": "Spring",
     "tempRange": {
-      "low": 70.01887640449439,
-      "high": 86.27887640449438
+      "low": 72.62887640449439,
+      "high": 83.66887640449438
     },
-    "precipitation": false,
-    "wind": 62.49356039136503
+    "precipitation": true,
+    "wind": 72.90428804261623,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-38-213",
     "season": "Spring",
     "tempRange": {
-      "low": 75.09348314606741,
-      "high": 80.83348314606742
+      "low": 71.48348314606741,
+      "high": 84.44348314606742
     },
     "precipitation": true,
-    "wind": 67.77144415585671
+    "wind": 36.13956291392053,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "2-39-213",
     "season": "Spring",
     "tempRange": {
-      "low": 73.46808988764045,
-      "high": 82.08808988764045
+      "low": 72.91808988764045,
+      "high": 82.63808988764045
     },
     "precipitation": false,
-    "wind": 59.162426337338964
+    "wind": 57.973629337911454,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "2-40-213",
     "season": "Spring",
     "tempRange": {
-      "low": 73.45269662921348,
-      "high": 81.73269662921348
+      "low": 68.22269662921347,
+      "high": 86.96269662921348
     },
     "precipitation": true,
-    "wind": 77.22848744522975
+    "wind": 56.735402065690536,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-1-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.16724719101124,
-      "high": 78.98724719101124
+      "low": 72.41724719101124,
+      "high": 82.73724719101124
     },
-    "precipitation": false,
-    "wind": 64.89247729585028
+    "precipitation": true,
+    "wind": 62.746595404901235,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-2-213",
     "season": "Spring",
     "tempRange": {
-      "low": 69.1117415730337,
-      "high": 86.3517415730337
+      "low": 71.2017415730337,
+      "high": 84.2617415730337
     },
     "precipitation": true,
-    "wind": 77.21787221207794
+    "wind": 35.55443582005135,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-3-213",
     "season": "Spring",
     "tempRange": {
-      "low": 70.05623595505618,
-      "high": 85.71623595505618
+      "low": 72.22623595505618,
+      "high": 83.54623595505618
     },
-    "precipitation": true,
-    "wind": 66.46255063766316
+    "precipitation": false,
+    "wind": 59.97000792553983,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-4-213",
     "season": "Spring",
     "tempRange": {
-      "low": 68.41073033707866,
-      "high": 87.67073033707865
+      "low": 68.95073033707865,
+      "high": 87.13073033707866
     },
     "precipitation": false,
-    "wind": 33.46761042446565
+    "wind": 46.49557607549224,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-5-213",
     "season": "Spring",
     "tempRange": {
-      "low": 69.26522471910113,
-      "high": 87.12522471910111
+      "low": 72.66522471910112,
+      "high": 83.72522471910112
     },
     "precipitation": false,
-    "wind": 67.74713829190884
+    "wind": 37.07249791362119,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-6-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.58971910112359,
-      "high": 80.1097191011236
+      "low": 77.3297191011236,
+      "high": 79.3697191011236
     },
-    "precipitation": false,
-    "wind": 44.616059791179445
+    "precipitation": true,
+    "wind": 49.18356569551646,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-7-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.01421348314607,
-      "high": 79.99421348314605
+      "low": 77.71421348314605,
+      "high": 79.29421348314607
     },
-    "precipitation": false,
-    "wind": 70.25952231987853
+    "precipitation": true,
+    "wind": 59.965214211933,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-8-213",
     "season": "Spring",
     "tempRange": {
-      "low": 72.67870786516853,
-      "high": 84.63870786516854
+      "low": 77.55870786516854,
+      "high": 79.75870786516853
     },
-    "precipitation": true,
-    "wind": 38.82838001318518
+    "precipitation": false,
+    "wind": 61.00177121966663,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-9-213",
     "season": "Spring",
     "tempRange": {
-      "low": 73.80320224719101,
-      "high": 83.82320224719102
+      "low": 70.55320224719101,
+      "high": 87.07320224719102
     },
     "precipitation": false,
-    "wind": 30.64193211941317
+    "wind": 68.07790121653426,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-10-213",
     "season": "Spring",
     "tempRange": {
-      "low": 74.15769662921348,
-      "high": 83.77769662921348
+      "low": 69.24769662921348,
+      "high": 88.68769662921348
     },
     "precipitation": true,
-    "wind": 46.64887353522025
+    "wind": 62.21070941321006,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-11-213",
     "season": "Spring",
     "tempRange": {
-      "low": 74.97219101123595,
-      "high": 83.27219101123596
+      "low": 72.86219101123595,
+      "high": 85.38219101123596
     },
     "precipitation": true,
-    "wind": 32.263441032514514
+    "wind": 79.21675369059773,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-12-213",
     "season": "Spring",
     "tempRange": {
-      "low": 71.41668539325843,
-      "high": 87.13668539325843
+      "low": 75.86668539325844,
+      "high": 82.68668539325843
     },
     "precipitation": true,
-    "wind": 70.17984894274457
+    "wind": 67.21762279049855,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-13-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.9911797752809,
-      "high": 80.8711797752809
+      "low": 74.4611797752809,
+      "high": 84.4011797752809
     },
-    "precipitation": false,
-    "wind": 72.65739359827761
+    "precipitation": true,
+    "wind": 48.28088963621626,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-14-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.21567415730337,
-      "high": 81.95567415730338
+      "low": 77.68567415730337,
+      "high": 81.48567415730338
     },
     "precipitation": false,
-    "wind": 61.920213489728425
+    "wind": 46.06094746946929,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-15-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.36016853932584,
-      "high": 81.12016853932583
+      "low": 71.68016853932583,
+      "high": 87.80016853932584
     },
     "precipitation": true,
-    "wind": 39.32696485090195
+    "wind": 44.99857764816085,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-16-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.99466292134831,
-      "high": 80.79466292134832
+      "low": 74.49466292134831,
+      "high": 85.29466292134832
     },
     "precipitation": true,
-    "wind": 53.115032924111645
+    "wind": 45.80936890740908,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-17-213",
     "season": "Spring",
     "tempRange": {
-      "low": 75.1091573033708,
-      "high": 84.98915730337079
+      "low": 73.75915730337078,
+      "high": 86.3391573033708
     },
-    "precipitation": true,
-    "wind": 72.07757584775854
+    "precipitation": false,
+    "wind": 71.3122218724773,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-18-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.98365168539326,
-      "high": 83.42365168539325
+      "low": 70.76365168539326,
+      "high": 89.64365168539325
     },
-    "precipitation": false,
-    "wind": 39.18685222030808
+    "precipitation": true,
+    "wind": 57.17001035439546,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-19-213",
     "season": "Spring",
     "tempRange": {
-      "low": 74.91814606741573,
-      "high": 85.79814606741573
+      "low": 76.46814606741573,
+      "high": 84.24814606741573
     },
     "precipitation": true,
-    "wind": 32.64888920808121
+    "wind": 53.63468492765327,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-20-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.44264044943822,
-      "high": 83.5826404494382
+      "low": 78.68264044943821,
+      "high": 82.3426404494382
     },
     "precipitation": false,
-    "wind": 70.12812046851994
+    "wind": 49.34834527776547,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-21-213",
     "season": "Spring",
     "tempRange": {
-      "low": 72.06713483146068,
-      "high": 89.26713483146067
+      "low": 79.54713483146067,
+      "high": 81.78713483146068
     },
-    "precipitation": true,
-    "wind": 45.84428469631639
+    "precipitation": false,
+    "wind": 32.69325808919029,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-22-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.30162921348315,
-      "high": 83.34162921348315
+      "low": 79.17162921348314,
+      "high": 82.47162921348315
     },
     "precipitation": false,
-    "wind": 62.4860534186731
+    "wind": 42.80414874484846,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-23-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.21612359550561,
-      "high": 84.73612359550562
+      "low": 72.97612359550561,
+      "high": 88.97612359550561
     },
-    "precipitation": true,
-    "wind": 75.94220469939238
+    "precipitation": false,
+    "wind": 53.18017489164207,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-24-213",
     "season": "Spring",
     "tempRange": {
-      "low": 71.45061797752808,
-      "high": 90.8106179775281
+      "low": 71.2506179775281,
+      "high": 91.01061797752809
     },
     "precipitation": true,
-    "wind": 71.77082718929904
+    "wind": 32.640181946087935,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-25-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.54511235955057,
-      "high": 84.02511235955056
+      "low": 74.19511235955056,
+      "high": 88.37511235955057
     },
-    "precipitation": true,
-    "wind": 70.66841154973184
+    "precipitation": false,
+    "wind": 45.67783094596391,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-26-213",
     "season": "Spring",
     "tempRange": {
-      "low": 71.70960674157303,
-      "high": 91.16960674157303
+      "low": 73.21960674157303,
+      "high": 89.65960674157303
     },
     "precipitation": true,
-    "wind": 77.10170647071183
+    "wind": 77.15591768107693,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-27-213",
     "season": "Spring",
     "tempRange": {
-      "low": 73.54410112359551,
-      "high": 89.6441011235955
+      "low": 73.79410112359551,
+      "high": 89.3941011235955
     },
     "precipitation": false,
-    "wind": 32.7458921541728
+    "wind": 35.64176616802644,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-28-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.74859550561797,
-      "high": 84.74859550561797
+      "low": 77.46859550561797,
+      "high": 86.02859550561797
     },
     "precipitation": false,
-    "wind": 66.19079253474868
+    "wind": 71.03612800668158,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-29-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.91308988764045,
-      "high": 82.89308988764044
+      "low": 80.89308988764044,
+      "high": 82.91308988764045
     },
     "precipitation": false,
-    "wind": 77.54142840881474
+    "wind": 32.59920719700089,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-30-213",
     "season": "Spring",
     "tempRange": {
-      "low": 81.45758426966293,
-      "high": 82.65758426966292
+      "low": 78.44758426966293,
+      "high": 85.66758426966292
     },
-    "precipitation": false,
-    "wind": 40.434110669495745
+    "precipitation": true,
+    "wind": 65.69935952836471,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-31-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.70207865168538,
-      "high": 86.7220786516854
+      "low": 76.35207865168539,
+      "high": 88.07207865168539
     },
-    "precipitation": false,
-    "wind": 37.55630519645554
+    "precipitation": true,
+    "wind": 72.45355866674564,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-32-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.83657303370786,
-      "high": 85.89657303370787
+      "low": 78.24657303370786,
+      "high": 86.48657303370787
     },
-    "precipitation": true,
-    "wind": 33.168751908148856
+    "precipitation": false,
+    "wind": 43.33937543173551,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-33-213",
     "season": "Spring",
     "tempRange": {
-      "low": 74.30106741573034,
-      "high": 90.74106741573034
+      "low": 75.47106741573035,
+      "high": 89.57106741573034
     },
-    "precipitation": false,
-    "wind": 78.72331555351889
+    "precipitation": true,
+    "wind": 47.77286915847671,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-34-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.2455617977528,
-      "high": 85.10556179775281
+      "low": 82.0855617977528,
+      "high": 83.26556179775281
     },
     "precipitation": false,
-    "wind": 68.7703315738427
+    "wind": 39.231335524420615,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "3-35-213",
     "season": "Spring",
     "tempRange": {
-      "low": 72.96005617977528,
-      "high": 92.70005617977529
+      "low": 81.39005617977529,
+      "high": 84.27005617977528
     },
     "precipitation": true,
-    "wind": 50.20085211394772
+    "wind": 38.73757199948191,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-36-213",
     "season": "Spring",
     "tempRange": {
-      "low": 73.60455056179775,
-      "high": 92.36455056179774
+      "low": 77.57455056179775,
+      "high": 88.39455056179774
     },
-    "precipitation": false,
-    "wind": 52.583611590231655
+    "precipitation": true,
+    "wind": 64.57427632880184,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-37-213",
     "season": "Spring",
     "tempRange": {
-      "low": 74.84904494382022,
-      "high": 91.42904494382023
+      "low": 74.30904494382023,
+      "high": 91.96904494382022
     },
     "precipitation": true,
-    "wind": 46.89472509051036
+    "wind": 58.50514158911395,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-38-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.3935393258427,
-      "high": 86.1935393258427
+      "low": 80.9535393258427,
+      "high": 85.6335393258427
     },
     "precipitation": true,
-    "wind": 65.46192525264513
+    "wind": 37.06986276603638,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-39-213",
     "season": "Spring",
     "tempRange": {
-      "low": 81.51803370786516,
-      "high": 85.37803370786517
+      "low": 78.03803370786517,
+      "high": 88.85803370786516
     },
-    "precipitation": false,
-    "wind": 42.664376499246075
+    "precipitation": true,
+    "wind": 46.52981875233317,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "3-40-213",
     "season": "Spring",
     "tempRange": {
-      "low": 79.24252808988764,
-      "high": 87.96252808988764
+      "low": 76.02252808988764,
+      "high": 91.18252808988764
     },
-    "precipitation": true,
-    "wind": 65.32463653517296
+    "precipitation": false,
+    "wind": 39.40306872116974,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-1-213",
     "season": "Spring",
     "tempRange": {
-      "low": 81.39702247191012,
-      "high": 86.11702247191012
+      "low": 75.74702247191011,
+      "high": 91.76702247191012
     },
-    "precipitation": false,
-    "wind": 67.6517267306659
+    "precipitation": true,
+    "wind": 53.57870699014184,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-2-213",
     "season": "Spring",
     "tempRange": {
-      "low": 79.89151685393259,
-      "high": 87.93151685393258
+      "low": 74.99151685393258,
+      "high": 92.83151685393258
     },
     "precipitation": true,
-    "wind": 64.8364862979596
+    "wind": 38.482669554798115,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-3-213",
     "season": "Spring",
     "tempRange": {
-      "low": 82.58601123595506,
-      "high": 85.54601123595506
+      "low": 79.02601123595505,
+      "high": 89.10601123595507
     },
     "precipitation": false,
-    "wind": 36.864022674441216
+    "wind": 74.40066839667696,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-4-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.50050561797752,
-      "high": 91.94050561797752
+      "low": 82.98050561797753,
+      "high": 85.46050561797752
     },
-    "precipitation": false,
-    "wind": 60.79102743346543
+    "precipitation": true,
+    "wind": 49.69882805305869,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-5-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.615,
-      "high": 92.135
+      "low": 79.375,
+      "high": 89.375
     },
-    "precipitation": true,
-    "wind": 49.079122162038644
+    "precipitation": false,
+    "wind": 49.225222454884296,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-6-213",
     "season": "Summer",
     "tempRange": {
-      "low": 90.125,
-      "high": 106.125
+      "low": 94.925,
+      "high": 101.325
     },
     "precipitation": true,
-    "wind": 72.08401806621309
+    "wind": 57.95127372955811,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-7-213",
     "season": "Summer",
     "tempRange": {
-      "low": 97.66050561797752,
-      "high": 98.28050561797752
+      "low": 93.52050561797752,
+      "high": 102.42050561797753
     },
     "precipitation": true,
-    "wind": 41.29427073802448
+    "wind": 52.012496828540094,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-8-213",
     "season": "Summer",
     "tempRange": {
-      "low": 89.46601123595507,
-      "high": 106.16601123595505
+      "low": 92.41601123595505,
+      "high": 103.21601123595507
     },
     "precipitation": false,
-    "wind": 56.20511558579951
+    "wind": 34.12197773085424,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-9-213",
     "season": "Summer",
     "tempRange": {
-      "low": 96.64151685393259,
-      "high": 98.68151685393258
+      "low": 96.08151685393258,
+      "high": 99.24151685393258
     },
     "precipitation": false,
-    "wind": 68.04009819322883
+    "wind": 62.04911400080883,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-10-213",
     "season": "Summer",
     "tempRange": {
-      "low": 94.64702247191012,
-      "high": 100.36702247191012
+      "low": 91.90702247191012,
+      "high": 103.10702247191011
     },
     "precipitation": false,
-    "wind": 40.69331120638681
+    "wind": 40.66311789126719,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-11-213",
     "season": "Summer",
     "tempRange": {
-      "low": 88.91252808988764,
-      "high": 105.79252808988764
+      "low": 94.58252808988765,
+      "high": 100.12252808988764
     },
-    "precipitation": false,
-    "wind": 32.25249944511249
+    "precipitation": true,
+    "wind": 71.29606925686807,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-12-213",
     "season": "Summer",
     "tempRange": {
-      "low": 96.42803370786517,
-      "high": 97.96803370786516
+      "low": 93.55803370786516,
+      "high": 100.83803370786516
     },
     "precipitation": false,
-    "wind": 63.393091639720915
+    "wind": 31.273941812028156,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-13-213",
     "season": "Summer",
     "tempRange": {
-      "low": 88.4535393258427,
-      "high": 105.6335393258427
+      "low": 94.7535393258427,
+      "high": 99.33353932584271
     },
-    "precipitation": false,
-    "wind": 65.61307670466516
+    "precipitation": true,
+    "wind": 35.03748775908974,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-14-213",
     "season": "Summer",
     "tempRange": {
-      "low": 88.92904494382023,
-      "high": 104.84904494382022
+      "low": 89.10904494382022,
+      "high": 104.66904494382023
     },
-    "precipitation": true,
-    "wind": 65.78525943322666
+    "precipitation": false,
+    "wind": 36.86270166031009,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-15-213",
     "season": "Summer",
     "tempRange": {
-      "low": 92.24455056179775,
-      "high": 101.22455056179774
+      "low": 88.06455056179774,
+      "high": 105.40455056179775
     },
-    "precipitation": true,
-    "wind": 69.17841630487507
+    "precipitation": false,
+    "wind": 32.35309146398019,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-16-213",
     "season": "Summer",
     "tempRange": {
-      "low": 88.21005617977528,
-      "high": 104.95005617977529
+      "low": 92.29005617977528,
+      "high": 100.87005617977529
     },
     "precipitation": false,
-    "wind": 47.85423888297277
+    "wind": 74.61409032836625,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-17-213",
     "season": "Summer",
     "tempRange": {
-      "low": 95.2855617977528,
-      "high": 97.5655617977528
+      "low": 87.18556179775281,
+      "high": 105.6655617977528
     },
-    "precipitation": true,
-    "wind": 43.95212416608577
+    "precipitation": false,
+    "wind": 50.5746288794106,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-18-213",
     "season": "Summer",
     "tempRange": {
-      "low": 88.76106741573034,
-      "high": 103.78106741573035
+      "low": 94.46106741573034,
+      "high": 98.08106741573035
     },
-    "precipitation": true,
-    "wind": 78.3813342254351
+    "precipitation": false,
+    "wind": 42.11896932750251,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-19-213",
     "season": "Summer",
     "tempRange": {
-      "low": 86.56657303370787,
-      "high": 105.66657303370786
+      "low": 95.22657303370787,
+      "high": 97.00657303370787
     },
-    "precipitation": true,
-    "wind": 33.440599227808605
+    "precipitation": false,
+    "wind": 50.431069439436065,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-20-213",
     "season": "Summer",
     "tempRange": {
-      "low": 93.12207865168538,
-      "high": 98.80207865168539
+      "low": 94.77207865168539,
+      "high": 97.15207865168539
     },
-    "precipitation": false,
-    "wind": 64.05602666142867
+    "precipitation": true,
+    "wind": 72.87550351541007,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-21-213",
     "season": "Summer",
     "tempRange": {
-      "low": 87.73758426966293,
-      "high": 103.87758426966292
+      "low": 86.38758426966292,
+      "high": 105.22758426966293
     },
-    "precipitation": false,
-    "wind": 31.19691320969736
+    "precipitation": true,
+    "wind": 56.04126556539008,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-22-213",
     "season": "Summer",
     "tempRange": {
-      "low": 92.78308988764044,
-      "high": 98.52308988764045
+      "low": 86.48308988764045,
+      "high": 104.82308988764045
     },
     "precipitation": false,
-    "wind": 75.13237397072658
+    "wind": 64.12552452326496,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-23-213",
     "season": "Summer",
     "tempRange": {
-      "low": 94.38859550561797,
-      "high": 96.60859550561797
+      "low": 89.00859550561798,
+      "high": 101.98859550561797
     },
     "precipitation": false,
-    "wind": 61.936068203112455
+    "wind": 44.758676787391025,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-24-213",
     "season": "Summer",
     "tempRange": {
-      "low": 88.41410112359551,
-      "high": 102.2741011235955
+      "low": 89.10410112359551,
+      "high": 101.5841011235955
     },
-    "precipitation": true,
-    "wind": 57.4207305230289
+    "precipitation": false,
+    "wind": 42.60503552635831,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-25-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.87960674157303,
-      "high": 104.49960674157303
+      "low": 87.24960674157303,
+      "high": 103.12960674157303
     },
     "precipitation": true,
-    "wind": 76.06937981353943
+    "wind": 61.6504547314386,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-26-213",
     "season": "Summer",
     "tempRange": {
-      "low": 90.29511235955057,
-      "high": 99.77511235955056
+      "low": 87.93511235955057,
+      "high": 102.13511235955056
     },
     "precipitation": true,
-    "wind": 50.78932786989086
+    "wind": 33.49667744436222,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-27-213",
     "season": "Summer",
     "tempRange": {
-      "low": 90.93061797752809,
-      "high": 98.83061797752809
+      "low": 94.54061797752809,
+      "high": 95.2206179775281
     },
-    "precipitation": false,
-    "wind": 35.86371220703362
+    "precipitation": true,
+    "wind": 33.41380910383925,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-28-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.58612359550561,
-      "high": 103.86612359550561
+      "low": 89.66612359550561,
+      "high": 99.78612359550561
     },
-    "precipitation": true,
-    "wind": 49.64531423280048
+    "precipitation": false,
+    "wind": 78.50928568375795,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-29-213",
     "season": "Summer",
     "tempRange": {
-      "low": 92.43162921348315,
-      "high": 96.71162921348315
+      "low": 85.57162921348315,
+      "high": 103.57162921348315
     },
     "precipitation": true,
-    "wind": 68.3976097554813
+    "wind": 41.035130964498585,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-30-213",
     "season": "Summer",
     "tempRange": {
-      "low": 91.57713483146067,
-      "high": 97.25713483146068
+      "low": 88.51713483146067,
+      "high": 100.31713483146068
     },
-    "precipitation": false,
-    "wind": 75.94597739423688
+    "precipitation": true,
+    "wind": 42.716279150213836,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-31-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.5826404494382,
-      "high": 102.94264044943822
+      "low": 90.52264044943821,
+      "high": 98.0026404494382
     },
     "precipitation": true,
-    "wind": 79.02691532203625
+    "wind": 63.523802920145314,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-32-213",
     "season": "Summer",
     "tempRange": {
-      "low": 90.27814606741573,
-      "high": 97.93814606741573
+      "low": 87.02814606741573,
+      "high": 101.18814606741573
     },
-    "precipitation": false,
-    "wind": 54.37156690659454
+    "precipitation": true,
+    "wind": 72.95381388349288,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-33-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.86365168539325,
-      "high": 102.04365168539326
+      "low": 84.28365168539325,
+      "high": 103.62365168539326
     },
     "precipitation": false,
-    "wind": 36.92781312388294
+    "wind": 36.55119506613069,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-34-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.1391573033708,
-      "high": 102.45915730337079
+      "low": 85.14915730337079,
+      "high": 102.4491573033708
     },
     "precipitation": true,
-    "wind": 78.50380524185874
+    "wind": 45.20027282884063,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-35-213",
     "season": "Summer",
     "tempRange": {
-      "low": 87.52466292134831,
-      "high": 99.76466292134832
+      "low": 84.83466292134831,
+      "high": 102.45466292134832
     },
-    "precipitation": true,
-    "wind": 68.02253765851276
+    "precipitation": false,
+    "wind": 35.49083701194597,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-36-213",
     "season": "Summer",
     "tempRange": {
-      "low": 91.51016853932583,
-      "high": 95.47016853932584
+      "low": 88.16016853932584,
+      "high": 98.82016853932583
     },
-    "precipitation": false,
-    "wind": 42.664787550609844
+    "precipitation": true,
+    "wind": 64.15906721230871,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-37-213",
     "season": "Summer",
     "tempRange": {
-      "low": 91.86567415730337,
-      "high": 94.80567415730337
+      "low": 87.38567415730337,
+      "high": 99.28567415730338
     },
-    "precipitation": true,
-    "wind": 44.79380752252945
+    "precipitation": false,
+    "wind": 70.06342032425701,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-38-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.8711797752809,
-      "high": 100.4911797752809
+      "low": 88.6611797752809,
+      "high": 97.70117977528089
     },
     "precipitation": true,
-    "wind": 55.75848731347801
+    "wind": 58.35983568712447,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "4-39-213",
     "season": "Summer",
     "tempRange": {
-      "low": 84.31668539325844,
-      "high": 101.73668539325843
+      "low": 92.89668539325844,
+      "high": 93.15668539325843
     },
     "precipitation": false,
-    "wind": 69.16626280383012
+    "wind": 53.72445340006494,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "4-40-213",
     "season": "Summer",
     "tempRange": {
-      "low": 89.78219101123595,
-      "high": 95.96219101123596
+      "low": 88.18219101123596,
+      "high": 97.56219101123595
     },
-    "precipitation": false,
-    "wind": 41.90496145949888
+    "precipitation": true,
+    "wind": 45.23615403834191,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-1-213",
     "season": "Summer",
     "tempRange": {
-      "low": 84.84769662921347,
-      "high": 100.58769662921348
+      "low": 89.36769662921348,
+      "high": 96.06769662921347
     },
     "precipitation": true,
-    "wind": 65.212504290743
+    "wind": 30.37731803618041,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-2-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.81320224719101,
-      "high": 99.31320224719101
+      "low": 84.94320224719101,
+      "high": 100.18320224719102
     },
     "precipitation": false,
-    "wind": 48.72308954491878
+    "wind": 72.60147203017542,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-3-213",
     "season": "Summer",
     "tempRange": {
-      "low": 84.29870786516854,
-      "high": 100.51870786516854
+      "low": 84.15870786516854,
+      "high": 100.65870786516854
     },
     "precipitation": true,
-    "wind": 76.10003890392805
+    "wind": 74.23127915906718,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-4-213",
     "season": "Summer",
     "tempRange": {
-      "low": 83.71421348314607,
-      "high": 100.79421348314608
+      "low": 87.91421348314607,
+      "high": 96.59421348314608
     },
-    "precipitation": true,
-    "wind": 51.640137646053546
+    "precipitation": false,
+    "wind": 79.03751201525614,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-5-213",
     "season": "Summer",
     "tempRange": {
-      "low": 88.22971910112359,
-      "high": 95.9697191011236
+      "low": 90.0497191011236,
+      "high": 94.1497191011236
     },
     "precipitation": true,
-    "wind": 74.87764551180973
+    "wind": 58.07186569886699,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-6-213",
     "season": "Summer",
     "tempRange": {
-      "low": 83.26522471910113,
-      "high": 100.62522471910111
+      "low": 88.97522471910112,
+      "high": 94.91522471910112
     },
     "precipitation": false,
-    "wind": 62.978669969650674
+    "wind": 57.13288262736991,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-7-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.42073033707865,
-      "high": 98.16073033707866
+      "low": 82.27073033707866,
+      "high": 101.31073033707865
     },
-    "precipitation": true,
-    "wind": 40.24836674805859
+    "precipitation": false,
+    "wind": 66.5891149668204,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-8-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.63623595505618,
-      "high": 97.63623595505618
+      "low": 82.30623595505618,
+      "high": 100.96623595505618
     },
-    "precipitation": false,
-    "wind": 51.70355517567809
+    "precipitation": true,
+    "wind": 57.448577963208336,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-9-213",
     "season": "Summer",
     "tempRange": {
-      "low": 89.91174157303371,
-      "high": 93.0517415730337
+      "low": 85.9517415730337,
+      "high": 97.0117415730337
     },
     "precipitation": true,
-    "wind": 79.29798063227014
+    "wind": 77.85142098689944,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-10-213",
     "season": "Summer",
     "tempRange": {
-      "low": 90.38724719101124,
-      "high": 92.26724719101124
+      "low": 83.62724719101124,
+      "high": 99.02724719101124
     },
-    "precipitation": true,
-    "wind": 49.153513611729494
+    "precipitation": false,
+    "wind": 53.44096395233808,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-11-213",
     "season": "Summer",
     "tempRange": {
-      "low": 83.44095505617977,
-      "high": 98.78095505617978
+      "low": 90.60095505617977,
+      "high": 91.62095505617978
     },
     "precipitation": false,
-    "wind": 72.65007871254245
+    "wind": 53.88814689758708,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-12-213",
     "season": "Summer",
     "tempRange": {
-      "low": 86.61286516853933,
-      "high": 95.05286516853933
+      "low": 83.02286516853933,
+      "high": 98.64286516853933
     },
-    "precipitation": true,
-    "wind": 75.82986621020348
+    "precipitation": false,
+    "wind": 41.37101897092633,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-13-213",
     "season": "Summer",
     "tempRange": {
-      "low": 82.38477528089888,
-      "high": 98.72477528089888
+      "low": 85.72477528089888,
+      "high": 95.38477528089888
     },
     "precipitation": true,
-    "wind": 47.72609214121701
+    "wind": 65.29965003630431,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-14-213",
     "season": "Summer",
     "tempRange": {
-      "low": 89.29668539325843,
-      "high": 91.25668539325844
+      "low": 83.38668539325843,
+      "high": 97.16668539325843
     },
     "precipitation": true,
-    "wind": 49.50475768093024
+    "wind": 64.30661737193336,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-15-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.90859550561797,
-      "high": 94.08859550561797
+      "low": 80.19859550561797,
+      "high": 99.79859550561797
     },
     "precipitation": false,
-    "wind": 64.17924904240931
+    "wind": 78.96973315437029,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-16-213",
     "season": "Summer",
     "tempRange": {
-      "low": 84.26050561797753,
-      "high": 95.18050561797752
+      "low": 88.09050561797753,
+      "high": 91.35050561797752
     },
     "precipitation": false,
-    "wind": 52.09660641949955
+    "wind": 58.09227202640987,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-17-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.34241573033708,
-      "high": 93.54241573033707
+      "low": 85.56241573033708,
+      "high": 93.32241573033707
     },
     "precipitation": false,
-    "wind": 31.459691350462357
+    "wind": 46.70123927247356,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-18-213",
     "season": "Summer",
     "tempRange": {
-      "low": 81.63432584269663,
-      "high": 96.69432584269663
+      "low": 87.15432584269662,
+      "high": 91.17432584269663
     },
     "precipitation": false,
-    "wind": 57.89810176359897
+    "wind": 68.9179818062934,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-19-213",
     "season": "Summer",
     "tempRange": {
-      "low": 80.48623595505617,
-      "high": 97.28623595505618
+      "low": 87.98623595505617,
+      "high": 89.78623595505618
     },
-    "precipitation": false,
-    "wind": 67.0425261895034
+    "precipitation": true,
+    "wind": 61.186649687853304,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-20-213",
     "season": "Summer",
     "tempRange": {
-      "low": 80.17814606741572,
-      "high": 97.03814606741574
+      "low": 79.76814606741573,
+      "high": 97.44814606741573
     },
     "precipitation": false,
-    "wind": 64.59990545038389
+    "wind": 53.04455828507599,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-21-213",
     "season": "Summer",
     "tempRange": {
-      "low": 86.84005617977529,
-      "high": 89.82005617977528
+      "low": 83.59005617977529,
+      "high": 93.07005617977528
     },
     "precipitation": true,
-    "wind": 62.81953204908361
+    "wind": 57.17736828674691,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-22-213",
     "season": "Summer",
     "tempRange": {
-      "low": 79.79196629213483,
-      "high": 96.31196629213484
+      "low": 88.01196629213483,
+      "high": 88.09196629213484
     },
     "precipitation": false,
-    "wind": 64.1772434817124
+    "wind": 51.36839435914215,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-23-213",
     "season": "Summer",
     "tempRange": {
-      "low": 79.05387640449439,
-      "high": 96.49387640449439
+      "low": 80.26387640449438,
+      "high": 95.28387640449439
     },
     "precipitation": true,
-    "wind": 36.43351467770443
+    "wind": 70.08606267175242,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-24-213",
     "season": "Summer",
     "tempRange": {
-      "low": 80.46578651685392,
-      "high": 94.52578651685393
+      "low": 83.27578651685393,
+      "high": 91.71578651685392
     },
     "precipitation": false,
-    "wind": 44.57320733888591
+    "wind": 32.678220324787986,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-25-213",
     "season": "Summer",
     "tempRange": {
-      "low": 82.22769662921348,
-      "high": 92.20769662921347
+      "low": 79.19769662921348,
+      "high": 95.23769662921347
     },
     "precipitation": false,
-    "wind": 73.34434152983206
+    "wind": 71.48409123210783,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-26-213",
     "season": "Summer",
     "tempRange": {
-      "low": 78.86960674157302,
-      "high": 95.00960674157304
+      "low": 84.06960674157303,
+      "high": 89.80960674157303
     },
     "precipitation": true,
-    "wind": 71.09615826209046
+    "wind": 36.57084180160018,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-27-213",
     "season": "Summer",
     "tempRange": {
-      "low": 86.20151685393259,
-      "high": 87.12151685393258
+      "low": 81.59151685393257,
+      "high": 91.73151685393259
     },
-    "precipitation": true,
-    "wind": 46.15268805462229
+    "precipitation": false,
+    "wind": 64.74476072338456,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-28-213",
     "season": "Summer",
     "tempRange": {
-      "low": 78.21342696629213,
-      "high": 94.55342696629214
+      "low": 77.91342696629214,
+      "high": 94.85342696629213
     },
-    "precipitation": true,
-    "wind": 36.13445392850209
+    "precipitation": false,
+    "wind": 36.389242531332854,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-29-213",
     "season": "Summer",
     "tempRange": {
-      "low": 84.07533707865169,
-      "high": 88.13533707865169
+      "low": 79.69533707865169,
+      "high": 92.51533707865168
     },
     "precipitation": true,
-    "wind": 56.03984530941141
+    "wind": 38.371570987009676,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-30-213",
     "season": "Summer",
     "tempRange": {
-      "low": 83.02724719101124,
-      "high": 88.62724719101124
+      "low": 81.05724719101124,
+      "high": 90.59724719101123
     },
     "precipitation": true,
-    "wind": 32.51981828166171
+    "wind": 33.41099293762347,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-31-213",
     "season": "Summer",
     "tempRange": {
-      "low": 77.93915730337079,
-      "high": 93.15915730337079
+      "low": 81.2491573033708,
+      "high": 89.84915730337079
     },
     "precipitation": true,
-    "wind": 50.991728562717995
+    "wind": 72.31622708840119,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-32-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.13106741573033,
-      "high": 85.41106741573033
+      "low": 83.98106741573032,
+      "high": 86.56106741573034
     },
     "precipitation": false,
-    "wind": 63.91924395450977
+    "wind": 49.85068074799361,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-33-213",
     "season": "Summer",
     "tempRange": {
-      "low": 78.5729775280899,
-      "high": 91.4129775280899
+      "low": 79.9429775280899,
+      "high": 90.04297752808989
     },
-    "precipitation": true,
-    "wind": 42.02459104803192
+    "precipitation": false,
+    "wind": 64.75055877609933,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-34-213",
     "season": "Summer",
     "tempRange": {
-      "low": 84.54488764044943,
-      "high": 84.88488764044943
+      "low": 74.79488764044943,
+      "high": 94.63488764044943
     },
-    "precipitation": false,
-    "wind": 43.175969247145524
+    "precipitation": true,
+    "wind": 40.70030360920187,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-35-213",
     "season": "Summer",
     "tempRange": {
-      "low": 75.70679775280898,
-      "high": 93.16679775280899
+      "low": 77.31679775280898,
+      "high": 91.55679775280899
     },
     "precipitation": false,
-    "wind": 44.60499442669425
+    "wind": 58.84512251083502,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-36-213",
     "season": "Summer",
     "tempRange": {
-      "low": 77.61870786516853,
-      "high": 90.69870786516854
+      "low": 79.75870786516853,
+      "high": 88.55870786516854
     },
-    "precipitation": false,
-    "wind": 70.59392516548633
+    "precipitation": true,
+    "wind": 66.611473529775,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-37-213",
     "season": "Summer",
     "tempRange": {
-      "low": 74.5306179775281,
-      "high": 93.23061797752808
+      "low": 79.7806179775281,
+      "high": 87.98061797752808
     },
-    "precipitation": false,
-    "wind": 32.45509863726087
+    "precipitation": true,
+    "wind": 36.30679142921849,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-38-213",
     "season": "Summer",
     "tempRange": {
-      "low": 73.69252808988765,
-      "high": 93.51252808988764
+      "low": 74.72252808988765,
+      "high": 92.48252808988764
     },
     "precipitation": false,
-    "wind": 69.5920089111733
+    "wind": 64.81272346227753,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "5-39-213",
     "season": "Summer",
     "tempRange": {
-      "low": 77.89443820224719,
-      "high": 88.7544382022472
+      "low": 82.64443820224719,
+      "high": 84.0044382022472
     },
-    "precipitation": false,
-    "wind": 74.35228645535699
+    "precipitation": true,
+    "wind": 79.0730463080312,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "5-40-213",
     "season": "Summer",
     "tempRange": {
-      "low": 76.80634831460675,
-      "high": 89.28634831460674
+      "low": 82.22634831460675,
+      "high": 83.86634831460674
     },
-    "precipitation": false,
-    "wind": 61.44304959521217
+    "precipitation": true,
+    "wind": 68.2480254599424,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-1-213",
     "season": "Summer",
     "tempRange": {
-      "low": 76.8982584269663,
-      "high": 88.6382584269663
+      "low": 80.2782584269663,
+      "high": 85.2582584269663
     },
-    "precipitation": true,
-    "wind": 78.91824925022986
+    "precipitation": false,
+    "wind": 47.21830669180957,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-2-213",
     "season": "Summer",
     "tempRange": {
-      "low": 74.10016853932585,
-      "high": 90.88016853932585
+      "low": 74.59016853932584,
+      "high": 90.39016853932586
     },
-    "precipitation": false,
-    "wind": 44.82196634431894
+    "precipitation": true,
+    "wind": 48.07656742669265,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-3-213",
     "season": "Summer",
     "tempRange": {
-      "low": 81.35207865168539,
-      "high": 83.07207865168539
+      "low": 72.32207865168539,
+      "high": 92.10207865168539
     },
     "precipitation": true,
-    "wind": 45.28956325225954
+    "wind": 54.160968315366084,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-4-213",
     "season": "Summer",
     "tempRange": {
-      "low": 76.55398876404495,
-      "high": 87.31398876404494
+      "low": 77.32398876404494,
+      "high": 86.54398876404494
     },
     "precipitation": false,
-    "wind": 52.71942602925551
+    "wind": 45.45881992621058,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-5-213",
     "season": "Summer",
     "tempRange": {
-      "low": 75.62589887640449,
-      "high": 87.6858988764045
+      "low": 78.8358988764045,
+      "high": 84.47589887640449
     },
     "precipitation": false,
-    "wind": 63.85790976922273
+    "wind": 44.13110311612725,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-6-213",
     "season": "Summer",
     "tempRange": {
-      "low": 71.72780898876404,
-      "high": 91.02780898876405
+      "low": 72.27780898876405,
+      "high": 90.47780898876404
     },
-    "precipitation": false,
-    "wind": 62.455454847580626
+    "precipitation": true,
+    "wind": 78.96310159747668,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-7-213",
     "season": "Summer",
     "tempRange": {
-      "low": 72.1397191011236,
-      "high": 90.05971910112359
+      "low": 78.7097191011236,
+      "high": 83.4897191011236
     },
     "precipitation": false,
-    "wind": 79.2028088223567
+    "wind": 35.99965270137341,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-8-213",
     "season": "Summer",
     "tempRange": {
-      "low": 72.35162921348315,
-      "high": 89.29162921348315
+      "low": 73.76162921348315,
+      "high": 87.88162921348315
     },
     "precipitation": true,
-    "wind": 67.5699762874868
+    "wind": 66.21574884222053,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-9-213",
     "season": "Summer",
     "tempRange": {
-      "low": 72.1435393258427,
-      "high": 88.9435393258427
+      "low": 71.4735393258427,
+      "high": 89.61353932584271
     },
     "precipitation": false,
-    "wind": 62.708912537691944
+    "wind": 59.319689215273044,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-10-213",
     "season": "Summer",
     "tempRange": {
-      "low": 77.57544943820226,
-      "high": 82.95544943820225
+      "low": 71.23544943820225,
+      "high": 89.29544943820225
     },
-    "precipitation": true,
-    "wind": 34.90411807950467
+    "precipitation": false,
+    "wind": 69.24931589935852,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-11-213",
     "season": "Summer",
     "tempRange": {
-      "low": 79.64735955056179,
-      "high": 80.3273595505618
+      "low": 74.51735955056179,
+      "high": 85.45735955056179
     },
-    "precipitation": true,
-    "wind": 65.04827962263279
+    "precipitation": false,
+    "wind": 52.92385451577387,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-12-213",
     "season": "Summer",
     "tempRange": {
-      "low": 78.44926966292134,
-      "high": 80.96926966292135
+      "low": 78.82926966292135,
+      "high": 80.58926966292134
     },
     "precipitation": true,
-    "wind": 31.579573866220706
+    "wind": 73.96796047373148,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-13-213",
     "season": "Summer",
     "tempRange": {
-      "low": 78.5411797752809,
-      "high": 80.3211797752809
+      "low": 71.23117977528089,
+      "high": 87.6311797752809
     },
     "precipitation": false,
-    "wind": 59.804761995605865
+    "wind": 41.665364242271615,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-14-213",
     "season": "Summer",
     "tempRange": {
-      "low": 74.35308988764045,
-      "high": 83.95308988764044
+      "low": 78.72308988764044,
+      "high": 79.58308988764045
     },
     "precipitation": true,
-    "wind": 49.30787647728669
+    "wind": 58.63567190654758,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-15-213",
     "season": "Summer",
     "tempRange": {
-      "low": 75.395,
-      "high": 82.355
+      "low": 69.325,
+      "high": 88.425
     },
-    "precipitation": false,
-    "wind": 52.683368717370925
+    "precipitation": true,
+    "wind": 44.54546988535669,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-16-213",
     "season": "Fall",
     "tempRange": {
-      "low": 51.195,
-      "high": 57.055
+      "low": 50.795,
+      "high": 57.455
     },
     "precipitation": false,
-    "wind": 30.75715145078057
+    "wind": 51.209362795037194,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-17-213",
     "season": "Fall",
     "tempRange": {
-      "low": 52.62308988764045,
-      "high": 56.18308988764045
+      "low": 46.88308988764045,
+      "high": 61.923089887640444
     },
-    "precipitation": false,
-    "wind": 39.70429658086248
+    "precipitation": true,
+    "wind": 69.6158416161166,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-18-213",
     "season": "Fall",
     "tempRange": {
-      "low": 47.511179775280894,
-      "high": 61.8511797752809
+      "low": 52.55117977528089,
+      "high": 56.8111797752809
     },
     "precipitation": false,
-    "wind": 52.157124768961644
+    "wind": 61.41934936245151,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-19-213",
     "season": "Fall",
     "tempRange": {
-      "low": 45.99926966292134,
-      "high": 63.919269662921344
+      "low": 50.04926966292135,
+      "high": 59.86926966292134
     },
     "precipitation": false,
-    "wind": 34.45259968533461
+    "wind": 48.20092415890491,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-20-213",
     "season": "Fall",
     "tempRange": {
-      "low": 45.3473595505618,
-      "high": 65.1273595505618
+      "low": 52.427359550561796,
+      "high": 58.0473595505618
     },
-    "precipitation": true,
-    "wind": 40.3069696923918
+    "precipitation": false,
+    "wind": 40.71314040766438,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-21-213",
     "season": "Fall",
     "tempRange": {
-      "low": 51.24544943820224,
-      "high": 59.78544943820225
+      "low": 53.665449438202245,
+      "high": 57.36544943820225
     },
-    "precipitation": false,
-    "wind": 42.51991597530472
+    "precipitation": true,
+    "wind": 60.630599580185105,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-22-213",
     "season": "Fall",
     "tempRange": {
-      "low": 52.1735393258427,
-      "high": 59.41353932584269
+      "low": 46.5935393258427,
+      "high": 64.99353932584269
     },
-    "precipitation": true,
-    "wind": 53.32566641609053
+    "precipitation": false,
+    "wind": 72.69187636276709,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-23-213",
     "season": "Fall",
     "tempRange": {
-      "low": 48.50162921348315,
-      "high": 63.64162921348315
+      "low": 55.97162921348315,
+      "high": 56.17162921348315
     },
-    "precipitation": true,
-    "wind": 37.765209669709215
+    "precipitation": false,
+    "wind": 53.27258061915559,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-24-213",
     "season": "Fall",
     "tempRange": {
-      "low": 55.109719101123595,
-      "high": 57.5897191011236
+      "low": 46.7697191011236,
+      "high": 65.9297191011236
     },
     "precipitation": false,
-    "wind": 78.07671487411109
+    "wind": 51.38142612126927,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-25-213",
     "season": "Fall",
     "tempRange": {
-      "low": 47.82780898876405,
-      "high": 65.42780898876404
+      "low": 50.38780898876404,
+      "high": 62.86780898876405
     },
-    "precipitation": true,
-    "wind": 58.18722979679478
+    "precipitation": false,
+    "wind": 72.92148055951088,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-26-213",
     "season": "Fall",
     "tempRange": {
-      "low": 55.05589887640449,
-      "high": 58.755898876404494
+      "low": 52.325898876404494,
+      "high": 61.48589887640449
     },
-    "precipitation": true,
-    "wind": 56.599875675198305
+    "precipitation": false,
+    "wind": 70.87830442333428,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-27-213",
     "season": "Fall",
     "tempRange": {
-      "low": 54.24398876404494,
-      "high": 60.12398876404494
+      "low": 51.19398876404494,
+      "high": 63.17398876404494
     },
-    "precipitation": false,
-    "wind": 66.01026666990629
+    "precipitation": true,
+    "wind": 50.34671771559064,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-28-213",
     "season": "Fall",
     "tempRange": {
-      "low": 52.112078651685394,
-      "high": 62.8120786516854
+      "low": 52.4520786516854,
+      "high": 62.47207865168539
     },
     "precipitation": false,
-    "wind": 55.980776029691526
+    "wind": 50.45283600334055,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-29-213",
     "season": "Fall",
     "tempRange": {
-      "low": 55.07016853932584,
-      "high": 60.410168539325845
+      "low": 50.43016853932584,
+      "high": 65.05016853932584
     },
-    "precipitation": false,
-    "wind": 70.35411137804223
+    "precipitation": true,
+    "wind": 42.72892258847712,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-30-213",
     "season": "Fall",
     "tempRange": {
-      "low": 51.37825842696629,
-      "high": 64.65825842696628
+      "low": 53.538258426966294,
+      "high": 62.49825842696629
     },
     "precipitation": false,
-    "wind": 30.016288535910704
+    "wind": 77.12687841574524,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-31-213",
     "season": "Fall",
     "tempRange": {
-      "low": 49.01634831460674,
-      "high": 67.57634831460673
+      "low": 52.86634831460674,
+      "high": 63.72634831460674
     },
-    "precipitation": true,
-    "wind": 79.93404298403127
+    "precipitation": false,
+    "wind": 43.287095616275295,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-32-213",
     "season": "Fall",
     "tempRange": {
-      "low": 51.54443820224719,
-      "high": 65.6044382022472
+      "low": 51.3044382022472,
+      "high": 65.84443820224719
     },
-    "precipitation": true,
-    "wind": 32.91441389897204
+    "precipitation": false,
+    "wind": 38.72698493731995,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-33-213",
     "season": "Fall",
     "tempRange": {
-      "low": 52.162528089887644,
-      "high": 65.54252808988764
+      "low": 53.99252808988764,
+      "high": 63.71252808988764
     },
     "precipitation": true,
-    "wind": 54.11854182249429
+    "wind": 68.38117469837266,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-34-213",
     "season": "Fall",
     "tempRange": {
-      "low": 50.01061797752809,
-      "high": 68.2506179775281
+      "low": 52.14061797752809,
+      "high": 66.12061797752808
     },
-    "precipitation": false,
-    "wind": 39.55228263492404
+    "precipitation": true,
+    "wind": 32.5581819664299,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-35-213",
     "season": "Fall",
     "tempRange": {
-      "low": 51.208707865168535,
-      "high": 67.60870786516854
+      "low": 54.348707865168535,
+      "high": 64.46870786516854
     },
     "precipitation": false,
-    "wind": 57.089039388517136
+    "wind": 59.68866157554072,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-36-213",
     "season": "Fall",
     "tempRange": {
-      "low": 51.656797752808984,
-      "high": 67.71679775280899
+      "low": 56.92679775280899,
+      "high": 62.44679775280898
     },
     "precipitation": false,
-    "wind": 78.88525158176714
+    "wind": 70.61823053108637,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "6-37-213",
     "season": "Fall",
     "tempRange": {
-      "low": 57.00488764044944,
-      "high": 62.92488764044944
+      "low": 50.35488764044944,
+      "high": 69.57488764044945
     },
     "precipitation": true,
-    "wind": 37.96424868034302
+    "wind": 61.91046127590178,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-38-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.45297752808989,
-      "high": 64.03297752808989
+      "low": 53.90297752808989,
+      "high": 66.58297752808988
     },
     "precipitation": true,
-    "wind": 64.4464988440204
+    "wind": 65.67551548955689,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-39-213",
     "season": "Fall",
     "tempRange": {
-      "low": 52.33106741573034,
-      "high": 68.71106741573034
+      "low": 60.07106741573033,
+      "high": 60.97106741573034
     },
-    "precipitation": false,
-    "wind": 59.98577733328823
+    "precipitation": true,
+    "wind": 55.96287958366277,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "6-40-213",
     "season": "Fall",
     "tempRange": {
-      "low": 50.899157303370785,
-      "high": 70.69915730337078
+      "low": 60.05915730337078,
+      "high": 61.539157303370786
     },
-    "precipitation": true,
-    "wind": 69.92301935744392
+    "precipitation": false,
+    "wind": 76.18799817737059,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-1-213",
     "season": "Fall",
     "tempRange": {
-      "low": 59.88724719101124,
-      "high": 62.267247191011236
+      "low": 57.197247191011236,
+      "high": 64.95724719101123
     },
     "precipitation": true,
-    "wind": 43.537511030125295
+    "wind": 30.537292922717704,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-2-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.55533707865169,
-      "high": 66.15533707865168
+      "low": 58.59533707865169,
+      "high": 64.11533707865169
     },
     "precipitation": false,
-    "wind": 51.64472844146586
+    "wind": 44.43790621152189,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-3-213",
     "season": "Fall",
     "tempRange": {
-      "low": 55.07342696629213,
-      "high": 68.19342696629214
+      "low": 58.03342696629213,
+      "high": 65.23342696629213
     },
     "precipitation": false,
-    "wind": 59.28290076451806
+    "wind": 68.37931255907742,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-4-213",
     "season": "Fall",
     "tempRange": {
-      "low": 59.13151685393258,
-      "high": 64.69151685393258
+      "low": 56.99151685393258,
+      "high": 66.83151685393258
     },
     "precipitation": true,
-    "wind": 64.1859446654887
+    "wind": 39.24086862313834,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-5-213",
     "season": "Fall",
     "tempRange": {
-      "low": 59.129606741573035,
-      "high": 65.24960674157303
+      "low": 54.70960674157304,
+      "high": 69.66960674157303
     },
-    "precipitation": true,
-    "wind": 62.47950160488722
+    "precipitation": false,
+    "wind": 51.7367449186593,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-6-213",
     "season": "Fall",
     "tempRange": {
-      "low": 57.37769662921349,
-      "high": 67.55769662921348
+      "low": 52.647696629213485,
+      "high": 72.28769662921349
     },
-    "precipitation": true,
-    "wind": 72.67094297295515
+    "precipitation": false,
+    "wind": 56.253417990309714,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-7-213",
     "season": "Fall",
     "tempRange": {
-      "low": 57.58578651685393,
-      "high": 67.90578651685394
+      "low": 62.61578651685393,
+      "high": 62.875786516853935
     },
     "precipitation": false,
-    "wind": 53.524619500587384
+    "wind": 66.07279103766257,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-8-213",
     "season": "Fall",
     "tempRange": {
-      "low": 60.63387640449438,
-      "high": 65.41387640449437
+      "low": 57.74387640449438,
+      "high": 68.30387640449437
     },
     "precipitation": true,
-    "wind": 55.92838405161516
+    "wind": 45.79201088513567,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-9-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.121966292134836,
-      "high": 70.48196629213484
+      "low": 61.661966292134835,
+      "high": 64.94196629213484
     },
     "precipitation": true,
-    "wind": 44.01263260068766
+    "wind": 64.28319563681607,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-10-213",
     "season": "Fall",
     "tempRange": {
-      "low": 53.62005617977528,
-      "high": 73.54005617977529
+      "low": 58.06005617977529,
+      "high": 69.10005617977528
     },
     "precipitation": false,
-    "wind": 69.28550864798916
+    "wind": 40.85480651243137,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-11-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.53814606741573,
-      "high": 69.17814606741572
+      "low": 62.95814606741573,
+      "high": 64.75814606741574
     },
     "precipitation": true,
-    "wind": 63.81264295978688
+    "wind": 50.194960477072996,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-12-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.046235955056176,
-      "high": 70.22623595505618
+      "low": 56.56623595505618,
+      "high": 71.70623595505617
     },
-    "precipitation": true,
-    "wind": 34.307667154348714
+    "precipitation": false,
+    "wind": 64.74067935989245,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-13-213",
     "season": "Fall",
     "tempRange": {
-      "low": 57.634325842696626,
-      "high": 71.19432584269663
+      "low": 55.574325842696624,
+      "high": 73.25432584269663
     },
-    "precipitation": true,
-    "wind": 67.36108110986018
+    "precipitation": false,
+    "wind": 41.216104466586486,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-14-213",
     "season": "Fall",
     "tempRange": {
-      "low": 61.28241573033708,
-      "high": 68.10241573033707
+      "low": 55.09241573033707,
+      "high": 74.29241573033707
     },
-    "precipitation": false,
-    "wind": 30.97257461310981
+    "precipitation": true,
+    "wind": 65.1377129465103,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-15-213",
     "season": "Fall",
     "tempRange": {
-      "low": 57.83050561797752,
-      "high": 72.11050561797752
+      "low": 62.13050561797752,
+      "high": 67.81050561797753
     },
-    "precipitation": false,
-    "wind": 44.65582481411056
+    "precipitation": true,
+    "wind": 47.40682725523796,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-16-213",
     "season": "Fall",
     "tempRange": {
-      "low": 63.36859550561797,
-      "high": 67.12859550561797
+      "low": 57.79859550561797,
+      "high": 72.69859550561797
     },
-    "precipitation": false,
-    "wind": 40.01587325376039
+    "precipitation": true,
+    "wind": 61.84028437942354,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-17-213",
     "season": "Fall",
     "tempRange": {
-      "low": 64.69668539325843,
-      "high": 66.35668539325843
+      "low": 65.38668539325843,
+      "high": 65.66668539325843
     },
     "precipitation": true,
-    "wind": 46.52928811170784
+    "wind": 39.06849560046009,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-18-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.99477528089888,
-      "high": 72.61477528089888
+      "low": 56.66477528089888,
+      "high": 74.94477528089888
     },
     "precipitation": true,
-    "wind": 79.8986797006367
+    "wind": 31.25973598218416,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-19-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.42286516853933,
-      "high": 75.74286516853932
+      "low": 58.01286516853933,
+      "high": 74.15286516853934
     },
     "precipitation": false,
-    "wind": 43.133826377146505
+    "wind": 75.02925605085974,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-20-213",
     "season": "Fall",
     "tempRange": {
-      "low": 61.110955056179776,
-      "high": 71.61095505617978
+      "low": 63.64095505617978,
+      "high": 69.08095505617977
     },
-    "precipitation": true,
-    "wind": 77.44651589741633
+    "precipitation": false,
+    "wind": 71.4834139673537,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-21-213",
     "season": "Fall",
     "tempRange": {
-      "low": 66.02910112359551,
-      "high": 66.9091011235955
+      "low": 61.019101123595505,
+      "high": 71.91910112359551
     },
-    "precipitation": true,
-    "wind": 71.7467927475125
+    "precipitation": false,
+    "wind": 32.4954082593893,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-22-213",
     "season": "Fall",
     "tempRange": {
-      "low": 61.20730337078652,
-      "high": 71.60730337078652
+      "low": 63.43730337078652,
+      "high": 69.37730337078652
     },
     "precipitation": false,
-    "wind": 58.104478085530516
+    "wind": 33.275429565898136,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-23-213",
     "season": "Fall",
     "tempRange": {
-      "low": 59.435505617977526,
-      "high": 73.25550561797752
+      "low": 63.16550561797752,
+      "high": 69.52550561797753
     },
     "precipitation": false,
-    "wind": 78.0574004667655
+    "wind": 52.694090955657956,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-24-213",
     "season": "Fall",
     "tempRange": {
-      "low": 61.17370786516854,
-      "high": 71.39370786516854
+      "low": 61.28370786516854,
+      "high": 71.28370786516854
     },
-    "precipitation": false,
-    "wind": 39.46930867766484
+    "precipitation": true,
+    "wind": 46.05849188941592,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-25-213",
     "season": "Fall",
     "tempRange": {
-      "low": 65.36191011235955,
-      "high": 67.08191011235955
+      "low": 61.711910112359554,
+      "high": 70.73191011235956
     },
-    "precipitation": true,
-    "wind": 61.16614740484134
+    "precipitation": false,
+    "wind": 31.61156356424177,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-26-213",
     "season": "Fall",
     "tempRange": {
-      "low": 65.64011235955057,
-      "high": 66.68011235955056
+      "low": 65.27011235955057,
+      "high": 67.05011235955057
     },
-    "precipitation": false,
-    "wind": 39.88644929859803
+    "precipitation": true,
+    "wind": 34.88863802552021,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-27-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.45831460674157,
-      "high": 75.73831460674157
+      "low": 63.84831460674157,
+      "high": 68.34831460674157
     },
     "precipitation": true,
-    "wind": 66.6015453989323
+    "wind": 72.00668914239023,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-28-213",
     "season": "Fall",
     "tempRange": {
-      "low": 59.60651685393258,
-      "high": 72.46651685393257
+      "low": 58.18651685393258,
+      "high": 73.88651685393258
     },
     "precipitation": false,
-    "wind": 68.15234141763004
+    "wind": 47.22846786618571,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-29-213",
     "season": "Fall",
     "tempRange": {
-      "low": 64.0347191011236,
-      "high": 67.9147191011236
+      "low": 56.9047191011236,
+      "high": 75.0447191011236
     },
     "precipitation": false,
-    "wind": 79.7869860406984
+    "wind": 69.40642440225497,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-30-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.12292134831461,
-      "high": 73.70292134831462
+      "low": 58.66292134831461,
+      "high": 73.16292134831461
     },
-    "precipitation": true,
-    "wind": 61.511861977182555
+    "precipitation": false,
+    "wind": 36.44931901086034,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-31-213",
     "season": "Fall",
     "tempRange": {
-      "low": 62.871123595505615,
-      "high": 68.83112359550562
+      "low": 65.22112359550562,
+      "high": 66.48112359550561
     },
-    "precipitation": false,
-    "wind": 30.702771675532144
+    "precipitation": true,
+    "wind": 73.48666596681352,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-32-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.619325842696625,
-      "high": 72.95932584269663
+      "low": 59.30932584269662,
+      "high": 72.26932584269663
     },
-    "precipitation": false,
-    "wind": 75.97818204736785
+    "precipitation": true,
+    "wind": 79.55901089081706,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-33-213",
     "season": "Fall",
     "tempRange": {
-      "low": 63.88752808988764,
-      "high": 67.56752808988765
+      "low": 57.43752808988764,
+      "high": 74.01752808988763
     },
-    "precipitation": false,
-    "wind": 57.03428965077871
+    "precipitation": true,
+    "wind": 58.31226230456335,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-34-213",
     "season": "Fall",
     "tempRange": {
-      "low": 64.81573033707866,
-      "high": 66.51573033707865
+      "low": 65.19573033707866,
+      "high": 66.13573033707866
     },
-    "precipitation": true,
-    "wind": 56.02774559070519
+    "precipitation": false,
+    "wind": 55.22988314099629,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-35-213",
     "season": "Fall",
     "tempRange": {
-      "low": 59.213932584269656,
-      "high": 71.99393258426966
+      "low": 57.63393258426966,
+      "high": 73.57393258426966
     },
     "precipitation": true,
-    "wind": 32.442297365970546
+    "wind": 31.098349836201074,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-36-213",
     "season": "Fall",
     "tempRange": {
-      "low": 64.07213483146067,
-      "high": 67.01213483146067
+      "low": 58.21213483146067,
+      "high": 72.87213483146067
     },
     "precipitation": true,
-    "wind": 79.90126224047575
+    "wind": 76.66656442115428,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-37-213",
     "season": "Fall",
     "tempRange": {
-      "low": 55.90033707865169,
-      "high": 75.06033707865168
+      "low": 59.04033707865169,
+      "high": 71.92033707865168
     },
     "precipitation": true,
-    "wind": 47.505824149034844
+    "wind": 75.52550582766033,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-38-213",
     "season": "Fall",
     "tempRange": {
-      "low": 60.4885393258427,
-      "high": 70.3485393258427
+      "low": 64.9385393258427,
+      "high": 65.8985393258427
     },
     "precipitation": false,
-    "wind": 41.76487116722623
+    "wind": 42.817422414266304,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "7-39-213",
     "season": "Fall",
     "tempRange": {
-      "low": 60.9367415730337,
-      "high": 69.7767415730337
+      "low": 55.4367415730337,
+      "high": 75.2767415730337
     },
-    "precipitation": false,
-    "wind": 57.089782082930185
+    "precipitation": true,
+    "wind": 43.35512309384159,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "7-40-213",
     "season": "Fall",
     "tempRange": {
-      "low": 63.81494382022472,
-      "high": 66.77494382022472
+      "low": 62.99494382022472,
+      "high": 67.59494382022471
     },
-    "precipitation": false,
-    "wind": 44.29300346602286
+    "precipitation": true,
+    "wind": 79.70142559248495,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-1-213",
     "season": "Fall",
     "tempRange": {
-      "low": 64.92314606741573,
-      "high": 65.54314606741573
+      "low": 62.99314606741573,
+      "high": 67.47314606741573
     },
     "precipitation": false,
-    "wind": 61.90669019075341
+    "wind": 42.98215363913822,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-2-213",
     "season": "Fall",
     "tempRange": {
-      "low": 64.13134831460674,
-      "high": 66.21134831460675
+      "low": 61.15134831460675,
+      "high": 69.19134831460674
     },
-    "precipitation": false,
-    "wind": 51.748235884232436
+    "precipitation": true,
+    "wind": 61.57209521218445,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-3-213",
     "season": "Fall",
     "tempRange": {
-      "low": 60.31955056179775,
-      "high": 69.89955056179775
+      "low": 57.81955056179775,
+      "high": 72.39955056179775
     },
     "precipitation": false,
-    "wind": 66.33928364306247
+    "wind": 73.72543002520659,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-4-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.22775280898876,
-      "high": 71.86775280898877
+      "low": 64.47775280898877,
+      "high": 65.61775280898875
     },
-    "precipitation": false,
-    "wind": 60.63804666386769
+    "precipitation": true,
+    "wind": 48.94658476107289,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-5-213",
     "season": "Fall",
     "tempRange": {
-      "low": 63.96595505617977,
-      "high": 66.00595505617977
+      "low": 58.775955056179775,
+      "high": 71.19595505617977
     },
-    "precipitation": false,
-    "wind": 79.73874887304554
+    "precipitation": true,
+    "wind": 56.7895905850899,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-6-213",
     "season": "Fall",
     "tempRange": {
-      "low": 55.84415730337079,
-      "high": 74.00415730337079
+      "low": 62.86415730337079,
+      "high": 66.9841573033708
     },
-    "precipitation": true,
-    "wind": 51.29962214494131
+    "precipitation": false,
+    "wind": 50.14743026212832,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-7-213",
     "season": "Fall",
     "tempRange": {
-      "low": 64.72235955056179,
-      "high": 65.00235955056179
+      "low": 59.23235955056179,
+      "high": 70.49235955056179
     },
     "precipitation": false,
-    "wind": 67.1907023102341
+    "wind": 55.80765746253729,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-8-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.93056179775281,
-      "high": 70.67056179775281
+      "low": 63.50056179775281,
+      "high": 66.1005617977528
     },
-    "precipitation": false,
-    "wind": 52.4643431441103
+    "precipitation": true,
+    "wind": 76.4138554491454,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-9-213",
     "season": "Fall",
     "tempRange": {
-      "low": 63.28876404494382,
-      "high": 66.18876404494382
+      "low": 58.39876404494382,
+      "high": 71.07876404494382
     },
-    "precipitation": false,
-    "wind": 72.34475553697838
+    "precipitation": true,
+    "wind": 30.760958870083762,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-10-213",
     "season": "Fall",
     "tempRange": {
-      "low": 57.51696629213484,
-      "high": 71.83696629213483
+      "low": 60.51696629213484,
+      "high": 68.83696629213483
     },
     "precipitation": true,
-    "wind": 49.925576008949236
+    "wind": 50.21455422885019,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-11-213",
     "season": "Fall",
     "tempRange": {
-      "low": 63.225168539325836,
-      "high": 66.00516853932584
+      "low": 63.265168539325835,
+      "high": 65.96516853932583
     },
-    "precipitation": true,
-    "wind": 72.35717020369023
+    "precipitation": false,
+    "wind": 65.73599102371965,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-12-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.33337078651685,
-      "high": 72.77337078651685
+      "low": 56.59337078651685,
+      "high": 72.51337078651684
     },
     "precipitation": false,
-    "wind": 30.531264610880676
+    "wind": 76.55347679070701,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-13-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.55157303370787,
-      "high": 72.43157303370786
+      "low": 60.991573033707866,
+      "high": 67.99157303370787
     },
     "precipitation": false,
-    "wind": 71.05582125222739
+    "wind": 60.612212757982014,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-14-213",
     "season": "Fall",
     "tempRange": {
-      "low": 55.66977528089888,
-      "high": 73.18977528089889
+      "low": 63.05977528089888,
+      "high": 65.79977528089888
     },
-    "precipitation": false,
-    "wind": 40.21506402817125
+    "precipitation": true,
+    "wind": 62.70768996782767,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-15-213",
     "season": "Fall",
     "tempRange": {
-      "low": 61.35797752808988,
-      "high": 67.37797752808989
+      "low": 59.91797752808988,
+      "high": 68.81797752808988
     },
-    "precipitation": true,
-    "wind": 53.676175833546
+    "precipitation": false,
+    "wind": 35.17868394870569,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-16-213",
     "season": "Fall",
     "tempRange": {
-      "low": 63.236179775280895,
-      "high": 65.37617977528089
+      "low": 59.7961797752809,
+      "high": 68.8161797752809
     },
-    "precipitation": false,
-    "wind": 72.59009540936775
+    "precipitation": true,
+    "wind": 69.54876450577055,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-17-213",
     "season": "Fall",
     "tempRange": {
-      "low": 63.764382022471914,
-      "high": 64.72438202247191
+      "low": 54.80438202247191,
+      "high": 73.68438202247191
     },
     "precipitation": true,
-    "wind": 74.52768995114965
+    "wind": 64.94671032361737,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-18-213",
     "season": "Fall",
     "tempRange": {
-      "low": 60.362584269662925,
-      "high": 68.00258426966292
+      "low": 62.76258426966292,
+      "high": 65.60258426966293
     },
-    "precipitation": false,
-    "wind": 44.90143106557572
+    "precipitation": true,
+    "wind": 38.79000583613839,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-19-213",
     "season": "Fall",
     "tempRange": {
-      "low": 59.70078651685394,
-      "high": 68.54078651685394
+      "low": 59.62078651685394,
+      "high": 68.62078651685394
     },
     "precipitation": false,
-    "wind": 45.150056279636104
+    "wind": 55.72590990296496,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-20-213",
     "season": "Fall",
     "tempRange": {
-      "low": 59.02898876404494,
-      "high": 69.08898876404494
+      "low": 59.22898876404494,
+      "high": 68.88898876404494
     },
     "precipitation": false,
-    "wind": 57.46722459249679
+    "wind": 46.268247205152996,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-21-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.467191011235954,
-      "high": 71.52719101123596
+      "low": 58.91719101123596,
+      "high": 69.07719101123595
     },
     "precipitation": false,
-    "wind": 74.94364143679482
+    "wind": 61.489848305165815,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-22-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.18539325842696,
-      "high": 71.68539325842696
+      "low": 54.145393258426964,
+      "high": 73.72539325842696
     },
-    "precipitation": true,
-    "wind": 60.13060829579586
+    "precipitation": false,
+    "wind": 44.06894200536737,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-23-213",
     "season": "Fall",
     "tempRange": {
-      "low": 57.97359550561798,
-      "high": 69.77359550561798
+      "low": 62.41359550561798,
+      "high": 65.33359550561798
     },
-    "precipitation": true,
-    "wind": 79.19571426542953
+    "precipitation": false,
+    "wind": 73.19722249915691,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-24-213",
     "season": "Fall",
     "tempRange": {
-      "low": 60.40179775280899,
-      "high": 67.22179775280898
+      "low": 59.021797752808986,
+      "high": 68.60179775280899
     },
     "precipitation": true,
-    "wind": 52.62503568756695
+    "wind": 33.940701684590586,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-25-213",
     "season": "Fall",
     "tempRange": {
-      "low": 62.13,
-      "high": 65.37
+      "low": 54.9,
+      "high": 72.6
     },
-    "precipitation": false,
-    "wind": 67.81672315622326
+    "precipitation": true,
+    "wind": 63.182748583781105,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-26-213",
     "season": "Winter",
     "tempRange": {
-      "low": 56.04,
-      "high": 60.46
+      "low": 49.5,
+      "high": 67
     },
     "precipitation": false,
-    "wind": 64.95429825003315
+    "wind": 69.22040169439909,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-27-213",
     "season": "Winter",
     "tempRange": {
-      "low": 57.91970479704797,
-      "high": 58.539704797047975
+      "low": 54.749704797047976,
+      "high": 61.70970479704797
     },
     "precipitation": false,
-    "wind": 74.6075232943026
+    "wind": 60.80610643613706,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-28-213",
     "season": "Winter",
     "tempRange": {
-      "low": 57.439409594095935,
-      "high": 58.97940959409594
+      "low": 55.399409594095935,
+      "high": 61.01940959409594
     },
-    "precipitation": false,
-    "wind": 69.2696696522342
+    "precipitation": true,
+    "wind": 71.26138469524258,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-29-213",
     "season": "Winter",
     "tempRange": {
-      "low": 55.98911439114391,
-      "high": 60.38911439114391
+      "low": 57.92911439114391,
+      "high": 58.44911439114391
     },
     "precipitation": true,
-    "wind": 58.48390213954143
+    "wind": 77.28433835437849,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-30-213",
     "season": "Winter",
     "tempRange": {
-      "low": 57.96881918819188,
-      "high": 58.368819188191885
+      "low": 54.71881918819188,
+      "high": 61.618819188191885
     },
-    "precipitation": true,
-    "wind": 53.17257018628316
+    "precipitation": false,
+    "wind": 57.32655231106554,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-31-213",
     "season": "Winter",
     "tempRange": {
-      "low": 54.90852398523985,
-      "high": 61.38852398523986
+      "low": 49.40852398523985,
+      "high": 66.88852398523986
     },
     "precipitation": false,
-    "wind": 37.11790265075075
+    "wind": 49.64387419290998,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-32-213",
     "season": "Winter",
     "tempRange": {
-      "low": 57.14822878228782,
-      "high": 59.10822878228782
+      "low": 50.59822878228782,
+      "high": 65.65822878228782
     },
-    "precipitation": false,
-    "wind": 53.78237145391865
+    "precipitation": true,
+    "wind": 69.52699982504625,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-33-213",
     "season": "Winter",
     "tempRange": {
-      "low": 52.707933579335794,
-      "high": 63.50793357933579
+      "low": 53.78793357933579,
+      "high": 62.42793357933579
     },
-    "precipitation": false,
-    "wind": 55.643466674419614
+    "precipitation": true,
+    "wind": 55.15637075513396,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-34-213",
     "season": "Winter",
     "tempRange": {
-      "low": 51.767638376383765,
-      "high": 64.40763837638377
+      "low": 51.697638376383765,
+      "high": 64.47763837638377
     },
-    "precipitation": false,
-    "wind": 75.407865912214
+    "precipitation": true,
+    "wind": 42.43628023271485,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-35-213",
     "season": "Winter",
     "tempRange": {
-      "low": 50.85734317343174,
-      "high": 65.27734317343173
+      "low": 54.217343173431736,
+      "high": 61.91734317343174
     },
     "precipitation": false,
-    "wind": 32.770508209114354
+    "wind": 34.88634660309517,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-36-213",
     "season": "Winter",
     "tempRange": {
-      "low": 54.4870479704797,
-      "high": 61.607047970479705
+      "low": 51.1370479704797,
+      "high": 64.9570479704797
     },
     "precipitation": false,
-    "wind": 40.02603084200493
+    "wind": 53.359402196552004,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-37-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.65675276752768,
-      "high": 66.39675276752767
+      "low": 51.40675276752768,
+      "high": 64.64675276752767
     },
-    "precipitation": false,
-    "wind": 54.37359779014746
+    "precipitation": true,
+    "wind": 34.770947058941644,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-38-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.57645756457565,
-      "high": 66.43645756457565
+      "low": 48.626457564575645,
+      "high": 67.38645756457565
     },
     "precipitation": true,
-    "wind": 40.052633034073445
+    "wind": 55.78161408354201,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "8-39-213",
     "season": "Winter",
     "tempRange": {
-      "low": 48.80616236162361,
-      "high": 67.1661623616236
+      "low": 53.086162361623614,
+      "high": 62.88616236162361
     },
-    "precipitation": true,
-    "wind": 55.78846902914533
+    "precipitation": false,
+    "wind": 59.56016178419608,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "8-40-213",
     "season": "Winter",
     "tempRange": {
-      "low": 54.38586715867159,
-      "high": 61.545867158671584
+      "low": 55.52586715867159,
+      "high": 60.40586715867158
     },
-    "precipitation": true,
-    "wind": 62.41859243944567
+    "precipitation": false,
+    "wind": 56.20721662912556,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-1-213",
     "season": "Winter",
     "tempRange": {
-      "low": 50.43557195571956,
-      "high": 65.45557195571956
+      "low": 54.44557195571956,
+      "high": 61.44557195571956
     },
     "precipitation": false,
-    "wind": 51.29283132907261
+    "wind": 78.99631147763897,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-2-213",
     "season": "Winter",
     "tempRange": {
-      "low": 54.73527675276753,
-      "high": 61.11527675276753
+      "low": 53.66527675276753,
+      "high": 62.18527675276753
     },
-    "precipitation": true,
-    "wind": 57.28428897673454
+    "precipitation": false,
+    "wind": 48.39188706865089,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-3-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.2049815498155,
-      "high": 66.60498154981549
+      "low": 53.694981549815495,
+      "high": 62.1149815498155
     },
-    "precipitation": true,
-    "wind": 32.824485057996576
+    "precipitation": false,
+    "wind": 59.31668178997597,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-4-213",
     "season": "Winter",
     "tempRange": {
-      "low": 56.48468634686347,
-      "high": 59.28468634686347
+      "low": 53.254686346863465,
+      "high": 62.51468634686347
     },
     "precipitation": true,
-    "wind": 63.31888197866781
+    "wind": 53.005838591126626,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-5-213",
     "season": "Winter",
     "tempRange": {
-      "low": 55.98439114391144,
-      "high": 59.74439114391144
+      "low": 50.44439114391144,
+      "high": 65.28439114391144
     },
-    "precipitation": true,
-    "wind": 57.648524734300615
+    "precipitation": false,
+    "wind": 72.4929120124756,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-6-213",
     "season": "Winter",
     "tempRange": {
-      "low": 48.014095940959415,
-      "high": 67.67409594095942
+      "low": 54.18409594095941,
+      "high": 61.50409594095942
     },
-    "precipitation": true,
-    "wind": 57.465631260221315
+    "precipitation": false,
+    "wind": 52.16214397404694,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-7-213",
     "season": "Winter",
     "tempRange": {
-      "low": 50.28380073800738,
-      "high": 65.36380073800738
+      "low": 54.233800738007375,
+      "high": 61.41380073800738
     },
-    "precipitation": false,
-    "wind": 65.23556619914842
+    "precipitation": true,
+    "wind": 79.76241146905127,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-8-213",
     "season": "Winter",
     "tempRange": {
-      "low": 56.47350553505535,
-      "high": 59.13350553505535
+      "low": 48.15350553505535,
+      "high": 67.45350553505536
     },
     "precipitation": false,
-    "wind": 78.8244264787146
+    "wind": 53.806972291369966,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-9-213",
     "season": "Winter",
     "tempRange": {
-      "low": 53.633210332103324,
-      "high": 61.93321033210332
+      "low": 52.08321033210332,
+      "high": 63.483210332103326
     },
-    "precipitation": false,
-    "wind": 35.62693363683916
+    "precipitation": true,
+    "wind": 71.24533804984071,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-10-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.61291512915129,
-      "high": 65.91291512915129
+      "low": 50.59291512915129,
+      "high": 64.93291512915128
     },
-    "precipitation": true,
-    "wind": 39.699888104327925
+    "precipitation": false,
+    "wind": 65.6896732926248,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-11-213",
     "season": "Winter",
     "tempRange": {
-      "low": 53.03261992619926,
-      "high": 62.45261992619926
+      "low": 53.62261992619926,
+      "high": 61.86261992619926
     },
-    "precipitation": true,
-    "wind": 74.6857614123337
+    "precipitation": false,
+    "wind": 34.88625168501234,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-12-213",
     "season": "Winter",
     "tempRange": {
-      "low": 57.142324723247235,
-      "high": 58.30232472324723
+      "low": 53.922324723247236,
+      "high": 61.52232472324723
     },
-    "precipitation": false,
-    "wind": 38.615075032407184
+    "precipitation": true,
+    "wind": 55.395172209650696,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-13-213",
     "season": "Winter",
     "tempRange": {
-      "low": 55.19202952029521,
-      "high": 60.212029520295204
+      "low": 57.032029520295204,
+      "high": 58.37202952029521
     },
-    "precipitation": false,
-    "wind": 54.32438655598864
+    "precipitation": true,
+    "wind": 68.9814886710264,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-14-213",
     "season": "Winter",
     "tempRange": {
-      "low": 52.661734317343175,
-      "high": 62.70173431734317
+      "low": 50.08173431734317,
+      "high": 65.28173431734317
     },
     "precipitation": false,
-    "wind": 54.97907295103195
+    "wind": 63.53183704255714,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-15-213",
     "season": "Winter",
     "tempRange": {
-      "low": 56.42143911439114,
-      "high": 58.901439114391145
+      "low": 56.111439114391146,
+      "high": 59.21143911439114
     },
-    "precipitation": false,
-    "wind": 59.250771109752925
+    "precipitation": true,
+    "wind": 45.78876610110424,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-16-213",
     "season": "Winter",
     "tempRange": {
-      "low": 54.67114391143912,
-      "high": 60.611143911439115
+      "low": 56.901143911439114,
+      "high": 58.38114391143912
     },
-    "precipitation": true,
-    "wind": 30.114516816717735
+    "precipitation": false,
+    "wind": 40.26004513499059,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-17-213",
     "season": "Winter",
     "tempRange": {
-      "low": 57.04084870848709,
-      "high": 58.20084870848709
+      "low": 54.40084870848709,
+      "high": 60.84084870848709
     },
-    "precipitation": true,
-    "wind": 39.44799427681797
+    "precipitation": false,
+    "wind": 55.145481424435346,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-18-213",
     "season": "Winter",
     "tempRange": {
-      "low": 56.420553505535054,
-      "high": 58.78055350553505
+      "low": 48.04055350553505,
+      "high": 67.16055350553505
     },
-    "precipitation": false,
-    "wind": 49.39474688292583
+    "precipitation": true,
+    "wind": 33.55833610795532,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-19-213",
     "season": "Winter",
     "tempRange": {
-      "low": 56.95025830258302,
-      "high": 58.21025830258303
+      "low": 52.85025830258303,
+      "high": 62.31025830258302
     },
-    "precipitation": true,
-    "wind": 79.68823187891246
+    "precipitation": false,
+    "wind": 65.35291773119226,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-20-213",
     "season": "Winter",
     "tempRange": {
-      "low": 52.689963099631,
-      "high": 62.429963099630996
+      "low": 57.229963099631,
+      "high": 57.889963099631
     },
-    "precipitation": true,
-    "wind": 64.07037112994843
+    "precipitation": false,
+    "wind": 38.89840492086659,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-21-213",
     "season": "Winter",
     "tempRange": {
-      "low": 52.46966789667896,
-      "high": 62.609667896678964
+      "low": 55.83966789667896,
+      "high": 59.23966789667897
     },
     "precipitation": false,
-    "wind": 68.6550638908461
+    "wind": 35.32848540671307,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-22-213",
     "season": "Winter",
     "tempRange": {
-      "low": 52.17937269372693,
-      "high": 62.85937269372694
+      "low": 52.309372693726935,
+      "high": 62.72937269372694
     },
-    "precipitation": true,
-    "wind": 73.19965256079044
+    "precipitation": false,
+    "wind": 42.851930506153096,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-23-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.64907749077491,
-      "high": 65.3490774907749
+      "low": 52.869077490774906,
+      "high": 62.12907749077491
     },
     "precipitation": true,
-    "wind": 56.68535120192142
+    "wind": 39.01786966667972,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-24-213",
     "season": "Winter",
     "tempRange": {
-      "low": 53.47878228782288,
-      "high": 61.47878228782288
+      "low": 50.02878228782288,
+      "high": 64.92878228782288
     },
     "precipitation": true,
-    "wind": 55.11721725592665
+    "wind": 51.40687701792552,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-25-213",
     "season": "Winter",
     "tempRange": {
-      "low": 52.29848708487084,
-      "high": 62.61848708487085
+      "low": 53.22848708487085,
+      "high": 61.68848708487084
     },
-    "precipitation": false,
-    "wind": 69.52979537555882
+    "precipitation": true,
+    "wind": 51.50387793945158,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-26-213",
     "season": "Winter",
     "tempRange": {
-      "low": 57.36819188191882,
-      "high": 57.50819188191882
+      "low": 52.88819188191882,
+      "high": 61.988191881918816
     },
     "precipitation": true,
-    "wind": 53.58908457078487
+    "wind": 41.97385846628003,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-27-213",
     "season": "Winter",
     "tempRange": {
-      "low": 56.66789667896679,
-      "high": 58.16789667896679
+      "low": 49.047896678966794,
+      "high": 65.78789667896679
     },
-    "precipitation": true,
-    "wind": 72.92588771629107
+    "precipitation": false,
+    "wind": 33.97857277702472,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-28-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.087601476014754,
-      "high": 65.70760147601476
+      "low": 55.95760147601476,
+      "high": 58.837601476014754
     },
     "precipitation": false,
-    "wind": 43.78260980954236
+    "wind": 55.92947382589431,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-29-213",
     "season": "Winter",
     "tempRange": {
-      "low": 48.77730627306273,
-      "high": 65.97730627306272
+      "low": 49.32730627306273,
+      "high": 65.42730627306273
     },
     "precipitation": false,
-    "wind": 39.707769492580844
+    "wind": 44.34286681138506,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-30-213",
     "season": "Winter",
     "tempRange": {
-      "low": 53.7270110701107,
-      "high": 60.987011070110704
+      "low": 51.4270110701107,
+      "high": 63.2870110701107
     },
-    "precipitation": false,
-    "wind": 76.53070621323964
+    "precipitation": true,
+    "wind": 38.77049169509727,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-31-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.03671586715868,
-      "high": 65.63671586715867
+      "low": 51.046715867158674,
+      "high": 63.62671586715867
     },
     "precipitation": false,
-    "wind": 76.43739617133959
+    "wind": 44.723762838450504,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-32-213",
     "season": "Winter",
     "tempRange": {
-      "low": 52.24642066420664,
-      "high": 62.38642066420664
+      "low": 52.31642066420664,
+      "high": 62.31642066420664
     },
-    "precipitation": false,
-    "wind": 67.08352315015716
+    "precipitation": true,
+    "wind": 37.59812882332046,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-33-213",
     "season": "Winter",
     "tempRange": {
-      "low": 56.80612546125461,
-      "high": 57.78612546125461
+      "low": 54.86612546125461,
+      "high": 59.72612546125461
     },
-    "precipitation": false,
-    "wind": 67.83819083864317
+    "precipitation": true,
+    "wind": 70.36775751611233,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-34-213",
     "season": "Winter",
     "tempRange": {
-      "low": 48.555830258302585,
-      "high": 65.99583025830259
+      "low": 52.805830258302585,
+      "high": 61.74583025830258
     },
-    "precipitation": false,
-    "wind": 74.01561408618537
+    "precipitation": true,
+    "wind": 32.084872067090245,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-35-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.89553505535056,
-      "high": 64.61553505535056
+      "low": 57.185535055350556,
+      "high": 57.32553505535056
     },
-    "precipitation": true,
-    "wind": 75.14974641495301
+    "precipitation": false,
+    "wind": 73.8193620420447,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-36-213",
     "season": "Winter",
     "tempRange": {
-      "low": 47.825239852398525,
-      "high": 66.64523985239852
+      "low": 47.92523985239852,
+      "high": 66.54523985239852
     },
     "precipitation": false,
-    "wind": 67.52115718152815
+    "wind": 64.62448523410424,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-37-213",
     "season": "Winter",
     "tempRange": {
-      "low": 53.494944649446495,
-      "high": 60.93494464944649
+      "low": 54.07494464944649,
+      "high": 60.354944649446495
     },
-    "precipitation": true,
-    "wind": 66.9302205778418
+    "precipitation": false,
+    "wind": 38.29419505303984,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-38-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.29464944649447,
-      "high": 65.09464944649447
+      "low": 51.444649446494466,
+      "high": 62.944649446494466
     },
-    "precipitation": false,
-    "wind": 56.89219441821599
+    "precipitation": true,
+    "wind": 70.74088772285901,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   },
   {
     "date": "9-39-213",
     "season": "Winter",
     "tempRange": {
-      "low": 51.50435424354244,
-      "high": 62.84435424354244
+      "low": 50.52435424354244,
+      "high": 63.82435424354244
     },
     "precipitation": false,
-    "wind": 38.24262621099116
+    "wind": 37.225050501456806,
+    "precipitationState": {
+      "name": "",
+      "rules": []
+    }
   },
   {
     "date": "9-40-213",
     "season": "Winter",
     "tempRange": {
-      "low": 50.2640590405904,
-      "high": 64.0440590405904
+      "low": 53.7740590405904,
+      "high": 60.53405904059041
     },
-    "precipitation": false,
-    "wind": 45.52927234137977
+    "precipitation": true,
+    "wind": 33.01343480272717,
+    "precipitationState": {
+      "name": "Light Rain, Heavy Rain, Light Snow, Heavy Snow",
+      "rules": []
+    }
   }
 ]

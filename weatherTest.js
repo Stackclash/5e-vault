@@ -228,8 +228,26 @@ const getWeatherForYearByClimate = (climate, year) => {
         const weather = getWeatherForDate(climate, date)
         const monthDay = date.split('-').slice(0, 2).join('-')
         if (rainDays.includes(monthDay)) weather.precipitation = true
+        weather.precipitationState = getPrecipitationState(weather)
         return weather
     })
+}
+
+const getPrecipitationState = (weather) => {
+    const {date, season, tempRange: {low: tempLow,high: tempHigh}, precipitation, wind: windSpeed} = weather
+    const precipitationState = { name: [], rules: [] }
+    if (weather.precipitation) {
+        precipitations.forEach(precipState => {
+            if (precipState.conditions.every(condition => eval(condition))) {
+                precipitationState.name.push(precipState.name)
+                precipitationState.rules.push(...precipState.rules)
+            }
+        })
+    }
+    return {
+        name: precipitationState.name.join(', '),
+        rules: precipitationState.rules
+    }
 }
 
 // console.log(getTempRange('Coast','5-5-213'))
