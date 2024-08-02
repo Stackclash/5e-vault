@@ -98,6 +98,17 @@ precipitations:
   - name: Heavy Snow
     conditions: []
     rules: []
+  - name: Winter Test
+    conditions:
+      - season === 'Winter'
+    rules:
+      - It's cold!! Roll a Constitution Save
+      - This is another rule
+  - name: Summer Test
+    conditions:
+      - season === 'Summer'
+    rules:
+      - It's warm!
 winds:
   - name: Light Wind
     conditions: []
