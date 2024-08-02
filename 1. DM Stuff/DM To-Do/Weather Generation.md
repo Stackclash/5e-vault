@@ -87,23 +87,30 @@ climates:
     tempLow: 0
 precipitations:
   - name: Light Rain
+    conditions: []
     rules: []
   - name: Heavy Rain
+    conditions: []
     rules: []
   - name: Light Snow
+    conditions: []
     rules: []
   - name: Heavy Snow
+    conditions: []
     rules: []
 winds:
   - name: Light Wind
+    conditions: []
     rules: []
   - name: Heavy Wind
+    conditions: []
     rules: []
   - name: Tornado
+    conditions: []
     rules: []
   - name: Hurricane
+    conditions: []
     rules: []
-hasErrors: false
 ---
 ```meta-bind-button
 style: primary
