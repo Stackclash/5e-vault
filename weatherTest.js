@@ -177,9 +177,10 @@ const getPrecipitation = (climate) => {
 }
 
 // Not taking into account seasons
-const getWind = (climate) => {
+const getWind = (climate, date) => {
     const { windLow, windHigh } = climates.find(climateData => climateData.name === climate)
-    return (Math.random() * (windHigh - windLow) + windLow).toFixed(0)
+    const {windMod} = getSeason(date)
+    return ((windHigh - windLow) * windMod + windLow).toFixed(0)
 }
 
 /**
