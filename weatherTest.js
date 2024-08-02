@@ -221,7 +221,7 @@ const getWeatherForDate = (climate, date) => {
  * @param {string} year - The year
  * @returns {object[]} - An array of weather objects for the year
  */
-const getWeatherForYear = (climate, year) => {
+const getWeatherForYearByClimate = (climate, year) => {
     const dateRange = getDatesInRange(`1-1-${year}`, `${months.length}-${months[months.length - 1].length}-${year}`)
     const rainDays = getRainDaysInYear(climate)
     return dateRange.map(date => {
@@ -245,7 +245,7 @@ const date = '3-20-213'
 // console.log(`Wind: ${getWind('Coast')}`)
 
 // console.log(getWeatherForDate('Coast', date))
-const yearWeather = getWeatherForYear('Coast', '213')
+const yearWeather = getWeatherForYearByClimate('Coast', '213')
 const totalDaysInYear = yearWeather.length
 let totalRainDays = 0
 yearWeather.forEach(weather => {
