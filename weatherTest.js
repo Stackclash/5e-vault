@@ -183,6 +183,12 @@ const getRainDaysInYear = (climate) => {
     return rainDays
 }
 
+/**
+ * Returns the weather for the climate and date
+ * @param {string} climate - The climate name
+ * @param {string} date - Date in the format 'MM-DD-YYYY'
+ * @returns {object} - The weather for the date
+ */
 const getWeatherForDate = (climate, date) => {
     const tempRange = getTempRange(climate, date)
     const precipitation = getPrecipitation(climate, date)
@@ -197,6 +203,12 @@ const getWeatherForDate = (climate, date) => {
     }
 }
 
+/**
+ * Returns the precipitation for the climate and date
+ * @param {string} climate - The climate name
+ * @param {string} year - The year
+ * @returns {object[]} - An array of weather objects for the year
+ */
 const getWeatherForYear = (climate, year) => {
     const dateRange = getDatesInRange(`1-1-${year}`, `${months.length}-${months[months.length - 1].length}-${year}`)
     const rainDays = getRainDaysInYear(climate)
