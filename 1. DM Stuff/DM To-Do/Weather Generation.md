@@ -6,7 +6,7 @@ seasons:
   - name: Spring
     tempMod: 0.5
     start: 2-11
-    end: 4-5
+    end: 4-
     precipMod: 0.4
   - name: Summer
     tempMod: 0.75
@@ -16,11 +16,11 @@ seasons:
   - name: Fall
     tempMod: 0.3
     start: 6-8
-    end: 7-22
+    end: 8-12
     precipMod: 0.1
   - name: Winter
     tempMod: 0.2
-    start: 7-23
+    start: 8-13
     end: 2-10
     precipMod: 0.3
 months:
@@ -300,7 +300,6 @@ if (errorMessages.length > 0) {
 ```dataviewjs
 dv.table([
   'Climate',
-  'Season Tempearture Flux',
   'Precipitation Probability',
   'Wind High',
   'Wind Low',
@@ -309,7 +308,6 @@ dv.table([
 ], dv.current().climates.map((climate, i) => {
   return [
     `\`INPUT[text:climates[${i}].name]\``,
-    `\`INPUT[number:climates[${i}].seasonFlux]\``,
     `\`INPUT[number:climates[${i}].precipProb]\``,
     `\`INPUT[number:climates[${i}].windHigh]\``,
     `\`INPUT[number:climates[${i}].windLow]\``,
