@@ -335,44 +335,44 @@ dv.table([
 }))
 ```
 
-# Precipitation States
-`BUTTON[add-precipitation,remove-precipitation]`
+# State Conditions
+`BUTTON[add-condition,remove-condition]`
 ```meta-bind-button
-label: Add Precipitation State
+label: Add State Condition
 hidden: true
-id: add-precipitation
+id: add-condition
 style: primary
 actions:
   - type: inlineJS
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-        if (!Array.isArray(fm.precipitations)) {
-          fm.precipitations = [{name: '', conditions: [], rules: []}]
+        if (!Array.isArray(fm.conditions)) {
+          fm.conditions = [{name: '', conditions: [], rules: []}]
         } else {
-          fm.precipitations = [...fm.precipitations, {name: '', conditions: [], rules: []}]
+          fm.conditions = [...fm.conditions, {name: '', conditions: [], rules: []}]
         }
       })
 ```
 ```meta-bind-button
-label: Remove Precipitation State
+label: Remove State Condition
 hidden: true
-id: remove-precipitation
+id: remove-condition
 style: primary
 actions:
   - type: inlineJS
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-        fm.precipitations.splice(-1)
+        fm.conditions.splice(-1)
       })
 ```
 > [!info]- Precipitation Configuration
 > This is info
 ```dataviewjs
 const errorMessages = []
-dv.current().precipitations.forEach((precipitation, i) => {})
+dv.current().conditions.forEach((precipitation, i) => {})
 if (errorMessages.length > 0) {
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
-  dv.paragraph(`> [!fail] Precipitation Errors\n${errorLines}`)
+  dv.paragraph(`> [!fail] Condition Errors\n${errorLines}`)
 }
 ```
 ```dataviewjs
@@ -380,11 +380,11 @@ dv.table([
   'Precipitation',
   'Conditions',
   'Rules'
-], dv.current().precipitations.map((climate, i) => {
+], dv.current().conditions.map((climate, i) => {
   return [
-    `\`INPUT[text:precipitations[${i}].name]\``,
-    `\`INPUT[inlineList:precipitations[${i}].conditions]\``,
-    `\`INPUT[inlineList:precipitations[${i}].rules]\``
+    `\`INPUT[text:conditions[${i}].name]\``,
+    `\`INPUT[inlineList:conditions[${i}].conditions]\``,
+    `\`INPUT[inlineList:conditions[${i}].rules]\``
   ]
 }))
 ```
