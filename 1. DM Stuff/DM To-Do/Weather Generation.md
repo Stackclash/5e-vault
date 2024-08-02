@@ -85,7 +85,7 @@ climates:
     windLow: 0
     tempHigh: 0
     tempLow: 0
-conditions:
+states:
   - name: Light Rain
     category: precipitation
     conditions: []
@@ -344,40 +344,40 @@ dv.table([
 ```
 
 # State Conditions
-`BUTTON[add-condition,remove-condition]`
+`BUTTON[add-state,remove-state]`
 ```meta-bind-button
 label: Add State Condition
 hidden: true
-id: add-condition
+id: add-state
 style: primary
 actions:
   - type: inlineJS
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-        if (!Array.isArray(fm.conditions)) {
-          fm.conditions = [{name: '', conditions: [], rules: []}]
+        if (!Array.isArray(fm.states)) {
+          fm.states = [{name: '', states: [], rules: []}]
         } else {
-          fm.conditions = [...fm.conditions, {name: '', conditions: [], rules: []}]
+          fm.states = [...fm.states, {name: '', states: [], rules: []}]
         }
       })
 ```
 ```meta-bind-button
 label: Remove State Condition
 hidden: true
-id: remove-condition
+id: remove-state
 style: primary
 actions:
   - type: inlineJS
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-        fm.conditions.splice(-1)
+        fm.states.splice(-1)
       })
 ```
 > [!info]- State Configuration
 > This is info
 ```dataviewjs
 const errorMessages = []
-dv.current().conditions.forEach((precipitation, i) => {})
+dv.current().states.forEach((precipitation, i) => {})
 if (errorMessages.length > 0) {
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Condition Errors\n${errorLines}`)
@@ -390,12 +390,12 @@ dv.table([
   'Conditions',
   'Rules',
   'Delete'
-], dv.current().conditions.map((climate, i) => {
+], dv.current().states.map((climate, i) => {
   return [
-    `\`INPUT[text:conditions[${i}].name]\``,
-    `\`INPUT[inlineSelect(defaultValue(general),option(general,General),option(precipitation,Precipitation),option(wind,Wind),option(temperature,Temperature)):conditions[${i}].category]\``,
-    `\`INPUT[inlineList:conditions[${i}].conditions]\``,
-    `\`INPUT[inlineList:conditions[${i}].rules]\``,
+    `\`INPUT[text:states[${i}].name]\``,
+    `\`INPUT[inlineSelect(defaultValue(general),option(general,General),option(precipitation,Precipitation),option(wind,Wind),option(temperature,Temperature)):states[${i}].category]\``,
+    `\`INPUT[inlineList:states[${i}].conditions]\``,
+    `\`INPUT[inlineList:states[${i}].rules]\``,
     `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: conditions\n      index: ${i}\n\`\`\``
   ]
 }))
