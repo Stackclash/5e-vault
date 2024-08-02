@@ -145,8 +145,8 @@ const getTempRange = (climate, date) => {
     const currentTempBase = getTempBaseOnPrecentThroughSeason(climate, date)
     const randomTempFlux = parseFloat((Math.random() * tempFlux).toFixed(2))
     return { 
-        low: currentTempBase - randomTempFlux,
-        high: currentTempBase + randomTempFlux
+        low: (currentTempBase - randomTempFlux).toFixed(1),
+        high: (currentTempBase + randomTempFlux).toFixed(1)
     }
 }
 
@@ -179,7 +179,7 @@ const getPrecipitation = (climate) => {
 // Not taking into account seasons
 const getWind = (climate) => {
     const { windLow, windHigh } = climates.find(climateData => climateData.name === climate)
-    return Math.random() * (windHigh - windLow) + windLow
+    return (Math.random() * (windHigh - windLow) + windLow).toFixed(0)
 }
 
 /**
@@ -229,6 +229,7 @@ const getWeatherForYearByClimate = (climate, year) => {
         const monthDay = date.split('-').slice(0, 2).join('-')
         if (rainDays.includes(monthDay)) weather.precipitation = true
         weather.precipitationState = getPrecipitationState(weather)
+        weather.windState = getWindState(weather)
         return weather
     })
 }
@@ -247,6 +248,21 @@ const getPrecipitationState = (weather) => {
     return {
         name: precipitationState.name.join(', '),
         rules: precipitationState.rules
+    }
+}
+
+const getWindState = (weather) => {
+    const {date, season, tempRange: {low: tempLow,high: tempHigh}, precipitation, wind: windSpeed} = weather
+    const windState = { name: [], rules: [] }
+    winds.forEach(wind => {
+        if (wind.conditions.every(condition => eval(condition))) {
+            windState.name.push(wind.name)
+            windState.rules.push(...wind.rules)
+        }
+    })
+    return {
+        name: windState.name.join(', '),
+        rules: windState.rules
     }
 }
 
