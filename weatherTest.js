@@ -180,7 +180,8 @@ const getPrecipitation = (climate) => {
 const getWind = (climate, date) => {
     const { windLow, windHigh } = climates.find(climateData => climateData.name === climate)
     const {windMod} = getSeason(date)
-    return ((windHigh - windLow) * windMod + windLow).toFixed(0)
+    console.log(windMod)
+    return (((windHigh - windLow) * windMod) + windLow).toFixed(0)
 }
 
 /**
@@ -205,7 +206,7 @@ const getRainDaysInYear = (climate) => {
 const getWeatherForDate = (climate, date) => {
     const tempRange = getTempRange(climate, date)
     const precipitation = getPrecipitation(climate, date)
-    const wind = getWind(climate)
+    const wind = getWind(climate, date)
     const season = getSeason(date).name
     return {
         date,
@@ -226,7 +227,7 @@ const getWeatherForYearByClimate = (climate, year) => {
     const dateRange = getDatesInRange(`1-1-${year}`, `${months.length}-${months[months.length - 1].length}-${year}`)
     const rainDays = getRainDaysInYear(climate)
     return dateRange.map(date => {
-        const weather = getWeatherForDate(climate, date)
+        const {precipitation, ...weather} = getWeatherForDate(climate, date)
         const monthDay = date.split('-').slice(0, 2).join('-')
         if (rainDays.includes(monthDay)) weather.precipitation = true
         weather.states = getStates(weather)

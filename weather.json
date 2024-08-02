@@ -3,11 +3,10 @@
     "date": "1-1-213",
     "season": "Winter",
     "tempRange": {
-      "low": "62.4",
-      "high": "80.3"
+      "low": "62.9",
+      "high": "79.7"
     },
-    "precipitation": false,
-    "wind": "44",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -19,16 +18,11 @@
     "date": "1-2-213",
     "season": "Winter",
     "tempRange": {
-      "low": "71.0",
-      "high": "71.5"
+      "low": "61.6",
+      "high": "80.9"
     },
-    "precipitation": true,
-    "wind": "53",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -39,16 +33,11 @@
     "date": "1-3-213",
     "season": "Winter",
     "tempRange": {
-      "low": "69.6",
-      "high": "72.8"
+      "low": "69.9",
+      "high": "72.5"
     },
-    "precipitation": true,
-    "wind": "32",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -59,11 +48,10 @@
     "date": "1-4-213",
     "season": "Winter",
     "tempRange": {
-      "low": "63.6",
-      "high": "78.7"
+      "low": "64.8",
+      "high": "77.5"
     },
-    "precipitation": false,
-    "wind": "60",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -75,11 +63,11 @@
     "date": "1-5-213",
     "season": "Winter",
     "tempRange": {
-      "low": "62.3",
-      "high": "79.8"
+      "low": "62.9",
+      "high": "79.3"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "31",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -95,11 +83,10 @@
     "date": "1-6-213",
     "season": "Winter",
     "tempRange": {
-      "low": "64.5",
-      "high": "77.5"
+      "low": "63.0",
+      "high": "79.0"
     },
-    "precipitation": false,
-    "wind": "79",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -111,27 +98,11 @@
     "date": "1-7-213",
     "season": "Winter",
     "tempRange": {
-      "low": "69.7",
-      "high": "72.2"
+      "low": "64.0",
+      "high": "77.9"
     },
-    "precipitation": false,
-    "wind": "59",
-    "states": {
-      "wind": {
-        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
-        "rules": []
-      }
-    }
-  },
-  {
-    "date": "1-8-213",
-    "season": "Winter",
-    "tempRange": {
-      "low": "62.3",
-      "high": "79.5"
-    },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "69",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -144,14 +115,28 @@
     }
   },
   {
+    "date": "1-8-213",
+    "season": "Winter",
+    "tempRange": {
+      "low": "70.0",
+      "high": "71.8"
+    },
+    "wind": "NaN",
+    "states": {
+      "wind": {
+        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
+        "rules": []
+      }
+    }
+  },
+  {
     "date": "1-9-213",
     "season": "Winter",
     "tempRange": {
-      "low": "69.8",
-      "high": "71.8"
+      "low": "65.5",
+      "high": "76.2"
     },
-    "precipitation": false,
-    "wind": "72",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -163,27 +148,11 @@
     "date": "1-10-213",
     "season": "Winter",
     "tempRange": {
-      "low": "67.1",
-      "high": "74.5"
+      "low": "68.0",
+      "high": "73.5"
     },
-    "precipitation": false,
-    "wind": "36",
-    "states": {
-      "wind": {
-        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
-        "rules": []
-      }
-    }
-  },
-  {
-    "date": "1-11-213",
-    "season": "Winter",
-    "tempRange": {
-      "low": "65.6",
-      "high": "75.8"
-    },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "59",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -196,14 +165,29 @@
     }
   },
   {
-    "date": "1-12-213",
+    "date": "1-11-213",
     "season": "Winter",
     "tempRange": {
       "low": "63.1",
-      "high": "78.2"
+      "high": "78.3"
     },
+    "wind": "NaN",
+    "states": {
+      "wind": {
+        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
+        "rules": []
+      }
+    }
+  },
+  {
+    "date": "1-12-213",
+    "season": "Winter",
+    "tempRange": {
+      "low": "65.5",
+      "high": "75.8"
+    },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "80",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -219,16 +203,11 @@
     "date": "1-13-213",
     "season": "Winter",
     "tempRange": {
-      "low": "65.1",
-      "high": "76.1"
+      "low": "63.0",
+      "high": "78.2"
     },
-    "precipitation": true,
-    "wind": "62",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -239,11 +218,10 @@
     "date": "1-14-213",
     "season": "Winter",
     "tempRange": {
-      "low": "64.9",
-      "high": "76.2"
+      "low": "70.0",
+      "high": "71.0"
     },
-    "precipitation": false,
-    "wind": "56",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -255,11 +233,10 @@
     "date": "1-15-213",
     "season": "Winter",
     "tempRange": {
-      "low": "65.3",
-      "high": "75.6"
+      "low": "67.7",
+      "high": "73.2"
     },
-    "precipitation": false,
-    "wind": "71",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -274,8 +251,7 @@
       "low": "64.8",
       "high": "76.0"
     },
-    "precipitation": false,
-    "wind": "50",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -287,16 +263,11 @@
     "date": "1-17-213",
     "season": "Winter",
     "tempRange": {
-      "low": "64.8",
-      "high": "75.8"
+      "low": "62.4",
+      "high": "78.3"
     },
-    "precipitation": true,
-    "wind": "45",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -307,16 +278,11 @@
     "date": "1-18-213",
     "season": "Winter",
     "tempRange": {
-      "low": "66.7",
-      "high": "73.9"
+      "low": "61.8",
+      "high": "78.7"
     },
-    "precipitation": true,
-    "wind": "33",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -327,11 +293,11 @@
     "date": "1-19-213",
     "season": "Winter",
     "tempRange": {
-      "low": "63.9",
-      "high": "76.5"
+      "low": "69.7",
+      "high": "70.8"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "52",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -347,11 +313,10 @@
     "date": "1-20-213",
     "season": "Winter",
     "tempRange": {
-      "low": "66.1",
-      "high": "74.3"
+      "low": "67.0",
+      "high": "73.4"
     },
-    "precipitation": false,
-    "wind": "59",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -363,16 +328,11 @@
     "date": "1-21-213",
     "season": "Winter",
     "tempRange": {
-      "low": "69.5",
-      "high": "70.7"
+      "low": "63.0",
+      "high": "77.3"
     },
-    "precipitation": true,
-    "wind": "70",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -383,11 +343,10 @@
     "date": "1-22-213",
     "season": "Winter",
     "tempRange": {
-      "low": "68.3",
-      "high": "71.8"
+      "low": "66.0",
+      "high": "74.1"
     },
-    "precipitation": false,
-    "wind": "49",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -399,16 +358,11 @@
     "date": "1-23-213",
     "season": "Winter",
     "tempRange": {
-      "low": "69.9",
-      "high": "70.1"
+      "low": "68.3",
+      "high": "71.7"
     },
-    "precipitation": true,
-    "wind": "63",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -419,16 +373,11 @@
     "date": "1-24-213",
     "season": "Winter",
     "tempRange": {
-      "low": "64.9",
-      "high": "74.9"
+      "low": "60.7",
+      "high": "79.1"
     },
-    "precipitation": true,
-    "wind": "46",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -439,11 +388,26 @@
     "date": "1-25-213",
     "season": "Winter",
     "tempRange": {
-      "low": "61.6",
-      "high": "78.1"
+      "low": "64.4",
+      "high": "75.3"
     },
+    "wind": "NaN",
+    "states": {
+      "wind": {
+        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
+        "rules": []
+      }
+    }
+  },
+  {
+    "date": "1-26-213",
+    "season": "Winter",
+    "tempRange": {
+      "low": "62.4",
+      "high": "77.2"
+    },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "68",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -456,30 +420,13 @@
     }
   },
   {
-    "date": "1-26-213",
-    "season": "Winter",
-    "tempRange": {
-      "low": "64.1",
-      "high": "75.5"
-    },
-    "precipitation": false,
-    "wind": "36",
-    "states": {
-      "wind": {
-        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
-        "rules": []
-      }
-    }
-  },
-  {
     "date": "1-27-213",
     "season": "Winter",
     "tempRange": {
-      "low": "60.7",
-      "high": "78.8"
+      "low": "68.5",
+      "high": "71.0"
     },
-    "precipitation": false,
-    "wind": "46",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -491,11 +438,11 @@
     "date": "1-28-213",
     "season": "Winter",
     "tempRange": {
-      "low": "67.7",
-      "high": "71.7"
+      "low": "69.2",
+      "high": "70.1"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "37",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -511,11 +458,10 @@
     "date": "1-29-213",
     "season": "Winter",
     "tempRange": {
-      "low": "60.8",
-      "high": "78.5"
+      "low": "65.2",
+      "high": "74.0"
     },
-    "precipitation": false,
-    "wind": "37",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -527,11 +473,10 @@
     "date": "1-30-213",
     "season": "Winter",
     "tempRange": {
-      "low": "67.4",
-      "high": "71.7"
+      "low": "59.6",
+      "high": "79.5"
     },
-    "precipitation": false,
-    "wind": "78",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -543,16 +488,11 @@
     "date": "1-31-213",
     "season": "Winter",
     "tempRange": {
-      "low": "62.1",
-      "high": "76.9"
+      "low": "66.3",
+      "high": "72.7"
     },
-    "precipitation": true,
-    "wind": "47",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -563,11 +503,10 @@
     "date": "1-32-213",
     "season": "Winter",
     "tempRange": {
-      "low": "65.3",
-      "high": "73.6"
+      "low": "66.0",
+      "high": "72.9"
     },
-    "precipitation": false,
-    "wind": "49",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -579,11 +518,10 @@
     "date": "1-33-213",
     "season": "Winter",
     "tempRange": {
-      "low": "64.9",
-      "high": "73.8"
+      "low": "59.8",
+      "high": "79.0"
     },
-    "precipitation": false,
-    "wind": "76",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -595,16 +533,11 @@
     "date": "1-34-213",
     "season": "Winter",
     "tempRange": {
-      "low": "63.0",
-      "high": "75.7"
+      "low": "68.1",
+      "high": "70.5"
     },
-    "precipitation": true,
-    "wind": "72",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -615,11 +548,10 @@
     "date": "1-35-213",
     "season": "Winter",
     "tempRange": {
-      "low": "61.4",
-      "high": "77.1"
+      "low": "69.1",
+      "high": "69.4"
     },
-    "precipitation": false,
-    "wind": "65",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -631,11 +563,10 @@
     "date": "1-36-213",
     "season": "Spring",
     "tempRange": {
-      "low": "79.7",
-      "high": "91.8"
+      "low": "81.5",
+      "high": "90.0"
     },
-    "precipitation": false,
-    "wind": "53",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -647,11 +578,10 @@
     "date": "1-37-213",
     "season": "Spring",
     "tempRange": {
-      "low": "78.9",
-      "high": "92.2"
+      "low": "81.2",
+      "high": "89.9"
     },
-    "precipitation": false,
-    "wind": "56",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -663,11 +593,10 @@
     "date": "1-38-213",
     "season": "Spring",
     "tempRange": {
-      "low": "82.7",
-      "high": "88.1"
+      "low": "76.6",
+      "high": "94.2"
     },
-    "precipitation": false,
-    "wind": "41",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -679,11 +608,11 @@
     "date": "1-39-213",
     "season": "Spring",
     "tempRange": {
-      "low": "78.8",
-      "high": "91.6"
+      "low": "76.5",
+      "high": "93.9"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "57",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -699,11 +628,10 @@
     "date": "1-40-213",
     "season": "Spring",
     "tempRange": {
-      "low": "82.3",
-      "high": "87.7"
+      "low": "75.3",
+      "high": "94.7"
     },
-    "precipitation": false,
-    "wind": "49",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -715,12 +643,16 @@
     "date": "2-1-213",
     "season": "Spring",
     "tempRange": {
-      "low": "79.1",
-      "high": "90.5"
+      "low": "84.1",
+      "high": "85.5"
     },
-    "precipitation": false,
-    "wind": "65",
+    "wind": "NaN",
+    "precipitation": true,
     "states": {
+      "precipitation": {
+        "name": "Light Rain, Heavy Rain",
+        "rules": []
+      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -731,11 +663,10 @@
     "date": "2-2-213",
     "season": "Spring",
     "tempRange": {
-      "low": "80.7",
-      "high": "88.6"
+      "low": "82.9",
+      "high": "86.3"
     },
-    "precipitation": false,
-    "wind": "35",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -747,11 +678,10 @@
     "date": "2-3-213",
     "season": "Spring",
     "tempRange": {
-      "low": "76.3",
-      "high": "92.6"
+      "low": "83.4",
+      "high": "85.5"
     },
-    "precipitation": false,
-    "wind": "53",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -763,16 +693,11 @@
     "date": "2-4-213",
     "season": "Spring",
     "tempRange": {
-      "low": "75.2",
-      "high": "93.3"
+      "low": "82.4",
+      "high": "86.1"
     },
-    "precipitation": true,
-    "wind": "37",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -783,11 +708,10 @@
     "date": "2-5-213",
     "season": "Spring",
     "tempRange": {
-      "low": "83.7",
-      "high": "84.5"
+      "low": "74.7",
+      "high": "93.5"
     },
-    "precipitation": false,
-    "wind": "52",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -799,11 +723,10 @@
     "date": "2-6-213",
     "season": "Spring",
     "tempRange": {
-      "low": "77.6",
-      "high": "90.2"
+      "low": "78.2",
+      "high": "89.6"
     },
-    "precipitation": false,
-    "wind": "62",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -815,11 +738,10 @@
     "date": "2-7-213",
     "season": "Spring",
     "tempRange": {
-      "low": "75.8",
-      "high": "91.6"
+      "low": "83.5",
+      "high": "83.9"
     },
-    "precipitation": false,
-    "wind": "74",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -831,16 +753,11 @@
     "date": "2-8-213",
     "season": "Spring",
     "tempRange": {
-      "low": "79.1",
-      "high": "87.9"
+      "low": "75.4",
+      "high": "91.6"
     },
-    "precipitation": true,
-    "wind": "46",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -851,27 +768,11 @@
     "date": "2-9-213",
     "season": "Spring",
     "tempRange": {
-      "low": "75.9",
-      "high": "90.8"
+      "low": "75.3",
+      "high": "91.4"
     },
-    "precipitation": false,
-    "wind": "77",
-    "states": {
-      "wind": {
-        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
-        "rules": []
-      }
-    }
-  },
-  {
-    "date": "2-10-213",
-    "season": "Spring",
-    "tempRange": {
-      "low": "75.6",
-      "high": "90.7"
-    },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "31",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -884,14 +785,29 @@
     }
   },
   {
+    "date": "2-10-213",
+    "season": "Spring",
+    "tempRange": {
+      "low": "81.6",
+      "high": "84.7"
+    },
+    "wind": "NaN",
+    "states": {
+      "wind": {
+        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
+        "rules": []
+      }
+    }
+  },
+  {
     "date": "2-11-213",
     "season": "Spring",
     "tempRange": {
-      "low": "73.3",
-      "high": "92.6"
+      "low": "81.5",
+      "high": "84.4"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "50",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -907,11 +823,10 @@
     "date": "2-12-213",
     "season": "Spring",
     "tempRange": {
-      "low": "78.5",
-      "high": "87.0"
+      "low": "80.1",
+      "high": "85.5"
     },
-    "precipitation": false,
-    "wind": "71",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -923,16 +838,11 @@
     "date": "2-13-213",
     "season": "Spring",
     "tempRange": {
-      "low": "74.0",
-      "high": "91.2"
+      "low": "79.2",
+      "high": "86.0"
     },
-    "precipitation": true,
-    "wind": "57",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -943,11 +853,10 @@
     "date": "2-14-213",
     "season": "Spring",
     "tempRange": {
-      "low": "81.1",
-      "high": "83.8"
+      "low": "80.8",
+      "high": "84.1"
     },
-    "precipitation": false,
-    "wind": "63",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -959,16 +868,11 @@
     "date": "2-15-213",
     "season": "Spring",
     "tempRange": {
-      "low": "74.7",
-      "high": "89.7"
+      "low": "81.1",
+      "high": "83.3"
     },
-    "precipitation": true,
-    "wind": "44",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -979,11 +883,10 @@
     "date": "2-16-213",
     "season": "Spring",
     "tempRange": {
-      "low": "76.9",
-      "high": "87.2"
+      "low": "75.4",
+      "high": "88.6"
     },
-    "precipitation": false,
-    "wind": "51",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -995,11 +898,10 @@
     "date": "2-17-213",
     "season": "Spring",
     "tempRange": {
-      "low": "80.7",
-      "high": "83.0"
+      "low": "74.6",
+      "high": "89.1"
     },
-    "precipitation": false,
-    "wind": "71",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1011,11 +913,10 @@
     "date": "2-18-213",
     "season": "Spring",
     "tempRange": {
-      "low": "81.3",
-      "high": "82.0"
+      "low": "74.4",
+      "high": "89.0"
     },
-    "precipitation": false,
-    "wind": "33",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1027,16 +928,11 @@
     "date": "2-19-213",
     "season": "Spring",
     "tempRange": {
-      "low": "78.8",
-      "high": "84.2"
+      "low": "79.9",
+      "high": "83.0"
     },
-    "precipitation": true,
-    "wind": "33",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1047,11 +943,10 @@
     "date": "2-20-213",
     "season": "Spring",
     "tempRange": {
-      "low": "75.4",
-      "high": "87.2"
+      "low": "72.9",
+      "high": "89.7"
     },
-    "precipitation": false,
-    "wind": "64",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1063,11 +958,10 @@
     "date": "2-21-213",
     "season": "Spring",
     "tempRange": {
-      "low": "78.1",
-      "high": "84.1"
+      "low": "71.7",
+      "high": "90.5"
     },
-    "precipitation": false,
-    "wind": "71",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1079,11 +973,10 @@
     "date": "2-22-213",
     "season": "Spring",
     "tempRange": {
-      "low": "78.2",
-      "high": "83.6"
+      "low": "78.0",
+      "high": "83.8"
     },
-    "precipitation": false,
-    "wind": "45",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1095,16 +988,11 @@
     "date": "2-23-213",
     "season": "Spring",
     "tempRange": {
-      "low": "78.2",
-      "high": "83.3"
+      "low": "75.5",
+      "high": "86.0"
     },
-    "precipitation": true,
-    "wind": "72",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1115,16 +1003,11 @@
     "date": "2-24-213",
     "season": "Spring",
     "tempRange": {
-      "low": "72.5",
-      "high": "88.6"
+      "low": "71.5",
+      "high": "89.6"
     },
-    "precipitation": true,
-    "wind": "54",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1135,11 +1018,11 @@
     "date": "2-25-213",
     "season": "Spring",
     "tempRange": {
-      "low": "79.8",
-      "high": "80.9"
+      "low": "76.8",
+      "high": "83.9"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "70",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -1155,11 +1038,11 @@
     "date": "2-26-213",
     "season": "Spring",
     "tempRange": {
-      "low": "76.9",
-      "high": "83.5"
+      "low": "74.2",
+      "high": "86.1"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "41",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -1175,16 +1058,11 @@
     "date": "2-27-213",
     "season": "Spring",
     "tempRange": {
-      "low": "70.7",
-      "high": "89.3"
+      "low": "80.0",
+      "high": "80.0"
     },
-    "precipitation": true,
-    "wind": "35",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1195,11 +1073,11 @@
     "date": "2-28-213",
     "season": "Spring",
     "tempRange": {
-      "low": "77.5",
-      "high": "82.1"
+      "low": "73.7",
+      "high": "85.9"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "72",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -1215,16 +1093,11 @@
     "date": "2-29-213",
     "season": "Spring",
     "tempRange": {
-      "low": "78.6",
-      "high": "80.7"
+      "low": "78.8",
+      "high": "80.4"
     },
-    "precipitation": true,
-    "wind": "79",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1235,11 +1108,10 @@
     "date": "2-30-213",
     "season": "Spring",
     "tempRange": {
-      "low": "77.9",
-      "high": "80.9"
+      "low": "70.8",
+      "high": "88.0"
     },
-    "precipitation": false,
-    "wind": "64",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1251,16 +1123,11 @@
     "date": "2-31-213",
     "season": "Spring",
     "tempRange": {
-      "low": "77.4",
-      "high": "81.1"
+      "low": "73.4",
+      "high": "85.1"
     },
-    "precipitation": true,
-    "wind": "32",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1271,11 +1138,10 @@
     "date": "2-32-213",
     "season": "Spring",
     "tempRange": {
-      "low": "78.6",
-      "high": "79.5"
+      "low": "72.9",
+      "high": "85.3"
     },
-    "precipitation": false,
-    "wind": "43",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1287,11 +1153,10 @@
     "date": "2-33-213",
     "season": "Spring",
     "tempRange": {
-      "low": "72.9",
-      "high": "84.9"
+      "low": "74.3",
+      "high": "83.5"
     },
-    "precipitation": false,
-    "wind": "40",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1303,11 +1168,10 @@
     "date": "2-34-213",
     "season": "Spring",
     "tempRange": {
-      "low": "75.6",
-      "high": "81.8"
+      "low": "74.9",
+      "high": "82.5"
     },
-    "precipitation": false,
-    "wind": "70",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1319,11 +1183,10 @@
     "date": "2-35-213",
     "season": "Spring",
     "tempRange": {
-      "low": "68.9",
-      "high": "88.1"
+      "low": "70.1",
+      "high": "86.9"
     },
-    "precipitation": false,
-    "wind": "71",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1335,11 +1198,10 @@
     "date": "2-36-213",
     "season": "Spring",
     "tempRange": {
-      "low": "74.4",
-      "high": "82.2"
+      "low": "69.0",
+      "high": "87.7"
     },
-    "precipitation": false,
-    "wind": "30",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1351,11 +1213,11 @@
     "date": "2-37-213",
     "season": "Spring",
     "tempRange": {
-      "low": "70.6",
-      "high": "85.7"
+      "low": "76.5",
+      "high": "79.8"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "43",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -1371,11 +1233,10 @@
     "date": "2-38-213",
     "season": "Spring",
     "tempRange": {
-      "low": "68.3",
-      "high": "87.6"
+      "low": "69.7",
+      "high": "86.2"
     },
-    "precipitation": false,
-    "wind": "59",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1387,11 +1248,11 @@
     "date": "2-39-213",
     "season": "Spring",
     "tempRange": {
-      "low": "77.8",
-      "high": "77.8"
+      "low": "69.9",
+      "high": "85.7"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "39",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -1407,11 +1268,10 @@
     "date": "2-40-213",
     "season": "Spring",
     "tempRange": {
-      "low": "68.5",
-      "high": "86.7"
+      "low": "77.5",
+      "high": "77.7"
     },
-    "precipitation": false,
-    "wind": "57",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1423,16 +1283,11 @@
     "date": "3-1-213",
     "season": "Spring",
     "tempRange": {
-      "low": "77.4",
-      "high": "77.8"
+      "low": "72.8",
+      "high": "82.4"
     },
-    "precipitation": true,
-    "wind": "40",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1443,16 +1298,11 @@
     "date": "3-2-213",
     "season": "Spring",
     "tempRange": {
-      "low": "75.4",
-      "high": "80.0"
+      "low": "69.0",
+      "high": "86.5"
     },
-    "precipitation": true,
-    "wind": "50",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1463,11 +1313,11 @@
     "date": "3-3-213",
     "season": "Spring",
     "tempRange": {
-      "low": "77.5",
-      "high": "78.2"
+      "low": "70.5",
+      "high": "85.3"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "69",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -1483,11 +1333,10 @@
     "date": "3-4-213",
     "season": "Spring",
     "tempRange": {
-      "low": "74.7",
-      "high": "81.4"
+      "low": "75.1",
+      "high": "80.9"
     },
-    "precipitation": false,
-    "wind": "31",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1499,11 +1348,10 @@
     "date": "3-5-213",
     "season": "Spring",
     "tempRange": {
-      "low": "74.4",
-      "high": "82.0"
+      "low": "69.4",
+      "high": "87.0"
     },
-    "precipitation": false,
-    "wind": "78",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1515,11 +1363,10 @@
     "date": "3-6-213",
     "season": "Spring",
     "tempRange": {
-      "low": "73.9",
-      "high": "82.8"
+      "low": "70.9",
+      "high": "85.8"
     },
-    "precipitation": false,
-    "wind": "34",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1531,16 +1378,11 @@
     "date": "3-7-213",
     "season": "Spring",
     "tempRange": {
-      "low": "68.7",
-      "high": "88.3"
+      "low": "73.7",
+      "high": "83.3"
     },
-    "precipitation": true,
-    "wind": "42",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1551,11 +1393,10 @@
     "date": "3-8-213",
     "season": "Spring",
     "tempRange": {
-      "low": "78.0",
-      "high": "79.3"
+      "low": "73.1",
+      "high": "84.3"
     },
-    "precipitation": false,
-    "wind": "66",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1567,11 +1408,10 @@
     "date": "3-9-213",
     "season": "Spring",
     "tempRange": {
-      "low": "75.0",
-      "high": "82.6"
+      "low": "69.2",
+      "high": "88.5"
     },
-    "precipitation": false,
-    "wind": "51",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1583,11 +1423,10 @@
     "date": "3-10-213",
     "season": "Spring",
     "tempRange": {
-      "low": "70.6",
-      "high": "87.3"
+      "low": "72.2",
+      "high": "85.7"
     },
-    "precipitation": false,
-    "wind": "62",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1599,16 +1438,11 @@
     "date": "3-11-213",
     "season": "Spring",
     "tempRange": {
-      "low": "76.1",
-      "high": "82.2"
+      "low": "78.7",
+      "high": "79.5"
     },
-    "precipitation": true,
-    "wind": "64",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1619,16 +1453,11 @@
     "date": "3-12-213",
     "season": "Spring",
     "tempRange": {
-      "low": "75.2",
-      "high": "83.4"
+      "low": "74.4",
+      "high": "84.1"
     },
-    "precipitation": true,
-    "wind": "35",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1639,11 +1468,10 @@
     "date": "3-13-213",
     "season": "Spring",
     "tempRange": {
-      "low": "72.5",
-      "high": "86.4"
+      "low": "73.0",
+      "high": "85.8"
     },
-    "precipitation": false,
-    "wind": "61",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1655,11 +1483,10 @@
     "date": "3-14-213",
     "season": "Spring",
     "tempRange": {
-      "low": "76.0",
-      "high": "83.1"
+      "low": "75.0",
+      "high": "84.2"
     },
-    "precipitation": false,
-    "wind": "67",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1671,27 +1498,11 @@
     "date": "3-15-213",
     "season": "Spring",
     "tempRange": {
-      "low": "72.5",
-      "high": "87.0"
+      "low": "74.1",
+      "high": "85.4"
     },
-    "precipitation": false,
-    "wind": "59",
-    "states": {
-      "wind": {
-        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
-        "rules": []
-      }
-    }
-  },
-  {
-    "date": "3-16-213",
-    "season": "Spring",
-    "tempRange": {
-      "low": "70.8",
-      "high": "89.0"
-    },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "71",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -1704,14 +1515,28 @@
     }
   },
   {
+    "date": "3-16-213",
+    "season": "Spring",
+    "tempRange": {
+      "low": "78.9",
+      "high": "80.8"
+    },
+    "wind": "NaN",
+    "states": {
+      "wind": {
+        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
+        "rules": []
+      }
+    }
+  },
+  {
     "date": "3-17-213",
     "season": "Spring",
     "tempRange": {
-      "low": "70.8",
-      "high": "89.2"
+      "low": "77.9",
+      "high": "82.2"
     },
-    "precipitation": false,
-    "wind": "55",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1723,11 +1548,10 @@
     "date": "3-18-213",
     "season": "Spring",
     "tempRange": {
-      "low": "79.0",
-      "high": "81.4"
+      "low": "79.1",
+      "high": "81.3"
     },
-    "precipitation": false,
-    "wind": "59",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1739,16 +1563,11 @@
     "date": "3-19-213",
     "season": "Spring",
     "tempRange": {
-      "low": "74.1",
-      "high": "86.6"
+      "low": "70.5",
+      "high": "90.2"
     },
-    "precipitation": true,
-    "wind": "51",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1759,16 +1578,11 @@
     "date": "3-20-213",
     "season": "Spring",
     "tempRange": {
-      "low": "72.3",
-      "high": "88.8"
+      "low": "75.2",
+      "high": "85.9"
     },
-    "precipitation": true,
-    "wind": "69",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1779,16 +1593,11 @@
     "date": "3-21-213",
     "season": "Spring",
     "tempRange": {
-      "low": "76.7",
-      "high": "84.6"
+      "low": "76.2",
+      "high": "85.1"
     },
-    "precipitation": true,
-    "wind": "40",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1799,11 +1608,11 @@
     "date": "3-22-213",
     "season": "Spring",
     "tempRange": {
-      "low": "76.3",
-      "high": "85.3"
+      "low": "80.7",
+      "high": "81.0"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "32",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -1819,27 +1628,11 @@
     "date": "3-23-213",
     "season": "Spring",
     "tempRange": {
-      "low": "72.4",
-      "high": "89.5"
-    },
-    "precipitation": false,
-    "wind": "33",
-    "states": {
-      "wind": {
-        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
-        "rules": []
-      }
-    }
-  },
-  {
-    "date": "3-24-213",
-    "season": "Spring",
-    "tempRange": {
-      "low": "75.1",
+      "low": "74.9",
       "high": "87.1"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "36",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -1852,14 +1645,28 @@
     }
   },
   {
+    "date": "3-24-213",
+    "season": "Spring",
+    "tempRange": {
+      "low": "75.2",
+      "high": "87.1"
+    },
+    "wind": "NaN",
+    "states": {
+      "wind": {
+        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
+        "rules": []
+      }
+    }
+  },
+  {
     "date": "3-25-213",
     "season": "Spring",
     "tempRange": {
-      "low": "81.2",
-      "high": "81.4"
+      "low": "75.4",
+      "high": "87.2"
     },
-    "precipitation": false,
-    "wind": "67",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1871,11 +1678,10 @@
     "date": "3-26-213",
     "season": "Spring",
     "tempRange": {
-      "low": "80.2",
-      "high": "82.7"
+      "low": "75.7",
+      "high": "87.2"
     },
-    "precipitation": false,
-    "wind": "63",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1887,12 +1693,16 @@
     "date": "3-27-213",
     "season": "Spring",
     "tempRange": {
-      "low": "75.1",
-      "high": "88.1"
+      "low": "75.5",
+      "high": "87.7"
     },
-    "precipitation": false,
-    "wind": "74",
+    "wind": "NaN",
+    "precipitation": true,
     "states": {
+      "precipitation": {
+        "name": "Light Rain, Heavy Rain",
+        "rules": []
+      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1903,16 +1713,11 @@
     "date": "3-28-213",
     "season": "Spring",
     "tempRange": {
-      "low": "78.7",
-      "high": "84.8"
+      "low": "73.2",
+      "high": "90.2"
     },
-    "precipitation": true,
-    "wind": "35",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1923,16 +1728,11 @@
     "date": "3-29-213",
     "season": "Spring",
     "tempRange": {
-      "low": "79.5",
-      "high": "84.3"
+      "low": "81.5",
+      "high": "82.3"
     },
-    "precipitation": true,
-    "wind": "35",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -1946,8 +1746,7 @@
       "low": "75.1",
       "high": "89.0"
     },
-    "precipitation": false,
-    "wind": "57",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1959,11 +1758,10 @@
     "date": "3-31-213",
     "season": "Spring",
     "tempRange": {
-      "low": "76.3",
-      "high": "88.1"
+      "low": "76.8",
+      "high": "87.7"
     },
-    "precipitation": false,
-    "wind": "32",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -1975,27 +1773,11 @@
     "date": "3-32-213",
     "season": "Spring",
     "tempRange": {
-      "low": "75.7",
-      "high": "89.1"
+      "low": "80.3",
+      "high": "84.4"
     },
-    "precipitation": false,
-    "wind": "72",
-    "states": {
-      "wind": {
-        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
-        "rules": []
-      }
-    }
-  },
-  {
-    "date": "3-33-213",
-    "season": "Spring",
-    "tempRange": {
-      "low": "78.9",
-      "high": "86.1"
-    },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "30",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -2008,14 +1790,28 @@
     }
   },
   {
+    "date": "3-33-213",
+    "season": "Spring",
+    "tempRange": {
+      "low": "76.5",
+      "high": "88.6"
+    },
+    "wind": "NaN",
+    "states": {
+      "wind": {
+        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
+        "rules": []
+      }
+    }
+  },
+  {
     "date": "3-34-213",
     "season": "Spring",
     "tempRange": {
-      "low": "75.8",
-      "high": "89.5"
+      "low": "77.0",
+      "high": "88.3"
     },
-    "precipitation": false,
-    "wind": "79",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2027,11 +1823,10 @@
     "date": "3-35-213",
     "season": "Spring",
     "tempRange": {
-      "low": "76.7",
-      "high": "89.0"
+      "low": "75.2",
+      "high": "90.4"
     },
-    "precipitation": false,
-    "wind": "68",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2043,16 +1838,11 @@
     "date": "3-36-213",
     "season": "Spring",
     "tempRange": {
-      "low": "75.1",
-      "high": "90.9"
+      "low": "82.7",
+      "high": "83.2"
     },
-    "precipitation": true,
-    "wind": "78",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2063,11 +1853,10 @@
     "date": "3-37-213",
     "season": "Spring",
     "tempRange": {
-      "low": "77.4",
-      "high": "88.8"
+      "low": "76.6",
+      "high": "89.6"
     },
-    "precipitation": false,
-    "wind": "42",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2079,16 +1868,11 @@
     "date": "3-38-213",
     "season": "Spring",
     "tempRange": {
-      "low": "75.5",
-      "high": "91.0"
+      "low": "74.6",
+      "high": "92.0"
     },
-    "precipitation": true,
-    "wind": "37",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2099,16 +1883,11 @@
     "date": "3-39-213",
     "season": "Spring",
     "tempRange": {
-      "low": "79.6",
-      "high": "87.3"
+      "low": "82.4",
+      "high": "84.5"
     },
-    "precipitation": true,
-    "wind": "49",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2119,11 +1898,10 @@
     "date": "3-40-213",
     "season": "Spring",
     "tempRange": {
-      "low": "81.1",
-      "high": "86.1"
+      "low": "75.3",
+      "high": "91.9"
     },
-    "precipitation": false,
-    "wind": "76",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2135,16 +1913,11 @@
     "date": "4-1-213",
     "season": "Spring",
     "tempRange": {
-      "low": "79.5",
-      "high": "88.0"
+      "low": "83.5",
+      "high": "84.0"
     },
-    "precipitation": true,
-    "wind": "54",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2155,16 +1928,11 @@
     "date": "4-2-213",
     "season": "Spring",
     "tempRange": {
-      "low": "77.2",
-      "high": "90.6"
+      "low": "80.1",
+      "high": "87.8"
     },
-    "precipitation": true,
-    "wind": "67",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2175,16 +1943,11 @@
     "date": "4-3-213",
     "season": "Spring",
     "tempRange": {
-      "low": "78.5",
-      "high": "89.6"
+      "low": "82.8",
+      "high": "85.3"
     },
-    "precipitation": true,
-    "wind": "75",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2195,16 +1958,11 @@
     "date": "4-4-213",
     "season": "Spring",
     "tempRange": {
-      "low": "81.3",
-      "high": "87.2"
+      "low": "77.6",
+      "high": "90.8"
     },
-    "precipitation": true,
-    "wind": "30",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2215,11 +1973,10 @@
     "date": "4-5-213",
     "season": "Spring",
     "tempRange": {
-      "low": "75.9",
-      "high": "92.9"
+      "low": "82.1",
+      "high": "86.7"
     },
-    "precipitation": false,
-    "wind": "55",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2231,11 +1988,10 @@
     "date": "4-6-213",
     "season": "Summer",
     "tempRange": {
-      "low": "92.2",
-      "high": "104.1"
+      "low": "91.3",
+      "high": "105.0"
     },
-    "precipitation": false,
-    "wind": "37",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2247,11 +2003,10 @@
     "date": "4-7-213",
     "season": "Summer",
     "tempRange": {
-      "low": "96.5",
-      "high": "99.5"
+      "low": "91.0",
+      "high": "104.9"
     },
-    "precipitation": false,
-    "wind": "58",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2263,11 +2018,10 @@
     "date": "4-8-213",
     "season": "Summer",
     "tempRange": {
-      "low": "93.4",
-      "high": "102.2"
+      "low": "92.1",
+      "high": "103.5"
     },
-    "precipitation": false,
-    "wind": "73",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2279,16 +2033,11 @@
     "date": "4-9-213",
     "season": "Summer",
     "tempRange": {
-      "low": "95.4",
-      "high": "100.0"
+      "low": "92.4",
+      "high": "103.0"
     },
-    "precipitation": true,
-    "wind": "57",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2299,11 +2048,10 @@
     "date": "4-10-213",
     "season": "Summer",
     "tempRange": {
-      "low": "96.5",
-      "high": "98.5"
+      "low": "90.4",
+      "high": "104.6"
     },
-    "precipitation": false,
-    "wind": "39",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2315,16 +2063,11 @@
     "date": "4-11-213",
     "season": "Summer",
     "tempRange": {
-      "low": "92.2",
-      "high": "102.5"
+      "low": "92.4",
+      "high": "102.3"
     },
-    "precipitation": true,
-    "wind": "46",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2335,16 +2078,11 @@
     "date": "4-12-213",
     "season": "Summer",
     "tempRange": {
-      "low": "91.3",
-      "high": "103.1"
+      "low": "87.2",
+      "high": "107.2"
     },
-    "precipitation": true,
-    "wind": "52",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2355,11 +2093,11 @@
     "date": "4-13-213",
     "season": "Summer",
     "tempRange": {
-      "low": "96.6",
-      "high": "97.5"
+      "low": "90.4",
+      "high": "103.6"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "60",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -2375,16 +2113,11 @@
     "date": "4-14-213",
     "season": "Summer",
     "tempRange": {
-      "low": "90.4",
-      "high": "103.3"
+      "low": "94.2",
+      "high": "99.6"
     },
-    "precipitation": true,
-    "wind": "69",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2395,11 +2128,10 @@
     "date": "4-15-213",
     "season": "Summer",
     "tempRange": {
-      "low": "94.4",
-      "high": "99.0"
+      "low": "92.8",
+      "high": "100.7"
     },
-    "precipitation": false,
-    "wind": "41",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2411,11 +2143,10 @@
     "date": "4-16-213",
     "season": "Summer",
     "tempRange": {
-      "low": "91.5",
-      "high": "101.7"
+      "low": "95.3",
+      "high": "97.8"
     },
-    "precipitation": false,
-    "wind": "38",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2427,16 +2158,11 @@
     "date": "4-17-213",
     "season": "Summer",
     "tempRange": {
-      "low": "87.3",
-      "high": "105.5"
+      "low": "89.2",
+      "high": "103.7"
     },
-    "precipitation": true,
-    "wind": "50",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2447,11 +2173,10 @@
     "date": "4-18-213",
     "season": "Summer",
     "tempRange": {
-      "low": "94.0",
-      "high": "98.5"
+      "low": "94.2",
+      "high": "98.3"
     },
-    "precipitation": false,
-    "wind": "51",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2463,11 +2188,10 @@
     "date": "4-19-213",
     "season": "Summer",
     "tempRange": {
-      "low": "91.8",
-      "high": "100.4"
+      "low": "95.6",
+      "high": "96.7"
     },
-    "precipitation": false,
-    "wind": "56",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2479,11 +2203,10 @@
     "date": "4-20-213",
     "season": "Summer",
     "tempRange": {
-      "low": "93.2",
-      "high": "98.8"
+      "low": "91.5",
+      "high": "100.4"
     },
-    "precipitation": false,
-    "wind": "38",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2495,11 +2218,11 @@
     "date": "4-21-213",
     "season": "Summer",
     "tempRange": {
-      "low": "91.2",
-      "high": "100.4"
+      "low": "87.0",
+      "high": "104.6"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "47",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -2515,11 +2238,10 @@
     "date": "4-22-213",
     "season": "Summer",
     "tempRange": {
-      "low": "94.1",
-      "high": "97.2"
+      "low": "91.1",
+      "high": "100.2"
     },
-    "precipitation": false,
-    "wind": "55",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2531,12 +2253,16 @@
     "date": "4-23-213",
     "season": "Summer",
     "tempRange": {
-      "low": "90.0",
-      "high": "100.9"
+      "low": "89.0",
+      "high": "102.0"
     },
-    "precipitation": false,
-    "wind": "56",
+    "wind": "NaN",
+    "precipitation": true,
     "states": {
+      "precipitation": {
+        "name": "Light Rain, Heavy Rain",
+        "rules": []
+      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2547,16 +2273,11 @@
     "date": "4-24-213",
     "season": "Summer",
     "tempRange": {
-      "low": "92.5",
-      "high": "98.2"
+      "low": "90.9",
+      "high": "99.8"
     },
-    "precipitation": true,
-    "wind": "56",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2567,16 +2288,11 @@
     "date": "4-25-213",
     "season": "Summer",
     "tempRange": {
-      "low": "88.0",
-      "high": "102.4"
+      "low": "91.6",
+      "high": "98.7"
     },
-    "precipitation": true,
-    "wind": "40",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2587,27 +2303,11 @@
     "date": "4-26-213",
     "season": "Summer",
     "tempRange": {
-      "low": "92.3",
-      "high": "97.8"
+      "low": "87.3",
+      "high": "102.7"
     },
-    "precipitation": false,
-    "wind": "32",
-    "states": {
-      "wind": {
-        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
-        "rules": []
-      }
-    }
-  },
-  {
-    "date": "4-27-213",
-    "season": "Summer",
-    "tempRange": {
-      "low": "89.5",
-      "high": "100.3"
-    },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "77",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -2620,14 +2320,28 @@
     }
   },
   {
+    "date": "4-27-213",
+    "season": "Summer",
+    "tempRange": {
+      "low": "91.7",
+      "high": "98.1"
+    },
+    "wind": "NaN",
+    "states": {
+      "wind": {
+        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
+        "rules": []
+      }
+    }
+  },
+  {
     "date": "4-28-213",
     "season": "Summer",
     "tempRange": {
-      "low": "90.2",
-      "high": "99.2"
+      "low": "91.7",
+      "high": "97.7"
     },
-    "precipitation": false,
-    "wind": "68",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2639,16 +2353,11 @@
     "date": "4-29-213",
     "season": "Summer",
     "tempRange": {
-      "low": "87.1",
-      "high": "102.1"
+      "low": "87.2",
+      "high": "101.9"
     },
-    "precipitation": true,
-    "wind": "74",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2659,11 +2368,10 @@
     "date": "4-30-213",
     "season": "Summer",
     "tempRange": {
-      "low": "92.4",
-      "high": "96.5"
+      "low": "87.0",
+      "high": "101.8"
     },
-    "precipitation": false,
-    "wind": "64",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2675,11 +2383,10 @@
     "date": "4-31-213",
     "season": "Summer",
     "tempRange": {
-      "low": "85.3",
-      "high": "103.3"
+      "low": "88.4",
+      "high": "100.1"
     },
-    "precipitation": false,
-    "wind": "53",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2694,8 +2401,7 @@
       "low": "90.4",
       "high": "97.8"
     },
-    "precipitation": false,
-    "wind": "74",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2707,11 +2413,10 @@
     "date": "4-33-213",
     "season": "Summer",
     "tempRange": {
-      "low": "91.1",
-      "high": "96.8"
+      "low": "90.5",
+      "high": "97.4"
     },
-    "precipitation": false,
-    "wind": "48",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2723,16 +2428,11 @@
     "date": "4-34-213",
     "season": "Summer",
     "tempRange": {
-      "low": "84.4",
-      "high": "103.2"
+      "low": "88.7",
+      "high": "98.9"
     },
-    "precipitation": true,
-    "wind": "31",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2743,11 +2443,10 @@
     "date": "4-35-213",
     "season": "Summer",
     "tempRange": {
-      "low": "90.5",
-      "high": "96.8"
+      "low": "86.6",
+      "high": "100.7"
     },
-    "precipitation": false,
-    "wind": "80",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2759,11 +2458,10 @@
     "date": "4-36-213",
     "season": "Summer",
     "tempRange": {
-      "low": "92.6",
-      "high": "94.3"
+      "low": "90.4",
+      "high": "96.5"
     },
-    "precipitation": false,
-    "wind": "34",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2775,11 +2473,10 @@
     "date": "4-37-213",
     "season": "Summer",
     "tempRange": {
-      "low": "91.9",
-      "high": "94.8"
+      "low": "90.7",
+      "high": "96.0"
     },
-    "precipitation": false,
-    "wind": "52",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2791,11 +2488,11 @@
     "date": "4-38-213",
     "season": "Summer",
     "tempRange": {
-      "low": "87.3",
-      "high": "99.1"
+      "low": "88.4",
+      "high": "98.0"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "78",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -2811,11 +2508,10 @@
     "date": "4-39-213",
     "season": "Summer",
     "tempRange": {
-      "low": "87.0",
-      "high": "99.1"
+      "low": "91.8",
+      "high": "94.3"
     },
-    "precipitation": false,
-    "wind": "45",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2827,16 +2523,11 @@
     "date": "4-40-213",
     "season": "Summer",
     "tempRange": {
-      "low": "86.1",
-      "high": "99.6"
+      "low": "91.3",
+      "high": "94.5"
     },
-    "precipitation": true,
-    "wind": "63",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2847,11 +2538,10 @@
     "date": "5-1-213",
     "season": "Summer",
     "tempRange": {
-      "low": "87.8",
-      "high": "97.6"
+      "low": "87.4",
+      "high": "98.0"
     },
-    "precipitation": false,
-    "wind": "56",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2863,11 +2553,10 @@
     "date": "5-2-213",
     "season": "Summer",
     "tempRange": {
-      "low": "90.1",
-      "high": "95.1"
+      "low": "82.9",
+      "high": "102.2"
     },
-    "precipitation": false,
-    "wind": "57",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2879,16 +2568,11 @@
     "date": "5-3-213",
     "season": "Summer",
     "tempRange": {
-      "low": "89.7",
-      "high": "95.1"
+      "low": "89.8",
+      "high": "95.0"
     },
-    "precipitation": true,
-    "wind": "68",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2899,11 +2583,10 @@
     "date": "5-4-213",
     "season": "Summer",
     "tempRange": {
-      "low": "83.5",
-      "high": "101.0"
+      "low": "86.5",
+      "high": "98.0"
     },
-    "precipitation": false,
-    "wind": "44",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2915,11 +2598,10 @@
     "date": "5-5-213",
     "season": "Summer",
     "tempRange": {
-      "low": "85.9",
-      "high": "98.3"
+      "low": "91.0",
+      "high": "93.2"
     },
-    "precipitation": false,
-    "wind": "60",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2931,16 +2613,11 @@
     "date": "5-6-213",
     "season": "Summer",
     "tempRange": {
-      "low": "88.2",
-      "high": "95.7"
+      "low": "83.2",
+      "high": "100.7"
     },
-    "precipitation": true,
-    "wind": "30",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2951,16 +2628,11 @@
     "date": "5-7-213",
     "season": "Summer",
     "tempRange": {
-      "low": "84.3",
-      "high": "99.3"
+      "low": "90.1",
+      "high": "93.5"
     },
-    "precipitation": true,
-    "wind": "63",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -2971,11 +2643,10 @@
     "date": "5-8-213",
     "season": "Summer",
     "tempRange": {
-      "low": "82.2",
-      "high": "101.1"
+      "low": "87.3",
+      "high": "96.0"
     },
-    "precipitation": false,
-    "wind": "75",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -2987,11 +2658,10 @@
     "date": "5-9-213",
     "season": "Summer",
     "tempRange": {
-      "low": "83.1",
-      "high": "99.9"
+      "low": "90.5",
+      "high": "92.4"
     },
-    "precipitation": false,
-    "wind": "64",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3003,16 +2673,11 @@
     "date": "5-10-213",
     "season": "Summer",
     "tempRange": {
-      "low": "83.3",
-      "high": "99.3"
+      "low": "81.9",
+      "high": "100.8"
     },
-    "precipitation": true,
-    "wind": "35",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3023,11 +2688,10 @@
     "date": "5-11-213",
     "season": "Summer",
     "tempRange": {
-      "low": "87.6",
-      "high": "94.6"
+      "low": "84.6",
+      "high": "97.7"
     },
-    "precipitation": false,
-    "wind": "72",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3039,16 +2703,11 @@
     "date": "5-12-213",
     "season": "Summer",
     "tempRange": {
-      "low": "90.3",
-      "high": "91.4"
+      "low": "88.4",
+      "high": "93.3"
     },
-    "precipitation": true,
-    "wind": "52",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3059,16 +2718,11 @@
     "date": "5-13-213",
     "season": "Summer",
     "tempRange": {
-      "low": "85.8",
-      "high": "95.3"
+      "low": "84.6",
+      "high": "96.5"
     },
-    "precipitation": true,
-    "wind": "31",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3079,11 +2733,10 @@
     "date": "5-14-213",
     "season": "Summer",
     "tempRange": {
-      "low": "88.8",
-      "high": "91.7"
+      "low": "82.0",
+      "high": "98.5"
     },
-    "precipitation": false,
-    "wind": "60",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3095,16 +2748,11 @@
     "date": "5-15-213",
     "season": "Summer",
     "tempRange": {
-      "low": "81.1",
-      "high": "98.9"
+      "low": "84.3",
+      "high": "95.7"
     },
-    "precipitation": true,
-    "wind": "56",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3115,16 +2763,11 @@
     "date": "5-16-213",
     "season": "Summer",
     "tempRange": {
-      "low": "86.2",
-      "high": "93.2"
+      "low": "85.1",
+      "high": "94.4"
     },
-    "precipitation": true,
-    "wind": "77",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3135,11 +2778,10 @@
     "date": "5-17-213",
     "season": "Summer",
     "tempRange": {
-      "low": "87.4",
-      "high": "91.4"
+      "low": "86.5",
+      "high": "92.4"
     },
-    "precipitation": false,
-    "wind": "63",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3151,11 +2793,10 @@
     "date": "5-18-213",
     "season": "Summer",
     "tempRange": {
-      "low": "88.5",
-      "high": "89.8"
+      "low": "86.9",
+      "high": "91.4"
     },
-    "precipitation": false,
-    "wind": "66",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3167,11 +2808,26 @@
     "date": "5-19-213",
     "season": "Summer",
     "tempRange": {
-      "low": "81.9",
-      "high": "95.8"
+      "low": "79.7",
+      "high": "98.1"
     },
+    "wind": "NaN",
+    "states": {
+      "wind": {
+        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
+        "rules": []
+      }
+    }
+  },
+  {
+    "date": "5-20-213",
+    "season": "Summer",
+    "tempRange": {
+      "low": "79.8",
+      "high": "97.4"
+    },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "34",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -3184,30 +2840,13 @@
     }
   },
   {
-    "date": "5-20-213",
-    "season": "Summer",
-    "tempRange": {
-      "low": "82.0",
-      "high": "95.2"
-    },
-    "precipitation": false,
-    "wind": "43",
-    "states": {
-      "wind": {
-        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
-        "rules": []
-      }
-    }
-  },
-  {
     "date": "5-21-213",
     "season": "Summer",
     "tempRange": {
-      "low": "84.0",
-      "high": "92.7"
+      "low": "85.4",
+      "high": "91.2"
     },
-    "precipitation": false,
-    "wind": "54",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3219,11 +2858,10 @@
     "date": "5-22-213",
     "season": "Summer",
     "tempRange": {
-      "low": "81.8",
-      "high": "94.3"
+      "low": "82.5",
+      "high": "93.7"
     },
-    "precipitation": false,
-    "wind": "73",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3235,16 +2873,11 @@
     "date": "5-23-213",
     "season": "Summer",
     "tempRange": {
-      "low": "82.3",
-      "high": "93.2"
+      "low": "85.0",
+      "high": "90.5"
     },
-    "precipitation": true,
-    "wind": "71",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3255,16 +2888,11 @@
     "date": "5-24-213",
     "season": "Summer",
     "tempRange": {
-      "low": "81.7",
-      "high": "93.3"
+      "low": "82.7",
+      "high": "92.3"
     },
-    "precipitation": true,
-    "wind": "47",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3275,11 +2903,10 @@
     "date": "5-25-213",
     "season": "Summer",
     "tempRange": {
-      "low": "85.4",
-      "high": "89.0"
+      "low": "79.1",
+      "high": "95.3"
     },
-    "precipitation": false,
-    "wind": "33",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3291,16 +2918,11 @@
     "date": "5-26-213",
     "season": "Summer",
     "tempRange": {
-      "low": "79.7",
-      "high": "94.2"
+      "low": "77.8",
+      "high": "96.0"
     },
-    "precipitation": true,
-    "wind": "39",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3311,11 +2933,10 @@
     "date": "5-27-213",
     "season": "Summer",
     "tempRange": {
-      "low": "84.5",
-      "high": "88.8"
+      "low": "82.1",
+      "high": "91.2"
     },
-    "precipitation": false,
-    "wind": "66",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3327,16 +2948,11 @@
     "date": "5-28-213",
     "season": "Summer",
     "tempRange": {
-      "low": "79.3",
-      "high": "93.5"
+      "low": "78.4",
+      "high": "94.4"
     },
-    "precipitation": true,
-    "wind": "38",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3347,11 +2963,10 @@
     "date": "5-29-213",
     "season": "Summer",
     "tempRange": {
-      "low": "83.9",
-      "high": "88.3"
+      "low": "82.2",
+      "high": "90.0"
     },
-    "precipitation": false,
-    "wind": "71",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3363,27 +2978,11 @@
     "date": "5-30-213",
     "season": "Summer",
     "tempRange": {
-      "low": "80.6",
-      "high": "91.0"
+      "low": "80.7",
+      "high": "90.9"
     },
-    "precipitation": false,
-    "wind": "52",
-    "states": {
-      "wind": {
-        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
-        "rules": []
-      }
-    }
-  },
-  {
-    "date": "5-31-213",
-    "season": "Summer",
-    "tempRange": {
-      "low": "81.7",
-      "high": "89.4"
-    },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "78",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -3396,14 +2995,28 @@
     }
   },
   {
+    "date": "5-31-213",
+    "season": "Summer",
+    "tempRange": {
+      "low": "84.9",
+      "high": "86.2"
+    },
+    "wind": "NaN",
+    "states": {
+      "wind": {
+        "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
+        "rules": []
+      }
+    }
+  },
+  {
     "date": "5-32-213",
     "season": "Summer",
     "tempRange": {
-      "low": "83.5",
-      "high": "87.1"
+      "low": "78.2",
+      "high": "92.3"
     },
-    "precipitation": false,
-    "wind": "78",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3415,11 +3028,10 @@
     "date": "5-33-213",
     "season": "Summer",
     "tempRange": {
-      "low": "80.9",
-      "high": "89.1"
+      "low": "82.0",
+      "high": "88.0"
     },
-    "precipitation": false,
-    "wind": "65",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3431,16 +3043,11 @@
     "date": "5-34-213",
     "season": "Summer",
     "tempRange": {
-      "low": "79.3",
-      "high": "90.2"
+      "low": "82.0",
+      "high": "87.4"
     },
-    "precipitation": true,
-    "wind": "38",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3451,16 +3058,11 @@
     "date": "5-35-213",
     "season": "Summer",
     "tempRange": {
-      "low": "81.5",
-      "high": "87.4"
+      "low": "74.4",
+      "high": "94.4"
     },
-    "precipitation": true,
-    "wind": "58",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3471,16 +3073,11 @@
     "date": "5-36-213",
     "season": "Summer",
     "tempRange": {
-      "low": "83.8",
-      "high": "84.5"
+      "low": "77.3",
+      "high": "91.0"
     },
-    "precipitation": true,
-    "wind": "37",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3491,16 +3088,11 @@
     "date": "5-37-213",
     "season": "Summer",
     "tempRange": {
-      "low": "77.0",
-      "high": "90.8"
+      "low": "81.1",
+      "high": "86.7"
     },
-    "precipitation": true,
-    "wind": "69",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3511,11 +3103,11 @@
     "date": "5-38-213",
     "season": "Summer",
     "tempRange": {
-      "low": "77.7",
-      "high": "89.5"
+      "low": "75.7",
+      "high": "91.5"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "38",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -3531,11 +3123,10 @@
     "date": "5-39-213",
     "season": "Summer",
     "tempRange": {
-      "low": "82.0",
-      "high": "84.6"
+      "low": "75.9",
+      "high": "90.8"
     },
-    "precipitation": false,
-    "wind": "45",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3547,16 +3138,11 @@
     "date": "5-40-213",
     "season": "Summer",
     "tempRange": {
-      "low": "76.0",
-      "high": "90.0"
+      "low": "80.4",
+      "high": "85.7"
     },
-    "precipitation": true,
-    "wind": "66",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3567,16 +3153,11 @@
     "date": "6-1-213",
     "season": "Summer",
     "tempRange": {
-      "low": "82.0",
-      "high": "83.6"
+      "low": "81.0",
+      "high": "84.5"
     },
-    "precipitation": true,
-    "wind": "66",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3587,16 +3168,11 @@
     "date": "6-2-213",
     "season": "Summer",
     "tempRange": {
-      "low": "78.5",
-      "high": "86.4"
+      "low": "81.0",
+      "high": "84.0"
     },
-    "precipitation": true,
-    "wind": "67",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3607,11 +3183,10 @@
     "date": "6-3-213",
     "season": "Summer",
     "tempRange": {
-      "low": "79.1",
-      "high": "85.3"
+      "low": "75.7",
+      "high": "88.7"
     },
-    "precipitation": false,
-    "wind": "78",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3623,11 +3198,10 @@
     "date": "6-4-213",
     "season": "Summer",
     "tempRange": {
-      "low": "78.7",
-      "high": "85.2"
+      "low": "74.5",
+      "high": "89.4"
     },
-    "precipitation": false,
-    "wind": "35",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3639,11 +3213,10 @@
     "date": "6-5-213",
     "season": "Summer",
     "tempRange": {
-      "low": "74.6",
-      "high": "88.7"
+      "low": "75.3",
+      "high": "88.0"
     },
-    "precipitation": false,
-    "wind": "48",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3655,16 +3228,11 @@
     "date": "6-6-213",
     "season": "Summer",
     "tempRange": {
-      "low": "79.8",
-      "high": "82.9"
+      "low": "73.9",
+      "high": "88.8"
     },
-    "precipitation": true,
-    "wind": "68",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3675,11 +3243,10 @@
     "date": "6-7-213",
     "season": "Summer",
     "tempRange": {
-      "low": "80.0",
-      "high": "82.2"
+      "low": "72.8",
+      "high": "89.4"
     },
-    "precipitation": false,
-    "wind": "55",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3691,11 +3258,10 @@
     "date": "6-8-213",
     "season": "Summer",
     "tempRange": {
-      "low": "79.5",
-      "high": "82.1"
+      "low": "71.2",
+      "high": "90.4"
     },
-    "precipitation": false,
-    "wind": "61",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3707,16 +3273,11 @@
     "date": "6-9-213",
     "season": "Summer",
     "tempRange": {
-      "low": "76.0",
-      "high": "85.1"
+      "low": "70.6",
+      "high": "90.5"
     },
-    "precipitation": true,
-    "wind": "63",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3727,11 +3288,10 @@
     "date": "6-10-213",
     "season": "Summer",
     "tempRange": {
-      "low": "75.6",
-      "high": "84.9"
+      "low": "74.0",
+      "high": "86.6"
     },
-    "precipitation": false,
-    "wind": "58",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3743,11 +3303,10 @@
     "date": "6-11-213",
     "season": "Summer",
     "tempRange": {
-      "low": "79.8",
-      "high": "80.2"
+      "low": "76.0",
+      "high": "83.9"
     },
-    "precipitation": false,
-    "wind": "41",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3759,11 +3318,10 @@
     "date": "6-12-213",
     "season": "Summer",
     "tempRange": {
-      "low": "72.9",
-      "high": "86.5"
+      "low": "72.7",
+      "high": "86.7"
     },
-    "precipitation": false,
-    "wind": "71",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3775,16 +3333,11 @@
     "date": "6-13-213",
     "season": "Summer",
     "tempRange": {
-      "low": "70.4",
-      "high": "88.5"
+      "low": "75.7",
+      "high": "83.2"
     },
-    "precipitation": true,
-    "wind": "47",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3795,16 +3348,11 @@
     "date": "6-14-213",
     "season": "Summer",
     "tempRange": {
-      "low": "74.0",
-      "high": "84.3"
+      "low": "72.8",
+      "high": "85.5"
     },
-    "precipitation": true,
-    "wind": "76",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3815,11 +3363,10 @@
     "date": "6-15-213",
     "season": "Summer",
     "tempRange": {
-      "low": "74.5",
-      "high": "83.2"
+      "low": "70.5",
+      "high": "87.3"
     },
-    "precipitation": false,
-    "wind": "37",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3831,16 +3378,11 @@
     "date": "6-16-213",
     "season": "Fall",
     "tempRange": {
-      "low": "49.0",
-      "high": "59.2"
+      "low": "49.9",
+      "high": "58.4"
     },
-    "precipitation": true,
-    "wind": "32",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3851,11 +3393,10 @@
     "date": "6-17-213",
     "season": "Fall",
     "tempRange": {
-      "low": "52.1",
-      "high": "56.7"
+      "low": "45.4",
+      "high": "63.4"
     },
-    "precipitation": false,
-    "wind": "33",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3867,11 +3408,10 @@
     "date": "6-18-213",
     "season": "Fall",
     "tempRange": {
-      "low": "49.0",
-      "high": "60.3"
+      "low": "52.7",
+      "high": "56.6"
     },
-    "precipitation": false,
-    "wind": "38",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3883,16 +3423,11 @@
     "date": "6-19-213",
     "season": "Fall",
     "tempRange": {
-      "low": "54.5",
-      "high": "55.4"
+      "low": "47.0",
+      "high": "62.9"
     },
-    "precipitation": true,
-    "wind": "60",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3903,16 +3438,11 @@
     "date": "6-20-213",
     "season": "Fall",
     "tempRange": {
-      "low": "54.2",
-      "high": "56.3"
+      "low": "53.0",
+      "high": "57.5"
     },
-    "precipitation": true,
-    "wind": "79",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3923,16 +3453,11 @@
     "date": "6-21-213",
     "season": "Fall",
     "tempRange": {
-      "low": "47.6",
-      "high": "63.5"
+      "low": "53.5",
+      "high": "57.5"
     },
-    "precipitation": true,
-    "wind": "46",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3943,16 +3468,11 @@
     "date": "6-22-213",
     "season": "Fall",
     "tempRange": {
-      "low": "54.9",
-      "high": "56.7"
+      "low": "54.0",
+      "high": "57.6"
     },
-    "precipitation": true,
-    "wind": "45",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -3963,11 +3483,10 @@
     "date": "6-23-213",
     "season": "Fall",
     "tempRange": {
-      "low": "50.9",
-      "high": "61.2"
+      "low": "49.1",
+      "high": "63.1"
     },
-    "precipitation": false,
-    "wind": "34",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3979,11 +3498,10 @@
     "date": "6-24-213",
     "season": "Fall",
     "tempRange": {
-      "low": "56.0",
-      "high": "56.7"
+      "low": "56.3",
+      "high": "56.4"
     },
-    "precipitation": false,
-    "wind": "60",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -3995,11 +3513,10 @@
     "date": "6-25-213",
     "season": "Fall",
     "tempRange": {
-      "low": "49.7",
-      "high": "63.6"
+      "low": "53.7",
+      "high": "59.6"
     },
-    "precipitation": false,
-    "wind": "67",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4011,11 +3528,10 @@
     "date": "6-26-213",
     "season": "Fall",
     "tempRange": {
-      "low": "51.0",
-      "high": "62.8"
+      "low": "51.5",
+      "high": "62.3"
     },
-    "precipitation": false,
-    "wind": "62",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4027,16 +3543,11 @@
     "date": "6-27-213",
     "season": "Fall",
     "tempRange": {
-      "low": "49.4",
-      "high": "65.0"
+      "low": "56.0",
+      "high": "58.4"
     },
-    "precipitation": true,
-    "wind": "46",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4047,16 +3558,11 @@
     "date": "6-28-213",
     "season": "Fall",
     "tempRange": {
-      "low": "48.7",
-      "high": "66.3"
+      "low": "51.5",
+      "high": "63.4"
     },
-    "precipitation": true,
-    "wind": "41",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4067,11 +3573,10 @@
     "date": "6-29-213",
     "season": "Fall",
     "tempRange": {
-      "low": "55.7",
-      "high": "59.8"
+      "low": "51.7",
+      "high": "63.8"
     },
-    "precipitation": false,
-    "wind": "79",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4083,11 +3588,10 @@
     "date": "6-30-213",
     "season": "Fall",
     "tempRange": {
-      "low": "52.7",
-      "high": "63.3"
+      "low": "52.0",
+      "high": "64.0"
     },
-    "precipitation": false,
-    "wind": "66",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4099,11 +3603,10 @@
     "date": "6-31-213",
     "season": "Fall",
     "tempRange": {
-      "low": "56.1",
-      "high": "60.5"
+      "low": "48.8",
+      "high": "67.8"
     },
-    "precipitation": false,
-    "wind": "49",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4115,16 +3618,11 @@
     "date": "6-32-213",
     "season": "Fall",
     "tempRange": {
-      "low": "50.2",
-      "high": "67.0"
+      "low": "56.2",
+      "high": "61.0"
     },
-    "precipitation": true,
-    "wind": "79",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4135,16 +3633,11 @@
     "date": "6-33-213",
     "season": "Fall",
     "tempRange": {
-      "low": "51.4",
-      "high": "66.3"
+      "low": "57.9",
+      "high": "59.8"
     },
-    "precipitation": true,
-    "wind": "73",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4155,16 +3648,11 @@
     "date": "6-34-213",
     "season": "Fall",
     "tempRange": {
-      "low": "51.8",
-      "high": "66.5"
+      "low": "57.0",
+      "high": "61.2"
     },
-    "precipitation": true,
-    "wind": "59",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4175,11 +3663,10 @@
     "date": "6-35-213",
     "season": "Fall",
     "tempRange": {
-      "low": "50.2",
-      "high": "68.6"
+      "low": "55.4",
+      "high": "63.4"
     },
-    "precipitation": false,
-    "wind": "75",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4191,11 +3678,10 @@
     "date": "6-36-213",
     "season": "Fall",
     "tempRange": {
-      "low": "59.0",
-      "high": "60.4"
+      "low": "53.1",
+      "high": "66.2"
     },
-    "precipitation": false,
-    "wind": "54",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4207,11 +3693,10 @@
     "date": "6-37-213",
     "season": "Fall",
     "tempRange": {
-      "low": "51.9",
-      "high": "68.0"
+      "low": "56.1",
+      "high": "63.9"
     },
-    "precipitation": false,
-    "wind": "32",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4223,16 +3708,11 @@
     "date": "6-38-213",
     "season": "Fall",
     "tempRange": {
-      "low": "57.0",
-      "high": "63.5"
+      "low": "50.5",
+      "high": "70.0"
     },
-    "precipitation": true,
-    "wind": "73",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4243,16 +3723,11 @@
     "date": "6-39-213",
     "season": "Fall",
     "tempRange": {
-      "low": "53.9",
-      "high": "67.2"
+      "low": "56.0",
+      "high": "65.1"
     },
-    "precipitation": true,
-    "wind": "44",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4263,11 +3738,10 @@
     "date": "6-40-213",
     "season": "Fall",
     "tempRange": {
-      "low": "55.2",
-      "high": "66.4"
+      "low": "59.0",
+      "high": "62.6"
     },
-    "precipitation": false,
-    "wind": "59",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4279,12 +3753,16 @@
     "date": "7-1-213",
     "season": "Fall",
     "tempRange": {
-      "low": "51.2",
-      "high": "71.0"
+      "low": "57.6",
+      "high": "64.5"
     },
-    "precipitation": false,
-    "wind": "34",
+    "wind": "NaN",
+    "precipitation": true,
     "states": {
+      "precipitation": {
+        "name": "Light Rain, Heavy Rain",
+        "rules": []
+      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4295,11 +3773,10 @@
     "date": "7-2-213",
     "season": "Fall",
     "tempRange": {
-      "low": "59.2",
-      "high": "63.5"
+      "low": "57.1",
+      "high": "65.6"
     },
-    "precipitation": false,
-    "wind": "79",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4311,16 +3788,11 @@
     "date": "7-3-213",
     "season": "Fall",
     "tempRange": {
-      "low": "58.7",
-      "high": "64.6"
+      "low": "56.2",
+      "high": "67.1"
     },
-    "precipitation": true,
-    "wind": "68",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4331,16 +3803,11 @@
     "date": "7-4-213",
     "season": "Fall",
     "tempRange": {
-      "low": "53.2",
-      "high": "70.6"
+      "low": "55.0",
+      "high": "68.8"
     },
-    "precipitation": true,
-    "wind": "36",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4351,16 +3818,11 @@
     "date": "7-5-213",
     "season": "Fall",
     "tempRange": {
-      "low": "55.6",
-      "high": "68.7"
+      "low": "56.8",
+      "high": "67.6"
     },
-    "precipitation": true,
-    "wind": "58",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4371,11 +3833,10 @@
     "date": "7-6-213",
     "season": "Fall",
     "tempRange": {
-      "low": "58.1",
-      "high": "66.9"
+      "low": "59.0",
+      "high": "65.9"
     },
-    "precipitation": false,
-    "wind": "37",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4387,11 +3848,10 @@
     "date": "7-7-213",
     "season": "Fall",
     "tempRange": {
-      "low": "53.9",
-      "high": "71.6"
+      "low": "55.2",
+      "high": "70.3"
     },
-    "precipitation": false,
-    "wind": "46",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4403,11 +3863,10 @@
     "date": "7-8-213",
     "season": "Fall",
     "tempRange": {
-      "low": "57.7",
-      "high": "68.4"
+      "low": "62.0",
+      "high": "64.0"
     },
-    "precipitation": false,
-    "wind": "37",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4419,11 +3878,10 @@
     "date": "7-9-213",
     "season": "Fall",
     "tempRange": {
-      "low": "55.0",
-      "high": "71.6"
+      "low": "57.1",
+      "high": "69.5"
     },
-    "precipitation": false,
-    "wind": "31",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4435,11 +3893,10 @@
     "date": "7-10-213",
     "season": "Fall",
     "tempRange": {
-      "low": "57.3",
-      "high": "69.9"
+      "low": "56.9",
+      "high": "70.3"
     },
-    "precipitation": false,
-    "wind": "73",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4451,16 +3908,11 @@
     "date": "7-11-213",
     "season": "Fall",
     "tempRange": {
-      "low": "55.4",
-      "high": "72.3"
+      "low": "56.1",
+      "high": "71.6"
     },
-    "precipitation": true,
-    "wind": "49",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4471,16 +3923,11 @@
     "date": "7-12-213",
     "season": "Fall",
     "tempRange": {
-      "low": "55.8",
-      "high": "72.4"
+      "low": "54.2",
+      "high": "74.1"
     },
-    "precipitation": true,
-    "wind": "64",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4491,16 +3938,11 @@
     "date": "7-13-213",
     "season": "Fall",
     "tempRange": {
-      "low": "60.5",
-      "high": "68.3"
+      "low": "59.0",
+      "high": "69.8"
     },
-    "precipitation": true,
-    "wind": "75",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4511,16 +3953,11 @@
     "date": "7-14-213",
     "season": "Fall",
     "tempRange": {
-      "low": "64.1",
-      "high": "65.3"
+      "low": "60.6",
+      "high": "68.8"
     },
-    "precipitation": true,
-    "wind": "49",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4531,11 +3968,10 @@
     "date": "7-15-213",
     "season": "Fall",
     "tempRange": {
-      "low": "61.5",
-      "high": "68.4"
+      "low": "60.2",
+      "high": "69.8"
     },
-    "precipitation": false,
-    "wind": "56",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4547,16 +3983,11 @@
     "date": "7-16-213",
     "season": "Fall",
     "tempRange": {
-      "low": "63.0",
-      "high": "67.5"
+      "low": "59.9",
+      "high": "70.6"
     },
-    "precipitation": true,
-    "wind": "69",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4567,11 +3998,10 @@
     "date": "7-17-213",
     "season": "Fall",
     "tempRange": {
-      "low": "58.0",
-      "high": "73.1"
+      "low": "57.3",
+      "high": "73.7"
     },
-    "precipitation": false,
-    "wind": "54",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4583,11 +4013,10 @@
     "date": "7-18-213",
     "season": "Fall",
     "tempRange": {
-      "low": "58.4",
-      "high": "73.2"
+      "low": "59.9",
+      "high": "71.7"
     },
-    "precipitation": false,
-    "wind": "53",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4599,11 +4028,10 @@
     "date": "7-19-213",
     "season": "Fall",
     "tempRange": {
-      "low": "65.1",
-      "high": "67.1"
+      "low": "57.8",
+      "high": "74.4"
     },
-    "precipitation": false,
-    "wind": "31",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4615,11 +4043,10 @@
     "date": "7-20-213",
     "season": "Fall",
     "tempRange": {
-      "low": "59.0",
-      "high": "73.7"
+      "low": "57.8",
+      "high": "74.9"
     },
-    "precipitation": false,
-    "wind": "38",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4631,11 +4058,11 @@
     "date": "7-21-213",
     "season": "Fall",
     "tempRange": {
-      "low": "65.2",
-      "high": "67.7"
+      "low": "60.4",
+      "high": "72.5"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "79",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -4651,16 +4078,11 @@
     "date": "7-22-213",
     "season": "Fall",
     "tempRange": {
-      "low": "64.1",
-      "high": "68.7"
+      "low": "58.7",
+      "high": "74.1"
     },
-    "precipitation": true,
-    "wind": "35",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4671,11 +4093,10 @@
     "date": "7-23-213",
     "season": "Fall",
     "tempRange": {
-      "low": "58.3",
-      "high": "74.4"
+      "low": "61.9",
+      "high": "70.8"
     },
-    "precipitation": false,
-    "wind": "38",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4687,16 +4108,11 @@
     "date": "7-24-213",
     "season": "Fall",
     "tempRange": {
-      "low": "62.6",
-      "high": "70.0"
+      "low": "60.9",
+      "high": "71.6"
     },
-    "precipitation": true,
-    "wind": "53",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4707,16 +4123,11 @@
     "date": "7-25-213",
     "season": "Fall",
     "tempRange": {
-      "low": "57.1",
-      "high": "75.4"
+      "low": "62.1",
+      "high": "70.4"
     },
-    "precipitation": true,
-    "wind": "43",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4727,11 +4138,10 @@
     "date": "7-26-213",
     "season": "Fall",
     "tempRange": {
-      "low": "64.6",
-      "high": "67.7"
+      "low": "58.4",
+      "high": "73.9"
     },
-    "precipitation": false,
-    "wind": "65",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4743,16 +4153,11 @@
     "date": "7-27-213",
     "season": "Fall",
     "tempRange": {
-      "low": "56.6",
-      "high": "75.6"
+      "low": "59.5",
+      "high": "72.6"
     },
-    "precipitation": true,
-    "wind": "46",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4763,11 +4168,10 @@
     "date": "7-28-213",
     "season": "Fall",
     "tempRange": {
-      "low": "63.0",
-      "high": "69.1"
+      "low": "60.5",
+      "high": "71.5"
     },
-    "precipitation": false,
-    "wind": "60",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4782,8 +4186,7 @@
       "low": "60.2",
       "high": "71.8"
     },
-    "precipitation": false,
-    "wind": "73",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4795,16 +4198,11 @@
     "date": "7-30-213",
     "season": "Fall",
     "tempRange": {
-      "low": "60.2",
+      "low": "60.3",
       "high": "71.6"
     },
-    "precipitation": true,
-    "wind": "76",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4815,16 +4213,11 @@
     "date": "7-31-213",
     "season": "Fall",
     "tempRange": {
-      "low": "60.2",
-      "high": "71.5"
+      "low": "63.9",
+      "high": "67.8"
     },
-    "precipitation": true,
-    "wind": "56",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4835,11 +4228,10 @@
     "date": "7-32-213",
     "season": "Fall",
     "tempRange": {
-      "low": "56.1",
-      "high": "75.5"
+      "low": "59.2",
+      "high": "72.4"
     },
-    "precipitation": false,
-    "wind": "40",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4851,16 +4243,11 @@
     "date": "7-33-213",
     "season": "Fall",
     "tempRange": {
-      "low": "61.0",
-      "high": "70.4"
+      "low": "58.5",
+      "high": "73.0"
     },
-    "precipitation": true,
-    "wind": "58",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4871,11 +4258,10 @@
     "date": "7-34-213",
     "season": "Fall",
     "tempRange": {
-      "low": "61.1",
-      "high": "70.2"
+      "low": "63.3",
+      "high": "68.1"
     },
-    "precipitation": false,
-    "wind": "70",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4887,11 +4273,10 @@
     "date": "7-35-213",
     "season": "Fall",
     "tempRange": {
-      "low": "60.4",
-      "high": "70.9"
+      "low": "64.9",
+      "high": "66.3"
     },
-    "precipitation": false,
-    "wind": "66",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4903,16 +4288,11 @@
     "date": "7-36-213",
     "season": "Fall",
     "tempRange": {
-      "low": "64.2",
-      "high": "66.9"
+      "low": "61.2",
+      "high": "69.9"
     },
-    "precipitation": true,
-    "wind": "48",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4923,16 +4303,11 @@
     "date": "7-37-213",
     "season": "Fall",
     "tempRange": {
-      "low": "58.2",
-      "high": "72.8"
+      "low": "61.4",
+      "high": "69.6"
     },
-    "precipitation": true,
-    "wind": "48",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -4943,11 +4318,10 @@
     "date": "7-38-213",
     "season": "Fall",
     "tempRange": {
-      "low": "61.5",
-      "high": "69.3"
+      "low": "61.2",
+      "high": "69.6"
     },
-    "precipitation": false,
-    "wind": "50",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4959,11 +4333,10 @@
     "date": "7-39-213",
     "season": "Fall",
     "tempRange": {
-      "low": "65.3",
-      "high": "65.4"
+      "low": "59.6",
+      "high": "71.1"
     },
-    "precipitation": false,
-    "wind": "67",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4975,11 +4348,10 @@
     "date": "7-40-213",
     "season": "Fall",
     "tempRange": {
-      "low": "62.3",
-      "high": "68.3"
+      "low": "57.8",
+      "high": "72.8"
     },
-    "precipitation": false,
-    "wind": "74",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -4991,16 +4363,11 @@
     "date": "8-1-213",
     "season": "Fall",
     "tempRange": {
-      "low": "56.4",
-      "high": "74.1"
+      "low": "60.0",
+      "high": "70.5"
     },
-    "precipitation": true,
-    "wind": "49",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5011,11 +4378,10 @@
     "date": "8-2-213",
     "season": "Fall",
     "tempRange": {
-      "low": "63.9",
-      "high": "66.5"
+      "low": "61.7",
+      "high": "68.7"
     },
-    "precipitation": false,
-    "wind": "54",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5027,11 +4393,10 @@
     "date": "8-3-213",
     "season": "Fall",
     "tempRange": {
-      "low": "57.6",
-      "high": "72.7"
+      "low": "56.1",
+      "high": "74.1"
     },
-    "precipitation": false,
-    "wind": "36",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5043,16 +4408,11 @@
     "date": "8-4-213",
     "season": "Fall",
     "tempRange": {
-      "low": "64.5",
-      "high": "65.5"
+      "low": "58.2",
+      "high": "71.9"
     },
-    "precipitation": true,
-    "wind": "64",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5063,11 +4423,10 @@
     "date": "8-5-213",
     "season": "Fall",
     "tempRange": {
-      "low": "64.0",
-      "high": "65.9"
+      "low": "63.9",
+      "high": "66.0"
     },
-    "precipitation": false,
-    "wind": "30",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5079,16 +4438,11 @@
     "date": "8-6-213",
     "season": "Fall",
     "tempRange": {
-      "low": "59.1",
-      "high": "70.7"
+      "low": "57.1",
+      "high": "72.7"
     },
-    "precipitation": true,
-    "wind": "63",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5099,12 +4453,16 @@
     "date": "8-7-213",
     "season": "Fall",
     "tempRange": {
-      "low": "62.1",
-      "high": "67.7"
+      "low": "61.9",
+      "high": "67.8"
     },
-    "precipitation": false,
-    "wind": "75",
+    "wind": "NaN",
+    "precipitation": true,
     "states": {
+      "precipitation": {
+        "name": "Light Rain, Heavy Rain",
+        "rules": []
+      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5115,16 +4473,11 @@
     "date": "8-8-213",
     "season": "Fall",
     "tempRange": {
-      "low": "62.3",
-      "high": "67.3"
+      "low": "59.9",
+      "high": "69.7"
     },
-    "precipitation": true,
-    "wind": "43",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5135,16 +4488,11 @@
     "date": "8-9-213",
     "season": "Fall",
     "tempRange": {
-      "low": "60.1",
-      "high": "69.4"
+      "low": "62.3",
+      "high": "67.2"
     },
-    "precipitation": true,
-    "wind": "38",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5155,11 +4503,10 @@
     "date": "8-10-213",
     "season": "Fall",
     "tempRange": {
-      "low": "62.8",
-      "high": "66.6"
+      "low": "63.4",
+      "high": "66.0"
     },
-    "precipitation": false,
-    "wind": "52",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5171,11 +4518,10 @@
     "date": "8-11-213",
     "season": "Fall",
     "tempRange": {
-      "low": "58.1",
-      "high": "71.1"
+      "low": "64.2",
+      "high": "65.1"
     },
-    "precipitation": false,
-    "wind": "74",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5187,11 +4533,10 @@
     "date": "8-12-213",
     "season": "Fall",
     "tempRange": {
-      "low": "61.1",
-      "high": "68.0"
+      "low": "61.6",
+      "high": "67.5"
     },
-    "precipitation": false,
-    "wind": "78",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5203,11 +4548,10 @@
     "date": "8-13-213",
     "season": "Fall",
     "tempRange": {
-      "low": "57.8",
-      "high": "71.2"
+      "low": "63.9",
+      "high": "65.1"
     },
-    "precipitation": false,
-    "wind": "32",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5219,16 +4563,11 @@
     "date": "8-14-213",
     "season": "Fall",
     "tempRange": {
-      "low": "56.5",
-      "high": "72.3"
+      "low": "63.2",
+      "high": "65.6"
     },
-    "precipitation": true,
-    "wind": "56",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5239,16 +4578,11 @@
     "date": "8-15-213",
     "season": "Fall",
     "tempRange": {
-      "low": "55.8",
-      "high": "72.9"
+      "low": "56.6",
+      "high": "72.1"
     },
-    "precipitation": true,
-    "wind": "41",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5259,12 +4593,16 @@
     "date": "8-16-213",
     "season": "Fall",
     "tempRange": {
-      "low": "58.4",
-      "high": "70.2"
+      "low": "54.9",
+      "high": "73.7"
     },
-    "precipitation": false,
-    "wind": "55",
+    "wind": "NaN",
+    "precipitation": true,
     "states": {
+      "precipitation": {
+        "name": "Light Rain, Heavy Rain",
+        "rules": []
+      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5275,16 +4613,11 @@
     "date": "8-17-213",
     "season": "Fall",
     "tempRange": {
-      "low": "58.1",
-      "high": "70.4"
+      "low": "58.3",
+      "high": "70.2"
     },
-    "precipitation": true,
-    "wind": "30",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5295,16 +4628,11 @@
     "date": "8-18-213",
     "season": "Fall",
     "tempRange": {
-      "low": "59.9",
-      "high": "68.4"
+      "low": "57.7",
+      "high": "70.6"
     },
-    "precipitation": true,
-    "wind": "73",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5315,11 +4643,10 @@
     "date": "8-19-213",
     "season": "Fall",
     "tempRange": {
-      "low": "63.1",
-      "high": "65.1"
+      "low": "59.7",
+      "high": "68.5"
     },
-    "precipitation": false,
-    "wind": "67",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5331,11 +4658,10 @@
     "date": "8-20-213",
     "season": "Fall",
     "tempRange": {
-      "low": "62.2",
-      "high": "65.9"
+      "low": "64.0",
+      "high": "64.1"
     },
-    "precipitation": false,
-    "wind": "67",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5350,13 +4676,8 @@
       "low": "59.8",
       "high": "68.2"
     },
-    "precipitation": true,
-    "wind": "48",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5367,16 +4688,11 @@
     "date": "8-22-213",
     "season": "Fall",
     "tempRange": {
-      "low": "56.3",
-      "high": "71.5"
+      "low": "62.6",
+      "high": "65.3"
     },
-    "precipitation": true,
-    "wind": "54",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5387,11 +4703,10 @@
     "date": "8-23-213",
     "season": "Fall",
     "tempRange": {
-      "low": "60.0",
-      "high": "67.7"
+      "low": "56.0",
+      "high": "71.7"
     },
-    "precipitation": false,
-    "wind": "31",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5403,16 +4718,11 @@
     "date": "8-24-213",
     "season": "Fall",
     "tempRange": {
-      "low": "54.2",
-      "high": "73.5"
+      "low": "55.4",
+      "high": "72.2"
     },
-    "precipitation": true,
-    "wind": "51",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5423,11 +4733,10 @@
     "date": "8-25-213",
     "season": "Fall",
     "tempRange": {
-      "low": "58.5",
-      "high": "69.0"
+      "low": "61.2",
+      "high": "66.3"
     },
-    "precipitation": false,
-    "wind": "53",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5439,16 +4748,11 @@
     "date": "8-26-213",
     "season": "Winter",
     "tempRange": {
-      "low": "55.0",
-      "high": "61.5"
+      "low": "55.9",
+      "high": "60.6"
     },
-    "precipitation": true,
-    "wind": "34",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5459,16 +4763,11 @@
     "date": "8-27-213",
     "season": "Winter",
     "tempRange": {
-      "low": "57.1",
-      "high": "59.3"
+      "low": "49.5",
+      "high": "66.9"
     },
-    "precipitation": true,
-    "wind": "35",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5479,16 +4778,11 @@
     "date": "8-28-213",
     "season": "Winter",
     "tempRange": {
-      "low": "52.9",
-      "high": "63.5"
+      "low": "48.6",
+      "high": "67.8"
     },
-    "precipitation": true,
-    "wind": "61",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5499,16 +4793,11 @@
     "date": "8-29-213",
     "season": "Winter",
     "tempRange": {
-      "low": "52.7",
-      "high": "63.6"
+      "low": "49.3",
+      "high": "67.1"
     },
-    "precipitation": true,
-    "wind": "57",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5519,11 +4808,10 @@
     "date": "8-30-213",
     "season": "Winter",
     "tempRange": {
-      "low": "57.5",
-      "high": "58.8"
+      "low": "52.2",
+      "high": "64.1"
     },
-    "precipitation": false,
-    "wind": "59",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5535,11 +4823,10 @@
     "date": "8-31-213",
     "season": "Winter",
     "tempRange": {
-      "low": "56.1",
-      "high": "60.2"
+      "low": "50.5",
+      "high": "65.8"
     },
-    "precipitation": false,
-    "wind": "47",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5551,16 +4838,11 @@
     "date": "8-32-213",
     "season": "Winter",
     "tempRange": {
-      "low": "56.2",
-      "high": "60.1"
+      "low": "57.6",
+      "high": "58.6"
     },
-    "precipitation": true,
-    "wind": "34",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5571,11 +4853,10 @@
     "date": "8-33-213",
     "season": "Winter",
     "tempRange": {
-      "low": "54.8",
-      "high": "61.4"
+      "low": "49.5",
+      "high": "66.7"
     },
-    "precipitation": false,
-    "wind": "76",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5587,16 +4868,11 @@
     "date": "8-34-213",
     "season": "Winter",
     "tempRange": {
-      "low": "53.6",
-      "high": "62.5"
+      "low": "52.9",
+      "high": "63.3"
     },
-    "precipitation": true,
-    "wind": "79",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5607,16 +4883,11 @@
     "date": "8-35-213",
     "season": "Winter",
     "tempRange": {
-      "low": "54.3",
-      "high": "61.8"
+      "low": "50.9",
+      "high": "65.2"
     },
-    "precipitation": true,
-    "wind": "61",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5627,16 +4898,11 @@
     "date": "8-36-213",
     "season": "Winter",
     "tempRange": {
-      "low": "51.9",
-      "high": "64.2"
+      "low": "51.0",
+      "high": "65.1"
     },
-    "precipitation": true,
-    "wind": "37",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5647,11 +4913,10 @@
     "date": "8-37-213",
     "season": "Winter",
     "tempRange": {
-      "low": "50.7",
-      "high": "65.3"
+      "low": "48.9",
+      "high": "67.2"
     },
-    "precipitation": false,
-    "wind": "73",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5663,12 +4928,16 @@
     "date": "8-38-213",
     "season": "Winter",
     "tempRange": {
-      "low": "48.4",
-      "high": "67.6"
+      "low": "49.1",
+      "high": "66.9"
     },
-    "precipitation": false,
-    "wind": "61",
+    "wind": "NaN",
+    "precipitation": true,
     "states": {
+      "precipitation": {
+        "name": "Light Rain, Heavy Rain",
+        "rules": []
+      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5679,11 +4948,10 @@
     "date": "8-39-213",
     "season": "Winter",
     "tempRange": {
-      "low": "55.0",
-      "high": "61.0"
+      "low": "50.4",
+      "high": "65.6"
     },
-    "precipitation": false,
-    "wind": "56",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5695,11 +4963,10 @@
     "date": "8-40-213",
     "season": "Winter",
     "tempRange": {
-      "low": "53.9",
-      "high": "62.1"
+      "low": "48.3",
+      "high": "67.6"
     },
-    "precipitation": false,
-    "wind": "80",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5711,16 +4978,11 @@
     "date": "9-1-213",
     "season": "Winter",
     "tempRange": {
-      "low": "55.4",
-      "high": "60.5"
+      "low": "57.1",
+      "high": "58.8"
     },
-    "precipitation": true,
-    "wind": "65",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5731,11 +4993,10 @@
     "date": "9-2-213",
     "season": "Winter",
     "tempRange": {
-      "low": "50.9",
-      "high": "65.0"
+      "low": "57.9",
+      "high": "57.9"
     },
-    "precipitation": false,
-    "wind": "59",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5747,11 +5008,10 @@
     "date": "9-3-213",
     "season": "Winter",
     "tempRange": {
-      "low": "56.1",
-      "high": "59.7"
+      "low": "53.5",
+      "high": "62.3"
     },
-    "precipitation": false,
-    "wind": "72",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5763,11 +5023,10 @@
     "date": "9-4-213",
     "season": "Winter",
     "tempRange": {
-      "low": "52.9",
-      "high": "62.9"
+      "low": "48.5",
+      "high": "67.3"
     },
-    "precipitation": false,
-    "wind": "44",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5779,16 +5038,11 @@
     "date": "9-5-213",
     "season": "Winter",
     "tempRange": {
-      "low": "49.1",
-      "high": "66.7"
+      "low": "53.7",
+      "high": "62.0"
     },
-    "precipitation": true,
-    "wind": "73",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5799,16 +5053,11 @@
     "date": "9-6-213",
     "season": "Winter",
     "tempRange": {
-      "low": "53.6",
-      "high": "62.1"
+      "low": "52.0",
+      "high": "63.7"
     },
-    "precipitation": true,
-    "wind": "56",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5819,11 +5068,10 @@
     "date": "9-7-213",
     "season": "Winter",
     "tempRange": {
-      "low": "51.8",
-      "high": "63.9"
+      "low": "51.2",
+      "high": "64.5"
     },
-    "precipitation": false,
-    "wind": "33",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5835,11 +5083,10 @@
     "date": "9-8-213",
     "season": "Winter",
     "tempRange": {
-      "low": "55.6",
-      "high": "60.0"
+      "low": "51.0",
+      "high": "64.6"
     },
-    "precipitation": false,
-    "wind": "51",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5851,11 +5098,10 @@
     "date": "9-9-213",
     "season": "Winter",
     "tempRange": {
-      "low": "48.0",
-      "high": "67.5"
+      "low": "56.9",
+      "high": "58.6"
     },
-    "precipitation": false,
-    "wind": "75",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5867,12 +5113,16 @@
     "date": "9-10-213",
     "season": "Winter",
     "tempRange": {
-      "low": "56.5",
-      "high": "59.0"
+      "low": "54.0",
+      "high": "61.5"
     },
-    "precipitation": false,
-    "wind": "64",
+    "wind": "NaN",
+    "precipitation": true,
     "states": {
+      "precipitation": {
+        "name": "Light Rain, Heavy Rain",
+        "rules": []
+      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5883,11 +5133,11 @@
     "date": "9-11-213",
     "season": "Winter",
     "tempRange": {
-      "low": "54.5",
-      "high": "61.0"
+      "low": "49.4",
+      "high": "66.1"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "32",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -5903,16 +5153,11 @@
     "date": "9-12-213",
     "season": "Winter",
     "tempRange": {
-      "low": "50.3",
-      "high": "65.2"
+      "low": "56.2",
+      "high": "59.2"
     },
-    "precipitation": true,
-    "wind": "36",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -5923,11 +5168,10 @@
     "date": "9-13-213",
     "season": "Winter",
     "tempRange": {
-      "low": "55.8",
-      "high": "59.6"
+      "low": "50.8",
+      "high": "64.6"
     },
-    "precipitation": false,
-    "wind": "59",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5939,11 +5183,10 @@
     "date": "9-14-213",
     "season": "Winter",
     "tempRange": {
-      "low": "49.8",
-      "high": "65.6"
+      "low": "52.5",
+      "high": "62.9"
     },
-    "precipitation": false,
-    "wind": "54",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5955,11 +5198,10 @@
     "date": "9-15-213",
     "season": "Winter",
     "tempRange": {
-      "low": "53.6",
-      "high": "61.8"
+      "low": "56.1",
+      "high": "59.2"
     },
-    "precipitation": false,
-    "wind": "44",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5971,11 +5213,10 @@
     "date": "9-16-213",
     "season": "Winter",
     "tempRange": {
-      "low": "53.1",
-      "high": "62.2"
+      "low": "54.1",
+      "high": "61.2"
     },
-    "precipitation": false,
-    "wind": "32",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -5987,11 +5228,10 @@
     "date": "9-17-213",
     "season": "Winter",
     "tempRange": {
-      "low": "53.9",
-      "high": "61.3"
+      "low": "55.3",
+      "high": "60.0"
     },
-    "precipitation": false,
-    "wind": "47",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -6003,11 +5243,10 @@
     "date": "9-18-213",
     "season": "Winter",
     "tempRange": {
-      "low": "55.2",
-      "high": "60.0"
+      "low": "57.5",
+      "high": "57.7"
     },
-    "precipitation": false,
-    "wind": "60",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -6019,11 +5258,11 @@
     "date": "9-19-213",
     "season": "Winter",
     "tempRange": {
-      "low": "51.6",
-      "high": "63.6"
+      "low": "50.6",
+      "high": "64.5"
     },
+    "wind": "NaN",
     "precipitation": true,
-    "wind": "67",
     "states": {
       "precipitation": {
         "name": "Light Rain, Heavy Rain",
@@ -6039,11 +5278,10 @@
     "date": "9-20-213",
     "season": "Winter",
     "tempRange": {
-      "low": "48.7",
-      "high": "66.4"
+      "low": "50.2",
+      "high": "64.9"
     },
-    "precipitation": false,
-    "wind": "50",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -6055,11 +5293,10 @@
     "date": "9-21-213",
     "season": "Winter",
     "tempRange": {
-      "low": "53.1",
-      "high": "61.9"
+      "low": "55.9",
+      "high": "59.1"
     },
-    "precipitation": false,
-    "wind": "32",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -6071,11 +5308,10 @@
     "date": "9-22-213",
     "season": "Winter",
     "tempRange": {
-      "low": "52.6",
-      "high": "62.4"
+      "low": "48.9",
+      "high": "66.2"
     },
-    "precipitation": false,
-    "wind": "35",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -6087,16 +5323,11 @@
     "date": "9-23-213",
     "season": "Winter",
     "tempRange": {
-      "low": "55.3",
-      "high": "59.7"
+      "low": "47.9",
+      "high": "67.1"
     },
-    "precipitation": true,
-    "wind": "41",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -6107,11 +5338,10 @@
     "date": "9-24-213",
     "season": "Winter",
     "tempRange": {
-      "low": "55.3",
-      "high": "59.7"
+      "low": "56.3",
+      "high": "58.6"
     },
-    "precipitation": false,
-    "wind": "41",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -6123,16 +5353,11 @@
     "date": "9-25-213",
     "season": "Winter",
     "tempRange": {
-      "low": "48.5",
-      "high": "66.5"
+      "low": "50.0",
+      "high": "64.9"
     },
-    "precipitation": true,
-    "wind": "78",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -6143,16 +5368,11 @@
     "date": "9-26-213",
     "season": "Winter",
     "tempRange": {
-      "low": "51.6",
-      "high": "63.3"
+      "low": "49.3",
+      "high": "65.6"
     },
-    "precipitation": true,
-    "wind": "34",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -6163,16 +5383,11 @@
     "date": "9-27-213",
     "season": "Winter",
     "tempRange": {
-      "low": "51.1",
-      "high": "63.7"
+      "low": "55.1",
+      "high": "59.7"
     },
-    "precipitation": true,
-    "wind": "63",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -6186,13 +5401,8 @@
       "low": "56.9",
       "high": "57.9"
     },
-    "precipitation": true,
-    "wind": "62",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -6203,11 +5413,10 @@
     "date": "9-29-213",
     "season": "Winter",
     "tempRange": {
-      "low": "49.5",
-      "high": "65.2"
+      "low": "53.5",
+      "high": "61.3"
     },
-    "precipitation": false,
-    "wind": "62",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -6219,16 +5428,11 @@
     "date": "9-30-213",
     "season": "Winter",
     "tempRange": {
-      "low": "56.1",
-      "high": "58.6"
+      "low": "47.5",
+      "high": "67.3"
     },
-    "precipitation": true,
-    "wind": "60",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -6239,16 +5443,11 @@
     "date": "9-31-213",
     "season": "Winter",
     "tempRange": {
-      "low": "53.5",
-      "high": "61.2"
+      "low": "52.5",
+      "high": "62.2"
     },
-    "precipitation": true,
-    "wind": "59",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -6259,11 +5458,10 @@
     "date": "9-32-213",
     "season": "Winter",
     "tempRange": {
-      "low": "54.6",
-      "high": "60.0"
+      "low": "48.0",
+      "high": "66.7"
     },
-    "precipitation": false,
-    "wind": "31",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -6275,16 +5473,11 @@
     "date": "9-33-213",
     "season": "Winter",
     "tempRange": {
-      "low": "54.2",
-      "high": "60.4"
+      "low": "55.0",
+      "high": "59.6"
     },
-    "precipitation": true,
-    "wind": "59",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -6295,16 +5488,11 @@
     "date": "9-34-213",
     "season": "Winter",
     "tempRange": {
-      "low": "50.8",
-      "high": "63.8"
+      "low": "51.1",
+      "high": "63.5"
     },
-    "precipitation": true,
-    "wind": "44",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -6315,11 +5503,10 @@
     "date": "9-35-213",
     "season": "Winter",
     "tempRange": {
-      "low": "54.1",
-      "high": "60.4"
+      "low": "55.4",
+      "high": "59.1"
     },
-    "precipitation": false,
-    "wind": "42",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -6331,11 +5518,10 @@
     "date": "9-36-213",
     "season": "Winter",
     "tempRange": {
-      "low": "50.7",
-      "high": "63.8"
+      "low": "50.0",
+      "high": "64.4"
     },
-    "precipitation": false,
-    "wind": "49",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -6347,16 +5533,11 @@
     "date": "9-37-213",
     "season": "Winter",
     "tempRange": {
-      "low": "53.3",
-      "high": "61.1"
+      "low": "48.6",
+      "high": "65.8"
     },
-    "precipitation": true,
-    "wind": "66",
+    "wind": "NaN",
     "states": {
-      "precipitation": {
-        "name": "Light Rain, Heavy Rain",
-        "rules": []
-      },
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
         "rules": []
@@ -6367,11 +5548,10 @@
     "date": "9-38-213",
     "season": "Winter",
     "tempRange": {
-      "low": "49.0",
-      "high": "65.4"
+      "low": "47.7",
+      "high": "66.7"
     },
-    "precipitation": false,
-    "wind": "34",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -6383,11 +5563,10 @@
     "date": "9-39-213",
     "season": "Winter",
     "tempRange": {
-      "low": "55.2",
-      "high": "59.1"
+      "low": "50.6",
+      "high": "63.7"
     },
-    "precipitation": false,
-    "wind": "47",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
@@ -6399,11 +5578,10 @@
     "date": "9-40-213",
     "season": "Winter",
     "tempRange": {
-      "low": "47.3",
-      "high": "67.0"
+      "low": "49.1",
+      "high": "65.2"
     },
-    "precipitation": false,
-    "wind": "50",
+    "wind": "NaN",
     "states": {
       "wind": {
         "name": "Light Wind, Heavy Wind, Tornado, Hurricane",
