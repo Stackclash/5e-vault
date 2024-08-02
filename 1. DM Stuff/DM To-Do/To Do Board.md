@@ -34,7 +34,6 @@ months:
 - [ ] Fill out info for CoS NPCs
 - [ ] Fill out info for CoS Groups
 - [ ] [[Create Groups Template]]
-- [ ] [[Create Quest Template]]
 - [ ] [[Create Event Template]]
 - [ ] Update PoI template to not include Ruler and other unrelated data
 - [ ] [[Find where to include various DM tools]]
@@ -46,6 +45,7 @@ months:
 
 ## Research
 
+- [ ] [[Create Quest Template]]
 
 
 ## In Progress
