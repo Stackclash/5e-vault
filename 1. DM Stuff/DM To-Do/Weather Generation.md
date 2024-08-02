@@ -396,7 +396,7 @@ dv.table([
     `\`INPUT[inlineSelect(defaultValue(general),option(general,General),option(precipitation,Precipitation),option(wind,Wind),option(temperature,Temperature)):states[${i}].category]\``,
     `\`INPUT[inlineList:states[${i}].conditions]\``,
     `\`INPUT[inlineList:states[${i}].rules]\``,
-    `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: conditions\n      index: ${i}\n\`\`\``
+    `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: states\n      index: ${i}\n\`\`\``
   ]
 }))
 ```

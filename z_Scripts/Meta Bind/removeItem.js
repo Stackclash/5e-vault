@@ -1,4 +1,4 @@
 app.fileManager.processFrontMatter(context.file, (fm) => {
-    console.log(fm[context.args.field])
+    console.log(context)
     fm[context.args.field].splice(context.args.index, 1)
 })
