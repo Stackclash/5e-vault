@@ -170,6 +170,18 @@ const getRainDaysInSeason = (climate, season) => {
     return Array.from(precipitationDays)
 }
 
+// Not taking into account previous and next seasons
+const getPrecipitation = (climate) => {
+    const { precipProb } = climates.find(climateData => climateData.name === climate)
+    return Math.random() < precipProb ? true : false
+}
+
+// Not taking into account seasons
+const getWind = (climate) => {
+    const { windLow, windHigh } = climates.find(climateData => climateData.name === climate)
+    return Math.random() * (windHigh - windLow) + windLow
+}
+
 /**
  * Returns the precipitation days for the climate and year
  * @param {string} climate - The climate name
