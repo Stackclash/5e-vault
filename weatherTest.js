@@ -2,7 +2,7 @@ const matter = require('gray-matter')
 const fs = require('fs')
 const path = require('path')
 
-const { tempFlux, seasons, months, climates, conditions } = matter(fs.readFileSync(path.join(__dirname, '1. DM Stuff/DM To-Do/Weather Generation.md'), 'utf8')).data
+const { tempFlux, seasons, months, climates, states } = matter(fs.readFileSync(path.join(__dirname, '1. DM Stuff/DM To-Do/Weather Generation.md'), 'utf8')).data
 
 /**
  * Returns the day of the year based on the date
@@ -228,15 +228,15 @@ const getWeatherForYearByClimate = (climate, year) => {
         const weather = getWeatherForDate(climate, date)
         const monthDay = date.split('-').slice(0, 2).join('-')
         if (rainDays.includes(monthDay)) weather.precipitation = true
-        weather.conditions = getConditionStates(weather)
+        weather.states = getStates(weather)
         return weather
     })
 }
 
-const getConditionStates = (weather) => {
+const getStates = (weather) => {
     const {date, season, tempRange: {low: tempLow,high: tempHigh}, precipitation, wind: windSpeed} = weather
     const conditionStates = { }
-    conditions.forEach(state => {
+    states.forEach(state => {
         if (state.conditions.every(condition => eval(condition))) {
             if (!conditionStates.hasOwnProperty(state.category)) conditionStates[state.category] = { name: '', rules: [] }
             conditionStates[state.category].name.length > 0 ? conditionStates[state.category].name += `, ${state.name}` : conditionStates[state.category].name = state.name

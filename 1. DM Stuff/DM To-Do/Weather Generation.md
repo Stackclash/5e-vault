@@ -92,11 +92,8 @@ states:
     rules: []
   - name: Heavy Rain
     category: precipitation
-    conditions:
-      - blah blah blah
-      - aldkhahoianboinsaodifnoaidngona dfadf
-    rules:
-      - hey oh
+    conditions: []
+    rules: []
   - name: Light Snow
     category: precipitation
     conditions: []
@@ -190,11 +187,13 @@ if (useCalendarium) {
 dv.table([
   'Number',
   'Month',
-  'Length'
+  'Length',
+  'Delete'
 ], dv.current().months.map((month, i) => [
   (i+1).toString(),
   useCalendarium ? month.name : `\`INPUT[text:months[${i}].name]\``,
-  useCalendarium ? month.length : `\`INPUT[number:months[${i}].length]\``
+  useCalendarium ? month.length : `\`INPUT[number:months[${i}].length]\``,
+  useCalendarium ? "" : `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: months\n      index: ${i}\n\`\`\``
 ]))
 ```
 
@@ -258,7 +257,8 @@ dv.table([
   'Temperature Modifier',
   'Beginning',
   'Ending',
-  'Duration'
+  'Duration',
+  'Delete'
 ], dv.current().seasons.map((season, i) => {
   const {start, end} = season
   return [
@@ -268,7 +268,8 @@ dv.table([
     `\`INPUT[number:seasons[${i}].tempMod]\``,
     `\`INPUT[text:seasons[${i}].start]\``,
     `\`INPUT[text:seasons[${i}].end]\``,
-    start && end ? getDuration(start,end) : 'Fill out Beginning and End of Season'
+    start && end ? getDuration(start,end) : 'Fill out Beginning and End of Season',
+    `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: seasons\n      index: ${i}\n\`\`\``
   ]
 }))
 ```
@@ -320,7 +321,8 @@ dv.table([
   'Wind High',
   'Wind Low',
   'Temperature High',
-  'Temperature Low'
+  'Temperature Low',
+  'Delete'
 ], dv.current().climates.map((climate, i) => {
   return [
     `\`INPUT[text:climates[${i}].name]\``,
@@ -329,6 +331,7 @@ dv.table([
     `\`INPUT[number:climates[${i}].windLow]\``,
     `\`INPUT[number:climates[${i}].tempHigh]\``,
     `\`INPUT[number:climates[${i}].tempLow]\``,
+    `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: climates\n      index: ${i}\n\`\`\``
   ]
 }))
 ```
