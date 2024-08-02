@@ -151,7 +151,7 @@ const getTempRange = (climate, date) => {
 }
 
 /**
- * Returns the days that have precipitation for the climate and date
+ * Returns the days that have precipitation for the climate and season
  * @param {string} climate - The climate name
  * @param {string} season - The season name
  * @returns {string[]} - An array of precipitation dates for the climate and season
@@ -170,6 +170,11 @@ const getRainDaysInSeason = (climate, season) => {
     return Array.from(precipitationDays)
 }
 
+/**
+ * Returns the precipitation days for the climate and year
+ * @param {string} climate - The climate name
+ * @returns {string[]} - An array of precipitation dates for the climate and year
+ */
 const getRainDaysInYear = (climate) => {
     const rainDays = []
     seasons.forEach(season => {
