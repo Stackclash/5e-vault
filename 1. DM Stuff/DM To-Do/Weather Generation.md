@@ -115,6 +115,22 @@ conditions:
       - season === 'Summer'
     rules:
       - It's warm!
+  - name: Light Wind
+    category: ""
+    conditions: []
+    rules: []
+  - name: Heavy Wind
+    category: ""
+    conditions: []
+    rules: []
+  - name: Tornado
+    category: ""
+    conditions: []
+    rules: []
+  - name: Hurricane
+    category: ""
+    conditions: []
+    rules: []
 ---
 ```meta-bind-button
 style: primary
@@ -358,7 +374,7 @@ actions:
         fm.conditions.splice(-1)
       })
 ```
-> [!info]- Precipitation Configuration
+> [!info]- State Configuration
 > This is info
 ```dataviewjs
 const errorMessages = []

@@ -228,13 +228,12 @@ const getWeatherForYearByClimate = (climate, year) => {
         const weather = getWeatherForDate(climate, date)
         const monthDay = date.split('-').slice(0, 2).join('-')
         if (rainDays.includes(monthDay)) weather.precipitation = true
-        weather.precipitationState = getPrecipitationState(weather)
-        weather.windState = getWindState(weather)
+        weather.conditions = getConditionStates(weather)
         return weather
     })
 }
 
-const getPrecipitationState = (weather) => {
+const getConditionStates = (weather) => {
     const {date, season, tempRange: {low: tempLow,high: tempHigh}, precipitation, wind: windSpeed} = weather
     const precipitationState = { name: [], rules: [] }
     if (weather.precipitation) {
