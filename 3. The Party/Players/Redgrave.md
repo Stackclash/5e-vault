@@ -15,11 +15,11 @@ description:
   gender: ""
   age: ""
   hair: ""
-  eyes: "Emeralds"
-  skin: "Metallic with gold engraving"
-  height: "6'5\""
+  eyes: Emeralds
+  skin: Metallic with gold engraving
+  height: 6'5"
   weight: 300
-  size: "Medium"
+  size: Medium
 passives:
   perception: 17
   investigation: 11
@@ -679,11 +679,11 @@ actions:
         fm.speed = character.speeds.walk
         fm.defences = character.defences
         fm.background = character.background
-        fm.classes character.classes.map(async (class) => {
+        fm.classes = character.classes.map(async (characterClass) => {
           return {
-            name: await find_file(class.name, '5. Mechanics/Classes'),
-            subClass: await find_file(class.subClass, '5. Mechanics/Classes'),
-            level: class.level
+            name: await find_file(characterClass.name, '5. Mechanics/Classes'),
+            subClass: await find_file(characterClass.subClass, '5. Mechanics/Classes'),
+            level: characterClass.level
           }
         })
         fm.abilityScores = character.abilityScores
@@ -696,23 +696,23 @@ actions:
         fm.classSpells = character.spells.class.map(async (classSpell) => {
           return {
             name: await find_file(classSpell, '5. Mechanics/Spells'),
-            level: classSpell.level
+            level: classSpell.level,
             isPrepared: classSpell.isPrepared
           }
         })
         fm.currencies = character.currencies
         fm.inventory = character.inventory.map(async (inv) => {
           return {
-            name: await find_file(inv.name, '5. Mechanics/Items')
-            type: inv.type
-            rarity: inv.rarity
-            quantity: inv.quantity
-            canEquip: inv.canEquip
-            equipped: inv.equipped
-            canAttune: inv.canAttune
-            attuned: inv.attuned
-            damage: inv.damage
-            damageType: inv.damageType
+            name: await find_file(inv.name, '5. Mechanics/Items'),
+            type: inv.type,
+            rarity: inv.rarity,
+            quantity: inv.quantity,
+            canEquip: inv.canEquip,
+            equipped: inv.equipped,
+            canAttune: inv.canAttune,
+            attuned: inv.attuned,
+            damage: inv.damage,
+            damageType: inv.damageType,
             armorClass: inv.armorClass
           }
         })
