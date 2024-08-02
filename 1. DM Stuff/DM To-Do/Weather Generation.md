@@ -5,23 +5,23 @@ tempFlux: 10
 seasons:
   - name: Spring
     tempMod: 0.5
-    start: 2-11
-    end: 4-
+    start: 1-36
+    end: 4-5
     precipMod: 0.4
   - name: Summer
     tempMod: 0.75
     start: 4-6
-    end: 6-7
+    end: 6-15
     precipMod: 0.2
   - name: Fall
     tempMod: 0.3
-    start: 6-8
-    end: 8-12
+    start: 6-16
+    end: 8-25
     precipMod: 0.1
   - name: Winter
     tempMod: 0.2
-    start: 8-13
-    end: 2-10
+    start: 8-26
+    end: 1-35
     precipMod: 0.3
 months:
   - name: Winterwane
@@ -45,7 +45,7 @@ months:
 climates:
   - name: Coast
     precipProb: 0.4
-    windHigh: 8
+    windHigh: 80
     windLow: 30
     tempHigh: 105
     tempLow: 50
@@ -80,7 +80,7 @@ climates:
     tempHigh: 0
     tempLow: 0
   - name: Open Water
-    precipProb: 0
+    precipProb: 0.5
     windHigh: 0
     windLow: 0
     tempHigh: 0
