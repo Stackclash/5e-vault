@@ -139,7 +139,20 @@ actions:
   - type: command
     command: dataview:dataview-rebuild-current-view
 ```
+```meta-bind-button
+label: ""
+icon: x
+hidden: true
+class: ""
+tooltip: Delete?
+id: remove-item
+style: destructive
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/removeItem.js
+    args: {}
 
+```
 **Use Calendarium:** `INPUT[toggle:useCalendarium]`
 **Daily Temp Flux:** `INPUT[number:tempFlux]`
 
