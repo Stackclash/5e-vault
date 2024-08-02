@@ -4,7 +4,7 @@ statblock: true
 name: Redgrave
 level: 7
 ac: 23
-hp: 51
+hp: 52
 modifier: -1
 proficiency: 3
 url: https://dndbeyond.com/characters/29682199
@@ -653,7 +653,6 @@ hidden: true
 actions:
   - type: inlineJS
     code: |-
-      console.log('HERE')
       const dndBeyondCharacter = await self.require.import('z_Scripts/Templater/dndBeyondCharacter.js')
       const activeFile = app.workspace.getActiveFile()
       const dndBeyondId = app.metadataCache.getFileCache(activeFile).frontmatter.url.match(/\d+$/)[0]

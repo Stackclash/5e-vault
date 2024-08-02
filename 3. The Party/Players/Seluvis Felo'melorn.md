@@ -649,8 +649,71 @@ label: Update From DnD Beyond
 id: updateDnDBeyond
 hidden: true
 actions:
-  - type: templaterCreateNote
-    templateFile: "z_Templates/Templater/Party/Player Character.md"
+  - type: inlineJS
+    code: |-
+      const dndBeyondCharacter = await self.require.import('z_Scripts/Templater/dndBeyondCharacter.js')
+      const activeFile = app.workspace.getActiveFile()
+      const dndBeyondId = app.metadataCache.getFileCache(activeFile).frontmatter.url.match(/\d+$/)[0]
+      const character = new dndBeyondCharacter(dndBeyondId)
+      await character.initialize()
+      const find_file = await self.require.import('z_Scripts/Templater/find_file.js')
+      const build_yaml = await self.require.import('z_Scripts/Templater/build_yaml.js')
+
+      app.fileManager.processFrontMatter(activeFile, async (fm) => {
+        fm.name = character.name
+        fm.level = character.level
+        fm.ac = character.armorClass
+        fm.hp = character.healthPoints.current
+        fm.modifier = character.initiative
+        fm.proficiency = character.proficiencyBonus
+        fm.url = character.url
+        fm.image = character.image
+        fm.race = `"${await find_file(character.race.fullName, '5. Mechanics/Races')}"`
+        fm.alignment = `"${character.alignment}"`
+        fm.description = character.description
+        fm.passives = character.passives
+        fm.proficiencies = character.proficiencies
+        fm.speed = character.speeds.walk
+        fm.defences = character.defences
+        fm.background = character.background
+        fm.classes = character.classes.map(async (characterClass) => {
+          return {
+            name: await find_file(characterClass.name, '5. Mechanics/Classes'),
+            subClass: await find_file(characterClass.subClass, '5. Mechanics/Classes'),
+            level: characterClass.level
+          }
+        })
+        fm.abilityScores = character.abilityScores
+        fm.savingThrows = character.savingThrows
+        fm.skills = character.skills
+        fm.racialTraits = character.racialTraits
+        fm.classFeatures = character.classFeatures
+        fm.feats = character.feats
+        fm.raceSpells = character.spells.race
+        fm.classSpells = character.spells.class.map(async (classSpell) => {
+          return {
+            name: await find_file(classSpell, '5. Mechanics/Spells'),
+            level: classSpell.level,
+            isPrepared: classSpell.isPrepared
+          }
+        })
+        fm.currencies = character.currencies
+        fm.inventory = character.inventory.map(async (inv) => {
+          return {
+            name: await find_file(inv.name, '5. Mechanics/Items'),
+            type: inv.type,
+            rarity: inv.rarity,
+            quantity: inv.quantity,
+            canEquip: inv.canEquip,
+            equipped: inv.equipped,
+            canAttune: inv.canAttune,
+            attuned: inv.attuned,
+            damage: inv.damage,
+            damageType: inv.damageType,
+            armorClass: inv.armorClass
+          }
+        })
+      })
 ```
 
 > [!infobox|n-th center wm-tl]

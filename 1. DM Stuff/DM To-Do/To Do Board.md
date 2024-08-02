@@ -50,12 +50,12 @@ months:
 
 ## In Progress
 
-- [ ] Update Player Template to use a function for updating from DnD Beyond
 - [ ] [[Weather Generation]]
 
 
 ## Done
 
+- [ ] Update Player Template to use a function for updating from DnD Beyond
 
 
 
