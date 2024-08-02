@@ -3,3600 +3,3600 @@
     "date": "1-1-213",
     "season": "Winter",
     "tempRange": {
-      "low": 63.910110701107016,
-      "high": 78.73011070110701
+      "low": 63.32011070110701,
+      "high": 79.32011070110701
     },
-    "precipitation": false,
-    "wind": 69.98410765743293
+    "precipitation": true,
+    "wind": 52.855721993941025
   },
   {
     "date": "1-2-213",
     "season": "Winter",
     "tempRange": {
-      "low": 61.409225092250914,
-      "high": 81.10922509225091
+      "low": 62.98922509225092,
+      "high": 79.52922509225091
     },
     "precipitation": true,
-    "wind": 54.33398456760428
+    "wind": 58.82980399554819
   },
   {
     "date": "1-3-213",
     "season": "Winter",
     "tempRange": {
-      "low": 64.83833948339483,
-      "high": 77.55833948339483
+      "low": 66.48833948339484,
+      "high": 75.90833948339483
     },
-    "precipitation": false,
-    "wind": 43.82001168118194
+    "precipitation": true,
+    "wind": 31.938971930041134
   },
   {
     "date": "1-4-213",
     "season": "Winter",
     "tempRange": {
-      "low": 61.55745387453875,
-      "high": 80.71745387453875
+      "low": 70.52745387453875,
+      "high": 71.74745387453875
     },
     "precipitation": false,
-    "wind": 60.49558326377121
+    "wind": 31.304880364650863
   },
   {
     "date": "1-5-213",
     "season": "Winter",
     "tempRange": {
-      "low": 66.97656826568266,
-      "high": 75.17656826568265
+      "low": 68.51656826568265,
+      "high": 73.63656826568266
     },
-    "precipitation": true,
-    "wind": 53.44878363358567
+    "precipitation": false,
+    "wind": 58.07933215907068
   },
   {
     "date": "1-6-213",
     "season": "Winter",
     "tempRange": {
-      "low": 63.92568265682657,
-      "high": 78.10568265682657
+      "low": 69.78568265682657,
+      "high": 72.24568265682657
     },
     "precipitation": true,
-    "wind": 79.58441363219735
+    "wind": 55.02538968969138
   },
   {
     "date": "1-7-213",
     "season": "Winter",
     "tempRange": {
-      "low": 62.444797047970475,
-      "high": 79.46479704797048
+      "low": 62.25479704797047,
+      "high": 79.65479704797048
     },
-    "precipitation": false,
-    "wind": 79.73916852742562
+    "precipitation": true,
+    "wind": 31.033650214702753
   },
   {
     "date": "1-8-213",
     "season": "Winter",
     "tempRange": {
-      "low": 70.83391143911439,
-      "high": 70.95391143911439
+      "low": 61.39391143911439,
+      "high": 80.39391143911439
     },
     "precipitation": false,
-    "wind": 53.04417975927434
+    "wind": 42.75745217111124
   },
   {
     "date": "1-9-213",
     "season": "Winter",
     "tempRange": {
-      "low": 68.0430258302583,
-      "high": 73.62302583025831
+      "low": 68.3030258302583,
+      "high": 73.36302583025831
     },
-    "precipitation": true,
-    "wind": 50.781196112116106
+    "precipitation": false,
+    "wind": 39.26344236491225
   },
   {
     "date": "1-10-213",
     "season": "Winter",
     "tempRange": {
-      "low": 66.49214022140221,
-      "high": 75.05214022140221
+      "low": 66.08214022140221,
+      "high": 75.46214022140221
     },
-    "precipitation": false,
-    "wind": 67.86580697478193
+    "precipitation": true,
+    "wind": 59.35132255177743
   },
   {
     "date": "1-11-213",
     "season": "Winter",
     "tempRange": {
-      "low": 69.43125461254613,
-      "high": 71.99125461254613
+      "low": 69.45125461254612,
+      "high": 71.97125461254613
     },
     "precipitation": true,
-    "wind": 48.21860560672983
+    "wind": 72.92444474904033
   },
   {
     "date": "1-12-213",
     "season": "Winter",
     "tempRange": {
-      "low": 61.740369003690034,
-      "high": 79.56036900369003
+      "low": 69.90036900369003,
+      "high": 71.40036900369003
     },
     "precipitation": false,
-    "wind": 59.09640729011663
+    "wind": 58.32513488042923
   },
   {
     "date": "1-13-213",
     "season": "Winter",
     "tempRange": {
-      "low": 63.01948339483395,
-      "high": 78.15948339483396
+      "low": 63.47948339483395,
+      "high": 77.69948339483395
     },
     "precipitation": false,
-    "wind": 58.12764417118081
+    "wind": 36.33428201227781
   },
   {
     "date": "1-14-213",
     "season": "Winter",
     "tempRange": {
-      "low": 66.17859778597787,
-      "high": 74.87859778597786
+      "low": 62.83859778597787,
+      "high": 78.21859778597786
     },
     "precipitation": true,
-    "wind": 43.9431604808142
+    "wind": 61.374740708963465
   },
   {
     "date": "1-15-213",
     "season": "Winter",
     "tempRange": {
-      "low": 65.29771217712177,
-      "high": 75.63771217712177
+      "low": 64.70771217712176,
+      "high": 76.22771217712177
     },
-    "precipitation": false,
-    "wind": 65.78948292503566
+    "precipitation": true,
+    "wind": 54.88700585200036
   },
   {
     "date": "1-16-213",
     "season": "Winter",
     "tempRange": {
-      "low": 69.71682656826569,
-      "high": 71.09682656826568
+      "low": 61.306826568265684,
+      "high": 79.50682656826568
     },
     "precipitation": true,
-    "wind": 63.04335940666127
+    "wind": 59.60432443069999
   },
   {
     "date": "1-17-213",
     "season": "Winter",
     "tempRange": {
-      "low": 68.47594095940958,
-      "high": 72.2159409594096
+      "low": 69.83594095940958,
+      "high": 70.8559409594096
     },
     "precipitation": true,
-    "wind": 54.503137189268145
+    "wind": 32.98484064347697
   },
   {
     "date": "1-18-213",
     "season": "Winter",
     "tempRange": {
-      "low": 65.1050553505535,
-      "high": 75.46505535055351
+      "low": 62.5550553505535,
+      "high": 78.01505535055351
     },
-    "precipitation": true,
-    "wind": 70.80012454568734
+    "precipitation": false,
+    "wind": 32.44948394405375
   },
   {
     "date": "1-19-213",
     "season": "Winter",
     "tempRange": {
-      "low": 66.96416974169742,
-      "high": 73.48416974169743
+      "low": 66.63416974169742,
+      "high": 73.81416974169743
     },
     "precipitation": true,
-    "wind": 41.725580935035865
+    "wind": 73.07116853003717
   },
   {
     "date": "1-20-213",
     "season": "Winter",
     "tempRange": {
-      "low": 61.36328413284133,
-      "high": 78.96328413284132
+      "low": 69.16328413284133,
+      "high": 71.16328413284133
     },
-    "precipitation": false,
-    "wind": 65.96392374555177
+    "precipitation": true,
+    "wind": 75.01161412786459
   },
   {
     "date": "1-21-213",
     "season": "Winter",
     "tempRange": {
-      "low": 66.78239852398525,
-      "high": 73.42239852398524
+      "low": 63.47239852398524,
+      "high": 76.73239852398524
     },
-    "precipitation": true,
-    "wind": 56.4893173409166
+    "precipitation": false,
+    "wind": 75.46514043426487
   },
   {
     "date": "1-22-213",
     "season": "Winter",
     "tempRange": {
-      "low": 69.30151291512915,
-      "high": 70.78151291512914
+      "low": 61.051512915129145,
+      "high": 79.03151291512914
     },
-    "precipitation": true,
-    "wind": 65.47793413744812
+    "precipitation": false,
+    "wind": 73.00823804133395
   },
   {
     "date": "1-23-213",
     "season": "Winter",
     "tempRange": {
-      "low": 68.24062730627307,
-      "high": 71.72062730627306
+      "low": 68.62062730627306,
+      "high": 71.34062730627306
     },
     "precipitation": false,
-    "wind": 58.54634727204284
+    "wind": 44.948206358172214
   },
   {
     "date": "1-24-213",
     "season": "Winter",
     "tempRange": {
-      "low": 68.95974169741697,
-      "high": 70.87974169741696
+      "low": 65.81974169741697,
+      "high": 74.01974169741696
     },
-    "precipitation": false,
-    "wind": 40.15850240349829
+    "precipitation": true,
+    "wind": 69.95535310832742
   },
   {
     "date": "1-25-213",
     "season": "Winter",
     "tempRange": {
-      "low": 66.07885608856088,
-      "high": 73.63885608856089
+      "low": 69.30885608856089,
+      "high": 70.40885608856088
     },
     "precipitation": true,
-    "wind": 68.11917029723432
+    "wind": 75.00397268355773
   },
   {
     "date": "1-26-213",
     "season": "Winter",
     "tempRange": {
-      "low": 65.9179704797048,
-      "high": 73.6779704797048
+      "low": 65.83797047970481,
+      "high": 73.7579704797048
     },
-    "precipitation": true,
-    "wind": 78.86468021013899
+    "precipitation": false,
+    "wind": 30.03547416073515
   },
   {
     "date": "1-27-213",
     "season": "Winter",
     "tempRange": {
-      "low": 68.74708487084871,
-      "high": 70.7270848708487
+      "low": 62.1370848708487,
+      "high": 77.3370848708487
     },
     "precipitation": true,
-    "wind": 66.48717131732914
+    "wind": 68.56495425829677
   },
   {
     "date": "1-28-213",
     "season": "Winter",
     "tempRange": {
-      "low": 62.75619926199262,
-      "high": 76.59619926199262
+      "low": 61.84619926199262,
+      "high": 77.50619926199262
     },
-    "precipitation": true,
-    "wind": 33.27391333657905
+    "precipitation": false,
+    "wind": 55.045002829917586
   },
   {
     "date": "1-29-213",
     "season": "Winter",
     "tempRange": {
-      "low": 63.60531365313653,
-      "high": 75.62531365313653
+      "low": 60.655313653136524,
+      "high": 78.57531365313653
     },
     "precipitation": true,
-    "wind": 75.64053454856922
+    "wind": 72.14692198243625
   },
   {
     "date": "1-30-213",
     "season": "Winter",
     "tempRange": {
-      "low": 61.16442804428044,
-      "high": 77.94442804428044
+      "low": 63.85442804428044,
+      "high": 75.25442804428044
     },
-    "precipitation": true,
-    "wind": 51.37460068985254
+    "precipitation": false,
+    "wind": 52.0227770906036
   },
   {
     "date": "1-31-213",
     "season": "Winter",
     "tempRange": {
-      "low": 62.04354243542436,
-      "high": 76.94354243542436
+      "low": 68.75354243542436,
+      "high": 70.23354243542435
     },
-    "precipitation": true,
-    "wind": 49.573566945876784
+    "precipitation": false,
+    "wind": 67.55586375285777
   },
   {
     "date": "1-32-213",
     "season": "Winter",
     "tempRange": {
-      "low": 60.09265682656826,
-      "high": 78.77265682656827
+      "low": 61.172656826568264,
+      "high": 77.69265682656827
     },
-    "precipitation": false,
-    "wind": 51.287461180425325
+    "precipitation": true,
+    "wind": 73.88558944777415
   },
   {
     "date": "1-33-213",
     "season": "Winter",
     "tempRange": {
-      "low": 66.92177121771218,
-      "high": 71.82177121771218
+      "low": 60.38177121771218,
+      "high": 78.36177121771217
     },
     "precipitation": false,
-    "wind": 72.21047496518861
+    "wind": 71.95615801884215
   },
   {
     "date": "1-34-213",
     "season": "Winter",
     "tempRange": {
-      "low": 66.22088560885608,
-      "high": 72.40088560885609
+      "low": 67.70088560885608,
+      "high": 70.92088560885608
     },
-    "precipitation": false,
-    "wind": 50.54931369326292
+    "precipitation": true,
+    "wind": 38.13974156885248
   },
   {
     "date": "1-35-213",
     "season": "Winter",
     "tempRange": {
-      "low": 61.93,
-      "high": 76.57
+      "low": 64.85,
+      "high": 73.65
     },
     "precipitation": true,
-    "wind": 41.977557645225275
+    "wind": 70.1106691106824
   },
   {
     "date": "1-36-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.35,
-      "high": 91.15
+      "low": 81.67,
+      "high": 89.83
     },
-    "precipitation": false,
-    "wind": 64.39063750042271
+    "precipitation": true,
+    "wind": 72.41432333474994
   },
   {
     "date": "1-37-213",
     "season": "Spring",
     "tempRange": {
-      "low": 82.05460674157302,
-      "high": 89.07460674157304
+      "low": 85.48460674157303,
+      "high": 85.64460674157303
     },
     "precipitation": true,
-    "wind": 67.76774153537704
+    "wind": 68.42366237730468
   },
   {
     "date": "1-38-213",
     "season": "Spring",
     "tempRange": {
-      "low": 79.74921348314606,
-      "high": 91.00921348314606
+      "low": 82.45921348314606,
+      "high": 88.29921348314606
     },
     "precipitation": true,
-    "wind": 73.66774753585025
+    "wind": 34.41860188422722
   },
   {
     "date": "1-39-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.06382022471911,
-      "high": 90.3238202247191
+      "low": 81.0038202247191,
+      "high": 89.3838202247191
     },
-    "precipitation": true,
-    "wind": 60.59243324869526
+    "precipitation": false,
+    "wind": 60.784877514707105
   },
   {
     "date": "1-40-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.78842696629214,
-      "high": 89.22842696629213
+      "low": 82.86842696629213,
+      "high": 87.14842696629213
     },
-    "precipitation": false,
-    "wind": 38.20553644740647
+    "precipitation": true,
+    "wind": 76.81672442515989
   },
   {
     "date": "2-1-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.27303370786517,
-      "high": 92.37303370786516
+      "low": 78.28303370786516,
+      "high": 91.36303370786517
     },
-    "precipitation": false,
-    "wind": 68.13583718440003
+    "precipitation": true,
+    "wind": 73.29214953827727
   },
   {
     "date": "2-2-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.5976404494382,
-      "high": 91.67764044943821
+      "low": 81.1576404494382,
+      "high": 88.11764044943821
     },
     "precipitation": false,
-    "wind": 73.4213215577303
+    "wind": 64.699835863917
   },
   {
     "date": "2-3-213",
     "season": "Spring",
     "tempRange": {
-      "low": 75.03224719101124,
-      "high": 93.87224719101124
+      "low": 76.40224719101124,
+      "high": 92.50224719101124
     },
-    "precipitation": true,
-    "wind": 49.37970493099491
+    "precipitation": false,
+    "wind": 50.395856066628504
   },
   {
     "date": "2-4-213",
     "season": "Spring",
     "tempRange": {
-      "low": 74.31685393258427,
-      "high": 94.21685393258427
+      "low": 82.54685393258427,
+      "high": 85.98685393258427
     },
-    "precipitation": false,
-    "wind": 77.61558725311698
+    "precipitation": true,
+    "wind": 78.07430796950345
   },
   {
     "date": "2-5-213",
     "season": "Spring",
     "tempRange": {
-      "low": 75.5814606741573,
-      "high": 92.5814606741573
+      "low": 82.2814606741573,
+      "high": 85.8814606741573
     },
-    "precipitation": true,
-    "wind": 67.3144287508528
+    "precipitation": false,
+    "wind": 41.66368064746668
   },
   {
     "date": "2-6-213",
     "season": "Spring",
     "tempRange": {
-      "low": 83.41606741573034,
-      "high": 84.37606741573035
+      "low": 74.63606741573034,
+      "high": 93.15606741573035
     },
     "precipitation": true,
-    "wind": 65.73839230260725
+    "wind": 76.89648191905155
   },
   {
     "date": "2-7-213",
     "season": "Spring",
     "tempRange": {
-      "low": 79.39067415730338,
-      "high": 88.03067415730337
+      "low": 75.84067415730337,
+      "high": 91.58067415730338
     },
     "precipitation": false,
-    "wind": 46.864424919248904
+    "wind": 60.191307312451855
   },
   {
     "date": "2-8-213",
     "season": "Spring",
     "tempRange": {
-      "low": 82.5952808988764,
-      "high": 84.45528089887641
+      "low": 76.1352808988764,
+      "high": 90.9152808988764
     },
-    "precipitation": false,
-    "wind": 39.734133441138546
+    "precipitation": true,
+    "wind": 79.84953699790528
   },
   {
     "date": "2-9-213",
     "season": "Spring",
     "tempRange": {
-      "low": 82.41988764044943,
-      "high": 84.25988764044943
+      "low": 74.31988764044944,
+      "high": 92.35988764044943
     },
     "precipitation": false,
-    "wind": 73.36013833042841
+    "wind": 51.47454813999104
   },
   {
     "date": "2-10-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.87449438202248,
-      "high": 87.43449438202248
+      "low": 78.23449438202248,
+      "high": 88.07449438202248
     },
     "precipitation": false,
-    "wind": 40.31565509097201
+    "wind": 50.16104111034774
   },
   {
     "date": "2-11-213",
     "season": "Spring",
     "tempRange": {
-      "low": 74.75910112359551,
-      "high": 91.1791011235955
+      "low": 80.1791011235955,
+      "high": 85.75910112359551
     },
     "precipitation": true,
-    "wind": 57.80166556294401
+    "wind": 38.999853040767206
   },
   {
     "date": "2-12-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.58370786516853,
-      "high": 88.98370786516854
+      "low": 82.33370786516853,
+      "high": 83.23370786516854
     },
-    "precipitation": true,
-    "wind": 63.107665849515975
+    "precipitation": false,
+    "wind": 45.93126480189706
   },
   {
     "date": "2-13-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.20831460674157,
-      "high": 87.98831460674157
+      "low": 76.81831460674157,
+      "high": 88.37831460674157
     },
-    "precipitation": true,
-    "wind": 47.49193065686493
+    "precipitation": false,
+    "wind": 51.459007938038795
   },
   {
     "date": "2-14-213",
     "season": "Spring",
     "tempRange": {
-      "low": 79.79292134831461,
-      "high": 85.03292134831462
+      "low": 80.46292134831461,
+      "high": 84.36292134831461
     },
     "precipitation": true,
-    "wind": 65.22916214041194
+    "wind": 68.6208814606764
   },
   {
     "date": "2-15-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.51752808988765,
-      "high": 86.93752808988764
+      "low": 81.27752808988764,
+      "high": 83.17752808988764
     },
     "precipitation": false,
-    "wind": 53.87082378101609
+    "wind": 30.423275500388954
   },
   {
     "date": "2-16-213",
     "season": "Spring",
     "tempRange": {
-      "low": 73.93213483146067,
-      "high": 90.15213483146067
+      "low": 75.87213483146067,
+      "high": 88.21213483146067
     },
     "precipitation": false,
-    "wind": 74.96272999803296
+    "wind": 61.46438987538886
   },
   {
     "date": "2-17-213",
     "season": "Spring",
     "tempRange": {
-      "low": 79.0167415730337,
-      "high": 84.6967415730337
+      "low": 75.4667415730337,
+      "high": 88.2467415730337
     },
-    "precipitation": true,
-    "wind": 37.41063923095925
+    "precipitation": false,
+    "wind": 74.98244978893774
   },
   {
     "date": "2-18-213",
     "season": "Spring",
     "tempRange": {
-      "low": 71.69134831460674,
-      "high": 91.65134831460675
+      "low": 73.01134831460675,
+      "high": 90.33134831460674
     },
     "precipitation": false,
-    "wind": 76.37339406471071
+    "wind": 73.15004713562766
   },
   {
     "date": "2-19-213",
     "season": "Spring",
     "tempRange": {
-      "low": 73.56595505617977,
-      "high": 89.40595505617978
+      "low": 76.90595505617978,
+      "high": 86.06595505617977
     },
     "precipitation": true,
-    "wind": 43.30956172010653
+    "wind": 58.40576600326242
   },
   {
     "date": "2-20-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.6305617977528,
-      "high": 85.97056179775281
+      "low": 77.47056179775281,
+      "high": 85.1305617977528
     },
-    "precipitation": true,
-    "wind": 79.32034777923351
+    "precipitation": false,
+    "wind": 50.537331071381836
   },
   {
     "date": "2-21-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.25516853932584,
-      "high": 81.97516853932584
+      "low": 80.81516853932584,
+      "high": 81.41516853932583
     },
     "precipitation": false,
-    "wind": 30.388411689013026
+    "wind": 76.97458988268335
   },
   {
     "date": "2-22-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.95977528089888,
-      "high": 84.89977528089888
+      "low": 71.33977528089888,
+      "high": 90.51977528089888
     },
-    "precipitation": false,
-    "wind": 48.94516086166601
+    "precipitation": true,
+    "wind": 33.4225095965595
   },
   {
     "date": "2-23-213",
     "season": "Spring",
     "tempRange": {
-      "low": 72.20438202247192,
-      "high": 89.2843820224719
+      "low": 72.57438202247191,
+      "high": 88.91438202247191
     },
     "precipitation": true,
-    "wind": 66.3717508999712
+    "wind": 43.58693022416138
   },
   {
     "date": "2-24-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.32898876404494,
-      "high": 80.78898876404494
+      "low": 74.77898876404494,
+      "high": 86.33898876404494
     },
     "precipitation": true,
-    "wind": 34.14130105387929
+    "wind": 45.09488165264526
   },
   {
     "date": "2-25-213",
     "season": "Spring",
     "tempRange": {
-      "low": 75.00359550561797,
-      "high": 85.74359550561798
+      "low": 76.92359550561797,
+      "high": 83.82359550561797
     },
-    "precipitation": false,
-    "wind": 37.222079473361255
+    "precipitation": true,
+    "wind": 63.881031985537824
   },
   {
     "date": "2-26-213",
     "season": "Spring",
     "tempRange": {
-      "low": 71.69820224719102,
-      "high": 88.67820224719101
+      "low": 70.19820224719102,
+      "high": 90.17820224719101
     },
-    "precipitation": true,
-    "wind": 74.53045215102279
+    "precipitation": false,
+    "wind": 68.74712578959928
   },
   {
     "date": "2-27-213",
     "season": "Spring",
     "tempRange": {
-      "low": 70.14280898876405,
-      "high": 89.86280898876404
+      "low": 77.90280898876405,
+      "high": 82.10280898876404
     },
-    "precipitation": true,
-    "wind": 35.79267882286402
+    "precipitation": false,
+    "wind": 67.25847634714256
   },
   {
     "date": "2-28-213",
     "season": "Spring",
     "tempRange": {
-      "low": 72.62741573033708,
-      "high": 87.00741573033707
+      "low": 77.64741573033707,
+      "high": 81.98741573033708
     },
-    "precipitation": true,
-    "wind": 35.38799508740989
+    "precipitation": false,
+    "wind": 76.69245712329675
   },
   {
     "date": "2-29-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.39202247191012,
-      "high": 80.87202247191011
+      "low": 72.24202247191012,
+      "high": 87.02202247191012
     },
-    "precipitation": false,
-    "wind": 67.93580106666292
+    "precipitation": true,
+    "wind": 71.40194433312803
   },
   {
     "date": "2-30-213",
     "season": "Spring",
     "tempRange": {
-      "low": 69.64662921348315,
-      "high": 89.24662921348315
+      "low": 77.66662921348315,
+      "high": 81.22662921348315
     },
-    "precipitation": false,
-    "wind": 48.81023618216419
+    "precipitation": true,
+    "wind": 72.58588891615734
   },
   {
     "date": "2-31-213",
     "season": "Spring",
     "tempRange": {
-      "low": 71.43123595505618,
-      "high": 87.09123595505618
+      "low": 79.18123595505618,
+      "high": 79.34123595505618
     },
     "precipitation": false,
-    "wind": 45.63068809410212
+    "wind": 78.30770690904993
   },
   {
     "date": "2-32-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.69584269662921,
-      "high": 80.4558426966292
+      "low": 78.99584269662921,
+      "high": 79.15584269662921
     },
-    "precipitation": false,
-    "wind": 45.07867489394684
+    "precipitation": true,
+    "wind": 38.89110150377134
   },
   {
     "date": "2-33-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.74044943820225,
-      "high": 81.04044943820226
+      "low": 72.31044943820226,
+      "high": 85.47044943820225
     },
     "precipitation": false,
-    "wind": 32.99072195761292
+    "wind": 43.32001783440365
   },
   {
     "date": "2-34-213",
     "season": "Spring",
     "tempRange": {
-      "low": 68.86505617977528,
-      "high": 88.54505617977529
+      "low": 76.99505617977529,
+      "high": 80.41505617977528
     },
-    "precipitation": false,
-    "wind": 50.27720324873074
+    "precipitation": true,
+    "wind": 62.52171674932529
   },
   {
     "date": "2-35-213",
     "season": "Spring",
     "tempRange": {
-      "low": 68.64966292134831,
-      "high": 88.38966292134832
+      "low": 70.50966292134831,
+      "high": 86.52966292134832
     },
     "precipitation": true,
-    "wind": 56.9726348178077
+    "wind": 55.17973412316091
   },
   {
     "date": "2-36-213",
     "season": "Spring",
     "tempRange": {
-      "low": 69.83426966292134,
-      "high": 86.83426966292134
+      "low": 76.11426966292134,
+      "high": 80.55426966292134
     },
-    "precipitation": false,
-    "wind": 41.18996954044597
+    "precipitation": true,
+    "wind": 74.34786436540432
   },
   {
     "date": "2-37-213",
     "season": "Spring",
     "tempRange": {
-      "low": 73.55887640449438,
-      "high": 82.73887640449439
+      "low": 70.01887640449439,
+      "high": 86.27887640449438
     },
-    "precipitation": true,
-    "wind": 49.160140859197725
+    "precipitation": false,
+    "wind": 62.49356039136503
   },
   {
     "date": "2-38-213",
     "season": "Spring",
     "tempRange": {
-      "low": 73.56348314606741,
-      "high": 82.36348314606742
+      "low": 75.09348314606741,
+      "high": 80.83348314606742
     },
-    "precipitation": false,
-    "wind": 41.16033625209326
+    "precipitation": true,
+    "wind": 67.77144415585671
   },
   {
     "date": "2-39-213",
     "season": "Spring",
     "tempRange": {
-      "low": 73.81808988764045,
-      "high": 81.73808988764044
+      "low": 73.46808988764045,
+      "high": 82.08808988764045
     },
     "precipitation": false,
-    "wind": 49.953432855959036
+    "wind": 59.162426337338964
   },
   {
     "date": "2-40-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.81269662921348,
-      "high": 78.37269662921348
+      "low": 73.45269662921348,
+      "high": 81.73269662921348
     },
     "precipitation": true,
-    "wind": 78.80167134431736
+    "wind": 77.22848744522975
   },
   {
     "date": "3-1-213",
     "season": "Spring",
     "tempRange": {
-      "low": 69.35724719101124,
-      "high": 85.79724719101124
+      "low": 76.16724719101124,
+      "high": 78.98724719101124
     },
-    "precipitation": true,
-    "wind": 75.76280951668254
+    "precipitation": false,
+    "wind": 64.89247729585028
   },
   {
     "date": "3-2-213",
     "season": "Spring",
     "tempRange": {
-      "low": 71.7517415730337,
-      "high": 83.7117415730337
+      "low": 69.1117415730337,
+      "high": 86.3517415730337
     },
     "precipitation": true,
-    "wind": 73.12563202139458
+    "wind": 77.21787221207794
   },
   {
     "date": "3-3-213",
     "season": "Spring",
     "tempRange": {
-      "low": 68.34623595505619,
-      "high": 87.42623595505617
+      "low": 70.05623595505618,
+      "high": 85.71623595505618
     },
-    "precipitation": false,
-    "wind": 42.79205322413493
+    "precipitation": true,
+    "wind": 66.46255063766316
   },
   {
     "date": "3-4-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.63073033707866,
-      "high": 79.45073033707865
+      "low": 68.41073033707866,
+      "high": 87.67073033707865
     },
     "precipitation": false,
-    "wind": 64.13242733289732
+    "wind": 33.46761042446565
   },
   {
     "date": "3-5-213",
     "season": "Spring",
     "tempRange": {
-      "low": 70.86522471910112,
-      "high": 85.52522471910112
+      "low": 69.26522471910113,
+      "high": 87.12522471910111
     },
     "precipitation": false,
-    "wind": 56.56970477606543
+    "wind": 67.74713829190884
   },
   {
     "date": "3-6-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.19971910112359,
-      "high": 79.4997191011236
+      "low": 76.58971910112359,
+      "high": 80.1097191011236
     },
-    "precipitation": true,
-    "wind": 66.20456614022328
+    "precipitation": false,
+    "wind": 44.616059791179445
   },
   {
     "date": "3-7-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.22421348314606,
-      "high": 78.78421348314606
+      "low": 77.01421348314607,
+      "high": 79.99421348314605
     },
     "precipitation": false,
-    "wind": 36.65152069657536
+    "wind": 70.25952231987853
   },
   {
     "date": "3-8-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.54870786516854,
-      "high": 79.76870786516854
+      "low": 72.67870786516853,
+      "high": 84.63870786516854
     },
-    "precipitation": false,
-    "wind": 56.94871720379377
+    "precipitation": true,
+    "wind": 38.82838001318518
   },
   {
     "date": "3-9-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.81320224719101,
-      "high": 80.81320224719101
+      "low": 73.80320224719101,
+      "high": 83.82320224719102
     },
-    "precipitation": true,
-    "wind": 61.585084395737304
+    "precipitation": false,
+    "wind": 30.64193211941317
   },
   {
     "date": "3-10-213",
     "season": "Spring",
     "tempRange": {
-      "low": 74.82769662921348,
-      "high": 83.10769662921348
+      "low": 74.15769662921348,
+      "high": 83.77769662921348
     },
-    "precipitation": false,
-    "wind": 76.54317444785585
+    "precipitation": true,
+    "wind": 46.64887353522025
   },
   {
     "date": "3-11-213",
     "season": "Spring",
     "tempRange": {
-      "low": 75.27219101123596,
-      "high": 82.97219101123595
+      "low": 74.97219101123595,
+      "high": 83.27219101123596
     },
-    "precipitation": false,
-    "wind": 77.77062477324853
+    "precipitation": true,
+    "wind": 32.263441032514514
   },
   {
     "date": "3-12-213",
     "season": "Spring",
     "tempRange": {
-      "low": 75.58668539325843,
-      "high": 82.96668539325843
+      "low": 71.41668539325843,
+      "high": 87.13668539325843
     },
     "precipitation": true,
-    "wind": 40.407789026871214
+    "wind": 70.17984894274457
   },
   {
     "date": "3-13-213",
     "season": "Spring",
     "tempRange": {
-      "low": 73.89117977528089,
-      "high": 84.9711797752809
+      "low": 77.9911797752809,
+      "high": 80.8711797752809
     },
     "precipitation": false,
-    "wind": 76.78542598373424
+    "wind": 72.65739359827761
   },
   {
     "date": "3-14-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.55567415730337,
-      "high": 80.61567415730337
+      "low": 77.21567415730337,
+      "high": 81.95567415730338
     },
     "precipitation": false,
-    "wind": 35.940534907086146
+    "wind": 61.920213489728425
   },
   {
     "date": "3-15-213",
     "season": "Spring",
     "tempRange": {
-      "low": 75.07016853932583,
-      "high": 84.41016853932584
+      "low": 78.36016853932584,
+      "high": 81.12016853932583
     },
     "precipitation": true,
-    "wind": 37.371928042317954
+    "wind": 39.32696485090195
   },
   {
     "date": "3-16-213",
     "season": "Spring",
     "tempRange": {
-      "low": 79.53466292134831,
-      "high": 80.25466292134831
+      "low": 78.99466292134831,
+      "high": 80.79466292134832
     },
-    "precipitation": false,
-    "wind": 42.91933005800983
+    "precipitation": true,
+    "wind": 53.115032924111645
   },
   {
     "date": "3-17-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.20915730337079,
-      "high": 82.8891573033708
+      "low": 75.1091573033708,
+      "high": 84.98915730337079
     },
     "precipitation": true,
-    "wind": 41.83574000996277
+    "wind": 72.07757584775854
   },
   {
     "date": "3-18-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.44365168539325,
-      "high": 83.96365168539326
+      "low": 76.98365168539326,
+      "high": 83.42365168539325
     },
     "precipitation": false,
-    "wind": 79.850683987777
+    "wind": 39.18685222030808
   },
   {
     "date": "3-19-213",
     "season": "Spring",
     "tempRange": {
-      "low": 74.41814606741573,
-      "high": 86.29814606741573
+      "low": 74.91814606741573,
+      "high": 85.79814606741573
     },
-    "precipitation": false,
-    "wind": 67.29387985649397
+    "precipitation": true,
+    "wind": 32.64888920808121
   },
   {
     "date": "3-20-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.6126404494382,
-      "high": 84.41264044943821
+      "low": 77.44264044943822,
+      "high": 83.5826404494382
     },
     "precipitation": false,
-    "wind": 79.82057422150062
+    "wind": 70.12812046851994
   },
   {
     "date": "3-21-213",
     "season": "Spring",
     "tempRange": {
-      "low": 72.30713483146067,
-      "high": 89.02713483146067
+      "low": 72.06713483146068,
+      "high": 89.26713483146067
     },
-    "precipitation": false,
-    "wind": 57.370457913529506
+    "precipitation": true,
+    "wind": 45.84428469631639
   },
   {
     "date": "3-22-213",
     "season": "Spring",
     "tempRange": {
-      "low": 74.52162921348315,
-      "high": 87.12162921348315
+      "low": 78.30162921348315,
+      "high": 83.34162921348315
     },
-    "precipitation": true,
-    "wind": 66.32470419110712
+    "precipitation": false,
+    "wind": 62.4860534186731
   },
   {
     "date": "3-23-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.03612359550561,
-      "high": 83.91612359550561
+      "low": 77.21612359550561,
+      "high": 84.73612359550562
     },
     "precipitation": true,
-    "wind": 67.1856973983106
+    "wind": 75.94220469939238
   },
   {
     "date": "3-24-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.62061797752808,
-      "high": 85.6406179775281
+      "low": 71.45061797752808,
+      "high": 90.8106179775281
     },
-    "precipitation": false,
-    "wind": 45.8192550079068
+    "precipitation": true,
+    "wind": 71.77082718929904
   },
   {
     "date": "3-25-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.42511235955057,
-      "high": 82.14511235955057
+      "low": 78.54511235955057,
+      "high": 84.02511235955056
     },
-    "precipitation": false,
-    "wind": 53.388813578709545
+    "precipitation": true,
+    "wind": 70.66841154973184
   },
   {
     "date": "3-26-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.46960674157303,
-      "high": 82.40960674157303
+      "low": 71.70960674157303,
+      "high": 91.16960674157303
     },
     "precipitation": true,
-    "wind": 58.73319866288677
+    "wind": 77.10170647071183
   },
   {
     "date": "3-27-213",
     "season": "Spring",
     "tempRange": {
-      "low": 79.2841011235955,
-      "high": 83.90410112359551
+      "low": 73.54410112359551,
+      "high": 89.6441011235955
     },
-    "precipitation": true,
-    "wind": 55.56535068903515
+    "precipitation": false,
+    "wind": 32.7458921541728
   },
   {
     "date": "3-28-213",
     "season": "Spring",
     "tempRange": {
-      "low": 73.75859550561798,
-      "high": 89.73859550561797
+      "low": 78.74859550561797,
+      "high": 84.74859550561797
     },
     "precipitation": false,
-    "wind": 79.13269681779482
+    "wind": 66.19079253474868
   },
   {
     "date": "3-29-213",
     "season": "Spring",
     "tempRange": {
-      "low": 72.06308988764044,
-      "high": 91.74308988764045
+      "low": 80.91308988764045,
+      "high": 82.89308988764044
     },
     "precipitation": false,
-    "wind": 74.24436389413827
+    "wind": 77.54142840881474
   },
   {
     "date": "3-30-213",
     "season": "Spring",
     "tempRange": {
-      "low": 72.92758426966293,
-      "high": 91.18758426966292
+      "low": 81.45758426966293,
+      "high": 82.65758426966292
     },
-    "precipitation": true,
-    "wind": 63.04344664115943
+    "precipitation": false,
+    "wind": 40.434110669495745
   },
   {
     "date": "3-31-213",
     "season": "Spring",
     "tempRange": {
-      "low": 74.82207865168539,
-      "high": 89.60207865168539
+      "low": 77.70207865168538,
+      "high": 86.7220786516854
     },
     "precipitation": false,
-    "wind": 44.9812877447208
+    "wind": 37.55630519645554
   },
   {
     "date": "3-32-213",
     "season": "Spring",
     "tempRange": {
-      "low": 76.78657303370787,
-      "high": 87.94657303370786
+      "low": 78.83657303370786,
+      "high": 85.89657303370787
     },
-    "precipitation": false,
-    "wind": 45.50109047037188
+    "precipitation": true,
+    "wind": 33.168751908148856
   },
   {
     "date": "3-33-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.12106741573034,
-      "high": 87.92106741573035
+      "low": 74.30106741573034,
+      "high": 90.74106741573034
     },
-    "precipitation": true,
-    "wind": 66.8896428904036
+    "precipitation": false,
+    "wind": 78.72331555351889
   },
   {
     "date": "3-34-213",
     "season": "Spring",
     "tempRange": {
-      "low": 82.0255617977528,
-      "high": 83.32556179775281
+      "low": 80.2455617977528,
+      "high": 85.10556179775281
     },
     "precipitation": false,
-    "wind": 50.41514820497229
+    "wind": 68.7703315738427
   },
   {
     "date": "3-35-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.80005617977528,
-      "high": 84.86005617977528
+      "low": 72.96005617977528,
+      "high": 92.70005617977529
     },
-    "precipitation": false,
-    "wind": 54.865635700042354
+    "precipitation": true,
+    "wind": 50.20085211394772
   },
   {
     "date": "3-36-213",
     "season": "Spring",
     "tempRange": {
-      "low": 78.59455056179775,
-      "high": 87.37455056179775
+      "low": 73.60455056179775,
+      "high": 92.36455056179774
     },
     "precipitation": false,
-    "wind": 69.20243271610497
+    "wind": 52.583611590231655
   },
   {
     "date": "3-37-213",
     "season": "Spring",
     "tempRange": {
-      "low": 82.05904494382023,
-      "high": 84.21904494382022
+      "low": 74.84904494382022,
+      "high": 91.42904494382023
     },
-    "precipitation": false,
-    "wind": 32.61366700762762
+    "precipitation": true,
+    "wind": 46.89472509051036
   },
   {
     "date": "3-38-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.2935393258427,
-      "high": 89.2935393258427
+      "low": 80.3935393258427,
+      "high": 86.1935393258427
     },
-    "precipitation": false,
-    "wind": 58.03641787158977
+    "precipitation": true,
+    "wind": 65.46192525264513
   },
   {
     "date": "3-39-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.03803370786517,
-      "high": 86.85803370786516
+      "low": 81.51803370786516,
+      "high": 85.37803370786517
     },
     "precipitation": false,
-    "wind": 33.92974970876387
+    "wind": 42.664376499246075
   },
   {
     "date": "3-40-213",
     "season": "Spring",
     "tempRange": {
-      "low": 80.86252808988765,
-      "high": 86.34252808988764
+      "low": 79.24252808988764,
+      "high": 87.96252808988764
     },
-    "precipitation": false,
-    "wind": 72.25167245267176
+    "precipitation": true,
+    "wind": 65.32463653517296
   },
   {
     "date": "4-1-213",
     "season": "Spring",
     "tempRange": {
-      "low": 81.05702247191012,
-      "high": 86.45702247191012
+      "low": 81.39702247191012,
+      "high": 86.11702247191012
     },
-    "precipitation": true,
-    "wind": 41.58227558195395
+    "precipitation": false,
+    "wind": 67.6517267306659
   },
   {
     "date": "4-2-213",
     "season": "Spring",
     "tempRange": {
-      "low": 82.98151685393258,
-      "high": 84.84151685393259
+      "low": 79.89151685393259,
+      "high": 87.93151685393258
     },
-    "precipitation": false,
-    "wind": 41.1594906478658
+    "precipitation": true,
+    "wind": 64.8364862979596
   },
   {
     "date": "4-3-213",
     "season": "Spring",
     "tempRange": {
-      "low": 83.45601123595506,
-      "high": 84.67601123595506
+      "low": 82.58601123595506,
+      "high": 85.54601123595506
     },
-    "precipitation": true,
-    "wind": 79.67914041171254
+    "precipitation": false,
+    "wind": 36.864022674441216
   },
   {
     "date": "4-4-213",
     "season": "Spring",
     "tempRange": {
-      "low": 81.03050561797752,
-      "high": 87.41050561797752
+      "low": 76.50050561797752,
+      "high": 91.94050561797752
     },
-    "precipitation": true,
-    "wind": 44.25703805782426
+    "precipitation": false,
+    "wind": 60.79102743346543
   },
   {
     "date": "4-5-213",
     "season": "Spring",
     "tempRange": {
-      "low": 77.045,
-      "high": 91.705
+      "low": 76.615,
+      "high": 92.135
     },
     "precipitation": true,
-    "wind": 51.03927699931607
+    "wind": 49.079122162038644
   },
   {
     "date": "4-6-213",
     "season": "Summer",
     "tempRange": {
-      "low": 92.005,
-      "high": 104.245
+      "low": 90.125,
+      "high": 106.125
     },
     "precipitation": true,
-    "wind": 30.688173724090536
+    "wind": 72.08401806621309
   },
   {
     "date": "4-7-213",
     "season": "Summer",
     "tempRange": {
-      "low": 95.04050561797752,
-      "high": 100.90050561797753
+      "low": 97.66050561797752,
+      "high": 98.28050561797752
     },
     "precipitation": true,
-    "wind": 38.01296433175942
+    "wind": 41.29427073802448
   },
   {
     "date": "4-8-213",
     "season": "Summer",
     "tempRange": {
-      "low": 91.28601123595506,
-      "high": 104.34601123595506
+      "low": 89.46601123595507,
+      "high": 106.16601123595505
     },
     "precipitation": false,
-    "wind": 33.52563961051552
+    "wind": 56.20511558579951
   },
   {
     "date": "4-9-213",
     "season": "Summer",
     "tempRange": {
-      "low": 93.42151685393259,
-      "high": 101.90151685393258
+      "low": 96.64151685393259,
+      "high": 98.68151685393258
     },
     "precipitation": false,
-    "wind": 53.03593126382949
+    "wind": 68.04009819322883
   },
   {
     "date": "4-10-213",
     "season": "Summer",
     "tempRange": {
-      "low": 87.53702247191012,
-      "high": 107.47702247191012
+      "low": 94.64702247191012,
+      "high": 100.36702247191012
     },
     "precipitation": false,
-    "wind": 31.459395893982506
+    "wind": 40.69331120638681
   },
   {
     "date": "4-11-213",
     "season": "Summer",
     "tempRange": {
-      "low": 90.08252808988765,
-      "high": 104.62252808988764
+      "low": 88.91252808988764,
+      "high": 105.79252808988764
     },
     "precipitation": false,
-    "wind": 73.989400825931
+    "wind": 32.25249944511249
   },
   {
     "date": "4-12-213",
     "season": "Summer",
     "tempRange": {
-      "low": 94.54803370786516,
-      "high": 99.84803370786517
+      "low": 96.42803370786517,
+      "high": 97.96803370786516
     },
     "precipitation": false,
-    "wind": 58.23828506782273
+    "wind": 63.393091639720915
   },
   {
     "date": "4-13-213",
     "season": "Summer",
     "tempRange": {
-      "low": 90.5935393258427,
-      "high": 103.4935393258427
+      "low": 88.4535393258427,
+      "high": 105.6335393258427
     },
     "precipitation": false,
-    "wind": 66.6003981983526
+    "wind": 65.61307670466516
   },
   {
     "date": "4-14-213",
     "season": "Summer",
     "tempRange": {
-      "low": 91.36904494382023,
-      "high": 102.40904494382022
+      "low": 88.92904494382023,
+      "high": 104.84904494382022
     },
-    "precipitation": false,
-    "wind": 47.237545742640506
+    "precipitation": true,
+    "wind": 65.78525943322666
   },
   {
     "date": "4-15-213",
     "season": "Summer",
     "tempRange": {
-      "low": 93.69455056179774,
-      "high": 99.77455056179775
+      "low": 92.24455056179775,
+      "high": 101.22455056179774
     },
     "precipitation": true,
-    "wind": 56.99836948098681
+    "wind": 69.17841630487507
   },
   {
     "date": "4-16-213",
     "season": "Summer",
     "tempRange": {
-      "low": 92.34005617977529,
-      "high": 100.82005617977528
+      "low": 88.21005617977528,
+      "high": 104.95005617977529
     },
     "precipitation": false,
-    "wind": 66.1294652393567
+    "wind": 47.85423888297277
   },
   {
     "date": "4-17-213",
     "season": "Summer",
     "tempRange": {
-      "low": 92.62556179775281,
-      "high": 100.2255617977528
+      "low": 95.2855617977528,
+      "high": 97.5655617977528
     },
     "precipitation": true,
-    "wind": 61.92209590360924
+    "wind": 43.95212416608577
   },
   {
     "date": "4-18-213",
     "season": "Summer",
     "tempRange": {
-      "low": 96.20106741573035,
-      "high": 96.34106741573034
+      "low": 88.76106741573034,
+      "high": 103.78106741573035
     },
     "precipitation": true,
-    "wind": 53.75287629051712
+    "wind": 78.3813342254351
   },
   {
     "date": "4-19-213",
     "season": "Summer",
     "tempRange": {
-      "low": 96.09657303370787,
-      "high": 96.13657303370786
+      "low": 86.56657303370787,
+      "high": 105.66657303370786
     },
     "precipitation": true,
-    "wind": 53.66358286197266
+    "wind": 33.440599227808605
   },
   {
     "date": "4-20-213",
     "season": "Summer",
     "tempRange": {
-      "low": 95.02207865168539,
-      "high": 96.90207865168539
+      "low": 93.12207865168538,
+      "high": 98.80207865168539
     },
     "precipitation": false,
-    "wind": 68.981003028359
+    "wind": 64.05602666142867
   },
   {
     "date": "4-21-213",
     "season": "Summer",
     "tempRange": {
-      "low": 86.34758426966292,
-      "high": 105.26758426966293
+      "low": 87.73758426966293,
+      "high": 103.87758426966292
     },
     "precipitation": false,
-    "wind": 58.18392827766036
+    "wind": 31.19691320969736
   },
   {
     "date": "4-22-213",
     "season": "Summer",
     "tempRange": {
-      "low": 95.37308988764045,
-      "high": 95.93308988764045
+      "low": 92.78308988764044,
+      "high": 98.52308988764045
     },
     "precipitation": false,
-    "wind": 48.65035812247274
+    "wind": 75.13237397072658
   },
   {
     "date": "4-23-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.49859550561797,
-      "high": 105.49859550561797
+      "low": 94.38859550561797,
+      "high": 96.60859550561797
     },
-    "precipitation": true,
-    "wind": 30.775877684571025
+    "precipitation": false,
+    "wind": 61.936068203112455
   },
   {
     "date": "4-24-213",
     "season": "Summer",
     "tempRange": {
-      "low": 93.82410112359551,
-      "high": 96.8641011235955
+      "low": 88.41410112359551,
+      "high": 102.2741011235955
     },
-    "precipitation": false,
-    "wind": 41.494034306943824
+    "precipitation": true,
+    "wind": 57.4207305230289
   },
   {
     "date": "4-25-213",
     "season": "Summer",
     "tempRange": {
-      "low": 87.20960674157303,
-      "high": 103.16960674157303
+      "low": 85.87960674157303,
+      "high": 104.49960674157303
     },
-    "precipitation": false,
-    "wind": 43.535059744089224
+    "precipitation": true,
+    "wind": 76.06937981353943
   },
   {
     "date": "4-26-213",
     "season": "Summer",
     "tempRange": {
-      "low": 94.08511235955056,
-      "high": 95.98511235955057
+      "low": 90.29511235955057,
+      "high": 99.77511235955056
     },
-    "precipitation": false,
-    "wind": 68.76310975075111
+    "precipitation": true,
+    "wind": 50.78932786989086
   },
   {
     "date": "4-27-213",
     "season": "Summer",
     "tempRange": {
-      "low": 90.6106179775281,
-      "high": 99.15061797752809
+      "low": 90.93061797752809,
+      "high": 98.83061797752809
     },
-    "precipitation": true,
-    "wind": 68.83174374898387
+    "precipitation": false,
+    "wind": 35.86371220703362
   },
   {
     "date": "4-28-213",
     "season": "Summer",
     "tempRange": {
-      "low": 93.14612359550561,
-      "high": 96.30612359550561
+      "low": 85.58612359550561,
+      "high": 103.86612359550561
     },
     "precipitation": true,
-    "wind": 49.36872856195815
+    "wind": 49.64531423280048
   },
   {
     "date": "4-29-213",
     "season": "Summer",
     "tempRange": {
-      "low": 89.29162921348315,
-      "high": 99.85162921348315
+      "low": 92.43162921348315,
+      "high": 96.71162921348315
     },
-    "precipitation": false,
-    "wind": 47.51685889558111
+    "precipitation": true,
+    "wind": 68.3976097554813
   },
   {
     "date": "4-30-213",
     "season": "Summer",
     "tempRange": {
-      "low": 87.02713483146067,
-      "high": 101.80713483146067
+      "low": 91.57713483146067,
+      "high": 97.25713483146068
     },
     "precipitation": false,
-    "wind": 66.66059709862608
+    "wind": 75.94597739423688
   },
   {
     "date": "4-31-213",
     "season": "Summer",
     "tempRange": {
-      "low": 90.51264044943821,
-      "high": 98.01264044943821
+      "low": 85.5826404494382,
+      "high": 102.94264044943822
     },
-    "precipitation": false,
-    "wind": 68.54971107445073
+    "precipitation": true,
+    "wind": 79.02691532203625
   },
   {
     "date": "4-32-213",
     "season": "Summer",
     "tempRange": {
-      "low": 84.15814606741573,
-      "high": 104.05814606741573
+      "low": 90.27814606741573,
+      "high": 97.93814606741573
     },
-    "precipitation": true,
-    "wind": 63.17600775515858
+    "precipitation": false,
+    "wind": 54.37156690659454
   },
   {
     "date": "4-33-213",
     "season": "Summer",
     "tempRange": {
-      "low": 90.84365168539325,
-      "high": 97.06365168539325
+      "low": 85.86365168539325,
+      "high": 102.04365168539326
     },
     "precipitation": false,
-    "wind": 33.441156171345526
+    "wind": 36.92781312388294
   },
   {
     "date": "4-34-213",
     "season": "Summer",
     "tempRange": {
-      "low": 84.95915730337079,
-      "high": 102.6391573033708
+      "low": 85.1391573033708,
+      "high": 102.45915730337079
     },
-    "precipitation": false,
-    "wind": 69.72241627873998
+    "precipitation": true,
+    "wind": 78.50380524185874
   },
   {
     "date": "4-35-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.49466292134831,
-      "high": 101.79466292134832
+      "low": 87.52466292134831,
+      "high": 99.76466292134832
     },
     "precipitation": true,
-    "wind": 77.5300912310507
+    "wind": 68.02253765851276
   },
   {
     "date": "4-36-213",
     "season": "Summer",
     "tempRange": {
-      "low": 87.68016853932583,
-      "high": 99.30016853932584
+      "low": 91.51016853932583,
+      "high": 95.47016853932584
     },
-    "precipitation": true,
-    "wind": 37.20187961752371
+    "precipitation": false,
+    "wind": 42.664787550609844
   },
   {
     "date": "4-37-213",
     "season": "Summer",
     "tempRange": {
-      "low": 87.91567415730337,
-      "high": 98.75567415730337
+      "low": 91.86567415730337,
+      "high": 94.80567415730337
     },
-    "precipitation": false,
-    "wind": 33.65356236770344
+    "precipitation": true,
+    "wind": 44.79380752252945
   },
   {
     "date": "4-38-213",
     "season": "Summer",
     "tempRange": {
-      "low": 93.00117977528089,
-      "high": 93.3611797752809
+      "low": 85.8711797752809,
+      "high": 100.4911797752809
     },
-    "precipitation": false,
-    "wind": 75.80961663867194
+    "precipitation": true,
+    "wind": 55.75848731347801
   },
   {
     "date": "4-39-213",
     "season": "Summer",
     "tempRange": {
-      "low": 91.43668539325843,
-      "high": 94.61668539325844
+      "low": 84.31668539325844,
+      "high": 101.73668539325843
     },
-    "precipitation": true,
-    "wind": 76.90442215444207
+    "precipitation": false,
+    "wind": 69.16626280383012
   },
   {
     "date": "4-40-213",
     "season": "Summer",
     "tempRange": {
-      "low": 92.86219101123595,
-      "high": 92.88219101123596
+      "low": 89.78219101123595,
+      "high": 95.96219101123596
     },
     "precipitation": false,
-    "wind": 78.3364002410392
+    "wind": 41.90496145949888
   },
   {
     "date": "5-1-213",
     "season": "Summer",
     "tempRange": {
-      "low": 90.04769662921348,
-      "high": 95.38769662921348
+      "low": 84.84769662921347,
+      "high": 100.58769662921348
     },
     "precipitation": true,
-    "wind": 44.747120057067576
+    "wind": 65.212504290743
   },
   {
     "date": "5-2-213",
     "season": "Summer",
     "tempRange": {
-      "low": 89.91320224719101,
-      "high": 95.21320224719102
+      "low": 85.81320224719101,
+      "high": 99.31320224719101
     },
     "precipitation": false,
-    "wind": 38.47521189819628
+    "wind": 48.72308954491878
   },
   {
     "date": "5-3-213",
     "season": "Summer",
     "tempRange": {
-      "low": 83.80870786516854,
-      "high": 101.00870786516853
+      "low": 84.29870786516854,
+      "high": 100.51870786516854
     },
-    "precipitation": false,
-    "wind": 70.33094965526664
+    "precipitation": true,
+    "wind": 76.10003890392805
   },
   {
     "date": "5-4-213",
     "season": "Summer",
     "tempRange": {
-      "low": 87.18421348314607,
-      "high": 97.32421348314608
+      "low": 83.71421348314607,
+      "high": 100.79421348314608
     },
-    "precipitation": false,
-    "wind": 40.152556329227934
+    "precipitation": true,
+    "wind": 51.640137646053546
   },
   {
     "date": "5-5-213",
     "season": "Summer",
     "tempRange": {
-      "low": 91.3997191011236,
-      "high": 92.7997191011236
+      "low": 88.22971910112359,
+      "high": 95.9697191011236
     },
-    "precipitation": false,
-    "wind": 43.478628882132014
+    "precipitation": true,
+    "wind": 74.87764551180973
   },
   {
     "date": "5-6-213",
     "season": "Summer",
     "tempRange": {
-      "low": 91.89522471910112,
-      "high": 91.99522471910112
+      "low": 83.26522471910113,
+      "high": 100.62522471910111
     },
     "precipitation": false,
-    "wind": 72.58241157290571
+    "wind": 62.978669969650674
   },
   {
     "date": "5-7-213",
     "season": "Summer",
     "tempRange": {
-      "low": 85.84073033707865,
-      "high": 97.74073033707866
+      "low": 85.42073033707865,
+      "high": 98.16073033707866
     },
     "precipitation": true,
-    "wind": 65.30594344666636
+    "wind": 40.24836674805859
   },
   {
     "date": "5-8-213",
     "season": "Summer",
     "tempRange": {
-      "low": 87.97623595505618,
-      "high": 95.29623595505618
+      "low": 85.63623595505618,
+      "high": 97.63623595505618
     },
-    "precipitation": true,
-    "wind": 43.67300888959936
+    "precipitation": false,
+    "wind": 51.70355517567809
   },
   {
     "date": "5-9-213",
     "season": "Summer",
     "tempRange": {
-      "low": 81.8317415730337,
-      "high": 101.13174157303371
+      "low": 89.91174157303371,
+      "high": 93.0517415730337
     },
-    "precipitation": false,
-    "wind": 53.24292194506403
+    "precipitation": true,
+    "wind": 79.29798063227014
   },
   {
     "date": "5-10-213",
     "season": "Summer",
     "tempRange": {
-      "low": 84.20724719101123,
-      "high": 98.44724719101124
+      "low": 90.38724719101124,
+      "high": 92.26724719101124
     },
     "precipitation": true,
-    "wind": 41.1245725174881
+    "wind": 49.153513611729494
   },
   {
     "date": "5-11-213",
     "season": "Summer",
     "tempRange": {
-      "low": 84.03095505617978,
-      "high": 98.19095505617977
+      "low": 83.44095505617977,
+      "high": 98.78095505617978
     },
     "precipitation": false,
-    "wind": 59.93320629124578
+    "wind": 72.65007871254245
   },
   {
     "date": "5-12-213",
     "season": "Summer",
     "tempRange": {
-      "low": 81.42286516853933,
-      "high": 100.24286516853932
+      "low": 86.61286516853933,
+      "high": 95.05286516853933
     },
     "precipitation": true,
-    "wind": 59.799307990915395
+    "wind": 75.82986621020348
   },
   {
     "date": "5-13-213",
     "season": "Summer",
     "tempRange": {
-      "low": 89.70477528089889,
-      "high": 91.40477528089887
+      "low": 82.38477528089888,
+      "high": 98.72477528089888
     },
-    "precipitation": false,
-    "wind": 59.657560114799054
+    "precipitation": true,
+    "wind": 47.72609214121701
   },
   {
     "date": "5-14-213",
     "season": "Summer",
     "tempRange": {
-      "low": 81.47668539325844,
-      "high": 99.07668539325843
+      "low": 89.29668539325843,
+      "high": 91.25668539325844
     },
     "precipitation": true,
-    "wind": 41.48507684764279
+    "wind": 49.50475768093024
   },
   {
     "date": "5-15-213",
     "season": "Summer",
     "tempRange": {
-      "low": 86.33859550561797,
-      "high": 93.65859550561797
+      "low": 85.90859550561797,
+      "high": 94.08859550561797
     },
-    "precipitation": true,
-    "wind": 40.60427656329179
+    "precipitation": false,
+    "wind": 64.17924904240931
   },
   {
     "date": "5-16-213",
     "season": "Summer",
     "tempRange": {
-      "low": 88.09050561797753,
-      "high": 91.35050561797752
+      "low": 84.26050561797753,
+      "high": 95.18050561797752
     },
-    "precipitation": true,
-    "wind": 56.70476890825192
+    "precipitation": false,
+    "wind": 52.09660641949955
   },
   {
     "date": "5-17-213",
     "season": "Summer",
     "tempRange": {
-      "low": 84.35241573033707,
-      "high": 94.53241573033708
+      "low": 85.34241573033708,
+      "high": 93.54241573033707
     },
     "precipitation": false,
-    "wind": 35.737015098652265
+    "wind": 31.459691350462357
   },
   {
     "date": "5-18-213",
     "season": "Summer",
     "tempRange": {
-      "low": 88.78432584269663,
-      "high": 89.54432584269662
+      "low": 81.63432584269663,
+      "high": 96.69432584269663
     },
-    "precipitation": true,
-    "wind": 34.059518555344454
+    "precipitation": false,
+    "wind": 57.89810176359897
   },
   {
     "date": "5-19-213",
     "season": "Summer",
     "tempRange": {
-      "low": 84.10623595505618,
-      "high": 93.66623595505618
+      "low": 80.48623595505617,
+      "high": 97.28623595505618
     },
     "precipitation": false,
-    "wind": 30.76550579698411
+    "wind": 67.0425261895034
   },
   {
     "date": "5-20-213",
     "season": "Summer",
     "tempRange": {
-      "low": 87.47814606741574,
-      "high": 89.73814606741573
+      "low": 80.17814606741572,
+      "high": 97.03814606741574
     },
-    "precipitation": true,
-    "wind": 54.95463192201641
+    "precipitation": false,
+    "wind": 64.59990545038389
   },
   {
     "date": "5-21-213",
     "season": "Summer",
     "tempRange": {
-      "low": 82.60005617977528,
-      "high": 94.06005617977529
+      "low": 86.84005617977529,
+      "high": 89.82005617977528
     },
-    "precipitation": false,
-    "wind": 54.3827473089769
+    "precipitation": true,
+    "wind": 62.81953204908361
   },
   {
     "date": "5-22-213",
     "season": "Summer",
     "tempRange": {
-      "low": 87.25196629213484,
-      "high": 88.85196629213483
+      "low": 79.79196629213483,
+      "high": 96.31196629213484
     },
-    "precipitation": true,
-    "wind": 57.943151396665584
+    "precipitation": false,
+    "wind": 64.1772434817124
   },
   {
     "date": "5-23-213",
     "season": "Summer",
     "tempRange": {
-      "low": 84.15387640449438,
-      "high": 91.39387640449439
+      "low": 79.05387640449439,
+      "high": 96.49387640449439
     },
-    "precipitation": false,
-    "wind": 57.186133565047854
+    "precipitation": true,
+    "wind": 36.43351467770443
   },
   {
     "date": "5-24-213",
     "season": "Summer",
     "tempRange": {
-      "low": 80.69578651685393,
-      "high": 94.29578651685392
+      "low": 80.46578651685392,
+      "high": 94.52578651685393
     },
-    "precipitation": true,
-    "wind": 33.6632060251369
+    "precipitation": false,
+    "wind": 44.57320733888591
   },
   {
     "date": "5-25-213",
     "season": "Summer",
     "tempRange": {
-      "low": 86.62769662921347,
-      "high": 87.80769662921348
+      "low": 82.22769662921348,
+      "high": 92.20769662921347
     },
-    "precipitation": true,
-    "wind": 36.15354297373055
+    "precipitation": false,
+    "wind": 73.34434152983206
   },
   {
     "date": "5-26-213",
     "season": "Summer",
     "tempRange": {
-      "low": 80.64960674157302,
-      "high": 93.22960674157304
+      "low": 78.86960674157302,
+      "high": 95.00960674157304
     },
     "precipitation": true,
-    "wind": 34.49872947597338
+    "wind": 71.09615826209046
   },
   {
     "date": "5-27-213",
     "season": "Summer",
     "tempRange": {
-      "low": 83.45151685393259,
-      "high": 89.87151685393258
+      "low": 86.20151685393259,
+      "high": 87.12151685393258
     },
-    "precipitation": false,
-    "wind": 40.23946999608874
+    "precipitation": true,
+    "wind": 46.15268805462229
   },
   {
     "date": "5-28-213",
     "season": "Summer",
     "tempRange": {
-      "low": 78.25342696629214,
-      "high": 94.51342696629213
+      "low": 78.21342696629213,
+      "high": 94.55342696629214
     },
     "precipitation": true,
-    "wind": 43.715354246406505
+    "wind": 36.13445392850209
   },
   {
     "date": "5-29-213",
     "season": "Summer",
     "tempRange": {
-      "low": 76.88533707865169,
-      "high": 95.32533707865169
+      "low": 84.07533707865169,
+      "high": 88.13533707865169
     },
     "precipitation": true,
-    "wind": 67.13830270354069
+    "wind": 56.03984530941141
   },
   {
     "date": "5-30-213",
     "season": "Summer",
     "tempRange": {
-      "low": 78.86724719101124,
-      "high": 92.78724719101123
+      "low": 83.02724719101124,
+      "high": 88.62724719101124
     },
-    "precipitation": false,
-    "wind": 52.841958602866484
+    "precipitation": true,
+    "wind": 32.51981828166171
   },
   {
     "date": "5-31-213",
     "season": "Summer",
     "tempRange": {
-      "low": 79.17915730337079,
-      "high": 91.9191573033708
+      "low": 77.93915730337079,
+      "high": 93.15915730337079
     },
-    "precipitation": false,
-    "wind": 47.17307002005069
+    "precipitation": true,
+    "wind": 50.991728562717995
   },
   {
     "date": "5-32-213",
     "season": "Summer",
     "tempRange": {
-      "low": 84.80106741573033,
-      "high": 85.74106741573033
+      "low": 85.13106741573033,
+      "high": 85.41106741573033
     },
     "precipitation": false,
-    "wind": 73.55235922954455
+    "wind": 63.91924395450977
   },
   {
     "date": "5-33-213",
     "season": "Summer",
     "tempRange": {
-      "low": 83.87297752808989,
-      "high": 86.1129775280899
+      "low": 78.5729775280899,
+      "high": 91.4129775280899
     },
-    "precipitation": false,
-    "wind": 62.81652399836423
+    "precipitation": true,
+    "wind": 42.02459104803192
   },
   {
     "date": "5-34-213",
     "season": "Summer",
     "tempRange": {
-      "low": 81.41488764044944,
-      "high": 88.01488764044943
+      "low": 84.54488764044943,
+      "high": 84.88488764044943
     },
     "precipitation": false,
-    "wind": 51.158090855457516
+    "wind": 43.175969247145524
   },
   {
     "date": "5-35-213",
     "season": "Summer",
     "tempRange": {
-      "low": 75.91679775280899,
-      "high": 92.95679775280898
+      "low": 75.70679775280898,
+      "high": 93.16679775280899
     },
-    "precipitation": true,
-    "wind": 38.81072796464664
+    "precipitation": false,
+    "wind": 44.60499442669425
   },
   {
     "date": "5-36-213",
     "season": "Summer",
     "tempRange": {
-      "low": 82.88870786516854,
-      "high": 85.42870786516853
+      "low": 77.61870786516853,
+      "high": 90.69870786516854
     },
     "precipitation": false,
-    "wind": 51.367296708653285
+    "wind": 70.59392516548633
   },
   {
     "date": "5-37-213",
     "season": "Summer",
     "tempRange": {
-      "low": 74.55061797752809,
-      "high": 93.21061797752809
+      "low": 74.5306179775281,
+      "high": 93.23061797752808
     },
-    "precipitation": true,
-    "wind": 68.42369361255636
+    "precipitation": false,
+    "wind": 32.45509863726087
   },
   {
     "date": "5-38-213",
     "season": "Summer",
     "tempRange": {
-      "low": 73.95252808988764,
-      "high": 93.25252808988765
+      "low": 73.69252808988765,
+      "high": 93.51252808988764
     },
     "precipitation": false,
-    "wind": 47.75943928707689
+    "wind": 69.5920089111733
   },
   {
     "date": "5-39-213",
     "season": "Summer",
     "tempRange": {
-      "low": 82.56443820224719,
-      "high": 84.0844382022472
+      "low": 77.89443820224719,
+      "high": 88.7544382022472
     },
-    "precipitation": true,
-    "wind": 56.57366754101585
+    "precipitation": false,
+    "wind": 74.35228645535699
   },
   {
     "date": "5-40-213",
     "season": "Summer",
     "tempRange": {
-      "low": 82.84634831460674,
-      "high": 83.24634831460675
+      "low": 76.80634831460675,
+      "high": 89.28634831460674
     },
     "precipitation": false,
-    "wind": 43.71788348079518
+    "wind": 61.44304959521217
   },
   {
     "date": "6-1-213",
     "season": "Summer",
     "tempRange": {
-      "low": 82.5082584269663,
-      "high": 83.0282584269663
+      "low": 76.8982584269663,
+      "high": 88.6382584269663
     },
-    "precipitation": false,
-    "wind": 51.23826000805788
+    "precipitation": true,
+    "wind": 78.91824925022986
   },
   {
     "date": "6-2-213",
     "season": "Summer",
     "tempRange": {
-      "low": 75.70016853932584,
-      "high": 89.28016853932586
+      "low": 74.10016853932585,
+      "high": 90.88016853932585
     },
-    "precipitation": true,
-    "wind": 68.47702030628656
+    "precipitation": false,
+    "wind": 44.82196634431894
   },
   {
     "date": "6-3-213",
     "season": "Summer",
     "tempRange": {
-      "low": 75.5320786516854,
-      "high": 88.89207865168538
+      "low": 81.35207865168539,
+      "high": 83.07207865168539
     },
     "precipitation": true,
-    "wind": 36.66695569594046
+    "wind": 45.28956325225954
   },
   {
     "date": "6-4-213",
     "season": "Summer",
     "tempRange": {
-      "low": 72.00398876404495,
-      "high": 91.86398876404493
+      "low": 76.55398876404495,
+      "high": 87.31398876404494
     },
-    "precipitation": true,
-    "wind": 60.57958761071868
+    "precipitation": false,
+    "wind": 52.71942602925551
   },
   {
     "date": "6-5-213",
     "season": "Summer",
     "tempRange": {
-      "low": 76.4758988764045,
-      "high": 86.83589887640449
+      "low": 75.62589887640449,
+      "high": 87.6858988764045
     },
-    "precipitation": true,
-    "wind": 30.569817840392027
+    "precipitation": false,
+    "wind": 63.85790976922273
   },
   {
     "date": "6-6-213",
     "season": "Summer",
     "tempRange": {
-      "low": 79.77780898876405,
-      "high": 82.97780898876404
+      "low": 71.72780898876404,
+      "high": 91.02780898876405
     },
     "precipitation": false,
-    "wind": 39.416782035825236
+    "wind": 62.455454847580626
   },
   {
     "date": "6-7-213",
     "season": "Summer",
     "tempRange": {
-      "low": 72.9297191011236,
-      "high": 89.2697191011236
+      "low": 72.1397191011236,
+      "high": 90.05971910112359
     },
     "precipitation": false,
-    "wind": 33.09642202732449
+    "wind": 79.2028088223567
   },
   {
     "date": "6-8-213",
     "season": "Summer",
     "tempRange": {
-      "low": 74.20162921348314,
-      "high": 87.44162921348315
+      "low": 72.35162921348315,
+      "high": 89.29162921348315
     },
-    "precipitation": false,
-    "wind": 79.5645379206515
+    "precipitation": true,
+    "wind": 67.5699762874868
   },
   {
     "date": "6-9-213",
     "season": "Summer",
     "tempRange": {
-      "low": 71.4935393258427,
-      "high": 89.5935393258427
+      "low": 72.1435393258427,
+      "high": 88.9435393258427
     },
-    "precipitation": true,
-    "wind": 49.12148448888856
+    "precipitation": false,
+    "wind": 62.708912537691944
   },
   {
     "date": "6-10-213",
     "season": "Summer",
     "tempRange": {
-      "low": 79.25544943820225,
-      "high": 81.27544943820226
+      "low": 77.57544943820226,
+      "high": 82.95544943820225
     },
-    "precipitation": false,
-    "wind": 69.08542563098264
+    "precipitation": true,
+    "wind": 34.90411807950467
   },
   {
     "date": "6-11-213",
     "season": "Summer",
     "tempRange": {
-      "low": 78.3273595505618,
-      "high": 81.64735955056179
+      "low": 79.64735955056179,
+      "high": 80.3273595505618
     },
-    "precipitation": false,
-    "wind": 33.89760073083736
+    "precipitation": true,
+    "wind": 65.04827962263279
   },
   {
     "date": "6-12-213",
     "season": "Summer",
     "tempRange": {
-      "low": 71.96926966292135,
-      "high": 87.44926966292134
+      "low": 78.44926966292134,
+      "high": 80.96926966292135
     },
-    "precipitation": false,
-    "wind": 62.33326572358089
+    "precipitation": true,
+    "wind": 31.579573866220706
   },
   {
     "date": "6-13-213",
     "season": "Summer",
     "tempRange": {
-      "low": 69.56117977528089,
-      "high": 89.3011797752809
+      "low": 78.5411797752809,
+      "high": 80.3211797752809
     },
-    "precipitation": true,
-    "wind": 68.54455022731676
+    "precipitation": false,
+    "wind": 59.804761995605865
   },
   {
     "date": "6-14-213",
     "season": "Summer",
     "tempRange": {
-      "low": 74.04308988764045,
-      "high": 84.26308988764045
+      "low": 74.35308988764045,
+      "high": 83.95308988764044
     },
-    "precipitation": false,
-    "wind": 67.635628125028
+    "precipitation": true,
+    "wind": 49.30787647728669
   },
   {
     "date": "6-15-213",
     "season": "Summer",
     "tempRange": {
-      "low": 73.755,
-      "high": 83.995
+      "low": 75.395,
+      "high": 82.355
     },
-    "precipitation": true,
-    "wind": 75.49183993773086
+    "precipitation": false,
+    "wind": 52.683368717370925
   },
   {
     "date": "6-16-213",
     "season": "Fall",
     "tempRange": {
-      "low": 44.335,
-      "high": 63.915
+      "low": 51.195,
+      "high": 57.055
     },
-    "precipitation": true,
-    "wind": 75.02936185051257
+    "precipitation": false,
+    "wind": 30.75715145078057
   },
   {
     "date": "6-17-213",
     "season": "Fall",
     "tempRange": {
-      "low": 54.29308988764045,
-      "high": 54.51308988764045
+      "low": 52.62308988764045,
+      "high": 56.18308988764045
     },
     "precipitation": false,
-    "wind": 76.71247782928921
+    "wind": 39.70429658086248
   },
   {
     "date": "6-18-213",
     "season": "Fall",
     "tempRange": {
-      "low": 48.571179775280896,
-      "high": 60.791179775280895
+      "low": 47.511179775280894,
+      "high": 61.8511797752809
     },
     "precipitation": false,
-    "wind": 62.850508946291825
+    "wind": 52.157124768961644
   },
   {
     "date": "6-19-213",
     "season": "Fall",
     "tempRange": {
-      "low": 50.57926966292134,
-      "high": 59.339269662921346
+      "low": 45.99926966292134,
+      "high": 63.919269662921344
     },
-    "precipitation": true,
-    "wind": 40.134983337611644
+    "precipitation": false,
+    "wind": 34.45259968533461
   },
   {
     "date": "6-20-213",
     "season": "Fall",
     "tempRange": {
-      "low": 45.9473595505618,
-      "high": 64.5273595505618
+      "low": 45.3473595505618,
+      "high": 65.1273595505618
     },
-    "precipitation": false,
-    "wind": 63.50078911799689
+    "precipitation": true,
+    "wind": 40.3069696923918
   },
   {
     "date": "6-21-213",
     "season": "Fall",
     "tempRange": {
-      "low": 47.35544943820224,
-      "high": 63.67544943820225
+      "low": 51.24544943820224,
+      "high": 59.78544943820225
     },
-    "precipitation": true,
-    "wind": 40.63991570905568
+    "precipitation": false,
+    "wind": 42.51991597530472
   },
   {
     "date": "6-22-213",
     "season": "Fall",
     "tempRange": {
-      "low": 48.52353932584269,
-      "high": 63.0635393258427
+      "low": 52.1735393258427,
+      "high": 59.41353932584269
     },
     "precipitation": true,
-    "wind": 39.51127546848094
+    "wind": 53.32566641609053
   },
   {
     "date": "6-23-213",
     "season": "Fall",
     "tempRange": {
-      "low": 55.231629213483146,
-      "high": 56.91162921348315
+      "low": 48.50162921348315,
+      "high": 63.64162921348315
     },
-    "precipitation": false,
-    "wind": 53.595899161879764
+    "precipitation": true,
+    "wind": 37.765209669709215
   },
   {
     "date": "6-24-213",
     "season": "Fall",
     "tempRange": {
-      "low": 50.61971910112359,
-      "high": 62.0797191011236
+      "low": 55.109719101123595,
+      "high": 57.5897191011236
     },
     "precipitation": false,
-    "wind": 50.33034901318743
+    "wind": 78.07671487411109
   },
   {
     "date": "6-25-213",
     "season": "Fall",
     "tempRange": {
-      "low": 51.36780898876405,
-      "high": 61.88780898876404
+      "low": 47.82780898876405,
+      "high": 65.42780898876404
     },
-    "precipitation": false,
-    "wind": 35.99523845435353
+    "precipitation": true,
+    "wind": 58.18722979679478
   },
   {
     "date": "6-26-213",
     "season": "Fall",
     "tempRange": {
-      "low": 51.95589887640449,
-      "high": 61.855898876404495
+      "low": 55.05589887640449,
+      "high": 58.755898876404494
     },
-    "precipitation": false,
-    "wind": 71.82478230595724
+    "precipitation": true,
+    "wind": 56.599875675198305
   },
   {
     "date": "6-27-213",
     "season": "Fall",
     "tempRange": {
-      "low": 53.81398876404494,
-      "high": 60.55398876404494
+      "low": 54.24398876404494,
+      "high": 60.12398876404494
     },
-    "precipitation": true,
-    "wind": 69.26684093674132
+    "precipitation": false,
+    "wind": 66.01026666990629
   },
   {
     "date": "6-28-213",
     "season": "Fall",
     "tempRange": {
-      "low": 52.3420786516854,
-      "high": 62.58207865168539
+      "low": 52.112078651685394,
+      "high": 62.8120786516854
     },
-    "precipitation": true,
-    "wind": 35.540411834681926
+    "precipitation": false,
+    "wind": 55.980776029691526
   },
   {
     "date": "6-29-213",
     "season": "Fall",
     "tempRange": {
-      "low": 48.06016853932584,
-      "high": 67.42016853932584
+      "low": 55.07016853932584,
+      "high": 60.410168539325845
     },
     "precipitation": false,
-    "wind": 64.6964526281327
+    "wind": 70.35411137804223
   },
   {
     "date": "6-30-213",
     "season": "Fall",
     "tempRange": {
-      "low": 48.038258426966294,
-      "high": 67.99825842696629
+      "low": 51.37825842696629,
+      "high": 64.65825842696628
     },
     "precipitation": false,
-    "wind": 34.31236393136045
+    "wind": 30.016288535910704
   },
   {
     "date": "6-31-213",
     "season": "Fall",
     "tempRange": {
-      "low": 54.45634831460674,
-      "high": 62.136348314606735
+      "low": 49.01634831460674,
+      "high": 67.57634831460673
     },
-    "precipitation": false,
-    "wind": 52.93077569301832
+    "precipitation": true,
+    "wind": 79.93404298403127
   },
   {
     "date": "6-32-213",
     "season": "Fall",
     "tempRange": {
-      "low": 53.48443820224719,
-      "high": 63.6644382022472
+      "low": 51.54443820224719,
+      "high": 65.6044382022472
     },
-    "precipitation": false,
-    "wind": 52.76435655549588
+    "precipitation": true,
+    "wind": 32.91441389897204
   },
   {
     "date": "6-33-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.232528089887644,
-      "high": 59.47252808988764
+      "low": 52.162528089887644,
+      "high": 65.54252808988764
     },
     "precipitation": true,
-    "wind": 70.5385598959291
+    "wind": 54.11854182249429
   },
   {
     "date": "6-34-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.76061797752809,
-      "high": 61.50061797752809
+      "low": 50.01061797752809,
+      "high": 68.2506179775281
     },
     "precipitation": false,
-    "wind": 53.42563846443973
+    "wind": 39.55228263492404
   },
   {
     "date": "6-35-213",
     "season": "Fall",
     "tempRange": {
-      "low": 53.04870786516854,
-      "high": 65.76870786516854
+      "low": 51.208707865168535,
+      "high": 67.60870786516854
     },
     "precipitation": false,
-    "wind": 36.079896422985634
+    "wind": 57.089039388517136
   },
   {
     "date": "6-36-213",
     "season": "Fall",
     "tempRange": {
-      "low": 50.10679775280899,
-      "high": 69.26679775280898
+      "low": 51.656797752808984,
+      "high": 67.71679775280899
     },
-    "precipitation": true,
-    "wind": 30.029144958277193
+    "precipitation": false,
+    "wind": 78.88525158176714
   },
   {
     "date": "6-37-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.11488764044944,
-      "high": 63.81488764044944
+      "low": 57.00488764044944,
+      "high": 62.92488764044944
     },
-    "precipitation": false,
-    "wind": 59.625250401339045
+    "precipitation": true,
+    "wind": 37.96424868034302
   },
   {
     "date": "6-38-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.23297752808989,
-      "high": 64.25297752808989
+      "low": 56.45297752808989,
+      "high": 64.03297752808989
     },
-    "precipitation": false,
-    "wind": 75.02227586155847
+    "precipitation": true,
+    "wind": 64.4464988440204
   },
   {
     "date": "6-39-213",
     "season": "Fall",
     "tempRange": {
-      "low": 53.90106741573034,
-      "high": 67.14106741573033
+      "low": 52.33106741573034,
+      "high": 68.71106741573034
     },
-    "precipitation": true,
-    "wind": 37.91419039376826
+    "precipitation": false,
+    "wind": 59.98577733328823
   },
   {
     "date": "6-40-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.34915730337078,
-      "high": 65.24915730337078
+      "low": 50.899157303370785,
+      "high": 70.69915730337078
     },
     "precipitation": true,
-    "wind": 75.94506003279524
+    "wind": 69.92301935744392
   },
   {
     "date": "7-1-213",
     "season": "Fall",
     "tempRange": {
-      "low": 52.017247191011236,
-      "high": 70.13724719101124
+      "low": 59.88724719101124,
+      "high": 62.267247191011236
     },
-    "precipitation": false,
-    "wind": 37.64098866793533
+    "precipitation": true,
+    "wind": 43.537511030125295
   },
   {
     "date": "7-2-213",
     "season": "Fall",
     "tempRange": {
-      "low": 57.755337078651685,
-      "high": 64.95533707865168
+      "low": 56.55533707865169,
+      "high": 66.15533707865168
     },
-    "precipitation": true,
-    "wind": 65.47705882868894
+    "precipitation": false,
+    "wind": 51.64472844146586
   },
   {
     "date": "7-3-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.273426966292135,
-      "high": 66.99342696629213
+      "low": 55.07342696629213,
+      "high": 68.19342696629214
     },
     "precipitation": false,
-    "wind": 72.1031493819642
+    "wind": 59.28290076451806
   },
   {
     "date": "7-4-213",
     "season": "Fall",
     "tempRange": {
-      "low": 61.081516853932584,
-      "high": 62.74151685393258
+      "low": 59.13151685393258,
+      "high": 64.69151685393258
     },
-    "precipitation": false,
-    "wind": 77.40847455096828
+    "precipitation": true,
+    "wind": 64.1859446654887
   },
   {
     "date": "7-5-213",
     "season": "Fall",
     "tempRange": {
-      "low": 61.57960674157304,
-      "high": 62.79960674157304
+      "low": 59.129606741573035,
+      "high": 65.24960674157303
     },
-    "precipitation": false,
-    "wind": 39.179292687929994
+    "precipitation": true,
+    "wind": 62.47950160488722
   },
   {
     "date": "7-6-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.257696629213484,
-      "high": 66.67769662921349
+      "low": 57.37769662921349,
+      "high": 67.55769662921348
     },
     "precipitation": true,
-    "wind": 47.780871232074006
+    "wind": 72.67094297295515
   },
   {
     "date": "7-7-213",
     "season": "Fall",
     "tempRange": {
-      "low": 54.89578651685393,
-      "high": 70.59578651685393
+      "low": 57.58578651685393,
+      "high": 67.90578651685394
     },
-    "precipitation": true,
-    "wind": 38.096681084108006
+    "precipitation": false,
+    "wind": 53.524619500587384
   },
   {
     "date": "7-8-213",
     "season": "Fall",
     "tempRange": {
-      "low": 59.13387640449438,
-      "high": 66.91387640449437
+      "low": 60.63387640449438,
+      "high": 65.41387640449437
     },
-    "precipitation": false,
-    "wind": 39.2220187051673
+    "precipitation": true,
+    "wind": 55.92838405161516
   },
   {
     "date": "7-9-213",
     "season": "Fall",
     "tempRange": {
-      "low": 57.091966292134835,
-      "high": 69.51196629213483
+      "low": 56.121966292134836,
+      "high": 70.48196629213484
     },
     "precipitation": true,
-    "wind": 70.98317054105138
+    "wind": 44.01263260068766
   },
   {
     "date": "7-10-213",
     "season": "Fall",
     "tempRange": {
-      "low": 55.13005617977528,
-      "high": 72.03005617977529
+      "low": 53.62005617977528,
+      "high": 73.54005617977529
     },
     "precipitation": false,
-    "wind": 61.576245421969986
+    "wind": 69.28550864798916
   },
   {
     "date": "7-11-213",
     "season": "Fall",
     "tempRange": {
-      "low": 55.168146067415734,
-      "high": 72.54814606741573
+      "low": 58.53814606741573,
+      "high": 69.17814606741572
     },
-    "precipitation": false,
-    "wind": 68.57430123612694
+    "precipitation": true,
+    "wind": 63.81264295978688
   },
   {
     "date": "7-12-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.80623595505618,
-      "high": 69.46623595505618
+      "low": 58.046235955056176,
+      "high": 70.22623595505618
     },
     "precipitation": true,
-    "wind": 50.51779531562996
+    "wind": 34.307667154348714
   },
   {
     "date": "7-13-213",
     "season": "Fall",
     "tempRange": {
-      "low": 55.86432584269663,
-      "high": 72.96432584269662
+      "low": 57.634325842696626,
+      "high": 71.19432584269663
     },
-    "precipitation": false,
-    "wind": 76.76011005502284
+    "precipitation": true,
+    "wind": 67.36108110986018
   },
   {
     "date": "7-14-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.38241573033707,
-      "high": 73.00241573033708
+      "low": 61.28241573033708,
+      "high": 68.10241573033707
     },
-    "precipitation": true,
-    "wind": 71.1217525396722
+    "precipitation": false,
+    "wind": 30.97257461310981
   },
   {
     "date": "7-15-213",
     "season": "Fall",
     "tempRange": {
-      "low": 64.71050561797752,
-      "high": 65.23050561797753
+      "low": 57.83050561797752,
+      "high": 72.11050561797752
     },
-    "precipitation": true,
-    "wind": 46.14030129005335
+    "precipitation": false,
+    "wind": 44.65582481411056
   },
   {
     "date": "7-16-213",
     "season": "Fall",
     "tempRange": {
-      "low": 63.93859550561797,
-      "high": 66.55859550561797
+      "low": 63.36859550561797,
+      "high": 67.12859550561797
     },
-    "precipitation": true,
-    "wind": 64.56653242508524
+    "precipitation": false,
+    "wind": 40.01587325376039
   },
   {
     "date": "7-17-213",
     "season": "Fall",
     "tempRange": {
-      "low": 64.79668539325843,
-      "high": 66.25668539325844
+      "low": 64.69668539325843,
+      "high": 66.35668539325843
     },
-    "precipitation": false,
-    "wind": 46.41338611135373
+    "precipitation": true,
+    "wind": 46.52928811170784
   },
   {
     "date": "7-18-213",
     "season": "Fall",
     "tempRange": {
-      "low": 55.87477528089888,
-      "high": 75.73477528089887
+      "low": 58.99477528089888,
+      "high": 72.61477528089888
     },
-    "precipitation": false,
-    "wind": 76.3756321873112
+    "precipitation": true,
+    "wind": 79.8986797006367
   },
   {
     "date": "7-19-213",
     "season": "Fall",
     "tempRange": {
-      "low": 64.06286516853933,
-      "high": 68.10286516853932
+      "low": 56.42286516853933,
+      "high": 75.74286516853932
     },
     "precipitation": false,
-    "wind": 56.6066064897597
+    "wind": 43.133826377146505
   },
   {
     "date": "7-20-213",
     "season": "Fall",
     "tempRange": {
-      "low": 62.430955056179776,
-      "high": 70.29095505617978
+      "low": 61.110955056179776,
+      "high": 71.61095505617978
     },
     "precipitation": true,
-    "wind": 54.92507905970961
+    "wind": 77.44651589741633
   },
   {
     "date": "7-21-213",
     "season": "Fall",
     "tempRange": {
-      "low": 64.2891011235955,
-      "high": 68.64910112359551
+      "low": 66.02910112359551,
+      "high": 66.9091011235955
     },
-    "precipitation": false,
-    "wind": 79.06245552143358
+    "precipitation": true,
+    "wind": 71.7467927475125
   },
   {
     "date": "7-22-213",
     "season": "Fall",
     "tempRange": {
-      "low": 63.75730337078652,
-      "high": 69.05730337078653
+      "low": 61.20730337078652,
+      "high": 71.60730337078652
     },
     "precipitation": false,
-    "wind": 71.01200167727427
+    "wind": 58.104478085530516
   },
   {
     "date": "7-23-213",
     "season": "Fall",
     "tempRange": {
-      "low": 59.835505617977525,
-      "high": 72.85550561797753
+      "low": 59.435505617977526,
+      "high": 73.25550561797752
     },
-    "precipitation": true,
-    "wind": 69.645859187994
+    "precipitation": false,
+    "wind": 78.0574004667655
   },
   {
     "date": "7-24-213",
     "season": "Fall",
     "tempRange": {
-      "low": 65.58370786516853,
-      "high": 66.98370786516854
+      "low": 61.17370786516854,
+      "high": 71.39370786516854
     },
     "precipitation": false,
-    "wind": 39.61258960988008
+    "wind": 39.46930867766484
   },
   {
     "date": "7-25-213",
     "season": "Fall",
     "tempRange": {
-      "low": 65.82191011235955,
-      "high": 66.62191011235956
+      "low": 65.36191011235955,
+      "high": 67.08191011235955
     },
-    "precipitation": false,
-    "wind": 55.73595032809034
+    "precipitation": true,
+    "wind": 61.16614740484134
   },
   {
     "date": "7-26-213",
     "season": "Fall",
     "tempRange": {
-      "low": 65.88011235955057,
-      "high": 66.44011235955057
+      "low": 65.64011235955057,
+      "high": 66.68011235955056
     },
-    "precipitation": true,
-    "wind": 65.78295001971286
+    "precipitation": false,
+    "wind": 39.88644929859803
   },
   {
     "date": "7-27-213",
     "season": "Fall",
     "tempRange": {
-      "low": 62.91831460674157,
-      "high": 69.27831460674157
+      "low": 56.45831460674157,
+      "high": 75.73831460674157
     },
     "precipitation": true,
-    "wind": 45.14645327889544
+    "wind": 66.6015453989323
   },
   {
     "date": "7-28-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.78651685393258,
-      "high": 75.28651685393258
+      "low": 59.60651685393258,
+      "high": 72.46651685393257
     },
     "precipitation": false,
-    "wind": 52.88520297024243
+    "wind": 68.15234141763004
   },
   {
     "date": "7-29-213",
     "season": "Fall",
     "tempRange": {
-      "low": 57.514719101123596,
-      "high": 74.43471910112359
+      "low": 64.0347191011236,
+      "high": 67.9147191011236
     },
-    "precipitation": true,
-    "wind": 40.10291800204712
+    "precipitation": false,
+    "wind": 79.7869860406984
   },
   {
     "date": "7-30-213",
     "season": "Fall",
     "tempRange": {
-      "low": 63.222921348314614,
-      "high": 68.60292134831461
+      "low": 58.12292134831461,
+      "high": 73.70292134831462
     },
-    "precipitation": false,
-    "wind": 59.559304169019725
+    "precipitation": true,
+    "wind": 61.511861977182555
   },
   {
     "date": "7-31-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.72112359550561,
-      "high": 74.98112359550561
+      "low": 62.871123595505615,
+      "high": 68.83112359550562
     },
-    "precipitation": true,
-    "wind": 66.18438846995127
+    "precipitation": false,
+    "wind": 30.702771675532144
   },
   {
     "date": "7-32-213",
     "season": "Fall",
     "tempRange": {
-      "low": 60.63932584269663,
-      "high": 70.93932584269663
+      "low": 58.619325842696625,
+      "high": 72.95932584269663
     },
     "precipitation": false,
-    "wind": 42.80977751181236
+    "wind": 75.97818204736785
   },
   {
     "date": "7-33-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.99752808988764,
-      "high": 72.45752808988765
+      "low": 63.88752808988764,
+      "high": 67.56752808988765
     },
-    "precipitation": true,
-    "wind": 61.09675708909447
+    "precipitation": false,
+    "wind": 57.03428965077871
   },
   {
     "date": "7-34-213",
     "season": "Fall",
     "tempRange": {
-      "low": 60.705730337078656,
-      "high": 70.62573033707865
+      "low": 64.81573033707866,
+      "high": 66.51573033707865
     },
     "precipitation": true,
-    "wind": 47.79507398754687
+    "wind": 56.02774559070519
   },
   {
     "date": "7-35-213",
     "season": "Fall",
     "tempRange": {
-      "low": 60.33393258426966,
-      "high": 70.87393258426965
+      "low": 59.213932584269656,
+      "high": 71.99393258426966
     },
-    "precipitation": false,
-    "wind": 49.81141794567299
+    "precipitation": true,
+    "wind": 32.442297365970546
   },
   {
     "date": "7-36-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.41213483146067,
-      "high": 74.67213483146067
+      "low": 64.07213483146067,
+      "high": 67.01213483146067
     },
     "precipitation": true,
-    "wind": 55.49732505354877
+    "wind": 79.90126224047575
   },
   {
     "date": "7-37-213",
     "season": "Fall",
     "tempRange": {
-      "low": 57.560337078651685,
-      "high": 73.40033707865169
+      "low": 55.90033707865169,
+      "high": 75.06033707865168
     },
     "precipitation": true,
-    "wind": 49.947837630192964
+    "wind": 47.505824149034844
   },
   {
     "date": "7-38-213",
     "season": "Fall",
     "tempRange": {
-      "low": 63.7885393258427,
-      "high": 67.0485393258427
+      "low": 60.4885393258427,
+      "high": 70.3485393258427
     },
     "precipitation": false,
-    "wind": 71.94179330888541
+    "wind": 41.76487116722623
   },
   {
     "date": "7-39-213",
     "season": "Fall",
     "tempRange": {
-      "low": 59.5767415730337,
-      "high": 71.1367415730337
+      "low": 60.9367415730337,
+      "high": 69.7767415730337
     },
     "precipitation": false,
-    "wind": 72.14242999270853
+    "wind": 57.089782082930185
   },
   {
     "date": "7-40-213",
     "season": "Fall",
     "tempRange": {
-      "low": 59.874943820224715,
-      "high": 70.71494382022472
+      "low": 63.81494382022472,
+      "high": 66.77494382022472
     },
     "precipitation": false,
-    "wind": 39.953916568780485
+    "wind": 44.29300346602286
   },
   {
     "date": "8-1-213",
     "season": "Fall",
     "tempRange": {
-      "low": 64.98314606741573,
-      "high": 65.48314606741573
+      "low": 64.92314606741573,
+      "high": 65.54314606741573
     },
     "precipitation": false,
-    "wind": 37.94730605703842
+    "wind": 61.90669019075341
   },
   {
     "date": "8-2-213",
     "season": "Fall",
     "tempRange": {
-      "low": 59.26134831460675,
-      "high": 71.08134831460674
+      "low": 64.13134831460674,
+      "high": 66.21134831460675
     },
     "precipitation": false,
-    "wind": 48.574003834441356
+    "wind": 51.748235884232436
   },
   {
     "date": "8-3-213",
     "season": "Fall",
     "tempRange": {
-      "low": 64.73955056179774,
-      "high": 65.47955056179775
+      "low": 60.31955056179775,
+      "high": 69.89955056179775
     },
     "precipitation": false,
-    "wind": 39.26257106481224
+    "wind": 66.33928364306247
   },
   {
     "date": "8-4-213",
     "season": "Fall",
     "tempRange": {
-      "low": 55.93775280898876,
-      "high": 74.15775280898876
+      "low": 58.22775280898876,
+      "high": 71.86775280898877
     },
     "precipitation": false,
-    "wind": 78.90187897612637
+    "wind": 60.63804666386769
   },
   {
     "date": "8-5-213",
     "season": "Fall",
     "tempRange": {
-      "low": 64.12595505617978,
-      "high": 65.84595505617978
+      "low": 63.96595505617977,
+      "high": 66.00595505617977
     },
-    "precipitation": true,
-    "wind": 38.399541226734975
+    "precipitation": false,
+    "wind": 79.73874887304554
   },
   {
     "date": "8-6-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.20415730337079,
-      "high": 71.64415730337079
+      "low": 55.84415730337079,
+      "high": 74.00415730337079
     },
-    "precipitation": false,
-    "wind": 38.63387080761259
+    "precipitation": true,
+    "wind": 51.29962214494131
   },
   {
     "date": "8-7-213",
     "season": "Fall",
     "tempRange": {
-      "low": 62.382359550561794,
-      "high": 67.3423595505618
+      "low": 64.72235955056179,
+      "high": 65.00235955056179
     },
     "precipitation": false,
-    "wind": 78.58493993531076
+    "wind": 67.1907023102341
   },
   {
     "date": "8-8-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.03056179775281,
-      "high": 71.5705617977528
+      "low": 58.93056179775281,
+      "high": 70.67056179775281
     },
-    "precipitation": true,
-    "wind": 54.31591568489523
+    "precipitation": false,
+    "wind": 52.4643431441103
   },
   {
     "date": "8-9-213",
     "season": "Fall",
     "tempRange": {
-      "low": 61.55876404494382,
-      "high": 67.91876404494383
+      "low": 63.28876404494382,
+      "high": 66.18876404494382
     },
     "precipitation": false,
-    "wind": 46.03123234897288
+    "wind": 72.34475553697838
   },
   {
     "date": "8-10-213",
     "season": "Fall",
     "tempRange": {
-      "low": 62.87696629213484,
-      "high": 66.47696629213483
+      "low": 57.51696629213484,
+      "high": 71.83696629213483
     },
     "precipitation": true,
-    "wind": 44.85853467669668
+    "wind": 49.925576008949236
   },
   {
     "date": "8-11-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.015168539325835,
-      "high": 71.21516853932583
+      "low": 63.225168539325836,
+      "high": 66.00516853932584
     },
     "precipitation": true,
-    "wind": 34.04252932614679
+    "wind": 72.35717020369023
   },
   {
     "date": "8-12-213",
     "season": "Fall",
     "tempRange": {
-      "low": 61.62337078651685,
-      "high": 67.48337078651686
+      "low": 56.33337078651685,
+      "high": 72.77337078651685
     },
-    "precipitation": true,
-    "wind": 30.94103826882398
+    "precipitation": false,
+    "wind": 30.531264610880676
   },
   {
     "date": "8-13-213",
     "season": "Fall",
     "tempRange": {
-      "low": 57.571573033707864,
-      "high": 71.41157303370787
+      "low": 56.55157303370787,
+      "high": 72.43157303370786
     },
     "precipitation": false,
-    "wind": 55.533787819509136
+    "wind": 71.05582125222739
   },
   {
     "date": "8-14-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.659775280898884,
-      "high": 70.19977528089888
+      "low": 55.66977528089888,
+      "high": 73.18977528089889
     },
     "precipitation": false,
-    "wind": 62.57571338524343
+    "wind": 40.21506402817125
   },
   {
     "date": "8-15-213",
     "season": "Fall",
     "tempRange": {
-      "low": 63.91797752808988,
-      "high": 64.81797752808988
+      "low": 61.35797752808988,
+      "high": 67.37797752808989
     },
-    "precipitation": false,
-    "wind": 79.18893676261729
+    "precipitation": true,
+    "wind": 53.676175833546
   },
   {
     "date": "8-16-213",
     "season": "Fall",
     "tempRange": {
-      "low": 62.7961797752809,
-      "high": 65.8161797752809
+      "low": 63.236179775280895,
+      "high": 65.37617977528089
     },
-    "precipitation": true,
-    "wind": 31.86888608812198
+    "precipitation": false,
+    "wind": 72.59009540936775
   },
   {
     "date": "8-17-213",
     "season": "Fall",
     "tempRange": {
-      "low": 60.47438202247191,
-      "high": 68.0143820224719
+      "low": 63.764382022471914,
+      "high": 64.72438202247191
     },
-    "precipitation": false,
-    "wind": 77.54199328484086
+    "precipitation": true,
+    "wind": 74.52768995114965
   },
   {
     "date": "8-18-213",
     "season": "Fall",
     "tempRange": {
-      "low": 63.362584269662925,
-      "high": 65.00258426966292
+      "low": 60.362584269662925,
+      "high": 68.00258426966292
     },
     "precipitation": false,
-    "wind": 77.25914654248334
+    "wind": 44.90143106557572
   },
   {
     "date": "8-19-213",
     "season": "Fall",
     "tempRange": {
-      "low": 61.19078651685394,
-      "high": 67.05078651685395
+      "low": 59.70078651685394,
+      "high": 68.54078651685394
     },
-    "precipitation": true,
-    "wind": 72.5975948843491
+    "precipitation": false,
+    "wind": 45.150056279636104
   },
   {
     "date": "8-20-213",
     "season": "Fall",
     "tempRange": {
-      "low": 54.79898876404494,
-      "high": 73.31898876404495
+      "low": 59.02898876404494,
+      "high": 69.08898876404494
     },
     "precipitation": false,
-    "wind": 65.44934513846499
+    "wind": 57.46722459249679
   },
   {
     "date": "8-21-213",
     "season": "Fall",
     "tempRange": {
-      "low": 54.137191011235956,
-      "high": 73.85719101123595
+      "low": 56.467191011235954,
+      "high": 71.52719101123596
     },
-    "precipitation": true,
-    "wind": 45.83911761614722
+    "precipitation": false,
+    "wind": 74.94364143679482
   },
   {
     "date": "8-22-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.16539325842696,
-      "high": 71.70539325842697
+      "low": 56.18539325842696,
+      "high": 71.68539325842696
     },
-    "precipitation": false,
-    "wind": 68.9145178256037
+    "precipitation": true,
+    "wind": 60.13060829579586
   },
   {
     "date": "8-23-213",
     "season": "Fall",
     "tempRange": {
-      "low": 56.23359550561798,
-      "high": 71.51359550561797
+      "low": 57.97359550561798,
+      "high": 69.77359550561798
     },
-    "precipitation": false,
-    "wind": 56.32611762595886
+    "precipitation": true,
+    "wind": 79.19571426542953
   },
   {
     "date": "8-24-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.76179775280899,
-      "high": 68.86179775280898
+      "low": 60.40179775280899,
+      "high": 67.22179775280898
     },
-    "precipitation": false,
-    "wind": 73.20589030678295
+    "precipitation": true,
+    "wind": 52.62503568756695
   },
   {
     "date": "8-25-213",
     "season": "Fall",
     "tempRange": {
-      "low": 58.42,
-      "high": 69.08
+      "low": 62.13,
+      "high": 65.37
     },
     "precipitation": false,
-    "wind": 42.87434384197971
+    "wind": 67.81672315622326
   },
   {
     "date": "8-26-213",
     "season": "Winter",
     "tempRange": {
-      "low": 56.61,
-      "high": 59.89
+      "low": 56.04,
+      "high": 60.46
     },
     "precipitation": false,
-    "wind": 54.513722948670406
+    "wind": 64.95429825003315
   },
   {
     "date": "8-27-213",
     "season": "Winter",
     "tempRange": {
-      "low": 56.54970479704797,
-      "high": 59.90970479704797
+      "low": 57.91970479704797,
+      "high": 58.539704797047975
     },
     "precipitation": false,
-    "wind": 78.18521965315908
+    "wind": 74.6075232943026
   },
   {
     "date": "8-28-213",
     "season": "Winter",
     "tempRange": {
-      "low": 51.56940959409594,
-      "high": 64.84940959409593
+      "low": 57.439409594095935,
+      "high": 58.97940959409594
     },
-    "precipitation": true,
-    "wind": 35.34285135097443
+    "precipitation": false,
+    "wind": 69.2696696522342
   },
   {
     "date": "8-29-213",
     "season": "Winter",
     "tempRange": {
-      "low": 54.49911439114391,
-      "high": 61.87911439114391
+      "low": 55.98911439114391,
+      "high": 60.38911439114391
     },
     "precipitation": true,
-    "wind": 60.68758008150678
+    "wind": 58.48390213954143
   },
   {
     "date": "8-30-213",
     "season": "Winter",
     "tempRange": {
-      "low": 51.048819188191885,
-      "high": 65.28881918819188
+      "low": 57.96881918819188,
+      "high": 58.368819188191885
     },
-    "precipitation": false,
-    "wind": 44.41254841461655
+    "precipitation": true,
+    "wind": 53.17257018628316
   },
   {
     "date": "8-31-213",
     "season": "Winter",
     "tempRange": {
-      "low": 54.56852398523986,
-      "high": 61.72852398523985
+      "low": 54.90852398523985,
+      "high": 61.38852398523986
     },
     "precipitation": false,
-    "wind": 77.33780248111859
+    "wind": 37.11790265075075
   },
   {
     "date": "8-32-213",
     "season": "Winter",
     "tempRange": {
-      "low": 55.19822878228782,
-      "high": 61.05822878228782
+      "low": 57.14822878228782,
+      "high": 59.10822878228782
     },
     "precipitation": false,
-    "wind": 53.65474277816099
+    "wind": 53.78237145391865
   },
   {
     "date": "8-33-213",
     "season": "Winter",
     "tempRange": {
-      "low": 50.87793357933579,
-      "high": 65.3379335793358
+      "low": 52.707933579335794,
+      "high": 63.50793357933579
     },
     "precipitation": false,
-    "wind": 55.82968261601344
+    "wind": 55.643466674419614
   },
   {
     "date": "8-34-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.477638376383766,
-      "high": 66.69763837638376
+      "low": 51.767638376383765,
+      "high": 64.40763837638377
     },
-    "precipitation": true,
-    "wind": 71.0961169077689
+    "precipitation": false,
+    "wind": 75.407865912214
   },
   {
     "date": "8-35-213",
     "season": "Winter",
     "tempRange": {
-      "low": 53.35734317343174,
-      "high": 62.77734317343174
+      "low": 50.85734317343174,
+      "high": 65.27734317343173
     },
     "precipitation": false,
-    "wind": 49.64821654893688
+    "wind": 32.770508209114354
   },
   {
     "date": "8-36-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.4870479704797,
-      "high": 66.6070479704797
+      "low": 54.4870479704797,
+      "high": 61.607047970479705
     },
     "precipitation": false,
-    "wind": 65.28483223328307
+    "wind": 40.02603084200493
   },
   {
     "date": "8-37-213",
     "season": "Winter",
     "tempRange": {
-      "low": 50.69675276752768,
-      "high": 65.35675276752768
+      "low": 49.65675276752768,
+      "high": 66.39675276752767
     },
     "precipitation": false,
-    "wind": 36.178911633711515
+    "wind": 54.37359779014746
   },
   {
     "date": "8-38-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.376457564575645,
-      "high": 66.63645756457565
+      "low": 49.57645756457565,
+      "high": 66.43645756457565
     },
     "precipitation": true,
-    "wind": 62.66398429740145
+    "wind": 40.052633034073445
   },
   {
     "date": "8-39-213",
     "season": "Winter",
     "tempRange": {
-      "low": 52.34616236162361,
-      "high": 63.626162361623614
+      "low": 48.80616236162361,
+      "high": 67.1661623616236
     },
-    "precipitation": false,
-    "wind": 33.883375534389714
+    "precipitation": true,
+    "wind": 55.78846902914533
   },
   {
     "date": "8-40-213",
     "season": "Winter",
     "tempRange": {
-      "low": 57.84586715867159,
-      "high": 58.08586715867158
+      "low": 54.38586715867159,
+      "high": 61.545867158671584
     },
     "precipitation": true,
-    "wind": 35.988760895008504
+    "wind": 62.41859243944567
   },
   {
     "date": "9-1-213",
     "season": "Winter",
     "tempRange": {
-      "low": 56.175571955719555,
-      "high": 59.71557195571956
+      "low": 50.43557195571956,
+      "high": 65.45557195571956
     },
     "precipitation": false,
-    "wind": 30.760702568760596
+    "wind": 51.29283132907261
   },
   {
     "date": "9-2-213",
     "season": "Winter",
     "tempRange": {
-      "low": 57.42527675276753,
-      "high": 58.42527675276753
+      "low": 54.73527675276753,
+      "high": 61.11527675276753
     },
-    "precipitation": false,
-    "wind": 45.43039979991239
+    "precipitation": true,
+    "wind": 57.28428897673454
   },
   {
     "date": "9-3-213",
     "season": "Winter",
     "tempRange": {
-      "low": 50.944981549815495,
-      "high": 64.8649815498155
+      "low": 49.2049815498155,
+      "high": 66.60498154981549
     },
-    "precipitation": false,
-    "wind": 60.499139874462756
+    "precipitation": true,
+    "wind": 32.824485057996576
   },
   {
     "date": "9-4-213",
     "season": "Winter",
     "tempRange": {
-      "low": 53.06468634686347,
-      "high": 62.70468634686347
+      "low": 56.48468634686347,
+      "high": 59.28468634686347
     },
     "precipitation": true,
-    "wind": 47.741019631062386
+    "wind": 63.31888197866781
   },
   {
     "date": "9-5-213",
     "season": "Winter",
     "tempRange": {
-      "low": 53.93439114391144,
-      "high": 61.79439114391144
+      "low": 55.98439114391144,
+      "high": 59.74439114391144
     },
     "precipitation": true,
-    "wind": 72.72731983676462
+    "wind": 57.648524734300615
   },
   {
     "date": "9-6-213",
     "season": "Winter",
     "tempRange": {
-      "low": 57.49409594095941,
-      "high": 58.194095940959414
+      "low": 48.014095940959415,
+      "high": 67.67409594095942
     },
     "precipitation": true,
-    "wind": 51.19342846588461
+    "wind": 57.465631260221315
   },
   {
     "date": "9-7-213",
     "season": "Winter",
     "tempRange": {
-      "low": 57.22380073800738,
-      "high": 58.42380073800738
+      "low": 50.28380073800738,
+      "high": 65.36380073800738
     },
-    "precipitation": true,
-    "wind": 63.37162499350641
+    "precipitation": false,
+    "wind": 65.23556619914842
   },
   {
     "date": "9-8-213",
     "season": "Winter",
     "tempRange": {
-      "low": 50.83350553505535,
-      "high": 64.77350553505535
+      "low": 56.47350553505535,
+      "high": 59.13350553505535
     },
     "precipitation": false,
-    "wind": 65.29928172637784
+    "wind": 78.8244264787146
   },
   {
     "date": "9-9-213",
     "season": "Winter",
     "tempRange": {
-      "low": 56.58321033210332,
-      "high": 58.983210332103326
+      "low": 53.633210332103324,
+      "high": 61.93321033210332
     },
-    "precipitation": true,
-    "wind": 60.995152030472454
+    "precipitation": false,
+    "wind": 35.62693363683916
   },
   {
     "date": "9-10-213",
     "season": "Winter",
     "tempRange": {
-      "low": 54.30291512915129,
-      "high": 61.22291512915129
+      "low": 49.61291512915129,
+      "high": 65.91291512915129
     },
     "precipitation": true,
-    "wind": 31.729710683515474
+    "wind": 39.699888104327925
   },
   {
     "date": "9-11-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.18261992619926,
-      "high": 66.30261992619926
+      "low": 53.03261992619926,
+      "high": 62.45261992619926
     },
     "precipitation": true,
-    "wind": 46.368088155872016
+    "wind": 74.6857614123337
   },
   {
     "date": "9-12-213",
     "season": "Winter",
     "tempRange": {
-      "low": 48.102324723247236,
-      "high": 67.34232472324723
+      "low": 57.142324723247235,
+      "high": 58.30232472324723
     },
-    "precipitation": true,
-    "wind": 37.59890451983664
+    "precipitation": false,
+    "wind": 38.615075032407184
   },
   {
     "date": "9-13-213",
     "season": "Winter",
     "tempRange": {
-      "low": 57.23202952029521,
-      "high": 58.172029520295204
+      "low": 55.19202952029521,
+      "high": 60.212029520295204
     },
-    "precipitation": true,
-    "wind": 31.725210587255667
+    "precipitation": false,
+    "wind": 54.32438655598864
   },
   {
     "date": "9-14-213",
     "season": "Winter",
     "tempRange": {
-      "low": 54.60173431734317,
-      "high": 60.76173431734317
+      "low": 52.661734317343175,
+      "high": 62.70173431734317
     },
-    "precipitation": true,
-    "wind": 31.884283374720596
+    "precipitation": false,
+    "wind": 54.97907295103195
   },
   {
     "date": "9-15-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.14143911439115,
-      "high": 66.18143911439114
+      "low": 56.42143911439114,
+      "high": 58.901439114391145
     },
-    "precipitation": true,
-    "wind": 77.81487680771437
+    "precipitation": false,
+    "wind": 59.250771109752925
   },
   {
     "date": "9-16-213",
     "season": "Winter",
     "tempRange": {
-      "low": 55.961143911439116,
-      "high": 59.321143911439115
+      "low": 54.67114391143912,
+      "high": 60.611143911439115
     },
     "precipitation": true,
-    "wind": 73.10672695049286
+    "wind": 30.114516816717735
   },
   {
     "date": "9-17-213",
     "season": "Winter",
     "tempRange": {
-      "low": 50.890848708487084,
-      "high": 64.35084870848709
+      "low": 57.04084870848709,
+      "high": 58.20084870848709
     },
     "precipitation": true,
-    "wind": 39.821593660019566
+    "wind": 39.44799427681797
   },
   {
     "date": "9-18-213",
     "season": "Winter",
     "tempRange": {
-      "low": 50.35055350553505,
-      "high": 64.85055350553506
+      "low": 56.420553505535054,
+      "high": 58.78055350553505
     },
     "precipitation": false,
-    "wind": 75.19509454657853
+    "wind": 49.39474688292583
   },
   {
     "date": "9-19-213",
     "season": "Winter",
     "tempRange": {
-      "low": 52.910258302583024,
-      "high": 62.25025830258303
+      "low": 56.95025830258302,
+      "high": 58.21025830258303
     },
-    "precipitation": false,
-    "wind": 50.167466314453435
+    "precipitation": true,
+    "wind": 79.68823187891246
   },
   {
     "date": "9-20-213",
     "season": "Winter",
     "tempRange": {
-      "low": 54.579963099631,
-      "high": 60.539963099630995
+      "low": 52.689963099631,
+      "high": 62.429963099630996
     },
-    "precipitation": false,
-    "wind": 79.55521497990709
+    "precipitation": true,
+    "wind": 64.07037112994843
   },
   {
     "date": "9-21-213",
     "season": "Winter",
     "tempRange": {
-      "low": 52.859667896678964,
-      "high": 62.21966789667896
+      "low": 52.46966789667896,
+      "high": 62.609667896678964
     },
-    "precipitation": true,
-    "wind": 58.409820249069185
+    "precipitation": false,
+    "wind": 68.6550638908461
   },
   {
     "date": "9-22-213",
     "season": "Winter",
     "tempRange": {
-      "low": 50.75937269372694,
-      "high": 64.27937269372694
+      "low": 52.17937269372693,
+      "high": 62.85937269372694
     },
-    "precipitation": false,
-    "wind": 44.217574392689414
+    "precipitation": true,
+    "wind": 73.19965256079044
   },
   {
     "date": "9-23-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.99907749077491,
-      "high": 64.99907749077491
+      "low": 49.64907749077491,
+      "high": 65.3490774907749
     },
     "precipitation": true,
-    "wind": 33.68526608836453
+    "wind": 56.68535120192142
   },
   {
     "date": "9-24-213",
     "season": "Winter",
     "tempRange": {
-      "low": 53.73878228782288,
-      "high": 61.21878228782288
+      "low": 53.47878228782288,
+      "high": 61.47878228782288
     },
-    "precipitation": false,
-    "wind": 66.20133557606847
+    "precipitation": true,
+    "wind": 55.11721725592665
   },
   {
     "date": "9-25-213",
     "season": "Winter",
     "tempRange": {
-      "low": 55.068487084870846,
-      "high": 59.84848708487085
+      "low": 52.29848708487084,
+      "high": 62.61848708487085
     },
-    "precipitation": true,
-    "wind": 43.48048737840668
+    "precipitation": false,
+    "wind": 69.52979537555882
   },
   {
     "date": "9-26-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.32819188191882,
-      "high": 65.54819188191883
+      "low": 57.36819188191882,
+      "high": 57.50819188191882
     },
-    "precipitation": false,
-    "wind": 45.42445711737349
+    "precipitation": true,
+    "wind": 53.58908457078487
   },
   {
     "date": "9-27-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.67789667896679,
-      "high": 65.1578966789668
+      "low": 56.66789667896679,
+      "high": 58.16789667896679
     },
     "precipitation": true,
-    "wind": 37.62742031777663
+    "wind": 72.92588771629107
   },
   {
     "date": "9-28-213",
     "season": "Winter",
     "tempRange": {
-      "low": 48.17760147601476,
-      "high": 66.61760147601476
+      "low": 49.087601476014754,
+      "high": 65.70760147601476
     },
     "precipitation": false,
-    "wind": 52.86983399455541
+    "wind": 43.78260980954236
   },
   {
     "date": "9-29-213",
     "season": "Winter",
     "tempRange": {
-      "low": 52.21730627306273,
-      "high": 62.537306273062725
+      "low": 48.77730627306273,
+      "high": 65.97730627306272
     },
     "precipitation": false,
-    "wind": 48.74679156476691
+    "wind": 39.707769492580844
   },
   {
     "date": "9-30-213",
     "season": "Winter",
     "tempRange": {
-      "low": 49.5070110701107,
-      "high": 65.2070110701107
+      "low": 53.7270110701107,
+      "high": 60.987011070110704
     },
-    "precipitation": true,
-    "wind": 54.75071787144473
+    "precipitation": false,
+    "wind": 76.53070621323964
   },
   {
     "date": "9-31-213",
     "season": "Winter",
     "tempRange": {
-      "low": 51.146715867158676,
-      "high": 63.52671586715867
+      "low": 49.03671586715868,
+      "high": 65.63671586715867
     },
     "precipitation": false,
-    "wind": 43.6158747239104
+    "wind": 76.43739617133959
   },
   {
     "date": "9-32-213",
     "season": "Winter",
     "tempRange": {
-      "low": 48.74642066420664,
-      "high": 65.88642066420664
+      "low": 52.24642066420664,
+      "high": 62.38642066420664
     },
     "precipitation": false,
-    "wind": 48.604132422211634
+    "wind": 67.08352315015716
   },
   {
     "date": "9-33-213",
     "season": "Winter",
     "tempRange": {
-      "low": 53.19612546125461,
-      "high": 61.39612546125461
+      "low": 56.80612546125461,
+      "high": 57.78612546125461
     },
     "precipitation": false,
-    "wind": 62.411905246823935
+    "wind": 67.83819083864317
   },
   {
     "date": "9-34-213",
     "season": "Winter",
     "tempRange": {
-      "low": 55.79583025830259,
-      "high": 58.75583025830258
+      "low": 48.555830258302585,
+      "high": 65.99583025830259
     },
     "precipitation": false,
-    "wind": 38.17505572455809
+    "wind": 74.01561408618537
   },
   {
     "date": "9-35-213",
     "season": "Winter",
     "tempRange": {
-      "low": 52.975535055350555,
-      "high": 61.53553505535056
+      "low": 49.89553505535056,
+      "high": 64.61553505535056
     },
-    "precipitation": false,
-    "wind": 60.0944812277699
+    "precipitation": true,
+    "wind": 75.14974641495301
   },
   {
     "date": "9-36-213",
     "season": "Winter",
     "tempRange": {
-      "low": 50.52523985239852,
-      "high": 63.94523985239852
+      "low": 47.825239852398525,
+      "high": 66.64523985239852
     },
-    "precipitation": true,
-    "wind": 33.48229364484594
+    "precipitation": false,
+    "wind": 67.52115718152815
   },
   {
     "date": "9-37-213",
     "season": "Winter",
     "tempRange": {
-      "low": 48.07494464944649,
-      "high": 66.3549446494465
+      "low": 53.494944649446495,
+      "high": 60.93494464944649
     },
     "precipitation": true,
-    "wind": 41.32616708452117
+    "wind": 66.9302205778418
   },
   {
     "date": "9-38-213",
     "season": "Winter",
     "tempRange": {
-      "low": 48.054649446494466,
-      "high": 66.33464944649447
+      "low": 49.29464944649447,
+      "high": 65.09464944649447
     },
-    "precipitation": true,
-    "wind": 55.3517272474609
+    "precipitation": false,
+    "wind": 56.89219441821599
   },
   {
     "date": "9-39-213",
     "season": "Winter",
     "tempRange": {
-      "low": 53.57435424354244,
-      "high": 60.77435424354244
+      "low": 51.50435424354244,
+      "high": 62.84435424354244
     },
     "precipitation": false,
-    "wind": 73.93091389546967
+    "wind": 38.24262621099116
   },
   {
     "date": "9-40-213",
     "season": "Winter",
     "tempRange": {
-      "low": 47.724059040590404,
-      "high": 66.5840590405904
+      "low": 50.2640590405904,
+      "high": 64.0440590405904
     },
     "precipitation": false,
-    "wind": 38.54070980989583
+    "wind": 45.52927234137977
   }
 ]
