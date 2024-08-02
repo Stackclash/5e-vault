@@ -88,19 +88,25 @@ climates:
 states:
   - name: Light Rain
     category: precipitation
-    conditions: []
+    conditions:
+      - precipitation
     rules: []
   - name: Heavy Rain
     category: precipitation
-    conditions: []
+    conditions:
+      - precipitation
     rules: []
   - name: Light Snow
     category: precipitation
-    conditions: []
+    conditions:
+      - precipitation
+      - 32 > tempLow
     rules: []
   - name: Heavy Snow
     category: precipitation
-    conditions: []
+    conditions:
+      - precipitation
+      - 32 > tempLow
     rules: []
   - name: Light Wind
     category: wind
