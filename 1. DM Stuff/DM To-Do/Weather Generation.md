@@ -160,8 +160,8 @@ if (errorMessages.length > 0) {
 }
 ```
 ```dataviewjs
-const currentPage = dv.current()
-if (currentPage.useCalendarium) {
+const useCalendarium = dv.current().useCalendarium
+if (useCalendarium) {
     const currentTFile = app.workspace.getActiveFile()
     const calendarName = dv.page(dv.page('Configuration').active_world).calendar
     const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
@@ -177,8 +177,8 @@ dv.table([
   'Length'
 ], dv.current().months.map((month, i) => [
   (i+1).toString(),
-  `\`INPUT[text:months[${i}].name]\``,
-  `\`INPUT[number:months[${i}].length]\``
+  useCalendarium ? month.name : `\`INPUT[text:months[${i}].name]\``,
+  useCalendarium ? month.length : `\`INPUT[number:months[${i}].length]\``
 ]))
 ```
 
