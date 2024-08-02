@@ -85,43 +85,36 @@ climates:
     windLow: 0
     tempHigh: 0
     tempLow: 0
-precipitations:
+conditions:
   - name: Light Rain
+    category: ""
     conditions: []
     rules: []
   - name: Heavy Rain
+    category: ""
     conditions: []
     rules: []
   - name: Light Snow
+    category: ""
     conditions: []
     rules: []
   - name: Heavy Snow
+    category: ""
     conditions: []
     rules: []
   - name: Winter Test
+    category: ""
     conditions:
       - season === 'Winter'
     rules:
       - It's cold!! Roll a Constitution Save
       - This is another rule
   - name: Summer Test
+    category: ""
     conditions:
       - season === 'Summer'
     rules:
       - It's warm!
-winds:
-  - name: Light Wind
-    conditions: []
-    rules: []
-  - name: Heavy Wind
-    conditions: []
-    rules: []
-  - name: Tornado
-    conditions: []
-    rules: []
-  - name: Hurricane
-    conditions: []
-    rules: []
 ---
 ```meta-bind-button
 style: primary
@@ -377,68 +370,16 @@ if (errorMessages.length > 0) {
 ```
 ```dataviewjs
 dv.table([
-  'Precipitation',
+  'State',
+  'Category',
   'Conditions',
   'Rules'
 ], dv.current().conditions.map((climate, i) => {
   return [
     `\`INPUT[text:conditions[${i}].name]\``,
+    `\`INPUT[inlineSelect(option(precipitation,Precipitation),option(wind,Wind),option(temperature,Temperature)):conditions[${i}].category]\``,
     `\`INPUT[inlineList:conditions[${i}].conditions]\``,
     `\`INPUT[inlineList:conditions[${i}].rules]\``
-  ]
-}))
-```
-
-# Wind States
-`BUTTON[add-wind,remove-wind]`
-```meta-bind-button
-label: Add Wind State
-hidden: true
-id: add-wind
-style: primary
-actions:
-  - type: inlineJS
-    code: |-
-      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-        if (!Array.isArray(fm.winds)) {
-          fm.winds = [{name: '', conditions: [], rules: []}]
-        } else {
-          fm.winds = [...fm.winds, {name: '', conditions: [], rules: []}]
-        }
-      })
-```
-```meta-bind-button
-label: Remove Wind State
-hidden: true
-id: remove-wind
-style: primary
-actions:
-  - type: inlineJS
-    code: |-
-      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-        fm.winds.splice(-1)
-      })
-```
-> [!info]- Wind Configuration
-> This is info
-```dataviewjs
-const errorMessages = []
-dv.current().winds.forEach((wind, i) => {})
-if (errorMessages.length > 0) {
-  const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
-  dv.paragraph(`> [!fail] Wind Errors\n${errorLines}`)
-}
-```
-```dataviewjs
-dv.table([
-  'Wind',
-  'Conditions',
-  'Rules'
-], dv.current().winds.map((climate, i) => {
-  return [
-    `\`INPUT[text:winds[${i}].name]\``,
-    `\`INPUT[inlineList:winds[${i}].conditions]\``,
-    `\`INPUT[inlineList:winds[${i}].rules]\``
   ]
 }))
 ```
