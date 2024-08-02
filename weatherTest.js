@@ -2,7 +2,7 @@ const matter = require('gray-matter')
 const fs = require('fs')
 const path = require('path')
 
-const { tempFlux, seasons, months, climates, precipitations, winds } = matter(fs.readFileSync(path.join(__dirname, '1. DM Stuff/DM To-Do/Weather Generation.md'), 'utf8')).data
+const { tempFlux, seasons, months, climates, conditions } = matter(fs.readFileSync(path.join(__dirname, '1. DM Stuff/DM To-Do/Weather Generation.md'), 'utf8')).data
 
 /**
  * Returns the day of the year based on the date
@@ -235,34 +235,14 @@ const getWeatherForYearByClimate = (climate, year) => {
 
 const getConditionStates = (weather) => {
     const {date, season, tempRange: {low: tempLow,high: tempHigh}, precipitation, wind: windSpeed} = weather
-    const precipitationState = { name: [], rules: [] }
-    if (weather.precipitation) {
-        precipitations.forEach(precipState => {
-            if (precipState.conditions.every(condition => eval(condition))) {
-                precipitationState.name.push(precipState.name)
-                precipitationState.rules.push(...precipState.rules)
-            }
-        })
-    }
-    return {
-        name: precipitationState.name.join(', '),
-        rules: precipitationState.rules
-    }
-}
-
-const getWindState = (weather) => {
-    const {date, season, tempRange: {low: tempLow,high: tempHigh}, precipitation, wind: windSpeed} = weather
-    const windState = { name: [], rules: [] }
-    winds.forEach(wind => {
-        if (wind.conditions.every(condition => eval(condition))) {
-            windState.name.push(wind.name)
-            windState.rules.push(...wind.rules)
+    const conditionStates = { }
+    conditions.forEach(state => {
+        if (state.conditions.every(condition => eval(condition))) {
+            precipitationState.name.push(state.name)
+            precipitationState.rules.push(...state.rules)
         }
     })
-    return {
-        name: windState.name.join(', '),
-        rules: windState.rules
-    }
+    return conditionStates
 }
 
 // console.log(getTempRange('Coast','5-5-213'))
