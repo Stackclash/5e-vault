@@ -98,6 +98,11 @@ states:
       - precipitation
     rules:
       - Disadvantage on ability checks to climb or scale objects and ability checks to maintain balance or keep one’s footing.
+      - The area becomes lightly obscured.
+      - Open flames are extinguished.
+      - Disadvantage on Wisdom (Perception) checks relying on hearing or scent.
+      - Disadvantage on Wisdom (Survival) checks to track creatures.
+      - Advantage on Wisdom (Survival) checks to forage for water.
   - name: Light Snow
     category: precipitation
     conditions:
@@ -111,23 +116,44 @@ states:
     conditions:
       - precipitation
       - 32 > tempLow
-    rules: []
+    rules:
+      - The area becomes lightly obscured.
+      - Advantage on Wisdom (Survival) checks to track creatures.
+      - The area becomes difficult terrain.
+      - Wisdom (Survival) checks to forage for water automatically succeed.
   - name: Light Wind
     category: wind
     conditions: []
-    rules: []
-  - name: Heavy Wind
+    rules:
+      - Clears light fog, smoke, or fumes.
+  - name: High Wind
     category: wind
     conditions: []
-    rules: []
-  - name: Tornado
-    category: wind
+    rules:
+      - Disadvantage on ranged weapon attacks.
+      - Clears all fog, smoke, or fumes.
+      - Extinguishes open flames.
+      - Disadvantage on Wisdom (Perception) checks relying on hearing.
+      - Medium and smaller creatures with a fly speed must return to the ground at the end of their turn, or fall. Creatures with a hover speed have their speed halved.
+  - name: Storm
+    category: general
     conditions: []
-    rules: []
-  - name: Hurricane
-    category: wind
-    conditions: []
-    rules: []
+    rules:
+      - The area becomes heavily obscured.
+      - "The area becomes difficult terrain. "
+  - name: Extreme Heat
+    states: []
+    rules:
+      - Constitution save every hour, failure brings exhaustion. DC starts at 5 and increases by 1 every hour, or 2 if wearing medium or heavy armor.
+      - Insufficient water provokes disadvantage on this save.
+      - Resistance or immunity to fire damage, or being naturally adapted to hot-weather climates means automatic success.
+    category: temperature
+  - name: Extreme Cold
+    states: []
+    rules:
+      - DC 10 Constitution save every hour, failure brings exhaustion.
+      - Resistance or immunity to cold, is natural adaption to cold-weather climates, or cold-weather gear means automatic success.
+    category: temperature
 ---
 ```meta-bind-button
 style: primary
