@@ -235,6 +235,7 @@ const getWeatherForYearByClimate = (climate, year) => {
 
 const getStates = (weather) => {
     const {date, season, tempRange: {low: tempLow,high: tempHigh}, precipitation, wind: windSpeed} = weather
+    const random = Math.random() * 100
     const conditionStates = { }
     states.forEach(state => {
         if (state.conditions.every(condition => eval(condition))) {

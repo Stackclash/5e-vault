@@ -139,12 +139,15 @@ states:
       - Medium and smaller creatures with a fly speed must return to the ground at the end of their turn, or fall. Creatures with a hover speed have their speed halved.
   - name: Storm
     category: general
-    conditions: []
+    conditions:
+      - precipitation
+      - windSpeed > 25
     rules:
       - The area becomes heavily obscured.
       - "The area becomes difficult terrain. "
   - name: Extreme Heat
-    conditions: []
+    conditions:
+      - tempHigh > 100
     states: []
     rules:
       - Constitution save every hour, failure brings exhaustion. DC starts at 5 and increases by 1 every hour, or 2 if wearing medium or heavy armor.
@@ -152,7 +155,8 @@ states:
       - Resistance or immunity to fire damage, or being naturally adapted to hot-weather climates means automatic success.
     category: temperature
   - name: Extreme Cold
-    conditions: []
+    conditions:
+      - tempLow < 0
     rules:
       - DC 10 Constitution save every hour, failure brings exhaustion.
       - Resistance or immunity to cold, is natural adaption to cold-weather climates, or cold-weather gear means automatic success.
