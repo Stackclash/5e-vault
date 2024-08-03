@@ -123,12 +123,14 @@ states:
       - Wisdom (Survival) checks to forage for water automatically succeed.
   - name: Light Wind
     category: wind
-    conditions: []
+    conditions:
+      - windSpeed < 25
     rules:
       - Clears light fog, smoke, or fumes.
   - name: High Wind
     category: wind
-    conditions: []
+    conditions:
+      - windSpeed > 25
     rules:
       - Disadvantage on ranged weapon attacks.
       - Clears all fog, smoke, or fumes.
@@ -142,6 +144,7 @@ states:
       - The area becomes heavily obscured.
       - "The area becomes difficult terrain. "
   - name: Extreme Heat
+    conditions: []
     states: []
     rules:
       - Constitution save every hour, failure brings exhaustion. DC starts at 5 and increases by 1 every hour, or 2 if wearing medium or heavy armor.
@@ -149,7 +152,7 @@ states:
       - Resistance or immunity to fire damage, or being naturally adapted to hot-weather climates means automatic success.
     category: temperature
   - name: Extreme Cold
-    states: []
+    conditions: []
     rules:
       - DC 10 Constitution save every hour, failure brings exhaustion.
       - Resistance or immunity to cold, is natural adaption to cold-weather climates, or cold-weather gear means automatic success.
@@ -348,9 +351,9 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.states)) {
-          fm.states = [{name: '', states: [], rules: []}]
+          fm.states = [{name: '', category: '', conditions: [], rules: []}]
         } else {
-          fm.states = [...fm.states, {name: '', states: [], rules: []}]
+          fm.conditions = [...fm.states, {name: '', category: '',  conditions: [], rules: []}]
         }
       })
 ```
