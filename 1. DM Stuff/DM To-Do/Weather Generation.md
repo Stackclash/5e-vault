@@ -136,7 +136,7 @@ actions:
 **Daily Temp Flux:** `INPUT[number:tempFlux]`
 
 # Months
-`BUTTON[add-month,remove-month]`
+`BUTTON[add-month]`
 ```meta-bind-button
 label: Add Month
 hidden: true
@@ -151,18 +151,6 @@ actions:
         } else {
           fm.months = [...fm.months, {name: '', length: 0}]
         }
-      })
-```
-```meta-bind-button
-label: Remove Month
-hidden: true
-id: remove-month
-style: primary
-actions:
-  - type: inlineJS
-    code: |-
-      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-        fm.months.splice(-1)
       })
 ```
 > [!info]- Months Configuration
@@ -204,7 +192,7 @@ dv.table([
 ```
 
 # Seasons
-`BUTTON[add-season,remove-season]`
+`BUTTON[add-season]`
 ```meta-bind-button
 label: Add Season
 hidden: true
@@ -219,18 +207,6 @@ actions:
         } else {
           fm.seasons = [...fm.seasons, {name: '', precipMod: 0, windMod: 0, tempMod: 0, start: '', end: ''}]
         }
-      })
-```
-```meta-bind-button
-label: Remove Season
-hidden: true
-id: remove-season
-style: primary
-actions:
-  - type: inlineJS
-    code: |-
-      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-        fm.seasons.splice(-1)
       })
 ```
 > [!info]- Seasons Configuration
@@ -281,7 +257,7 @@ dv.table([
 ```
 
 # Climates
-`BUTTON[add-climate,remove-climate]`
+`BUTTON[add-climate]`
 ```meta-bind-button
 label: Add Climate
 hidden: true
@@ -358,18 +334,6 @@ actions:
         } else {
           fm.states = [...fm.states, {name: '', states: [], rules: []}]
         }
-      })
-```
-```meta-bind-button
-label: Remove State Condition
-hidden: true
-id: remove-state
-style: primary
-actions:
-  - type: inlineJS
-    code: |-
-      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-        fm.states.splice(-1)
       })
 ```
 > [!info]- State Configuration
