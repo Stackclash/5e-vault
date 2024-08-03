@@ -90,18 +90,22 @@ states:
     category: precipitation
     conditions:
       - precipitation
-    rules: []
+    rules:
+      - Disadvantage on ability checks to climb or scale objects and ability checks to maintain balance or keep one’s footing.
   - name: Heavy Rain
     category: precipitation
     conditions:
       - precipitation
-    rules: []
+    rules:
+      - Disadvantage on ability checks to climb or scale objects and ability checks to maintain balance or keep one’s footing.
   - name: Light Snow
     category: precipitation
     conditions:
       - precipitation
       - 32 > tempLow
-    rules: []
+    rules:
+      - The area becomes lightly obscured.
+      - Advantage on Wisdom (Survival) checks to track creatures.
   - name: Heavy Snow
     category: precipitation
     conditions:
@@ -274,18 +278,6 @@ actions:
         }
       })
 ```
-```meta-bind-button
-label: Remove Climate
-hidden: true
-id: remove-climate
-style: primary
-actions:
-  - type: inlineJS
-    code: |-
-      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-        fm.climates.splice(-1)
-      })
-```
 > [!info]- Climate Configuration
 > This is info
 ```dataviewjs
@@ -319,7 +311,7 @@ dv.table([
 ```
 
 # State Conditions
-`BUTTON[add-state,remove-state]`
+`BUTTON[add-state]`
 ```meta-bind-button
 label: Add State Condition
 hidden: true
