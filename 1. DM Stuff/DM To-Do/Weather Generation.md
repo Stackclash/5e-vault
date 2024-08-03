@@ -46,7 +46,7 @@ climates:
   - name: Coast
     precipProb: 0.7
     windHigh: 80
-    windLow: 30
+    windLow: 3
     tempHigh: 105
     tempLow: 50
   - name: Desert
@@ -90,12 +90,14 @@ states:
     category: precipitation
     conditions:
       - precipitation
+      - random < 70
     rules:
       - Disadvantage on ability checks to climb or scale objects and ability checks to maintain balance or keep one’s footing.
   - name: Heavy Rain
     category: precipitation
     conditions:
       - precipitation
+      - random >= 70
     rules:
       - Disadvantage on ability checks to climb or scale objects and ability checks to maintain balance or keep one’s footing.
       - The area becomes lightly obscured.
