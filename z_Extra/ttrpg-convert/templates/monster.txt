@@ -56,7 +56,7 @@ partyRelationships: \{\}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', \{type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]\})` |
 
 # **`=this.file.name`**
 *Source: {resource.source}*
@@ -138,13 +138,16 @@ TBD
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: {resource.cr}
+environments: {resource.environment}
+size: {resource.size}
 {#if resource.tags }
 tags:
 {#for tag in resource.tags}
 - {tag}
 {/for}
 {/if}
-statblock: inline
 aliases: ["{resource.name}"]
 ---
 # [{resource.name}]({resource.vaultPath})

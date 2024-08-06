@@ -16,7 +16,6 @@ components: {resource.components}
 aliases: ["{resource.name}"]
 ---
 # {resource.name}
-%%-- Embedded content starts on the next line. --%%
 *{resource.level}, {resource.school}{#if resource.ritual} (ritual){/if}*  
 {#if resource.fluffImages && resource.fluffImages.size > 0 }{#let first=resource.fluffImages.get(0)}
 {first.getEmbeddedLink("right")}  
