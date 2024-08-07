@@ -7,10 +7,9 @@ owners:
 staff:
   - "[[4. World Almanac/NPCs/Brom Martikov.md|Brom Martikov]]"
   - "[[4. World Almanac/NPCs/Bray Martikov.md|Bray Martikov]]"
-cost_modifier: 0.5
+cost_modifier: 1
 items:
   - "[[Shield]]"
-  - "[[5. Mechanics/Items/Amulet Of The Planes.md|Amulet Of The Planes]]"
 tags:
   - shop
   - location
