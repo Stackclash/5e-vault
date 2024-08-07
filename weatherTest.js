@@ -233,6 +233,11 @@ const getWeatherForYearByClimate = (climate, year) => {
     })
 }
 
+/**
+ * Returns the states for the weather
+ * @param {object} weather - The weather object
+ * @returns {object} - The states object
+ */
 const getStates = (weather) => {
     const {date, season, tempRange: {low: tempLow,high: tempHigh}, precipitation, wind: windSpeed} = weather
     const random = Math.random() * 100
@@ -261,13 +266,17 @@ const date = '3-20-213'
 
 // console.log(getWeatherForDate('Coast', date))
 const yearWeather = getWeatherForYearByClimate('Coast', '213')
-const totalDaysInYear = yearWeather.length
-let totalRainDays = 0
-yearWeather.forEach(weather => {
-    if (weather.precipitation) totalRainDays++
-})
-fs.writeFileSync(path.join(__dirname, 'weather.json'), JSON.stringify(yearWeather, null, 2))
+console.log('Seasons: ', seasons)
+console.log('Climates: ', climates)
+console.log('Final Data: ', yearWeather.find(weather => weather.date === date))
+console.log('Rain Days in Year: ', getRainDaysInYear('Coast').length)
+// const totalDaysInYear = yearWeather.length
+// let totalRainDays = 0
+// yearWeather.forEach(weather => {
+//     if (weather.precipitation) totalRainDays++
+// })
+// fs.writeFileSync(path.join(__dirname, 'weather.json'), JSON.stringify(yearWeather, null, 2))
 
-console.log(`Total Days in Year: ${totalDaysInYear}`)
-console.log(`Total Rain Days in Year: ${totalRainDays}`)
-console.log(`Rain Percentage: ${totalRainDays / totalDaysInYear * 100}%`)
+// console.log(`Total Days in Year: ${totalDaysInYear}`)
+// console.log(`Total Rain Days in Year: ${totalRainDays}`)
+// console.log(`Rain Percentage: ${totalRainDays / totalDaysInYear * 100}%`)
