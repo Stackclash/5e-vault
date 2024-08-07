@@ -7,7 +7,7 @@ owners:
 staff:
   - "[[4. World Almanac/NPCs/Brom Martikov.md|Brom Martikov]]"
   - "[[4. World Almanac/NPCs/Bray Martikov.md|Bray Martikov]]"
-cost_modifier: 1
+cost_modifier: 0.5
 items:
   - "[[Shield]]"
 tags:

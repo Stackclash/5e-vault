@@ -5,15 +5,18 @@ function costDisplay(cp) {
     if (cp <= 0) return '1 cp'
     
     gp = Math.floor(cp / 100)
-    cp = cp % 100
+    cp = gp > 0 ? cp % 100 : cp
     sp = Math.floor(cp / 10)
-    cp = cp % 10
+    cp = sp > 0 ? cp % 10 : cp
 
+    console.log(gp, sp, cp)
     if (gp > 0) {
         display.push(`${gp} gp`)
-    } else if (sp > 0) {
+    }
+    if (sp > 0) {
         display.push(`${sp} sp`)
-    } else if (cp > 0) {
+    }
+    if (cp > 0) {
         display.push(`${cp} cp`)
     }
 
