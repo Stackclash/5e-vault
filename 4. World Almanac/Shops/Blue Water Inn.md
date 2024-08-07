@@ -10,6 +10,7 @@ staff:
 cost_modifier: 0.5
 items:
   - "[[Shield]]"
+  - "[[5. Mechanics/Items/Amulet Of The Planes.md|Amulet Of The Planes]]"
 tags:
   - shop
   - location
