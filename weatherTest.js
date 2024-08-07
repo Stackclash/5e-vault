@@ -270,6 +270,12 @@ console.log('Seasons: ', seasons)
 console.log('Climates: ', climates)
 console.log('Final Data: ', yearWeather.find(weather => weather.date === date))
 console.log('Rain Days in Year: ', getRainDaysInYear('Coast').length)
+console.log('Wind: ', getWind('Coast'))
+console.log('Season: ', getSeason(date).name)
+console.log('Get Percent Through Season: ', getPercentThroughSeason(date))
+console.log('Base Temp: ', getTempBaseTemp('Coast', getSeason(date).name))
+console.log('Temp Range: ', getTempRange('Coast', date))
+console.log('Base Temp Based on Percent Through Season: ', getTempBaseOnPrecentThroughSeason('Coast', date))
 // const totalDaysInYear = yearWeather.length
 // let totalRainDays = 0
 // yearWeather.forEach(weather => {
