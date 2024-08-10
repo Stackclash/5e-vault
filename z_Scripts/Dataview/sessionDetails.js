@@ -1,0 +1,1 @@
+dv.list(dv.pages("#session-journal").file.lists.where(t => t.text.includes("#remember")).map((t) => t.text))
