@@ -3,12 +3,21 @@ const details = dv.pages("#session-journal").file.lists.where(t => t.text.includ
     t.tags.forEach(tag => {
         if (!tag.includes('remember') && !acc.some(a => a.key === tag)) {
             acc.push({key: tag, rows: [t.text.replace('#remember', '') + ' ' + dv.sectionLink(t.link.path, t.link.subpath, false, 'Go To')]})
-        } else if (!tag.includes('remember')) {
+        } else if (!tag.includes('remember') && acc.some(a => a.key === tag)) {
             acc.find(a => a.key === tag).rows.push(t.text.replace('#remember', '') + ' ' + dv.sectionLink(t.link.path, t.link.subpath, false, 'Go To'))
+        } else {
+            if (acc.some(a => a.key === '')) {
+                acc.find(a => a.key === '').rows.push(t.text.replace('#remember', '') + ' ' + dv.sectionLink(t.link.path, t.link.subpath, false, 'Go To'))
+            } else {
+                acc.push({key: '', rows: [t.text.replace('#remember', '') + ' ' + dv.sectionLink(t.link.path, t.link.subpath, false, 'Go To')]})
+            }
         }
     })
     
     return acc
 }, [])
 
-dv.list(dv.array(details))
+details.forEach(d => {
+    if (d.key) dv.header(2, d.key)
+    dv.list(d.rows)
+})
