@@ -4,13 +4,13 @@ const getKey = (key) => {
     key = key.replace('#', '')
     return key.charAt(0).toUpperCase() + key.slice(1)
 }
-
+console.log('HI')
 const details = dv.pages("#session-journal").file.lists.where(t => t.text.includes("#remember")).array().reduce((acc, t) => {
     t.tags.forEach(tag => {
-        if (!tag.includes('remember') && !acc.some(a => a.key === tag)) {
-            acc.push({key: getKey, rows: [getText(t)]})
-        } else if (!tag.includes('remember') && acc.some(a => a.key === tag)) {
-            acc.find(a => a.key === tag).rows.push(getText(t))
+        if (!tag.includes('remember') && !acc.some(a => a.key === getKey(tag))) {
+            acc.push({key: getKey(tag), rows: [getText(t)]})
+        } else if (!tag.includes('remember') && acc.some(a => a.key === getKey(tag))) {
+            acc.find(a => a.key === getKey(tag)).rows.push(getText(t))
         } else {
             if (acc.some(a => a.key === '')) {
                 acc.find(a => a.key === '').rows.push(getText(t))
@@ -22,6 +22,7 @@ const details = dv.pages("#session-journal").file.lists.where(t => t.text.includ
     
     return acc
 }, [])
+console.log(details)
 
 details.forEach(d => {
     if (d.key) dv.header(2, d.key)
