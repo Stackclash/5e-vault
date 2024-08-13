@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 date: 2024-06-29
 summary: |-
-  The party, undeterred by the malevolent aura that brought them to their knees, pressed on into the foreboding depths of the Amber Temple. Marin, inexplicably unaffected, led the way into the darkness that pervaded the empty, ruined halls. A towering statue of a dark magic caster stood sentinel, its face obscured by impenetrable magical darkness.
+  The party bravely decides to delve into the Amber Temple, despite the ominous atmosphere that surrounds it. As they approach the front door, an overwhelming wave of evil washes over them, forcing everyone except Marin to their knees. Once they recover from this harrowing experience, they step into the temple, only to be greeted by a deep, suffocating darkness. The silence within the temple is almost deafening, and the desolation is palpable. They soon come across a towering statue of a dark magic caster, its face concealed by an impenetrable shroud of magical darkness.
 
-  Their exploration led them to encounter two wildling men and a fierce woman atop a dire wolf, consumed by rage and driven to attack. In a moment of clarity, the woman recognized Yevelda as Helga before the conflict escalated. The party subdued the men, incapacitated the woman—Karina—and learned of others at Yester Hill, earning the friendship of the dire wolf amid their grim surroundings.
+  As they venture further into the temple, the party encounters two wildling men and a fierce wildling woman riding a large dire wolf. The wildlings are consumed by a blind rage and immediately attack the party with murderous intent. However, in a brief moment of lucidity, the woman seems to recognize Yevelda and calls her "Helga." The party manages to kill the two men and knock the woman unconscious. They learn her name is Karina and that there are more of her kind at Yester Hill. Additionally, the dire wolf forms a tentative bond with the party, offering them a glimmer of hope in the dark temple.
 
-  Their brief respite was shattered when a seizure gripped the entire party, draining their life force until only Marin remained unaffected. As they struggled against this supernatural assault, realizing the depth of the temple's evil, they attempted to escape, only to find the exit had vanished. Forced to delve deeper, they confronted the source of the malevolence—an imprisoned lich encased in amber, suspended above an arcane mechanism.
+  Their victory is short-lived as the party, except Marin, is suddenly struck by a violent seizure. It feels as though their very life essence is being drained from their bodies, causing their ears and eyes to bleed. As they struggle to regain control, the full realization of the temple's malevolence dawns on them. Desperate to escape, they attempt to flee, only to discover that the exit has mysteriously vanished.
 
-  Witnessing Karina's soul being consumed by the lich through a portal above the amber, the party confronted the grim reality of the temple's horrors.
+  With no other choice, the party is forced to go deeper into the temple. Eventually, they come upon the source of the overwhelming evil: an imprisoned lich, encased in a massive block of amber and suspended above a damaged arcane mechanism. The mechanism, malfunctioning, has opened a portal above the amber, through which Karina's soul is drawn and consumed by the lich. The party witnesses in horror as the lich feeds on her essence, its power growing even stronger.
 fc-date: 973-2-21
 timelines:
   - COS
