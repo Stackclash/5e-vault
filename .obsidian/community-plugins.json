@@ -21,7 +21,6 @@
   "obsidian42-brat",
   "calendarium",
   "obsidian-5e-statblocks",
-  "media-extended",
   "obsidian-import-json",
   "obsidian-javascript-init",
   "obsidian-admonition",
@@ -29,5 +28,6 @@
   "modules",
   "js-engine",
   "obsidian-kanban",
-  "syrinscape-player-control"
+  "syrinscape-player-control",
+  "media-extended"
 ]
