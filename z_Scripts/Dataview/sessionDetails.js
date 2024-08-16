@@ -5,7 +5,7 @@ const getKey = (key) => {
     return key.charAt(0).toUpperCase() + key.slice(1)
 }
 
-const details = dv.pages("#session-journal").file.lists.where(t => t.text.includes("#remember")).array().reduce((acc, t) => {
+const details = dv.pages("#session-journal").file.lists.where(t => t.tags.includes("remember")).array().reduce((acc, t) => {
     t.tags.forEach(tag => {
         if (!tag.includes('remember') && !acc.some(a => a.key === getKey(tag))) {
             acc.push({key: getKey(tag), rows: [getText(t)]})
@@ -24,7 +24,6 @@ const details = dv.pages("#session-journal").file.lists.where(t => t.text.includ
 }, [])
 
 details.forEach(d => {
-    dv.header(1, 'SESSION DETAILS')
     if (d.key) dv.header(2, d.key)
     dv.list(d.rows)
 })
