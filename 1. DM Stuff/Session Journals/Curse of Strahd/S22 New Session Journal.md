@@ -34,7 +34,8 @@ tags:
 
 ## Key Learnings
 - [[4. World Almanac/NPCs/Strahd Von Zarovich|Strahd Von Zarovich]] is jealous of Sergei Von Zarovich
-- 
+- Tatyana is an early reincarnation of Ireena
+- [[4. World Almanac/NPCs/Strahd Von Zarovich|Strahd Von Zarovich]] fell in love with Tatyana
 
 ## Items Of Importance
 - [[Helm Of The Minotaur]]
