@@ -45,3 +45,4 @@ tags:
 
 - The party makes it's way back to their horses and cart
 - They decrypt and read 2 chapters in the Tome of Strahd
+- The party makes its way back to the [[Ruins of Berez]] and watches the drama play out in the night
