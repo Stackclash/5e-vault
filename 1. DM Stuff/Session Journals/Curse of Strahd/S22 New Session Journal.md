@@ -33,8 +33,8 @@ tags:
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- [[4. World Almanac/NPCs/Strahd Von Zarovich|Strahd Von Zarovich]] is jealous of Sergei Von Zarovich
+- 
 
 ## Items Of Importance
 - [[Helm Of The Minotaur]]
