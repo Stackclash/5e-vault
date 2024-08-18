@@ -42,3 +42,5 @@ Who Did They Meet?
 
 ## What Happened
 
+- The party makes it's way back to their horses and cart
+- They decrypt and read 2 chapters in the Tome of Strahd
