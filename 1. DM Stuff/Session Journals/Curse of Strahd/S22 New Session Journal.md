@@ -38,6 +38,7 @@ Who Did They Meet?
 
 ## Items Of Importance
 - [[Helm Of The Minotaur]]
+- [[Amulet Of Health]]
 
 ## What Happened
 
