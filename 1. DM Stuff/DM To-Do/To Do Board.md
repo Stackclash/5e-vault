@@ -39,7 +39,6 @@ months:
 - [ ] [[Find where to include various DM tools]]
 - [ ] Create script to generate list of items sold at a Shop
 - [ ] Create script/roll tables to generate a NPC
-- [ ] [[Complete Critical Tables]]
 - [ ] [[See if info callout could use tabs]] ^lifr6c
 - [ ] Update find_file to return a string when a strong enough match isn't found
 
@@ -52,6 +51,7 @@ months:
 ## In Progress
 
 - [ ] [[Weather Generation]]
+- [ ] [[Complete Critical Tables]]
 
 
 ## Done
