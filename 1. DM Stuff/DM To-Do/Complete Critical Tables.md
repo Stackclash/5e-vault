@@ -49,34 +49,34 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 10         | Arm - Broken Elbow: Can’t hold heavy items in that hand and DIS to attacks with that hand for 2d4 weeks                             |
 ^bludgeoning-arm-critical
 
-| dice: 1d12 | Bludgeoning Head Critical                                                                         |
-| ---------- | ------------------------------------------------------------------------------------------------- |
-| 1          | Head - Caved Cranium: Instant death                                                               |
-| 2          | Head - Shattered Eye: All ranged attacks -2 to hit for 1d4 weeks                                  |
-| 3          | Head - Crushed Larynx: Stunned to end of next turn, Unable to speak above whisper until long rest |
-| 4          | Head - Lost Teeth                                                                                 |
-| 5          | Head - Broken Nose                                                                                |
-| 6          | Head - Broken Neck                                                                                |
-| 7          | Head - Dazing Blow                                                                                |
-| 8          | Head - Knocked Down                                                                               |
-| 9          | Head - Concussed Ear                                                                              |
-| 10         | Head - Cracked Skull                                                                              |
-| 11         | Head - Knocked Out                                                                                |
-| 12         | Head - Broken Jaw                                                                                 |
+| dice: 1d12 | Bludgeoning Head Critical                                                                                 |
+| ---------- | --------------------------------------------------------------------------------------------------------- |
+| 1          | Head - Caved Cranium: Instant death                                                                       |
+| 2          | Head - Shattered Eye: All ranged attacks -2 to hit for 1d4 weeks                                          |
+| 3          | Head - Crushed Larynx: Stunned to end of next turn, Unable to speak above whisper until long rest         |
+| 4          | Head - Lost Teeth: DIS to CHA (Persuasion) during first impressions, Attacker gets one free attack        |
+| 5          | Head - Broken Nose: Bleeding 1 HP/round until short rest                                                  |
+| 6          | Head - Broken Neck: Paralyzed for 2d6 weeks                                                               |
+| 7          | Head - Dazing Blow: Stunned to end of next turn                                                           |
+| 8          | Head - Knocked Down: Prone                                                                                |
+| 9          | Head - Concussed Ear: Stunned to end of next turn, Deafened for 2d4 turns                                 |
+| 10         | Head - Cracked Skull: Stunned 1d4 Rounds, DIS to INT, WIS and CHA checks for 2d4 days                     |
+| 11         | Head - Knocked Out: Unconscious 1d4 rounds                                                                |
+| 12         | Head - Broken Jaw: DIS to skills req’ing speech and can’t cast spells with Verbal component for 2d4 weeks |
 ^bludgeoning-head-critical
 
-| dice: 1d10 | Bludgeoning Leg Critical |
-| ---------- | ------------------------ |
-| 1          | Leg - Knee Capped        |
-| 2          | Leg - Broken Leg         |
-| 3          | Leg - Shattered Foot     |
-| 4          | Leg - Broken Foot        |
-| 5          | Leg - Off Balance        |
-| 6          | Leg - Knocked Down       |
-| 7          | Leg - Compound Fracture  |
-| 8          | Leg - Broken Ankle       |
-| 9          | Leg - Broken Knee        |
-| 10         | Leg - Fractured Heel     |
+| dice: 1d10 | Bludgeoning Leg Critical                                                                                                |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 1          | Leg - Knee Capped: Walking Speed ½ and DIS to checks req’ing footwork for 2d6 weeks, Unable to Dash                     |
+| 2          | Leg - Broken Leg: Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks                               |
+| 3          | Leg - Shattered Foot: Walking Speed ½, DIS to checks req’ing footwork, Unable to Dash                                   |
+| 4          | Leg - Broken Foot: Can’t hold heavy items in that hand, DIS to attacks/skills req’ing that hand for 1d6 weeks           |
+| 5          | Leg - Off Balance: Victim chooses to fall prone or forfeit movement until end of next turn                              |
+| 6          | Leg - Knocked Down: Prone                                                                                               |
+| 7          | Leg - Compound Fracture: Bleeding 1d8 HP/round, Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks |
+| 8          | Leg - Broken Ankle: Walking Speed ½ and unable to Dash for 1d4 weeks                                                    |
+| 9          | Leg - Broken Knee: Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks, Unable to Dash              |
+| 10         | Leg - Fractured Heel: Walking Speed ½ for 1d6 weeks                                                                     |
 ^bludgeoning-leg-critical
 
 | dice: 1d11 | Bludgeoning Torso Critical |
