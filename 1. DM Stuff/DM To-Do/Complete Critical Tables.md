@@ -35,34 +35,34 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 4         | `dice: [[Complete Critical Tables#^bludgeoning-torso-critical]]` |
 ^bludgeoning-critical
 
-| dice: 1d10 | Bludgeoning Arm Critical |
-| ---------- | ------------------------ |
-| 1          | Arm - Broken Arm         |
-| 2          | Arm - Shattered Hand     |
-| 3          | Arm - Shattered Wrist    |
-| 4          | Arm - Broken Wrist       |
-| 5          | Arm - Flung Weapon       |
-| 6          | Arm - Dropped Item       |
-| 7          | Arm - Compound Fracture  |
-| 8          | Arm - Broken Shoulder    |
-| 9          | Arm - Broken Finger      |
-| 10         | Arm - Broken Elbow       |
+| dice: 1d10 | Bludgeoning Arm Critical                                                                                                            |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Arm - Broken Arm: Can’t hold heavy items in that hand and DIS to attacks with that hand for 2d6 weeks                               |
+| 2          | Arm - Shattered Hand: DIS to attacks/skills req’ing that hand                                                                       |
+| 3          | Arm - Shattered Wrist: Unable to hold anything in that hand, Fail skills req’ing that hand                                          |
+| 4          | Arm - Broken Wrist: Can’t hold heavy items in that hand and DIS to attacks with that hand for 1d6 weeks                             |
+| 5          | Arm - Flung Weapon: Victim’s weapon is knocked 1d6x5 feet in direction of Attacker’s choice                                         |
+| 6          | Arm - Dropped Item: Victim drops item held in hand of Attacker’s choice                                                             |
+| 7          | Arm - Compound Fracture: Bleeding 1d8 HP/round, Can’t hold heavy items in that hand and DIS to attacks with that hand for 2d6 weeks |
+| 8          | Arm - Broken Shoulder: Can’t attack with any weapon req’ing that hand for 2d6 weeks                                                 |
+| 9          | Arm - Broken Finger: DIS to skills req’ing that hand for 2d4 weeks                                                                  |
+| 10         | Arm - Broken Elbow: Can’t hold heavy items in that hand and DIS to attacks with that hand for 2d4 weeks                             |
 ^bludgeoning-arm-critical
 
-| dice: 1d12 | Bludgeoning Head Critical |
-| ---------- | ------------------------- |
-| 1          | Head - Caved Cranium      |
-| 2          | Head - Shattered Eye      |
-| 3          | Head - Crushed Larynx     |
-| 4          | Head - Lost Teeth         |
-| 5          | Head - Broken Nose        |
-| 6          | Head - Broken Neck        |
-| 7          | Head - Dazing Blow        |
-| 8          | Head - Knocked Down       |
-| 9          | Head - Concussed Ear      |
-| 10         | Head - Cracked Skull      |
-| 11         | Head - Knocked Out        |
-| 12         | Head - Broken Jaw         |
+| dice: 1d12 | Bludgeoning Head Critical                                                                         |
+| ---------- | ------------------------------------------------------------------------------------------------- |
+| 1          | Head - Caved Cranium: Instant death                                                               |
+| 2          | Head - Shattered Eye: All ranged attacks -2 to hit for 1d4 weeks                                  |
+| 3          | Head - Crushed Larynx: Stunned to end of next turn, Unable to speak above whisper until long rest |
+| 4          | Head - Lost Teeth                                                                                 |
+| 5          | Head - Broken Nose                                                                                |
+| 6          | Head - Broken Neck                                                                                |
+| 7          | Head - Dazing Blow                                                                                |
+| 8          | Head - Knocked Down                                                                               |
+| 9          | Head - Concussed Ear                                                                              |
+| 10         | Head - Cracked Skull                                                                              |
+| 11         | Head - Knocked Out                                                                                |
+| 12         | Head - Broken Jaw                                                                                 |
 ^bludgeoning-head-critical
 
 | dice: 1d10 | Bludgeoning Leg Critical |
