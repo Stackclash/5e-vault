@@ -1,7 +1,10 @@
 ---
 obsidianUIMode: preview
 date: 2024-07-27
-summary: 
+summary: |-
+  In the frozen ruins of Tsolenka Pass, the party took shelter in the crumbling battlements, the howling winds of Mount Ghakis and thick snowfall surrounding them. With the desolate fortress abandoned, Redgrave seized the quiet moment to decode the second chapter of the Tome of Strahd. As the group gathered around, they read Strahd's chilling dedication to Barovia, his land, newly conquered yet cursed by his own ambitions. The weight of the ancient vampire’s words lingered in the cold air, as the dawn’s faint light struggled to pierce the storm.
+
+  The next day, their journey led them across a perilous bridge spanning a great chasm, but a monstrous bird descended from the peaks, seeking to make them its prey. Desperation drove them to cast the body of a dead Vistani to distract the creature, but its hunger could not be sated. In a vicious clash, Redgrave summoned a swirling vortex of snow, ensnaring the beast, while Seluvis, standing fearlessly in its midst, shattered its talon with his magical fists. Cawing in agony, the bird retreated, leaving the party victorious but shaken. With the mountain looming above and the Luna River far below, they chose a bold plan—using magic to leap from the cliffs, gently floating toward the river, and the next stage of their treacherous journey through Barovia.
 fc-date: 973-2-21
 fc-end: 973-2-22
 timelines:
