@@ -1,69 +1,7 @@
 {
-  "players": [
-    {
-      "note": null,
-      "path": null,
-      "name": "Faerah Duskrane",
-      "ac": 16,
-      "hp": 38,
-      "level": 6,
-      "modifier": 6,
-      "player": true
-    },
-    {
-      "note": null,
-      "path": null,
-      "name": "Redgrave",
-      "ac": 23,
-      "hp": 45,
-      "level": 6,
-      "modifier": -1,
-      "player": true
-    },
-    {
-      "note": null,
-      "path": null,
-      "name": "Marin",
-      "ac": 19,
-      "hp": 51,
-      "level": 6,
-      "modifier": 3,
-      "player": true
-    },
-    {
-      "note": null,
-      "path": null,
-      "name": "Yevelda Ovak",
-      "ac": 15,
-      "hp": 17,
-      "level": 6,
-      "modifier": 2,
-      "player": true
-    },
-    {
-      "note": "Seluvis Felo'melorn",
-      "path": "3. The Party/Players/Seluvis Felo'melorn.md",
-      "name": "Seluvis Felo'melorn",
-      "ac": 23,
-      "hp": 49,
-      "level": 7,
-      "modifier": 3,
-      "player": true
-    }
-  ],
-  "parties": [
-    {
-      "name": "Curse of Strahd",
-      "players": [
-        "Faerah Duskrane",
-        "Redgrave",
-        "Marin",
-        "Yevelda Ovak",
-        "Seluvis Felo'melorn"
-      ]
-    }
-  ],
-  "defaultParty": "Curse of Strahd",
+  "players": [],
+  "parties": [],
+  "defaultParty": null,
   "statuses": [
     {
       "name": "Blinded",
@@ -156,7 +94,7 @@
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": true,
+  "sync": false,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
@@ -172,7 +110,7 @@
         "currentAC": 16,
         "note": null,
         "path": null,
-        "id": "ID_aa68eaa93afa",
+        "id": "ID_78185bd999f8",
         "currentHP": 38,
         "tempHP": 0,
         "status": [],
@@ -194,7 +132,7 @@
         "currentAC": 23,
         "note": null,
         "path": null,
-        "id": "ID_a93b1959ab0a",
+        "id": "ID_ea280a1b9a6a",
         "currentHP": 45,
         "tempHP": 0,
         "status": [],
@@ -216,7 +154,7 @@
         "currentAC": 19,
         "note": null,
         "path": null,
-        "id": "ID_5b296b58a97b",
+        "id": "ID_aaf8587aa95b",
         "currentHP": 25,
         "tempHP": 0,
         "status": [],
@@ -238,7 +176,7 @@
         "currentAC": 15,
         "note": null,
         "path": null,
-        "id": "ID_ba88e88a8bc9",
+        "id": "ID_d82a0bdb7b78",
         "currentHP": 30,
         "tempHP": 0,
         "status": [],
@@ -260,7 +198,7 @@
         "currentAC": 23,
         "note": "Seluvis Felo'melorn",
         "path": "3. The Party/Players/Seluvis Felo'melorn.md",
-        "id": "ID_0a79b94ae97b",
+        "id": "ID_ab0a1b3b8bfa",
         "currentHP": 42,
         "tempHP": 0,
         "status": [],
@@ -392,9 +330,9 @@
       }
     ],
     "state": false,
-    "name": "Baba Lysaga",
+    "name": null,
     "round": 1,
-    "logFile": "2. Scratch Notes/1722143410726 - Encounter.md",
+    "logFile": "",
     "rollHP": false
   },
   "condense": false,
@@ -415,155 +353,16 @@
   "hpOverflow": "ignore",
   "additiveTemp": false,
   "rpgSystem": "dnd5e",
-  "logging": true,
-  "logFolder": "2. Scratch Notes",
+  "logging": false,
+  "logFolder": "/",
   "useLegacy": false,
   "diplayPlayerHPValues": true,
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": false,
-    "showXP": false,
-    "sidebarIcon": true,
-    "headers": [
-      {
-        "text": "CR",
-        "field": "cr",
-        "type": 1
-      },
-      {
-        "text": "Type",
-        "field": "type",
-        "type": 0
-      },
-      {
-        "text": "Size",
-        "field": "size",
-        "type": 0
-      },
-      {
-        "text": "Alignment",
-        "field": "alignment",
-        "type": 0
-      }
-    ],
-    "filters": {
-      "filters": [
-        {
-          "type": 0,
-          "text": "CR",
-          "fields": [
-            "cr"
-          ],
-          "options": [
-            0,
-            30
-          ],
-          "id": "ID_DEFAULT_CR_FILTER",
-          "derive": true
-        },
-        {
-          "type": 2,
-          "text": "Size",
-          "fields": [
-            "size"
-          ],
-          "options": [
-            "large",
-            "medium",
-            "huge",
-            "gargantuan",
-            "small",
-            "tiny"
-          ],
-          "id": "ID_DEFAULT_SIZE_FILTER",
-          "derive": true
-        },
-        {
-          "type": 2,
-          "text": "Type",
-          "fields": [
-            "type"
-          ],
-          "options": [
-            "aberration",
-            "humanoid",
-            "dragon",
-            "undead",
-            "elemental",
-            "monstrosity",
-            "construct",
-            "beast",
-            "plant",
-            "fiend",
-            "ooze",
-            "fey",
-            "giant",
-            "celestial",
-            "swarm of tiny beasts"
-          ],
-          "id": "ID_DEFAULT_TYPE_FILTER",
-          "derive": true
-        },
-        {
-          "type": 2,
-          "text": "Alignment",
-          "fields": [
-            "alignment"
-          ],
-          "options": [
-            "lawful evil",
-            "any alignment",
-            "chaotic evil",
-            "chaotic good",
-            "lawful good",
-            "neutral",
-            "lawful neutral",
-            "unaligned",
-            "any non-good alignment",
-            "any non-lawful alignment",
-            "neutral evil",
-            "any chaotic alignment",
-            "neutral good",
-            "chaotic neutral",
-            "neutral good (50%) or neutral evil (50%)",
-            "any evil alignment"
-          ],
-          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
-          "derive": true
-        }
-      ],
-      "layout": [
-        {
-          "nested": [
-            {
-              "id": "ID_DEFAULT_CR_FILTER",
-              "type": "filter"
-            }
-          ],
-          "id": "ID_DEFAULT_NESTED_CR",
-          "type": "nested"
-        },
-        {
-          "id": "ID_DEFAULT_NESTED_LAYOUT",
-          "type": "nested",
-          "nested": [
-            {
-              "id": "ID_DEFAULT_SIZE_FILTER",
-              "type": "filter"
-            },
-            {
-              "id": "ID_DEFAULT_TYPE_FILTER",
-              "type": "filter"
-            },
-            {
-              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
-              "type": "filter"
-            }
-          ]
-        }
-      ]
-    }
+    "showParty": true,
+    "showXP": true,
+    "sidebarIcon": true
   },
-  "rollPlayerInitiatives": 1
+  "rollPlayerInitiatives": 0
 }
