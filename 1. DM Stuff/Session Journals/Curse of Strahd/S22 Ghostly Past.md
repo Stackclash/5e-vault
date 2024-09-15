@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2024-08-17
-summary:
+summary: 
 fc-date: 973-2-22
 fc-end: 
 timelines:
@@ -12,6 +12,8 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-08-17.md|2024-08-17]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
 ---
 > [!infobox]
 > ## Info
