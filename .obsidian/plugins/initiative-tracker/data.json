@@ -239,7 +239,7 @@
         "note": null,
         "path": null,
         "id": "ID_d82a0bdb7b78",
-        "currentHP": 17,
+        "currentHP": 12,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -267,7 +267,7 @@
         "enabled": true,
         "level": 7,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -326,7 +326,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "2d8 + 2"
