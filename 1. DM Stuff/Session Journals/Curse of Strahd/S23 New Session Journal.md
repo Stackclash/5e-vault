@@ -40,4 +40,5 @@ Who Did They Meet?
 Description
 
 ## What Happened
-- The party
+- The party plans to sneak into [[Baba Lysagas Creeping Hut]] when [[Baba Lysaga]] is talking to shadow Strahd
+- 
