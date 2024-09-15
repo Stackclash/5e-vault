@@ -1,10 +1,10 @@
 ---
 obsidianUIMode: preview
 statblock: true
-name: Yevelda Ovak
+name: "Yevelda Ovak "
 level: 7
 ac: 15
-hp: 71
+hp: 66
 modifier: 2
 proficiency: 3
 url: https://dndbeyond.com/characters/103814449
