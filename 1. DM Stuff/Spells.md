@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-class: paladin
+class: warlock
 level: ""
 school: ""
 ---
