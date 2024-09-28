@@ -174,8 +174,8 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 
 | dice: 1d12 | Slashing Arm Critical                                                                                            |
 | ---------- | ---------------------------------------------------------------------------------------------------------------- |
-| 1          | Arm - Lost Fingers                                                                                               |
-| 2          | Arm - Broken Fingers                                                                                             |
+| 1          | Arm - Lost Fingers: Drop item held in that hand, Lose 1d4 Fingers, DIS to skills req’ing that hand for 2d4 weeks |
+| 2          | Arm - Broken Fingers: DIS to skills req’ing that hand for 2d4 weeks                                              |
 | 3          | Arm - Dropped Item                                                                                               |
 | 4          | Arm - Severed Arm                                                                                                |
 | 5          | Arm - Broken Arm                                                                                                 |
