@@ -27,8 +27,8 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 12         | Knocked Down: Knocked [[Conditions#Prone\|prone]]                                                                                   |
 ^arrow-critical
 
-| dice: 1d4 | Bludgeoning Critical                                    |
-| --------- | ------------------------------------------------------- |
+| dice: 1d4 | Bludgeoning Critical                                             |
+| --------- | ---------------------------------------------------------------- |
 | 1         | `dice: [[Complete Critical Tables#^bludgeoning-arm-critical]]`   |
 | 2         | `dice: [[Complete Critical Tables#^bludgeoning-head-critical]]`  |
 | 3         | `dice: [[Complete Critical Tables#^bludgeoning-leg-critical]]`   |
@@ -148,20 +148,20 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 11         | Leg - Off Balance: Victim chooses to fall prone or forfeit movement until end of next turn                                                                                                     |
 ^piercing-leg-critical
 
-| dice: 1d12 | Piercing Torso Critical                                                                                                         |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 1          | Torso - Pierced Backside: Short Rests take twice as long for 1d4 days, Attacker gets one free attack                            |
-| 2          | Torso - Nethers: Stunned to end of next turn, Allies with line of sight lose Reaction gasping in empathy                        |
-| 3          | Torso - Back Stabbed: Double damage, Attacker may kick Victim prone as a bonus action                                           |
-| 4          | Torso - Impaled Stomach: Double damage, If Attacker whispers shocking revelation or vile insult into ear, Frightened 1d4 rounds |
-| 5          | Torso - Broken Heart: Victim drops to 0 HP with two automatically failed Death Saves                                            |
-| 6          | Torso - Broken Back: Walking Speed cannot be raised higher than 0 until 2d6 weeks of bed rest                                   |
-| 7          | Torso - Slipped Vertebrae: Walking Speed ½ until short rest, DIS to STR checks for 1d6 days                                     |
-| 8          | Torso - Broken Ribs: Attacker gets ADV next attack,                                                                             |
-| 9          | Torso - Knocked Down                                                                                                            |
-| 10         | Torso - Disemboweled                                                                                                            |
-| 11         | Torso - Pierced Lung                                                                                                            |
-| 12         | Torso - Broken Hip                                                                                                              |
+| dice: 1d12 | Piercing Torso Critical                                                                                                                |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Torso - Pierced Backside: Short Rests take twice as long for 1d4 days, Attacker gets one free attack                                   |
+| 2          | Torso - Nethers: Stunned to end of next turn, Allies with line of sight lose Reaction gasping in empathy                               |
+| 3          | Torso - Back Stabbed: Double damage, Attacker may kick Victim prone as a bonus action                                                  |
+| 4          | Torso - Impaled Stomach: Double damage, If Attacker whispers shocking revelation or vile insult into ear, Frightened 1d4 rounds        |
+| 5          | Torso - Broken Heart: Victim drops to 0 HP with two automatically failed Death Saves                                                   |
+| 6          | Torso - Broken Back: Walking Speed cannot be raised higher than 0 until 2d6 weeks of bed rest                                          |
+| 7          | Torso - Slipped Vertebrae: Walking Speed ½ until short rest, DIS to STR checks for 1d6 days                                            |
+| 8          | Torso - Broken Ribs: Attacker gets ADV next attack, Short Rests take twice as long and Long Rests take 2 additional hours for 2d6 days |
+| 9          | Torso - Knocked Down: Prone                                                                                                            |
+| 10         | Torso - Disemboweled: Incapacitated until successful CON Save, pushing innards back, Exhaustion level raised by 1                      |
+| 11         | Torso - Pierced Lung: Incapacitated until successful CON Save, pushing innards back, Exhaustion level raised by 1                      |
+| 12         | Torso - Broken Hip: Walking Speed ½ and can’t Dash for 2d6 weeks                                                                                                                   |
 ^piercing-torso-critical
 
 | dice: 1d4 | Slashing Critical                                    |
@@ -172,20 +172,20 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 4         | `dice: [[Complete Critical Tables#^slashing-torso-critical]]` |
 ^slashing-critical
 
-| dice: 1d12 | Slashing Arm Critical   |
-| ---------- | ----------------------- |
-| 1          | Arm - Lost Fingers      |
-| 2          | Arm - Broken Fingers    |
-| 3          | Arm - Dropped Item      |
-| 4          | Arm - Severed Arm       |
-| 5          | Arm - Broken Arm        |
-| 6          | Arm - Compound Fracture |
-| 7          | Arm - Pierced Hand: Drop item held in that hand, Disadvantage to skills requiring that hand for `dice: 1d4` days      |
-| 8          | Arm - Split Hand        |
-| 9          | Arm - Severed Hand      |
-| 10         | Arm - Slit Wrists       |
-| 11         | Arm - Finger Tipped     |
-| 12         | Arm - Broken Elbow      |
+| dice: 1d12 | Slashing Arm Critical                                                                                            |
+| ---------- | ---------------------------------------------------------------------------------------------------------------- |
+| 1          | Arm - Lost Fingers                                                                                               |
+| 2          | Arm - Broken Fingers                                                                                             |
+| 3          | Arm - Dropped Item                                                                                               |
+| 4          | Arm - Severed Arm                                                                                                |
+| 5          | Arm - Broken Arm                                                                                                 |
+| 6          | Arm - Compound Fracture                                                                                          |
+| 7          | Arm - Pierced Hand: Drop item held in that hand, Disadvantage to skills requiring that hand for `dice: 1d4` days |
+| 8          | Arm - Split Hand                                                                                                 |
+| 9          | Arm - Severed Hand                                                                                               |
+| 10         | Arm - Slit Wrists                                                                                                |
+| 11         | Arm - Finger Tipped                                                                                              |
+| 12         | Arm - Broken Elbow                                                                                               |
 ^slashing-arm-critical
 
 | dice: 1d12 | Slashing Head Critical      |
