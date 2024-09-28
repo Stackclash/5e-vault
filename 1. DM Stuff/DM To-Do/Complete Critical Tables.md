@@ -79,19 +79,19 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 10         | Leg - Fractured Heel: Walking Speed ½ for 1d6 weeks                                                                     |
 ^bludgeoning-leg-critical
 
-| dice: 1d11 | Bludgeoning Torso Critical |
-| ---------- | -------------------------- |
-| 1          | Torso - Broken Tailbone    |
-| 2          | Torso - Broken Back        |
-| 3          | Torso - Nethers            |
-| 4          | Torso - Wind Knocked Out   |
-| 5          | Torso - Kidney Strike      |
-| 6          | Torso - Knocked Down       |
-| 7          | Torso - Slipped Vertebrae  |
-| 8          | Torso - Off Balance        |
-| 9          | Torso - Thrown             |
-| 10         | Torso - Broken Hip         |
-| 11         | Torso - Broken Ribs        |
+| dice: 1d11 | Bludgeoning Torso Critical                                                                               |
+| ---------- | -------------------------------------------------------------------------------------------------------- |
+| 1          | Torso - Broken Tailbone: Short Rests take twice as long for 2d4 days, Attacker gets one free attack      |
+| 2          | Torso - Broken Back: Walking Speed can’t be raised higher than 0 until 2d6 weeks of bed rest             |
+| 3          | Torso - Nethers: Stunned to end of next turn, Allies with line of sight lose Reaction gasping in empathy |
+| 4          | Torso - Wind Knocked Out: Victim feels suffocated, Stunned to end of next turn                           |
+| 5          | Torso - Kidney Strike: Stunned to end of next turn, Exhaustion level raised by 1                         |
+| 6          | Torso - Knocked Down:                                                                                    |
+| 7          | Torso - Slipped Vertebrae                                                                                |
+| 8          | Torso - Off Balance                                                                                      |
+| 9          | Torso - Thrown                                                                                           |
+| 10         | Torso - Broken Hip                                                                                       |
+| 11         | Torso - Broken Ribs                                                                                      |
 ^bludgeoning-torso-critical
 
 | dice: 1d4 | Piercing Critical                                    |
