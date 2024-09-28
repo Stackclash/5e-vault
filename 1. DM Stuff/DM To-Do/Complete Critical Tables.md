@@ -117,35 +117,35 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 11         | Arm - Broken Elbow: Can’t hold heavy items in that hand and DIS to attacks with that hand for 2d4 weeks                             |
 ^piercing-arm-critical
 
-| dice: 1d12 | Piercing Head Critical      |
-| ---------- | --------------------------- |
-| 1          | Head - Lost Teeth           |
-| 2          | Head - Severed Nose         |
-| 3          | Head - Pierced Eardrum      |
-| 4          | Head - Pierced Mouth        |
-| 5          | Head - Broken Jaw           |
-| 6          | Head - Eye Plucked          |
-| 7          | Head - Pierced Throat       |
-| 8          | Head - Dazing Blow          |
-| 9          | Head - Knocked Out          |
-| 10         | Head - Knocked Down         |
-| 11         | Head - Horrific Facial Scar |
-| 12         | Head - Pierced Brain        |
+| dice: 1d12 | Piercing Head Critical                                                                                                                                         |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Head - Lost Teeth: DIS to CHA (Persuasion) during first impressions, Attacker gets one free attack                                                             |
+| 2          | Head - Severed Nose: Stunned to end of next turn, DIS to skills req’ing smell, ADV to CHA (Intimidation) during first                                          |
+| 3          | Head - Pierced Eardrum: DIS to skills req’ing hearing                                                                                                          |
+| 4          | Head - Pierced Mouth: DIS to skills req’ing speech and can’t cast spells with Verbal component until long rest                                                 |
+| 5          | Head - Broken Jaw: DIS to skill checks req’ing speech and can’t cast spells with Verbal component for 2d4 weeks                                                |
+| 6          | Head - Eye Plucked: All ranged attacks -2 to hit, ADV to CHA (Intimidation) during first impressions                                                           |
+| 7          | Head - Pierced Throat: Bleeding 1d6 HP/round, Can’t speak above whisper for 2d6 days                                                                           |
+| 8          | Head - Dazing Blow: Stunned to end of next turn                                                                                                                |
+| 9          | Head - Knocked Out: Unconscious 1d4 rounds or until successful CON Save                                                                                        |
+| 10         | Head - Knocked Down: Prone                                                                                                                                     |
+| 11         | Head - Horrific Facial Scar: If Attacker performs a stirring soliloquy, Victim stunned to end of next turn, ADV to CHA (Intimidation) during first impressions |
+| 12         | Head - Pierced Brain: Instant Death                                                                                                                            |
 ^piercing-head-critical
 
-| dice: 1d11 | Piercing Leg Critical   |
-| ---------- | ----------------------- |
-| 1          | Leg - Femoral Artery    |
-| 2          | Leg - Compound Fracture |
-| 3          | Leg - Pierced Foot      |
-| 4          | Leg - Pierced Knee: Walking speed is 5 feet and receive no AC Dexterity bonus for `dice: 2d6` weeks, Unable to Dash      |
-| 5          | Leg - Broken Ankle      |
-| 6          | Leg - Knocked Down      |
-| 7          | Leg - Achilles Tendon   |
-| 8          | Leg - Lost Toes         |
-| 9          | Leg - Broken Foot       |
-| 10         | Leg - Broken Heel       |
-| 11         | Leg - Off Balance       |
+| dice: 1d11 | Piercing Leg Critical                                                                                                   |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 1          | Leg - Femoral Artery: Bleeding 1d12 HP/round                                                                            |
+| 2          | Leg - Compound Fracture: Bleeding 1d8 HP/round, Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks |
+| 3          | Leg - Pierced Foot: Unable to Dash and DIS to skills req’ing footwork for 1d6 days                                      |
+| 4          | Leg - Pierced Knee: Walking speed is 5 feet and receive no AC Dexterity bonus for `dice: 2d6` weeks, Unable to Dash     |
+| 5          | Leg - Broken Ankle: Walking Speed ½ and unable to Dash for 1d4 weeks                                                    |
+| 6          | Leg - Knocked Down                                                                                                      |
+| 7          | Leg - Achilles Tendon                                                                                                   |
+| 8          | Leg - Lost Toes                                                                                                         |
+| 9          | Leg - Broken Foot                                                                                                       |
+| 10         | Leg - Broken Heel                                                                                                       |
+| 11         | Leg - Off Balance                                                                                                       |
 ^piercing-leg-critical
 
 | dice: 1d12 | Piercing Torso Critical   |
