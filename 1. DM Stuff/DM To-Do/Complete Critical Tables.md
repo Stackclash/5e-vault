@@ -94,8 +94,8 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 11         | Torso - Broken Ribs: Attacker gets ADV on next attack, Short Rests take twice as long and Long Rests take 2 additional hours for 2d6 days          |
 ^bludgeoning-torso-critical
 
-| dice: 1d4 | Piercing Critical                                    |
-| --------- | ---------------------------------------------------- |
+| dice: 1d4 | Piercing Critical                                             |
+| --------- | ------------------------------------------------------------- |
 | 1         | `dice: [[Complete Critical Tables#^piercing-arm-critical]]`   |
 | 2         | `dice: [[Complete Critical Tables#^piercing-head-critical]]`  |
 | 3         | `dice: [[Complete Critical Tables#^piercing-leg-critical]]`   |
@@ -140,28 +140,28 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 3          | Leg - Pierced Foot: Unable to Dash and DIS to skills req’ing footwork for 1d6 days                                      |
 | 4          | Leg - Pierced Knee: Walking speed is 5 feet and receive no AC Dexterity bonus for `dice: 2d6` weeks, Unable to Dash     |
 | 5          | Leg - Broken Ankle: Walking Speed ½ and unable to Dash for 1d4 weeks                                                    |
-| 6          | Leg - Knocked Down                                                                                                      |
-| 7          | Leg - Achilles Tendon                                                                                                   |
-| 8          | Leg - Lost Toes                                                                                                         |
-| 9          | Leg - Broken Foot                                                                                                       |
-| 10         | Leg - Broken Heel                                                                                                       |
-| 11         | Leg - Off Balance                                                                                                       |
+| 6          | Leg - Knocked Down: Prone                                                                                               |
+| 7          | Leg - Achilles Tendon: Walking Speed ½ and DIS to skills req’ing footwork, Unable to Dash                               |
+| 8          | Leg - Lost Toes: Lose 1d4 toes, Walking Speed ½ for one day for each toe lost                                           |
+| 9          | Leg - Broken Foot: Walking Speed ½ and DIS to skills req’ing footwork for 2d4 weeks                                     |
+| 10         | Leg - Broken Heel: Walking Speed ½ for 1d6 weeks                                                                        |
+| 11         | Leg - Off Balance: Victim chooses to fall prone or forfeit movement until end of next turn                                                                                                     |
 ^piercing-leg-critical
 
-| dice: 1d12 | Piercing Torso Critical   |
-| ---------- | ------------------------- |
-| 1          | Torso - Pierced Backside  |
-| 2          | Torso - Nethers           |
-| 3          | Torso - Back Stabbed      |
-| 4          | Torso - Impaled Stomach   |
-| 5          | Torso - Broken Heart      |
-| 6          | Torso - Broken Back       |
-| 7          | Torso - Slipped Vertebrae |
-| 8          | Torso - Broken Ribs       |
-| 9          | Torso - Knocked Down      |
-| 10         | Torso - Disemboweled      |
-| 11         | Torso - Pierced Lung      |
-| 12         | Torso - Broken Hip        |
+| dice: 1d12 | Piercing Torso Critical                                                                                                         |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Torso - Pierced Backside: Short Rests take twice as long for 1d4 days, Attacker gets one free attack                            |
+| 2          | Torso - Nethers: Stunned to end of next turn, Allies with line of sight lose Reaction gasping in empathy                        |
+| 3          | Torso - Back Stabbed: Double damage, Attacker may kick Victim prone as a bonus action                                           |
+| 4          | Torso - Impaled Stomach: Double damage, If Attacker whispers shocking revelation or vile insult into ear, Frightened 1d4 rounds |
+| 5          | Torso - Broken Heart: Victim drops to 0 HP with two automatically failed Death Saves                                            |
+| 6          | Torso - Broken Back: Walking Speed cannot be raised higher than 0 until 2d6 weeks of bed rest                                   |
+| 7          | Torso - Slipped Vertebrae: Walking Speed ½ until short rest, DIS to STR checks for 1d6 days                                     |
+| 8          | Torso - Broken Ribs: Attacker gets ADV next attack,                                                                             |
+| 9          | Torso - Knocked Down                                                                                                            |
+| 10         | Torso - Disemboweled                                                                                                            |
+| 11         | Torso - Pierced Lung                                                                                                            |
+| 12         | Torso - Broken Hip                                                                                                              |
 ^piercing-torso-critical
 
 | dice: 1d4 | Slashing Critical                                    |
