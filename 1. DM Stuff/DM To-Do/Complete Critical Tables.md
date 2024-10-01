@@ -197,7 +197,7 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 5          | Head - Broken Jaw: DIS to skill checks req’ing speech and can’t cast spells with Verbal component for 2d4                                                      |
 | 6          | Head - Eye Plucked: All ranged attacks -2 to hit, ADV to CHA (Intimidation) during first                                                                       |
 | 7          | Head - Throat Slashed: Bleeding 1d10 HP/round, Can’t speak above whisper for 2d6 days                                                                          |
-| 8          | Head - Dazing Blow: Stunned to end of next                                                                                                                     |
+| 8          | Head - Dazing Blow: Stunned to end of next turn                                                                                                                     |
 | 9          | Head - Knocked Out: Unconscious 1d4 rounds or until successful CON                                                                                             |
 | 10         | Head - Scalped: Stunned to end of next turn, Bleeding 1d10 HP/round                                                                                            |
 | 11         | Head - Horrific Facial Scar: If Attacker performs a stirring soliloquy, Victim stunned to end of next turn, ADV to CHA (Intimidation) during first impressions |
@@ -208,8 +208,8 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1          | Leg - Lost Toes: Lose 1d4 toes, Walking Speed 1/2 for one day for each toe lost                                           |
 | 2          | Leg - Broken Leg: Walking Speed is 5 (or 1/2 with crutch) and no AC Dex bonus for 2d6 weeks                               |
-| 3          | Leg - Severed Foot                                                                                                        |
-| 4          | Leg - Severed Leg                                                                                                         |
+| 3          | Leg - Severed Foot: Bleeding 1d8 HP/round, Walking Speed is 5 (or ½ with crutch) and no DEX AC bonus                      |
+| 4          | Leg - Severed Leg: Bleeding 1d10 HP/round, Walking Speed is 5 (or ½ with crutch) and no DEX AC bonus                      |
 | 5          | Leg - Broken Knee: Walking Speed is 5 (or 1/2 with crutch) and no AC Dex bonus for 2d6 weeks, Unable to Dash              |
 | 6          | Leg - Achilles Tendon: Walking Speed 1/2 and DIS to skills req’ing footwork, Unable to Dash                               |
 | 7          | Leg - Compound Fracture: Bleeding 1d8 HP/round, Walking Speed is 5 (or 1/2 with crutch) and no AC Dex bonus for 2d6 weeks |
@@ -238,13 +238,13 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 
 | dice: 1d12 | Unarmed Kick Critical |
 | ---------- | --------------------- |
-| 1          | Knee Capped           |
-| 2          | Broken Nose           |
-| 3          | Compound Fracture     |
-| 4          | Slipped Vertebrae     |
-| 5          | Broken Jaw            |
-| 6          | Nethers               |
-| 7          | Broken Leg            |
+| 1          | Knee Capped: Walking Speed ½ and DIS to skills req’ing footwork for 2d6 weeks, Unable to Dash           |
+| 2          | Broken Nose: Bleeding 1 HP/turn until short rest           |
+| 3          | Compound Fracture: Bleeding 1d8 HP/round, Cannot hold heavy items with that hand and DIS to attacks with that hand for 2d6 weeks     |
+| 4          | Slipped Vertebrae: Walking Speed 1/2 until short rest, DIS to STR checks for 1d6 days     |
+| 5          | Broken Jaw: DIS to skill checks req’ing speech and can’t cast spells with Verbal component for 2d4            |
+| 6          | Nethers: Stunned until end of next turn, Attacker gets one free attack               |
+| 7          | Broken Leg: Walking Speed is 5 (or 1/2 with crutch) and no AC Dex bonus for 2d6 weeks            |
 | 8          | Dazing Blow           |
 | 9          | Knocked Out           |
 | 10         | Thrown                |
