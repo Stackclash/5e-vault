@@ -197,7 +197,7 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 5          | Head - Broken Jaw: DIS to skill checks req’ing speech and can’t cast spells with Verbal component for 2d4                                                      |
 | 6          | Head - Eye Plucked: All ranged attacks -2 to hit, ADV to CHA (Intimidation) during first                                                                       |
 | 7          | Head - Throat Slashed: Bleeding 1d10 HP/round, Can’t speak above whisper for 2d6 days                                                                          |
-| 8          | Head - Dazing Blow: Stunned to end of next turn                                                                                                                     |
+| 8          | Head - Dazing Blow: Stunned to end of next turn                                                                                                                |
 | 9          | Head - Knocked Out: Unconscious 1d4 rounds or until successful CON                                                                                             |
 | 10         | Head - Scalped: Stunned to end of next turn, Bleeding 1d10 HP/round                                                                                            |
 | 11         | Head - Horrific Facial Scar: If Attacker performs a stirring soliloquy, Victim stunned to end of next turn, ADV to CHA (Intimidation) during first impressions |
@@ -236,36 +236,36 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 12         | Torso - Knocked Down: Prone                                                                                                            |
 ^slashing-torso-critical
 
-| dice: 1d12 | Unarmed Kick Critical |
-| ---------- | --------------------- |
-| 1          | Knee Capped: Walking Speed ½ and DIS to skills req’ing footwork for 2d6 weeks, Unable to Dash           |
-| 2          | Broken Nose: Bleeding 1 HP/turn until short rest           |
-| 3          | Compound Fracture: Bleeding 1d8 HP/round, Cannot hold heavy items with that hand and DIS to attacks with that hand for 2d6 weeks     |
-| 4          | Slipped Vertebrae: Walking Speed 1/2 until short rest, DIS to STR checks for 1d6 days     |
-| 5          | Broken Jaw: DIS to skill checks req’ing speech and can’t cast spells with Verbal component for 2d4            |
-| 6          | Nethers: Stunned until end of next turn, Attacker gets one free attack               |
-| 7          | Broken Leg: Walking Speed is 5 (or 1/2 with crutch) and no AC Dex bonus for 2d6 weeks            |
-| 8          | Dazing Blow           |
-| 9          | Knocked Out           |
-| 10         | Thrown                |
-| 11         | Knocked Down          |
-| 12         | Broken Ribs           |
+| dice: 1d12 | Unarmed Kick Critical                                                                                                                      |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1          | Knee Capped: Walking Speed ½ and DIS to skills req’ing footwork for 2d6 weeks, Unable to Dash                                              |
+| 2          | Broken Nose: Bleeding 1 HP/turn until short rest                                                                                           |
+| 3          | Compound Fracture: Bleeding 1d8 HP/round, Cannot hold heavy items with that hand and DIS to attacks with that hand for 2d6 weeks           |
+| 4          | Slipped Vertebrae: Walking Speed 1/2 until short rest, DIS to STR checks for 1d6 days                                                      |
+| 5          | Broken Jaw: DIS to skill checks req’ing speech and can’t cast spells with Verbal component for 2d4                                         |
+| 6          | Nethers: Stunned until end of next turn, Attacker gets one free attack                                                                     |
+| 7          | Broken Leg: Walking Speed is 5 (or 1/2 with crutch) and no AC Dex bonus for 2d6 weeks                                                      |
+| 8          | Dazing Blow: Stunned to end of next turn                                                                                                   |
+| 9          | Knocked Out: Unconscious 1d4 rounds or until successful CON                                                                                |
+| 10         | Thrown: Victim is thrown 1d4x5 feet directly away from Attacker, For each 10 feet, 1d6 damage is shared by Victim and whomever Victim hits |
+| 11         | Knocked Down: Prone                                                                                                                        |
+| 12         | Broken Ribs: Attacker gets ADV next attack, Short Rests take twice as long and Long Rests take 2 additional hours for 2d6 days             |
 ^unarmed-kick-critical
 
-| dice: 1d12 | Unarmed Punch Critical |
-| ---------- | ---------------------- |
-| 1          | Crushed Larnyx         |
-| 2          | Broken Nose            |
-| 3          | Knocked Out            |
-| 4          | Kidney Strike          |
-| 5          | Off Balance            |
-| 6          | Wind Knocked           |
-| 7          | Broken Jaw             |
-| 8          | Dazing Blow            |
-| 9          | Lost Teeth             |
-| 10         | Broken Ribs            |
-| 11         | Dropped Item           |
-| 12         | Knocked Down           |
+| dice: 1d12 | Unarmed Punch Critical                                                                                                         |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 1          | Crushed Larnyx                                                                                                                 |
+| 2          | Broken Nose                                                                                                                    |
+| 3          | Knocked Out                                                                                                                    |
+| 4          | Kidney Strike                                                                                                                  |
+| 5          | Off Balance                                                                                                                    |
+| 6          | Wind Knocked                                                                                                                   |
+| 7          | Broken Jaw                                                                                                                     |
+| 8          | Dazing Blow                                                                                                                    |
+| 9          | Lost Teeth                                                                                                                     |
+| 10         | Broken Ribs: Attacker gets ADV next attack, Short Rests take twice as long and Long Rests take 2 additional hours for 2d6 days |
+| 11         | Dropped Item                                                                                                                   |
+| 12         | Knocked Down: Prone                                                                                                            |
 ^unarmed-punch-critical
 
 | dice: 1d12 | Bow Critical Failure |
