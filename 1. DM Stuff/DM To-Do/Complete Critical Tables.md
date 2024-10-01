@@ -184,56 +184,56 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 8          | Arm - Split Hand                                                                                                 |
 | 9          | Arm - Severed Hand                                                                                               |
 | 10         | Arm - Slit Wrists                                                                                                |
-| 11         | Arm - Finger Tipped                                                                                              |
-| 12         | Arm - Broken Elbow                                                                                               |
+| 11         | Arm - Finger Tipped: Lose 1d4 Fingertips, DIS to skills req’ing that hand for 1d4 days                                                                                               |
+| 12         | Arm - Broken Elbow: Can’t hold heavy items in that hand and DIS to attacks with that hand for 2d4 weeks                                                                                               |
 ^slashing-arm-critical
 
 | dice: 1d12 | Slashing Head Critical      |
 | ---------- | --------------------------- |
-| 1          | Head - Lost Teeth           |
-| 2          | Head - Severed Nose         |
+| 1          | Head - Lost Teeth: DIS to CHA (Persuasion) during first impressions, Attacker gets one free attack           |
+| 2          | Head - Severed Nose: Stunned to end of next turn, DIS to skills req’ing smell, ADV to CHA (Intimidation) during         |
 | 3          | Head - Severed Ear          |
 | 4          | Head - Forehead Cleave      |
-| 5          | Head - Broken Jaw           |
-| 6          | Head - Eye Plucked          |
+| 5          | Head - Broken Jaw: DIS to skill checks req’ing speech and can’t cast spells with Verbal component for 2d4           |
+| 6          | Head - Eye Plucked: All ranged attacks -2 to hit, ADV to CHA (Intimidation) during first          |
 | 7          | Head - Throat Slashed       |
-| 8          | Head - Dazing Blow          |
-| 9          | Head - Knocked Out          |
+| 8          | Head - Dazing Blow: Stunned to end of next          |
+| 9          | Head - Knocked Out: Unconscious 1d4 rounds or until successful CON           |
 | 10         | Head - Scalped              |
-| 11         | Head - Horrific Facial Scar |
+| 11         | Head - Horrific Facial Scar: If Attacker performs a stirring soliloquy, Victim stunned to end of next turn, ADV to CHA (Intimidation) during first impressions |
 | 12         | Head - Beheaded             |
 ^slashing-head-critical
 
 | dice: 1d12 | Slashing Leg Critical   |
 | ---------- | ----------------------- |
-| 1          | Leg - Lost Toes         |
-| 2          | Leg - Broken Leg        |
+| 1          | Leg - Lost Toes: Lose 1d4 toes, Walking Speed ½ for one day for each toe lost         |
+| 2          | Leg - Broken Leg: Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks        |
 | 3          | Leg - Severed Foot      |
 | 4          | Leg - Severed Leg       |
-| 5          | Leg - Broken Knee       |
-| 6          | Leg - Achilles Tendon   |
-| 7          | Leg - Compound Fracture |
-| 8          | Leg - Pierced Foot      |
-| 9          | Leg - Knocked Down      |
-| 10         | Leg - Broken Foot       |
-| 11         | Leg - Broken Ankle      |
-| 12         | Leg - Femoral Artery    |
+| 5          | Leg - Broken Knee: Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks, Unable to Dash       |
+| 6          | Leg - Achilles Tendon: Walking Speed ½ and DIS to skills req’ing footwork, Unable to Dash   |
+| 7          | Leg - Compound Fracture: Bleeding 1d8 HP/round, Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks |
+| 8          | Leg - Pierced Foot: Unable to Dash and DIS to skills req’ing footwork for 1d6 days      |
+| 9          | Leg - Knocked Down: Prone      |
+| 10         | Leg - Broken Foot: Walking Speed ½ and DIS to skills req’ing footwork for 2d4 weeks       |
+| 11         | Leg - Broken Ankle: Walking Speed ½ and unable to Dash for 1d4 weeks      |
+| 12         | Leg - Femoral Artery: Bleeding 1d12 HP/round    |
 ^slashing-leg-critical
 
 | dice: 1d12 | Slashing Torso Critical   |
 | ---------- | ------------------------- |
-| 1          | Torso - Pierced Backside  |
-| 2          | Torso - Broken Hip        |
-| 3          | Torso - Back Stabbed      |
-| 4          | Torso - Impaled Stomach   |
-| 5          | Torso - Broken Heart      |
-| 6          | Torso - Broken Back       |
-| 7          | Torso - Slipped Vertebrae |
-| 8          | Torso - Broken Ribs       |
-| 9          | Torso - Nethers           |
-| 10         | Torso - Disemboweled      |
-| 11         | Torso - Pierced Lung      |
-| 12         | Torso - Knocked Down      |
+| 1          | Torso - Pierced Backside: Short Rests take twice as long for 1d4 days, Attacker gets one free attack   |
+| 2          | Torso - Broken Hip: Walking Speed ½ and can’t Dash for 2d6        |
+| 3          | Torso - Back Stabbed: Double damage, Attacker may kick Victim prone as a bonus action      |
+| 4          | Torso - Impaled Stomach: Double damage, If Attacker whispers shocking revelation or vile insult into ear, Frightened 1d4 rounds   |
+| 5          | Torso - Broken Heart: Victim drops to 0 HP with two automatically failed Death Saves      |
+| 6          | Torso - Broken Back: Walking Speed cannot be raised higher than 0 until 2d6 weeks of bed rest       |
+| 7          | Torso - Slipped Vertebrae: Walking Speed ½ until short rest, DIS to STR checks for 1d6 days |
+| 8          | Torso - Broken Ribs: Attacker gets ADV next attack, Short Rests take twice as long and Long Rests take 2 additional hours for 2d6 days       |
+| 9          | Torso - Nethers: Stunned to end of next turn, Allies with line of sight lose Reaction gasping in empathy           |
+| 10         | Torso - Disemboweled: Incapacitated until successful CON Save, pushing innards back, Exhaustion level raised by 1      |
+| 11         | Torso - Pierced Lung: Incapacitated until successful CON Save, pushing innards back, Exhaustion level raised by 1      |
+| 12         | Torso - Knocked Down: Prone      |
 ^slashing-torso-critical
 
 | dice: 1d12 | Unarmed Kick Critical |
