@@ -27,8 +27,8 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 12         | Knocked Down: Knocked [[Conditions#Prone\|prone]]                                                                                   |
 ^arrow-critical
 
-| dice: 1d4 | Bludgeoning Critical                                    |
-| --------- | ------------------------------------------------------- |
+| dice: 1d4 | Bludgeoning Critical                                             |
+| --------- | ---------------------------------------------------------------- |
 | 1         | `dice: [[Complete Critical Tables#^bludgeoning-arm-critical]]`   |
 | 2         | `dice: [[Complete Critical Tables#^bludgeoning-head-critical]]`  |
 | 3         | `dice: [[Complete Critical Tables#^bludgeoning-leg-critical]]`   |
@@ -79,89 +79,89 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 10         | Leg - Fractured Heel: Walking Speed ½ for 1d6 weeks                                                                     |
 ^bludgeoning-leg-critical
 
-| dice: 1d11 | Bludgeoning Torso Critical |
-| ---------- | -------------------------- |
-| 1          | Torso - Broken Tailbone    |
-| 2          | Torso - Broken Back        |
-| 3          | Torso - Nethers            |
-| 4          | Torso - Wind Knocked Out   |
-| 5          | Torso - Kidney Strike      |
-| 6          | Torso - Knocked Down       |
-| 7          | Torso - Slipped Vertebrae  |
-| 8          | Torso - Off Balance        |
-| 9          | Torso - Thrown             |
-| 10         | Torso - Broken Hip         |
-| 11         | Torso - Broken Ribs        |
+| dice: 1d11 | Bludgeoning Torso Critical                                                                                                                         |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Torso - Broken Tailbone: Short Rests take twice as long for 2d4 days, Attacker gets one free attack                                                |
+| 2          | Torso - Broken Back: Walking Speed can’t be raised higher than 0 until 2d6 weeks of bed rest                                                       |
+| 3          | Torso - Nethers: Stunned to end of next turn, Allies with line of sight lose Reaction gasping in empathy                                           |
+| 4          | Torso - Wind Knocked Out: Victim feels suffocated, Stunned to end of next turn                                                                     |
+| 5          | Torso - Kidney Strike: Stunned to end of next turn, Exhaustion level raised by 1                                                                   |
+| 6          | Torso - Knocked Down: Prone                                                                                                                        |
+| 7          | Torso - Slipped Vertebrae: Walking Speed ½ until short rest, DIS to STR checks for 1d6 days                                                        |
+| 8          | Torso - Off Balance: Victim chooses to fall prone or forfeit movement until end of next turn                                                       |
+| 9          | Torso - Thrown: Victim is thrown 1d4x5 feet directly away from Attacker, For each 10 feet, 1d6 damage is shared by Victim and whomever Victim hits |
+| 10         | Torso - Broken Hip: Walking Speed ½ and can’t Dash for 2d6 weeks                                                                                   |
+| 11         | Torso - Broken Ribs: Attacker gets ADV on next attack, Short Rests take twice as long and Long Rests take 2 additional hours for 2d6 days          |
 ^bludgeoning-torso-critical
 
-| dice: 1d4 | Piercing Critical                                    |
-| --------- | ---------------------------------------------------- |
+| dice: 1d4 | Piercing Critical                                             |
+| --------- | ------------------------------------------------------------- |
 | 1         | `dice: [[Complete Critical Tables#^piercing-arm-critical]]`   |
 | 2         | `dice: [[Complete Critical Tables#^piercing-head-critical]]`  |
 | 3         | `dice: [[Complete Critical Tables#^piercing-leg-critical]]`   |
 | 4         | `dice: [[Complete Critical Tables#^piercing-torso-critical]]` |
 ^piercing-critical
 
-| dice: 1d11 | Piercing Arm Critical   |
-| ---------- | ----------------------- |
-| 1          | Arm - Lost Fingers      |
-| 2          | Arm - Broken Fingers    |
-| 3          | Arm - Dropped Item      |
-| 4          | Arm - Broken Wrist      |
-| 5          | Arm - Broken Shoulder   |
-| 6          | Arm - Compound Fracture |
-| 7          | Arm - Pierced Hand: Drop item held in that hand, Disadvantage to skills requiring that hand for `dice: 1d4` days      |
-| 8          | Arm - Flung Weapon      |
-| 9          | Arm - Slit Wrists       |
-| 10         | Arm - Finger Tipped     |
-| 11         | Arm - Broken Elbow      |
+| dice: 1d11 | Piercing Arm Critical                                                                                                               |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Arm - Lost Fingers: Drop item held in that hand, Lose 1d4 Fingers, DIS to skills req’ing that hand for 2d4 weeks                    |
+| 2          | Arm - Broken Fingers: DIS to skills req’ing that hand for 2d4 weeks                                                                 |
+| 3          | Arm - Dropped Item: Victim drops item held in hand of Attacker’s choice                                                             |
+| 4          | Arm - Broken Wrist: Can’t hold heavy items in that hand, DIS to attacks/skills req’ing that hand for 1d6 weeks                      |
+| 5          | Arm - Broken Shoulder: Can’t attack with any weapon req’ing that hand for 2d6 weeks                                                 |
+| 6          | Arm - Compound Fracture: Bleeding 1d8 HP/round, Can’t hold heavy items in that hand and DIS to attacks with that hand for 2d6 weeks |
+| 7          | Arm - Pierced Hand: Drop item held in that hand, Disadvantage to skills requiring that hand for `dice: 1d4` days                    |
+| 8          | Arm - Flung Weapon: Weapon is thrown 1d6x5 feet in random direction                                                                 |
+| 9          | Arm - Slit Wrists: Bleeding 1d6 HP/Round                                                                                            |
+| 10         | Arm - Finger Tipped: Lose 1d4 Fingertips, DIS to skills req’ing that hand for 1d4 days                                              |
+| 11         | Arm - Broken Elbow: Can’t hold heavy items in that hand and DIS to attacks with that hand for 2d4 weeks                             |
 ^piercing-arm-critical
 
-| dice: 1d12 | Piercing Head Critical      |
-| ---------- | --------------------------- |
-| 1          | Head - Lost Teeth           |
-| 2          | Head - Severed Nose         |
-| 3          | Head - Pierced Eardrum      |
-| 4          | Head - Pierced Mouth        |
-| 5          | Head - Broken Jaw           |
-| 6          | Head - Eye Plucked          |
-| 7          | Head - Pierced Throat       |
-| 8          | Head - Dazing Blow          |
-| 9          | Head - Knocked Out          |
-| 10         | Head - Knocked Down         |
-| 11         | Head - Horrific Facial Scar |
-| 12         | Head - Pierced Brain        |
+| dice: 1d12 | Piercing Head Critical                                                                                                                                         |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Head - Lost Teeth: DIS to CHA (Persuasion) during first impressions, Attacker gets one free attack                                                             |
+| 2          | Head - Severed Nose: Stunned to end of next turn, DIS to skills req’ing smell, ADV to CHA (Intimidation) during first                                          |
+| 3          | Head - Pierced Eardrum: DIS to skills req’ing hearing                                                                                                          |
+| 4          | Head - Pierced Mouth: DIS to skills req’ing speech and can’t cast spells with Verbal component until long rest                                                 |
+| 5          | Head - Broken Jaw: DIS to skill checks req’ing speech and can’t cast spells with Verbal component for 2d4 weeks                                                |
+| 6          | Head - Eye Plucked: All ranged attacks -2 to hit, ADV to CHA (Intimidation) during first impressions                                                           |
+| 7          | Head - Pierced Throat: Bleeding 1d6 HP/round, Can’t speak above whisper for 2d6 days                                                                           |
+| 8          | Head - Dazing Blow: Stunned to end of next turn                                                                                                                |
+| 9          | Head - Knocked Out: Unconscious 1d4 rounds or until successful CON Save                                                                                        |
+| 10         | Head - Knocked Down: Prone                                                                                                                                     |
+| 11         | Head - Horrific Facial Scar: If Attacker performs a stirring soliloquy, Victim stunned to end of next turn, ADV to CHA (Intimidation) during first impressions |
+| 12         | Head - Pierced Brain: Instant Death                                                                                                                            |
 ^piercing-head-critical
 
-| dice: 1d11 | Piercing Leg Critical   |
-| ---------- | ----------------------- |
-| 1          | Leg - Femoral Artery    |
-| 2          | Leg - Compound Fracture |
-| 3          | Leg - Pierced Foot      |
-| 4          | Leg - Pierced Knee: Walking speed is 5 feet and receive no AC Dexterity bonus for `dice: 2d6` weeks, Unable to Dash      |
-| 5          | Leg - Broken Ankle      |
-| 6          | Leg - Knocked Down      |
-| 7          | Leg - Achilles Tendon   |
-| 8          | Leg - Lost Toes         |
-| 9          | Leg - Broken Foot       |
-| 10         | Leg - Broken Heel       |
-| 11         | Leg - Off Balance       |
+| dice: 1d11 | Piercing Leg Critical                                                                                                   |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 1          | Leg - Femoral Artery: Bleeding 1d12 HP/round                                                                            |
+| 2          | Leg - Compound Fracture: Bleeding 1d8 HP/round, Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks |
+| 3          | Leg - Pierced Foot: Unable to Dash and DIS to skills req’ing footwork for 1d6 days                                      |
+| 4          | Leg - Pierced Knee: Walking speed is 5 feet and receive no AC Dexterity bonus for `dice: 2d6` weeks, Unable to Dash     |
+| 5          | Leg - Broken Ankle: Walking Speed ½ and unable to Dash for 1d4 weeks                                                    |
+| 6          | Leg - Knocked Down: Prone                                                                                               |
+| 7          | Leg - Achilles Tendon: Walking Speed ½ and DIS to skills req’ing footwork, Unable to Dash                               |
+| 8          | Leg - Lost Toes: Lose 1d4 toes, Walking Speed ½ for one day for each toe lost                                           |
+| 9          | Leg - Broken Foot: Walking Speed ½ and DIS to skills req’ing footwork for 2d4 weeks                                     |
+| 10         | Leg - Broken Heel: Walking Speed ½ for 1d6 weeks                                                                        |
+| 11         | Leg - Off Balance: Victim chooses to fall prone or forfeit movement until end of next turn                                                                                                     |
 ^piercing-leg-critical
 
-| dice: 1d12 | Piercing Torso Critical   |
-| ---------- | ------------------------- |
-| 1          | Torso - Pierced Backside  |
-| 2          | Torso - Nethers           |
-| 3          | Torso - Back Stabbed      |
-| 4          | Torso - Impaled Stomach   |
-| 5          | Torso - Broken Heart      |
-| 6          | Torso - Broken Back       |
-| 7          | Torso - Slipped Vertebrae |
-| 8          | Torso - Broken Ribs       |
-| 9          | Torso - Knocked Down      |
-| 10         | Torso - Disemboweled      |
-| 11         | Torso - Pierced Lung      |
-| 12         | Torso - Broken Hip        |
+| dice: 1d12 | Piercing Torso Critical                                                                                                                |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Torso - Pierced Backside: Short Rests take twice as long for 1d4 days, Attacker gets one free attack                                   |
+| 2          | Torso - Nethers: Stunned to end of next turn, Allies with line of sight lose Reaction gasping in empathy                               |
+| 3          | Torso - Back Stabbed: Double damage, Attacker may kick Victim prone as a bonus action                                                  |
+| 4          | Torso - Impaled Stomach: Double damage, If Attacker whispers shocking revelation or vile insult into ear, Frightened 1d4 rounds        |
+| 5          | Torso - Broken Heart: Victim drops to 0 HP with two automatically failed Death Saves                                                   |
+| 6          | Torso - Broken Back: Walking Speed cannot be raised higher than 0 until 2d6 weeks of bed rest                                          |
+| 7          | Torso - Slipped Vertebrae: Walking Speed ½ until short rest, DIS to STR checks for 1d6 days                                            |
+| 8          | Torso - Broken Ribs: Attacker gets ADV next attack, Short Rests take twice as long and Long Rests take 2 additional hours for 2d6 days |
+| 9          | Torso - Knocked Down: Prone                                                                                                            |
+| 10         | Torso - Disemboweled: Incapacitated until successful CON Save, pushing innards back, Exhaustion level raised by 1                      |
+| 11         | Torso - Pierced Lung: Incapacitated until successful CON Save, pushing innards back, Exhaustion level raised by 1                      |
+| 12         | Torso - Broken Hip: Walking Speed ½ and can’t Dash for 2d6 weeks                                                                                                                   |
 ^piercing-torso-critical
 
 | dice: 1d4 | Slashing Critical                                    |
@@ -172,20 +172,20 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 4         | `dice: [[Complete Critical Tables#^slashing-torso-critical]]` |
 ^slashing-critical
 
-| dice: 1d12 | Slashing Arm Critical   |
-| ---------- | ----------------------- |
-| 1          | Arm - Lost Fingers      |
-| 2          | Arm - Broken Fingers    |
-| 3          | Arm - Dropped Item      |
-| 4          | Arm - Severed Arm       |
-| 5          | Arm - Broken Arm        |
-| 6          | Arm - Compound Fracture |
-| 7          | Arm - Pierced Hand: Drop item held in that hand, Disadvantage to skills requiring that hand for `dice: 1d4` days      |
-| 8          | Arm - Split Hand        |
-| 9          | Arm - Severed Hand      |
-| 10         | Arm - Slit Wrists       |
-| 11         | Arm - Finger Tipped     |
-| 12         | Arm - Broken Elbow      |
+| dice: 1d12 | Slashing Arm Critical                                                                                            |
+| ---------- | ---------------------------------------------------------------------------------------------------------------- |
+| 1          | Arm - Lost Fingers: Drop item held in that hand, Lose 1d4 Fingers, DIS to skills req’ing that hand for 2d4 weeks |
+| 2          | Arm - Broken Fingers: DIS to skills req’ing that hand for 2d4 weeks                                              |
+| 3          | Arm - Dropped Item                                                                                               |
+| 4          | Arm - Severed Arm                                                                                                |
+| 5          | Arm - Broken Arm                                                                                                 |
+| 6          | Arm - Compound Fracture                                                                                          |
+| 7          | Arm - Pierced Hand: Drop item held in that hand, Disadvantage to skills requiring that hand for `dice: 1d4` days |
+| 8          | Arm - Split Hand                                                                                                 |
+| 9          | Arm - Severed Hand                                                                                               |
+| 10         | Arm - Slit Wrists                                                                                                |
+| 11         | Arm - Finger Tipped                                                                                              |
+| 12         | Arm - Broken Elbow                                                                                               |
 ^slashing-arm-critical
 
 | dice: 1d12 | Slashing Head Critical      |
