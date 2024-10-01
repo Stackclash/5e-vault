@@ -177,13 +177,13 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 1          | Arm - Lost Fingers: Drop item held in that hand, Lose 1d4 Fingers, DIS to skills req’ing that hand for 2d4 weeks                    |
 | 2          | Arm - Broken Fingers: DIS to skills req’ing that hand for 2d4 weeks                                                                 |
 | 3          | Arm - Dropped Item: Victim drops item held in hand of Attacker’s choice                                                             |
-| 4          | Arm - Severed Arm                                                                                                                   |
+| 4          | Arm - Severed Arm: Bleeding 1d8 HP/round, Can’t hold items in that hand, Can’t perform actions that requires that arm               |
 | 5          | Arm - Broken Arm: Can’t hold heavy items in that hand and DIS to attacks with that hand for 2d6 weeks                               |
 | 6          | Arm - Compound Fracture: Bleeding 1d8 HP/round, Can’t hold heavy items in that hand and DIS to attacks with that hand for 2d6 weeks |
 | 7          | Arm - Pierced Hand: Drop item held in that hand, Disadvantage to skills requiring that hand for `dice: 1d4` days                    |
-| 8          | Arm - Split Hand                                                                                                                    |
-| 9          | Arm - Severed Hand                                                                                                                  |
-| 10         | Arm - Slit Wrists                                                                                                                   |
+| 8          | Arm - Split Hand: Drop item held in that hand, DIS to skills req’ing that hand for 1d6 days                                         |
+| 9          | Arm - Severed Hand: Bleeding 1d6 HP/round, Can’t hold items in that hand, Can’t perform actions that requires that hand             |
+| 10         | Arm - Slit Wrists: Bleeding 1d6 HP/round                                                                                            |
 | 11         | Arm - Finger Tipped: Lose 1d4 Fingertips, DIS to skills req’ing that hand for 1d4 days                                              |
 | 12         | Arm - Broken Elbow: Can’t hold heavy items in that hand and DIS to attacks with that hand for 2d4 weeks                             |
 ^slashing-arm-critical
@@ -192,16 +192,16 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1          | Head - Lost Teeth: DIS to CHA (Persuasion) during first impressions, Attacker gets one free attack                                                             |
 | 2          | Head - Severed Nose: Stunned to end of next turn, DIS to skills req’ing smell, ADV to CHA (Intimidation) during                                                |
-| 3          | Head - Severed Ear                                                                                                                                             |
-| 4          | Head - Forehead Cleave                                                                                                                                         |
+| 3          | Head - Severed Ear: DIS to skills req’ing hearing, ADV to CHA (Intimidation) during first impressions                                                          |
+| 4          | Head - Forehead Cleave: Bleeding 1d6 HP/round, Weapon stuck until successful STR (Athletics) check                                                             |
 | 5          | Head - Broken Jaw: DIS to skill checks req’ing speech and can’t cast spells with Verbal component for 2d4                                                      |
 | 6          | Head - Eye Plucked: All ranged attacks -2 to hit, ADV to CHA (Intimidation) during first                                                                       |
-| 7          | Head - Throat Slashed                                                                                                                                          |
+| 7          | Head - Throat Slashed: Bleeding 1d10 HP/round, Can’t speak above whisper for 2d6 days                                                                          |
 | 8          | Head - Dazing Blow: Stunned to end of next                                                                                                                     |
 | 9          | Head - Knocked Out: Unconscious 1d4 rounds or until successful CON                                                                                             |
-| 10         | Head - Scalped                                                                                                                                                 |
+| 10         | Head - Scalped: Stunned to end of next turn, Bleeding 1d10 HP/round                                                                                            |
 | 11         | Head - Horrific Facial Scar: If Attacker performs a stirring soliloquy, Victim stunned to end of next turn, ADV to CHA (Intimidation) during first impressions |
-| 12         | Head - Beheaded                                                                                                                                                |
+| 12         | Head - Beheaded: Victim grimaces as head hits ground, body stumbles and falls, Instant Death                                                                   |
 ^slashing-head-critical
 
 | dice: 1d12 | Slashing Leg Critical                                                                                                     |
