@@ -176,10 +176,10 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | ---------- | ---------------------------------------------------------------------------------------------------------------- |
 | 1          | Arm - Lost Fingers: Drop item held in that hand, Lose 1d4 Fingers, DIS to skills req’ing that hand for 2d4 weeks |
 | 2          | Arm - Broken Fingers: DIS to skills req’ing that hand for 2d4 weeks                                              |
-| 3          | Arm - Dropped Item                                                                                               |
+| 3          | Arm - Dropped Item: Victim drops item held in hand of Attacker’s choice                                                                                                |
 | 4          | Arm - Severed Arm                                                                                                |
-| 5          | Arm - Broken Arm                                                                                                 |
-| 6          | Arm - Compound Fracture                                                                                          |
+| 5          | Arm - Broken Arm: Can’t hold heavy items in that hand and DIS to attacks with that hand for 2d6 weeks                                                                                                 |
+| 6          | Arm - Compound Fracture: Bleeding 1d8 HP/round, Can’t hold heavy items in that hand and DIS to attacks with that hand for 2d6 weeks                                                                                          |
 | 7          | Arm - Pierced Hand: Drop item held in that hand, Disadvantage to skills requiring that hand for `dice: 1d4` days |
 | 8          | Arm - Split Hand                                                                                                 |
 | 9          | Arm - Severed Hand                                                                                               |
