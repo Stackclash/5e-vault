@@ -65,18 +65,18 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 12         | Head - Broken Jaw: DIS to skills req’ing speech and can’t cast spells with Verbal component for 2d4 weeks |
 ^bludgeoning-head-critical
 
-| dice: 1d10 | Bludgeoning Leg Critical                                                                                                |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 1          | Leg - Knee Capped: Walking Speed ½ and DIS to checks req’ing footwork for 2d6 weeks, Unable to Dash                     |
-| 2          | Leg - Broken Leg: Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks                               |
-| 3          | Leg - Shattered Foot: Walking Speed ½, DIS to checks req’ing footwork, Unable to Dash                                   |
-| 4          | Leg - Broken Foot: Can’t hold heavy items in that hand, DIS to attacks/skills req’ing that hand for 1d6 weeks           |
-| 5          | Leg - Off Balance: Victim chooses to fall prone or forfeit movement until end of next turn                              |
-| 6          | Leg - Knocked Down: Prone                                                                                               |
-| 7          | Leg - Compound Fracture: Bleeding 1d8 HP/round, Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks |
-| 8          | Leg - Broken Ankle: Walking Speed ½ and unable to Dash for 1d4 weeks                                                    |
-| 9          | Leg - Broken Knee: Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks, Unable to Dash              |
-| 10         | Leg - Fractured Heel: Walking Speed ½ for 1d6 weeks                                                                     |
+| dice: 1d10 | Bludgeoning Leg Critical                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Leg - Knee Capped: Walking Speed 1/2 and DIS to checks req’ing footwork for 2d6 weeks, Unable to Dash                     |
+| 2          | Leg - Broken Leg: Walking Speed is 5 (or 1/2 with crutch) and no AC Dex bonus for 2d6 weeks                               |
+| 3          | Leg - Shattered Foot: Walking Speed 1/2, DIS to checks req’ing footwork, Unable to Dash                                   |
+| 4          | Leg - Broken Foot: Can’t hold heavy items in that hand, DIS to attacks/skills req’ing that hand for 1d6 weeks             |
+| 5          | Leg - Off Balance: Victim chooses to fall prone or forfeit movement until end of next turn                                |
+| 6          | Leg - Knocked Down: Prone                                                                                                 |
+| 7          | Leg - Compound Fracture: Bleeding 1d8 HP/round, Walking Speed is 5 (or 1/2 with crutch) and no AC Dex bonus for 2d6 weeks |
+| 8          | Leg - Broken Ankle: Walking Speed 1/2 and unable to Dash for 1d4 weeks                                                    |
+| 9          | Leg - Broken Knee: Walking Speed is 5 (or 1/2 with crutch) and no AC Dex bonus for 2d6 weeks, Unable to Dash              |
+| 10         | Leg - Fractured Heel: Walking Speed 1/2 for 1d6 weeks                                                                     |
 ^bludgeoning-leg-critical
 
 | dice: 1d11 | Bludgeoning Torso Critical                                                                                                                         |
@@ -87,10 +87,10 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 4          | Torso - Wind Knocked Out: Victim feels suffocated, Stunned to end of next turn                                                                     |
 | 5          | Torso - Kidney Strike: Stunned to end of next turn, Exhaustion level raised by 1                                                                   |
 | 6          | Torso - Knocked Down: Prone                                                                                                                        |
-| 7          | Torso - Slipped Vertebrae: Walking Speed ½ until short rest, DIS to STR checks for 1d6 days                                                        |
+| 7          | Torso - Slipped Vertebrae: Walking Speed 1/2 until short rest, DIS to STR checks for 1d6 days                                                      |
 | 8          | Torso - Off Balance: Victim chooses to fall prone or forfeit movement until end of next turn                                                       |
 | 9          | Torso - Thrown: Victim is thrown 1d4x5 feet directly away from Attacker, For each 10 feet, 1d6 damage is shared by Victim and whomever Victim hits |
-| 10         | Torso - Broken Hip: Walking Speed ½ and can’t Dash for 2d6 weeks                                                                                   |
+| 10         | Torso - Broken Hip: Walking Speed 1/2 and can’t Dash for 2d6 weeks                                                                                 |
 | 11         | Torso - Broken Ribs: Attacker gets ADV on next attack, Short Rests take twice as long and Long Rests take 2 additional hours for 2d6 days          |
 ^bludgeoning-torso-critical
 
@@ -133,19 +133,19 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 12         | Head - Pierced Brain: Instant Death                                                                                                                            |
 ^piercing-head-critical
 
-| dice: 1d11 | Piercing Leg Critical                                                                                                   |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 1          | Leg - Femoral Artery: Bleeding 1d12 HP/round                                                                            |
-| 2          | Leg - Compound Fracture: Bleeding 1d8 HP/round, Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks |
-| 3          | Leg - Pierced Foot: Unable to Dash and DIS to skills req’ing footwork for 1d6 days                                      |
-| 4          | Leg - Pierced Knee: Walking speed is 5 feet and receive no AC Dexterity bonus for `dice: 2d6` weeks, Unable to Dash     |
-| 5          | Leg - Broken Ankle: Walking Speed ½ and unable to Dash for 1d4 weeks                                                    |
-| 6          | Leg - Knocked Down: Prone                                                                                               |
-| 7          | Leg - Achilles Tendon: Walking Speed ½ and DIS to skills req’ing footwork, Unable to Dash                               |
-| 8          | Leg - Lost Toes: Lose 1d4 toes, Walking Speed ½ for one day for each toe lost                                           |
-| 9          | Leg - Broken Foot: Walking Speed ½ and DIS to skills req’ing footwork for 2d4 weeks                                     |
-| 10         | Leg - Broken Heel: Walking Speed ½ for 1d6 weeks                                                                        |
-| 11         | Leg - Off Balance: Victim chooses to fall prone or forfeit movement until end of next turn                              |
+| dice: 1d11 | Piercing Leg Critical                                                                                                     |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Leg - Femoral Artery: Bleeding 1d12 HP/round                                                                              |
+| 2          | Leg - Compound Fracture: Bleeding 1d8 HP/round, Walking Speed is 5 (or 1/2 with crutch) and no AC Dex bonus for 2d6 weeks |
+| 3          | Leg - Pierced Foot: Unable to Dash and DIS to skills req’ing footwork for 1d6 days                                        |
+| 4          | Leg - Pierced Knee: Walking speed is 5 feet and receive no AC Dexterity bonus for `dice: 2d6` weeks, Unable to Dash       |
+| 5          | Leg - Broken Ankle: Walking Speed 1/2 and unable to Dash for 1d4 weeks                                                    |
+| 6          | Leg - Knocked Down: Prone                                                                                                 |
+| 7          | Leg - Achilles Tendon: Walking Speed 1/2 and DIS to skills req’ing footwork, Unable to Dash                               |
+| 8          | Leg - Lost Toes: Lose 1d4 toes, Walking Speed 1/2 for one day for each toe lost                                           |
+| 9          | Leg - Broken Foot: Walking Speed 1/2 and DIS to skills req’ing footwork for 2d4 weeks                                     |
+| 10         | Leg - Broken Heel: Walking Speed 1/2 for 1d6 weeks                                                                        |
+| 11         | Leg - Off Balance: Victim chooses to fall prone or forfeit movement until end of next turn                                |
 ^piercing-leg-critical
 
 | dice: 1d12 | Piercing Torso Critical                                                                                                                |
@@ -156,12 +156,12 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 4          | Torso - Impaled Stomach: Double damage, If Attacker whispers shocking revelation or vile insult into ear, Frightened 1d4 rounds        |
 | 5          | Torso - Broken Heart: Victim drops to 0 HP with two automatically failed Death Saves                                                   |
 | 6          | Torso - Broken Back: Walking Speed cannot be raised higher than 0 until 2d6 weeks of bed rest                                          |
-| 7          | Torso - Slipped Vertebrae: Walking Speed ½ until short rest, DIS to STR checks for 1d6 days                                            |
+| 7          | Torso - Slipped Vertebrae: Walking Speed 1/2 until short rest, DIS to STR checks for 1d6 days                                          |
 | 8          | Torso - Broken Ribs: Attacker gets ADV next attack, Short Rests take twice as long and Long Rests take 2 additional hours for 2d6 days |
 | 9          | Torso - Knocked Down: Prone                                                                                                            |
 | 10         | Torso - Disemboweled: Incapacitated until successful CON Save, pushing innards back, Exhaustion level raised by 1                      |
 | 11         | Torso - Pierced Lung: Incapacitated until successful CON Save, pushing innards back, Exhaustion level raised by 1                      |
-| 12         | Torso - Broken Hip: Walking Speed ½ and can’t Dash for 2d6 weeks                                                                       |
+| 12         | Torso - Broken Hip: Walking Speed 1/2 and can’t Dash for 2d6 weeks                                                                     |
 ^piercing-torso-critical
 
 | dice: 1d4 | Slashing Critical                                    |
@@ -204,31 +204,31 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 12         | Head - Beheaded                                                                                                                                                |
 ^slashing-head-critical
 
-| dice: 1d12 | Slashing Leg Critical                                                                                                   |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 1          | Leg - Lost Toes: Lose 1d4 toes, Walking Speed ½ for one day for each toe lost                                           |
-| 2          | Leg - Broken Leg: Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks                               |
-| 3          | Leg - Severed Foot                                                                                                      |
-| 4          | Leg - Severed Leg                                                                                                       |
-| 5          | Leg - Broken Knee: Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks, Unable to Dash              |
-| 6          | Leg - Achilles Tendon: Walking Speed ½ and DIS to skills req’ing footwork, Unable to Dash                               |
-| 7          | Leg - Compound Fracture: Bleeding 1d8 HP/round, Walking Speed is 5 (or ½ with crutch) and no AC Dex bonus for 2d6 weeks |
-| 8          | Leg - Pierced Foot: Unable to Dash and DIS to skills req’ing footwork for 1d6 days                                      |
-| 9          | Leg - Knocked Down: Prone                                                                                               |
-| 10         | Leg - Broken Foot: Walking Speed ½ and DIS to skills req’ing footwork for 2d4 weeks                                     |
-| 11         | Leg - Broken Ankle: Walking Speed ½ and unable to Dash for 1d4 weeks                                                    |
-| 12         | Leg - Femoral Artery: Bleeding 1d12 HP/round                                                                            |
+| dice: 1d12 | Slashing Leg Critical                                                                                                     |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Leg - Lost Toes: Lose 1d4 toes, Walking Speed 1/2 for one day for each toe lost                                           |
+| 2          | Leg - Broken Leg: Walking Speed is 5 (or 1/2 with crutch) and no AC Dex bonus for 2d6 weeks                               |
+| 3          | Leg - Severed Foot                                                                                                        |
+| 4          | Leg - Severed Leg                                                                                                         |
+| 5          | Leg - Broken Knee: Walking Speed is 5 (or 1/2 with crutch) and no AC Dex bonus for 2d6 weeks, Unable to Dash              |
+| 6          | Leg - Achilles Tendon: Walking Speed 1/2 and DIS to skills req’ing footwork, Unable to Dash                               |
+| 7          | Leg - Compound Fracture: Bleeding 1d8 HP/round, Walking Speed is 5 (or 1/2 with crutch) and no AC Dex bonus for 2d6 weeks |
+| 8          | Leg - Pierced Foot: Unable to Dash and DIS to skills req’ing footwork for 1d6 days                                        |
+| 9          | Leg - Knocked Down: Prone                                                                                                 |
+| 10         | Leg - Broken Foot: Walking Speed 1/2 and DIS to skills req’ing footwork for 2d4 weeks                                     |
+| 11         | Leg - Broken Ankle: Walking Speed 1/2 and unable to Dash for 1d4 weeks                                                    |
+| 12         | Leg - Femoral Artery: Bleeding 1d12 HP/round                                                                              |
 ^slashing-leg-critical
 
 | dice: 1d12 | Slashing Torso Critical                                                                                                                |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | 1          | Torso - Pierced Backside: Short Rests take twice as long for 1d4 days, Attacker gets one free attack                                   |
-| 2          | Torso - Broken Hip: Walking Speed ½ and can’t Dash for 2d6                                                                             |
+| 2          | Torso - Broken Hip: Walking Speed 1/2 and can’t Dash for 2d6                                                                           |
 | 3          | Torso - Back Stabbed: Double damage, Attacker may kick Victim prone as a bonus action                                                  |
 | 4          | Torso - Impaled Stomach: Double damage, If Attacker whispers shocking revelation or vile insult into ear, Frightened 1d4 rounds        |
 | 5          | Torso - Broken Heart: Victim drops to 0 HP with two automatically failed Death Saves                                                   |
 | 6          | Torso - Broken Back: Walking Speed cannot be raised higher than 0 until 2d6 weeks of bed rest                                          |
-| 7          | Torso - Slipped Vertebrae: Walking Speed ½ until short rest, DIS to STR checks for 1d6 days                                            |
+| 7          | Torso - Slipped Vertebrae: Walking Speed 1/2 until short rest, DIS to STR checks for 1d6 days                                          |
 | 8          | Torso - Broken Ribs: Attacker gets ADV next attack, Short Rests take twice as long and Long Rests take 2 additional hours for 2d6 days |
 | 9          | Torso - Nethers: Stunned to end of next turn, Allies with line of sight lose Reaction gasping in empathy                               |
 | 10         | Torso - Disemboweled: Incapacitated until successful CON Save, pushing innards back, Exhaustion level raised by 1                      |
