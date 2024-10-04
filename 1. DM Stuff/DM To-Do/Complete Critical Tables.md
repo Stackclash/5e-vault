@@ -258,30 +258,30 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 | 2          | Broken Nose: Bleeding 1 HP/turn until short rest                                                                               |
 | 3          | Knocked Out: Unconscious 1d4 rounds or until successful CON Save                                                               |
 | 4          | Kidney Strike: Stunned until end of next turn, Exhaustion level raised by 1                                                    |
-| 5          | Off Balance                                                                                                                    |
-| 6          | Wind Knocked                                                                                                                   |
-| 7          | Broken Jaw                                                                                                                     |
-| 8          | Dazing Blow                                                                                                                    |
-| 9          | Lost Teeth                                                                                                                     |
+| 5          | Off Balance: Victim must chose to either fall Prone or forfeit movement until end of next turn                                 |
+| 6          | Wind Knocked: Victim feels suffocated, Stunned until end of next turn                                                          |
+| 7          | Broken Jaw: DIS to skills req’ing speech and can’t cast spells with Verbal components for 2d4 weeks                            |
+| 8          | Dazing Blow: Stunned to end of next turn                                                                                       |
+| 9          | Lost Teeth: DIS to CHA (Persuasion) during first impressions, Attacker gets one free attack                                    |
 | 10         | Broken Ribs: Attacker gets ADV next attack, Short Rests take twice as long and Long Rests take 2 additional hours for 2d6 days |
 | 11         | Dropped Item: Victim drops item held in hand of Attacker’s choice                                                              |
 | 12         | Knocked Down: Prone                                                                                                            |
 ^unarmed-punch-critical
 
-| dice: 1d12 | Bow Critical Failure |
-| ---------- | -------------------- |
-| 1          | Drop Bow             |
-| 2          | Sprained Wrist       |
-| 3          | Broken String        |
-| 4          | Dislocated Shoulder  |
-| 5          | Broken Arrow         |
-| 6          | Wrong Target         |
-| 7          | Slipped Vertebrae    |
-| 8          | Fall Down            |
-| 9          | Dislocated Elbow     |
-| 10         | Stumble              |
-| 11         | Dropped Arrow        |
-| 12         | Wrong Target         |
+| dice: 1d12 | Bow Critical Failure                                                                                             |
+| ---------- | ---------------------------------------------------------------------------------------------------------------- |
+| 1          | Drop Bow: Bow falls at feet, If an enemy grabs Bow they gain ADV on next attack                                  |
+| 2          | Sprained Wrist: Forfeit remaining attacks on current turn, DIS on skills req’ing this hand until short rest      |
+| 3          | Broken String: Bow is unusable until an Action is spent restringing it                                           |
+| 4          | Dislocated Shoulder: Unable to attack with any weapon req’ing that hand until short rest                         |
+| 5          | Broken Arrow: Arrow breaks on impact Target is emboldened and gains ADV on next attack                           |
+| 6          | Wrong Target: Attacker rolls to hit Ally or Enemy closest to target                                              |
+| 7          | Slipped Vertebrae: Walking Speed ½ until short rest, DIS to STR shecks for 1d6 days                              |
+| 8          | Fall Down: Prone                                                                                                 |
+| 9          | Dislocated Elbow: Forfeit remaining attacks on current turn, DIS with attacks req’ing this hand until short rest |
+| 10         | Stumble: Forfeit remaining attacks on current turn, Must fall Prone or forfeit move to end of next turn          |
+| 11         | Dropped Arrow: Attacker fumbles arrow and forfeits all bow attacks until beginning of next turn                  |
+| 12         | Wrong Target: Attacker rolls to hit Ally or Enemy closest to target                                              |
 ^bow-critical-failure
 
 | dice: 1d12 | Melee Critical Failure |
