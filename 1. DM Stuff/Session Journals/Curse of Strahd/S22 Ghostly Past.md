@@ -1,7 +1,10 @@
 ---
 obsidianUIMode: preview
 date: 2024-08-17
-summary: 
+summary: |-
+  After descending the perilous cliffs of Mount Ghakis, the party delved deeper into the dark past of Barovia through the Tome of Strahd. The first chapter revealed Strahd’s ominous journey to the Amber Temple, where he forged a pact with a malevolent entity, though the full extent of his corruption had yet to unfold. But it was the second chapter that struck a deeper chord—the wedding of Sergei and Tatiana, a day meant for joy, shattered by mercenary violence. As Sergei lay wounded, Strahd seized the moment, killing his brother and offering himself to Tatiana. His monstrous transformation began before her eyes, and in terror, Tatiana fled, falling to her death from the heights of Castle Ravenloft.
+
+  The weight of this tragedy hung over the party as they arrived in the haunted ruins of Berez. There, amidst the fog and decay, they witnessed ghostly figures reliving the grim fate of Marina, who had fallen under Strahd’s thrall. Desperate to save her from becoming yet another victim of the vampire’s curse, the Burgomaster and the priest took her life, an act that enraged Strahd. In his fury, he summoned a devastating tidal wave that swept Berez into ruin, leaving it a desolate swamp. Now, the echoes of past sins and the specter of Strahd’s vengeance loomed larger than ever, a grim reminder of the power they faced.
 fc-date: 973-2-22
 fc-end: 
 timelines:
