@@ -254,17 +254,17 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 
 | dice: 1d12 | Unarmed Punch Critical                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1          | Crushed Larnyx                                                                                                                 |
-| 2          | Broken Nose                                                                                                                    |
-| 3          | Knocked Out                                                                                                                    |
-| 4          | Kidney Strike                                                                                                                  |
+| 1          | Crushed Larnyx: Stunned until end of next turn, Unable to speak above whisper until long rest                                  |
+| 2          | Broken Nose: Bleeding 1 HP/turn until short rest                                                                               |
+| 3          | Knocked Out: Unconscious 1d4 rounds or until successful CON Save                                                               |
+| 4          | Kidney Strike: Stunned until end of next turn, Exhaustion level raised by 1                                                    |
 | 5          | Off Balance                                                                                                                    |
 | 6          | Wind Knocked                                                                                                                   |
 | 7          | Broken Jaw                                                                                                                     |
 | 8          | Dazing Blow                                                                                                                    |
 | 9          | Lost Teeth                                                                                                                     |
 | 10         | Broken Ribs: Attacker gets ADV next attack, Short Rests take twice as long and Long Rests take 2 additional hours for 2d6 days |
-| 11         | Dropped Item                                                                                                                   |
+| 11         | Dropped Item: Victim drops item held in hand of Attacker’s choice                                                              |
 | 12         | Knocked Down: Prone                                                                                                            |
 ^unarmed-punch-critical
 
