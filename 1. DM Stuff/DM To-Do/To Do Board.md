@@ -51,12 +51,12 @@ months:
 ## In Progress
 
 - [ ] [[Weather Generation]]
-- [ ] [[Complete Critical Tables]]
 
 
 ## Done
 
 - [ ] Update Player Template to use a function for updating from DnD Beyond
+- [ ] [[Complete Critical Tables]]
 
 
 
