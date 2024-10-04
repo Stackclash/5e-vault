@@ -1,7 +1,10 @@
 ---
 obsidianUIMode: preview
 date: 2024-09-14
-summary:
+summary: |-
+  Under the cover of night, the party executed their daring plan to infiltrate Baba Lysaga’s creeping hut, its twisted branches looming like a dark sentinel in the murky swamps of Berez. With Redgrave’s silence spell masking their approach, they disarmed the magical alarms guarding the treehouse, slipping inside undetected. As they scoured the mystical hut, they discovered a strange crystal, pulsing with dark energy, appearing to be the very heart of the magical tree. Yet another mystery lay in the ethereal chest, unreachable by their mortal hands. Seizing what they could, they fled north, eager to return to the safety of their home base in the wizard’s tower.
+
+  However, when they arrived, a scene of devastation awaited them. The tower, once a sanctuary, now lay in smoking ruin, its stones scattered like the aftermath of some great force. Among the debris, an envelope, once ornate, pinned to a fallen stone, contained a chilling message—an invitation to Strahd’s wedding. The groom: Strahd von Zarovich. The bride: Tatiana. In the party’s absence, Strahd had taken Tatiana, and now, with the looming wedding, the stakes were higher than ever. The final battle with the vampire lord felt closer than ever, his sinister hand already in motion.
 fc-date: 973-2-22
 fc-end: 
 timelines:
