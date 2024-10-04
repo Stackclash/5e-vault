@@ -286,32 +286,32 @@ Thrown: `dice: [[Complete Critical Tables#^thrown-critical-failure]]`
 
 | dice: 1d12 | Melee Critical Failure |
 | ---------- | ---------------------- |
-| 1          | Dropped Weapon         |
-| 2          | Sprained Wrist         |
-| 3          | Sprained Ankle         |
-| 4          | Horrific Facial Scar   |
-| 5          | Twisted Knee           |
-| 6          | Fell Down              |
-| 7          | Slipped Vertebrae      |
-| 8          | Wrong Target           |
-| 9          | Dislocated Elbow       |
-| 10         | Juggled Weapon         |
-| 11         | Flung Weapon           |
-| 12         | Stumble                |
+| 1          | Dropped Weapon: Weapon falls at feet, If an enemy grabs weapon they gain ADV on next attack         |
+| 2          | Sprained Wrist: Forfeit remaining attacks on current turn, DIS on skills req’ing this hand until short rest         |
+| 3          | Sprained Ankle: Forfeit remaining movement on current turn, DIS on checks req’ing footwork until short rest         |
+| 4          | Horrific Facial Scar: If Attacker performs a stirring soliloquy, Victim stunned to end of next turn, ADV to CHA (Intimidation) during first impressions   |
+| 5          | Twisted Knee: Forfeit remaining movement on current turn, Walking Speed ½ until short rest           |
+| 6          | Fell Down: Prone              |
+| 7          | Slipped Vertebrae: Walking Speed ½ until short rest, DIS to STR shecks for 1d6 days      |
+| 8          | Wrong Target: Attacker rolls to hit Ally or Enemy closest to target           |
+| 9          | Dislocated Elbow: Forfeit remaining attacks on current turn, DIS with attacks req’ing this hand until short rest       |
+| 10         | Juggled Weapon: May use Bonus action to DEX save, else weapon falls 5 to 10 feet in random direction         |
+| 11         | Flung Weapon: Weapon is thrown 2d4x5 feet in random direction           |
+| 12         | Stumble: Forfeit remaining attacks on current turn, Fall prone or forfeit move to end of next turn                |
 ^melee-critical-failure
 
 | dice: 1d12 | Thrown Critical Failure |
 | ---------- | ----------------------- |
-| 1          | Dropped Weapon          |
-| 2          | Sprained Wrist          |
-| 3          | Dislocated Shoulder     |
-| 4          | Juggled Weapon          |
-| 5          | Broken Weapon           |
-| 6          | Wrong Target            |
-| 7          | Slipped Vertebrae       |
-| 8          | Flung Weapon            |
-| 9          | Dislocated Elbow        |
-| 10         | Stumble                 |
-| 11         | Fell Down               |
-| 12         | Wrong Target            |
+| 1          | Dropped Weapon: Weapon falls at feet, If an enemy grabs weapon they gain ADV on next attack          |
+| 2          | Sprained Wrist: Forfeit remaining attacks on current turn, DIS on skills req’ing this hand until short rest          |
+| 3          | Dislocated Shoulder: Can’t attack with weapon req’ing this hand until short rest     |
+| 4          | Juggled Weapon: May use Bonus action to DEX save, else weapon falls 5 to 10 feet in random direction          |
+| 5          | Broken Weapon: Weapon breaks on impact if non-magical, Target is emboldened and gains ADV on next attack           |
+| 6          | Wrong Target: Attacker rolls to hit Ally or Enemy closest to target            |
+| 7          | Slipped Vertebrae: Walking Speed ½ until short rest, DIS to STR shecks for 1d6 days       |
+| 8          | Flung Weapon: Weapon thrown 2d4 x5 feet in random direction, Enemy has a good chuckle            |
+| 9          | Dislocated Elbow: Forfeit remaining attacks on current turn, DIS with attacks req’ing this hand until short rest        |
+| 10         | Stumble: Forfeit remaining attacks on current turn, Fall prone or forfeit move to end of next turn                 |
+| 11         | Fell Down: Prone               |
+| 12         | Wrong Target: Attacker rolls to hit Ally or Enemy closest to target            |
 ^thrown-critical-failure
