@@ -41,3 +41,15 @@ Description
 
 ## What Happened
 Small description.
+
+## Inventory
+[[Seluvis Felo'melorn]]
+- 4 [[Potion Of Invulnerability]]
+- [[Eyes Of Minute Seeing]]
+- Amber Temple Loot
+- [[Amulet Of Health]]
+[[Redgrave]]
+- 
+[[Marin]]
+[[Faerah Duskrane]]
+[[Yevelda Ovak ]]
