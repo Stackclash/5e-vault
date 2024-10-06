@@ -33,14 +33,14 @@ tags:
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- [[Urwin Martikov]] is a member of the Keepers of the Feather
 
 ## Items Of Importance
 Description
 
 ## What Happened
-Small description.
+- The party reads chapter The Corruption of Yester Hill of the Tome of Strahd
+- They 
 
 ## Inventory
 [[Seluvis Felo'melorn]]
