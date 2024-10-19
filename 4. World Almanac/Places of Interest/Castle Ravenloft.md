@@ -105,3 +105,9 @@ TBD
 
 
 ### General Notes
+- When entering [[Castle Ravenloft]] the disembodied voice introduces the party as follows:
+	- "Behold, Redgrave, the construct of faith—one who seeks to save souls while having none of his own. A shining beacon of devotion, if only he had a heart to feel it."
+	- "Faerah Duskrane, the shadow that moves within shadows. So skilled in staying hidden—perhaps it is why trust always seems to elude her."
+	- "And here we have Marin, torn between two worlds and two souls. A pawn of greater powers, forever seeking what lies beyond, yet never satisfied with what she finds."
+	- "Seluvis Felo'melorn, the brilliant artificer. So much knowledge in such a refined mind, yet always tinkering—perhaps in hopes of fixing that which cannot be mended."
+	- "Yevelda Ovak, raw strength in human form, ever charging forward. But does she break chains, or simply wear new ones forged by her own hands?"
