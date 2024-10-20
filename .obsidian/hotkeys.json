@@ -47,14 +47,6 @@
       "key": "ArrowDown"
     }
   ],
-  "templater-obsidian:z_Templates/Templater/Editing/Columns.md": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "C"
-    }
-  ],
   "templater-obsidian:z_Templates/Templater/Editing/Blank Callout.md": [
     {
       "modifiers": [
