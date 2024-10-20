@@ -46,6 +46,11 @@ Description
 	- a set of pins that can change colors based on his decision
 		- he can only change the colors
 		- range of 200ft
+		- Colors decided on 
+			- red - DANGER
+			- green - Attack
+			- blue - regroup
+			- purple - portal room
 - [[Faerah Duskrane]] is looking for:
 	- [[Boots Of Speed]]
 	- [[Ring Of Evasion]]
@@ -65,5 +70,7 @@ Description
 	- [[Yevelda Ovak]]
 
 [[Redgrave]] casts [[Divination]]
+	- Gets the following as answer: "'When the heart no longer beats, the lord's reign will end, but only where he was born will he find rest."
+
 
 ! NOTE: Make Item cards for spell scrolls and books and +1 spear for [[Yevelda Ovak]]
