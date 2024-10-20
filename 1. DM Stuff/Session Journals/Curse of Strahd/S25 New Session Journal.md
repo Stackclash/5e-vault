@@ -69,6 +69,10 @@ Description
 		- Want's to speak to the Sergei
 	- [[Yevelda Ovak]]
 
+- [[The Abbot]] gives the following:
+	- 1 [[Potion Of Healing]]
+	- 2 [[Potion Of Greater Healing]]
+
 [[Redgrave]] casts [[Divination]]
 	- Gets the following as answer: "'When the heart no longer beats, the lord's reign will end, but only where he was born will he find rest."
 
