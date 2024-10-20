@@ -54,8 +54,12 @@ Description
 - Furious debate happens between the party
 	- [[Seluvis Felo'melorn]]
 	- [[Redgrave]]
+		- Use [[Divination]] to get an answer to what weakness Strahd has
+		- The turning point was Strahd's decision to make a pact in [[The Amber Temple]]
+		- What if Sergei is still in Barovia?
+		- Would forgiveness would 
 	- [[Faerah Duskrane]]
 	- [[Marin]]
-	- 
+	- [[Yevelda Ovak]]
 
 ! NOTE: Make Item cards for spell scrolls and books and +1 spear for [[Yevelda Ovak]]
