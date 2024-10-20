@@ -40,6 +40,11 @@ Who Did They Meet?
 Description
 
 ## What Happened
-
+- [[Seluvis Felo'melorn]] crafts the following:
+	- 7 [[Potion Of Healing]]
+	- 4 [[Potion Of Greater Healing]]
+	- a set of pins that can change colors based on his decision
+		- he can only change the colors
+		- range of 200ft
 
 ! NOTE: Make Item cards for spell scrolls and books and +1 spear for [[Yevelda Ovak]]
