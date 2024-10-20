@@ -64,4 +64,6 @@ Description
 		- Want's to speak to the Sergei
 	- [[Yevelda Ovak]]
 
+[[Redgrave]] casts [[Divination]]
+
 ! NOTE: Make Item cards for spell scrolls and books and +1 spear for [[Yevelda Ovak]]
