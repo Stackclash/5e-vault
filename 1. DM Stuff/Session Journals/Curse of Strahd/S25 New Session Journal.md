@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 date: 2024-10-19
-summary:
+summary: 
 fc-date: 973-2-22
-fc-end: 
+fc-end: 973-2-23
 timelines:
   - COS
 aat-render-enabled: true
@@ -46,5 +46,9 @@ Description
 	- a set of pins that can change colors based on his decision
 		- he can only change the colors
 		- range of 200ft
+- [[Faerah Duskrane]] is looking for:
+	- [[Boots Of Speed]]
+	- [[Ring Of Evasion]]
+	- [[Gloves Of Thievery]]
 
 ! NOTE: Make Item cards for spell scrolls and books and +1 spear for [[Yevelda Ovak]]
