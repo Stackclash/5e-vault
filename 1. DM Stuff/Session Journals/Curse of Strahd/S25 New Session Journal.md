@@ -42,4 +42,4 @@ Description
 ## What Happened
 Small description.
 
-! NOTE: 
+! NOTE: Make Item cards for spell scrolls and book
