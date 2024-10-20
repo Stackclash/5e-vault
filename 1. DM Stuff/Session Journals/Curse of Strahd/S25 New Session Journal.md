@@ -40,6 +40,6 @@ Who Did They Meet?
 Description
 
 ## What Happened
-Small description.
 
-! NOTE: Make Item cards for spell scrolls and book
+
+! NOTE: Make Item cards for spell scrolls and books and +1 spear for [[Yevelda Ovak]]
