@@ -58,6 +58,7 @@ Description
 
 - Furious debate happens between the party
 	- [[Seluvis Felo'melorn]]
+		- All for diplomacy
 	- [[Redgrave]]
 		- Use [[Divination]] to get an answer to what weakness Strahd has
 		- The turning point was Strahd's decision to make a pact in [[The Amber Temple]]
