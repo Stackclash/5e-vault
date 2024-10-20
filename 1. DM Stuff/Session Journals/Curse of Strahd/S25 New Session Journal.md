@@ -51,4 +51,11 @@ Description
 	- [[Ring Of Evasion]]
 	- [[Gloves Of Thievery]]
 
+- Furious debate happens between the party
+	- [[Seluvis Felo'melorn]]
+	- [[Redgrave]]
+	- [[Faerah Duskrane]]
+	- [[Marin]]
+	- 
+
 ! NOTE: Make Item cards for spell scrolls and books and +1 spear for [[Yevelda Ovak]]
