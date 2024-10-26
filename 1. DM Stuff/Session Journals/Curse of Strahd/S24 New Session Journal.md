@@ -40,7 +40,6 @@ Description
 
 ## What Happened
 - The party reads chapter The Corruption of Yester Hill of the Tome of Strahd
-- They 
 
 ## Inventory
 [[Seluvis Felo'melorn]]
