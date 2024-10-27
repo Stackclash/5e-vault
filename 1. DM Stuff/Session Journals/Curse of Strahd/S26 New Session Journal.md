@@ -51,5 +51,5 @@ Description
 	- 1 [[Yester Hill Axe]]
 	- 
 - The Sleek Search
-	- [[Faerah Duskrane]] helps owner to get boots of hast
+	- [[Faerah Duskrane]] helps owner to get [[Winged Boots]]
 - The Grumpy Owl
