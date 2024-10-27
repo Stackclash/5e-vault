@@ -53,3 +53,4 @@ Description
 - The Sleek Search
 	- [[Faerah Duskrane]] helps owner to get [[Winged Boots]]
 - The Grumpy Owl
+[[5. Mechanics/Items/Draft Horse|Draft Horse]]
