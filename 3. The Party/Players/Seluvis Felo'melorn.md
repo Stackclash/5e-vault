@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 statblock: true
 name: Seluvis Felo'melorn
-level: 7
+level: 8
 ac: 23
-hp: 49
+hp: 59
 modifier: 3
 proficiency: 3
 url: https://dndbeyond.com/characters/103214475

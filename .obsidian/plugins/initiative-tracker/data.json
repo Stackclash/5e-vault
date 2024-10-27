@@ -45,8 +45,8 @@
       "path": "3. The Party/Players/Seluvis Felo'melorn.md",
       "name": "Seluvis Felo'melorn",
       "ac": 23,
-      "hp": 49,
-      "level": 7,
+      "hp": 59,
+      "level": 8,
       "modifier": 3,
       "player": true
     }
@@ -254,8 +254,8 @@
         "initiative": 7,
         "static": false,
         "modifier": 3,
-        "hp": 49,
-        "currentMaxHP": 49,
+        "hp": 59,
+        "currentMaxHP": 59,
         "ac": 23,
         "currentAC": 23,
         "note": "Seluvis Felo'melorn",
