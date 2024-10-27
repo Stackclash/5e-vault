@@ -40,7 +40,8 @@ Description
 
 ## What Happened
 - The Gracious Pixy Dairy
-	- 4 [[Potion Of Superior Healing]] 1200gp
+	- 1 [[Potion Of Superior Healing]] 300gp
 	- 1 [[Potion Of Growth]] 100 gp
-	- 2 [[Potion Of Hill Giant Strength]] 100 gp
-	- 5 [[Potion Of Greater Healing]] 250gp
+	- 2 [[Potion Of Hill Giant Strength]] 100gp (50gp)
+	- 1 [[Potion Of Greater Healing]] 50gp (50gp)
+
