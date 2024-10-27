@@ -45,6 +45,8 @@ Description
 	- 2 [[Potion Of Hill Giant Strength]] 100gp (50gp)
 	- 1 [[Potion Of Greater Healing]] 50gp (50gp)
 	- = 550 gp
-- Grate Expectations
+	- 2 [[Potion Of Invisibility]] (1 lasts for 2 hours)
+		- [[Seluvis Felo'melorn]] helps the herbalist make a [[Potion Of Invisibility]] to get the recipe
+- Grate Axpectations
 	- 1 [[Yester Hill Axe]]
 	- 
