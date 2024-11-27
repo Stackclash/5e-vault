@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-class: warlock
+class: wizard
 level: ""
 school: ""
 ---
