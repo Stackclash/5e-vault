@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2024-10-26
-summary: "The party spends the day in the town "
+summary: The party spends the day in the town shopping for supplies, suspecting that this may be their last chance
 fc-date: 973-2-23
 fc-end: 
 timelines:
