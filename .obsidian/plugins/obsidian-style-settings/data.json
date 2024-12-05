@@ -11,5 +11,6 @@
   "supercharged-links@@9934-88e3-before": "🏔️",
   "supercharged-links@@a3ec-73d2-before": "🛡️",
   "ITS@@select": "wotc-beyond",
-  "ITS@@default-statblock": false
+  "ITS@@default-statblock": false,
+  "ITS@@its-d": false
 }

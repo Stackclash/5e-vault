@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2024-10-19
-summary: 
+summary: "The party discusses their next move. They have a long discussion on how to handle Strahd. Some want reconciliation for him and others want to find a way to reunite Strahd and Sergei together. They decide to use the teleportation gem to "
 fc-date: 973-2-22
 fc-end: 973-2-23
 timelines:
@@ -67,7 +67,7 @@ Description
 	- [[Faerah Duskrane]]
 		- Want's to talk Strahd out of it.
 	- [[Marin]]
-		- Want's to speak to the Sergei
+		- Want's to speak to Sergei
 	- [[Yevelda Ovak]]
 
 - [[The Abbot]] gives the following:

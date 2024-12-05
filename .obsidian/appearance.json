@@ -17,7 +17,7 @@
     "weatherGeneratorMicroV2",
     "weatherGeneratorVertical"
   ],
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "ITS Theme",
   "baseFontSize": 20
 }
