@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2024-10-26
-summary: The party spends the day in the town shopping for supplies, suspecting that this may be their last chance. They buy multiple potions and Yevelda buys a hand axe with thorns along the handle.
+summary: The party spends the day in the town shopping for supplies, suspecting that this may be their last chance. They buy multiple potions and Yevelda buys a hand axe with thorns along the handle. Faerah helps a tailor shop keeper prove that one of his rivals is stealing his designs and in return he gives her a pair of winged boots.
 fc-date: 973-2-23
 fc-end: 
 timelines:
