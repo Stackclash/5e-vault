@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2024-10-26
-summary:
+summary: "The party spends the day in the town "
 fc-date: 973-2-23
 fc-end: 
 timelines:

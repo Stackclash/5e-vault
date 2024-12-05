@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2024-10-19
-summary: "The party discusses their next move. They have a long discussion on how to handle Strahd. Some want reconciliation for him and others want to find a way to reunite Strahd and Sergei together. They decide to use the teleportation gem to "
+summary: "The party discusses their next move. They have a long discussion on how to handle Strahd. Some want reconciliation for him and others want to find a way to reunite Strahd and Sergei together. They decide to use the teleportation gem to teleport them to Krezk and travel south to the Wizard of Wines to find the other gems, hoping that they'd give them an edge. When they arrive at Krezk they arrive at the Abbey of Saint Markovia and meet the Abbot who has a plan to placate Strahd by providing him the \"perfect\" bride. In the Abbey they also "
 fc-date: 973-2-22
 fc-end: 973-2-23
 timelines:
