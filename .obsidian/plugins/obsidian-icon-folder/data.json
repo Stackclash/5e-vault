@@ -121,7 +121,8 @@
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconInTitlePosition": "above",
-    "lucideIconPackType": "native"
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
   "1. DM Stuff/Tools/Herbs.md": "RaFlowers",
   "1. DM Stuff/DM Screen.md": "FasDiceD20"

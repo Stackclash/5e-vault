@@ -873,5 +873,3 @@ ${s.stack.split(`
 `).filter(o=>!/^at/.test(o?.trim())).join(`
 `)}
 \`\`\``)}}render(t,i,a){this.api.render(t,i,a)}};Ys=new WeakMap;
-
-/* nosourcemap */
