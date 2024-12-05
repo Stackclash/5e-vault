@@ -169,7 +169,24 @@
         "/"
       ],
       "supportInlineEvents": false,
-      "inlineEventTag": "#inline-events"
+      "inlineEventTag": "#inline-events",
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1029414510,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      }
     }
   ],
   "configDirectory": null,
@@ -195,5 +212,6 @@
   "askedAboutSync": true,
   "syncBehavior": "Always",
   "inlineEventsTag": null,
-  "paths": []
+  "paths": [],
+  "autoParse": true
 }

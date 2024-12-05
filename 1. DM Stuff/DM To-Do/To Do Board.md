@@ -41,6 +41,7 @@ months:
 - [ ] Create script/roll tables to generate a NPC
 - [ ] [[See if info callout could use tabs]] ^lifr6c
 - [ ] Update find_file to return a string when a strong enough match isn't found
+- [ ] Update relationship graph to not show relationships going back to current page (make it simplier)
 
 
 ## Research
