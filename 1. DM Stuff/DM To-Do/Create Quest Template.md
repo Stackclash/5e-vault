@@ -1,1 +1,2 @@
-Would like to be able to have a checklist that each step can be completed and tied to a session.
+- Would like to be able to have a checklist that each step can be completed and tied to a session.
+- For Quest Hooks they could be tied to a location or NPC then when looking at a location you could see available quests
