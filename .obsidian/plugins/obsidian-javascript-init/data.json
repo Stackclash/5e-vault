@@ -1,3 +1,3 @@
 {
-  "code": "if (!path) {\n  const path = require('path')\n}\nif (!fs) {\n  const fs = require('fs')\n}\n\nconst code = fs.readFileSync(path.join(app.vault.adapter.getBasePath(), 'z_Scripts/JS/downloadExternalFiles.js', 'utf8'))\n\neval(code)"
+  "code": "console.log('here')\nif (typeof path === 'undefined') {\n  const path = require('path')\n}\nif (typeof fs === 'undefined') {\n  const fs = require('fs')\n}\nif (typeof code === 'undefined') {\n  const code = fs.readFileSync(path.join(app.vault.adapter.getBasePath(), 'z_Scripts/JS/downloadExternalFiles.js', 'utf8'))\n\n  console.log(code)\n}\n\neval(code)"
 }

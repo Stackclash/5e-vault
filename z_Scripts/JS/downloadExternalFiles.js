@@ -1,3 +1,5 @@
+console.log('HERE')
+
 if (!path) {
   const path = require('path')
 }
