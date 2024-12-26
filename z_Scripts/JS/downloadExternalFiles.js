@@ -1,13 +1,11 @@
-console.log('HERE')
+try {
 
-if (!path) {
-  const path = require('path')
+} catch (e) {
+  new Notice(`Error running downloadExternalFiles.js: ${e.message}`)
 }
-if (!fs) {
-  const fs = require('fs')
-}
-if (!config) {
-  const config = [
+const path = require('path')
+const fs = require('fs')
+const config = [
     {
       description: 'ttrpg-convert-cli Styles',
       destination: '.obsidian/snippets/ttrpg-convert-cli.css',
@@ -27,11 +25,8 @@ if (!config) {
       urls: 'https://rawcdn.githack.com/sailKiteV/Obsidian-Snippets-and-Demos/refs/heads/main/TabsInObsidian/TabsInObsidian.css'
     }
   ]
-}
-if (!promises) {
-  let promises
-}
-promises = []
+
+let promises = []
 
 config.forEach(config => {
   if (Array.isArray(config.urls)) {
