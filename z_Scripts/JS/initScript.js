@@ -1,4 +1,4 @@
-exports.default = function initScript(app) {
+function initScript(app) {
   try {
     const path = require('path')
     const fs = require('fs')
@@ -53,3 +53,5 @@ exports.default = function initScript(app) {
     new Notice(`Error running downloadExternalFiles.js: ${e.message}`)
   }
 }
+
+initScript(app)
