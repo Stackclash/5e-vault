@@ -15,7 +15,10 @@
     "weatherGenerator",
     "weatherGeneratorMicro",
     "weatherGeneratorMicroV2",
-    "weatherGeneratorVertical"
+    "weatherGeneratorVertical",
+    "ITS-Theme",
+    "metabind-tabs",
+    "ttrpg-convert-cli"
   ],
   "theme": "obsidian",
   "cssTheme": "ITS Theme",
