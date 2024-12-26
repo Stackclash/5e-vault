@@ -1,4 +1,4 @@
-module.exports = function initScript(app) {
+exports.default = function initScript(app) {
   try {
     const path = require('path')
     const fs = require('fs')

@@ -1,3 +1,3 @@
 {
-  "code": "try {\n  if (typeof path === 'undefined') {\n    const path = require('path')\n  }\n  const init = require(path.join(app.vault.adapter.getBasePath(), 'z_Scripts/JS/initScript.js'))\n  console.log(typeof init)\n  console.log(Object.keys(init))\n\n  init(app)\n} catch (e) {\n  console.log(`Error running Javascript Init script: ${e.message}`)\n  new Notice(`Error running Javascript Init script: ${e.message}`)\n}"
+  "code": "try {\n  if (typeof path === 'undefined') {\n    const path = require('path')\n  }\n  const init = require(path.join(app.vault.adapter.getBasePath(), 'z_Scripts/JS/initScript.js'))\n  console.log(path.join(app.vault.adapter.getBasePath(), 'z_Scripts/JS/initScript.js'))\n  console.log(typeof init)\n  console.log(Object.keys(init))\n\n  init(app)\n} catch (e) {\n  console.log(`Error running Javascript Init script: ${e.message}`)\n  new Notice(`Error running Javascript Init script: ${e.message}`)\n}"
 }
