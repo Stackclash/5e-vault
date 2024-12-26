@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 statblock: true
 name: Marin
-level: 7
+level: 8
 ac: 19
-hp: 59
+hp: 67
 modifier: 3
 proficiency: 3
 url: https://dndbeyond.com/characters/103873194

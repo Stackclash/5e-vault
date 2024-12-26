@@ -4,7 +4,7 @@ statblock: true
 name: "Yevelda Ovak "
 level: 8
 ac: 15
-hp: 86
+hp: 76
 modifier: 2
 proficiency: 3
 url: https://dndbeyond.com/characters/103814449
