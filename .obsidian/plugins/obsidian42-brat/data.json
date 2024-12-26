@@ -1,8 +1,13 @@
 {
   "pluginList": [
-    "javalent/the-calendarium"
+    "javalent/calendarium"
   ],
-  "pluginSubListFrozenVersion": [],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "javalent/calendarium",
+      "version": "2.0.0-beta.3"
+    }
+  ],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,
@@ -11,5 +16,6 @@
   "loggingPath": "BRAT-log",
   "loggingVerboseEnabled": false,
   "debuggingMode": false,
-  "notificationsEnabled": true
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
 }
