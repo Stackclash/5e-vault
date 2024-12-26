@@ -187,82 +187,12 @@
       "locations": {
         "locations": []
       }
-    },
-    {
-      "name": "Test",
-      "description": null,
-      "id": "ID_8b08980bba48",
-      "showIntercalarySeparately": true,
-      "static": {
-        "incrementDay": false,
-        "firstWeekDay": 0,
-        "overflow": true,
-        "weekdays": [
-          {
-            "type": "day",
-            "name": "Sunday",
-            "id": "ID_890b4a1988c9",
-            "number": null
-          },
-          {
-            "type": "day",
-            "name": "Monday",
-            "id": "ID_3a1a8a186aa8",
-            "number": null
-          },
-          {
-            "type": "day",
-            "name": "Tuesday",
-            "id": "ID_d929d8b87b7a",
-            "number": null
-          },
-          {
-            "type": "day",
-            "name": "Wednesday",
-            "id": "ID_4828086bc9fa",
-            "number": null
-          }
-        ],
-        "months": [
-          {
-            "name": "boo",
-            "type": "month",
-            "length": 4,
-            "id": "ID_b9085bfa68f8",
-            "interval": 1,
-            "offset": 0
-          },
-          {
-            "name": "bar",
-            "type": "month",
-            "length": 4,
-            "id": "ID_3988794aeb89",
-            "interval": 1,
-            "offset": 0
-          }
-        ],
-        "moons": [],
-        "displayMoons": true,
-        "displayDayNumber": false,
-        "leapDays": [],
-        "eras": []
-      },
-      "current": {
-        "year": 1,
-        "month": 0,
-        "day": 1
-      },
-      "events": [],
-      "categories": [],
-      "path": [],
-      "supportInlineEvents": false,
-      "inlineEventTag": "#inline-events"
     }
   ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "ID_8b08980bba48",
+  "defaultCalendar": "ID_6b2b79a86a39",
   "eventPreview": false,
   "exit": {
     "saving": false,
