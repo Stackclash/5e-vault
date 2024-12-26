@@ -20,7 +20,9 @@ if (!config) {
       ]
     },
     {
-
+      description: 'Metabind Tabs',
+      destination: '.obsidian/snippets/metabind-tabs.css',
+      urls: 'https://rawcdn.githack.com/sailKiteV/Obsidian-Snippets-and-Demos/refs/heads/main/TabsInObsidian/TabsInObsidian.css'
     }
   ]
 }
