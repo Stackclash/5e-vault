@@ -7,15 +7,13 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/mongrelfolk
   - npc
-location: >-
-  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
-  Saint Markovia]]
+location: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]"
 condition: healthy
 image: 4. World Almanac/NPCs/img/clovin-belview.webp
 relationships: []
 aliases: []
 pronounced: CLOH-vin BEL-view
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age: 54
 alignment: Neutral Evil
@@ -23,24 +21,15 @@ occupation:
   - Caretaker
 groups: []
 religions: []
-personality: 'Subservient, eccentric, deeply troubled'
-ideal: >-
-  Survival and obedience are the utmost priorities in a world that neither wants
-  nor understands you
-bond: >-
-  His twisted loyalty to the Abbot and a sense of belonging among the
-  mongrelfolk
+personality: Subservient, eccentric, deeply troubled
+ideal: Survival and obedience are the utmost priorities in a world that neither wants nor understands you
+bond: His twisted loyalty to the Abbot and a sense of belonging among the mongrelfolk
 flaw: His fear of rejection and punishment overshadows his better judgment
-goals: >-
-  To please the Abbot, to find some measure of peace or acceptance in his
-  existence
-likes: >-
-  Music (despite his lack of skill), the rare moments of quiet and solitude,
-  alcohol
-dislikes: >-
-  The disdain or fear of outsiders, the cruelty of his existence, the conflict
-  within the Abbey
-partyRelationships: {}
+goals: To please the Abbot, to find some measure of peace or acceptance in his existence
+likes: Music (despite his lack of skill), the rare moments of quiet and solitude, alcohol
+dislikes: The disdain or fear of outsiders, the cruelty of his existence, the conflict within the Abbey
+partyRelationships:
+  Curse of Strahd: Acquaintance
 ---
 
 > [!infobox | wsmall]
