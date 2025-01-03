@@ -27,17 +27,18 @@ try {
   
   config.forEach(item => {
     if (Array.isArray(item.urls)) {
-      promises.push(Promise.all(item.urls.map(url => fetch(url))))
+      promises.push(Promise.all(item.urls.map(url => request(url))))
     } else {
-      promises.push(fetch(item.urls))
+      promises.push(request(item.urls))
     }
   })
-  console.log(console.log(promises.length), promises.forEach(p=>console.log(typeof p)))
   
   Promise.all(promises)
   .then(responses => {
     return responses.forEach((data, index) => {
+      console.log(typeof data, Array.isArray(data))
       if (Array.isArray(data)) {
+        console.log(data.length)
         fs.writeFileSync(path.join(app.vault.adapter.getBasePath(), config[index].destination), data.join('\n\n'))
       } else {
         fs.writeFileSync(path.join(app.vault.adapter.getBasePath(), config[index].destination), data)
