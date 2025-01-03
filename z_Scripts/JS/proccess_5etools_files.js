@@ -1,11 +1,11 @@
 const fs = require('fs')
 const path = require('path')
-const matter = require('https://esm.sh/gray-matter')
+const matter = require('gray-matter')
+const readlineSync = require('readline-sync')
 
 // Create reliable logging
 
 const config = {
-    dryRun: false,
     limit: 1,
     rootVaultPath: path.resolve(__dirname, '../../'),
     compendiumPath: 'compendium',
@@ -18,7 +18,7 @@ const config = {
             enabled: true,
             name: 'Update File Path',
             target: 'relativePath',
-            process: function(file) {
+            process: function (file) {
                 let newRelativePath = file.relativePath
 
                 newRelativePath = newRelativePath
@@ -26,37 +26,37 @@ const config = {
                     .replace(/compendium([\\\/])adventures/, (oldText, separator) => `6. Resources${separator}5e Modules`)
                     .replace(/compendium([\\\/])books/, (oldText, separator) => `6. Resources${separator}Books`)
                     .replace(/compendium/, () => '5. Mechanics')
-                    .replaceAll(/([\/\\\-])([a-z])(?!mg|oken)/g, (oldText, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : separator+letter.toUpperCase())
-                
+                    .replaceAll(/([\/\\\-])([a-z])(?!mg|oken)/g, (oldText, separator, letter) => separator === '-' ? ' ' + letter.toUpperCase() : separator + letter.toUpperCase())
+
                 return newRelativePath
             }
         },
         {
             enabled: true,
             name: 'Update File Name',
-            ignore: function(file) {
+            ignore: function (file) {
                 return ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'fileName',
-            process: function(file) {
+            process: function (file) {
                 let newFileName = file.fileName
 
                 newFileName = newFileName
-                    .replaceAll(/(^|[\/\\\-])([a-z0-9])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : separator+letter.toUpperCase())
+                    .replaceAll(/(^|[\/\\\-])([a-z0-9])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' ' + letter.toUpperCase() : separator + letter.toUpperCase())
                     .replace(/\s*(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS|SaF|ERLW|Hhhvi|Hhhvii|Hhhviii|Hhbh|VEoR|FMp1|WEL|TGS1|DM)$/i, '')
-                
+
                 return newFileName
             }
         },
         {
             enabled: true,
             name: 'Update Content Links',
-            ignore: function(file) {
+            ignore: function (file) {
                 return ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'content',
             regex: /\[([A-zÀ-ú\w\s\d,:;'\.\(\)-\/]*?)\]\(([\w\s\d\/\\\.\-%\d]+)(#{0,1}\^{0,1}[\-\w%]*)\s{0,1}"{0,1}([A-zÀ-ú\w\d\s:&,'\.\(\)\-]*?)"{0,1}\)/g,
-            process: function(file, oldLink, displayText, linkPath, section, title) {
+            process: function (file, oldLink, displayText, linkPath, section, title) {
                 let filePath = path.parse(linkPath).dir
                 let fileName = path.parse(linkPath).name
                 let separator = filePath.match(/[\/\\]/)
@@ -65,12 +65,12 @@ const config = {
                 let filePathRule = config.rules.find(rule => rule.name === 'Update File Path')
                 let fileNameRule = config.rules.find(rule => rule.name === 'Update File Name')
 
-                filePath = filePathRule.process({relativePath: filePath})
-                fileName = fileNameRule.ignore({fileExtension: path.parse(linkPath).ext}) ? fileName : fileNameRule.process({fileName: fileName, path: filePath})
+                filePath = filePathRule.process({ relativePath: filePath })
+                fileName = fileNameRule.ignore({ fileExtension: path.parse(linkPath).ext }) ? fileName : fileNameRule.process({ fileName: fileName, path: filePath })
 
-                linkPath = `${filePath ? filePath+separator : ''}${fileName}${path.parse(linkPath).ext}`
+                linkPath = `${filePath ? filePath + separator : ''}${fileName}${path.parse(linkPath).ext}`
 
-                if(!displayText && !title) {
+                if (!displayText && !title) {
                     newLink = `[[${linkPath}${section}]]`
                 } else if (title) {
                     newLink = `[[${linkPath}${section}${linkPipe}"${title}"]]`
@@ -84,11 +84,11 @@ const config = {
         {
             enabled: true,
             name: 'Create Folder Index Page',
-            ignore: function(file) {
+            ignore: function (file) {
                 return ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'content',
-            process: function(file) {
+            process: function (file) {
                 let fileContent = file.content
                 let separator = file.path.match(/[\/\\]/)
 
@@ -102,15 +102,15 @@ const config = {
         {
             enabled: true,
             name: 'Update Image/Token Path for Bestiary and NPCs',
-            ignore: function(file) {
+            ignore: function (file) {
                 return !/bestiary|npc/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'content',
             regex: /"*image"*: "*([\w\/]+)(\/[img|token]+\/[\w-]+\.[\w]+)"*/g,
-            process: function(file, oldText, imagePath, restOfPath) {
+            process: function (file, oldText, imagePath, restOfPath) {
                 let filePathRule = config.rules.filter(rule => rule.name === 'Update File Path')[0]
 
-                imagePath = filePathRule.process({relativePath: imagePath})
+                imagePath = filePathRule.process({ relativePath: imagePath })
 
                 if (/"/.test(oldText)) {
                     return `"image": "${imagePath}${restOfPath}"`
@@ -122,61 +122,81 @@ const config = {
         {
             enabled: true,
             name: 'Update NPC/Bestiary statblock name',
-            ignore: function(file) {
+            ignore: function (file) {
                 return !/npc|bestiary/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'content',
             regex: /^"name": "[\w\s'\(\)-]+"/gm,
-            process: function(file, oldText) {
+            process: function (file, oldText) {
                 return `"name": "${file.fileName}"`
+            }
+        },
+        {
+            enabled: true,
+            name: 'Update Frontmatter based on existing file',
+            ignore: function (file) {
+                console.log(file.path, !fs.existsSync(file.path), ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension))
+                return !fs.existsSync(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
+            },
+            target: 'frontMatter',
+            process: function (file) {
+                const askQuestion = function (question) {
+                    const answer = readlineSync.question(question)
+                    return answer.toLowerCase() === 'y'
+                }
+
+                const finalFrontMatter = {},
+                    currentFileFrontMatter = matter.read(file.path).data
+
+                for (let prop of Object.keys(currentFileFrontMatter)) {
+                    if (file.frontMatter[prop]) {
+                        if (JSON.stringify(file.frontMatter[prop]) !== JSON.stringify(currentFileFrontMatter[prop])) {
+                            const update = askQuestion(`Update ${prop} from ${currentFileFrontMatter[prop]} to ${file.frontMatter[prop]}? (Y/N) `)
+                            if (update) {
+                                finalFrontMatter[prop] = file.frontMatter[prop]
+                            } else {
+                                finalFrontMatter[prop] = currentFileFrontMatter[prop]
+                            }
+                        }
+                    } else {
+                        finalFrontMatter[prop] = currentFileFrontMatter[prop]
+                    }
+                }
+
+                return Object.assign({}, file.frontMatter, finalFrontMatter)
+            }
+        },
+        {
+            enabled: true,
+            name: 'Move File',
+            ignore: function (file) {
+                return /npc/i.test(file.path) && file.frontMatter.tags && !file.frontMatter.tags.some(tag => tag === 'compendium/src/5e/cos')
+            },
+            process: function (file) {
+                fs.mkdirSync(path.parse(file.path).dir, { recursive: true })
+                fs.writeFileSync(file.path, matter.stringify(file.content, file.frontMatter))
+                fs.unlinkSync(file._oldPath)
+                if (config.logs.moves) console.log(`\tMoved To: ${path.join(file.relativePath, file.fileName + file.fileExtension)}`)
             }
         }
     ]
 }
 
 class CompendiumFile {
-    _oldContent
     _oldPath
+    _oldContent
+    _oldFrontMatter
     path
     content
+    frontMatter
 
     constructor(filePath) {
         this._oldPath = filePath
         this.path = this._oldPath
-        this._oldContent = !['.jpg', '.jpeg', '.png', '.webp'].includes(path.parse(filePath).ext) ? fs.readFileSync(filePath, 'utf-8') : fs.readFileSync(filePath)
+        this._oldContent = !['.jpg', '.jpeg', '.png', '.webp'].includes(path.parse(filePath).ext) ? fs.readFileSync(filePath, 'utf-8') : matter.read(this.path).content
         this.content = this._oldContent
-        this.execute = () => {
-            let moveFile = true
-            fs.mkdirSync(path.parse(this.path).dir, {recursive: true})
-
-            if (fs.existsSync(this.path) && !['.jpg', '.jpeg', '.png', '.webp'].includes(this.fileExtension)) {
-                const finalFrontMatter = {},
-                oldFrontMatter = matter.read(this.path).data,
-                newFile = matter(this.content),
-                newContent = newFile.content,
-                newFrontMatter = newFile.data
-
-                for (let prop of Object.keys(newFrontMatter)) {
-                    if (oldFrontMatter[prop]) {
-                        finalFrontMatter[prop] = oldFrontMatter[prop]
-                    } else {
-                        finalFrontMatter[prop] = newFrontMatter[prop]
-                    }
-                }
-                
-                this.content = matter.stringify(newContent, finalFrontMatter)
-            }
-            const newFileFrontMatter = matter(this.content).data
-            if (/npc/i.test(this.path) && newFileFrontMatter.tags && !newFileFrontMatter.tags.some(tag => tag === 'compendium/src/5e/cos')) {
-                moveFile = false
-            }
-            if (moveFile) {
-                fs.writeFileSync(this.path, this.content)
-            } else {
-                console.log(`NOT MOVING ${this.path}`)
-            }
-            fs.unlinkSync(this._oldPath)
-        }
+        this._oldFrontMatter = matter.read(this.path).data
+        this.frontMatter = this._oldFrontMatter
     }
 
     get fileName() {
@@ -200,7 +220,7 @@ class CompendiumFile {
     }
 }
 
-function goThroughFilesAndFolders(folderPath, filesList=[]) {
+function goThroughFilesAndFolders(folderPath, filesList = []) {
     const files = fs.readdirSync(folderPath)
 
     files.forEach(file => {
@@ -221,20 +241,24 @@ function processAllRules(files) {
     let updateText = ''
     files = files.slice(0, config.limit)
     files.forEach((file, index) => {
-        console.log(`${index+1} Processing: ${path.join(file.relativePath, file.fileName+file.fileExtension)}`)
+        console.log(`${index + 1} Processing: ${path.join(file.relativePath, file.fileName + file.fileExtension)}`)
         // console.log(`${index+1} Processing: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}`)
         config.rules.forEach(rule => {
-            if (rule.enabled && !(rule.ignore && rule.ignore(file))) {
-                if (config.logs.rules) console.log(`\tRunning: ${rule.name}`)
-                if (rule.regex) {
-                    file[rule.target] = file[rule.target].replaceAll(new RegExp(rule.regex), (...match) => rule.process(file, ...match))
-                } else {
-                    file[rule.target] = rule.process(file)
+            if (rule.enabled) {
+                if (!(rule.ignore && rule.ignore(file))) {
+                    if (config.logs.rules) console.log(`\tRunning: ${rule.name}`)
+                    if (rule.regex) {
+                        file[rule.target] = file[rule.target].replaceAll(new RegExp(rule.regex), (...match) => rule.process(file, ...match))
+                    } else {
+                        if (rule.target) {
+                            file[rule.target] = rule.process(file)
+                        } else {
+                            rule.process(file)
+                        }
+                    }
                 }
             }
         })
-        if (config.logs.moves) console.log(`\tMoved To: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}`)
-        if (!config.dryRun) file.execute()
     })
 }
 
