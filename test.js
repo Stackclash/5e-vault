@@ -2,6 +2,24 @@ try {
   const path = require('path')
   const fs = require('fs')
   const url = require('url')
+  
+  function request(url) {
+    return new Promise((resolve, reject) => {
+      const xhr = new XMLHttpRequest()
+      xhr.open('GET', url, true)
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4) {
+          if (xhr.status === 200) {
+            resolve(xhr.responseText)
+          } else {
+            reject(new Error(`Failed to download file: ${url}`))
+          }
+        }
+      }
+      xhr.send()
+    })
+  }
+
   const config = [
       {
         description: 'ttrpg-convert-cli Styles',
@@ -24,7 +42,7 @@ try {
     ]
   
   let promises = []
-  console.log()
+  console.log(path.basename(url.parse(config[0].urls).pathname))
   
   config.forEach(item => {
     if (Array.isArray(item.urls)) {
@@ -38,9 +56,9 @@ try {
   .then(responses => {
     return responses.forEach((data, index) => {
       if (Array.isArray(data)) {
-        fs.writeFileSync(path.join(/* , config[index].destination) */__dirname, data.join('\n\n'))
+        fs.writeFileSync(path.join(/* app.vault.adapter.getBasePath() */__dirname, config[index].destination), data.join('\n\n'))
       } else {
-        fs.writeFileSync(path.join(/* , config[index].destination) */__dirname, config[index].destination), data)
+        fs.writeFileSync(path.join(/* app.vault.adapter.getBasePath() */__dirname, config[index].destination), data)
       }
     })
   })
