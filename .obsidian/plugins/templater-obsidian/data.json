@@ -32,6 +32,8 @@
     "z_Templates/Templater/Editing/Columns.md",
     "z_Templates/Templater/Editing/Blank Callout.md"
   ],
-  "startup_templates": [],
+  "startup_templates": [
+    "z_Templates/Templater/Functional/Startup.md"
+  ],
   "enable_ribbon_icon": true
 }

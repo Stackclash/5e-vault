@@ -6,7 +6,7 @@ const matter = require('https://esm.sh/gray-matter')
 
 const config = {
     dryRun: false,
-    limit: 10000,
+    limit: 1,
     rootVaultPath: path.resolve(__dirname, '../../'),
     compendiumPath: 'compendium',
     logs: {
@@ -62,8 +62,8 @@ const config = {
                 let separator = filePath.match(/[\/\\]/)
                 let linkPipe = /bestiary|npc/i.test(file.path) ? '|' : '\\|' // Prevents breaking statblocks
 
-                let filePathRule = config.rules.filter(rule => rule.name === 'Update File Path')[0]
-                let fileNameRule = config.rules.filter(rule => rule.name === 'Update File Name')[0]
+                let filePathRule = config.rules.find(rule => rule.name === 'Update File Path')
+                let fileNameRule = config.rules.find(rule => rule.name === 'Update File Name')
 
                 filePath = filePathRule.process({relativePath: filePath})
                 fileName = fileNameRule.ignore({fileExtension: path.parse(linkPath).ext}) ? fileName : fileNameRule.process({fileName: fileName, path: filePath})
@@ -221,7 +221,8 @@ function processAllRules(files) {
     let updateText = ''
     files = files.slice(0, config.limit)
     files.forEach((file, index) => {
-        console.log(`${index+1} Processing: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}`)
+        console.log(`${index+1} Processing: ${path.join(file.relativePath, file.fileName+file.fileExtension)}`)
+        // console.log(`${index+1} Processing: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}`)
         config.rules.forEach(rule => {
             if (rule.enabled && !(rule.ignore && rule.ignore(file))) {
                 if (config.logs.rules) console.log(`\tRunning: ${rule.name}`)
