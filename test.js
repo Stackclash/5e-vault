@@ -2,21 +2,21 @@ try {
   const path = require('path')
   const fs = require('fs')
   const url = require('url')
+  const https = require('https')
   
-  function request(url) {
+  async function request(url) {
     return new Promise((resolve, reject) => {
-      const xhr = new XMLHttpRequest()
-      xhr.open('GET', url, true)
-      xhr.onreadystatechange = function() {
-        if (xhr.readyState === 4) {
-          if (xhr.status === 200) {
-            resolve(xhr.responseText)
-          } else {
-            reject(new Error(`Failed to download file: ${url}`))
-          }
-        }
-      }
-      xhr.send()
+      https.get(url, (res) => {
+        let data = ''
+        res.on('data', (chunk) => {
+          data += chunk
+        })
+        res.on('end', () => {
+          resolve(data)
+        })
+      }).on('error', (err) => {
+        reject(err)
+      })
     })
   }
 
@@ -42,7 +42,7 @@ try {
     ]
   
   let promises = []
-  console.log(path.basename(url.parse(config[0].urls).pathname))
+  console.log(decodeURI(path.basename(url.parse(config[1].urls[0]).pathname)))
   
   config.forEach(item => {
     if (Array.isArray(item.urls)) {
