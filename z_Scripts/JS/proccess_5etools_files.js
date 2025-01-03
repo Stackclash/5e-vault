@@ -237,6 +237,10 @@ function goThroughFilesAndFolders(folderPath, filesList = []) {
     return filesList
 }
 
+function moveCssSnippets() {
+    // TODO: Move CSS snippets to the correct folder
+}
+
 function processAllRules(files) {
     let updateText = ''
     files = files.slice(0, config.limit)
