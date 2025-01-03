@@ -29,6 +29,19 @@ try {
           'https://rawcdn.githack.com/SlRvb/Obsidian--ITS-Theme/refs/heads/main/Snippets/S%20-%20Encoded%20Icons.css',
           'https://rawcdn.githack.com/sailKiteV/Obsidian-Snippets-and-Demos/refs/heads/main/TabsInObsidian/TabsInObsidian.css'
         ]
+      },
+      {
+        description: 'ttrpg-convert-cli Homebrew',
+        destination: 'z_Extra/ttrpg-convert/homebrew',
+        urls: [
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Griffin%20Macaulay;%20The%20Griffon\'s%20Saddlebag,%20Book%201.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Griffin%20Macaulay;%20The%20Griffon\'s%20Saddlebag,%20Book%202.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Griffin%20Macaulay;%20The%20Griffon\'s%20Saddlebag,%20Book%203.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Griffin%20Macaulay;%20The%20Griffon\'s%20Saddlebag,%20Book%204.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Jasmine%20Yang;%20Hamund\'s%20Harvesting%20Handbook%20I.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Jasmine%20Yang;%20Hamund\'s%20Harvesting%20Handbook%20II.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Jasmine%20Yang;%20Hamund\'s%20Harvesting%20Handbook%20III.json',
+        ]
       }
     ]
   
