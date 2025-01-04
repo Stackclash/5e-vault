@@ -220,54 +220,48 @@ class CompendiumFile {
     }
 }
 
-function goThroughFilesAndFolders(folderPath, filesList = []) {
+function goThroughFilesAndFolders(folderPath, num = 0) {
     const files = fs.readdirSync(folderPath)
 
-    files.forEach(file => {
-        const filePath = path.resolve(folderPath, file)
-        const fileInfo = fs.statSync(filePath)
+    while(num < config.limit) {
+        files.forEach(file => {
+            const filePath = path.resolve(folderPath, file)
+            const fileInfo = fs.statSync(filePath)
+    
+            if (fileInfo.isDirectory()) {
+                goThroughFilesAndFolders(filePath, num)
+            } else {
+                processAllRules(new CompendiumFile(filePath))
+                num++
+            }
+        });
+    }
 
-        if (fileInfo.isDirectory()) {
-            filesList.concat(goThroughFilesAndFolders(filePath, filesList))
-        } else {
-            filesList.push(new CompendiumFile(filePath))
-        }
-    });
-
-    return filesList
+    return
 }
 
 function moveCssSnippets() {
     // TODO: Move CSS snippets to the correct folder
 }
 
-function processAllRules(files) {
-    let updateText = ''
-    files = files.slice(0, config.limit)
-    files.forEach((file, index) => {
-        console.log(`${index + 1} Processing: ${path.join(file.relativePath, file.fileName + file.fileExtension)}`)
-        // console.log(`${index+1} Processing: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}`)
-        config.rules.forEach(rule => {
-            if (rule.enabled) {
-                if (!(rule.ignore && rule.ignore(file))) {
-                    if (config.logs.rules) console.log(`\tRunning: ${rule.name}`)
-                    if (rule.regex) {
-                        file[rule.target] = file[rule.target].replaceAll(new RegExp(rule.regex), (...match) => rule.process(file, ...match))
+function processAllRules(file, index) {
+    console.log(`${index + 1} Processing: ${path.join(file.relativePath, file.fileName + file.fileExtension)}`)
+    config.rules.forEach(rule => {
+        if (rule.enabled) {
+            if (!(rule.ignore && rule.ignore(file))) {
+                if (config.logs.rules) console.log(`\tRunning: ${rule.name}`)
+                if (rule.regex) {
+                    file[rule.target] = file[rule.target].replaceAll(new RegExp(rule.regex), (...match) => rule.process(file, ...match))
+                } else {
+                    if (rule.target) {
+                        file[rule.target] = rule.process(file)
                     } else {
-                        if (rule.target) {
-                            file[rule.target] = rule.process(file)
-                        } else {
-                            rule.process(file)
-                        }
+                        rule.process(file)
                     }
                 }
             }
-        })
+        }
     })
 }
 
-function processCompendium() {
-    processAllRules(goThroughFilesAndFolders(path.resolve(config.rootVaultPath, config.compendiumPath)))
-}
-
-processCompendium()
+goThroughFilesAndFolders(path.resolve(config.rootVaultPath, config.compendiumPath))

@@ -21,11 +21,10 @@
 		"optionalFeatureTypes": {
 			"CT": "Crafter Type"
 		},
-		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1659988014,
-		"dateLastModified": 1733315669,
-		"_dateLastModifiedHash": "4b2a2948f1"
+		"dateLastModified": 1726660384,
+		"_dateLastModifiedHash": "db17f15ac4"
 	},
 	"optionalfeature": [
 		{
@@ -244,7 +243,7 @@
 			],
 			"toolProficiencies": [
 				{
-					"harvesting kit|hhhvi": true
+					"harvesting kit|HHHVI": true
 				}
 			],
 			"startingEquipment": [
@@ -484,8 +483,8 @@
 			"page": 146,
 			"toolProficiencies": [
 				{
-					"herbalism kit": true,
-					"harvesting kit|hhhvi": true
+					"harvesting kit": true,
+					"herbalism kit": true
 				}
 			],
 			"entries": [

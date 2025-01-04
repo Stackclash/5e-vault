@@ -1,11 +1,10 @@
 {
-	"$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/master/schema/brew-fast/homebrew.json",
 	"_meta": {
 		"sources": [
 			{
 				"json": "KPDM",
 				"abbreviation": "DM",
-				"full": "Deep Magic (01-20)",
+				"full": "Deep Magic",
 				"url": "https://koboldpress.com/kpstore/product/deep-magic-for-5th-edition/",
 				"authors": [
 					"Kobold Press",
@@ -30,7 +29,7 @@
 					"TryHardSatan",
 					"Spappz"
 				],
-				"version": "2022.01.31",
+				"version": "2022-01-31",
 				"color": "8f271f",
 				"dateReleased": "2020-08-04"
 			}
@@ -46,14 +45,13 @@
 		"optionalFeatureTypes": {
 			"AG": "Angelic Seal",
 			"Hieroglyph": "Hieroglyph",
-			"EM": "Elemental Mastery",
+			"Mastery": "Mastery",
 			"Rune": "Rune"
 		},
 		"status": "ready",
 		"dateAdded": 1614875938,
-		"dateLastModified": 1733315669,
-		"_dateLastModifiedHash": "c24dfbd77c",
-		"edition": "classic"
+		"dateLastModified": 1723453296,
+		"_dateLastModifiedHash": "814bbd74bc"
 	},
 	"monsterFluff": [
 		{
@@ -2118,6 +2116,7 @@
 										"{@optfeature Give Succor to Thy People|KPDM}",
 										"{@optfeature Grasping Arms of Balance|KPDM}",
 										"{@optfeature He Hath Repulsed the Fiends|KPDM}",
+										"{@optfeature Hieroglyphs|KPDM}",
 										"{@optfeature Hold the Storm in An Urn of the Wind|KPDM}",
 										"{@optfeature On the Day of the Destruction of the Fiends|KPDM}",
 										"{@optfeature Open the Hidden Springs and Unbolt the Shrine|KPDM}",
@@ -4399,8 +4398,8 @@
 			],
 			"toolProficiencies": [
 				{
-					"gaming set": true,
-					"musical instrument": true
+					"musical Instrument": true,
+					"gaming set": true
 				}
 			],
 			"languageProficiencies": [
@@ -5706,7 +5705,7 @@
 				{
 					"type": "list",
 					"items": [
-						"2 {@item Alchemist's Fire (flask)|PHB|flasks of alchemist's fire}",
+						"2 {@item alchemist fire (flask)|phb|flasks of alchemist's fire}",
 						"2 flasks of {@item alchemist's ice|KPDM}",
 						"2 {@item acid (vial)|phb|vials of acid}",
 						"2 jars of {@item swarm repellent|KPDM}",
@@ -7103,7 +7102,7 @@
 		{
 			"name": "Elemental Adaptation",
 			"featureType": [
-				"EM"
+				"Mastery"
 			],
 			"source": "KPDM",
 			"page": 152,
@@ -7124,7 +7123,7 @@
 		{
 			"name": "Elemental Binding",
 			"featureType": [
-				"EM"
+				"Mastery"
 			],
 			"source": "KPDM",
 			"page": 152,
@@ -7145,7 +7144,7 @@
 		{
 			"name": "Elemental Bulwark",
 			"featureType": [
-				"EM"
+				"Mastery"
 			],
 			"source": "KPDM",
 			"page": 152,
@@ -7156,7 +7155,7 @@
 		{
 			"name": "Elemental Command",
 			"featureType": [
-				"EM"
+				"Mastery"
 			],
 			"source": "KPDM",
 			"page": 152,
@@ -7167,7 +7166,7 @@
 		{
 			"name": "Elemental Erosion",
 			"featureType": [
-				"EM"
+				"Mastery"
 			],
 			"source": "KPDM",
 			"page": 152,
@@ -7188,7 +7187,7 @@
 		{
 			"name": "Ignite",
 			"featureType": [
-				"EM"
+				"Mastery"
 			],
 			"source": "KPDM",
 			"page": 152,
@@ -7204,7 +7203,7 @@
 		{
 			"name": "Overwhelming Onslaught",
 			"featureType": [
-				"EM"
+				"Mastery"
 			],
 			"prerequisite": [
 				{
@@ -7225,7 +7224,7 @@
 		{
 			"name": "Stony Refuge",
 			"featureType": [
-				"EM"
+				"Mastery"
 			],
 			"source": "KPDM",
 			"page": 153,
@@ -7241,7 +7240,7 @@
 		{
 			"name": "Sweeping Swell",
 			"featureType": [
-				"EM"
+				"Intensified Element"
 			],
 			"source": "KPDM",
 			"page": 153,
@@ -7257,7 +7256,7 @@
 		{
 			"name": "Wind Blast",
 			"featureType": [
-				"EM"
+				"Intensified Element"
 			],
 			"source": "KPDM",
 			"page": 153,
@@ -10400,11 +10399,6 @@
 			"level": 3,
 			"entries": [
 				"When you choose this archetype at 3rd level, you gain proficiency in {@skill Arcana}"
-			],
-			"skillProficiencies": [
-				{
-					"arcana": true
-				}
 			]
 		},
 		{
@@ -10935,7 +10929,7 @@
 			"header": 2,
 			"entries": [
 				"Also Beginning at 3rd level, you can use a bonus action to instill a sense of worth in a single ally within 60 feet who can hear you. Your ally gains a bonus equal to your Charisma modifier on attack rolls, damage rolls, ability checks, and saving throws for a number of rounds equal to your bard level. That ally cannot benefit from your {@classFeature Bardic Inspiration|Bard||1} until the duration of this feature has run its course. You can use this feature once at 3rd level, twice at 8th level, and three times at 15th level. You regain all expended uses when you finish a long rest.",
-				"Additionally, you can use a bonus action to cast any abjuration spell you know that normally takes 1 action to cast (for example, {@spell laugh in the face of fear|KPDM} or {@spell lesser restoration}). Once you use this feature, you must finish a long rest before you can use it again."
+				"Additionally, you can use a bonus action to cast any abjuration spell you know that normally takes 1 action to cast (for example, {@spell kaugh in the face of fear|KPDM} or {@spell lesser restoration}). Once you use this feature, you must finish a long rest before you can use it again."
 			]
 		},
 		{
@@ -11870,7 +11864,7 @@
 						],
 						[
 							"5th",
-							"{@spell Legion of Rabid Squirrels|KPDM}, ley disturbance"
+							"{@spell legion of squirrels|KPDM}, {@spell ley disturbance}"
 						],
 						[
 							"7th",
@@ -11878,7 +11872,7 @@
 						],
 						[
 							"9th",
-							"{@spell commune with nature}, lesser ley protection"
+							"{@spell commune with nature}, {@spell lesser ley protection}"
 						],
 						[
 							"11th",
@@ -11886,7 +11880,7 @@
 						],
 						[
 							"13th",
-							"greater ley protection"
+							"{@spell greater ley protection}"
 						],
 						[
 							"15th",
@@ -12923,7 +12917,7 @@
 						],
 						[
 							"7th",
-							"{@spell blight}, {@spell desiccating breath|KPDM}"
+							"{@spell blight}, {@spell dessicating breath|KPDM}"
 						],
 						[
 							"9th",
@@ -14312,7 +14306,7 @@
 						],
 						[
 							"9th",
-							"{@spell passwall}, {@spell teleportation circle}"
+							"{@spell passwall|KPDM}, {@spell teleportation circle}"
 						]
 					]
 				},
@@ -14436,7 +14430,7 @@
 					"rows": [
 						[
 							"1st",
-							"{@spell bane}, {@spell protection from the Void|KPDM}"
+							"{@spell bane}, {@spell protection from the Void|ToH}"
 						],
 						[
 							"3rd",
@@ -31386,7 +31380,7 @@
 				"ritual": true
 			},
 			"entries": [
-				"You temporarily imbue your familiar with power, making it larger, tougher, and more vicious. While the spell lasts, your familiar has all the statistics of the giant version of its type, except for the fish (quipper), which has the statistics of a {@creature reef shark}. Your familiar retains all its special abilities as described in the {@spell find familiar} spell.",
+				"You temporarily imbue your familiar with power, making it larger, tougher, and more vicious. While the spell lasts, your familiar has all the statistics of the giant version of its type, except for the fish (quipper), which has the statistics of a {@creature reef shark}. Your familiar retains all its special abilities as described in the {@spell find familiar spell}.",
 				"If your familiar drops to 0 hit points and disappears, or you dismiss your familiar, the spell ends, and your familiar is returned to its normal form when you next summon it."
 			],
 			"entriesHigherLevel": [
@@ -68004,7 +67998,7 @@
 				"ritual": true
 			},
 			"entries": [
-				"A creature you can see within range undergoes a baleful transmogrification. The target must make a successful Wisdom saving throw or suffer a {@table flesh warps|KPDM|flesh warp} and be afflicted with a form of {@table indefinite madness|KPDM}."
+				"A creature you can see within range undergoes a baleful transmogrification. The target must make a successful Wisdom saving throw or suffer a {@table flesh warp|KPDM} and be afflicted with a form of {@table indefinite madness|KPDM}."
 			],
 			"savingThrow": [
 				"wisdom"
@@ -69121,7 +69115,7 @@
 			"page": 352,
 			"type": "entries",
 			"entries": [
-				"{@spell Fireball} is perhaps the most iconic damage-dealing spell in fantasy RPGs, so why mess with it? Partly to add an interesting twist to something familiar, partly to give it a story or character spin, and partly just for fun. Here are three options to consider for {@filter variant fireballs|spells|source=KPDM|subschool=variant|search=fireball} used by your PC or NPC casters.",
+				"{@spell Fireball} is perhaps the most iconic damage-dealing spell in fantasy RPGs, so why mess with it? Partly to add an interesting twist to something familiar, partly to give it a story or character spin, and partly just for fun. Here are three options to consider for {@spell variant fireballs|spells|source=KPDM|subschool=variant|search=fireball} used by your PC or NPC casters.",
 				{
 					"type": "entries",
 					"name": "Appearance and Type Changes",

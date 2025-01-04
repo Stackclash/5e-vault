@@ -18,17 +18,17 @@ function startup() {
         description: 'ttrpg-convert-cli Homebrew',
         destination: 'z_Extra/ttrpg-convert/homebrew',
         urls: [
-          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Griffin%20Macaulay;%20The%20Griffon\'s%20Saddlebag,%20Book%201.json',
-          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Griffin%20Macaulay;%20The%20Griffon\'s%20Saddlebag,%20Book%202.json',
-          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Griffin%20Macaulay;%20The%20Griffon\'s%20Saddlebag,%20Book%203.json',
-          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Griffin%20Macaulay;%20The%20Griffon\'s%20Saddlebag,%20Book%204.json',
-          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Jasmine%20Yang;%20Hamund\'s%20Harvesting%20Handbook%20I.json',
-          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Jasmine%20Yang;%20Hamund\'s%20Harvesting%20Handbook%20II.json',
-          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Jasmine%20Yang;%20Hamund\'s%20Harvesting%20Handbook%20III.json',
-          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Jasmine%20Yang;%20Hamund\'s%20Herbalism%20Handbook.json',
-          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/book/Justice%20Arman;%20Devil\'s%20Advocate%20A%20Guide%20to%20Infernal%20Contracts.json',
-          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/Kobold%20Press;%20Deep%20Magic.json',
-          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/heads/master/collection/MCDM%20Productions;%20Strongholds%20and%20Followers.json'
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/tags/release/2014/collection/Griffin%20Macaulay;%20The%20Griffon\'s%20Saddlebag,%20Book%201.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/tags/release/2014/collection/Griffin%20Macaulay;%20The%20Griffon\'s%20Saddlebag,%20Book%202.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/tags/release/2014/collection/Griffin%20Macaulay;%20The%20Griffon\'s%20Saddlebag,%20Book%203.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/tags/release/2014/collection/Griffin%20Macaulay;%20The%20Griffon\'s%20Saddlebag,%20Book%204.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/tags/release/2014/collection/Jasmine%20Yang;%20Hamund\'s%20Harvesting%20Handbook%20I.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/tags/release/2014/collection/Jasmine%20Yang;%20Hamund\'s%20Harvesting%20Handbook%20II.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/tags/release/2014/collection/Jasmine%20Yang;%20Hamund\'s%20Harvesting%20Handbook%20III.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/tags/release/2014/collection/Jasmine%20Yang;%20Hamund\'s%20Herbalism%20Handbook.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/tags/release/2014/book/Justice%20Arman;%20Devil\'s%20Advocate%20A%20Guide%20to%20Infernal%20Contracts.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/tags/release/2014/collection/Kobold%20Press;%20Deep%20Magic.json',
+          'https://rawcdn.githack.com/TheGiddyLimit/homebrew/refs/tags/release/2014/collection/MCDM%20Productions;%20Strongholds%20and%20Followers.json'
         ]
       }
     ]

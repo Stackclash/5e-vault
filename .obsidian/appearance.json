@@ -18,7 +18,10 @@
     "weatherGeneratorVertical",
     "ITS-Theme",
     "metabind-tabs",
-    "ttrpg-convert-cli"
+    "ttrpg-convert-cli",
+    "dnd5e-compendium",
+    "S - Encoded Fonts",
+    "S - Encoded Icons"
   ],
   "theme": "obsidian",
   "cssTheme": "ITS Theme",
