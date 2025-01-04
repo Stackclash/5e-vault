@@ -202,8 +202,8 @@
   "eventFrontmatter": false,
   "parseDates": false,
   "version": {
-    "major": 2,
-    "minor": 0,
+    "major": 1,
+    "minor": 5,
     "patch": 0,
     "beta": null
   },
