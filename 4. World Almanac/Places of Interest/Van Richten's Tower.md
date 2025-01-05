@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
-image: z_Assets/PlaceholderImage.png
-pronounced: null
+images:
+  - z_Assets/PlaceholderImage.png
+pronounced: 
 resources:
   - '[[13 Chapter-11 Van Richtens Tower|Van Richten''s Tower]]'
-population: null
-terrain: null
-rulers: null
-government: null
-army: null
-religions: null
-imports: null
-exports: null
-aliases: null
+population: 
+terrain: 
+rulers: 
+government: 
+army: 
+religions: 
+imports: 
+exports: 
+aliases: 
 tags:
   - place-of-interest
   - location
 ---
 > [!infobox | wsmall]
 > # `=this.file.name`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 >  |
 > ---|---|

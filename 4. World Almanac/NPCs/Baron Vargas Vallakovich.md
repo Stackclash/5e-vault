@@ -9,7 +9,8 @@ tags:
   - npc
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
-image: 4. World Almanac/NPCs/img/baron-vargas-vallakovich.webp
+images:
+  - 4. World Almanac/NPCs/img/baron-vargas-vallakovich.webp
 relationships:
   - Lady Lydia Petrovna|wife
   - Victor Vallakovich|son
@@ -39,8 +40,8 @@ partyRelationships: {}
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

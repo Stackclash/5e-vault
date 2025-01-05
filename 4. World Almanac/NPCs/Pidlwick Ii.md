@@ -7,36 +7,37 @@ tags:
   - monster/size/small
   - monster/type/construct
   - npc
-location: null
+location: 
 condition: healthy
-image: 4. World Almanac/NPCs/img/pidlwick-ii.webp
+images:
+  - 4. World Almanac/NPCs/img/pidlwick-ii.webp
 relationships: []
 aliases: []
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced: 
+race: 
+gender: 
+age: 
 alignment: Neutral Evil
 occupation: []
 groups: []
 religions: []
-personality: null
+personality: 
 ideal: I wish I could make people happy.
 bond: >-
   I would like to find someone - anyone - who isn't afraid of me and who enjoys
   my company.
 flaw: 'When I''m upset, I do bad things.'
-goals: null
-likes: null
-dislikes: null
+goals: 
+likes: 
+dislikes: 
 partyRelationships: {}
 ---
 
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

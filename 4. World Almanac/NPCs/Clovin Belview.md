@@ -9,7 +9,8 @@ tags:
   - npc
 location: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]"
 condition: healthy
-image: 4. World Almanac/NPCs/img/clovin-belview.webp
+images:
+  - 4. World Almanac/NPCs/img/clovin-belview.webp
 relationships: []
 aliases: []
 pronounced: CLOH-vin BEL-view
@@ -35,8 +36,8 @@ partyRelationships:
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

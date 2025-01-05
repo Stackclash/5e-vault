@@ -10,7 +10,8 @@ tags:
   - npc
 location: "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
 condition: healthy
-image: 4. World Almanac/NPCs/img/baba-lysaga.webp
+images:
+  - 4. World Almanac/NPCs/img/baba-lysaga.webp
 relationships: []
 aliases:
   - Baba Lysaga
@@ -37,8 +38,8 @@ partyRelationships:
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

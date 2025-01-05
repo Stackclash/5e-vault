@@ -7,35 +7,36 @@ tags:
   - monster/size/medium
   - monster/type/undead/shapechanger
   - npc
-location: null
+location: 
 condition: healthy
-image: 4. World Almanac/NPCs/img/153-636988936829621698.webp
+images:
+  - 4. World Almanac/NPCs/img/153-636988936829621698.webp
 relationships:
   - Anastrasya Karelova|cousin
 aliases: []
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced: 
+race: 
+gender: 
+age: 
 alignment: Lawful Evil
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 
+ideal: 
+bond: 
+flaw: 
+goals: 
+likes: 
+dislikes: 
 partyRelationships: {}
 ---
 
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

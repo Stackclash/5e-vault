@@ -11,7 +11,8 @@ location: >-
   [[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's
   Tower]]
 condition: healthy
-image: 4. World Almanac/NPCs/img/ezmerelda-davenir.webp
+images:
+  - 4. World Almanac/NPCs/img/ezmerelda-davenir.webp
 relationships: []
 aliases: []
 pronounced: ez-meh-REL-da dah-veh-NEER
@@ -38,8 +39,8 @@ partyRelationships: {}
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

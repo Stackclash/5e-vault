@@ -39,8 +39,8 @@ tags:
 ---
 > [!infobox]
 > # `=this.file.name`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 >  |
 > ---|---|

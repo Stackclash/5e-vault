@@ -1,7 +1,8 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
-image: z_Assets/Barovia_Banner.webp
+images:
+  - z_Assets/Barovia_Banner.webp
 pronounced: Bar - o - via
 resources: 
 population: 
@@ -23,8 +24,8 @@ tags:
 ---
 > [!infobox | wsmall]
 > # `=this.file.name`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 >  |
 > ---|---|

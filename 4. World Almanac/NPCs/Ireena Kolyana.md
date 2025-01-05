@@ -7,36 +7,37 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - npc
-location: null
+location: 
 condition: healthy
-image: 4. World Almanac/NPCs/img/ireena-kolyana.webp
+images:
+  - 4. World Almanac/NPCs/img/ireena-kolyana.webp
 relationships:
   - Ismark Kolyanovich|brother
   - Izek Strazni|brother
 aliases: []
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced: 
+race: 
+gender: 
+age: 
 alignment: Lawful Good
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 
+ideal: 
+bond: 
+flaw: 
+goals: 
+likes: 
+dislikes: 
 partyRelationships: {}
 ---
 
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

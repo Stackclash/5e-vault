@@ -5,7 +5,7 @@ owners: []
 staff:
   - '[[4. World Almanac/NPCs/Parriwimple.md|Parriwimple]]'
 cost_modifier: 1
-items: null
+items: 
 tags:
   - shop
   - location

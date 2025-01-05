@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
-image: z_Assets/PlaceholderImage.png
-pronounced: null
+images:
+  - z_Assets/PlaceholderImage.png
+pronounced: 
 resources: []
-population: null
-terrain: null
+population: 
+terrain: 
 rulers: []
-government: null
-army: null
+government: 
+army: 
 religions: []
 imports: []
 exports: []
@@ -19,8 +20,8 @@ tags:
 ---
 > [!infobox | wsmall]
 > # `=this.file.name`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 >  |
 > ---|---|

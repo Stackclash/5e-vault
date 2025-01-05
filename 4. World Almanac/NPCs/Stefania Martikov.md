@@ -1,38 +1,38 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: null
+location: 
 condition: healthy
-image: null
+image: 
 relationships:
   - Davian Martikov|father
   - Dag Tomescu|husband
 tags:
   - npc
 aliases: []
-pronounced: null
-race: null
-gender: null
-age: null
-alignment: null
+pronounced: 
+race: 
+gender: 
+age: 
+alignment: 
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 
+ideal: 
+bond: 
+flaw: 
+goals: 
+likes: 
+dislikes: 
 partyRelationships: {}
 ---
 
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

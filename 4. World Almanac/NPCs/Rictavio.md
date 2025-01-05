@@ -7,34 +7,35 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - npc
-location: null
+location: 
 condition: healthy
-image: 4. World Almanac/NPCs/img/rictavio.webp
+images:
+  - 4. World Almanac/NPCs/img/rictavio.webp
 relationships: []
 aliases: []
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced: 
+race: 
+gender: 
+age: 
 alignment: Lawful Good
 occupation: []
 groups: []
 religions: []
-personality: null
+personality: 
 ideal: Evil cannot go unchallenged.
 bond: 'To protect those I love, I must keep them distant and hidden from my enemies.'
 flaw: 'I am cursed. Thus, I will never have peace.'
-goals: null
-likes: null
-dislikes: null
+goals: 
+likes: 
+dislikes: 
 partyRelationships: {}
 ---
 
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

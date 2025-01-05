@@ -9,35 +9,35 @@ tags:
   - npc
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 condition: healthy
-image: null
+image: 
 relationships:
   - Nikolai Wachter|son
   - Stella Wachter|daughter
 aliases:
   - Lady Fiona Wachter
-pronounced: null
+pronounced: 
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
-age: null
+age: 
 alignment: Lawful Evil
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 
+ideal: 
+bond: 
+flaw: 
+goals: 
+likes: 
+dislikes: 
 partyRelationships: {}
 ---
 
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

@@ -3,9 +3,9 @@ obsidianUIMode: preview
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 owners:
   - '[[4. World Almanac/NPCs/Gadof Blinsky.md|Gadof Blinsky]]'
-staff: null
+staff: 
 cost_modifier: 1
-items: null
+items: 
 resources:
   - '[[07 Chapter-5 The Town Of Vallaki#N7. Blinsky Toys|Blinsky Toys]]'
 tags:

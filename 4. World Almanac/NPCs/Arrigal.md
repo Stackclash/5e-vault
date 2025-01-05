@@ -9,7 +9,8 @@ tags:
   - npc
 location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 condition: healthy
-image: 4. World Almanac/NPCs/img/arrigal.webp
+images:
+  - 4. World Almanac/NPCs/img/arrigal.webp
 relationships:
   - Luvash|brother
   - Arabelle|uncle
@@ -37,8 +38,8 @@ partyRelationships: {}
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

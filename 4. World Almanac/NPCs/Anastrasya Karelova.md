@@ -9,7 +9,8 @@ tags:
   - npc
 location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
 condition: healthy
-image: 4. World Almanac/NPCs/img/anastrasya-karelova.webp
+images:
+  - 4. World Almanac/NPCs/img/anastrasya-karelova.webp
 relationships:
   - Strahd Von Zarovich|cousin
 aliases: []
@@ -36,8 +37,8 @@ partyRelationships: {}
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

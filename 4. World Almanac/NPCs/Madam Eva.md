@@ -9,7 +9,8 @@ tags:
   - npc
 location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
 condition: healthy
-image: z_Assets/Madam Eva.webp
+images:
+  - z_Assets/Madam Eva.webp
 relationships: []
 aliases: []
 pronounced: MAD-ame EE-vah
@@ -38,8 +39,8 @@ partyRelationships: {}
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

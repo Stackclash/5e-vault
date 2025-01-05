@@ -9,7 +9,7 @@ tags:
   - npc
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 condition: healthy
-image: null
+image: 
 relationships: []
 aliases: []
 pronounced: BLOO-toh KRO-gah-rov
@@ -35,8 +35,8 @@ partyRelationships: {}
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

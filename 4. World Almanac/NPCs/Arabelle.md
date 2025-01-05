@@ -9,12 +9,12 @@ tags:
   - npc
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 condition: healthy
-image: null
+image: 
 relationships:
   - Luvash|father
   - Arrigal|niece
 aliases: []
-pronounced: null
+pronounced: 
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 7
@@ -38,8 +38,8 @@ partyRelationships: {}
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

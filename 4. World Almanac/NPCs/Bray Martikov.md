@@ -10,7 +10,8 @@ tags:
   - npc
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
-image: 4. World Almanac/NPCs/img/bray-martikov.webp
+images:
+  - 4. World Almanac/NPCs/img/bray-martikov.webp
 relationships:
   - Danika Dorakova|mother
   - Brom Martikov|brother
@@ -40,8 +41,8 @@ partyRelationships: {}
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

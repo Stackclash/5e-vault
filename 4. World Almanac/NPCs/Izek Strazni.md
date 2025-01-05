@@ -7,38 +7,39 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - npc
-location: null
+location: 
 condition: healthy
-image: 4. World Almanac/NPCs/img/izek-strazni.webp
+images:
+  - 4. World Almanac/NPCs/img/izek-strazni.webp
 relationships:
   - Ireena Kolyana|sister
 aliases:
   - Izek Strazni
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced: 
+race: 
+gender: 
+age: 
 alignment: Neutral Evil
 occupation: []
 groups: []
 religions: []
-personality: null
+personality: 
 ideal: Fear is a powerful weapon. I use it to get what I want.
 bond: >-
   I am loyal to my master, Baron Vallakovich, for he brought me into his home. I
   owe him my life, but he isn't family.
 flaw: 'I would do anything, kill anything, to find my sister.'
-goals: null
-likes: null
-dislikes: null
+goals: 
+likes: 
+dislikes: 
 partyRelationships: {}
 ---
 
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

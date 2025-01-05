@@ -7,15 +7,16 @@ tags:
   - monster/size/medium
   - monster/type/undead
   - npc
-location: null
+location: 
 condition: healthy
-image: 4. World Almanac/NPCs/img/sir-godfrey-gwilym.webp
+images:
+  - 4. World Almanac/NPCs/img/sir-godfrey-gwilym.webp
 relationships: []
 aliases: []
 pronounced: sir GOD-free GWIL-im
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
-age: null
+age: 
 alignment: Lawful Evil
 occupation: []
 groups:
@@ -44,8 +45,8 @@ partyRelationships: {}
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

@@ -7,20 +7,21 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/elf
   - npc
-location: null
+location: 
 condition: healthy
-image: 4. World Almanac/NPCs/img/rahadin.webp
+images:
+  - 4. World Almanac/NPCs/img/rahadin.webp
 relationships: []
 aliases: []
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced: 
+race: 
+gender: 
+age: 
 alignment: Lawful Evil
 occupation: []
 groups: []
 religions: []
-personality: null
+personality: 
 ideal: Loyalty is everything.
 bond: >-
   I am a son of King Barov von Zarovich, and I will serve his son - my brother
@@ -28,17 +29,17 @@ bond: >-
 flaw: >-
   I have slain thousands of men. I will slaughter thousands more to preserve the
   von Zarovich legacy.
-goals: null
-likes: null
-dislikes: null
+goals: 
+likes: 
+dislikes: 
 partyRelationships: {}
 ---
 
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |

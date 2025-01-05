@@ -9,7 +9,8 @@ tags:
   - npc
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
-image: 4. World Almanac/NPCs/img/ismark-kolyanovich.webp
+images:
+  - 4. World Almanac/NPCs/img/ismark-kolyanovich.webp
 relationships:
   - Ireena Kolyana|sister
 aliases: []
@@ -36,8 +37,8 @@ partyRelationships: {}
 > [!infobox | wsmall]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
 > ```
 > ###### Bio
 >  |
