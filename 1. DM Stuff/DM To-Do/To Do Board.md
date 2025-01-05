@@ -45,7 +45,6 @@ months:
 - [ ] Possibly move relationship options object to Configuration page
 - [ ] Update NPC to get lines and fantasy dates from Session Logs where they were mentioned
 - [ ] [[Plan what info needs to be shown in built website.]]
-- [ ] [[For locations and npcs add image carousel]]
 
 
 ## Research
@@ -62,6 +61,7 @@ months:
 
 - [ ] Update Player Template to use a function for updating from DnD Beyond
 - [ ] [[Complete Critical Tables]]
+- [ ] [[For locations and npcs add image carousel]]
 
 
 
