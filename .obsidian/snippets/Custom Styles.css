@@ -121,3 +121,19 @@
 .json5e-vehicle .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img {
   max-height: 60vh;
 }
+
+/* Fix Image Carousel sizing and spacing */
+.block-language-carousel .embla__controls {
+  position: absolute;
+  top: 43%;
+  
+}
+
+.block-language-carousel .embla__controls .embla__button {
+  border: 1px sold whitesmoke;
+  height: 2rem;
+  width: 2rem;
+  opacity: 70%;
+  background-color: whitesmoke;
+  
+}
