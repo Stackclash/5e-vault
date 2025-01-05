@@ -138,13 +138,13 @@
 }
 
 .block-language-carousel .embla__controls:has(button.embla__button--prev) {
-  left: 1rem;
+  left: 5px;
 }
 
 .block-language-carousel .embla__controls:has(button.embla__button--next) {
   /* left: 84%; */
   /* text-align: right; */
-  right: 1rem;
+  right: 5px;
 }
 
 .block-language-carousel .embla__controls .embla__button {
