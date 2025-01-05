@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
-image: z_Assets/Amber Temple.png
+images: z_Assets/Amber Temple.png
 pronounced: 
 resources: 
 population: 
@@ -22,9 +22,7 @@ tags:
 ---
 > [!infobox|wsmall]
 > # `=this.file.name`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
-> ```
+> `$=await dv.view('imageCarousel', {current: dv.current()})`
 >  |
 > ---|---|
 > **Pronounced:** | `INPUT[text:pronounced]` |

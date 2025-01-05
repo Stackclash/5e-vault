@@ -38,6 +38,7 @@
     "level": "text",
     "travel": "multitext",
     "precipitations": "multitext",
-    "climates": "multitext"
+    "climates": "multitext",
+    "images": "multitext"
   }
 }
