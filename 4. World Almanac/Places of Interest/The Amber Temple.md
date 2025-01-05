@@ -22,7 +22,9 @@ tags:
 ---
 > [!infobox|wsmall]
 > # `=this.file.name`
-> `$=await dv.view('imageCarousel', {current: dv.current()})`
+> ```dataviewjs
+> await dv.view('imageCarousel', {current: dv.current()})
+> ```
 >  |
 > ---|---|
 > **Pronounced:** | `INPUT[text:pronounced]` |
