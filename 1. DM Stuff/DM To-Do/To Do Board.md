@@ -1,4 +1,5 @@
 ---
+
 kanban-plugin: board
 months:
   - name: Winterwane
@@ -19,6 +20,7 @@ months:
     length: 40
   - name: Fellnight
     length: 40
+
 ---
 
 ## Backlog
@@ -42,7 +44,8 @@ months:
 - [ ] Update relationship graph to not show relationships going back to current page (make it simplier)
 - [ ] Possibly move relationship options object to Configuration page
 - [ ] Update NPC to get lines and fantasy dates from Session Logs where they were mentioned
-- [ ] Plan what info needs to be shown in built website.
+- [ ] [[Plan what info needs to be shown in built website.]]
+- [ ] For locations and npcs add image carousel
 
 
 ## Research
