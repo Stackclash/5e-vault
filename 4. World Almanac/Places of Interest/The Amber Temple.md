@@ -1,7 +1,8 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
-images: z_Assets/Amber Temple.png
+images:
+  - z_Assets/Amber Temple.png
 pronounced: 
 resources: 
 population: 

@@ -1,6 +1,13 @@
 const images = input.current.images
+const backticks = "```"
 let carouselImageString = ''
-console.log(images, dv.page(images))
 
-// if (Array.isArray(images)) {
-// }
+if (Array.isArray(images)) {
+  carouselImageString = images.join(', ')
+} else {
+  carouselImageString = images
+}
+
+dv.paragraph(`${backticks}carousel
+images: ${carouselImageString}
+${backticks}`)
