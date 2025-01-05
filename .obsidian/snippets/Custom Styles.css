@@ -126,14 +126,16 @@
 .block-language-carousel .embla__controls {
   position: absolute;
   top: 43%;
-  
+}
+
+.block-language-carousel .embla__controls:has(button.embla__button--prev) {
+  left: 0%;
 }
 
 .block-language-carousel .embla__controls .embla__button {
-  border: 1px sold whitesmoke;
+  border: 1px solid whitesmoke;
   height: 2rem;
   width: 2rem;
   opacity: 70%;
   background-color: whitesmoke;
-  
 }
