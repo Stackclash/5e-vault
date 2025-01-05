@@ -40,6 +40,9 @@ months:
 - [ ] [[See if info callout could use tabs]] ^lifr6c
 - [ ] Update find_file to return a string when a strong enough match isn't found
 - [ ] Update relationship graph to not show relationships going back to current page (make it simplier)
+- [ ] Possibly move relationship options object to Configuration page
+- [ ] Update NPC to get lines and fantasy dates from Session Logs where they were mentioned
+- [ ] Plan what info needs to be shown in built website.
 
 
 ## Research

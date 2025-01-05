@@ -33,4 +33,6 @@ dv.table(['Location', 'Distance', 'Travel Time'], dv.current().travel.map(t => [
 ```
 
 VIEW[round((10* {Travel#TravelCalc}) / 60 / {Travel#HoursPerDay}, 1)]`
-21
+
+- IDEA: could a script be written to calculate the distance to some locations using the shortest distance to a middle location
+ie. To get to z from x goes through y. The distance from x to y and y to z are filled out manually. So the script adds these 2 together to get the distance between x and z. 
