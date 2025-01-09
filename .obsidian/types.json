@@ -35,7 +35,7 @@
     "religions": "multitext",
     "speed": "number",
     "date": "date",
-    "level": "text",
+    "level": "number",
     "travel": "multitext",
     "precipitations": "multitext",
     "climates": "multitext",
