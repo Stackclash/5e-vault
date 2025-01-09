@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 statblock: true
 name: Faerah Duskrane
-level: 7
-ac: 16
-hp: 52
-modifier: 6
+level: 8
+ac: 17
+hp: 59
+modifier: 7
 proficiency: 3
 url: https://dndbeyond.com/characters/105635812
 image: https://www.dndbeyond.com/avatars/36048/643/1581111423-105635812.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
