@@ -4,10 +4,11 @@ const listTag = input.listTag
 const groups = new Map()
 groups.set('empty', [])
 const text = []
-const pages = dv.pages("#session-journal")
+const pages = dv.pages(searchTag)
+console.log(pages.length)
 pages.forEach(page => {
   console.log(page)
-  page.file.lists.where(t => t.text.includes("#remember")).forEach(t => text.push(t.text.replace('#remember','') + `| ${dv.fileLink(page.file.path, false, 'Jump To')}`))
+  page.file.lists.where(t => t.text.includes(listTag)).forEach(t => text.push(t.text.replace(listTag,'') + `| ${dv.fileLink(page.file.path, false, 'Jump To')}`))
 })
 
 text.forEach(t => {
