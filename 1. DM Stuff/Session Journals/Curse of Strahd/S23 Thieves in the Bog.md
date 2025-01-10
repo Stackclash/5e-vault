@@ -15,6 +15,8 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-09-14.md|2024-09-14]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
 ---
 > [!infobox]
 > ## Info

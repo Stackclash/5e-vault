@@ -12,6 +12,8 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-10-19.md|2024-10-19]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]"
 ---
 > [!infobox]
 > ## Info
