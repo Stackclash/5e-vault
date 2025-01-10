@@ -1,3 +1,6 @@
+---
+obsidianUIMode: preview
+---
 > [!tip]- Actions
 > ![[Actions#Attack]]
 > ![[Actions#Dash]]
