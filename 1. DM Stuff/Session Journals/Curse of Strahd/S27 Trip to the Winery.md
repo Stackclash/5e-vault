@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2024-12-06
-summary: 
+summary: The party goes to the Wizard of Wines and finds the Martikov family hold up in a small cottage away from the winery beaten and bruised. They agree to clear out the dark druids that have taken over the winery. When they arrive tons of twig blights and needle blights come out of the ground surrounding the winery. There are also several dark druids that fight against the party. As the party fights a flickering portal appears in the field and a wizard appears and immediately joins the fight. After a short scuffle the party clears out the winery and barricades the winery doors.
 fc-date: 973-2-23
 fc-end: 
 timelines:

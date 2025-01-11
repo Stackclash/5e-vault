@@ -30,7 +30,7 @@
     "distance_measure": "number",
     "units": "number",
     "relationships": "multitext",
-    "statblock": "checkbox",
+    "statblock": "text",
     "groups": "multitext",
     "religions": "multitext",
     "speed": "number",
