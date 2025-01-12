@@ -43,4 +43,4 @@ Description
 - [[Yevelda Ovak]] and [[Redgrave]] explore the basement of [[The Wizard of Wines]] and come across a singular [[5. Mechanics/Bestiary/Humanoid/Druid|Druid]] and a group of [[5. Mechanics/Bestiary/Plant/Needle Blight|Needle Blight]]
 	- An encounter ensues and [[Yevelda Ovak]] and [[Redgrave]] finishes them off.
 - The dark druids have the blights surround the winery and tells the party that have a limited time to give themselves up.
-- 
+- The party fights through the ambush and captures the leader of the druids
