@@ -163,7 +163,7 @@
     "creatures": [
       {
         "name": "Faerah Duskrane",
-        "initiative": 26,
+        "initiative": 14,
         "static": false,
         "modifier": 6,
         "hp": 38,
@@ -282,9 +282,11 @@
         "ac": 11,
         "currentAC": 11,
         "id": "ID_68c889eb6bab",
-        "currentHP": 14,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
