@@ -179,7 +179,7 @@
         "enabled": true,
         "level": 6,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -267,7 +267,7 @@
         "enabled": true,
         "level": 8,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -305,9 +305,11 @@
         "currentAC": 12,
         "path": "5. Mechanics/Bestiary/Plant/Vine Blight.md",
         "id": "ID_ab7b685ad8ab",
-        "currentHP": 23,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -349,7 +351,7 @@
         "currentAC": 12,
         "path": "5. Mechanics/Bestiary/Plant/Needle Blight.md",
         "id": "ID_0b38d8f879ba",
-        "currentHP": 11,
+        "currentHP": 7,
         "tempHP": 0,
         "status": [],
         "enabled": true,
