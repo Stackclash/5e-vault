@@ -41,4 +41,4 @@ Description
 
 ## What Happened
 - [[Yevelda Ovak]] and [[Redgrave]] explore the basement of [[The Wizard of Wines]] and come across a singular [[5. Mechanics/Bestiary/Humanoid/Druid|Druid]] and a group of [[5. Mechanics/Bestiary/Plant/Needle Blight|Needle Blight]]
-	- E
+	- An encounter ensues and [[Yevelda Ovak]] and [[Redgrave]] finishes them off.
