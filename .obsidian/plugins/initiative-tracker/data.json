@@ -179,7 +179,7 @@
         "enabled": true,
         "level": 6,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -201,7 +201,7 @@
         "enabled": true,
         "level": 6,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -304,9 +304,11 @@
         "ac": 12,
         "currentAC": 12,
         "id": "ID_2bb8ca7bdb88",
-        "currentHP": 11,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -368,9 +370,11 @@
         "ac": 12,
         "currentAC": 12,
         "id": "ID_39f928d93a38",
-        "currentHP": 11,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -400,7 +404,7 @@
         "hit_dice": "2d8 + 2"
       }
     ],
-    "state": true,
+    "state": false,
     "name": null,
     "round": 2,
     "logFile": "2. Scratch Notes/1736655231527 - Combat.md",
