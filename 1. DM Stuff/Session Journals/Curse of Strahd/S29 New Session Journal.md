@@ -45,3 +45,4 @@ Small description.
 ## Notes
 ### Item Cards
 - [[Yester Hill Axe]]
+- [[Gulthias Staff]]
