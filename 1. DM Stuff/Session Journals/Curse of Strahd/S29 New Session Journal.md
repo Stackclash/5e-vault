@@ -41,6 +41,8 @@ Description
 
 ## What Happened
 - [[Seluvis Felo'melorn]] - makes captured druid shit himself
+- The Gulthias Avatar is summoned
+- 
 
 ## Notes
 ### Item Cards
