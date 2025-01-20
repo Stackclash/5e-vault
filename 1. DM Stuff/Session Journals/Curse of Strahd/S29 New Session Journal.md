@@ -40,7 +40,7 @@ Who Did They Meet?
 Description
 
 ## What Happened
-- [[Seluvis Felo'melorn]] - 
+- [[Seluvis Felo'melorn]] - makes captured druid shit himself
 
 ## Notes
 ### Item Cards
