@@ -41,3 +41,7 @@ Description
 
 ## What Happened
 Small description.
+
+## Notes
+### Item Cards
+- [[Yester Hill Axe]]
