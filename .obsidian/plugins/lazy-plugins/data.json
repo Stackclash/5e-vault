@@ -78,7 +78,7 @@
         "startupType": "long"
       },
       "obsidian-meta-bind-plugin": {
-        "startupType": "long"
+        "startupType": "instant"
       },
       "modules": {
         "startupType": "instant"

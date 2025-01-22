@@ -9,5 +9,6 @@
   "obsidian42-brat",
   "obsidian-javascript-init",
   "modules",
-  "lazy-plugins"
+  "lazy-plugins",
+  "obsidian-meta-bind-plugin"
 ]
