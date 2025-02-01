@@ -1,5 +1,4 @@
 ---
-
 kanban-plugin: board
 months:
   - name: Winterwane
@@ -20,7 +19,6 @@ months:
     length: 40
   - name: Fellnight
     length: 40
-
 ---
 
 ## Backlog

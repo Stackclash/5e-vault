@@ -1,0 +1,109 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "plugins": {
+      "obsidian-admonition": {
+        "startupType": "long"
+      },
+      "aprils-automatic-timelines": {
+        "startupType": "long"
+      },
+      "obsidian-banners": {
+        "startupType": "long"
+      },
+      "obsidian42-brat": {
+        "startupType": "instant"
+      },
+      "calendarium": {
+        "startupType": "short"
+      },
+      "carousel": {
+        "startupType": "long"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "new-tab-default-page": {
+        "startupType": "instant"
+      },
+      "obsidian-dice-roller": {
+        "startupType": "long"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "disabled"
+      },
+      "fantasy-content-generator": {
+        "startupType": "long"
+      },
+      "obsidian-5e-statblocks": {
+        "startupType": "long"
+      },
+      "folder-note-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-view-mode-by-frontmatter": {
+        "startupType": "instant"
+      },
+      "obsidian-git": {
+        "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "short"
+      },
+      "obsidian-image-toolkit": {
+        "startupType": "long"
+      },
+      "initiative-tracker": {
+        "startupType": "long"
+      },
+      "js-engine": {
+        "startupType": "long"
+      },
+      "obsidian-import-json": {
+        "startupType": "long"
+      },
+      "obsidian-kanban": {
+        "startupType": "long"
+      },
+      "obsidian-leaflet-plugin": {
+        "startupType": "long"
+      },
+      "media-extended": {
+        "startupType": "long"
+      },
+      "obsidian-meta-bind-plugin": {
+        "startupType": "instant"
+      },
+      "modules": {
+        "startupType": "instant"
+      },
+      "remotely-save": {
+        "startupType": "short"
+      },
+      "image-window": {
+        "startupType": "long"
+      },
+      "sheets": {
+        "startupType": "disabled"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "templater-obsidian": {
+        "startupType": "long"
+      },
+      "obsidian-textgenerator-plugin": {
+        "startupType": "long"
+      },
+      "various-complements": {
+        "startupType": "long"
+      }
+    }
+  }
+}

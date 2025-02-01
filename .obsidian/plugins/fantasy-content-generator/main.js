@@ -19895,3 +19895,5 @@ var FantasyPlugin = class extends import_obsidian5.Plugin {
     await this.saveData(this.settings);
   }
 };
+
+/* nosourcemap */
