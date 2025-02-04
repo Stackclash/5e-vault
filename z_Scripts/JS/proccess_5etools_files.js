@@ -3,6 +3,7 @@ const path = require('path')
 const matter = require('gray-matter')
 const readlineSync = require('readline-sync')
 const NodeCache = require('node-cache')
+const fetch = require('sync-fetch')
 const ttrpgConvertConfig = require('../../z_Extra/ttrpg-convert/config.json')
 
 // Create reliable logging
@@ -293,11 +294,8 @@ function processAllRules(file, index) {
 
 function getAllSourceKeys() {
     const sourceKeys = []
-
-    sourceKeys.push(...ttrpgConvertConfig.sources.adventure.map(i => i.toLowerCase()))
-    sourceKeys.push(...ttrpgConvertConfig.sources.book.map(i => i.toLowerCase()))
-    sourceKeys.push(...ttrpgConvertConfig.sources.reference.map(i => i.toLowerCase()))
-
+    const keySource = fetch('https://rawcdn.githack.com/ebullient/ttrpg-convert-cli/f23b3aa4a5947fe7c773832189af6024692ab9c2/src/main/resources/sourceMap.yaml')
+    
     ttrpgConvertConfig.sources.homebrew.forEach(homebrew => {
         const file = JSON.parse(fs.readFileSync(path.resolve(config.rootVaultPath, homebrew), 'utf-8'))
         file._meta.sources.forEach(source => {
@@ -305,10 +303,12 @@ function getAllSourceKeys() {
         })
     })
 
+    sourceKeys.push(...Object.keys(matter(keySource.text()).data.config5e.reference))
+
     return sourceKeys
 }
 
-async function main() {
+function main() {Y
     if (config.css.move) moveCssSnippets()
     const filesList = getFilesList(path.resolve(config.rootVaultPath, config.compendiumPath))
     let index = 0
