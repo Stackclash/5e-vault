@@ -38,7 +38,7 @@ partyRelationships: \{\}
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```dataviewjs
-> await dv.view('imageCarousel', {current: dv.current()})
+> await dv.view('imageCarousel', \{current: dv.current()\})
 > ```
 > ###### Bio
 >  |
@@ -115,7 +115,7 @@ actions:
     str: "Remove Relationship"
 ```
 > [!div | no-t clean txt-c]
-> `$=await dv.view("npcRelationships", { current: dv.current() })`
+> `$=await dv.view("npcRelationships", \{ current: dv.current() \})`
 
 ## Stats
 ```statblock
@@ -169,6 +169,6 @@ aliases: ["{resource.name}"]
 {/if}
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('monsterHarvesterTable', \{ current: dv.current() \})
 ```
 {/if}

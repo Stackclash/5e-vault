@@ -2,6 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const matter = require('gray-matter')
 const readlineSync = require('readline-sync')
+const ttrpgConvertConfig = require('../../z_Extra/ttrpg-convert/config.json')
 
 // Create reliable logging
 
@@ -43,7 +44,7 @@ const config = {
 
                 newFileName = newFileName
                     .replaceAll(/(^|[\/\\\-])([a-z0-9])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' ' + letter.toUpperCase() : separator + letter.toUpperCase())
-                    .replace(/\s*(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS|SaF|ERLW|Hhhvi|Hhhvii|Hhhviii|Hhbh|VEoR|FMp1|WEL|TGS1|DM)$/i, '')
+                    .replace(new RegExp(`/\s*(${sourceKeys.join('|')})$/i`), '')
 
                 return newFileName
             }
@@ -135,7 +136,6 @@ const config = {
             enabled: true,
             name: 'Update Frontmatter based on existing file',
             ignore: function (file) {
-                console.log(file.path, !fs.existsSync(file.path), ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension))
                 return !fs.existsSync(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'frontMatter',
@@ -182,6 +182,10 @@ const config = {
     ]
 }
 
+const sourceKeys = getAllSourceKeys()
+
+console.log(sourceKeys)
+
 class CompendiumFile {
     _oldPath
     _oldContent
@@ -223,18 +227,21 @@ class CompendiumFile {
 function goThroughFilesAndFolders(folderPath, num = 0) {
     const files = fs.readdirSync(folderPath)
 
-    while(num < config.limit) {
-        files.forEach(file => {
-            const filePath = path.resolve(folderPath, file)
-            const fileInfo = fs.statSync(filePath)
-    
-            if (fileInfo.isDirectory()) {
-                goThroughFilesAndFolders(filePath, num)
-            } else {
-                processAllRules(new CompendiumFile(filePath))
-                num++
-            }
-        });
+    console.log('-->', num, config.limit)
+    for (const file of files) {
+        if (num >= config.limit) break
+        const filePath = path.resolve(folderPath, file)
+        const fileInfo = fs.statSync(filePath)
+
+        if (fileInfo.isDirectory()) {
+            console.log('Directory')
+            goThroughFilesAndFolders(filePath, num)
+        } else {
+            console.log('File')
+            processAllRules(new CompendiumFile(filePath), num)
+            num++
+            console.log('HERE', num)
+        }
     }
 
     return
@@ -262,6 +269,23 @@ function processAllRules(file, index) {
             }
         }
     })
+}
+
+function getAllSourceKeys() {
+    const sourceKeys = []
+
+    sourceKeys.push(...ttrpgConvertConfig.sources.adventure.map(i => i.toLowerCase()))
+    sourceKeys.push(...ttrpgConvertConfig.sources.book.map(i => i.toLowerCase()))
+    sourceKeys.push(...ttrpgConvertConfig.sources.reference.map(i => i.toLowerCase()))
+
+    ttrpgConvertConfig.sources.homebrew.forEach(homebrew => {
+        const file = JSON.parse(fs.readFileSync(path.resolve(config.rootVaultPath, homebrew), 'utf-8'))
+        file._meta.sources.forEach(source => {
+            sourceKeys.push(source.abbreviation)
+        })
+    })
+
+    return sourceKeys
 }
 
 goThroughFilesAndFolders(path.resolve(config.rootVaultPath, config.compendiumPath))

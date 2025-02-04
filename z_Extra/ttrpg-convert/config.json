@@ -1,48 +1,5 @@
 {
-    "from": [
-        "PHB",
-        "MM",
-        "DMG",
-        "MPMM",
-        "CoS",
-        "VRGR",
-        "XGE",
-        "TCE",
-        "ERLW",
-        "MTF",
-        "VEoR"
-    ],
-    "paths": {
-        "rules": "/compendium/rules/"
-    },
-    "useDiceRoller": true,
-    "yamlStatblocks": true,
-    "images": {
-        "copyInternal": true,
-        "copyExternal": false,
-        "internalRoot": "../5etools-img"
-    },
-    "excludePattern": [],
-    "exclude": [],
-    "include": [],
-    "template": {
-        "background": "z_Extra/ttrpg-convert/templates/background.txt",
-        "class": "z_Extra/ttrpg-convert/templates/class.txt",
-        "deity": "z_Extra/ttrpg-convert/templates/deity.txt",
-        "feat": "z_Extra/ttrpg-convert/templates/feat.txt",
-        "hazard": "z_Extra/ttrpg-convert/templates/hazard.txt",
-        "item": "z_Extra/ttrpg-convert/templates/item.txt",
-        "monster": "z_Extra/ttrpg-convert/templates/monster.txt",
-        "note": "z_Extra/ttrpg-convert/templates/note.txt",
-        "object": "z_Extra/ttrpg-convert/templates/object.txt",
-        "psionic": "z_Extra/ttrpg-convert/templates/psionic.txt",
-        "race": "z_Extra/ttrpg-convert/templates/race.txt",
-        "reward": "z_Extra/ttrpg-convert/templates/reward.txt",
-        "spell": "z_Extra/ttrpg-convert/templates/spell.txt",
-        "subclass": "z_Extra/ttrpg-convert/templates/subclass.txt",
-        "vehicle": "z_Extra/ttrpg-convert/templates/vehicle.txt"
-    },
-    "full-source": {
+    "sources": {
         "homebrew": [
             "z_Extra/ttrpg-convert/homebrew/Jasmine Yang; Hamund's Harvesting Handbook I.json",
             "z_Extra/ttrpg-convert/homebrew/Jasmine Yang; Hamund's Harvesting Handbook II.json",
@@ -69,6 +26,40 @@
             "XGE",
             "TCE",
             "MTF"
+        ],
+        "reference": [
+            "MPMM"
         ]
+    },
+    "paths": {
+        "rules": "/compendium/rules/"
+    },
+    "useDiceRoller": true,
+    "yamlStatblocks": true,
+    "images": {
+        "copyInternal": true,
+        "copyExternal": false,
+        "internalRoot": "../5etools-img"
+    },
+    "reprintBehavior": "newest",
+    "excludePattern": [],
+    "exclude": [],
+    "include": [],
+    "template": {
+        "background": "z_Extra/ttrpg-convert/templates/background.txt",
+        "class": "z_Extra/ttrpg-convert/templates/class.txt",
+        "deity": "z_Extra/ttrpg-convert/templates/deity.txt",
+        "feat": "z_Extra/ttrpg-convert/templates/feat.txt",
+        "hazard": "z_Extra/ttrpg-convert/templates/hazard.txt",
+        "item": "z_Extra/ttrpg-convert/templates/item.txt",
+        "monster": "z_Extra/ttrpg-convert/templates/monster.txt",
+        "note": "z_Extra/ttrpg-convert/templates/note.txt",
+        "object": "z_Extra/ttrpg-convert/templates/object.txt",
+        "psionic": "z_Extra/ttrpg-convert/templates/psionic.txt",
+        "race": "z_Extra/ttrpg-convert/templates/race.txt",
+        "reward": "z_Extra/ttrpg-convert/templates/reward.txt",
+        "spell": "z_Extra/ttrpg-convert/templates/spell.txt",
+        "subclass": "z_Extra/ttrpg-convert/templates/subclass.txt",
+        "vehicle": "z_Extra/ttrpg-convert/templates/vehicle.txt"
     }
 }
