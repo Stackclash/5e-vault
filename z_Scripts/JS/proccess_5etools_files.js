@@ -59,7 +59,7 @@ const config = {
 
                 newFileName = newFileName
                     .replaceAll(/(^|[\/\\\-])([a-z0-9])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' ' + letter.toUpperCase() : separator + letter.toUpperCase())
-                    .replace(new RegExp(`/\s*(${sourceKeys.join('|')})$/i`), '')
+                    .replace(new RegExp(`\s*(${sourceKeys.join('|')})$`, 'i'), (oldText, source) => ` (${source.toUpperCase()})`)
 
                 return newFileName
             }
