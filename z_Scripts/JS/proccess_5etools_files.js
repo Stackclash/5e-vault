@@ -235,24 +235,22 @@ class CompendiumFile {
     }
 }
 
-async function goThroughFilesAndFolders(folderPath, num = 0) {
+function getFilesList(folderPath) {
+    const filesList = []
     const files = fs.readdirSync(folderPath)
 
     for (const file of files) {
-        if (num >= config.limit) process.exit(0)
-
         const filePath = path.resolve(folderPath, file)
         const fileInfo = fs.statSync(filePath)
 
         if (fileInfo.isDirectory()) {
-            await goThroughFilesAndFolders(filePath, num)
+            filesList.push(...getFilesList(filePath))
         } else {
-            processAllRules(new CompendiumFile(filePath), num)
-            num++
+            filesList.push(filePath)
         }
     }
 
-    return
+    return filesList
 }
 
 function moveCssSnippets() {
@@ -312,7 +310,17 @@ function getAllSourceKeys() {
 
 async function main() {
     if (config.css.move) moveCssSnippets()
-    await goThroughFilesAndFolders(path.resolve(config.rootVaultPath, config.compendiumPath))
+    const filesList = getFilesList(path.resolve(config.rootVaultPath, config.compendiumPath))
+    let index = 0
+    
+    console.log(`\nFound ${filesList.length} files to process\nProcessing ${config.limit}\n`)
+    
+    for (const file of filesList) {
+        if (index >= config.limit) break
+        const compendiumFile = new CompendiumFile(file)
+        processAllRules(compendiumFile, index)
+        index++
+    }
 }
 
 main()
