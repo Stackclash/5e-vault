@@ -10,6 +10,11 @@ const config = {
     limit: 1,
     rootVaultPath: path.resolve(__dirname, '../../'),
     compendiumPath: 'compendium',
+    css: {
+        path: 'css-snippets',
+        newPath: '.obsidian/snippets',
+        move: true
+    },
     logs: {
         moves: true,
         rules: true
@@ -182,10 +187,6 @@ const config = {
     ]
 }
 
-const sourceKeys = getAllSourceKeys()
-
-console.log(sourceKeys)
-
 class CompendiumFile {
     _oldPath
     _oldContent
@@ -227,20 +228,17 @@ class CompendiumFile {
 function goThroughFilesAndFolders(folderPath, num = 0) {
     const files = fs.readdirSync(folderPath)
 
-    console.log('-->', num, config.limit)
     for (const file of files) {
-        if (num >= config.limit) break
+        if (num >= config.limit) process.exit(0)
+
         const filePath = path.resolve(folderPath, file)
         const fileInfo = fs.statSync(filePath)
 
         if (fileInfo.isDirectory()) {
-            console.log('Directory')
             goThroughFilesAndFolders(filePath, num)
         } else {
-            console.log('File')
             processAllRules(new CompendiumFile(filePath), num)
             num++
-            console.log('HERE', num)
         }
     }
 
@@ -248,7 +246,19 @@ function goThroughFilesAndFolders(folderPath, num = 0) {
 }
 
 function moveCssSnippets() {
-    // TODO: Move CSS snippets to the correct folder
+    console.log('Moving CSS Snippets')
+    const newCssPath = path.resolve(config.rootVaultPath, config.css.newPath)
+    const cssFiles = fs.readdirSync(path.resolve(config.rootVaultPath, config.css.path))
+    for (const file of cssFiles) {
+        const filePath = path.resolve(config.rootVaultPath, config.css.path, file)
+        const newFilePath = path.resolve(newCssPath, file)
+        fs.rename(filePath, newFilePath, (err) => {
+            if (err) throw err
+            if (config.logs.moves) console.log(`\tMoved ${file} to ${newFilePath}`)
+        })
+    }
+    
+    return
 }
 
 function processAllRules(file, index) {
@@ -288,4 +298,10 @@ function getAllSourceKeys() {
     return sourceKeys
 }
 
-goThroughFilesAndFolders(path.resolve(config.rootVaultPath, config.compendiumPath))
+function main() {
+    const sourceKeys = getAllSourceKeys()
+    if (config.css.move) moveCssSnippets()
+    goThroughFilesAndFolders(path.resolve(config.rootVaultPath, config.compendiumPath))
+}
+
+main()
