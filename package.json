@@ -2,6 +2,7 @@
   "dependencies": {
     "gray-matter": "^4.0.3",
     "markov-chains": "^1.0.2",
+    "node-cache": "^5.1.2",
     "readline-sync": "^1.4.10"
   }
 }

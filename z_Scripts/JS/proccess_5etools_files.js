@@ -2,12 +2,15 @@ const fs = require('fs')
 const path = require('path')
 const matter = require('gray-matter')
 const readlineSync = require('readline-sync')
+const NodeCache = require('node-cache')
 const ttrpgConvertConfig = require('../../z_Extra/ttrpg-convert/config.json')
 
 // Create reliable logging
 
+const cache = new NodeCache({ stdTTL: 0, checkperiod: 0 })
+
 const config = {
-    limit: 1,
+    limit: 10000,
     rootVaultPath: path.resolve(__dirname, '../../'),
     compendiumPath: 'compendium',
     css: {
@@ -46,6 +49,13 @@ const config = {
             target: 'fileName',
             process: function (file) {
                 let newFileName = file.fileName
+                let sourceKeys = []
+                if (cache.get('sourceKeys')) {
+                    sourceKeys = cache.get('sourceKeys')
+                } else {
+                    sourceKeys = getAllSourceKeys()
+                    cache.set('sourceKeys', sourceKeys)
+                }
 
                 newFileName = newFileName
                     .replaceAll(/(^|[\/\\\-])([a-z0-9])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' ' + letter.toUpperCase() : separator + letter.toUpperCase())
@@ -225,7 +235,7 @@ class CompendiumFile {
     }
 }
 
-function goThroughFilesAndFolders(folderPath, num = 0) {
+async function goThroughFilesAndFolders(folderPath, num = 0) {
     const files = fs.readdirSync(folderPath)
 
     for (const file of files) {
@@ -235,7 +245,7 @@ function goThroughFilesAndFolders(folderPath, num = 0) {
         const fileInfo = fs.statSync(filePath)
 
         if (fileInfo.isDirectory()) {
-            goThroughFilesAndFolders(filePath, num)
+            await goThroughFilesAndFolders(filePath, num)
         } else {
             processAllRules(new CompendiumFile(filePath), num)
             num++
@@ -254,10 +264,10 @@ function moveCssSnippets() {
         const newFilePath = path.resolve(newCssPath, file)
         fs.rename(filePath, newFilePath, (err) => {
             if (err) throw err
-            if (config.logs.moves) console.log(`\tMoved ${file} to ${newFilePath}`)
         })
+        if (config.logs.moves) console.log(`\tMoved ${file} to ${newFilePath}`)
     }
-    
+
     return
 }
 
@@ -279,6 +289,8 @@ function processAllRules(file, index) {
             }
         }
     })
+
+    return
 }
 
 function getAllSourceKeys() {
@@ -298,10 +310,9 @@ function getAllSourceKeys() {
     return sourceKeys
 }
 
-function main() {
-    const sourceKeys = getAllSourceKeys()
+async function main() {
     if (config.css.move) moveCssSnippets()
-    goThroughFilesAndFolders(path.resolve(config.rootVaultPath, config.compendiumPath))
+    await goThroughFilesAndFolders(path.resolve(config.rootVaultPath, config.compendiumPath))
 }
 
 main()
