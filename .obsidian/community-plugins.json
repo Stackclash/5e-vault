@@ -1,14 +1,15 @@
 [
-  "dataview",
-  "obsidian-style-settings",
-  "obsidian-view-mode-by-frontmatter",
-  "folder-note-plugin",
-  "obsidian-git",
-  "table-editor-obsidian",
-  "new-tab-default-page",
+  "obsidian-admonition",
+  "aprils-automatic-timelines",
+  "obsidian-banners",
   "obsidian42-brat",
-  "obsidian-javascript-init",
-  "modules",
-  "lazy-plugins",
-  "obsidian-meta-bind-plugin"
+  "calendarium",
+  "carousel",
+  "dataview",
+  "new-tab-default-page",
+  "obsidian-dice-roller",
+  "obsidian-5e-statblocks",
+  "folder-note-plugin",
+  "obsidian-view-mode-by-frontmatter",
+  "obsidian-git"
 ]

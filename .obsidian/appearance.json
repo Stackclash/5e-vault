@@ -1,29 +1,3 @@
 {
-  "accentColor": "",
-  "enabledCssSnippets": [
-    "custom_callouts",
-    "initiative-tracker-fix",
-    "ITS - Encoded Fonts",
-    "ITS - Encoded Icons",
-    "CSS Links",
-    "supercharged-links-gen",
-    "Folder Icons",
-    "Custom Styles",
-    "External CSS",
-    "TabsInObsidian",
-    "weatherGenerator",
-    "weatherGeneratorMicro",
-    "weatherGeneratorMicroV2",
-    "weatherGeneratorVertical",
-    "ttrpg-convert-cli",
-    "S - Encoded Fonts",
-    "S - Encoded Icons",
-    "dnd5e-compendium",
-    "ITS-Theme",
-    "metabind-tabs",
-    "Multiple Property Columns"
-  ],
-  "theme": "obsidian",
-  "cssTheme": "ITS Theme",
-  "baseFontSize": 20
+  "cssTheme": "ITS Theme"
 }
