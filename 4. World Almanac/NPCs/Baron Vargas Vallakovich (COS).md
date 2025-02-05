@@ -2,33 +2,38 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/1-8
   - monster/size/medium
   - monster/type/humanoid/human
-location: null
+  - npc
+location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/baron-vargas-vallakovich.webp
-relationships: []
-aliases:
-  - Baron Vargas Vallakovich
-pronounced: null
-race: null
-gender: null
-age: null
+  - 4. World Almanac/NPCs/img/baron-vargas-vallakovich.webp
+relationships:
+  - Lady Lydia Petrovna|wife
+  - Victor Vallakovich|son
+aliases: []
+pronounced: VAR-gas val-lah-KO-vich
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: male
+age: 43
 alignment: Neutral Evil
-occupation: null
+occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Authoritarian, paranoid, obsessed with maintaining a façade of happiness'
+ideal: All will be well if we just keep pretending it is.
+bond: >-
+  His family's legacy of ruling Vallaki, his desperate need to keep the town
+  safe from Strahd's influence
+flaw: >-
+  His denial of Vallaki's real problems and his tyrannical methods of enforcing
+  happiness
+goals: ' To keep Vallaki free from Strahd''s influence, to maintain order at all costs'
+likes: 'Obedience, festivals, public displays of happiness'
+dislikes: 'Dissent, failure, anything that threatens his control or Vallaki''s ''happiness'''
 partyRelationships: {}
 ---
 

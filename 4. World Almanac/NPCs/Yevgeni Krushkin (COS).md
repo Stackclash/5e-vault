@@ -2,24 +2,23 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/1-2
   - monster/size/medium
   - monster/type/humanoid/human
+  - npc
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/053-cos05-06.webp
+  - 4. World Almanac/NPCs/img/053-cos05-06.webp
 relationships: []
-aliases:
-  - Yevgeni Krushkin
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Neutral
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null

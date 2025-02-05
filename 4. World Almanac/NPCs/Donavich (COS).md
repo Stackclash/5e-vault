@@ -2,33 +2,35 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/1-4
   - monster/size/medium
   - monster/type/humanoid/human
-location: null
+  - npc
+location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/donavich.webp
-relationships: []
-aliases:
-  - Donavich
-pronounced: null
-race: null
-gender: null
-age: null
+  - 4. World Almanac/NPCs/img/donavich.webp
+relationships:
+  - Doru|son
+aliases: []
+pronounced: DON-a-vich
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: male
+age: 50
 alignment: Lawful Good
-occupation: null
+occupation:
+  - Priest
 groups: []
-religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+religions:
+  - Faith of the Morninglord
+personality: 'Devout, troubled, compassionate'
+ideal: 'Through faith and perseverance, we can endure the darkest nights.'
+bond: 'His congregation, his son'
+flaw: His faith wavers in the face of his son's affliction.
+goals: 'To protect his flock, to cure his son'
+likes: 'Dawn, prayer, community gatherings'
+dislikes: 'Darkness, Strahd’s influence, seeing his parishioners suffer'
 partyRelationships: {}
 ---
 

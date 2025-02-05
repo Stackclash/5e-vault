@@ -2,34 +2,39 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/2
   - monster/size/small
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: null
+  - npc
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/bray-martikov.webp
-relationships: []
-aliases:
-  - Bray Martikov
-pronounced: null
-race: null
-gender: null
-age: null
+  - 4. World Almanac/NPCs/img/bray-martikov.webp
+relationships:
+  - Danika Dorakova|mother
+  - Brom Martikov|brother
+  - Urwin Martikov|father
+aliases: []
+pronounced: BRAY MAR-ti-kov
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: male
+age: 15
 alignment: Lawful Good
-occupation: null
-groups: []
+occupation: []
+groups:
+  - Keepers of the Feather
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Eager, hardworking, a bit naive'
+ideal: Family and tradition hold the keys to strength and unity.
+bond: 'His family, the winery, and his burgeoning duties as a Keeper of the Feather'
+flaw: His youth and inexperience sometimes lead to recklessness
+goals: >-
+  To prove himself to his family and as a Keeper of the Feather, to protect his
+  home from Strahd's forces
+likes: 'Adventures, stories of heroism, the outdoors'
+dislikes: 'Threats to his family, the oppression of Strahd, boredom'
 partyRelationships: {}
 ---
 

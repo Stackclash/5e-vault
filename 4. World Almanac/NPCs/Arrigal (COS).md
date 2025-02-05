@@ -2,33 +2,38 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/8
   - monster/size/medium
   - monster/type/humanoid/human
-location: null
+  - npc
+location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/arrigal.webp
-relationships: []
-aliases:
-  - Arrigal
-pronounced: null
+  - 4. World Almanac/NPCs/img/arrigal.webp
+relationships:
+  - Luvash|brother
+  - Arabelle|uncle
+aliases: []
+pronounced: AH-ri-gal
 race: null
-gender: null
-age: null
+gender: male
+age: 35
 alignment: Neutral Evil
-occupation: null
-groups: []
+occupation:
+  - Assassin
+groups:
+  - Vistani
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Charismatic, ruthless, cunning'
+ideal: >-
+  Loyalty to family and clan above all else, but personal gain is a close
+  second.
+bond: His brother Luvash and niece Arabelle
+flaw: Greed and self-interest often overshadow his better judgement
+goals: 'To protect and serve his Vistani clan, to amass personal wealth and power'
+likes: 'Wealth, power, the respect of his peers'
+dislikes: 'The forces of Strahd (publicly), betrayal, weakness'
 partyRelationships: {}
 ---
 

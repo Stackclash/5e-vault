@@ -2,23 +2,23 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/0
   - monster/size/medium
   - monster/type/humanoid/human
+  - npc
 location: null
 condition: healthy
-images: []
-relationships: []
-aliases:
-  - Lady Lydia Petrovna
+image: null
+relationships:
+  - Baron Vargas Vallakovich|husband
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Lawful Good
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null

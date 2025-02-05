@@ -2,17 +2,21 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/2
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
+  - npc
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/davian-martikov.webp
-relationships: []
+  - 4. World Almanac/NPCs/img/davian-martikov.webp
+relationships:
+  - Urwin Martikov|son
+  - Stefania Martikov|daughter
+  - Adrian Martikov|son
+  - Elvir Martikov|son
 aliases:
   - Davian Martikov
 pronounced: null
@@ -20,7 +24,7 @@ race: null
 gender: null
 age: null
 alignment: Lawful Good
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null

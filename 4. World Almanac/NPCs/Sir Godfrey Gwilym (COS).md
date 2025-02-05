@@ -2,33 +2,43 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/6
   - monster/size/medium
   - monster/type/undead
+  - npc
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/sir-godfrey-gwilym.webp
+  - 4. World Almanac/NPCs/img/sir-godfrey-gwilym.webp
 relationships: []
-aliases:
-  - Sir Godfrey Gwilym
-pronounced: null
-race: null
-gender: null
+aliases: []
+pronounced: sir GOD-free GWIL-im
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: male
 age: null
 alignment: Lawful Evil
-occupation: null
-groups: []
+occupation: []
+groups:
+  - Order of the Silver Dragon
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Stoic, honorable, deeply melancholic'
+ideal: Redemption for the Order and peace for Barovia are my only pursuits.
+bond: >-
+  His unyielding loyalty to the Order of the Silver Dragon and the memory of
+  Argynvost
+flaw: >-
+  His single-minded focus on the order's redemption can sometimes blind him to
+  broader concerns or simpler joys
+goals: >-
+  To restore the honor of the Order of the Silver Dragon, to find peace in
+  fulfilling his oath
+likes: >-
+  Acts of bravery and honor, the legacy of the Silver Dragon, those who seek
+  justice
+dislikes: >-
+  Cowardice, betrayal, Strahd and his minions, the failure of the Order to
+  protect Barovia
 partyRelationships: {}
 ---
 

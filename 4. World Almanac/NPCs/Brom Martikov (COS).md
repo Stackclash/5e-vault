@@ -2,34 +2,39 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/2
   - monster/size/small
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: null
+  - npc
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/brom-martikov.webp
-relationships: []
-aliases:
-  - Brom Martikov
-pronounced: null
-race: null
-gender: null
-age: null
+  - 4. World Almanac/NPCs/img/brom-martikov.webp
+relationships:
+  - Urwin Martikov|father
+  - Danika Dorakova|mother
+  - Bray Martikov|brother
+aliases: null
+pronounced: BROM MAR-ti-kov
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: male
+age: 13
 alignment: Lawful Good
-occupation: null
-groups: []
-religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+occupation:
+  - Bar Assistant
+groups:
+  - Keepers of the Feather
+religions: null
+personality: 'Curious, playful, slightly mischievous'
+ideal: Adventure and discovery are the spices of life.
+bond: 'His family, especially his brother Bray, and the adventures they dream of'
+flaw: His curiosity and mischievousness sometimes get him into trouble
+goals:
+  - 'To explore the world beyond Vallaki, to make a name for himself'
+likes: 'Pranks, stories of faraway places, animals'
+dislikes: 'Restrictions, Strahd’s minions, when others treat him like a child'
 partyRelationships: {}
 ---
 

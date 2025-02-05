@@ -2,23 +2,22 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/10
   - monster/size/medium
   - monster/type/celestial
+  - npc
 location: null
 condition: healthy
-images: []
+image: null
 relationships: []
-aliases:
-  - The Abbot
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Lawful Evil
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null

@@ -2,24 +2,23 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/3
   - monster/size/small
   - monster/type/undead
+  - npc
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/thornboldt-thorn-durst.webp
+  - 4. World Almanac/NPCs/img/thornboldt-thorn-durst.webp
 relationships: []
-aliases:
-  - Thornboldt "Thorn" Durst
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Lawful Good
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null

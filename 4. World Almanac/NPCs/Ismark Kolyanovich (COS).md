@@ -2,33 +2,35 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/3
   - monster/size/medium
   - monster/type/humanoid/human
-location: null
+  - npc
+location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/ismark-kolyanovich.webp
-relationships: []
-aliases:
-  - Ismark Kolyanovich
-pronounced: null
-race: null
-gender: null
-age: null
+  - 4. World Almanac/NPCs/img/ismark-kolyanovich.webp
+relationships:
+  - Ireena Kolyana|sister
+aliases: []
+pronounced: IS-mark KOHL-yan-o-vich
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: male
+age: 25
 alignment: Lawful Good
-occupation: null
+occupation:
+  - Burgomaster
 groups: []
-religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+religions:
+  - Faith of the Morninglord
+personality: 'Protective, responsible, deeply concerned for his sister''s safety'
+ideal: 'Duty above all, especially to family and those under my care.'
+bond: His late father's legacy and his sister's safety
+flaw: Can be overly cautious and sometimes distrustful of strangers
+goals: 'To secure a safe place for Ireena, away from Strahd’s reach'
+likes: 'Quiet moments of peace, strong leadership, loyalty'
+dislikes: 'Threats to his family, Strahd''s minions, chaos'
 partyRelationships: {}
 ---
 

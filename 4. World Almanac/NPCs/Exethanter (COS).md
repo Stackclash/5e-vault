@@ -2,23 +2,22 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/10
   - monster/size/medium
   - monster/type/undead
+  - npc
 location: null
 condition: healthy
-images: []
+image: null
 relationships: []
-aliases:
-  - Exethanter
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Any Evil alignment
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null

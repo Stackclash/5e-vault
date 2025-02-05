@@ -2,33 +2,37 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/8
   - monster/size/medium
   - monster/type/humanoid/human
-location: null
+  - npc
+location: >-
+  [[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's
+  Tower]]
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/ezmerelda-davenir.webp
+  - 4. World Almanac/NPCs/img/ezmerelda-davenir.webp
 relationships: []
-aliases:
-  - Ezmerelda d'Avenir
-pronounced: null
-race: null
-gender: null
-age: null
+aliases: []
+pronounced: ez-meh-REL-da dah-veh-NEER
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: female
+age: 33
 alignment: Chaotic Good
-occupation: null
-groups: []
+occupation: []
+groups:
+  - Vistani
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Determined, fiercely independent, pragmatic'
+ideal: >-
+  Evil that feeds on the innocent is the worst of all evils and must be
+  destroyed.
+bond: 'My mentor and teacher, Dr. Rudolph van Richten, is like a father to me.'
+flaw: I go where angels fear to tread.
+goals: 'To defeat Strahd, to become the greatest monster hunter in the land'
+likes: 'Knowledge about monsters, vanquishing evil, proving her skill and courage'
+dislikes: 'Cowardice, betrayal, the undead, those who underestimate her'
 partyRelationships: {}
 ---
 

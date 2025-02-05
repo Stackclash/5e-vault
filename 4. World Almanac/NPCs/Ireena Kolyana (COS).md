@@ -2,24 +2,25 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/1-8
   - monster/size/medium
   - monster/type/humanoid/human
+  - npc
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/ireena-kolyana.webp
-relationships: []
-aliases:
-  - Ireena Kolyana
+  - 4. World Almanac/NPCs/img/ireena-kolyana.webp
+relationships:
+  - Ismark Kolyanovich|brother
+  - Izek Strazni|brother
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Lawful Good
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null

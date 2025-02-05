@@ -2,24 +2,23 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/12
   - monster/size/medium
   - monster/type/humanoid/dusk-elf
+  - npc
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/patrina-velikovna.webp
+  - 4. World Almanac/NPCs/img/patrina-velikovna.webp
 relationships: []
-aliases:
-  - Patrina Velikovna
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Neutral Evil
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null

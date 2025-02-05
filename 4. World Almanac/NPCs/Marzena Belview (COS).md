@@ -2,23 +2,22 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/1-4
   - monster/size/medium
   - monster/type/humanoid/mongrelfolk
+  - npc
 location: null
 condition: healthy
-images: []
+image: null
 relationships: []
-aliases:
-  - Marzena Belview
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Any alignment
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null

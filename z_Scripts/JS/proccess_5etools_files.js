@@ -11,7 +11,7 @@ const ttrpgConvertConfig = require('../../z_Extra/ttrpg-convert/config.json')
 const cache = new NodeCache({ stdTTL: 0, checkperiod: 0 })
 
 const config = {
-    limit: 10000,
+    limit: 15000,
     rootVaultPath: path.resolve(__dirname, '../../'),
     compendiumPath: 'compendium',
     css: {
@@ -109,7 +109,7 @@ const config = {
                 let fileContent = file.content
                 let separator = file.path.match(/[\/\\]/)
 
-                if (new RegExp(/([\w\s]+)[\/\\]\1/).test(`${file.relativePath}${separator}${file.fileName}`)) {
+                if (new RegExp(/([\w\s]+)[\/\\]\1\.md$/).test(`${file.relativePath}${separator}${file.fileName}${file.fileExtension}`)) {
                     fileContent = `---\nobsidianUIMode: preview\n---\n\`\`\`dataview\nLIST FROM "${file.relativePath.replace(/[\/\\]$/, "").replaceAll(/\\/g, "/")}" WHERE file.name != this.file.name\n\`\`\``
                 }
 
@@ -308,6 +308,34 @@ function getAllSourceKeys() {
     return sourceKeys
 }
 
+function cleanup() {
+    // const allNpcFiles = getFilesList(path.resolve(config.rootVaultPath, '4. World Almanac/NPCs'))
+    //     .filter(file => path.extname(file) === '.md')
+    // const newNpcFiles = allNpcFiles.filter(file => /\(.*?\)\.md$/.test(file))
+    // const oldNpcFiles = allNpcFiles.filter(file => !/\(.*?\)\.md$/.test(file))
+    
+    // for (const npc of oldNpcFiles) {
+    //     const newNpc = newNpcFiles.find(file => {
+    //         const oldName = path.parse(npc).name
+    //         return new RegExp(`${oldName} \(.*?\)$`).test(file)
+    //     })
+        
+    //     if (newNpc) {
+    //         const newNpcInfo = matter.read(newNpc)
+    //         const oldNpcInfo = matter.read(npc)
+    //         if (newNpcInfo.content && oldNpcInfo.data) {
+    //             console.log('READY')
+    //             fs.writeFileSync(newNpc, matter.stringify(newNpcInfo.content, oldNpcInfo.data))
+    //             fs.unlinkSync(npc)
+    //         } else {
+    //             console.log('ERROR - ', npc)
+    //         }
+
+    //     }
+    // }
+    return
+}
+
 function main() {
     if (config.css.move) moveCssSnippets()
     const filesList = getFilesList(path.resolve(config.rootVaultPath, config.compendiumPath))
@@ -324,3 +352,4 @@ function main() {
 }
 
 main()
+cleanup()

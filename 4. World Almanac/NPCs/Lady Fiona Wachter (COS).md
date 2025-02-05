@@ -2,23 +2,25 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/2
   - monster/size/medium
   - monster/type/humanoid/human
-location: null
+  - npc
+location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 condition: healthy
-images: []
-relationships: []
+image: null
+relationships:
+  - Nikolai Wachter|son
+  - Stella Wachter|daughter
 aliases:
   - Lady Fiona Wachter
 pronounced: null
-race: null
-gender: null
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: female
 age: null
 alignment: Lawful Evil
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null

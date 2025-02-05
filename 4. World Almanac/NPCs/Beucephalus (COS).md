@@ -2,24 +2,23 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/3
   - monster/size/large
   - monster/type/fiend
+  - npc
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/beucephalus.webp
+  - 4. World Almanac/NPCs/img/beucephalus.webp
 relationships: []
-aliases:
-  - Beucephalus
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Neutral Evil
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null

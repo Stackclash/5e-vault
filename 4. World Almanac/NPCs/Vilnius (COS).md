@@ -2,24 +2,23 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/6
   - monster/size/medium
   - monster/type/humanoid/human
+  - npc
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/vilnius.webp
+  - 4. World Almanac/NPCs/img/vilnius.webp
 relationships: []
-aliases:
-  - Vilnius
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Neutral Evil
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null

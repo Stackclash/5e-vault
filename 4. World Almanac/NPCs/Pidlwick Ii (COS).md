@@ -2,30 +2,31 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/1-4
   - monster/size/small
   - monster/type/construct
+  - npc
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/pidlwick-ii.webp
+  - 4. World Almanac/NPCs/img/pidlwick-ii.webp
 relationships: []
-aliases:
-  - Pidlwick II
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Neutral Evil
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null
-ideal: null
-bond: null
-flaw: null
+ideal: I wish I could make people happy.
+bond: >-
+  I would like to find someone - anyone - who isn't afraid of me and who enjoys
+  my company.
+flaw: 'When I''m upset, I do bad things.'
 goals: null
 likes: null
 dislikes: null

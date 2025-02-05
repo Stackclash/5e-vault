@@ -2,32 +2,33 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/0
   - monster/size/medium
   - monster/type/humanoid/human
-location: null
+  - npc
+location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 condition: healthy
-images: []
+image: null
 relationships: []
-aliases:
-  - Bluto Krogarov
-pronounced: null
-race: null
-gender: null
-age: null
+aliases: []
+pronounced: BLOO-toh KRO-gah-rov
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: male
+age: 46
 alignment: Neutral Evil
-occupation: null
+occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Despondent, superstitious, unstable'
+ideal: 'Luck is a lie, and hope is for the foolish.'
+bond: 'His boat and the lake, the only constants in his life of failure'
+flaw: 'Alcoholism, prone to rash decisions when desperate'
+goals: >-
+  To change his fortunes by any means necessary, often resorting to foolish
+  superstitions
+likes: 'Drinking, solitude, the rare good day of fishing'
+dislikes: 'The mockery of others, his own bad luck, the Burgomaster''s enforced happiness'
 partyRelationships: {}
 ---
 

@@ -2,30 +2,33 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/10
   - monster/size/medium
   - monster/type/humanoid/elf
+  - npc
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/rahadin.webp
+  - 4. World Almanac/NPCs/img/rahadin.webp
 relationships: []
-aliases:
-  - Rahadin
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Lawful Evil
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null
-ideal: null
-bond: null
-flaw: null
+ideal: Loyalty is everything.
+bond: >-
+  I am a son of King Barov von Zarovich, and I will serve his son - my brother
+  and lord - forever.
+flaw: >-
+  I have slain thousands of men. I will slaughter thousands more to preserve the
+  von Zarovich legacy.
 goals: null
 likes: null
 dislikes: null

@@ -2,33 +2,40 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/1-4
   - monster/size/medium
   - monster/type/humanoid/mongrelfolk
-location: null
+  - npc
+location: >-
+  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
+  Saint Markovia]]
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/cyrus-belview.webp
+  - 4. World Almanac/NPCs/img/cyrus-belview.webp
 relationships: []
-aliases:
-  - Cyrus Belview
-pronounced: null
-race: null
-gender: null
-age: null
-alignment: Any alignment
-occupation: null
+aliases: []
+pronounced: SY-rus BEL-view
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: male
+age: 48
+alignment: Neutral Good
+occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Meek, obliging, somewhat naive'
+ideal: Kindness and diligence can make even the darkest places a bit brighter
+bond: >-
+  His duty to the Abbey and its inhabitants, a place he considers home despite
+  its flaws
+flaw: >-
+  His naivety and loyalty sometimes blind him to the moral complexities of the
+  Abbey's reality
+goals: >-
+  To maintain order and cleanliness in the Abbey, to please the Abbot, to find
+  acceptance
+likes: 'Simplicity, cleanliness, the rare praise or kindness shown to him'
+dislikes: 'Violence, the harsh judgments of outsiders, the complexities of moral dilemmas'
 partyRelationships: {}
 ---
 

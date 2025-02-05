@@ -2,32 +2,36 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/0
   - monster/size/medium
   - monster/type/humanoid/human
-location: null
+  - npc
+location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 condition: healthy
-images: []
-relationships: []
-aliases:
-  - Arabelle
+image: null
+relationships:
+  - Luvash|father
+  - Arrigal|niece
+aliases: []
 pronounced: null
-race: null
-gender: null
-age: null
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: female
+age: 7
 alignment: Lawful Neutral
-occupation: null
-groups: []
+occupation: []
+groups:
+  - Vistani
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Curious, spirited, innocent'
+ideal: The world is full of wonder and adventure.
+bond: Her family and the Vistani community
+flaw: Naïve and unaware of the dangers around her
+goals: >-
+  To explore and experience new things, to someday become a great storyteller
+  like her ancestors
+likes: 'Stories, animals, exploring'
+dislikes: 'Being confined or restricted, cruelty'
 partyRelationships: {}
 ---
 

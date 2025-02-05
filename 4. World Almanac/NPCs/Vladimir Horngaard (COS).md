@@ -2,30 +2,33 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/7
   - monster/size/medium
   - monster/type/undead
+  - npc
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/vladimir-horngaard.webp
+  - 4. World Almanac/NPCs/img/vladimir-horngaard.webp
 relationships: []
-aliases:
-  - Vladimir Horngaard
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Lawful Evil
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null
-ideal: null
-bond: null
-flaw: null
+ideal: Vengeance is all I have left.
+bond: >-
+  I have sworn oaths of allegiance to the Order of the Silver Dragon. Broken
+  though the order may be, my allegiance never dies.
+flaw: >-
+  Destroying Strahd would end the vampire's torment, and that is something I
+  will never allow.
 goals: null
 likes: null
 dislikes: null

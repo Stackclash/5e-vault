@@ -2,30 +2,29 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/5
   - monster/size/medium
   - monster/type/humanoid/human
+  - npc
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/rictavio.webp
+  - 4. World Almanac/NPCs/img/rictavio.webp
 relationships: []
-aliases:
-  - Rictavio
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Lawful Good
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null
-ideal: null
-bond: null
-flaw: null
+ideal: Evil cannot go unchallenged.
+bond: 'To protect those I love, I must keep them distant and hidden from my enemies.'
+flaw: 'I am cursed. Thus, I will never have peace.'
 goals: null
 likes: null
 dislikes: null

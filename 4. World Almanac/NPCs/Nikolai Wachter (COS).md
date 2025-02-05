@@ -2,23 +2,23 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/1-8
   - monster/size/medium
   - monster/type/humanoid/human
-location: null
+  - npc
+location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 condition: healthy
-images: []
-relationships: []
-aliases:
-  - Nikolai Wachter
+image: null
+relationships:
+  - Lady Fiona Wachter|mother
+aliases: []
 pronounced: null
 race: null
-gender: null
+gender: male
 age: null
 alignment: Lawful Neutral
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null

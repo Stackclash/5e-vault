@@ -2,17 +2,20 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/2
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: null
+  - npc
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/danika-dorakova.webp
-relationships: []
+  - 4. World Almanac/NPCs/img/danika-dorakova.webp
+relationships:
+  - Urwin Martikov|husband
+  - Brom Martikov|son
+  - Bray Martikov|son
 aliases:
   - Danika Dorakova
 pronounced: null
@@ -20,7 +23,7 @@ race: null
 gender: null
 age: null
 alignment: Lawful Good
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null
@@ -30,7 +33,8 @@ flaw: null
 goals: null
 likes: null
 dislikes: null
-partyRelationships: {}
+partyRelationships:
+  Curse of Strahd: Ally
 ---
 
 > [!infobox]

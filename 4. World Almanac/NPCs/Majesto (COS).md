@@ -2,24 +2,23 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
-  - npc
   - compendium/src/5e/cos
   - monster/cr/1
   - monster/size/tiny
   - monster/type/fiend/devil
+  - npc
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/060-cos05-11.webp
+  - 4. World Almanac/NPCs/img/060-cos05-11.webp
 relationships: []
-aliases:
-  - Majesto
+aliases: []
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Lawful Evil
-occupation: null
+occupation: []
 groups: []
 religions: []
 personality: null
