@@ -1,0 +1,30 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- compendium/src/5e/saf
+- item/attunement/required
+- item/rarity/very-rare
+- item/weapon/martial
+- item/weapon/ranged
+aliases: 
+- "Foxglove Bow"
+one-hand-damage: 1d8 P
+range: 150/600
+---
+# Foxglove Bow
+*Weapon ([longbow](compendium/items/longbow.md)), very rare (requires attunement by a chaotic creature)*  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/foxglove-bow.jpg#right)  
+
+- **Damage**: 1d8 P
+- **Range**: 150/600
+- **Properties**: [Ammunition](/compendium/rules/item-properties.md#Ammunition), [Heavy](/compendium/rules/item-properties.md#Heavy), [Two-Handed](/compendium/rules/item-properties.md#Two-Handed)
+- **Weight**: 2.0 lbs.
+
+If you are a neutral character, this ash longbow functions as a normal weapon with no bonus or magical properties. If you are lawful, touching this weapon deals `dice:2d8|noform|avg` (`2d8`) radiant damage to you. If you are chaotic, you can use the foxglove bow as a magic weapon with the following properties.
+
+Arrows nocked in this bow begin to drip with poison. You may choose to do either poison or piercing damage with this weapon.
+
+Whenever you score a critical hit with this bow, roll a `dice:d6|noform|avg` (`d6`) on the Court of Arcadia row of the [Servitors](compendium/tables/servitors-saf.md) chart (page 31). Foxglove flowers begin to fall like rain, and the rolled servitor appears behind the target. This servitor fights for you and obeys your commands. They return to Arcadia after 1 minute or if they drop to 0 hit points.
+
+*Source: Strongholds and Followers p. 260*

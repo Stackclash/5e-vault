@@ -1,0 +1,38 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- compendium/src/5e/kpdm
+- spell/class/bard
+- spell/class/ranger
+- spell/class/wizard
+- spell/level/4th-level
+- spell/school/abjuration
+- spell/subclass/arcane-trickster
+level: 4th-level
+range: false
+school: Abjuration
+time: 10 minute
+duration: Concentration, up to 1 hour
+components: V, S, a piece of the dragon whose lair you are raiding
+aliases: ["Raid the Lair"]
+---
+# Raid the Lair
+*4th-level, Abjuration*  
+
+- **Casting time:** 10 minute
+- **Range:** Self
+- **Components:** V, S, a piece of the dragon whose lair you are raiding
+- **Duration:** Concentration, up to 1 hour
+
+You create an [invisible](/compendium/rules/conditions.md#Invisible) circle of protective energy centered on yourself with a radius of 10 feet. This field moves with you. The caster and all allies within the energy field are protected against dragons' lair actions:
+
+- Attack rolls resulting directly from lair actions are made with disadvantage.  
+- Saving throws resulting directly from lair actions are made with advantage, and damage done by these lair actions are halved.  
+- Lair actions occur on an initiative count 10 lower than normal.  
+
+The caster has advantage on Constitution saving throws to maintain concentration on this spell.
+
+**Classes**: [Bard](list-spells-classes-bard); [Ranger](list-spells-classes-ranger); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-arcane-trickster)
+
+*Source: Deep Magic p. 203*

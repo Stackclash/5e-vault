@@ -1,0 +1,42 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- compendium/src/5e/tgs1
+- item/attunement/required
+- item/rarity/legendary
+- item/tier/major
+- item/weapon/melee
+- item/weapon/simple
+aliases: 
+- "Purity Spear"
+one-hand-damage: 1d6 P
+two-hand-damage: 1d8 P
+range: 20/60
+---
+# Purity Spear
+*Weapon ([spear](compendium/items/spear.md)), major, legendary (requires attunement by a good-aligned creature)*  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Purity-Spear.webp#right)  
+
+- **Damage**:
+  - One-handed: 1d6 P
+  - Two-handed: 1d8 P
+- **Range**: 20/60
+- **Properties**: [Thrown](/compendium/rules/item-properties.md#Thrown), [Versatile](/compendium/rules/item-properties.md#Versatile)
+- **Weight**: 3.0 lbs.
+
+This beautiful spear has a long handle carved of ivory and is tipped with the spiraling horn of a unicorn. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+
+While attuned to the spear, you are immune to the [poisoned](/compendium/rules/conditions.md#Poisoned) condition and have immunity to poison damage. In addition, you have advantage on Constitution and Wisdom saving throws to resist spells and other magical effects.
+
+The spear has 10 charges and regains `dice:1d6+4|noform|avg` (`1d6 + 4`) expended charges daily at dawn. While holding the spear, you can expend 1 or more of its charges to cast the following spells from it (save DC 17): [calm emotions](compendium/spells/calm-emotions.md) (2 charges), [detect evil and good](compendium/spells/detect-evil-and-good.md) (1 charge), [dispel evil and good](compendium/spells/dispel-evil-and-good.md) (5 charges), [greater restoration](compendium/spells/greater-restoration.md) (5 charges), [misty step](compendium/spells/misty-step.md) (2 charges), or [purify food and drink](compendium/spells/purify-food-and-drink.md) (1 charge). In addition, you can use an action to expend 1 of its charges to touch a creature with the spear. That creature regains `dice:2d8+2|noform|avg` (`2d8 + 2`) hit points and is cured of one poison or disease afflicting it.
+
+## Charge
+
+If you move at least 20 feet straight toward a target and hit it with the spear on the same turn, the target takes an extra `dice:2d8|noform|avg` (`2d8`) piercing damage.
+
+## Curse Breaker
+
+While attuned to the spear, you are immune to being cursed by spells and other abilities. For the purposes of this property, a curse refers to any spell or ability that has "curse" in its name or description. If you are already afflicted with a curse when you attune to the spear or are attuned to a cursed item, you suppress the effects of the curse for as long as you remain attuned to the spear. If you break your attunement with the spear, the curse is no longer suppressed.
+
+*Source: The Griffon's Saddlebag, Book 1 p. 99*

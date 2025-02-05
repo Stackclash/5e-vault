@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- compendium/src/5e/hhhviii
+- item/rarity/very-rare
+- item/wondrous/potion
+aliases: 
+- "Potion of the Ice Hunter"
+---
+# Potion of the Ice Hunter
+*Potion, very rare*  
+
+- **Properties**: [Crafted by](/compendium/rules/item-properties.md#Crafted%20by)
+
+When you drink this potion, you become one with the frost and cold, able to move around in it with ease. For the next hour, you have resistance to cold damage, and you cannot be slowed down by snowy or icy terrain. You have advantage on Dexterity ([Stealth](/compendium/rules/skills.md#Stealth)) checks made to hide in snowy or icy terrain, and you have a burrow speed equal to your move speed so long as you are moving through snow or ice. In addition, on your turn you may use your bonus action to imbue your next strike with frosted fury, causing the next successful weapon attack you make on your turn to deal an additional `dice:1d10|noform|avg` (`1d10`) cold damage. This potion is a cloudy white color with pinpricks of icy blue that constantly float and flutter through the liquid.
+
+*Source: Hamund's Harvesting Handbook: Volume III p. 94*

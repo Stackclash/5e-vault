@@ -1,0 +1,77 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: 
+size: Tiny
+tags:
+- compendium/src/5e/kpdm
+- monster/cr/1-4
+- monster/size/tiny
+- monster/type/construct
+aliases: ["Witchlight"]
+---
+# [Witchlight](compendium\bestiary\construct/witchlight-kpdm.md)
+*Source: Deep Magic p. 299*
+
+These tiny constructs that resemble [will-o-wisps](compendium/bestiary/undead/will-o-wisp.md) are similar to [homunculi](compendium/bestiary/construct/homunculus.md), in that they are created (from pieces of quartz) and animated by their creators rather than brought into being by the spell. [Conjurers](compendium/classes/wizard-school-of-conjuration.md) and spellcasters who concentrate on illumination and light magic are the most common masters of these constructs.
+
+## Familiar
+
+If a witchlight agrees to serve another creature as a familiar, it forms a telepathic bond with its master. While the two are bonded, the master can sense what the witchlight senses, as long as they are within 1 mile of each other. While the witchlight is within 10 feet of its master, the master gains the witchlight's immunity to poison damage and the [poisoned](/compendium/rules/conditions.md#Poisoned) condition. If its master causes it physical harm, or if it simply chooses to do so, the witchlight will abandon its service as a familiar, breaking the telepathic bond.
+
+```statblock
+"name": "Witchlight (KPDM)"
+"size": "Tiny"
+"type": "construct"
+"alignment": "Neutral"
+"ac": !!int "14"
+"hp": !!int "10"
+"hit_dice": "4d4"
+"stats":
+- !!int "1"
+- !!int "18"
+- !!int "10"
+- !!int "10"
+- !!int "13"
+- !!int "7"
+"speed": "fly 50 ft."
+"skillsaves":
+  "Perception": !!int "3"
+"damage_immunities": "poison, radiant"
+"condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
+  \ [frightened](/compendium/rules/conditions.md#Frightened), [paralyzed](/compendium/rules/conditions.md#Paralyzed),\
+  \ [petrified](/compendium/rules/conditions.md#Petrified), [poisoned](/compendium/rules/conditions.md#Poisoned)"
+"senses": "darkvision 60 ft., passive Perception 13"
+"languages": "understands the language of its creator but can't speak"
+"cr": "1/4"
+"traits":
+- "desc": "Casting [dispel magic](compendium/spells/dispel-magic.md) on a witchlight\
+    \ paralyzes it for 1d10 rounds."
+  "name": "Dispel Magic Weakness"
+- "desc": "A witchlight normally glows as brightly as a torch. The creature can dim\
+    \ itself to the luminosity of a candle, but it cannot extinguish its light. Because\
+    \ of its glow, the witchlight has disadvantage on Dexterity ([Stealth](/compendium/rules/skills.md#Stealth))\
+    \ checks."
+  "name": "Luminance"
+- "desc": "Although a witchlight is not incorporeal, it can pass through any opening\
+    \ that light can."
+  "name": "Thin as Light"
+"actions":
+- "desc": "Ranged Weapon Attack: +6 to hit, range 30 ft., one target. Hit: 6 (1d4\
+    \ + 4) radiant damage."
+  "name": "Light Ray"
+- "desc": "The witchlight emits a bright burst of light that causes any sighted creature\
+    \ within 30 feet to be [blinded](/compendium/rules/conditions.md#Blinded) for\
+    \ 1d4 rounds unless it succeeds on a DC 10 Constitution saving throw."
+  "name": "Flash (Recharge 5-6)"
+"source":
+- "KPDM"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/ToB/token/Witchlight.png"
+```
+^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

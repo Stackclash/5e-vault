@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-hazard
+tags:
+- compendium/src/5e/kpdm
+- hazard/mag
+aliases: ["Dreamless Slumber"]
+---
+# Dreamless Slumber
+*Magical Trap*  
+
+*Magic school: enchantment*
+
+Sometimes capturing thieves is more important than permanently stopping them, and that was the impetus for creating the dreamless slumber trap, which layers an enchantment over a traditional needle trap on a chest or door. The trap is triggered by touching the chest or door. When that occurs, the creature takes 1 piercing damage and must succeed on a DC 15 Wisdom saving throw or fall into a dreamless, ageless, magical stasis. The stasis remains until it is successfully removed by [dispel magic](compendium/spells/dispel-magic.md) (DC 17) or until three months have passed.
+
+The trap can be detected with a successful DC 15 Intelligence ([Investigation](/compendium/rules/skills.md#Investigation)) check, and disarmed with a successful DC 15 Dexterity check using [thieves' tools](compendium/items/thieves-tools.md).
+
+*Source: Deep Magic p. 347*

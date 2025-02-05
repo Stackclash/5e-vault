@@ -1,0 +1,496 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+tags:
+- spell/list/subclass/eldritch-knight
+aliases: ["Spells for Eldritch Knight"]
+---
+# Spells for Eldritch Knight
+
+## Cantrip
+
+- [Acid Splash](acid-splash "PHB") at class level 19
+- [Acumen](acumen-kpdm "KPDM") at class level 19
+- [Ale-dritch Blast](ale-dritch-blast-kpdm "KPDM") at class level 19
+- [Allure](allure-kpdm "KPDM") at class level 19
+- [Bewilderment](bewilderment-kpdm "KPDM") at class level 19
+- [Biting Arrow](biting-arrow-kpdm "KPDM") at class level 19
+- [Blade Ward](blade-ward "PHB") at class level 19
+- [Blood Tide](blood-tide-kpdm "KPDM") at class level 19
+- [Booming Blade](booming-blade-tce "TCE") at class level 19
+- [Brawn Boost](brawn-boost-kpdm "KPDM") at class level 19
+- [Brimstone Infusion](brimstone-infusion-kpdm "KPDM") at class level 19
+- [Caustic Touch](caustic-touch-kpdm "KPDM") at class level 19
+- [Chill Touch](chill-touch "PHB") at class level 19
+- [Claws of Darkness](claws-of-darkness-kpdm "KPDM") at class level 19
+- [Clockwork Bolt](clockwork-bolt-kpdm "KPDM") at class level 19
+- [Control Flames](control-flames-xge "XGE") at class level 19
+- [Create Bonfire](create-bonfire-xge "XGE") at class level 19
+- [Crushing Curse](crushing-curse-kpdm "KPDM") at class level 19
+- [Dancing Lights](dancing-lights "PHB") at class level 19
+- [Dark Maw](dark-maw-kpdm "KPDM") at class level 19
+- [Decay](decay-kpdm "KPDM") at class level 19
+- [Douse Light](douse-light-kpdm "KPDM") at class level 19
+- [Dragon Roar](dragon-roar-kpdm "KPDM") at class level 19
+- [Encrypt / Decrypt](encrypt-decrypt-kpdm "KPDM") at class level 19
+- [Enumerate](enumerate-kpdm "KPDM") at class level 19
+- [Exceptional Wit](exceptional-wit-kpdm "KPDM") at class level 19
+- [Fire Bolt](fire-bolt "PHB") at class level 19
+- [Fortitude](fortitude-kpdm "KPDM") at class level 19
+- [Frailty](frailty-kpdm "KPDM") at class level 19
+- [Friends](friends "PHB") at class level 19
+- [Frostbite](frostbite-xge "XGE") at class level 19
+- [Green-Flame Blade](green-flame-blade-tce "TCE") at class level 19
+- [Gust](gust-xge "XGE") at class level 19
+- [Hamstring](hamstring-kpdm "KPDM") at class level 19
+- [Hand of Doom](hand-of-doom-kpdm "KPDM") at class level 19
+- [Hoarfrost](hoarfrost-kpdm "KPDM") at class level 19
+- [Hobble](hobble-kpdm "KPDM") at class level 19
+- [Impotence](impotence-kpdm "KPDM") at class level 19
+- [Infestation](infestation-xge "XGE") at class level 19
+- [Light](light "PHB") at class level 19
+- [Lightning Lure](lightning-lure-tce "TCE") at class level 19
+- [Mage Hand](mage-hand "PHB") at class level 19
+- [Mending](mending "PHB") at class level 19
+- [Message](message "PHB") at class level 19
+- [Mind Sliver](mind-sliver-tce "TCE") at class level 19
+- [Minor Illusion](minor-illusion "PHB") at class level 19
+- [Misstep](misstep-kpdm "KPDM") at class level 19
+- [Mold Earth](mold-earth-xge "XGE") at class level 19
+- [Nimbleness](nimbleness-kpdm "KPDM") at class level 19
+- [Obtuse](obtuse-kpdm "KPDM") at class level 19
+- [Poison Spray](poison-spray "PHB") at class level 19
+- [Prestidigitation](prestidigitation "PHB") at class level 19
+- [Pummelstone](pummelstone-kpdm "KPDM") at class level 19
+- [Ray of Frost](ray-of-frost "PHB") at class level 19
+- [Scribe](scribe-kpdm "KPDM") at class level 19
+- [Shadow Bite](shadow-bite-kpdm "KPDM") at class level 19
+- [Shadow Blindness](shadow-blindness-kpdm "KPDM") at class level 19
+- [Shape Water](shape-water-xge "XGE") at class level 19
+- [Shiver](shiver-kpdm "KPDM") at class level 19
+- [Shocking Grasp](shocking-grasp "PHB") at class level 19
+- [Sword Burst](sword-burst-tce "TCE") at class level 19
+- [Thunderclap](thunderclap-xge "XGE") at class level 19
+- [Toll the Dead](toll-the-dead-xge "XGE") at class level 19
+- [True Strike](true-strike "PHB") at class level 19
+- [Uncanny Avoidance](uncanny-avoidance-kpdm "KPDM") at class level 19
+- [Wind Lash](wind-lash-kpdm "KPDM") at class level 19
+- [Word of Misfortune](word-of-misfortune-kpdm "KPDM") at class level 19
+
+## 1st Level
+
+- [Absorb Elements](absorb-elements-xge "XGE") at class level 19
+- [Adjust Position](adjust-position-kpdm "KPDM") at class level 19
+- [Agonizing Mark](agonizing-mark-kpdm "KPDM") at class level 19
+- [Alarm](alarm "PHB") at class level 19
+- [Alter Arrow's Fortune](alter-arrows-fortune-kpdm "KPDM") at class level 19
+- [Analyze Device](analyze-device-kpdm "KPDM") at class level 19
+- [Angelic Guardian](angelic-guardian-kpdm "KPDM") at class level 19
+- [Anticipate Weakness](anticipate-weakness-kpdm "KPDM") at class level 19
+- [Auspicious Warning](auspicious-warning-kpdm "KPDM") at class level 19
+- [Avoid Grievous Injury](avoid-grievous-injury-kpdm "KPDM") at class level 19
+- [Black Ribbons](black-ribbons-kpdm "KPDM") at class level 19
+- [Bloodhound](bloodhound-kpdm "KPDM") at class level 19
+- [Bloody Hands](bloody-hands-kpdm "KPDM") at class level 19
+- [Bolster Undead](bolster-undead-kpdm "KPDM") at class level 19
+- [Brimstone](brimstone-kpdm "KPDM") at class level 19
+- [Broken Charge](broken-charge-kpdm "KPDM") at class level 19
+- [Burning Hands](burning-hands "PHB") at class level 19
+- [Candle's Insight](candles-insight-kpdm "KPDM") at class level 19
+- [Catapult](catapult-xge "XGE") at class level 19
+- [Cause Fear](cause-fear-xge "XGE") at class level 19
+- [Charm Person](charm-person "PHB") at class level 19
+- [Charm of Long Standing](charm-of-long-standing-kpdm "KPDM") at class level 19
+- [Chromatic Orb](chromatic-orb "PHB") at class level 19
+- [Circle of Wind](circle-of-wind-kpdm "KPDM") at class level 19
+- [Cloak of Shadow](cloak-of-shadow-kpdm "KPDM") at class level 19
+- [Color Spray](color-spray "PHB") at class level 19
+- [Comprehend Languages](comprehend-languages "PHB") at class level 19
+- [Converse with Dragon](converse-with-dragon-kpdm "KPDM") at class level 19
+- [Deep Breath](deep-breath-kpdm "KPDM") at class level 19
+- [Detect Magic](detect-magic "PHB") at class level 19
+- [Disguise Self](disguise-self "PHB") at class level 19
+- [Earth Tremor](earth-tremor-xge "XGE") at class level 19
+- [Expeditious Retreat](expeditious-retreat "PHB") at class level 19
+- [Extract Essence](extract-essence-kpdm "KPDM") at class level 19
+- [False Life](false-life "PHB") at class level 19
+- [Feather Fall](feather-fall "PHB") at class level 19
+- [Find Familiar](find-familiar "PHB") at class level 19
+- [Fog Cloud](fog-cloud "PHB") at class level 19
+- [Forest Affinity](forest-affinity-kpdm "KPDM") at class level 19
+- [Foretell Distraction](foretell-distraction-kpdm "KPDM") at class level 19
+- [Freeze Potion](freeze-potion-kpdm "KPDM") at class level 19
+- [Gordolay's Pleasant Aroma](gordolays-pleasant-aroma-kpdm "KPDM") at class level 19
+- [Grease](grease "PHB") at class level 19
+- [Guest of Honor](guest-of-honor-kpdm "KPDM") at class level 19
+- [Guiding Star](guiding-star-kpdm "KPDM") at class level 19
+- [Hamund's Harvesting Hands](hamunds-harvesting-hands-hhhvii "HHHVII") at class level 19
+- [Hard Heart](hard-heart-kpdm "KPDM") at class level 19
+- [Heart to Heart](heart-to-heart-kpdm "KPDM") at class level 19
+- [Hobble Mount](hobble-mount-kpdm "KPDM") at class level 19
+- [Ice Knife](ice-knife-xge "XGE") at class level 19
+- [Icicle Daggers](icicle-daggers-kpdm "KPDM") at class level 19
+- [Identify](identify "PHB") at class level 19
+- [Identify Vitals](identify-vitals-hhhvii "HHHVII") at class level 19
+- [Ill-fated Word](ill-fated-word-kpdm "KPDM") at class level 19
+- [Illusory Script](illusory-script "PHB") at class level 19
+- [Insightful Maneuver](insightful-maneuver-kpdm "KPDM") at class level 19
+- [Jump](jump "PHB") at class level 19
+- [Kobold's Fury](kobolds-fury-kpdm "KPDM") at class level 19
+- [Longstrider](longstrider "PHB") at class level 19
+- [Mage Armor](mage-armor "PHB") at class level 19
+- [Magic Missile](magic-missile "PHB") at class level 19
+- [Pendulum](pendulum-kpdm "KPDM") at class level 19
+- [Protection from Evil and Good](protection-from-evil-and-good "PHB") at class level 19
+- [Ray of Sickness](ray-of-sickness "PHB") at class level 19
+- [Ring Strike](ring-strike-kpdm "KPDM") at class level 19
+- [Roaming Pain](roaming-pain-kpdm "KPDM") at class level 19
+- [Scentless](scentless-kpdm "KPDM") at class level 19
+- [Screaming Ray](screaming-ray-kpdm "KPDM") at class level 19
+- [Seer's Reaction](seers-reaction-kpdm "KPDM") at class level 19
+- [Shadow Armor](shadow-armor-kpdm "KPDM") at class level 19
+- [Shield](shield "PHB") at class level 19
+- [Silent Image](silent-image "PHB") at class level 19
+- [Sleep](sleep "PHB") at class level 19
+- [Slippery Fingers](slippery-fingers-kpdm "KPDM") at class level 19
+- [Snare](snare-xge "XGE") at class level 19
+- [Speak with Inanimate Object](speak-with-inanimate-object-kpdm "KPDM") at class level 19
+- [Stanch](stanch-kpdm "KPDM") at class level 19
+- [Tasha's Caustic Brew](tashas-caustic-brew-tce "TCE") at class level 19
+- [Tasha's Hideous Laughter](tashas-hideous-laughter "PHB") at class level 19
+- [Tenser's Floating Disk](tensers-floating-disk "PHB") at class level 19
+- [Thin the Ice](thin-the-ice-kpdm "KPDM") at class level 19
+- [Thunderous Charge](thunderous-charge-kpdm "KPDM") at class level 19
+- [Thunderwave](thunderwave "PHB") at class level 19
+- [Tireless](tireless-kpdm "KPDM") at class level 19
+- [Twist the Skein](twist-the-skein-kpdm "KPDM") at class level 19
+- [Unluck on That](unluck-on-that-kpdm "KPDM") at class level 19
+- [Unseen Servant](unseen-servant "PHB") at class level 19
+- [Weapon of Blood](weapon-of-blood-kpdm "KPDM") at class level 19
+- [Wind Tunnel](wind-tunnel-kpdm "KPDM") at class level 19
+- [Witch Bolt](witch-bolt "PHB") at class level 19
+- [Withered Sight](withered-sight-kpdm "KPDM") at class level 19
+- [Writhing Arms](writhing-arms-kpdm "KPDM") at class level 19
+
+## 2nd Level
+
+- [Aganazzar's Scorcher](aganazzars-scorcher-xge "XGE") at class level 19
+- [Alter Self](alter-self "PHB") at class level 19
+- [Althea's Travel Tent](altheas-travel-tent-kpdm "KPDM") at class level 19
+- [Animate Ghoul](animate-ghoul-kpdm "KPDM") at class level 19
+- [Arcane Lock](arcane-lock "PHB") at class level 19
+- [As You Were](as-you-were-kpdm "KPDM") at class level 19
+- [Augury](augury "PHB") at class level 19
+- [Bad Timing](bad-timing-kpdm "KPDM") at class level 19
+- [Bitter Chains](bitter-chains-kpdm "KPDM") at class level 19
+- [Bleating Call](bleating-call-kpdm "KPDM") at class level 19
+- [Blessed Halo](blessed-halo-kpdm "KPDM") at class level 19
+- [Blindness/Deafness](blindness-deafness "PHB") at class level 19
+- [Blood Lure](blood-lure-kpdm "KPDM") at class level 19
+- [Bloodshot](bloodshot-kpdm "KPDM") at class level 19
+- [Blur](blur "PHB") at class level 19
+- [Boiling Oil](boiling-oil-kpdm "KPDM") at class level 19
+- [Boreas's Breath](boreass-breath-kpdm "KPDM") at class level 19
+- [By the Light of the Moon](by-the-light-of-the-moon-kpdm "KPDM") at class level 19
+- [Caustic Blood](caustic-blood-kpdm "KPDM") at class level 19
+- [Chaotic Vitality](chaotic-vitality-kpdm "KPDM") at class level 19
+- [Charm of Great Fondness](charm-of-great-fondness-kpdm "KPDM") at class level 19
+- [Cloak of Fiendish Menace](cloak-of-fiendish-menace-kpdm "KPDM") at class level 19
+- [Cloud of Daggers](cloud-of-daggers "PHB") at class level 19
+- [Continual Flame](continual-flame "PHB") at class level 19
+- [Creeping Ice](creeping-ice-kpdm "KPDM") at class level 19
+- [Crown of Madness](crown-of-madness "PHB") at class level 19
+- [Daggerhawk](daggerhawk-kpdm "KPDM") at class level 19
+- [Darkness](darkness "PHB") at class level 19
+- [Darkvision](darkvision "PHB") at class level 19
+- [Dead Walking](dead-walking-kpdm "KPDM") at class level 19
+- [Delay Potion](delay-potion-kpdm "KPDM") at class level 19
+- [Destructive Resonance](destructive-resonance-kpdm "KPDM") at class level 19
+- [Detect Dragons](detect-dragons-kpdm "KPDM") at class level 19
+- [Detect Thoughts](detect-thoughts "PHB") at class level 19
+- [Discern Weakness](discern-weakness-kpdm "KPDM") at class level 19
+- [Doom of Consuming Fire](doom-of-consuming-fire-kpdm "KPDM") at class level 19
+- [Dragon's Breath](dragons-breath-xge "XGE") at class level 19
+- [Dust Devil](dust-devil-xge "XGE") at class level 19
+- [Earthbind](earthbind-xge "XGE") at class level 19
+- [Elemental Horns](elemental-horns-kpdm "KPDM") at class level 19
+- [Enhance Ability](enhance-ability "PHB") at class level 19
+- [Enhance Greed](enhance-greed-kpdm "KPDM") at class level 19
+- [Enlarge/Reduce](enlarge-reduce "PHB") at class level 19
+- [Entomb in Ice](entomb-in-ice-kpdm "KPDM") at class level 19
+- [Feather Travel](feather-travel-kpdm "KPDM") at class level 19
+- [Fire Darts](fire-darts-kpdm "KPDM") at class level 19
+- [Flaming Sphere](flaming-sphere "PHB") at class level 19
+- [Gentle Repose](gentle-repose "PHB") at class level 19
+- [Gift of Resilience](gift-of-resilience-kpdm "KPDM") at class level 19
+- [Glyph of Shifting](glyph-of-shifting-kpdm "KPDM") at class level 19
+- [Greater Analyze Device](greater-analyze-device-kpdm "KPDM") at class level 19
+- [Gust of Wind](gust-of-wind "PHB") at class level 19
+- [Hamund's Herbal Hypodermic](hamunds-herbal-hypodermic-hhbh "HHbH") at class level 19
+- [Heartache](heartache-kpdm "KPDM") at class level 19
+- [Heartstop](heartstop-kpdm "KPDM") at class level 19
+- [Hold Person](hold-person "PHB") at class level 19
+- [Holy Warding](holy-warding-kpdm "KPDM") at class level 19
+- [Hypnotic Missive](hypnotic-missive-kpdm "KPDM") at class level 19
+- [Indecision](indecision-kpdm "KPDM") at class level 19
+- [Invisibility](invisibility "PHB") at class level 19
+- [Jerilyn's Cadaverous Uprising](jerilyns-cadaverous-uprising-kpdm "KPDM") at class level 19
+- [Kavelin's Instant Aerosol](kavelins-instant-aerosol-kpdm "KPDM") at class level 19
+- [Knock](knock "PHB") at class level 19
+- [Lacerate](lacerate-kpdm "KPDM") at class level 19
+- [Lair Sense](lair-sense-kpdm "KPDM") at class level 19
+- [Levitate](levitate "PHB") at class level 19
+- [Locate Object](locate-object "PHB") at class level 19
+- [Magic Mouth](magic-mouth "PHB") at class level 19
+- [Magic Weapon](magic-weapon "PHB") at class level 19
+- [Maximilian's Earthen Grasp](maximilians-earthen-grasp-xge "XGE") at class level 19
+- [Melf's Acid Arrow](melfs-acid-arrow "PHB") at class level 19
+- [Mephitic Croak](mephitic-croak-kpdm "KPDM") at class level 19
+- [Mind Spike](mind-spike-xge "XGE") at class level 19
+- [Mirror Image](mirror-image "PHB") at class level 19
+- [Mist of Wonders](mist-of-wonders-kpdm "KPDM") at class level 19
+- [Misty Step](misty-step "PHB") at class level 19
+- [Negative Image](negative-image-kpdm "KPDM") at class level 19
+- [Nystul's Magic Aura](nystuls-magic-aura "PHB") at class level 19
+- [Orb of Light](orb-of-light-kpdm "KPDM") at class level 19
+- [Phantasmal Force](phantasmal-force "PHB") at class level 19
+- [Plaguebearer](plaguebearer-kpdm "KPDM") at class level 19
+- [Power Word Kneel](power-word-kneel-kpdm "KPDM") at class level 19
+- [Pyrotechnics](pyrotechnics-xge "XGE") at class level 19
+- [Ray of Enfeeblement](ray-of-enfeeblement "PHB") at class level 19
+- [Reverberate](reverberate-kpdm "KPDM") at class level 19
+- [Rolling Thunder](rolling-thunder-kpdm "KPDM") at class level 19
+- [Rope Trick](rope-trick "PHB") at class level 19
+- [Scorching Ray](scorching-ray "PHB") at class level 19
+- [Sculpt Snow](sculpt-snow-kpdm "KPDM") at class level 19
+- [See Invisibility](see-invisibility "PHB") at class level 19
+- [Shadow Blade](shadow-blade-xge "XGE") at class level 19
+- [Shadow Puppets](shadow-puppets-kpdm "KPDM") at class level 19
+- [Shatter](shatter "PHB") at class level 19
+- [Sheen of Ice](sheen-of-ice-kpdm "KPDM") at class level 19
+- [Shifting the Odds](shifting-the-odds-kpdm "KPDM") at class level 19
+- [Skywrite](skywrite-xge "XGE") at class level 19
+- [Slither](slither-kpdm "KPDM") at class level 19
+- [Snilloc's Snowball Swarm](snillocs-snowball-swarm-xge "XGE") at class level 19
+- [Snow Fort](snow-fort-kpdm "KPDM") at class level 19
+- [Solitary Fireball](solitary-fireball-kpdm "KPDM") at class level 19
+- [Spider Climb](spider-climb "PHB") at class level 19
+- [Spin](spin-kpdm "KPDM") at class level 19
+- [Spy My Shadow](spy-my-shadow-kpdm "KPDM") at class level 19
+- [Suggestion](suggestion "PHB") at class level 19
+- [Tasha's Mind Whip](tashas-mind-whip-tce "TCE") at class level 19
+- [Thunderous Stampede](thunderous-stampede-kpdm "KPDM") at class level 19
+- [Timely Distraction](timely-distraction-kpdm "KPDM") at class level 19
+- [Transfusion](transfusion-hhhvii "HHHVII") at class level 19
+- [Trench](trench-kpdm "KPDM") at class level 19
+- [Vine Trestle](vine-trestle-kpdm "KPDM") at class level 19
+- [Vomit Tentacles](vomit-tentacles-kpdm "KPDM") at class level 19
+- [Warding Wind](warding-wind-xge "XGE") at class level 19
+- [Warning Shout](warning-shout-kpdm "KPDM") at class level 19
+- [Web](web "PHB") at class level 19
+- [Weiler's Ward](weilers-ward-kpdm "KPDM") at class level 19
+
+## 3rd Level
+
+- [Alone](alone-kpdm "KPDM") at class level 19
+- [Animate Dead](animate-dead "PHB") at class level 19
+- [Anticipate Arcana](anticipate-arcana-kpdm "KPDM") at class level 19
+- [Aspect of the Serpent](aspect-of-the-serpent-kpdm "KPDM") at class level 19
+- [Bestow Curse](bestow-curse "PHB") at class level 19
+- [Blink](blink "PHB") at class level 19
+- [Blood Offering](blood-offering-kpdm "KPDM") at class level 19
+- [Breeze Compass](breeze-compass-kpdm "KPDM") at class level 19
+- [Calm of the Storm](calm-of-the-storm-kpdm "KPDM") at class level 19
+- [Catch the Breath](catch-the-breath-kpdm "KPDM") at class level 19
+- [Catnap](catnap-xge "XGE") at class level 19
+- [Chains of Perdition](chains-of-perdition-kpdm "KPDM") at class level 19
+- [Chilling Words](chilling-words-kpdm "KPDM") at class level 19
+- [Clairvoyance](clairvoyance "PHB") at class level 19
+- [Closing In](closing-in-kpdm "KPDM") at class level 19
+- [Compelled Movement](compelled-movement-kpdm "KPDM") at class level 19
+- [Compelling Fate](compelling-fate-kpdm "KPDM") at class level 19
+- [Confound Senses](confound-senses-kpdm "KPDM") at class level 19
+- [Counterspell](counterspell "PHB") at class level 19
+- [Curse of Hostility](curse-of-hostility-kpdm "KPDM") at class level 19
+- [Curse of Incompetence](curse-of-incompetence-kpdm "KPDM") at class level 19
+- [Deep Focus](deep-focus-kpdm "KPDM") at class level 19
+- [Demon Within](demon-within-kpdm "KPDM") at class level 19
+- [Dispel Magic](dispel-magic "PHB") at class level 19
+- [Doom of Dancing Blades](doom-of-dancing-blades-kpdm "KPDM") at class level 19
+- [Doom of Disenchantment](doom-of-disenchantment-kpdm "KPDM") at class level 19
+- [Dragon's Pride](dragons-pride-kpdm "KPDM") at class level 19
+- [Drown](drown-kpdm "KPDM") at class level 19
+- [Enemies Abound](enemies-abound-xge "XGE") at class level 19
+- [Entropic Damage Field](entropic-damage-field-kpdm "KPDM") at class level 19
+- [Erupting Earth](erupting-earth-xge "XGE") at class level 19
+- [Fear](fear "PHB") at class level 19
+- [Feign Death](feign-death "PHB") at class level 19
+- [Fireball](fireball "PHB") at class level 19
+- [Flame Arrows](flame-arrows-xge "XGE") at class level 19
+- [Fly](fly "PHB") at class level 19
+- [Freeze Blood](freeze-blood-kpdm "KPDM") at class level 19
+- [Gaseous Form](gaseous-form "PHB") at class level 19
+- [Glimpse the End](glimpse-the-end-kpdm "KPDM") at class level 19
+- [Gloomwrought Barrier](gloomwrought-barrier-kpdm "KPDM") at class level 19
+- [Gluey Globule](gluey-globule-kpdm "KPDM") at class level 19
+- [Glyph of Warding](glyph-of-warding "PHB") at class level 19
+- [Going in Circles](going-in-circles-kpdm "KPDM") at class level 19
+- [Haste](haste "PHB") at class level 19
+- [Hedren's Birds of Clay](hedrens-birds-of-clay-kpdm "KPDM") at class level 19
+- [Hematomancy](hematomancy-kpdm "KPDM") at class level 19
+- [Herbal Infusion](herbal-infusion-hhbh "HHbH") at class level 19
+- [Hypnotic Pattern](hypnotic-pattern "PHB") at class level 19
+- [Ice Burn](ice-burn-kpdm "KPDM") at class level 19
+- [Impending Ally](impending-ally-kpdm "KPDM") at class level 19
+- [Innocuous Aspect](innocuous-aspect-kpdm "KPDM") at class level 19
+- [Intellect Fortress](intellect-fortress-tce "TCE") at class level 19
+- [Jeweled Fissure](jeweled-fissure-kpdm "KPDM") at class level 19
+- [Legion](legion-kpdm "KPDM") at class level 19
+- [Leomund's Tiny Hut](leomunds-tiny-hut "PHB") at class level 19
+- [Lesser Maze](lesser-maze-kpdm "KPDM") at class level 19
+- [Life Transference](life-transference-xge "XGE") at class level 19
+- [Lightning Bolt](lightning-bolt "PHB") at class level 19
+- [Magic Circle](magic-circle "PHB") at class level 19
+- [Major Image](major-image "PHB") at class level 19
+- [Mass Hobble Mount](mass-hobble-mount-kpdm "KPDM") at class level 19
+- [Melf's Minute Meteors](melfs-minute-meteors-xge "XGE") at class level 19
+- [Mire](mire-kpdm "KPDM") at class level 19
+- [Nest of Infernal Vipers](nest-of-infernal-vipers-kpdm "KPDM") at class level 19
+- [Nondetection](nondetection "PHB") at class level 19
+- [Opportunistic Foresight](opportunistic-foresight-kpdm "KPDM") at class level 19
+- [Outflanking Boon](outflanking-boon-kpdm "KPDM") at class level 19
+- [Phantom Dragon](phantom-dragon-kpdm "KPDM") at class level 19
+- [Phantom Steed](phantom-steed "PHB") at class level 19
+- [Phase Bolt](phase-bolt-kpdm "KPDM") at class level 19
+- [Portal Jaunt](portal-jaunt-kpdm "KPDM") at class level 19
+- [Protection from Energy](protection-from-energy "PHB") at class level 19
+- [Protective Nimbus](protective-nimbus-kpdm "KPDM") at class level 19
+- [Recomposition](recomposition-hhhvii "HHHVII") at class level 19
+- [Remove Curse](remove-curse "PHB") at class level 19
+- [Riptide](riptide-kpdm "KPDM") at class level 19
+- [Rune of Imprisonment](rune-of-imprisonment-kpdm "KPDM") at class level 19
+- [Salt Lash](salt-lash-kpdm "KPDM") at class level 19
+- [Sending](sending "PHB") at class level 19
+- [Shadow Tendrils](shadow-tendrils-kpdm "KPDM") at class level 19
+- [Shield of Starlight](shield-of-starlight-kpdm "KPDM") at class level 19
+- [Sidestep Arrow](sidestep-arrow-kpdm "KPDM") at class level 19
+- [Sir Mittinz's Move Curse](sir-mittinzs-move-curse-kpdm "KPDM") at class level 19
+- [Sleet Storm](sleet-storm "PHB") at class level 19
+- [Slow](slow "PHB") at class level 19
+- [Speak with Dead](speak-with-dead "PHB") at class level 19
+- [Spirit Shroud](spirit-shroud-tce "TCE") at class level 19
+- [Spiteful Weapon](spiteful-weapon-kpdm "KPDM") at class level 19
+- [Steal Warmth](steal-warmth-kpdm "KPDM") at class level 19
+- [Stinking Cloud](stinking-cloud "PHB") at class level 19
+- [Summon Fey](summon-fey-tce "TCE") at class level 19
+- [Summon Lesser Demons](summon-lesser-demons-xge "XGE") at class level 19
+- [Summon Shadowspawn](summon-shadowspawn-tce "TCE") at class level 19
+- [Summon Undead](summon-undead-tce "TCE") at class level 19
+- [Surge Dampener](surge-dampener-kpdm "KPDM") at class level 19
+- [Thousand Darts](thousand-darts-kpdm "KPDM") at class level 19
+- [Throes of Ecstasy](throes-of-ecstasy-kpdm "KPDM") at class level 19
+- [Thunder Step](thunder-step-xge "XGE") at class level 19
+- [Thunderous Wave](thunderous-wave-kpdm "KPDM") at class level 19
+- [Tidal Wave](tidal-wave-xge "XGE") at class level 19
+- [Tiny Servant](tiny-servant-xge "XGE") at class level 19
+- [Tongue of Sand](tongue-of-sand-kpdm "KPDM") at class level 19
+- [Tongues](tongues "PHB") at class level 19
+- [Touch of the Unliving](touch-of-the-unliving-kpdm "KPDM") at class level 19
+- [Tracking Beacon](tracking-beacon-kpdm "KPDM") at class level 19
+- [Vampiric Touch](vampiric-touch "PHB") at class level 19
+- [Void Strike](void-strike-kpdm "KPDM") at class level 19
+- [Wall of Sand](wall-of-sand-xge "XGE") at class level 19
+- [Wall of Water](wall-of-water-xge "XGE") at class level 19
+- [Water Breathing](water-breathing "PHB") at class level 19
+- [Wave of Corruption](wave-of-corruption-kpdm "KPDM") at class level 19
+
+## 4th Level
+
+- [Abhorrent Apparition](abhorrent-apparition-kpdm "KPDM") at class level 19
+- [Arcane Eye](arcane-eye "PHB") at class level 19
+- [Banishment](banishment "PHB") at class level 19
+- [Black Hand](black-hand-kpdm "KPDM") at class level 19
+- [Blight](blight "PHB") at class level 19
+- [Blood Puppet](blood-puppet-kpdm "KPDM") at class level 19
+- [Blood and Steel](blood-and-steel-kpdm "KPDM") at class level 19
+- [Boiling Blood](boiling-blood-kpdm "KPDM") at class level 19
+- [Brittling](brittling-kpdm "KPDM") at class level 19
+- [By the Light of the Watchful Moon](by-the-light-of-the-watchful-moon-kpdm "KPDM") at class level 19
+- [Caustic Waste](caustic-waste-kpdm "KPDM") at class level 19
+- [Chaotic Form](chaotic-form-kpdm "KPDM") at class level 19
+- [Charm Monster](charm-monster-xge "XGE") at class level 19
+- [Cold Storage](cold-storage-hhhvii "HHHVII") at class level 19
+- [Confusion](confusion "PHB") at class level 19
+- [Conjure Fiends](conjure-fiends-kpdm "KPDM") at class level 19
+- [Conjure Minor Elementals](conjure-minor-elementals "PHB") at class level 19
+- [Control Water](control-water "PHB") at class level 19
+- [Cursed Gift](cursed-gift-kpdm "KPDM") at class level 19
+- [Deep Freeze](deep-freeze-kpdm "KPDM") at class level 19
+- [Desiccating Breath](desiccating-breath-kpdm "KPDM") at class level 19
+- [Deva's Wings](devas-wings-kpdm "KPDM") at class level 19
+- [Dimension Door](dimension-door "PHB") at class level 19
+- [Distressing Resonance](distressing-resonance-kpdm "KPDM") at class level 19
+- [Divination](divination "PHB") at class level 19
+- [Dread Wings](dread-wings-kpdm "KPDM") at class level 19
+- [Earthskimmer](earthskimmer-kpdm "KPDM") at class level 19
+- [Elemental Bane](elemental-bane-xge "XGE") at class level 19
+- [Energy Foreknowledge](energy-foreknowledge-kpdm "KPDM") at class level 19
+- [Evard's Black Tentacles](evards-black-tentacles "PHB") at class level 19
+- [Evercold](evercold-kpdm "KPDM") at class level 19
+- [Fabricate](fabricate "PHB") at class level 19
+- [Fire Shield](fire-shield "PHB") at class level 19
+- [Flame Wave](flame-wave-kpdm "KPDM") at class level 19
+- [Fluctuating Alignment](fluctuating-alignment-kpdm "KPDM") at class level 19
+- [Fog of War](fog-of-war-kpdm "KPDM") at class level 19
+- [Fusillade of Ice](fusillade-of-ice-kpdm "KPDM") at class level 19
+- [Giant's Jest](giants-jest-kpdm "KPDM") at class level 19
+- [Greater Invisibility](greater-invisibility "PHB") at class level 19
+- [Hallucinatory Terrain](hallucinatory-terrain "PHB") at class level 19
+- [Harry](harry-kpdm "KPDM") at class level 19
+- [Ice Storm](ice-storm "PHB") at class level 19
+- [Instant Siege Weapon](instant-siege-weapon-kpdm "KPDM") at class level 19
+- [Lava Stone](lava-stone-kpdm "KPDM") at class level 19
+- [Leomund's Secret Chest](leomunds-secret-chest "PHB") at class level 19
+- [Locate Creature](locate-creature "PHB") at class level 19
+- [Looping Trail](looping-trail-kpdm "KPDM") at class level 19
+- [Mordenkainen's Faithful Hound](mordenkainens-faithful-hound "PHB") at class level 19
+- [Mordenkainen's Private Sanctum](mordenkainens-private-sanctum "PHB") at class level 19
+- [Nether Weapon](nether-weapon-kpdm "KPDM") at class level 19
+- [Not Dead Yet](not-dead-yet-kpdm "KPDM") at class level 19
+- [Otiluke's Resilient Sphere](otilukes-resilient-sphere "PHB") at class level 19
+- [Overwhelming Greed](overwhelming-greed-kpdm "KPDM") at class level 19
+- [Phantasmal Killer](phantasmal-killer "PHB") at class level 19
+- [Polymorph](polymorph "PHB") at class level 19
+- [Power Word Pain](power-word-pain-kpdm "KPDM") at class level 19
+- [Quicksilver Mantle](quicksilver-mantle-kpdm "KPDM") at class level 19
+- [Ray of Alchemical Negation](ray-of-alchemical-negation-kpdm "KPDM") at class level 19
+- [Ray of Life Suppression](ray-of-life-suppression-kpdm "KPDM") at class level 19
+- [Reposition](reposition-kpdm "KPDM") at class level 19
+- [Reset](reset-kpdm "KPDM") at class level 19
+- [Sacrificial Healing](sacrificial-healing-kpdm "KPDM") at class level 19
+- [Sand Ship](sand-ship-kpdm "KPDM") at class level 19
+- [Scale Rot](scale-rot-kpdm "KPDM") at class level 19
+- [Scry Ambush](scry-ambush-kpdm "KPDM") at class level 19
+- [Searing Sun](searing-sun-kpdm "KPDM") at class level 19
+- [Shadow Monsters](shadow-monsters-kpdm "KPDM") at class level 19
+- [Shadow Step](shadow-step-kpdm "KPDM") at class level 19
+- [Shocking Shroud](shocking-shroud-kpdm "KPDM") at class level 19
+- [Shroud of Death](shroud-of-death-kpdm "KPDM") at class level 19
+- [Sickening Radiance](sickening-radiance-xge "XGE") at class level 19
+- [Spinning Axes](spinning-axes-kpdm "KPDM") at class level 19
+- [Staff of Violet Fire](staff-of-violet-fire-kpdm "KPDM") at class level 19
+- [Steam Blast](steam-blast-kpdm "KPDM") at class level 19
+- [Stone Shape](stone-shape "PHB") at class level 19
+- [Stoneskin](stoneskin "PHB") at class level 19
+- [Storm Sphere](storm-sphere-xge "XGE") at class level 19
+- [Summon Aberration](summon-aberration-tce "TCE") at class level 19
+- [Summon Construct](summon-construct-tce "TCE") at class level 19
+- [Summon Elemental](summon-elemental-tce "TCE") at class level 19
+- [Summon Greater Demon](summon-greater-demon-xge "XGE") at class level 19
+- [Time Vortex](time-vortex-kpdm "KPDM") at class level 19
+- [Visage of Madness](visage-of-madness-kpdm "KPDM") at class level 19
+- [Visage of the Dead](visage-of-the-dead-kpdm "KPDM") at class level 19
+- [Vitriolic Sphere](vitriolic-sphere-xge "XGE") at class level 19
+- [Wall of Fire](wall-of-fire "PHB") at class level 19
+- [Watery Sphere](watery-sphere-xge "XGE") at class level 19
+- [Wintry Glide](wintry-glide-kpdm "KPDM") at class level 19

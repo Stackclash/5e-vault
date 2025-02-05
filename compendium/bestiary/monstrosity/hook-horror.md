@@ -1,0 +1,79 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: underdark
+size: Large
+tags:
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/environment/underdark
+- monster/size/large
+- monster/type/monstrosity
+aliases: ["Hook Horror"]
+---
+# [Hook Horror](compendium\bestiary\monstrosity/hook-horror.md)
+*Source: Monster Manual p. 189*
+
+A fierce predator of the Underdark, the hook horror aggressively defends its hunting grounds. The subterranean caverns where these creatures dwell echo with the constant clacking and scraping of their hooks as they wend their way up cliffs and along cavern walls. The monstrous hook horror has a head resembling a vulture's and the torso of an enormous beetle, with an exoskeleton studded by sharp, bony protuberances. It gains its name from its long, powerfully built arms and legs, which end in wickedly curved hooked claws.
+
+## Echoes in the Dark
+
+Hook horrors communicate by striking their hooks against their exoskeletons or the stone surfaces around them. What sounds to others like random clacking noise is actually a complex language that only hook horrors understand, and which carries for miles through the echoing Underdark.
+
+## Pack Predators
+
+The omnivorous hook horrors eat lichens, fungi, plants, and any creature they can catch. A hook horror's hooked limbs give it excellent purchase on rock surfaces, and these creatures use their climbing skills to ambush prey from above. They hunt in packs, working together against the largest and most dangerous opponents. If a battle goes poorly, a hook horror quickly climbs a cavern wall to flee.
+
+## Dedicated Clans
+
+Hook horrors live in extended family groups or clans. Each clan is ruled by the eldest female, who typically places her mate in charge of the clan's hunters. Hook horrors lay eggs, which are clustered in a central, well-defended area of a clan's home caverns.
+
+```statblock
+"name": "Hook Horror"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Neutral"
+"ac": !!int "15"
+"ac_class": "natural armor"
+"hp": !!int "75"
+"hit_dice": "10d10 + 20"
+"stats":
+- !!int "18"
+- !!int "10"
+- !!int "15"
+- !!int "6"
+- !!int "12"
+- !!int "7"
+"speed": "30 ft., climb 30 ft."
+"skillsaves":
+  "Perception": !!int "3"
+"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 13"
+"languages": "Hook Horror"
+"cr": "3"
+"traits":
+- "desc": "The hook horror can't use its blindsight while [deafened](/compendium/rules/conditions.md#Deafened)."
+  "name": "Echolocation"
+- "desc": "The hook horror has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception))\
+    \ checks that rely on hearing."
+  "name": "Keen Hearing"
+"actions":
+- "desc": "The hook horror makes two hook attacks."
+  "name": "Multiattack"
+- "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6\
+    \ + 4) piercing damage."
+  "name": "Hook"
+"source":
+- "MM"
+"image": "compendium/bestiary/monstrosity/token/hook-horror.webp"
+```
+^statblock
+
+## Environment
+
+underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

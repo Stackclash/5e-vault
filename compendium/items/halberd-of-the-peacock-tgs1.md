@@ -1,0 +1,29 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- compendium/src/5e/tgs1
+- item/attunement/required
+- item/rarity/rare
+- item/tier/major
+- item/weapon/martial
+- item/weapon/melee
+aliases: 
+- "Halberd of the Peacock"
+one-hand-damage: 1d10 S
+---
+# Halberd of the Peacock
+*Weapon ([halberd](compendium/items/halberd.md)), cursed item, major, rare (requires attunement)*  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Halberd-of-the-Peacock.webp#right)  
+
+- **Damage**: 1d10 S
+- **Properties**: [Cursed](/compendium/rules/item-properties.md#Cursed%20Items), [Heavy](/compendium/rules/item-properties.md#Heavy), [Reach](/compendium/rules/item-properties.md#Reach), [Two-Handed](/compendium/rules/item-properties.md#Two-Handed)
+- **Weight**: 6.0 lbs.
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. This halberd has been polished to a mirror finish and is adorned with five ornate gemstones dangling beneath its blade that glow with arcane energy. This weapon contains 5 charges, each stored within one of the gems, and regains `dice:1d4+1|noform|avg` (`1d4 + 1`) expended charges each day at dawn. You can expend 1 charge to cast [disguise self](compendium/spells/disguise-self.md) or 2 charges to cast either [alter self](compendium/spells/alter-self.md), [mirror image](compendium/spells/mirror-image.md), or [shatter](compendium/spells/shatter.md) (save DC 15). The hanging gems lose their glow once their charge has been spent in this way.
+
+## Curse
+
+This halberd is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the halberd, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear. Whenever you reduce a creature to 0 hit points using this weapon, you must succeed on a DC 12 Wisdom saving throw or be compelled to admire yourself in the mirror until the start of your next turn: sacrificing any remaining movement, action, bonus action, or reactions you may have had. In addition, you automatically fail any Dexterity saving throw you make while admiring yourself in the mirror in this way.
+
+*Source: The Griffon's Saddlebag, Book 1 p. 74*

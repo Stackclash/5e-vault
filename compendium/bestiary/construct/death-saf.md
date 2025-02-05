@@ -1,0 +1,87 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+statblock: inline
+cr: 6
+environments: 
+size: Medium
+tags:
+- compendium/src/5e/saf
+- monster/cr/6
+- monster/size/medium
+- monster/type/construct
+aliases: ["Death"]
+---
+# [Death](compendium\bestiary\construct/death-saf.md)
+*Source: Strongholds and Followers p. 228*
+
+> [!quote]  
+> 
+> "This microstate partition lacks sufficient entropy. I will repair."
+
+All things must end. The Inexorability of Death is not concerned exclusively with ending life—its purview covers all things. Civilizations, ideas, stories. All things end.
+
+Death does not cause this ending, it enforces it. It arrives ready to stop something or someone trying to undo the Law of Death. Therefore, it focuses most on the undead, on those things persisting after their natural end.
+
+It also has the power to prevent a creature from meeting its end before its time. Why it is granted the power to use magic, when magic is chaos and therefore anathema to the Inexorables, is a question Death does not know the answer to. It only knows it can prevent.
+
+## Tactics
+
+This thing is powerful, but not hard to run. Its Law of Death radiates damage to undead, and its Death to Undeath ability has an obvious use. But if there aren't any undead around, it'll happily wade into combat for you, just smashing things with its hammer-like fists.
+
+```statblock
+"name": "Death (SaF)"
+"size": "Medium"
+"type": "construct"
+"alignment": "Lawful"
+"ac": !!int "17"
+"ac_class": "natural armor"
+"hp": !!int "112"
+"hit_dice": "15d8 + 45"
+"stats":
+- !!int "16"
+- !!int "15"
+- !!int "16"
+- !!int "13"
+- !!int "14"
+- !!int "15"
+"speed": "40 ft."
+"condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
+  \ [frightened](/compendium/rules/conditions.md#Frightened), [paralyzed](/compendium/rules/conditions.md#Paralyzed),\
+  \ [petrified](/compendium/rules/conditions.md#Petrified), [poisoned](/compendium/rules/conditions.md#Poisoned)"
+"senses": "truesight 60 ft., passive Perception 15"
+"languages": "all those of the creature who summoned it"
+"cr": "6"
+"traits":
+- "desc": "Death's innate spellcasting ability is Charisma (spell save DC 13). It\
+    \ can innately cast the following spells, requiring no material components:\n\n\
+    3/day: [death ward](compendium/spells/death-ward.md)"
+  "name": "Innate Spellcasting"
+- "desc": "At the start of each of Death's turns, undead within 10 feet of it take\
+    \ 10 force damage."
+  "name": "The Law of Death"
+- "desc": "The Inexorables have disadvantage on all saving throws against spells."
+  "name": "Chaos Vulnerability"
+- "desc": "The Inexorables are immune to any effects that would slow them or deny\
+    \ them actions or movement."
+  "name": "Inexorable"
+"actions":
+- "desc": "Death makes three slam attacks or makes one slam attack and one Death to\
+    \ Undeath attack."
+  "name": "Multiattack"
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8\
+    \ + 3) bludgeoning damage."
+  "name": "Slam"
+- "desc": "Death points at an undead creature within 60 feet. The target must make\
+    \ a DC 13 Wisdom saving throw or take 33 (6d10) force damage. On a successful\
+    \ save, the target takes half that damage."
+  "name": "Death to Undeath"
+"source":
+- "SaF"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Death.png"
+```
+^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```
