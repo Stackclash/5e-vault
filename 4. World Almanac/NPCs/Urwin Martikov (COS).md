@@ -10,7 +10,7 @@ tags:
   - npc
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
-image: null
+images: []
 relationships:
   - Brom Martikov|son
   - Danika Dorakova|wife
@@ -35,6 +35,7 @@ likes: null
 dislikes: null
 partyRelationships:
   Curse of Strahd: Ally
+image: null
 ---
 
 > [!infobox]

@@ -9,7 +9,7 @@ tags:
   - npc
 location: null
 condition: healthy
-image: null
+images: []
 relationships: []
 aliases: []
 pronounced: null
@@ -28,6 +28,7 @@ goals: null
 likes: null
 dislikes: null
 partyRelationships: {}
+image: null
 ---
 
 > [!infobox]

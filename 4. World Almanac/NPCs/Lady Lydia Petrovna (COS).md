@@ -9,7 +9,7 @@ tags:
   - npc
 location: null
 condition: healthy
-image: null
+images: []
 relationships:
   - Baron Vargas Vallakovich|husband
 aliases: []
@@ -29,6 +29,7 @@ goals: null
 likes: null
 dislikes: null
 partyRelationships: {}
+image: null
 ---
 
 > [!infobox]

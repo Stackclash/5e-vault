@@ -9,7 +9,7 @@ tags:
   - npc
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 condition: healthy
-image: null
+images: []
 relationships:
   - Nikolai Wachter|son
   - Stella Wachter|daughter
@@ -31,6 +31,7 @@ goals: null
 likes: null
 dislikes: null
 partyRelationships: {}
+image: null
 ---
 
 > [!infobox]

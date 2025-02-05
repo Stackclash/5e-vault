@@ -36,7 +36,7 @@ const config = {
                     .replace(/compendium([\\\/])adventures/, (oldText, separator) => `6. Resources${separator}5e Modules`)
                     .replace(/compendium([\\\/])books/, (oldText, separator) => `6. Resources${separator}Books`)
                     .replace(/compendium/, () => '5. Mechanics')
-                    .replaceAll(/([\/\\\-])([a-z])(?!mg|oken)/g, (oldText, separator, letter) => separator === '-' ? ' ' + letter.toUpperCase() : separator + letter.toUpperCase())
+                    .replaceAll(/([\/\\\-])([a-z0-9])(?!mg|oken)/g, (oldText, separator, letter) => separator === '-' ? ' ' + letter.toUpperCase() : separator + letter.toUpperCase())
 
                 return newRelativePath
             }
@@ -167,9 +167,8 @@ const config = {
                 for (let prop of Object.keys(currentFileFrontMatter)) {
                     if (file.frontMatter[prop]) {
                         if (JSON.stringify(file.frontMatter[prop]) !== JSON.stringify(currentFileFrontMatter[prop])) {
-                            const update = askQuestion(`Update ${prop} from ${currentFileFrontMatter[prop]} to ${file.frontMatter[prop]}? (Y/N) `)
-                            if (update) {
-                                finalFrontMatter[prop] = file.frontMatter[prop]
+                            // const update = askQuestion(`Update ${prop} from ${currentFileFrontMatter[prop]} to ${file.frontMatter[prop]}? (Y/N) `)
+                            if (false) {
                             } else {
                                 finalFrontMatter[prop] = currentFileFrontMatter[prop]
                             }

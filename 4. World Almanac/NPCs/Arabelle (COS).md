@@ -9,7 +9,7 @@ tags:
   - npc
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 condition: healthy
-image: null
+images: []
 relationships:
   - Luvash|father
   - Arrigal|niece
@@ -33,6 +33,7 @@ goals: >-
 likes: 'Stories, animals, exploring'
 dislikes: 'Being confined or restricted, cruelty'
 partyRelationships: {}
+image: null
 ---
 
 > [!infobox]

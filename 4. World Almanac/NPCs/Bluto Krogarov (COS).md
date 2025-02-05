@@ -9,7 +9,7 @@ tags:
   - npc
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 condition: healthy
-image: null
+images: []
 relationships: []
 aliases: []
 pronounced: BLOO-toh KRO-gah-rov
@@ -30,6 +30,7 @@ goals: >-
 likes: 'Drinking, solitude, the rare good day of fishing'
 dislikes: 'The mockery of others, his own bad luck, the Burgomaster''s enforced happiness'
 partyRelationships: {}
+image: null
 ---
 
 > [!infobox]
