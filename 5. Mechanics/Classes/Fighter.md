@@ -8,73 +8,174 @@ aliases:
   - Fighter
 ---
 # Fighter
-*Source: Player's Handbook p. 70. Available in the SRD and the Basic Rules.*  
+*Source: Player's Handbook p. 70. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
-> [!tldr]- Feature progression
+> [!tldr] Class and Feature Progression
 > 
-> | Level | PB | Features |
-> |-------|----|----------|
-> | 1st | +2 | [Fighting Style](#Fighting%20Style%20(Level%201)), [Second Wind](#Second%20Wind%20(Level%201)) |
-> | 2nd | +2 | [Action Surge](#Action%20Surge%20(Level%202)) |
-> | 3rd | +2 | [Martial Archetype](#Martial%20Archetype%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Martial Versatility](#Martial%20Versatility%20(Level%204)) |
-> | 5th | +3 | [Extra Attack](#Extra%20Attack%20(Level%205)) |
-> | 6th | +3 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%206)) |
-> | 7th | +3 | [Martial Archetype feature](#Martial%20Archetype%20feature%20(Level%207)) |
-> | 8th | +3 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%208)) |
-> | 9th | +4 | [Indomitable](#Indomitable%20(Level%209)) |
-> | 10th | +4 | [Martial Archetype feature](#Martial%20Archetype%20feature%20(Level%2010)) |
-> | 11th | +4 | [Extra Attack (2)](#Extra%20Attack%20(2)%20(Level%2011)) |
-> | 12th | +4 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2012)) |
-> | 13th | +5 | [Indomitable (two uses)](#Indomitable%20(two%20uses)%20(Level%2013)) |
-> | 14th | +5 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2014)) |
-> | 15th | +5 | [Martial Archetype feature](#Martial%20Archetype%20feature%20(Level%2015)) |
-> | 16th | +5 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2016)) |
-> | 17th | +6 | [Action Surge (two uses)](#Action%20Surge%20(two%20uses)%20(Level%2017)), [Indomitable (three uses)](#Indomitable%20(three%20uses)%20(Level%2017)) |
-> | 18th | +6 | [Martial Archetype feature](#Martial%20Archetype%20feature%20(Level%2018)) |
-> | 19th | +6 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2019)) |
-> | 20th | +6 | [Extra Attack (3)](#Extra%20Attack%20(3)%20(Level%2020)) |
-> 
-> - PB: Proficiency Bonus
-^feature-progression
-
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='3'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Fighting%20Style%20(Level%201)'>Fighting Style</a>, <a href='#Second%20Wind%20(Level%201)'>Second Wind</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Action%20Surge%20(Level%202)'>Action Surge</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Martial%20Archetype%20(Level%203)'>Martial Archetype</a></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a>, <a href='#Martial%20Versatility%20(Level%204)'>Martial Versatility</a></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra%20Attack%20(Level%205)'>Extra Attack</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%206)'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Martial%20Archetype%20feature%20(Level%207)'>Martial Archetype feature</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Indomitable%20(Level%209)'>Indomitable</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Martial%20Archetype%20feature%20(Level%2010)'>Martial Archetype feature</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Extra%20Attack%20(2)%20(Level%2011)'>Extra Attack (2)</a></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Indomitable%20(two%20uses)%20(Level%2013)'>Indomitable (two uses)</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2014)'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Martial%20Archetype%20feature%20(Level%2015)'>Martial Archetype feature</a></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Action%20Surge%20(two%20uses)%20(Level%2017)'>Action Surge (two uses)</a>, <a href='#Indomitable%20(three%20uses)%20(Level%2017)'>Indomitable (three uses)</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Martial%20Archetype%20feature%20(Level%2018)'>Martial Archetype feature</a></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2019)'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Extra%20Attack%20(3)%20(Level%2020)'>Extra Attack (3)</a></td></tr>
+> </tbody></table>
+^class-progession
 
 ## Hit Points
 
 - **Hit Dice**: 1d10 per Fighter level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
 
 ## Starting Fighter
 
-You are proficient with the following items, in addition to any proficiencies provided by your race or background.
-
-- **Saving Throws**: Strength, Constitution
-- **Armor**: light, medium, heavy, [[5. Mechanics/Items/Shield.md\|shields]]
-- **Weapons**: simple, martial
+- **Saving Throws**: Constitution, Strength
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Rules/Item Types.md#Heavy%20Armor\|heavy armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Weapons**: simple weapons, martial weapons
 - **Tools**: none
-- **Skills**: Choose 2 from *Acrobatics*, *Animal Handling*, *Athletics*, *History*, *Insight*, *Intimidation*, *Perception*, *Survival*
+- **Skills**: choose 2 from [[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]], [[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]], [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#History\|History]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]], [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]], and [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]
 
-You begin play with the following equipment, in addition to any equipment provided by your background.
+You start with the following items, plus anything provided by your background.
 
-- (a) [[5. Mechanics/Items/Chain Mail.md\|chain mail]] or (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]], [[5. Mechanics/Items/Longbow.md\|longbow]], and [[5. Mechanics/Items/Arrows 20.md\|20 arrows]]  
-- (a) a martial weapon and a [[5. Mechanics/Items/Shield.md\|shield]] or (b) two martial weapons  
-- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) two [[5. Mechanics/Items/Handaxe.md\|handaxes]]  
-- (a) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
+- (a) [[5. Mechanics/Items/Chain Mail.md\|chain mail]] or (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]], [[5. Mechanics/Items/Longbow.md\|longbow]], and [[5. Mechanics/Items/Arrows 20.md\|20 arrows]]
+- (a) a martial weapon and a [[5. Mechanics/Items/Shield.md\|shield]] or (b) two martial weapons
+- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) two [[5. Mechanics/Items/Handaxe.md\|handaxes]]
+- (a) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
 
-Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
+Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 ## Multiclassing Fighter
 
-To multiclass as a Fighter, you must meet the following prerequisites:
+**Ability Score Minimum:**Dexterity 13 or Strength 13
 
-- Strength 13, or Dexterity 13
+When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-You gain the following proficiencies:
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Weapons**: simple weapons, martial weapons
 
-- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md\|shields]]
-- **Weapons**: simple, martial
-- **Tools**: none
+## Fighter
+
+A human in clanging plate armor holds her shield before her as she runs toward the massed goblins. An elf behind her, clad in studded leather armor, peppers the goblins with arrows loosed from his exquisite bow. The half-orc nearby shouts orders, helping the two combatants coordinate their assault to the best advantage.
+
+A dwarf in chain mail interposes his shield between the ogre's club and his companion, knocking the deadly blow aside. His companion, a half-elf in scale armor, swings two scimitars in a blinding whirl as she circles the ogre, looking for a blind spot in its defenses.
+
+A gladiator fights for sport in an arena, a master with his trident and net, skilled at toppling foes and moving them around for the crowd's delight—and his own tactical advantage. His opponent's sword flares with blue light an instant before she sends lightning flashing forth to smite him.
+
+All of these heroes are fighters, perhaps the most diverse class of characters in the worlds of Dungeons & Dragons. Questing knights, conquering overlords, royal champions, elite foot soldiers, hardened mercenaries, and bandit kings—as fighters, they all share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. And they are well acquainted with death, both meting it out and staring it defiantly in the face.
+
+### Well-Rounded Specialists
+
+Fighters learn the basics of all combat styles. Every fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, use a bow, and even trap foes in a net with some degree of skill. Likewise, a fighter is adept with shields and every form of armor. Beyond that basic degree of familiarity, each fighter specializes in a certain style of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes fighters superior combatants on battlefields and in dungeons alike.
+
+### Trained for Danger
+
+Not every member of the city watch, the village militia, or the queen's army is a fighter. Most of these troops are relatively untrained soldiers with only the most basic combat knowledge. Veteran soldiers, military officers, trained bodyguards, dedicated knights, and similar figures are fighters.
+
+Some fighters feel drawn to use their training as adventurers. The dungeon delving, monster slaying, and other dangerous work common among adventurers is second nature for a fighter, not all that different from the life he or she left behind. There are greater risks, perhaps, but also much greater rewards—few fighters in the city watch have the opportunity to discover a magic flame tongue sword, for example.
+
+### Creating a Fighter
+
+As you build your fighter, think about two related elements of your character's background: Where did you get your combat training, and what set you apart from the mundane warriors around you? Were you particularly ruthless? Did you get extra help from a mentor, perhaps because of your exceptional dedication? What drove you to this training in the first place? A threat to your homeland, a thirst for revenge, or a need to prove yourself might all have been factors.
+
+You might have enjoyed formal training in a noble's army or in a local militia. Perhaps you trained in a war academy, learning strategy, tactics, and military history. Or you might be self-taught—unpolished but well tested. Did you take up the sword as a way to escape the limits of life on a farm, or are you following a proud family tradition? Where did you acquire your weapons and armor? They might have been military issue or family heirlooms, or perhaps you scrimped and saved for years to buy them. Your armaments are now among your most important possessions—the only things that stand between you and death's embrace.
+
+#### Quick Build
+
+You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution, or Intelligence if you plan to adopt the Eldritch Knight martial archetype. Second, choose the [[5. Mechanics/Backgrounds/Soldier.md\|soldier]] background.
+
+> [!quote] A quote from Tordek  
+> 
+> Let me know when you're all done talking.
+
+Of all the adventurers in the worlds of D&D, the fighter is perhaps the greatest paradox. On the one hand, a singular feature of the class is that no two fighters ply their craft in quite the same way; their weapons, armor, and tactics differ across a vast spectrum. On the other hand, regardless of the tools and methods one uses, at the heart of every fighter's motivation lies the same basic truth: it is better to wound than to be wounded.
+
+Although some adventuring fighters risk their lives fighting for glory or treasure, others are primarily concerned with the welfare of others. They put more value on the well-being of the society, the village, or the group than on their own safety. Even if there's gold in the offing, the true reward for most fighters comes from sending enemies to their doom.
+
+The sections below offer ways to add a little depth and a few personal touches to your fighter character.
+
+## Heraldic Sign
+_Source: Xanathar's Guide to Everything_
+
+Fighters typically do battle for a cause. Some fight on behalf of kingdoms besieged by monsters, while others quest only for personal glory. In either case, a fighter often displays a heraldic sign that represents that cause, either adopting the symbol of a nation or a royal line, or creating a crest to represent one's self-interest.
+
+Your character could be affiliated with an organization or a cause, and thus might already travel under a banner of some sort. If that's not the case, consider devising a heraldic sign that symbolizes an aspect of your nature or speaks to what you see as your purpose in the world.
+
+**Heraldic Signs**
+
+`dice: [[Fighter.md#^heraldic-signs]]`
+
+| dice: d6 | Heraldic Signs |
+|----------|----------------|
+| 1 | A rampant golden dragon on a green field, representing valor and a quest for wealth |
+| 2 | The fist of a storm giant clutching lightning before a storm cloud, symbolizing wrath and power |
+| 3 | Crossed greatswords in front of a castle gate, signifying the defense of a city or kingdom |
+| 4 | A skull with a dagger through it, representing the doom you bring to your enemies |
+| 5 | A phoenix in a ring of fire, an expression of an indomitable spirit |
+| 6 | Three drops of blood beneath a horizontal sword blade on a black background, symbolizing three foes you have sworn to kill |
+^heraldic-signs
+
+## Instructor
+_Source: Xanathar's Guide to Everything_
+
+Some fighters are natural-born combatants who have a talent for surviving in battle. Others learned the basics of their combat prowess in their formative years from spending time in a military or some other martial organization, when they were taught by the leaders of the group.
+
+A third type of fighter comes from the ranks of those who received one-on-one instruction from an accomplished veteran of the craft. That instructor was, or perhaps still is, well versed in a certain aspect of combat that relates to the student's background.
+
+If you decide that your character had an individual instructor, what is that person's specialty? Do you emulate your instructor in how you fight, or did you take the instructor's teachings and adapt them to your own purposes?
+
+**Instructor**
+
+`dice: [[Fighter.md#^instructor]]`
+
+| dice: d6 | Instructor |
+|----------|------------|
+| 1 | Gladiator. Your instructor was a slave who fought for freedom in the arena, or one who willingly chose the gladiator's life to earn money and fame. |
+| 2 | Military. Your trainer served with a group of soldiers and knows much about working as a team. |
+| 3 | City Watch. Crowd control and peacekeeping are your instructor's specialties. |
+| 4 | Tribal Warrior. Your instructor grew up in a tribe, where fighting for one's life was practically an everyday occurrence. |
+| 5 | Street Fighter. Your trainer excels at urban combat, combining close-quarters work with silence and efficiency. |
+| 6 | Weapon Master. Your mentor helped you to become one with your chosen weapon, by imparting highly specialized knowledge of how to wield it most effectively. |
+^instructor
+
+## Style
+_Source: Xanathar's Guide to Everything_
+
+Many fighters distinguish themselves from their peers by adopting and perfecting a particular style or method of waging combat. Although this style might be a natural outgrowth of a fighter's personality, that's not always the case—someone's approach to the world in general does not necessarily dictate how that person operates when lives are on the line.
+
+Do you have a combat style that mirrors your outlook on life, or is something else inside you unleashed when weapons are drawn?
+
+**Style**
+
+`dice: [[Fighter.md#^style]]`
+
+| dice: d6 | Style |
+|----------|-------|
+| 1 | Elegant. You move with precise grace and total control, never using more energy than you need. |
+| 2 | Brutal. Your attacks rain down like hammer blows, meant to splinter bone or send blood flying. |
+| 3 | Cunning. You dart in to attack at just the right moment and use small-scale tactics to tilt the odds in your favor. |
+| 4 | Effortless. You rarely perspire or display anything other than a stoic expression in battle. |
+| 5 | Energetic. You sing and laugh during combat as your spirit soars. You are happiest when you have a foe in front of you and a weapon in hand. |
+| 6 | Sinister. You scowl and sneer while fighting, and you enjoy mocking your foes as you defeat them. |
+^style
 
 ## Class Features
 
@@ -91,7 +192,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 
 ### Second Wind (Level 1)
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to `dice: 1d10|avg|noform` (`1d10`) + your fighter level.
+You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to `dice:1d10|noform|avg` (`1d10`) + your fighter level.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
@@ -114,12 +215,12 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Martial Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 41_
 
-*4th-level fighter [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
+*4th-level fighter [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
 
-- Replace a [[5. Mechanics/Optional Features/List Fighting Style Fighter.md\|fighting style]] you know with another fighting style available to fighters.  
-- If you know any [[5. Mechanics/Optional Features/List Maneuver Battle Master.md\|maneuvers]] from the [[5. Mechanics/Classes/Fighter Battle Master.md\|Battle Master]] archetype, you can replace one maneuver you know with a different maneuver.  
+- Replace a [[5. Mechanics/Lists/List Optfeaturetype Fs F.md\|fighting style]] you know with another fighting style available to fighters.  
+- If you know any [[5. Mechanics/Lists/List Optfeaturetype Mv B.md\|maneuvers]] from the [[5. Mechanics/Classes/Fighter Battle Master.md\|Battle Master]] archetype, you can replace one maneuver you know with a different maneuver.  
 
 ### Extra Attack (Level 5)
 
@@ -207,6 +308,6 @@ At 20th level, you can attack four times whenever you take the [[/5. Mechanics/R
 
 ## Optional Features
 
-> [!example]- Fighting Style, Fighter
-> ![Fighting Style, Fighter](compendium/optional-features/list-fighting-style-fighter.md#Fighting%20Style,%20Fighter)
-^list-fighting-style-fighter
+> [!example]- Optional Features: Fighting Style, Fighter
+> ![Fighting Style, Fighter](compendium/lists/list-optfeaturetype-fs-f.md#Fighting%20Style,%20Fighter)
+^list-optfeature-fs-f

@@ -2,19 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/erlw
+  - compendium/src/5e/phb
   - deity/eberron
-  - domain/nature
   - domain/war
 aliases:
   - The Spirits of the Past
 ---
 # The Spirits of the Past
-*Source: Eberron: Rising from the Last War p. 141* 
+*Source: Player's Handbook p. 296* 
 
-- **Alignment**: Unaligned
+- **Alignment**: Chaotic Good
 - **Category**: Other Faiths of Eberron
-- **Domains**: Nature, War
+- **Domains**: War
 - **Pantheon**: Eberron
-- **Province**: Elven ancestors
 - **Symbol**: Varies

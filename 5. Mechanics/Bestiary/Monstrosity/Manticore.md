@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: 'mountain, grassland, hill, coastal, arctic'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
@@ -11,12 +15,11 @@ tags:
   - monster/environment/mountain
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Manticore
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Manticore.md|Manticore]]
-*Source: Monster Manual p. 213. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Monstrosity\Manticore.md|Manticore]]
+*Source: Monster Manual p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A monster in every sense of the word, a manticore has a vaguely humanoid head, the body of a lion, and the wings of a dragon. A bristling mane stretches down the creature's back, and its long tail ends in a cluster of deadly spikes that can impale prey at impressive range.
 
@@ -32,7 +35,7 @@ Manticores serve wicked masters that treat them well and provide regular prey. A
 
 The manticores' greatest territorial rivals include chimeras, griffons, perytons, and wyverns. Manticores hunting as a pack often have the advantage of greater numbers. In addition to these creatures, manticores fear dragons and avoid them.
 
-> [!quote]- A quote from Marthok Uldarr, dwarf copper merchant  
+> [!quote] A quote from Marthok Uldarr, dwarf copper merchant  
 > 
 > Manticores love the taste of human flesh. That's why, on trips through the mountains, I always travel with human guards.
 
@@ -76,21 +79,6 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
   "name": "Tail Spike"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "SLW"
-- "BGDIA"
-- "MOT"
-- "JttRC"
-- "DSotDQ"
-- "SatO"
-- "BMT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/manticore.webp"
 ```
 ^statblock

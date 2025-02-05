@@ -6,12 +6,11 @@ tags:
   - item/attunement/required
   - item/rarity/very-rare
   - item/tier/major
-  - item/wondrous
 aliases:
   - Cloak of Arachnida
 ---
 # Cloak of Arachnida
-*Wondrous Item, major, very rare (requires attunement)*  
+*Wondrous item, major, very rare (requires attunement)*  
 
 
 This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:
@@ -22,4 +21,4 @@ This fine garment is made of black silk interwoven with faint silvery threads. W
 - You can't be caught in webs of any sort and can move through webs as if they were difficult terrain.  
 - You can use an action to cast the [[5. Mechanics/Spells/Web.md\|web]] spell (save DC 13). The web created by the spell fills twice its normal area. Once used, this property of the cloak can't be used again until the next dawn.  
 
-*Source: Dungeon Master's Guide p. 158. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

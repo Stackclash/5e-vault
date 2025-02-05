@@ -11,7 +11,7 @@ aliases:
   - Selûne
 ---
 # Selûne
-*Source: Player's Handbook p. 294, Tasha's Cauldron of Everything p. 34. Available in the Basic Rules.* 
+*Source: Player's Handbook p. 294, Tasha's Cauldron of Everything p. 34. Available in the Basic Rules (2014)* 
 
 - **Alignment**: Chaotic Good
 - **Domains**: Knowledge, Life, Twilight

@@ -17,7 +17,7 @@ The gulf between the elves and Corellon, and the split between Corellon and Lolt
 
 ## A Race Divided
 
-> [!quote]- A quote from Amlaruil Moonflower, Last Queen of Evermeet  
+> [!quote] A quote from Amlaruil Moonflower, Last Queen of Evermeet  
 > 
 > Once we followed in Corellon's footsteps, but we strayed from that path. For our whole existence, we pay penance for a misstep. It is just? Mayhap not, but when is love just? Is loss and longing a matter for judges to decide? The heart knows what the soul wants.
 
@@ -53,7 +53,7 @@ One group of elves, the eladrin, never left that first refuge. After being expos
 
 ## Living in Reverie
 
-> [!quote]- A quote from Cymbiir Haevault, Lorekeeper of House Haevault  
+> [!quote] A quote from Cymbiir Haevault, Lorekeeper of House Haevault  
 > 
 > History, my young friends? Just because your lives are as fleetingly swift as a hummingbird's flight is no cause to say mine constitutes history. History is the weave of things outside life, not for those still within its loom. Still I shall tell you of my lifetime and my clan's lifetime, as my clansong has not been sung in over a century. In reverie, the People may learn all that has passed for them and their predecessors. Now, in songs that were once only sung in celebration, I may teach you brief candles of humanity of the People and your own place among us.
 
@@ -241,7 +241,7 @@ Surface elves, and other elves who dwell in the light, revere these entities for
 
 The Elf Deities table enumerates the members of the Seldarine. For each god, the table notes alignment, province (the god's main areas of interest and responsibility), suggested domains for clerics who serve the god, and a common symbol of the god. Several of the gods in the table are described in this section.
 
-![[5. Mechanics/Tables/Elf Deities The Seldarine.md\|Elf Deities (The Seldarine)]]
+![[5. Mechanics/Tables/Elf Deities The Seldarine (MTF).md\|Elf Deities (The Seldarine)]]
 
 ### Corellon Larethian
 
@@ -380,7 +380,7 @@ Because of all these difficulties, many elves resist the urge to visit Arvandor 
 
 ### Evermeet
 
-> [!quote]- A quote from Ecamane Truesilver, High Mage of Silverymoon  
+> [!quote] A quote from Ecamane Truesilver, High Mage of Silverymoon  
 > 
 > Uaul'Selu'Keryth. In your tongue, the name might be translated as "At War with the Weave." When twelve High Mages last performed this ritual, the world was torn asunder. It is a power no mortal should possess and no god should use.
 
@@ -500,7 +500,7 @@ Lolth demands the lion's share of worship from the drow, according to her wishes
 
 The Drow Deities table lists the members of the Dark Seldarine. For each god, the table notes alignment, province (the god's main areas of interest and responsibility), suggested domains for clerics who serve the god, and a common symbol of the god. The gods in the table are described below.
 
-![[5. Mechanics/Tables/Drow Deities The Dark Seldarine.md\|Drow Deities (The Dark Seldarine)]]
+![[5. Mechanics/Tables/Drow Deities The Dark Seldarine (MTF).md\|Drow Deities (The Dark Seldarine)]]
 
 > [!note] Drow Trance: Entering the Void
 > 
@@ -530,7 +530,7 @@ Those who are faithful to Lolth often oppose Ghaunadaur's cultists, driving them
 
 #### Keptolo
 
-> [!quote]- A quote from Tezzeryn, Head Consort of House Bhaerynden, instructing his son  
+> [!quote] A quote from Tezzeryn, Head Consort of House Bhaerynden, instructing his son  
 > 
 > Keptolo shows the way. Feed the vanity of your mistress, and all her treasures shall be yours. Be careful whom you offend, and keep an expendable companion nearby to hold culpable for your crimes. Gossip can be as deadly as the venom on an assassin's blade. Use the poison of words to destroy your rivals, that you may claim for yourself all they once presumed was theirs.
 
@@ -642,7 +642,7 @@ Those who find a way to survive in the painful world of sunlight either live as 
 
 ## The Raven Queen and the Shadar-kai
 
-> [!quote]- A quote from High Lady Alustriel Silverhand  
+> [!quote] A quote from High Lady Alustriel Silverhand  
 > 
 > The Raven Queen is trapped by her fascination with the past. She sits in her fortress, amidst all the memories of the world, looking at the ones that please her most as though they were glittering jewels. Many great wizards have attempted to understand her motives, but like a raven she has always remained cryptic, keeping her cache of secrets just out of their reach.
 
@@ -742,13 +742,13 @@ Shadar-kai are very interested in the magical silt at the bottom of the River St
 
 At the DM's discretion, you have access to more subraces for elf characters, in addition to the subraces in the *Player's Handbook.* When you choose the subrace of your elf, you can choose one of the following options: eladrin, sea elf, or shadar-kai.
 
-- [[5. Mechanics/Races/Eladrin.md\|Elf (Eladrin)]]  
-- [[5. Mechanics/Races/Sea Elf.md\|Elf (Sea)]]  
-- [[5. Mechanics/Races/Shadar Kai.md\|Elf (Shadar-kai)]]  
+- [[5. Mechanics/Races/Eladrin (MPMM).md\|Elf (Eladrin)]]  
+- [[5. Mechanics/Races/Sea Elf (MPMM).md\|Elf (Sea)]]  
+- [[5. Mechanics/Races/Shadar Kai (MPMM).md\|Elf (Shadar-kai)]]  
 
 ### Elf Random Height and Weight
 
-![[5. Mechanics/Tables/Elf Random Height And Weight.md\|Elf Random Height and Weight]]
+![[5. Mechanics/Tables/Elf Random Height And Weight (MTF).md\|Elf Random Height and Weight]]
 
 Height = Base Height + Height Modifier (in inches)
 
@@ -758,12 +758,13 @@ Weight = Base Weight + Height Modifier (in pounds) × Weight Modifier
 
 This section provides tables for players and DMs who want to choose or randomly generate details about elves
 
-[[5. Mechanics/Items/Elven Trinket.md\|Elven Trinkets]]
+> [!embed-item]- Elven Trinket
+> ![[5. Mechanics/Items/Elven Trinket (MTF).md\|Elven Trinket]]
 
-![[5. Mechanics/Tables/Elf Tables Elf Non Drow Adventurer Story Hooks.md\|Elf Tables; Elf (Non-drow) Adventurer Story Hooks]]
+![[5. Mechanics/Tables/Elf Tables Elf Non Drow Adventurer Story Hooks (MTF).md\|Elf Tables; Elf (Non-drow) Adventurer Story Hooks]]
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315616_cn_wmask.webp#center]]
 
-![[5. Mechanics/Tables/Elf Tables Drow Adventurer Story Hooks.md\|Elf Tables; Drow Adventurer Story Hooks]]
+![[5. Mechanics/Tables/Elf Tables Drow Adventurer Story Hooks (MTF).md\|Elf Tables; Drow Adventurer Story Hooks]]
 
-![[5. Mechanics/Tables/Elf Tables Drow House Specialty.md\|Elf Tables; Drow House Specialty]]
+![[5. Mechanics/Tables/Elf Tables Drow House Specialty (MTF).md\|Elf Tables; Drow House Specialty]]

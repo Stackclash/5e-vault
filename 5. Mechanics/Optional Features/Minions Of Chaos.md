@@ -8,8 +8,8 @@ aliases:
   - Minions of Chaos
 ---
 # Minions of Chaos
-*Source: Player's Handbook p. 111. Available in the SRD.*  
+*Source: Player's Handbook p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-***Prerequisites*** 9th-level
+***Prerequisites*** 9th
 
-You can cast [[5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]] once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]] once using a warlock spell slot. You can't do so again until you finish a long rest.

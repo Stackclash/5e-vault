@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 6
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/6
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/humanoid/kuo-toa
-statblock: inline
 aliases:
   - Kuo-toa Archpriest
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Kuo Toa Archpriest.md|Kuo-toa Archpriest]]
+# [[5. Mechanics\Bestiary\Humanoid\Kuo Toa Archpriest.md|Kuo-toa Archpriest]]
 *Source: Monster Manual p. 200*
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -46,12 +49,12 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 > 
 > **Multiattack.** The kuo-toa makes one bite attack and two unarmed strikes.
 > 
-> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d4 + 2|text(4)` (`1d4 + 2`) piercing damage.
+> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d4+2|noform|avg|text(4)` (`1d4 + 2`) piercing damage.
 > 
-> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d6 + 2|text(5)` (`1d6 + 2`) bludgeoning damage + `dice:1d6|text(3)` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d6+2|noform|avg|text(5)` (`1d6 + 2`) bludgeoning damage + `dice:1d6|noform|avg|text(3)` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
 ^variant-kuo-toa-monitor
 
-> [!quote]- A quote from Sabal Mizzrym of Menzoberranzan  
+> [!quote] A quote from Sabal Mizzrym of Menzoberranzan  
 > 
 > They invent their own gods... the very definition of insanity.
 
@@ -97,7 +100,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 - "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"
 - "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\
-    \ that is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] or on the Ethereal\
+    \ that is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]] or on the Ethereal\
     \ Plane. It can pinpoint such a creature that is moving."
   "name": "Otherworldly Perception"
 - "desc": "The kuo-toa has advantage on ability checks and saving throws made to escape\
@@ -118,8 +121,6 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
   "name": "Unarmed Strike"
 "source":
 - "MM"
-- "PotA"
-- "WDMM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/kuo-toa-archpriest.webp"
 ```
 ^statblock

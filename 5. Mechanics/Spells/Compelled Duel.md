@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/paladin
-  - spell/level/1
+  - spell/feat/fey-touched
+  - spell/level/1st-level
   - spell/school/enchantment
+level: 1st-level
+range: false
+school: Enchantment
+time: 1 bonus
+duration: 'Concentration, up to 1 minute'
+components: V
 aliases:
   - Compelled Duel
 ---
@@ -21,6 +29,6 @@ You attempt to compel a creature into a duel. One creature that you can see with
 
 The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 
-**Classes**: [[5. Mechanics/Classes/Paladin.md\|Paladin]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Paladin\|Paladin]]
 
 *Source: Player's Handbook p. 224*

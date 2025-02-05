@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'forest, swamp'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -8,11 +12,10 @@ tags:
   - monster/environment/swamp
   - monster/size/medium
   - monster/type/humanoid/lizardfolk
-statblock: inline
 aliases:
   - Lizardfolk Shaman
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Lizardfolk Shaman.md|Lizardfolk Shaman]]
+# [[5. Mechanics\Bestiary\Humanoid\Lizardfolk Shaman.md|Lizardfolk Shaman]]
 *Source: Monster Manual p. 205*
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -47,7 +50,7 @@ Lizardfolk born in Sess'inek's image are larger and more cunning than other liza
 
 Lizardfolk speak Draconic, which they are thought to have learned from dragons in ancient times. A tribe that wanders into the territory of a dragon will offer it tribute to win its favor. An evil dragon might exploit lizardfolk for its own vile ends, turning them into raiders and plunderers.
 
-> [!quote]- A quote from A merchant's account of his experience with the lizardfolk tribes of the Lizard Marsh  
+> [!quote] A quote from A merchant's account of his experience with the lizardfolk tribes of the Lizard Marsh  
 > 
 > In all my dealings with the lizardfolk, I was never able to tell what they were thinking. Their reptilian eyes belied no hint of their intentions. I gave them supplies. They gave me the willies.
 
@@ -83,7 +86,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
     \ the following druid spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
     \ [[5. Mechanics/Spells/Produce Flame.md|produce flame]], [[5. Mechanics/Spells/Thorn Whip.md|thorn whip]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Heat Metal.md|heat metal]], [[5. Mechanics/Spells/Spike Growth.md|spike\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Heat Met(AL).md|heat metal]], [[5. Mechanics/Spells/Spike Growth.md|spike\
     \ growth]]\n\n3rd level (2 slots): [[5. Mechanics/Spells/Conjure Animals.md|conjure\
     \ animals]] (reptiles only), [[5. Mechanics/Spells/Plant Growth.md|plant growth]]"
   "name": "Spellcasting (Lizardfolk Form Only)"
@@ -95,8 +98,8 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
     \ + 2) piercing damage, or 7 (1d10 + 2) piercing damage in [[5. Mechanics/Bestiary/Beast/Crocodile.md|crocodile]]\
     \ form. If the lizardfolk is in crocodile form and the target is a Large or smaller\
-    \ creature, the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 12). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ creature, the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+    \ (escape DC 12). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
     \ and the lizardfolk can't bite another target. If the lizardfolk reverts to its\
     \ true form, the grapple ends."
   "name": "Bite"
@@ -111,11 +114,6 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
   "name": "Change Shape (Recharges after a Short or Long Rest)"
 "source":
 - "MM"
-- "PotA"
-- "ToA"
-- "GoS"
-- "IMR"
-- "EGW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/lizardfolk-shaman.webp"
 ```
 ^statblock

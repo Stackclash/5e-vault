@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: 'grassland, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
@@ -8,11 +12,10 @@ tags:
   - monster/environment/grassland
   - monster/size/medium
   - monster/type/humanoid/thri-kreen
-statblock: inline
 aliases:
   - Thri-kreen
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Thri Kreen.md|Thri-kreen]]
+# [[5. Mechanics\Bestiary\Humanoid\Thri Kreen.md|Thri-kreen]]
 *Source: Monster Manual p. 288*
 
 Thri-kreen wander the deserts and savannas of the world, avoiding all other races.
@@ -73,10 +76,10 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6\
     \ + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
-    \ If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The\
-    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target can repeat the saving\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for 1 minute.\
+    \ If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
+    \ while [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] in this way. The\
+    \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] target can repeat the saving\
     \ throw at the end of each of its turns, ending the effect on itself on a success."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4\
@@ -84,8 +87,6 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
   "name": "Claws"
 "source":
 - "MM"
-- "JttRC"
-- "LoX"
 "image": "5. Mechanics/Bestiary/Humanoid/token/thri-kreen.webp"
 ```
 ^statblock

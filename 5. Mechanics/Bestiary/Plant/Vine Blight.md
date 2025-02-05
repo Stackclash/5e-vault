@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: forest
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
   - monster/environment/forest
   - monster/size/medium
   - monster/type/plant
-statblock: inline
 aliases:
   - Vine Blight
 ---
-# [[5. Mechanics/Bestiary/Plant/Vine Blight.md|Vine Blight]]
+# [[5. Mechanics\Bestiary\Plant\Vine Blight.md|Vine Blight]]
 *Source: Monster Manual p. 32, Curse of Strahd*
 
 Appearing as masses of slithering creepers, vine blights hide in undergrowth and wait for prey to draw near. By animating the plants around them, vine blights entangle and hinder their foes before attacking. Vine blights are the only blights capable of speech. Through its connection to the evil spirit of the Gulthias tree it serves, a vine blight speaks in a fractured version of its dead master's voice, taunting victims or bargaining with powerful foes.
@@ -34,7 +37,7 @@ In forests infested with blights, trees and plants grow with supernatural speed.
 
 Blights are independent creatures, but most act under a Gulthias tree's control, often displaying the habits and traits of the life force or spirit that spawned them. By attacking their progenitor's old foes or seeking out treasures valuable to it, they carry on the legacy of long-lost evil.
 
-> [!quote]-  
+> [!quote]  
 > 
 > Behold the legacy of Gulthias the vampire: plants with a taste for blood.
 
@@ -58,7 +61,7 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 "speed": "10 ft."
 "skillsaves":
   "Stealth": !!int "1"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 "languages": "Common"
 "cr": "1/2"
@@ -68,26 +71,21 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
   "name": "False Appearance"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 9 (2d6\
-    \ + 2) bludgeoning damage, and a Large or smaller target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 12). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ + 2) bludgeoning damage, and a Large or smaller target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+    \ (escape DC 12). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
     \ and the blight can't constrict another target."
   "name": "Constrict"
 - "desc": "Grasping roots and vines sprout in a 15-foot radius centered on the blight,\
     \ withering away after 1 minute. For the duration, that area is difficult terrain\
     \ for nonplant creatures. In addition, each creature of the blight's choice in\
     \ that area when the plants appear must succeed on a DC 12 Strength saving throw\
-    \ or become [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. A creature\
+    \ or become [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]. A creature\
     \ can use its action to make a DC 12 Strength check, freeing itself or another\
     \ entangled creature within reach on a success."
   "name": "Entangling Plants (Recharge 5-6)"
 "source":
 - "MM"
 - "CoS"
-- "GoS"
-- "EGW"
-- "PSI"
-- "DIP"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Plant/token/vine-blight.webp"
 ```
 ^statblock

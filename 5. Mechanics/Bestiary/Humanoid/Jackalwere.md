@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: 'grassland, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
@@ -8,11 +12,10 @@ tags:
   - monster/environment/grassland
   - monster/size/medium
   - monster/type/humanoid/shapechanger
-statblock: inline
 aliases:
   - Jackalwere
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Jackalwere.md|Jackalwere]]
+# [[5. Mechanics\Bestiary\Humanoid\Jackalwere.md|Jackalwere]]
 *Source: Monster Manual p. 193*
 
 Ordinary jackals tainted by demonic power, jackalweres haunt roads and trails, waylaying and murdering those they meet.
@@ -27,7 +30,7 @@ A jackalwere prefers to fight alongside jackals and others of its kind. Under th
 
 ## Supernatural Servants
 
-Jackalweres kidnap humanoids for their lamia masters, condemning victims to a lifetime of slavery or an agonizing death. A jackalwere's magical gaze renders a foe [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]], allowing the monster to bind a creature or drag it away.
+Jackalweres kidnap humanoids for their lamia masters, condemning victims to a lifetime of slavery or an agonizing death. A jackalwere's magical gaze renders a foe [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]], allowing the monster to bind a creature or drag it away.
 
 A jackalwere might also use its gaze to incapacitate a deadly enemy long enough to make good its escape.
 
@@ -69,7 +72,7 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
   "name": "Keen Hearing and Smell"
 - "desc": "The jackalwere has advantage on an attack roll against a creature if at\
     \ least one of the jackalwere's allies is within 5 feet of the creature and the\
-    \ ally isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ ally isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
@@ -80,19 +83,14 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
   "name": "Scimitar (Human or Hybrid Form Only)"
 - "desc": "The jackalwere gazes at one creature it can see within 30 feet of it. The\
     \ target must make a DC 10 Wisdom saving throw. On a failed save, the target succumbs\
-    \ to a magical slumber, falling [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ to a magical slumber, falling [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
     \ for 10 minutes or until someone uses an action to shake the target awake. A\
     \ creature that successfully saves against the effect is immune to this jackalwere's\
-    \ gaze for the next 24 hours. Undead and creatures immune to being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ gaze for the next 24 hours. Undead and creatures immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
     \ aren't affected by it."
   "name": "Sleep Gaze"
 "source":
 - "MM"
-- "PotA"
-- "GoS"
-- "BGDIA"
-- "CM"
-- "JttRC"
 "image": "5. Mechanics/Bestiary/Humanoid/token/jackalwere.webp"
 ```
 ^statblock

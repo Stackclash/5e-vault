@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/8
+environments: underdark
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-8
   - monster/environment/underdark
   - monster/size/small
   - monster/type/aberration
-statblock: inline
 aliases:
   - Flumph
 ---
-# [[5. Mechanics/Bestiary/Aberration/Flumph.md|Flumph]]
+# [[5. Mechanics\Bestiary\Aberration\Flumph.md|Flumph]]
 *Source: Monster Manual p. 135*
 
 The mysterious flumphs drift through the Underdark, propelled through the air by the jets whose sound gives them their name. A flumph glows faintly, reflecting its moods in its color. Soft pink means it is amused, deep blue is sadness, green expresses curiosity, and crimson is anger.
@@ -58,13 +61,13 @@ Flumphs live in complex and organized groups called cloisters, within which each
 "cr": "1/8"
 "traits":
 - "desc": "The flumph can perceive the content of any telepathic communication used\
-    \ within 60 feet of it, and it can't be surprised by creatures with any form of\
-    \ telepathy."
+    \ within 60 feet of it, and it can't be [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]]\
+    \ by creatures with any form of telepathy."
   "name": "Advanced Telepathy"
-- "desc": "If the flumph is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
-    \ roll a die. On an odd result, the flumph lands upside-down and is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
+- "desc": "If the flumph is knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
+    \ roll a die. On an odd result, the flumph lands upside-down and is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]].\
     \ At the end of each of its turns, the flumph can make a DC 10 Dexterity saving\
-    \ throw, righting itself and ending the [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ throw, righting itself and ending the [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
     \ condition if it succeeds."
   "name": "Prone Deficiency"
 - "desc": "The flumph is immune to any effect that would sense its emotions or read\
@@ -81,17 +84,13 @@ Flumphs live in complex and organized groups called cloisters, within which each
 - "desc": "Each creature in a 15-foot cone originating from the flumph must succeed\
     \ on a DC 10 Dexterity saving throw or be coated in a foul-smelling liquid. A\
     \ coated creature exudes a horrible stench for 1d4 hours. The coated creature\
-    \ is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] as long as the stench\
-    \ lasts, and other creatures are [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ is [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] as long as the stench\
+    \ lasts, and other creatures are [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
     \ while with in 5 feet of the coated creature. A creature can remove the stench\
     \ on itself by using a short rest to bathe in water, alcohol, or vinegar."
   "name": "Stench Spray (1/Day)"
 "source":
 - "MM"
-- "WDMM"
-- "LoX"
-- "PaBTSO"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Aberration/token/flumph.webp"
 ```
 ^statblock

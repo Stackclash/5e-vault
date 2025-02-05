@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: 'underdark, mountain, grassland, forest, swamp, hill, arctic'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
@@ -13,12 +17,11 @@ tags:
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/humanoid/orc
-statblock: inline
 aliases:
   - Orc
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Orc.md|Orc]]
-*Source: Monster Manual p. 246, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Humanoid\Orc.md|Orc]]
+*Source: Monster Manual p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
@@ -86,21 +89,6 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
   "name": "Javelin"
 "source":
 - "MM"
-- "HotDQ"
-- "LMoP"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "GoS"
-- "DIP"
-- "ERLW"
-- "RMBRE"
-- "EGW"
-- "IDRotF"
-- "CRCotN"
-- "HftT"
-- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Humanoid/token/orc.webp"
 ```
 ^statblock

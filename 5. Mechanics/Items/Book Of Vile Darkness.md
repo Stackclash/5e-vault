@@ -5,12 +5,11 @@ tags:
   - compendium/src/5e/dmg
   - item/attunement/required
   - item/rarity/artifact
-  - item/wondrous
 aliases:
   - Book of Vile Darkness
 ---
 # Book of Vile Darkness
-*Wondrous Item, artifact (requires attunement)*  
+*Wondrous item, artifact (requires attunement)*  
 ![[5. Mechanics/Items/img/book-of-vile-darkness.webp#right]]  
 
 - **Weight**: 5.0 lbs.
@@ -56,13 +55,13 @@ You can reference the Book of Vile Darkness whenever you make an Intelligence ch
 
 ## Dark Speech
 
-While you carry the Book of Vile Darkness and are attuned to it, you can use an action to recite words from its pages in a foul language known as Dark Speech. Each time you do so, you take `dice: 1d12|avg|noform` (`1d12`) psychic damage, and each non-evil creature within 15 feet of you takes `dice: 3d6|avg|noform` (`3d6`) psychic damage.
+While you carry the Book of Vile Darkness and are attuned to it, you can use an action to recite words from its pages in a foul language known as Dark Speech. Each time you do so, you take `dice:1d12|noform|avg` (`1d12`) psychic damage, and each non-evil creature within 15 feet of you takes `dice:3d6|noform|avg` (`3d6`) psychic damage.
 
 ## Destroying the Book
 
 The Book of Vile Darkness allows pages to be torn from it, but any evil lore contained on those pages finds its way back into the book eventually, usually when a new author adds pages to the tome.
 
-If a [[5. Mechanics/Bestiary/Celestial/Solar.md\|solar]] tears the book in two, the book is destroyed for `dice: 1d100|avg|noform` (`1d100`) years, after which it reforms in some dark corner of the multiverse.
+If a [[5. Mechanics/Bestiary/Celestial/Solar.md\|solar]] tears the book in two, the book is destroyed for `dice:1d100|noform|avg` (`1d100`) years, after which it reforms in some dark corner of the multiverse.
 
 A creature attuned to the book for one hundred years can unearth a phrase hidden in the original text that, when translated to Celestial and spoken aloud, destroys both the speaker and the book in a blinding flash of radiance. However, as long as evil exists in the multiverse, the book reforms `1d10 × 100` years later.
 

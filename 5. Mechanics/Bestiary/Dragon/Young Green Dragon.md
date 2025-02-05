@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 8
+environments: forest
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/8
   - monster/environment/forest
   - monster/size/large
   - monster/type/dragon
-statblock: inline
 aliases:
   - Young Green Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young Green Dragon.md|Young Green Dragon]]
-*Source: Monster Manual p. 94. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Dragon\Young Green Dragon.md|Young Green Dragon]]
+*Source: Monster Manual p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
 
@@ -46,7 +49,7 @@ Green dragons accept the servitude of sentient creatures such as goblinoids, ett
 
 A green dragon's favored treasures are the sentient creatures it bends to its will, including significant figures such as popular heroes, well-known sages, and renowned bards. Among material treasures, a green dragon favors emeralds, wood carvings, musical instruments, and sculptures of humanoid subjects.
 
-> [!quote]- A quote from Pelios of Ergoth, Silvanesti seer  
+> [!quote] A quote from Pelios of Ergoth, Silvanesti seer  
 > 
 > I see an ancient elf king, his majesty long since faded, slumped and half asleep in his throne. A green dragon whispers in the king's ear, corrupting and twisting the king's dreams. This dragon's name is Cyan Bloodbane, and he means the destruction of us all.
 
@@ -131,7 +134,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "Stealth": !!int "4"
   "Perception": !!int "7"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "8"
@@ -153,15 +156,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Poison Breath (Recharge 5-6)"
 "source":
 - "MM"
-- "RoT"
-- "SKT"
-- "WDMM"
-- "BGDIA"
-- "RMBRE"
-- "HftT"
-- "PaBTSO"
-- "LK"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Dragon/token/young-green-dragon.webp"
 ```
 ^statblock

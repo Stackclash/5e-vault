@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 12
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/12
   - monster/size/medium
   - monster/type/fiend/yugoloth
-statblock: inline
 aliases:
   - Arcanaloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Arcanaloth.md|Arcanaloth]]
+# [[5. Mechanics\Bestiary\Fiend\Arcanaloth.md|Arcanaloth]]
 *Source: Monster Manual p. 313, Curse of Strahd, Tasha's Cauldron of Everything*
 
 Arcanaloths are sly, jackal-headed beings with humanoid bodies, but they can employ magic to take any humanoid form. They do so to gain the trust of creatures with whom they negotiate, replacing jackal snarls with winsome smiles. Regardless of its chosen form, an arcanaloth appears well groomed, clothing itself in fine robes. Highly intelligent spellcasters who hunger for knowledge and power, arcanaloths command units of lesser yugoloths and maintain the contracts, records, and accounts of their kind.
@@ -55,15 +58,15 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > 
 > **Summon Yugoloth (1/Day).** The yugoloth chooses what to summon and attempts a magical summoning.
 > 
-> - An arcanaloth has a 40% chance chance of summoning one arcanaloth.  
-> - A mezzoloth has a 30% chance chance of summoning one mezzoloth.  
-> - A nycaloth has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) mezzoloths or one nycaloth.  
-> - An ultroloth has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) mezzoloths, `dice: 1d4|avg|noform` (`1d4`) nycaloths, or one ultroloth.  
+> - An arcanaloth has a 40 percent chance of summoning one arcanaloth.  
+> - A mezzoloth has a 30 percent chance of summoning one mezzoloth.  
+> - A nycaloth has a 50 percent chance of summoning `dice:1d4|noform|avg` (`1d4`) mezzoloths or one nycaloth.  
+> - An ultroloth has a 50 percent chance of summoning `dice:1d6|noform|avg` (`1d6`) mezzoloths, `dice:1d4|noform|avg` (`1d4`) nycaloths, or one ultroloth.  
 > 
 > A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for l minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it
 ^variant-yugoloth-summoning
 
-> [!quote]- A quote from Shemeshka the Marauder  
+> [!quote] A quote from Shemeshka the Marauder  
 > 
 > Power. We all crave it, but only a select few of us deserve it.
 
@@ -99,7 +102,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 17"
 "languages": "all, telepathy 120 ft."
 "cr": "12"
@@ -107,7 +110,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "desc": "The arcanaloth's innate spellcasting ability is Charisma (spell save DC\
     \ 15). The arcanaloth can innately cast the following spells, requiring no material\
     \ components:\n\nAt will: [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
-    \ [[5. Mechanics/Spells/Heat Metal.md|heat metal]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
+    \ [[5. Mechanics/Spells/Heat Met(AL).md|heat metal]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
     \ (self only), [[5. Mechanics/Spells/Magic Missile.md|magic missile]]"
   "name": "Innate Spellcasting"
 - "desc": "The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is\
@@ -145,16 +148,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "source":
 - "MM"
 - "CoS"
-- "ToA"
-- "WDMM"
-- "BGDIA"
-- "IDRotF"
 - "TCE"
-- "KftGV"
-- "PSI"
-- "PaBTSO"
-- "AATM"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Fiend/token/arcanaloth.webp"
 ```
 ^statblock

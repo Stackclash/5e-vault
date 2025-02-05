@@ -8,94 +8,194 @@ aliases:
   - Sorcerer
 ---
 # Sorcerer
-*Source: Player's Handbook p. 99. Available in the SRD.*  
+*Source: Player's Handbook p. 99. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-> [!tldr]- Feature progression
+> [!tldr] Class and Feature Progression
 > 
-> | Level | PB | Features |
-> |-------|----|----------|
-> | 1st | +2 | [Spellcasting](#Spellcasting%20(Level%201)), [Sorcerous Origin](#Sorcerous%20Origin%20(Level%201)) |
-> | 2nd | +2 | [Font of Magic](#Font%20of%20Magic%20(Level%202)) |
-> | 3rd | +2 | [Metamagic](#Metamagic%20(Level%203)), [Metamagic Options](#Metamagic%20Options%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Sorcerous Versatility](#Sorcerous%20Versatility%20(Level%204)) |
-> | 5th | +3 | [Magical Guidance](#Magical%20Guidance%20(Level%205)) |
-> | 6th | +3 | [Sorcerous Origin feature](#Sorcerous%20Origin%20feature%20(Level%206)) |
-> | 7th | +3 | ⏤ |
-> | 8th | +3 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%208)) |
-> | 9th | +4 | ⏤ |
-> | 10th | +4 | [Metamagic](#Metamagic%20(Level%2010)) |
-> | 11th | +4 | ⏤ |
-> | 12th | +4 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2012)) |
-> | 13th | +5 | ⏤ |
-> | 14th | +5 | [Sorcerous Origin feature](#Sorcerous%20Origin%20feature%20(Level%2014)) |
-> | 15th | +5 | ⏤ |
-> | 16th | +5 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2016)) |
-> | 17th | +6 | [Metamagic](#Metamagic%20(Level%2017)) |
-> | 18th | +6 | [Sorcerous Origin feature](#Sorcerous%20Origin%20feature%20(Level%2018)) |
-> | 19th | +6 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2019)) |
-> | 20th | +6 | [Sorcerous Restoration](#Sorcerous%20Restoration%20(Level%2020)) |
-> 
-> - PB: Proficiency Bonus
-^feature-progression
-
-> [!tldr]- Class progression
-> 
-> | Level | Sorcery Points | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-> |-------|----------------|----------------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-> | 1st | ⏤ | 4 | 2 | 2 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 2nd | 2 | 4 | 3 | 3 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 3rd | 3 | 4 | 4 | 4 | 2 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 4th | 4 | 5 | 5 | 4 | 3 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 5th | 5 | 5 | 6 | 4 | 3 | 2 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 6th | 6 | 5 | 7 | 4 | 3 | 3 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 7th | 7 | 5 | 8 | 4 | 3 | 3 | 1 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 8th | 8 | 5 | 9 | 4 | 3 | 3 | 2 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 9th | 9 | 5 | 10 | 4 | 3 | 3 | 3 | 1 | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 10th | 10 | 6 | 11 | 4 | 3 | 3 | 3 | 2 | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 11th | 11 | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | ⏤ | ⏤ | ⏤ |
-> | 12th | 12 | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | ⏤ | ⏤ | ⏤ |
-> | 13th | 13 | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | ⏤ | ⏤ |
-> | 14th | 14 | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | ⏤ | ⏤ |
-> | 15th | 15 | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | ⏤ |
-> | 16th | 16 | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | ⏤ |
-> | 17th | 17 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-> | 18th | 18 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-> | 19th | 19 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-> | 20th | 20 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-> 
-> - 1st-9th: Spell slots per level
-^class-progression
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='6'></th><th colspan='9'>Spell Slots per Spell Level</th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Sorcery Points</th><th class="value">Cantrips Known</th><th class="value">Spells Known</th><th class="spellSlot">1st</th><th class="spellSlot">2nd</th><th class="spellSlot">3rd</th><th class="spellSlot">4th</th><th class="spellSlot">5th</th><th class="spellSlot">6th</th><th class="spellSlot">7th</th><th class="spellSlot">8th</th><th class="spellSlot">9th</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Spellcasting%20(Level%201)'>Spellcasting</a>, <a href='#Sorcerous%20Origin%20(Level%201)'>Sorcerous Origin</a></td><td class="value">⏤</td><td class="value">4</td><td class="value">2</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Font%20of%20Magic%20(Level%202)'>Font of Magic</a></td><td class="value">2</td><td class="value">4</td><td class="value">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Metamagic%20(Level%203)'>Metamagic</a>, <a href='#Metamagic%20Options%20(Level%203)'>Metamagic Options</a></td><td class="value">3</td><td class="value">4</td><td class="value">4</td><td class="spellSlot">4</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a>, <a href='#Sorcerous%20Versatility%20(Level%204)'>Sorcerous Versatility</a></td><td class="value">4</td><td class="value">5</td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Magical%20Guidance%20(Level%205)'>Magical Guidance</a></td><td class="value">5</td><td class="value">5</td><td class="value">6</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Sorcerous%20Origin%20feature%20(Level%206)'>Sorcerous Origin feature</a></td><td class="value">6</td><td class="value">5</td><td class="value">7</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td><td class="value">7</td><td class="value">5</td><td class="value">8</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td><td class="value">8</td><td class="value">5</td><td class="value">9</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td><td class="value">9</td><td class="value">5</td><td class="value">10</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Metamagic%20(Level%2010)'>Metamagic</a></td><td class="value">10</td><td class="value">6</td><td class="value">11</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td><td class="value">11</td><td class="value">6</td><td class="value">12</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td><td class="value">12</td><td class="value">6</td><td class="value">12</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td><td class="value">13</td><td class="value">6</td><td class="value">13</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Sorcerous%20Origin%20feature%20(Level%2014)'>Sorcerous Origin feature</a></td><td class="value">14</td><td class="value">6</td><td class="value">13</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td><td class="value">15</td><td class="value">6</td><td class="value">14</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td><td class="value">16</td><td class="value">6</td><td class="value">14</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Metamagic%20(Level%2017)'>Metamagic</a></td><td class="value">17</td><td class="value">6</td><td class="value">15</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Sorcerous%20Origin%20feature%20(Level%2018)'>Sorcerous Origin feature</a></td><td class="value">18</td><td class="value">6</td><td class="value">15</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2019)'>Ability Score Improvement</a></td><td class="value">19</td><td class="value">6</td><td class="value">15</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Sorcerous%20Restoration%20(Level%2020)'>Sorcerous Restoration</a></td><td class="value">20</td><td class="value">6</td><td class="value">15</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
+> </tbody></table>
+^class-progession
 
 ## Hit Points
 
 - **Hit Dice**: 1d6 per Sorcerer level
 - **Hit Points at First Level:** 6 + CON
-- **Hit Points at Higher Levels:** add 3 OR 1d6 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON  (minimum of 1)
 
 ## Starting Sorcerer
 
-You are proficient with the following items, in addition to any proficiencies provided by your race or background.
-
-- **Saving Throws**: Constitution, Charisma
+- **Saving Throws**: Charisma, Constitution
 - **Armor**: none
 - **Weapons**: [[5. Mechanics/Items/Dagger.md\|daggers]], [[5. Mechanics/Items/Dart.md\|darts]], [[5. Mechanics/Items/Sling.md\|slings]], [[5. Mechanics/Items/Quarterstaff.md\|quarterstaffs]], [[5. Mechanics/Items/Light Crossbow.md\|light crossbows]]
 - **Tools**: none
-- **Skills**: Choose 2 from *Arcana*, *Deception*, *Insight*, *Intimidation*, *Persuasion*, *Religion*
+- **Skills**: choose 2 from [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], [[/5. Mechanics/Rules/Skills.md#Deception\|Deception]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]], [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]], and [[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]
 
-You begin play with the following equipment, in addition to any equipment provided by your background.
+You start with the following items, plus anything provided by your background.
 
-- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon  
-- (a) a [[5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[5. Mechanics/Items/Arcane Focus.md\|arcane focus]]  
-- (a) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
-- Two [[5. Mechanics/Items/Dagger.md\|daggers]]  
+- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon
+- (a) a [[5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]]
+- (a) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
+- Two [[5. Mechanics/Items/Dagger.md\|daggers]]
 
-Alternatively, you may start with 3d4 × 10 gp and choose your own equipment.
+Alternatively, you may start with 3d4 × 10 gp to buy your own equipment.
 
 ## Multiclassing Sorcerer
 
-To multiclass as a Sorcerer, you must meet the following prerequisites:
+**Ability Score Minimum:**Charisma 13
 
-- Charisma 13
+## Sorcerer
+
+Golden eyes flashing, a human stretches out her hand and unleashes the dragonfire that burns in her veins. As an inferno rages around her foes, leathery wings spread from her back and she takes to the air.
+
+Long hair whipped by a conjured wind, a half-elf spreads his arms wide and throws his head back. Lifting him momentarily off the ground, a wave of magic surges up in him, through him, and out from him in a mighty blast of lightning.
+
+Crouching behind a stalagmite, a halfling points a finger at a charging troglodyte. A blast of fire springs from her finger to strike the creature. She ducks back behind the rock formation with a grin, unaware that her wild magic has turned her skin bright blue.
+
+Sorcerers carry a magical birthright conferred upon them by an exotic bloodline, some otherworldly influence, or exposure to unknown cosmic forces. One can't study sorcery as one learns a language, any more than one can learn to live a legendary life. No one chooses sorcery; the power chooses the sorcerer.
+
+### Raw Magic
+
+Magic is a part of every sorcerer, suffusing body, mind, and spirit with a latent power that waits to be tapped. Some sorcerers wield magic that springs from an ancient bloodline infused with the magic of dragons. Others carry a raw, uncontrolled magic within them, a chaotic storm that manifests in unexpected ways.
+
+The appearance of sorcerous powers is wildly unpredictable. Some draconic bloodlines produce exactly one sorcerer in every generation, but in other lines of descent every individual is a sorcerer. Most of the time, the talents of sorcery appear as apparent flukes. Some sorcerers can't name the origin of their power, while others trace it to strange events in their own lives. The touch of a demon, the blessing of a dryad at a baby's birth, or a taste of the water from a mysterious spring might spark the gift of sorcery. So too might the gift of a deity of magic, exposure to the elemental forces of the Inner Planes or the maddening chaos of Limbo, or a glimpse into the inner workings of reality.
+
+Sorcerers have no use for the spellbooks and ancient tomes of magic lore that wizards rely on, nor do they rely on a patron to grant their spells as warlocks do. By learning to harness and channel their own inborn magic, they can discover new and staggering ways to unleash that power.
+
+### Unexplained Powers
+
+Sorcerers are rare in the world, and it's unusual to find a sorcerer who is not involved in the adventuring life in some way. People with magical power seething in their veins soon discover that the power doesn't like to stay quiet. A sorcerer's magic wants to be wielded, and it has a tendency to spill out in unpredictable ways if it isn't called on.
+
+Sorcerers often have obscure or quixotic motivations driving them to adventure. Some seek a greater understanding of the magical force that infuses them, or the answer to the mystery of its origin. Others hope to find a way to get rid of it, or to unleash its full potential. Whatever their goals, sorcerers are every bit as useful to an adventuring party as wizards, making up for a comparative lack of breadth in their magical knowledge with enormous flexibility in using the spells they know.
+
+### Creating a Sorcerer
+
+The most important question to consider when creating your sorcerer is the origin of your power. As a starting character, you'll choose an origin that ties to a draconic bloodline or the influence of wild magic, but the exact source of your power is up to you to decide. Is it a family curse, passed down to you from distant ancestors? Or did some extraordinary event leave you blessed with inherent magic but perhaps scarred as well?
+
+How do you feel about the magical power coursing through you? Do you embrace it, try to master it, or revel in its unpredictable nature? Is it a blessing or a curse? Did you seek it out, or did it find you? Did you have the option to refuse it, and do you wish you had? What do you intend to do with it? Perhaps you feel like you've been given this power for some lofty purpose. Or you might decide that the power gives you the right to do what you want, to take what you want from those who lack such power. Perhaps your power links you to a powerful individual in the world—the fey creature that blessed you at birth, the dragon who put a drop of its blood into your veins, the lich who created you as an experiment, or the deity who chose you to carry this power.
+
+#### Quick Build
+
+You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the [[5. Mechanics/Spells/Light.md\|light]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]], and [[5. Mechanics/Spells/Shocking Grasp.md\|shocking grasp]] cantrips, along with the 1st-level spells [[5. Mechanics/Spells/Shield.md\|shield]] and [[5. Mechanics/Spells/Magic Missile.md\|magic missile]].
+
+> [!quote] A quote from Hennet, scion of Tiamat  
+> 
+> Practice and study are for amateurs. True power is a birthright.
+
+When it comes to drawing forth their abilities in times of need, sorcerers have it easy compared to other characters. Their power not only rests within them, but it likely takes some effort to keep it at bay. Every sorcerer is born to the role, or stumbles into it through cosmic chance. Unlike other characters, who must actively learn, embrace, and pursue their talents, sorcerers have their power thrust upon them.
+
+Because the idea of an innately magical being traveling among them does not sit well with many folk, sorcerers tend to breed mistrust and suspicion in others they come across. Nonetheless, many sorcerers succeed in overcoming that prejudice through deeds that benefit their less magically gifted contemporaries.
+
+Sorcerers are often defined by the events surrounding the manifestation of their power. For those who receive it as an expected birthright, its appearance is a cause for celebration. Other sorcerers are treated as outcasts, banished from their homes after the sudden, terrifying arrival of their abilities.
+
+Playing a sorcerer character can be as rewarding as it is challenging. The sections below offer suggestions on how to flesh out and personalize your persona.
+
+## Arcane Origins
+_Source: Xanathar's Guide to Everything_
+
+Some sorcerers understand where their power came from, based on how their abilities manifested. Others can only speculate, since their powers came to them in a way that suggests no particular cause.
+
+Does your character know the source of your magical power? Does it tie back to some distant relative, a cosmic event, or blind chance? If your sorcerer doesn't know where their power arose from, your DM can use this table (or select an origin) and reveal it to you when the information plays a role in the campaign.
+
+**Arcane Origins**
+
+`dice: [[Sorcerer.md#^arcane-origins]]`
+
+| dice: d6 | Origin |
+|----------|--------|
+| 1 | Your power arises from your family's bloodline. You are related to some powerful creature, or you inherited a blessing or a curse. |
+| 2 | You are the reincarnation of a being from another plane of existence. |
+| 3 | A powerful entity entered the world. Its magic changed you. |
+| 4 | Your birth was prophesied in an ancient text, and you are foretold to use your power for terrible ends. |
+| 5 | You are the product of generations of careful, selective breeding. |
+| 6 | You were made in a vat by an alchemist. |
+^arcane-origins
+
+## Reaction
+_Source: Xanathar's Guide to Everything_
+
+When a new sorcerer enters the world, either at birth or later when one's power becomes evident, the consequences of that event depend greatly on how its witnesses react to what they have seen.
+
+When your sorcerer's powers appeared, how did the world around you respond? Were other people supportive, fearful, or somewhere in between?
+
+**Reactions**
+
+`dice: [[Sorcerer.md#^reactions]]`
+
+| dice: d6 | Reaction |
+|----------|----------|
+| 1 | Your powers are seen as a great blessing by those around you, and you are expected to use them in service to your community. |
+| 2 | Your powers caused destruction and even a death when they became evident, and you were treated as a criminal. |
+| 3 | Your neighbors hate and fear your power, causing them to shun you. |
+| 4 | You came to the attention of a sinister cult that plans on exploiting your abilities. |
+| 5 | People around you believe that your powers are a curse levied on your family for a past transgression. |
+| 6 | Your powers are believed to be tied to an ancient line of mad kings that supposedly ended in a bloody revolt over a century ago. |
+^reactions
+
+## Supernatural Mark
+_Source: Xanathar's Guide to Everything_
+
+A sorcerer at rest is almost indistinguishable from a normal person; it's only when their magic flies forth that sorcerers reveal their true nature. Even so, many sorcerers have a subtle but telling physical trait that sets them apart from other folk.
+
+If your sorcerer has a supernatural mark, it might be one that's easily concealed, or it could be a source of pride that you keep on constant display.
+
+**Supernatural Marks**
+
+`dice: [[Sorcerer.md#^supernatural-marks]]`
+
+| dice: d6 | Mark |
+|----------|------|
+| 1 | Your eyes are an unusual color, such as red. |
+| 2 | You have an extra toe on one foot. |
+| 3 | One of your ears is noticeably larger than the other. |
+| 4 | Your hair grows at a prodigious rate. |
+| 5 | You wrinkle your nose repeatedly while you are chewing. |
+| 6 | A red splotch appears on your neck once a day, then vanishes after an hour. |
+^supernatural-marks
+
+## Signs of Sorcery
+_Source: Xanathar's Guide to Everything_
+
+As the world well knows, some sorcerers are better than others at controlling their spellcasting. Sometimes a wild display of magic gone awry emanates from a sorcerer who casts a spell. But even when one's magic goes off as planned, the act of casting is often accompanied by a telltale sign that makes it clear where that magical energy came from.
+
+When your sorcerer character casts a spell, does the effort reveal itself in a sign of sorcery? Is this sign tied to your origin or some other aspect of who you are, or is it a seemingly random phenomenon?
+
+**Signs of Sorcery**
+
+`dice: [[Sorcerer.md#^signs-of-sorcery]]`
+
+| dice: d6 | Sign |
+|----------|------|
+| 1 | You deliver the verbal components of your spells in the booming voice of a titan. |
+| 2 | For a moment after you cast a spell, the area around you grows dark and gloomy. |
+| 3 | You sweat profusely while casting a spell and for a few seconds thereafter. |
+| 4 | Your hair and garments are briefly buffeted about, as if by a breeze, whenever you call forth a spell. |
+| 5 | If you are standing when you cast a spell, you rise six inches into the air and gently float back down. |
+| 6 | Illusory blue flames wreathe your head as you begin your casting, then abruptly disappear. |
+^signs-of-sorcery
 
 ## Class Features
 
@@ -125,13 +225,13 @@ Additionally, when you gain a level in this class, you can choose one of the sor
 
 Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
 
-**Spell save DC**: 8 + your proficiency bonus + your Charisma modifier
+<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Charisma modifier</span>
 
-**Spell attack modifier**: your proficiency bonus + your Charisma modifier
+<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma modifier</span>
 
 #### Spellcasting Focus
 
-You can use an [[5. Mechanics/Items/Arcane Focus.md\|arcane focus]] as a spellcasting focus for your sorcerer spells.
+You can use an [[5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]] as a spellcasting focus for your sorcerer spells.
 
 ### Sorcerous Origin (Level 1)
 
@@ -188,7 +288,7 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 ### Metamagic Options (Level 3)
 _Source: Tasha's Cauldron of Everything p. 65_
 
-*3rd-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
+*3rd-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
 
 When you choose Metamagic options, you have access to the following additional options.
 
@@ -201,19 +301,19 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Sorcerous Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 65_
 
-*4th-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
+*4th-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways:
 
-- Replace one of the options you chose for the Metamagic feature with a different [[5. Mechanics/Optional Features/List Metamagic.md\|Metamagic option]] available to you.  
+- Replace one of the options you chose for the Metamagic feature with a different [[5. Mechanics/Lists/List Optfeaturetype (MM).md\|Metamagic option]] available to you.  
 - Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the sorcerer spell list.  
 
 ### Magical Guidance (Level 5)
 _Source: Tasha's Cauldron of Everything p. 65_
 
-*5th-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
+*5th-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
 
-You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the `dice: d20|avg|noform` (`d20`), and you must use the new roll, potentially turning the failure into a success.
+You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the `dice:d20|noform|avg` (`d20`), and you must use the new roll, potentially turning the failure into a success.
 
 ### Sorcerous Origin feature (Level 6)
 
@@ -265,6 +365,6 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 
 ## Optional Features
 
-> [!example]- Metamagic
-> ![[5. Mechanics/Optional Features/List Metamagic.md#Metamagic\|Metamagic]]
-^list-metamagic
+> [!example]- Optional Features: Metamagic
+> ![[5. Mechanics/Lists/List Optfeaturetype (MM).md#Metamagic\|Metamagic]]
+^list-optfeature-mm

@@ -3,11 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
-  - spell/level/7
+  - spell/level/7th-level
   - spell/school/transmutation
+level: 7th-level
+range: false
+school: Transmutation
+time: 1 action
+duration: 'Concentration, up to 1 minute'
+components: 'V, S, a lodestone and iron filings'
 aliases:
   - Reverse Gravity
 ---
@@ -25,6 +32,6 @@ If some solid object (such as a ceiling) is encountered in this fall, falling ob
 
 At the end of the duration, affected objects and creatures fall back down.
 
-**Classes**: [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]
 
-*Source: Player's Handbook p. 272. Available in the SRD.*
+*Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

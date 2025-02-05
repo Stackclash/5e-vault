@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/undead
-statblock: inline
 aliases:
   - Wraith
 ---
-# [[5. Mechanics/Bestiary/Undead/Wraith.md|Wraith]]
-*Source: Monster Manual p. 302, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Undead\Wraith.md|Wraith]]
+*Source: Monster Manual p. 302, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A wraith is malice incarnate, concentrated into an incorporeal form that seeks to quench all life. The creature is suffused with negative energy, and its mere passage through the world leaves nearby plants blackened and withered. Animals flee from its presence. Even small fires can be extinguished by the sucking oblivion of the wraith's horrifying existence.
 
@@ -55,10 +58,10 @@ A wraith doesn't require air, food, drink, or sleep.
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks that aren't silvered"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "the languages it knew in life"
 "cr": "5"
@@ -87,31 +90,7 @@ A wraith doesn't require air, food, drink, or sleep.
 "source":
 - "MM"
 - "CoS"
-- "RoT"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SLW"
-- "SDW"
-- "BGDIA"
-- "EGW"
-- "MOT"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "JttRC"
-- "DSotDQ"
-- "KftGV"
-- "PSI"
-- "PaBTSO"
-- "AATM"
-- "SatO"
-- "BMT"
-- "GHLoE"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/wraith.webp"
 ```

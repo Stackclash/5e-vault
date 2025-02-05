@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/underdark
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Hook Horror
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Hook Horror.md|Hook Horror]]
+# [[5. Mechanics\Bestiary\Monstrosity\Hook Horror.md|Hook Horror]]
 *Source: Monster Manual p. 189*
 
 A fierce predator of the Underdark, the hook horror aggressively defends its hunting grounds. The subterranean caverns where these creatures dwell echo with the constant clacking and scraping of their hooks as they wend their way up cliffs and along cavern walls. The monstrous hook horror has a head resembling a vulture's and the torso of an enormous beetle, with an exoskeleton studded by sharp, bony protuberances. It gains its name from its long, powerfully built arms and legs, which end in wickedly curved hooked claws.
@@ -51,7 +54,7 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
 "languages": "Hook Horror"
 "cr": "3"
 "traits":
-- "desc": "The hook horror can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]."
+- "desc": "The hook horror can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]."
   "name": "Echolocation"
 - "desc": "The hook horror has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on hearing."
@@ -64,12 +67,6 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
   "name": "Hook"
 "source":
 - "MM"
-- "PotA"
-- "TftYP"
-- "WDMM"
-- "LoX"
-- "KftGV"
-- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/hook-horror.webp"
 ```
 ^statblock

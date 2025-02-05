@@ -17,7 +17,7 @@ The Dungeon Master employs many tools when preparing and running a D&D campaign.
 
 ## Session Zero
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > Establish boundaries. And if anyone crosses them, speak up. If they don't listen, there's always cloudkill...
 
@@ -38,9 +38,9 @@ During session zero, your role is to let the players build the characters they w
 - What does each character like most about every other member of the adventuring party?  
 - Does the group have a patron? See chapter 2, ""Group Patrons"" for patron examples.  
 
- If the players are having trouble coming up with a story for how their characters met, they may choose an option from the Party Origin table or let a `dice: d6|avg|noform` (`d6`) roll choose it for them. You should spend part of session zero helping the players flesh out the details. For example, if the characters came together to overcome a common foe, the identity of this enemy needs to be determined. If a funeral gathered the group, the identity of the deceased and each character's relationship to them will need to be fleshed out.
+ If the players are having trouble coming up with a story for how their characters met, they may choose an option from the Party Origin table or let a `dice:d6|noform|avg` (`d6`) roll choose it for them. You should spend part of session zero helping the players flesh out the details. For example, if the characters came together to overcome a common foe, the identity of this enemy needs to be determined. If a funeral gathered the group, the identity of the deceased and each character's relationship to them will need to be fleshed out.
 
-![[5. Mechanics/Tables/Party Formation Party Origin.md\|Party Formation; Party Origin]]
+![[5. Mechanics/Tables/Party Formation Party Origin (TCE).md\|Party Formation; Party Origin]]
 
 #### Running a Game for One Player
 
@@ -100,7 +100,7 @@ House rules include optional rules, such as those presented in "chapter 9" of th
 
 ## Sidekicks
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > My soon-to-be sidekick could learn a thing or two from all this—more material for Project Humblekainen.
 
@@ -141,7 +141,7 @@ Whenever a group's average level goes up, the sidekick gains a level. It doesn't
 
 Whenever the sidekick gains a level, it gains one Hit Die, and its hit point maximum increases. To determine the amount of the increase, roll the Hit Die (the type of die appears in the sidekick's stat block), and add its Constitution modifier. It gains a minimum of 1 hit point per level.
 
- If the sidekick drops to 0 hit points and isn't killed outright, it falls [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] and subsequently makes death saving throws, just like a player character.
+ If the sidekick drops to 0 hit points and isn't killed outright, it falls [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] and subsequently makes death saving throws, just like a player character.
 
 #### Proficiency Bonus
 
@@ -155,9 +155,9 @@ Whenever the sidekick gains the Ability Score Improvement feature, adjust anythi
 
  If it's unclear whether a melee attack in the stat block uses Strength or Dexterity, the attack can use either.
 
-- [[5. Mechanics/Classes/Expert Sidekick.md\|Expert Sidekick]]  
-- [[5. Mechanics/Classes/Spellcaster Sidekick.md\|Spellcaster Sidekick]]  
-- [[5. Mechanics/Classes/Warrior Sidekick.md\|Warrior Sidekick]]  
+- [[5. Mechanics/Classes/Expert Sidekick (TCE).md\|Expert Sidekick]]  
+- [[5. Mechanics/Classes/Spellcaster Sidekick (TCE).md\|Spellcaster Sidekick]]  
+- [[5. Mechanics/Classes/Warrior Sidekick (TCE).md\|Warrior Sidekick]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/092-04-003.webp#gallery\|"Experts, Left to Right: a Tortle, a Winged Kobold, and a Kenku"]]
@@ -166,7 +166,7 @@ Whenever the sidekick gains the Ability Score Improvement feature, adjust anythi
 
 ## Parleying with Monsters
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > Why fight if a lively chat is possible? If things get out of hand, just show yourself out with a dimension door.
 
@@ -178,41 +178,41 @@ Meeting a monster doesn't have to spark a fight. An offering, like food, can cal
 
 Adventurers can research what a creature is likely to desire. The Monster Research table suggests which skills can be used to learn about a creature of a particular type. The DC for a relevant ability check equals 10 + the creature's challenge rating.
 
-![[5. Mechanics/Tables/Monster Research.md\|Monster Research]]
+![[5. Mechanics/Tables/Monster Research (TCE).md\|Monster Research]]
 
 ### Monsters' Desires
 
-![[5. Mechanics/Tables/Monsters Desires Aberrations.md\|Monsters' Desires; Aberrations]]
+![[5. Mechanics/Tables/Monsters Desires Aberrations (TCE).md\|Monsters' Desires; Aberrations]]
 
-![[5. Mechanics/Tables/Monsters Desires Beasts.md\|Monsters' Desires; Beasts]]
+![[5. Mechanics/Tables/Monsters Desires Beasts (TCE).md\|Monsters' Desires; Beasts]]
 
-![[5. Mechanics/Tables/Monsters Desires Celestials.md\|Monsters' Desires; Celestials]]
+![[5. Mechanics/Tables/Monsters Desires Celestials (TCE).md\|Monsters' Desires; Celestials]]
 
-![[5. Mechanics/Tables/Monsters Desires Constructs.md\|Monsters' Desires; Constructs]]
+![[5. Mechanics/Tables/Monsters Desires Constructs (TCE).md\|Monsters' Desires; Constructs]]
 
-![[5. Mechanics/Tables/Monsters Desires Dragons.md\|Monsters' Desires; Dragons]]
+![[5. Mechanics/Tables/Monsters Desires Dragons (TCE).md\|Monsters' Desires; Dragons]]
 
-![[5. Mechanics/Tables/Monsters Desires Elementals.md\|Monsters' Desires; Elementals]]
+![[5. Mechanics/Tables/Monsters Desires Elementals (TCE).md\|Monsters' Desires; Elementals]]
 
-![[5. Mechanics/Tables/Monsters Desires Fey.md\|Monsters' Desires; Fey]]
+![[5. Mechanics/Tables/Monsters Desires Fey (TCE).md\|Monsters' Desires; Fey]]
 
-![[5. Mechanics/Tables/Monsters Desires Fiends.md\|Monsters' Desires; Fiends]]
+![[5. Mechanics/Tables/Monsters Desires Fiends (TCE).md\|Monsters' Desires; Fiends]]
 
-![[5. Mechanics/Tables/Monsters Desires Giants.md\|Monsters' Desires; Giants]]
+![[5. Mechanics/Tables/Monsters Desires Giants (TCE).md\|Monsters' Desires; Giants]]
 
-![[5. Mechanics/Tables/Monsters Desires Humanoids.md\|Monsters' Desires; Humanoids]]
+![[5. Mechanics/Tables/Monsters Desires Humanoids (TCE).md\|Monsters' Desires; Humanoids]]
 
-![[5. Mechanics/Tables/Monsters Desires Monstrosities.md\|Monsters' Desires; Monstrosities]]
+![[5. Mechanics/Tables/Monsters Desires Monstrosities (TCE).md\|Monsters' Desires; Monstrosities]]
 
-![[5. Mechanics/Tables/Monsters Desires Oozes.md\|Monsters' Desires; Oozes]]
+![[5. Mechanics/Tables/Monsters Desires Oozes (TCE).md\|Monsters' Desires; Oozes]]
 
-![[5. Mechanics/Tables/Monsters Desires Plants.md\|Monsters' Desires; Plants]]
+![[5. Mechanics/Tables/Monsters Desires Plants (TCE).md\|Monsters' Desires; Plants]]
 
-![[5. Mechanics/Tables/Monsters Desires Undead.md\|Monsters' Desires; Undead]]
+![[5. Mechanics/Tables/Monsters Desires Undead (TCE).md\|Monsters' Desires; Undead]]
 
 ## Environmental Hazards
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > When your earliest memories are of growing up in the Feywild, things like time-warping mushrooms, mind-bending fruit, and giant tabby cats seem far less whimsical and way more, "Could we please just move to the Material Plane so I can have some scrap of a normal childhood?!"
 
@@ -248,7 +248,7 @@ The grace of the Upper Planes touches this region. Consider rolling on the Bless
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/096-04-007.webp#center\|A Blessed Ki-rin Shrine]]
 
-![[5. Mechanics/Tables/Blessed Radiance Effects.md\|Blessed Radiance Effects]]
+![[5. Mechanics/Tables/Blessed Radiance Effects (TCE).md\|Blessed Radiance Effects]]
 
 #### Far Realm
 
@@ -258,13 +258,13 @@ As souls travel away from the Material Plane after death, they either dwell in t
 
  Consider rolling on the Far Realm Effects table when the following circumstances occur in a region touched by the Far Realm:
 
-- A warlock whose Otherworldly Patron is a Great Old One rolls a 1 or 20 on the `dice: d20|avg|noform` (`d20`) for an ability check, an attack roll, or a saving throw.  
+- A warlock whose Otherworldly Patron is a Great Old One rolls a 1 or 20 on the `dice:d20|noform|avg` (`d20`) for an ability check, an attack roll, or a saving throw.  
 - The characters take a short or long rest in the region.  
 - A creature spends more than an hour reading an eldritch tome written by those who have seen or otherwise interacted with the Far Realm.  
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/097-04-008.webp#center\|A Far Realm Incursion with Mind Flayer Nautiloids]]
 
-![[5. Mechanics/Tables/Far Realm Effects.md\|Far Realm Effects]]
+![[5. Mechanics/Tables/Far Realm Effects (TCE).md\|Far Realm Effects]]
 
 #### Haunted
 
@@ -272,7 +272,7 @@ Haunted environs include homes burdened by dark deeds, the sites of mass killing
 
  Consider rolling on the Haunted Effects table when the following circumstances occur in the region:
 
-- A creature gains the [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] condition.  
+- A creature gains the [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] condition.  
 - Multiple creatures are unable to see.  
 - A creature is alone.  
 - Midnight or another ominous hour arrives.  
@@ -280,7 +280,7 @@ Haunted environs include homes burdened by dark deeds, the sites of mass killing
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/098-04-009.webp#center\|A Haunted Manor]]
 
-![[5. Mechanics/Tables/Haunted Effects.md\|Haunted Effects]]
+![[5. Mechanics/Tables/Haunted Effects (TCE).md\|Haunted Effects]]
 
 #### Infested
 
@@ -296,7 +296,7 @@ On many worlds, the biomass of insects radically outweighs that of higher organi
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/099-04-010.webp#center\|An Infested City]]
 
-![[5. Mechanics/Tables/Infested Effects.md\|Infested Effects]]
+![[5. Mechanics/Tables/Infested Effects (TCE).md\|Infested Effects]]
 
 #### Mirror Zone
 
@@ -311,7 +311,7 @@ A mirror zone occurs where planar and magical energies converge and create a pla
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/100-04-011.webp#center\|A Tailor Shop in a Mirror Zone]]
 
-![[5. Mechanics/Tables/Mirror Zone Effects.md\|Mirror Zone Effects]]
+![[5. Mechanics/Tables/Mirror Zone Effects (TCE).md\|Mirror Zone Effects]]
 
 #### Psychic Resonance
 
@@ -321,12 +321,12 @@ In an area of psychic resonance, magic imposes strange effects on creatures and 
 
 - A creature endures a powerful emotional experience.  
 - A creature takes an amount of psychic damage greater than its Constitution score.  
-- A creature becomes [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]].  
+- A creature becomes [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].  
 - A creature experiences telepathic communication.  
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/101-04-012.webp#center\|"Animals converse after gaining sapience from ambient psychic energy."]]
 
-![[5. Mechanics/Tables/Psychic Resonance Effects.md\|Psychic Resonance Effects]]
+![[5. Mechanics/Tables/Psychic Resonance Effects (TCE).md\|Psychic Resonance Effects]]
 
 > [!note] Awaken Anything
 > 
@@ -345,7 +345,7 @@ The source of magic is damaged or corrupted in this region. Magic is unpredictab
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/102-04-013.webp#center\|A wood elf child reaches for unraveling magic.]]
 
-![[5. Mechanics/Tables/Unraveling Magic Effects.md\|Unraveling Magic Effects]]
+![[5. Mechanics/Tables/Unraveling Magic Effects (TCE).md\|Unraveling Magic Effects]]
 
 ### Magical Phenomena
 
@@ -357,10 +357,10 @@ Magic has the ability to make even the most serene natural settings unpredictabl
 
 When magical currents become trapped amid winds and clouds, eldritch storms can result.
 
-- [[5. Mechanics/Traps Hazards/Flaywind.md\|Flaywind]]  
-- [[5. Mechanics/Traps Hazards/Flame Storm.md\|Flame Storm]]  
-- [[5. Mechanics/Traps Hazards/Necrotic Tempest.md\|Necrotic Tempest]]  
-- [[5. Mechanics/Traps Hazards/Thryms Howl.md\|Thrym's Howl]]  
+- [[5. Mechanics/Traps Hazards/Flaywind (TCE).md\|Flaywind]]  
+- [[5. Mechanics/Traps Hazards/Flame Storm (TCE).md\|Flame Storm]]  
+- [[5. Mechanics/Traps Hazards/Necrotic Tempest (TCE).md\|Necrotic Tempest]]  
+- [[5. Mechanics/Traps Hazards/Thryms Howl (TCE).md\|Thrym's Howl]]  
 
 #### Emotional Echoes
 
@@ -412,7 +412,7 @@ Enchanted springs brim with miraculous waters, whether they tap into magical sou
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/104-04-015.webp#center\|Enchanted Spring]]
 
-![[5. Mechanics/Tables/Enchanted Springs Enchanted Spring Effects.md\|Enchanted Springs; Enchanted Spring Effects]]
+![[5. Mechanics/Tables/Enchanted Springs Enchanted Spring Effects (TCE).md\|Enchanted Springs; Enchanted Spring Effects]]
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/105-04-016.webp#center\|Magic Mushrooms]]
 
@@ -424,7 +424,7 @@ Creatures proficient in the [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]
 
 To determine the effects of eating such fungus, roll on the Magic Mushroom Effects table.
 
-![[5. Mechanics/Tables/Magic Mushrooms Magic Mushroom Effects.md\|Magic Mushrooms; Magic Mushroom Effects]]
+![[5. Mechanics/Tables/Magic Mushrooms Magic Mushroom Effects (TCE).md\|Magic Mushrooms; Magic Mushroom Effects]]
 
 #### Mimic Colonies
 
@@ -432,7 +432,7 @@ Mimics imitate terrain and dungeon dressing to hunt for food. Rare specimens dev
 
 ##### Mimic Communication
 
-Members of the colony develop telepathy and the ability to speak. While within 10 miles of the colony, any mimic can communicate telepathically with other creatures within 120 feet of it and can speak Common and Undercommon fluently (or two other languages of the DM's choice). The colony's offspring gain these abilities innately and can use them even away from the colony, as shown in the [[5. Mechanics/Bestiary/Monstrosity/Juvenile Mimic.md\|Juvenile Mimic]] stat block.
+Members of the colony develop telepathy and the ability to speak. While within 10 miles of the colony, any mimic can communicate telepathically with other creatures within 120 feet of it and can speak Common and Undercommon fluently (or two other languages of the DM's choice). The colony's offspring gain these abilities innately and can use them even away from the colony, as shown in the [[5. Mechanics/Bestiary/Monstrosity/Juvenile Mimic (TCE).md\|Juvenile Mimic]] stat block.
 
 ##### Confronting a Colony
 
@@ -440,9 +440,9 @@ A mimic colony's primary goal is survival. If threatened by a force the mimics c
 
 If the colony's survival is threatened and it thinks it has a chance of surviving a fight, it can leverage its combined might using special lair actions. On initiative count 20 (losing all ties), the mimic colony takes a lair action, causing one of the following effects; it can't use the same effect two rounds in a row:
 
-- The mimic colony chooses up to three creatures within 300 feet of it. Each target must succeed on a DC 15 Strength saving throw or have its speed reduced to 0 until initiative count 20 on the following round, as pieces of the environment grasp the target. If a target fails the save by 5 or more, it is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] instead for that duration.  
+- The mimic colony chooses up to three creatures within 300 feet of it. Each target must succeed on a DC 15 Strength saving throw or have its speed reduced to 0 until initiative count 20 on the following round, as pieces of the environment grasp the target. If a target fails the save by 5 or more, it is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] instead for that duration.  
 - The mimic colony uses the [[/5. Mechanics/Rules/Actions.md#Help\|Help]] action, aiding a creature of its choice within 300 feet of it.  
-- The mimic colony chooses up to three creatures within 300 feet of it. Each target must succeed on a DC 15 Dexterity saving throw or take `dice:3d8|text(13)` (`3d8`) acid damage, as orifices appear on surfaces in the environment and launch caustic spittle.  
+- The mimic colony chooses up to three creatures within 300 feet of it. Each target must succeed on a DC 15 Dexterity saving throw or take `dice:3d8|noform|avg|text(13)` (`3d8`) acid damage, as orifices appear on surfaces in the environment and launch caustic spittle.  
 - The mimic colony chooses a cube of nonmagical, inanimate material in physical contact with it. The cube can be up to 15 feet on a side. The colony reshapes that material however it likes. This transformation lasts for 1 hour.  
 
 When determining the difficulty of an encounter with a hostile mimic colony, consider the colony to be one additional creature of challenge rating 2.
@@ -453,13 +453,13 @@ When determining the difficulty of an encounter with a hostile mimic colony, con
 
 In wild places brimming with nature's power, gardens meticulously tended by eccentric wizards, and blessed groves touched by divine providence, plants can sometimes produce fruit bursting with primal magic. Not every fruit-bearing plant holds this stored magic, but those that do bear obvious signs: their colors are more vibrant or shift randomly, their skin sparkles in the light or glows in the dark, soft hums emanate from them, or they feel peculiar to the touch.
 
- A fruit-bearing plant that is suffused with magic might produce `dice: 1d6|avg|noform` (`1d6`) pieces of primal fruit every week. Primal fruit remains potent for 1 week, after which it loses its magical properties but remains edible.
+ A fruit-bearing plant that is suffused with magic might produce `dice:1d6|noform|avg` (`1d6`) pieces of primal fruit every week. Primal fruit remains potent for 1 week, after which it loses its magical properties but remains edible.
 
  As an action, a creature can eat a piece of primal fruit to gain its effects. This fruit can be squeezed into juice or cooked into a dish and retains its magic. Choose an effect or roll on the Primal Fruit Effects table to determine what happens when a piece of the fruit is consumed. An [[5. Mechanics/Spells/Identify.md\|identify]] spell or similar magic reveals the beneficial effect of a piece of fruit before it is eaten, but it doesn't reveal a curse or side effect.
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/107-04-018.webp#center\|Tressym fly around a primal tree]]
 
-![[5. Mechanics/Tables/Primal Fruit Effects.md\|Primal Fruit Effects]]
+![[5. Mechanics/Tables/Primal Fruit Effects (TCE).md\|Primal Fruit Effects]]
 
 #### Unearthly Roads
 
@@ -467,15 +467,15 @@ Currents of magic run through the world—invisible, artery-like networks that e
 
 Some unearthly roads serve as trade routes or secret connections between distant lands. Others shift locations at noteworthy times or in response to external phenomena, like on specific anniversaries or in response to the phases of the moon. Some might also require a particular item, ritual, or action to open their gates. The Unearthly Road Keys table offers suggestions on how to enter an unearthly road.
 
-![[5. Mechanics/Tables/Unearthly Roads Unearthly Road Keys.md\|Unearthly Roads; Unearthly Road Keys]]
+![[5. Mechanics/Tables/Unearthly Roads Unearthly Road Keys (TCE).md\|Unearthly Roads; Unearthly Road Keys]]
 
 ### Natural Hazards
 
 Even without the threats of supernatural environments, the world is a dangerous place. The following natural hazards expand on those presented in the "Dungeon Master's Guide".
 
-- [[5. Mechanics/Traps Hazards/Avalanche.md\|Avalanche]]  
-- [[5. Mechanics/Traps Hazards/Falling Into Water.md\|Falling into Water]]  
-- [[5. Mechanics/Traps Hazards/Falling Onto A Creature.md\|Falling onto a Creature]]  
+- [[5. Mechanics/Traps Hazards/Avalanche (TCE).md\|Avalanche]]  
+- [[5. Mechanics/Traps Hazards/Falling Into Water (TCE).md\|Falling into Water]]  
+- [[5. Mechanics/Traps Hazards/Falling Onto A Creature (TCE).md\|Falling onto a Creature]]  
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/108-04-019.webp#center\|Falling into Water]]
 
@@ -483,11 +483,11 @@ Even without the threats of supernatural environments, the world is a dangerous 
 
 Numerous spells emulate the wrath of nature, and you can use spell effects to represent a variety of natural hazards. The Spells as Natural Hazards table presents some common environmental dangers and the spells you may use to approximate them.
 
-![[5. Mechanics/Tables/Spells As Natural Hazards.md\|Spells as Natural Hazards]]
+![[5. Mechanics/Tables/Spells As Natural Hazards (TCE).md\|Spells as Natural Hazards]]
 
 ## Puzzles
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > Why create a solvable puzzle? Just pose an enigmatic question without an answer and watch your trespassers squirm!
 
@@ -563,7 +563,7 @@ There are seven paintings on the walls. The paintings feature a gruesome werewol
 
 Each painting features a number of creatures of a particular kind, as summarized in the Creature Paintings table. Counting into each creature's name by the number of creatures in the painting reveals a letter. When unscrambled, the letters spell out "owlbear." Characters are likely to reveal these letters in random order. Arranging them in the correct order is part of the puzzle.
 
-![[5. Mechanics/Tables/Creature Paintings.md\|Creature Paintings]]
+![[5. Mechanics/Tables/Creature Paintings (TCE).md\|Creature Paintings]]
 
 ##### Significance of "Owlbear"
 
@@ -612,7 +612,7 @@ To safely walk across the room, a character must step on the correct tiles. Step
 
 ##### Traps
 
-Certain tiles (as indicated in this trap's "Solution" section) are trapped. A trapped tile is triggered when more than 20 pounds of weight are placed on it, activating the pressure plate underneath and causing jets of poisonous gas to spout from the cracks between the tiles. Any creature above the trapped floor tile or one of its adjacent tiles must make a DC 15 Constitution saving throw, taking `dice:2d10|text(11)` (`2d10`) poison damage on a failed save, or half as much damage on a successful one.
+Certain tiles (as indicated in this trap's "Solution" section) are trapped. A trapped tile is triggered when more than 20 pounds of weight are placed on it, activating the pressure plate underneath and causing jets of poisonous gas to spout from the cracks between the tiles. Any creature above the trapped floor tile or one of its adjacent tiles must make a DC 15 Constitution saving throw, taking `dice:2d10|noform|avg|text(11)` (`2d10`) poison damage on a failed save, or half as much damage on a successful one.
 
 As an action, a character can disable a trap with a successful DC 15 Dexterity check using thieves' tools. If a character fails to disable the trap, the tile's trap can no longer be disabled.
 
@@ -650,12 +650,12 @@ Rather than have the same poison gas trap on every trapped tile, each word can h
 
 - **Magic.** The trap triggers normally, as described in this puzzle's "Traps" section.  
 - **Abjuration.** The trap casts [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] on each creature in the room, using a 9th-level spell slot.  
-- **Conjuration.** The trap teleports the creature that triggered it back to the entrance of the room. That creature must also make a DC 15 Constitution saving throw, taking `dice:2d10|text(11)` (`2d10`) force damage on a failed save, or half as much damage on a successful one.  
+- **Conjuration.** The trap teleports the creature that triggered it back to the entrance of the room. That creature must also make a DC 15 Constitution saving throw, taking `dice:2d10|noform|avg|text(11)` (`2d10`) force damage on a failed save, or half as much damage on a successful one.  
 - **Divination.** The creature that triggered the trap must succeed on a DC 15 Intelligence saving throw or be unable to perceive any of the letters on the tiles by sight or touch. Any magic that ends a curse ends this effect on the character. A player whose character is affected by this trap should not be allowed to reference the accompanying player handout until the effect on that character ends.  
 - **Enchantment.** The trap casts [[5. Mechanics/Spells/Suggestion.md\|suggestion]] (save DC 15) on the creature that triggered it. On a failed save, a gentle voice only the creature can hear tells it to move 5 feet in a random direction. This movement might cause it to trigger another trap.  
-- **Evocation.** Magical fire erupts from the trapped tile. The creature that triggered this trap must succeed on a DC 15 Dexterity saving throw, taking `dice:2d10|text(11)` (`2d10`) fire damage on a failed save, or half as much damage on a successful one.  
+- **Evocation.** Magical fire erupts from the trapped tile. The creature that triggered this trap must succeed on a DC 15 Dexterity saving throw, taking `dice:2d10|noform|avg|text(11)` (`2d10`) fire damage on a failed save, or half as much damage on a successful one.  
 - **Illusion.** A suit of [[5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]] appears in an unoccupied space within 5 feet of the creature that set off this trap. The armor attacks only the creature that summoned it and can't leave the room. It doesn't set off any of the room's traps and disappears if it takes any damage. Otherwise, it lasts for 1 minute.  
-- **Necromancy.** Any creature that triggers this trap hears a banshee's wail in its mind. Unless the creature is a construct or undead, it must succeed on a DC 13 Constitution saving throw. On a failure, the creature drops to 0 hit points. On a success, it takes `dice:3d6|text(10)` (`3d6`) psychic damage.  
+- **Necromancy.** Any creature that triggers this trap hears a banshee's wail in its mind. Unless the creature is a construct or undead, it must succeed on a DC 13 Constitution saving throw. On a failure, the creature drops to 0 hit points. On a success, it takes `dice:3d6|noform|avg|text(10)` (`3d6`) psychic damage.  
 - **Transmutation.** The trap casts [[5. Mechanics/Spells/Polymorph.md\|polymorph]] (save DC 15) on the creature that triggered it. On a failed save, the creature turns into a [[5. Mechanics/Bestiary/Beast/Giant Frog.md\|giant frog]].  
 
 ### Skeleton Keys
@@ -685,13 +685,13 @@ All four locks must be opened before the box's contents (whatever they might be)
 
 Show the players puzzle handout 2 (see the end of this chapter) when their characters examine the keys. Each key has a different number of teeth: six, five, four, and three, respectively.
 
-Each lock has a creature molded in iron above it: a bat, snake, spider, or wolf, respectively. These locks can't be picked. If anything other than the correct key is placed inside a lock, creatures corresponding to the image above the lock (`dice: 1d4|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Beast/Giant Bat.md\|giant bats]], `dice: 1d4|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|giant poisonous snakes]], `dice: 1d4|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|giant wolf spiders]], or `dice: 1d4|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]]) are summoned into the room. Each summoned creature is hostile and disappears after 10 minutes or when reduced to 0 hit points. These beasts can't be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]].
+Each lock has a creature molded in iron above it: a bat, snake, spider, or wolf, respectively. These locks can't be picked. If anything other than the correct key is placed inside a lock, creatures corresponding to the image above the lock (`dice:1d4|noform|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Giant Bat.md\|giant bats]], `dice:1d4|noform|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|giant poisonous snakes]], `dice:1d4|noform|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|giant wolf spiders]], or `dice:1d4|noform|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]]) are summoned into the room. Each summoned creature is hostile and disappears after 10 minutes or when reduced to 0 hit points. These beasts can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].
 
 #### Solution
 
 Once the characters identify the creature depicted above each lock, they should count the letters in each creature's name. The number of letters in a creature's name corresponds to the number of teeth on the correct key, as shown in the Skeleton Keys Solution table.
 
-![[5. Mechanics/Tables/Skeleton Keys Solution.md\|Skeleton Keys Solution]]
+![[5. Mechanics/Tables/Skeleton Keys Solution (TCE).md\|Skeleton Keys Solution]]
 
 #### Hint Checks
 
@@ -764,7 +764,7 @@ An inventory of the room reveals gemstones in the amounts shown in the Gem Inven
 
 Each type of gem is associated with a letter of the alphabet, and each gem's letter is revealed by counting into the alphabet by a number of letters equal to the number of gems of its type. For example, there is one piece of quartz, so "quartz" corresponds to the first letter of the alphabet (A), while there are fourteen amethysts, so "amethyst" corresponds to the fourteenth letter of the alphabet (N).
 
-![[5. Mechanics/Tables/Solution Gem Inventory.md\|Solution; Gem Inventory]]
+![[5. Mechanics/Tables/Solution Gem Inventory (TCE).md\|Solution; Gem Inventory]]
 
 Once the gems are sorted by type and alphabetized, characters can count into the alphabet by how many of each are in the room to reveal the words "in her palm." When a character speaks this phrase aloud, the statue's folded hands open, revealing the previously hidden diamond.
 
@@ -934,7 +934,7 @@ The directions are written on a single sheet of parchment and recount the route 
 
 > [!readaloud] 
 > 
-> **.** **Day 1**. Our search for the lost treasure began at the northwest inlet, Windstaff Cove. After unloading our necessities, we traveled east to Lone Pine, then southwest past Northridge to the Palms Oasis. As evening approached, we continued southeast to Anchor Point, then camped in the Great Dunes.
+> **Day 1**. Our search for the lost treasure began at the northwest inlet, Windstaff Cove. After unloading our necessities, we traveled east to Lone Pine, then southwest past Northridge to the Palms Oasis. As evening approached, we continued southeast to Anchor Point, then camped in the Great Dunes.
 > 
 > **Day 2**. In the morning, we arose at the Dunes and headed to Deadman's Cave. After finding it empty, our party continued to the Golden Ziggurat. Heading due east, we made camp at the Swirling Sands.
 > 
@@ -1006,7 +1006,7 @@ Wizards and other spellcasters can identify the correct spell components for any
 
 #### Solution
 
-Drawing a line from a spell to its material component crosses out letters that fall between the columns, as shown in diagram 4.4. Once all spells are connected to components, the untouched letters spell out "presto," which, when said aloud with the paper in hand, causes one or more [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]] (or some other treasure of your choice) to magically appear.
+Drawing a line from a spell to its material component crosses out letters that fall between the columns, as shown in diagram 4.4. Once all spells are connected to components, the untouched letters spell out "presto," which, when said aloud with the paper in hand, causes one or more [[5. Mechanics/Items/Spell Scroll (DMG).md\|spell scrolls]] (or some other treasure of your choice) to magically appear.
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/119-04-029.webp#center\|Diagram 4.4: Material Components Puzzle Solution]]
 
@@ -1082,7 +1082,7 @@ Each member that approaches the door is given a number by the guard. There is no
 
 For example, one member was given the number "six." There are three letters in the word "six," so the password for that member is "three." More potential answers are provided in the Potential Passwords table.
 
-![[5. Mechanics/Tables/Solution Potential Passwords.md\|Solution; Potential Passwords]]
+![[5. Mechanics/Tables/Solution Potential Passwords (TCE).md\|Solution; Potential Passwords]]
 
 #### Hint Checks
 
@@ -1201,10 +1201,10 @@ Puzzle handout 6 (see the end of this chapter) illustrates the row of tiles set 
 
 If a tile is placed in the wrong place in the row, the corresponding elemental is freed from its stone prison and attacks. Only one of each elemental appears:
 
-- If the improperly placed tile has an open triangle pointing downward, the [[5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elemental]] is freed.  
-- If the improperly placed tile has an open triangle pointing upward, the [[5. Mechanics/Bestiary/Elemental/Fire Elemental.md\|fire elemental]] is freed.  
-- If the improperly placed tile has a triangle pointing upward with a horizontal line running through it, the [[5. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elemental]] is freed.  
-- If the improperly placed tile has a triangle pointing downward with a horizontal line running through it, the [[5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elemental]] is freed.  
+- If the improperly placed tile has an open triangle pointing downward, the [[5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]] is freed.  
+- If the improperly placed tile has an open triangle pointing upward, the [[5. Mechanics/Bestiary/Elemental/Fire Element(AL).md\|fire elemental]] is freed.  
+- If the improperly placed tile has a triangle pointing upward with a horizontal line running through it, the [[5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elemental]] is freed.  
+- If the improperly placed tile has a triangle pointing downward with a horizontal line running through it, the [[5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elemental]] is freed.  
 
 #### Solution
 
@@ -1297,7 +1297,7 @@ If the characters examine the rag doll or ask Dolora about it, she imparts the f
 
 Once the characters learn all six names, they must extract one letter from each name, as noted in the Remembered Names table. An alcove's number determines which letter to extract; for example, "Alexia" is the name connected to the verse in alcove 6, and the sixth letter in that name is A.
 
-![[5. Mechanics/Tables/Solution Remembered Names.md\|Solution; Remembered Names]]
+![[5. Mechanics/Tables/Solution Remembered Names (TCE).md\|Solution; Remembered Names]]
 
 The doll's name is Sefina. Once Dolora is told this, she picks up the doll, speaks its name, and disappears with it, her spirit having been laid to rest. If there's some piece of information you wish to have the spirit reveal to the party, such as the location of a nearby treasure or the secret of a more dangerous spirit, Dolora whispers this as she fades away.
 
@@ -1344,13 +1344,13 @@ A sign at the bar declares that a meal costs 1 sp, a mug of ale costs 4 cp, a gl
 
 Characters who peruse the menu see the items listed in the Menu Items table, in the order given.
 
-![[5. Mechanics/Tables/Menu Items.md\|Menu Items]]
+![[5. Mechanics/Tables/Menu Items (TCE).md\|Menu Items]]
 
 #### Solution
 
 Arrange the menu items in alphabetical order, then count into each item by the number of letters indicated in its price, as shown in the What's On the Menu Solution table. Stringing the seven letters together forms the password: chimera.
 
-![[5. Mechanics/Tables/Whats On The Menu Solution.md\|What's on the Menu Solution]]
+![[5. Mechanics/Tables/Whats On The Menu Solution (TCE).md\|What's on the Menu Solution]]
 
 The characters can figure out the password without putting the menu items in alphabetical order. Once they get all seven letters, they must solve the anagram to get the password.
 

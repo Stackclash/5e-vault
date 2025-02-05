@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'underdark, urban'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -8,12 +12,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/elemental
-statblock: inline
 aliases:
   - Gargoyle
 ---
-# [[5. Mechanics/Bestiary/Elemental/Gargoyle.md|Gargoyle]]
-*Source: Monster Manual p. 140, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Elemental\Gargoyle.md|Gargoyle]]
+*Source: Monster Manual p. 140, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The inanimate gargoyles that perch atop great buildings are inspired by these malevolent creatures of elemental earth that resemble grotesque, fiendish statues. A gargoyle lurks among masonry and ruins, as still as any stone sculpture, and delights in the terror it creates when it breaks from its suspended pose, as well as the pain it inflicts on its victims.
 
@@ -64,8 +67,8 @@ A gargoyle doesn't require air, food, drink, or sleep.
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't adamantine"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Terran"
 "cr": "2"
@@ -85,20 +88,6 @@ A gargoyle doesn't require air, food, drink, or sleep.
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "BGDIA"
-- "ERLW"
-- "IDRotF"
-- "CM"
-- "JttRC"
-- "BMT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Elemental/token/gargoyle.webp"
 ```
 ^statblock

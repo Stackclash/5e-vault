@@ -80,7 +80,7 @@ Whenever you divide or multiply a number in the game, round down if you end up w
 
 You don't need to know every rule to enjoy D&D, and each group has its own style—different ways it likes to tell stories and to use the rules. Embrace what your group enjoys most. In short, follow your bliss!
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > My dear, sweet, lucky reader,
 > 

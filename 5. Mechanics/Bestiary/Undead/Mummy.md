@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: desert
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/desert
   - monster/size/medium
   - monster/type/undead
-statblock: inline
 aliases:
   - Mummy
 ---
-# [[5. Mechanics/Bestiary/Undead/Mummy.md|Mummy]]
-*Source: Monster Manual p. 228, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Undead\Mummy.md|Mummy]]
+*Source: Monster Manual p. 228, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
 
@@ -46,7 +49,7 @@ Though they seldom bother to do so, mummies can speak. As a result, some serve a
 
 A mummy doesn't require air, food, drink, or sleep.
 
-> [!quote]- A quote from X the Mystic's 7th rule of dungeon survival  
+> [!quote] A quote from X the Mystic's 7th rule of dungeon survival  
 > 
 > Before opening a sarcophagus, light a torch.
 
@@ -73,9 +76,9 @@ A mummy doesn't require air, food, drink, or sleep.
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "the languages it knew in life"
 "cr": "3"
@@ -94,29 +97,15 @@ A mummy doesn't require air, food, drink, or sleep.
   "name": "Rotting Fist"
 - "desc": "The mummy targets one creature it can see within 60 feet of it. If the\
     \ target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against\
-    \ this magic or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ this magic or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ until the end of the mummy's next turn. If the target fails the saving throw\
-    \ by 5 or more, it is also [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ by 5 or more, it is also [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
     \ for the same duration. A target that succeeds on the saving throw is immune\
     \ to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours."
   "name": "Dreadful Glare"
 "source":
 - "MM"
-- "RoT"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "DSotDQ"
-- "PSI"
-- "PaBTSO"
-- "AATM"
-- "BMT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Undead/token/mummy.webp"
 ```
 ^statblock

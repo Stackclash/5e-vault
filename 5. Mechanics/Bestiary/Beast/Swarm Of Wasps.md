@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: 'underdark, grassland, forest, swamp, hill, urban, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
@@ -13,12 +17,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Swarm of Wasps
 ---
-# [[5. Mechanics/Bestiary/Beast/Swarm Of Wasps.md|Swarm of Wasps]]
-*Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Wasps.md|Swarm of Wasps]]
+*Source: Monster Manual p. 338, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 > [!note] The Nature of Swarms
 > 
@@ -43,10 +46,10 @@ aliases:
 - !!int "1"
 "speed": "5 ft., fly 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
 "senses": "blindsight 10 ft., passive Perception 8"
 "languages": ""
 "cr": "1/2"
@@ -63,9 +66,6 @@ aliases:
 "source":
 - "MM"
 - "CoS"
-- "WDMM"
-- "GoS"
-- "WBtW"
 "image": "5. Mechanics/Bestiary/Beast/token/swarm-of-wasps.webp"
 ```
 ^statblock

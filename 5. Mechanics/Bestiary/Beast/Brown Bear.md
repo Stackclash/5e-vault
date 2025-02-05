@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: 'forest, hill, arctic'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
@@ -9,12 +13,11 @@ tags:
   - monster/environment/hill
   - monster/size/large
   - monster/type/beast
-statblock: inline
 aliases:
   - Brown Bear
 ---
-# [[5. Mechanics/Bestiary/Beast/Brown Bear.md|Brown Bear]]
-*Source: Monster Manual p. 319. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Brown Bear.md|Brown Bear]]
+*Source: Monster Manual p. 319. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Brown Bear"
@@ -53,15 +56,6 @@ aliases:
   "name": "Claws"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "GoS"
-- "IMR"
-- "MOT"
-- "IDRotF"
-- "WBtW"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Beast/token/brown-bear.webp"
 ```
 ^statblock

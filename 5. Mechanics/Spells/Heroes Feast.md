@@ -3,11 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
   - spell/class/druid
-  - spell/class/sorcerer/divine-soul
-  - spell/level/6
+  - spell/level/6th-level
   - spell/school/conjuration
+  - spell/subclass/divine-soul
+level: 6th-level
+range: false
+school: Conjuration
+time: 10 minute
+duration: Instantaneous
+components: 'V, S, a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes'
 aliases:
   - Heroes' Feast
 ---
@@ -21,8 +28,8 @@ aliases:
 
 You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
 
-A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by `dice: 2d10|avg|noform` (`2d10`), and it gains the same number of hit points. These benefits last for 24 hours.
+A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by `dice:2d10|noform|avg` (`2d10`), and it gains the same number of hit points. These benefits last for 24 hours.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 250. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

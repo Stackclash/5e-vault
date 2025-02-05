@@ -16,4 +16,4 @@ aliases:
 
 You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
 
-*Source: Dungeon Master's Guide p. 188. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: forest
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/forest
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Displacer Beast
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Displacer Beast.md|Displacer Beast]]
-*Source: Monster Manual p. 81, Eberron: Rising from the Last War*
+# [[5. Mechanics\Bestiary\Monstrosity\Displacer Beast.md|Displacer Beast]]
+*Source: Monster Manual p. 81*
 
 This monstrous predator takes its name from its ability to displace light so that it appears to be several feet away from its actual location. A displacer beast resembles a sleek great cat covered in blue-black fur.
 
@@ -59,7 +62,7 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
     \ be standing near its actual location, causing attack rolls against it to have\
     \ disadvantage. If it is hit by an attack, this trait is disrupted until the end\
     \ of its next turn. This trait is also disrupted while the displacer beast is\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or has a speed\
+    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] or has a speed\
     \ of 0."
   "name": "Displacement"
 "actions":
@@ -70,15 +73,6 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
   "name": "Tentacle"
 "source":
 - "MM"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "ERLW"
-- "WBtW"
-- "JttRC"
-- "KftGV"
-- "SatO"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/displacer-beast.webp"
 ```
 ^statblock

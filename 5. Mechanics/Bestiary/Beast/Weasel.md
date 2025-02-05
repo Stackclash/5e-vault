@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: null
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
   - monster/size/tiny
   - monster/type/beast
-statblock: inline
 aliases:
   - Weasel
 ---
-# [[5. Mechanics/Bestiary/Beast/Weasel.md|Weasel]]
-*Source: Monster Manual p. 340. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Weasel.md|Weasel]]
+*Source: Monster Manual p. 340. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Weasel"
@@ -45,9 +48,6 @@ aliases:
   "name": "Bite"
 "source":
 - "MM"
-- "IDRotF"
-- "WBtW"
-- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Beast/token/weasel.webp"
 ```
 ^statblock

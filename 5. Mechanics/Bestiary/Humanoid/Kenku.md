@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: 'forest, urban'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
@@ -8,12 +12,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/humanoid/kenku
-statblock: inline
 aliases:
   - Kenku
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Kenku.md|Kenku]]
-*Source: Monster Manual p. 194, Eberron: Rising from the Last War*
+# [[5. Mechanics\Bestiary\Humanoid\Kenku.md|Kenku]]
+*Source: Monster Manual p. 194*
 
 Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.
 
@@ -33,7 +36,7 @@ Kenku speak to one another in much the same way. Because they are adept at inter
 
 All kenku pine for the ability to fly, and thus the punishments they mete out to one another often involve false wings, such as heavy wings of wood borne as a mark of shame. As a final, tragic reminder of the wings they once had, kenku carry out executions by hurling their condemned from tall buildings or cliffs.
 
-> [!quote]- A quote from Endroth Knag, City Watch corporal in Waterdeep  
+> [!quote] A quote from Endroth Knag, City Watch corporal in Waterdeep  
 > 
 > If you hear a baby crying in an alley, walk the other way. That's my advice to you.
 
@@ -65,7 +68,7 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
 "cr": "1/4"
 "traits":
 - "desc": "In the first round of a combat, the kenku has advantage on attack rolls\
-    \ against any creature it surprised."
+    \ against any creature it [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]]."
   "name": "Ambusher"
 - "desc": "The kenku can mimic any sounds it has heard, including voices. A creature\
     \ that hears the sounds can tell they are imitations with a successful DC 14 Wisdom\
@@ -80,14 +83,6 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
   "name": "Shortbow"
 "source":
 - "MM"
-- "PotA"
-- "WDH"
-- "WDMM"
-- "BGDIA"
-- "ERLW"
-- "CM"
-- "JttRC"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/kenku.webp"
 ```
 ^statblock

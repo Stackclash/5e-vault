@@ -5,14 +5,30 @@ tags:
   - compendium/src/5e/phb
   - spell/class/artificer
   - spell/class/bard
-  - spell/class/fighter/eldritch-knight
-  - spell/class/ranger/swarmkeeper
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
+  - spell/feat/artificer-initiate
+  - spell/feat/magic-initiate
+  - spell/feat/telekinetic
   - spell/level/cantrip
+  - spell/optfeature/pact-of-the-tome
+  - spell/race/githyanki
+  - spell/race/githzerai
+  - spell/race/kobold
   - spell/school/conjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+  - spell/subclass/swarmkeeper
+  - spell/subrace/elf-high
+  - spell/subrace/tiefling-mammon
+  - spell/subrace/tiefling-mephistopheles
+level: cantrip
+range: false
+school: Conjuration
+time: 1 action
+duration: 1 minute
+components: 'V, S'
 aliases:
   - Mage Hand
 ---
@@ -30,6 +46,6 @@ You can use your action to control the hand. You can use the hand to manipulate 
 
 The hand can't attack, activate magic items, or carry more than 10 pounds.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Ranger Swarmkeeper.md\|Ranger (Swarmkeeper)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Swarmkeeper (TCE)\|Ranger (Swarmkeeper)]]
 
-*Source: Player's Handbook p. 256. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 256. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

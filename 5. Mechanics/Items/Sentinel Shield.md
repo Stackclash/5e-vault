@@ -3,15 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/dmg
-  - item/armor/shield
   - item/rarity/uncommon
+  - item/shield/
   - item/tier/major
 aliases:
   - Sentinel Shield
 armorClass: 2
 ---
 # Sentinel Shield
-*Shield, major, uncommon*  
+*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

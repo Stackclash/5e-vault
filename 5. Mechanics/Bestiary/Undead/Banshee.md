@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: 'forest, coastal'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
@@ -8,12 +12,11 @@ tags:
   - monster/environment/forest
   - monster/size/medium
   - monster/type/undead
-statblock: inline
 aliases:
   - Banshee
 ---
-# [[5. Mechanics/Bestiary/Undead/Banshee.md|Banshee]]
-*Source: Monster Manual p. 23, Curse of Strahd, Tasha's Cauldron of Everything. Available in the Basic Rules.*
+# [[5. Mechanics\Bestiary\Undead\Banshee.md|Banshee]]
+*Source: Monster Manual p. 23, Curse of Strahd, Tasha's Cauldron of Everything. Available in the Basic Rules (2014)*
 
 When night falls, unlucky travelers hear the faint cries of the forlorn dead. This woeful spirit is a banshee, a spiteful creature formed from the spirit of a female elf. Banshees appear as luminous, wispy forms that vaguely recall their mortal features. A banshee's face is wreathed in a wild tangle of hair, its body clad in wispy rags that flutter and stream around it.
 
@@ -55,11 +58,11 @@ A banshee doesn't require air, food, drink, or sleep.
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Elvish"
 "cr": "4"
@@ -77,8 +80,8 @@ A banshee doesn't require air, food, drink, or sleep.
     \ + 2) necrotic damage."
   "name": "Corrupting Touch"
 - "desc": "Each non-undead creature within 60 feet of the banshee that can see her\
-    \ must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] target\
+    \ must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+    \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] target\
     \ can repeat the saving throw at the end of each of its turns, with disadvantage\
     \ if the banshee is within line of sight, ending the effect on itself on a success.\
     \ If a target's saving throw is successful or the effect ends for it, the target\
@@ -93,16 +96,7 @@ A banshee doesn't require air, food, drink, or sleep.
 "source":
 - "MM"
 - "CoS"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "BGDIA"
-- "EGW"
 - "TCE"
-- "WBtW"
-- "JttRC"
-- "PaBTSO"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Undead/token/banshee.webp"
 ```
 ^statblock

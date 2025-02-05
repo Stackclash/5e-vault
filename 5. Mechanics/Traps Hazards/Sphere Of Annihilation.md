@@ -16,4 +16,4 @@ A successful DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]
 
 A successful [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] (DC 18) removes this enchantment.
 
-*Source: Dungeon Master's Guide p. 123. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 123. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

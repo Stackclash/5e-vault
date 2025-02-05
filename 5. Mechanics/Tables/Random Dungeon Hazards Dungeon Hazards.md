@@ -19,6 +19,6 @@ aliases:
 | 4-8 | [[5. Mechanics/Traps Hazards/Green Slime.md\|Green slime]] |
 | 9-10 | [[5. Mechanics/Bestiary/Plant/Shrieker.md\|Shrieker]] |
 | 11-15 | [[5. Mechanics/Traps Hazards/Webs.md\|Spiderwebs]] |
-| 16-17 | [[5. Mechanics/Bestiary/Plant/Violet Fungus.md\|Violet fungus]] |
+| 16-17 | [[5. Mechanics/Bestiary/Plant/Violet Fung(US).md\|Violet fungus]] |
 | 18-20 | [[5. Mechanics/Traps Hazards/Yellow Mold.md\|Yellow mold]] |
 ^dungeon-hazards

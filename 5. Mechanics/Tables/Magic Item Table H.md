@@ -17,7 +17,7 @@ aliases:
 |------------|------------|
 | 01-10 | [[5. Mechanics/Items/3 Weapon.md\|+3 weapon]] |
 | 11-12 | [[5. Mechanics/Items/Amulet Of The Planes.md\|Amulet of the planes]] |
-| 13-14 | [[5. Mechanics/Items/Carpet Of Flying.md\|Carpet of flying]] |
+| 13-14 | [[5. Mechanics/Items/Carpet Of Flying (DMG).md\|Carpet of flying]] |
 | 15-16 | [[5. Mechanics/Items/Crystal Ball.md\|Crystal ball]] |
 | 17-18 | [[5. Mechanics/Items/Ring Of Regeneration.md\|Ring of regeneration]] |
 | 19-20 | [[5. Mechanics/Items/Ring Of Shooting Stars.md\|Ring of shooting stars]] |
@@ -44,14 +44,14 @@ aliases:
 | 58 | [[5. Mechanics/Items/Belt Of Fire Giant Strength.md\|Belt of fire giant strength]] |
 | 59 | Belt of [[5. Mechanics/Items/Belt Of Frost Giant Strength.md\|Frost]] or [[5. Mechanics/Items/Belt Of Stone Giant Strength.md\|Stone]] giant strength |
 | 60 | [[5. Mechanics/Items/1 Armor.md\|+1 breastplate]] |
-| 61 | [[5. Mechanics/Items/Armor Of Resistance.md\|Breastplate of resistance]] |
+| 61 | [[5. Mechanics/Items/Armor Of Resistance (DMG).md\|Breastplate of resistance]] |
 | 62 | [[5. Mechanics/Items/Candle Of Invocation.md\|Candle of invocation]] |
 | 63 | [[5. Mechanics/Items/2 Armor.md\|+2 chain mail]] |
 | 64 | [[5. Mechanics/Items/2 Armor.md\|+2 chain shirt]] |
 | 65 | [[5. Mechanics/Items/Cloak Of Arachnida.md\|Cloak of arachnida]] |
 | 66 | [[5. Mechanics/Items/Dancing Sword.md\|Dancing sword]] |
 | 67 | [[5. Mechanics/Items/Demon Armor.md\|Demon armor]] |
-| 68 | [[5. Mechanics/Items/Dragon Scale Mail.md\|Dragon scale mail]] |
+| 68 | [[5. Mechanics/Items/Dragon Scale Mail (DMG).md\|Dragon scale mail]] |
 | 69 | [[5. Mechanics/Items/Dwarven Plate.md\|Dwarven plate]] |
 | 70 | [[5. Mechanics/Items/Dwarven Thrower.md\|Dwarven thrower]] |
 | 71 | [[5. Mechanics/Items/Efreeti Bottle.md\|Efreeti bottle]] |
@@ -70,7 +70,7 @@ aliases:
 | 84 | [[5. Mechanics/Items/2 Armor.md\|+2 leather armor]] |
 | 85 | [[5. Mechanics/Items/Manual Of Bodily Health.md\|Manual of bodily health]] |
 | 86 | [[5. Mechanics/Items/Manual Of Gainful Exercise.md\|Manual of gainful exercise]] |
-| 87 | [[5. Mechanics/Items/Manual Of Golems.md\|Manual of golems]] |
+| 87 | [[5. Mechanics/Items/Manual Of Golems (DMG).md\|Manual of golems]] |
 | 88 | [[5. Mechanics/Items/Manual Of Quickness Of Action.md\|Manual of quickness of action]] |
 | 89 | [[5. Mechanics/Items/Mirror Of Life Trapping.md\|Mirror of life trapping]] |
 | 90 | [[5. Mechanics/Items/Nine Lives Stealer.md\|Nine lives stealer]] |
@@ -78,9 +78,9 @@ aliases:
 | 92 | [[5. Mechanics/Items/2 Armor.md\|+2 scale mail]] |
 | 93 | [[5. Mechanics/Items/Spellguard Shield.md\|Spellguard shield]] |
 | 94 | [[5. Mechanics/Items/1 Armor.md\|+1 splint armor]] |
-| 95 | [[5. Mechanics/Items/Armor Of Resistance.md\|Splint armor of resistance]] |
+| 95 | [[5. Mechanics/Items/Armor Of Resistance (DMG).md\|Splint armor of resistance]] |
 | 96 | [[5. Mechanics/Items/1 Armor.md\|+1 studded leather armor]] |
-| 97 | [[5. Mechanics/Items/Armor Of Resistance.md\|Studded leather armor of resistance]] |
+| 97 | [[5. Mechanics/Items/Armor Of Resistance (DMG).md\|Studded leather armor of resistance]] |
 | 98 | [[5. Mechanics/Items/Tome Of Clear Thought.md\|Tome of clear thought]] |
 | 99 | [[5. Mechanics/Items/Tome Of Leadership And Influence.md\|Tome of leadership and influence]] |
 | 00 | [[5. Mechanics/Items/Tome Of Understanding.md\|Tome of understanding]] |

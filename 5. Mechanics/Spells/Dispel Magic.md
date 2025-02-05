@@ -6,20 +6,28 @@ tags:
   - spell/class/artificer
   - spell/class/bard
   - spell/class/cleric
-  - spell/class/cleric/trickery-domain
   - spell/class/druid
-  - spell/class/fighter/eldritch-knight
   - spell/class/paladin
-  - spell/class/paladin/oath-of-devotion
-  - spell/class/ranger/fey-wanderer
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
-  - spell/class/sorcerer/clockwork-soul
-  - spell/class/sorcerer/divine-soul
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/3
+  - spell/feat/drow-high-magic
+  - spell/level/3rd-level
   - spell/school/abjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/clockwork-soul
+  - spell/subclass/divine-soul
+  - spell/subclass/eldritch-knight
+  - spell/subclass/fey-wanderer
+  - spell/subclass/oath-of-devotion
+  - spell/subclass/oath-of-the-spelldrinker
+  - spell/subclass/trickery-domain
+level: 3rd-level
+range: false
+school: Abjuration
+time: 1 action
+duration: Instantaneous
+components: 'V, S'
 aliases:
   - Dispel Magic
 ---
@@ -35,6 +43,6 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Trickery Domain.md\|Cleric (Trickery Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Devotion.md\|Paladin (Oath of Devotion)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Ranger Fey Wanderer.md\|Ranger (Fey Wanderer)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Clockwork Soul.md\|Sorcerer (Clockwork Soul)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Clockwork Soul (TCE)\|Sorcerer (Clockwork Soul)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Fey Wanderer (TCE)\|Ranger (Fey Wanderer)]]; [[List Spells Classes Paladin Oath Of Devotion\|Paladin (Oath of Devotion)]]; [[List Spells Classes Paladin Oath Of The Spelldrinker (GRIFFONSSADDLEBAG2)\|Paladin (Oath of the Spelldrinker)]]; [[List Spells Classes Cleric Trickery Domain\|Cleric (Trickery Domain)]]
 
-*Source: Player's Handbook p. 234. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

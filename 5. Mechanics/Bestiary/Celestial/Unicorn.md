@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: forest
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
   - monster/environment/forest
   - monster/size/large
   - monster/type/celestial
-statblock: inline
 aliases:
   - Unicorn
 ---
-# [[5. Mechanics/Bestiary/Celestial/Unicorn.md|Unicorn]]
-*Source: Monster Manual p. 294, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Celestial\Unicorn.md|Unicorn]]
+*Source: Monster Manual p. 294, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Unicorns dwell in enchanted forests. Unrelated to the horses it resembles, a unicorn is a celestial creature that wanders sylvan realms, its white form glimmering like starlight.
 
@@ -69,8 +72,8 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
 - !!int "16"
 "speed": "50 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Celestial, Elvish, Sylvan, telepathy 60 ft."
 "cr": "5"
@@ -85,7 +88,7 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
 - "desc": "If the unicorn moves at least 20 feet straight toward a target and then\
     \ hits it with a horn attack on the same turn, the target takes an extra 9 (2d8)\
     \ piercing damage. If the target is a creature, it must succeed on a DC 15 Strength\
-    \ saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Charge"
 - "desc": "The unicorn has advantage on saving throws against spells and other magical\
     \ effects."
@@ -135,14 +138,7 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
   "name": ""
 "source":
 - "MM"
-- "GoS"
-- "BGDIA"
-- "IMR"
-- "MOT"
 - "TCE"
-- "WBtW"
-- "KftGV"
-- "SatO"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Celestial/token/unicorn.webp"
 ```

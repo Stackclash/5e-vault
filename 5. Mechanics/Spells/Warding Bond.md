@@ -3,12 +3,23 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/artificer/battle-smith
+  - spell/class/bard
   - spell/class/cleric
-  - spell/class/cleric/peace-domain
-  - spell/class/sorcerer/divine-soul
-  - spell/level/2
+  - spell/class/paladin
+  - spell/level/2nd-level
   - spell/school/abjuration
+  - spell/subclass/battle-smith
+  - spell/subclass/divine-soul
+  - spell/subclass/oath-of-the-watchtower
+  - spell/subclass/peace-domain
+level: 2nd-level
+range: false
+school: Abjuration
+time: 1 action
+duration: 1 hour
+components: >-
+  V, S, a pair of platinum rings worth at least 50 gp each, which you and the
+  target must wear for the duration
 aliases:
   - Warding Bond
 ---
@@ -24,6 +35,6 @@ This spell wards a willing creature you touch and creates a mystic connection be
 
 The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
 
-**Classes**: [[5. Mechanics/Classes/Artificer Battle Smith.md\|Artificer (Battle Smith)]], [[5. Mechanics/Classes/Cleric Peace Domain.md\|Cleric (Peace Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Artificer Battle Smith (TCE)\|Artificer (Battle Smith)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Paladin Oath Of The Watchtower (GRIFFONSSADDLEBAG3)\|Paladin (Oath of the Watchtower)]]; [[List Spells Classes Cleric Peace Domain (TCE)\|Cleric (Peace Domain)]]
 
-*Source: Player's Handbook p. 287. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -7,7 +7,7 @@ aliases:
   - Deities of the Forgotten Realms
 ---
 # Deities of the Forgotten Realms
-*Source: Player's Handbook p. 293. Available in the Basic Rules.* 
+*Source: Player's Handbook p. 293. Available in the Basic Rules (2014)* 
 
 **Deities of the Forgotten Realms**
 

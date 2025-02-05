@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: 'underdark, forest, swamp, urban, desert'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
@@ -11,12 +15,11 @@ tags:
   - monster/environment/urban
   - monster/size/large
   - monster/type/beast
-statblock: inline
 aliases:
   - Giant Spider
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Spider.md|Giant Spider]]
-*Source: Monster Manual p. 328, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Giant Spider.md|Giant Spider]]
+*Source: Monster Manual p. 328, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims.
 
@@ -56,13 +59,13 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
     \ + 3) piercing damage, and the target must make a DC 11 Constitution saving throw,\
     \ taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful\
     \ one. If the poison damage reduces the target to 0 hit points, the target is\
-    \ stable but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 hour,\
-    \ even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way."
+    \ stable but [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for 1 hour,\
+    \ even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
+    \ while [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] in this way."
   "name": "Bite"
 - "desc": "Ranged Weapon Attack: +5 to hit, range 30/60 ft., one creature. Hit:\
-    \ The target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by webbing.\
-    \ As an action, the [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] target\
+    \ The target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] by webbing.\
+    \ As an action, the [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] target\
     \ can make a DC 12 Strength check, bursting the webbing on a success. The webbing\
     \ can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage;\
     \ immunity to bludgeoning, poison, and psychic damage)."
@@ -70,28 +73,7 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "LMoP"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "BGDIA"
-- "ERLW"
-- "RMBRE"
-- "EGW"
-- "MOT"
 - "TCE"
-- "CRCotN"
-- "DSotDQ"
-- "PSX"
-- "HftT"
-- "PaBTSO"
-- "BMT"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Beast/token/giant-spider.webp"
 ```

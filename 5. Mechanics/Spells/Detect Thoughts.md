@@ -4,14 +4,25 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/bard
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
-  - spell/class/sorcerer/aberrant-mind
-  - spell/class/warlock/the-great-old-one
   - spell/class/wizard
-  - spell/level/2
+  - spell/feat/telepathic
+  - spell/level/2nd-level
+  - spell/race/githzerai
   - spell/school/divination
+  - spell/subclass/aberrant-mind
+  - spell/subclass/arcane-trickster
+  - spell/subclass/circle-of-owls
+  - spell/subclass/eldritch-knight
+  - spell/subclass/second-soul
+  - spell/subclass/the-great-old-one
+  - spell/subrace/tiefling-dispater
+level: 2nd-level
+range: false
+school: Divination
+time: 1 action
+duration: 'Concentration, up to 1 minute'
+components: 'V, S, a copper piece'
 aliases:
   - Detect Thoughts
 ---
@@ -33,6 +44,6 @@ You can also use this spell to detect the presence of thinking creatures you can
 
 Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can't see it, but it must still be within range.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Aberrant Mind.md\|Sorcerer (Aberrant Mind)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Aberrant Mind (TCE)\|Sorcerer (Aberrant Mind)]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of Owls (KPDM)\|Druid (Circle of Owls)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Sorcerer Second Soul (GRIFFONSSADDLEBAG3)\|Sorcerer (Second Soul)]]; [[List Spells Classes Warlock The Great Old One\|Warlock (The Great Old One)]]
 
-*Source: Player's Handbook p. 231. Available in the SRD.*
+*Source: Player's Handbook p. 231. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

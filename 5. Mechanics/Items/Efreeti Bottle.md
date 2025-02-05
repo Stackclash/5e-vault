@@ -5,12 +5,11 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/very-rare
   - item/tier/major
-  - item/wondrous
 aliases:
   - Efreeti Bottle
 ---
 # Efreeti Bottle
-*Wondrous Item, major, very rare*  
+*Wondrous item, major, very rare*  
 ![[5. Mechanics/Items/img/efreeti-bottle.webp#right]]  
 
 - **Weight**: 1.0 lbs.
@@ -28,4 +27,4 @@ The first time the bottle is opened, the DM rolls to determine what happens.
 | 91-00 | The [[5. Mechanics/Bestiary/Elemental/Efreeti.md\|efreeti]] can cast the [[5. Mechanics/Spells/Wish.md\|wish]] spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic. |
 ^effect
 
-*Source: Dungeon Master's Guide p. 167. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 167. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

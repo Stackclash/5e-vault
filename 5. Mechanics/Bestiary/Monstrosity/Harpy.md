@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: 'mountain, forest, hill, coastal'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
@@ -10,12 +14,11 @@ tags:
   - monster/environment/mountain
   - monster/size/medium
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Harpy
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Harpy.md|Harpy]]
-*Source: Monster Manual p. 181, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Monstrosity\Harpy.md|Harpy]]
+*Source: Monster Manual p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.
 
@@ -73,12 +76,12 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
   "name": "Club"
 - "desc": "The harpy sings a magical melody. Every humanoid and giant within 300 feet\
     \ of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw\
-    \ or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] until the song ends.\
+    \ or be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] until the song ends.\
     \ The harpy must take a bonus action on its subsequent turns to continue singing.\
-    \ It can stop singing at any time. The song ends if the harpy is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\n\
-    \nWhile [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the harpy, a target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] and ignores\
-    \ the songs of other harpies. If the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ It can stop singing at any time. The song ends if the harpy is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]].\n\
+    \nWhile [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] by the harpy, a target\
+    \ is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] and ignores\
+    \ the songs of other harpies. If the [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
     \ target is more than 5 feet away from the harpy, the target must move on its\
     \ turn toward the harpy by the most direct route. It doesn't avoid opportunity\
     \ attacks, but before moving into damaging terrain, such as lava or a pit, and\
@@ -90,17 +93,6 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
   "name": "Luring Song"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "GoS"
-- "DIP"
-- "ERLW"
-- "EGW"
-- "MOT"
-- "IDRotF"
-- "DoSI"
-- "BMT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/harpy.webp"
 ```
 ^statblock

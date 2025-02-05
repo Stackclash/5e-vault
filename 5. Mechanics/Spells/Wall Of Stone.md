@@ -4,13 +4,23 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
+  - spell/class/bard
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
   - spell/class/sorcerer
-  - spell/class/warlock/the-genie
   - spell/class/wizard
-  - spell/level/5
+  - spell/level/5th-level
+  - spell/optfeature/wave-of-rolling-earth
   - spell/school/evocation
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/the-genie
+  - spell/subclass/the-genie-lord
+  - spell/subclass/the-lithic
+level: 5th-level
+range: false
+school: Evocation
+time: 1 action
+duration: 'Concentration, up to 10 minute'
+components: 'V, S, a small block of granite'
 aliases:
   - Wall of Stone
 ---
@@ -32,8 +42,8 @@ If you create a span greater than 20 feet in length, you must halve the size of 
 
 The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 hit points per inch of thickness. Reducing a panel to 0 hit points destroys it and might cause connected panels to collapse at the DM's discretion.
 
-If you maintain your [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] on this spell for its whole duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
+If you maintain your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] on this spell for its whole duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Warlock The Genie Lord (KPDM)\|Warlock (The Genie Lord)]]; [[List Spells Classes Warlock The Genie (TCE)\|Warlock (The Genie)]]; [[List Spells Classes Warlock The Lithic (GRIFFONSSADDLEBAG3)\|Warlock (The Lithic)]]
 
-*Source: Player's Handbook p. 287. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

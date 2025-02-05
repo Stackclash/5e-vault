@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: forest
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/forest
   - monster/size/tiny
   - monster/type/fey
-statblock: inline
 aliases:
   - Pixie
 ---
-# [[5. Mechanics/Bestiary/Fey/Pixie.md|Pixie]]
-*Source: Monster Manual p. 253, Eberron: Rising from the Last War*
+# [[5. Mechanics\Bestiary\Fey\Pixie.md|Pixie]]
+*Source: Monster Manual p. 253*
 
 Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise.
 
@@ -38,7 +41,7 @@ While the arrival of visitors piques their curiosity, pixies are too shy to reve
 
 Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner flee than get into a physical altercation with any enemy.
 
-> [!quote]- A quote from Rivergleam, pixie fashionista  
+> [!quote] A quote from Rivergleam, pixie fashionista  
 > 
 > Petal gowns and acorn caps are so last summer!
 
@@ -79,22 +82,14 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "The pixie magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]] ends\
-    \ (as if concentrating on a spell). Any equipment the pixie wears or carries is\
-    \ [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] with it."
+- "desc": "The pixie magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+    \ until its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]] ends\
+    \ (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on a spell).\
+    \ Any equipment the pixie wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+    \ with it."
   "name": "Superior Invisibility"
 "source":
 - "MM"
-- "GoS"
-- "ERLW"
-- "IMR"
-- "EGW"
-- "WBtW"
-- "KftGV"
-- "SatO"
-- "ToFW"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Fey/token/pixie.webp"
 ```
 ^statblock

@@ -8,100 +8,180 @@ aliases:
   - Warlock
 ---
 # Warlock
-*Source: Player's Handbook p. 105. Available in the SRD.*  
+*Source: Player's Handbook p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-> [!tldr]- Feature progression
+> [!tldr] Class and Feature Progression
 > 
-> | Level | PB | Features |
-> |-------|----|----------|
-> | 1st | +2 | [Pact Magic](#Pact%20Magic%20(Level%201)), [Otherworldly Patron](#Otherworldly%20Patron%20(Level%201)) |
-> | 2nd | +2 | [Eldritch Invocations](#Eldritch%20Invocations%20(Level%202)) |
-> | 3rd | +2 | [Pact Boon](#Pact%20Boon%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Eldritch Versatility](#Eldritch%20Versatility%20(Level%204)) |
-> | 5th | +3 | ⏤ |
-> | 6th | +3 | [Otherworldly Patron feature](#Otherworldly%20Patron%20feature%20(Level%206)) |
-> | 7th | +3 | ⏤ |
-> | 8th | +3 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%208)) |
-> | 9th | +4 | ⏤ |
-> | 10th | +4 | [Otherworldly Patron feature](#Otherworldly%20Patron%20feature%20(Level%2010)) |
-> | 11th | +4 | [Mystic Arcanum (6th level)](#Mystic%20Arcanum%20(6th%20level)%20(Level%2011)) |
-> | 12th | +4 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2012)) |
-> | 13th | +5 | [Mystic Arcanum (7th level)](#Mystic%20Arcanum%20(7th%20level)%20(Level%2013)) |
-> | 14th | +5 | [Otherworldly Patron feature](#Otherworldly%20Patron%20feature%20(Level%2014)) |
-> | 15th | +5 | [Mystic Arcanum (8th level)](#Mystic%20Arcanum%20(8th%20level)%20(Level%2015)) |
-> | 16th | +5 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2016)) |
-> | 17th | +6 | [Mystic Arcanum (9th level)](#Mystic%20Arcanum%20(9th%20level)%20(Level%2017)) |
-> | 18th | +6 | ⏤ |
-> | 19th | +6 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2019)) |
-> | 20th | +6 | [Eldritch Master](#Eldritch%20Master%20(Level%2020)) |
-> 
-> - PB: Proficiency Bonus
-^feature-progression
-
-> [!tldr]- Class progression
-> 
-> | Level | Cantrips Known | Spells Known | Spell Slots | Slot Level | [[5. Mechanics/Optional Features/List Eldritch Invocation.md\|Invocations Known]] |
-> |-------|----------------|--------------|-------------|------------|-------------------------------------------------------------------------------|
-> | 1st | 2 | 2 | 1 | 1st | ⏤ |
-> | 2nd | 2 | 3 | 2 | 1st | 2 |
-> | 3rd | 2 | 4 | 2 | 2nd | 2 |
-> | 4th | 3 | 5 | 2 | 2nd | 2 |
-> | 5th | 3 | 6 | 2 | 3rd | 3 |
-> | 6th | 3 | 7 | 2 | 3rd | 3 |
-> | 7th | 3 | 8 | 2 | 4th | 4 |
-> | 8th | 3 | 9 | 2 | 4th | 4 |
-> | 9th | 3 | 10 | 2 | 5th | 5 |
-> | 10th | 4 | 10 | 2 | 5th | 5 |
-> | 11th | 4 | 11 | 3 | 5th | 5 |
-> | 12th | 4 | 11 | 3 | 5th | 6 |
-> | 13th | 4 | 12 | 3 | 5th | 6 |
-> | 14th | 4 | 12 | 3 | 5th | 6 |
-> | 15th | 4 | 13 | 3 | 5th | 7 |
-> | 16th | 4 | 13 | 3 | 5th | 7 |
-> | 17th | 4 | 14 | 4 | 5th | 7 |
-> | 18th | 4 | 14 | 4 | 5th | 8 |
-> | 19th | 4 | 15 | 4 | 5th | 8 |
-> | 20th | 4 | 15 | 4 | 5th | 8 |
-> 
-> - 1st-9th: Spell slots per level
-^class-progression
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='8'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Cantrips Known</th><th class="value">Spells Known</th><th class="value">Spell Slots</th><th class="value">Slot Level</th><th class="value"><a href="compendium/lists/list-optfeaturetype-ei.md">Invocations Known</a></th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Pact%20Magic%20(Level%201)'>Pact Magic</a>, <a href='#Otherworldly%20Patron%20(Level%201)'>Otherworldly Patron</a></td><td class="value">2</td><td class="value">2</td><td class="value">1</td><td class="value">1st</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Eldritch%20Invocations%20(Level%202)'>Eldritch Invocations</a></td><td class="value">2</td><td class="value">3</td><td class="value">2</td><td class="value">1st</td><td class="value">2</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Pact%20Boon%20(Level%203)'>Pact Boon</a></td><td class="value">2</td><td class="value">4</td><td class="value">2</td><td class="value">2nd</td><td class="value">2</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a>, <a href='#Eldritch%20Versatility%20(Level%204)'>Eldritch Versatility</a></td><td class="value">3</td><td class="value">5</td><td class="value">2</td><td class="value">2nd</td><td class="value">2</td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td><td class="value">3</td><td class="value">6</td><td class="value">2</td><td class="value">3rd</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Otherworldly%20Patron%20feature%20(Level%206)'>Otherworldly Patron feature</a></td><td class="value">3</td><td class="value">7</td><td class="value">2</td><td class="value">3rd</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td><td class="value">3</td><td class="value">8</td><td class="value">2</td><td class="value">4th</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">9</td><td class="value">2</td><td class="value">4th</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td><td class="value">3</td><td class="value">10</td><td class="value">2</td><td class="value">5th</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Otherworldly%20Patron%20feature%20(Level%2010)'>Otherworldly Patron feature</a></td><td class="value">4</td><td class="value">10</td><td class="value">2</td><td class="value">5th</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Mystic%20Arcanum%20(6th%20level)%20(Level%2011)'>Mystic Arcanum (6th level)</a></td><td class="value">4</td><td class="value">11</td><td class="value">3</td><td class="value">5th</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">11</td><td class="value">3</td><td class="value">5th</td><td class="value">6</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Mystic%20Arcanum%20(7th%20level)%20(Level%2013)'>Mystic Arcanum (7th level)</a></td><td class="value">4</td><td class="value">12</td><td class="value">3</td><td class="value">5th</td><td class="value">6</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Otherworldly%20Patron%20feature%20(Level%2014)'>Otherworldly Patron feature</a></td><td class="value">4</td><td class="value">12</td><td class="value">3</td><td class="value">5th</td><td class="value">6</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Mystic%20Arcanum%20(8th%20level)%20(Level%2015)'>Mystic Arcanum (8th level)</a></td><td class="value">4</td><td class="value">13</td><td class="value">3</td><td class="value">5th</td><td class="value">7</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">13</td><td class="value">3</td><td class="value">5th</td><td class="value">7</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Mystic%20Arcanum%20(9th%20level)%20(Level%2017)'>Mystic Arcanum (9th level)</a></td><td class="value">4</td><td class="value">14</td><td class="value">4</td><td class="value">5th</td><td class="value">7</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td><td class="value">4</td><td class="value">14</td><td class="value">4</td><td class="value">5th</td><td class="value">8</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2019)'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">15</td><td class="value">4</td><td class="value">5th</td><td class="value">8</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Eldritch%20Master%20(Level%2020)'>Eldritch Master</a></td><td class="value">4</td><td class="value">15</td><td class="value">4</td><td class="value">5th</td><td class="value">8</td></tr>
+> </tbody></table>
+^class-progession
 
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Warlock level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 4 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
 
 ## Starting Warlock
 
-You are proficient with the following items, in addition to any proficiencies provided by your race or background.
-
-- **Saving Throws**: Wisdom, Charisma
-- **Armor**: light
-- **Weapons**: simple
+- **Saving Throws**: Charisma, Wisdom
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]]
+- **Weapons**: simple weapons
 - **Tools**: none
-- **Skills**: Choose 2 from *Arcana*, *Deception*, *History*, *Intimidation*, *Investigation*, *Nature*, *Religion*
+- **Skills**: choose 2 from [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], [[/5. Mechanics/Rules/Skills.md#Deception\|Deception]], [[/5. Mechanics/Rules/Skills.md#History\|History]], [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]], [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]], and [[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]
 
-You begin play with the following equipment, in addition to any equipment provided by your background.
+You start with the following items, plus anything provided by your background.
 
-- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon  
-- (a) a [[5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[5. Mechanics/Items/Arcane Focus.md\|arcane focus]]  
-- (a) a [[5. Mechanics/Items/Scholars Pack.md\|scholar's pack]] or (b) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]]  
-- [[5. Mechanics/Items/Leather Armor.md\|Leather armor]], any simple weapon, and two [[5. Mechanics/Items/Dagger.md\|daggers]]  
+- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon
+- (a) a [[5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]]
+- (a) a [[5. Mechanics/Items/Scholars Pack.md\|scholar's pack]] or (b) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]]
+- [[5. Mechanics/Items/Leather Armor.md\|Leather armor]], any simple weapon, and two [[5. Mechanics/Items/Dagger.md\|daggers]]
 
-Alternatively, you may start with 4d4 × 10 gp and choose your own equipment.
+Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
 ## Multiclassing Warlock
 
-To multiclass as a Warlock, you must meet the following prerequisites:
+**Ability Score Minimum:**Charisma 13
 
-- Charisma 13
+When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-You gain the following proficiencies:
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]]
+- **Weapons**: simple weapons
 
-- **Armor**: light
-- **Weapons**: simple
-- **Tools**: none
+## Warlock
+
+With a pseudodragon curled on his shoulder, a young elf in golden robes smiles warmly, weaving a magical charm into his honeyed words and bending the palace sentinel to his will.
+
+As flames spring to life in her hands, a wizened human whispers the secret name of her demonic patron, infusing her spell with fiendish magic.
+
+Shifting his gaze between a battered tome and the odd alignment of the stars overhead, a wild-eyed tiefling chants the mystic ritual that will open a doorway to a distant world.
+
+Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. Through pacts made with mysterious beings of supernatural power, warlocks unlock magical effects both subtle and spectacular. Drawing on the ancient knowledge of beings such as fey nobles, demons, devils, hags, and alien entities of the Far Realm, warlocks piece together arcane secrets to bolster their own power.
+
+### Sworn and Beholden
+
+A warlock is defined by a pact with an otherworldly being. Sometimes the relationship between warlock and patron is like that of a cleric and a deity, though the beings that serve as patrons for warlocks are not gods. A warlock might lead a cult dedicated to a demon prince, an archdevil, or an utterly alien entity—beings not typically served by clerics. More often, though, the arrangement is similar to that between a master and an apprentice. The warlock learns and grows in power, at the cost of occasional services performed on the patron's behalf.
+
+The magic bestowed on a warlock ranges from minor but lasting alterations to the warlock's being (such as the ability to see in darkness or to read any language) to access to powerful spells. Unlike bookish wizards, warlocks supplement their magic with some facility at hand-to-hand combat. They are comfortable in light armor and know how to use simple weapons.
+
+### Delvers into Secrets
+
+Warlocks are driven by an insatiable need for knowledge and power, which compels them into their pacts and shapes their lives. This thirst drives warlocks into their pacts and shapes their later careers as well.
+
+Stories of warlocks binding themselves to fiends are widely known. But many warlocks serve patrons that are not fiendish. Sometimes a traveler in the wilds comes to a strangely beautiful tower, meets its fey lord or lady, and stumbles into a pact without being fully aware of it. And sometimes, while poring over tomes of forbidden lore, a brilliant but crazed student's mind is opened to realities beyond the material world and to the alien beings that dwell in the outer void.
+
+Once a pact is made, a warlock's thirst for knowledge and power can't be slaked with mere study and research. No one makes a pact with such a mighty patron if he or she doesn't intend to use the power thus gained. Rather, the vast majority of warlocks spend their days in active pursuit of their goals, which typically means some kind of adventuring. Furthermore, the demands of their patrons drive warlocks toward adventure.
+
+### Creating a Warlock
+
+As you make your warlock character, spend some time thinking about your patron and the obligations that your pact imposes upon you. What led you to make the pact, and how did you make contact with your patron? Were you seduced into summoning a devil, or did you seek out the ritual that would allow you to make contact with an alien elder god? Did you search for your patron, or did your patron find and choose you? Do you chafe under the obligations of your pact or serve joyfully in anticipation of the rewards promised to you?
+
+Work with your DM to determine how big a part your pact will play in your character's adventuring career. Your patron's demands might drive you into adventures, or they might consist entirely of small favors you can do between adventures.
+
+What kind of relationship do you have with your patron? Is it friendly, antagonistic, uneasy, or romantic? How important does your patron consider you to be? What part do you play in your patron's plans? Do you know other servants of your patron?
+
+How does your patron communicate with you? If you have a familiar, it might occasionally speak with your patron's voice. Some warlocks find messages from their patrons etched on trees, mingled among tea leaves, or adrift in the clouds—messages that only the warlock can see. Other warlocks converse with their patrons in dreams or waking visions, or deal only with intermediaries.
+
+#### Quick Build
+
+You can make a warlock quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the [[5. Mechanics/Backgrounds/Charlatan.md\|charlatan]] background. Third, choose the [[5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] and [[5. Mechanics/Spells/Chill Touch.md\|chill touch]] cantrips, along with the 1st-level spells [[5. Mechanics/Spells/Charm Person.md\|charm person]] and [[5. Mechanics/Spells/Witch Bolt.md\|witch bolt]].
+
+> [!quote] A quote from Xarren, herald of Acamar  
+> 
+> You think me mad? I think true insanity is being content to live a life of mortal drudgery when knowledge and power is there for the taking in the realm beyond.
+
+Warlocks are finders and keepers of secrets. They push at the edge of our understanding of the world, always seeking to expand their expertise. Where sages or wizards might heed a clear sign of danger and end their research, a warlock plunges ahead, heedless of the cost. Thus, it takes a peculiar mixture of intelligence, curiosity, and recklessness to produce a warlock. Many folk would describe that combination as evidence of madness. Warlocks see it as a demonstration of bravery.
+
+Warlocks are defined by two elements that work in concert to forge their path into this class. The first element is the event or circumstances that led to a warlock's entering into a pact with a planar entity. The second one is the nature of the entity a warlock is bound to. Unlike clerics, who typically embrace a deity and that god's ethos, a warlock might have no love for a patron, or vice versa.
+
+The sections that follow provide ways to embellish a warlock character that could generate some intriguing story and roleplaying opportunities.
+
+## Patron's Attitude
+_Source: Xanathar's Guide to Everything_
+
+Every relationship is a two-way street, but in the case of warlocks and their patrons it's not necessarily true that both sides of the street are the same width or made of the same stuff. The feeling that a warlock holds for their patron, whether positive or negative, might be reciprocated by the patron, or the two participants in the pact might view one another with opposing emotions.
+
+When you determine the attitude your warlock character holds toward your patron, also consider how things look from the patron's perspective. How does your patron behave toward you? Is your patron a friend and ally, or an enemy that grants you power only because you forced a pact upon it?
+
+**Patron Attitudes**
+
+`dice: [[Warlock.md#^patron-attitudes]]`
+
+| dice: d6 | Attitude |
+|----------|----------|
+| 1 | Your patron has guided and helped your family for generations and is kindly toward you. |
+| 2 | Each interaction with your capricious patron is a surprise, whether pleasant or painful. |
+| 3 | Your patron is the spirit of a long-dead hero who sees your pact as a way for it to continue to influence the world. |
+| 4 | Your patron is a strict disciplinarian but treats you with a measure of respect. |
+| 5 | Your patron tricked you into a pact and treats you as a slave. |
+| 6 | You are mostly left to your own devices with no interference from your patron. Sometimes you dread the demands it will make when it does appear. |
+^patron-attitudes
+
+## Special Terms of the Pact
+_Source: Xanathar's Guide to Everything_
+
+A pact can range from a loose agreement to a formal contract with lengthy, detailed clauses and lists of requirements. The terms of a pact—what a warlock must do to receive a patron's favor—are always dictated by the patron. On occasion, those terms include a special proviso that might seem odd or whimsical, but warlocks take these dictates as seriously as they do the other requirements of their pacts.
+
+Does your character have a pact that requires you to change your behavior in an unusual or seemingly frivolous way? Even if your patron hasn't imposed such a duty on you already, that's not to say it couldn't still happen.
+
+**Special Terms**
+
+`dice: [[Warlock.md#^special-terms]]`
+
+| dice: d6 | Term |
+|----------|------|
+| 1 | When directed, you must take immediate action against a specific enemy of your patron. |
+| 2 | Your pact tests your willpower; you are required to abstain from alcohol and other intoxicants. |
+| 3 | At least once a day, you must inscribe or carve your patron's name or symbol on the wall of a building. |
+| 4 | You must occasionally conduct bizarre rituals to maintain your pact. |
+| 5 | You can never wear the same outfit twice, since your patron finds such predictability to be boring. |
+| 6 | When you use an eldritch invocation, you must speak your patron's name aloud or risk incurring its displeasure. |
+^special-terms
+
+## Binding Mark
+_Source: Xanathar's Guide to Everything_
+
+Some patrons make a habit of, and often enjoy, marking the warlocks under their sway in some fashion. A binding mark makes it clear—to those who know about such things—that the individual in question is bound to the patron's service. A warlock might take advantage of such a mark, claiming it as proof of one's pact, or might want to keep it under wraps (if possible) to avoid the difficulties it might bring.
+
+If your warlock's pact comes with a binding mark, how you feel about displaying it probably depends on the nature of your relationship with the one who gave it to you. Is the mark a source of pride or something you are secretly ashamed of?
+
+**Binding Marks**
+
+`dice: [[Warlock.md#^binding-marks]]`
+
+| dice: d6 | Mark |
+|----------|------|
+| 1 | One of your eyes looks the same as one of your patron's eyes. |
+| 2 | Each time you wake up, the small blemish on your face appears in a different place. |
+| 3 | You display outward symptoms of a disease but suffer no ill effects from it. |
+| 4 | Your tongue is an unnatural color. |
+| 5 | You have a vestigial tail. |
+| 6 | Your nose glows in the dark. |
+^binding-marks
 
 ## Class Features
 
@@ -131,13 +211,13 @@ Additionally, when you gain a level in this class, you can choose one of the war
 
 Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
 
-**Spell save DC**: 8 + your proficiency bonus + your Charisma modifier
+<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Charisma modifier</span>
 
-**Spell attack modifier**: your proficiency bonus + your Charisma modifier
+<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma modifier</span>
 
 #### Spellcasting Focus
 
-You can use an [[5. Mechanics/Items/Arcane Focus.md\|arcane focus]] as a spellcasting focus for your warlock spells.
+You can use an [[5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]] as a spellcasting focus for your warlock spells.
 
 ### Otherworldly Patron (Level 1)
 
@@ -147,7 +227,7 @@ At 1st level, you have struck a bargain with an otherworldly being chosen from t
 
 In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
 
-At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the [[5. Mechanics/Optional Features/List Eldritch Invocation.md\|Optional Features]] page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
+At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the [[5. Mechanics/Lists/List Optfeaturetype Ei.md\|Optional Features]] page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 
@@ -170,7 +250,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Eldritch Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 70_
 
-*4th-level warlock [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
+*4th-level warlock [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change of focus in your occult studies:
 
@@ -248,10 +328,10 @@ At 20th level, you can draw on your inner reserve of mystical power while entrea
 
 ## Optional Features
 
-> [!example]- Eldritch Invocation
-> ![[5. Mechanics/Optional Features/List Eldritch Invocation.md#Eldritch%20Invocation\|Eldritch Invocation]]
-^list-eldritch-invocation
+> [!example]- Optional Features: Eldritch Invocation
+> ![[5. Mechanics/Lists/List Optfeaturetype Ei.md#Eldritch%20Invocation\|Eldritch Invocation]]
+^list-optfeature-ei
 
-> [!example]- Pact Boon
-> ![[5. Mechanics/Optional Features/List Pact Boon.md#Pact%20Boon\|Pact Boon]]
-^list-pact-boon
+> [!example]- Optional Features: Pact Boon
+> ![[5. Mechanics/Lists/List Optfeaturetype Pb.md#Pact%20Boon\|Pact Boon]]
+^list-optfeature-pb

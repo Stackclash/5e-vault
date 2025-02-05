@@ -7,23 +7,23 @@ aliases:
   - Adventuring Gear
 ---
 # Adventuring Gear
-*Source: Player's Handbook p. 148. Available in the SRD and the Basic Rules.* 
+*Source: Player's Handbook p. 148. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
 
 **Adventuring Gear**
 
 | Item | Cost | Weight |
 |------|------|--------|
-| [[5. Mechanics/Items/Abacus.md\|Abacus]] | 2 gp | 2 lb. |
-| [[5. Mechanics/Items/Acid Vial.md\|Acid (vial)]] | 25 gp | 1 lb. |
+| [[5. Mechanics/Items/Abac(US).md\|Abacus]] | 2 gp | 2 lb. |
+| [[5. Mechanics/Items/Acid Vi(AL).md\|Acid (vial)]] | 25 gp | 1 lb. |
 | [[5. Mechanics/Items/Alchemists Fire Flask.md\|Alchemist's fire (flask)]] | 50 gp | 1 lb. |
 | *Ammunition* |  |  |
 | [[5. Mechanics/Items/Arrows 20.md\|Arrows (20)]] | 1 gp | 1 lb. |
 | [[5. Mechanics/Items/Blowgun Needles 50.md\|Blowgun needles (50)]] | 1 gp | 1 lb. |
 | [[5. Mechanics/Items/Crossbow Bolts 20.md\|Crossbow bolts (20)]] | 1 gp | 1½ lb. |
 | [[5. Mechanics/Items/Sling Bullets 20.md\|Sling bullets (20)]] | 4 cp | 1½ lb. |
-| [[5. Mechanics/Items/Antitoxin Vial.md\|Antitoxin (vial)]] | 50 gp | — |
-| *[[5. Mechanics/Items/Arcane Focus.md\|Arcane focus]]* |  |  |
-| [[5. Mechanics/Items/Crystal.md\|Crystal]] | 10 gp | 1 lb. |
+| [[5. Mechanics/Items/Antitoxin Vi(AL).md\|Antitoxin (vial)]] | 50 gp | — |
+| *[[5. Mechanics/Items/Arcane Foc(US).md\|Arcane focus]]* |  |  |
+| [[5. Mechanics/Items/Cryst(AL).md\|Crystal]] | 10 gp | 1 lb. |
 | [[5. Mechanics/Items/Orb.md\|Orb]] | 20 gp | 3 lb. |
 | [[5. Mechanics/Items/Rod.md\|Rod]] | 10 gp | 2 lb. |
 | [[5. Mechanics/Items/Staff.md\|Staff]] | 5 gp | 4 lb. |
@@ -43,7 +43,7 @@ aliases:
 | [[5. Mechanics/Items/Candle.md\|Candle]] | 1 cp | — |
 | [[5. Mechanics/Items/Crossbow Bolt Case.md\|Case, crossbow bolt]] | 1 gp | 1 lb. |
 | [[5. Mechanics/Items/Map Or Scroll Case.md\|Case, map or scroll]] | 1 gp | 1 lb. |
-| [[5. Mechanics/Items/Chain 10 Feet.md\|Chain (10 feet)]] | 5 gp | 10 lb. |
+| [[5. Mechanics/Items/Chain 10 F(EET).md\|Chain (10 feet)]] | 5 gp | 10 lb. |
 | [[5. Mechanics/Items/Chalk 1 Piece.md\|Chalk (1 piece)]] | 1 cp | — |
 | [[5. Mechanics/Items/Chest.md\|Chest]] | 5 gp | 25 lb. |
 | [[5. Mechanics/Items/Common Clothes.md\|Clothes, common]] | 5 sp | 3 lb. |
@@ -52,7 +52,7 @@ aliases:
 | [[5. Mechanics/Items/Travelers Clothes.md\|Clothes, traveler's]] | 2 gp | 4 lb. |
 | [[5. Mechanics/Items/Component Pouch.md\|Component pouch]] | 25 gp | 2 lb. |
 | [[5. Mechanics/Items/Crowbar.md\|Crowbar]] | 2 gp | 5 lb. |
-| *[[5. Mechanics/Items/Druidic Focus.md\|Druidic focus]]* |  |  |
+| *[[5. Mechanics/Items/Druidic Foc(US).md\|Druidic focus]]* |  |  |
 | [[5. Mechanics/Items/Sprig Of Mistletoe.md\|Sprig of mistletoe]] | 1 gp | — |
 | [[5. Mechanics/Items/Totem.md\|Totem]] | 1 gp | — |
 | [[5. Mechanics/Items/Wooden Staff.md\|Wooden staff]] | 5 gp | 4 lb. |
@@ -89,12 +89,12 @@ aliases:
 | [[5. Mechanics/Items/Manacles.md\|Manacles]] | 2 gp | 6 lb. |
 | [[5. Mechanics/Items/Steel Mirror.md\|Mirror, steel]] | 5 gp | 1/2 lb. |
 | [[5. Mechanics/Items/Oil Flask.md\|Oil (flask)]] | 1 sp | 1 lb. |
-| [[5. Mechanics/Items/Paper One Sheet.md\|Paper (one sheet)]] | 2 sp | — |
-| [[5. Mechanics/Items/Parchment One Sheet.md\|Parchment (one sheet)]] | 1 sp | — |
-| [[5. Mechanics/Items/Perfume Vial.md\|Perfume (vial)]] | 5 gp | — |
+| [[5. Mechanics/Items/Paper One Sh(EET).md\|Paper (one sheet)]] | 2 sp | — |
+| [[5. Mechanics/Items/Parchment One Sh(EET).md\|Parchment (one sheet)]] | 1 sp | — |
+| [[5. Mechanics/Items/Perfume Vi(AL).md\|Perfume (vial)]] | 5 gp | — |
 | [[5. Mechanics/Items/Miners Pick.md\|Pick, miner's]] | 2 gp | 10 lb. |
 | [[5. Mechanics/Items/Piton.md\|Piton]] | 5 cp | 1/4 lb. |
-| [[5. Mechanics/Items/Basic Poison Vial.md\|Poison, basic (vial)]] | 100 gp | — |
+| [[5. Mechanics/Items/Basic Poison Vi(AL).md\|Poison, basic (vial)]] | 100 gp | — |
 | [[5. Mechanics/Items/Pole 10 Foot.md\|Pole (10-foot)]] | 5 cp | 7 lb. |
 | [[5. Mechanics/Items/Iron Pot.md\|Pot, iron]] | 2 gp | 10 lb. |
 | [[5. Mechanics/Items/Potion Of Healing.md\|Potion of healing]] | 50 gp | 1/2 lb. |
@@ -103,8 +103,8 @@ aliases:
 | [[5. Mechanics/Items/Portable Ram.md\|Ram, portable]] | 4 gp | 35 lb. |
 | [[5. Mechanics/Items/Rations 1 Day.md\|Rations (1 day)]] | 5 sp | 2 lb. |
 | [[5. Mechanics/Items/Robes.md\|Robes]] | 1 gp | 4 lb. |
-| [[5. Mechanics/Items/Hempen Rope 50 Feet.md\|Rope, hempen (50 feet)]] | 1 gp | 10 lb. |
-| [[5. Mechanics/Items/Silk Rope 50 Feet.md\|Rope, silk (50 feet)]] | 10 gp | 5 lb. |
+| [[5. Mechanics/Items/Hempen Rope 50 F(EET).md\|Rope, hempen (50 feet)]] | 1 gp | 10 lb. |
+| [[5. Mechanics/Items/Silk Rope 50 F(EET).md\|Rope, silk (50 feet)]] | 10 gp | 5 lb. |
 | [[5. Mechanics/Items/Sack.md\|Sack]] | 1 cp | 1/2 lb. |
 | [[5. Mechanics/Items/Merchants Scale.md\|Scale, merchant's]] | 5 gp | 3 lb. |
 | [[5. Mechanics/Items/Sealing Wax.md\|Sealing wax]] | 5 sp | — |
@@ -118,7 +118,7 @@ aliases:
 | [[5. Mechanics/Items/Two Person Tent.md\|Tent, two-person]] | 2 gp | 20 lb. |
 | [[5. Mechanics/Items/Tinderbox.md\|Tinderbox]] | 5 sp | 1 lb. |
 | [[5. Mechanics/Items/Torch.md\|Torch]] | 1 cp | 1 lb. |
-| [[5. Mechanics/Items/Vial.md\|Vial]] | 1 gp | — |
+| [[5. Mechanics/Items/Vi(AL).md\|Vial]] | 1 gp | — |
 | [[5. Mechanics/Items/Waterskin.md\|Waterskin]] | 2 sp | 5 lb. (full) |
 | [[5. Mechanics/Items/Whetstone.md\|Whetstone]] | 1 cp | 1 lb. |
 ^adventuring-gear

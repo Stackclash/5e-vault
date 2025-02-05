@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 6
+environments: 'underdark, mountain, grassland, hill, desert, coastal'
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/6
@@ -12,12 +16,11 @@ tags:
   - monster/environment/underdark
   - monster/size/huge
   - monster/type/giant
-statblock: inline
 aliases:
   - Cyclops
 ---
-# [[5. Mechanics/Bestiary/Giant/Cyclops.md|Cyclops]]
-*Source: Monster Manual p. 45, Vecna: Eve of Ruin. Available in the Basic Rules.*
+# [[5. Mechanics\Bestiary\Giant\Cyclops.md|Cyclops]]
+*Source: Monster Manual p. 45, Vecna: Eve of Ruin. Available in the Basic Rules (2014)*
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
 
@@ -70,15 +73,6 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
   "name": "Rock"
 "source":
 - "MM"
-- "RoT"
-- "ToA"
-- "GoS"
-- "EGW"
-- "MOT"
-- "CM"
-- "WBtW"
-- "DSotDQ"
-- "SatO"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Giant/token/cyclops.webp"
 ```

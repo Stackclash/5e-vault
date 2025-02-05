@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: 'underdark, urban'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
@@ -8,12 +12,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/monstrosity/shapechanger
-statblock: inline
 aliases:
   - Doppelganger
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Doppelganger.md|Doppelganger]]
-*Source: Monster Manual p. 82. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Monstrosity\Doppelganger.md|Doppelganger]]
+*Source: Monster Manual p. 82. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Doppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise. Few creatures spread fear, suspicion, and deceit better than doppelgangers. Found in every land and culture, they can take on the guise of any individual of any race.
 
@@ -49,7 +52,7 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
 "skillsaves":
   "Deception": !!int "6"
   "Insight": !!int "3"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common"
 "cr": "3"
@@ -60,7 +63,7 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
     \ isn't transformed. It reverts to its true form if it dies."
   "name": "Shapechanger"
 - "desc": "In the first round of a combat, the doppelganger has advantage on attack\
-    \ rolls against any creature it surprised."
+    \ rolls against any creature it [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]]."
   "name": "Ambusher"
 - "desc": "If the doppelganger surprises a creature and hits it with an attack during\
     \ the first round of combat, the target takes an extra 10 (3d6) damage from the\
@@ -76,35 +79,15 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
     \ 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt,\
     \ 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While\
     \ the target is in range, the doppelganger can continue reading its thoughts,\
-    \ as long as the doppelganger's [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
-    \ isn't broken (as if concentrating on a spell). While reading the target's mind,\
-    \ the doppelganger has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
-    \ and Charisma ([[/5. Mechanics/Rules/Skills.md#Deception|Deception]], [[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]],\
-    \ and [[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]) checks against the\
-    \ target."
+    \ as long as the doppelganger's [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
+    \ isn't broken (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
+    \ on a spell). While reading the target's mind, the doppelganger has advantage\
+    \ on Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]]) and Charisma ([[/5. Mechanics/Rules/Skills.md#Deception|Deception]],\
+    \ [[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]], and [[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]])\
+    \ checks against the target."
   "name": "Read Thoughts"
 "source":
 - "MM"
-- "HotDQ"
-- "LMoP"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "BGDIA"
-- "IMR"
-- "EGW"
-- "IDRotF"
-- "JttRC"
-- "KftGV"
-- "HftT"
-- "PaBTSO"
-- "SatO"
-- "ToFW"
-- "BMT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/doppelganger.webp"
 ```
 ^statblock

@@ -13,20 +13,20 @@ aliases:
 
 A secret society of good-aligned wizards built the Amber Temple in the Balinok Mountains more than two thousand years ago. They needed a vault in which to contain the evil vestiges (remnants of dead, malevolent entities) they had captured and the hoard of forbidden knowledge they had amassed. They dedicated the temple to a god of secrets, whom they trusted to keep it hidden from the rest of the world until the end of time. Unfortunately for the wizards, even the will of a god couldn't prevent other evil creatures from learning the temple's location. The wizards were forced to guard the temple themselves, to keep its secrets from falling into villainous hands. The evil forces that were imprisoned within the temple eventually corrupted the wizards, turning them against one another.
 
-The wizards were dead and gone by the time an evil archmage named [[4. World Almanac/NPCs/Exethanter.md\|Exethanter]] arrived at the temple. He breached the temple's wards, spoke to a vestige trapped in amber, and discovered the secret to becoming a lich. After his transformation, the lich [[4. World Almanac/NPCs/Exethanter.md\|Exethanter]] took over the temple and turned the skulls of it previous defenders into flameskulls under his command. [[4. World Almanac/NPCs/Exethanter.md\|Exethanter]] then took it upon himself to watch over the temple, not to hoard its evil secrets but to share them openly. Meanwhile, the evils within the temple fed on each other, growing in power.
+The wizards were dead and gone by the time an evil archmage named [[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]] arrived at the temple. He breached the temple's wards, spoke to a vestige trapped in amber, and discovered the secret to becoming a lich. After his transformation, the lich [[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]] took over the temple and turned the skulls of it previous defenders into flameskulls under his command. [[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]] then took it upon himself to watch over the temple, not to hoard its evil secrets but to share them openly. Meanwhile, the evils within the temple fed on each other, growing in power.
 
 > [!note] Extreme Cold
 > 
-> The Amber Temple is a cold, dark place carved out of the snowy slope of Mount Ghakis. The temperature throughout the complex is −10 degrees Fahrenheit (−23 degrees Celsius). Characters who don't have heat sources, cold weather gear, or magic to protect them are subject to the effects of extreme cold, as described in the ""Weather"" section in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide". If [[4. World Almanac/NPCs/Kasimir Velikov.md\|Kasimir Velikov]] (see chapter 5, area N9a) is with the party, his [[5. Mechanics/Items/Ring Of Warmth.md\|ring of warmth]] protects him from the effects of the extreme cold.
+> The Amber Temple is a cold, dark place carved out of the snowy slope of Mount Ghakis. The temperature throughout the complex is −10 degrees Fahrenheit (−23 degrees Celsius). Characters who don't have heat sources, cold weather gear, or magic to protect them are subject to the effects of extreme cold, as described in the ""Weather"" section in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide". If [[4. World Almanac/NPCs/Kasimir Velikov (COS).md\|Kasimir Velikov]] (see chapter 5, area N9a) is with the party, his [[5. Mechanics/Items/Ring Of Warmth.md\|ring of warmth]] protects him from the effects of the extreme cold.
 ^extreme-cold
 
-When Strahd came to the temple seeking immortality, [[4. World Almanac/NPCs/Exethanter.md\|Exethanter]] sensed that he was a man of destiny. The evil powers in the temple felt something much stronger: a darkness that eclipsed their own. Strahd communed with these evil vestiges and forged a pact with them. When Strahd later murdered his brother Sergei, that pact was sealed with blood. Strahd transformed into a vampire, and the Dark Powers turned his land into a prison.
+When Strahd came to the temple seeking immortality, [[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]] sensed that he was a man of destiny. The evil powers in the temple felt something much stronger: a darkness that eclipsed their own. Strahd communed with these evil vestiges and forged a pact with them. When Strahd later murdered his brother Sergei, that pact was sealed with blood. Strahd transformed into a vampire, and the Dark Powers turned his land into a prison.
 
-Strahd has returned to the temple several times to learn new magic and to find a means of escaping his fate, but the Dark Powers have no intention of giving him up. These recent years have been difficult for [[4. World Almanac/NPCs/Exethanter.md\|Exethanter]], whose body and mind have been falling apart. The lich has grown weak and forgetful. He no longer remembers his name or his spells. He knows only that the Dark Powers that created Strahd's domain were born in the temple, and that these entities feed on the evil that Strahd represents. Strahd is the darkness that sustains them.
+Strahd has returned to the temple several times to learn new magic and to find a means of escaping his fate, but the Dark Powers have no intention of giving him up. These recent years have been difficult for [[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]], whose body and mind have been falling apart. The lich has grown weak and forgetful. He no longer remembers his name or his spells. He knows only that the Dark Powers that created Strahd's domain were born in the temple, and that these entities feed on the evil that Strahd represents. Strahd is the darkness that sustains them.
 
 Characters who visit the temple can sense the presence of great evil. The dark vestiges imprisoned within the temple will try to corrupt them, offering them secrets and gifts in exchange for a taste of the evil that lurks within their true hearts.
 
-> [!quote]- A quote from Tome of Strahd  
+> [!quote] A quote from Tome of Strahd  
 > 
 > I would not be called 'death' so soon. I made a pact with death, a pact of blood.
 
@@ -119,7 +119,7 @@ The open doorway to the east leads to area X6. The double doors to the west open
 > Four black marble columns support the vaulted ceiling of the temple, at the north end of which stands a forty-foot-tall statue of a cowled figure in flowing robes. The statue's stony hands are outstretched as if in the midst of casting a spell. Its face is a void of utter blackness. The ominous statue stands between two black marble balconies, one of which has partially collapsed and fallen on the temple's black marble floor, in front of an open doorway. The walls of the temple are sheathed in amber, and the doors leading from it are made of amber as well. Arched hallways coated with amber lead away from the temple to the west and east. Flanking these exits are alcoves that hold white marble statues of robed human wizards with pointed hats and golden staffs. One of them has toppled over and lies shattered on the floor. 
 ^5e0
 
-An [[5. Mechanics/Bestiary/Fiend/Arcanaloth.md\|arcanaloth]] named Neferon guards this temple from within the hollow head of the great statue (area X5a) and attacks characters on sight with its longer-ranged spells. Thanks to its [[/5. Mechanics/Rules/Senses.md#truesight\|truesight]], the arcanaloth can see the [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] and can see through magical darkness. Characters can't see Neferon unless they can penetrate the magical darkness that envelops the statue's face and head.
+An [[5. Mechanics/Bestiary/Fiend/Arcanaloth.md\|arcanaloth]] named Neferon guards this temple from within the hollow head of the great statue (area X5a) and attacks characters on sight with its longer-ranged spells. Thanks to its [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]], the arcanaloth can see the [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] and can see through magical darkness. Characters can't see Neferon unless they can penetrate the magical darkness that envelops the statue's face and head.
 
 Once the arcanaloth begins casting spells, the three [[5. Mechanics/Bestiary/Undead/Flameskull.md\|flameskulls]] in area X17 take up positions behind the arrow slits that overlook the temple and cast [[5. Mechanics/Spells/Magic Missile.md\|magic missile]] and [[5. Mechanics/Spells/Fireball.md\|fireball]] spells at characters they can see.
 
@@ -139,7 +139,7 @@ Neferon the [[5. Mechanics/Bestiary/Fiend/Arcanaloth.md\|arcanaloth]] lairs insi
 
 A pair of 2-foot-wide eyeholes provides an unobstructed view of the temple floor south of the statue, as well as the southern balcony (area X4). Looking through the eyes, one can't see the northern balconies (areas X11 and X23), the areas beneath them, or anywhere behind or directly above the statue. The eyeholes grant the arcanaloth three-quarters cover against attacks that originate outside the head.
 
-Neferon wears gold spectacles and a magic robe (see "Treasure" below). It uses its [[5. Mechanics/Spells/Alter Self.md\|alter self]] spell and [[/5. Mechanics/Rules/Skills.md#Deception\|Deception]] skill to pass itself off as an old human wizard with a long white beard named Heinrich Stolt. "Heinrich" feigns confusion. If the characters ask him why he attacked, he claims that he was guarding the temple. If the arcanaloth loses more than half of its hit points, it teleports to the temple floor, turns [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]], and flees by the safest route, attacking the characters again when it's safe to do so. The arcanaloth will not, under any circumstances, leave the Amber Temple.
+Neferon wears gold spectacles and a magic robe (see "Treasure" below). It uses its [[5. Mechanics/Spells/Alter Self.md\|alter self]] spell and [[/5. Mechanics/Rules/Skills.md#Deception\|Deception]] skill to pass itself off as an old human wizard with a long white beard named Heinrich Stolt. "Heinrich" feigns confusion. If the characters ask him why he attacked, he claims that he was guarding the temple. If the arcanaloth loses more than half of its hit points, it teleports to the temple floor, turns [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]], and flees by the safest route, attacking the characters again when it's safe to do so. The arcanaloth will not, under any circumstances, leave the Amber Temple.
 
 #### Treasure
 
@@ -151,7 +151,7 @@ The arcanaloth carries a spellbook containing the wizard spells it has prepared 
 - [[5. Mechanics/Items/Riding Horse.md\|Riding horse]]  
 - Pit  
 - [[5. Mechanics/Items/Rowboat.md\|Rowboat]]  
-- [[5. Mechanics/Items/Spell Scroll.md\|Spell scroll]] ([[5. Mechanics/Spells/Moonbeam.md\|moonbeam]])  
+- [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell scroll]] ([[5. Mechanics/Spells/Moonbeam.md\|moonbeam]])  
 - [[5. Mechanics/Items/Mastiff.md\|Mastiffs]]  
 
 See the robe's description in the "Dungeon Master's Guide" for more information on each patch.
@@ -166,7 +166,7 @@ Set into the middle of the temple's north wall is a secret door. A character who
 
 ### X5c. Locked Doors
 
-These amber doors are sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress it is "Etherna." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If they are reduced to 0 hit points, necrotic energy fills the 30-foot cube directly north of the them. A creature in that area takes `dice:4d10|text(22)` (`4d10`) necrotic damage, turning to dust if reduced to 0 hit points. Beyond the doors lie the temple catacombs (area X31).
+These amber doors are sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress it is "Etherna." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If they are reduced to 0 hit points, necrotic energy fills the 30-foot cube directly north of the them. A creature in that area takes `dice:4d10|noform|avg|text(22)` (`4d10`) necrotic damage, turning to dust if reduced to 0 hit points. Beyond the doors lie the temple catacombs (area X31).
 
 ### X5d. Amber Reflections
 
@@ -221,11 +221,11 @@ The hanging lanthorns have [[5. Mechanics/Spells/Continual Flame.md\|continual f
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/119-cos13-03.webp#center\|Vilnius and Quasit]]
 
-Hiding behind the lectern is [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) and his [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] [[5. Mechanics/Bestiary/Fiend/Quasit.md\|quasit]] familiar. Characters who have a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 17 or higher notice him. A character who actively searches the room for hidden occupants spots [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check.
+Hiding behind the lectern is [[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) and his [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] [[5. Mechanics/Bestiary/Fiend/Quasit.md\|quasit]] familiar. Characters who have a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 17 or higher notice him. A character who actively searches the room for hidden occupants spots [[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check.
 
-[[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] wears scorched robes, his unkempt hair is half burned away, and his face and arms are covered with blisters from magic fire. He is the apprentice of Jakarion, the dead wizard in area X17. After the flameskulls there incinerated his master, the wounded [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] retreated here. He eats vermin to survive. The [[5. Mechanics/Bestiary/Construct/Amber Golem.md\|amber golem]] has been patrolling the hallway outside (area X8), and [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] won't leave this room until he knows the golem has been destroyed.
+[[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] wears scorched robes, his unkempt hair is half burned away, and his face and arms are covered with blisters from magic fire. He is the apprentice of Jakarion, the dead wizard in area X17. After the flameskulls there incinerated his master, the wounded [[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] retreated here. He eats vermin to survive. The [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|amber golem]] has been patrolling the hallway outside (area X8), and [[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] won't leave this room until he knows the golem has been destroyed.
 
-[[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] is a greedy, treacherous coward. He curses his dead master for leading them to this wretched land. If the characters try to befriend him, he is suspicious of their intentions. He would like to retrieve his dead master's staff and spellbook, but otherwise he has no interest in exploring more of the Amber Temple. He knows the following information about the place:
+[[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] is a greedy, treacherous coward. He curses his dead master for leading them to this wretched land. If the characters try to befriend him, he is suspicious of their intentions. He would like to retrieve his dead master's staff and spellbook, but otherwise he has no interest in exploring more of the Amber Temple. He knows the following information about the place:
 
 - The temple is a haven for forbidden knowledge.  
 - Flameskulls—constructs made from the remains of dead wizards—guard the temple.  
@@ -233,9 +233,9 @@ Hiding behind the lectern is [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] (NE m
 
 #### Treasure
 
-[[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] carries his spellbook, which contains all the spells he has prepared. He also has a gold amulet shaped like an upside-down V hidden under his robes. Of exquisite design, the amulet is worth 1,000 gp. It is the [[5. Mechanics/Items/Masters Amulet.md\|control amulet]] for the [[5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]] in area X35.
+[[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] carries his spellbook, which contains all the spells he has prepared. He also has a gold amulet shaped like an upside-down V hidden under his robes. Of exquisite design, the amulet is worth 1,000 gp. It is the [[5. Mechanics/Items/Masters Amulet.md\|control amulet]] for the [[5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]] in area X35.
 
-Although he can tell that the amulet is magical, he doesn't know its purpose. The amulet thrums when it comes within 10 feet of the shield guardian. If [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] realizes what the amulet does, he won't part with it.
+Although he can tell that the amulet is magical, he doesn't know its purpose. The amulet thrums when it comes within 10 feet of the shield guardian. If [[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] realizes what the amulet does, he won't part with it.
 
 ### X10. Northeast Annex
 
@@ -244,7 +244,7 @@ Although he can tell that the amulet is magical, he doesn't know its purpose. Th
 > The walls and ceiling in the eastern portion of this bare stone room have collapsed. To the west and south are open amber doors. In the center of the room is a ten-foot-tall statue of a jackal-headed warrior made of cracked amber. It turns to face you and clenches its fists.
 ^5f4
 
-The ceiling here is 20 feet high, and the walls are lined with empty torch sconces. The statue is a damaged [[5. Mechanics/Bestiary/Construct/Amber Golem.md\|amber golem]] (use the stat block for the [[5. Mechanics/Bestiary/Construct/Stone Golem.md\|stone golem]] in the "Monster Manual"). It has 145 hit points and attacks any creature it sees, stopping only when it can't see any.
+The ceiling here is 20 feet high, and the walls are lined with empty torch sconces. The statue is a damaged [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|amber golem]] (use the stat block for the [[5. Mechanics/Bestiary/Construct/Stone Golem.md\|stone golem]] in the "Monster Manual"). It has 145 hit points and attacks any creature it sees, stopping only when it can't see any.
 
 An earthquake collapsed the eastern part of the room long ago.
 
@@ -264,7 +264,7 @@ Characters can see an arrow slit west of the northern set of doors (see area X13
 > This bare stone room consists of a foyer to the west and a shrine to the east. Four candlesticks lie on the dusty floor of the foyer. In the shrine, fragments of a shattered obsidian statue are scattered in a raised alcove at the eastern end of the chamber. Two pairs of empty alcoves line the north and south walls of the shrine.
 ^5f8
 
-The [[5. Mechanics/Bestiary/Construct/Amber Golem.md\|amber golem]] in area X10 knocked over the candlesticks and pulverized the obsidian statue, which depicted the same nameless god that stands in area X5. Amber doors in the west wall open into area X13.
+The [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|amber golem]] in area X10 knocked over the candlesticks and pulverized the obsidian statue, which depicted the same nameless god that stands in area X5. Amber doors in the west wall open into area X13.
 
 A secret door is set into the back of one of the alcoves on the north wall. It can be pulled open to area X14.
 
@@ -301,7 +301,7 @@ Unless the characters douse their light sources and move quietly, the creatures 
 
 ### X15. Southwest Annex
 
-This room contains a [[5. Mechanics/Bestiary/Humanoid/Gladiator.md\|gladiator]] (CE female human), five [[5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] (CE male and female humans), and one [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]]. The gladiator and the berserkers are bloodthirsty mountain folk, the dire wolf a servant of Strahd. The dire wolf can't be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]].
+This room contains a [[5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|gladiator]] (CE female human), five [[5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] (CE male and female humans), and one [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]]. The gladiator and the berserkers are bloodthirsty mountain folk, the dire wolf a servant of Strahd. The dire wolf can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].
 
 When they aren't expecting trouble, the gladiator and the berserkers sit on the floor, sharpening their weapons, while the dire wolf sleeps in the middle of the room. The gladiator and the berserkers fight to the death. The dire wolf flees the temple (heading east, through areas X4 and X2) if reduced to fewer than half its hit points.
 
@@ -469,7 +469,7 @@ The iron chest is empty.
 > Red pinpoints of light burn in the skeleton's eye sockets. "Do I know you?" it asks.
 ^61e
 
-The [[5. Mechanics/Bestiary/Undead/Lich.md\|lich]] has fewer hit points than normal (99 hit points), doesn't remember its name ([[4. World Almanac/NPCs/Exethanter.md\|Exethanter]]), and has forgotten all of its prepared spells. It does know its cantrips. In its current condition, the lich has a challenge rating of 10 (5,900 XP). A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell restores the lich's memory and all of its spells. Another casting of the spell restores its normal hit point maximum (135).
+The [[5. Mechanics/Bestiary/Undead/Lich.md\|lich]] has fewer hit points than normal (99 hit points), doesn't remember its name ([[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]]), and has forgotten all of its prepared spells. It does know its cantrips. In its current condition, the lich has a challenge rating of 10 (5,900 XP). A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell restores the lich's memory and all of its spells. Another casting of the spell restores its normal hit point maximum (135).
 
 If the characters restore its memory, the lich gives them the passwords to all the locked doors in the Amber Temple (with the exception of the door into area X28, where its phylactery is hidden). It also provides all the information pertaining to Strahd and the temple presented at the start of this chapter. If the characters think to ask, it provides them with the command words for any of the books in the library (area K30).
 
@@ -481,7 +481,7 @@ The lich assumes that the characters have come seeking knowledge and power. If i
 
 The furnishings here are in poor condition and fall apart easily.
 
-There are three secret doors in this room. The secret door to area X28 has an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell cast on it. The password to suppress the spell is "[[4. World Almanac/NPCs/Exethanter.md\|Exethanter]]."
+There are three secret doors in this room. The secret door to area X28 has an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell cast on it. The password to suppress the spell is "[[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]]."
 
 #### Treasure
 
@@ -496,7 +496,7 @@ The secret door to this room has an [[5. Mechanics/Spells/Arcane Lock.md\|arcane
 > Behind the secret door is a small, dusty room. Rising from the floor in the eastern half of the room is a scaly arm and claw clutching a small box made of bone.
 ^621
 
-The scaly arm is merely a carved pedestal. The bone box is [[4. World Almanac/NPCs/Exethanter.md\|Exethanter]]'s phylactery. If it takes 20 or more radiant damage from a single source, the phylactery is destroyed.
+The scaly arm is merely a carved pedestal. The bone box is [[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]]'s phylactery. If it takes 20 or more radiant damage from a single source, the phylactery is destroyed.
 
 ### X29. Secret Room
 
@@ -569,11 +569,11 @@ No wizards were entombed here. This annex is empty.
 > Many amber doors lead from this hall. Standing in front of the south door are three ugly women in tattered black gowns with brooms and black, pointed hats.
 ^62e
 
-An earth tremor collapsed the northern part of the hall. Three [[5. Mechanics/Bestiary/Humanoid/Barovian Witch.md\|Barovian witches]] (see appendix D) are trying to open the amber door to area X33a by trying different passwords, unaware that they could gain entry through the shaft in area X6. Frustrated by their lack of progress, they vent their rage by attacking the characters. The witches let loose their three [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack.md\|brooms of animated attack]] (see appendix D) while they cast spells.
+An earth tremor collapsed the northern part of the hall. Three [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md\|Barovian witches]] (see appendix D) are trying to open the amber door to area X33a by trying different passwords, unaware that they could gain entry through the shaft in area X6. Frustrated by their lack of progress, they vent their rage by attacking the characters. The witches let loose their three [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md\|brooms of animated attack]] (see appendix D) while they cast spells.
 
 #### Development
 
-If two of the witches are killed or [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], the surviving witch attempts to escape by flying away on her broom. Only the witches can use the brooms of animated attack in this fashion.
+If two of the witches are killed or [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]], the surviving witch attempts to escape by flying away on her broom. Only the witches can use the brooms of animated attack in this fashion.
 
 > [!note] Amber Sarcophagi
 > 
@@ -596,7 +596,7 @@ Several of these amber-glazed rooms are located along the periphery of the compl
 
 #### X33a. Vault of Shalx
 
-The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Shalx." A character can push open the doors with a successful DC 25 Strength check. The door (AC 15, 30 hit points) can also be smashed. If the door is reduced to 0 hit points, necrotic energy fills the 30-foot cube directly in front of it. A creature in the area takes `dice:4d10|text(22)` (`4d10`) necrotic damage, turning to dust and bones if reduced to 0 hit points.
+The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Shalx." A character can push open the doors with a successful DC 25 Strength check. The door (AC 15, 30 hit points) can also be smashed. If the door is reduced to 0 hit points, necrotic energy fills the 30-foot cube directly in front of it. A creature in the area takes `dice:4d10|noform|avg|text(22)` (`4d10`) necrotic damage, turning to dust and bones if reduced to 0 hit points.
 
 Adjust the following text if the creatures in this room have already been encountered and destroyed.
 
@@ -737,7 +737,7 @@ Characters who touch the amber sarcophagi are offered dark gifts by the evil ves
 
 ##### North Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Yrrga, the Eye of Shadows. Yrrga's gift is the power of true seeing. This dark gift grants its beneficiary the benefits of [[/5. Mechanics/Rules/Senses.md#truesight\|truesight]] out to a range of 60 feet. These benefits last for 30 days, after which the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Yrrga, the Eye of Shadows. Yrrga's gift is the power of true seeing. This dark gift grants its beneficiary the benefits of [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]] out to a range of 60 feet. These benefits last for 30 days, after which the dark gift vanishes.
 
 The eyes of the beneficiary become starry voids until the dark gift vanishes. The beneficiary of this dark gift also gains the following flaw: "I believe that all life is pointless and look forward to death when it finally comes."
 
@@ -802,7 +802,7 @@ The four golden hawks are worth 250 gp each.
 > The furnishings of this bare stone room have succumbed to decrepitude. Standing in the center of the room, its head scraping the ten-foot-high ceiling, is a vaguely man-shaped construct made of dark wood and riveted iron. Its helmed head stares blindly in your direction. Cobwebs stretch from this terrible artifice to the wrecked furniture that surrounds it.
 ^656
 
-This room was once a wizard's bedchamber. The construct is an [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] [[5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]]. Its control amulet can be found in area X9.
+This room was once a wizard's bedchamber. The construct is an [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] [[5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]]. Its control amulet can be found in area X9.
 
 ### X36. Lower West Hall
 
@@ -833,7 +833,7 @@ The ceiling here is 10 feet high. A [[5. Mechanics/Bestiary/Undead/Poltergeist.m
 
 #### Treasure
 
-A search of the room yields a wooden scroll tube containing an intact [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]].
+A search of the room yields a wooden scroll tube containing an intact [[5. Mechanics/Items/Spell Scroll (DMG).md\|spell scroll]] of [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]].
 
 ### X39. Plundered Treasury
 
@@ -844,13 +844,13 @@ A search of the room yields a wooden scroll tube containing an intact [[5. Mecha
 
 The ceiling here is 30 feet high and flat. A 10-foot-square hole in the northwest corner of the ceiling magically forms if the iron chest in area X26 is opened.
 
-An [[5. Mechanics/Bestiary/Construct/Amber Golem.md\|amber golem]] once stood guard here, but it escaped after thieves broke into the treasury and looted it. The golem has since made its way upstairs (see area X10).
+An [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|amber golem]] once stood guard here, but it escaped after thieves broke into the treasury and looted it. The golem has since made its way upstairs (see area X10).
 
 Not all of the thieves escaped, and the pulverized remains of those who died here lie strewn upon the floor. Their restless spirits survive here as four [[5. Mechanics/Bestiary/Undead/Poltergeist.md\|poltergeists]] (see the [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]] entry in the "Monster Manual"). The poltergeists can't leave the room and fight until destroyed.
 
 ### X40. Sealed Treasury
 
-The amber doors to the south are sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Dhaviton." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If the doors are reduced to 0 hit points, a [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] spell is cast on the [[5. Mechanics/Bestiary/Construct/Amber Golem.md\|amber golem]] in this room. The spell lasts for 1 minute.
+The amber doors to the south are sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Dhaviton." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If the doors are reduced to 0 hit points, a [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] spell is cast on the [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|amber golem]] in this room. The spell lasts for 1 minute.
 
 > [!readaloud] 
 > 
@@ -864,7 +864,7 @@ If the golem is visible, add:
 > A ten-foot-tall statue carved from amber in the likeness of a hawk-headed humanoid stands in a wide alcove to the north. Behind it, a crack has formed in the wall.
 ^662
 
-The ceiling here is 30 feet high and flat. The statue in the northern alcove is an [[5. Mechanics/Bestiary/Construct/Amber Golem.md\|amber golem]] (use the stat block for the [[5. Mechanics/Bestiary/Construct/Stone Golem.md\|stone golem]] in the "Monster Manual"). It attacks any creature that disturbs the treasure. The golem can leave the room but can't leave the Amber Temple.
+The ceiling here is 30 feet high and flat. The statue in the northern alcove is an [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|amber golem]] (use the stat block for the [[5. Mechanics/Bestiary/Construct/Stone Golem.md\|stone golem]] in the "Monster Manual"). It attacks any creature that disturbs the treasure. The golem can leave the room but can't leave the Amber Temple.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/122-cos13-05.webp#center\|Amber Golem]]
 
@@ -924,7 +924,7 @@ Six piles of treasure are numbered on the map.
 
 #### Fortunes of Ravenloft
 
-If your card reading reveals that a treasure is here, it's buried in a random pile of treasure (roll a `dice: d6|avg|noform` (`d6`)).
+If your card reading reveals that a treasure is here, it's buried in a random pile of treasure (roll a `dice:d6|noform|avg` (`d6`)).
 
 ### X41. Fissure
 
@@ -987,20 +987,20 @@ Two dusk elves are drawn to the Amber Temple for different reasons. You can use 
 
 ### Rahadin's Prayer
 
-Strahd's loyal chamberlain, [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] (see appendix D), believes that his master forged a pact with the nameless god of secrets to whom the Amber Temple is dedicated. The dusk elf comes to the temple on occasion to petition the dark god into releasing his master from his torment.
+Strahd's loyal chamberlain, [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] (see appendix D), believes that his master forged a pact with the nameless god of secrets to whom the Amber Temple is dedicated. The dusk elf comes to the temple on occasion to petition the dark god into releasing his master from his torment.
 
-[[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] rides a [[5. Mechanics/Spells/Phantom Steed.md\|phantom steed]] along Tsolenka Pass to the Amber Temple and kneels before the great statue in area X5. (The arcanaloth that guards the temple knows [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] and doesn't harm him. The arcanaloth and the flameskulls don't attack other visitors until [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] is killed or leaves.) [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] then pulls out a live toad, swallows it whole as a sacrifice, and offers a gesture of supplication to the secret god.
+[[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] rides a [[5. Mechanics/Spells/Phantom Steed.md\|phantom steed]] along Tsolenka Pass to the Amber Temple and kneels before the great statue in area X5. (The arcanaloth that guards the temple knows [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] and doesn't harm him. The arcanaloth and the flameskulls don't attack other visitors until [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] is killed or leaves.) [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] then pulls out a live toad, swallows it whole as a sacrifice, and offers a gesture of supplication to the secret god.
 
 #### Development
 
-[[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] knows that Strahd will deal with the characters when he sees fit. If the characters confront the dusk elf, he defends himself but won't cause them any permanent harm. Strahd's chamberlain would sooner die than allow himself to be captured. [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] doesn't divulge his reason for visiting the temple, or even who is he or what role he serves. Left to his own devices, he rides back to Castle Ravenloft.
+[[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] knows that Strahd will deal with the characters when he sees fit. If the characters confront the dusk elf, he defends himself but won't cause them any permanent harm. Strahd's chamberlain would sooner die than allow himself to be captured. [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] doesn't divulge his reason for visiting the temple, or even who is he or what role he serves. Left to his own devices, he rides back to Castle Ravenloft.
 
 ### Kasimir's Dark Gift
 
-If [[4. World Almanac/NPCs/Kasimir Velikov.md\|Kasimir Velikov]] (see appendix D and chapter 5, area N9a) finds his way to area X42 and accepts the dark gift of Zhudun, he then asks the characters to accompany him to the catacombs of Castle Ravenloft so that he can restore the life of his centuries-dead sister, [[4. World Almanac/NPCs/Patrina Velikovna.md\|Patrina Velikovna]] (see chapter 4, area K84, crypt 21).
+If [[4. World Almanac/NPCs/Kasimir Velikov (COS).md\|Kasimir Velikov]] (see appendix D and chapter 5, area N9a) finds his way to area X42 and accepts the dark gift of Zhudun, he then asks the characters to accompany him to the catacombs of Castle Ravenloft so that he can restore the life of his centuries-dead sister, [[4. World Almanac/NPCs/Patrina Velikovna (COS).md\|Patrina Velikovna]] (see chapter 4, area K84, crypt 21).
 
 #### Development
 
-If Kasimir succeeds in his quest, the newly resurrected Patrina (NE female dusk elf [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]]) feigns repentance until she regains her strength and her spells, whereupon she travels to Castle Ravenloft and attempts to return to Strahd, seeking to become his vampire bride at last. The mutilation of her brother at the hands of [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]], Strahd's chamberlain, doesn't sit well with her. She hopes to avenge her brother and distract the characters by setting them on a path to killing [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]], who has long opposed her marriage to Strahd.
+If Kasimir succeeds in his quest, the newly resurrected Patrina (NE female dusk elf [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]]) feigns repentance until she regains her strength and her spells, whereupon she travels to Castle Ravenloft and attempts to return to Strahd, seeking to become his vampire bride at last. The mutilation of her brother at the hands of [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]], Strahd's chamberlain, doesn't sit well with her. She hopes to avenge her brother and distract the characters by setting them on a path to killing [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]], who has long opposed her marriage to Strahd.
 
 Strahd has lost interest in Patrina as a consort. Given the chance, he turns her into a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] and puts her back in her crypt—a fate she would do everything in her power to prevent. Her attraction to Strahd is outmatched by a desire to increase her own power. She is no one's plaything.

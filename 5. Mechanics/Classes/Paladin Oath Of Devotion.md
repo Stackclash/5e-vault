@@ -9,7 +9,37 @@ aliases:
 ---
 # Oath of Devotion
 *[[Paladin.md\|Paladin]]: Sacred Oath*  
-*Source: Player's Handbook p. 85. Available in the SRD.*  
+*Source: Player's Handbook p. 85. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+> [!tldr] Class and Feature Progression
+> 
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='3'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath%20of%20Devotion%20(Level%203)'>Oath of Devotion</a></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Aura%20of%20Devotion%20(Level%207)'>Aura of Devotion</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Purity%20of%20Spirit%20(Level%2015)'>Purity of Spirit</a></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Holy%20Nimbus%20(Level%2020)'>Holy Nimbus</a></td></tr>
+> </tbody></table>
+^class-progession
 
 
 ## Class Features
@@ -65,7 +95,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.
 
-You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]], this effect ends.
+You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]], this effect ends.
 
 ### Turn the Unholy (Level 3)
 
@@ -75,7 +105,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 ### Aura of Devotion (Level 7)
 
-Starting at 7th level, you and friendly creatures within 10 feet of you can't be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] while you are conscious.
+Starting at 7th level, you and friendly creatures within 10 feet of you can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 

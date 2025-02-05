@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/8
+environments: 'forest, hill, urban'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-8
@@ -9,12 +13,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Mastiff
 ---
-# [[5. Mechanics/Bestiary/Beast/Mastiff.md|Mastiff]]
-*Source: Monster Manual p. 332, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Mastiff.md|Mastiff]]
+*Source: Monster Manual p. 332, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.
 
@@ -46,21 +49,11 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
     \ + 1) piercing damage. If the target is a creature, it must succeed on a DC 11\
-    \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Bite"
 "source":
 - "MM"
 - "CoS"
-- "SKT"
-- "TftYP"
-- "WDH"
-- "BGDIA"
-- "ERLW"
-- "EGW"
-- "DSotDQ"
-- "KftGV"
-- "ToFW"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Beast/token/mastiff.webp"
 ```
 ^statblock

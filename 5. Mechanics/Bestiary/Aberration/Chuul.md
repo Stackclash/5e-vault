@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
   - monster/environment/underdark
   - monster/size/large
   - monster/type/aberration
-statblock: inline
 aliases:
   - Chuul
 ---
-# [[5. Mechanics/Bestiary/Aberration/Chuul.md|Chuul]]
-*Source: Monster Manual p. 40. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Aberration\Chuul.md|Chuul]]
+*Source: Monster Manual p. 40. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Survivors of the ancient aboleth empire, chuuls are crustaceans the aboleths modified and endowed with sentience. They follow the ingrained directives of their creators, as they have done since the dawn of time.
 
@@ -52,7 +55,7 @@ Although the aboleths' ancient empire fell long ago, the psychic bonds between t
 "skillsaves":
   "Perception": !!int "4"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "understands Deep Speech but can't speak"
 "cr": "4"
@@ -68,25 +71,18 @@ Although the aboleths' ancient empire fell long ago, the psychic bonds between t
     \ the chuul can also use its tentacles once."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6\
-    \ + 4) bludgeoning damage. The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ + 4) bludgeoning damage. The target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
     \ (escape DC 14) if it is a Large or smaller creature and the chuul doesn't have\
-    \ two other creatures [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]."
+    \ two other creatures [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]."
   "name": "Pincer"
-- "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the\
-    \ chuul must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].\
+- "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] by the\
+    \ chuul must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+    \ for 1 minute. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]].\
     \ The target can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Tentacles"
 "source":
 - "MM"
-- "PotA"
-- "RoT"
-- "WDMM"
-- "GoS"
-- "CRCotN"
-- "PaBTSO"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Aberration/token/chuul.webp"
 ```
 ^statblock

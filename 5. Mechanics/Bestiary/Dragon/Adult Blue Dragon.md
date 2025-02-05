@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 16
+environments: 'desert, coastal'
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/16
@@ -8,12 +12,11 @@ tags:
   - monster/environment/desert
   - monster/size/huge
   - monster/type/dragon
-statblock: inline
 aliases:
   - Adult Blue Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Blue Dragon.md|Adult Blue Dragon]]
-*Source: Monster Manual p. 91. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Adult Blue Dragon.md|Adult Blue Dragon]]
+*Source: Monster Manual p. 91. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
 
@@ -145,7 +148,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ (2d8 + 7) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
@@ -163,7 +166,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
     \ must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The dragon\
     \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
@@ -173,13 +176,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": ""
 - "desc": "- Part of the ceiling collapses above one creature that the dragon can\
     \ see within 120 feet of it. The creature must succeed on a DC 15 Dexterity saving\
-    \ throw or take 10 (3d6) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
-    \ and buried. The buried target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ throw or take 10 (3d6) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+    \ and buried. The buried target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
     \ and unable to breathe or stand up. A creature can take an action to make a DC\
     \ 10 Strength check, ending the buried state on a success.  \n- A cloud of sand\
     \ swirls about in a 20-foot-radius sphere centered on a point the dragon can see\
     \ within 120 feet of it. The cloud spreads around corners. Each creature in the\
-    \ cloud must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ cloud must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  \n- Lightning arcs, forming\
     \ a 5-foot-wide line between two of the lair's solid surfaces that the dragon\
@@ -192,12 +195,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ can use one or both of the following additional lair actions while in its lair:\n\
     \n- Misleading Mirage. Until initiative count 20 on the next round, at each\
     \ intersection or branching passage in the lair, a creature other than the dragon\
-    \ has a 50% chance chance of going in a different direction from the direction\
+    \ has a 50 percent chance of going in a different direction from the direction\
     \ it intends.  \n- Sudden Sinkhole. The dragon chooses a point on the ground\
     \ that it can see within 120 feet of it. A 5-foot-radius, 20-foot-deep pit forms\
     \ centered on that point. A creature on the ground above where the pit formed\
     \ must make a DC 15 Dexterity saving throw. On a failed save, a creature falls\
-    \ to the bottom of the pit, taking 7 (2d6) bludgeoning damage and landing [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ to the bottom of the pit, taking 7 (2d6) bludgeoning damage and landing [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
     \ On a successful save, a creature moves to the nearest unoccupied space instead\
     \ of falling in the pit.  "
   "name": "Additional Lair Actions"
@@ -230,12 +233,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Additional Regional Effects"
 "source":
 - "MM"
-- "HotDQ"
-- "RoT"
-- "SKT"
-- "GoS"
-- "MOT"
-- "JttRC"
 "image": "5. Mechanics/Bestiary/Dragon/token/adult-blue-dragon.webp"
 ```
 ^statblock

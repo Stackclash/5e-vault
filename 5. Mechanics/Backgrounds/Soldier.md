@@ -8,7 +8,7 @@ aliases:
   - Soldier
 ---
 # Soldier
-*Source: Player's Handbook p. 140. Available in the Basic Rules.*  
+*Source: Player's Handbook p. 140. Available in the Basic Rules (2014)*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]  
 - **Tool Proficiencies.** One type of gaming set, vehicles (land)  

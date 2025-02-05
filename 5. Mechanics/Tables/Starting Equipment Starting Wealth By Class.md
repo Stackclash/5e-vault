@@ -7,7 +7,7 @@ aliases:
   - Starting Equipment; Starting Wealth by Class
 ---
 # Starting Equipment; Starting Wealth by Class
-*Source: Player's Handbook p. 143. Available in the Basic Rules.* 
+*Source: Player's Handbook p. 143. Available in the Basic Rules (2014)* 
 
 **Starting Wealth by Class**
 
@@ -18,7 +18,7 @@ aliases:
 | Cleric | 5d4 × 10 gp |
 | Druid | 2d4 × 10 gp |
 | Fighter | 5d4 × 10 gp |
-| Monk | 5d4 gp |
+| Monk | `dice:5d4\|noform\|avg\|text(5d4)` (`5d4`) gp |
 | Paladin | 5d4 × 10 gp |
 | Ranger | 5d4 × 10 gp |
 | Rogue | 4d4 × 10 gp |

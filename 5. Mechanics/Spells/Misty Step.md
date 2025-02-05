@@ -3,18 +3,31 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin/oath-of-the-ancients
-  - spell/class/paladin/oath-of-vengeance
-  - spell/class/ranger/fey-wanderer
-  - spell/class/ranger/horizon-walker
-  - spell/class/rogue/arcane-trickster
+  - spell/class/bard
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/2
+  - spell/feat/fey-teleportation
+  - spell/feat/fey-touched
+  - spell/level/2nd-level
+  - spell/race/githyanki
   - spell/school/conjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/eldritch-knight
+  - spell/subclass/fey-wanderer
+  - spell/subclass/gravetender
+  - spell/subclass/horizon-walker
+  - spell/subclass/oath-of-the-ancients
+  - spell/subclass/oath-of-vengeance
+  - spell/subclass/ocean-domain
+  - spell/subrace/elf-eladrin-dmg
+level: 2nd-level
+range: false
+school: Conjuration
+time: 1 bonus
+duration: Instantaneous
+components: V
 aliases:
   - Misty Step
 ---
@@ -28,6 +41,6 @@ aliases:
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
 
-**Classes**: [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]], [[5. Mechanics/Classes/Paladin Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]], [[5. Mechanics/Classes/Ranger Fey Wanderer.md\|Ranger (Fey Wanderer)]], [[5. Mechanics/Classes/Ranger Horizon Walker.md\|Ranger (Horizon Walker)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Fey Wanderer (TCE)\|Ranger (Fey Wanderer)]]; [[List Spells Classes Ranger Gravetender (GRIFFONSSADDLEBAG4)\|Ranger (Gravetender)]]; [[List Spells Classes Ranger Horizon Walker (XGE)\|Ranger (Horizon Walker)]]; [[List Spells Classes Paladin Oath Of The Ancients\|Paladin (Oath of the Ancients)]]; [[List Spells Classes Paladin Oath Of Vengeance\|Paladin (Oath of Vengeance)]]; [[List Spells Classes Cleric Ocean Domain (KPDM)\|Cleric (Ocean Domain)]]
 
-*Source: Player's Handbook p. 260. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

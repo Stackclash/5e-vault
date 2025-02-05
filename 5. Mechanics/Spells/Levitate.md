@@ -4,12 +4,24 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
+  - spell/class/bard
   - spell/class/sorcerer
   - spell/class/wizard
-  - spell/level/2
+  - spell/feat/drow-high-magic
+  - spell/level/2nd-level
+  - spell/optfeature/ascendant-step
   - spell/school/transmutation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+  - spell/subrace/genasi-air
+level: 2nd-level
+range: false
+school: Transmutation
+time: 1 action
+duration: 'Concentration, up to 10 minute'
+components: >-
+  V, S, either a small leather loop or a piece of golden wire bent into a cup
+  shape with a long shank on one end
 aliases:
   - Levitate
 ---
@@ -27,6 +39,6 @@ The target can move only by pushing or pulling against a fixed object or surface
 
 When the spell ends, the target floats gently to the ground if it is still aloft.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
 
-*Source: Player's Handbook p. 255. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 255. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

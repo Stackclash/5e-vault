@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 10
+environments: null
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/10
   - monster/size/large
   - monster/type/construct
-statblock: inline
 aliases:
   - Stone Golem
 ---
-# [[5. Mechanics/Bestiary/Construct/Stone Golem.md|Stone Golem]]
-*Source: Monster Manual p. 170, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Construct\Stone Golem.md|Stone Golem]]
+*Source: Monster Manual p. 170, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Stone golems display great variety in shape and form, cut and chiseled from stone to appear as tall, impressive statues. Though most bear humanoid features, stone golems can be carved in any form the sculptor can imagine. Ancient stone golems found in sealed tombs or flanking the gates of lost cities sometimes take the forms of giant beasts.
 
@@ -21,7 +24,7 @@ Like other golems, stone golems are nearly impervious to spells and ordinary wea
 
 Golems are made from humble materials-clay, flesh and bones, iron, or stone-but they possess astonishing power and durability. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. An unstoppable juggernaut, it exists to follow its creator's orders, and it protects or attacks as that creator demands.
 
-To create a golem, one requires a [[5. Mechanics/Items/Manual Of Golems.md|manual of golems]]. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
+To create a golem, one requires a [[5. Mechanics/Items/Manual Of Golems (DMG).md|manual of golems]]. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
 
 ### Elemental Spirit in Material Form
 
@@ -39,7 +42,7 @@ Golems can guard sacred sites, tombs, and treasure vaults long after the deaths 
 
 ### Blind Obedience
 
-When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
+When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]], it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
 
 ### Constructed Nature
 
@@ -64,9 +67,9 @@ A golem doesn't require air, food, drink, or sleep.
 "speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"
@@ -94,27 +97,7 @@ A golem doesn't require air, food, drink, or sleep.
   "name": "Slow (Recharge 5-6)"
 "source":
 - "MM"
-- "HotDQ"
-- "PotA"
-- "RoT"
-- "SKT"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "SLW"
-- "BGDIA"
-- "IMR"
-- "CM"
 - "CoS"
-- "CRCotN"
-- "JttRC"
-- "DSotDQ"
-- "KftGV"
-- "AATM"
-- "SatO"
-- "BMT"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Construct/token/stone-golem.webp"
 ```

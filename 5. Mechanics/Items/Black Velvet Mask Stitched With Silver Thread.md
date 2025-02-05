@@ -3,13 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/dmg
-  - item/wealth/art-object
+  - item/gear/treasure-art-object
+  - item/rarity/none
 aliases:
   - Black velvet mask stitched with silver thread
 cost: 2500
 ---
 # Black velvet mask stitched with silver thread
-*Art object*  
+*Treasure (art object)*  
 
 - **Cost**: 25 gp
 

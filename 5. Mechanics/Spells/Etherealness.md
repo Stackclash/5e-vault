@@ -6,11 +6,17 @@ tags:
   - spell/class/bard
   - spell/class/cleric
   - spell/class/sorcerer
-  - spell/class/sorcerer/divine-soul
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/7
+  - spell/level/7th-level
   - spell/school/transmutation
+  - spell/subclass/divine-soul
+level: 7th-level
+range: false
+school: Transmutation
+time: 1 action
+duration: 8 hour
+components: 'V, S'
 aliases:
   - Etherealness
 ---
@@ -34,6 +40,6 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 feet of you when you cast the spell.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 238. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 238. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

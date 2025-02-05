@@ -3,14 +3,23 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
   - spell/class/druid
   - spell/class/sorcerer
-  - spell/class/sorcerer/divine-soul
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/7
+  - spell/level/7th-level
   - spell/school/conjuration
+  - spell/subclass/divine-soul
+level: 7th-level
+range: false
+school: Conjuration
+time: 1 action
+duration: Instantaneous
+components: >-
+  V, S, a forked, metal rod worth at least 250 gp, attuned to a particular plane
+  of existence
 aliases:
   - Plane Shift
 ---
@@ -28,6 +37,6 @@ Alternatively, if you know the sigil sequence of a teleportation circle on anoth
 
 You can use this spell to banish an unwilling creature to another plane. Choose a creature within your reach and make a melee spell attack against it. On a hit, the creature must make a Charisma saving throw. If the creature fails this save, it is transported to a random location on the plane of existence you specify. A creature so transported must find its own way back to your current plane of existence.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 266. Available in the SRD.*
+*Source: Player's Handbook p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

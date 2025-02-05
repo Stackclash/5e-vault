@@ -3,16 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
-  - spell/class/fighter/eldritch-knight
   - spell/class/paladin
-  - spell/class/ranger/monster-slayer
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer/divine-soul
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/3
+  - spell/level/3rd-level
   - spell/school/abjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/divine-soul
+  - spell/subclass/eldritch-knight
+  - spell/subclass/monster-slayer
+  - spell/subclass/oath-of-the-watchtower
+level: 3rd-level
+range: false
+school: Abjuration
+time: 1 minute
+duration: 1 hour
+components: >-
+  V, S, holy water or powdered silver and iron worth at least 100 gp, which the
+  spell consumes
 aliases:
   - Magic Circle
 ---
@@ -30,12 +40,12 @@ Choose one or more of the following types of creatures: celestials, elementals, 
 
 - The creature can't willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.  
 - The creature has disadvantage on attack rolls against targets within the cylinder.  
-- Targets within the cylinder can't be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], or possessed by the creature.  
+- Targets within the cylinder can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], or possessed by the creature.  
 
 When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Ranger Monster Slayer.md\|Ranger (Monster Slayer)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Monster Slayer (XGE)\|Ranger (Monster Slayer)]]; [[List Spells Classes Paladin Oath Of The Watchtower (GRIFFONSSADDLEBAG3)\|Paladin (Oath of the Watchtower)]]
 
-*Source: Player's Handbook p. 256. Available in the SRD.*
+*Source: Player's Handbook p. 256. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

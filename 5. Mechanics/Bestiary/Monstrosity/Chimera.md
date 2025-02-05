@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 6
+environments: 'underdark, mountain, grassland, hill'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/6
@@ -10,12 +14,11 @@ tags:
   - monster/environment/underdark
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Chimera
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Chimera.md|Chimera]]
-*Source: Monster Manual p. 39. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Monstrosity\Chimera.md|Chimera]]
+*Source: Monster Manual p. 39. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Chimeras were created after mortals summoned Demogorgon to the world. The Prince of Demons, unimpressed with the creatures that surrounded it, transformed them into horrific, multi-headed monstrosities. This act gave rise to the first chimeras.
 
@@ -71,14 +74,6 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
   "name": "Fire Breath (Recharge 5-6)"
 "source":
 - "MM"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "WDMM"
-- "SDW"
-- "BGDIA"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/chimera.webp"
 ```
 ^statblock

@@ -3,12 +3,21 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
   - spell/class/paladin
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-genie
-  - spell/level/1
+  - spell/feat/fey-touched
+  - spell/feat/magic-initiate
+  - spell/level/1st-level
   - spell/school/divination
+  - spell/subclass/divine-soul
+  - spell/subclass/the-genie
+level: 1st-level
+range: false
+school: Divination
+time: 1 action
+duration: 'Concentration, up to 10 minute'
+components: 'V, S'
 aliases:
   - Detect Evil and Good
 ---
@@ -24,6 +33,6 @@ For the duration, you know if there is an aberration, celestial, elemental, fey,
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Warlock The Genie (TCE)\|Warlock (The Genie)]]
 
-*Source: Player's Handbook p. 231. Available in the SRD.*
+*Source: Player's Handbook p. 231. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'underdark, urban'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -8,11 +12,10 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/undead
-statblock: inline
 aliases:
   - Poltergeist
 ---
-# [[5. Mechanics/Bestiary/Undead/Poltergeist.md|Poltergeist]]
+# [[5. Mechanics\Bestiary\Undead\Poltergeist.md|Poltergeist]]
 *Source: Monster Manual p. 279, Curse of Strahd*
 
 A poltergeist is the confused, invisible spirit of an individual with no sense of how he or she died. A poltergeist expresses its rage by hurling creatures and objects using the power of its shattered psyche.
@@ -36,11 +39,11 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands all languages it knew in life but can't speak"
 "cr": "2"
@@ -53,7 +56,7 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
     \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
     \ that rely on sight."
   "name": "Sunlight Sensitivity"
-- "desc": "The poltergeist is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]."
+- "desc": "The poltergeist is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]."
   "name": "Invisibility"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 10\
@@ -74,11 +77,6 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 "source":
 - "MM"
 - "CoS"
-- "IDRotF"
-- "CM"
-- "KftGV"
-- "PSI"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Undead/token/poltergeist.webp"
 ```
 ^statblock

@@ -29,94 +29,70 @@ Attunement is required for this item.
 ## General and Weapon Properties
 
 ### Ammunition
-
+_Source: Player's Handbook p. 146_
 You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 
 If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.
 
-### Ammunition (Firearm)
+### Ammunition
 _Source: Dungeon Master's Guide p. 267_
-
 You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.
 
 If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.
 
 ### Burst Fire
 _Source: Dungeon Master's Guide p. 267_
-
 A weapon that has the burst fire property can make a single-target attack, or it can spray a 10-foot-cube area within normal range with shots. Each creature in the area must succeed on a DC 15 Dexterity saving throw or take the weapon's normal damage. This action uses ten pieces of ammunition.
 
 ### Crafted Artifact
 _Source: Hamund's Harvesting Handbook: Volume III p. 100_
 
 ### Crafted by
+_Source: Hamund's Harvesting Handbook: Volume III p. 53_
+
+### Crafted by
+_Source: Hamund's Harvesting Handbook: Volume II p. 80_
+
+### Crafted by
 _Source: Hamund's Harvesting Handbook: Volume I p. 118_
 
 ### Finesse
-
+_Source: Player's Handbook p. 147_
 When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
 ### Heavy
-
+_Source: Player's Handbook p. 147_
 Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.
 
 ### Herb
 _Source: Hamund's Herbalism Handbook p. 5_
 
 ### Light
-
+_Source: Player's Handbook p. 147_
 A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
 ### Loading
-
+_Source: Player's Handbook p. 147_
 Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
 
-### Martial
-
-Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
-
-### Poison
-_Source: Dungeon Master's Guide p. 257_
-
-Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures.
-
-Poisons come in the following four types.
-
-**Contact.** Contact poison can be smeared on an object and remains potent until it is touched or washed off. A creature that touches contact poison with exposed skin suffers its effects.
-
-**Ingested.** A creature must swallow an entire dose of ingested poison to suffer its effects. You might decide that a partial dose has a reduced effect, such as allowing advantage on the saving throw or dealing only half damage on a failed save. The dose can be delivered in food or a liquid.
-
-**Inhaled.** These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
-
-**Injury.** Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
-
-### Range
-
-A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
-
 ### Reach
-
+_Source: Player's Handbook p. 147_
 This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon.
 
 ### Reload
 _Source: Dungeon Master's Guide p. 267_
-
 A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice).
 
-### Special
-
-A weapon with the special property has unusual rules governing its use, explained in the weapon's description (see "Special Weapons").
-
 ### Thrown
-
+_Source: Player's Handbook p. 147_
 If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
 ### Two-Handed
-
+_Source: Player's Handbook p. 147_
 This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it.
 
 ### Versatile
-
+_Source: Player's Handbook p. 147_
 This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
 ## Improvised Weapons
@@ -141,11 +117,34 @@ You have disadvantage when you use a lance to attack a target within 5 feet of y
 
 ### Net
 
-A Large or smaller creature hit by a net is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
+A Large or smaller creature hit by a net is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
-## Vestige
-_Source: Tal'Dorei Campaign Setting Reborn p. 200_
+## Cursed Items
 
-A Vestige of Divergence, see "Tal'Dorei Treasures" for more information.
+Some magic items bear curses that bedevil their users, sometimes long after a user has stopped using an item. Most methods of identifying items, including the identify spell, fail to reveal the presence of a curse, although lore might hint at it.
+
+Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell.
+
+## Poison
+
+Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures.
+
+Poisons come in the following four types.
+
+### Contact
+
+Contact poison can be smeared on an object and remains potent until it is touched or washed off. A creature that touches contact poison with exposed skin suffers its effects.
+
+### Ingested
+
+A creature must swallow an entire dose of ingested poison to suffer its effects. You might decide that a partial dose has a reduced effect, such as allowing advantage on the saving throw or dealing only half damage on a failed save. The dose can be delivered in food or a liquid.
+
+### Inhaled
+
+These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
+
+### Injury
+
+Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.

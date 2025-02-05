@@ -7,8 +7,14 @@ tags:
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/9
+  - spell/level/9th-level
   - spell/school/enchantment
+level: 9th-level
+range: false
+school: Enchantment
+time: 1 action
+duration: Instantaneous
+components: V
 aliases:
   - Power Word Kill
 ---
@@ -22,6 +28,6 @@ aliases:
 
 You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
 
-*Source: Player's Handbook p. 266. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

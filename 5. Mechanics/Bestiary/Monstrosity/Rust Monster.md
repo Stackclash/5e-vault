@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Rust Monster
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Rust Monster.md|Rust Monster]]
-*Source: Monster Manual p. 262. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Monstrosity\Rust Monster.md|Rust Monster]]
+*Source: Monster Manual p. 262. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Most dwarves would rather face a squad of orcs than confront a single rust monster. These strange, normally docile creatures corrode ferrous metals, then gobble up the rust they create. In doing so, they have ruined the armor, shields, and weapons of countless adventurers.
 
@@ -30,7 +33,7 @@ A rust monster doesn't care if the rust it consumes comes from a spike or a swor
 
 Rust monsters are rarely found in large numbers, preferring to hunt alone or in small groups. They meander along tunnels, moving from cave to cave in their tireless search for ferrous metals to consume. Their wanderings often bring them into contact with other Underdark denizens that find them harmless or unappetizing. Thus, rust monsters may be found in close proximity to other subterranean monsters. If they are well treated and well fed, they can also become friendly companions or pets.
 
-> [!quote]- A quote from Brawn Thunderstones, dwarf paladin of Dumathoin  
+> [!quote] A quote from Brawn Thunderstones, dwarf paladin of Dumathoin  
 > 
 > Destroyed me hammer and me axe, it did. Put me faith to the test that day, it did.
 
@@ -81,14 +84,6 @@ Rust monsters are rarely found in large numbers, preferring to hunt alone or in 
   "name": "Antennae"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "WDH"
-- "WDMM"
-- "IMR"
-- "EGW"
-- "IDRotF"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/rust-monster.webp"
 ```
 ^statblock

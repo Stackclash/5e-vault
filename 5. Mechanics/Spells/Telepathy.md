@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/wizard
-  - spell/level/8
+  - spell/level/8th-level
   - spell/school/evocation
+level: 8th-level
+range: false
+school: Evocation
+time: 1 action
+duration: 24 hour
+components: 'V, S, a pair of linked silver rings'
 aliases:
   - Telepathy
 ---
@@ -21,6 +28,6 @@ You create a telepathic link between yourself and a willing creature with which 
 
 Until the spell ends, you and the target can instantaneously share words, images, sounds, and other sensory messages with one another through the link, and the target recognizes you as the creature it is communicating with. The spell enables a creature with an Intelligence score of at least 1 to understand the meaning of your words and take in the scope of any sensory messages you send to it.
 
-**Classes**: [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
 
 *Source: Player's Handbook p. 281*

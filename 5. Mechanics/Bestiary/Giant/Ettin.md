@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: 'underdark, mountain, hill'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
@@ -9,12 +13,11 @@ tags:
   - monster/environment/underdark
   - monster/size/large
   - monster/type/giant
-statblock: inline
 aliases:
   - Ettin
 ---
-# [[5. Mechanics/Bestiary/Giant/Ettin.md|Ettin]]
-*Source: Monster Manual p. 132, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Giant\Ettin.md|Ettin]]
+*Source: Monster Manual p. 132, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 An ettin is a foul, two-headed giant with the crude characteristics of an orc. It never bathes if it can help it, and its thick skin is usually encrusted with a thick layer of dirt and grime beneath the stinking hides it wears. Its long stringy hair hangs in an unkempt mess about its faces, and its breath reeks from mouths filled with crooked teeth and tusks.
 
@@ -66,10 +69,10 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 "cr": "4"
 "traits":
 - "desc": "The ettin has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks and on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
-    \ and knocked [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]."
+    \ checks and on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]],\
+    \ and knocked [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]."
   "name": "Two Heads"
 - "desc": "When one of the ettin's heads is asleep, its other head is awake."
   "name": "Wakeful"
@@ -84,13 +87,6 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
   "name": "Morningstar"
 "source":
 - "MM"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "WDMM"
-- "JttRC"
-- "ToFW"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Giant/token/ettin.webp"
 ```

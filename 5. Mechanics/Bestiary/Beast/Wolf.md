@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: 'grassland, forest, hill'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
@@ -9,12 +13,11 @@ tags:
   - monster/environment/hill
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Wolf
 ---
-# [[5. Mechanics/Bestiary/Beast/Wolf.md|Wolf]]
-*Source: Monster Manual p. 341, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Wolf.md|Wolf]]
+*Source: Monster Manual p. 341, Curse of Strahd, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Wolf"
@@ -45,31 +48,17 @@ aliases:
   "name": "Keen Hearing and Smell"
 - "desc": "The wolf has advantage on an attack roll against a creature if at least\
     \ one of the wolf's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
     \ + 2) piercing damage. If the target is a creature, it must succeed on a DC 11\
-    \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Bite"
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "LMoP"
-- "PotA"
-- "RoT"
-- "SKT"
-- "GoS"
-- "EGW"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "HftT"
-- "PaBTSO"
-- "LK"
-- "BMT"
-- "GHLoE"
 "image": "5. Mechanics/Bestiary/Beast/token/wolf.webp"
 ```
 ^statblock

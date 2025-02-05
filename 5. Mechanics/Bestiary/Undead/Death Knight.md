@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 17
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/17
   - monster/size/medium
   - monster/type/undead
-statblock: inline
 aliases:
   - Death Knight
 ---
-# [[5. Mechanics/Bestiary/Undead/Death Knight.md|Death Knight]]
+# [[5. Mechanics\Bestiary\Undead\Death Knight.md|Death Knight]]
 *Source: Monster Manual p. 47, Tasha's Cauldron of Everything, Vecna: Eve of Ruin*
 
 When a paladin that falls from grace dies without seeking atonement, dark powers can transform the once-mortal knight into a hateful undead creature. A death knight is a skeletal warrior clad in fearsome plate armor. Beneath its helmet, one can see the knight's skull with malevolent pinpoints of light burning in its eye sockets.
@@ -54,8 +57,8 @@ A death knight doesn't require air, food, drink, or sleep.
   "Dexterity": !!int "6"
   "Wisdom": !!int "9"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Abyssal, Common"
 "cr": "17"
@@ -74,7 +77,7 @@ A death knight doesn't require air, food, drink, or sleep.
 - "desc": "The death knight has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"
-- "desc": "Unless the death knight is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
+- "desc": "Unless the death knight is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]],\
     \ it and undead creatures of its choice within 60 feet of it have advantage on\
     \ saving throws against features that turn undead."
   "name": "Marshal Undead"
@@ -98,17 +101,7 @@ A death knight doesn't require air, food, drink, or sleep.
   "name": "Parry"
 "source":
 - "MM"
-- "GoS"
-- "DC"
-- "DIP"
-- "BGDIA"
-- "EGW"
 - "TCE"
-- "CM"
-- "DSotDQ"
-- "AATM"
-- "SatO"
-- "BMT"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/death-knight.webp"
 ```

@@ -10,6 +10,6 @@ aliases:
   - Defense
 ---
 # Defense
-*Source: Player's Handbook p. 72. Available in the SRD.*  
+*Source: Player's Handbook. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 While you are wearing armor, you gain a +1 bonus to AC.

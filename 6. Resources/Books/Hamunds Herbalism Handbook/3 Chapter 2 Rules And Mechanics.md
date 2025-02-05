@@ -20,10 +20,10 @@ Collecting a herb is known as **gathering**, which is further broken down into t
 Foraging refers to wandering through one's environment and simply gathering whatever they may come across. It may be done as a downtime activity, or while the party is travelling at a normal or slower pace. For every 8 hours that a character spends foraging, they may make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check, with the results determined by the table below. Results are cumulative: each row's results also earn the foraging character the results of the rows above it.
 
 > [!embed-table]- Foraging Herb Table
-> ![[5. Mechanics/Tables/Foraging Herb Table.md\|Foraging Herb Table]]
+> ![[5. Mechanics/Tables/Foraging Herb Table (HHBH).md\|Foraging Herb Table]]
 
 > [!embed-variantrule]- Optional Rule: Identifying Herbs
-> ![[/5. Mechanics/Rules/Variant Rules/Optional Rule Identifying Herbs.md\|Optional Rule: Identifying Herbs]]
+> ![[/5. Mechanics/Rules/Variant Rules/Optional Rule Identifying Herbs (HHBH).md\|Optional Rule: Identifying Herbs]]
 
 ### Picking
 
@@ -37,10 +37,10 @@ On a success they find the herb they were looking for. On a failure, it is deeme
 > 
 > The locate animals and plants spell allows a player to name a plant and be told where it is so long as it exists within a 5 mile radius of their current location. While this is a rather innocuous spell in the base game, when it comes to finding herbs it can be quite powerful in finding the rarer herbs, and potentially cause contention since it would rely on DM fiat to decide if that herb is present or not. To avoid this, DMs can use the table below to determine the herb's availability, based on the probability of the herb's rarity in their environment table.
 > 
-> To use the table, the player [[/5. Mechanics/Rules/Actions.md#cast%20a%20spell\|casting the spell]] must roll a `dice: d100|avg|noform` (`d100`). If they roll equal to or above the number listed next to the herb they are trying to locate's corresponding position on their herb table, then the herb is present and the spell leads them to it.
+> To use the table, the player [[/5. Mechanics/Rules/Actions.md#Cast%20a%20Spell\|casting the spell]] must roll a `dice:d100|noform|avg` (`d100`). If they roll equal to or above the number listed next to the herb they are trying to locate's corresponding position on their herb table, then the herb is present and the spell leads them to it.
 > 
 > > [!embed-table]- Herb's Relative Rarity Table
-> > ![[5. Mechanics/Tables/Herbs Relative Rarity Table.md\|Herb's Relative Rarity Table]]
+> > ![[5. Mechanics/Tables/Herbs Relative Rarity Table (HHBH).md\|Herb's Relative Rarity Table]]
 > 
 > Note that this table only applies to special herbs. If your players wish to find many common herbs, that should have little impact on game balance.
 ^resolving-the-locate-animals-and-plants-spell
@@ -52,7 +52,7 @@ Herbs may be used much like any other item, with their description detailing how
 A creature may only be under the effect of one herb ata time. If a creature attempts to use a new herb on themselves while still under the effect of another, the first herb's effects end immediately.
 
 > [!embed-variantrule]- Optional Rule: Herb Toxicity
-> ![[/5. Mechanics/Rules/Variant Rules/Optional Rule Herb Toxicity.md\|Optional Rule: Herb Toxicity]]
+> ![[/5. Mechanics/Rules/Variant Rules/Optional Rule Herb Toxicity (HHBH).md\|Optional Rule: Herb Toxicity]]
 
 ### Preparing Herbs
 

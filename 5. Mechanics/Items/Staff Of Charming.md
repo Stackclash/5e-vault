@@ -4,17 +4,16 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/dmg
   - item/attunement/required
-  - item/property/versatile
   - item/rarity/rare
   - item/tier/major
-  - item/wondrous/staff
+  - item/weapon/simple
 aliases:
   - Staff of Charming
 one-hand-damage: 1d6 B
 two-hand-damage: 1d8 B
 ---
 # Staff of Charming
-*Staff, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
+*Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
 ![[5. Mechanics/Items/img/staff-of-charming.webp#right]]  
 
 - **Damage**:
@@ -27,6 +26,6 @@ While holding this staff, you can use an action to expend 1 of its 10 charges to
 
 If you are holding the staff and fail a saving throw against an enchantment spell that targets only you, you can turn your failed save into a successful one. You can't use this property of the staff again until the next dawn. If you succeed on a save against an enchantment spell that targets only you, with or without the staff's intervention, you can use your reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.
 
-The staff regains `dice: 1d8 + 2|avg|noform` (`1d8 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20|avg|noform` (`d20`). On a 1, the staff becomes a nonmagical quarterstaff.
+The staff regains `dice:1d8+2|noform|avg` (`1d8 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the staff becomes a nonmagical quarterstaff.
 
-*Source: Dungeon Master's Guide p. 201. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

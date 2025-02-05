@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/cleric/light-domain
-  - spell/class/druid/circle-of-wildfire
-  - spell/class/fighter/eldritch-knight
-  - spell/class/monk/way-of-the-sun-soul
-  - spell/class/rogue/arcane-trickster
+  - spell/class/bard
   - spell/class/sorcerer
-  - spell/class/warlock/the-fiend
-  - spell/class/warlock/the-genie
   - spell/class/wizard
-  - spell/level/1
+  - spell/feat/magic-initiate
+  - spell/level/1st-level
+  - spell/optfeature/sweeping-cinder-strike
   - spell/school/evocation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/circle-of-wildfire
+  - spell/subclass/eldritch-knight
+  - spell/subclass/light-domain
+  - spell/subclass/the-fiend
+  - spell/subclass/the-genie
+  - spell/subclass/way-of-the-sun-soul
+  - spell/subrace/genasi-fire
+  - spell/subrace/tiefling-mephistopheles
+level: 1st-level
+range: false
+school: Evocation
+time: 1 action
+duration: Instantaneous
+components: 'V, S'
 aliases:
   - Burning Hands
 ---
@@ -26,12 +37,12 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes `dice: 3d6|avg|noform` (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
+As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes `dice:3d6|noform|avg` (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
 
 The fire ignites any flammable objects in the area that aren't being worn or carried.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d6` for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d6|noform|avg|text(1d6)` for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Light Domain.md\|Cleric (Light Domain)]], [[5. Mechanics/Classes/Druid Circle Of Wildfire.md\|Druid (Circle of Wildfire)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Monk Way Of The Sun Soul.md\|Monk (Way of the Sun Soul)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of Wildfire (TCE)\|Druid (Circle of Wildfire)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Light Domain\|Cleric (Light Domain)]]; [[List Spells Classes Warlock The Fiend\|Warlock (The Fiend)]]; [[List Spells Classes Warlock The Genie (TCE)\|Warlock (The Genie)]]; [[List Spells Classes Monk Way Of The Sun Soul (XGE)\|Monk (Way of the Sun Soul)]]
 
-*Source: Player's Handbook p. 220. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 220. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

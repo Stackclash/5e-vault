@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: 'forest, hill, arctic'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
@@ -9,12 +13,11 @@ tags:
   - monster/environment/hill
   - monster/size/large
   - monster/type/beast
-statblock: inline
 aliases:
   - Giant Owl
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Owl.md|Giant Owl]]
-*Source: Monster Manual p. 327, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Giant Owl.md|Giant Owl]]
+*Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Giant owls often befriend fey and other sylvan creatures and are guardians of their woodland realms.
 
@@ -53,11 +56,6 @@ Giant owls often befriend fey and other sylvan creatures and are guardians of th
   "name": "Talons"
 "source":
 - "MM"
-- "SKT"
-- "ERLW"
-- "IMR"
-- "EGW"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Beast/token/giant-owl.webp"
 ```
 ^statblock

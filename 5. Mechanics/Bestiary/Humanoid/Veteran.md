@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: 'coastal, mountain, grassland, hill, arctic, urban, forest, underdark'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
@@ -14,12 +18,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Veteran
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Veteran.md|Veteran]]
-*Source: Monster Manual p. 350, Curse of Strahd, Eberron: Rising from the Last War, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Humanoid\Veteran.md|Veteran]]
+*Source: Monster Manual p. 350, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
 
@@ -63,34 +66,6 @@ Veterans are professional fighters that take up arms for pay or to protect somet
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SLW"
-- "SDW"
-- "BGDIA"
-- "ERLW"
-- "EGW"
-- "MOT"
-- "IDRotF"
-- "CM"
-- "CRCotN"
-- "JttRC"
-- "SjA"
-- "LoX"
-- "DSotDQ"
-- "KftGV"
-- "SatO"
-- "ToFW"
-- "BMT"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/veteran.webp"
 ```

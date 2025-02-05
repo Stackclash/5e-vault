@@ -3,13 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/dmg
-  - item/wealth/gemstone
+  - item/gear/treasure-gemstone
+  - item/rarity/none
 aliases:
   - Topaz
 cost: 50000
 ---
 # Topaz
-*Gemstone*  
+*Treasure (gemstone)*  
 
 - **Cost**: 500 gp
 

@@ -4,12 +4,20 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/bard
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
   - spell/class/wizard
-  - spell/level/2
+  - spell/level/2nd-level
   - spell/school/transmutation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/carillon-domain
+  - spell/subclass/eldritch-knight
+  - spell/subclass/wealth-domain
+level: 2nd-level
+range: false
+school: Transmutation
+time: 1 action
+duration: Instantaneous
+components: V
 aliases:
   - Knock
 ---
@@ -29,6 +37,6 @@ If you choose a target that is held shut with [[5. Mechanics/Spells/Arcane Lock.
 
 When you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Cleric Carillon Domain (GRIFFONSSADDLEBAG3)\|Cleric (Carillon Domain)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Wealth Domain (GRIFFONSSADDLEBAG3)\|Cleric (Wealth Domain)]]
 
-*Source: Player's Handbook p. 254. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 254. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

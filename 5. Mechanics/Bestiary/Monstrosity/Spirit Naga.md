@@ -1,22 +1,25 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 8
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/8
   - monster/environment/underdark
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Spirit Naga
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Spirit Naga.md|Spirit Naga]]
-*Source: Monster Manual p. 234, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Monstrosity\Spirit Naga.md|Spirit Naga]]
+*Source: Monster Manual p. 234, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Spirit nagas live in gloom and spitefulness, constantly plotting vengeance against creatures that have wronged them-or that they believe have wronged them. Lairing in dismal caverns and ruins, they devote their time to developing new spells and enslaving the mortals with which they surround themselves. A spirit naga likes to charm its foes, drawing them close so that it can sink its poisonous fangs into their flesh.
 
-> [!quote]- A quote from Explictica Defilus, spirit naga  
+> [!quote] A quote from Explictica Defilus, spirit naga  
 > 
 > If you destroy me, I will return, and everyone you care about will suffer for it.
 
@@ -63,7 +66,7 @@ A naga doesn't require air, food, drink, or sleep.
   "Wisdom": !!int "5"
   "Constitution": !!int "5"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common"
 "cr": "8"
@@ -92,13 +95,6 @@ A naga doesn't require air, food, drink, or sleep.
   "name": "Bite"
 "source":
 - "MM"
-- "TftYP"
-- "WDMM"
-- "GoS"
-- "EGW"
-- "MOT"
-- "JttRC"
-- "PaBTSO"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/spirit-naga.webp"
 ```

@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
   - monster/environment/underdark
   - monster/size/large
   - monster/type/undead
-statblock: inline
 aliases:
   - Bone Naga (Guardian)
 ---
-# [[5. Mechanics/Bestiary/Undead/Bone Naga Guardian.md|Bone Naga (Guardian)]]
+# [[5. Mechanics\Bestiary\Undead\Bone Naga Guardian.md|Bone Naga (Guardian)]]
 *Source: Monster Manual p. 233*
 
 In response to the long history of conflict between the yuan-ti and the nagas, yuan-ti created a necromantic ritual that could halt a naga's resurrection by transforming the living naga into a skeletal undead servitor. A bone naga retains only a few of the spells it knew in life.
@@ -54,8 +57,8 @@ A naga doesn't require air, food, drink, or sleep.
 - !!int "16"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "4"
@@ -76,8 +79,6 @@ A naga doesn't require air, food, drink, or sleep.
   "name": "Bite"
 "source":
 - "MM"
-- "ToA"
-- "WDMM"
 "image": "5. Mechanics/Bestiary/Undead/token/bone-naga-guardian.webp"
 ```
 ^statblock

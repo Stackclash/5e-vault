@@ -17,4 +17,4 @@ aliases:
 
 While wearing this ring, you can cast the [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]] spell at will, but you can target only objects that aren't being worn or carried.
 
-*Source: Dungeon Master's Guide p. 193. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

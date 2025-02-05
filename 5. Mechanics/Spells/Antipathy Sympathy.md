@@ -3,10 +3,19 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/druid
   - spell/class/wizard
-  - spell/level/8
+  - spell/level/8th-level
   - spell/school/enchantment
+level: 8th-level
+range: false
+school: Enchantment
+time: 1 hour
+duration: 10 day
+components: >-
+  V, S, either a lump of alum soaked in vinegar for the antipathy effect or a
+  drop of honey for the sympathy effect
 aliases:
   - Antipathy/Sympathy
 ---
@@ -22,7 +31,7 @@ This spell attracts or repels creatures of your choice. You target something wit
 
 ## Antipathy
 
-The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]. The creature remains [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] while it can see the target or is within 60 feet of it. While [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] by the target, the creature must use its movement to move to the nearest safe spot from which it can't see the target. If the creature moves more than 60 feet from the target and can't see it, the creature is no longer [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], but the creature becomes [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] again if it regains sight of the target or moves within 60 feet of it.
+The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]]. The creature remains [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] while it can see the target or is within 60 feet of it. While [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] by the target, the creature must use its movement to move to the nearest safe spot from which it can't see the target. If the creature moves more than 60 feet from the target and can't see it, the creature is no longer [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], but the creature becomes [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] again if it regains sight of the target or moves within 60 feet of it.
 
 ## Sympathy
 
@@ -38,6 +47,6 @@ A creature that successfully saves against this effect is immune to it for 1 min
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]
 
-*Source: Player's Handbook p. 214. Available in the SRD.*
+*Source: Player's Handbook p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

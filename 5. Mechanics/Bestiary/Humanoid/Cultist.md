@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/8
+environments: urban
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-8
   - monster/environment/urban
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Cultist
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Cultist.md|Cultist]]
-*Source: Monster Manual p. 345, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Humanoid\Cultist.md|Cultist]]
+*Source: Monster Manual p. 345, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
 
@@ -41,8 +44,8 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
 "languages": "any one language (usually Common)"
 "cr": "1/8"
 "traits":
-- "desc": "The cultist has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
+- "desc": "The cultist has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]."
   "name": "Dark Devotion"
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6\
@@ -51,32 +54,6 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "LMoP"
-- "PotA"
-- "RoT"
-- "SKT"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SLW"
-- "BGDIA"
-- "RMBRE"
-- "IMR"
-- "EGW"
-- "MOT"
-- "IDRotF"
-- "CM"
-- "JttRC"
-- "KftGV"
-- "HftT"
-- "PaBTSO"
-- "AATM"
-- "BMT"
-- "GHLoE"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/cultist.webp"
 ```

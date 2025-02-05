@@ -6,12 +6,11 @@ tags:
   - item/attunement/required
   - item/rarity/uncommon
   - item/tier/major
-  - item/wondrous
 aliases:
   - Winged Boots
 ---
 # Winged Boots
-*Wondrous Item, major, uncommon (requires attunement)*  
+*Wondrous item, major, uncommon (requires attunement)*  
 ![[5. Mechanics/Items/img/winged-boots.webp#right]]  
 
 
@@ -19,4 +18,4 @@ While you wear these boots, you have a flying speed equal to your walking speed.
 
 The boots regain 2 hours of flying capability for every 12 hours they aren't in use.
 
-*Source: Dungeon Master's Guide p. 214. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

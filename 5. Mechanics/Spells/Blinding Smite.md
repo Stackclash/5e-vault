@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/paladin
-  - spell/level/3
+  - spell/level/3rd-level
   - spell/school/evocation
+level: 3rd-level
+range: false
+school: Evocation
+time: 1 bonus
+duration: 'Concentration, up to 1 minute'
+components: V
 aliases:
   - Blinding Smite
 ---
@@ -17,10 +24,10 @@ aliases:
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon flares with bright light, and the attack deals an extra `dice: 3d8|avg|noform` (`3d8`) radiant damage to the target. Additionally, the target must succeed on a Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] until the spell ends.
+The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon flares with bright light, and the attack deals an extra `dice:3d8|noform|avg` (`3d8`) radiant damage to the target. Additionally, the target must succeed on a Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] until the spell ends.
 
-A creature [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]].
+A creature [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]].
 
-**Classes**: [[5. Mechanics/Classes/Paladin.md\|Paladin]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Paladin\|Paladin]]
 
 *Source: Player's Handbook p. 219*

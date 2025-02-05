@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 21
+environments: null
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/21
   - monster/size/large
   - monster/type/celestial
-statblock: inline
 aliases:
   - Solar
 ---
-# [[5. Mechanics/Bestiary/Celestial/Solar.md|Solar]]
-*Source: Monster Manual p. 18. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Celestial\Solar.md|Solar]]
+*Source: Monster Manual p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
 
@@ -64,8 +67,8 @@ It is said that only twenty-four solars exist. The few solars that are known are
   "Perception": !!int "14"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 24"
 "languages": "all, telepathy 120 ft."
 "cr": "21"
@@ -118,18 +121,12 @@ It is said that only twenty-four solars exist. The few solars that are known are
   "name": "Searing Burst (Costs 2 Actions)"
 - "desc": "The solar targets one creature it can see within 30 feet of it. If the\
     \ target can see it, the target must succeed on a DC 15 Constitution saving throw\
-    \ or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until magic such as\
+    \ or be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] until magic such as\
     \ the [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]] spell removes\
     \ the blindness."
   "name": "Blinding Gaze (Costs 3 Actions)"
 "source":
 - "MM"
-- "BGDIA"
-- "CM"
-- "CRCotN"
-- "JttRC"
-- "SatO"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Celestial/token/solar.webp"
 ```
 ^statblock

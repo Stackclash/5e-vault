@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'grassland, forest'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -8,14 +12,13 @@ tags:
   - monster/environment/grassland
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Centaur
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Centaur.md|Centaur]]
-*Source: Monster Manual p. 38. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Monstrosity\Centaur.md|Centaur]]
+*Source: Monster Manual p. 38. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
-> [!quote]- A quote from Batley Summerfoot, a halfling adventurer who never read HOOVES OF FURY, by Iryil Grayborn of Sundown  
+> [!quote] A quote from Batley Summerfoot, a halfling adventurer who never read HOOVES OF FURY, by Iryil Grayborn of Sundown  
 > 
 > I hear centaurs make excellent mounts!
 
@@ -33,7 +36,7 @@ A centaur that can't keep pace with the rest of its tribe is left behind. Some s
 
 Despite their reclusive nature, centaurs trade with elves and with the caravans of other benevolent humanoids they meet during their wanderings. A trader might save the life of a wounded or an elderly centaur unfit for long travel, escorting it to a settlement where it can peacefully live out the rest of its days.
 
-> [!quote]- A quote from Batley Summerfoot, a halfling adventurer who never read Hooves of Fury by Irvil Grayborn of Sundown  
+> [!quote] A quote from Batley Summerfoot, a halfling adventurer who never read Hooves of Fury by Irvil Grayborn of Sundown  
 > 
 > I hear centaurs make excellent mounts!
 
@@ -81,12 +84,6 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
   "name": "Longbow"
 "source":
 - "MM"
-- "SKT"
-- "TftYP"
-- "GoS"
-- "DIP"
-- "MOT"
-- "WBtW"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/centaur.webp"
 ```
 ^statblock

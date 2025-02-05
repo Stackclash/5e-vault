@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/erlw
+  - compendium/src/5e/phb
   - deity/eberron
   - domain/life
   - domain/light
@@ -11,12 +11,10 @@ aliases:
   - The Silver Flame
 ---
 # The Silver Flame
-*Source: Eberron: Rising from the Last War p. 141* 
-![[5. Mechanics/Deities/img/erlw-the-silver-flame.webp#symbol]]
+*Source: Player's Handbook p. 296* 
 
-- **Alignment**: Unaligned
+- **Alignment**: Lawful Good
 - **Category**: Other Faiths of Eberron
 - **Domains**: Life, Light, War
 - **Pantheon**: Eberron
-- **Province**: Good, protection
 - **Symbol**: Flame drawn on silver or molded from silver

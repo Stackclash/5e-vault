@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 6
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/6
   - monster/environment/underdark
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Drider
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Drider.md|Drider]]
-*Source: Monster Manual p. 120, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Monstrosity\Drider.md|Drider]]
+*Source: Monster Manual p. 120, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 When a drow shows great promise, Lolth summons it to the Demonweb Pits for a test of faith and strength. Those that pass the test rise higher in the Spider Queen's favor. Those that fail are transformed into driders-a horrid hybrid of a drow and a giant spider that serves as a living reminder of Lolth's power. Only drow can be turned into driders, and the power to create these creatures resides with Lolth alone.
 
@@ -22,7 +25,7 @@ Drow transformed into driders return to the Material Plane as twisted and debase
 
 On rare occasion, a drider returns to the fringes of drow society despite its curse, most often to fulfill some longstanding vow or vendetta from its former life. Drow fear and shun the driders, holding them in lower esteem than slaves. However, they tolerate the presence of these creatures as living representatives of Lolth's will, and a reminder of the fate that awaits all who fail the Spider Queen.
 
-> [!quote]- A quote from Pellanistra the drider  
+> [!quote] A quote from Pellanistra the drider  
 > 
 > I failed the Spider Queen once. Never again.
 
@@ -56,7 +59,7 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
     \nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day\
     \ each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]]"
   "name": "Innate Spellcasting"
-- "desc": "The drider has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The drider has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
     \ and magic can't put the drider to sleep."
   "name": "Fey Ancestry"
 - "desc": "The drider can climb difficult surfaces, including upside down on ceilings,\
@@ -83,9 +86,6 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
   "name": "Longbow"
 "source":
 - "MM"
-- "WDMM"
-- "CRCotN"
-- "SatO"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/drider.webp"
 ```

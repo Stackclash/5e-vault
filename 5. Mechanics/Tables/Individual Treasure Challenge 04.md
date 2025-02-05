@@ -15,9 +15,9 @@ aliases:
 
 | dice: d100 | CP | SP | EP | GP | PP |
 |------------|----|----|----|----|----|
-| 01-30 | `dice: 5d6\|avg\|noform` (`5d6`) (17) | — | — | — | — |
-| 31-60 | — | `dice: 4d6\|avg\|noform` (`4d6`) (14) | — | — | — |
-| 61-70 | — | — | `dice: 3d6\|avg\|noform` (`3d6`) (10) | — | — |
-| 71-95 | — | — | — | `dice: 3d6\|avg\|noform` (`3d6`) (10) | — |
-| 96-00 | — | — | — | — | `dice: 1d6\|avg\|noform` (`1d6`) (3) |
+| 01-30 | `dice:5d6\|noform\|avg` (`5d6`) (17) | — | — | — | — |
+| 31-60 | — | `dice:4d6\|noform\|avg` (`4d6`) (14) | — | — | — |
+| 61-70 | — | — | `dice:3d6\|noform\|avg` (`3d6`) (10) | — | — |
+| 71-95 | — | — | — | `dice:3d6\|noform\|avg` (`3d6`) (10) | — |
+| 96-00 | — | — | — | — | `dice:1d6\|noform\|avg` (`1d6`) (3) |
 ^individual-treasure-challenge-04

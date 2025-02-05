@@ -3,15 +3,22 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/artificer/alchemist
   - spell/class/bard
   - spell/class/cleric
-  - spell/class/cleric/grave-domain
-  - spell/class/cleric/life-domain
   - spell/class/paladin
-  - spell/class/sorcerer/divine-soul
-  - spell/level/5
+  - spell/level/5th-level
   - spell/school/necromancy
+  - spell/subclass/alchemist
+  - spell/subclass/carillon-domain
+  - spell/subclass/divine-soul
+  - spell/subclass/grave-domain
+  - spell/subclass/life-domain
+level: 5th-level
+range: false
+school: Necromancy
+time: 1 hour
+duration: Instantaneous
+components: 'V, S, a diamond worth at least 500 gp, which the spell consumes'
 aliases:
   - Raise Dead
 ---
@@ -31,6 +38,6 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 
 Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
-**Classes**: [[5. Mechanics/Classes/Artificer Alchemist.md\|Artificer (Alchemist)]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Grave Domain.md\|Cleric (Grave Domain)]], [[5. Mechanics/Classes/Cleric Life Domain.md\|Cleric (Life Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Artificer Alchemist (TCE)\|Artificer (Alchemist)]]; [[List Spells Classes Cleric Carillon Domain (GRIFFONSSADDLEBAG3)\|Cleric (Carillon Domain)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Cleric Grave Domain (XGE)\|Cleric (Grave Domain)]]; [[List Spells Classes Cleric Life Domain\|Cleric (Life Domain)]]
 
-*Source: Player's Handbook p. 270. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

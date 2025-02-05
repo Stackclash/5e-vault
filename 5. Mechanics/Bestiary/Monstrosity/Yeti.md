@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: arctic
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/arctic
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Yeti
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yeti.md|Yeti]]
-*Source: Monster Manual p. 305. Available in the Basic Rules.*
+# [[5. Mechanics\Bestiary\Monstrosity\Yeti.md|Yeti]]
+*Source: Monster Manual p. 305. Available in the Basic Rules (2014)*
 
 A yeti's windborne howl sounds out across remote mountains, striking fear into the hearts of the scattered miners and herders that dwell there. These hulking creatures stalk alpine peaks in a ceaseless hunt for food. Their snow-white fur lets them move like ghosts against the frozen landscape. A yeti's icy simian eyes can freeze its prey in place.
 
@@ -36,7 +39,7 @@ Devious mountain folk sometimes use the yetis as unwitting weapons. A warlord mi
 
 An abominable yeti is larger than a normal yeti, standing three times as tall as a human. It typically lives and hunts alone, though a pair of abominable yetis might live together long enough to raise young. These towering yetis are highly territorial and savage, attacking and devouring any warm-blooded creatures they encounter, then scattering the bones across the ice and snow.
 
-> [!quote]- A quote from Kelesta Hawke of the Emerald Enclave  
+> [!quote] A quote from Kelesta Hawke of the Emerald Enclave  
 > 
 > On your guard! That's not the wind howling!
 
@@ -83,7 +86,7 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
   "name": "Claw"
 - "desc": "The yeti targets one creature it can see within 30 feet of it. If the target\
     \ can see the yeti, the target must succeed on a DC 13 Constitution saving throw\
-    \ against this magic or take 10 (3d6) cold damage and then be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ against this magic or take 10 (3d6) cold damage and then be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
     \ for 1 minute, unless it is immune to cold damage. The target can repeat the\
     \ saving throw at the end of each of its turns, ending the effect on itself on\
     \ a success. If the target's saving throw is successful, or if the effect ends\
@@ -92,12 +95,6 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
   "name": "Chilling Gaze"
 "source":
 - "MM"
-- "SKT"
-- "TftYP"
-- "EGW"
-- "IDRotF"
-- "LoX"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/yeti.webp"
 ```
 ^statblock

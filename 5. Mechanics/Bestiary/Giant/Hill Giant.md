@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: hill
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
   - monster/environment/hill
   - monster/size/huge
   - monster/type/giant
-statblock: inline
 aliases:
   - Hill Giant
 ---
-# [[5. Mechanics/Bestiary/Giant/Hill Giant.md|Hill Giant]]
-*Source: Monster Manual p. 155, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Giant\Hill Giant.md|Hill Giant]]
+*Source: Monster Manual p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Hill giants are selfish, dimwitted brutes that hunt, forage, and raid in constant search of food. They blunder through hills and forests devouring what they can, bullying smaller creatures into feeding them. Their laziness and dullness would long ago have spelled their end if not for their formidable size and strength.
 
@@ -75,11 +78,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 > Some giants abandon their own gods and fall prey to demon cults, paying homage to Baphomet or Kostchtchie. To worship them or any other non-giant deity is a great sin against the ordning, and almost certain to make a giant an outcast.
 ^giant-gods
 
-> [!quote]- A quote from Captain Dwern Addlestone's partial account of the Siege of Sterngate  
+> [!quote] A quote from Captain Dwern Addlestone's partial account of the Siege of Sterngate  
 > 
 > Boulders assailed our walls and cast them down, leavin' gaps through which the giants strode, weapons in hand.
 
-> [!quote]- A quote from Elder Zelane of Istivin, recounting the Giant Wars  
+> [!quote] A quote from Elder Zelane of Istivin, recounting the Giant Wars  
 > 
 > And here is where Angerroth the barbarian fell against the giant horde. His bones are under that boulder over there.
 
@@ -117,14 +120,6 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   "name": "Rock"
 "source":
 - "MM"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "GoS"
-- "ERLW"
-- "EGW"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Giant/token/hill-giant.webp"
 ```
 ^statblock

@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
   - monster/size/medium
   - monster/type/fiend
-statblock: inline
 aliases:
   - Night Hag
 ---
-# [[5. Mechanics/Bestiary/Fiend/Night Hag.md|Night Hag]]
-*Source: Monster Manual p. 178, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Fiend\Night Hag.md|Night Hag]]
+*Source: Monster Manual p. 178, Curse of Strahd, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Sly and subversive, night hags want to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness. Night hags take perverse joy in corrupting mortals.
 
@@ -19,7 +22,7 @@ Night hags were once creatures of the Feywild, but their foulness saw them exile
 
 ## Soulmongers
 
-While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with [[/5. Mechanics/Rules/Senses.md#truesight|truesight]] can see the hag's spectral form straddling its prey. The ethereal hag fills her victim's head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag (see the "Night Hag Items" sidebar) for transport to Hades.
+While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with [[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] can see the hag's spectral form straddling its prey. The ethereal hag fills her victim's head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag (see the "Night Hag Items" sidebar) for transport to Hades.
 
 ## Covens
 
@@ -91,9 +94,9 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10|avg|noform` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice:3d10|noform|avg` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] for 24 hours.
 > 
-> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
+> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
 
 ```statblock
@@ -120,7 +123,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
   "Perception": !!int "5"
 "damage_resistances": "cold; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Abyssal, Common, Infernal, Primordial"
 "cr": "5"
@@ -215,7 +218,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
   "name": ""
 - "desc": "- Birds, rodents, snakes, spiders, or toads (or some other creatures appropriate\
     \ to the hag) are found in great profusion.  \n- Beasts that have an Intelligence\
-    \ score of 2 or lower are [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by\
+    \ score of 2 or lower are [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] by\
     \ the hag and directed to be aggressive toward intruders in the area.  \n- Strange\
     \ carved figurines, twig fetishes, or rag dolls magically appear in trees.  "
   "name": ""
@@ -233,21 +236,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 "source":
 - "MM"
 - "CoS"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "EGW"
-- "MOT"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "JttRC"
-- "KftGV"
-- "SatO"
-- "ToFW"
-- "BMT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Fiend/token/night-hag.webp"
 ```
 ^statblock

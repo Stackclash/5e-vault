@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: 'forest, swamp'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
@@ -8,11 +12,10 @@ tags:
   - monster/environment/swamp
   - monster/size/medium
   - monster/type/humanoid/lizardfolk
-statblock: inline
 aliases:
   - Lizard King
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Lizard King.md|Lizard King]]
+# [[5. Mechanics\Bestiary\Humanoid\Lizard King.md|Lizard King]]
 *Source: Monster Manual p. 205, Tasha's Cauldron of Everything*
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -47,7 +50,7 @@ Lizardfolk born in Sess'inek's image are larger and more cunning than other liza
 
 Lizardfolk speak Draconic, which they are thought to have learned from dragons in ancient times. A tribe that wanders into the territory of a dragon will offer it tribute to win its favor. An evil dragon might exploit lizardfolk for its own vile ends, turning them into raiders and plunderers.
 
-> [!quote]- A quote from A merchant's account of his experience with the lizardfolk tribes of the Lizard Marsh  
+> [!quote] A quote from A merchant's account of his experience with the lizardfolk tribes of the Lizard Marsh  
 > 
 > In all my dealings with the lizardfolk, I was never able to tell what they were thinking. Their reptilian eyes belied no hint of their intentions. I gave them supplies. They gave me the willies.
 
@@ -77,7 +80,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
   "Stealth": !!int "5"
   "Perception": !!int "4"
   "Survival": !!int "4"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Draconic"
 "cr": "4"
@@ -104,8 +107,6 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
   "name": "Trident"
 "source":
 - "MM"
-- "PotA"
-- "GoS"
 - "TCE"
 "image": "5. Mechanics/Bestiary/Humanoid/token/lizard-king.webp"
 ```

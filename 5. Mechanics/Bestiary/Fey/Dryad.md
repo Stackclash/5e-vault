@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: forest
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
   - monster/environment/forest
   - monster/size/medium
   - monster/type/fey
-statblock: inline
 aliases:
   - Dryad
 ---
-# [[5. Mechanics/Bestiary/Fey/Dryad.md|Dryad]]
-*Source: Monster Manual p. 121, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Fey\Dryad.md|Dryad]]
+*Source: Monster Manual p. 121, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Travelers entering a forest might catch a glimpse of a feminine form flitting through the trees. Warm laughter hangs on the air, drawing those who hear it deeper into the emerald shadows.
 
@@ -24,7 +27,7 @@ A dryad can emerge from the tree and travel the lands around it, but the tree re
 
 ## Reclusive Fey
 
-Dryads act as guardians of their woodland demesnes. Shy and reclusive, they watch interlopers from the trees. A dryad struck by the beauty of a stranger might investigate more closely, perhaps even try to lure the individual away to be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]].
+Dryads act as guardians of their woodland demesnes. Shy and reclusive, they watch interlopers from the trees. A dryad struck by the beauty of a stranger might investigate more closely, perhaps even try to lure the individual away to be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]].
 
 Dryads work with other sylvan creatures to defend their forests. Unicorns, treants, and satyrs live alongside them, in addition to druids that share the dryads' devotion to the woods they call home.
 
@@ -80,8 +83,8 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
   "name": "Club"
 - "desc": "The dryad targets one humanoid or beast that she can see within 30 feet\
     \ of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving\
-    \ throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]. The\
-    \ [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] creature regards the dryad\
+    \ throw or be magically [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]. The\
+    \ [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] creature regards the dryad\
     \ as a trusted friend to be heeded and protected. Although the target isn't under\
     \ the dryad's control, it takes the dryad's requests or actions in the most favorable\
     \ way it can.\n\nEach time the dryad or its allies do anything harmful to the\
@@ -90,27 +93,11 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
     \ plane of existence from the target, or ends the effect as a bonus action. If\
     \ a target's saving throw is successful, the target is immune to the dryad's Fey\
     \ Charm for the next 24 hours.\n\nThe dryad can have no more than one humanoid\
-    \ and up to three beasts [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] at\
+    \ and up to three beasts [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] at\
     \ a time."
   "name": "Fey Charm"
 "source":
 - "MM"
-- "SKT"
-- "GoS"
-- "BGDIA"
-- "EGW"
-- "MOT"
-- "IDRotF"
-- "CM"
-- "WBtW"
-- "CRCotN"
-- "JttRC"
-- "KftGV"
-- "PSI"
-- "ToFW"
-- "BMT"
-- "GHLoE"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Fey/token/dryad.webp"
 ```

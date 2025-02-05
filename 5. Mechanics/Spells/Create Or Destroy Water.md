@@ -3,12 +3,24 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
   - spell/class/druid
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-fathomless
-  - spell/level/1
+  - spell/feat/magic-initiate
+  - spell/level/1st-level
   - spell/school/transmutation
+  - spell/subclass/divine-soul
+  - spell/subclass/the-fathomless
+  - spell/subclass/the-frozen-one
+  - spell/subrace/genasi-water
+level: 1st-level
+range: false
+school: Transmutation
+time: 1 action
+duration: Instantaneous
+components: >-
+  V, S, a drop of water if creating water or a few grains of sand if destroying
+  it
 aliases:
   - Create or Destroy Water
 ---
@@ -36,6 +48,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you create o
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Fathomless.md\|Warlock (The Fathomless)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Warlock The Fathomless (TCE)\|Warlock (The Fathomless)]]; [[List Spells Classes Warlock The Frozen One (KPDM)\|Warlock (The Frozen One)]]
 
-*Source: Player's Handbook p. 229. Available in the SRD.*
+*Source: Player's Handbook p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

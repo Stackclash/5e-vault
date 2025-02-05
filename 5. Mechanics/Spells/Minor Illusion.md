@@ -4,15 +4,27 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/bard
-  - spell/class/fighter/eldritch-knight
-  - spell/class/monk/way-of-shadow
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
-  - spell/class/wizard/school-of-illusion
+  - spell/feat/magic-initiate
   - spell/level/cantrip
+  - spell/optfeature/pact-of-the-tome
+  - spell/race/kobold
   - spell/school/illusion
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+  - spell/subclass/school-of-illusion
+  - spell/subclass/way-of-shadow
+  - spell/subrace/elf-high
+  - spell/subrace/gnome-forest
+  - spell/subrace/tiefling-glasya
+level: cantrip
+range: false
+school: Illusion
+time: 1 action
+duration: 1 minute
+components: 'S, a bit of fleece'
 aliases:
   - Minor Illusion
 ---
@@ -32,6 +44,6 @@ If you create an image of an object—such as a chair, muddy footprints, or a sm
 
 If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Monk Way Of Shadow.md\|Monk (Way of Shadow)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard School Of Illusion.md\|Wizard (School of Illusion)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Wizard School Of Illusion\|Wizard (School of Illusion)]]; [[List Spells Classes Monk Way Of Shadow\|Monk (Way of Shadow)]]
 
-*Source: Player's Handbook p. 260. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

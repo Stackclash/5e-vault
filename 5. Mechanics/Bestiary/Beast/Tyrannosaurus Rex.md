@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 8
+environments: grassland
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/8
   - monster/environment/grassland
   - monster/size/huge
   - monster/type/beast
-statblock: inline
 aliases:
   - Tyrannosaurus Rex
 ---
-# [[5. Mechanics/Bestiary/Beast/Tyrannosaurus Rex.md|Tyrannosaurus Rex]]
-*Source: Monster Manual p. 80. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Tyrannosaurus Rex.md|Tyrannosaurus Rex]]
+*Source: Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 This enormous predator terrorizes all other creatures in its territory. Despite its size and weight, a tyrannosaurus is a swift runner. It chases anything it thinks it can eat, and there are few creatures it won't try to devour whole. While prowling for substantial prey, a tyrannosaurus subsists on carrion, and on any smaller creatures that try to dart in to steal its meal.
 
@@ -50,8 +53,8 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 33\
     \ (4d12 + 7) piercing damage. If the target is a Medium or smaller creature, it\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 17). Until\
-    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 17). Until\
+    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
     \ and the tyrannosaurus can't bite another target."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 20\
@@ -59,10 +62,6 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
   "name": "Tail"
 "source":
 - "MM"
-- "ToA"
-- "EGW"
-- "SatO"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Beast/token/tyrannosaurus-rex.webp"
 ```
 ^statblock

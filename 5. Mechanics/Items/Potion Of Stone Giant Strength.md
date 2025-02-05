@@ -17,4 +17,4 @@ When you drink this potion, your Strength score changes to 23 for 1 hour. The po
 
 This potion's transparent liquid has floating in it a sliver of fingernail from a [[5. Mechanics/Bestiary/Giant/Stone Giant.md\|stone giant]].
 
-*Source: Dungeon Master's Guide p. 187. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

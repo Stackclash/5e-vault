@@ -5,13 +5,12 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/legendary
   - item/tier/major
-  - item/wondrous
 aliases:
   - Apparatus of Kwalish
 ---
 # Apparatus of Kwalish
-*Wondrous Item, major, legendary*  
-![[5. Mechanics/Items/img/apparatus-of-kwalish.webp#right]]  
+*Wondrous item, major, legendary*  
+![[5. Mechanics/Vehicles/img/apparatus-of-kwalish.webp#right]]  
 
 - **Weight**: 500.0 lbs.
 
@@ -26,7 +25,7 @@ The apparatus of Kwalish is a Large object with the following statistics:
 
 To be used as a vehicle, the apparatus requires one pilot. While the apparatus's hatch is closed, the compartment is airtight and watertight. The compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.
 
-The apparatus floats on water. It can also go underwater to a depth of 900 feet. Below that, the vehicle takes `dice: 2d6|avg|noform` (`2d6`) bludgeoning damage per minute from pressure.
+The apparatus floats on water. It can also go underwater to a depth of 900 feet. Below that, the vehicle takes `dice:2d6|noform|avg` (`2d6`) bludgeoning damage per minute from pressure.
 
 A creature in the compartment can use an action to move as many as two of the apparatus's levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as shown in the Apparatus of Kwalish Levers table.
 
@@ -38,7 +37,7 @@ A creature in the compartment can use an action to move as many as two of the ap
 | 2 | Forward window shutter opens. | Forward window shutter closes. |
 | 3 | Side window shutters open (two per side). | Side window shutters close (two per side). |
 | 4 | Two claws extend from the front sides of the apparatus. | The claws retract. |
-| 5 | Each extended claw makes the following melee weapon attack: `dice: d20+8` (`+8`) to hit, reach 5 ft., one target. *Hit:*  `dice:2d6\|text(7)` (`2d6`) bludgeoning damage. | Each extended claw makes the following melee weapon attack: `dice: d20+8` (`+8`) to hit, reach 5 ft., one target. *Hit:*  The target is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 15). |
+| 5 | Each extended claw makes the following melee weapon attack: `dice:1d20+8\|noform\|text(+8)` to hit, reach 5 ft., one target. *Hit:*  `dice:2d6|noform|avg|text(7)` (`2d6`) bludgeoning damage. | Each extended claw makes the following melee weapon attack: `dice:1d20+8\|noform\|text(+8)` to hit, reach 5 ft., one target. *Hit:*  The target is [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] (escape DC 15). |
 | 6 | The apparatus walks or swims forward. | The apparatus walks or swims backward. |
 | 7 | The apparatus turns 90 degrees left. | The apparatus turns 90 degrees right. |
 | 8 | Eyelike fixtures emit bright light in a 30-foot radius and dim light for an additional 30 feet. | The light turns off. |
@@ -46,4 +45,4 @@ A creature in the compartment can use an action to move as many as two of the ap
 | 10 | The rear hatch unseals and opens. | The rear hatch closes and seals. |
 ^apparatus-of-kwalish-levers
 
-*Source: Dungeon Master's Guide p. 151. Available in the SRD (as 'Apparatus of the Crab').*
+*Source: Dungeon Master's Guide p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Apparatus of the Crab")*

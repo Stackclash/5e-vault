@@ -9,7 +9,7 @@ aliases:
 # Chapter 1: Introduction
 *Source: Hamund's Harvesting Handbook: Volume II, p. 3* 
 
-> [!quote]- A quote from Sir Hamund Holderhek, O.B.H. (First Class), V.A., N.K.P.  
+> [!quote] A quote from Sir Hamund Holderhek, O.B.H. (First Class), V.A., N.K.P.  
 > 
 > Welcome back dear reader to another installation of Hamund's Harvesting Handbook. By now I'm sure you've all cut your teeth on the monsters and creatures featured in Volume I ^[collection/Jasmine Yang; Hamund's Harvesting Handbook I.json] of this series and have come back hungry for more. Well you are in luck, because I have spent the interim hunting and harvesting all of the monsters featured in that seminal work; "Volo's Guide to Monsters" (written by another man who appreciates the value of good branding) and have prepared yet another catalogue of the natural riches to be found in the creatures around us.
 > 

@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: null
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
   - monster/size/tiny
   - monster/type/beast
-statblock: inline
 aliases:
   - Hawk
 ---
-# [[5. Mechanics/Bestiary/Beast/Hawk.md|Hawk]]
-*Source: Monster Manual p. 330. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Hawk.md|Hawk]]
+*Source: Monster Manual p. 330. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Hawk"
@@ -44,12 +47,6 @@ aliases:
   "name": "Talons"
 "source":
 - "MM"
-- "WDH"
-- "BGDIA"
-- "IDRotF"
-- "CM"
-- "WBtW"
-- "JttRC"
 "image": "5. Mechanics/Bestiary/Beast/token/hawk.webp"
 ```
 ^statblock

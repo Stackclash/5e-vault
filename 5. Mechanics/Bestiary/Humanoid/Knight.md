@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: urban
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/urban
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Knight
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Knight.md|Knight]]
-*Source: Monster Manual p. 347, Curse of Strahd. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Humanoid\Knight.md|Knight]]
+*Source: Monster Manual p. 347, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.
 
@@ -41,7 +44,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
-- "desc": "The knight has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
+- "desc": "The knight has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]."
   "name": "Brave"
 "actions":
 - "desc": "The knight makes two melee attacks."
@@ -56,7 +59,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
     \ a nonhostile creature that it can see within 30 feet of it makes an attack roll\
     \ or a saving throw. The creature can add a d4 to its roll provided it can hear\
     \ and understand the knight. A creature can benefit from only one Leadership die\
-    \ at a time. This effect ends if the knight is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ at a time. This effect ends if the knight is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Leadership (Recharges after a Short or Long Rest)"
 "reactions":
 - "desc": "The knight adds 2 to its AC against one melee attack that would hit it.\
@@ -65,30 +68,6 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "GoS"
-- "DC"
-- "DIP"
-- "BGDIA"
-- "EGW"
-- "MOT"
-- "CM"
-- "WBtW"
-- "CRCotN"
-- "JttRC"
-- "DSotDQ"
-- "KftGV"
-- "GotSF"
-- "SatO"
-- "ToFW"
-- "BMT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Humanoid/token/knight.webp"
 ```
 ^statblock

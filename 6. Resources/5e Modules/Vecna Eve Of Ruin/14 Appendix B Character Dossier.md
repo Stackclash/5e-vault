@@ -35,7 +35,7 @@ Acererak delights in watching others perish. He regards himself as superior in a
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/208-13-012-alustriel.webp#center]]
 
-Lady [[4. World Almanac/NPCs/Alustriel Silverhand.md\|Alustriel Silverhand]], called the Shining Lady, has been an influential wizard and proponent of good across Toril for centuries. Alustriel is one of the Seven Sisters—immortal daughters of Mystra, a god of magic. The divine energy Mystra passed to Alustriel grants Alustriel incredible power over arcane magic.
+Lady [[4. World Almanac/NPCs/Alustriel Silverhand (VEOR).md\|Alustriel Silverhand]], called the Shining Lady, has been an influential wizard and proponent of good across Toril for centuries. Alustriel is one of the Seven Sisters—immortal daughters of Mystra, a god of magic. The divine energy Mystra passed to Alustriel grants Alustriel incredible power over arcane magic.
 
 Alustriel's youthful appearance as a human woman with silver hair gives no hint of her supernaturally extended life span. She typically wears long robes and wields a unicorn-headed staff, her *Staff of Silverymoon*.
 
@@ -57,7 +57,7 @@ Alustriel has partaken in countless adventures before and after her tenure as Si
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/209-13-013-kas.webp#center]]
 
-The Betrayer, the Bloody Handed, the Destroyer—[[4. World Almanac/NPCs/Kas The Betrayer.md\|Kas]] has earned many epithets during his long existence. He is a vampire, legendary swordfighter, and ruthless warlord, and he is driven primarily by one thing: his hatred for Vecna.
+The Betrayer, the Bloody Handed, the Destroyer—[[4. World Almanac/NPCs/Kas The Betrayer (VEOR).md\|Kas]] has earned many epithets during his long existence. He is a vampire, legendary swordfighter, and ruthless warlord, and he is driven primarily by one thing: his hatred for Vecna.
 
 Kas resembles a well-muscled, raven-haired, human man in his thirties, though he is far older. His fangs reveal his vampiric nature.
 
@@ -95,7 +95,7 @@ Most recently, Lolth allied with Vecna. The archlich promised Lolth a place at h
 
 ## Lord Soth
 
-[[4. World Almanac/NPCs/Lord Soth Dsotdq.md\|Lord Soth]] is the most powerful death knight on Krynn. Once a Solamnic Knight of the Order of the Rose, Soth was a paragon of virtue and justice who allowed his pride to lead him down an evil path. Soth perished during Krynn's Cataclysm, then rose from the ashes as a death knight. Soth lives in his cursed castle, Dargaard Keep.
+[[4. World Almanac/NPCs/Lord Soth (DSOTDQ).md\|Lord Soth]] is the most powerful death knight on Krynn. Once a Solamnic Knight of the Order of the Rose, Soth was a paragon of virtue and justice who allowed his pride to lead him down an evil path. Soth perished during Krynn's Cataclysm, then rose from the ashes as a death knight. Soth lives in his cursed castle, Dargaard Keep.
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/211-13-014-lord-soth.webp#center]]
 
@@ -107,9 +107,9 @@ Miska the Wolf-Spider is a legendary demon lord and master of battlefield strate
 
 ### History
 
-Ages ago, [[4. World Almanac/NPCs/Miska The Wolf Spider.md\|Miska]] led the hordes of Chaos against the forces of Law at the behest of his patron, the enigmatic Queen of Chaos. It seemed Miska's domination couldn't be stopped.
+Ages ago, [[4. World Almanac/NPCs/Miska The Wolf Spider (VEOR).md\|Miska]] led the hordes of Chaos against the forces of Law at the behest of his patron, the enigmatic Queen of Chaos. It seemed Miska's domination couldn't be stopped.
 
-In desperation, Miska's opponents crafted an artifact to bind him in an extraplanar prison. This rod broke apart after sealing him in Pandemonium, scattering across the planes and becoming known as the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]]. The rod is the key to releasing Miska from his long imprisonment.
+In desperation, Miska's opponents crafted an artifact to bind him in an extraplanar prison. This rod broke apart after sealing him in Pandemonium, scattering across the planes and becoming known as the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. The rod is the key to releasing Miska from his long imprisonment.
 
 ## Mordenkainen
 
@@ -137,7 +137,7 @@ Although Mordenkainen can be brash and off-putting, he eschews cruelty and sees 
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/215-13-008-strahd-von-zarovich.webp#center]]
 
-[[4. World Almanac/NPCs/Strahd Master Of Death House.md\|Strahd von Zarovich]] is the Darklord of Barovia, a Domain of Dread. Little happens there without the Darklord's knowledge, although Strahd rarely pays attention to what he considers the uninteresting dealings of lesser beings. However, once the characters arrive in Barovia, explore a place called Death House, and find a piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] there, Strahd's interest becomes piqued, and he makes an appearance. The characters encounter Strahd in his Master of Death House iteration in chapter 5.
+[[4. World Almanac/NPCs/Strahd Master Of Death House (VEOR).md\|Strahd von Zarovich]] is the Darklord of Barovia, a Domain of Dread. Little happens there without the Darklord's knowledge, although Strahd rarely pays attention to what he considers the uninteresting dealings of lesser beings. However, once the characters arrive in Barovia, explore a place called Death House, and find a piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] there, Strahd's interest becomes piqued, and he makes an appearance. The characters encounter Strahd in his Master of Death House iteration in chapter 5.
 
 ### History
 
@@ -147,7 +147,7 @@ Now the Dark Powers keep Strahd trapped in his realm, tormenting him with his in
 
 ## Tasha
 
-[[4. World Almanac/NPCs/Tasha The Witch.md\|Tasha's]] path to greatness began when she was adopted by the arch-hag Baba Yaga, who named her Natasha. Tasha went on to create various spells, including [[5. Mechanics/Spells/Tashas Hideous Laughter.md\|Tasha's Hideous Laughter]], and her magic-fueled ambitions brought her into contact with demons and demon lords, which she subjugated and used against her enemies. On the Material Plane, she became known as [[4. World Almanac/NPCs/Iggwilv The Witch Queen Wbtw.md\|Iggwilv the Witch Queen]] and wrote the [[5. Mechanics/Items/Demonomicon Of Iggwilv.md\|Demonomicon of Iggwilv]], the greatest of all treatises on the Abyss and its demonic inhabitants. In recent years, Tasha has sequestered herself in the Feywild, achieving incredible power and slowly turning into a Fey creature. Tasha has become Zybilna, archfey of the domain of Prismeer.
+[[4. World Almanac/NPCs/Tasha The Witch (VEOR).md\|Tasha's]] path to greatness began when she was adopted by the arch-hag Baba Yaga, who named her Natasha. Tasha went on to create various spells, including [[5. Mechanics/Spells/Tashas Hideous Laughter.md\|Tasha's Hideous Laughter]], and her magic-fueled ambitions brought her into contact with demons and demon lords, which she subjugated and used against her enemies. On the Material Plane, she became known as [[4. World Almanac/NPCs/Iggwilv The Witch Queen (WBTW).md\|Iggwilv the Witch Queen]] and wrote the [[5. Mechanics/Items/Demonomicon Of Iggwilv (TCE).md\|Demonomicon of Iggwilv]], the greatest of all treatises on the Abyss and its demonic inhabitants. In recent years, Tasha has sequestered herself in the Feywild, achieving incredible power and slowly turning into a Fey creature. Tasha has become Zybilna, archfey of the domain of Prismeer.
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/216-13-016-tasha.webp#center]]
 
@@ -179,6 +179,6 @@ The relationship between Tiamat and Bahamut is complicated. Many texts portray t
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/218-13-011-vecna.webp#center]]
 
-On countless worlds, his name evokes tales of terror and cruelty: [[4. World Almanac/NPCs/Vecna The Archlich.md\|Vecna]], the Undying King. Vecna, the Whispered One. Vecna, the Lord of the Rotted Tower. But Vecna had humble beginnings on the world of Oerth, where an order of wizards used him as a bootblack and scribe. He spent the better part of his childhood secretly educating himself in his masters' arts. Once Vecna learned all he could, he massacred the wizards. He then recorded his every foul thought and dream as he started to write his [[5. Mechanics/Items/Book Of Vile Darkness.md\|Book of Vile Darkness]].
+On countless worlds, his name evokes tales of terror and cruelty: [[4. World Almanac/NPCs/Vecna The Archlich (VEOR).md\|Vecna]], the Undying King. Vecna, the Whispered One. Vecna, the Lord of the Rotted Tower. But Vecna had humble beginnings on the world of Oerth, where an order of wizards used him as a bootblack and scribe. He spent the better part of his childhood secretly educating himself in his masters' arts. Once Vecna learned all he could, he massacred the wizards. He then recorded his every foul thought and dream as he started to write his [[5. Mechanics/Items/Book Of Vile Darkness.md\|Book of Vile Darkness]].
 
 Vecna forged a kingdom on Oerth, but he grew bored with it after several centuries. He started inflicting suffering on other worlds. In this adventure, Vecna has risen to godhood on Oerth, but he seeks to become the most powerful god in existence and bend the multiverse to his will. By the time the characters are involved, Vecna's master plan is almost complete. He has funneled a significant amount of his energy into weaving his ritual. Therefore, when the characters finally confront Vecna and try to save the multiverse, he is in his archlich form and not his divine form.

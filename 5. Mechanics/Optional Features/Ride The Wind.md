@@ -10,6 +10,6 @@ aliases:
 # Ride the Wind
 *Source: Player's Handbook p. 81*  
 
-***Prerequisites*** 11th-level
+***Prerequisites*** 11th
 
 You can spend 4 ki points to cast [[5. Mechanics/Spells/Fly.md\|fly]], targeting yourself.

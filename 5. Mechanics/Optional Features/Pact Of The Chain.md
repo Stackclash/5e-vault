@@ -8,7 +8,7 @@ aliases:
   - Pact of the Chain
 ---
 # Pact of the Chain
-*Source: Player's Handbook p. 107. Available in the SRD.*  
+*Source: Player's Handbook p. 107. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 You learn the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
 

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 6
+environments: urban
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/6
   - monster/environment/urban
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Mage
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Mage.md|Mage]]
-*Source: Monster Manual p. 347, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Humanoid\Mage.md|Mage]]
+*Source: Monster Manual p. 347, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
 
@@ -65,39 +68,7 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "PotA"
-- "RoT"
-- "SKT"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SLW"
-- "SDW"
-- "BGDIA"
-- "ERLW"
-- "EGW"
-- "MOT"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "WBtW"
-- "CRCotN"
-- "JttRC"
-- "LoX"
-- "DSotDQ"
-- "KftGV"
-- "PSI"
-- "PaBTSO"
-- "AATM"
-- "SatO"
-- "ToFW"
-- "BMT"
-- "GHLoE"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/mage.webp"
 ```

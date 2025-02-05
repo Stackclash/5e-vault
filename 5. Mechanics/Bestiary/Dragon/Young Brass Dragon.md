@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 6
+environments: desert
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/6
   - monster/environment/desert
   - monster/size/large
   - monster/type/dragon
-statblock: inline
 aliases:
   - Young Brass Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young Brass Dragon.md|Young Brass Dragon]]
-*Source: Monster Manual p. 105. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Young Brass Dragon.md|Young Brass Dragon]]
+*Source: Monster Manual p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
 
@@ -124,13 +127,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire\
     \ damage on a failed save, or half as much damage on a successful one.  \n- Sleep\
     \ Breath. The dragon exhales sleep gas in a 30-foot cone. Each creature in that\
-    \ area must succeed on a DC 14 Constitution saving throw or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ area must succeed on a DC 14 Constitution saving throw or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
     \ for 5 minutes. This effect ends for a creature if the creature takes damage\
     \ or someone uses an action to wake it.  "
   "name": "Breath Weapons (Recharge 5-6)"
 "source":
 - "MM"
-- "SKT"
 "image": "5. Mechanics/Bestiary/Dragon/token/young-brass-dragon.webp"
 ```
 ^statblock

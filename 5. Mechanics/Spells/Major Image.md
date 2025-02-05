@@ -4,13 +4,19 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/bard
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/3
+  - spell/level/3rd-level
   - spell/school/illusion
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+level: 3rd-level
+range: false
+school: Illusion
+time: 1 action
+duration: 'Concentration, up to 10 minute'
+components: 'V, S, a bit of fleece'
 aliases:
   - Major Image
 ---
@@ -28,8 +34,8 @@ As long as you are within range of the illusion, you can use your action to caus
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]].
+**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]].
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
 
-*Source: Player's Handbook p. 258. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

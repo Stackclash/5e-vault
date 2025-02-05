@@ -21,7 +21,7 @@ aliases:
 | 5 | Continue straight 20 ft.; passage ends in a door |
 | 6-7 | Continue straight 20 ft., side passage to the right, then an additional 10 ft. ahead |
 | 8-9 | Continue straight 20 ft., side passage to the left, then an additional 10 ft. ahead |
-| 10 | Continue straight 20 ft., comes to a dead end; 10% chance chance of a secret door |
+| 10 | Continue straight 20 ft., comes to a dead end; 10 percent chance of a secret door |
 | 11-12 | Continue straight 20 ft., then the passage turns left and continues 10 ft. |
 | 13-14 | Continue straight 20 ft., then the passage turns right and continues 10 ft. |
 | 15-19 | Chamber (roll on the Chamber table) |

@@ -11,7 +11,7 @@ aliases:
 
 Volo has encountered many monsters in his day, few as odious or as ornery as the ones described herein. This chapter takes several iconic D&D monsters and provides additional information about their origins, their dispositions and behaviors, and their lairs-above and beyond what is written in the *Monster Manual.* To give every monster such grand treatment would require too many pages to count, so we winnowed down the list to nine groups of creatures that have a lot going for them and tend to get used often in D&D campaigns:
 
-![[5. Mechanics/Tables/Monster Lore.md\|Monster Lore]]
+![[5. Mechanics/Tables/Monster Lore (VGM).md\|Monster Lore]]
 
 If you plunder this chapter for ideas and maps the next time you create an adventure or a villain, then this material has served its purpose. We hope that, as you explore each monster section, you'll come up with new ways to challenge and entertain your players, as well as find new things that you can borrow for your own D&D campaign. Let each entry spark your imagination!
 
@@ -89,43 +89,43 @@ As a byproduct of their unique method of propagation, beholders in one part of t
 
 Use the following tables to produce a variety of different appearances for beholders if you desire.
 
-![[5. Mechanics/Tables/Physical Characteristics Beholder Body Diameter.md\|Physical Characteristics; Beholder Body Diameter]]
+![[5. Mechanics/Tables/Physical Characteristics Beholder Body Diameter (VGM).md\|Physical Characteristics; Beholder Body Diameter]]
 
-![[5. Mechanics/Tables/Physical Characteristics Beholder Skin Color.md\|Physical Characteristics; Beholder Skin Color]]
+![[5. Mechanics/Tables/Physical Characteristics Beholder Skin Color (VGM).md\|Physical Characteristics; Beholder Skin Color]]
 
-![[5. Mechanics/Tables/Physical Characteristics Beholder Skin Texture.md\|Physical Characteristics; Beholder Skin Texture]]
+![[5. Mechanics/Tables/Physical Characteristics Beholder Skin Texture (VGM).md\|Physical Characteristics; Beholder Skin Texture]]
 
-![[5. Mechanics/Tables/Physical Characteristics Beholder Eye Color.md\|Physical Characteristics; Beholder Eye Color]]
+![[5. Mechanics/Tables/Physical Characteristics Beholder Eye Color (VGM).md\|Physical Characteristics; Beholder Eye Color]]
 
-![[5. Mechanics/Tables/Physical Characteristics Beholder Iris Shape.md\|Physical Characteristics; Beholder Iris Shape]]
+![[5. Mechanics/Tables/Physical Characteristics Beholder Iris Shape (VGM).md\|Physical Characteristics; Beholder Iris Shape]]
 
-![[5. Mechanics/Tables/Physical Characteristics Beholder Eye Size.md\|Physical Characteristics; Beholder Eye Size]]
+![[5. Mechanics/Tables/Physical Characteristics Beholder Eye Size (VGM).md\|Physical Characteristics; Beholder Eye Size]]
 
-![[5. Mechanics/Tables/Physical Characteristics Beholder Eyestalk Texture.md\|Physical Characteristics; Beholder Eyestalk Texture]]
+![[5. Mechanics/Tables/Physical Characteristics Beholder Eyestalk Texture (VGM).md\|Physical Characteristics; Beholder Eyestalk Texture]]
 
-![[5. Mechanics/Tables/Physical Characteristics Beholder Eyestalk Shape.md\|Physical Characteristics; Beholder Eyestalk Shape]]
+![[5. Mechanics/Tables/Physical Characteristics Beholder Eyestalk Shape (VGM).md\|Physical Characteristics; Beholder Eyestalk Shape]]
 
-![[5. Mechanics/Tables/Physical Characteristics Beholder Mouth Shape And Size.md\|Physical Characteristics; Beholder Mouth Shape and Size]]
+![[5. Mechanics/Tables/Physical Characteristics Beholder Mouth Shape And Size (VGM).md\|Physical Characteristics; Beholder Mouth Shape and Size]]
 
-![[5. Mechanics/Tables/Physical Characteristics Beholder Teeth Shape.md\|Physical Characteristics; Beholder Teeth Shape]]
+![[5. Mechanics/Tables/Physical Characteristics Beholder Teeth Shape (VGM).md\|Physical Characteristics; Beholder Teeth Shape]]
 
 ### Roleplaying a Beholder
 
 When you're roleplaying a beholder, the following tables contain possible inspiration. They suggest characteristics that a beholder might possess.
 
-![[5. Mechanics/Tables/Roleplaying A Beholder Beholder Personality Traits.md\|Roleplaying a Beholder; Beholder Personality Traits]]
+![[5. Mechanics/Tables/Roleplaying A Beholder Beholder Personality Traits (VGM).md\|Roleplaying a Beholder; Beholder Personality Traits]]
 
-![[5. Mechanics/Tables/Roleplaying A Beholder Beholder Ideals.md\|Roleplaying a Beholder; Beholder Ideals]]
+![[5. Mechanics/Tables/Roleplaying A Beholder Beholder Ideals (VGM).md\|Roleplaying a Beholder; Beholder Ideals]]
 
-![[5. Mechanics/Tables/Roleplaying A Beholder Beholder Bonds.md\|Roleplaying a Beholder; Beholder Bonds]]
+![[5. Mechanics/Tables/Roleplaying A Beholder Beholder Bonds (VGM).md\|Roleplaying a Beholder; Beholder Bonds]]
 
-![[5. Mechanics/Tables/Roleplaying A Beholder Beholder Flaws.md\|Roleplaying a Beholder; Beholder Flaws]]
+![[5. Mechanics/Tables/Roleplaying A Beholder Beholder Flaws (VGM).md\|Roleplaying a Beholder; Beholder Flaws]]
 
 ### Beholder Names
 
 A beholder picks its own name, piecing together sounds and syllables that have significance and meaning to it.
 
-![[5. Mechanics/Tables/Beholder Names.md\|Beholder Names]]
+![[5. Mechanics/Tables/Beholder Names (VGM).md\|Beholder Names]]
 
 ### Battle Tactics
 
@@ -231,8 +231,8 @@ Unless otherwise indicated, an alternative ability has the same range as the eye
 
 - **Antimagic Cone.** [[5. Mechanics/Spells/Mirage Arcane.md\|mirage arcane]], [[5. Mechanics/Spells/Power Word Stun.md\|power word stun]] (affecting the weakest non-stunned target in the cone each round)  
 - **Charm Ray.** [[5. Mechanics/Spells/Banishment.md\|banishment]] (1 minute), [[5. Mechanics/Spells/Confusion.md\|confusion]] (1 minute)  
-- **Death Ray.** [[5. Mechanics/Spells/Circle Of Death.md\|circle of death]] (10-foot-radius sphere; `dice: 4d6|avg|noform` (`4d6`) necrotic damage to all creatures in the area), [[5. Mechanics/Spells/Feeblemind.md\|feeblemind]]  
-- **Disintegration Ray.** [[5. Mechanics/Spells/Chain Lightning.md\|chain lightning]] (primary target takes `dice: 6d8|avg|noform` (`6d8`) lightning damage; two secondary targets within 30 feet of the primary target take `dice: 3d8|avg|noform` (`3d8`) lightning damage each), [[5. Mechanics/Spells/Eyebite.md\|eyebite]] (sickened effect; 1 minute)  
+- **Death Ray.** [[5. Mechanics/Spells/Circle Of Death.md\|circle of death]] (10-foot-radius sphere; `dice:4d6|noform|avg` (`4d6`) necrotic damage to all creatures in the area), [[5. Mechanics/Spells/Feeblemind.md\|feeblemind]]  
+- **Disintegration Ray.** [[5. Mechanics/Spells/Chain Lightning.md\|chain lightning]] (primary target takes `dice:6d8|noform|avg` (`6d8`) lightning damage; two secondary targets within 30 feet of the primary target take `dice:3d8|noform|avg` (`3d8`) lightning damage each), [[5. Mechanics/Spells/Eyebite.md\|eyebite]] (sickened effect; 1 minute)  
 - **Enervation Ray.** [[5. Mechanics/Spells/Create Undead.md\|create undead]] (usable regardless of the time of day), [[5. Mechanics/Spells/Polymorph.md\|polymorph]] (1 minute)  
 - **Fear Ray.** [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] (self or willing creature only), [[5. Mechanics/Spells/Moonbeam.md\|moonbeam]]  
 - **Paralyzing Ray.** [[5. Mechanics/Spells/Modify Memory.md\|modify memory]], [[5. Mechanics/Spells/Silence.md\|silence]] (1 minute)  
@@ -363,11 +363,11 @@ A beholder's greater minions are formidable opponents. In the lair, they might b
 
 A beholder often has one or more pets in its lair, mainly because (for whatever reason) it enjoys the company of such creatures. Pets are usually of low intelligence and are kept around because of their combat abilities, entertainment value, or trophy status.
 
-![[5. Mechanics/Tables/Pets Beholder Lesser Minions.md\|Pets; Beholder Lesser Minions]]
+![[5. Mechanics/Tables/Pets Beholder Lesser Minions (VGM).md\|Pets; Beholder Lesser Minions]]
 
-![[5. Mechanics/Tables/Pets Beholder Greater Minions.md\|Pets; Beholder Greater Minions]]
+![[5. Mechanics/Tables/Pets Beholder Greater Minions (VGM).md\|Pets; Beholder Greater Minions]]
 
-![[5. Mechanics/Tables/Beholder Pets.md\|Beholder Pets]]
+![[5. Mechanics/Tables/Beholder Pets (VGM).md\|Beholder Pets]]
 
 ### The Xanathar Guild
 
@@ -656,19 +656,19 @@ Giants live at a slower pace than humans do. In the space of four heartbeats for
 
 The life spans of the various types of giants are generally in keeping with their place in the ordning; the lowliest giants have the shortest life spans, and the noblest giants are the longest-lived. Stone giants are the exception. Because of their long life spans, despite their low position in the ordning, other giants consider stone giants to be the wisest of all giant types, just as Skoraeus Stonebones is often seen as the wisest of all the giant gods.
 
-![[5. Mechanics/Tables/Living The Giant Life Giant Life Spans.md\|Living the Giant Life; Giant Life Spans]]
+![[5. Mechanics/Tables/Living The Giant Life Giant Life Spans (VGM).md\|Living the Giant Life; Giant Life Spans]]
 
 ### Roleplaying a Giant
 
 Giving a giant a personality trait, an ideal, a bond, and a flaw helps to create a more vibrant NPC. You can also give a character background to a giant. The noble background, for example, could apply to a cloud giant.
 
-![[5. Mechanics/Tables/Roleplaying A Giant Giant Personality Traits.md\|Roleplaying a Giant; Giant Personality Traits]]
+![[5. Mechanics/Tables/Roleplaying A Giant Giant Personality Traits (VGM).md\|Roleplaying a Giant; Giant Personality Traits]]
 
-![[5. Mechanics/Tables/Roleplaying A Giant Giant Ideals.md\|Roleplaying a Giant; Giant Ideals]]
+![[5. Mechanics/Tables/Roleplaying A Giant Giant Ideals (VGM).md\|Roleplaying a Giant; Giant Ideals]]
 
-![[5. Mechanics/Tables/Roleplaying A Giant Giant Bonds.md\|Roleplaying a Giant; Giant Bonds]]
+![[5. Mechanics/Tables/Roleplaying A Giant Giant Bonds (VGM).md\|Roleplaying a Giant; Giant Bonds]]
 
-![[5. Mechanics/Tables/Roleplaying A Giant Giant Flaws.md\|Roleplaying a Giant; Giant Flaws]]
+![[5. Mechanics/Tables/Roleplaying A Giant Giant Flaws (VGM).md\|Roleplaying a Giant; Giant Flaws]]
 
 ### Cloud Giants
 
@@ -1078,7 +1078,7 @@ As befits creatures with a language that is little more than whines, growls, and
 
 Use the following tables to create a Gnoll along with Personality traits and physical characteristics or choose each characteristic individually.
 
-![[5. Mechanics/Tables/Gnoll Names.md\|Gnoll Names]]
+![[5. Mechanics/Tables/Gnoll Names (VGM).md\|Gnoll Names]]
 
 ### Anatomy of a War Band
 
@@ -1152,7 +1152,7 @@ Ghoul packs emerge from graveyards and dungeons to trail in the wake of a war ba
 > 
 > This simple declaration of Yeenoghu's power was devised by a small cult to the demon lord discovered deep in the forest. A group of woodcutters, facing starvation, turned to cannibalism to survive and ultimately fell under Yeenoghu's sway. Gnolls sing a similar chant in their language while they seek out prey.
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The first gift is hunger.
 > > 
@@ -1200,19 +1200,19 @@ The War Band Composition table determines how many gnolls and hyenas the band co
 
 Roll once on the Special Creatures table to see which special creature is part of the war band and in what numbers. The Shared Physical Trait and Notable Behavior or Tactics tables add some distinctive flavor to the war band. Finally, the Demonic Influence table adds an abyssal tinge to the group: owing to the gnolls' supernatural link with the Abyss, their advance toward a community might be heralded by strange effects that afflict the area or the people in it a day or so before they strike the settlement.
 
-![[5. Mechanics/Tables/Creating A Gnoll War Band Gnoll War Band Name.md\|Creating a Gnoll War Band; Gnoll War Band Name]]
+![[5. Mechanics/Tables/Creating A Gnoll War Band Gnoll War Band Name (VGM).md\|Creating a Gnoll War Band; Gnoll War Band Name]]
 
-![[5. Mechanics/Tables/Creating A Gnoll War Band Gnoll War Band Composition.md\|Creating a Gnoll War Band; Gnoll War Band Composition]]
+![[5. Mechanics/Tables/Creating A Gnoll War Band Gnoll War Band Composition (VGM).md\|Creating a Gnoll War Band; Gnoll War Band Composition]]
 
-![[5. Mechanics/Tables/Creating A Gnoll War Band War Band Leadership.md\|Creating a Gnoll War Band; War Band Leadership]]
+![[5. Mechanics/Tables/Creating A Gnoll War Band War Band Leadership (VGM).md\|Creating a Gnoll War Band; War Band Leadership]]
 
-![[5. Mechanics/Tables/Creating A Gnoll War Band Gnoll War Band Special Creatures.md\|Creating a Gnoll War Band; Gnoll War Band Special Creatures]]
+![[5. Mechanics/Tables/Creating A Gnoll War Band Gnoll War Band Special Creatures (VGM).md\|Creating a Gnoll War Band; Gnoll War Band Special Creatures]]
 
-![[5. Mechanics/Tables/Creating A Gnoll War Band Shared Physical Trait.md\|Creating a Gnoll War Band; Shared Physical Trait]]
+![[5. Mechanics/Tables/Creating A Gnoll War Band Shared Physical Trait (VGM).md\|Creating a Gnoll War Band; Shared Physical Trait]]
 
-![[5. Mechanics/Tables/Creating A Gnoll War Band Notable Behavior Or Tactics.md\|Creating a Gnoll War Band; Notable Behavior or Tactics]]
+![[5. Mechanics/Tables/Creating A Gnoll War Band Notable Behavior Or Tactics (VGM).md\|Creating a Gnoll War Band; Notable Behavior or Tactics]]
 
-![[5. Mechanics/Tables/Creating A Gnoll War Band Demonic Influence.md\|Creating a Gnoll War Band; Demonic Influence]]
+![[5. Mechanics/Tables/Creating A Gnoll War Band Demonic Influence (VGM).md\|Creating a Gnoll War Band; Demonic Influence]]
 
 ## Goblinoids: The Conquering Host
 
@@ -1275,7 +1275,7 @@ Some goblin families are the lowest of the low, composed of the most dimwitted, 
 
 Goblins love symbols of authority, and thus the tribe's boss often has such trappings wherever he or she goes. Such a symbol can take a typical form, perhaps a crown or a throne, but also can be a more distinctive objects like a high-backed wolf saddle or colorful boots. The castes in a tribe also adopt symbols to indicate membership or kinship, but the symbols used are rarely the same between different tribes and often make little sense to other creatures. Some possible status symbols are given in the Status Symbols table. A caste or a boss might display more than one of these items.
 
-![[5. Mechanics/Tables/Status Symbols.md\|Status Symbols]]
+![[5. Mechanics/Tables/Status Symbols (VGM).md\|Status Symbols]]
 
 #### Booyahgs
 
@@ -1295,7 +1295,7 @@ This goblin found a magic item (a [[5. Mechanics/Items/Necklace Of Fireballs.md\
 
 ##### Booyahg Whip
 
-Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has `dice: 1d3|avg|noform` (`1d3`) other goblins that slavishly obey its orders.
+Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has `dice:1d3|noform|avg` (`1d3`) other goblins that slavishly obey its orders.
 
 ##### Booyahg Slave
 
@@ -1423,7 +1423,7 @@ Hobgoblins don't build temples to their gods, lest they displease Maglubiyet, bu
 
 As in any strict military hierarchy, every hobgoblin in a legion has a rank, from the warlord down through a cadre of officers to the soldiers that make up most of its number. These ranks, using the titles most often applied to them, are as follows:
 
-![[5. Mechanics/Tables/Rank Status And Title.md\|Rank, Status, and Title]]
+![[5. Mechanics/Tables/Rank Status And Title (VGM).md\|Rank, Status, and Title]]
 
 A legion is organized into units called banners, each one made up of a group of interrelated families.
 
@@ -1727,13 +1727,13 @@ If a hag's life is threatened, she will pretend to be weak and helpless if she t
 
 Hags prefer to cajole and bargain rather than confront someone with actual violence; they reserve their aggressive outbursts for situations where they are overwhelmingly more powerful than their opponents (such as when attacking children) or have an unfair advantage (such as when their enemy is asleep). Although a hag can always resort to attacking with her claws, if it comes to that then something has gone very wrong with her plans.
 
-![[5. Mechanics/Tables/Roleplaying A Hag Hag Personality Traits.md\|Roleplaying a Hag; Hag Personality Traits]]
+![[5. Mechanics/Tables/Roleplaying A Hag Hag Personality Traits (VGM).md\|Roleplaying a Hag; Hag Personality Traits]]
 
-![[5. Mechanics/Tables/Roleplaying A Hag Hag Ideals.md\|Roleplaying a Hag; Hag Ideals]]
+![[5. Mechanics/Tables/Roleplaying A Hag Hag Ideals (VGM).md\|Roleplaying a Hag; Hag Ideals]]
 
-![[5. Mechanics/Tables/Roleplaying A Hag Hag Bonds.md\|Roleplaying a Hag; Hag Bonds]]
+![[5. Mechanics/Tables/Roleplaying A Hag Hag Bonds (VGM).md\|Roleplaying a Hag; Hag Bonds]]
 
-![[5. Mechanics/Tables/Roleplaying A Hag Hag Flaws.md\|Roleplaying a Hag; Hag Flaws]]
+![[5. Mechanics/Tables/Roleplaying A Hag Hag Flaws (VGM).md\|Roleplaying a Hag; Hag Flaws]]
 
 ### Hag Names
 
@@ -1743,7 +1743,7 @@ The Hag Names table allows you to generate a hag's name. You can also select fro
 
 Hags always have a title followed by a first name, or a first name followed by a last name. You can randomly determine (equal chance of either) whether a hag has a title or a last name.
 
-![[5. Mechanics/Tables/Hag Names.md\|Hag Names]]
+![[5. Mechanics/Tables/Hag Names (VGM).md\|Hag Names]]
 
 ### Weird Magic
 
@@ -1901,7 +1901,7 @@ On initiative count 20 (losing initiative ties), the hag can take a lair action 
 
 A powerful **annis hag** might have the following additional lair action:
 
-- The hag creates a thick cloud of caustic black smoke that fills a 20-foot-radius sphere centered on a point she can see within 120 feet her. The cloud lasts until initiative count 20 on the next round. Creatures and objects in or behind the smoke are heavily obscured. A creature that enters the cloud for the first time on a turn or starts its turn there takes `dice:3d6|text(10)` (`3d6`) acid damage.  
+- The hag creates a thick cloud of caustic black smoke that fills a 20-foot-radius sphere centered on a point she can see within 120 feet her. The cloud lasts until initiative count 20 on the next round. Creatures and objects in or behind the smoke are heavily obscured. A creature that enters the cloud for the first time on a turn or starts its turn there takes `dice:3d6|noform|avg|text(10)` (`3d6`) acid damage.  
 
 A powerful **bheur hag** might have the following additional lair action:
 
@@ -1914,7 +1914,7 @@ A powerful **green hag** might have the following additional lair action:
 A powerful **night hag** might have the following additional lair actions:
 
 - One creature the hag can see within 120 feet of her must succeed on a DC 15 Charisma saving throw or be banished to a prison demiplane. To escape, the creature must use its action to make a Charisma check contested by the hag's. If the creature wins, it escapes the demiplane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied.  
-- The hag targets up to three creatures that she can see within 60 feet of her. Each target must succeed on a DC 15 Constitution saving throw or be flung up to 30 feet through the air. A creature that strikes a solid object or is released in midair takes `dice: 1d6|avg|noform` (`1d6`) bludgeoning damage for every 10 feet moved or fallen.  
+- The hag targets up to three creatures that she can see within 60 feet of her. Each target must succeed on a DC 15 Constitution saving throw or be flung up to 30 feet through the air. A creature that strikes a solid object or is released in midair takes `dice:1d6|noform|avg` (`1d6`) bludgeoning damage for every 10 feet moved or fallen.  
 
 A powerful **sea hag** might have the following additional lair actions:
 
@@ -1925,7 +1925,7 @@ A powerful **sea hag** might have the following additional lair actions:
 
 A hag's foul nature slowly suffuses the environment around her lair, twisting it to evil.
 
-Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `dice: 2d10|avg|noform` (`2d10`) days to fade away.
+Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `dice:2d10|noform|avg` (`2d10`) days to fade away.
 
 #### Regional Effects
 
@@ -1946,7 +1946,7 @@ A powerful **bheur hag** creates one or more of the following additional regiona
 
 - Small avalanches of snow intermittently fall, blocking a path or burying intruders. A buried creature is restrained and has to hold its breath until it is dug out.  
 - Human-sized blocks of ice appear, containing frozen corpses. These corpses might break free and attack as zombies, or their spirits might attack as specters.  
-- Blizzards come without warning. A blizzard occurs once every `dice: 2d12|avg|noform` (`2d12`) hours and lasts `dice: 1d3|avg|noform` (`1d3`) hours. During a storm, creatures moving overland travel at half normal speed, and normal visibility is reduced to 30 feet.  
+- Blizzards come without warning. A blizzard occurs once every `dice:2d12|noform|avg` (`2d12`) hours and lasts `dice:1d3|noform|avg` (`1d3`) hours. During a storm, creatures moving overland travel at half normal speed, and normal visibility is reduced to 30 feet.  
 - Roads, paths, and trails twist and turn back on themselves, making navigation in the area exceedingly difficult.  
 
 A powerful **green hag** creates one or more of the following additional regional effects within 1 mile of her lair:
@@ -1985,9 +1985,9 @@ The Servants table includes faithful, trusted helpers that a hag uses to protect
 
 The Brutes table gives examples of the muscle a hag might employ, mercenaries that serve the hag only so long as it benefits them. These creatures run errands and take care of roughing up enemies or patrolling areas that the hag considers beneath her personal attention. Hags prefer to employ clever, cruel creatures rather than dumb oafs.
 
-![[5. Mechanics/Tables/Random Hag Minions Servants.md\|Random Hag Minions; Servants]]
+![[5. Mechanics/Tables/Random Hag Minions Servants (VGM).md\|Random Hag Minions; Servants]]
 
-![[5. Mechanics/Tables/Random Hag Minions Brutes.md\|Random Hag Minions; Brutes]]
+![[5. Mechanics/Tables/Random Hag Minions Brutes (VGM).md\|Random Hag Minions; Brutes]]
 
 ### Treasure
 
@@ -2003,7 +2003,7 @@ Treasure-seekers are likely to fare better if they consider a hag's booty to be 
 
 Above and beyond the items of obvious value a hag has accumulated, she also has a few bizarre and unique items in her collection. The Hag Objects table provides a way to quickly add such weird items to a hag's home.
 
-![[5. Mechanics/Tables/One Of A Kind Objects Hag Objects.md\|One-of-a-Kind Objects; Hag Objects]]
+![[5. Mechanics/Tables/One Of A Kind Objects Hag Objects (VGM).md\|One-of-a-Kind Objects; Hag Objects]]
 
 ## Kobolds: Little Dragons
 
@@ -2109,7 +2109,7 @@ Kobolds reside most commonly in hilly or mountainous terrain. Such locations usu
 
 Kobold names are derived from the Draconic tongue and usually relate to a characteristic of the owner, such as scale color, distinctive body parts, or typical behavior. For example, "Red Foot," "White Claw," and "Scurry" are Common translations of often-used names. A kobold might change its name when it becomes an adult, or add additional word-syllables after important events such as completing its first hunt, laying its first egg, or surviving its first battle. The Kobold Names table presents kobold names suitable for any campaign.
 
-![[5. Mechanics/Tables/Kobold Names.md\|Kobold Names]]
+![[5. Mechanics/Tables/Kobold Names (VGM).md\|Kobold Names]]
 
 ### Physical Variations
 
@@ -2121,9 +2121,9 @@ Use the Scale Color table to randomly determine the  predominant appearance of k
 
 Us the tables below to generate a Kobold Name and scale color.
 
-![[5. Mechanics/Tables/Physical Variations Scale Color.md\|Physical Variations; Scale Color]]
+![[5. Mechanics/Tables/Physical Variations Scale Color (VGM).md\|Physical Variations; Scale Color]]
 
-![[5. Mechanics/Tables/Physical Variations Scale Pattern.md\|Physical Variations; Scale Pattern]]
+![[5. Mechanics/Tables/Physical Variations Scale Pattern (VGM).md\|Physical Variations; Scale Pattern]]
 
 ### Tactics
 
@@ -2373,13 +2373,13 @@ Many of the esoteric research topics pursued by a colony reflect the ambitions a
 
 When you're roleplaying a mind flayer, the following tables contain possible inspiration. They suggest characteristics that a mind flayer might possess.
 
-![[5. Mechanics/Tables/Roleplaying A Mind Flayer Mind Flayer Personality Traits.md\|Roleplaying a Mind Flayer; Mind Flayer Personality Traits]]
+![[5. Mechanics/Tables/Roleplaying A Mind Flayer Mind Flayer Personality Traits (VGM).md\|Roleplaying a Mind Flayer; Mind Flayer Personality Traits]]
 
-![[5. Mechanics/Tables/Roleplaying A Mind Flayer Mind Flayer Ideals.md\|Roleplaying a Mind Flayer; Mind Flayer Ideals]]
+![[5. Mechanics/Tables/Roleplaying A Mind Flayer Mind Flayer Ideals (VGM).md\|Roleplaying a Mind Flayer; Mind Flayer Ideals]]
 
-![[5. Mechanics/Tables/Roleplaying A Mind Flayer Mind Flayer Bonds.md\|Roleplaying a Mind Flayer; Mind Flayer Bonds]]
+![[5. Mechanics/Tables/Roleplaying A Mind Flayer Mind Flayer Bonds (VGM).md\|Roleplaying a Mind Flayer; Mind Flayer Bonds]]
 
-![[5. Mechanics/Tables/Roleplaying A Mind Flayer Mind Flayer Flaws.md\|Roleplaying a Mind Flayer; Mind Flayer Flaws]]
+![[5. Mechanics/Tables/Roleplaying A Mind Flayer Mind Flayer Flaws (VGM).md\|Roleplaying a Mind Flayer; Mind Flayer Flaws]]
 
 ### Mind Flayer Names
 
@@ -2389,7 +2389,7 @@ Telepathic communication with a mind flayer is frequently  accompanied by a ment
 
 An illithid might adopt a name that is easier for minions and allies to speak or that makes it seem more fearsome to enemies, but each begins its life with a thought-name such as the examples in the Mind Flayer Names table, which are suitable for any campaign.
 
-![[5. Mechanics/Tables/Mind Flayer Names.md\|Mind Flayer Names]]
+![[5. Mechanics/Tables/Mind Flayer Names (VGM).md\|Mind Flayer Names]]
 
 ### Speech
 
@@ -2413,7 +2413,7 @@ The process of transforming a creature into a thrall requires the entire colony'
 
 A thrall-to-be is first rendered docile through psionic means. Using a low-power version of its Mind Blast ability, the mind flayer bombards the victim with energy that washes through its synapses like acid, clearing away its former personality and leaving it a partially empty shell. This step takes 24 hours. Over the next 48 hours, the illithids rebuild the victim's memories and personality, and the victim gains the skills and talents it needs to perform its intended function.
 
-The process that creates a thrall changes almost everything about the victim. The creature retains its Hit Dice, hit points, racial traits (but not proficiencies granted by race), and all of its ability scores except for Intelligence. After the first stage of the process, the creature's Intelligence is halved; when the second stage is over, its Intelligence score increases by `dice: 1d6|avg|noform` (`1d6`).
+The process that creates a thrall changes almost everything about the victim. The creature retains its Hit Dice, hit points, racial traits (but not proficiencies granted by race), and all of its ability scores except for Intelligence. After the first stage of the process, the creature's Intelligence is halved; when the second stage is over, its Intelligence score increases by `dice:1d6|noform|avg` (`1d6`).
 
 To complete the process, the thrall receives a new set of proficiencies, a new alignment, and a new personality. Some colonies have learned how to salvage a victim's psionic abilities during the process or how to implant psionic powers into their thralls. Also, some colonies know how to leave a victim's persona intact while infusing it with a fanatical loyalty to the colony's elder brain as well as telepathic power that allows the victim to communicate with its new masters as if it were a mind flayer. This sort of thrall makes a perfect spy, since most would never suspect its true nature.
 
@@ -2491,7 +2491,7 @@ Freshly captured victims are processed in the cleansing chambers. Their gear is 
 
 > [!note] Funerary Brain Jars
 > 
-> When a mind flayer dies, other mind flayers try to salvage the dead illithid's brain and bring it to the colony's brine pool for the elder brain to consume. For this purpose, mind flayers craft funerary brain jars made of stone. Every jar is made for an individual, inscribed with Qualith and artwork that relate the mind flayer's accomplishments. Often a mind flayer's funerary brain jar is created long before the illithid's death and updated as the years pass, with the jar serving as a diary of sorts for the one whose brain will eventually fill it. After it is filled with brine, a funerary brain jar can preserve a brain without spoiling for `dice: 1d4 + 10|avg|noform` (`1d4 + 10`) days.
+> When a mind flayer dies, other mind flayers try to salvage the dead illithid's brain and bring it to the colony's brine pool for the elder brain to consume. For this purpose, mind flayers craft funerary brain jars made of stone. Every jar is made for an individual, inscribed with Qualith and artwork that relate the mind flayer's accomplishments. Often a mind flayer's funerary brain jar is created long before the illithid's death and updated as the years pass, with the jar serving as a diary of sorts for the one whose brain will eventually fill it. After it is filled with brine, a funerary brain jar can preserve a brain without spoiling for `dice:1d4+10|noform|avg` (`1d4 + 10`) days.
 ^funerary-brain-jars
 
 #### Common Room
@@ -2586,7 +2586,7 @@ Some mind flayer colonies have developed the ability to create or modify certain
 
 *Weapon (any sword), rare (requires attunement by a specific individual)*
 
-Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra `dice: 2d6|avg|noform` (`2d6`) psychic damage to any target it hits.
+Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra `dice:2d6|noform|avg` (`2d6`) psychic damage to any target it hits.
 
 #### Mind Carapace Armor
 
@@ -2598,7 +2598,7 @@ Any nonmagical suit of heavy armor can be turned by mind flayers into mind carap
 
 *Weapon (whip), rare (requires attunement by a mind flayer)*
 
-In the hands of a creature other than a mind flayer, a mind lash functions as a normal whip. In the hands of an illithid, this magic weapon strips away a creature's will to survive as it also strips away flesh, dealing an extra `dice: 2d4|avg|noform` (`2d4`) psychic damage to any target it hits. Any creature that takes psychic damage from the mind lash must also succeed on a DC 15 Wisdom saving throw or have disadvantage on Intelligence, Wisdom, and Charisma saving throws for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+In the hands of a creature other than a mind flayer, a mind lash functions as a normal whip. In the hands of an illithid, this magic weapon strips away a creature's will to survive as it also strips away flesh, dealing an extra `dice:2d4|noform|avg` (`2d4`) psychic damage to any target it hits. Any creature that takes psychic damage from the mind lash must also succeed on a DC 15 Wisdom saving throw or have disadvantage on Intelligence, Wisdom, and Charisma saving throws for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Shield of Far Sight
 
@@ -2606,7 +2606,7 @@ In the hands of a creature other than a mind flayer, a mind lash functions as a 
 
 A mind flayer skilled at crafting magic items creates a shield of far sight by harvesting an eye from an intelligent humanoid and magically implanting it on the outer surface of a nonmagical shield. The shield becomes a magic item once the eye is implanted, whereupon the mind flayer can give the shield to a thrall or hang it on a wall in its lair. As long as the shield is on the same plane of existence as its creator, the mind flayer can see through the shield's eye, which has darkvision out to a range of 60 feet. While peering through this magical eye, the mind flayer can use its Mind Blast action as though it were standing behind the shield.
 
-If a shield of far sight is destroyed, the mind flayer that created it is blinded for `dice: 2d12|avg|noform` (`2d12`) hours.
+If a shield of far sight is destroyed, the mind flayer that created it is blinded for `dice:2d12|noform|avg` (`2d12`) hours.
 
 ### Mind Flayer Augmentations
 
@@ -2616,7 +2616,7 @@ Some mind flayer colonies augment their thralls with nonmagical gear to make the
 
 Illithids don't always provide their thralls with normal weapons, such as swords and axes. Sometimes they improve the natural capabilities of thralls by giving them new anatomy. Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.
 
-Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The claws deal slashing damage based on the creature's size: Small, `dice: 1d8|avg|noform` (`1d8`); Medium, `dice: 1d10|avg|noform` (`1d10`); Large, `dice: 1d12|avg|noform` (`1d12`); or Huge, `dice: 2d8|avg|noform` (`2d8`). The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws. Tiny and Gargantuan creatures can't be fitted with flensing claws.
+Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The claws deal slashing damage based on the creature's size: Small, `dice:1d8|noform|avg` (`1d8`); Medium, `dice:1d10|noform|avg` (`1d10`); Large, `dice:1d12|noform|avg` (`1d12`); or Huge, `dice:2d8|noform|avg` (`2d8`). The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws. Tiny and Gargantuan creatures can't be fitted with flensing claws.
 
 #### Survival Mantle
 
@@ -2765,23 +2765,23 @@ The unwritten laws that govern the status of individual orcs within a tribe are 
 
 When you're roleplaying an orc, the following tables contain possible inspiration. They suggest characteristics that an orc might possess.
 
-![[5. Mechanics/Tables/Roleplaying An Orc Orc Personality Traits.md\|Roleplaying an Orc; Orc Personality Traits]]
+![[5. Mechanics/Tables/Roleplaying An Orc Orc Personality Traits (VGM).md\|Roleplaying an Orc; Orc Personality Traits]]
 
-![[5. Mechanics/Tables/Roleplaying An Orc Orc Ideals.md\|Roleplaying an Orc; Orc Ideals]]
+![[5. Mechanics/Tables/Roleplaying An Orc Orc Ideals (VGM).md\|Roleplaying an Orc; Orc Ideals]]
 
-![[5. Mechanics/Tables/Roleplaying An Orc Orc Bonds.md\|Roleplaying an Orc; Orc Bonds]]
+![[5. Mechanics/Tables/Roleplaying An Orc Orc Bonds (VGM).md\|Roleplaying an Orc; Orc Bonds]]
 
-![[5. Mechanics/Tables/Roleplaying An Orc Orc Flaws.md\|Roleplaying an Orc; Orc Flaws]]
+![[5. Mechanics/Tables/Roleplaying An Orc Orc Flaws (VGM).md\|Roleplaying an Orc; Orc Flaws]]
 
 ### Orc Names
 
 Orc names don't always have meaning in the Orc language, and most noteworthy orcs are given epithets by their tribe mates.
 
-![[5. Mechanics/Tables/Orc Names Orc Male Names.md\|Orc Names; Orc Male Names]]
+![[5. Mechanics/Tables/Orc Names Orc Male Names (VGM).md\|Orc Names; Orc Male Names]]
 
-![[5. Mechanics/Tables/Orc Names Orc Female Names.md\|Orc Names; Orc Female Names]]
+![[5. Mechanics/Tables/Orc Names Orc Female Names (VGM).md\|Orc Names; Orc Female Names]]
 
-![[5. Mechanics/Tables/Orc Names Orc Epithets.md\|Orc Names; Orc Epithets]]
+![[5. Mechanics/Tables/Orc Names Orc Epithets (VGM).md\|Orc Names; Orc Epithets]]
 
 ### Orogs
 
@@ -2877,7 +2877,7 @@ Each orc warrior carries its personal loot from the raid in a sack. These are th
 
 The Orc Trophies table provides a selection of items that might be found in an orc's loot sack.
 
-![[5. Mechanics/Tables/Treasure Orc Trophies.md\|Treasure; Orc Trophies]]
+![[5. Mechanics/Tables/Treasure Orc Trophies (VGM).md\|Treasure; Orc Trophies]]
 
 ## Yuan-ti: Snake People
 
@@ -3046,25 +3046,25 @@ No two yuan-ti look exactly the same. Both the snakelike and the humanlike porti
 
 Use the tables below to create descriptions and other details for different Yuan-ti types.
 
-![[5. Mechanics/Tables/Physical Variations Yuan Ti Snake Body Type.md\|Physical Variations; Yuan-ti Snake Body Type]]
+![[5. Mechanics/Tables/Physical Variations Yuan Ti Snake Body Type (VGM).md\|Physical Variations; Yuan-ti Snake Body Type]]
 
-![[5. Mechanics/Tables/Physical Variations Yuan Ti Humanoid Skin Color.md\|Physical Variations; Yuan-ti Humanoid Skin Color]]
+![[5. Mechanics/Tables/Physical Variations Yuan Ti Humanoid Skin Color (VGM).md\|Physical Variations; Yuan-ti Humanoid Skin Color]]
 
-![[5. Mechanics/Tables/Physical Variations Yuan Ti Scale Color.md\|Physical Variations; Yuan-ti Scale Color]]
+![[5. Mechanics/Tables/Physical Variations Yuan Ti Scale Color (VGM).md\|Physical Variations; Yuan-ti Scale Color]]
 
-![[5. Mechanics/Tables/Physical Variations Yuan Ti Scale Pattern.md\|Physical Variations; Yuan-ti Scale Pattern]]
+![[5. Mechanics/Tables/Physical Variations Yuan Ti Scale Pattern (VGM).md\|Physical Variations; Yuan-ti Scale Pattern]]
 
-![[5. Mechanics/Tables/Physical Variations Yuan Ti Tongue Color.md\|Physical Variations; Yuan-ti Tongue Color]]
+![[5. Mechanics/Tables/Physical Variations Yuan Ti Tongue Color (VGM).md\|Physical Variations; Yuan-ti Tongue Color]]
 
-![[5. Mechanics/Tables/Physical Variations Pureblood Characteristics.md\|Physical Variations; Pureblood Characteristics]]
+![[5. Mechanics/Tables/Physical Variations Pureblood Characteristics (VGM).md\|Physical Variations; Pureblood Characteristics]]
 
-![[5. Mechanics/Tables/Physical Variations Yuan Ti Eye Color.md\|Physical Variations; Yuan-ti Eye Color]]
+![[5. Mechanics/Tables/Physical Variations Yuan Ti Eye Color (VGM).md\|Physical Variations; Yuan-ti Eye Color]]
 
-![[5. Mechanics/Tables/Physical Variations Yuan Ti Snake Head Shape.md\|Physical Variations; Yuan-ti Snake Head Shape]]
+![[5. Mechanics/Tables/Physical Variations Yuan Ti Snake Head Shape (VGM).md\|Physical Variations; Yuan-ti Snake Head Shape]]
 
-![[5. Mechanics/Tables/Physical Variations Type 2 Malison Arms.md\|Physical Variations; Type 2 Malison: Arms]]
+![[5. Mechanics/Tables/Physical Variations Type 2 Malison Arms (VGM).md\|Physical Variations; Type 2 Malison: Arms]]
 
-![[5. Mechanics/Tables/Physical Variations Type 4 Malison Lower Body.md\|Physical Variations; Type 4 Malison: Lower Body]]
+![[5. Mechanics/Tables/Physical Variations Type 4 Malison Lower Body (VGM).md\|Physical Variations; Type 4 Malison: Lower Body]]
 
 ### Unusual Abilities
 
@@ -3076,7 +3076,7 @@ You can customize a yuan-ti by giving it one or more of the following traits.
 
 ##### Acid Slime (Abomination, Anathema, or Malison Only)
 
-As a bonus action, the yuan-ti can coat its body in a slimy acid that lasts for 1 minute. A creature that touches the yuan-ti, hits it with a melee attack while within 5 feet of it, or is hit by its constrict attack takes `dice:1d10|text(5)` (`1d10`) acid damage.
+As a bonus action, the yuan-ti can coat its body in a slimy acid that lasts for 1 minute. A creature that touches the yuan-ti, hits it with a melee attack while within 5 feet of it, or is hit by its constrict attack takes `dice:1d10|noform|avg|text(5)` (`1d10`) acid damage.
 
 ##### Chameleon Skin
 
@@ -3096,7 +3096,7 @@ The following action options are restricted to certain kinds of yuan-ti.
 
 ##### Bite (Pureblood Only)
 
-Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: `dice:1d4|text(3)` (`1d4`) piercing damage plus `dice:1d6|text(3)` (`1d6`) poison damage. If the pureblood uses Multiattack, it can make two melee attacks, but can use its bite only once.
+Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: `dice:1d4|noform|avg|text(3)` (`1d4`) piercing damage plus `dice:1d6|noform|avg|text(3)` (`1d6`) poison damage. If the pureblood uses Multiattack, it can make two melee attacks, but can use its bite only once.
 
 ##### Polymorph into Snake (Abomination or Malison Only;
 
@@ -3114,13 +3114,13 @@ Recharge 6). The yuan-ti transforms a pile of sticks, arrows, or similar-sized p
 
 When you're roleplaying a yuan-ti, the following tables contain possible inspiration. They suggest characteristics that a yuan-ti might possess.
 
-![[5. Mechanics/Tables/Roleplaying A Yuan Ti Yuan Ti Personality Traits.md\|Roleplaying a Yuan-ti; Yuan-ti Personality Traits]]
+![[5. Mechanics/Tables/Roleplaying A Yuan Ti Yuan Ti Personality Traits (VGM).md\|Roleplaying a Yuan-ti; Yuan-ti Personality Traits]]
 
-![[5. Mechanics/Tables/Roleplaying A Yuan Ti Yuan Ti Ideals.md\|Roleplaying a Yuan-ti; Yuan-ti Ideals]]
+![[5. Mechanics/Tables/Roleplaying A Yuan Ti Yuan Ti Ideals (VGM).md\|Roleplaying a Yuan-ti; Yuan-ti Ideals]]
 
-![[5. Mechanics/Tables/Roleplaying A Yuan Ti Yuan Ti Bonds.md\|Roleplaying a Yuan-ti; Yuan-ti Bonds]]
+![[5. Mechanics/Tables/Roleplaying A Yuan Ti Yuan Ti Bonds (VGM).md\|Roleplaying a Yuan-ti; Yuan-ti Bonds]]
 
-![[5. Mechanics/Tables/Roleplaying A Yuan Ti Yuan Ti Flaws.md\|Roleplaying a Yuan-ti; Yuan-ti Flaws]]
+![[5. Mechanics/Tables/Roleplaying A Yuan Ti Yuan Ti Flaws (VGM).md\|Roleplaying a Yuan-ti; Yuan-ti Flaws]]
 
 ### Yuan-ti Names
 
@@ -3130,7 +3130,7 @@ Some yuan-ti add more sibilants to their birth names to create an exaggerated hi
 
 The Yuan-ti Names table provides yuan-ti birth names suitable for any campaign.
 
-![[5. Mechanics/Tables/Yuan Ti Names.md\|Yuan-ti Names]]
+![[5. Mechanics/Tables/Yuan Ti Names (VGM).md\|Yuan-ti Names]]
 
 ### Yuan-ti Cities
 
@@ -3192,8 +3192,8 @@ Yuan-ti have been controlling and manipulating lesser creatures for hundreds of 
 
 Yuan-ti employ a variety of creatures as spies and protectors. The Yuan-ti Agents table lists groups of creatures that work for the yuan-ti, representing their masters' interests. Agents of the serpent folk might roam the countryside on a specific mission or operate secretly inside a humanoid community. The Yuan-ti Protectors table includes creatures that serve as guardians either within a yuan-ti city or in a yuan-ti hideout inside a humanoid city.
 
-![[5. Mechanics/Tables/Random Yuan Ti Servants Yuan Ti Agents.md\|Random Yuan-ti Servants; Yuan-ti Agents]]
+![[5. Mechanics/Tables/Random Yuan Ti Servants Yuan Ti Agents (VGM).md\|Random Yuan-ti Servants; Yuan-ti Agents]]
 
-![[5. Mechanics/Tables/Random Yuan Ti Servants Yuan Ti Protectors.md\|Random Yuan-ti Servants; Yuan-ti Protectors]]
+![[5. Mechanics/Tables/Random Yuan Ti Servants Yuan Ti Protectors (VGM).md\|Random Yuan-ti Servants; Yuan-ti Protectors]]
 
 ![[6. Resources/Books/Volos Guide To Monsters/img/c1-10.webp#center]]

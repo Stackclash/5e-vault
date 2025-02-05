@@ -5,12 +5,24 @@ tags:
   - compendium/src/5e/phb
   - spell/class/artificer
   - spell/class/bard
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
   - spell/class/wizard
+  - spell/feat/artificer-initiate
+  - spell/feat/magic-initiate
   - spell/level/cantrip
+  - spell/optfeature/pact-of-the-tome
+  - spell/race/kobold
   - spell/school/transmutation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/circle-of-owls
+  - spell/subclass/eldritch-knight
+  - spell/subrace/elf-high
+level: cantrip
+range: false
+school: Transmutation
+time: 1 action
+duration: 1 round
+components: 'V, S, a short piece of copper wire'
 aliases:
   - Message
 ---
@@ -26,6 +38,6 @@ You point your finger toward a creature within range and whisper a message. The 
 
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn't have to follow a straight line and can travel freely around corners or through openings.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of Owls (KPDM)\|Druid (Circle of Owls)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
 
-*Source: Player's Handbook p. 259. Available in the SRD.*
+*Source: Player's Handbook p. 259. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

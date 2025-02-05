@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'forest, swamp, urban'
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -9,12 +13,11 @@ tags:
   - monster/environment/urban
   - monster/size/tiny
   - monster/type/undead
-statblock: inline
 aliases:
   - Will-o'-Wisp
 ---
-# [[5. Mechanics/Bestiary/Undead/Will O Wisp.md|Will-o'-Wisp]]
-*Source: Monster Manual p. 301, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Undead\Will O Wisp.md|Will-o'-Wisp]]
+*Source: Monster Manual p. 301, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.
 
@@ -55,10 +58,10 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 "damage_resistances": "acid; cold; fire; necrotic; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "the languages it knew in life"
 "cr": "2"
@@ -82,32 +85,14 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 - "desc": "Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d8)\
     \ lightning damage."
   "name": "Shock"
-- "desc": "The will-o'-wisp and its light magically become [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ until it attacks or uses its Consume Life, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
-    \ ends (as if concentrating on a spell)."
+- "desc": "The will-o'-wisp and its light magically become [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+    \ until it attacks or uses its Consume Life, or until its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
+    \ ends (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on\
+    \ a spell)."
   "name": "Invisibility"
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "PotA"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "BGDIA"
-- "IDRotF"
-- "CM"
-- "WBtW"
-- "CRCotN"
-- "JttRC"
-- "LoX"
-- "PSI"
-- "AATM"
-- "SatO"
-- "BMT"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/will-o-wisp.webp"
 ```

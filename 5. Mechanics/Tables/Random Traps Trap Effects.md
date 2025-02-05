@@ -35,7 +35,7 @@ aliases:
 | 53-56 | Darts shoot out of an opened chest |
 | 57-59 | A [[5. Mechanics/Bestiary/Construct/Flying Sword.md\|weapon]], [[5. Mechanics/Bestiary/Construct/Animated Armor.md\|suit of armor]], or [[5. Mechanics/Bestiary/Construct/Rug Of Smothering.md\|rug]] animates and attacks when touched (see "Animated Objects" in the Monster Manual) |
 | 60-62 | Pendulum, either bladed or weighted as a maul, swings across the room or hall |
-| 63-67 | Hidden pit opens beneath characters (25% chance chance that a [[5. Mechanics/Bestiary/Ooze/Black Pudding.md\|black pudding]] or [[5. Mechanics/Bestiary/Ooze/Gelatinous Cube.md\|gelatinous cube]] fills the bottom of the pit) |
+| 63-67 | Hidden pit opens beneath characters (25 percent chance that a [[5. Mechanics/Bestiary/Ooze/Black Pudding.md\|black pudding]] or [[5. Mechanics/Bestiary/Ooze/Gelatinous Cube.md\|gelatinous cube]] fills the bottom of the pit) |
 | 68-70 | Hidden pit floods with acid or fire |
 | 71-73 | Locking pit floods with water |
 | 74-77 | Scything blade emerges from wall or object |

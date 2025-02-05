@@ -4,11 +4,23 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
+  - spell/class/bard
+  - spell/class/sorcerer
   - spell/class/wizard
-  - spell/level/1
+  - spell/feat/artificer-initiate
+  - spell/feat/magic-initiate
+  - spell/level/1st-level
   - spell/school/conjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/chain-domain
+  - spell/subclass/eldritch-knight
+  - spell/subclass/marshwarden
+level: 1st-level
+range: false
+school: Conjuration
+time: 1 action
+duration: 1 minute
+components: 'V, S, a bit of pork rind or butter'
 aliases:
   - Grease
 ---
@@ -22,8 +34,8 @@ aliases:
 
 Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.
 
-When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].
+When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Cleric Chain Domain (GRIFFONSSADDLEBAG4)\|Cleric (Chain Domain)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Marshwarden (GRIFFONSSADDLEBAG3)\|Ranger (Marshwarden)]]
 
-*Source: Player's Handbook p. 246. Available in the SRD.*
+*Source: Player's Handbook p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -6,18 +6,20 @@ tags:
   - item/attunement/required
   - item/rarity/very-rare
   - item/tier/major
-  - item/wondrous/wondrous-item
+  - item/weapon/martial
+  - item/weapon/melee
+  - item/wondrous/generic-variant
 aliases:
   - Dancing Sword
-  - Dancing Longsword
   - Dancing Double-Bladed Scimitar
   - Dancing Greatsword
+  - Dancing Longsword
   - Dancing Rapier
-  - Dancing Shortsword
   - Dancing Scimitar
+  - Dancing Shortsword
 ---
 # Dancing Sword
-*Generic Variant, major, very rare (requires attunement)*  
+*Major, very rare (requires attunement)*  
 ![[5. Mechanics/Items/img/dancing-sword.webp#right]]  
 
 
@@ -27,4 +29,4 @@ While the sword hovers, you can use a bonus action to cause it to fly up to 30 f
 
 After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.
 
-*Source: Dungeon Master's Guide p. 161. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 161. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

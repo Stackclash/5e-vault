@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: null
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
   - monster/size/tiny
   - monster/type/beast
-statblock: inline
 aliases:
   - Bat
 ---
-# [[5. Mechanics/Bestiary/Beast/Bat.md|Bat]]
-*Source: Monster Manual p. 318, Curse of Strahd. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Bat.md|Bat]]
+*Source: Monster Manual p. 318, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Bat"
@@ -33,7 +36,7 @@ aliases:
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The bat can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]."
+- "desc": "The bat can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]."
   "name": "Echolocation"
 - "desc": "The bat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on hearing."
@@ -45,12 +48,6 @@ aliases:
 "source":
 - "MM"
 - "CoS"
-- "ToA"
-- "WDMM"
-- "IDRotF"
-- "WBtW"
-- "PSX"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Beast/token/bat.webp"
 ```
 ^statblock

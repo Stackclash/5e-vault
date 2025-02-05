@@ -3,11 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/cleric/nature-domain
+  - spell/class/bard
   - spell/class/druid
   - spell/class/ranger
-  - spell/level/4
+  - spell/level/4th-level
   - spell/school/conjuration
+  - spell/subclass/nature-domain
+level: 4th-level
+range: false
+school: Conjuration
+time: 1 bonus
+duration: 'Concentration, up to 1 minute'
+components: 'V, S'
 aliases:
   - Grasping Vine
 ---
@@ -23,6 +30,6 @@ You conjure a vine that sprouts from the ground in an unoccupied space of your c
 
 Until the spell ends, you can direct the vine to lash out at the same creature or another one as a bonus action on each of your turns.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Ranger.md\|Ranger]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]
 
 *Source: Player's Handbook p. 246*

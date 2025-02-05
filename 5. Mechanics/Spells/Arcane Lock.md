@@ -4,11 +4,19 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
+  - spell/class/bard
   - spell/class/wizard
-  - spell/level/2
+  - spell/level/2nd-level
   - spell/school/abjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+  - spell/subrace/tiefling-mammon
+level: 2nd-level
+range: false
+school: Abjuration
+time: 1 action
+duration: Until dispelled
+components: 'V, S, gold dust worth at least 25 gp, which the spell consumes'
 aliases:
   - Arcane Lock
 ---
@@ -24,6 +32,6 @@ You touch a closed door, window, gate, chest, or other entryway, and it becomes 
 
 While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
 
-*Source: Player's Handbook p. 215. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

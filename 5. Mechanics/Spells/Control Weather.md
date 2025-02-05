@@ -3,12 +3,20 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
   - spell/class/druid
-  - spell/class/sorcerer/divine-soul
   - spell/class/wizard
-  - spell/level/8
+  - spell/level/8th-level
   - spell/school/transmutation
+  - spell/subclass/circle-of-oaks
+  - spell/subclass/divine-soul
+level: 8th-level
+range: false
+school: Transmutation
+time: 10 minute
+duration: 'Concentration, up to 8 hour'
+components: 'V, S, burning incense and bits of earth and wood mixed in water'
 aliases:
   - Control Weather
 ---
@@ -60,6 +68,6 @@ When you change the weather conditions, find a current condition on the followin
 | 5 | Storm |
 ^wind
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Druid Circle Of Oaks (KPDM)\|Druid (Circle of Oaks)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 228. Available in the SRD.*
+*Source: Player's Handbook p. 228. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -5,14 +5,31 @@ tags:
   - compendium/src/5e/phb
   - spell/class/artificer
   - spell/class/bard
-  - spell/class/cleric/trickery-domain
-  - spell/class/fighter/eldritch-knight
-  - spell/class/ranger/gloom-stalker
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
   - spell/class/wizard
-  - spell/level/1
+  - spell/feat/artificer-initiate
+  - spell/feat/magic-initiate
+  - spell/feat/shadow-touched
+  - spell/feat/svirfneblin-magic
+  - spell/level/1st-level
+  - spell/optfeature/mask-of-many-faces
+  - spell/race/deep-gnome
+  - spell/race/firbolg
+  - spell/race/gnome-deep-dmg
+  - spell/race/hexblood
   - spell/school/illusion
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+  - spell/subclass/gloom-stalker
+  - spell/subclass/trickery-domain
+  - spell/subrace/tiefling-dispater
+  - spell/subrace/tiefling-glasya
+level: 1st-level
+range: false
+school: Illusion
+time: 1 action
+duration: 1 hour
+components: 'V, S'
 aliases:
   - Disguise Self
 ---
@@ -30,6 +47,6 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Trickery Domain.md\|Cleric (Trickery Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Ranger Gloom Stalker.md\|Ranger (Gloom Stalker)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Gloom Stalker (XGE)\|Ranger (Gloom Stalker)]]; [[List Spells Classes Cleric Trickery Domain\|Cleric (Trickery Domain)]]
 
-*Source: Player's Handbook p. 233. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 233. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

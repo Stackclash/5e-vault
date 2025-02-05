@@ -7,13 +7,23 @@ tags:
   - spell/class/bard
   - spell/class/cleric
   - spell/class/druid
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin/oath-of-glory
-  - spell/class/rogue/arcane-trickster
+  - spell/class/ranger
   - spell/class/sorcerer
-  - spell/class/sorcerer/divine-soul
-  - spell/level/2
+  - spell/class/wizard
+  - spell/level/2nd-level
   - spell/school/transmutation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/divine-soul
+  - spell/subclass/eldritch-knight
+  - spell/subclass/mountain-domain
+  - spell/subclass/oath-of-glory
+  - spell/subclass/the-shapechanger
+level: 2nd-level
+range: false
+school: Transmutation
+time: 1 action
+duration: 'Concentration, up to 1 hour'
+components: 'V, S, fur or a feather from a beast'
 aliases:
   - Enhance Ability
 ---
@@ -29,7 +39,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 ## Bear's Endurance
 
-The target has advantage on Constitution checks. It also gains `dice: 2d6|avg|noform` (`2d6`) temporary hit points, which are lost when the spell ends.
+The target has advantage on Constitution checks. It also gains `dice:2d6|noform|avg` (`2d6`) temporary hit points, which are lost when the spell ends.
 
 ## Bull's Strength
 
@@ -37,7 +47,7 @@ The target has advantage on Strength checks, and his or her carrying capacity do
 
 ## Cat's Grace
 
-The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].
+The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
 
 ## Eagle's Splendor
 
@@ -57,6 +67,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Glory.md\|Paladin (Oath of Glory)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Mountain Domain (KPDM)\|Cleric (Mountain Domain)]]; [[List Spells Classes Paladin Oath Of Glory (TCE)\|Paladin (Oath of Glory)]]; [[List Spells Classes Warlock The Shapechanger (GRIFFONSSADDLEBAG4)\|Warlock (The Shapechanger)]]
 
-*Source: Player's Handbook p. 237. Available in the SRD.*
+*Source: Player's Handbook p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

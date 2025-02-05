@@ -4,14 +4,26 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
+  - spell/class/bard
   - spell/class/druid
-  - spell/class/fighter/eldritch-knight
   - spell/class/ranger
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
   - spell/class/wizard
-  - spell/level/1
+  - spell/feat/artificer-initiate
+  - spell/feat/magic-initiate
+  - spell/level/1st-level
+  - spell/optfeature/otherworldly-leap
+  - spell/race/githyanki
   - spell/school/transmutation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+  - spell/subclass/mountain-domain
+level: 1st-level
+range: false
+school: Transmutation
+time: 1 action
+duration: 1 minute
+components: 'V, S, a grasshopper''s hind leg'
 aliases:
   - Jump
 ---
@@ -25,6 +37,6 @@ aliases:
 
 You touch a creature. The creature's "jump distance" is tripled until the spell ends.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Mountain Domain (KPDM)\|Cleric (Mountain Domain)]]
 
-*Source: Player's Handbook p. 254. Available in the SRD.*
+*Source: Player's Handbook p. 254. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

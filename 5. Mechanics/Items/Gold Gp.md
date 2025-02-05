@@ -3,13 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/phb
-  - item/wealth/coinage
+  - item/gear/treasure-coinage
+  - item/rarity/none
 aliases:
   - Gold (gp)
 cost: 100
 ---
 # Gold (gp)
-*Coinage*  
+*Treasure (coinage)*  
 ![[5. Mechanics/Items/img/gold-gp.webp#right]]  
 
 - **Cost**: 1 gp

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 8
+environments: 'mountain, arctic'
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/8
@@ -8,12 +12,11 @@ tags:
   - monster/environment/mountain
   - monster/size/huge
   - monster/type/giant
-statblock: inline
 aliases:
   - Frost Giant
 ---
-# [[5. Mechanics/Bestiary/Giant/Frost Giant.md|Frost Giant]]
-*Source: Monster Manual p. 155. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Giant\Frost Giant.md|Frost Giant]]
+*Source: Monster Manual p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Gigantic reavers from the freezing lands beyond civilization, frost giants are fierce, hardy warriors that survive on the spoils of their raids and pillaging. They respect only brute strength and skill in battle, demonstrating both with their scars and the grisly trophies they take from their enemies.
 
@@ -68,11 +71,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 > Some giants abandon their own gods and fall prey to demon cults, paying homage to Baphomet or Kostchtchie. To worship them or any other non-giant deity is a great sin against the ordning, and almost certain to make a giant an outcast.
 ^giant-gods
 
-> [!quote]- A quote from Captain Dwern Addlestone's partial account of the Siege of Sterngate  
+> [!quote] A quote from Captain Dwern Addlestone's partial account of the Siege of Sterngate  
 > 
 > Boulders assailed our walls and cast them down, leavin' gaps through which the giants strode, weapons in hand.
 
-> [!quote]- A quote from Elder Zelane of Istivin, recounting the Giant Wars  
+> [!quote] A quote from Elder Zelane of Istivin, recounting the Giant Wars  
 > 
 > And here is where Angerroth the barbarian fell against the giant horde. His bones are under that boulder over there.
 
@@ -116,13 +119,6 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   "name": "Rock"
 "source":
 - "MM"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "EGW"
-- "IDRotF"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Giant/token/frost-giant.webp"
 ```
 ^statblock

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 7
+environments: 'forest, urban'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/7
@@ -8,12 +12,11 @@ tags:
   - monster/environment/urban
   - monster/size/large
   - monster/type/giant
-statblock: inline
 aliases:
   - Oni
 ---
-# [[5. Mechanics/Bestiary/Giant/Oni.md|Oni]]
-*Source: Monster Manual p. 239, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Giant\Oni.md|Oni]]
+*Source: Monster Manual p. 239, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of children and adults alike, yet they are very real and always hungry. They find human babies especially delicious. Oni look like demonic ogres with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black.
 
@@ -25,7 +28,7 @@ By the light of day, an oni hides its true form with magic, gaining the trust of
 
 Oni are sometimes called ogre mages because of their innate magical ability. Though they are only distantly related to true ogres, they share the ogres' habit of joining forces with other evil creatures. An oni serves a master if doing so proves lucrative or provides it with a luxurious, well-defended home. Oni covet magic, and they work for evil wizards and hags in exchange for useful magic items.
 
-> [!quote]- A quote from Children's rhyme  
+> [!quote] A quote from Children's rhyme  
 > 
 > Lock the door, blow out the light;
 > 
@@ -103,19 +106,7 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
   "name": "Change Shape"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "WDMM"
-- "GoS"
-- "ERLW"
-- "EGW"
 - "TCE"
-- "WBtW"
-- "JttRC"
-- "KftGV"
-- "PSZ"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Giant/token/oni.webp"
 ```
 ^statblock

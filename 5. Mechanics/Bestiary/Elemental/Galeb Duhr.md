@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 6
+environments: 'mountain, hill'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/6
@@ -8,11 +12,10 @@ tags:
   - monster/environment/mountain
   - monster/size/medium
   - monster/type/elemental
-statblock: inline
 aliases:
   - Galeb Duhr
 ---
-# [[5. Mechanics/Bestiary/Elemental/Galeb Duhr.md|Galeb Duhr]]
+# [[5. Mechanics\Bestiary\Elemental\Galeb Duhr.md|Galeb Duhr]]
 *Source: Monster Manual p. 139, Tasha's Cauldron of Everything*
 
 The galeb duhr is a boulder-like creature with stumpy appendages that act as arms and legs. It has the ability to animate the rocks and boulders around it, and is thus usually encountered in rocky terrain.
@@ -48,9 +51,9 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
 "speed": "15 ft. (30 ft. when rolling, 60 ft. rolling downhill)"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 11"
 "languages": "Terran"
 "cr": "6"
@@ -61,7 +64,7 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
 - "desc": "If the galeb duhr rolls at least 20 feet straight toward a target and then\
     \ hits it with a slam attack on the same turn, the target takes an extra 7 (2d6)\
     \ bludgeoning damage. If the target is a creature, it must succeed on a DC 16\
-    \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Rolling Charge"
 "actions":
 - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6\
@@ -69,20 +72,15 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
   "name": "Slam"
 - "desc": "The galeb duhr magically animates up to two boulders it can see within\
     \ 60 feet of it. A boulder has statistics like those of a galeb duhr, except it\
-    \ has Intelligence 1 and Charisma 1, it can't be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], and it lacks this\
+    \ has Intelligence 1 and Charisma 1, it can't be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], and it lacks this\
     \ action option. A boulder remains animated as long as the galeb duhr maintains\
-    \ [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]], up to 1 minute\
-    \ (as if concentrating on a spell)."
+    \ [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]], up to 1 minute\
+    \ (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on a spell)."
   "name": "Animate Boulders (1/Day)"
 "source":
 - "MM"
-- "PotA"
-- "WDMM"
 - "TCE"
-- "WBtW"
-- "KftGV"
-- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Elemental/token/galeb-duhr.webp"
 ```
 ^statblock

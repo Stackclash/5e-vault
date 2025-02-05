@@ -34,7 +34,7 @@ aliases:
 | Lizardfolk | +2 Str, -2 Int | Hold Breath (15 min.), +3 natural armor bonus to AC, speed 30 ft., swim 30 ft., speaks Draconic |
 | Merfolk | None | Amphibious, speed 10 ft., swim 40 ft., speaks Aquan and Common |
 | Orc | +2 Str, -2 Int | Aggressive, darkvision 60 ft., speaks Common and Orc |
-| Skeleton | +2 Dex, -4 Int, -4 Cha | Vulnerable to bludgeoning damage, immune to poison damage and [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], can't be poisoned, darkvision 60 ft., can't speak but understands the languages it knew in life |
+| Skeleton | +2 Dex, -4 Int, -4 Cha | Vulnerable to bludgeoning damage, immune to poison damage and [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]], can't be poisoned, darkvision 60 ft., can't speak but understands the languages it knew in life |
 | Tiefling* | +1 Int, +2 Cha | Infernal Legacy (use challenge rating instead of level to determine spells), resistance to fire damage, darkvision 60 ft., speaks Common and Infernal |
 | Troglodyte | +2 Str, +2 Con, -4 Int, -4 Cha | Chameleon Skin, Stench, Sunlight Sensitivity, +1 natural armor bonus to AC, darkvision 60 ft., speaks Troglodyte |
 | Zombie | +1 Str, +2 Con, -6 Int, -4 Wis, -4 Cha | Undead Fortitude, immune to poison damage, can't be poisoned, darkvision 60 ft., can't speak but understands the languages it knew in life |

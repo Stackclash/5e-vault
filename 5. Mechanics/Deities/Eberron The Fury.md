@@ -2,21 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/erlw
+  - compendium/src/5e/phb
   - deity/eberron
   - domain/war
 aliases:
   - The Fury
 ---
 # The Fury
-*Source: Eberron: Rising from the Last War p. 141* 
-![[5. Mechanics/Deities/img/erlw-the-dark-six.webp#symbol\|The Dark Six]]
+*Source: Player's Handbook p. 296* 
 
-- **Alignment**: Unaligned
+- **Alignment**: Neutral Evil
 - **Category**: The Dark Six
 - **Domains**: War
 - **Pantheon**: Eberron
-- **Province**: Passion, revenge
-- **Symbol**: Winged wyrm with woman's head and arms
-
-The Fury governs both passion and revenge, rage and despair. She offers revenge to those who have been wronged, but her vengeance often leads to suffering.
+- **Symbol**: Winged wyrm with woman's head and upper body

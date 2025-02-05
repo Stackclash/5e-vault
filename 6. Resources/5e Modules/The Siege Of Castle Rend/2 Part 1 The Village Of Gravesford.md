@@ -9,7 +9,7 @@ aliases:
 # Part 1: The Village of Gravesford
 *Source: The Siege of Castle Rend, p. 104* 
 
-> [!quote]- A quote from   
+> [!quote] A quote from   
 > 
 > "We have discussed the design and function of the interlocking, interdependent parts of the machine; a system under pressure, whether a coiled spring, a rope pulled taut, or a pressurized fluid. Our Ideal Machine's functions depend on this pressure, while simultaneously, constantly, this same pressure threatens to cause everything to fly out of control. Are we not also talking about the State? Society? Even a village? What would we learn, should we take the principles of this book and apply them to a nation?"
 
@@ -84,7 +84,7 @@ The Church of St. Gaed the Confessor is one of the oldest buildings in Gravesfor
 
 The church is run by Father Belderone, a priest of St. Gaed. He is a city man from Bedegar Keep, and it's reflected in his rapid, matter-of-fact speech, but the villagers treat him as one of their own. While several priests tend to the church, Father Belderone is its only cleric. He uses [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priest]] statistics with the following changes:
 
-- He is old and growing frail. His Strength, Dexterity, and Constitution scores are all 8 (Father Belderone (`dice: d20-1|text(-1)`)).  
+- He is old and growing frail. His Strength, Dexterity, and Constitution scores are all 8 (Father Belderone (`dice:1d20-1|noform|text(-1)`)).  
 - He does not wear armor, reducing his AC to 9.  
 - By the grace of St. Gaed the Confessor, he has been granted the ability to cast [[5. Mechanics/Spells/Death Ward.md\|death ward]] once per day.  
 
@@ -190,11 +190,11 @@ Introducing Pelliton (page 142) like this is literally inviting a fight, and the
 
 Pelliton lives to inflict pain on others, and is always spoiling for a fight. If he is attacked or insulted, he laughs uproariously and shouts for his flunkies (four [[5. Mechanics/Bestiary/Humanoid/Veteran.md\|veterans]] and his squire) to join him: "If you wish to nip at my heels, *dogs*, I shall be happy to discipline you. Servants, to me!"
 
-All bystanders in the bar stand when Pelliton draws his sword, and all run for cover when Pelliton casts [[5. Mechanics/Spells/Evards Black Tentacles.md\|black tentacles]] on his first turn in combat. His underlings attack the PCs, starting with any [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] by Pelliton's magic. Once the PCs are subdued (or surrender) Pelliton sheathes his sword, spits on the ground, and leaves the bar. "Waste of time. Leave this mess for the peasants to clean up. We have orcs to hunt."
+All bystanders in the bar stand when Pelliton draws his sword, and all run for cover when Pelliton casts [[5. Mechanics/Spells/Evards Black Tentacles.md\|black tentacles]] on his first turn in combat. His underlings attack the PCs, starting with any [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by Pelliton's magic. Once the PCs are subdued (or surrender) Pelliton sheathes his sword, spits on the ground, and leaves the bar. "Waste of time. Leave this mess for the peasants to clean up. We have orcs to hunt."
 
 Pelliton leaves the bar and mounts his black destrier (a [[5. Mechanics/Bestiary/Beast/Warhorse.md\|warhorse]] named Penumbra) and rides northward. His four knights have brown coursers ([[5. Mechanics/Bestiary/Beast/Riding Horse.md\|riding horses]]) outside as well, along with fourteen days' trail rations and other riding gear in their saddlebags. If the PCs try to track Sir Pelliton, one of them must make a successful DC 22 Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check to follow his horse's tracks in the hard, dry earth. On a success, they find an abandoned camp that has a crude map of the Forest Rend, indicating the ruins of Castle Rend deep within. Pelliton's tracks away from this camp are all but untraceable, requiring a successful DC 25 Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check to follow. If the PCs trail him immediately, night falls by the time they return to Gravesford.
 
-If any of Pelliton's underlings are knocked [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]], Giselle, the innkeeper, begs the PCs not to kill Pelliton's men, for even should they best the Star Knight, the rest of the Three Roses will make an example out of the innocent townsfolk. Knowing this, Pelliton will view any hesitation as weakness and try to force the PCs into a position where they must surrender or kill him or one of his men.
+If any of Pelliton's underlings are knocked [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]], Giselle, the innkeeper, begs the PCs not to kill Pelliton's men, for even should they best the Star Knight, the rest of the Three Roses will make an example out of the innocent townsfolk. Knowing this, Pelliton will view any hesitation as weakness and try to force the PCs into a position where they must surrender or kill him or one of his men.
 
 ### Abduction in the Dead of Night
 
@@ -202,9 +202,9 @@ If any of Pelliton's underlings are knocked [[/5. Mechanics/Rules/Conditions.md#
 
 A scream and a chorus of bestial roars shatter the stillness of the night. The sounds came from the edge of town—from the edge closest to the forest. As the screams fade into silence, an explosion jolts the entire town into wakefulness, and a towering flame erupts at the southernmost tip of the village.
 
-Just before midnight, a raiding party of twenty White Tusk orcs emerged from the boughs of the Forest Rend. They moved quickly through the scrubland and forded the river on the south end of town. The bridge guard Lenore heard something moving in the tall grass, and bravely traveled half a mile south from her post to investigate. She was shot dead and her corpse was left where it fell. The orcs invaded Pinna's house and knocked her [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]], but the rear guard accidentally knocked her lamp into a rack of volatile alchemical substances while looting her house (against Bonebreaker Dorokor's orders), igniting the entire house in a violet fireball.
+Just before midnight, a raiding party of twenty White Tusk orcs emerged from the boughs of the Forest Rend. They moved quickly through the scrubland and forded the river on the south end of town. The bridge guard Lenore heard something moving in the tall grass, and bravely traveled half a mile south from her post to investigate. She was shot dead and her corpse was left where it fell. The orcs invaded Pinna's house and knocked her [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]], but the rear guard accidentally knocked her lamp into a rack of volatile alchemical substances while looting her house (against Bonebreaker Dorokor's orders), igniting the entire house in a violet fireball.
 
-If a creature is inside the house at the time of the explosion (such as if the PCs spend the night with Pinna, just in case), it must make a DC 16 Dexterity saving throw. On a failed save, it takes `dice:6d6|text(21)` (`6d6`) fire damage. A successful save halves this damage.
+If a creature is inside the house at the time of the explosion (such as if the PCs spend the night with Pinna, just in case), it must make a DC 16 Dexterity saving throw. On a failed save, it takes `dice:6d6|noform|avg|text(21)` (`6d6`) fire damage. A successful save halves this damage.
 
 The orcs abducting Pinna had already crossed the river when her house exploded. The rear guard that survived the fireball also fled. If the PCs are in the Reluctant Pig, it takes 2 minutes on foot to reach Pinna's house—by the time they arrive, the rear guard is about to ford the river, and the band of orcs carrying Pinna has already disappeared into the forest, but not without crushing undergrowth beneath their boots, creating a trail that a ranger could track with ease.
 
@@ -212,7 +212,7 @@ Unless the players made explicit plans to be awake through the night, it should 
 
 #### White Tusk Rear Guard
 
-If the PCs arrive at Pinna's shop within 10 minutes of the explosion, they get there just as the invading orcs' rear guard is about to cross the river. (Remember that it takes time for characters to don their armor, and it takes 2 minutes to reach Pinna's house from the inn.) These orcs turn and attack the PCs to buy time for their main force to flee. The rear guard is composed of 4 [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]], 1 [[5. Mechanics/Bestiary/Humanoid/White Tusk Bloodrager.md\|White Tusk bloodrager]], 1 [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut.md\|White Tusk juggernaut]], and 1 [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker.md\|White Tusk warspeaker]]. If the PCs arrive any later, the orcs have already completely disappeared into the Forest Rend.
+If the PCs arrive at Pinna's shop within 10 minutes of the explosion, they get there just as the invading orcs' rear guard is about to cross the river. (Remember that it takes time for characters to don their armor, and it takes 2 minutes to reach Pinna's house from the inn.) These orcs turn and attack the PCs to buy time for their main force to flee. The rear guard is composed of 4 [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]], 1 [[5. Mechanics/Bestiary/Humanoid/White Tusk Bloodrager (SAF).md\|White Tusk bloodrager]], 1 [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut (SAF).md\|White Tusk juggernaut]], and 1 [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker (SAF).md\|White Tusk warspeaker]]. If the PCs arrive any later, the orcs have already completely disappeared into the Forest Rend.
 
 #### Pinna's Hut
 
@@ -230,7 +230,7 @@ A few members of the militia (4 [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guard
 
 > [!note] White Tusk Main Force
 > 
-> Even if the PCs are somehow able to get to Pinna's house before any of the orcs escape, saving Pinna from abduction is no small task. The White Tusk main force is easily enough to level all of Gravesford if they so desired, and is composed of 10 [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]], 3 [[5. Mechanics/Bestiary/Humanoid/White Tusk Bloodrager.md\|White Tusk bloodragers]], 2 [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker.md\|White Tusk warspeakers]], 2 [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut.md\|White Tusk juggernauts]], and [[4. World Almanac/NPCs/Oregg Steeltwister.md\|Oregg Steeltwister]], lieutenant of the White Tusk clan. One of the juggernauts carries the captive Pinna.
+> Even if the PCs are somehow able to get to Pinna's house before any of the orcs escape, saving Pinna from abduction is no small task. The White Tusk main force is easily enough to level all of Gravesford if they so desired, and is composed of 10 [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]], 3 [[5. Mechanics/Bestiary/Humanoid/White Tusk Bloodrager (SAF).md\|White Tusk bloodragers]], 2 [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker (SAF).md\|White Tusk warspeakers]], 2 [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut (SAF).md\|White Tusk juggernauts]], and [[4. World Almanac/NPCs/Oregg Steeltwister (SAF).md\|Oregg Steeltwister]], lieutenant of the White Tusk clan. One of the juggernauts carries the captive Pinna.
 ^white-tusk-main-force
 
 ### Tracking Pinna
@@ -269,7 +269,7 @@ On the second morning after Pinna's abduction, a posse of 20 [[5. Mechanics/Best
 
 #### Steeltwister Arrives
 
-At sundown on the third day after Pinna's abduction, a horde of 20 [[5. Mechanics/Bestiary/Humanoid/White Tusk Orc.md\|White Tusk orcs]] sets out from Castle Rend for Gravesford. By nightfall, an orcish horn sounds from the forest's edge, and [[4. World Almanac/NPCs/Oregg Steeltwister.md\|Oregg Steeltwister]] (page 140) arrives with 2 [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut.md\|White Tusk juggernauts]] and over a dozen other warriors. Oregg has come to parley. His immediate goal is to establish communication with the town, tell them Pinna is alive and being held in Castle Rend. His ultimate goal is to get someone important from the town (he doesn't know the PCs don't qualify, he assumes they are Gravesford natives) to journey with him back to the forest. There, Bonebreaker Dorokor will reveal the treachery of Lord Saxton and show his claim illegitimate by producing the rightful heir to the barony.
+At sundown on the third day after Pinna's abduction, a horde of 20 [[5. Mechanics/Bestiary/Humanoid/White Tusk Orc (SAF).md\|White Tusk orcs]] sets out from Castle Rend for Gravesford. By nightfall, an orcish horn sounds from the forest's edge, and [[4. World Almanac/NPCs/Oregg Steeltwister (SAF).md\|Oregg Steeltwister]] (page 140) arrives with 2 [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut (SAF).md\|White Tusk juggernauts]] and over a dozen other warriors. Oregg has come to parley. His immediate goal is to establish communication with the town, tell them Pinna is alive and being held in Castle Rend. His ultimate goal is to get someone important from the town (he doesn't know the PCs don't qualify, he assumes they are Gravesford natives) to journey with him back to the forest. There, Bonebreaker Dorokor will reveal the treachery of Lord Saxton and show his claim illegitimate by producing the rightful heir to the barony.
 
 Oregg is prepared to fight.
 

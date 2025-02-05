@@ -6,19 +6,22 @@ tags:
   - item/attunement/required
   - item/rarity/uncommon
   - item/tier/major
-  - item/wondrous/wondrous-item
+  - item/weapon/martial
+  - item/weapon/melee
+  - item/wondrous/generic-variant
 aliases:
   - Sword of Vengeance
-  - Longsword of Vengeance
   - Double-Bladed Scimitar of Vengeance
   - Greatsword of Vengeance
+  - Longsword of Vengeance
   - Rapier of Vengeance
-  - Shortsword of Vengeance
   - Scimitar of Vengeance
+  - Shortsword of Vengeance
 ---
 # Sword of Vengeance
-*Generic Variant, major, uncommon (requires attunement)*  
+*Cursed item, major, uncommon (requires attunement)*  
 
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

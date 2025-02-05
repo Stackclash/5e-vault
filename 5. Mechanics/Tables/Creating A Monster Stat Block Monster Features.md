@@ -16,7 +16,7 @@ aliases:
 | Aggressive | [[5. Mechanics/Bestiary/Humanoid/Orc.md\|Orc]] | Increase the monster's effective per-round damage output by 2. |
 | Ambusher | [[5. Mechanics/Bestiary/Monstrosity/Doppelganger.md\|Doppelganger]] | Increase the monster's effective attack bonus by 1. |
 | Amorphous | [[5. Mechanics/Bestiary/Ooze/Black Pudding.md\|Black pudding]] | — |
-| Amphibious | [[5. Mechanics/Bestiary/Humanoid/Kuo Toa.md\|Kuo-toa]] | — |
+| Amphibious | [[5. Mechanics/Bestiary/Humanoid/Kuo (TOA).md\|Kuo-toa]] | — |
 | Angelic Weapons | [[5. Mechanics/Bestiary/Celestial/Deva.md\|Deva]] | Increase the monster's effective per-round damage by the amount noted in the trait. |
 | Antimagic Susceptibility | [[5. Mechanics/Bestiary/Construct/Flying Sword.md\|Flying sword]] | — |
 | Avoidance | [[5. Mechanics/Bestiary/Undead/Demilich.md\|Demilich]] | Increase the monster's effective AC by 1. |
@@ -44,7 +44,7 @@ aliases:
 | Flyby | [[5. Mechanics/Bestiary/Monstrosity/Peryton.md\|Peryton]] | — |
 | Frightful Presence | [[5. Mechanics/Bestiary/Dragon/Ancient Black Dragon.md\|Ancient black dragon]] | Increase the monster's effective hit points by 25% if the monster is meant to face characters of 10th level or lower. |
 | Grappler | [[5. Mechanics/Bestiary/Monstrosity/Mimic.md\|Mimic]] | — |
-| Hold Breath | [[5. Mechanics/Bestiary/Humanoid/Lizardfolk.md\|Lizardfolk]] | — |
+| Hold Breath | [[5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|Lizardfolk]] | — |
 | Horrifying Visage | [[5. Mechanics/Bestiary/Undead/Banshee.md\|Banshee]] | See Frightful Presence. |
 | Illumination | [[5. Mechanics/Bestiary/Undead/Flameskull.md\|Flameskull]] | — |
 | Illusory Appearance | [[5. Mechanics/Bestiary/Fey/Green Hag.md\|Green hag]] | — |
@@ -64,7 +64,7 @@ aliases:
 | Martial Advantage | [[5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|Hobgoblin]] | Increase the effective damage of one attack per round by the amount gained from this trait. |
 | Mimicry | [[5. Mechanics/Bestiary/Humanoid/Kenku.md\|Kenku]] | — |
 | Nimble Escape | [[5. Mechanics/Bestiary/Humanoid/Goblin.md\|Goblin]] | Increase the monster's effective AC and effective attack bonus by 4 (assuming the monster hides every round). |
-| Otherworldly Perception | [[5. Mechanics/Bestiary/Humanoid/Kuo Toa.md\|Kuo-toa]] | — |
+| Otherworldly Perception | [[5. Mechanics/Bestiary/Humanoid/Kuo (TOA).md\|Kuo-toa]] | — |
 | Pack Tactics | [[5. Mechanics/Bestiary/Humanoid/Kobold.md\|Kobold]] | Increase the monster's effective attack bonus by 1. |
 | Parry | [[5. Mechanics/Bestiary/Humanoid/Hobgoblin Warlord.md\|Hobgoblin warlord]] | Increase the monster's effective AC by 1. |
 | Possession | [[5. Mechanics/Bestiary/Undead/Ghost.md\|Ghost]] | Double the monster's effective hit points. |
@@ -81,8 +81,8 @@ aliases:
 | Relentless | [[5. Mechanics/Bestiary/Humanoid/Wereboar.md\|Wereboar]] | Increase the monster's effective hit points based on the expected challenge rating: 1-4, 7 hp: 5-10, 14 hp: 11-16, 21 hp: 17 or higher, 28 hp. |
 | Shadow Stealth | [[5. Mechanics/Bestiary/Fiend/Shadow Demon.md\|Shadow demon]] | Increase the monster's effective AC by 4. |
 | Shapechanger | [[5. Mechanics/Bestiary/Humanoid/Wererat.md\|Wererat]] | — |
-| Siege Monster | [[5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|Earth elemental]] | — |
-| Slippery | [[5. Mechanics/Bestiary/Humanoid/Kuo Toa.md\|Kuo-toa]] | — |
+| Siege Monster | [[5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|Earth elemental]] | — |
+| Slippery | [[5. Mechanics/Bestiary/Humanoid/Kuo (TOA).md\|Kuo-toa]] | — |
 | Spellcasting | [[5. Mechanics/Bestiary/Undead/Lich.md\|Lich]] | See step 13 under "Creating a Monster Stat Block." |
 | Spider Climb | [[5. Mechanics/Bestiary/Monstrosity/Ettercap.md\|Ettercap]] | — |
 | Standing Leap | [[5. Mechanics/Bestiary/Humanoid/Bullywug.md\|Bullywug]] | — |
@@ -95,7 +95,7 @@ aliases:
 | Swallow | [[5. Mechanics/Bestiary/Monstrosity/Behir.md\|Behir]] | Assume the monster swallows one creature and deals 2 rounds of acid damage to it. |
 | Teleport | [[5. Mechanics/Bestiary/Fiend/Balor.md\|Balor]] | — |
 | Terrain Camouflage | [[5. Mechanics/Bestiary/Humanoid/Bullywug.md\|Bullywug]] | — |
-| Tunneler | [[5. Mechanics/Bestiary/Monstrosity/Umber Hulk.md\|Umber hulk]] | — |
+| Tunneler | [[5. Mechanics/Bestiary/Monstrosity/Umber Hu(LK).md\|Umber hulk]] | — |
 | Turn Immunity | [[5. Mechanics/Bestiary/Undead/Revenant.md\|Revenant]] | — |
 | Turn Resistance | [[5. Mechanics/Bestiary/Undead/Lich.md\|Lich]] | — |
 | Two Heads | [[5. Mechanics/Bestiary/Giant/Ettin.md\|Ettin]] | — |

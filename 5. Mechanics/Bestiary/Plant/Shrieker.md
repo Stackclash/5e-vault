@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/plant
-statblock: inline
 aliases:
   - Shrieker
 ---
-# [[5. Mechanics/Bestiary/Plant/Shrieker.md|Shrieker]]
-*Source: Monster Manual p. 138, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Plant\Shrieker.md|Shrieker]]
+*Source: Monster Manual p. 138, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A shrieker is a human-sized mushroom that emits a piercing screech to drive off creatures that disturb it. Other creatures use the fungi as an alarm to signal the approach of prey, and various intelligent races of the Underdark cultivate shriekers on the outskirts of their communities to discourage trespassers.
 
@@ -40,8 +43,8 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - !!int "3"
 - !!int "1"
 "speed": "0 ft."
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "0"
@@ -56,9 +59,6 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
   "name": "Shriek"
 "source":
 - "MM"
-- "WDMM"
-- "GoS"
-- "PaBTSO"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Plant/token/shrieker.webp"
 ```

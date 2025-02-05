@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 13
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/13
   - monster/size/medium
   - monster/type/fiend/yugoloth
-statblock: inline
 aliases:
   - Ultroloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Ultroloth.md|Ultroloth]]
+# [[5. Mechanics\Bestiary\Fiend\Ultroloth.md|Ultroloth]]
 *Source: Monster Manual p. 314*
 
 Ultroloths command the yugoloth armies of the Blood War. An ultroloth looks like a slender gray-skinned humanoid with an elongated head. Its face bears no features except for two ovoid eyes. These eyes can become sparkling pools of light that can transfix other creatures and leave them reeling and helpless.
@@ -57,15 +60,15 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > 
 > **Summon Yugoloth (1/Day).** The yugoloth chooses what to summon and attempts a magical summoning.
 > 
-> - An arcanaloth has a 40% chance chance of summoning one arcanaloth.  
-> - A mezzoloth has a 30% chance chance of summoning one mezzoloth.  
-> - A nycaloth has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) mezzoloths or one nycaloth.  
-> - An ultroloth has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) mezzoloths, `dice: 1d4|avg|noform` (`1d4`) nycaloths, or one ultroloth.  
+> - An arcanaloth has a 40 percent chance of summoning one arcanaloth.  
+> - A mezzoloth has a 30 percent chance of summoning one mezzoloth.  
+> - A nycaloth has a 50 percent chance of summoning `dice:1d4|noform|avg` (`1d4`) mezzoloths or one nycaloth.  
+> - An ultroloth has a 50 percent chance of summoning `dice:1d6|noform|avg` (`1d6`) mezzoloths, `dice:1d4|noform|avg` (`1d4`) nycaloths, or one ultroloth.  
 > 
 > A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for l minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it
 ^variant-yugoloth-summoning
 
-> [!quote]- A quote from Shemeshka the Marauder  
+> [!quote] A quote from Shemeshka the Marauder  
 > 
 > Power. We all crave it, but only a select few of us deserve it.
 
@@ -95,8 +98,8 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 17"
 "languages": "Abyssal, Infernal, telepathy 120 ft."
 "cr": "13"
@@ -124,9 +127,9 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   "name": "Longsword"
 - "desc": "The ultroloth's eyes sparkle with opalescent light as it targets one creature\
     \ it can see within 30 feet of it. If the target can see the ultroloth, the target\
-    \ must succeed on a DC 17 Wisdom saving throw against this magic or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ until the end of the ultroloth's next turn. The [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ target is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]. If the target's\
+    \ must succeed on a DC 17 Wisdom saving throw against this magic or be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+    \ until the end of the ultroloth's next turn. The [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+    \ target is [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]. If the target's\
     \ saving throw is successful, the target is immune to the ultroloth's gaze for\
     \ the next 24 hours."
   "name": "Hypnotic Gaze"
@@ -135,10 +138,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   "name": "Teleport"
 "source":
 - "MM"
-- "WDMM"
-- "BGDIA"
-- "EGW"
-- "JttRC"
 "image": "5. Mechanics/Bestiary/Fiend/token/ultroloth.webp"
 ```
 ^statblock

@@ -9,7 +9,7 @@ aliases:
 # Chapter 1: Introduction
 *Source: Hamund's Harvesting Handbook: Volume III, p. 3* 
 
-> [!quote]- A quote from Sir Hamund Holderhek, O.B.H. (First Class), V.A., N.K.P.  
+> [!quote] A quote from Sir Hamund Holderhek, O.B.H. (First Class), V.A., N.K.P.  
 > 
 > Welcome dear reader to Hamund's Harvesting Handbook Volume 3, written by your favorite harvesting mentor: Hamund Holderhek!
 > 
@@ -21,7 +21,7 @@ aliases:
 > 
 > Good luck and good harvesting,
 
-> [!quote]-  
+> [!quote]  
 > 
 > P.S. Some of you may be wondering where I will go from here, considering the discovery of new monsters seems to have dried up recently. Well, without getting too far into it, I will mention that I have become very interested in herbalism ^[collection/Jasmine Yang; Hamund's Herbalism Handbook.json] as of late...
 > 

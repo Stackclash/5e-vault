@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: 'grassland, forest, urban, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
@@ -10,12 +14,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/celestial
-statblock: inline
 aliases:
   - Couatl
 ---
-# [[5. Mechanics/Bestiary/Celestial/Couatl.md|Couatl]]
-*Source: Monster Manual p. 43, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Celestial\Couatl.md|Couatl]]
+*Source: Monster Manual p. 43, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Couatls are benevolent serpentine beings of great intellect and insight. Their brilliantly colored wings and gentle manner speak to their celestial origins.
 
@@ -79,13 +82,13 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
 "actions":
 - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 8 (1d6\
     \ + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 24 hours.\
-    \ Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]].\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for 24 hours.\
+    \ Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]].\
     \ Another creature can use an action to shake the target awake."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one Medium or smaller creature.\
-    \ Hit: 10 (2d6 + 3) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 15). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ Hit: 10 (2d6 + 3) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+    \ (escape DC 15). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
     \ and the couatl can't constrict another target."
   "name": "Constrict"
 - "desc": "The couatl magically polymorphs into a humanoid or beast that has a challenge\
@@ -100,14 +103,6 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
   "name": "Change Shape"
 "source":
 - "MM"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "EGW"
-- "IDRotF"
-- "PSX"
-- "BMT"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Celestial/token/couatl.webp"
 ```

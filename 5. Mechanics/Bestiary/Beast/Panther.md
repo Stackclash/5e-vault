@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: 'grassland, forest, hill'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
@@ -9,12 +13,11 @@ tags:
   - monster/environment/hill
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Panther
 ---
-# [[5. Mechanics/Bestiary/Beast/Panther.md|Panther]]
-*Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Panther.md|Panther]]
+*Source: Monster Manual p. 333. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Panther"
@@ -44,8 +47,8 @@ aliases:
   "name": "Keen Smell"
 - "desc": "If the panther moves at least 20 feet straight toward a creature and then\
     \ hits it with a claw attack on the same turn, that target must succeed on a DC\
-    \ 12 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the panther\
+    \ 12 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], the panther\
     \ can make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":
@@ -57,9 +60,6 @@ aliases:
   "name": "Claw"
 "source":
 - "MM"
-- "TftYP"
-- "ToA"
-- "WDH"
 "image": "5. Mechanics/Bestiary/Beast/token/panther.webp"
 ```
 ^statblock

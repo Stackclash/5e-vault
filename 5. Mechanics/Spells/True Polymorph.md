@@ -6,8 +6,14 @@ tags:
   - spell/class/bard
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/9
+  - spell/level/9th-level
   - spell/school/transmutation
+level: 9th-level
+range: false
+school: Transmutation
+time: 1 action
+duration: 'Concentration, up to 1 hour'
+components: 'V, S, a drop of mercury, a dollop of gum arabic, and a wisp of smoke'
 aliases:
   - True Polymorph
 ---
@@ -27,7 +33,7 @@ This spell has no effect on a shapechanger or a creature with 0 hit points. An u
 
 If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target's (or its level, if the target doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the new form. It retains its alignment and personality.
 
-The target assumes the hit points of its new form, and when it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]].
+The target assumes the hit points of its new form, and when it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]].
 
 The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech unless its new form is capable of such actions.
 
@@ -45,6 +51,6 @@ If you turn a creature into an object, it transforms along with whatever it is w
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
 
-*Source: Player's Handbook p. 283. Available in the SRD.*
+*Source: Player's Handbook p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

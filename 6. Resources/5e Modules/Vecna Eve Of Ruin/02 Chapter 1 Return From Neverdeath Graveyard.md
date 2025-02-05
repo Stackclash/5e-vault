@@ -115,7 +115,7 @@ Doors throughout the area are made of heavy stone with metal hinges. The cult ke
 
 #### Lighting
 
-Areas C1–C12 are dark, and characters must have [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] or a light source to see. Cult members frequent areas C13–C26, so lanterns hung on wall hooks create bright light there.
+Areas C1–C12 are dark, and characters must have [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] or a light source to see. Cult members frequent areas C13–C26, so lanterns hung on wall hooks create bright light there.
 
 #### Vestiges of the Waterclock Guild
 
@@ -187,7 +187,7 @@ A cultist of Vecna tried to lever the harp from the pit but fell victim to the t
 
 ##### Grate Trap
 
-A character can detect the grate's trap by examining the grate and succeeding on a DC 14 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. The trap activates when more than 10 pounds of pressure is placed on the grate. Poisoned blades extend from grooves in the grate, dealing `dice:4d6|text(14)` (`4d6`) slashing damage to whatever triggered the trap, and if the target of the trap is a creature, it must succeed on a DC 14 Constitution saving throw or take `dice:4d6|text(14)` (`4d6`) poison damage. The trap resets after 1 minute.
+A character can detect the grate's trap by examining the grate and succeeding on a DC 14 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. The trap activates when more than 10 pounds of pressure is placed on the grate. Poisoned blades extend from grooves in the grate, dealing `dice:4d6|noform|avg|text(14)` (`4d6`) slashing damage to whatever triggered the trap, and if the target of the trap is a creature, it must succeed on a DC 14 Constitution saving throw or take `dice:4d6|noform|avg|text(14)` (`4d6`) poison damage. The trap resets after 1 minute.
 
 ##### Notes
 
@@ -244,7 +244,7 @@ If the characters minimized the water pressure in area C8, omit the first senten
 
 See area C11 for more information about the padlocked door.
 
-A [[5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elemental]] and two [[5. Mechanics/Bestiary/Elemental/Water Weird.md\|water weirds]] live in the 25-foot-deep fountain. These creatures are indifferent toward intruders and attack only in self-defense. Once bound to serve the Waterclock Guild, they're now free but enjoy the perpetual "rain" here. The cult bullies these Elementals, so they remain sulking under the water's surface. Determined not to stand for further intrusion, the Elementals rise to attack anyone other than cultists. The water weirds consider the water elemental their leader. If reduced to fewer than 50 hit points, the water elemental retreats to the basin's bottom with any surviving water weirds.
+A [[5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]] and two [[5. Mechanics/Bestiary/Elemental/Water Weird.md\|water weirds]] live in the 25-foot-deep fountain. These creatures are indifferent toward intruders and attack only in self-defense. Once bound to serve the Waterclock Guild, they're now free but enjoy the perpetual "rain" here. The cult bullies these Elementals, so they remain sulking under the water's surface. Determined not to stand for further intrusion, the Elementals rise to attack anyone other than cultists. The water weirds consider the water elemental their leader. If reduced to fewer than 50 hit points, the water elemental retreats to the basin's bottom with any surviving water weirds.
 
 The water elemental enjoys conversation but speaks Aquan only. Characters who are able to communicate with the water elemental can learn the following from it:
 
@@ -299,7 +299,7 @@ One cog on the north wall doesn't connect to anything else on the wall around it
 
 The creature is a [[5. Mechanics/Bestiary/Elemental/Marid.md\|marid]] named Shanzezim. The marid was bound by the Waterclock Guild and can't leave the crypts belonging to that organization, even though Shanzezim believes the Waterclock Guild has been defunct for years. Not quite ready to test the binding to make an escape, the marid spends time here trying to reassemble one of the Waterclock Guild's most intricate clocks.
 
-If the [[5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elemental]] in area C7 fled here, it informed Shanzezim about intruders in the area, so the marid attacks right away to drive off the characters. Otherwise, the marid asks the characters what they want. If a fight breaks out, the marid surrenders if reduced to fewer than 100 hit points or if the characters insist that they aren't with the cult.
+If the [[5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]] in area C7 fled here, it informed Shanzezim about intruders in the area, so the marid attacks right away to drive off the characters. Otherwise, the marid asks the characters what they want. If a fight breaks out, the marid surrenders if reduced to fewer than 100 hit points or if the characters insist that they aren't with the cult.
 
 ##### Shanzezim's Lore
 
@@ -320,7 +320,7 @@ The clock parts include a gold-colored flywheel that isn't a part of the clock S
 
 #### C11: Umberto's Cell
 
-This room's only door is padlocked from the outside with a new, sturdy lock. As an action, a character with thieves' tools can try to use them to open the lock, doing so with a successful DC 18 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check. The cult's four mages (in areas C14, C16, and C26) each carry a key that unlocks it. If the characters are friendly with the [[5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elemental]] (see area C7) or Shanzezim (see area C10), either is happy to flow into the crack around the door and burst it open from the inside, much to the surprise of this room's occupant, Umberto Noblin.
+This room's only door is padlocked from the outside with a new, sturdy lock. As an action, a character with thieves' tools can try to use them to open the lock, doing so with a successful DC 18 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check. The cult's four mages (in areas C14, C16, and C26) each carry a key that unlocks it. If the characters are friendly with the [[5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]] (see area C7) or Shanzezim (see area C10), either is happy to flow into the crack around the door and burst it open from the inside, much to the surprise of this room's occupant, Umberto Noblin.
 
 > [!readaloud] 
 > 
@@ -386,7 +386,7 @@ Loud noise here rouses the two [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mages]]
 
 ##### Unholy Basin
 
-The cultists desecrated the basin by placing iconography of Vecna above it. Creatures that aren't devotees of Vecna that drink from the basin must succeed on a DC 17 Constitution saving throw or have the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] condition for 1 hour. Cultists who suspect a lack of true devotion from their compatriots challenge each other to drink from the basin to prove their faith. If the characters come in disguise as devotees of Vecna, the cultists demand that they prove their faith by taking a drink.
+The cultists desecrated the basin by placing iconography of Vecna above it. Creatures that aren't devotees of Vecna that drink from the basin must succeed on a DC 17 Constitution saving throw or have the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition for 1 hour. Cultists who suspect a lack of true devotion from their compatriots challenge each other to drink from the basin to prove their faith. If the characters come in disguise as devotees of Vecna, the cultists demand that they prove their faith by taking a drink.
 
 #### C15: Kitchen
 
@@ -435,7 +435,7 @@ One shelf swings back to reveal a secret passage to area C19. A character who se
 
 ##### Treasure
 
-The collection of sinister books, many of which are duplicates, includes a few valuable tomes. A book describing the [[5. Mechanics/Items/Eye Of Vecna.md\|Eye of Vecna]] and [[5. Mechanics/Items/Hand Of Vecna.md\|Hand of Vecna]] is a masterpiece of writing and artistic illumination worth 450 gp. A book of nonsensical poetry titled Quite Good Verse has a gold-plated cover and is worth 200 gp. A book about Neverwinter's history contains a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Greater Invisibility.md\|Greater Invisibility]] and a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Major Image.md\|Major Image]] folded in its pages. The characters can find these treasures with 10 minutes of dedicated searching.
+The collection of sinister books, many of which are duplicates, includes a few valuable tomes. A book describing the [[5. Mechanics/Items/Eye Of Vecna.md\|Eye of Vecna]] and [[5. Mechanics/Items/Hand Of Vecna.md\|Hand of Vecna]] is a masterpiece of writing and artistic illumination worth 450 gp. A book of nonsensical poetry titled Quite Good Verse has a gold-plated cover and is worth 200 gp. A book about Neverwinter's history contains a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Greater Invisibility.md\|Greater Invisibility]] and a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Major Image.md\|Major Image]] folded in its pages. The characters can find these treasures with 10 minutes of dedicated searching.
 
 #### C18: Vacant Cell
 
@@ -519,7 +519,7 @@ The north wall of this disgusting room swings aside when a particular stone is p
 > A shuffling cultist bearing a vacant expression moves through the corridor. Several narrow doorways lead off this long hall.
 ^087
 
-The Vecnan cult leader, Jerot Galgin, used a dreadful ritual to drain the cultist of her knowledge and vitality. This cultist, as well as other people whose secrets the cult have sacrificed to Vecna, has the game statistics of a [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]]. The cultist is a Humanoid rather than Undead and isn't immune to poison damage or the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] condition. She is dressed like the other cult members and doesn't attack anyone dressed like cultists.
+The Vecnan cult leader, Jerot Galgin, used a dreadful ritual to drain the cultist of her knowledge and vitality. This cultist, as well as other people whose secrets the cult have sacrificed to Vecna, has the game statistics of a [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]]. The cultist is a Humanoid rather than Undead and isn't immune to poison damage or the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition. She is dressed like the other cult members and doesn't attack anyone dressed like cultists.
 
 ##### Made an Example
 
@@ -543,7 +543,7 @@ These four rooms are empty.
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/018-01-009-jerot-galgin.webp#center\|Jerot Galgin]]
 
-The cult's leader is a neutral evil, human [[5. Mechanics/Bestiary/Humanoid/Necromancer Wizard.md\|necromancer wizard]] (see appendix A) named Jerot Galgin. A loyal [[5. Mechanics/Bestiary/Aberration/Nothic.md\|nothic]] assistant named Maszundrin never leaves Jerot's side. A devotee of Vecna, Maszundrin learned Common while lurking in the catacombs for decades and considers the cultists vital servants of the lich-god.
+The cult's leader is a neutral evil, human [[5. Mechanics/Bestiary/Humanoid/Necromancer Wizard (MPMM).md\|necromancer wizard]] (see appendix A) named Jerot Galgin. A loyal [[5. Mechanics/Bestiary/Aberration/Nothic.md\|nothic]] assistant named Maszundrin never leaves Jerot's side. A devotee of Vecna, Maszundrin learned Common while lurking in the catacombs for decades and considers the cultists vital servants of the lich-god.
 
 Jerot is an aristocrat who has lived his entire life in Neverwinter. He has built his deep faith in Vecna and vast necromantic knowledge over many years, right under the noses of his peers. He's engaging in this current research while his friends and family believe him to be on an extended trip to Waterdeep. Jerot considers his secret life as a cult leader, or the "Thought of Vecna," to be yet another way to honor his evil patron.
 
@@ -778,7 +778,7 @@ Newmy rests in a burial nook large enough to hold the corpse of a Medium creatur
 > Two stone coffins in this room have been broken open, littering the floor with rubble and dust. A creature with too many arms and spikes in place of hands taps at the room's walls.
 ^0b4
 
-The Dolindar siblings buried here were warped into two [[5. Mechanics/Bestiary/Monstrosity/Lost Sorrowsworn.md\|lost sorrowsworn]] (see appendix A). A visible sorrowsworn shrieks in rage and attacks anyone she can see. A second sorrowsworn is resting inside one of the broken coffins, initially out of sight but quick to join his sibling in a fight. The sorrowsworn fight until destroyed.
+The Dolindar siblings buried here were warped into two [[5. Mechanics/Bestiary/Monstrosity/Lost Sorrowsworn (MPMM).md\|lost sorrowsworn]] (see appendix A). A visible sorrowsworn shrieks in rage and attacks anyone she can see. A second sorrowsworn is resting inside one of the broken coffins, initially out of sight but quick to join his sibling in a fight. The sorrowsworn fight until destroyed.
 
 ##### Treasure
 
@@ -823,7 +823,7 @@ The door is sealed with a puzzle that requires pushing the right letter tiles in
 
 **E** in RETURN
 
-If the five words sink into the wall in the wrong order, or if the wrong letters are used to push them in, all five words reset with a wave of painful loneliness. Creatures in the room must make a DC 16 Charisma saving throw, taking `dice:4d10|text(22)` (`4d10`) psychic damage on a failed save or half as much damage on a successful one. If the characters have a hard time figuring out this puzzle, Eldon gives them hints. Eldon stays at a safe distance from the trap and doesn't take damage if it's triggered.
+If the five words sink into the wall in the wrong order, or if the wrong letters are used to push them in, all five words reset with a wave of painful loneliness. Creatures in the room must make a DC 16 Charisma saving throw, taking `dice:4d10|noform|avg|text(22)` (`4d10`) psychic damage on a failed save or half as much damage on a successful one. If the characters have a hard time figuring out this puzzle, Eldon gives them hints. Eldon stays at a safe distance from the trap and doesn't take damage if it's triggered.
 
 The first time a character pushes the tiles incorrectly, they see a small mechanism below the phrase "NO WORLD TO RETURN." This mechanism is a lock. As an action, a character with thieves' tools can use them to try to pick the lock, doing so with a successful DC 16 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check. Picking the lock has the same effect as solving the puzzle, granting access to area B6.
 
@@ -836,11 +836,11 @@ The first time a character pushes the tiles incorrectly, they see a small mechan
 > On the far side of this room rests a stone coffin. Between the door and the coffin, the floor is studded with a sharp metal blades. A person-shaped figure with elongated arms lurks near the coffin.
 ^0bc
 
-Isolation warped the matriarch of the Dolindar family, Kevetta, into a [[5. Mechanics/Bestiary/Monstrosity/Lonely Sorrowsworn.md\|lonely sorrowsworn]] (see appendix A). She remains near her coffin and uses her harpoon arms to attack anyone who enters the room. She fights until destroyed but doesn't pursue foes who flee.
+Isolation warped the matriarch of the Dolindar family, Kevetta, into a [[5. Mechanics/Bestiary/Monstrosity/Lonely Sorrowsworn (MPMM).md\|lonely sorrowsworn]] (see appendix A). She remains near her coffin and uses her harpoon arms to attack anyone who enters the room. She fights until destroyed but doesn't pursue foes who flee.
 
 ##### Blades
 
-The blades on the floor are "difficult terrain". When a creature moves into or through the blades on its turn, it takes `dice:2d4|text(5)` (`2d4`) slashing damage for every 5 feet it travels. A character can use an action to pull a lever behind the stone coffin to cause the blades to retract into the floor or to raise them again.
+The blades on the floor are "difficult terrain". When a creature moves into or through the blades on its turn, it takes `dice:2d4|noform|avg|text(5)` (`2d4`) slashing damage for every 5 feet it travels. A character can use an action to pull a lever behind the stone coffin to cause the blades to retract into the floor or to raise them again.
 
 ##### In the Coffin
 

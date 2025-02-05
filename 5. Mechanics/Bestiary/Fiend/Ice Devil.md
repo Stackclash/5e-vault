@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 14
+environments: null
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/14
   - monster/size/large
   - monster/type/fiend/devil
-statblock: inline
 aliases:
   - Ice Devil
 ---
-# [[5. Mechanics/Bestiary/Fiend/Ice Devil.md|Ice Devil]]
-*Source: Monster Manual p. 75, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Fiend\Ice Devil.md|Ice Devil]]
+*Source: Monster Manual p. 75, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Found most commonly on the cold layers of Stygia and Cania, ice devils serve as commanders of the infernal armies of the Nine Hells, tormenting lesser devils as an outlet for their anger and resentment. Coveting the power of their pit fiend superiors, ice devils work ceaselessly toward promotion, slaughtering the enemies of the Nine Hells and claiming as many souls as they can for their archdevil masters.
 
@@ -23,7 +26,7 @@ Resembling a giant bipedal insect, an ice devil has clawed hands and feet, power
 > 
 > **Multiattack.** The devil makes two attacks: one with its spear and one with its tail.
 > 
-> **Ice Spear.** *Melee Weapon Attack:* `dice: d20+10` (`+10`) to hit, reach 10 ft., one target. *Hit:* `dice:2d8 + 5|text(14)` (`2d8 + 5`) piercing damage + `dice:3d6|text(10)` (`3d6`) cold damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw, or for 1 minute, its speed is reduced by 10 feet; it can take either an action or a bonus action on each of its turns, not both; and it can't take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+> **Ice Spear.** *Melee Weapon Attack:* `dice:1d20+10|noform|text(+10)` to hit, reach 10 ft., one target. *Hit:* `dice:2d8+5|noform|avg|text(14)` (`2d8 + 5`) piercing damage + `dice:3d6|noform|avg|text(10)` (`3d6`) cold damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw, or for 1 minute, its speed is reduced by 10 feet; it can take either an action or a bonus action on each of its turns, not both; and it can't take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ^variant-ice-devil-spear
 
 ## Devils
@@ -122,7 +125,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -135,13 +138,13 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > **Summon Devil (1/Day).** The devil chooses what to summon and attempts a magical summoning.
 > 
-> - A barbed devil has a 30% chance chance of summoning one barbed devil.  
-> - A bearded devil has a 30% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg|noform` (`3d6`) spined devils, `dice: 1d6|avg|noform` (`1d6`) bearded devils, or one erinyes.  
-> - A horned devil has a 30% chance chance of summoning one horned devil.  
-> - An ice devil has a 60% chance chance of summoning one ice devil.  
-> - A pit fiend summons `dice: 2d4|avg|noform` (`2d4`) bearded devils, `dice: 1d4|avg|noform` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A barbed devil has a 30 percent chance of summoning one barbed devil.  
+> - A bearded devil has a 30 percent chance of summoning one bearded devil.  
+> - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|avg` (`3d6`) spined devils, `dice:1d6|noform|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A horned devil has a 30 percent chance of summoning one horned devil.  
+> - An ice devil has a 60 percent chance of summoning one ice devil.  
+> - A pit fiend summons `dice:2d4|noform|avg` (`2d4`) bearded devils, `dice:1d4|noform|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -172,7 +175,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "damage_immunities": "fire, poison, cold"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 12"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "14"
@@ -200,10 +203,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \ 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.\n\nWhen\
     \ the wall appears, each creature in its space is pushed out of it by the shortest\
     \ route. The creature chooses which side of the wall to end up on, unless the\
-    \ creature is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
+    \ creature is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]].\
     \ The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold\
     \ damage on a failed save, or half as much damage on a successful one.\n\nThe\
-    \ wall lasts for 1 minute or until the devil is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ wall lasts for 1 minute or until the devil is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
     \ or dies. The wall can be damaged and breached; each 10-foot section has AC 5,\
     \ 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic,\
     \ poison, and psychic damage. If a section is destroyed, it leaves behind a sheet\
@@ -215,9 +218,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   "name": "Wall of Ice (Recharge 6)"
 "source":
 - "MM"
-- "BGDIA"
 - "TCE"
-- "SatO"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/ice-devil.webp"
 ```

@@ -11,6 +11,36 @@ aliases:
 *[[Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Player's Handbook p. 119*  
 
+> [!tldr] Class and Feature Progression
+> 
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='3'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#School%20of%20Transmutation%20(Level%202)'>School of Transmutation</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Transmuter's%20Stone%20(Level%206)'>Transmuter's Stone</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Shapechanger%20(Level%2010)'>Shapechanger</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Master%20Transmuter%20(Level%2014)'>Master Transmuter</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> </tbody></table>
+^class-progession
+
 
 ## Class Features
 
@@ -26,7 +56,7 @@ Beginning when you select this school at 2nd level, the gold and time you must s
 
 ### Minor Alchemy (Level 2)
 
-Starting at 2nd level when you select this school, you can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] (as if you were concentrating on a spell), the material reverts to its original substance.
+Starting at 2nd level when you select this school, you can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] (as if you were [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentrating]] on a spell), the material reverts to its original substance.
 
 ### Transmuter's Stone (Level 6)
 
@@ -54,4 +84,4 @@ Starting at 14th level, you can use your action to consume the reserve of transm
 - **Major Transformation.** You can transmute one nonmagical object—no larger than a 5-foot cube—into another nonmagical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.  
 - **Panacea.** You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter's stone. The creature also regains all its hit points.  
 - **Restore Life.** You cast the [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] spell on a creature you touch with the transmuter's stone, without expending a spell slot or needing to have the spell in your spellbook.  
-- **Restore Youth.** You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by `dice: 3d10|avg|noform` (`3d10`) years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.
+- **Restore Youth.** You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by `dice:3d10|noform|avg` (`3d10`) years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.

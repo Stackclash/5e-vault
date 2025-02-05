@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 13
+environments: urban
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/13
   - monster/environment/urban
   - monster/size/medium
   - monster/type/fiend
-statblock: inline
 aliases:
   - Rakshasa
 ---
-# [[5. Mechanics/Bestiary/Fiend/Rakshasa.md|Rakshasa]]
-*Source: Monster Manual p. 257, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Fiend\Rakshasa.md|Rakshasa]]
+*Source: Monster Manual p. 257, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The rakshasa employs delicacy and misdirection in its pursuit of dominion over others. Few creatures ever see the fiend in its true form, for it can take on any guise it wants, although it prefers to masquerade as someone powerful or influential: a noble, cardinal, or rich merchant, for example. A rakshasa's true form combines the features of a human and a tiger, with one noteworthy deformity: its palms are where the backs of the hands would be on a human.
 
@@ -28,7 +31,7 @@ When the rakshasa is reborn, it has all the memories and knowledge of its former
 
 Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 
-> [!quote]- A quote from Rakshasa maxim  
+> [!quote] A quote from Rakshasa maxim  
 > 
 > Slay me once, shame on you.
 > 
@@ -88,12 +91,7 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
   "name": "Claw"
 "source":
 - "MM"
-- "TftYP"
-- "WDMM"
-- "GoS"
-- "ERLW"
 - "TCE"
-- "CM"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/rakshasa.webp"
 ```

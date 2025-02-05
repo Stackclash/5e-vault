@@ -3,11 +3,20 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
+  - spell/class/bard
   - spell/class/wizard
-  - spell/level/2
+  - spell/level/2nd-level
   - spell/school/illusion
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+  - spell/subclass/fey-soul
+  - spell/subclass/oath-of-the-spelldrinker
+level: 2nd-level
+range: false
+school: Illusion
+time: 1 action
+duration: 24 hour
+components: 'V, S, a small square of silk'
 aliases:
   - Nystul's Magic Aura
 ---
@@ -33,6 +42,6 @@ You change the way the target appears to spells and magical effects that detect 
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Sorcerer Fey Soul (GRIFFONSSADDLEBAG3)\|Sorcerer (Fey Soul)]]; [[List Spells Classes Paladin Oath Of The Spelldrinker (GRIFFONSSADDLEBAG2)\|Paladin (Oath of the Spelldrinker)]]
 
-*Source: Player's Handbook p. 263. Available in the SRD (as 'Arcanist's Magic Aura').*
+*Source: Player's Handbook p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Arcanist's Magic Aura")*

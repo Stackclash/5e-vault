@@ -3,13 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/dmg
-  - item/wealth/gemstone
+  - item/gear/treasure-gemstone
+  - item/rarity/none
 aliases:
   - Emerald
 cost: 100000
 ---
 # Emerald
-*Gemstone*  
+*Treasure (gemstone)*  
 
 - **Cost**: 1,000 gp
 

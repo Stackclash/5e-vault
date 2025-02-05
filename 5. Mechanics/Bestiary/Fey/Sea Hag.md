@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'underwater, coastal'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -8,12 +12,11 @@ tags:
   - monster/environment/underwater
   - monster/size/medium
   - monster/type/fey
-statblock: inline
 aliases:
   - Sea Hag
 ---
-# [[5. Mechanics/Bestiary/Fey/Sea Hag.md|Sea Hag]]
-*Source: Monster Manual p. 179. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Fey\Sea Hag.md|Sea Hag]]
+*Source: Monster Manual p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Sea hags live in dismal and polluted underwater lairs, surrounded by merrow and other aquatic monsters.
 
@@ -84,9 +87,9 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10|avg|noform` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice:3d10|noform|avg` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] for 24 hours.
 > 
-> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
+> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
 
 ```statblock
@@ -114,21 +117,22 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
   "name": "Amphibious"
 - "desc": "Any humanoid that starts its turn within 30 feet of the hag and can see\
     \ the hag's true form must make a DC 11 Wisdom saving throw. On a failed save,\
-    \ the creature is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] for\
+    \ the creature is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] for\
     \ 1 minute. A creature can repeat the saving throw at the end of each of its turns,\
     \ with disadvantage if the hag is within line of sight, ending the effect on itself\
     \ on a success. If a creature's saving throw is successful or the effect ends\
     \ for it, the creature is immune to the hag's Horrific Appearance for the next\
-    \ 24 hours.\n\nUnless the target is surprised or the revelation of the hag's true\
-    \ form is sudden, the target can avert its eyes and avoid making the initial saving\
-    \ throw. Until the start of its next turn, a creature that averts its eyes has\
-    \ disadvantage on attack rolls against the hag."
+    \ 24 hours.\n\nUnless the target is [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]]\
+    \ or the revelation of the hag's true form is sudden, the target can avert its\
+    \ eyes and avoid making the initial saving throw. Until the start of its next\
+    \ turn, a creature that averts its eyes has disadvantage on attack rolls against\
+    \ the hag."
   "name": "Horrific Appearance"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
     \ + 3) slashing damage."
   "name": "Claws"
-- "desc": "The hag targets one [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+- "desc": "The hag targets one [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ creature she can see within 30 feet of her. If the target can see the hag, it\
     \ must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0\
     \ hit points."
@@ -186,7 +190,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
   "name": ""
 - "desc": "- Birds, rodents, snakes, spiders, or toads (or some other creatures appropriate\
     \ to the hag) are found in great profusion.  \n- Beasts that have an Intelligence\
-    \ score of 2 or lower are [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by\
+    \ score of 2 or lower are [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] by\
     \ the hag and directed to be aggressive toward intruders in the area.  \n- Strange\
     \ carved figurines, twig fetishes, or rag dolls magically appear in trees.  "
   "name": ""
@@ -202,18 +206,6 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
   "name": ""
 "source":
 - "MM"
-- "PotA"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "SLW"
-- "MOT"
-- "IDRotF"
-- "JttRC"
-- "SatO"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Fey/token/sea-hag.webp"
 ```
 ^statblock

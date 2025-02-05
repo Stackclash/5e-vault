@@ -8,7 +8,7 @@ aliases:
   - Folk Hero
 ---
 # Folk Hero
-*Source: Player's Handbook p. 131. Available in the Basic Rules.*  
+*Source: Player's Handbook p. 131. Available in the Basic Rules (2014)*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]], [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]  
 - **Tool Proficiencies.** One type of artisan's tools, vehicles (land)  

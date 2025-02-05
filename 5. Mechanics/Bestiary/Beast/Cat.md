@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: 'grassland, forest, urban, desert'
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
@@ -10,12 +14,11 @@ tags:
   - monster/environment/urban
   - monster/size/tiny
   - monster/type/beast
-statblock: inline
 aliases:
   - Cat
 ---
-# [[5. Mechanics/Bestiary/Beast/Cat.md|Cat]]
-*Source: Monster Manual p. 320, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Cat.md|Cat]]
+*Source: Monster Manual p. 320, Curse of Strahd, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Cat"
@@ -50,17 +53,7 @@ aliases:
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "SKT"
-- "ToA"
-- "WDH"
-- "IMR"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "WBtW"
-- "JttRC"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Beast/token/cat.webp"
 ```
 ^statblock

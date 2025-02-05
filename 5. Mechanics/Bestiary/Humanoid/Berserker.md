@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'coastal, mountain, hill, arctic, forest, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -12,12 +16,11 @@ tags:
   - monster/environment/mountain
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Berserker
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Berserker.md|Berserker]]
-*Source: Monster Manual p. 344, Curse of Strahd. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Humanoid\Berserker.md|Berserker]]
+*Source: Monster Manual p. 344, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it.
 
@@ -54,24 +57,6 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "PotA"
-- "SKT"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SLW"
-- "EGW"
-- "MOT"
-- "IDRotF"
-- "CM"
-- "CRCotN"
-- "PaBTSO"
-- "ToFW"
-- "BMT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Humanoid/token/berserker.webp"
 ```
 ^statblock

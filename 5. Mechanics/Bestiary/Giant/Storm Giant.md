@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 13
+environments: 'coastal, underwater'
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/13
@@ -8,12 +12,11 @@ tags:
   - monster/environment/underwater
   - monster/size/huge
   - monster/type/giant
-statblock: inline
 aliases:
   - Storm Giant
 ---
-# [[5. Mechanics/Bestiary/Giant/Storm Giant.md|Storm Giant]]
-*Source: Monster Manual p. 156. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Giant\Storm Giant.md|Storm Giant]]
+*Source: Monster Manual p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Storm giants are contemplative seers that live in places far removed from mortal civilization. Most have pale purple-gray skin and hair, and glittering emerald eyes.
 
@@ -66,11 +69,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 > Some giants abandon their own gods and fall prey to demon cults, paying homage to Baphomet or Kostchtchie. To worship them or any other non-giant deity is a great sin against the ordning, and almost certain to make a giant an outcast.
 ^giant-gods
 
-> [!quote]- A quote from Captain Dwern Addlestone's partial account of the Siege of Sterngate  
+> [!quote] A quote from Captain Dwern Addlestone's partial account of the Siege of Sterngate  
 > 
 > Boulders assailed our walls and cast them down, leavin' gaps through which the giants strode, weapons in hand.
 
-> [!quote]- A quote from Elder Zelane of Istivin, recounting the Giant Wars  
+> [!quote] A quote from Elder Zelane of Istivin, recounting the Giant Wars  
 > 
 > And here is where Angerroth the barbarian fell against the giant horde. His bones are under that boulder over there.
 
@@ -133,12 +136,6 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   "name": "Lightning Strike (Recharge 5-6)"
 "source":
 - "MM"
-- "SKT"
-- "TftYP"
-- "GoS"
-- "MOT"
-- "JttRC"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Giant/token/storm-giant.webp"
 ```
 ^statblock

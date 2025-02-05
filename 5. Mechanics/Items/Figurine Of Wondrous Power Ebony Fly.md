@@ -5,12 +5,11 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/rare
   - item/tier/major
-  - item/wondrous
 aliases:
   - 'Figurine of Wondrous Power, Ebony Fly'
 ---
 # Figurine of Wondrous Power, Ebony Fly
-*Wondrous Item, major, rare*  
+*Wondrous item, major, rare*  
 
 
 A figurine of wondrous power is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.
@@ -21,6 +20,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Ebony Fly
 
-This ebony statuette is carved in the likeness of a horsefly. It can become a [[5. Mechanics/Bestiary/Beast/Giant Fly.md\|giant fly]] for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
+This ebony statuette is carved in the likeness of a horsefly. It can become a [[5. Mechanics/Bestiary/Beast/Giant Fly (DMG).md\|giant fly]] for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
 
-*Source: Dungeon Master's Guide p. 169. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 169. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

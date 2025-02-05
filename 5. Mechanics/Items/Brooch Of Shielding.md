@@ -6,15 +6,14 @@ tags:
   - item/attunement/required
   - item/rarity/uncommon
   - item/tier/major
-  - item/wondrous
 aliases:
   - Brooch of Shielding
 ---
 # Brooch of Shielding
-*Wondrous Item, major, uncommon (requires attunement)*  
+*Wondrous item, major, uncommon (requires attunement)*  
 ![[5. Mechanics/Items/img/brooch-of-shielding.webp#right]]  
 
 
 While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the [[5. Mechanics/Spells/Magic Missile.md\|magic missile]] spell.
 
-*Source: Dungeon Master's Guide p. 156. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

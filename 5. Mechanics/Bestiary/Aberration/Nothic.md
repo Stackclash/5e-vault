@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/aberration
-statblock: inline
 aliases:
   - Nothic
 ---
-# [[5. Mechanics/Bestiary/Aberration/Nothic.md|Nothic]]
-*Source: Monster Manual p. 236, Curse of Strahd, Vecna: Eve of Ruin. Available in the Basic Rules.*
+# [[5. Mechanics\Bestiary\Aberration\Nothic.md|Nothic]]
+*Source: Monster Manual p. 236, Curse of Strahd, Vecna: Eve of Ruin. Available in the Basic Rules (2014)*
 
 A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
 
@@ -71,25 +74,11 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
     \ must contest its Charisma ([[/5. Mechanics/Rules/Skills.md#Deception|Deception]])\
     \ check against the nothic's Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
     \ check. If the nothic wins, it magically learns one fact or secret about the\
-    \ target. The target automatically wins if it is immune to being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]."
+    \ target. The target automatically wins if it is immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]."
   "name": "Weird Insight"
 "source":
 - "MM"
 - "CoS"
-- "LMoP"
-- "PotA"
-- "ToA"
-- "WDMM"
-- "BGDIA"
-- "RMBRE"
-- "EGW"
-- "MOT"
-- "IDRotF"
-- "JttRC"
-- "KftGV"
-- "PaBTSO"
-- "ToFW"
-- "BMT"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Aberration/token/nothic.webp"
 ```

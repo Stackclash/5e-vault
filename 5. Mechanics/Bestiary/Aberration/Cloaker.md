@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 8
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/8
   - monster/environment/underdark
   - monster/size/large
   - monster/type/aberration
-statblock: inline
 aliases:
   - Cloaker
 ---
-# [[5. Mechanics/Bestiary/Aberration/Cloaker.md|Cloaker]]
-*Source: Monster Manual p. 41, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Aberration\Cloaker.md|Cloaker]]
+*Source: Monster Manual p. 41, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Cloakers earned their names for the resemblance they bear to dark leathery cloaks. Lurking in remote dungeons and caves, these stealthy predators wait to slay lone or injured prey stumbling through the darkness.
 
@@ -75,7 +78,7 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
 - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 10\
     \ (2d6 + 3) piercing damage, and if the target is Large or smaller, the cloaker\
     \ attaches to it. If the cloaker has advantage against the target, the cloaker\
-    \ attaches to the target's head, and the target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ attaches to the target's head, and the target is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
     \ and unable to breathe while the cloaker is attached. While attached, the cloaker\
     \ can make this attack only against the target and has advantage on the attack\
     \ roll. The cloaker can detach itself by spending 5 feet of its movement. A creature,\
@@ -87,7 +90,7 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
   "name": "Tail"
 - "desc": "Each creature within 60 feet of the cloaker that can hear its moan and\
     \ that isn't an aberration must succeed on a DC 13 Wisdom saving throw or become\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] until the end of the\
+    \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] until the end of the\
     \ cloaker's next turn. If a creature's saving throw is successful, the creature\
     \ is immune to the cloaker's moan for the next 24 hours."
   "name": "Moan"
@@ -105,14 +108,6 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
   "name": "Phantasms (Recharges after a Short or Long Rest)"
 "source":
 - "MM"
-- "PotA"
-- "WDMM"
-- "EGW"
-- "CRCotN"
-- "JttRC"
-- "KftGV"
-- "PaBTSO"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Aberration/token/cloaker.webp"
 ```

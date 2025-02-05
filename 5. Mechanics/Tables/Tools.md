@@ -46,7 +46,7 @@ aliases:
 | [[5. Mechanics/Items/Lyre.md\|Lyre]] | 30 gp | 2 lb. |
 | [[5. Mechanics/Items/Horn.md\|Horn]] | 3 gp | 2 lb. |
 | [[5. Mechanics/Items/Pan Flute.md\|Pan flute]] | 12 gp | 2 lb. |
-| [[5. Mechanics/Items/Shawm.md\|Shawm]] | 2 gp | 1 lb. |
+| [[5. Mechanics/Items/Sh(AWM).md\|Shawm]] | 2 gp | 1 lb. |
 | [[5. Mechanics/Items/Viol.md\|Viol]] | 30 gp | 1 lb. |
 | [[5. Mechanics/Items/Navigators Tools.md\|Navigator's tools]] | 25 gp | 2 lb. |
 | [[5. Mechanics/Items/Poisoners Kit.md\|Poisoner's kit]] | 50 gp | 2 lb. |

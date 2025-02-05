@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 8
+environments: null
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/8
   - monster/size/large
   - monster/type/aberration/shapechanger
-statblock: inline
 aliases:
   - Green Slaad
 ---
-# [[5. Mechanics/Bestiary/Aberration/Green Slaad.md|Green Slaad]]
+# [[5. Mechanics\Bestiary\Aberration\Green Slaad.md|Green Slaad]]
 *Source: Monster Manual p. 277, Vecna: Eve of Ruin*
 
 Green slaadi are surprisingly intelligent and possess innate spellcasting ability. A green slaad can change its shape to appear as a humanoid. If it was born of a humanoid host, the slaad usually adopts its host's form.
@@ -41,16 +44,16 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
 > 
-> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] while so controlled.
+> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] while so controlled.
 > 
 > Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [[5. Mechanics/Spells/Wish.md|wish]] spell, if cast in the slaad's presence, can be worded to acquire the gem.
 > 
 > A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|text(22)` (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|noform|avg|text(22)` (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
-> [!quote]-  
+> [!quote]  
 > 
 > Embedded in a slaad's brain is a magic gem. Acquire it, and the slaad is yours to command.
 
@@ -117,12 +120,6 @@ Some slaadi can transform into the humanoid creatures from which they were origi
   "name": "Hurl Flame"
 "source":
 - "MM"
-- "WDMM"
-- "IDRotF"
-- "DSotDQ"
-- "SatO"
-- "ToFW"
-- "BMT"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Aberration/token/green-slaad.webp"
 ```

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/8
+environments: 'grassland, forest, swamp, hill, urban, desert, coastal, mountain, underdark'
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-8
@@ -15,12 +19,11 @@ tags:
   - monster/environment/urban
   - monster/size/tiny
   - monster/type/beast
-statblock: inline
 aliases:
   - Stirge
 ---
-# [[5. Mechanics/Bestiary/Beast/Stirge.md|Stirge]]
-*Source: Monster Manual p. 284. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Stirge.md|Stirge]]
+*Source: Monster Manual p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 This horrid flying creature looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the air as it seeks its next meal.
 
@@ -61,23 +64,6 @@ A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging
   "name": "Blood Drain"
 "source":
 - "MM"
-- "HotDQ"
-- "LMoP"
-- "PotA"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "BGDIA"
-- "RMBRE"
-- "IMR"
-- "EGW"
-- "DoSI"
-- "KftGV"
-- "HftT"
-- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Beast/token/stirge.webp"
 ```
 ^statblock

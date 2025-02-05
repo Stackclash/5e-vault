@@ -4,15 +4,25 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/cleric/forge-domain
-  - spell/class/cleric/war-domain
-  - spell/class/fighter/eldritch-knight
+  - spell/class/bard
   - spell/class/paladin
-  - spell/class/paladin/oath-of-glory
-  - spell/class/rogue/arcane-trickster
+  - spell/class/ranger
+  - spell/class/sorcerer
   - spell/class/wizard
-  - spell/level/2
+  - spell/level/2nd-level
   - spell/school/transmutation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+  - spell/subclass/forge-domain
+  - spell/subclass/oath-of-glory
+  - spell/subclass/oath-of-radiance
+  - spell/subclass/war-domain
+level: 2nd-level
+range: false
+school: Transmutation
+time: 1 bonus
+duration: 'Concentration, up to 1 hour'
+components: 'V, S'
 aliases:
   - Magic Weapon
 ---
@@ -28,6 +38,6 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Cleric Forge Domain.md\|Cleric (Forge Domain)]], [[5. Mechanics/Classes/Cleric War Domain.md\|Cleric (War Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Glory.md\|Paladin (Oath of Glory)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Forge Domain (XGE)\|Cleric (Forge Domain)]]; [[List Spells Classes Paladin Oath Of Glory (TCE)\|Paladin (Oath of Glory)]]; [[List Spells Classes Paladin Oath Of Radiance (KPDM)\|Paladin (Oath of Radiance)]]; [[List Spells Classes Cleric War Domain\|Cleric (War Domain)]]
 
-*Source: Player's Handbook p. 257. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

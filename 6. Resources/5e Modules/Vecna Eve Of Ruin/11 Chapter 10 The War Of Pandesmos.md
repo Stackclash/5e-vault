@@ -15,9 +15,9 @@ The characters tracked Kas to Carapace Ridge on the first layer of Pandemonium. 
 
 ## Running This Chapter
 
-This chapter begins where the previous chapter ended, after the characters followed Kas's trail to Carapace Ridge, a low dip in a cliff that provides access to a beach below. The characters' search for Kas takes them to several locations, from the Ruinous Citadel, where [[4. World Almanac/NPCs/Miska The Wolf Spider.md\|Miska the Wolf-Spider]] is in the process of breaking free from his prison; to the Hurricane Tower, where the forces of Lolth marshal; and to the cliffside redoubt, where Kas retreated to plan. Along the way, they encounter Vaeve, a [[5. Mechanics/Bestiary/Humanoid/Drow Mage.md\|drow mage]] who is loyal to neither Lolth nor Kas, and who offers the characters useful information.
+This chapter begins where the previous chapter ended, after the characters followed Kas's trail to Carapace Ridge, a low dip in a cliff that provides access to a beach below. The characters' search for Kas takes them to several locations, from the Ruinous Citadel, where [[4. World Almanac/NPCs/Miska The Wolf Spider (VEOR).md\|Miska the Wolf-Spider]] is in the process of breaking free from his prison; to the Hurricane Tower, where the forces of Lolth marshal; and to the cliffside redoubt, where Kas retreated to plan. Along the way, they encounter Vaeve, a [[5. Mechanics/Bestiary/Humanoid/Drow Mage.md\|drow mage]] who is loyal to neither Lolth nor Kas, and who offers the characters useful information.
 
-The characters' choices affect where they ultimately face Kas, but regardless, the characters must weaken the vampire enough to banish him with their [[5. Mechanics/Items/Chime Of Exile.md\|Chime of Exile]]. While doing so, they discover Vecna's location in the Cave of Shattered Reflection.
+The characters' choices affect where they ultimately face Kas, but regardless, the characters must weaken the vampire enough to banish him with their [[5. Mechanics/Items/Chime Of Exile (VEOR).md\|Chime of Exile]]. While doing so, they discover Vecna's location in the Cave of Shattered Reflection.
 
 ### Character Advancement
 
@@ -32,7 +32,7 @@ The characters can learn two secrets in this chapter applicable to the Power of 
 
 ## Chaos Incarnate
 
-When Kas arrived in Pandesmos, he used the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] to force a hole in the sealed portal that blocks Miska from exiting the demiplane where he is trapped. The hole isn't wide enough, so Miska is expanding it so he can break free.
+When Kas arrived in Pandesmos, he used the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to force a hole in the sealed portal that blocks Miska from exiting the demiplane where he is trapped. The hole isn't wide enough, so Miska is expanding it so he can break free.
 
 As Miska attempts to emerge, Fiends loyal to the demon lord have flocked to the area. They've been met by the forces of Lolth, Vecna's ally in his bid to remake the multiverse. In exchange for the protection supplied by her troops while Vecna weaves his ritual, the lich-god promised the Spider Queen a place at his side when he remakes the multiverse.
 
@@ -57,9 +57,9 @@ Read the following to present the scene:
 > A war between thousands of demonic combatants rages throughout the ridge. The forces organized around the tower include driders and monstrous spiders, which bear banners featuring a spider with a woman's head. The forces surging from the redoubt are enormous spiders with the heads of wolves. The spider-wolves carry banners with snarling wolf heads.
 ^487
 
-Four spyder-fiend combatants of the battle linger near the characters: a [[5. Mechanics/Bestiary/Fiend/Quavilithku Spyder Fiend.md\|quavilithku spyder-fiend]] and three [[5. Mechanics/Bestiary/Fiend/Kakkuu Spyder Fiend.md\|kakkuu spyder-fiends]] (stat blocks for both appear in appendix A). They're busily hollowing out the corpse of a massive [[5. Mechanics/Bestiary/Monstrosity/Citadel Spider.md\|citadel spider]] (see appendix A) as a bunker for use if the battle shifts back this way. If they spot the characters, the spyder-fiends scuttle out of the citadel spider and skitter around its corpse to attack. The spyder-fiends retreat to the carapace if they start to lose the fight.
+Four spyder-fiend combatants of the battle linger near the characters: a [[5. Mechanics/Bestiary/Fiend/Quavilithku Spyder Fiend (VEOR).md\|quavilithku spyder-fiend]] and three [[5. Mechanics/Bestiary/Fiend/Kakkuu Spyder Fiend (VEOR).md\|kakkuu spyder-fiends]] (stat blocks for both appear in appendix A). They're busily hollowing out the corpse of a massive [[5. Mechanics/Bestiary/Monstrosity/Citadel Spider (VEOR).md\|citadel spider]] (see appendix A) as a bunker for use if the battle shifts back this way. If they spot the characters, the spyder-fiends scuttle out of the citadel spider and skitter around its corpse to attack. The spyder-fiends retreat to the carapace if they start to lose the fight.
 
-Both sides of the battle use banners to identify units and send messages. The forces of [[4. World Almanac/NPCs/Camlash.md\|Camlash]], Lolth's balor general, use a stylized symbol of Lolth on their banners, while Miska's forces use banners featuring wolf heads. The troops are so numerous and powerful on both sides that even 19th-level characters can't materially affect the war by joining in the fighting.
+Both sides of the battle use banners to identify units and send messages. The forces of [[4. World Almanac/NPCs/Camlash (VEOR).md\|Camlash]], Lolth's balor general, use a stylized symbol of Lolth on their banners, while Miska's forces use banners featuring wolf heads. The troops are so numerous and powerful on both sides that even 19th-level characters can't materially affect the war by joining in the fighting.
 
 ### Vaeve's Offer
 
@@ -73,7 +73,7 @@ Vaeve hopes the characters might help her, so she is eager to talk. She identifi
 
 - **An Explanation.** The battle rages between forces loyal to Lolth, who is working with Vecna, and forces loyal to Miska, who is in the process of breaking free from his prison and is allied with a vampire. Vaeve and her identical twin sister, Naxa, are adventurers from Neverwinter who came here to retrieve potent magical components for their arcane rituals. They were using the chaos of battle to steal back a magic cloak—a family heirloom, Vaeve says—recently taken to Miska's treasure vault somewhere in the stone citadel on the beach below. But Vaeve and Naxa became separated in the fighting, and Vaeve worries that Naxa is brazen enough to attempt the retrieval on her own.  
 - **Assistance Needed.** Vaeve doesn't know why the characters are here, but she assumes they're planning to cross the battlefield for some reason. Vaeve asks the characters to escort Naxa from the citadel back to Carapace Ridge. There's significant treasure in the citadel, Vaeve says, and Vaeve would be grateful if the characters helped her sister.  
-- **General's Presence.** Lolth's general, a demon named [[4. World Almanac/NPCs/Camlash.md\|Camlash]], directs troops from the tottering tower. Lolth's forces include [[5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spiders]] and [[5. Mechanics/Bestiary/Monstrosity/Drider.md\|driders]]. The tower looks ready to tip over because it is; only the webbing inside the tower's base keeps it from falling over.  
+- **General's Presence.** Lolth's general, a demon named [[4. World Almanac/NPCs/Camlash (VEOR).md\|Camlash]], directs troops from the tottering tower. Lolth's forces include [[5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spiders]] and [[5. Mechanics/Bestiary/Monstrosity/Drider.md\|driders]]. The tower looks ready to tip over because it is; only the webbing inside the tower's base keeps it from falling over.  
 - **Miska's Location.** Miska is down in the citadel by the weird ocean of churning energy. Miska was recently freed from imprisonment, but he hasn't left the citadel yet—Vaeve doesn't know why. Miska's forces are varied spyder-fiends as well as flying demons that drip deadly blood.  
 - **Vampire's Presence.** Miska is following the commands of a vampire who occasionally appears on the battlefield to turn the tide of important fights against Lolth's forces. (Vaeve doesn't know the vampire's name, but her description should make it clear to the characters that this is Kas.)  
 - **Vampire's Home.** The vampire inhabits a chamber in the cliff, another mile past the tower. The upper entrance is under siege by Camlash's forces, and the lower entrance is guarded by spyder-fiends. Vaeve points out both entrances to the cliffside redoubt, two miles distant and barely visible through the blowing fog.  
@@ -92,7 +92,7 @@ The characters can teleport directly to the redoubt's upper or lower entrances. 
 
 #### Flight
 
-Camlash's [[5. Mechanics/Bestiary/Monstrosity/Citadel Spider.md\|citadel spiders]] (see appendix A) function as artillery, but the skies are predominantly under Miska's control thanks to powerful flying demons pledged to his service. If the characters fly around or above the battle, three [[5. Mechanics/Bestiary/Fiend/Hazvongel.md\|hazvongels]] (see appendix A) soar down from the wispy cloud cover to attack. The hazvongels fight to the death. If the characters don't fly directly toward the cliffside redoubt after this fight, another trio of hazvongels attacks from a different direction. After this second attack, the demons steer clear of the flying characters.
+Camlash's [[5. Mechanics/Bestiary/Monstrosity/Citadel Spider (VEOR).md\|citadel spiders]] (see appendix A) function as artillery, but the skies are predominantly under Miska's control thanks to powerful flying demons pledged to his service. If the characters fly around or above the battle, three [[5. Mechanics/Bestiary/Fiend/Hazvongel (VEOR).md\|hazvongels]] (see appendix A) soar down from the wispy cloud cover to attack. The hazvongels fight to the death. If the characters don't fly directly toward the cliffside redoubt after this fight, another trio of hazvongels attacks from a different direction. After this second attack, the demons steer clear of the flying characters.
 
 ### The Ruinous Sea
 
@@ -102,7 +102,7 @@ Winds shriek from the Ruinous Sea, joining the gales that scour Pandesmos. Rumor
 
 #### Swimming the Ruinous Sea
 
-Despite their ephemeral appearance, the Ruinous Sea's roiling clouds are viscous and cloying, acting as a liquid for the purposes of movement. A creature that enters the Ruinous Sea for the first time on a turn or starts its turn there takes `dice:20d6|text(70)` (`20d6`) damage. The type of damage fluctuates with the roiling of the Ruinous Sea (choose or roll a `dice: d4|avg|noform` (`d4`)): 1, acid; 2, lightning; 3, necrotic; or 4, radiant.
+Despite their ephemeral appearance, the Ruinous Sea's roiling clouds are viscous and cloying, acting as a liquid for the purposes of movement. A creature that enters the Ruinous Sea for the first time on a turn or starts its turn there takes `dice:20d6|noform|avg|text(70)` (`20d6`) damage. The type of damage fluctuates with the roiling of the Ruinous Sea (choose or roll a `dice:d4|noform|avg` (`d4`)): 1, acid; 2, lightning; 3, necrotic; or 4, radiant.
 
 In addition to that danger, the Ruinous Sea is also inhabited by evil chaos krakens (a chaos kraken uses the [[5. Mechanics/Bestiary/Monstrosity/Kraken.md\|kraken]] stat block but is immune to the Ruinous Sea's damage). A chaos kraken named Vashishax lurks in the Ruinous Sea near the beach. Vashishax considers this war among outsiders to be irrelevant, though the kraken is spying on the battle out of curiosity. Vashishax considers any intrusion into the Ruinous Sea to be a personal insult and fights any creature that spends more than a minute within it. Vashishax isn't willing to die here; if reduced to fewer than 100 hit points, the kraken flees to its lair many miles deeper in the Ruinous Sea.
 
@@ -112,7 +112,7 @@ In addition to that danger, the Ruinous Sea is also inhabited by evil chaos krak
 
 The 200-foot-tall Hurricane Tower juts from the top of the cliff above the citadel like a broken finger, threatening to fall over the edge of the 400-foot-tall cliff. Thick spider webs woven throughout the base of the tower keep it anchored to the cliff. Hurricane Tower is made of stone, but it is an unsteady structure; it's also the only easily accessible shelter within miles of the characters' initial position in Pandesmos.
 
-Hurricane Tower is the strategic heart of Lolth's forces. The balor general [[4. World Almanac/NPCs/Camlash.md\|Camlash]] uses the tower to organize troops and direct their efforts in the war, so she ordered her spiders to reinforce the structure with webbing. The tower remains standing unless the characters sabotage the six web anchors within it.
+Hurricane Tower is the strategic heart of Lolth's forces. The balor general [[4. World Almanac/NPCs/Camlash (VEOR).md\|Camlash]] uses the tower to organize troops and direct their efforts in the war, so she ordered her spiders to reinforce the structure with webbing. The tower remains standing unless the characters sabotage the six web anchors within it.
 
 ### Camlash
 
@@ -126,7 +126,7 @@ Without the tower's protection, Camlash's forces are exposed to assault from Mis
 
 Lolth's forces surround the tower, but they are focused on the spyder-fiends below rather than on defense. Hundreds of driders, Humanoids, and demons surround the tower, but the characters don't need to fight these creatures if they create a plausible distraction, disguise, or ruse.
 
-If the characters are careless or fail to fool Lolth's forces, they might face a squad of `dice: 1d4|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Monstrosity/Drider.md\|driders]], `dice: 1d6|avg|noform` (`1d6`) [[5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spiders]], and `dice: 1d4|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassins]]. Characters who defeat the squad can try again to infiltrate the tower.
+If the characters are careless or fail to fool Lolth's forces, they might face a squad of `dice:1d4|noform|avg` (`1d4`) [[5. Mechanics/Bestiary/Monstrosity/Drider.md\|driders]], `dice:1d6|noform|avg` (`1d6`) [[5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spiders]], and `dice:1d4|noform|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassins]]. Characters who defeat the squad can try again to infiltrate the tower.
 
 ### Hurricane Tower Features
 
@@ -161,7 +161,7 @@ The following locations are keyed to map 10.2.
 > On the west side of this room, webs extend over a wooden altar with misshapen candelabras on it. Tiny spiders scuttle over the altar, and a drow man and a wood elf woman stand near it. Four bloated driders lounge around the room.
 ^498
 
-A drow [[5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassin]] named Althein and a wood elf [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] named Vendrasha, both faithful of Lolth, pray to the Spider Queen at the altar. Of the apparent four driders, three [[5. Mechanics/Bestiary/Monstrosity/Drider.md\|driders]] are what they appear to be; the fourth is a [[5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend.md\|phisarazu spyder-fiend]] (see appendix A) named Rachazz, who is masquerading as a drider using its Change Shape ability.
+A drow [[5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassin]] named Althein and a wood elf [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] named Vendrasha, both faithful of Lolth, pray to the Spider Queen at the altar. Of the apparent four driders, three [[5. Mechanics/Bestiary/Monstrosity/Drider.md\|driders]] are what they appear to be; the fourth is a [[5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend (VEOR).md\|phisarazu spyder-fiend]] (see appendix A) named Rachazz, who is masquerading as a drider using its Change Shape ability.
 
 The three driders squad leaders are resting away from Pandemonium's winds here. Rachazz infiltrated the tower and is collecting information for Miska about Camlash's forces.
 
@@ -188,7 +188,7 @@ The eight web-crusted candelabras are covered in precious gems. They resemble yo
 > A monstrous demon is moving scraps of cloth atop a table made of crumbling stone. The demon is covered with countless tiny, crawling spiders that appear and disappear at random.
 ^49c
 
-[[4. World Almanac/NPCs/Camlash.md\|Camlash]] (see the accompanying stat block) plans troop movements on the table when the characters arrive. Hundreds of tiny spiders constantly scuttle over and around the demon.
+[[4. World Almanac/NPCs/Camlash (VEOR).md\|Camlash]] (see the accompanying stat block) plans troop movements on the table when the characters arrive. Hundreds of tiny spiders constantly scuttle over and around the demon.
 
 Camlash doesn't consider intruders much of a threat and gloats about how foolish the characters are to meddle in Lolth's affairs. After taunting the characters, Camlash fights to the death.
 
@@ -200,34 +200,34 @@ Once news of Camlash's defeat becomes widely known, no one else arrives. Instead
 
 ##### Cutting the Webs
 
-The two web anchors have AC 12; 40 hit points; and immunity to bludgeoning, fire, poison, and psychic damage. The webs are tough, but they're sticky only where they meet the walls. Camlash has enchanted these anchors to inflict a mental backlash on anyone who tampers with them. A creature that deals damage to a web anchor takes `dice:4d8|text(18)` (`4d8`) psychic damage.
+The two web anchors have AC 12; 40 hit points; and immunity to bludgeoning, fire, poison, and psychic damage. The webs are tough, but they're sticky only where they meet the walls. Camlash has enchanted these anchors to inflict a mental backlash on anyone who tampers with them. A creature that deals damage to a web anchor takes `dice:4d8|noform|avg|text(18)` (`4d8`) psychic damage.
 
 The tower creaks ominously if both anchors are cut. If the four anchors in area X1 have also been cut, the tower falls.
 
 ### The Tower Falls
 
-If all six web anchors are cut or destroyed, Hurricane Tower crashes 400 feet down the cliffside, leaving only its foundation behind. Once it starts falling, the characters have 1 minute to escape the tower. Characters who fail to do so take `dice:20d6|text(70)` (`20d6`) bludgeoning damage.
+If all six web anchors are cut or destroyed, Hurricane Tower crashes 400 feet down the cliffside, leaving only its foundation behind. Once it starts falling, the characters have 1 minute to escape the tower. Characters who fail to do so take `dice:20d6|noform|avg|text(70)` (`20d6`) bludgeoning damage.
 
 The tower's fall has a number of additional effects:
 
-- **Destroyed Citadel Areas.** If the characters cut or destroy the webbing, the falling tower smashes the creatures near the entrance to the Ruinous Citadel and obliterates most of the citadel's rooms (see the "Ruinous Citadel" section). Areas Y3–Y6 are destroyed, along with the creatures and objects in them, and the creatures in area Y1 are slain. Naxa in area Y4 manages to scamper along the ceiling into area Y2, though she hides there and won't reveal herself to the characters until the [[5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend.md\|phisarazu spyder-fiends]] are dispatched. The [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] in area Y7 is loosened from the stones, though the characters still need to manually pull the rod free to re-imprison Miska.  
+- **Destroyed Citadel Areas.** If the characters cut or destroy the webbing, the falling tower smashes the creatures near the entrance to the Ruinous Citadel and obliterates most of the citadel's rooms (see the "Ruinous Citadel" section). Areas Y3–Y6 are destroyed, along with the creatures and objects in them, and the creatures in area Y1 are slain. Naxa in area Y4 manages to scamper along the ceiling into area Y2, though she hides there and won't reveal herself to the characters until the [[5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend (VEOR).md\|phisarazu spyder-fiends]] are dispatched. The [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] in area Y7 is loosened from the stones, though the characters still need to manually pull the rod free to re-imprison Miska.  
 - **Forces Disperse.** Creatures left standing on the tower's floor are in full view of Lolth's forces. The nearby troops, realizing their general is dead and their only fortification is destroyed, throw down their banners and retreat across Pandesmos.  
-- **Spyder-Fiends Falter.** The spyder-fiends can't capitalize on this sudden victory, since their [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend.md\|raklupis battle-leaders]] (see appendix A) immediately devolve into infighting to seize control. The spyder-fiend battle lines break into violent packs.  
+- **Spyder-Fiends Falter.** The spyder-fiends can't capitalize on this sudden victory, since their [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend (VEOR).md\|raklupis battle-leaders]] (see appendix A) immediately devolve into infighting to seize control. The spyder-fiend battle lines break into violent packs.  
 - **The Vampire Notices.** Kas arrives at the tower's broken base within a few minutes to find who caused the collapse. If the characters are there, Kas confronts them as described in the "Fighting Kas" section later in this chapter.  
 
 ## Ruinous Citadel
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/149-10-004-ruinous-citadel.webp#center\|"Miska is imprisoned in the Ruinous Citadel, which serves as the headquarters for the demon lord's forces"]]
 
-Long ago, adherents of the Queen of Chaos, a powerful demon lord, built a citadel near the Ruinous Sea. The Wind Dukes of Aaqa later used what is now known as the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] to imprison Miska within the citadel, eventually ending the terrible Dawn War between the primordials and the gods.
+Long ago, adherents of the Queen of Chaos, a powerful demon lord, built a citadel near the Ruinous Sea. The Wind Dukes of Aaqa later used what is now known as the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to imprison Miska within the citadel, eventually ending the terrible Dawn War between the primordials and the gods.
 
 Since then, the Ruinous Sea has encroached on the citadel. It now stands on a beach at the edge of the Ruinous Sea. The citadel is a ruin, as the sea's chaotic energies hasten its erosion and will someday claim it entirely.
 
 ### Miska
 
-Kas returned the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] to the citadel and thrust it into the sealed mystical portal that keeps Miska in his prison demiplane, creating an opening. However, the opening isn't wide enough for Miska to exit, so Miska is widening it. If he can break free, he can join the battle his forces are engaged in and revel in chaos once again. If the rod is removed or knocked aside, the seal snaps shut and binds Miska once more.
+Kas returned the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to the citadel and thrust it into the sealed mystical portal that keeps Miska in his prison demiplane, creating an opening. However, the opening isn't wide enough for Miska to exit, so Miska is widening it. If he can break free, he can join the battle his forces are engaged in and revel in chaos once again. If the rod is removed or knocked aside, the seal snaps shut and binds Miska once more.
 
-Miska isn't idle while trying to free himself. He commands the armies of spyder-fiends and other demons through his spyder-fiend battle leaders, the [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend.md\|raklupises]]. Miska's other spyder-fiends (see appendix A) defend him and implement the demon lord's complex strategies.
+Miska isn't idle while trying to free himself. He commands the armies of spyder-fiends and other demons through his spyder-fiend battle leaders, the [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend (VEOR).md\|raklupises]]. Miska's other spyder-fiends (see appendix A) defend him and implement the demon lord's complex strategies.
 
 Yet Miska's position is precarious. While he's a cunning general, he's unable to command his forces in person, and enforcing discipline is challenging; spyder-fiends, like many demons, find order and organization difficult to tolerate. Additionally, Kas is becoming increasingly frustrated with Miska's slow emergence; until Miska claws his way free and defeats Lolth's forces, Kas can't assault Vecna. And all the while, the portal to the demiplane Miska is trapped in is in danger of being swallowed by the Ruinous Sea.
 
@@ -266,7 +266,7 @@ The following locations are keyed to map 10.3. If the characters felled the Hurr
 > Several bloated spiders with wolf heads move back and forth on the black sand near the citadel's entrance.
 ^4a9
 
-Nine [[5. Mechanics/Bestiary/Fiend/Kakkuu Spyder Fiend.md\|kakkuu spyder-fiends]] (see appendix A) drill on this beach while awaiting orders from the battle leaders in the citadel. They find marching in formation dull and are eager to rejoin the battle raging on the clifftop above. The kakkuus rush toward any opportunity for combat, so characters can draw them away with any ruse that promises bloodshed. A badly injured kakkuu flees the area, hoping to hide out elsewhere amid the chaos of war.
+Nine [[5. Mechanics/Bestiary/Fiend/Kakkuu Spyder Fiend (VEOR).md\|kakkuu spyder-fiends]] (see appendix A) drill on this beach while awaiting orders from the battle leaders in the citadel. They find marching in formation dull and are eager to rejoin the battle raging on the clifftop above. The kakkuus rush toward any opportunity for combat, so characters can draw them away with any ruse that promises bloodshed. A badly injured kakkuu flees the area, hoping to hide out elsewhere amid the chaos of war.
 
 ##### Glowing Signal
 
@@ -274,14 +274,14 @@ The kakkuus immediately return if they see the glyph glowing on the door to area
 
 #### Y2: Guard Hall
 
-The exterior door has an invisible glyph inscribed on it. Each time a creature other than a Fiend opens the door, the glyph glows for a split second, and the creature must make a DC 18 Wisdom saving throw, taking `dice:6d6|text(21)` (`6d6`) psychic damage on a failed save or half as much damage on a successful one. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the door removes the glyph, allowing the door to be opened safely.
+The exterior door has an invisible glyph inscribed on it. Each time a creature other than a Fiend opens the door, the glyph glows for a split second, and the creature must make a DC 18 Wisdom saving throw, taking `dice:6d6|noform|avg|text(21)` (`6d6`) psychic damage on a failed save or half as much damage on a successful one. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the door removes the glyph, allowing the door to be opened safely.
 
 > [!readaloud] 
 > 
 > Old carvings of monstrous, tentacled beings adorn the walls in this long room. More recently, wolf heads have been painted on each figure. Webs stretch from wall to wall and are particularly thick to the southeast, around an open stone door. Two enormous demons with crablike bodies and wolflike heads flank the door.
 ^4ac
 
-Two [[5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend.md\|phisarazu spyder-fiends]] (see appendix A) flank the open door that leads to area Y3. The phisarazus don't leave this chamber, but they attack intruders on sight and fight to the death.
+Two [[5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend (VEOR).md\|phisarazu spyder-fiends]] (see appendix A) flank the open door that leads to area Y3. The phisarazus don't leave this chamber, but they attack intruders on sight and fight to the death.
 
 The spyder-fiends spun the webs in this room, making the entire room "difficult terrain". The webs don't burn, but a creature can use an action to cut away the webs in a 10-foot-square section of the room.
 
@@ -334,7 +334,7 @@ In addition to the [[5. Mechanics/Items/Cloak Of Arachnida.md\|Cloak of Arachnid
 > The north wall of this chamber has a three-dimensional map of the cliff that shows the tower above and the citadel below. Glowing dots are scattered across the map. Three monstrous spider demons, two human-sized and another ogre-sized, squat around the table.
 ^4b6
 
-A [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend.md\|raklupis spyder-fiend]] named Jallizanx is here with two [[5. Mechanics/Bestiary/Fiend/Kakkuu Spyder Fiend.md\|kakkuu spyder-fiends]] (for both stat blocks, see appendix A). The kakkuus are relaying orders to troops fighting elsewhere, and Jallizanx is deciding how to give directions the dim-witted kakkuus can be reasonably expected to convey. When they see the characters, the kakkuus rush into melee while Jallizanx hangs back to cast spells and hurl venom globes. If the kakkuus are defeated and Jallizanx is plainly losing the fight, Jallizanx teleports away and doesn't return. If the characters capture Jallizanx, the spyder-fiend tells the characters about the scrolls described in the "Treasure" section and offers this loot in exchange for its life.
+A [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend (VEOR).md\|raklupis spyder-fiend]] named Jallizanx is here with two [[5. Mechanics/Bestiary/Fiend/Kakkuu Spyder Fiend (VEOR).md\|kakkuu spyder-fiends]] (for both stat blocks, see appendix A). The kakkuus are relaying orders to troops fighting elsewhere, and Jallizanx is deciding how to give directions the dim-witted kakkuus can be reasonably expected to convey. When they see the characters, the kakkuus rush into melee while Jallizanx hangs back to cast spells and hurl venom globes. If the kakkuus are defeated and Jallizanx is plainly losing the fight, Jallizanx teleports away and doesn't return. If the characters capture Jallizanx, the spyder-fiend tells the characters about the scrolls described in the "Treasure" section and offers this loot in exchange for its life.
 
 ##### Reviewing the Map
 
@@ -349,18 +349,18 @@ The map is a highly detailed model with magical glowing dots that represent troo
 
 ##### Treasure
 
-A platinum scroll tube worth 2,500 gp is hidden in webbing in the southwest corner of the room, near the ceiling. It contains two [[5. Mechanics/Items/Spell Scroll.md\|Spell Scrolls]] of [[5. Mechanics/Spells/Glyph Of Warding.md\|Glyph of Warding]]. Characters who search the room and succeed on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check find the scroll tube.
+A platinum scroll tube worth 2,500 gp is hidden in webbing in the southwest corner of the room, near the ceiling. It contains two [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scrolls]] of [[5. Mechanics/Spells/Glyph Of Warding.md\|Glyph of Warding]]. Characters who search the room and succeed on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check find the scroll tube.
 
 #### Y6: Food Storage
 
-The door to this room has an invisible glyph inscribed on it. Each time a creature other than a [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend.md\|raklupis spyder-fiend]] opens the door, the glyph glows for a split second, and the creature must make a DC 18 Wisdom saving throw, taking `dice:6d6|text(21)` (`6d6`) psychic damage on a failed save or half as much damage on a successful one. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the door removes the glyph, allowing the door to be opened safely.
+The door to this room has an invisible glyph inscribed on it. Each time a creature other than a [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend (VEOR).md\|raklupis spyder-fiend]] opens the door, the glyph glows for a split second, and the creature must make a DC 18 Wisdom saving throw, taking `dice:6d6|noform|avg|text(21)` (`6d6`) psychic damage on a failed save or half as much damage on a successful one. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the door removes the glyph, allowing the door to be opened safely.
 
 > [!readaloud] 
 > 
 > This room is filled with lumpy shapes bound in webs.
 ^4ba
 
-Dozens of driders, drow, and giant spiders are wrapped in these webs. Each is [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]], has the [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] condition, and can't regain hit points until 8 hours after being freed from the web cocoons.
+Dozens of driders, drow, and giant spiders are wrapped in these webs. Each is [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]], has the [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] condition, and can't regain hit points until 8 hours after being freed from the web cocoons.
 
 The spyder-fiends know that Miska will be voraciously hungry when freed, so they prepared this larder for him. Kakkuus kept sneaking in to steal food, so the raklupises changed the glyph on the door to keep other spyder-fiends away.
 
@@ -370,7 +370,7 @@ The webbed prisoners want to flee the citadel to rejoin Lolth's forces. They are
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/152-10-005-battles.webp#center\|"Outside the Ruinous Citadel, battles between demonic forces loyal to Miska and Lolth still rage"]]
 
-The door to this chamber has an invisible glyph inscribed upon it. Each time a creature other than a Fiend opens the door the glyph glows for a split second, and the creature must make a DC 18 Wisdom saving throw, taking `dice:6d6|text(21)` (`6d6`) psychic damage on a failed save or half as much damage on a successful one. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the door removes the glyph, allowing the door to be opened safely.
+The door to this chamber has an invisible glyph inscribed upon it. Each time a creature other than a Fiend opens the door the glyph glows for a split second, and the creature must make a DC 18 Wisdom saving throw, taking `dice:6d6|noform|avg|text(21)` (`6d6`) psychic damage on a failed save or half as much damage on a successful one. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the door removes the glyph, allowing the door to be opened safely.
 
 > [!readaloud] 
 > 
@@ -381,11 +381,11 @@ The door to this chamber has an invisible glyph inscribed upon it. Each time a c
 > The circle of stones shudders, and you realize the monstrous thing contained on the other side is expanding the circle, using the *Rod of Seven Parts* like a wedge to lever the circle large enough to climb free.
 ^4bc
 
-A [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend.md\|raklupis spyder-fiend]] named Uvonxu is here along with a [[5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend.md\|phisarazu spyder-fiend]] bodyguard (for both stat blocks, see appendix A). Uvonxu coordinates with Miska on strategy, while the phisarazu takes notes to relay to the troops. Both immediately attack intruders. The phisarazu tries to stun enemies and then attacks in melee while Uvonxu hangs back to cast spells. These spyder-fiends fight to the death to defend Miska.
+A [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend (VEOR).md\|raklupis spyder-fiend]] named Uvonxu is here along with a [[5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend (VEOR).md\|phisarazu spyder-fiend]] bodyguard (for both stat blocks, see appendix A). Uvonxu coordinates with Miska on strategy, while the phisarazu takes notes to relay to the troops. Both immediately attack intruders. The phisarazu tries to stun enemies and then attacks in melee while Uvonxu hangs back to cast spells. These spyder-fiends fight to the death to defend Miska.
 
 ##### Miska Intervenes
 
-Miska is still trapped within his prison, but the opening is sufficient for him to affect the fight. He can't move, can't be harmed, and can use only his legendary actions (see [[4. World Almanac/NPCs/Miska The Wolf Spider.md\|Miska the Wolf-Spider]] in appendix B), which originate from the opening. Miska uses the legendary actions to support the spyder-fiends in the fight, using his Howl to inflict psychic damage on the characters and Web to ensnare them.
+Miska is still trapped within his prison, but the opening is sufficient for him to affect the fight. He can't move, can't be harmed, and can use only his legendary actions (see [[4. World Almanac/NPCs/Miska The Wolf Spider (VEOR).md\|Miska the Wolf-Spider]] in appendix B), which originate from the opening. Miska uses the legendary actions to support the spyder-fiends in the fight, using his Howl to inflict psychic damage on the characters and Web to ensnare them.
 
 ##### Demiplane Portal
 
@@ -403,19 +403,19 @@ As an action, a character can try to pull the Rod of Seven Parts from the stone 
 
 ##### Treasure
 
-The [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] is the greatest treasure here, but the spyder-fiends also left offerings to their general amid the webbing on the walls. The offerings include a [[5. Mechanics/Items/Weapon Of Warning.md\|Weapon of Warning (scimitar)]] with engravings of a wolf's head on each side of the blade, a heavy platinum statue of Miska triumphantly raising his arms (worth 120,000 gp), and two huge gold fangs inset with enormous rubies (worth 35,000 gp each).
+The [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] is the greatest treasure here, but the spyder-fiends also left offerings to their general amid the webbing on the walls. The offerings include a [[5. Mechanics/Items/Weapon Of Warning.md\|Weapon of Warning (scimitar)]] with engravings of a wolf's head on each side of the blade, a heavy platinum statue of Miska triumphantly raising his arms (worth 120,000 gp), and two huge gold fangs inset with enormous rubies (worth 35,000 gp each).
 
 > [!note] A Tougher Battle
 > 
-> The battle in area Y7 isn't designed to pit Miska directly against the characters, as he's significantly more powerful than they are. However, if you think your players can handle a truly monumental challenge, you can use Miska's stat block in appendix B rather than the effects listed in the "Miska Intervenes" section. In this case, the portal is wide enough that Miska can reach through to use his actions, bonus actions, and legendary actions, but he can't yet move, so there's still time to seal him away by yanking the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] free.
+> The battle in area Y7 isn't designed to pit Miska directly against the characters, as he's significantly more powerful than they are. However, if you think your players can handle a truly monumental challenge, you can use Miska's stat block in appendix B rather than the effects listed in the "Miska Intervenes" section. In this case, the portal is wide enough that Miska can reach through to use his actions, bonus actions, and legendary actions, but he can't yet move, so there's still time to seal him away by yanking the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] free.
 ^a-tougher-battle
 
 ### Removing the Rod
 
-Closing the portal by removing the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] from the stones has the following consequences:
+Closing the portal by removing the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] from the stones has the following consequences:
 
 - **Spyder-Fiends Flee.** All spyder-fiends flee the citadel, including Uvonxu (see area Y7), if she's still alive. Within a few minutes, the spyder-fiends in Pandesmos instinctively realize their general has been sealed away again. They desert their posts to engage in vicious infighting to determine who among them will lead. The spyder-fiend battle lines falter. The characters don't encounter any more raklupises in Pandesmos—the raklupises are too busy jockeying for power to risk a fight with the characters.  
-- **The Vampire Notices.** After about an hour, Kas realizes that something is wrong. He comes to Miska's prison-hall to find out what's going on, and he extends his search for the characters if Miska has been sealed or the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] is gone. Characters who keep their presence hidden have enough time to take a short rest. If the characters do something more noticeable to alert Kas first—such as collapsing Hurricane Tower—Kas comes for a fight sooner. In either case, see the "Fighting Kas" section later in the chapter.  
+- **The Vampire Notices.** After about an hour, Kas realizes that something is wrong. He comes to Miska's prison-hall to find out what's going on, and he extends his search for the characters if Miska has been sealed or the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] is gone. Characters who keep their presence hidden have enough time to take a short rest. If the characters do something more noticeable to alert Kas first—such as collapsing Hurricane Tower—Kas comes for a fight sooner. In either case, see the "Fighting Kas" section later in the chapter.  
 
 ## Cliffside Redoubt
 
@@ -464,7 +464,7 @@ The following locations are keyed to map 10.4.
 > A squat stone and metal bunker protrudes from the clifftop. Demon attackers are battering the stone walls and the thick metal door, but the door seems to be holding.
 ^4cd
 
-Lolth's forces batter at this bunker to reach Kas, who is lower in the redoubt. A [[5. Mechanics/Bestiary/Monstrosity/Citadel Spider.md\|citadel spider]] (see appendix A) attacks the structure while four [[5. Mechanics/Bestiary/Monstrosity/Drider.md\|driders]] direct its efforts. They expect retaliation from Miska's forces and are quick to attack unfamiliar creatures. If Lolth's forces were routed due to Camlash's defeat, the four driders are gone but the citadel spider remains to stubbornly bash at the bunker. It attacks anyone who comes near.
+Lolth's forces batter at this bunker to reach Kas, who is lower in the redoubt. A [[5. Mechanics/Bestiary/Monstrosity/Citadel Spider (VEOR).md\|citadel spider]] (see appendix A) attacks the structure while four [[5. Mechanics/Bestiary/Monstrosity/Drider.md\|driders]] direct its efforts. They expect retaliation from Miska's forces and are quick to attack unfamiliar creatures. If Lolth's forces were routed due to Camlash's defeat, the four driders are gone but the citadel spider remains to stubbornly bash at the bunker. It attacks anyone who comes near.
 
 The dented metal door doesn't open with any amount of pulling or pushing, since it's anchored from the inside with metal bars driven into metal frames. The area beyond the door is included in the redoubt's [[5. Mechanics/Spells/Forbiddance.md\|Forbiddance]] effect, so teleportation into the bunker fails. The door has AC 22, 75 hit points, and immunity to poison and psychic damage.
 
@@ -477,7 +477,7 @@ The bunker contains a narrow set of stairs descending 200 feet into Kas's chambe
 > A cracked stone portico extends from a solid stone door set into the cliffside a few feet above the beach. Broken pillars around the portico are carved with demonic forms, blurred by scouring sand. Rubble is all that remains of the portico's collapsed roof.
 ^4cf
 
-A [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend.md\|raklupis spyder-fiend]] named Kalzak and three [[5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend.md\|phisarazu spyder-fiends]] (for both stat blocks, see appendix A) keep guard here. Kalzak uses [[5. Mechanics/Spells/Disguise Self.md\|Disguise Self]] to maintain the form of a white-haired and bearded human ascetic leaning against a pillar. The phisarazus are disguised as crabs scuttling around the rubble, keeping watch while looking innocuous among the harmless crabs native to the beach.
+A [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend (VEOR).md\|raklupis spyder-fiend]] named Kalzak and three [[5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend (VEOR).md\|phisarazu spyder-fiends]] (for both stat blocks, see appendix A) keep guard here. Kalzak uses [[5. Mechanics/Spells/Disguise Self.md\|Disguise Self]] to maintain the form of a white-haired and bearded human ascetic leaning against a pillar. The phisarazus are disguised as crabs scuttling around the rubble, keeping watch while looking innocuous among the harmless crabs native to the beach.
 
 If the characters reseal Miska in the Ruinous Citadel, Kalzak orders the phisarazus to remain on guard and then leaves to seize a higher position among the squabbling raklupises. One phisarazu stands in front of the door in its normal form while the other two continue their ruse of being mundane crabs.
 
@@ -492,23 +492,23 @@ The door opens with a noisy groan, revealing a small room and staircase leading 
 > This wide chamber has ascending stairs at one end and descending stairs at the other. The shrunken, bloodless corpses of four people and two driders surround a stone throne in the room's center. One wall bears a series of tiny holes, through which the wailing winds of Pandemonium are distantly audible.
 ^4d1
 
-Unless the characters encountered him elsewhere, [[4. World Almanac/NPCs/Kas The Betrayer.md\|Kas the Betrayer]] (see appendix B) broods here on his throne. He feasted on the corpses and drained their bodies of blood. See the "Fighting Kas" section below for information about running this confrontation.
+Unless the characters encountered him elsewhere, [[4. World Almanac/NPCs/Kas The Betrayer (VEOR).md\|Kas the Betrayer]] (see appendix B) broods here on his throne. He feasted on the corpses and drained their bodies of blood. See the "Fighting Kas" section below for information about running this confrontation.
 
 The holes are ventilation tubes less than a half-inch wide that wind through the cliffside.
 
 ##### Treasure
 
-A human corpse bears a platinum medallion of Lolth's symbol with dazzling diamonds at the end of each spider's foot (worth 3,000 gp). A drider corpse wears a bandolier woven of solidified shadow worth 30,000 gp. The bandolier holds two [[5. Mechanics/Items/Potion Of Supreme Healing.md\|Potions of Healing (supreme)]] and a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Seeming.md\|Seeming]].
+A human corpse bears a platinum medallion of Lolth's symbol with dazzling diamonds at the end of each spider's foot (worth 3,000 gp). A drider corpse wears a bandolier woven of solidified shadow worth 30,000 gp. The bandolier holds two [[5. Mechanics/Items/Potion Of Supreme Healing.md\|Potions of Healing (supreme)]] and a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Seeming.md\|Seeming]].
 
 ## Fighting Kas
 
-The characters encounter [[4. World Almanac/NPCs/Kas The Betrayer.md\|Kas the Betrayer]] in one of three places: in area X2 of Hurricane Tower after toppling the structure, in area Y7 of the Ruinous Citadel after sealing Miska away, or in area F3 of the cliffside redoubt.
+The characters encounter [[4. World Almanac/NPCs/Kas The Betrayer (VEOR).md\|Kas the Betrayer]] in one of three places: in area X2 of Hurricane Tower after toppling the structure, in area Y7 of the Ruinous Citadel after sealing Miska away, or in area F3 of the cliffside redoubt.
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/156-10-007-sword-of-kas.webp#center\|"At your discretion, the characters might have found the legendary Sword of Kas in this adventure"]]
 
-Kas spares only a few moments to belittle the characters before he draws his sword and attacks. Throughout the battle, he taunts them for being "Mordenkainen's good little puppets." If the characters had trouble recovering any piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]], Kas mocks them for those specific failures, saying they can't even dance on puppet strings properly.
+Kas spares only a few moments to belittle the characters before he draws his sword and attacks. Throughout the battle, he taunts them for being "Mordenkainen's good little puppets." If the characters had trouble recovering any piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], Kas mocks them for those specific failures, saying they can't even dance on puppet strings properly.
 
-Kas doesn't think he has anything to fear from the [[5. Mechanics/Items/Chime Of Exile.md\|Chime of Exile]], and he's initially correct. The characters must reduce Kas to 50 hit points or fewer before they can banish him to Tovag, his Domain of Dread.
+Kas doesn't think he has anything to fear from the [[5. Mechanics/Items/Chime Of Exile (VEOR).md\|Chime of Exile]], and he's initially correct. The characters must reduce Kas to 50 hit points or fewer before they can banish him to Tovag, his Domain of Dread.
 
 If the characters banish Kas back to Tovag, a fissure opens in the air behind him and pulls him through. Visible within the rift is a smoky, red-tinged skyline full of mountains.
 

@@ -20,4 +20,4 @@ For each hour spent in the paradise, a visitor regains hit points as if it had s
 
 When the time runs out or you use an action to end it, all visitors reappear in the location they occupied when you activated the rod, or an unoccupied space nearest that location. The rod can't be used again until ten days have passed.
 
-*Source: Dungeon Master's Guide p. 197. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 197. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

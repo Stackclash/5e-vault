@@ -3,10 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
-  - spell/class/sorcerer/divine-soul
+  - spell/feat/magic-initiate
   - spell/level/cantrip
+  - spell/optfeature/blessed-warrior
+  - spell/optfeature/pact-of-the-tome
+  - spell/race/tiefling-base
   - spell/school/transmutation
+  - spell/subclass/divine-soul
+  - spell/subrace/tiefling
+  - spell/subrace/tiefling-asmodeus
+  - spell/subrace/tiefling-baalzebul
+  - spell/subrace/tiefling-dispater
+  - spell/subrace/tiefling-zariel
+level: cantrip
+range: false
+school: Transmutation
+time: 1 action
+duration: 1 minute
+components: V
 aliases:
   - Thaumaturgy
 ---
@@ -29,6 +45,6 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 
 If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 282. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

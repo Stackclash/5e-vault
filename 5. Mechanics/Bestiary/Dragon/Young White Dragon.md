@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 6
+environments: arctic
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/6
   - monster/environment/arctic
   - monster/size/large
   - monster/type/dragon
-statblock: inline
 aliases:
   - Young White Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young White Dragon.md|Young White Dragon]]
-*Source: Monster Manual p. 101. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Young White Dragon.md|Young White Dragon]]
+*Source: Monster Manual p. 101. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
 
@@ -145,13 +148,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Cold Breath (Recharge 5-6)"
 "source":
 - "MM"
-- "RoT"
-- "TftYP"
-- "DIP"
-- "IDRotF"
-- "LK"
-- "ToFW"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Dragon/token/young-white-dragon.webp"
 ```
 ^statblock

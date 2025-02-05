@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/wizard
-  - spell/level/8
+  - spell/level/8th-level
   - spell/school/conjuration
+level: 8th-level
+range: false
+school: Conjuration
+time: 1 action
+duration: 'Concentration, up to 10 minute'
+components: 'V, S'
 aliases:
   - Maze
 ---
@@ -23,6 +30,6 @@ The target can use its action to attempt to escape. When it does so, it makes a 
 
 When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
 
-**Classes**: [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
 
-*Source: Player's Handbook p. 258. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -8,101 +8,197 @@ aliases:
   - Paladin
 ---
 # Paladin
-*Source: Player's Handbook p. 82. Available in the SRD.*  
+*Source: Player's Handbook p. 82. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-> [!tldr]- Feature progression
+> [!tldr] Class and Feature Progression
 > 
-> | Level | PB | Features |
-> |-------|----|----------|
-> | 1st | +2 | [Divine Sense](#Divine%20Sense%20(Level%201)), [Lay on Hands](#Lay%20on%20Hands%20(Level%201)) |
-> | 2nd | +2 | [Divine Smite](#Divine%20Smite%20(Level%202)), [Fighting Style](#Fighting%20Style%20(Level%202)), [Spellcasting](#Spellcasting%20(Level%202)) |
-> | 3rd | +2 | [Divine Health](#Divine%20Health%20(Level%203)), [Sacred Oath](#Sacred%20Oath%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Martial Versatility](#Martial%20Versatility%20(Level%204)) |
-> | 5th | +3 | [Extra Attack](#Extra%20Attack%20(Level%205)) |
-> | 6th | +3 | [Aura of Protection](#Aura%20of%20Protection%20(Level%206)) |
-> | 7th | +3 | [Sacred Oath feature](#Sacred%20Oath%20feature%20(Level%207)) |
-> | 8th | +3 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%208)) |
-> | 9th | +4 | ⏤ |
-> | 10th | +4 | [Aura of Courage](#Aura%20of%20Courage%20(Level%2010)) |
-> | 11th | +4 | [Improved Divine Smite](#Improved%20Divine%20Smite%20(Level%2011)) |
-> | 12th | +4 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2012)) |
-> | 13th | +5 | ⏤ |
-> | 14th | +5 | [Cleansing Touch](#Cleansing%20Touch%20(Level%2014)) |
-> | 15th | +5 | [Sacred Oath feature](#Sacred%20Oath%20feature%20(Level%2015)) |
-> | 16th | +5 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2016)) |
-> | 17th | +6 | ⏤ |
-> | 18th | +6 | [Aura improvements](#Aura%20improvements%20(Level%2018)) |
-> | 19th | +6 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2019)) |
-> | 20th | +6 | [Sacred Oath feature](#Sacred%20Oath%20feature%20(Level%2020)) |
-> 
-> - PB: Proficiency Bonus
-^feature-progression
-
-> [!tldr]- Class progression
-> 
-> | Level | 1st | 2nd | 3rd | 4th | 5th |
-> |-------|-----|-----|-----|-----|-----|
-> | 1st | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 2nd | 2 | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 3rd | 3 | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 4th | 3 | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 5th | 4 | 2 | ⏤ | ⏤ | ⏤ |
-> | 6th | 4 | 2 | ⏤ | ⏤ | ⏤ |
-> | 7th | 4 | 3 | ⏤ | ⏤ | ⏤ |
-> | 8th | 4 | 3 | ⏤ | ⏤ | ⏤ |
-> | 9th | 4 | 3 | 2 | ⏤ | ⏤ |
-> | 10th | 4 | 3 | 2 | ⏤ | ⏤ |
-> | 11th | 4 | 3 | 3 | ⏤ | ⏤ |
-> | 12th | 4 | 3 | 3 | ⏤ | ⏤ |
-> | 13th | 4 | 3 | 3 | 1 | ⏤ |
-> | 14th | 4 | 3 | 3 | 1 | ⏤ |
-> | 15th | 4 | 3 | 3 | 2 | ⏤ |
-> | 16th | 4 | 3 | 3 | 2 | ⏤ |
-> | 17th | 4 | 3 | 3 | 3 | 1 |
-> | 18th | 4 | 3 | 3 | 3 | 1 |
-> | 19th | 4 | 3 | 3 | 3 | 2 |
-> | 20th | 4 | 3 | 3 | 3 | 2 |
-> 
-> - 1st-9th: Spell slots per level
-^class-progression
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='3'></th><th colspan='5'>Spell Slots per Spell Level</th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="spellSlot">1st</th><th class="spellSlot">2nd</th><th class="spellSlot">3rd</th><th class="spellSlot">4th</th><th class="spellSlot">5th</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Divine%20Sense%20(Level%201)'>Divine Sense</a>, <a href='#Lay%20on%20Hands%20(Level%201)'>Lay on Hands</a></td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Divine%20Smite%20(Level%202)'>Divine Smite</a>, <a href='#Fighting%20Style%20(Level%202)'>Fighting Style</a>, <a href='#Spellcasting%20(Level%202)'>Spellcasting</a></td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Divine%20Health%20(Level%203)'>Divine Health</a>, <a href='#Sacred%20Oath%20(Level%203)'>Sacred Oath</a></td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a>, <a href='#Martial%20Versatility%20(Level%204)'>Martial Versatility</a></td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra%20Attack%20(Level%205)'>Extra Attack</a></td><td class="spellSlot">4</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Aura%20of%20Protection%20(Level%206)'>Aura of Protection</a></td><td class="spellSlot">4</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Sacred%20Oath%20feature%20(Level%207)'>Sacred Oath feature</a></td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Aura%20of%20Courage%20(Level%2010)'>Aura of Courage</a></td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Improved%20Divine%20Smite%20(Level%2011)'>Improved Divine Smite</a></td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Cleansing%20Touch%20(Level%2014)'>Cleansing Touch</a></td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Sacred%20Oath%20feature%20(Level%2015)'>Sacred Oath feature</a></td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Aura%20improvements%20(Level%2018)'>Aura improvements</a></td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2019)'>Ability Score Improvement</a></td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Sacred%20Oath%20feature%20(Level%2020)'>Sacred Oath feature</a></td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td></tr>
+> </tbody></table>
+^class-progession
 
 ## Hit Points
 
 - **Hit Dice**: 1d10 per Paladin level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
 
 ## Starting Paladin
 
-You are proficient with the following items, in addition to any proficiencies provided by your race or background.
-
-- **Saving Throws**: Wisdom, Charisma
-- **Armor**: light, medium, heavy, [[5. Mechanics/Items/Shield.md\|shields]]
-- **Weapons**: simple, martial
+- **Saving Throws**: Charisma, Wisdom
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Rules/Item Types.md#Heavy%20Armor\|heavy armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Weapons**: simple weapons, martial weapons
 - **Tools**: none
-- **Skills**: Choose 2 from *Athletics*, *Insight*, *Intimidation*, *Medicine*, *Persuasion*, *Religion*
+- **Skills**: choose 2 from [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]], [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]], [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]], and [[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]
 
-You begin play with the following equipment, in addition to any equipment provided by your background.
+You start with the following items, plus anything provided by your background.
 
-- (a) a martial weapon and a [[5. Mechanics/Items/Shield.md\|shield]] or (b) two martial weapons  
-- (a) five [[5. Mechanics/Items/Javelin.md\|javelins]] or (b) any simple melee weapon  
-- (a) a [[5. Mechanics/Items/Priests Pack.md\|priest's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
-- [[5. Mechanics/Items/Chain Mail.md\|Chain mail]] and a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]]  
+- (a) a martial weapon and a [[5. Mechanics/Items/Shield.md\|shield]] or (b) two martial weapons
+- (a) five [[5. Mechanics/Items/Javelin.md\|javelins]] or (b) any simple melee weapon
+- (a) a [[5. Mechanics/Items/Priests Pack.md\|priest's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
+- [[5. Mechanics/Items/Chain Mail.md\|Chain mail]] and a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]]
 
-Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
+Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 ## Multiclassing Paladin
 
-To multiclass as a Paladin, you must meet the following prerequisites:
+**Ability Score Minimum:**Charisma 13, Strength 13
 
-- Strength 13
-- Charisma 13
+When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-You gain the following proficiencies:
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Weapons**: simple weapons, martial weapons
 
-- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md\|shields]]
-- **Weapons**: simple, martial
-- **Tools**: none
+## Paladin
+
+Clad in plate armor that gleams in the sunlight despite the dust and grime of long travel, a human lays down her sword and shield and places her hands on a mortally wounded man. Divine radiance shines from her hands, the man's wounds knit closed, and his eyes open wide with amazement.
+
+A dwarf crouches behind an outcrop, his black cloak making him nearly invisible in the night, and watches an orc war band celebrating its recent victory. Silently, he stalks into their midst and whispers an oath, and two orcs are dead before they even realize he is there.
+
+Silver hair shining in a shaft of light that seems to illuminate only him, an elf laughs with exultation. His spear flashes like his eyes as he jabs again and again at a twisted giant, until at last his light overcomes its hideous darkness.
+
+Whatever their origin and their mission, paladins are united by their oaths to stand against the forces of evil. Whether sworn before a god's altar and the witness of a priest, in a sacred glade before nature spirits and fey beings, or in a moment of desperation and grief with the dead as the only witness, a paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
+
+### The Cause of Righteousness
+
+A paladin swears to uphold justice and righteousness, to stand with the good things of the world against the encroaching darkness, and to hunt the forces of evil wherever they lurk. Different paladins focus on various aspects of the cause of righteousness, but all are bound by the oaths that grant them power to do their sacred work. Although many paladins are devoted to gods of good, a paladin's power comes as much from a commitment to justice itself as it does from a god.
+
+Paladins train for years to learn the skills of combat, mastering a variety of weapons and armor. Even so, their martial skills are secondary to the magical power they wield: power to heal the sick and injured, to smite the wicked and the undead, and to protect the innocent and those who join them in the fight for justice.
+
+### Beyond the Mundane Life
+
+Almost by definition, the life of a paladin is an adventuring life. Unless a lasting injury has taken him or her away from adventuring for a time, every paladin lives on the front lines of the cosmic struggle against evil. Fighters are rare enough among the ranks of the militias and armies of the world, but even fewer people can claim the true calling of a paladin. When they do receive the call, these warriors turn from their former occupations and take up arms to fight evil. Sometimes their oaths lead them into the service of the crown as leaders of elite groups of knights, but even then their loyalty is first to the cause of righteousness, not to crown and country.
+
+Adventuring paladins take their work seriously. A delve into an ancient ruin or dusty crypt can be a quest driven by a higher purpose than the acquisition of treasure. Evil lurks in dungeons and primeval forests, and even the smallest victory against it can tilt the cosmic balance away from oblivion.
+
+### Creating a Paladin
+
+The most important aspect of a paladin character is the nature of his or her holy quest. Although the class features related to your oath don't appear until you reach 3rd level, plan ahead for that choice by reading the oath descriptions at the end of the class. Are you a devoted servant of good, loyal to the gods of justice and honor, a holy knight in shining armor venturing forth to smite evil? Are you a glorious champion of the light, cherishing everything beautiful that stands against the shadow, a knight whose oath descends from traditions older than many of the gods? Or are you an embittered loner sworn to take vengeance on those who have done great evil, sent as an angel of death by the gods or driven by your need for revenge? Appendix B lists many deities worshiped by paladins throughout the multiverse, such as Torm, Tyr, Heironeous, Paladine, Kiri-Jolith, Dol Arrah, the Silver Flame, Bahamut, Athena, Re-Horakhty, and Heimdall.
+
+How did you experience your call to serve as a paladin? Did you hear a whisper from an unseen god or angel while you were at prayer? Did another paladin sense the potential within you and decide to train you as a squire? Or did some terrible event—the destruction of your home, perhaps—drive you to your quests? Perhaps you stumbled into a sacred grove or a hidden elven enclave and found yourself called to protect all such refuges of goodness and beauty. Or you might have known from your earliest memories that the paladin's life was your calling, almost as if you had been sent into the world with that purpose stamped on your soul.
+
+As guardians against the forces of wickedness, paladins are rarely of any evil alignment. Most of them walk the paths of charity and justice. Consider how your alignment colors the way you pursue your holy quest and the manner in which you conduct yourself before gods and mortals. Your oath and alignment might be in harmony, or your oath might represent standards of behavior that you have not yet attained.
+
+#### Quick Build
+
+You can make a paladin quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the [[5. Mechanics/Backgrounds/Noble.md\|noble]] background.
+
+> [!quote] A quote from Isteval  
+> 
+> The true worth of a paladin is measured not in foes defeated or dungeons plundered. It is measured in lives saved and hearts turned to the causes of mercy and justice.
+
+A paladin is a living embodiment of an oath—a promise or a vow made manifest in the person of a holy warrior who has the skill and the determination to see the cause through to the end. Some paladins devote themselves expressly to protecting the innocent and spreading justice in the world, while others resolve to attain that goal by conquering those who stand defiant and bringing them under the rule of law.
+
+Although no paladin in the world could be described as typical, a number of them are narrow-minded do-gooders who refuse to tolerate even the smallest deviation from their own outlook. Paladins who take up the adventuring life, however, rarely remain so rigid in their attitudes—if only to keep from alienating their companions.
+
+You can flesh out your paladin character by using the suggestions below. It's important to keep in mind that most paladins aren't robots. They have doubts and prejudices and harbor contradictory thoughts just as any other character does. Some are compelled by an internal motivation that might sometimes be at odds with the principles of their oaths.
+
+## Personal Goal
+_Source: Xanathar's Guide to Everything_
+
+The precepts of a paladin's oath provide purpose to the character and dictate an ultimate goal or an overall intent that the paladin abides by and advances. Aside from that, some paladins are driven by a personal goal that either complements or transcends the dictates of their oaths. Paladins who swear different oaths might have the same personal goal, differing only in how they apply that goal to their actions when upholding their oaths.
+
+If your paladin character has a personal goal, it might be drawn from some life event and thus not directly tied to the oath.
+
+**Personal Goal**
+
+`dice: [[Paladin.md#^personal-goal]]`
+
+| dice: d6 | Personal Goal |
+|----------|---------------|
+| 1 | Peace. You fight so that future generations will not have to. |
+| 2 | Revenge. Your oath is the vehicle through which you will right an ancient wrong. |
+| 3 | Duty. You will live up to what you have sworn to do, or die trying. |
+| 4 | Leadership. You will win a great battle that bards will sing about, and in so doing, you will become an example to inspire others. |
+| 5 | Faith. You know your path is righteous, or else the gods would not have set you upon it. |
+| 6 | Glory. You will lead the world into a grand new era, one that will be branded with your name. |
+^personal-goal
+
+## Symbol
+_Source: Xanathar's Guide to Everything_
+
+Paladins are mindful of the influence of symbols, and many of them adopt or design an artistic device that bears a distinctive image. Your symbol exemplifies the oath you have taken and communicates that message to those around you, friend and foe alike.
+
+Your symbol might be displayed on a banner, a flag, or your clothing for all to see. Or it could be less obvious, such as a trinket or a token that you carry concealed on your person.
+
+**Symbol**
+
+`dice: [[Paladin.md#^symbol]]`
+
+| dice: d6 | Symbol |
+|----------|--------|
+| 1 | A dragon, emblematic of your nobility in peace and your ferocity in combat |
+| 2 | A clenched fist, because you are always ready to fight for your beliefs |
+| 3 | An upraised open hand, indicating your preference for diplomacy over combat |
+| 4 | A red heart, showing the world your commitment to justice |
+| 5 | A black heart, signifying that emotions such as pity do not sway your dedication to your oath |
+| 6 | An unblinking eye, meaning that you are ever alert to all threats against your cause |
+^symbol
+
+## Nemesis
+_Source: Xanathar's Guide to Everything_
+
+Their adherence to a sacred oath demands that paladins take an active stance in carrying their beliefs into the world. This activity naturally leads to conflict with creatures or entities that oppose those beliefs. Among those opponents, one often stands out as a paladin's most persistent or most formidable foe—a nemesis whose presence or influence is a constant factor in a paladin's life.
+
+Your paladin character might have an enemy that dates from the days before you took up your path. Or you could be a target because when you became a paladin, you immediately attracted the attention of those that would do you in. If you have a nemesis, who or what is it? Whom among your enemies do you consider to be the biggest threat to achieving your goals?
+
+**Nemesis**
+
+`dice: [[Paladin.md#^nemesis]]`
+
+| dice: d6 | Nemesis |
+|----------|---------|
+| 1 | A mighty orc war chief who threatens to overrun and destroy everything you hold sacred |
+| 2 | A fiend or a celestial, the agent of a power of the Outer Planes, who has been charged with corrupting or redeeming you, as appropriate |
+| 3 | A dragon whose servants dog your steps |
+| 4 | A high priest who sees you as a misguided fool and wants you to abandon your religion |
+| 5 | A rival paladin who trained with you but became an oath-breaker and holds you responsible |
+| 6 | A vampire who has sworn revenge against all paladins after being defeated by one |
+^nemesis
+
+## Temptation
+_Source: Xanathar's Guide to Everything_
+
+Although paladins are dedicated to their oaths, they are mortals, and thus they are flawed. Many of them exhibit a type of behavior or hold to an attitude that is not in keeping with the highest ideals of their calling.
+
+What is the temptation that your character succumbs to or finds it difficult to resist?
+
+**Temptation**
+
+`dice: [[Paladin.md#^temptation]]`
+
+| dice: d6 | Temptation |
+|----------|------------|
+| 1 | Fury. When your anger is roused, you have trouble thinking straight, and you fear you might do something you'll regret. |
+| 2 | Pride. Your deeds are noteworthy, and no one takes note of them more often than you. |
+| 3 | Lust. You can't resist an attractive face and a pleasant smile. |
+| 4 | Envy. You are mindful of what some famous folk have accomplished, and you feel inadequate when your deeds don't compare to theirs. |
+| 5 | Despair. You consider the great strength of the enemies you must defeat, and at times you see no way to achieve final victory. |
+| 6 | Greed. Regardless of how much glory and treasure you amass, it's never enough for you. |
+^temptation
 
 ## Class Features
 
@@ -124,7 +220,7 @@ This feature has no effect on undead and constructs.
 
 ### Divine Smite (Level 2)
 
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is `dice: 2d8|avg|noform` (`2d8`) for a 1st-level spell slot, plus `dice: 1d8|avg|noform` (`1d8`) for each spell level higher than 1st, to a maximum of `dice: 5d8|avg|noform` (`5d8`). The damage increases by `dice: 1d8|avg|noform` (`1d8`) if the target is an undead or a fiend, to a maximum of `dice: 6d8|avg|noform` (`6d8`).
+Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is `dice:2d8|noform|avg` (`2d8`) for a 1st-level spell slot, plus `dice:1d8|noform|avg` (`1d8`) for each spell level higher than 1st, to a maximum of `dice:5d8|noform|avg` (`5d8`). The damage increases by `dice:1d8|noform|avg` (`1d8`) if the target is an undead or a fiend, to a maximum of `dice:6d8|noform|avg` (`6d8`).
 
 ### Fighting Style (Level 2)
 
@@ -153,9 +249,9 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 
 Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.
 
-**Spell save DC**: 8 + your proficiency bonus + your Charisma modifier
+<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Charisma modifier</span>
 
-**Spell attack modifier**: your proficiency bonus + your Charisma modifier
+<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma modifier</span>
 
 #### Spellcasting Focus
 
@@ -188,7 +284,7 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 ### Channel Divinity: Harness Divine Power (Level 3)
 _Source: Tasha's Cauldron of Everything p. 52_
 
-*3rd-level paladin [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
+*3rd-level paladin [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
 
 You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 3rd level, once; 7th level, twice; and 15th level, thrice. You regain all expended uses when you finish a long rest.
 
@@ -210,9 +306,9 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Martial Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 52_
 
-*4th-level paladin [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
+*4th-level paladin [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
 
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a [[5. Mechanics/Optional Features/List Fighting Style Paladin.md\|fighting style]] you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a [[5. Mechanics/Lists/List Optfeaturetype Fs P.md\|fighting style]] you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
 
 ### Extra Attack (Level 5)
 
@@ -236,13 +332,13 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Aura of Courage (Level 10)
 
-Starting at 10th level, you and friendly creatures within 10 feet of you can't be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] while you are conscious.
+Starting at 10th level, you and friendly creatures within 10 feet of you can't be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
 ### Improved Divine Smite (Level 11)
 
-By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra `dice: 1d8|avg|noform` (`1d8`) radiant damage.
+By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra `dice:1d8|noform|avg` (`1d8`) radiant damage.
 
 ### Ability Score Improvement (Level 12)
 
@@ -282,6 +378,6 @@ At 20th level, you gain a feature granted to you by your Sacred Oath.
 
 ## Optional Features
 
-> [!example]- Fighting Style, Paladin
-> ![Fighting Style, Paladin](compendium/optional-features/list-fighting-style-paladin.md#Fighting%20Style,%20Paladin)
-^list-fighting-style-paladin
+> [!example]- Optional Features: Fighting Style, Paladin
+> ![Fighting Style, Paladin](compendium/lists/list-optfeaturetype-fs-p.md#Fighting%20Style,%20Paladin)
+^list-optfeature-fs-p

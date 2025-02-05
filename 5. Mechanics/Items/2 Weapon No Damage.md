@@ -5,13 +5,12 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/rare
   - item/tier/major
-  - item/wondrous/wondrous-item
+  - item/wondrous/generic-variant
 aliases:
   - +2 Weapon (no damage)
-  - +2 Net
 ---
 # +2 Weapon (no damage)
-*Generic Variant, major, rare*  
+*Major, rare*  
 
 
 You have a +2 bonus to attack rolls made with this weapon.

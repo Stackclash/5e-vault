@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: 'grassland, forest'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
@@ -8,12 +12,11 @@ tags:
   - monster/environment/grassland
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Deer
 ---
-# [[5. Mechanics/Bestiary/Beast/Deer.md|Deer]]
-*Source: Monster Manual p. 321. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Deer.md|Deer]]
+*Source: Monster Manual p. 321. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Deer"
@@ -40,8 +43,6 @@ aliases:
   "name": "Bite"
 "source":
 - "MM"
-- "HotDQ"
-- "DIP"
 "image": "5. Mechanics/Bestiary/Beast/token/deer.webp"
 ```
 ^statblock

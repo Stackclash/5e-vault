@@ -3,16 +3,27 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/cleric/tempest-domain
+  - spell/class/bard
   - spell/class/druid
-  - spell/class/fighter/eldritch-knight
   - spell/class/ranger
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
-  - spell/class/warlock/the-genie
   - spell/class/wizard
-  - spell/level/1
+  - spell/feat/magic-initiate
+  - spell/level/1st-level
+  - spell/race/triton
   - spell/school/conjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+  - spell/subclass/ocean-domain
+  - spell/subclass/tempest-domain
+  - spell/subclass/the-frozen-one
+  - spell/subclass/the-genie
+level: 1st-level
+range: false
+school: Conjuration
+time: 1 action
+duration: 'Concentration, up to 1 hour'
+components: 'V, S'
 aliases:
   - Fog Cloud
 ---
@@ -28,6 +39,6 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Tempest Domain.md\|Cleric (Tempest Domain)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Ocean Domain (KPDM)\|Cleric (Ocean Domain)]]; [[List Spells Classes Cleric Tempest Domain\|Cleric (Tempest Domain)]]; [[List Spells Classes Warlock The Frozen One (KPDM)\|Warlock (The Frozen One)]]; [[List Spells Classes Warlock The Genie (TCE)\|Warlock (The Genie)]]
 
-*Source: Player's Handbook p. 243. Available in the SRD.*
+*Source: Player's Handbook p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

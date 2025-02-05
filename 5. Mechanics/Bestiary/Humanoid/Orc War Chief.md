@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: 'underdark, mountain, grassland, forest, swamp, hill, arctic'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
@@ -13,11 +17,10 @@ tags:
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/humanoid/orc
-statblock: inline
 aliases:
   - Orc War Chief
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Orc War Chief.md|Orc War Chief]]
+# [[5. Mechanics\Bestiary\Humanoid\Orc War Chief.md|Orc War Chief]]
 *Source: Monster Manual p. 246*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -69,7 +72,7 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 > After years of bloody conflict with his more civilized neighbors, Obould did the unthinkable and brokered a peace treaty with his enemies. This treaty confused many of the orcs under Obould's command. It was either a clever ploy by Obould to buy time while he strengthened his army for a final, decisive sweep across the Savage Frontier, or it was a troubling sign that Obould had forsaken the ways of Gruumsh and needed to be destroyed.
 ^king-obould-many-arrows
 
-> [!quote]- A quote from An account of War Chief Hartusk's brutality in the aftermath of the Battle of the Cold Vale  
+> [!quote] A quote from An account of War Chief Hartusk's brutality in the aftermath of the Battle of the Cold Vale  
 > 
 > He worked his serrated long knife savagely, tearing out the king's throat to the howls of approval from his legions .The ferocious orc didn't stop there, digging and ripping the blade back and forth unrelentingly until he took the head off the dwarf king's shoulders.
 
@@ -125,13 +128,6 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
   "name": "Battle Cry (1/Day)"
 "source":
 - "MM"
-- "SKT"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "IDRotF"
-- "WBtW"
-- "CRCotN"
 "image": "5. Mechanics/Bestiary/Humanoid/token/orc-war-chief.webp"
 ```
 ^statblock

@@ -17,4 +17,4 @@ aliases:
 
 While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as -50 degrees Fahrenheit.
 
-*Source: Dungeon Master's Guide p. 193. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

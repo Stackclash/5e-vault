@@ -3,10 +3,19 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/druid
   - spell/class/ranger
-  - spell/level/4
+  - spell/level/4th-level
   - spell/school/conjuration
+  - spell/subclass/greenleaf-college
+  - spell/subclass/hedge-mage
+level: 4th-level
+range: false
+school: Conjuration
+time: 1 action
+duration: 'Concentration, up to 1 hour'
+components: 'V, S, one holly berry per creature summoned'
 aliases:
   - Conjure Woodland Beings
 ---
@@ -33,6 +42,6 @@ The DM has the creatures' statistics.
 
 **At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 
-**Classes**: [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Ranger.md\|Ranger]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Bard Greenleaf College (KPDM)\|Bard (Greenleaf College)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]
 
-*Source: Player's Handbook p. 226. Available in the SRD.*
+*Source: Player's Handbook p. 226. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

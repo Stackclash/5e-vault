@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 16
+environments: null
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/16
   - monster/size/large
   - monster/type/celestial
-statblock: inline
 aliases:
   - Planetar
 ---
-# [[5. Mechanics/Bestiary/Celestial/Planetar.md|Planetar]]
-*Source: Monster Manual p. 17. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Celestial\Planetar.md|Planetar]]
+*Source: Monster Manual p. 17. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
 
@@ -61,8 +64,8 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 "skillsaves":
   "Perception": !!int "11"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
 "senses": "truesight 120 ft., passive Perception 21"
 "languages": "all, telepathy 120 ft."
 "cr": "16"
@@ -96,12 +99,6 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
   "name": "Healing Touch (4/Day)"
 "source":
 - "MM"
-- "BGDIA"
-- "CRCotN"
-- "JttRC"
-- "AATM"
-- "SatO"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Celestial/token/planetar.webp"
 ```
 ^statblock

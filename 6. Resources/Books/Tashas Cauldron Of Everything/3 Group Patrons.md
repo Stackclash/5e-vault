@@ -23,7 +23,7 @@ The following sections present several group patron options. The description of 
 
 ### Group Assistance
 
-Having a group patron gives an adventuring group a common purpose, which inspires better coordination in the form of guidance and encouragement. As a result of this unity, each member of the party can grant advantage to an ability check, an attack roll, or a saving throw of another member of the party. To grant advantage in this way, a character and the chosen target must be able to see or hear each other, and neither can be [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. Once a party member grants this advantage, that individual can't do so again until they finish a long rest.
+Having a group patron gives an adventuring group a common purpose, which inspires better coordination in the form of guidance and encouragement. As a result of this unity, each member of the party can grant advantage to an ability check, an attack roll, or a saving throw of another member of the party. To grant advantage in this way, a character and the chosen target must be able to see or hear each other, and neither can be [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. Once a party member grants this advantage, that individual can't do so again until they finish a long rest.
 
 ### Perks
 
@@ -50,7 +50,7 @@ Here are some of the most likely patrons for an adventuring group. Presented in 
 
 ### Academy
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > For all you novice wizards thinking about magic training, seriously consider apprenticing. I know liches who are still paying off their academy loans.
 
@@ -64,7 +64,7 @@ Any assemblage of scholars and truth-seekers can function as an academy. General
 
  Roll or pick from the Academy Type table to determine the institution with which you're aligned.
 
-![[5. Mechanics/Tables/Academy Type.md\|Academy Type]]
+![[5. Mechanics/Tables/Academy Type (TCE).md\|Academy Type]]
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/060-02-002.webp#center\|"Wizardly boyfriends relax while their classmates practice magic at an arcane enclave"]]
 
@@ -98,7 +98,7 @@ How much autonomy you have in choosing your missions and how often you're expect
 
  Roll or pick from the Academy Contact table to determine who manages the relationship between you and the academy.
 
-![[5. Mechanics/Tables/Academy Contact.md\|Academy Contact]]
+![[5. Mechanics/Tables/Academy Contact (TCE).md\|Academy Contact]]
 
 #### Academy Factotums
 
@@ -106,7 +106,7 @@ If you have an academy as your patron, you are likely engaged in a scholarly pur
 
  The Academy Factotum Roles table provides suggestions for functions you perform within an academy and the backgrounds frequently associated with each role.
 
-![[5. Mechanics/Tables/Academy Factotum Roles.md\|Academy Factotum Roles]]
+![[5. Mechanics/Tables/Academy Factotum Roles (TCE).md\|Academy Factotum Roles]]
 
 #### Academy Quests
 
@@ -114,11 +114,11 @@ The focus of your study and the academy's research defines the missions you unde
 
  The Academy Quests table presents a few of the sort of endeavors your work or studies lead you to undertake.
 
-![[5. Mechanics/Tables/Academy Quests.md\|Academy Quests]]
+![[5. Mechanics/Tables/Academy Quests (TCE).md\|Academy Quests]]
 
 ### Ancient Being
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > Any time an unfathomably powerful entity sweeps in and offers godlike rewards in return for just a few teensy favors, it's a scam. Unless it's me. I'd never lie to you, reader dearest.
 
@@ -130,7 +130,7 @@ From brooding dragons to unfathomable voices whispering from the dark, ancient b
 
  Roll or pick from the Ancient Being table to determine the being your group serves.
 
-![[5. Mechanics/Tables/Ancient Being.md\|Ancient Being]]
+![[5. Mechanics/Tables/Ancient Being (TCE).md\|Ancient Being]]
 
 #### Ancient Being Perks
 
@@ -140,7 +140,7 @@ With the ancient being as your group's patron, you gain the following perks.
 
 ##### Equipment
 
-Your patron's network has access to certain magic items. You can purchase common magic items from your patron contact. The DM determines the available stock or can call for a group Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to ascertain if the ancient being's network can successfully locate a desired item. The DC for this check is 10 in a city, 15 in a town, and 20 in a village. If the check fails, `dice: 1d8|avg|noform` (`1d8`) days must pass before the same item can be searched for again in that community.
+Your patron's network has access to certain magic items. You can purchase common magic items from your patron contact. The DM determines the available stock or can call for a group Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to ascertain if the ancient being's network can successfully locate a desired item. The DC for this check is 10 in a city, 15 in a town, and 20 in a village. If the check fails, `dice:1d8|noform|avg` (`1d8`) days must pass before the same item can be searched for again in that community.
 
  The DM sets the price of a common magic item or determines it randomly: `2d4 × 10` gp, or half as much for a consumable item such as a potion or scroll.
 
@@ -160,7 +160,7 @@ Your patron grants your group a small measure of esoteric power. At 5th level, a
 
 The organizational contact who dispenses assignments or delivers the word of your patron runs the gamut from prosaic to otherworldly. Roll or pick from the Ancient Being Contact table to determine who or what conveys your patron's will.
 
-![[5. Mechanics/Tables/Ancient Being Contact.md\|Ancient Being Contact]]
+![[5. Mechanics/Tables/Ancient Being Contact (TCE).md\|Ancient Being Contact]]
 
 #### Ancient Being Operatives
 
@@ -168,7 +168,7 @@ Consider the overarching goals of your group's ancient being patron when determi
 
  The Ancient Being Operative Roles table suggests a variety of parts you can play within an ancient being's schemes and the backgrounds frequently associated with each role.
 
-![[5. Mechanics/Tables/Ancient Being Operative Roles.md\|Ancient Being Operative Roles]]
+![[5. Mechanics/Tables/Ancient Being Operative Roles (TCE).md\|Ancient Being Operative Roles]]
 
 #### Ancient Being Quests
 
@@ -176,11 +176,11 @@ Though their work remains mysterious, ancient beings send their agents to exact 
 
  The Ancient Being Quests table presents a few options for the sorts of work your patron expects from you.
 
-![[5. Mechanics/Tables/Ancient Being Quests.md\|Ancient Being Quests]]
+![[5. Mechanics/Tables/Ancient Being Quests (TCE).md\|Ancient Being Quests]]
 
 ### Aristocrat
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > There's a Bandit Kingdoms saying that I'm forgetting—something like "those who rub against money are closest when the collectors come." I don't remember the specifics, but it seems applicable here.
 
@@ -192,7 +192,7 @@ From the heads of scheming merchant families to immortal sorcerer-queens, each m
 
  Roll or pick from the Aristocrat Types table to determine what kind of noble you serve.
 
-![[5. Mechanics/Tables/Aristocrat Types.md\|Aristocrat Types]]
+![[5. Mechanics/Tables/Aristocrat Types (TCE).md\|Aristocrat Types]]
 
 #### Aristocrat Perks
 
@@ -222,7 +222,7 @@ Aside from a few exceptions, aristocrats prefer to have someone else handle comm
 
  Roll or pick from the Aristocrat Contact table to determine who serves as your patron's proxy.
 
-![[5. Mechanics/Tables/Aristocrat Contact.md\|Aristocrat Contact]]
+![[5. Mechanics/Tables/Aristocrat Contact (TCE).md\|Aristocrat Contact]]
 
 #### Aristocrat Retainers
 
@@ -230,7 +230,7 @@ Aristocrats seek agents to pursue business, political, criminal, or personal age
 
  The Aristocrat Retainer Roles table suggests a variety of parts you might play in an aristocrat's agenda and the backgrounds frequently associated with each role.
 
-![[5. Mechanics/Tables/Aristocrat Retainer Roles.md\|Aristocrat Retainer Roles]]
+![[5. Mechanics/Tables/Aristocrat Retainer Roles (TCE).md\|Aristocrat Retainer Roles]]
 
 #### Aristocrat Quests
 
@@ -238,11 +238,11 @@ A missive from your patron proffers a different kind of mission each time. For o
 
  The Aristocrat Quests table presents the sorts of work you might conduct at your highborn patron's request.
 
-![[5. Mechanics/Tables/Aristocrat Quests.md\|Aristocrat Quests]]
+![[5. Mechanics/Tables/Aristocrat Quests (TCE).md\|Aristocrat Quests]]
 
 ### Criminal Syndicate
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > Crime—what's the point? Why steal from someone when you can simply outwit them or turn them into a toad?
 
@@ -256,7 +256,7 @@ Criminal syndicates range from the local thieves' guild, to a corrupt consortium
 
  Roll or pick from the Syndicate Types table to determine what type of criminal organization you serve.
 
-![[5. Mechanics/Tables/Types Of Criminal Syndicates Syndicate Types.md\|Types of Criminal Syndicates; Syndicate Types]]
+![[5. Mechanics/Tables/Types Of Criminal Syndicates Syndicate Types (TCE).md\|Types of Criminal Syndicates; Syndicate Types]]
 
 #### Criminal Syndicate Perks
 
@@ -288,7 +288,7 @@ Each member of the syndicate has a place in the organization. You report to a co
 
  Roll or pick from the Syndicate Contact table to determine your contact within a criminal organization.
 
-![[5. Mechanics/Tables/Criminal Syndicate Contact Syndicate Contact.md\|Criminal Syndicate Contact; Syndicate Contact]]
+![[5. Mechanics/Tables/Criminal Syndicate Contact Syndicate Contact (TCE).md\|Criminal Syndicate Contact; Syndicate Contact]]
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/063-02-005.webp#center\|"Ott Steeltoes holds aloft Sylgar, the infamous fish of the crime lord Xanathar"]]
 
@@ -298,7 +298,7 @@ Whether you're a lifelong scoundrel or an ambitious upstart, you seek to gain we
 
  The Criminal Syndicate Member Roles suggests positions you might fill in the organization and the backgrounds frequently associated with each role.
 
-![[5. Mechanics/Tables/Criminal Syndicate Member Roles.md\|Criminal Syndicate Member Roles]]
+![[5. Mechanics/Tables/Criminal Syndicate Member Roles (TCE).md\|Criminal Syndicate Member Roles]]
 
 #### Criminal Syndicate Quests
 
@@ -306,11 +306,11 @@ Your work as a syndicate member involves more than simple street swindles or pic
 
  The Criminal Syndicate Quests table explores what kind of work you do for the organization.
 
-![[5. Mechanics/Tables/Criminal Syndicate Quests.md\|Criminal Syndicate Quests]]
+![[5. Mechanics/Tables/Criminal Syndicate Quests (TCE).md\|Criminal Syndicate Quests]]
 
 ### Guild
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > There's power in groups. One bee's a pest, but nobody messes with the swarm.
 
@@ -322,7 +322,7 @@ The guild structure covers a swath of business ventures, differentiated by their
 
  Roll or pick from the Guild Types table to determine the general sort of organization you operate within.
 
-![[5. Mechanics/Tables/Guild Types.md\|Guild Types]]
+![[5. Mechanics/Tables/Guild Types (TCE).md\|Guild Types]]
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/064-02-006.webp#center\|"A hero fights the bullywug who guards the villainous master of the bakers' guild"]]
 
@@ -352,7 +352,7 @@ Even as a member in good standing of the guild, you can't simply stroll up to th
 
  Roll or pick from the Guild Contact table to determine your immediate contact within the guild.
 
-![[5. Mechanics/Tables/Guild Contact.md\|Guild Contact]]
+![[5. Mechanics/Tables/Guild Contact (TCE).md\|Guild Contact]]
 
 #### Guild Representatives
 
@@ -360,7 +360,7 @@ As a guild member, you might be a professional who works directly toward the gui
 
  The Guild Representative Roles table suggests positions you might fill in a guild and the backgrounds frequently associated with each role.
 
-![[5. Mechanics/Tables/Guild Representative Roles.md\|Guild Representative Roles]]
+![[5. Mechanics/Tables/Guild Representative Roles (TCE).md\|Guild Representative Roles]]
 
 #### Guild Quests
 
@@ -368,11 +368,11 @@ As a member of the guild, you're called on to ply your skills in the organizatio
 
  The Guild Quests table presents a few options for the sorts of work the guild requires of you.
 
-![[5. Mechanics/Tables/Guild Quests.md\|Guild Quests]]
+![[5. Mechanics/Tables/Guild Quests (TCE).md\|Guild Quests]]
 
 ### Military Force
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > The whole machine of war is barbaric. In a sane world, conflicts would be resolved by contests of apocalyptic magics or by continent-reshaping brawls between titanic, soul-fueled reptiles. You know, reasonable options.
 
@@ -384,7 +384,7 @@ Military forces represent a variety of organized bands of warriors. They can be 
 
  Roll or pick from the Military Force Types table to determine the general type of military patron you serve.
 
-![[5. Mechanics/Tables/Military Force Types.md\|Military Force Types]]
+![[5. Mechanics/Tables/Military Force Types (TCE).md\|Military Force Types]]
 
 #### Military Force Perks
 
@@ -418,7 +418,7 @@ Your primary contact within your hierarchy is your superior officer, the person 
 
 Roll or pick from the Military Force Contact table to determine who assigns you missions.
 
-![[5. Mechanics/Tables/Military Force Contact Commanding Officer.md\|Military Force Contact; Commanding Officer]]
+![[5. Mechanics/Tables/Military Force Contact Commanding Officer (TCE).md\|Military Force Contact; Commanding Officer]]
 
 #### Military Force Envoys
 
@@ -426,7 +426,7 @@ You might join a military force for a wide range of reasons, or the military has
 
  The Military Force Envoy Roles table suggests a variety of military roles you could fill and the backgrounds frequently associated with each role.
 
-![[5. Mechanics/Tables/Military Force Envoy Roles.md\|Military Force Envoy Roles]]
+![[5. Mechanics/Tables/Military Force Envoy Roles (TCE).md\|Military Force Envoy Roles]]
 
 #### Military Quests
 
@@ -434,11 +434,11 @@ The wide-ranging work of a military unit calls for both power and subtlety. Your
 
  The Military Quests table provides possible missions you're tasked to accomplish.
 
-![[5. Mechanics/Tables/Military Quests.md\|Military Quests]]
+![[5. Mechanics/Tables/Military Quests (TCE).md\|Military Quests]]
 
 ### Religious Order
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > Sure, serve that religious order, and soon you'll be doing a thousand loads of your high priest's laundry, because—conveniently—it's divine will.
 
@@ -450,7 +450,7 @@ Not every religious order represents an alliance of worshipers devoted to godly 
 
  Roll or pick from the Religious Order Types table to determine the type of religious patron you serve.
 
-![[5. Mechanics/Tables/Religious Order Types.md\|Religious Order Types]]
+![[5. Mechanics/Tables/Religious Order Types (TCE).md\|Religious Order Types]]
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/066-02-008.webp#center\|Acolytes prepare for a couatl festival]]
 
@@ -476,7 +476,7 @@ Your established order enjoys a robust following. It might be a cloister of prie
 
 Roll or pick from the Religious Order Contact table to determine who relays messages to and from your order's deity.
 
-![[5. Mechanics/Tables/Religious Order Contact.md\|Religious Order Contact]]
+![[5. Mechanics/Tables/Religious Order Contact (TCE).md\|Religious Order Contact]]
 
 #### Religious Order Member
 
@@ -484,7 +484,7 @@ Your primary duty to a religious order is to further your god's reach. That obli
 
  The Religious Order Member Roles table suggests positions you might fill in an order and the backgrounds frequently associated with each role.
 
-![[5. Mechanics/Tables/Religious Order Member Roles.md\|Religious Order Member Roles]]
+![[5. Mechanics/Tables/Religious Order Member Roles (TCE).md\|Religious Order Member Roles]]
 
 #### Religious Order Quests
 
@@ -492,11 +492,11 @@ The services you provide your religious order vary depending on the deity you se
 
  The Religious Order Quests table presents a few examples of how you can honor and serve your deity.
 
-![[5. Mechanics/Tables/Religious Order Quests.md\|Religious Order Quests]]
+![[5. Mechanics/Tables/Religious Order Quests (TCE).md\|Religious Order Quests]]
 
 ### Sovereign
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > I never had much interest in ruling, partly because the titles all sound so stuffy. But "witch queen" has a lovely ring to it, don't you think?
 
@@ -510,7 +510,7 @@ Broadly defined, a sovereign ranges from the head of a government to the leader 
 
  Roll or pick from the Sovereign Types table to determine what sort of liege you serve.
 
-![[5. Mechanics/Tables/Sovereign Types.md\|Sovereign Types]]
+![[5. Mechanics/Tables/Sovereign Types (TCE).md\|Sovereign Types]]
 
 #### Sovereign Perks
 
@@ -540,7 +540,7 @@ You might benefit from direct contact with your group patron. This includes audi
 
  Roll or pick from the Sovereign Contact table to determine who manages the relationship between you and the throne, if not the sovereign directly.
 
-![[5. Mechanics/Tables/Sovereign Contact.md\|Sovereign Contact]]
+![[5. Mechanics/Tables/Sovereign Contact (TCE).md\|Sovereign Contact]]
 
 #### Sovereign Proxies
 
@@ -548,7 +548,7 @@ You serve a sovereign out of national pride, out of tradition, or for your own p
 
  The Sovereign Proxy Roles table suggests ways you might serve a sovereign and the backgrounds frequently associated with each role.
 
-![[5. Mechanics/Tables/Sovereign Proxy Roles.md\|Sovereign Proxy Roles]]
+![[5. Mechanics/Tables/Sovereign Proxy Roles (TCE).md\|Sovereign Proxy Roles]]
 
 #### Sovereign Quests
 
@@ -556,7 +556,7 @@ The services you provide a sovereign largely depend on the nature of your group 
 
  The Sovereign Quests table presents a few of the sorts of missions you undertake for your liege.
 
-![[5. Mechanics/Tables/Sovereign Quests.md\|Sovereign Quests]]
+![[5. Mechanics/Tables/Sovereign Quests (TCE).md\|Sovereign Quests]]
 
 ## Being Your Own Patron
 

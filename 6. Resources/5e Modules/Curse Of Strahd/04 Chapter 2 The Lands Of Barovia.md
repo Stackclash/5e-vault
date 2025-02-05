@@ -19,7 +19,7 @@ Strahd allows the Vistani to come and go as they please because he admires their
 
 Native Barovians have been terrorized for centuries by the one they call "the devil Strahd." Only a handful of them have the will to oppose him. Barovians congregate in the valley's three main settlements—the villages of Barovia and Krezk and the town of Vallaki—for fear of falling prey to wolves and other beasts that prowl the woods. Among these people are the Keepers of the Feather, a secret society of wereravens. Not powerful enough to defeat Strahd on their own, the Keepers readily assist adventurers who find themselves drawn into Strahd's domain.
 
-> [!quote]- A quote from Tome of Strahd  
+> [!quote] A quote from Tome of Strahd  
 > 
 > My army settled in the valley of Barovia and took power over the people in the name of a just god, but with none of a god's grace or justice.
 
@@ -33,7 +33,7 @@ The evergreen trees of the Svalich Woods climb the sides of the mountains that e
 
 A deadly fog surrounds the land of Barovia and engulfs any creature that tries to leave. Even flying creatures are subject to the fog's effects, which are as follows:
 
-- A creature that starts its turn in the fog must succeed on a DC 20 Constitution saving throw or gain one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] (see "appendix A" in the "Player's Handbook"). This [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] can't be removed while the creature is in the fog.  
+- A creature that starts its turn in the fog must succeed on a DC 20 Constitution saving throw or gain one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] (see "appendix A" in the "Player's Handbook"). This [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] can't be removed while the creature is in the fog.  
 - No matter how far a creature travels in the fog, or in which direction it goes, it gets turned around so that it eventually finds itself back in Barovia.  
 - The area within the fog is heavily obscured (see "Vision and Light" in chapter 8 of the "Player's Handbook").  
 
@@ -121,13 +121,13 @@ Barovians live within a closed ecosystem. Every Barovian adult is expected to le
 
 Barovians are made of flesh and blood. They are born, they live, they age, and they die. But not all of them—only about one in every ten—have souls.
 
-When a being with a soul dies in Barovia, that soul remains trapped in Strahd's domain until it is reincarnated in a newborn. It can take decades for a bodiless soul to find a host, and Barovians who share the same soul over generations tend to look alike. That is why [[4. World Almanac/NPCs/Ireena Kolyana.md\|Ireena Kolyana]] looks exactly like Strahd's beloved Tatyana—both women were born with the same soul.
+When a being with a soul dies in Barovia, that soul remains trapped in Strahd's domain until it is reincarnated in a newborn. It can take decades for a bodiless soul to find a host, and Barovians who share the same soul over generations tend to look alike. That is why [[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]] looks exactly like Strahd's beloved Tatyana—both women were born with the same soul.
 
 Strahd needs loyal subjects to feed his ego. Barovians without souls are empty shells created by his consciousness to fill out the local population. Although they are physically indistinguishable from Barovians with souls, they tend to be bereft of charm and imagination and to be more compliant and depressed than the others. They dress in drab clothing, whereas Barovians who have souls wear clothes with a splash of color or individuality.
 
 A Barovian woman, soulless or not, can give birth. A child born in Barovia might have a soul even if one or both parents do not. Conversely, the child of two parents with souls isn't certain to have a soul of its own. Barovians without souls are maudlin folk who experience fear but neither laugh nor cry.
 
-[[4. World Almanac/NPCs/Ireena Kolyana.md\|Ireena Kolyana]] and her brother Ismark both have souls, as do all Vistani. Which Barovians have souls and which don't is left up to you.
+[[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]] and her brother Ismark both have souls, as do all Vistani. Which Barovians have souls and which don't is left up to you.
 
 Strahd periodically feeds on the blood of Barovians who have souls, but he can't draw nourishment from the blood of the soulless. He can tell at a glance whether a Barovian has a soul or is merely a shell.
 
@@ -147,7 +147,7 @@ Typical Barovians know certain facts, or have certain beliefs, about their exist
 
 About Strahd and vampires, the Barovians believe the following:
 
-- [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]] is a vampire, and he dwells in Castle Ravenloft. No one is welcome at the castle.  
+- [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] is a vampire, and he dwells in Castle Ravenloft. No one is welcome at the castle.  
 - The devil Strahd is a curse placed on the land because of a forgotten sin of the Barovians' ancestors. (This is untrue, but Barovians believe it nonetheless.)  
 - A vampire must rest in its coffin during the day. At night, it can summon wolves and vermin to do its bidding. A vampire can transform into a bat, a wolf, or a cloud of mist. In its humanoid form, it can dominate you with its powerful gaze.  
 - A vampire can't enter a residence without an invitation from one of the occupants.  
@@ -161,7 +161,7 @@ Barovians know the following facts about their homeland:
 - Many strangers have been drawn to Barovia over the years, but they all die or disappear before long.  
 - Wolves, dire wolves, and werewolves prowl the Svalich Woods, and hungry bats fill the skies at night.  
 - The village of Barovia sits at the east end of the valley. Its burgomaster is named Kolyan Indirovich.  
-- The town of Vallaki lies in the heart of the valley. Its burgomaster is named [[4. World Almanac/NPCs/Baron Vargas Vallakovich.md\|Baron Vargas Vallakovich]].  
+- The town of Vallaki lies in the heart of the valley. Its burgomaster is named [[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md\|Baron Vargas Vallakovich]].  
 - The fortified village of Krezk lies at the west end of the valley and is built around an old abbey. The village burgomaster is named Dmitri Krezkov.  
 - Wine is the lifeblood of Barovia—for some, it is the only reason to keep living. Barovian taverns get their wine from the Wizard of Wines winery near Krezk.  
 - A mad wizard of great power haunts the foothills of Mount Baratok. He is an outsider and no friend of the vampire's.  
@@ -233,7 +233,7 @@ Vistani know the following facts about Barovia and Barovians:
 The Vistani have deep-rooted beliefs and superstitions that they pass down from one generation to the next:
 
 - The souls of those who die in Barovia can't escape to the afterlife. They are prisoners in Strahd's domain.  
-- Some Vistani women are blessed with prescience. Of all the great Vistani fortune-tellers, none compares to [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]]. If knowledge of the future is what you seek, [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] will tell you your fate.  
+- Some Vistani women are blessed with prescience. Of all the great Vistani fortune-tellers, none compares to [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]]. If knowledge of the future is what you seek, [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] will tell you your fate.  
 - A prescient Vistana can't see her own future or the future of another Vistana. It is the burden of the Vistani's great gift that their own fates can't be divined.  
 - Vistani curses are potent, but they are invoked with great caution. Vistani know that to curse one who is undeserving of such punishment can have grave consequences for the one who utters such a curse.  
 - Ravens carry lost souls within them, so killing one is bad luck. (The ravens don't carry souls within.)  
@@ -248,17 +248,17 @@ When the curse ends, the Vistana suffers a harmful psychic backlash. The amount 
 
 The Vistana chooses the curse's effect from the options that follow; other Vistani curses are possible. All such effects deal psychic damage to the Vistani who uttered them when they end:
 
-- The target is unable to perform a certain kind of act involving fine motor control, such as tying knots, writing, playing an instrument, sewing, or casting spells that have somatic components. When this curse ends, the Vistana takes `dice: 1d6|avg|noform` (`1d6`) psychic damage.  
-- The target's appearance changes in a sinister yet purely cosmetic way. For example, the curse can place a scar on the target's face, turn the target's teeth into yellow fangs, or give the target bad breath. When this curse ends, the Vistana it takes `dice: 1d6|avg|noform` (`1d6`) psychic damage.  
-- A nonmagical item in the target's possession (chosen by the DM) disappears and can't be found until the curse ends. The lost item can weigh no more than 1 pound. When this curse ends, the Vistana takes `dice: 1d6|avg|noform` (`1d6`) psychic damage.  
-- The target gains vulnerability to a damage type of the Vistana's choice. When this curse ends, the Vistana takes `dice: 3d6|avg|noform` (`3d6`) psychic damage.  
-- The target has disadvantage on ability checks and saving throws tied to one ability score of the Vistana's choice. When this curse ends, the Vistana takes `dice: 3d6|avg|noform` (`3d6`) psychic damage.  
-- The target's attunement to one magic item (chosen by the DM) ends, and the target can't attune to the chosen item until the curse ends. When this curse ends, the Vistana takes `dice: 5d6|avg|noform` (`5d6`) psychic damage.  
-- The target is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]], or both. When this curse ends, the Vistana takes `dice: 5d6|avg|noform` (`5d6`) psychic damage.  
+- The target is unable to perform a certain kind of act involving fine motor control, such as tying knots, writing, playing an instrument, sewing, or casting spells that have somatic components. When this curse ends, the Vistana takes `dice:1d6|noform|avg` (`1d6`) psychic damage.  
+- The target's appearance changes in a sinister yet purely cosmetic way. For example, the curse can place a scar on the target's face, turn the target's teeth into yellow fangs, or give the target bad breath. When this curse ends, the Vistana it takes `dice:1d6|noform|avg` (`1d6`) psychic damage.  
+- A nonmagical item in the target's possession (chosen by the DM) disappears and can't be found until the curse ends. The lost item can weigh no more than 1 pound. When this curse ends, the Vistana takes `dice:1d6|noform|avg` (`1d6`) psychic damage.  
+- The target gains vulnerability to a damage type of the Vistana's choice. When this curse ends, the Vistana takes `dice:3d6|noform|avg` (`3d6`) psychic damage.  
+- The target has disadvantage on ability checks and saving throws tied to one ability score of the Vistana's choice. When this curse ends, the Vistana takes `dice:3d6|noform|avg` (`3d6`) psychic damage.  
+- The target's attunement to one magic item (chosen by the DM) ends, and the target can't attune to the chosen item until the curse ends. When this curse ends, the Vistana takes `dice:5d6|noform|avg` (`5d6`) psychic damage.  
+- The target is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]], or both. When this curse ends, the Vistana takes `dice:5d6|noform|avg` (`5d6`) psychic damage.  
 
 ### Evil Eye
 
-As an action, a Vistana can target a creature within 10 feet that the Vistana can see. This magical ability, which the Vistani call the Evil Eye, duplicates the duration and effect of the [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]], [[5. Mechanics/Spells/Charm Person.md\|charm person]], or [[5. Mechanics/Spells/Hold Person.md\|hold person]] spell (Vistana's choice), but requires neither somatic nor material components. The spell save DC is 8 + the caster's proficiency bonus + the caster's Charisma modifier. If the target succeeds on the save, the Vistana is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] until the end of the Vistana's next turn.
+As an action, a Vistana can target a creature within 10 feet that the Vistana can see. This magical ability, which the Vistani call the Evil Eye, duplicates the duration and effect of the [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]], [[5. Mechanics/Spells/Charm Person.md\|charm person]], or [[5. Mechanics/Spells/Hold Person.md\|hold person]] spell (Vistana's choice), but requires neither somatic nor material components. The spell save DC is 8 + the caster's proficiency bonus + the caster's Charisma modifier. If the target succeeds on the save, the Vistana is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] until the end of the Vistana's next turn.
 
 A Vistana who uses Evil Eye can't use it again before finishing a short or long rest. Once a target succeeds on a saving throw against a Vistana's Evil Eye, it is immune to the Evil Eye of all Vistani for 24 hours.
 
@@ -266,8 +266,8 @@ A Vistana who uses Evil Eye can't use it again before finishing a short or long 
 
 Dangers abound in the land of Barovia. Check for a random encounter after every 30 minutes that the adventurers spend on the roads or in the wilderness (don't check if they have already had two random encounters outdoors in the past 12 hours):
 
-- If the characters are on a road, an encounter occurs on a roll of 18 or higher on a `dice: d20|avg|noform` (`d20`).  
-- If the characters are in the wilderness, an encounter occurs on a roll of 15 or higher on a `dice: d20|avg|noform` (`d20`).  
+- If the characters are on a road, an encounter occurs on a roll of 18 or higher on a `dice:d20|noform|avg` (`d20`).  
+- If the characters are in the wilderness, an encounter occurs on a roll of 15 or higher on a `dice:d20|noform|avg` (`d20`).  
 
 If an encounter occurs, roll on the daytime or the nighttime encounter table, depending on the time, or have Strahd's spies appear (see the "Strahd's Spies" sidebar).
 
@@ -275,24 +275,24 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 
 | d12 + d8 | Encounter |
 |----------|-----------|
-| 2 | `dice: 3d6\|avg\|noform` (`3d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner.md\|commoners]] |
-| 3 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Scout.md\|scouts]] |
+| 2 | `dice:3d6\|noform\|avg` (`3d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner (COS).md\|commoners]] |
+| 3 | `dice:1d6\|noform\|avg` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Scout (COS).md\|scouts]] |
 | 4 | Hunting trap |
 | 5 | Grave |
 | 6 | False trail |
-| 7 | `dice: 1d4 + 1\|avg\|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit.md\|Vistani bandits]] |
+| 7 | `dice:1d4+1\|noform\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|Vistani bandits]] |
 | 8 | Skeletal rider |
 | 9 | Trinket |
 | 10 | Hidden bundle |
-| 11 | `dice: 1d4\|avg\|noform` (`1d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md\|swarm of ravens]] (50%) or 1 [[5. Mechanics/Bestiary/Humanoid/Wereraven.md\|wereraven]] (see appendix D) in raven form (50%) |
-| 12 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] |
-| 13 | `dice: 3d6\|avg\|noform` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] |
-| 14 | `dice: 1d4\|avg\|noform` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] |
+| 11 | `dice:1d4\|noform\|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md\|swarm of ravens]] (50%) or 1 [[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereraven]] (see appendix D) in raven form (50%) |
+| 12 | `dice:1d6\|noform\|avg` (`1d6`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] |
+| 13 | `dice:3d6\|noform\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] |
+| 14 | `dice:1d4\|noform\|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] |
 | 15 | Corpse |
-| 16 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]] in human form |
-| 17 | 1 [[5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] with `dice: 2d6\|avg\|noform` (`2d6`) [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] |
-| 18 | `dice: 2d4\|avg\|noform` (`2d4`) [[5. Mechanics/Bestiary/Plant/Needle Blight.md\|needle blights]] |
-| 19 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrows]] |
+| 16 | `dice:1d6\|noform\|avg` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]] in human form |
+| 17 | 1 [[5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] with `dice:2d6\|noform\|avg` (`2d6`) [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] |
+| 18 | `dice:2d4\|noform\|avg` (`2d4`) [[5. Mechanics/Bestiary/Plant/Needle Blight.md\|needle blights]] |
+| 19 | `dice:1d6\|noform\|avg` (`1d6`) [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrows]] |
 | 20 | 1 [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenant]] |
 ^daytime-random-encounters-in-barovia
 
@@ -307,16 +307,16 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 | 6 | Corpse |
 | 7 | Hidden bundle |
 | 8 | Skeletal rider |
-| 9 | `dice: 1d8\|avg\|noform` (`1d8`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarm of bats]] |
-| 10 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] |
-| 11 | `dice: 3d6\|avg\|noform` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] |
-| 12 | `dice: 1d4\|avg\|noform` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] |
-| 13 | 1 [[5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] and `dice: 2d6\|avg\|noform` (`2d6`) [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] |
-| 14 | `dice: 2d4\|avg\|noform` (`2d4`) [[5. Mechanics/Bestiary/Plant/Needle Blight.md\|needle blights]] |
-| 15 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]] in wolf form |
-| 16 | `dice: 3d6\|avg\|noform` (`3d6`) [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] |
-| 17 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrows]] |
-| 18 | `dice: 1d8\|avg\|noform` (`1d8`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md\|Strahd zombies]] (see appendix D) |
+| 9 | `dice:1d8\|noform\|avg` (`1d8`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarm of bats]] |
+| 10 | `dice:1d6\|noform\|avg` (`1d6`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] |
+| 11 | `dice:3d6\|noform\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] |
+| 12 | `dice:1d4\|noform\|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] |
+| 13 | 1 [[5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] and `dice:2d6\|noform\|avg` (`2d6`) [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] |
+| 14 | `dice:2d4\|noform\|avg` (`2d4`) [[5. Mechanics/Bestiary/Plant/Needle Blight.md\|needle blights]] |
+| 15 | `dice:1d6\|noform\|avg` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]] in wolf form |
+| 16 | `dice:3d6\|noform\|avg` (`3d6`) [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] |
+| 17 | `dice:1d6\|noform\|avg` (`1d6`) [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrows]] |
+| 18 | `dice:1d8\|noform\|avg` (`1d8`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md\|Strahd zombies]] (see appendix D) |
 | 19 | 1 [[5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisp]] |
 | 20 | 1 [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenant]] |
 ^nighttime-random-encounters-in-barovia
@@ -330,9 +330,9 @@ Use the descriptions that follow to help run each random encounter. The table en
 > The sound of snapping twigs draws your attention to several dark shapes in the fog. They carry torches and pitchforks.
 ^0bf
 
-If the characters are moving quietly and not carrying light sources, they can try to hide from these Barovians, who carry pitchforks (+2 to hit) instead of clubs, dealing `dice:1d6|text(3)` (`1d6`) piercing damage on a hit.
+If the characters are moving quietly and not carrying light sources, they can try to hide from these Barovians, who carry pitchforks (+2 to hit) instead of clubs, dealing `dice:1d6|noform|avg|text(3)` (`1d6`) piercing damage on a hit.
 
-[[5. Mechanics/Bestiary/Humanoid/Barovian Commoner.md\|Barovian commoners]] rarely leave their settlements. This group might be a family looking for a safer place to live, or an angry mob searching for the characters or heading toward Castle Ravenloft to confront Strahd.
+[[5. Mechanics/Bestiary/Humanoid/Barovian Commoner (COS).md\|Barovian commoners]] rarely leave their settlements. This group might be a family looking for a safer place to live, or an angry mob searching for the characters or heading toward Castle Ravenloft to confront Strahd.
 
 ### Barovian Scouts
 
@@ -345,7 +345,7 @@ If at least one character has a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#
 
 If more than one scout is present, the others are spread out over a 100-foot-square area.
 
-These [[5. Mechanics/Bestiary/Humanoid/Scout.md\|scouts]] are Barovian hunters or trappers searching for a missing villager or townsperson. Once they realize the characters aren't out to kill them, they lower their weapons and request help in finding their missing person. If the characters decline, the scouts point them in the direction of the nearest settlement and depart without so much as a farewell. They wield light crossbows (+4 to hit, range 80/320 ft.) instead of longbows, dealing `dice:1d8 + 2|text(6)` (`1d8 + 2`) piercing damage on a hit.
+These [[5. Mechanics/Bestiary/Humanoid/Scout.md\|scouts]] are Barovian hunters or trappers searching for a missing villager or townsperson. Once they realize the characters aren't out to kill them, they lower their weapons and request help in finding their missing person. If the characters decline, the scouts point them in the direction of the nearest settlement and depart without so much as a farewell. They wield light crossbows (+4 to hit, range 80/320 ft.) instead of longbows, dealing `dice:1d8+2|noform|avg|text(6)` (`1d8 + 2`) piercing damage on a hit.
 
 > [!note] Strahd's Spies
 > 
@@ -376,7 +376,7 @@ This encounter occurs only if the characters are traveling; otherwise, treat the
 > You find a corpse.
 ^0c6
 
-Roll a `dice: d6|avg|noform` (`d6`) to determine the nature of the corpse:
+Roll a `dice:d6|noform|avg` (`d6`) to determine the nature of the corpse:
 
 > [!note] 
 > 
@@ -392,7 +392,7 @@ Roll a `dice: d6|avg|noform` (`d6`) to determine the nature of the corpse:
 > A snarling wolf the size of a grizzly bear steps out of the fog.
 ^0c9
 
-The area is lightly obscured by fog. If more than one dire wolf is present, the others aren't far behind and can be seen as dark shadows in the fog. The [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] of Barovia are cruel, overgrown wolves and Strahd's loyal servants. They can't be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]].
+The area is lightly obscured by fog. If more than one dire wolf is present, the others aren't far behind and can be seen as dark shadows in the fog. The [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] of Barovia are cruel, overgrown wolves and Strahd's loyal servants. They can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].
 
 ### Druid and Twig Blights
 
@@ -432,7 +432,7 @@ This encounter occurs only if the characters are traveling; otherwise, treat the
 > You stumble upon an old grave.
 ^0d1
 
-There is a 25% chance chance that the grave is intact, appearing as an elongated earthen mound or a rocky cairn. Characters who dig up the grave find the skeletal remains of a human clad in rusted chain mail (a soldier). Among the bones lie corroded weapons.
+There is a 25 percent chance that the grave is intact, appearing as an elongated earthen mound or a rocky cairn. Characters who dig up the grave find the skeletal remains of a human clad in rusted chain mail (a soldier). Among the bones lie corroded weapons.
 
 If the grave isn't intact, it has been violated. The characters find a shallow, mud-filled hole with dirt or rocks strewn around it and a few scattered bones within.
 
@@ -480,11 +480,11 @@ The woods crawl with [[5. Mechanics/Bestiary/Plant/Needle Blight.md\|needle blig
 
 From a distance, the [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenant]] looks like a zombie and might be mistaken for such. A character within 30 feet of the revenant who succeeds on a DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check can see the intelligence and hate in its sunken eyes. The revenant is clad in tattered chain mail that affords the same protection as leather armor.
 
-The revenant was a [[5. Mechanics/Bestiary/Undead/Knight Of The Order.md\|knight of the Order]] of the Silver Dragon, which was annihilated defending the valley against Strahd's armies more than four centuries ago. The revenant no longer remembers its name and wanders the land in search of Strahd's wolves and other minions, slaying them on sight. If the characters attack it, the revenant assumes they are in league with Strahd and fights them until destroyed.
+The revenant was a [[5. Mechanics/Bestiary/Undead/Knight Of The Order (COS).md\|knight of the Order]] of the Silver Dragon, which was annihilated defending the valley against Strahd's armies more than four centuries ago. The revenant no longer remembers its name and wanders the land in search of Strahd's wolves and other minions, slaying them on sight. If the characters attack it, the revenant assumes they are in league with Strahd and fights them until destroyed.
 
-As an action, the revenant can attack twice with its longsword, wielding the weapon with both hands and dealing `dice:2d10 + 4|text(15)` (`2d10 + 4`) slashing damage on each hit.
+As an action, the revenant can attack twice with its longsword, wielding the weapon with both hands and dealing `dice:2d10+4|noform|avg|text(15)` (`2d10 + 4`) slashing damage on each hit.
 
-If the characters present themselves as enemies of Strahd, the revenant urges them to travel to Argynvostholt (chapter 7) and convince [[4. World Almanac/NPCs/Vladimir Horngaard.md\|Vladimir Horngaard]], the leader of the Order of the Silver Dragon, to help them. The revenant would like nothing more than to kill Strahd, but it will not venture to Castle Ravenloft unless it receives orders to do so from Vladimir. If the characters ask the revenant to lead them to Horngaard in Argynvostholt, it does so while avoiding contact with Barovian settlements.
+If the characters present themselves as enemies of Strahd, the revenant urges them to travel to Argynvostholt (chapter 7) and convince [[4. World Almanac/NPCs/Vladimir Horngaard (COS).md\|Vladimir Horngaard]], the leader of the Order of the Silver Dragon, to help them. The revenant would like nothing more than to kill Strahd, but it will not venture to Castle Ravenloft unless it receives orders to do so from Vladimir. If the characters ask the revenant to lead them to Horngaard in Argynvostholt, it does so while avoiding contact with Barovian settlements.
 
 ### Scarecrows
 
@@ -497,7 +497,7 @@ If at least one character has a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#
 
 If more than one [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrow]] is present, the others are close by. If none of the characters has a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 11 or higher, the scarecrows catch the party by surprise.
 
-[[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] (see chapter 10, area U3) crafted these scarecrows to hunt down and kill ravens and wereravens. The scarecrows are imbued with evil spirits and delight in murdering anyone they encounter.
+[[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]] (see chapter 10, area U3) crafted these scarecrows to hunt down and kill ravens and wereravens. The scarecrows are imbued with evil spirits and delight in murdering anyone they encounter.
 
 ### Skeletal Rider
 
@@ -517,7 +517,7 @@ If both the rider and its mount are destroyed, this encounter can't occur again.
 > Not even the cloying fog can hide the stench of death that descends upon you. Something evil approaches, its footsteps betrayed by snapping twigs.
 ^0df
 
-If the characters are moving quietly and not carrying light sources, they can try to hide from the [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md\|Strahd zombies]]. These undead soldiers once served as guards in Castle Ravenloft. They fled the castle after Strahd became a vampire but couldn't avoid their master's wrath. They still wear bits of tattered livery, and they attack the living on sight.
+If the characters are moving quietly and not carrying light sources, they can try to hide from the [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md\|Strahd zombies]]. These undead soldiers once served as guards in Castle Ravenloft. They fled the castle after Strahd became a vampire but couldn't avoid their master's wrath. They still wear bits of tattered livery, and they attack the living on sight.
 
 ### Swarms of Bats
 
@@ -551,7 +551,7 @@ The ravens fly away if attacked. If they are left alone, they watch over the par
 > You find something on the ground.
 ^0e6
 
-A random character finds a lost trinket. Roll on the [[5. Mechanics/Items/Trinket.md\|Trinkets table]] in appendix A, select a specific trinket from the table, or create one on the fly.
+A random character finds a lost trinket. Roll on the [[5. Mechanics/Items/Trinket (COS).md\|Trinkets table]] in appendix A, select a specific trinket from the table, or create one on the fly.
 
 ### Vistani Bandits
 
@@ -560,15 +560,15 @@ A random character finds a lost trinket. Roll on the [[5. Mechanics/Items/Trinke
 > You catch a whiff of pipe smoke in the cold air and hear laughter through the fog.
 ^0e8
 
-These Vistani [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit.md\|servants of Strahd]] march through the Barovian wilderness, laughing and telling ghost stories. They are searching for graves to plunder or hunting small game. For a price of 100 gp, they offer to serve as guides. As long as these Vistani are with the party, roll a `dice: d12|avg|noform` (`d12`) instead of a `dice: d12 + d8|avg|noform` (`d12 + d8`) when determining random encounters in the wilderness. In addition, wolves and dire wolves don't threaten the characters as long as the Vistani are traveling with them and aren't their prisoners.
+These Vistani [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|servants of Strahd]] march through the Barovian wilderness, laughing and telling ghost stories. They are searching for graves to plunder or hunting small game. For a price of 100 gp, they offer to serve as guides. As long as these Vistani are with the party, roll a `dice:d12|noform|avg` (`d12`) instead of a `dice:d12+d8|noform|avg` (`d12 + d8`) when determining random encounters in the wilderness. In addition, wolves and dire wolves don't threaten the characters as long as the Vistani are traveling with them and aren't their prisoners.
 
 #### Treasure
 
-One Vistani bandit carries a pouch that holds `dice: 2d4|avg|noform` (`2d4`) small gemstones (worth 50 gp each).
+One Vistani bandit carries a pouch that holds `dice:2d4|noform|avg` (`2d4`) small gemstones (worth 50 gp each).
 
 ### Wereraven
 
-This [[5. Mechanics/Bestiary/Humanoid/Wereraven.md\|wereraven]] in raven form watches the characters from a distance. Compare its Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check result to the characters' passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) scores to see whether it remains hidden from the party.
+This [[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereraven]] in raven form watches the characters from a distance. Compare its Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check result to the characters' passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) scores to see whether it remains hidden from the party.
 
 If one or more characters spot the creature, read:
 
@@ -577,7 +577,7 @@ If one or more characters spot the creature, read:
 > Through the mist, you see a black bird circling overhead. When it feels your eyes upon it, the raven flies away, but it's back before long, keeping its distance.
 ^0eb
 
-The wereraven belongs to a secret order called the Keepers of the Feather. If the characters don't spot it, the wereraven shadows them for `dice: 1d4|avg|noform` (`1d4`) hours. At the end of that time, or anytime sooner if the characters attack it, the creature flies home to report what it has seen.
+The wereraven belongs to a secret order called the Keepers of the Feather. If the characters don't spot it, the wereraven shadows them for `dice:1d4|noform|avg` (`1d4`) hours. At the end of that time, or anytime sooner if the characters attack it, the creature flies home to report what it has seen.
 
 If the party has a second random encounter with a wereraven, this one presents itself to the characters as an ally and requests that they travel to the Blue Water Inn in Vallaki to meet "some new friends." It then flies off in the direction of the town.
 
@@ -627,11 +627,11 @@ If the characters follow the flickering light, read:
 > The torchlight flutters as it moves away from you, but you never lose sight of it. You make your way quickly yet cautiously through the fog until you come upon the shell of a ruined tower. The upper floors of the structure have collapsed, leaving heaps of rubble and shattered timber around the tower's base. The feeble light moves through an open doorway on the ground floor, then flickers and goes out.
 ^0f3
 
-The light is a [[5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisp]] that enters the ruined tower and becomes [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]], hoping to lure the characters inside to their doom.
+The light is a [[5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisp]] that enters the ruined tower and becomes [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]], hoping to lure the characters inside to their doom.
 
 The floor of the tower is made of packed earth. Its interior is [[5. Mechanics/Traps Hazards/Desecrated Ground.md\|desecrated ground]] (see ""Wilderness Hazards"" in chapter 5 of the "Dungeon Master's Guide"). Against the inside wall of the tower, across from the open doorway, is a closed, empty wooden chest.
 
-If the characters disturb the chest, `dice: 3d6|avg|noform` (`3d6`) [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] erupt from the earthen floor and attack. Once the zombies appear, the will-o'-wisp becomes visible and joins the fray.
+If the characters disturb the chest, `dice:3d6|noform|avg` (`3d6`) [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] erupt from the earthen floor and attack. Once the zombies appear, the will-o'-wisp becomes visible and joins the fray.
 
 ### Wolves
 
@@ -640,7 +640,7 @@ If the characters disturb the chest, `dice: 3d6|avg|noform` (`3d6`) [[5. Mechani
 > This land is home to many wolves, their howls at the moment too close for comfort.
 ^0f5
 
-Characters have a few minutes to steel themselves before these [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] attack. They heed the will of Strahd and can't be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]].
+Characters have a few minutes to steel themselves before these [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] attack. They heed the will of Strahd and can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].
 
 ### Zombies
 
@@ -695,7 +695,7 @@ If Strahd is defeated, the gates of Barovia swing open, and the road east become
 > 
 > **Locks.** A creature proficient with thieves' tools can use them to pick a typical lock with a successful DC 15 Dexterity check. A typical padlock can be broken by smashing it with a bludgeoning or slashing weapon and succeeding on a DC 20 Strength check.
 > 
-> **Webs.** Characters can pass through ordinary webs, including thick cobwebs, without fear of being [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] or slowed down. A character can clear away the cobwebs from a 10-foot square as an action. Webs woven by giant spiders are a different matter; see ""Dungeon Hazards"" in chapter 5 in the "Dungeon Master's Guide" for rules on giant spider webs.
+> **Webs.** Characters can pass through ordinary webs, including thick cobwebs, without fear of being [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] or slowed down. A character can clear away the cobwebs from a 10-foot square as an action. Webs woven by giant spiders are a different matter; see ""Dungeon Hazards"" in chapter 5 in the "Dungeon Master's Guide" for rules on giant spider webs.
 ^the-lands-of-barovia-common-features
 
 ### C. Svalich Woods
@@ -772,7 +772,7 @@ One random character sees him- or herself hanging from the gallows. The other ch
 
 #### Fortunes of Ravenloft
 
-If your card reading reveals that a treasure is here, it is buried in one of the graves. For each grave the characters dig up, there's a cumulative 10% chance chance of finding the treasure.
+If your card reading reveals that a treasure is here, it is buried in one of the graves. For each grave the characters dig up, there's a cumulative 10 percent chance of finding the treasure.
 
 ### G. Tser Pool Encampment
 
@@ -789,11 +789,11 @@ The eight [[5. Mechanics/Bestiary/Beast/Draft Horse.md\|draft horses]] drinking 
 
 If the characters are brought to this camp by the Vistani, their escorts remain at the camp and don't accompany the adventuring party any farther.
 
-Twelve Vistani (male and female human [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit.md\|bandits]]) are standing and sitting around the fire, telling stories and guzzling wine. They are intoxicated and have disadvantage on attack rolls and ability checks. Three sober Vistani (male and female human [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit Captain.md\|bandit captains]]) are resting in three of the four wagons but leap quickly into action if an alarm is raised.
+Twelve Vistani (male and female human [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandits]]) are standing and sitting around the fire, telling stories and guzzling wine. They are intoxicated and have disadvantage on attack rolls and ability checks. Three sober Vistani (male and female human [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit Captain (COS).md\|bandit captains]]) are resting in three of the four wagons but leap quickly into action if an alarm is raised.
 
 Although the Vistani in this camp are in league with Strahd, they attack only if the characters provoke them with threats or insults. Otherwise, the characters are offered flasks of wine and invited to join the reverie.
 
-If the characters linger at the camp, continue with "A Vistana's Tale" below. If they seem in a hurry to leave, one of the Vistani tells them, "It was fated that you would visit our humble camp. [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] foretold your coming. She awaits you." The Vistana then points to the largest tent. If the characters head that way, continue with "[[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]]'s Tent."
+If the characters linger at the camp, continue with "A Vistana's Tale" below. If they seem in a hurry to leave, one of the Vistani tells them, "It was fated that you would visit our humble camp. [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] foretold your coming. She awaits you." The Vistana then points to the largest tent. If the characters head that way, continue with "[[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]]'s Tent."
 
 > [!gallery]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/010-cos02-06.webp#gallery\|Map 2.2: Tser Pool Encampment]]
@@ -810,20 +810,20 @@ If the characters linger by the fire, one of the Vistani recounts the following 
 > "The wizard and the vampire cast spells at each other. Their battle flew from the courtyards of Ravenloft to a precipice overlooking the falls. I saw the battle with my own eyes. Thunder shook the mountainside, and great rocks tumbled down upon the wizard, yet by his magic he survived. Lightning from the heavens struck the wizard, and again he stood his ground. But when the devil Strahd fell upon him, the wizard's magic couldn't save him. I saw him thrown a thousand feet to his death. I climbed down to the river to search for the wizard's body, to see if, you know, he had anything of value, but the River Ivlis had already spirited him away."
 ^111
 
-The Vistana storyteller doesn't remember the wizard's name, but recalls that it sounded important. If the characters haven't spoken with [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]], the storyteller urges them to do so.
+The Vistana storyteller doesn't remember the wizard's name, but recalls that it sounded important. If the characters haven't spoken with [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]], the storyteller urges them to do so.
 
 #### Madam Eva's Tent
 
-If the characters decide to see [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]], read:
+If the characters decide to see [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]], read:
 
 > [!readaloud] 
 > 
 > Magic flames cast a reddish glow over the interior of this tent, revealing a low table covered in a black velvet cloth. Glints of light seem to flash from a crystal ball on the table as a hunched figure peers into its depths. As the crone speaks, her voice crackles like dry weeds. "At last you have arrived!" Cackling laughter bursts like mad lightning from her withered lips.
 ^113
 
-[[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] (see appendix D) speaks the name of each party member and makes some reference to that individual's past deeds. She then asks the characters if they want their fortunes read. If they say yes, [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] produces a worn deck of cards and proceeds with the sequence outlined in chapter 1. (If the characters don't want a reading of their fates, continue play using the card reading you performed before starting the adventure.)
+[[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] (see appendix D) speaks the name of each party member and makes some reference to that individual's past deeds. She then asks the characters if they want their fortunes read. If they say yes, [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] produces a worn deck of cards and proceeds with the sequence outlined in chapter 1. (If the characters don't want a reading of their fates, continue play using the card reading you performed before starting the adventure.)
 
-[[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] might seem mad, but she is, in fact, cunning and sharp of mind. She has met a good many adventurers in her time and knows they can't be fully trusted. She wants to free the land of Barovia from its curse, and her fate is interwoven with Strahd's (see appendix D for details). She does the vampire's bidding when called upon and does nothing to anger Strahd or bring harm to the Vistani. She never gives aid and never asks for any.
+[[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] might seem mad, but she is, in fact, cunning and sharp of mind. She has met a good many adventurers in her time and knows they can't be fully trusted. She wants to free the land of Barovia from its curse, and her fate is interwoven with Strahd's (see appendix D for details). She does the vampire's bidding when called upon and does nothing to anger Strahd or bring harm to the Vistani. She never gives aid and never asks for any.
 
 #### Treasure
 
@@ -835,14 +835,14 @@ For each Vistani tent or wagon that the characters search, roll once on the foll
 |-----------|----------|
 | 1–10 | None |
 | 11–13 | Sack of 100 ep (each coin stamped with Strahd's visage in profile) |
-| 14–16 | Pouch containing `dice: 4d6\|avg\|noform` (`4d6`) gemstones worth 100 gp each |
-| 17–19 | Sack containing `dice: 3d6\|avg\|noform` (`3d6`) pieces of cheap jewelry worth 25 gp total and `dice: 1d6\|avg\|noform` (`1d6`) pieces of fine jewelry worth 250 gp each |
+| 14–16 | Pouch containing `dice:4d6\|noform\|avg` (`4d6`) gemstones worth 100 gp each |
+| 17–19 | Sack containing `dice:3d6\|noform\|avg` (`3d6`) pieces of cheap jewelry worth 25 gp total and `dice:1d6\|noform\|avg` (`1d6`) pieces of fine jewelry worth 250 gp each |
 | 20 | One magic item (roll once on [[5. Mechanics/Tables/Magic Item Table B.md\|Magic Item Table B]] in the "Dungeon Master's Guide") |
 ^treasure
 
 #### Fortunes of Ravenloft
 
-If your card reading reveals that a treasure is here, it is hidden in one of the Vistani wagons. [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] grants the characters permission to search the wagons if they ask, and any such search yields the treasure.
+If your card reading reveals that a treasure is here, it is hidden in one of the Vistani wagons. [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] grants the characters permission to search the wagons if they ask, and any such search yields the treasure.
 
 ### H. Tser Falls
 
@@ -895,7 +895,7 @@ The following text assumes that the characters arrive here in the carriage from 
 > A lowered drawbridge of old, shored-up wooden beams stretches across the chasm, between you and the archway to the courtyard. The chains of the drawbridge creak in the wind, their rust-eaten iron straining under the weight. From atop the high walls, stone gargoyles stare at you out of their hollow eye sockets and grin hideously. A rotting wooden portcullis, green with growth, hangs above the entry tunnel. Beyond this location, the main doors of Ravenloft stand open. A rich, warm light spills from within, flooding the courtyard. Torches flutter sadly in sconces on both sides of the open doors.
 ^11e
 
-The drawbridge appears sturdy, but a few of its boards are missing and it creaks and groans under any weight. Each time a creature other than Strahd or a horse that draws his carriage crosses the drawbridge, there is a 5% chance chance of one of its boards breaking under the creature. If a board breaks, the creature must succeed on a DC 10 Dexterity saving throw or fall to the bottom of the cliffs, 1,000 feet below. If a companion is within 5 feet of the creature and reaches out to grab it, the creature has advantage on the save.
+The drawbridge appears sturdy, but a few of its boards are missing and it creaks and groans under any weight. Each time a creature other than Strahd or a horse that draws his carriage crosses the drawbridge, there is a 5 percent chance of one of its boards breaking under the creature. If a board breaks, the creature must succeed on a DC 10 Dexterity saving throw or fall to the bottom of the cliffs, 1,000 feet below. If a companion is within 5 feet of the creature and reaches out to grab it, the creature has advantage on the save.
 
 #### Green Slime
 
@@ -903,7 +903,7 @@ A patch of [[5. Mechanics/Traps Hazards/Green Slime.md\|green slime]] (see ""Dun
 
 ### K. Castle Ravenloft
 
-Chapter 4 explores Castle Ravenloft, lair of the vampire [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]].
+Chapter 4 explores Castle Ravenloft, lair of the vampire [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]].
 
 ### L. Lake Zarovich
 
@@ -919,11 +919,11 @@ If the characters arrive along the shore north of Vallaki in the daytime, add:
 > Pulled up along the south shore are three small rowboats. A fourth boat can be seen in the middle of the lake, with a lone figure sitting in it, fishing pole in hand.
 ^123
 
-Each rowboat can safely hold five people. The person fishing on the lake is [[4. World Almanac/NPCs/Bluto Krogarov.md\|Bluto Krogarov]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), a resident of Vallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]] (LN female human [[5. Mechanics/Bestiary/Humanoid/Vistana Commoner.md\|commoner]] with 2 hit points and no effective attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] so that she can't be seen or heard from the shore.
+Each rowboat can safely hold five people. The person fishing on the lake is [[4. World Almanac/NPCs/Bluto Krogarov (COS).md\|Bluto Krogarov]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), a resident of Vallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]] (LN female human [[5. Mechanics/Bestiary/Humanoid/Vistana Commoner (COS).md\|commoner]] with 2 hit points and no effective attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] so that she can't be seen or heard from the shore.
 
 #### Roleplaying Bluto
 
-[[4. World Almanac/NPCs/Bluto Krogarov.md\|Bluto Krogarov]] is a destitute drunkard. He's desperate to catch some fish and trade them for wine at the Blue Water Inn. After he was unable to catch a single fish for a week, he kidnapped [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]], believing that Vistani are lucky. He intends to sacrifice her to the lake, hoping it will give up some of its fish in return.
+[[4. World Almanac/NPCs/Bluto Krogarov (COS).md\|Bluto Krogarov]] is a destitute drunkard. He's desperate to catch some fish and trade them for wine at the Blue Water Inn. After he was unable to catch a single fish for a week, he kidnapped [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]], believing that Vistani are lucky. He intends to sacrifice her to the lake, hoping it will give up some of its fish in return.
 
 If the characters watch Bluto from the shore for several minutes, or if they row out into the lake to greet him, he tosses the burlap sack into the water, watches it sink, and waits with fishing pole in hand for his reward.
 
@@ -931,11 +931,11 @@ Bluto is a hollow shell of a man, barely able to understand his own actions. He 
 
 #### Roleplaying Arabelle
 
-Characters who act quickly can save [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]] before she drowns. A character on the shore must succeed on a DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check to reach her in time. The DC is 10 for characters who took a rowboat out onto the lake.
+Characters who act quickly can save [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]] before she drowns. A character on the shore must succeed on a DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check to reach her in time. The DC is 10 for characters who took a rowboat out onto the lake.
 
-[[4. World Almanac/NPCs/Arabelle.md\|Arabelle]] has alabaster-white skin and raven-black hair. If rescued, she demands to be returned to her family's camp outside Vallaki (chapter 5, area N9). She is certain that her father, [[4. World Almanac/NPCs/Luvash.md\|Luvash]], will give the characters a reward for doing so.
+[[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]] has alabaster-white skin and raven-black hair. If rescued, she demands to be returned to her family's camp outside Vallaki (chapter 5, area N9). She is certain that her father, [[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]], will give the characters a reward for doing so.
 
-A descendant of [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] with the blood of Barovian royalty in her veins, [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]] is unaware of her connection to Strahd. She acts more like an adult than a child. Despite her recent misadventure, she believes that a great destiny awaits her.
+A descendant of [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] with the blood of Barovian royalty in her veins, [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]] is unaware of her connection to Strahd. She acts more like an adult than a child. Despite her recent misadventure, she believes that a great destiny awaits her.
 
 ### M. Mad Mage of Mount Baratok
 
@@ -948,13 +948,13 @@ This encounter can occur anywhere along the base of Mount Baratok.
 > You see an elk standing on a rocky spur about sixty feet away. Suddenly, it assumes the form of a man in tattered black robes. His hair and beard are long, black, and streaked with gray, and his eyes crackle with eldritch power.
 ^127
 
-[[4. World Almanac/NPCs/The Mad Mage Of Mount Baratok.md\|The Mad Mage of Mount Baratok]] (CN male human [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]]) came to Barovia more than a year ago to free its people from Strahd's tyranny, but he underestimated Strahd's hold over the land and the creatures in it. After a battle between the two in Castle Ravenloft, Strahd drove the Mad Mage to the mountains and sent the wizard hurling over Tser Falls (area H). The wizard, his staff and spellbook lost, survived the fall and retreated into the mountains, hoping to regain his power, only to be driven mad by the realization that he no longer has any hope of defeating Strahd or freeing the people of the vampire's damned realm.
+[[4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md\|The Mad Mage of Mount Baratok]] (CN male human [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]]) came to Barovia more than a year ago to free its people from Strahd's tyranny, but he underestimated Strahd's hold over the land and the creatures in it. After a battle between the two in Castle Ravenloft, Strahd drove the Mad Mage to the mountains and sent the wizard hurling over Tser Falls (area H). The wizard, his staff and spellbook lost, survived the fall and retreated into the mountains, hoping to regain his power, only to be driven mad by the realization that he no longer has any hope of defeating Strahd or freeing the people of the vampire's damned realm.
 
 The Mad Mage has forgotten his name and the world whence he came. In fact, he doesn't remember anything that happened before the madness. He suffers from the paranoia that powerful enemies are hunting him, and that their evil agents are everywhere and watching him.
 
 Believing that the characters aim to kill him, the Mad Mage unleashes his destructive magic. As he tears into them, he shouts, "You think my magic has grown weak? Think again!" If he is reduced to 50 hit points or fewer, he shouts, "Tell your dark masters they can break my body, but never my spirit!" He then tries to escape.
 
-Under normal circumstances, a [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell cast on the Mad Mage would restore his wits and ends the madness, allowing him to remember that he is none other than Mordenkainen, an [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] of Oerth and the leader of a powerful group of adventurers called the Circle of Eight. But in this case, the Mad Mage has cast a [[5. Mechanics/Spells/Mind Blank.md\|mind blank]] spell on himself. As long as that spell remains in effect, his sanity can't be restored by any spell. If the characters surmise that powerful magic is preventing them from restoring the Mad Mage's wits, they can, with a successful DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check, convince the Mad Mage to divulge the reason why their spell failed. A character can also ascertain the cause of the spell's failure with a successful DC 18 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check. The Mad Mage's [[5. Mechanics/Spells/Mind Blank.md\|mind blank]] spell has a remaining duration of `dice: 3d6|avg|noform` (`3d6`) hours, after which his madness can be cured normally.
+Under normal circumstances, a [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell cast on the Mad Mage would restore his wits and ends the madness, allowing him to remember that he is none other than Mordenkainen, an [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] of Oerth and the leader of a powerful group of adventurers called the Circle of Eight. But in this case, the Mad Mage has cast a [[5. Mechanics/Spells/Mind Blank.md\|mind blank]] spell on himself. As long as that spell remains in effect, his sanity can't be restored by any spell. If the characters surmise that powerful magic is preventing them from restoring the Mad Mage's wits, they can, with a successful DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check, convince the Mad Mage to divulge the reason why their spell failed. A character can also ascertain the cause of the spell's failure with a successful DC 18 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check. The Mad Mage's [[5. Mechanics/Spells/Mind Blank.md\|mind blank]] spell has a remaining duration of `dice:3d6|noform|avg` (`3d6`) hours, after which his madness can be cured normally.
 
 The Mad Mage has a different spell list from that of the [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] in the "Monster Manual", and he has already used one 1st-level spell slot to cast [[5. Mechanics/Spells/Mage Armor.md\|mage armor]] on himself, one 4th-level spell slot to cast [[5. Mechanics/Spells/Polymorph.md\|polymorph]] on himself, one 7th-level spell slot to cast [[5. Mechanics/Spells/Mordenkainens Magnificent Mansion.md\|Mordenkainen's magnificent mansion]] (see "The Mad Mage's Mansion"), and one 8th-level spell slot to cast [[5. Mechanics/Spells/Mind Blank.md\|mind blank]] on himself.
 
@@ -987,7 +987,7 @@ If the characters rescue the [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archm
 
 Mordenkainen is familiar with worlds beyond his own. For example, if the characters come from the Forgotten Realms and mention this fact to Mordenkainen, he asks them if they know his old friend Elminster of Shadowdale.
 
-If Mordenkainen isn't the party's ally as foretold in [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]]'s card reading (see chapter 1), he declines to join them if asked. With his wits restored, he sets out to find his missing staff and spellbook, leaving the characters on their own. He doesn't allow them to help him, for he fears they might be tempted to steal either his staff or his spellbook. (Being an adventurer himself, he knows how the lure of powerful magic can bring out the worst in adventurers.) Before he leaves, as a parting gift, the [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] imbues each character with a *charm of heroism* (see ""Supernatural Gifts"" in chapter 7 of the "Dungeon Master's Guide").
+If Mordenkainen isn't the party's ally as foretold in [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]]'s card reading (see chapter 1), he declines to join them if asked. With his wits restored, he sets out to find his missing staff and spellbook, leaving the characters on their own. He doesn't allow them to help him, for he fears they might be tempted to steal either his staff or his spellbook. (Being an adventurer himself, he knows how the lure of powerful magic can bring out the worst in adventurers.) Before he leaves, as a parting gift, the [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] imbues each character with a *charm of heroism* (see ""Supernatural Gifts"" in chapter 7 of the "Dungeon Master's Guide").
 
 #### Fortunes of Ravenloft
 
@@ -995,7 +995,7 @@ If your card reading reveals that the Mad Mage is the party's ally in the battle
 
 With his sanity restored, Mordenkainen can be stubborn and difficult even with his friends, and doesn't suffer fools. He normally spends more time listening than talking, but when he does speak, his pronouncements are authoritative and not to be questioned.
 
-The [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] has never had his fortune read by [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] and doesn't care to, but if he is told about the [[5. Mechanics/Items/Holy Symbol Of Ravenkind.md\|Holy Symbol of Ravenkind]], the [[5. Mechanics/Items/Tome Of Strahd.md\|Tome of Strahd]], and the [[5. Mechanics/Items/Sunsword.md\|Sunsword]], he insists that these items be recovered before he and the party confront Strahd. If Strahd is defeated and Mordenkainen survives, the archmage gladly accompanies the characters back to their world if they invite him, if only not to disappoint them.
+The [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] has never had his fortune read by [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] and doesn't care to, but if he is told about the [[5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md\|Holy Symbol of Ravenkind]], the [[5. Mechanics/Items/Tome Of Strahd (COS).md\|Tome of Strahd]], and the [[5. Mechanics/Items/Sunsword (COS).md\|Sunsword]], he insists that these items be recovered before he and the party confront Strahd. If Strahd is defeated and Mordenkainen survives, the archmage gladly accompanies the characters back to their world if they invite him, if only not to disappoint them.
 
 ### N. Town of Vallaki
 
@@ -1047,7 +1047,7 @@ Chapter 9 explores the Tsolenka Pass, which hugs the side of Mount Ghakis.
 
 ### U. Ruins of Berez
 
-Chapter 10 describes the ruins of Berez, a riverside village that is now home to the hag [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]].
+Chapter 10 describes the ruins of Berez, a riverside village that is now home to the hag [[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]].
 
 ### V. Van Richten's Tower
 

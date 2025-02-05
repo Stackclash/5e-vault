@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 9
+environments: 'underdark, mountain'
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/9
@@ -8,12 +12,11 @@ tags:
   - monster/environment/underdark
   - monster/size/huge
   - monster/type/giant
-statblock: inline
 aliases:
   - Fire Giant
 ---
-# [[5. Mechanics/Bestiary/Giant/Fire Giant.md|Fire Giant]]
-*Source: Monster Manual p. 154. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Giant\Fire Giant.md|Fire Giant]]
+*Source: Monster Manual p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.
 
@@ -74,11 +77,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 > Some giants abandon their own gods and fall prey to demon cults, paying homage to Baphomet or Kostchtchie. To worship them or any other non-giant deity is a great sin against the ordning, and almost certain to make a giant an outcast.
 ^giant-gods
 
-> [!quote]- A quote from Captain Dwern Addlestone's partial account of the Siege of Sterngate  
+> [!quote] A quote from Captain Dwern Addlestone's partial account of the Siege of Sterngate  
 > 
 > Boulders assailed our walls and cast them down, leavin' gaps through which the giants strode, weapons in hand.
 
-> [!quote]- A quote from Elder Zelane of Istivin, recounting the Giant Wars  
+> [!quote] A quote from Elder Zelane of Istivin, recounting the Giant Wars  
 > 
 > And here is where Angerroth the barbarian fell against the giant horde. His bones are under that boulder over there.
 
@@ -122,18 +125,6 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   "name": "Rock"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "WDMM"
-- "BGDIA"
-- "EGW"
-- "MOT"
-- "JttRC"
-- "GotSF"
-- "SatO"
-- "BMT"
-- "HFStCM"
 "image": "5. Mechanics/Bestiary/Giant/token/fire-giant.webp"
 ```
 ^statblock

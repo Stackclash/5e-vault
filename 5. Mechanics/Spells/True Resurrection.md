@@ -3,11 +3,20 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
   - spell/class/druid
-  - spell/class/sorcerer/divine-soul
-  - spell/level/9
+  - spell/level/9th-level
   - spell/school/necromancy
+  - spell/subclass/divine-soul
+level: 9th-level
+range: false
+school: Necromancy
+time: 1 hour
+duration: Instantaneous
+components: >-
+  V, S, a sprinkle of holy water and diamonds worth at least 25,000 gp, which
+  the spell consumes
 aliases:
   - True Resurrection
 ---
@@ -25,6 +34,6 @@ This spell closes all wounds, neutralizes any poison, cures all diseases, and li
 
 The spell can even provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 284. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -4,13 +4,19 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/bard
-  - spell/class/ranger/gloom-stalker
   - spell/class/sorcerer
-  - spell/class/warlock/the-archfey
-  - spell/class/warlock/the-genie
   - spell/class/wizard
-  - spell/level/5
+  - spell/level/5th-level
   - spell/school/illusion
+  - spell/subclass/gloom-stalker
+  - spell/subclass/the-archfey
+  - spell/subclass/the-genie
+level: 5th-level
+range: false
+school: Illusion
+time: 1 action
+duration: 8 hour
+components: 'V, S'
 aliases:
   - Seeming
 ---
@@ -30,6 +36,6 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 A creature can use its action to inspect a target and make an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Ranger Gloom Stalker.md\|Ranger (Gloom Stalker)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Ranger Gloom Stalker (XGE)\|Ranger (Gloom Stalker)]]; [[List Spells Classes Warlock The Archfey\|Warlock (The Archfey)]]; [[List Spells Classes Warlock The Genie (TCE)\|Warlock (The Genie)]]
 
-*Source: Player's Handbook p. 274. Available in the SRD.*
+*Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

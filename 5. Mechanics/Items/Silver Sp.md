@@ -3,13 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/phb
-  - item/wealth/coinage
+  - item/gear/treasure-coinage
+  - item/rarity/none
 aliases:
   - Silver (sp)
 cost: 10
 ---
 # Silver (sp)
-*Coinage*  
+*Treasure (coinage)*  
 ![[5. Mechanics/Items/img/silver-sp.webp#right]]  
 
 - **Cost**: 1 sp

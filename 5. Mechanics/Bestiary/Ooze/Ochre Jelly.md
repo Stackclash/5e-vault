@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/underdark
   - monster/size/large
   - monster/type/ooze
-statblock: inline
 aliases:
   - Ochre Jelly
 ---
-# [[5. Mechanics/Bestiary/Ooze/Ochre Jelly.md|Ochre Jelly]]
-*Source: Monster Manual p. 243, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Ooze\Ochre Jelly.md|Ochre Jelly]]
+*Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.
 
@@ -62,9 +65,9 @@ An ooze doesn't require sleep.
 "speed": "10 ft., climb 10 ft."
 "damage_resistances": "acid"
 "damage_immunities": "lightning, slashing"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "2"
@@ -86,21 +89,6 @@ An ooze doesn't require sleep.
   "name": "Split"
 "source":
 - "MM"
-- "LMoP"
-- "PotA"
-- "TftYP"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "BGDIA"
-- "ERLW"
-- "RMBRE"
-- "CRCotN"
-- "JttRC"
-- "HftT"
-- "PaBTSO"
-- "BMT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Ooze/token/ochre-jelly.webp"
 ```
 ^statblock

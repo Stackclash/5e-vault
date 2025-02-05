@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/8
+environments: 'coastal, mountain, grassland, hill, urban, forest, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-8
@@ -13,12 +17,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Guard
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Guard.md|Guard]]
-*Source: Monster Manual p. 347, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Humanoid\Guard.md|Guard]]
+*Source: Monster Manual p. 347, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Guards include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
 
@@ -53,30 +56,6 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "PotA"
-- "RoT"
-- "SKT"
-- "ToA"
-- "WDH"
-- "GoS"
-- "DC"
-- "DIP"
-- "SLW"
-- "BGDIA"
-- "ERLW"
-- "EGW"
-- "MOT"
-- "CM"
-- "CRCotN"
-- "JttRC"
-- "LoX"
-- "DSotDQ"
-- "KftGV"
-- "AATM"
-- "SatO"
-- "ToFW"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Humanoid/token/guard.webp"
 ```
 ^statblock

@@ -4,17 +4,16 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/dmg
   - item/attunement/required
-  - item/property/versatile
   - item/rarity/legendary
   - item/tier/major
-  - item/wondrous/staff
+  - item/weapon/simple
 aliases:
   - Staff of the Magi
 one-hand-damage: 1d6 B
 two-hand-damage: 1d8 B
 ---
 # Staff of the Magi
-*Staff, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
+*Staff, weapon, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
 ![[5. Mechanics/Items/img/staff-of-the-magi.webp#right]]  
 
 - **Damage**:
@@ -25,7 +24,7 @@ two-hand-damage: 1d8 B
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.
 
-The staff has 50 charges for the following properties. It regains `dice: 4d6 + 2|avg|noform` (`4d6 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20|avg|noform` (`d20`). On a 20, the staff regains `dice: 1d12 + 1|avg|noform` (`1d12 + 1`) charges.
+The staff has 50 charges for the following properties. It regains `dice:4d6+2|noform|avg` (`4d6 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 20, the staff regains `dice:1d12+1|noform|avg` (`1d12 + 1`) charges.
 
 ## Spell Absorption
 
@@ -33,7 +32,7 @@ While holding the staff, you have advantage on saving throws against spells. In 
 
 ## Spells
 
-While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: [[5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]] (7 charges), [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] (3 charges), [[5. Mechanics/Spells/Fireball.md\|fireball]] (7th-level version, 7 charges), [[5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]] (2 charges), [[5. Mechanics/Spells/Ice Storm.md\|ice storm]] (4 charges), [[5. Mechanics/Spells/Invisibility.md\|invisibility]] (2 charges), [[5. Mechanics/Spells/Knock.md\|knock]] (2 charges), [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]] (7th-level version, 7 charges), [[5. Mechanics/Spells/Passwall.md\|passwall]] (5 charges), [[5. Mechanics/Spells/Plane Shift.md\|plane shift]] (7 charges), [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]] (5 charges), [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] (4 charges), or [[5. Mechanics/Spells/Web.md\|web]] (2 charges).
+While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: [[5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]] (7 charges), [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] (3 charges), [[5. Mechanics/Spells/Fireball.md\|fireball]] (7th-level version, 7 charges), [[5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]] (2 charges), [[5. Mechanics/Spells/Ice Storm.md\|ice storm]] (4 charges), [[5. Mechanics/Spells/Invisibility.md\|invisibility]] (2 charges), [[5. Mechanics/Spells/Knock.md\|knock]] (2 charges), [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]] (7th-level version, 7 charges), [[5. Mechanics/Spells/Passwall.md\|passwall]] (5 charges), [[5. Mechanics/Spells/Plane Shift.md\|plane shift]] (7 charges), [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]] (5 charges), [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] (4 charges), or [[5. Mechanics/Spells/Web.md\|web]] (2 charges).
 
 You can also use an action to cast one of the following spells from the staff without using any charges: [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]], [[5. Mechanics/Spells/Light.md\|light]], [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], or [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]].
 
@@ -41,7 +40,7 @@ You can also use an action to cast one of the following spells from the staff wi
 
 You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-foot-radius sphere centered on it.
 
-You have a 50% chance chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
+You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
 
 | Distance from Origin | Damage |
 |----------------------|--------|
@@ -50,4 +49,4 @@ You have a 50% chance chance to instantly travel to a random plane of existence,
 | 21 to 30 ft. away | 4 × the number of charges in the staff |
 ^distance-from-origin-damage
 
-*Source: Dungeon Master's Guide p. 203. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

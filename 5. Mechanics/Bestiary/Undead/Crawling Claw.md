@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: null
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
   - monster/size/tiny
   - monster/type/undead
-statblock: inline
 aliases:
   - Crawling Claw
 ---
-# [[5. Mechanics/Bestiary/Undead/Crawling Claw.md|Crawling Claw]]
+# [[5. Mechanics\Bestiary\Undead\Crawling Claw.md|Crawling Claw]]
 *Source: Monster Manual p. 44, Curse of Strahd*
 
 Crawling claws are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.
@@ -41,7 +44,7 @@ Made whole again, the murderer acts as though the hand had never been severed an
 
 A crawling claw doesn't require air, food, drink, or sleep.
 
-> [!quote]- A quote from Evangeliza Lavain, necromancer  
+> [!quote] A quote from Evangeliza Lavain, necromancer  
 > 
 > Makes you wonder what can be done with all those other murderer parts, doesn't it?
 
@@ -63,8 +66,8 @@ A crawling claw doesn't require air, food, drink, or sleep.
 - !!int "4"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 10"
 "languages": "understands Common but can't speak"
 "cr": "0"
@@ -78,16 +81,6 @@ A crawling claw doesn't require air, food, drink, or sleep.
 "source":
 - "MM"
 - "CoS"
-- "PotA"
-- "ToA"
-- "WDH"
-- "BGDIA"
-- "IDRotF"
-- "CM"
-- "JttRC"
-- "LoX"
-- "KftGV"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Undead/token/crawling-claw.webp"
 ```
 ^statblock

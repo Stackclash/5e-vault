@@ -4,16 +4,31 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/bard
-  - spell/class/cleric/trickery-domain
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin/oath-of-vengeance
-  - spell/class/ranger/fey-wanderer
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/4
+  - spell/level/4th-level
   - spell/school/conjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/carillon-domain
+  - spell/subclass/cat-domain
+  - spell/subclass/circle-of-the-eclipse
+  - spell/subclass/eldritch-knight
+  - spell/subclass/fey-wanderer
+  - spell/subclass/labyrinth-domain
+  - spell/subclass/oath-of-the-open-road
+  - spell/subclass/oath-of-the-spelldrinker
+  - spell/subclass/oath-of-vengeance
+  - spell/subclass/speed-domain
+  - spell/subclass/travel-domain
+  - spell/subclass/trickery-domain
+  - spell/subclass/void-domain
+level: 4th-level
+range: false
+school: Conjuration
+time: 1 action
+duration: Instantaneous
+components: V
 aliases:
   - Dimension Door
 ---
@@ -30,8 +45,8 @@ You teleport yourself from your current location to any other spot within range.
 
 You can bring along objects as long as their weight doesn't exceed what you can carry. You can also bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell.
 
-If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take `dice: 4d6|avg|noform` (`4d6`) force damage, and the spell fails to teleport you.
+If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take `dice:4d6|noform|avg` (`4d6`) force damage, and the spell fails to teleport you.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Trickery Domain.md\|Cleric (Trickery Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]], [[5. Mechanics/Classes/Ranger Fey Wanderer.md\|Ranger (Fey Wanderer)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Cleric Carillon Domain (GRIFFONSSADDLEBAG3)\|Cleric (Carillon Domain)]]; [[List Spells Classes Cleric Cat Domain (KPDM)\|Cleric (Cat Domain)]]; [[List Spells Classes Druid Circle Of The Eclipse (GRIFFONSSADDLEBAG4)\|Druid (Circle of the Eclipse)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Fey Wanderer (TCE)\|Ranger (Fey Wanderer)]]; [[List Spells Classes Cleric Labyrinth Domain (KPDM)\|Cleric (Labyrinth Domain)]]; [[List Spells Classes Paladin Oath Of The Open Road (GRIFFONSSADDLEBAG3)\|Paladin (Oath of the Open Road)]]; [[List Spells Classes Paladin Oath Of The Spelldrinker (GRIFFONSSADDLEBAG2)\|Paladin (Oath of the Spelldrinker)]]; [[List Spells Classes Paladin Oath Of Vengeance\|Paladin (Oath of Vengeance)]]; [[List Spells Classes Cleric Speed Domain (KPDM)\|Cleric (Speed Domain)]]; [[List Spells Classes Cleric Travel Domain (KPDM)\|Cleric (Travel Domain)]]; [[List Spells Classes Cleric Trickery Domain\|Cleric (Trickery Domain)]]; [[List Spells Classes Cleric Void Domain (KPDM)\|Cleric (Void Domain)]]
 
-*Source: Player's Handbook p. 233. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 233. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

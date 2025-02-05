@@ -3,16 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/artificer/armorer
-  - spell/class/artificer/battle-smith
-  - spell/class/druid/circle-of-wildfire
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
-  - spell/class/warlock/the-fiend
-  - spell/class/warlock/the-genie
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/sorcerer
   - spell/class/wizard
-  - spell/level/4
+  - spell/level/4th-level
   - spell/school/evocation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/armorer
+  - spell/subclass/battle-smith
+  - spell/subclass/circle-of-wildfire
+  - spell/subclass/eldritch-knight
+  - spell/subclass/oath-of-radiance
+  - spell/subclass/the-fiend
+  - spell/subclass/the-genie
+  - spell/subclass/the-genie-lord
+  - spell/subclass/the-valiant
+level: 4th-level
+range: false
+school: Evocation
+time: 1 action
+duration: 10 minute
+components: 'V, S, a bit of phosphorus or a firefly'
 aliases:
   - Fire Shield
 ---
@@ -28,8 +40,8 @@ Thin and wispy flames wreathe your body for the duration, shedding bright light 
 
 The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.
 
-In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes `dice: 2d8|avg|noform` (`2d8`) fire damage from a warm shield, or `dice: 2d8|avg|noform` (`2d8`) cold damage from a cold shield.
+In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes `dice:2d8|noform|avg` (`2d8`) fire damage from a warm shield, or `dice:2d8|noform|avg` (`2d8`) cold damage from a cold shield.
 
-**Classes**: [[5. Mechanics/Classes/Artificer Armorer.md\|Artificer (Armorer)]], [[5. Mechanics/Classes/Artificer Battle Smith.md\|Artificer (Battle Smith)]], [[5. Mechanics/Classes/Druid Circle Of Wildfire.md\|Druid (Circle of Wildfire)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Artificer Armorer (TCE)\|Artificer (Armorer)]]; [[List Spells Classes Artificer Battle Smith (TCE)\|Artificer (Battle Smith)]]; [[List Spells Classes Druid Circle Of Wildfire (TCE)\|Druid (Circle of Wildfire)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Paladin Oath Of Radiance (KPDM)\|Paladin (Oath of Radiance)]]; [[List Spells Classes Warlock The Fiend\|Warlock (The Fiend)]]; [[List Spells Classes Warlock The Genie Lord (KPDM)\|Warlock (The Genie Lord)]]; [[List Spells Classes Warlock The Genie (TCE)\|Warlock (The Genie)]]; [[List Spells Classes Warlock The Valiant (GRIFFONSSADDLEBAG3)\|Warlock (The Valiant)]]
 
-*Source: Player's Handbook p. 242. Available in the SRD.*
+*Source: Player's Handbook p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

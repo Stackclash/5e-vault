@@ -3,13 +3,23 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
-  - spell/class/druid/circle-of-stars
-  - spell/class/paladin/oath-of-glory
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-celestial
-  - spell/level/1
+  - spell/feat/magic-initiate
+  - spell/level/1st-level
   - spell/school/evocation
+  - spell/subclass/circle-of-stars
+  - spell/subclass/divine-soul
+  - spell/subclass/oath-of-glory
+  - spell/subclass/oath-of-radiance
+  - spell/subclass/oath-of-the-watchtower
+  - spell/subclass/the-celestial
+level: 1st-level
+range: false
+school: Evocation
+time: 1 action
+duration: 1 round
+components: 'V, S'
 aliases:
   - Guiding Bolt
 ---
@@ -21,10 +31,10 @@ aliases:
 - **Components:** V, S
 - **Duration:** 1 round
 
-A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes `dice: 4d6|avg|noform` (`4d6`) radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
+A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes `dice:4d6|noform|avg` (`4d6`) radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d6` for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d6|noform|avg|text(1d6)` for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of Stars.md\|Druid (Circle of Stars)]], [[5. Mechanics/Classes/Paladin Oath Of Glory.md\|Paladin (Oath of Glory)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Celestial.md\|Warlock (The Celestial)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid Circle Of Stars (TCE)\|Druid (Circle of Stars)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Paladin Oath Of Glory (TCE)\|Paladin (Oath of Glory)]]; [[List Spells Classes Paladin Oath Of Radiance (KPDM)\|Paladin (Oath of Radiance)]]; [[List Spells Classes Paladin Oath Of The Watchtower (GRIFFONSSADDLEBAG3)\|Paladin (Oath of the Watchtower)]]; [[List Spells Classes Warlock The Celestial (XGE)\|Warlock (The Celestial)]]
 
-*Source: Player's Handbook p. 248. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

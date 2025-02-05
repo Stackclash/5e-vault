@@ -3,12 +3,23 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
+  - spell/class/bard
   - spell/class/wizard
-  - spell/level/1
+  - spell/feat/magic-initiate
+  - spell/feat/ritual-caster
+  - spell/level/1st-level
+  - spell/optfeature/book-of-ancient-secrets
   - spell/ritual
   - spell/school/conjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+  - spell/subrace/tiefling-mammon
+level: 1st-level
+range: true
+school: Conjuration
+time: 1 action
+duration: 1 hour
+components: 'V, S, a drop of mercury'
 aliases:
   - Tenser's Floating Disk
 ---
@@ -26,6 +37,6 @@ The disk is immobile while you are within 20 feet of it. If you move more than 2
 
 If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends.
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
 
-*Source: Player's Handbook p. 282. Available in the SRD (as 'Floating Disk').*
+*Source: Player's Handbook p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Floating Disk")*

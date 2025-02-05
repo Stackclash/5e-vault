@@ -1,19 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 9
+environments: null
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/9
   - monster/size/large
   - monster/type/fiend/yugoloth
-statblock: inline
 aliases:
   - Nycaloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Nycaloth.md|Nycaloth]]
+# [[5. Mechanics\Bestiary\Fiend\Nycaloth.md|Nycaloth]]
 *Source: Monster Manual p. 314, Tasha's Cauldron of Everything*
 
-The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razorsharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] or create illusory doubles of itself, further confounding its enemies.
+The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razorsharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]] or create illusory doubles of itself, further confounding its enemies.
 
 Nycaloths are the most loyal of the yugoloths. When they find an evil master that treats them well, they are unlikely to break their agreement unless the reward for doing so is extreme.
 
@@ -55,15 +58,15 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > 
 > **Summon Yugoloth (1/Day).** The yugoloth chooses what to summon and attempts a magical summoning.
 > 
-> - An arcanaloth has a 40% chance chance of summoning one arcanaloth.  
-> - A mezzoloth has a 30% chance chance of summoning one mezzoloth.  
-> - A nycaloth has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) mezzoloths or one nycaloth.  
-> - An ultroloth has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) mezzoloths, `dice: 1d4|avg|noform` (`1d4`) nycaloths, or one ultroloth.  
+> - An arcanaloth has a 40 percent chance of summoning one arcanaloth.  
+> - A mezzoloth has a 30 percent chance of summoning one mezzoloth.  
+> - A nycaloth has a 50 percent chance of summoning `dice:1d4|noform|avg` (`1d4`) mezzoloths or one nycaloth.  
+> - An ultroloth has a 50 percent chance of summoning `dice:1d6|noform|avg` (`1d6`) mezzoloths, `dice:1d4|noform|avg` (`1d4`) nycaloths, or one ultroloth.  
 > 
 > A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for l minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it
 ^variant-yugoloth-summoning
 
-> [!quote]- A quote from Shemeshka the Marauder  
+> [!quote] A quote from Shemeshka the Marauder  
 > 
 > Power. We all crave it, but only a select few of us deserve it.
 
@@ -93,7 +96,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "9"
@@ -130,16 +133,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   "name": "Teleport"
 "source":
 - "MM"
-- "PotA"
-- "RoT"
-- "ToA"
-- "WDMM"
-- "BGDIA"
 - "TCE"
-- "KftGV"
-- "PaBTSO"
-- "SatO"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Fiend/token/nycaloth.webp"
 ```
 ^statblock

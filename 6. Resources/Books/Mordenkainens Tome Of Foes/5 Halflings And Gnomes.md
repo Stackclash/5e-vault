@@ -17,7 +17,7 @@ Halflings and gnomes are two groups that have survived by remaining largely unno
 
 ## Halflings
 
-> [!quote]- A quote from Magnificus, wizard extraordinaire  
+> [!quote] A quote from Magnificus, wizard extraordinaire  
 > 
 > I don't have enough fingers and toes to count the times I saw our little rogue cheat death, but I remember them all. Let's see... there was the enraged roper, the flaming lava stream, the catapulted gelatinous cubes, the Ten Tilting Corridors of Death, the exploding toad trap, the Hall of the Spinning Scimitars...
 
@@ -94,7 +94,7 @@ For the most part, halflings aren't the targets of warring nations. Their villag
 
 And, as halfling luck would have it, these incidents are so rare that a single one might be talked about for generations. In one village, the story of the ogre that ate Farmer Keller's billy goat is a cautionary tale that will be repeated and embellished for decades.
 
-> [!quote]- A quote from "Tale of the Fishskippers," by Harkin Fishskipper  
+> [!quote] A quote from "Tale of the Fishskippers," by Harkin Fishskipper  
 > 
 > From the gentle waters,
 > 
@@ -173,9 +173,7 @@ The Halfling Deities table lists the members of the halfling pantheon. For each 
 
 #### Halfling Deities
 
-![[5. Mechanics/Tables/Halfling Deities.md\|Halfling Deities]]
-
-**Appears in Xanathar's Guide to Everything*
+![[5. Mechanics/Tables/Halfling Deities (MTF).md\|Halfling Deities]]
 
 #### Yondalla
 
@@ -253,7 +251,7 @@ Unlike other halfling deities, Urogalan is surrounded by a cloud of melancholy. 
 
 ### The Halfling Adventurer
 
-> [!quote]- A quote from Elminster Aumar, Sage of Shadowdale  
+> [!quote] A quote from Elminster Aumar, Sage of Shadowdale  
 > 
 > Who knows where a hero's spirit will grow? Even the smallest seed can produce the mightiest tree.
 
@@ -296,19 +294,19 @@ Of course, not every journey into the world involves risking one's life or claim
 
 This section provides a number of tables useful for players and DMs who want to choose or randomly generate details about halfling characters or villages.
 
-![[5. Mechanics/Tables/Halfling Tables Halfling Personality Traits.md\|Halfling Tables; Halfling Personality Traits]]
+![[5. Mechanics/Tables/Halfling Tables Halfling Personality Traits (MTF).md\|Halfling Tables; Halfling Personality Traits]]
 
-![[5. Mechanics/Tables/Halfling Tables Halfling Ideals.md\|Halfling Tables; Halfling Ideals]]
+![[5. Mechanics/Tables/Halfling Tables Halfling Ideals (MTF).md\|Halfling Tables; Halfling Ideals]]
 
-![[5. Mechanics/Tables/Halfling Tables Halfling Bonds.md\|Halfling Tables; Halfling Bonds]]
+![[5. Mechanics/Tables/Halfling Tables Halfling Bonds (MTF).md\|Halfling Tables; Halfling Bonds]]
 
-![[5. Mechanics/Tables/Halfling Tables Halfling Flaws.md\|Halfling Tables; Halfling Flaws]]
+![[5. Mechanics/Tables/Halfling Tables Halfling Flaws (MTF).md\|Halfling Tables; Halfling Flaws]]
 
-![[5. Mechanics/Tables/Halfling Tables Reasons For Adventuring.md\|Halfling Tables; Reasons for Adventuring]]
+![[5. Mechanics/Tables/Halfling Tables Reasons For Adventuring (MTF).md\|Halfling Tables; Reasons for Adventuring]]
 
 ## Gnomes
 
-> [!quote]- A quote from Griballix, gnome of Sigil  
+> [!quote] A quote from Griballix, gnome of Sigil  
 > 
 > And then the whole thing exploded into a million jillion pieces! [gasp] I never saw anything like it in my life!
 
@@ -437,7 +435,7 @@ Elminster calls gnomes the Forgotten Folk-an apt name for them in most worlds. I
 
 ### Gnome Gods
 
-> [!quote]- A quote from Griballix, gnome of Sigil  
+> [!quote] A quote from Griballix, gnome of Sigil  
 > 
 > Who forged the chains that bind Tiamat in Avernus? Why do the modrons go on the Great March? Who is the Lady of Pain, really? I can't tell you, but the answers lie in the Golden Hills. And if Garl and his gang don't know, it can't be known.
 
@@ -451,7 +449,7 @@ A consensus of sorts emerges from the totality of these beliefs. Most gnomes bel
 
 The Gnome Deities table lists the members of the gnome pantheon. For each god, the table notes alignment, province (the god's main areas of interest and responsibility), suggested domains for clerics who serve the god, and a common symbol of the god. Several of the gods in the table are described below.
 
-![[5. Mechanics/Tables/Gnome Gods Gnome Deities.md\|Gnome Gods; Gnome Deities]]
+![[5. Mechanics/Tables/Gnome Gods Gnome Deities (MTF).md\|Gnome Gods; Gnome Deities]]
 
 #### Garl Glittergold
 
@@ -568,7 +566,7 @@ Nebelun's hill is festooned inside and out with structures and contraptions of m
 
 ### Gnome Adventurers
 
-> [!quote]- A quote from Delaan Winterhound  
+> [!quote] A quote from Delaan Winterhound  
 > 
 > I don't know how many times I've seen a gnome turn a dead end into a wonderful opportunity.
 
@@ -596,16 +594,16 @@ A deep gnome, pragmatic and cautious, brings a sense of duty rather than a sense
 
 At the DM's discretion, you can play a deep gnome character. When you choose the subrace of your gnome, you can choose deep gnome, using the following rules to create your character.
 
-- [[5. Mechanics/Races/Deep Gnome.md\|Gnome (Deep)]]  
+- [[5. Mechanics/Races/Deep Gnome (MPMM).md\|Gnome (Deep)]]  
 
 ## Gnome Tables
 
 This section provides several tables useful for players and DMs who want to create gnome characters.
 
-![[5. Mechanics/Tables/Gnome Tables Gnome Personality Traits.md\|Gnome Tables; Gnome Personality Traits]]
+![[5. Mechanics/Tables/Gnome Tables Gnome Personality Traits (MTF).md\|Gnome Tables; Gnome Personality Traits]]
 
-![[5. Mechanics/Tables/Gnome Tables Gnome Ideals.md\|Gnome Tables; Gnome Ideals]]
+![[5. Mechanics/Tables/Gnome Tables Gnome Ideals (MTF).md\|Gnome Tables; Gnome Ideals]]
 
-![[5. Mechanics/Tables/Gnome Tables Gnome Bonds.md\|Gnome Tables; Gnome Bonds]]
+![[5. Mechanics/Tables/Gnome Tables Gnome Bonds (MTF).md\|Gnome Tables; Gnome Bonds]]
 
-![[5. Mechanics/Tables/Gnome Tables Gnome Flaws.md\|Gnome Tables; Gnome Flaws]]
+![[5. Mechanics/Tables/Gnome Tables Gnome Flaws (MTF).md\|Gnome Tables; Gnome Flaws]]

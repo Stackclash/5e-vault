@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 7
+environments: swamp
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/7
   - monster/environment/swamp
   - monster/size/large
   - monster/type/dragon
-statblock: inline
 aliases:
   - Young Black Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young Black Dragon.md|Young Black Dragon]]
-*Source: Monster Manual p. 88. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Young Black Dragon.md|Young Black Dragon]]
+*Source: Monster Manual p. 88. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
 
@@ -137,11 +140,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Acid Breath (Recharge 5-6)"
 "source":
 - "MM"
-- "RoT"
-- "TftYP"
-- "GoS"
-- "BGDIA"
-- "LK"
 "image": "5. Mechanics/Bestiary/Dragon/token/young-black-dragon.webp"
 ```
 ^statblock

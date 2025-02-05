@@ -5,15 +5,14 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/uncommon
   - item/tier/major
-  - item/wondrous
 aliases:
   - Deck of Illusions
 ---
 # Deck of Illusions
-*Wondrous Item, major, uncommon*  
+*Wondrous item, major, uncommon*  
 
 
-This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing `dice: 1d20 - 1|avg|noform` (`1d20 - 1`) cards.
+This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing `dice:1d20-1|noform|avg` (` - 1`) cards.
 
 The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you.
 
@@ -27,7 +26,7 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 |------------|--------------|----------|
 | 1 | Ace of hearts | [[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md\|Red dragon]] |
 | 2 | King of hearts | [[5. Mechanics/Bestiary/Humanoid/Knight.md\|Knight]] and four [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]] |
-| 3 | Queen of hearts | [[5. Mechanics/Bestiary/Fiend/Succubus.md\|Succubus/Incubus]] |
+| 3 | Queen of hearts | [[5. Mechanics/Bestiary/Fiend/Succub(US).md\|Succubus/Incubus]] |
 | 4 | Jack of hearts | [[5. Mechanics/Bestiary/Humanoid/Druid.md\|Druid]] |
 | 5 | Ten of hearts | [[5. Mechanics/Bestiary/Giant/Cloud Giant.md\|Cloud giant]] |
 | 6 | Nine of hearts | [[5. Mechanics/Bestiary/Giant/Ettin.md\|Ettin]] |
@@ -60,4 +59,4 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 | 33-34 | jokers (2) | You (the deck's owner) |
 ^1-playing-card-illusion
 
-*Source: Dungeon Master's Guide p. 161. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 161. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

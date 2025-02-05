@@ -1,24 +1,27 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/underdark
   - monster/size/large
   - monster/type/ooze
-statblock: inline
 aliases:
   - Gelatinous Cube
 ---
-# [[5. Mechanics/Bestiary/Ooze/Gelatinous Cube.md|Gelatinous Cube]]
-*Source: Monster Manual p. 242, Eberron: Rising from the Last War. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Ooze\Gelatinous Cube.md|Gelatinous Cube]]
+*Source: Monster Manual p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Gelatinous cubes scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved.
 
 A gelatinous cube is all but transparent, making it hard to spot until it attacks. A cube that is well fed can be easier to spot, since its victims' bones, coins, and other objects can be seen suspended inside the creature.
 
-> [!quote]- A quote from From the journal of Jaster Hollowquill, on his first exploration of Undermountain  
+> [!quote] A quote from From the journal of Jaster Hollowquill, on his first exploration of Undermountain  
 > 
 > The dungeon's floors were spotless. That should have been our first clue.
 
@@ -39,9 +42,9 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
 - !!int "6"
 - !!int "1"
 "speed": "15 ft."
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "2"
@@ -58,7 +61,8 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
 - "desc": "Even when the cube is in plain sight, it takes a successful DC 15 Wisdom\
     \ ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) check to spot a cube\
     \ that has neither moved nor attacked. A creature that tries to enter the cube's\
-    \ space while unaware of the cube is surprised by the cube."
+    \ space while unaware of the cube is [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]]\
+    \ by the cube."
   "name": "Transparent"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 10\
@@ -71,7 +75,7 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
     \ chooses not to be pushed suffers the consequences of a failed saving throw.\n\
     \nOn a failed save, the cube enters the creature's space, and the creature takes\
     \ 10 (3d6) acid damage and is engulfed. The engulfed creature can't breathe, is\
-    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and takes 21 (6d6)\
+    \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], and takes 21 (6d6)\
     \ acid damage at the start of each of the cube's turns. When the cube moves, the\
     \ engulfed creature moves with it.\n\nAn engulfed creature can try to escape by\
     \ taking an action to make a DC 12 Strength check. On a success, the creature\
@@ -79,14 +83,6 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
   "name": "Engulf"
 "source":
 - "MM"
-- "TftYP"
-- "WDMM"
-- "GoS"
-- "ERLW"
-- "IDRotF"
-- "WBtW"
-- "BMT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Ooze/token/gelatinous-cube.webp"
 ```
 ^statblock

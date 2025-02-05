@@ -4,16 +4,27 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
+  - spell/class/bard
   - spell/class/cleric
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-genie
   - spell/class/wizard
-  - spell/level/4
+  - spell/level/4th-level
   - spell/school/transmutation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/divine-soul
+  - spell/subclass/eldritch-knight
+  - spell/subclass/mountain-domain
+  - spell/subclass/the-genie
+  - spell/subclass/the-lithic
+level: 4th-level
+range: false
+school: Transmutation
+time: 1 action
+duration: Instantaneous
+components: >-
+  V, S, soft clay, which must be worked into roughly the desired shape of the
+  stone object
 aliases:
   - Stone Shape
 ---
@@ -27,6 +38,6 @@ aliases:
 
 You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose. So, for example, you could shape a large rock into a weapon, idol, or coffer, or make a small passage through a wall, as long as the wall is less than 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn't possible.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Mountain Domain (KPDM)\|Cleric (Mountain Domain)]]; [[List Spells Classes Warlock The Genie (TCE)\|Warlock (The Genie)]]; [[List Spells Classes Warlock The Lithic (GRIFFONSSADDLEBAG3)\|Warlock (The Lithic)]]
 
-*Source: Player's Handbook p. 278. Available in the SRD.*
+*Source: Player's Handbook p. 278. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -3,13 +3,21 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
-  - spell/class/warlock/the-undead
+  - spell/class/bard
   - spell/class/wizard
-  - spell/level/3
+  - spell/level/3rd-level
   - spell/ritual
   - spell/school/illusion
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+  - spell/subclass/oath-of-the-annihilator
+  - spell/subclass/the-undead
+level: 3rd-level
+range: true
+school: Illusion
+time: 1 minute
+duration: 1 hour
+components: 'V, S'
 aliases:
   - Phantom Steed
 ---
@@ -25,6 +33,6 @@ A Large quasi-real, horselike creature appears on the ground in an unoccupied sp
 
 For the duration, you or a creature you choose can ride the steed. The creature uses the statistics for a [[5. Mechanics/Bestiary/Beast/Riding Horse.md\|riding horse]], except it has a speed of 100 feet and can travel 10 miles in an hour, or 13 miles at a fast pace. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use an action to dismiss it or if the steed takes any damage.
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Warlock The Undead.md\|Warlock (The Undead)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Paladin Oath Of The Annihilator (KPDM)\|Paladin (Oath of the Annihilator)]]; [[List Spells Classes Warlock The Undead (VRGR)\|Warlock (The Undead)]]
 
-*Source: Player's Handbook p. 265. Available in the SRD.*
+*Source: Player's Handbook p. 265. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

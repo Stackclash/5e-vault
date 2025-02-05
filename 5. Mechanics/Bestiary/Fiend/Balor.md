@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 19
+environments: null
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/19
   - monster/size/huge
   - monster/type/fiend/demon
-statblock: inline
 aliases:
   - Balor
 ---
-# [[5. Mechanics/Bestiary/Fiend/Balor.md|Balor]]
-*Source: Monster Manual p. 55, Tasha's Cauldron of Everything. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Fiend\Balor.md|Balor]]
+*Source: Monster Manual p. 55, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Figures of ancient and terrible evil, balors rule as generals over demonic armies, yearning to seize power while destroying any creatures that oppose them.
 
@@ -157,7 +160,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -166,20 +169,20 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50% chance chance of summoning `dice: 1d8|avg|noform` (`1d8`) vrocks, `dice: 1d6|avg|noform` (`1d6`) hezrous, `dice: 1d4|avg|noform` (`1d4`) glabrezus, `dice: 1d3|avg|noform` (`1d3`) nalfeshnees, `dice: 1d2|avg|noform` (`1d2`) mariliths, or one goristro.  
-> - A barlgura has a 30% chance chance of summoning one barlgura.  
-> - A chasme has a 30% chance chance of summoning one chasme.  
-> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg|noform` (`1d3`) vrocks, `dice: 1d2|avg|noform` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) vrocks, `dice: 1d4|avg|noform` (`1d4`) hezrous, `dice: 1d3|avg|noform` (`1d3`) glabrezus, `dice: 1d2|avg|noform` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) vrocks, `dice: 1d3|avg|noform` (`1d3`) hezrous, `dice: 1d2|avg|noform` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg|noform` (`2d4`) dretches or one vrock.  
-> - A yochlol has a 50% chance chance of summoning one yochlol.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|avg` (`1d8`) vrocks, `dice:1d6|noform|avg` (`1d6`) hezrous, `dice:1d4|noform|avg` (`1d4`) glabrezus, `dice:1d3|noform|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|avg` (`1d2`) mariliths, or one goristro.  
+> - A barlgura has a 30 percent chance of summoning one barlgura.  
+> - A chasme has a 30 percent chance of summoning one chasme.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|avg` (`1d3`) vrocks, `dice:1d2|noform|avg` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|avg` (`1d6`) vrocks, `dice:1d4|noform|avg` (`1d4`) hezrous, `dice:1d3|noform|avg` (`1d3`) glabrezus, `dice:1d2|noform|avg` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|avg` (`1d4`) vrocks, `dice:1d3|noform|avg` (`1d3`) hezrous, `dice:1d2|noform|avg` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|avg` (`2d4`) dretches or one vrock.  
+> - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-demon-summoning
 
-> [!quote]- A quote from From the Demonomicon of Iggwilv  
+> [!quote] A quote from From the Demonomicon of Iggwilv  
 > 
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
 
@@ -210,7 +213,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "19"
@@ -247,13 +250,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   "name": "Teleport"
 "source":
 - "MM"
-- "BGDIA"
-- "IMR"
-- "EGW"
 - "TCE"
-- "CRCotN"
-- "ToFW"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Fiend/token/balor.webp"
 ```
 ^statblock

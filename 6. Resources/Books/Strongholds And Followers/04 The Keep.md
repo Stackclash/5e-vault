@@ -121,7 +121,7 @@ If the province fails its Unrest check, it loses one development level. If this 
 
 Of course, spending a season there means withstanding the owner's own armies. We're basically talking about an invasion.
 
-![[5. Mechanics/Tables/Barbarian Units.md\|Barbarian Units]]
+![[5. Mechanics/Tables/Barbarian Units (SAF).md\|Barbarian Units]]
 
 > [!gallery]
 > ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/keep-small.jpg#gallery)
@@ -131,7 +131,7 @@ Of course, spending a season there means withstanding the owner's own armies. We
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/pirate-ship.webp#center)
 
-Another variation of the Keep is the dreaded Pirate Ship. The Pirate Ship (a galleon, but one dedicated to piracy) is a mobile stronghold like the Barbarian camp. But while the Barbarian camp gets slower the larger it is, a Pirate Ship gets faster! Its larger sails resist the wind much more efficiently than the larger hull drags through the water. ^[[5. Mechanics/Tables/Training Units Raised By Keep.md\|This is actually true. The development of larger sails and the ability to tack into the wind led to the development of the galleon, which was faster than its smaller cousins. Galleons became so big, and could carry so much gold and spice, they became easy pickings for enemy privateers, and thus was the age of piracy born.]
+Another variation of the Keep is the dreaded Pirate Ship. The Pirate Ship (a galleon, but one dedicated to piracy) is a mobile stronghold like the Barbarian camp. But while the Barbarian camp gets slower the larger it is, a Pirate Ship gets faster! Its larger sails resist the wind much more efficiently than the larger hull drags through the water. ^[[5. Mechanics/Tables/Training Units Raised By Keep (SAF).md\|This is actually true. The development of larger sails and the ability to tack into the wind led to the development of the galleon, which was faster than its smaller cousins. Galleons became so big, and could carry so much gold and spice, they became easy pickings for enemy privateers, and thus was the age of piracy born.]
 
 The Pirate Ship functions as a Keep with the following differences.
 

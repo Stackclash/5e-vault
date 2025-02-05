@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'forest, urban'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -9,12 +13,11 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-statblock: inline
 aliases:
   - Wererat
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Wererat.md|Wererat]]
-*Source: Monster Manual p. 209. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Humanoid\Wererat.md|Wererat]]
+*Source: Monster Manual p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Wererats are cunning lycanthropes with sly, avaricious personalities. They are wiry and twitchy in humanoid form, with thin hair and darting eyes. In their humanoid and hybrid forms, wererats prefer light weapons and use ambush tactics rather than fighting as a pack. Although a wererat can deliver a nasty bite in its rat form, it favors that form for stealthy infiltration and escape rather than combat.
 
@@ -44,7 +47,7 @@ Some individuals see little point in fighting the curse and accept what they are
 > 
 > The following information applies to specific lycanthropes.
 > 
-> **.** **[[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 > 
 > **[[5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]].** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 > 
@@ -104,17 +107,6 @@ Some individuals see little point in fighting the curse and accept what they are
   "name": "Hand Crossbow (Humanoid or Hybrid Form Only)"
 "source":
 - "MM"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "BGDIA"
-- "IMR"
-- "EGW"
-- "CM"
-- "SatO"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Humanoid/token/wererat.webp"
 ```
 ^statblock

@@ -75,9 +75,9 @@ Keeps, towers, and temples also count as Fortifications in Warfare (see page 231
 
 | Stronghold | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
 |------------|---------|---------|---------|---------|---------|
-| Keep | `dice: d6\|avg\|noform` (`d6`) | `dice: d8\|avg\|noform` (`d8`) | `dice: d10\|avg\|noform` (`d10`) | `dice: d12\|avg\|noform` (`d12`) | `dice: d20\|avg\|noform` (`d20`) |
-| Tower | `dice: d4\|avg\|noform` (`d4`) | `dice: d6\|avg\|noform` (`d6`) | `dice: d8\|avg\|noform` (`d8`) | `dice: d10\|avg\|noform` (`d10`) | `dice: d12\|avg\|noform` (`d12`) |
-| Temple | `dice: d4\|avg\|noform` (`d4`) | `dice: d6\|avg\|noform` (`d6`) | `dice: d8\|avg\|noform` (`d8`) | `dice: d10\|avg\|noform` (`d10`) | `dice: d12\|avg\|noform` (`d12`) |
+| Keep | `dice:d6\|noform\|avg` (`d6`) | `dice:d8\|noform\|avg` (`d8`) | `dice:d10\|noform\|avg` (`d10`) | `dice:d12\|noform\|avg` (`d12`) | `dice:d20\|noform\|avg` (`d20`) |
+| Tower | `dice:d4\|noform\|avg` (`d4`) | `dice:d6\|noform\|avg` (`d6`) | `dice:d8\|noform\|avg` (`d8`) | `dice:d10\|noform\|avg` (`d10`) | `dice:d12\|noform\|avg` (`d12`) |
+| Temple | `dice:d4\|noform\|avg` (`d4`) | `dice:d6\|noform\|avg` (`d6`) | `dice:d8\|noform\|avg` (`d8`) | `dice:d10\|noform\|avg` (`d10`) | `dice:d12\|noform\|avg` (`d12`) |
 | Establishment | — | — | — | — | — |
 ^size-per-level
 

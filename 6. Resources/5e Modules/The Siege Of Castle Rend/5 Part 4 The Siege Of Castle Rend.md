@@ -11,7 +11,7 @@ aliases:
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-siege.webp#center)
 
-> [!quote]- A quote from   
+> [!quote] A quote from   
 > 
 > Those who stand closest to the light cast the longest shadows.
 
@@ -119,7 +119,7 @@ Your players don't have 150 days, though—they've got about a week. It's up to 
 
 You might also let the martial characters train in the keep or let someone roll on their follower chart to attract some units, as described below. But it's best to hold off *some* reward for when the construction is complete.
 
-- **Units.** Roll five times on the [[5. Mechanics/Tables/Training Units Raised By Keep.md\|Unit Raised by Keep]] chart (page 17) to see which units arrive to pledge service.  
+- **Units.** Roll five times on the [[5. Mechanics/Tables/Training Units Raised By Keep (SAF).md\|Unit Raised by Keep]] chart (page 17) to see which units arrive to pledge service.  
 - **Stronghold Benefit.** At your discretion, characters who volunteer to help train the new units get one of the keep's training benefits ("page 17").  
 - **Followers.** If you're feeling generous, you may let one of the players (they decide which) roll on "their Follower chart" to see who or what arrives to say, "Love what you're doing, how can I help?" Because this is a 3rd-level keep, you may let them roll once now, again in three months, and then once more when the construction is complete. Or wait until it's all done after 150 days and let them roll three times (because it's a *3rd-level* keep).  
 - **Class Feature Improvement.** You may decide to hold off on awarding the improved class feature until construction is complete, but it's up to you. You could award units and the improved class abilities now and hold off on training and rolling on the follower charts until construction is further along. If you award the class feature improvement now, they are a reward for every character who helps pay for the renovation. It's also assumed those characters are helping supervise the construction or otherwise actively helping with the work in some way.  
@@ -128,7 +128,7 @@ You might also let the martial characters train in the keep or let someone roll 
 
 A 1st-level castle with three strongholds in it—in this case, a keep, a tower, and a temple—costs a total of 16,900 gp and takes 253.5 days to build. That's 10,000 gp for a keep, and 8,000 each for a tower and a temple, +30% for having three strongholds in one castle, then the total is halved because they're not starting from scratch. Likewise, a keep takes 150 days to build, and a tower and temple each take 120 days, then add +30% for three strongholds, then halve it for starting with a ruin.
 
-- **Units.** Roll three times on the [[5. Mechanics/Tables/Training Units Raised By Keep.md\|Unit Raised by Keep]] chart (page 17) to see which units show up to help them fight Sir Pelliton.  
+- **Units.** Roll three times on the [[5. Mechanics/Tables/Training Units Raised By Keep (SAF).md\|Unit Raised by Keep]] chart (page 17) to see which units show up to help them fight Sir Pelliton.  
 - **Stronghold Benefits.** If you want to let the players open their presents early, you can let them start using the keep, the tower, and the temple. Normally it takes weeks for spell research; you can enforce that rule or *this one time* let the player roll after only a week's research, assuming that their entire career up 'til now has been research.  
 - **Followers.** The players will ultimately get to roll three times on the Follower chart—once for the keep, once for the tower, once for the temple. Right now, you decide whether they go to roll at all, or whether they'll have to wait for construction to be further along and word of their deeds to spread. It's probably reasonable to let them roll once now, roll again in 126 days, and roll a final time at the end of construction.  
 - **Improved Class Abilities.** Anyone who's contributing money to the construction will get the benefits of the Improved Class Abilities, but when they gain those benefits is up to you. It's best to save something as a reward for finishing construction, and this is a good candidate. But you could decide that the final Follower roll is the reward for finishing and so grant the players Improved Class Abilities immediately.  
@@ -151,7 +151,7 @@ Not only can the players recruit local peasants to help work on repairing the ke
 
 Anytime you're dealing with a large category of people like this, "the peasants," it's a good idea to pick a specific NPC and have them speak for the group—someone from Gravesford who's come up to the ruin to help the heroes.
 
-There's no roll here, because the peasants want to help the players. They hate Lord Saxton and Sir Pelliton, and they like the heroes! I hope. So as soon as the players ask, or when the peasants volunteer, give them the [[5. Mechanics/Optional Features/Gravesford Levies.md\|Gravesford Levies]] card (page 146)
+There's no roll here, because the peasants want to help the players. They hate Lord Saxton and Sir Pelliton, and they like the heroes! I hope. So as soon as the players ask, or when the peasants volunteer, give them the [[5. Mechanics/Optional Features/Gravesford Levies (SAF).md\|Gravesford Levies]] card (page 146)
 
 This presents the players with an important moral dilemma: Levies take casualties first (see "The Order of Battle", page 239). This is their job. They act as the "hit points" of your army, soaking up casualties so more powerful units live longer and inflict more casualties on the enemy.
 
@@ -217,10 +217,10 @@ This encounter takes place either inside the courtyard or on the battlements. Wh
 
 Sir Pelliton arrives with his wizard Curor and six other allies in the flash of a [[5. Mechanics/Spells/Teleport.md\|teleport]] spell read from a scroll. The PCs can see the scroll in Curor's hand turning to dust as the magic is expended. He's casting the spell from a scroll because he is not high enough level to know the spell. Here are the enemies in the encounter:
 
-- [[4. World Almanac/NPCs/Sir Pelliton.md\|Sir Pelliton]] (page 142)  
+- [[4. World Almanac/NPCs/Sir Pelliton (SAF).md\|Sir Pelliton]] (page 142)  
 - Curor, his wizard (as a [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]])  
 - Riddel, an evil cleric (as a [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priest]])  
-- [[4. World Almanac/NPCs/Faldric The Archer.md\|Faldric]], an archer (page 143)  
+- [[4. World Almanac/NPCs/Faldric The Archer (SAF).md\|Faldric]], an archer (page 143)  
 - Four knights (as a [[5. Mechanics/Bestiary/Humanoid/Knight.md\|knight]])  
 
 The players may want to ignore the encounter and, for instance, try to go outside and take out the catapults themselves.
@@ -229,7 +229,7 @@ Doing this means surrendering the defense of the castle, in which case Sir Pelli
 
 ## The Battle
 
-The players have the units they recruited, as well as Castle Rend itself. Sir Pelliton arrives with the following units: [[5. Mechanics/Optional Features/Saxtons Riders.md\|Saxton's Riders]], [[5. Mechanics/Optional Features/Bedegar Archers.md\|Bedegar Archers]], [[5. Mechanics/Optional Features/Catapults.md\|Catapults]], [[5. Mechanics/Optional Features/Bedegar Company Of Foot.md\|Bedegar Company of Foot]], and [[5. Mechanics/Optional Features/Redclaw Demonrunners.md\|Redclaw Demonrunners]]. The gnolls may be a surprise, but it's merely a sign that Lord Saxton is in league with fell powers.
+The players have the units they recruited, as well as Castle Rend itself. Sir Pelliton arrives with the following units: [[5. Mechanics/Optional Features/Saxtons Riders (SAF).md\|Saxton's Riders]], [[5. Mechanics/Optional Features/Bedegar Archers (SAF).md\|Bedegar Archers]], [[5. Mechanics/Optional Features/Catapults (SAF).md\|Catapults]], [[5. Mechanics/Optional Features/Bedegar Company Of Foot (SAF).md\|Bedegar Company of Foot]], and [[5. Mechanics/Optional Features/Redclaw Demonrunners (SAF).md\|Redclaw Demonrunners]]. The gnolls may be a surprise, but it's merely a sign that Lord Saxton is in league with fell powers.
 
 In the full warfare rules ("page 233"), units have Commanders: NPC allies to the heroes who command their units on the battlefield and give the units access to many more maneuvers than are presented here.
 

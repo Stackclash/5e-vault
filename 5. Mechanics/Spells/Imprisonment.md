@@ -3,10 +3,20 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/9
+  - spell/level/9th-level
   - spell/school/abjuration
+level: 9th-level
+range: false
+school: Abjuration
+time: 1 minute
+duration: Until dispelled
+components: >-
+  V, S, a vellum depiction or a carved statuette in the likeness of the target,
+  and a special component that varies according to the version of the spell you
+  choose, worth at least 500 gp per Hit Die of the target
 aliases:
   - Imprisonment
 ---
@@ -30,7 +40,7 @@ The special component for this version of the spell is a small mithral orb.
 
 ## Chaining
 
-Heavy chains, firmly rooted in the ground, hold the target in place. The target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] until the spell ends, and it can't move or be moved by any means until then.
+Heavy chains, firmly rooted in the ground, hold the target in place. The target is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] until the spell ends, and it can't move or be moved by any means until then.
 
 The special component for this version of the spell is a fine chain of precious metal.
 
@@ -62,6 +72,6 @@ You can use a particular special component to create only one prison at a time. 
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
 
-*Source: Player's Handbook p. 252. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 252. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

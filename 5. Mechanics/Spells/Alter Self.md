@@ -4,13 +4,24 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/druid/circle-of-the-moon
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
+  - spell/class/bard
   - spell/class/sorcerer
   - spell/class/wizard
-  - spell/level/2
+  - spell/level/2nd-level
+  - spell/optfeature/master-of-myriad-forms
   - spell/school/transmutation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/circle-of-the-moon
+  - spell/subclass/eldritch-knight
+  - spell/subclass/lust-domain
+  - spell/subclass/the-apex-predator
+  - spell/subclass/the-lithic
+level: 2nd-level
+range: false
+school: Transmutation
+time: 1 action
+duration: 'Concentration, up to 1 hour'
+components: 'V, S'
 aliases:
   - Alter Self
 ---
@@ -34,10 +45,10 @@ You transform your appearance. You decide what you look like, including your hei
 
 ## Natural Weapons
 
-You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal `dice: 1d6|avg|noform` (`1d6`) bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
+You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal `dice:1d6|noform|avg` (`1d6`) bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Druid Circle Of The Moon.md\|Druid (Circle of the Moon)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Moon\|Druid (Circle of the Moon)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Lust Domain (KPDM)\|Cleric (Lust Domain)]]; [[List Spells Classes Warlock The Apex Predator (HHHVIII)\|Warlock (The Apex Predator)]]; [[List Spells Classes Warlock The Lithic (GRIFFONSSADDLEBAG3)\|Warlock (The Lithic)]]
 
-*Source: Player's Handbook p. 211. Available in the SRD.*
+*Source: Player's Handbook p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

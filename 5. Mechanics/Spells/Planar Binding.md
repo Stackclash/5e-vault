@@ -6,10 +6,17 @@ tags:
   - spell/class/bard
   - spell/class/cleric
   - spell/class/druid
-  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock
   - spell/class/wizard
-  - spell/level/5
+  - spell/level/5th-level
   - spell/school/abjuration
+  - spell/subclass/divine-soul
+level: 5th-level
+range: false
+school: Abjuration
+time: 1 hour
+duration: 24 hour
+components: 'V, S, a jewel worth at least 1,000 gp, which the spell consumes'
 aliases:
   - Planar Binding
 ---
@@ -27,6 +34,6 @@ A bound creature must follow your instructions to the best of its ability. You m
 
 **At Higher Levels.** When you cast this spell using a spell slot of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th-level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level spell slot.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 265. Available in the SRD.*
+*Source: Player's Handbook p. 265. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

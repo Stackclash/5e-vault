@@ -20,7 +20,7 @@ aliases:
 | 15 | [[5. Mechanics/Items/Adamantine Armor.md\|Adamantine breastplate]] |
 | 16 | [[5. Mechanics/Items/Adamantine Armor.md\|Adamantine splint armor]] |
 | 17 | [[5. Mechanics/Items/Amulet Of Health.md\|Amulet of health]] |
-| 18 | [[5. Mechanics/Items/Armor Of Vulnerability.md\|Armor of vulnerability]] |
+| 18 | [[5. Mechanics/Items/Armor Of Vulnerability (DMG).md\|Armor of vulnerability]] |
 | 19 | [[5. Mechanics/Items/Arrow Catching Shield.md\|Arrow-catching shield]] |
 | 20 | [[5. Mechanics/Items/Belt Of Dwarvenkind.md\|Belt of dwarvenkind]] |
 | 21 | [[5. Mechanics/Items/Belt Of Hill Giant Strength.md\|Belt of hill giant strength]] |
@@ -33,9 +33,9 @@ aliases:
 | 28 | [[5. Mechanics/Items/Cape Of The Mountebank.md\|Cape of the mountebank]] |
 | 29 | [[5. Mechanics/Items/Censer Of Controlling Air Elementals.md\|Censer of controlling air elementals]] |
 | 30 | [[5. Mechanics/Items/1 Armor.md\|+1 chain mail]] |
-| 31 | [[5. Mechanics/Items/Armor Of Resistance.md\|Chain mail of resistance]] |
+| 31 | [[5. Mechanics/Items/Armor Of Resistance (DMG).md\|Chain mail of resistance]] |
 | 32 | [[5. Mechanics/Items/1 Armor.md\|+1 chain shirt]] |
-| 33 | [[5. Mechanics/Items/Armor Of Resistance.md\|Chain shirt of resistance]] |
+| 33 | [[5. Mechanics/Items/Armor Of Resistance (DMG).md\|Chain shirt of resistance]] |
 | 34 | [[5. Mechanics/Items/Cloak Of Displacement.md\|Cloak of displacement]] |
 | 35 | [[5. Mechanics/Items/Cloak Of The Bat.md\|Cloak of the bat]] |
 | 36 | [[5. Mechanics/Items/Cube Of Force.md\|Cube of force]] |
@@ -59,7 +59,7 @@ aliases:
 | 54 | [[5. Mechanics/Items/Ioun Stone Sustenance.md\|Ioun stone, sustenance]] |
 | 55 | [[5. Mechanics/Items/Iron Bands Of Bilarro.md\|Iron bands of bilarro]] |
 | 56 | [[5. Mechanics/Items/1 Armor.md\|+1 leather armor]] |
-| 57 | [[5. Mechanics/Items/Armor Of Resistance.md\|Leather armor of resistance]] |
+| 57 | [[5. Mechanics/Items/Armor Of Resistance (DMG).md\|Leather armor of resistance]] |
 | 58 | [[5. Mechanics/Items/Mace Of Disruption.md\|Mace of disruption]] |
 | 59 | [[5. Mechanics/Items/Mace Of Smiting.md\|Mace of smiting]] |
 | 60 | [[5. Mechanics/Items/Mace Of Terror.md\|Mace of terror]] |
@@ -71,7 +71,7 @@ aliases:
 | 66 | [[5. Mechanics/Items/Ring Of Feather Falling.md\|Ring of feather falling]] |
 | 67 | [[5. Mechanics/Items/Ring Of Free Action.md\|Ring of free action]] |
 | 68 | [[5. Mechanics/Items/Ring Of Protection.md\|Ring of protection]] |
-| 69 | [[5. Mechanics/Items/Ring Of Resistance.md\|Ring of resistance]] |
+| 69 | [[5. Mechanics/Items/Ring Of Resistance (DMG).md\|Ring of resistance]] |
 | 70 | [[5. Mechanics/Items/Ring Of Spell Storing.md\|Ring of spell storing]] |
 | 71 | [[5. Mechanics/Items/Ring Of The Ram.md\|Ring of the ram]] |
 | 72 | [[5. Mechanics/Items/Ring Of X Ray Vision.md\|Ring of x-ray vision]] |
@@ -80,7 +80,7 @@ aliases:
 | 75 | [[5. Mechanics/Items/2 Rod Of The Pact Keeper.md\|+2 rod of the pact keeper]] |
 | 76 | [[5. Mechanics/Items/Rope Of Entanglement.md\|Rope of entanglement]] |
 | 77 | [[5. Mechanics/Items/1 Armor.md\|+1 scale mail]] |
-| 78 | [[5. Mechanics/Items/Armor Of Resistance.md\|Scale mail of resistance]] |
+| 78 | [[5. Mechanics/Items/Armor Of Resistance (DMG).md\|Scale mail of resistance]] |
 | 79 | [[5. Mechanics/Items/2 Shield.md\|+2 shield]] |
 | 80 | [[5. Mechanics/Items/Shield Of Missile Attraction.md\|Shield of missile attraction]] |
 | 81 | [[5. Mechanics/Items/Staff Of Charming.md\|Staff of charming]] |

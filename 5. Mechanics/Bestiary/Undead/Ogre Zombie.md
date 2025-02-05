@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: null
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/size/large
   - monster/type/undead
-statblock: inline
 aliases:
   - Ogre Zombie
 ---
-# [[5. Mechanics/Bestiary/Undead/Ogre Zombie.md|Ogre Zombie]]
-*Source: Monster Manual p. 316, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Undead\Ogre Zombie.md|Ogre Zombie]]
+*Source: Monster Manual p. 316, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
 
@@ -37,7 +40,7 @@ A zombie can follow simple orders and distinguish friends from foes, but its abi
 
 A zombie doesn't require air, food, drink, or sleep.
 
-> [!quote]- A quote from Fonkin Hoodypeak  
+> [!quote] A quote from Fonkin Hoodypeak  
 > 
 > After Beek died, we cast an [[5. Mechanics/Spells/Animate Dead.md|animate dead]] spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
 
@@ -61,7 +64,7 @@ A zombie doesn't require air, food, drink, or sleep.
 "saves":
   "Wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands Common and Giant but can't speak"
 "cr": "2"
@@ -76,16 +79,6 @@ A zombie doesn't require air, food, drink, or sleep.
   "name": "Morningstar"
 "source":
 - "MM"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "SDW"
-- "IDRotF"
-- "LoX"
-- "PaBTSO"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/ogre-zombie.webp"
 ```

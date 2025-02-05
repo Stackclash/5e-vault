@@ -8,7 +8,7 @@ aliases:
   - Noble
 ---
 # Noble
-*Source: Player's Handbook p. 135. Available in the Basic Rules.*  
+*Source: Player's Handbook p. 135. Available in the Basic Rules (2014)*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#History\|History]], [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]  
 - **Tool Proficiencies.** One type of gaming set  

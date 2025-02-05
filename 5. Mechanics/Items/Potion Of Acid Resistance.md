@@ -13,6 +13,4 @@ aliases:
 *Potion, minor, uncommon*  
 
 
-When you drink this potion, you gain resistance to acid damage for 1 hour.
-
-*Source: Dungeon Master's Guide p. 188. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

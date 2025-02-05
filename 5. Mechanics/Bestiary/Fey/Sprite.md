@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: forest
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/forest
   - monster/size/tiny
   - monster/type/fey
-statblock: inline
 aliases:
   - Sprite
 ---
-# [[5. Mechanics/Bestiary/Fey/Sprite.md|Sprite]]
-*Source: Monster Manual p. 283, Eberron: Rising from the Last War. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Fey\Sprite.md|Sprite]]
+*Source: Monster Manual p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 In secret groves and shaded glens, tiny sprites with dragonfly wings flutter. For all their fey splendor, however, sprites lack warmth and compassion. They are aggressive and hardy warriors, taking severe measures to ward strangers away from their homes. Interlopers that come too close have their moral character judged, then are put to sleep or frightened off.
 
@@ -34,7 +37,7 @@ Because they are judges of the heart and favor good creatures, sprites oppose th
 
 Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are firm warriors, protectors, and judges, and their stern bent causes other fey to consider them overly dour and serious. However, fey that respect the sprites' territory find them staunch allies in times of trouble.
 
-> [!quote]- A quote from Tale of a half-orc ranger  
+> [!quote] A quote from Tale of a half-orc ranger  
 > 
 > The tree had a wee village nestled in its boughs, I swear. Next thing I knew, I was lyin' face-down in the dirt. My head was full of stars. An' when I stood up an' looked around, both the tree an' the wee village were gone.
 
@@ -68,9 +71,9 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
   "name": "Longsword"
 - "desc": "Ranged Weapon Attack: +6 to hit, range 40/160 ft., one target. Hit:\
     \ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving\
-    \ throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
-    \ If its saving throw result is 5 or lower, the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ target falls [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for\
+    \ throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for 1 minute.\
+    \ If its saving throw result is 5 or lower, the [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+    \ target falls [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]] for\
     \ the same duration, or until it takes damage or another creature takes an action\
     \ to shake it awake."
   "name": "Shortbow"
@@ -79,24 +82,14 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
     \ also knows the creature's alignment. Celestials, fiends, and undead automatically\
     \ fail the saving throw."
   "name": "Heart Sight"
-- "desc": "The sprite magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ until it attacks or casts a spell, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
-    \ ends (as if concentrating on a spell). Any equipment the sprite wears or carries\
-    \ is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] with it."
+- "desc": "The sprite magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+    \ until it attacks or casts a spell, or until its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
+    \ ends (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on\
+    \ a spell). Any equipment the sprite wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+    \ with it."
   "name": "Invisibility"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "GoS"
-- "BGDIA"
-- "ERLW"
-- "IMR"
-- "CM"
-- "WBtW"
-- "KftGV"
-- "SatO"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Fey/token/sprite.webp"
 ```
 ^statblock

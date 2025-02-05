@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'underdark, swamp, urban'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -9,12 +13,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/undead
-statblock: inline
 aliases:
   - Ghast
 ---
-# [[5. Mechanics/Bestiary/Undead/Ghast.md|Ghast]]
-*Source: Monster Manual p. 148, Curse of Strahd. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Undead\Ghast.md|Ghast]]
+*Source: Monster Manual p. 148, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
 
@@ -48,14 +51,14 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 "speed": "30 ft."
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "2"
 "traits":
 - "desc": "Any creature that starts its turn within 5 feet of the ghast must succeed\
-    \ on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
     \ until the start of its next turn. On a successful saving throw, the creature\
     \ is immune to the ghast's Stench for 24 hours."
   "name": "Stench"
@@ -68,24 +71,13 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
     \ + 3) slashing damage. If the target is a creature other than an undead, it must\
-    \ succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Claws"
 "source":
 - "MM"
 - "CoS"
-- "PotA"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SDW"
-- "BGDIA"
-- "DSotDQ"
-- "PSI"
 "image": "5. Mechanics/Bestiary/Undead/token/ghast.webp"
 ```
 ^statblock

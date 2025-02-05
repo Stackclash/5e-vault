@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 11
+environments: arctic
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/11
   - monster/environment/arctic
   - monster/size/huge
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Remorhaz
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Remorhaz.md|Remorhaz]]
-*Source: Monster Manual p. 258. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Monstrosity\Remorhaz.md|Remorhaz]]
+*Source: Monster Manual p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pulsing with internal fire. Wing like fins flare from the back of the creature's head, and its wide mouth brims with jagged teeth.
 
@@ -52,35 +55,25 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
 "actions":
 - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 40\
     \ (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature,\
-    \ it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 17). Until\
-    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 17). Until\
+    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
     \ and the remorhaz can't bite another target."
   "name": "Bite"
 - "desc": "The remorhaz makes one bite attack against a Medium or smaller creature\
     \ it is grappling. If the attack hits, that creature takes the bite's damage and\
-    \ is swallowed, and the grapple ends. While swallowed, the creature is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
-    \ and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], it has total cover\
+    \ is swallowed, and the grapple ends. While swallowed, the creature is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
+    \ and [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], it has total cover\
     \ against attacks and other effects outside the remorhaz, and it takes 21 (6d6)\
     \ acid damage at the start of each of the remorhaz's turns.\n\nIf the remorhaz\
     \ takes 30 damage or more on a single turn from a creature inside it, the remorhaz\
     \ must succeed on a DC 15 Constitution saving throw at the end of that turn or\
-    \ regurgitate all swallowed creatures, which fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ regurgitate all swallowed creatures, which fall [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
     \ in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed\
-    \ creature is no longer [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ by it and can escape from the corpse using 15 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ creature is no longer [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
+    \ by it and can escape from the corpse using 15 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Swallow"
 "source":
 - "MM"
-- "SKT"
-- "TftYP"
-- "WDMM"
-- "BGDIA"
-- "IMR"
-- "EGW"
-- "IDRotF"
-- "LoX"
-- "PaBTSO"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/remorhaz.webp"
 ```
 ^statblock

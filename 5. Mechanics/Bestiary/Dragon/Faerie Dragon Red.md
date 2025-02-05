@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: forest
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
   - monster/environment/forest
   - monster/size/tiny
   - monster/type/dragon
-statblock: inline
 aliases:
   - Faerie Dragon (Red)
 ---
-# [[5. Mechanics/Bestiary/Dragon/Faerie Dragon Red.md|Faerie Dragon (Red)]]
+# [[5. Mechanics\Bestiary\Dragon\Faerie Dragon Red.md|Faerie Dragon (Red)]]
 *Source: Monster Manual p. 133*
 
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
@@ -77,10 +80,11 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
     \ years\n\nViolet—51 years or more\n\nA green or older faerie dragon's CR increases\
     \ to 2."
   "name": "The Colors of Age"
-- "desc": "As a bonus action, the dragon can magically turn [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]] ends\
-    \ (as if concentrating on a spell). Any equipment the dragon wears or carries\
-    \ is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] with it."
+- "desc": "As a bonus action, the dragon can magically turn [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+    \ until its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]] ends\
+    \ (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on a spell).\
+    \ Any equipment the dragon wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+    \ with it."
   "name": "Superior Invisibility"
 - "desc": "Using telepathy, the dragon can magically communicate with any other faerie\
     \ dragon within 60 feet of it."
@@ -102,8 +106,6 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
   "name": "Euphoria Breath (Recharge 5-6)"
 "source":
 - "MM"
-- "CM"
-- "WBtW"
 "image": "5. Mechanics/Bestiary/Dragon/token/faerie-dragon-red.webp"
 ```
 ^statblock

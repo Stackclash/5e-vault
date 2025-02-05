@@ -8,7 +8,7 @@ aliases:
   - Distant Spell
 ---
 # Distant Spell
-*Source: Player's Handbook p. 102. Available in the SRD.*  
+*Source: Player's Handbook p. 102. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.
 

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 17
+environments: 'mountain, hill'
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/17
@@ -8,12 +12,11 @@ tags:
   - monster/environment/mountain
   - monster/size/huge
   - monster/type/dragon
-statblock: inline
 aliases:
   - Adult Red Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md|Adult Red Dragon]]
-*Source: Monster Manual p. 98. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Dragon\Adult Red Dragon.md|Adult Red Dragon]]
+*Source: Monster Manual p. 98. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
 
@@ -139,7 +142,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ (2d8 + 8) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
@@ -157,7 +160,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
     \ must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The dragon\
     \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
@@ -171,14 +174,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ fire damage on a failed save, or half as much damage on a successful one.  \n\
     - A tremor shakes the lair in a 60-foot radius around the dragon. Each creature\
     \ other than the dragon on the ground in that area must succeed on a DC 15 Dexterity\
-    \ saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. \
+    \ saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. \
     \ \n- Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point\
     \ the dragon can see within 120 feet of it. The sphere spreads around corners,\
     \ and its area is lightly obscured. It lasts until initiative count 20 on the\
     \ next round. Each creature that starts its turn in the cloud must succeed on\
-    \ a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ until the end of its turn. While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ in this way, a creature is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
+    \ a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+    \ until the end of its turn. While [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+    \ in this way, a creature is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]].\
     \  "
   "name": ""
 - "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md|adult]]\
@@ -188,7 +191,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ centered on a point the dragon can see within 120 feet of it. The sphere spreads\
     \ around corners, and its area is heavily obscured. A creature other than the\
     \ dragon that starts its turn in the cloud or enters it for the first time on\
-    \ its turn must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ its turn must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
     \ until the end of its turn. The cloud lasts until initiative count 20 on the\
     \ next round.  \n- Searing Heat. Searing heat spreads out in a 15-foot-radius\
     \ sphere centered on a point the dragon can see within 120 feet of it. Any creature\
@@ -220,13 +223,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Additional Regional Effects"
 "source":
 - "MM"
-- "RoT"
-- "TftYP"
-- "GoS"
-- "EGW"
-- "MOT"
-- "GotSF"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Dragon/token/adult-red-dragon.webp"
 ```
 ^statblock

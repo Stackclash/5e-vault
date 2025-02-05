@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 9
+environments: null
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/9
   - monster/size/large
   - monster/type/fiend/devil
-statblock: inline
 aliases:
   - Bone Devil
 ---
-# [[5. Mechanics/Bestiary/Fiend/Bone Devil.md|Bone Devil]]
-*Source: Monster Manual p. 71. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Fiend\Bone Devil.md|Bone Devil]]
+*Source: Monster Manual p. 71. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Driven by hate, lust, and envy, bone devils act as the cruel taskmasters of the Nine Hells. They set weaker devils to work, taking special delight in seeing fiends that defy them demoted. At the same time, they long for promotion and are bitterly envious of their superiors, attempting to curry favor though it irks them to do so.
 
@@ -113,7 +116,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -126,13 +129,13 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > **Summon Devil (1/Day).** The devil chooses what to summon and attempts a magical summoning.
 > 
-> - A barbed devil has a 30% chance chance of summoning one barbed devil.  
-> - A bearded devil has a 30% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg|noform` (`3d6`) spined devils, `dice: 1d6|avg|noform` (`1d6`) bearded devils, or one erinyes.  
-> - A horned devil has a 30% chance chance of summoning one horned devil.  
-> - An ice devil has a 60% chance chance of summoning one ice devil.  
-> - A pit fiend summons `dice: 2d4|avg|noform` (`2d4`) bearded devils, `dice: 1d4|avg|noform` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A barbed devil has a 30 percent chance of summoning one barbed devil.  
+> - A bearded devil has a 30 percent chance of summoning one bearded devil.  
+> - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|avg` (`3d6`) spined devils, `dice:1d6|noform|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A horned devil has a 30 percent chance of summoning one horned devil.  
+> - An ice devil has a 60 percent chance of summoning one ice devil.  
+> - A pit fiend summons `dice:2d4|noform|avg` (`2d4`) bearded devils, `dice:1d4|noform|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -165,7 +168,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "9"
@@ -183,22 +186,12 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   "name": "Claw"
 - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8\
     \ + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed\
-    \ on a DC 14 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ on a DC 14 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Sting"
 "source":
 - "MM"
-- "RoT"
-- "ToA"
-- "WDMM"
-- "DC"
-- "DIP"
-- "BGDIA"
-- "EGW"
-- "DSotDQ"
-- "SatO"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Fiend/token/bone-devil.webp"
 ```
 ^statblock

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'underdark, mountain, grassland, forest, hill, arctic'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -12,11 +16,10 @@ tags:
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/humanoid/orc
-statblock: inline
 aliases:
   - Orog
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Orog.md|Orog]]
+# [[5. Mechanics\Bestiary\Humanoid\Orog.md|Orog]]
 *Source: Monster Manual p. 247*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -108,13 +111,6 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
   "name": "Javelin"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "EGW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/orog.webp"
 ```
 ^statblock

@@ -11,33 +11,35 @@ aliases:
 *[[Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: Player's Handbook p. 74*  
 
-> [!tldr]- Class progression
+> [!tldr] Class and Feature Progression
 > 
-> | Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th |
-> |-------|----------------|--------------|-----|-----|-----|-----|
-> | 1st | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 2nd | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 3rd | 2 | 3 | 2 | ⏤ | ⏤ | ⏤ |
-> | 4th | 2 | 4 | 3 | ⏤ | ⏤ | ⏤ |
-> | 5th | 2 | 4 | 3 | ⏤ | ⏤ | ⏤ |
-> | 6th | 2 | 4 | 3 | ⏤ | ⏤ | ⏤ |
-> | 7th | 2 | 5 | 4 | 2 | ⏤ | ⏤ |
-> | 8th | 2 | 6 | 4 | 2 | ⏤ | ⏤ |
-> | 9th | 2 | 6 | 4 | 2 | ⏤ | ⏤ |
-> | 10th | 3 | 7 | 4 | 3 | ⏤ | ⏤ |
-> | 11th | 3 | 8 | 4 | 3 | ⏤ | ⏤ |
-> | 12th | 3 | 8 | 4 | 3 | ⏤ | ⏤ |
-> | 13th | 3 | 9 | 4 | 3 | 2 | ⏤ |
-> | 14th | 3 | 10 | 4 | 3 | 2 | ⏤ |
-> | 15th | 3 | 10 | 4 | 3 | 2 | ⏤ |
-> | 16th | 3 | 11 | 4 | 3 | 3 | ⏤ |
-> | 17th | 3 | 11 | 4 | 3 | 3 | ⏤ |
-> | 18th | 3 | 11 | 4 | 3 | 3 | ⏤ |
-> | 19th | 3 | 12 | 4 | 3 | 3 | 1 |
-> | 20th | 3 | 13 | 4 | 3 | 3 | 1 |
-> 
-> - 1st-9th: Spell slots per level
-^class-progression
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='5'></th><th colspan='4'>Spell Slots per Spell Level</th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Cantrips Known</th><th class="value">Spells Known</th><th class="spellSlot">1st</th><th class="spellSlot">2nd</th><th class="spellSlot">3rd</th><th class="spellSlot">4th</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td><td class="value">⏤</td><td class="value">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td><td class="value">⏤</td><td class="value">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Eldritch%20Knight%20(Level%203)'>Eldritch Knight</a></td><td class="value">2</td><td class="value">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td><td class="value">2</td><td class="value">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td><td class="value">2</td><td class="value">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td><td class="value">2</td><td class="value">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#War%20Magic%20(Level%207)'>War Magic</a></td><td class="value">2</td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td><td class="value">2</td><td class="value">6</td><td class="spellSlot">4</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td><td class="value">2</td><td class="value">6</td><td class="spellSlot">4</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Eldritch%20Strike%20(Level%2010)'>Eldritch Strike</a></td><td class="value">3</td><td class="value">7</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td><td class="value">3</td><td class="value">8</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td><td class="value">3</td><td class="value">8</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td><td class="value">3</td><td class="value">9</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td><td class="value">3</td><td class="value">10</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Arcane%20Charge%20(Level%2015)'>Arcane Charge</a></td><td class="value">3</td><td class="value">10</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td><td class="value">3</td><td class="value">11</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td><td class="value">3</td><td class="value">11</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Improved%20War%20Magic%20(Level%2018)'>Improved War Magic</a></td><td class="value">3</td><td class="value">11</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td><td class="value">3</td><td class="value">12</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td><td class="value">3</td><td class="value">13</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td></tr>
+> </tbody></table>
+^class-progession
 
 
 ## Class Features
@@ -74,15 +76,15 @@ Whenever you gain a level in this class, you can replace one of the wizard spell
 
 Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
-**Spell save DC**: 8 + your proficiency bonus + your Intelligence modifier
+<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Intelligence modifier</span>
 
-**Spell attack modifier**: your proficiency bonus + your Intelligence modifier
+<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Intelligence modifier</span>
 
 ### Weapon Bond (Level 3)
 
 At 3rd level, you learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.
 
-Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand.
+Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand.
 
 You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 

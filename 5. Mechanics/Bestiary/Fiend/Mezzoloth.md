@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
   - monster/size/medium
   - monster/type/fiend/yugoloth
-statblock: inline
 aliases:
   - Mezzoloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Mezzoloth.md|Mezzoloth]]
+# [[5. Mechanics\Bestiary\Fiend\Mezzoloth.md|Mezzoloth]]
 *Source: Monster Manual p. 313*
 
 The bulk of the yugoloth population is made up of mezzoloths, which are human-sized insect creatures covered in dense chitinous plates. Mezzoloths serve as foot soldiers in yugoloth armies, their wide-set eyes glowing red as the mezzoloths bear down on their foes.
@@ -55,15 +58,15 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > 
 > **Summon Yugoloth (1/Day).** The yugoloth chooses what to summon and attempts a magical summoning.
 > 
-> - An arcanaloth has a 40% chance chance of summoning one arcanaloth.  
-> - A mezzoloth has a 30% chance chance of summoning one mezzoloth.  
-> - A nycaloth has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) mezzoloths or one nycaloth.  
-> - An ultroloth has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) mezzoloths, `dice: 1d4|avg|noform` (`1d4`) nycaloths, or one ultroloth.  
+> - An arcanaloth has a 40 percent chance of summoning one arcanaloth.  
+> - A mezzoloth has a 30 percent chance of summoning one mezzoloth.  
+> - A nycaloth has a 50 percent chance of summoning `dice:1d4|noform|avg` (`1d4`) mezzoloths or one nycaloth.  
+> - An ultroloth has a 50 percent chance of summoning `dice:1d6|noform|avg` (`1d6`) mezzoloths, `dice:1d4|noform|avg` (`1d4`) nycaloths, or one ultroloth.  
 > 
 > A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for l minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it
 ^variant-yugoloth-summoning
 
-> [!quote]- A quote from Shemeshka the Marauder  
+> [!quote] A quote from Shemeshka the Marauder  
 > 
 > Power. We all crave it, but only a select few of us deserve it.
 
@@ -91,7 +94,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 13"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "5"
@@ -121,13 +124,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   "name": "Teleport"
 "source":
 - "MM"
-- "PotA"
-- "RoT"
-- "ToA"
-- "WDMM"
-- "BGDIA"
-- "PaBTSO"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Fiend/token/mezzoloth.webp"
 ```
 ^statblock

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: underdark
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
   - monster/environment/underdark
   - monster/size/small
   - monster/type/elemental
-statblock: inline
 aliases:
   - Magma Mephit
 ---
-# [[5. Mechanics/Bestiary/Elemental/Magma Mephit.md|Magma Mephit]]
-*Source: Monster Manual p. 216. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Elemental\Magma Mephit.md|Magma Mephit]]
+*Source: Monster Manual p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ## Mephits
 
@@ -48,14 +51,14 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
   "Stealth": !!int "3"
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Ignan, Terran"
 "cr": "1/2"
 "traits":
-- "desc": "The mephit can innately cast [[5. Mechanics/Spells/Heat Metal.md|heat metal]]\
+- "desc": "The mephit can innately cast [[5. Mechanics/Spells/Heat Met(AL).md|heat metal]]\
     \ (spell save DC 10), requiring no material components. Its innate spellcasting\
-    \ ability is Charisma.\n\nAt will: [[5. Mechanics/Spells/Heat Metal.md|heat metal]]"
+    \ ability is Charisma.\n\nAt will: [[5. Mechanics/Spells/Heat Met(AL).md|heat metal]]"
   "name": "Innate Spellcasting (1/Day)"
 - "desc": "When the mephit dies, it explodes in a burst of lava. Each creature within\
     \ 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage\
@@ -74,14 +77,6 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
   "name": "Fire Breath (Recharge 6)"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "EGW"
-- "SjA"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Elemental/token/magma-mephit.webp"
 ```
 ^statblock

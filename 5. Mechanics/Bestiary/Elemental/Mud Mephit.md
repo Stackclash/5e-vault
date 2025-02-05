@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: swamp
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/swamp
   - monster/size/small
   - monster/type/elemental
-statblock: inline
 aliases:
   - Mud Mephit
 ---
-# [[5. Mechanics/Bestiary/Elemental/Mud Mephit.md|Mud Mephit]]
+# [[5. Mechanics\Bestiary\Elemental\Mud Mephit.md|Mud Mephit]]
 *Source: Monster Manual p. 216*
 
 ## Mephits
@@ -47,14 +50,14 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
 "skillsaves":
   "Stealth": !!int "3"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Aquan, Terran"
 "cr": "1/4"
 "traits":
 - "desc": "When the mephit dies, it explodes in a burst of sticky mud. Each Medium\
     \ or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] until the\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] until the\
     \ end of the creature's next turn."
   "name": "Death Burst"
 - "desc": "While the mephit remains motionless, it is indistinguishable from an ordinary\
@@ -66,18 +69,12 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
   "name": "Fists"
 - "desc": "The mephit belches viscid mud onto one creature within 5 feet of it. If\
     \ the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] for 1 minute.\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] for 1 minute.\
     \ A creature can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Mud Breath (Recharge 6)"
 "source":
 - "MM"
-- "PotA"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "WBtW"
-- "JttRC"
 "image": "5. Mechanics/Bestiary/Elemental/token/mud-mephit.webp"
 ```
 ^statblock

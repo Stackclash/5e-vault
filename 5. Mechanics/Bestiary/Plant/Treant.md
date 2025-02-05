@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 9
+environments: forest
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/9
   - monster/environment/forest
   - monster/size/huge
   - monster/type/plant
-statblock: inline
 aliases:
   - Treant
 ---
-# [[5. Mechanics/Bestiary/Plant/Treant.md|Treant]]
-*Source: Monster Manual p. 289, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Plant\Treant.md|Treant]]
+*Source: Monster Manual p. 289, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Treants are awakened trees that dwell in ancient forests. Although treants prefer to while away the days, months, and years in quiet contemplation, they fiercely protect their woodland demesnes from outside threats.
 
@@ -77,26 +80,7 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
   "name": "Animate Trees (1/Day)"
 "source":
 - "MM"
-- "RoT"
-- "SKT"
-- "WDH"
-- "GoS"
-- "BGDIA"
-- "ERLW"
-- "IMR"
-- "EGW"
-- "MOT"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "WBtW"
-- "JttRC"
-- "LoX"
-- "DSotDQ"
-- "PSI"
-- "SatO"
-- "BMT"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Plant/token/treant.webp"
 ```

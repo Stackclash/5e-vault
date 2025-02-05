@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 6
+environments: urban
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/6
   - monster/environment/urban
   - monster/size/medium
   - monster/type/elemental
-statblock: inline
 aliases:
   - Invisible Stalker
 ---
-# [[5. Mechanics/Bestiary/Elemental/Invisible Stalker.md|Invisible Stalker]]
-*Source: Monster Manual p. 192, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Elemental\Invisible Stalker.md|Invisible Stalker]]
+*Source: Monster Manual p. 192, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 An invisible stalker is an air elemental that has been summoned from its native plane and transformed by powerful magic. Its sole purpose is to hunt down creatures and retrieve objects for its summoner. When it is defeated or the magic that binds it expires, an invisible stalker vanishes in a gust of wind.
 
@@ -51,16 +54,16 @@ An invisible stalker requires no air, food, drink, or sleep.
   "Perception": !!int "8"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 18"
 "languages": "Auran, understands Common but doesn't speak it"
 "cr": "6"
 "traits":
-- "desc": "The stalker is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]."
+- "desc": "The stalker is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]."
   "name": "Invisibility"
 - "desc": "The stalker is given a quarry by its summoner. The stalker knows the direction\
     \ and distance to its quarry as long as the two of them are on the same plane\
@@ -75,22 +78,6 @@ An invisible stalker requires no air, food, drink, or sleep.
 "source":
 - "MM"
 - "CoS"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SLW"
-- "MOT"
-- "IDRotF"
-- "WBtW"
-- "CRCotN"
-- "KftGV"
-- "PaBTSO"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Elemental/token/invisible-stalker.webp"
 ```

@@ -7,7 +7,7 @@ aliases:
   - Sentient Magic Item Alignment
 ---
 # Sentient Magic Item Alignment
-*Source: Dungeon Master's Guide p. 216. Available in the SRD.* 
+*Source: Dungeon Master's Guide p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 
 **Sentient Magic Item Alignment**
 

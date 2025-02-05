@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 23
+environments: 'mountain, urban'
+size: Gargantuan
 tags:
   - compendium/src/5e/mm
   - monster/cr/23
@@ -8,12 +12,11 @@ tags:
   - monster/environment/urban
   - monster/size/gargantuan
   - monster/type/dragon
-statblock: inline
 aliases:
   - Ancient Silver Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Ancient Silver Dragon.md|Ancient Silver Dragon]]
-*Source: Monster Manual p. 116. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Ancient Silver Dragon.md|Ancient Silver Dragon]]
+*Source: Monster Manual p. 116. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
 
@@ -135,7 +138,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ (2d8 + 10) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
@@ -146,7 +149,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on\
     \ a failed save, or half as much damage on a successful one.  \n- Paralyzing\
     \ Breath. The dragon exhales paralyzing gas in a 90-foot cone. Each creature\
-    \ in that area must succeed on a DC 24 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ in that area must succeed on a DC 24 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  "
   "name": "Breath Weapons (Recharge 5-6)"
@@ -168,7 +171,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
     \ must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The dragon\
     \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
@@ -180,7 +183,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ cold wind blows through the lair near the dragon. Each creature within 120 feet\
     \ of the dragon must succeed on a DC 15 Constitution saving throw or take 5 (1d10)\
     \ cold damage. Gases and vapors are dispersed by the wind, and unprotected flames\
-    \ are extinguished. Protected flames, such as lanterns, have a 50% chance chance\
+    \ are extinguished. Protected flames, such as lanterns, have a 50 percent chance\
     \ of being extinguished.  "
   "name": ""
 - "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Silver Dragon.md|adult]]\
@@ -188,7 +191,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ can use the following additional lair action while in its lair:\n\n- Icy Grip.\
     \ A sudden, supernatural chill fills the lair near the dragon. Each creature of\
     \ the dragon's choice that it can see within 120 feet of it must succeed on a\
-    \ DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
     \ until initiative count 20 on the next round. Creatures that have resistance\
     \ to cold damage have advantage on the saving throw; creatures that have immunity\
     \ to cold damage succeed automatically.  "
@@ -211,7 +214,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": ""
 "source":
 - "MM"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Dragon/token/ancient-silver-dragon.webp"
 ```
 ^statblock

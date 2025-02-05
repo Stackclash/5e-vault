@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/elemental
-statblock: inline
 aliases:
   - Xorn
 ---
-# [[5. Mechanics/Bestiary/Elemental/Xorn.md|Xorn]]
-*Source: Monster Manual p. 304. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Elemental\Xorn.md|Xorn]]
+*Source: Monster Manual p. 304. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Bizarre creatures native to the Elemental Plane of Earth, xorn sniff out gemstones and precious metals, then tunnel through earth and rock to consume those treasures. On the Material Plane, xorn must range far and wide through the Underdark to sustain themselves, becoming aggressive toward miners and treasure hunters when the valuable minerals of their diet are scarce.
 
@@ -22,7 +25,7 @@ A xorn's unnatural origins are suggested by its unusually heavy body and the lar
 
 Possessed of the power of elemental earth, a xorn glides through stone and dirt as easily as a fish swims through water. It doesn't displace earth or stone when it moves, but merges with and flows through it, leaving no tunnel, hole, or hint of its passage.
 
-> [!quote]- A quote from X the Mystic's 6th rule of dungeon survival  
+> [!quote] A quote from X the Mystic's 6th rule of dungeon survival  
 > 
 > Keep a few gems in your pocket. A hungry xorn is a helpful xorn.
 
@@ -72,10 +75,6 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
   "name": "Claw"
 "source":
 - "MM"
-- "PotA"
-- "WDMM"
-- "PaBTSO"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Elemental/token/xorn.webp"
 ```
 ^statblock

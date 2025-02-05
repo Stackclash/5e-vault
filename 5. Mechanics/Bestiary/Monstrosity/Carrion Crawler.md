@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/underdark
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Carrion Crawler
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Carrion Crawler.md|Carrion Crawler]]
+# [[5. Mechanics\Bestiary\Monstrosity\Carrion Crawler.md|Carrion Crawler]]
 *Source: Monster Manual p. 37*
 
 Carrion crawlers scour putrid flesh from carcasses and gobble the slimy bones that remain. They aggressively attack any creature that trespasses on their territory or disturbs their feasting.
@@ -59,8 +62,8 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 4\
     \ (1d4 + 2) poison damage, and the target must succeed on a DC 13 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
-    \ 1 minute. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
+    \ 1 minute. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]].\
     \ The target can repeat the saving throw at the end of each of its turns, ending\
     \ the poison on itself on a success."
   "name": "Tentacles"
@@ -69,14 +72,6 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
   "name": "Bite"
 "source":
 - "MM"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "DIP"
-- "BGDIA"
-- "IDRotF"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/carrion-crawler.webp"
 ```
 ^statblock

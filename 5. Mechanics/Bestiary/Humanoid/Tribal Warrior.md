@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/8
+environments: 'coastal, mountain, grassland, hill, arctic, forest, swamp, underdark, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-8
@@ -15,12 +19,11 @@ tags:
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Tribal Warrior
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md|Tribal Warrior]]
-*Source: Monster Manual p. 350. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Humanoid\Tribal Warrior.md|Tribal Warrior]]
+*Source: Monster Manual p. 350. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Tribal warriors live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.
 
@@ -48,7 +51,7 @@ Tribal warriors live beyond civilization, most often subsisting on fishing and h
 "traits":
 - "desc": "The warrior has advantage on an attack roll against a creature if at least\
     \ one of the warrior's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
@@ -57,15 +60,6 @@ Tribal warriors live beyond civilization, most often subsisting on fishing and h
   "name": "Spear"
 "source":
 - "MM"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "GoS"
-- "EGW"
-- "MOT"
-- "IDRotF"
 "image": "5. Mechanics/Bestiary/Humanoid/token/tribal-warrior.webp"
 ```
 ^statblock

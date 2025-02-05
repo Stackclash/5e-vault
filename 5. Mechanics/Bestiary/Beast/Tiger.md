@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: 'grassland, forest'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
@@ -8,12 +12,11 @@ tags:
   - monster/environment/grassland
   - monster/size/large
   - monster/type/beast
-statblock: inline
 aliases:
   - Tiger
 ---
-# [[5. Mechanics/Bestiary/Beast/Tiger.md|Tiger]]
-*Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Tiger.md|Tiger]]
+*Source: Monster Manual p. 339. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Tiger"
@@ -43,8 +46,8 @@ aliases:
   "name": "Keen Smell"
 - "desc": "If the tiger moves at least 20 feet straight toward a creature and then\
     \ hits it with a claw attack on the same turn, that target must succeed on a DC\
-    \ 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the tiger can\
+    \ 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], the tiger can\
     \ make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":
@@ -56,11 +59,6 @@ aliases:
   "name": "Claw"
 "source":
 - "MM"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "GoS"
-- "MOT"
 "image": "5. Mechanics/Bestiary/Beast/token/tiger.webp"
 ```
 ^statblock

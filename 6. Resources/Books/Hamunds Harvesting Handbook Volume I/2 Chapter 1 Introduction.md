@@ -9,7 +9,7 @@ aliases:
 # Chapter 1: Introduction
 *Source: Hamund's Harvesting Handbook: Volume I, p. 3* 
 
-> [!quote]- A quote from Sir Hamund Holderhek, O.B.H. (First Class), V.A., N.K.P.  
+> [!quote] A quote from Sir Hamund Holderhek, O.B.H. (First Class), V.A., N.K.P.  
 > 
 > Welcome dear reader to Hamund's Harvesting Handbook, written by none other than I, Hamund Holderhek! But who am I you ask?
 > 

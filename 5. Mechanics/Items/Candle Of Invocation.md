@@ -6,12 +6,11 @@ tags:
   - item/attunement/required
   - item/rarity/very-rare
   - item/tier/major
-  - item/wondrous
 aliases:
   - Candle of Invocation
 ---
 # Candle of Invocation
-*Wondrous Item, major, very rare (requires attunement)*  
+*Wondrous item, major, very rare (requires attunement)*  
 ![[5. Mechanics/Items/img/candle-of-invocation.webp#right]]  
 
 
@@ -38,4 +37,4 @@ While lit, the candle sheds dim light in a 30-foot radius. Any creature within t
 
 Alternatively, when you light the candle for the first time, you can cast the [[5. Mechanics/Spells/Gate.md\|gate]] spell with it. Doing so destroys the candle.
 
-*Source: Dungeon Master's Guide p. 157. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

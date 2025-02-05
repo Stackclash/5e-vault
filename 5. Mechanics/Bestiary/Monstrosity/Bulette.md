@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: 'mountain, grassland, hill'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
@@ -9,12 +13,11 @@ tags:
   - monster/environment/mountain
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Bulette
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Bulette.md|Bulette]]
-*Source: Monster Manual p. 34. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Monstrosity\Bulette.md|Bulette]]
+*Source: Monster Manual p. 34. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A bulette is a massive predator that terrorizes any lands it inhabits. Also called a "land shark," it lives only to feed. Irascible and rapacious, bulettes fear no other creature, and they attack with no regard for superior numbers or strength.
 
@@ -67,22 +70,16 @@ Some sages believe the bulette is the result of a mad wizard's experiments at cr
 - "desc": "If the bulette jumps at least 15 feet as part of its movement, it can then\
     \ use this action to land on its feet in a space that contains one or more other\
     \ creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity\
-    \ saving throw (target's choice) or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ saving throw (target's choice) or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
     \ and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage.\
     \ On a successful save, the creature takes only half the damage, isn't knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], and is pushed 5 feet out of\
+    \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], and is pushed 5 feet out of\
     \ the bulette's space into an unoccupied space of the creature's choice. If no\
-    \ unoccupied space is within range, the creature instead falls [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ unoccupied space is within range, the creature instead falls [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
     \ in the bulette's space."
   "name": "Deadly Leap"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "IDRotF"
-- "JttRC"
-- "LoX"
-- "DSotDQ"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/bulette.webp"
 ```
 ^statblock

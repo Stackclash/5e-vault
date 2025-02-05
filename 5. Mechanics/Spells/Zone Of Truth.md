@@ -5,13 +5,19 @@ tags:
   - compendium/src/5e/phb
   - spell/class/bard
   - spell/class/cleric
-  - spell/class/cleric/order-domain
   - spell/class/paladin
-  - spell/class/paladin/oath-of-devotion
-  - spell/class/ranger/monster-slayer
-  - spell/class/sorcerer/divine-soul
-  - spell/level/2
+  - spell/level/2nd-level
   - spell/school/enchantment
+  - spell/subclass/divine-soul
+  - spell/subclass/monster-slayer
+  - spell/subclass/oath-of-devotion
+  - spell/subclass/order-domain
+level: 2nd-level
+range: false
+school: Enchantment
+time: 1 action
+duration: 10 minute
+components: 'V, S'
 aliases:
   - Zone of Truth
 ---
@@ -27,6 +33,6 @@ You create a magical zone that guards against deception in a 15-foot-radius sphe
 
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such creatures can be evasive in its answers as long as it remains within the boundaries of the truth.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Order Domain.md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin Oath Of Devotion.md\|Paladin (Oath of Devotion)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Ranger Monster Slayer.md\|Ranger (Monster Slayer)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Ranger Monster Slayer (XGE)\|Ranger (Monster Slayer)]]; [[List Spells Classes Paladin Oath Of Devotion\|Paladin (Oath of Devotion)]]; [[List Spells Classes Cleric Order Domain (TCE)\|Cleric (Order Domain)]]
 
-*Source: Player's Handbook p. 289. Available in the SRD.*
+*Source: Player's Handbook p. 289. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 10
+environments: 'forest, desert'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/10
@@ -8,12 +12,11 @@ tags:
   - monster/environment/forest
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Guardian Naga
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Guardian Naga.md|Guardian Naga]]
-*Source: Monster Manual p. 234, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Monstrosity\Guardian Naga.md|Guardian Naga]]
+*Source: Monster Manual p. 234, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Wise and good, the beautiful guardian nagas protect sacred places and items of magical power from falling into evil hands. In their hidden redoubts, they research spells and hatch convoluted plots to thwart the evil designs of their enemies.
 
@@ -63,7 +66,7 @@ A naga doesn't require air, food, drink, or sleep.
   "Intelligence": !!int "7"
   "Constitution": !!int "7"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Celestial, Common"
 "cr": "10"
@@ -98,10 +101,6 @@ A naga doesn't require air, food, drink, or sleep.
   "name": "Spit Poison"
 "source":
 - "MM"
-- "ToA"
-- "GoS"
-- "AATM"
-- "BMT"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/guardian-naga.webp"
 ```

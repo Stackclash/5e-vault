@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
   - monster/environment/underdark
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Roper
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Roper.md|Roper]]
-*Source: Monster Manual p. 261. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Monstrosity\Roper.md|Roper]]
+*Source: Monster Manual p. 261. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Living in caves and caverns throughout the Underdark, voracious ropers feast on whatever they can catch and seize. A roper eats any creature, from Underdark beasts to adventurers and their gear.
 
@@ -72,27 +75,16 @@ A roper has six nubs set along its body, through which it extrudes sticky tendri
     \ + 4) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +7 to hit, reach 50 ft., one creature. Hit: The\
-    \ target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 15).\
-    \ Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 15).\
+    \ Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
     \ and has disadvantage on Strength checks and Strength saving throws, and the\
     \ roper can't use the same tendril on another target."
   "name": "Tendril"
-- "desc": "The roper pulls each creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "The roper pulls each creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
     \ by it up to 25 feet straight toward it."
   "name": "Reel"
 "source":
 - "MM"
-- "HotDQ"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "WDMM"
-- "CRCotN"
-- "JttRC"
-- "PaBTSO"
-- "ToFW"
-- "BMT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/roper.webp"
 ```
 ^statblock

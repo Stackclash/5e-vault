@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/underdark
   - monster/size/large
   - monster/type/undead
-statblock: inline
 aliases:
   - Minotaur Skeleton
 ---
-# [[5. Mechanics/Bestiary/Undead/Minotaur Skeleton.md|Minotaur Skeleton]]
-*Source: Monster Manual p. 273, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Undead\Minotaur Skeleton.md|Minotaur Skeleton]]
+*Source: Monster Manual p. 273, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
 
@@ -59,8 +62,8 @@ A skeleton doesn't require air, food, drink, or sleep.
 "speed": "40 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "2"
@@ -68,7 +71,7 @@ A skeleton doesn't require air, food, drink, or sleep.
 - "desc": "If the skeleton moves at least 10 feet straight toward a target and then\
     \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
     \ piercing damage. If the target is a creature, it must succeed on a DC 14 Strength\
-    \ saving throw or be pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ saving throw or be pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Charge"
 "actions":
 - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (2d12\
@@ -79,17 +82,6 @@ A skeleton doesn't require air, food, drink, or sleep.
   "name": "Gore"
 "source":
 - "MM"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "SDW"
-- "BGDIA"
-- "IMR"
-- "DSotDQ"
-- "KftGV"
-- "AATM"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/minotaur-skeleton.webp"
 ```

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: 'underdark, urban'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
@@ -8,12 +12,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/undead
-statblock: inline
 aliases:
   - Specter
 ---
-# [[5. Mechanics/Bestiary/Undead/Specter.md|Specter]]
-*Source: Monster Manual p. 279, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Undead\Specter.md|Specter]]
+*Source: Monster Manual p. 279, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A specter is the angry, unfettered spirit of a humanoid that has been prevented from passing to the afterlife. Specters no longer possess connections to who or what they were, yet are condemned to walk the world forever. Some are spawned when dark magic or the touch of a wraith rips a soul from a living body.
 
@@ -54,11 +57,11 @@ A specter doesn't require air, food, drink, or sleep.
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands all languages it knew in life but can't speak"
 "cr": "1"
@@ -81,32 +84,7 @@ A specter doesn't require air, food, drink, or sleep.
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "SLW"
-- "SDW"
-- "BGDIA"
-- "EGW"
-- "MOT"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "JttRC"
-- "KftGV"
-- "PSI"
-- "PaBTSO"
-- "AATM"
-- "SatO"
-- "ToFW"
-- "BMT"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/specter.webp"
 ```

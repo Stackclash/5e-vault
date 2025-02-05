@@ -3,13 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/phb
-  - item/wealth/coinage
+  - item/gear/treasure-coinage
+  - item/rarity/none
 aliases:
   - Platinum (pp)
 cost: 1000
 ---
 # Platinum (pp)
-*Coinage*  
+*Treasure (coinage)*  
 ![[5. Mechanics/Items/img/platinum-pp.webp#right]]  
 
 - **Cost**: 10 gp

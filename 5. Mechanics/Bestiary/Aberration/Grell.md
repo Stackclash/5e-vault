@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/aberration
-statblock: inline
 aliases:
   - Grell
 ---
-# [[5. Mechanics/Bestiary/Aberration/Grell.md|Grell]]
+# [[5. Mechanics\Bestiary\Aberration\Grell.md|Grell]]
 *Source: Monster Manual p. 172, Vecna: Eve of Ruin*
 
 A grell resembles a bulbous floating brain with a wide, sharp beak. Its ten long tentacles are made of hundreds of ring-shaped muscles sheathed in tough fibrous hide. Sharp barbs line the tip each tentacle and inject paralytic venom. The grell can partially retract its barbs into its tentacles to handle or manipulate objects it doesn't want to pierce or tear.
@@ -22,7 +25,7 @@ Although solitary by nature, grells sometimes gather in small groups called cove
 
 ## Floating Ambushers
 
-A grell prefers to ambush lone creatures or stragglers, hovering silently near the ceiling of a passage or cavern until a suitable target passes below, whereupon it descends quickly and wraps its tentacles around its prey. It then floats away to its lair with the [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] creature in its clutches.
+A grell prefers to ambush lone creatures or stragglers, hovering silently near the ceiling of a passage or cavern until a suitable target passes below, whereupon it descends quickly and wraps its tentacles around its prey. It then floats away to its lair with the [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]] creature in its clutches.
 
 ## Alien Devourers
 
@@ -30,7 +33,7 @@ Grell are alien predators that group other creatures into three categories: edib
 
 A grell will sometimes allow adventurers to wage war on the other monstrous inhabitants of the dungeon complex it calls home, staying out of the adventurers' way as they dispose of larger threats while waiting for the right time to strike.
 
-> [!quote]- A quote from An adventurer's account of a grell attack in Khyber, published in The Korranberg Chronicle  
+> [!quote] A quote from An adventurer's account of a grell attack in Khyber, published in The Korranberg Chronicle  
 > 
 > Our intrepid rogue climbed up the shaft to secure a rope. There was a gasp, and the rope fell. We never saw her again.
 
@@ -55,7 +58,7 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
   "Stealth": !!int "6"
   "Perception": !!int "4"
 "damage_immunities": "lightning"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 14"
 "languages": "Grell"
 "cr": "3"
@@ -64,12 +67,12 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit: 7\
     \ (1d10 + 2) piercing damage, and the target must succeed on a DC 11 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
-    \ 1 minute. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], and it can repeat the\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
+    \ 1 minute. The [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] target is\
+    \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], and it can repeat the\
     \ saving throw at the end of each of its turns, ending the effect on a success.\n\
-    \nThe target is also [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
-    \ DC 15). If the target is Medium or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \nThe target is also [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape\
+    \ DC 15). If the target is Medium or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
     \ until this grapple ends. While grappling the target, the grell has advantage\
     \ on attack rolls against it and can 't use this attack against other targets.\
     \ When the grell moves, any Medium or smaller target it is grappling moves with\
@@ -80,16 +83,6 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
   "name": "Beak"
 "source":
 - "MM"
-- "PotA"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "IMR"
-- "IDRotF"
-- "CM"
-- "KftGV"
-- "PaBTSO"
-- "BMT"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Aberration/token/grell.webp"
 ```

@@ -18,7 +18,7 @@ aliases:
 | 01-05 | [[5. Mechanics/Items/Defender.md\|Defender]] |
 | 06-10 | [[5. Mechanics/Items/Hammer Of Thunderbolts.md\|Hammer of thunderbolts]] |
 | 11-15 | [[5. Mechanics/Items/Luck Blade.md\|Luck blade]] |
-| 16-20 | [[5. Mechanics/Items/Sword Of Answering.md\|Sword of answering]] |
+| 16-20 | [[5. Mechanics/Items/Sword Of Answering (DMG).md\|Sword of answering]] |
 | 21-23 | [[5. Mechanics/Items/Holy Avenger.md\|Holy avenger]] |
 | 24-26 | [[5. Mechanics/Items/Ring Of Djinni Summoning.md\|Ring of djinni summoning]] |
 | 27-29 | [[5. Mechanics/Items/Ring Of Invisibility.md\|Ring of invisibility]] |
@@ -31,7 +31,7 @@ aliases:
 | 46-47 | [[5. Mechanics/Items/3 Armor.md\|+3 chain mail]] |
 | 48-49 | [[5. Mechanics/Items/3 Armor.md\|+3 chain shirt]] |
 | 50-51 | [[5. Mechanics/Items/Cloak Of Invisibility.md\|Cloak of invisibility]] |
-| 52-53 | [[5. Mechanics/Items/Crystal Ball Legendary Version.md\|Crystal ball (legendary version)]] |
+| 52-53 | [[5. Mechanics/Items/Crystal Ball Legendary Version (DMG).md\|Crystal ball (legendary version)]] |
 | 54-55 | [[5. Mechanics/Items/1 Armor.md\|+1 half plate armor]] |
 | 56-57 | [[5. Mechanics/Items/Iron Flask.md\|Iron flask]] |
 | 58-59 | [[5. Mechanics/Items/3 Armor.md\|+3 leather armor]] |
@@ -50,14 +50,14 @@ aliases:
 | 80 | [[5. Mechanics/Items/Cubic Gate.md\|Cubic gate]] |
 | 81 | [[5. Mechanics/Items/Deck Of Many Things.md\|Deck of many things]] |
 | 82 | [[5. Mechanics/Items/Efreeti Chain.md\|Efreeti chain]] |
-| 83 | [[5. Mechanics/Items/Armor Of Resistance.md\|Half plate armor of resistance]] |
+| 83 | [[5. Mechanics/Items/Armor Of Resistance (DMG).md\|Half plate armor of resistance]] |
 | 84 | [[5. Mechanics/Items/Horn Of Valhalla Iron.md\|Horn of valhalla, iron]] |
 | 85 | [[5. Mechanics/Items/Instrument Of The Bards Ollamh Harp.md\|Instrument of the bards, ollamh harp]] |
 | 86 | [[5. Mechanics/Items/Ioun Stone Greater Absorption.md\|Ioun stone, greater absorption]] |
 | 87 | [[5. Mechanics/Items/Ioun Stone Mastery.md\|Ioun stone, mastery]] |
 | 88 | [[5. Mechanics/Items/Ioun Stone Regeneration.md\|Ioun stone, regeneration]] |
 | 89 | [[5. Mechanics/Items/Plate Armor Of Etherealness.md\|Plate armor of etherealness]] |
-| 90 | [[5. Mechanics/Items/Armor Of Resistance.md\|Plate armor of resistance]] |
+| 90 | [[5. Mechanics/Items/Armor Of Resistance (DMG).md\|Plate armor of resistance]] |
 | 91 | [[5. Mechanics/Items/Ring Of Air Elemental Command.md\|Ring of air elemental command]] |
 | 92 | [[5. Mechanics/Items/Ring Of Earth Elemental Command.md\|Ring of earth elemental command]] |
 | 93 | [[5. Mechanics/Items/Ring Of Fire Elemental Command.md\|Ring of fire elemental command]] |

@@ -5,13 +5,12 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/uncommon
   - item/tier/major
-  - item/wondrous/wondrous-item
+  - item/wondrous/generic-variant
 aliases:
   - +1 Weapon (no damage)
-  - +1 Net
 ---
 # +1 Weapon (no damage)
-*Generic Variant, major, uncommon*  
+*Major, uncommon*  
 
 
 You have a +1 bonus to attack rolls made with this weapon.

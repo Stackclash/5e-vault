@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/ooze
-statblock: inline
 aliases:
   - Gray Ooze
 ---
-# [[5. Mechanics/Bestiary/Ooze/Gray Ooze.md|Gray Ooze]]
-*Source: Monster Manual p. 243, Curse of Strahd. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Ooze\Gray Ooze.md|Gray Ooze]]
+*Source: Monster Manual p. 243, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like a liquid snake, rising to strike.
 
@@ -61,9 +64,9 @@ An ooze doesn't require sleep.
 "skillsaves":
   "Stealth": !!int "2"
 "damage_resistances": "acid, cold, fire"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "1/2"
@@ -89,12 +92,6 @@ An ooze doesn't require sleep.
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "TftYP"
-- "WDH"
-- "GoS"
-- "KftGV"
-- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Ooze/token/gray-ooze.webp"
 ```
 ^statblock

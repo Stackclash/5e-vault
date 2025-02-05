@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 8
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/8
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/humanoid/elf
-statblock: inline
 aliases:
   - Drow Priestess of Lolth
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Priestess Of Lolth.md|Drow Priestess of Lolth]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Priestess Of Lolth.md|Drow Priestess of Lolth]]
 *Source: Monster Manual p. 129*
 
 Female drow with blood ties to a noble house are molded and trained from birth to become priestesses of Lolth. The Spider Queen doesn't allow male drow to hold such positions.
@@ -56,7 +59,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 ### Poison Predilection
 
-Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
+Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!note] Variant: Drow Magic Armor and Weapons
 > 
@@ -67,7 +70,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 > - A drow priestess of Lolth wearing +3 scale mail has AC 19.  
 ^variant-drow-magic-armor-and-weapons
 
-> [!quote]- A quote from Nelar Autumnwell, elf cleric of Corellon Larethian  
+> [!quote] A quote from Nelar Autumnwell, elf cleric of Corellon Larethian  
 > 
 > Such depravity. Such terrifying cruelty. They are the vile poison that plagues all elvenkind.
 
@@ -125,7 +128,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \ of movement]]\n\n5th level (2 slots):\
     \ [[5. Mechanics/Spells/Insect Plague.md|insect plague]], [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]]"
   "name": "Spellcasting"
-- "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"
 - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
@@ -139,7 +142,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \ + 2) piercing damage plus 17 (5d6) poison damage."
   "name": "Scourge"
 - "desc": "The drow attempts to magically summon a [[5. Mechanics/Bestiary/Fiend/Yochlol.md|yochlol]]\
-    \ with a 30% chance chance of success. If the attempt fails, the drow takes 5\
+    \ with a 30 percent chance of success. If the attempt fails, the drow takes 5\
     \ (1d10) psychic damage. Otherwise, the summoned demon appears in an unoccupied\
     \ space within 60 feet of its summoner, acts as an ally of its summoner, and can't\
     \ summon other demons. It remains for 10 minutes, until it or its summoner dies,\
@@ -147,9 +150,6 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
   "name": "Summon Demon (1/Day)"
 "source":
 - "MM"
-- "TftYP"
-- "WDMM"
-- "GoS"
 "image": "5. Mechanics/Bestiary/Humanoid/token/drow-priestess-of-lolth.webp"
 ```
 ^statblock

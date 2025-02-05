@@ -17,13 +17,13 @@ Time has passed since the characters' experience in Neverdeath Graveyard. That o
 
 This chapter begins sometime after the characters' adventure in Neverwinter—days, months, or years, at your discretion. After you and the players determine what the characters have been doing following their Neverwinter escapades, the heroes are abruptly shunted to a mysterious sanctum in Sigil, the city at the center of the multiverse (see the "Surprise Development" section later in this chapter).
 
-The characters learn a sobering fact from the renowned wizards Alustriel Silverhand, Mordenkainen, and Tasha: the lich-god Vecna is planning to remake the multiverse and emerge as its most powerful being, subjugating all existence. Mordenkainen, who is actually the vampire Kas in disguise, believes the characters are the only ones who can stop Vecna's plans using the fabled [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]], pieces of which are scattered throughout the multiverse.
+The characters learn a sobering fact from the renowned wizards Alustriel Silverhand, Mordenkainen, and Tasha: the lich-god Vecna is planning to remake the multiverse and emerge as its most powerful being, subjugating all existence. Mordenkainen, who is actually the vampire Kas in disguise, believes the characters are the only ones who can stop Vecna's plans using the fabled [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], pieces of which are scattered throughout the multiverse.
 
 Alustriel, Mordenkainen, and Tasha aid the characters in their task. This quest leads the characters deep into the Underdark in Faerûn, where the first piece of the rod is hidden in Web's Edge, a secret haven for cultists of the demon-god Lolth.
 
 ### Character Advancement
 
-The characters should be 11th level when this chapter begins. The characters gain a level after they retrieve the first piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] from Web's Edge in the Underdark.
+The characters should be 11th level when this chapter begins. The characters gain a level after they retrieve the first piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] from Web's Edge in the Underdark.
 
 ### Power of Secrets
 
@@ -34,7 +34,7 @@ The characters can learn two secrets in this chapter or later that are applicabl
 
 ### First Rod Piece
 
-The [[5. Mechanics/Items/Rod Of Seven Parts.md\|first piece]] of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] is in area W12 of Web's Edge later in this chapter. For more information about the rod and the spell this piece allows its wielder to cast, see this book's introduction.
+The [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|first piece]] of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] is in area W12 of Web's Edge later in this chapter. For more information about the rod and the spell this piece allows its wielder to cast, see this book's introduction.
 
 ## After Neverdeath
 
@@ -66,15 +66,15 @@ If the players aren't sure or you'd like to offer them suggestions, consult the 
 
 ## Rise of the Lich-God
 
-Regardless of the characters' activities after their Neverwinter adventure, key plots elements of this adventure progress in the background. While the characters live their lives, a powerful wizard and former ruler of the city of Silverymoon, [[4. World Almanac/NPCs/Alustriel Silverhand.md\|Alustriel Silverhand]], detects a sinister wave of magic rippling through the multiverse.
+Regardless of the characters' activities after their Neverwinter adventure, key plots elements of this adventure progress in the background. While the characters live their lives, a powerful wizard and former ruler of the city of Silverymoon, [[4. World Almanac/NPCs/Alustriel Silverhand (VEOR).md\|Alustriel Silverhand]], detects a sinister wave of magic rippling through the multiverse.
 
 Using her divining abilities, Alustriel eventually traces the magical pulse to Vecna. She learns that Vecna's activities span multiple realms. After a period of investigation, Alustriel discovers the sobering truth: using stolen secrets, Vecna and his cults have siphoned incredible amounts of power from individuals throughout the multiverse. Worse, Alustriel eventually stops detecting these activities, leading the archmage to believe that Vecna plans to unleash this power for a heinous purpose. Alustriel realizes this could unravel the entire multiverse, elevating Vecna and cowing all others to his will.
 
 ### The Archmages' Desperation
 
-Determined to oppose Vecna but unsure how the lich-god intends to unleash his amassed magic, Alustriel contacts her most powerful allies. Answering her call are the archmages Mordenkainen and a version of [[4. World Almanac/NPCs/Tasha The Witch.md\|Tasha]] from Oerth, though Alustriel and Tasha don't yet know that Mordenkainen is [[4. World Almanac/NPCs/Kas The Betrayer.md\|Kas the Destroyer]] in disguise. These Wizards Three retreat to a sanctum Alustriel keeps in Sigil. Using their combined magic, the archmages weave a [[5. Mechanics/Spells/Wish.md\|Wish]] spell in hopes of sabotaging Vecna's accumulated power and defusing his ritual.
+Determined to oppose Vecna but unsure how the lich-god intends to unleash his amassed magic, Alustriel contacts her most powerful allies. Answering her call are the archmages Mordenkainen and a version of [[4. World Almanac/NPCs/Tasha The Witch (VEOR).md\|Tasha]] from Oerth, though Alustriel and Tasha don't yet know that Mordenkainen is [[4. World Almanac/NPCs/Kas The Betrayer (VEOR).md\|Kas the Destroyer]] in disguise. These Wizards Three retreat to a sanctum Alustriel keeps in Sigil. Using their combined magic, the archmages weave a [[5. Mechanics/Spells/Wish.md\|Wish]] spell in hopes of sabotaging Vecna's accumulated power and defusing his ritual.
 
-Instead of any expected effect, the *Wish* spell shunts the characters to Alustriel Silverhand's Sigil sanctum, as explained in the "Surprise Development" section later in this chapter. With time of the essence and the archmages weakened, Mordenkainen suggests a desperate contingency plan. The characters could use the fabled [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] to stop Vecna. The rod's seven pieces are scattered throughout the multiverse, but Mordenkainen knows where the first piece is located.
+Instead of any expected effect, the *Wish* spell shunts the characters to Alustriel Silverhand's Sigil sanctum, as explained in the "Surprise Development" section later in this chapter. With time of the essence and the archmages weakened, Mordenkainen suggests a desperate contingency plan. The characters could use the fabled [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to stop Vecna. The rod's seven pieces are scattered throughout the multiverse, but Mordenkainen knows where the first piece is located.
 
 ## The Sigil Sanctum
 
@@ -134,7 +134,7 @@ The following locations are keyed to map 2.1.
 
 This section of the sanctum holds Alustriel's collection of rare books. The books aren't magical, but the characters can use them to research any esoteric topic.
 
-If a character researches a specific topic, roll a `dice: d4|avg|noform` (`d4`). On a roll of 1 or 2, the character finds information about the topic. At your discretion, this might grant the character advantage for the rest of the day on any ability checks made to recall or use the information they've learned.
+If a character researches a specific topic, roll a `dice:d4|noform|avg` (`d4`). On a roll of 1 or 2, the character finds information about the topic. At your discretion, this might grant the character advantage for the rest of the day on any ability checks made to recall or use the information they've learned.
 
 #### S2: Parlor
 
@@ -166,7 +166,7 @@ Characters transported to the sanctum by the failed [[5. Mechanics/Spells/Wish.m
 
 ##### Curio Cabinets
 
-Alustriel keeps an impressive collection of magic items here. If the characters ask, Alustriel allows each character to borrow their choice of any single magic item of rare or lower rarity from the "Dungeon Master's Guide". Later in this chapter, Kas, disguised as Mordenkainen, retrieves the [[5. Mechanics/Items/Chime Of Exile.md\|Chime of Exile]] from one of these cabinets.
+Alustriel keeps an impressive collection of magic items here. If the characters ask, Alustriel allows each character to borrow their choice of any single magic item of rare or lower rarity from the "Dungeon Master's Guide". Later in this chapter, Kas, disguised as Mordenkainen, retrieves the [[5. Mechanics/Items/Chime Of Exile (VEOR).md\|Chime of Exile]] from one of these cabinets.
 
 #### S4: Lounge
 
@@ -193,7 +193,7 @@ Three legendary archmages serve as the characters' allies throughout the rest of
 
 ### Alustriel Silverhand
 
-More than seven centuries old, Lady [[4. World Almanac/NPCs/Alustriel Silverhand.md\|Alustriel Silverhand]] is beloved throughout Faerûn for her kindliness and for using her incredible spellcasting power to protect the innocent. Alustriel is an immortal daughter of Mystra, a god of magic, and is a chaotic good, human wizard. Alustriel served as High Mage of Silverymoon, battled demons on the Outer Planes, and prevented the lich Larloch from ascending to godhood. She has seen the rise and fall of evil powers, though Vecna's plot troubles her greatly. More about Alustriel, including her stat block, appears in appendix B.
+More than seven centuries old, Lady [[4. World Almanac/NPCs/Alustriel Silverhand (VEOR).md\|Alustriel Silverhand]] is beloved throughout Faerûn for her kindliness and for using her incredible spellcasting power to protect the innocent. Alustriel is an immortal daughter of Mystra, a god of magic, and is a chaotic good, human wizard. Alustriel served as High Mage of Silverymoon, battled demons on the Outer Planes, and prevented the lich Larloch from ascending to godhood. She has seen the rise and fall of evil powers, though Vecna's plot troubles her greatly. More about Alustriel, including her stat block, appears in appendix B.
 
 ### Mordenkainen
 
@@ -201,25 +201,25 @@ Renowned for his bravery but not his judgment, Mordenkainen is a powerful spellc
 
 ### Tasha
 
-[[4. World Almanac/NPCs/Tasha The Witch.md\|Tasha]] is a chaotic neutral archmage from Oerth, a renowned demonologist, and the adopted daughter of Baba Yaga. Tasha is widely considered the multiverse's foremost authority on the Abyss, having authored the fabled [[5. Mechanics/Items/Demonomicon Of Iggwilv.md\|Demonomicon of Iggwilv]]. Although Tasha's motives are fickle, Alustriel has found Tasha an unparalleled ally when their interests align, as Tasha can access and influence places where even the daughter of Mystra dares not tread. The version of Tasha who answers Alustriel's summons is from the past, before Tasha became Iggwilv the Witch Queen. More about Tasha, including her stat block, can be found in appendix B.
+[[4. World Almanac/NPCs/Tasha The Witch (VEOR).md\|Tasha]] is a chaotic neutral archmage from Oerth, a renowned demonologist, and the adopted daughter of Baba Yaga. Tasha is widely considered the multiverse's foremost authority on the Abyss, having authored the fabled [[5. Mechanics/Items/Demonomicon Of Iggwilv (TCE).md\|Demonomicon of Iggwilv]]. Although Tasha's motives are fickle, Alustriel has found Tasha an unparalleled ally when their interests align, as Tasha can access and influence places where even the daughter of Mystra dares not tread. The version of Tasha who answers Alustriel's summons is from the past, before Tasha became Iggwilv the Witch Queen. More about Tasha, including her stat block, can be found in appendix B.
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/030-02-003-tasha.webp#center\|Tasha]]
 
 ## Kas the Destroyer
 
-The vampire warlord [[4. World Almanac/NPCs/Kas The Betrayer.md\|Kas]] maintains his masquerade as Mordenkainen, likely fooling the characters until the events of chapter 9. The blood feud between Kas and Vecna stretches back centuries to a time when Kas served as Vecna's first lieutenant. More about Kas, including his stat block, appears in appendix B.
+The vampire warlord [[4. World Almanac/NPCs/Kas The Betrayer (VEOR).md\|Kas]] maintains his masquerade as Mordenkainen, likely fooling the characters until the events of chapter 9. The blood feud between Kas and Vecna stretches back centuries to a time when Kas served as Vecna's first lieutenant. More about Kas, including his stat block, appears in appendix B.
 
 ### Manipulation in Motion
 
-After the Dark Powers released him, Kas tracked down a cell of Vecna's cultists, who told the vampire more about the lich-god's planned ritual. The vampire used the [[5. Mechanics/Items/Crown Of Lies.md\|Crown of Lies]] to intercept a message from Alustriel to Mordenkainen, then used the crown to mimic Mordenkainen. Kas then met with Alustriel and gained her confidence.
+After the Dark Powers released him, Kas tracked down a cell of Vecna's cultists, who told the vampire more about the lich-god's planned ritual. The vampire used the [[5. Mechanics/Items/Crown Of Lies (VEOR).md\|Crown of Lies]] to intercept a message from Alustriel to Mordenkainen, then used the crown to mimic Mordenkainen. Kas then met with Alustriel and gained her confidence.
 
-While posing as Mordenkainen, Kas sabotages the archmages' [[5. Mechanics/Spells/Wish.md\|Wish]] spell. As a consequence, the spell shunts the characters to Alustriel's sanctum. Suspecting that the characters are somehow linked to Vecna, Kas urges them to retrieve the pieces of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]]. As Mordenkainen, Kas claims that the rod is the only way to weaken Vecna to the point where the characters might thwart his ritual and banish the lich-god to Oerth.
+While posing as Mordenkainen, Kas sabotages the archmages' [[5. Mechanics/Spells/Wish.md\|Wish]] spell. As a consequence, the spell shunts the characters to Alustriel's sanctum. Suspecting that the characters are somehow linked to Vecna, Kas urges them to retrieve the pieces of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. As Mordenkainen, Kas claims that the rod is the only way to weaken Vecna to the point where the characters might thwart his ritual and banish the lich-god to Oerth.
 
 In truth, Kas intends to steal the *Rod of Seven Parts* once he has all the pieces. He plans to whisk the artifact to the plane of Pandemonium, use it to free the demon known as Miska the Wolf-Spider, and kill Vecna. Kas doesn't yet know the site of Vecna's ritual is also on Pandemonium, the same plane where Miska is imprisoned, but the vampire finds out later in this adventure.
 
 #### Kas in the Sanctum
 
-While disguised as Mordenkainen, Kas never lets his guard down or removes the [[5. Mechanics/Items/Crown Of Lies.md\|Crown of Lies]]. Occasionally during this adventure, Mordenkainen is absent from the sanctum. During these interludes, the vampire warlord travels to other realms and eventually deduces where Vecna plans to enact the multiverse-unraveling ritual. This sets into motion the betrayal that takes place in chapter 9.
+While disguised as Mordenkainen, Kas never lets his guard down or removes the [[5. Mechanics/Items/Crown Of Lies (VEOR).md\|Crown of Lies]]. Occasionally during this adventure, Mordenkainen is absent from the sanctum. During these interludes, the vampire warlord travels to other realms and eventually deduces where Vecna plans to enact the multiverse-unraveling ritual. This sets into motion the betrayal that takes place in chapter 9.
 
 #### Evidence of Deception
 
@@ -243,13 +243,13 @@ Although it's unlikely, the characters might become suspicious of Mordenkainen a
 
 ##### Kas Defeats the Characters
 
-If the characters confront Kas before chapter 9, allow the battle to play out using the stat block for [[4. World Almanac/NPCs/Kas The Betrayer.md\|Kas]] in appendix B. If Kas defeats the characters, he kills them and absconds to Pandemonium. Alustriel has the clerics of Silverymoon bring the characters back to life, apologetic for not discovering Kas's ruse and angry she was duped. Alustriel suspects Kas knows where Vecna weaves his ritual and encourages the characters to follow the vampire to Pandemonium when they can.
+If the characters confront Kas before chapter 9, allow the battle to play out using the stat block for [[4. World Almanac/NPCs/Kas The Betrayer (VEOR).md\|Kas]] in appendix B. If Kas defeats the characters, he kills them and absconds to Pandemonium. Alustriel has the clerics of Silverymoon bring the characters back to life, apologetic for not discovering Kas's ruse and angry she was duped. Alustriel suspects Kas knows where Vecna weaves his ritual and encourages the characters to follow the vampire to Pandemonium when they can.
 
-In this case, Kas lacks the completed [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]]. Adjust chapter 10 to reflect that Miska never begins to escape his prison. The characters' priority remains stopping Vecna, but if they don't permanently destroy Kas, at some point the vampire hunts down the characters. Once the characters eventually defeat Kas, they learn where Vecna weaves his ritual and can proceed to chapter 11.
+In this case, Kas lacks the completed [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. Adjust chapter 10 to reflect that Miska never begins to escape his prison. The characters' priority remains stopping Vecna, but if they don't permanently destroy Kas, at some point the vampire hunts down the characters. Once the characters eventually defeat Kas, they learn where Vecna weaves his ritual and can proceed to chapter 11.
 
 ##### The Characters Defeat Kas
 
-If the characters defeat Kas, allow them to decide how to proceed. They might still want to reassemble the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] to use its power against the lich-god. However, to reinforce the story's sense of urgency, feel free to skip the characters ahead to chapter 10. If you do, award the characters the appropriate number of milestone level-ups so they have a fair chance of defeating the threats in the adventure's final chapters.
+If the characters defeat Kas, allow them to decide how to proceed. They might still want to reassemble the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to use its power against the lich-god. However, to reinforce the story's sense of urgency, feel free to skip the characters ahead to chapter 10. If you do, award the characters the appropriate number of milestone level-ups so they have a fair chance of defeating the threats in the adventure's final chapters.
 
 ## Surprise Development
 
@@ -314,13 +314,13 @@ Before the characters depart for Web's Edge, Alustriel relays any information th
 
 #### A Significant Lie
 
-In the guise of Mordenkainen, Kas has lied to the characters about the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]]. While the rod is useful against Vecna, Kas simply wants the characters to retrieve the rod so he can use it to free Miska.
+In the guise of Mordenkainen, Kas has lied to the characters about the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. While the rod is useful against Vecna, Kas simply wants the characters to retrieve the rod so he can use it to free Miska.
 
 Kas doesn't know that Vecna is weakened to pre-god status while weaving the Ritual of Remaking. The characters will learn this when they confront Vecna in chapter 11.
 
 ### Sending Vecna Back
 
-The [[5. Mechanics/Items/Chime Of Exile.md\|Chime of Exile]] is Alustriel's property and ultimately can send Vecna back to Oerth, interrupting his ritual. The interruption would dissipate the secret-based magic Vecna is weaving, significantly setting back his plot and leaving the lich-god in a weakened state. If the characters wish to take the chime with them, Alustriel assents.
+The [[5. Mechanics/Items/Chime Of Exile (VEOR).md\|Chime of Exile]] is Alustriel's property and ultimately can send Vecna back to Oerth, interrupting his ritual. The interruption would dissipate the secret-based magic Vecna is weaving, significantly setting back his plot and leaving the lich-god in a weakened state. If the characters wish to take the chime with them, Alustriel assents.
 
 #### Chime of Exile
 
@@ -384,7 +384,7 @@ The walls in Web's Edge are rocky, jagged, and uneven. Decades ago, Lolth's fait
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/036-02-009-webs-edge.webp#center\|"Heroes who stumble into Web's Edge unaware of its dangers usually meet a gruesome end"]]
 
-Web's Edge is a dangerous place. If the characters burst into the complex without a plan, they're unlikely to survive the experience, let alone retrieve the first piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]]. See the advice below for handling strategies the characters might adopt.
+Web's Edge is a dangerous place. If the characters burst into the complex without a plan, they're unlikely to survive the experience, let alone retrieve the first piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. See the advice below for handling strategies the characters might adopt.
 
 #### Being Sneaky
 
@@ -419,7 +419,7 @@ To convince unwelcome visitors that this cave is unused, the facility's cultists
 
 ##### Traps
 
-The gleams in the northern part of the chamber are magical traps placed on fist-size, fake rubies tucked conspicuously next to two skeletons. The fake rubies are fixed to the floor and can't be removed. Any character who touches one of the rubies must make a DC 20 Dexterity saving throw, taking `dice:12d8|text(54)` (`12d8`) lightning damage on a failed save or half as much damage on a successful one.
+The gleams in the northern part of the chamber are magical traps placed on fist-size, fake rubies tucked conspicuously next to two skeletons. The fake rubies are fixed to the floor and can't be removed. Any character who touches one of the rubies must make a DC 20 Dexterity saving throw, taking `dice:12d8|noform|avg|text(54)` (`12d8`) lightning damage on a failed save or half as much damage on a successful one.
 
 The traps can't be disabled, but a character who comes within 5 feet of one of the rubies and examines it can make a DC 18 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. On a success, the character deduces that the ruby is fake, worthless, and magically trapped to release a violent electric shock.
 
@@ -463,7 +463,7 @@ Grottenelle needs the glabrezu to assist in the operation being planned in area 
 
 ##### Treasure
 
-Grottenelle's table holds a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Circle Of Death.md\|Circle of Death]], an ornate [[5. Mechanics/Items/2 Weapon.md\|+2 Dagger]], and an assortment of unguents and oils worth 500 gp.
+Grottenelle's table holds a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Circle Of Death.md\|Circle of Death]], an ornate [[5. Mechanics/Items/2 Weapon.md\|+2 Dagger]], and an assortment of unguents and oils worth 500 gp.
 
 #### W4: Corridor
 
@@ -618,7 +618,7 @@ Each chest contains a ceremonial holy symbol of Lolth worth 50 gp. The chest nea
 
 ##### Desk
 
-A [[5. Mechanics/Spells/Detect Magic.md\|Detect Magic]] spell reveals an aura of conjuration magic around the desk, which bears a magical trap. Any character who touches the desk releases a swarm of spiders and must make a DC 18 Dexterity saving throw, taking `dice:8d4|text(20)` (`8d4`) poison damage on a failed save or half as much damage on a successful one. The trap triggers once, after which the spiders disappear and the desk becomes nonmagical. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the desk removes the trap.
+A [[5. Mechanics/Spells/Detect Magic.md\|Detect Magic]] spell reveals an aura of conjuration magic around the desk, which bears a magical trap. Any character who touches the desk releases a swarm of spiders and must make a DC 18 Dexterity saving throw, taking `dice:8d4|noform|avg|text(20)` (`8d4`) poison damage on a failed save or half as much damage on a successful one. The trap triggers once, after which the spiders disappear and the desk becomes nonmagical. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the desk removes the trap.
 
 The desk contains notes about covert missions the Lolth worshipers are planning in the next few months. Additionally, it contains gold- and gem-encrusted, spider-shaped knickknacks worth 500 gp total.
 
@@ -642,7 +642,7 @@ The bones are remnants of meals eaten by Ker-arach, the spiderdragon in area W12
 > An enormous web stretches across this open cavern's center, its strands plastered over stalagmites and stalactites. Crawling on the web is a gigantic reptilian creature with eight legs. Near that creature stands a smaller, one-eyed creature with a body that resembles melting wax.
 ^131
 
-This cavern's ceilings are 50 feet tall. The cavern is the lair of Ker-arach, the [[5. Mechanics/Bestiary/Monstrosity/Spiderdragon.md\|spiderdragon]] (see appendix A). Ker-arach crawled into this cavern through a temporary rift to the Abyss that opened during a ritual conducted here about half a year ago. Ker-arach brought with her a piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]], which she uses to answer questions posed directly to the Spider Queen. Ker-arach is essentially a tourist attraction for the few Lolth devotees who know she exists. The cultists consider her a sign of Lolth's favor, even though she eats hundreds of pounds of meat every few days and doesn't otherwise contribute to the complex.
+This cavern's ceilings are 50 feet tall. The cavern is the lair of Ker-arach, the [[5. Mechanics/Bestiary/Monstrosity/Spiderdragon (VEOR).md\|spiderdragon]] (see appendix A). Ker-arach crawled into this cavern through a temporary rift to the Abyss that opened during a ritual conducted here about half a year ago. Ker-arach brought with her a piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], which she uses to answer questions posed directly to the Spider Queen. Ker-arach is essentially a tourist attraction for the few Lolth devotees who know she exists. The cultists consider her a sign of Lolth's favor, even though she eats hundreds of pounds of meat every few days and doesn't otherwise contribute to the complex.
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/044-02-012-first-rod-of-seven-parts-piece.webp#center\|A piece of the Rod of Seven Parts]]
 
@@ -650,19 +650,19 @@ Standing near Ker-arach is a [[5. Mechanics/Bestiary/Fiend/Yochlol.md\|yochlol]]
 
 ##### Ker-arach's Web
 
-The web in the center of the cavern is made of ultra-strong, ultra-sticky strands of Ker-arach's silk. Additionally, Ker-arach has spun other, smaller webs throughout the area. The webs are "difficult terrain". Any creature that enters the webbing for the first time on a turn or ends its turn there must succeed on a DC 12 Strength saving throw or it becomes stuck and has the [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] condition. As an action, a creature can try to pull itself or another creature within its reach from the webbing, doing so with a successful DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. A creature freed in this way is no longer restrained by the webbing.
+The web in the center of the cavern is made of ultra-strong, ultra-sticky strands of Ker-arach's silk. Additionally, Ker-arach has spun other, smaller webs throughout the area. The webs are "difficult terrain". Any creature that enters the webbing for the first time on a turn or ends its turn there must succeed on a DC 12 Strength saving throw or it becomes stuck and has the [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] condition. As an action, a creature can try to pull itself or another creature within its reach from the webbing, doing so with a successful DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. A creature freed in this way is no longer restrained by the webbing.
 
-The webs are flammable. Any 5-foot cube of webs exposed to fire burns away, dealing `dice:2d4|text(5)` (`2d4`) fire damage to any creature in that area.
+The webs are flammable. Any 5-foot cube of webs exposed to fire burns away, dealing `dice:2d4|noform|avg|text(5)` (`2d4`) fire damage to any creature in that area.
 
 ##### Retrieving the Rod Piece
 
-The [[5. Mechanics/Items/Rod Of Seven Parts.md\|first piece]] of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] is wrapped tightly in silk at the center of this cavern's web. Characters who have [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] or a light source can see the rod piece from up to 30 feet away. A character within reach of the rod piece can use a sharp tool to cut it free of the web as an action. For more about the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]], see this book's introduction.
+The [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|first piece]] of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] is wrapped tightly in silk at the center of this cavern's web. Characters who have [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] or a light source can see the rod piece from up to 30 feet away. A character within reach of the rod piece can use a sharp tool to cut it free of the web as an action. For more about the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], see this book's introduction.
 
 ## Next Steps
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/045-02-013-ker-arach.webp#center\|"The spiderdragon Ker-arach and the yochlol Ylellith use a piece of the Rod of Seven Parts to communicate directly with the demon-god Lolth"]]
 
-Once the characters have acquired the first piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]], they can return to Sigil through the portal that remains open outside Web's Edge. At this point, the characters will likely want to rest, confer with their allies in Sigil, and see where this first rod piece points them to go next.
+Once the characters have acquired the first piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], they can return to Sigil through the portal that remains open outside Web's Edge. At this point, the characters will likely want to rest, confer with their allies in Sigil, and see where this first rod piece points them to go next.
 
 When the characters return to the sanctum, Malaina is there (see "The Sigil Sanctum" earlier in this chapter for more details). Malaina offers to help however she can, including seeking information outside of Sigil or retrieving specific magic items the characters might want.
 

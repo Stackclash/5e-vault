@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'underwater, coastal'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -8,12 +12,11 @@ tags:
   - monster/environment/underwater
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Merrow
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Merrow.md|Merrow]]
-*Source: Monster Manual p. 219. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Monstrosity\Merrow.md|Merrow]]
+*Source: Monster Manual p. 219. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Merrow haunt coastal waters, preying on fisherfolk, merfolk, and any other edible creature that crosses their path. These savage monsters snatch and devour unwary prey, hauling drowned corpses back to their underwater grottoes to feed.
 
@@ -69,16 +72,6 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
   "name": "Harpoon"
 "source":
 - "MM"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "WDH"
-- "GoS"
-- "IDRotF"
-- "WBtW"
-- "DSotDQ"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/merrow.webp"
 ```
 ^statblock

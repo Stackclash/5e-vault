@@ -16,4 +16,4 @@ aliases:
 
 While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.
 
-*Source: Dungeon Master's Guide p. 193. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

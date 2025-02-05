@@ -11,6 +11,36 @@ aliases:
 *[[Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: Player's Handbook p. 93*  
 
+> [!tldr] Class and Feature Progression
+> 
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='3'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Beast%20Master%20(Level%203)'>Beast Master</a></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Exceptional%20Training%20(Level%207)'>Exceptional Training</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Bestial%20Fury%20(Level%2011)'>Bestial Fury</a></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Share%20Spells%20(Level%2015)'>Share Spells</a></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> </tbody></table>
+^class-progession
+
 
 ## Class Features
 
@@ -24,7 +54,7 @@ You gain a beast companion that accompanies you on your adventures and is traine
 
 The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]], [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]], [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]], or [[/5. Mechanics/Rules/Actions.md#Help\|Help]] action. If you don't issue a command, the beast takes the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action.
 
-If you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] or absent, your beast companion acts on its own, focusing on protecting you and itself. It never requires your command to use its reaction, such as when making an opportunity attack.
+If you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or absent, your beast companion acts on its own, focusing on protecting you and itself. It never requires your command to use its reaction, such as when making an opportunity attack.
 
 While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace.
 
@@ -35,9 +65,9 @@ _Source: Tasha's Cauldron of Everything p. 61_
 
 *3rd-level Beast Master variant feature, which replaces the Ranger's Companion feature*
 
-You magically summon a primal beast, which draws strength from your bond with nature. The beast is friendly to you and your companions and obeys your commands. Choose its stat block—[[5. Mechanics/Bestiary/Beast/Beast Of The Land.md\|Beast of the Land]], [[5. Mechanics/Bestiary/Beast/Beast Of The Sea.md\|Beast of the Sea]], or [[5. Mechanics/Bestiary/Beast/Beast Of The Sky.md\|Beast of the Sky]]—which uses your proficiency bonus (PB) in several places. You also determine the kind of animal the beast is, choosing a kind appropriate for the stat block. Whatever kind you choose, the beast bears primal markings, indicating its mystical origin.
+You magically summon a primal beast, which draws strength from your bond with nature. The beast is friendly to you and your companions and obeys your commands. Choose its stat block—[[5. Mechanics/Bestiary/Beast/Beast Of The Land (TCE).md\|Beast of the Land]], [[5. Mechanics/Bestiary/Beast/Beast Of The Sea (TCE).md\|Beast of the Sea]], or [[5. Mechanics/Bestiary/Beast/Beast Of The Sky (TCE).md\|Beast of the Sky]]—which uses your proficiency bonus (PB) in several places. You also determine the kind of animal the beast is, choosing a kind appropriate for the stat block. Whatever kind you choose, the beast bears primal markings, indicating its mystical origin.
 
-In combat, the beast acts during your turn. It can move and use its reaction on its own, but the only action it takes is the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. You can also sacrifice one of your attacks when you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action to command the beast to take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action. If you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], the beast can take any action of its choice, not just [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]].
+In combat, the beast acts during your turn. It can move and use its reaction on its own, but the only action it takes is the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. You can also sacrifice one of your attacks when you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action to command the beast to take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action. If you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]], the beast can take any action of its choice, not just [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]].
 
 If the beast has died within the last hour, you can use your action to touch it and expend a spell slot of 1st level or higher. The beast returns to life after 1 minute with all its hit points restored.
 

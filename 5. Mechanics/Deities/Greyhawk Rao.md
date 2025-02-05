@@ -10,7 +10,7 @@ aliases:
   - Rao
 ---
 # Rao
-*Source: Player's Handbook p. 295, Tasha's Cauldron of Everything p. 32* 
+*Source: Player's Handbook p. 295, Tasha's Cauldron of Everything p. 33* 
 
 - **Alignment**: Lawful Good
 - **Domains**: Knowledge, Peace

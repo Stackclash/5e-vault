@@ -5,12 +5,11 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/very-rare
   - item/tier/major
-  - item/wondrous
 aliases:
   - Mirror of Life Trapping
 ---
 # Mirror of Life Trapping
-*Wondrous Item, major, very rare*  
+*Wondrous item, major, very rare*  
 ![[5. Mechanics/Items/img/mirror-of-life-trapping.webp#right]]  
 
 - **Weight**: 50.0 lbs.
@@ -29,4 +28,4 @@ While within 5 feet of the mirror, you can use an action to speak the name of on
 
 In a similar way, you can use an action to speak a second command word and free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
 
-*Source: Dungeon Master's Guide p. 181. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

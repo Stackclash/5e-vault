@@ -17,7 +17,7 @@ While the dwarves loyal to Moradin take joy in the art of crafting and form stro
 
 ## The Deep Roots of War
 
-> [!quote]- A quote from Duergar assassin Vozala Spikefist, before slaying the dwarf king Umbrag Hammerthorn  
+> [!quote] A quote from Duergar assassin Vozala Spikefist, before slaying the dwarf king Umbrag Hammerthorn  
 > 
 > Take this message to your doddering fool of a god. His turn is coming, Laduguer willing.
 
@@ -65,7 +65,7 @@ Moradin is also worshiped as the All-Father, in acknowledgment of his role as th
 
 ### The Path to Perfection
 
-> [!quote]- A quote from Balifra Eversharp  
+> [!quote] A quote from Balifra Eversharp  
 > 
 > Every fall of the hammer on the anvil, every fire stoked in the forge, is a step on a journey set before me by Moradin himself. It isn't work. It is a challenge to achieve greatness.
 
@@ -95,7 +95,7 @@ In particular situations, of course, the benefits of cooperating with humans or 
 
 ### All for One: The Clan
 
-> [!quote]- A quote from Tordek  
+> [!quote] A quote from Tordek  
 > 
 > So the barman isn't a relative, and you don't even know the names of any of the folk here? How can you possibly sleep peacefully in this inn, surrounded by strangers? We'll be lucky to see the morning.
 
@@ -133,7 +133,7 @@ More important, a young noble's conduct while pursuing a variety of tasks gives 
 
 ### One for All: The Stronghold
 
-> [!quote]- A quote from King Ulaar Strongheart  
+> [!quote] A quote from King Ulaar Strongheart  
 > 
 > I live here among my folk, and I swear that if need be I will die here atop a mountain of my enemies' corpses.
 
@@ -239,7 +239,7 @@ The Aghar clan is an anomaly among the dwarves of Krynn, having retained a footh
 
 ### Dwarven Religion
 
-> [!quote]- A quote from Vistra Frostbeard  
+> [!quote] A quote from Vistra Frostbeard  
 > 
 > Our forebears instill within us the potential for everything that made them great. It is our responsibility to refine that gift into something wonderful.
 
@@ -251,7 +251,7 @@ The Dwarf Deities table lists the members of the Mordinsamman. For each god, the
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315522_cn_wmask.webp#center]]
 
-![[5. Mechanics/Tables/Dwarven Religion Dwarf Deities The Mordinsamman.md\|Dwarven Religion; Dwarf Deities (The Mordinsamman)]]
+![[5. Mechanics/Tables/Dwarven Religion Dwarf Deities The Mordinsamman (MTF).md\|Dwarven Religion; Dwarf Deities (The Mordinsamman)]]
 
 #### Moradin
 
@@ -295,7 +295,7 @@ The dwarven pantheon is quite large. The four deities discussed above are acknow
 
 ### The Dual Role of Abbathor
 
-> [!quote]- A quote from Tenelar, Outcast of Five Peaks  
+> [!quote] A quote from Tenelar, Outcast of Five Peaks  
 > 
 > A little act of selfishness now and then is to be expected even from the wisest of folk.
 
@@ -377,7 +377,7 @@ The evil dwarves of the Underdark are responsible for the constant undercurrent 
 
 ### When Clans Collapse
 
-> [!quote]- A quote from Queen Helgret Deephammer, of the Deephammer clan in exile  
+> [!quote] A quote from Queen Helgret Deephammer, of the Deephammer clan in exile  
 > 
 > We have but one desire-revenge against those who drove us out of our home.
 
@@ -403,7 +403,7 @@ A group of refugee dwarves seeking residence in a community will do whatever the
 
 ### Dwarf Adventurers
 
-> [!quote]- A quote from Tenelar, Outcast of Five Peaks  
+> [!quote] A quote from Tenelar, Outcast of Five Peaks  
 > 
 > The mountains were home once, but never again.
 
@@ -450,7 +450,7 @@ Duergar have no appreciation for beauty, that ability having been erased from th
 
 ### A Dark Reflection
 
-> [!quote]- A quote from Vozala Spikefist  
+> [!quote] A quote from Vozala Spikefist  
 > 
 > Work or die. In the first case, you are useful. In the second, you are entertaining.
 
@@ -482,7 +482,7 @@ Duergar warriors epitomize the race's abandonment of emotion and individuality.
 
 In battle, they wear heavy armor and hateful, scowling masks that hide their identities. When assembled in ranks, the duergar move forward like army ants. They are an implacable, relentless foe, marching over the corpses of their fallen comrades to press the attack.
 
-> [!quote]- A quote from Felstak Goldgrief, Tyrant of Goethelskar  
+> [!quote] A quote from Felstak Goldgrief, Tyrant of Goethelskar  
 > 
 > Our three rules come from the actions of Laduguer himself, as he quested through the Nine Hells on his mission to bring glory to the duergar.
 > 
@@ -498,7 +498,7 @@ In battle, they wear heavy armor and hateful, scowling masks that hide their ide
 
 ### Duergar Deities
 
-> [!quote]- A quote from Morkai Ashlord  
+> [!quote] A quote from Morkai Ashlord  
 > 
 > Our gods sprang from among us. They endured our hardships and carved a path to our salvation. What has your god done for you?
 
@@ -524,7 +524,7 @@ Laduguer's teachings stand in direct opposition to everything Moradin represents
 
 Duergar don't worship Laduguer in any traditional way; their communities include no temples or formal services. They honor their deity by acquiring more power and wealth through any means possible. Priests of Laduguer maintain the internal functions of duergar society but have no role that is expressly religious.
 
-![[5. Mechanics/Tables/Duergar Deities.md\|Duergar Deities]]
+![[5. Mechanics/Tables/Duergar Deities (MTF).md\|Duergar Deities]]
 
 ### Inside a Stronghold
 
@@ -548,7 +548,7 @@ Steeders, spiders that are used as mounts and war beasts by the duergar, are hou
 
 ### Power of the Mind
 
-> [!quote]- A quote from Gargosa Ironmind  
+> [!quote] A quote from Gargosa Ironmind  
 > 
 > The mind is but another material, set before us to shape into a weapon.
 
@@ -560,7 +560,7 @@ Despite these efforts, duergar still have a limited understanding of the true ex
 
 Those duergar who delve into psionic research describe the process as accessing a dimensional space in which they can tap into the energy exerted by living minds. Using this power source, a small number of duergar can alter their bodies and those of other creatures, tap into thoughts and bend them as they see fit, and impart a spark of locomotion and even basic intelligence into objects. Duergar of truly exceptional skill can move objects without touching them, view creatures from a great distance, and push their bodies to achieve incredible feats, such as lifting a boulder or transforming into liquid to flow through a crack in a wall.
 
-> [!quote]- A quote from Final journal entry of Garral Longseer, once of Candlekeep, whereabouts now unknown  
+> [!quote] A quote from Final journal entry of Garral Longseer, once of Candlekeep, whereabouts now unknown  
 > 
 > I performed the ritual just as the book described. As the magic turned the aboleth's brain to dust, I inhaled deeply of the leavings, and a nearly infinite roll of years began to unspool before my eyes.
 > 
@@ -593,7 +593,7 @@ Any gray dwarves who leave the Underdark and take up adventuring, after having b
 
 At the DM's discretion, you can play a duergar character. When you choose the subrace of your dwarf, you can choose duergar, using the following rules to create your character.
 
-- [[5. Mechanics/Races/Duergar.md\|Dwarf (Duergar)]]  
+- [[5. Mechanics/Races/Duergar (MPMM).md\|Dwarf (Duergar)]]  
 
 ## Dwarf Tables
 
@@ -607,23 +607,23 @@ When dwarves journey away from their strongholds, they prefer to move in substan
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315622_cn.webp#center]]
 
-![[5. Mechanics/Tables/Dwarves On The Move Group Leader.md\|Dwarves on the Move; Group Leader]]
+![[5. Mechanics/Tables/Dwarves On The Move Group Leader (MTF).md\|Dwarves on the Move; Group Leader]]
 
-![[5. Mechanics/Tables/Dwarves On The Move Special Allies.md\|Dwarves on the Move; Special Allies]]
+![[5. Mechanics/Tables/Dwarves On The Move Special Allies (MTF).md\|Dwarves on the Move; Special Allies]]
 
-![[5. Mechanics/Tables/Dwarves On The Move Purpose Of Travel.md\|Dwarves on the Move; Purpose of Travel]]
+![[5. Mechanics/Tables/Dwarves On The Move Purpose Of Travel (MTF).md\|Dwarves on the Move; Purpose of Travel]]
 
-![[5. Mechanics/Tables/Dwarves On The Move Special Circumstances.md\|Dwarves on the Move; Special Circumstances]]
+![[5. Mechanics/Tables/Dwarves On The Move Special Circumstances (MTF).md\|Dwarves on the Move; Special Circumstances]]
 
 ### Dwarves in the Clan
 
 The following tables can be used to create basic information about a clan of dwarves: the group's current status, a trait or a fact that sets that clan apart from others, and the vocation of a given clan member.
 
-![[5. Mechanics/Tables/Dwarves In The Clan Clans Status.md\|Dwarves in the Clan; Clan's Status]]
+![[5. Mechanics/Tables/Dwarves In The Clan Clans Status (MTF).md\|Dwarves in the Clan; Clan's Status]]
 
-![[5. Mechanics/Tables/Dwarves In The Clan Clans Notable Trait.md\|Dwarves in the Clan; Clan's Notable Trait]]
+![[5. Mechanics/Tables/Dwarves In The Clan Clans Notable Trait (MTF).md\|Dwarves in the Clan; Clan's Notable Trait]]
 
-![[5. Mechanics/Tables/Dwarves In The Clan Clan Vocations.md\|Dwarves in the Clan; Clan Vocations]]
+![[5. Mechanics/Tables/Dwarves In The Clan Clan Vocations (MTF).md\|Dwarves in the Clan; Clan Vocations]]
 
 ### Dwarves in the World
 
@@ -631,9 +631,9 @@ The tables below are designed to add depth to a dwarf character by offering poss
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315526_cn.webp#center]]
 
-![[5. Mechanics/Tables/Dwarves In The World Dwarf Adventurer Story Hooks.md\|Dwarves in the World; Dwarf Adventurer Story Hooks]]
+![[5. Mechanics/Tables/Dwarves In The World Dwarf Adventurer Story Hooks (MTF).md\|Dwarves in the World; Dwarf Adventurer Story Hooks]]
 
-![[5. Mechanics/Tables/Dwarves In The World Dwarf Quirks.md\|Dwarves in the World; Dwarf Quirks]]
+![[5. Mechanics/Tables/Dwarves In The World Dwarf Quirks (MTF).md\|Dwarves in the World; Dwarf Quirks]]
 
 ## Duergar Tables
 
@@ -647,30 +647,30 @@ When duergar emerge from the Underdark, they generally do so in the form of smal
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315527_cn.webp#center]]
 
-![[5. Mechanics/Tables/Duergar Raiding Parties 1.md\|Duergar Raiding Parties; 1]]
+![[5. Mechanics/Tables/Duergar Raiding Parties 1 (MTF).md\|Duergar Raiding Parties; 1]]
 
-![[5. Mechanics/Tables/Duergar Raiding Parties Duergar Group Leader.md\|Duergar Raiding Parties; Duergar Group Leader]]
+![[5. Mechanics/Tables/Duergar Raiding Parties Duergar Group Leader (MTF).md\|Duergar Raiding Parties; Duergar Group Leader]]
 
-![[5. Mechanics/Tables/Duergar Raiding Parties Duergar Special Allies.md\|Duergar Raiding Parties; Duergar Special Allies]]
+![[5. Mechanics/Tables/Duergar Raiding Parties Duergar Special Allies (MTF).md\|Duergar Raiding Parties; Duergar Special Allies]]
 
-![[5. Mechanics/Tables/Duergar Raiding Parties Duergar Purpose Of Raid.md\|Duergar Raiding Parties; Duergar Purpose of Raid]]
+![[5. Mechanics/Tables/Duergar Raiding Parties Duergar Purpose Of Raid (MTF).md\|Duergar Raiding Parties; Duergar Purpose of Raid]]
 
-![[5. Mechanics/Tables/Duergar Raiding Parties Duergar Special Circumstances.md\|Duergar Raiding Parties; Duergar Special Circumstances]]
+![[5. Mechanics/Tables/Duergar Raiding Parties Duergar Special Circumstances (MTF).md\|Duergar Raiding Parties; Duergar Special Circumstances]]
 
 ### Duergar in the Clan
 
 The following tables can be used to create basic information about a clan of duergar somewhere in the world: the group's current status, and a trait or a fact that sets that clan apart from others.
 
-![[5. Mechanics/Tables/Duergar In The Clan Duergar Clan Names.md\|Duergar in the Clan; Duergar Clan Names]]
+![[5. Mechanics/Tables/Duergar In The Clan Duergar Clan Names (MTF).md\|Duergar in the Clan; Duergar Clan Names]]
 
-![[5. Mechanics/Tables/Duergar In The Clan Duergar Clans Status.md\|Duergar in the Clan; Duergar Clan's Status]]
+![[5. Mechanics/Tables/Duergar In The Clan Duergar Clans Status (MTF).md\|Duergar in the Clan; Duergar Clan's Status]]
 
-![[5. Mechanics/Tables/Duergar In The Clan Clans Notable Trait.md\|Duergar in the Clan; Clan's Notable Trait]]
+![[5. Mechanics/Tables/Duergar In The Clan Clans Notable Trait (MTF).md\|Duergar in the Clan; Clan's Notable Trait]]
 
 ### Duergar in the World
 
 The tables below are designed to add depth to a duergar character by offering possible reasons why the character left the clan for the life of an adventurer and a choice of personality quirks that are tailored for duergar.
 
-![[5. Mechanics/Tables/Duergar In The World Duergar Adventurer Story Hooks.md\|Duergar in the World; Duergar Adventurer Story Hooks]]
+![[5. Mechanics/Tables/Duergar In The World Duergar Adventurer Story Hooks (MTF).md\|Duergar in the World; Duergar Adventurer Story Hooks]]
 
-![[5. Mechanics/Tables/Duergar In The World Duergar Quirks.md\|Duergar in the World; Duergar Quirks]]
+![[5. Mechanics/Tables/Duergar In The World Duergar Quirks (MTF).md\|Duergar in the World; Duergar Quirks]]

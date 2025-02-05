@@ -7,7 +7,7 @@ aliases:
   - Multiclassing Proficiencies
 ---
 # Multiclassing Proficiencies
-*Source: Player's Handbook p. 164. Available in the SRD.* 
+*Source: Player's Handbook p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 
 **Multiclassing Proficiencies**
 

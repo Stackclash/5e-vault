@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
   - monster/environment/underdark
   - monster/size/large
   - monster/type/plant
-statblock: inline
 aliases:
   - Gas Spore
 ---
-# [[5. Mechanics/Bestiary/Plant/Gas Spore.md|Gas Spore]]
+# [[5. Mechanics\Bestiary\Plant\Gas Spore.md|Gas Spore]]
 *Source: Monster Manual p. 138*
 
 The first gas spores are thought to have been spawned from dead beholders, whose moldering corpses fed a parasitic fungus with aberrant magic. Having long since adapted into a unique plant creature, a gas spore grows quickly and purposefully out of any corpse, creating a malevolent-looking mockery of the most feared denizen of the Underdark.
@@ -53,9 +56,9 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - !!int "1"
 "speed": "0 ft., fly 10 ft. (hover)"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 5"
 "languages": ""
 "cr": "1/2"
@@ -63,11 +66,11 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - "desc": "The gas spore explodes when it drops to 0 hit points. Each creature within\
     \ 20 feet of it must succeed on a DC 15 Constitution saving throw or take 10 (3d6)\
     \ poison damage and become infected with a disease on a failed save. Creatures\
-    \ immune to the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] condition\
+    \ immune to the [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] condition\
     \ are immune to this disease.\n\nSpores invade an infected creature's system,\
     \ killing the creature in a number of hours equal to 1d12 + the creature's Constitution\
     \ score, unless the disease is removed. In half that time, the creature becomes\
-    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for the rest of the duration.\
+    \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for the rest of the duration.\
     \ After the creature dies, it sprouts 2d4 Tiny gas spores that grow to full size\
     \ in 7 days."
   "name": "Death Burst"
@@ -82,9 +85,6 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
   "name": "Touch"
 "source":
 - "MM"
-- "TftYP"
-- "WDH"
-- "WDMM"
 "image": "5. Mechanics/Bestiary/Plant/token/gas-spore.webp"
 ```
 ^statblock

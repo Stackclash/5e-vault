@@ -3,15 +3,24 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin/oath-of-redemption
-  - spell/class/paladin/oath-of-the-watchers
-  - spell/class/rogue/arcane-trickster
+  - spell/class/bard
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/3
+  - spell/level/3rd-level
   - spell/school/abjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+  - spell/subclass/fey-soul
+  - spell/subclass/oath-of-redemption
+  - spell/subclass/oath-of-the-watchers
+  - spell/subclass/prophecy-domain
+level: 3rd-level
+range: false
+school: Abjuration
+time: 1 reaction
+duration: Instantaneous
+components: S
 aliases:
   - Counterspell
 ---
@@ -27,6 +36,6 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption.md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Paladin Oath Of The Watchers.md\|Paladin (Oath of the Watchers)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Sorcerer Fey Soul (GRIFFONSSADDLEBAG3)\|Sorcerer (Fey Soul)]]; [[List Spells Classes Paladin Oath Of Redemption (XGE)\|Paladin (Oath of Redemption)]]; [[List Spells Classes Paladin Oath Of The Watchers (TCE)\|Paladin (Oath of the Watchers)]]; [[List Spells Classes Cleric Prophecy Domain (KPDM)\|Cleric (Prophecy Domain)]]
 
-*Source: Player's Handbook p. 228. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 228. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

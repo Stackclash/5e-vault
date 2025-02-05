@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 24
+environments: 'grassland, forest'
+size: Gargantuan
 tags:
   - compendium/src/5e/mm
   - monster/cr/24
@@ -8,12 +12,11 @@ tags:
   - monster/environment/grassland
   - monster/size/gargantuan
   - monster/type/dragon
-statblock: inline
 aliases:
   - Ancient Gold Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Ancient Gold Dragon.md|Ancient Gold Dragon]]
-*Source: Monster Manual p. 113. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Ancient Gold Dragon.md|Ancient Gold Dragon]]
+*Source: Monster Manual p. 113. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 
@@ -133,7 +136,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ (2d8 + 10) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 24 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ and aware of it must succeed on a DC 24 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
@@ -167,7 +170,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
     \ must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The dragon\
     \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
@@ -189,7 +192,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ or [[5. Mechanics/Bestiary/Dragon/Ancient Gold Dragon.md|ancient]]) gold dragon\
     \ can use the following additional lair action while in its lair:\n\n- Beguiling\
     \ Glow. Warm light fills a 30-foot-radius sphere centered on the dragon; each\
-    \ creature in that area must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ creature in that area must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
     \ by the dragon until initiative count 20 on the next round.  "
   "name": "Additional Lair Action"
 "regional_effects":
@@ -222,8 +225,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Additional Regional Effects"
 "source":
 - "MM"
-- "SatO"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Dragon/token/ancient-gold-dragon.webp"
 ```
 ^statblock

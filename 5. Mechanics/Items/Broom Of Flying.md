@@ -5,12 +5,11 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/uncommon
   - item/tier/major
-  - item/wondrous
 aliases:
   - Broom of Flying
 ---
 # Broom of Flying
-*Wondrous Item, major, uncommon*  
+*Wondrous item, major, uncommon*  
 ![[5. Mechanics/Items/img/broom-of-flying.webp#right]]  
 
 - **Weight**: 3.0 lbs.
@@ -19,4 +18,4 @@ This wooden broom, which weighs 3 pounds, functions like a mundane broom until y
 
 You can send the broom to travel alone to a destination within 1 mile of you if you speak the command word, name the location, and are familiar with that place. The broom comes back to you when you speak another command word, provided that the broom is still within 1 mile of you.
 
-*Source: Dungeon Master's Guide p. 156. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

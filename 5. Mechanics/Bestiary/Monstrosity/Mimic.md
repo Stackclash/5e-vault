@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'underdark, urban'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -8,12 +12,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/monstrosity/shapechanger
-statblock: inline
 aliases:
   - Mimic
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Mimic.md|Mimic]]
-*Source: Monster Manual p. 220, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Monstrosity\Mimic.md|Mimic]]
+*Source: Monster Manual p. 220, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Mimics are shapeshifting predators able to take on the form of inanimate objects to lure creatures to their doom. In dungeons, these cunning creatures most often take the form of doors and chests, having learned that such forms attract a steady stream of prey.
 
@@ -27,7 +30,7 @@ When it changes shape, a mimic excretes an adhesive that helps it seize prey and
 
 Mimics live and hunt alone, though they occasionally share their feeding grounds with other creatures. Although most mimics have only predatory intelligence, a rare few evolve greater cunning and the ability to carry on simple conversations in Common or Undercommon. Such mimics might allow safe passage through their domains or provide useful information in exchange for food.
 
-> [!quote]- A quote from X the Mystic's 3rd rule of dungeon survival  
+> [!quote] A quote from X the Mystic's 3rd rule of dungeon survival  
 > 
 > Sometimes a chest is just a chest, but don't bet on it.
 
@@ -53,7 +56,7 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
 "skillsaves":
   "Stealth": !!int "5"
 "damage_immunities": "acid"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "2"
@@ -64,13 +67,13 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
     \ it dies."
   "name": "Shapechanger"
 - "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature\
-    \ adhered to the mimic is also [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ adhered to the mimic is also [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
     \ by it (escape DC 13). Ability checks made to escape this grapple have disadvantage."
   "name": "Adhesive (Object Form Only)"
 - "desc": "While the mimic remains motionless, it is indistinguishable from an ordinary\
     \ object."
   "name": "False Appearance (Object Form Only)"
-- "desc": "The mimic has advantage on attack rolls against any creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "The mimic has advantage on attack rolls against any creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
     \ by it."
   "name": "Grappler"
 "actions":
@@ -84,21 +87,6 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
 "source":
 - "MM"
 - "CoS"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "DIP"
-- "BGDIA"
-- "RMBRE"
-- "IMR"
-- "EGW"
-- "IDRotF"
-- "CM"
-- "WBtW"
-- "KftGV"
-- "SatO"
-- "BMT"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/mimic.webp"
 ```

@@ -4,12 +4,23 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
+  - spell/class/bard
   - spell/class/cleric
-  - spell/class/cleric/death-domain
-  - spell/class/cleric/grave-domain
-  - spell/class/sorcerer/divine-soul
+  - spell/feat/artificer-initiate
+  - spell/feat/magic-initiate
   - spell/level/cantrip
+  - spell/optfeature/blessed-warrior
+  - spell/optfeature/pact-of-the-tome
   - spell/school/necromancy
+  - spell/subclass/death-domain-dmg
+  - spell/subclass/divine-soul
+  - spell/subclass/grave-domain
+level: cantrip
+range: false
+school: Necromancy
+time: 1 action
+duration: Instantaneous
+components: 'V, S'
 aliases:
   - Spare the Dying
 ---
@@ -23,6 +34,6 @@ aliases:
 
 You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Cleric Death Domain.md\|Cleric (Death Domain)]], [[5. Mechanics/Classes/Cleric Grave Domain.md\|Cleric (Grave Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Cleric Death Domain (DMG)\|Cleric (Death Domain (DMG))]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Cleric Grave Domain (XGE)\|Cleric (Grave Domain)]]
 
-*Source: Player's Handbook p. 277. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

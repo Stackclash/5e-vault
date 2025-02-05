@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/8
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-8
   - monster/size/medium
   - monster/type/construct
-statblock: inline
 aliases:
   - Monodrone
 ---
-# [[5. Mechanics/Bestiary/Construct/Monodrone.md|Monodrone]]
+# [[5. Mechanics\Bestiary\Construct\Monodrone.md|Monodrone]]
 *Source: Monster Manual p. 224*
 
 A monodrone can perform one simple task at a time and can relay a single message of up to forty-eight words.
@@ -42,7 +45,7 @@ If a modron is destroyed, its remains disintegrate. A replacement from the next 
 
 When the gears of Mechanus complete seventeen cycles once every 289 years, Primus sends a vast army of modrons across the Outer Planes, ostensibly on a reconnaissance mission. The march is long and dangerous, and only a small number of modrons returns to Mechanus.
 
-> [!quote]- A quote from Kwint Stormbellow, rock gnome adventurer  
+> [!quote] A quote from Kwint Stormbellow, rock gnome adventurer  
 > 
 > Every 289 years, the entire multiverse goes mad. Like clockwork.
 
@@ -83,12 +86,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
   "name": "Javelin"
 "source":
 - "MM"
-- "ToA"
-- "BGDIA"
-- "CM"
-- "KftGV"
-- "SatO"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Construct/token/monodrone.webp"
 ```
 ^statblock

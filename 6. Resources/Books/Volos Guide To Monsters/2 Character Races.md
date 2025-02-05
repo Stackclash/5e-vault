@@ -21,24 +21,24 @@ At the end of the chapter is a section that you can use to determine the height 
 
 If you're the DM, including any of these races in your campaign is a storytelling opportunity, a chance for you to decide the roles that different peoples play in the tales you weave. You might decide that a race in this chapter is common in your world, that only a few members of it still live, or that it doesn't exist at all. Whatever you decide about the races, consider how they can enhance your stories.
 
-- [[5. Mechanics/Races/Aasimar.md\|Aasimar (Fallen)]]  
-- [[5. Mechanics/Races/Aasimar.md\|Aasimar (Protector)]]  
-- [[5. Mechanics/Races/Aasimar.md\|Aasimar (Scourge)]]  
-- [[5. Mechanics/Races/Bugbear.md\|Bugbear]]  
-- [[5. Mechanics/Races/Firbolg.md\|Firbolg]]  
-- [[5. Mechanics/Races/Goblin.md\|Goblin]]  
-- [[5. Mechanics/Races/Goliath.md\|Goliath]]  
-- [[5. Mechanics/Races/Hobgoblin.md\|Hobgoblin]]  
-- [[5. Mechanics/Races/Kenku.md\|Kenku]]  
-- [[5. Mechanics/Races/Kobold.md\|Kobold]]  
-- [[5. Mechanics/Races/Lizardfolk.md\|Lizardfolk]]  
-- [[5. Mechanics/Races/Orc.md\|Orc]]  
-- [[5. Mechanics/Races/Tabaxi.md\|Tabaxi]]  
-- [[5. Mechanics/Races/Triton.md\|Triton]]  
-- [[5. Mechanics/Races/Yuan Ti.md\|Yuan-ti Pureblood]]  
+- [[5. Mechanics/Races/Aasimar (MPMM).md\|Aasimar (Fallen)]]  
+- [[5. Mechanics/Races/Aasimar (MPMM).md\|Aasimar (Protector)]]  
+- [[5. Mechanics/Races/Aasimar (MPMM).md\|Aasimar (Scourge)]]  
+- [[5. Mechanics/Races/Bugbear (MPMM).md\|Bugbear]]  
+- [[5. Mechanics/Races/Firbolg (MPMM).md\|Firbolg]]  
+- [[5. Mechanics/Races/Goblin (MPMM).md\|Goblin]]  
+- [[5. Mechanics/Races/Goliath (MPMM).md\|Goliath]]  
+- [[5. Mechanics/Races/Hobgoblin (MPMM).md\|Hobgoblin]]  
+- [[5. Mechanics/Races/Kenku (MPMM).md\|Kenku]]  
+- [[5. Mechanics/Races/Kobold (MPMM).md\|Kobold]]  
+- [[5. Mechanics/Races/Lizardfolk (MPMM).md\|Lizardfolk]]  
+- [[5. Mechanics/Races/Orc (MPMM).md\|Orc]]  
+- [[5. Mechanics/Races/Tabaxi (MPMM).md\|Tabaxi]]  
+- [[5. Mechanics/Races/Triton (MPMM).md\|Triton]]  
+- [[5. Mechanics/Races/Yuan Ti (MPMM).md\|Yuan-ti Pureblood]]  
 
 ## Height and Weight
 
 You may roll for your character's height and weight on the Random Height and Weight table. The roll in the Height Modifier column adds a number (in inches) to the character's base height. To get a weight, multiply the number you rolled for height by the roll in the Weight Modifier column and add the result (in pounds) to the base weight.
 
-![[5. Mechanics/Tables/Height And Weight.md\|Height and Weight]]
+![[5. Mechanics/Tables/Height And Weight (VGM).md\|Height and Weight]]

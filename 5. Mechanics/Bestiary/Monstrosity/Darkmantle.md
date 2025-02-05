@@ -1,24 +1,27 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: underdark
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
   - monster/environment/underdark
   - monster/size/small
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Darkmantle
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Darkmantle.md|Darkmantle]]
-*Source: Monster Manual p. 46. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Monstrosity\Darkmantle.md|Darkmantle]]
+*Source: Monster Manual p. 46. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A darkmantle clings to cavern ceilings, remaining perfectly still as it waits for creatures to pass beneath it. From a distance, it can pass itself off as a stalactite or a lump of stone. Then it drops from the ceiling and unfurls, surrounding itself with magical darkness as it engulfs and crushes its prey.
 
 Darkmantles are found throughout the Underdark, but they are equally common on the Shadowfell. Thriving in that dark realm, they fill an ecological niche similar to bats on the Material Plane. Intelligent creatures of the Shadowfell sometimes train darkmantles as guardians or companions.
 
-> [!quote]- A quote from Ethelrede the fighter, after his first darkmantle encounter  
+> [!quote] A quote from Ethelrede the fighter, after his first darkmantle encounter  
 > 
 > Remind me again why we're on this quest?
 
@@ -45,7 +48,7 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
 "languages": ""
 "cr": "1/2"
 "traits":
-- "desc": "The darkmantle can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]."
+- "desc": "The darkmantle can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]."
   "name": "Echolocation"
 - "desc": "While the darkmantle remains motionless, it is indistinguishable from a\
     \ cave formation such as a stalactite or stalagmite."
@@ -54,7 +57,7 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6\
     \ + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target\
     \ is Medium or smaller and the darkmantle has advantage on the attack roll, it\
-    \ attaches by engulfing the target's head, and the target is also [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ attaches by engulfing the target's head, and the target is also [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
     \ and unable to breathe while the darkmantle is attached in this way.\n\nWhile\
     \ attached to the target, the darkmantle can attack no other creature except the\
     \ target but has advantage on its attack rolls. The darkmantle's speed also becomes\
@@ -65,18 +68,14 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
   "name": "Crush"
 - "desc": "A 15-foot radius of magical darkness extends out from the darkmantle, moves\
     \ with it, and spreads around corners. The darkness lasts as long as the darkmantle\
-    \ maintains [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]], up\
-    \ to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this\
-    \ darkness, and no natural light can illuminate it. If any of the darkness overlaps\
-    \ with an area of light created by a spell of 2nd level or lower, the spell creating\
-    \ the light is dispelled."
+    \ maintains [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]], up\
+    \ to 10 minutes (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
+    \ on a spell). Darkvision can't penetrate this darkness, and no natural light\
+    \ can illuminate it. If any of the darkness overlaps with an area of light created\
+    \ by a spell of 2nd level or lower, the spell creating the light is dispelled."
   "name": "Darkness Aura (1/Day)"
 "source":
 - "MM"
-- "PotA"
-- "WDMM"
-- "WBtW"
-- "KftGV"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/darkmantle.webp"
 ```
 ^statblock

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: underdark
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
   - monster/environment/underdark
   - monster/size/small
   - monster/type/humanoid/gnome
-statblock: inline
 aliases:
   - Deep Gnome (Svirfneblin)
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Deep Gnome Svirfneblin.md|Deep Gnome (Svirfneblin)]]
-*Source: Monster Manual p. 164. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Humanoid\Deep Gnome Svirfneblin.md|Deep Gnome (Svirfneblin)]]
+*Source: Monster Manual p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Deep gnomes, or svirfneblin, live far below the world's surface in twisting warrens and sculpted caverns. They survive by virtue of their stealth, cleverness, and tenacity. Their gray skin allows them to blend in with surrounding stonework. They are also surprisingly heavy and strong for their size. An average adult weighs 100 to 120 pounds and stands 3 feet tall.
 
@@ -74,17 +77,12 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
   "name": "War Pick"
 - "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one creature. Hit:\
     \ 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
     \ 1 minute. The target can repeat the saving throw at the end of each of its turns,\
     \ ending the effect on itself on a success"
   "name": "Poisoned Dart"
 "source":
 - "MM"
-- "PotA"
-- "WDH"
-- "WDMM"
-- "KftGV"
-- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Humanoid/token/deep-gnome-svirfneblin.webp"
 ```
 ^statblock

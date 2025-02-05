@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: 'grassland, forest, hill, desert'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
@@ -10,12 +14,11 @@ tags:
   - monster/environment/hill
   - monster/size/large
   - monster/type/beast
-statblock: inline
 aliases:
   - Giant Hyena
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Hyena.md|Giant Hyena]]
-*Source: Monster Manual p. 326. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Giant Hyena.md|Giant Hyena]]
+*Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Giant Hyena"
@@ -49,9 +52,6 @@ aliases:
   "name": "Bite"
 "source":
 - "MM"
-- "TftYP"
-- "GoS"
-- "BGDIA"
 "image": "5. Mechanics/Bestiary/Beast/token/giant-hyena.webp"
 ```
 ^statblock

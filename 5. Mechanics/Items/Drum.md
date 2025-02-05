@@ -4,6 +4,7 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/phb
   - item/gear/instrument
+  - item/rarity/none
 aliases:
   - Drum
 cost: 600
@@ -14,4 +15,4 @@ cost: 600
 - **Cost**: 6 gp
 - **Weight**: 3.0 lbs.
 
-*Source: Player's Handbook p. 154. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

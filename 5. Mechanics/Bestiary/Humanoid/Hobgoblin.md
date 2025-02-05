@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: 'underdark, grassland, forest, hill, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
@@ -11,12 +15,11 @@ tags:
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/humanoid/goblinoid
-statblock: inline
 aliases:
   - Hobgoblin
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Hobgoblin.md|Hobgoblin]]
-*Source: Monster Manual p. 186, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Humanoid\Hobgoblin.md|Hobgoblin]]
+*Source: Monster Manual p. 186. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
 
@@ -60,7 +63,7 @@ Hobgoblins fortify their own holdings, bolstering existing defenses with innovat
 
 Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As terrifying as this figure is, hobgoblins don't fear death, believing that when they die in battle, their spirits join the honored ranks of Maglubiyet's army on the plane of Acheron.
 
-> [!quote]- A quote from Translation of a Hobgoblin War Chant  
+> [!quote] A quote from Translation of a Hobgoblin War Chant  
 > 
 > They break before our shields,
 > 
@@ -99,7 +102,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 "traits":
 - "desc": "Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature\
     \ it hits with a weapon attack if that creature is within 5 feet of an ally of\
-    \ the hobgoblin that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ the hobgoblin that isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Martial Advantage"
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
@@ -110,20 +113,6 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
   "name": "Longbow"
 "source":
 - "MM"
-- "HotDQ"
-- "LMoP"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "ERLW"
-- "RMBRE"
-- "EGW"
-- "WBtW"
-- "DSotDQ"
-- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Humanoid/token/hobgoblin.webp"
 ```
 ^statblock

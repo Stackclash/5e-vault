@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: underwater
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
   - monster/environment/underwater
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Reef Shark
 ---
-# [[5. Mechanics/Bestiary/Beast/Reef Shark.md|Reef Shark]]
-*Source: Monster Manual p. 336. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Reef Shark.md|Reef Shark]]
+*Source: Monster Manual p. 336. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10 feet long.
 
@@ -41,7 +44,7 @@ Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters 
 "traits":
 - "desc": "The shark has advantage on an attack roll against a creature if at least\
     \ one of the shark's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 - "desc": "The shark can breathe only underwater."
   "name": "Water Breathing"
@@ -51,11 +54,6 @@ Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters 
   "name": "Bite"
 "source":
 - "MM"
-- "ToA"
-- "GoS"
-- "EGW"
-- "CRCotN"
-- "JttRC"
 "image": "5. Mechanics/Bestiary/Beast/token/reef-shark.webp"
 ```
 ^statblock

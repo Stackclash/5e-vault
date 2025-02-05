@@ -10,6 +10,6 @@ aliases:
 # Eternal Mountain Defense
 *Source: Player's Handbook p. 81*  
 
-***Prerequisites*** 17th-level
+***Prerequisites*** 17th
 
 You can spend 5 ki points to cast [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]], targeting yourself.

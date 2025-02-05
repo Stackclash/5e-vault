@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'mountain, arctic'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -8,12 +12,11 @@ tags:
   - monster/environment/mountain
   - monster/size/large
   - monster/type/beast
-statblock: inline
 aliases:
   - Saber-Toothed Tiger
 ---
-# [[5. Mechanics/Bestiary/Beast/Saber Toothed Tiger.md|Saber-Toothed Tiger]]
-*Source: Monster Manual p. 336, Curse of Strahd. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Saber Toothed Tiger.md|Saber-Toothed Tiger]]
+*Source: Monster Manual p. 336, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Saber Toothed Tiger"
@@ -43,8 +46,8 @@ aliases:
   "name": "Keen Smell"
 - "desc": "If the tiger moves at least 20 feet straight toward a creature and then\
     \ hits it with a claw attack on the same turn, that target must succeed on a DC\
-    \ 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the tiger can\
+    \ 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], the tiger can\
     \ make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":
@@ -56,13 +59,7 @@ aliases:
   "name": "Claw"
 "source":
 - "MM"
-- "EGW"
-- "MOT"
-- "IDRotF"
 - "CoS"
-- "JttRC"
-- "SatO"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Beast/token/saber-toothed-tiger.webp"
 ```
 ^statblock

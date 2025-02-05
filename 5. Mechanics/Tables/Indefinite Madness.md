@@ -7,7 +7,7 @@ aliases:
   - Indefinite Madness
 ---
 # Indefinite Madness
-*Source: Dungeon Master's Guide p. 259. Available in the SRD.* 
+*Source: Dungeon Master's Guide p. 259. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 
 **Indefinite Madness**
 

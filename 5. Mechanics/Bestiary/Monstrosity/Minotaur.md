@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/underdark
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Minotaur
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Minotaur.md|Minotaur]]
-*Source: Monster Manual p. 223, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Monstrosity\Minotaur.md|Minotaur]]
+*Source: Monster Manual p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A minotaur's roar is a savage battle cry that most civilized creatures fear. Born into the mortal realm by demonic rites, minotaurs are savage conquerors and carnivores that live for the hunt. Their brown or black fur is stained with the blood of fallen foes, and they carry the stench of death.
 
@@ -60,7 +63,7 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
 - "desc": "If the minotaur moves at least 10 feet straight toward a target and then\
     \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
     \ piercing damage. If the target is a creature, it must succeed on a DC 14 Strength\
-    \ saving throw or be pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ saving throw or be pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Charge"
 - "desc": "The minotaur can perfectly recall any path it has traveled."
   "name": "Labyrinthine Recall"
@@ -77,17 +80,6 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
   "name": "Gore"
 "source":
 - "MM"
-- "PotA"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "BGDIA"
-- "ERLW"
-- "EGW"
-- "MOT"
-- "CRCotN"
-- "PSZ"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/minotaur.webp"
 ```
 ^statblock

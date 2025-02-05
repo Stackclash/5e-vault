@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -15,12 +19,11 @@ tags:
   - monster/environment/underdark
   - monster/size/large
   - monster/type/giant
-statblock: inline
 aliases:
   - Ogre
 ---
-# [[5. Mechanics/Bestiary/Giant/Ogre.md|Ogre]]
-*Source: Monster Manual p. 237, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Giant\Ogre.md|Ogre]]
+*Source: Monster Manual p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 
@@ -52,7 +55,7 @@ Ogres sometimes band together in small, nomadic groups, but they lack a true sen
 
 Whenever possible, ogres gang up with other monsters to bully or prey on creatures weaker than themselves. They associate freely with goblinoids, orcs, and trolls, and practically worship giants. In the giants' complex social structure (known as the ordning), ogres rank beneath the lowest giants in status. As a result, an ogre will do nearly anything a giant asks.
 
-> [!quote]- A quote from Riddlefiddle the Satyr, on ogres  
+> [!quote] A quote from Riddlefiddle the Satyr, on ogres  
 > 
 > Worst. Dancers. Ever.
 
@@ -86,30 +89,6 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
   "name": "Javelin"
 "source":
 - "MM"
-- "HotDQ"
-- "LMoP"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "GoS"
-- "DIP"
-- "SLW"
-- "BGDIA"
-- "ERLW"
-- "RMBRE"
-- "EGW"
-- "IDRotF"
-- "CM"
-- "CRCotN"
-- "SjA"
-- "DSotDQ"
-- "KftGV"
-- "PSZ"
-- "HftT"
-- "PaBTSO"
-- "SatO"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Giant/token/ogre.webp"
 ```
 ^statblock

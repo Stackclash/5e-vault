@@ -3,12 +3,21 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
-  - spell/class/sorcerer/divine-soul
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/6
+  - spell/level/6th-level
   - spell/school/necromancy
+  - spell/subclass/divine-soul
+level: 6th-level
+range: false
+school: Necromancy
+time: 1 minute
+duration: Instantaneous
+components: >-
+  V, S, one clay pot filled with grave dirt, one clay pot filled with brackish
+  water, and one 150 gp black onyx stone for each corpse
 aliases:
   - Create Undead
 ---
@@ -28,6 +37,6 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **At Higher Levels.** When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]]. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] or two [[5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] or [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]]. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]], three [[5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] or [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]], or two [[5. Mechanics/Bestiary/Undead/Mummy.md\|mummies]].
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 229. Available in the SRD.*
+*Source: Player's Handbook p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

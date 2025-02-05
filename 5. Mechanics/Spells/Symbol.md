@@ -5,10 +5,19 @@ tags:
   - compendium/src/5e/phb
   - spell/class/bard
   - spell/class/cleric
-  - spell/class/sorcerer/divine-soul
+  - spell/class/druid
   - spell/class/wizard
-  - spell/level/7
+  - spell/level/7th-level
   - spell/school/abjuration
+  - spell/subclass/divine-soul
+level: 7th-level
+range: false
+school: Abjuration
+time: 1 minute
+duration: Until dispelled or triggered
+components: >-
+  V, S, mercury, phosphorus, and powdered diamond and opal with a total value of
+  at least 1,000 gp, which the spell consumes
 aliases:
   - Symbol
 ---
@@ -32,7 +41,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 ## Death
 
-Each target must make a Constitution saving throw, taking `dice: 10d10|avg|noform` (`10d10`) necrotic damage on a failed save, or half as much damage on a successful save.
+Each target must make a Constitution saving throw, taking `dice:10d10|noform|avg` (`10d10`) necrotic damage on a failed save, or half as much damage on a successful save.
 
 ## Discord
 
@@ -40,7 +49,7 @@ Each target must make a Constitution saving throw. On a failed save, a target bi
 
 ## Fear
 
-Each target must make a Wisdom saving throw and becomes [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] for 1 minute on a failed save. While [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
+Each target must make a Wisdom saving throw and becomes [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] for 1 minute on a failed save. While [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
 
 ## Hopelessness
 
@@ -52,18 +61,18 @@ Each target must make an Intelligence saving throw. On a failed save, the target
 
 ## Pain
 
-Each target must make a Constitution saving throw and becomes [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] with excruciating pain for 1 minute on a failed save.
+Each target must make a Constitution saving throw and becomes [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] with excruciating pain for 1 minute on a failed save.
 
 ## Sleep
 
-Each target must make a Wisdom saving throw and falls [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
+Each target must make a Wisdom saving throw and falls [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
 
 ## Stunning
 
-Each target must make a Wisdom saving throw and becomes [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] for 1 minute on a failed save.
+Each target must make a Wisdom saving throw and becomes [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] for 1 minute on a failed save.
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 280. Available in the SRD.*
+*Source: Player's Handbook p. 280. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

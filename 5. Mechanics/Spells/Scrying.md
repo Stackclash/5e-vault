@@ -5,17 +5,28 @@ tags:
   - compendium/src/5e/phb
   - spell/class/bard
   - spell/class/cleric
-  - spell/class/cleric/knowledge-domain
-  - spell/class/cleric/light-domain
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/paladin/oath-of-the-watchers
-  - spell/class/paladin/oath-of-vengeance
-  - spell/class/sorcerer/divine-soul
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/5
+  - spell/level/5th-level
   - spell/school/divination
+  - spell/subclass/circle-of-owls
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/circle-of-the-spirits
+  - spell/subclass/divine-soul
+  - spell/subclass/knowledge-domain
+  - spell/subclass/light-domain
+  - spell/subclass/oath-of-the-spelldrinker
+  - spell/subclass/oath-of-the-watchers
+  - spell/subclass/oath-of-vengeance
+level: 5th-level
+range: false
+school: Divination
+time: 10 minute
+duration: 'Concentration, up to 10 minute'
+components: >-
+  V, S, a focus worth at least 1,000 gp, such as a crystal ball, a silver
+  mirror, or a font filled with holy water
 aliases:
   - Scrying
 ---
@@ -49,10 +60,10 @@ You can see and hear a particular creature you choose that is on the same plane 
 
 On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.
 
-On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] objects sees the sensor as a luminous orb about the size of your fist.
+On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] objects sees the sensor as a luminous orb about the size of your fist.
 
 Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Knowledge Domain.md\|Cleric (Knowledge Domain)]], [[5. Mechanics/Classes/Cleric Light Domain.md\|Cleric (Light Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]], [[5. Mechanics/Classes/Paladin Oath Of The Watchers.md\|Paladin (Oath of the Watchers)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Druid Circle Of Owls (KPDM)\|Druid (Circle of Owls)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Druid Circle Of The Spirits (KPDM)\|Druid (Circle of the Spirits)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Cleric Knowledge Domain\|Cleric (Knowledge Domain)]]; [[List Spells Classes Cleric Light Domain\|Cleric (Light Domain)]]; [[List Spells Classes Paladin Oath Of The Spelldrinker (GRIFFONSSADDLEBAG2)\|Paladin (Oath of the Spelldrinker)]]; [[List Spells Classes Paladin Oath Of The Watchers (TCE)\|Paladin (Oath of the Watchers)]]; [[List Spells Classes Paladin Oath Of Vengeance\|Paladin (Oath of Vengeance)]]
 
-*Source: Player's Handbook p. 273. Available in the SRD.*
+*Source: Player's Handbook p. 273. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

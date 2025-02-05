@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: 'forest, hill'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
@@ -8,12 +12,11 @@ tags:
   - monster/environment/hill
   - monster/size/large
   - monster/type/beast
-statblock: inline
 aliases:
   - Dire Wolf
 ---
-# [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|Dire Wolf]]
-*Source: Monster Manual p. 321, Curse of Strahd. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Dire Wolf.md|Dire Wolf]]
+*Source: Monster Manual p. 321, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Dire Wolf"
@@ -44,23 +47,16 @@ aliases:
   "name": "Keen Hearing and Smell"
 - "desc": "The wolf has advantage on an attack roll against a creature if at least\
     \ one of the wolf's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
     \ + 3) piercing damage. If the target is a creature, it must succeed on a DC 13\
-    \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Bite"
 "source":
 - "MM"
 - "CoS"
-- "SKT"
-- "TftYP"
-- "GoS"
-- "IDRotF"
-- "JttRC"
-- "PaBTSO"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Beast/token/dire-wolf.webp"
 ```
 ^statblock

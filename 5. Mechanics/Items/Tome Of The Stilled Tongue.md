@@ -6,12 +6,11 @@ tags:
   - item/attunement/required
   - item/rarity/legendary
   - item/tier/major
-  - item/wondrous
 aliases:
   - Tome of the Stilled Tongue
 ---
 # Tome of the Stilled Tongue
-*Wondrous Item, major, legendary (requires attunement by a wizard)*  
+*Wondrous item, major, legendary (requires attunement by a wizard)*  
 
 - **Weight**: 5.0 lbs.
 

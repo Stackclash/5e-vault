@@ -7,7 +7,7 @@ aliases:
   - Coinage; Standard Exchange Rates
 ---
 # Coinage; Standard Exchange Rates
-*Source: Player's Handbook p. 143. Available in the SRD and the Basic Rules.* 
+*Source: Player's Handbook p. 143. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
 
 **Standard Exchange Rates**
 

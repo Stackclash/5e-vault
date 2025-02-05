@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 15
+environments: desert
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/15
   - monster/environment/desert
   - monster/size/medium
   - monster/type/undead
-statblock: inline
 aliases:
   - Mummy Lord
 ---
-# [[5. Mechanics/Bestiary/Undead/Mummy Lord.md|Mummy Lord]]
-*Source: Monster Manual p. 229, Tasha's Cauldron of Everything. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Undead\Mummy Lord.md|Mummy Lord]]
+*Source: Monster Manual p. 229, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
 
@@ -46,7 +49,7 @@ Though they seldom bother to do so, mummies can speak. As a result, some serve a
 
 A mummy doesn't require air, food, drink, or sleep.
 
-> [!quote]- A quote from X the Mystic's 7th rule of dungeon survival  
+> [!quote] A quote from X the Mystic's 7th rule of dungeon survival  
 > 
 > Before opening a sarcophagus, light a torch.
 
@@ -96,9 +99,9 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 "damage_vulnerabilities": "fire"
 "damage_immunities": "necrotic; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "15"
@@ -139,9 +142,9 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
   "name": "Rotting Fist"
 - "desc": "The mummy lord targets one creature it can see within 60 feet of it. If\
     \ the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving\
-    \ throw against this magic or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ throw against this magic or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ until the end of the mummy's next turn. If the target fails the saving throw\
-    \ by 5 or more, it is also [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ by 5 or more, it is also [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
     \ for the same duration. A target that succeeds on the saving throw is immune\
     \ to the Dreadful Glare of all mummies and mummy lords for the next 24 hours."
   "name": "Dreadful Glare"
@@ -151,12 +154,12 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
   "name": "Attack"
 - "desc": "Blinding dust and sand swirls magically around the mummy lord. Each creature\
     \ within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] until the end\
     \ of the creature's next turn."
   "name": "Blinding Dust"
 - "desc": "The mummy lord utters a blasphemous word. Each non-undead creature within\
     \ 10 feet of the mummy lord that can hear the magical utterance must succeed on\
-    \ a DC 16 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ a DC 16 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
     \ until the end of the mummy lord's next turn."
   "name": "Blasphemous Word (Costs 2 Actions)"
 - "desc": "The mummy lord magically unleashes negative energy. Creatures within 60\
@@ -165,9 +168,9 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
   "name": "Channel Negative Energy (Costs 2 Actions)"
 - "desc": "The mummy lord magically transforms into a whirlwind of sand, moves up\
     \ to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy\
-    \ lord is immune to all damage, and it can't be [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], or [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]].\
+    \ lord is immune to all damage, and it can't be [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], or [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]].\
     \ Equipment worn or carried by the mummy lord remain in its possession."
   "name": "Whirlwind of Sand (Costs 2 Actions)"
 "lair_actions":
@@ -192,7 +195,7 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 - "desc": "- Food instantly molders and water instantly evaporates when brought into\
     \ the lair. Other non magical drinks are spoiled - wine turning to vinegar, for\
     \ instance.  \n- [[5. Mechanics/Spells/Divination.md|Divination]] spells cast within\
-    \ the lair by creatures other than the mummy lord have a 25% chance chance to\
+    \ the lair by creatures other than the mummy lord have a 25 percent chance to\
     \ provide misleading results, as determined by the DM. If a [[5. Mechanics/Spells/Divination.md|divination]]\
     \ spell already has a chance to fail or become unreliable when cast multiple times,\
     \ that chance increases by 25 percent.  \n- A creature that takes treasure from\
@@ -204,12 +207,7 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
   "name": ""
 "source":
 - "MM"
-- "RoT"
-- "SKT"
 - "TCE"
-- "CM"
-- "AATM"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Undead/token/mummy-lord.webp"
 ```
 ^statblock

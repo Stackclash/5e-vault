@@ -9,7 +9,37 @@ aliases:
 ---
 # The Fiend
 *[[Warlock.md\|Warlock]]: Otherworldly Patron*  
-*Source: Player's Handbook p. 109. Available in the SRD.*  
+*Source: Player's Handbook p. 109. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+> [!tldr] Class and Feature Progression
+> 
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='3'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#The%20Fiend%20(Level%201)'>The Fiend</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Dark%20One's%20Own%20Luck%20(Level%206)'>Dark One's Own Luck</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Fiendish%20Resilience%20(Level%2010)'>Fiendish Resilience</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Hurl%20Through%20Hell%20(Level%2014)'>Hurl Through Hell</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> </tbody></table>
+^class-progession
 
 
 ## Class Features
@@ -39,7 +69,7 @@ Starting at 1st level, when you reduce a hostile creature to 0 hit points, you g
 
 ### Dark One's Own Luck (Level 6)
 
-Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a `dice: d10|avg|noform` (`d10`) to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
+Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a `dice:d10|noform|avg` (`d10`) to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
@@ -51,6 +81,6 @@ Starting at 10th level, you can choose one damage type when you finish a short o
 
 Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.
 
-At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes `dice: 10d10|avg|noform` (`10d10`) psychic damage as it reels from its horrific experience.
+At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes `dice:10d10|noform|avg` (`10d10`) psychic damage as it reels from its horrific experience.
 
 Once you use this feature, you can't use it again until you finish a long rest.

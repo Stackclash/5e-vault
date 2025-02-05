@@ -5,12 +5,11 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/legendary
   - item/tier/major
-  - item/wondrous
 aliases:
   - Cubic Gate
 ---
 # Cubic Gate
-*Wondrous Item, major, legendary*  
+*Wondrous item, major, legendary*  
 ![[5. Mechanics/Items/img/cubic-gate.webp#right]]  
 
 
@@ -18,6 +17,6 @@ This cube is 3 inches across and radiates palpable magical energy. The six sides
 
 You can use an action to press one side of the cube to cast the [[5. Mechanics/Spells/Gate.md\|gate]] spell with it, opening a portal to the plane keyed to that side. Alternatively, if you use an action to press one side twice, you can cast the [[5. Mechanics/Spells/Plane Shift.md\|plane shift]] spell (save DC 17) with the cube and transport the targets to the plane keyed to that side.
 
-The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains `dice: 1d3|avg|noform` (`1d3`) expended charges daily at dawn.
+The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains `dice:1d3|noform|avg` (`1d3`) expended charges daily at dawn.
 
-*Source: Dungeon Master's Guide p. 160. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 160. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

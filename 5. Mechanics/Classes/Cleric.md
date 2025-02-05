@@ -8,101 +8,187 @@ aliases:
   - Cleric
 ---
 # Cleric
-*Source: Player's Handbook p. 56. Available in the SRD and the Basic Rules.*  
+*Source: Player's Handbook p. 56. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
-> [!tldr]- Feature progression
+> [!tldr] Class and Feature Progression
 > 
-> | Level | PB | Features |
-> |-------|----|----------|
-> | 1st | +2 | [Spellcasting](#Spellcasting%20(Level%201)), [Divine Domain](#Divine%20Domain%20(Level%201)) |
-> | 2nd | +2 | [Channel Divinity](#Channel%20Divinity%20(Level%202)), [Channel Divinity: Harness Divine Power](#Channel%20Divinity%20Harness%20Divine%20Power%20(Level%202)), [Divine Domain feature](#Divine%20Domain%20feature%20(Level%202)) |
-> | 3rd | +2 | ⏤ |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Cantrip Versatility](#Cantrip%20Versatility%20(Level%204)) |
-> | 5th | +3 | [Destroy Undead (CR 1/2)](#Destroy%20Undead%20(CR%201/2)%20(Level%205)) |
-> | 6th | +3 | [Channel Divinity](#Channel%20Divinity%20(Level%206)), [Divine Domain feature](#Divine%20Domain%20feature%20(Level%206)) |
-> | 7th | +3 | ⏤ |
-> | 8th | +3 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%208)), [Destroy Undead (CR 1)](#Destroy%20Undead%20(CR%201)%20(Level%208)), [Divine Domain feature](#Divine%20Domain%20feature%20(Level%208)) |
-> | 9th | +4 | ⏤ |
-> | 10th | +4 | [Divine Intervention](#Divine%20Intervention%20(Level%2010)) |
-> | 11th | +4 | [Destroy Undead (CR 2)](#Destroy%20Undead%20(CR%202)%20(Level%2011)) |
-> | 12th | +4 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2012)) |
-> | 13th | +5 | ⏤ |
-> | 14th | +5 | [Destroy Undead (CR 3)](#Destroy%20Undead%20(CR%203)%20(Level%2014)) |
-> | 15th | +5 | ⏤ |
-> | 16th | +5 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2016)) |
-> | 17th | +6 | [Destroy Undead (CR 4)](#Destroy%20Undead%20(CR%204)%20(Level%2017)), [Divine Domain feature](#Divine%20Domain%20feature%20(Level%2017)) |
-> | 18th | +6 | [Channel Divinity](#Channel%20Divinity%20(Level%2018)) |
-> | 19th | +6 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2019)) |
-> | 20th | +6 | [Divine Intervention Improvement](#Divine%20Intervention%20Improvement%20(Level%2020)) |
-> 
-> - PB: Proficiency Bonus
-^feature-progression
-
-> [!tldr]- Class progression
-> 
-> | Level | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-> |-------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-> | 1st | 3 | 2 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 2nd | 3 | 3 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 3rd | 3 | 4 | 2 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 4th | 4 | 4 | 3 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 5th | 4 | 4 | 3 | 2 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 6th | 4 | 4 | 3 | 3 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 7th | 4 | 4 | 3 | 3 | 1 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 8th | 4 | 4 | 3 | 3 | 2 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 9th | 4 | 4 | 3 | 3 | 3 | 1 | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 10th | 5 | 4 | 3 | 3 | 3 | 2 | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 11th | 5 | 4 | 3 | 3 | 3 | 2 | 1 | ⏤ | ⏤ | ⏤ |
-> | 12th | 5 | 4 | 3 | 3 | 3 | 2 | 1 | ⏤ | ⏤ | ⏤ |
-> | 13th | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | ⏤ | ⏤ |
-> | 14th | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | ⏤ | ⏤ |
-> | 15th | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | ⏤ |
-> | 16th | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | ⏤ |
-> | 17th | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-> | 18th | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-> | 19th | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-> | 20th | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-> 
-> - 1st-9th: Spell slots per level
-^class-progression
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='4'></th><th colspan='9'>Spell Slots per Spell Level</th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Cantrips Known</th><th class="spellSlot">1st</th><th class="spellSlot">2nd</th><th class="spellSlot">3rd</th><th class="spellSlot">4th</th><th class="spellSlot">5th</th><th class="spellSlot">6th</th><th class="spellSlot">7th</th><th class="spellSlot">8th</th><th class="spellSlot">9th</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Spellcasting%20(Level%201)'>Spellcasting</a>, <a href='#Divine%20Domain%20(Level%201)'>Divine Domain</a></td><td class="value">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel%20Divinity%20(Level%202)'>Channel Divinity</a>, <a href='#Channel%20Divinity%20Harness%20Divine%20Power%20(Level%202)'>Channel Divinity: Harness Divine Power</a>, <a href='#Divine%20Domain%20feature%20(Level%202)'>Divine Domain feature</a></td><td class="value">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td><td class="value">3</td><td class="spellSlot">4</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a>, <a href='#Cantrip%20Versatility%20(Level%204)'>Cantrip Versatility</a></td><td class="value">4</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Destroy%20Undead%20(CR%201/2)%20(Level%205)'>Destroy Undead (CR 1/2)</a></td><td class="value">4</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Channel%20Divinity%20(Level%206)'>Channel Divinity</a>, <a href='#Divine%20Domain%20feature%20(Level%206)'>Divine Domain feature</a></td><td class="value">4</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td><td class="value">4</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a>, <a href='#Destroy%20Undead%20(CR%201)%20(Level%208)'>Destroy Undead (CR 1)</a>, <a href='#Divine%20Domain%20feature%20(Level%208)'>Divine Domain feature</a></td><td class="value">4</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td><td class="value">4</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Divine%20Intervention%20(Level%2010)'>Divine Intervention</a></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Destroy%20Undead%20(CR%202)%20(Level%2011)'>Destroy Undead (CR 2)</a></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Destroy%20Undead%20(CR%203)%20(Level%2014)'>Destroy Undead (CR 3)</a></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Destroy%20Undead%20(CR%204)%20(Level%2017)'>Destroy Undead (CR 4)</a>, <a href='#Divine%20Domain%20feature%20(Level%2017)'>Divine Domain feature</a></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Channel%20Divinity%20(Level%2018)'>Channel Divinity</a></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2019)'>Ability Score Improvement</a></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Divine%20Intervention%20Improvement%20(Level%2020)'>Divine Intervention Improvement</a></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
+> </tbody></table>
+^class-progession
 
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Cleric level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 4 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
 
 ## Starting Cleric
 
-You are proficient with the following items, in addition to any proficiencies provided by your race or background.
-
-- **Saving Throws**: Wisdom, Charisma
-- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md\|shields]]
-- **Weapons**: simple
+- **Saving Throws**: Charisma, Wisdom
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Weapons**: simple weapons
 - **Tools**: none
-- **Skills**: Choose 2 from *History*, *Insight*, *Medicine*, *Persuasion*, *Religion*
+- **Skills**: choose 2 from [[/5. Mechanics/Rules/Skills.md#History\|History]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]], [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]], and [[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]
 
-You begin play with the following equipment, in addition to any equipment provided by your background.
+You start with the following items, plus anything provided by your background.
 
-- (a) a [[5. Mechanics/Items/Mace.md\|mace]] or (b) a [[5. Mechanics/Items/Warhammer.md\|warhammer]] (if proficient)  
-- (a) [[5. Mechanics/Items/Scale Mail.md\|scale mail]], (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]], or (c) [[5. Mechanics/Items/Chain Mail.md\|chain mail]] (if proficient)  
-- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon  
-- (a) a [[5. Mechanics/Items/Priests Pack.md\|priest's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
-- A [[5. Mechanics/Items/Shield.md\|shield]] and a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]]  
+- (a) a [[5. Mechanics/Items/Mace.md\|mace]] or (b) a [[5. Mechanics/Items/Warhammer.md\|warhammer]] (if proficient)
+- (a) [[5. Mechanics/Items/Scale Mail.md\|scale mail]], (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]], or (c) [[5. Mechanics/Items/Chain Mail.md\|chain mail]] (if proficient)
+- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon
+- (a) a [[5. Mechanics/Items/Priests Pack.md\|priest's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
+- A [[5. Mechanics/Items/Shield.md\|shield]] and a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]]
 
-Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
+Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 ## Multiclassing Cleric
 
-To multiclass as a Cleric, you must meet the following prerequisites:
+**Ability Score Minimum:**Wisdom 13
 
-- Wisdom 13
+When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-You gain the following proficiencies:
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]]
 
-- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md\|shields]]
-- **Weapons**: none
-- **Tools**: none
+## Cleric
+
+Arms and eyes upraised toward the sun and a prayer on his lips, an elf begins to glow with an inner light that spills out to heal his battle-worn companions.
+
+Chanting a song of glory, a dwarf swings his axe in wide swaths to cut through the ranks of orcs arrayed against him, shouting praise to the gods with every foe's fall.
+
+Calling down a curse upon the forces of undeath, a human lifts her holy symbol as light pours from it to drive back the zombies crowding in on her companions.
+
+Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
+
+### Healers and Warriors
+
+Divine magic, as the name suggests, is the power of the gods, flowing from them into the world. Clerics are conduits for that power, manifesting it as miraculous effects. The gods don't grant this power to everyone who seeks it, but only to those chosen to fulfill a high calling.
+
+Harnessing divine magic doesn't rely on study or training. A cleric might learn formulaic prayers and ancient rites, but the ability to cast cleric spells relies on devotion and an intuitive sense of a deity's wishes.
+
+Clerics combine the helpful magic of healing and inspiring their allies with spells that harm and hinder foes. They can provoke awe and dread, lay curses of plague or poison, and even call down flames from heaven to consume their enemies. For those evildoers who will benefit most from a mace to the head, clerics depend on their combat training to let them wade into melee with the power of the gods on their side.
+
+### Divine Agents
+
+Not every acolyte or officiant at a temple or shrine is a cleric. Some priests are called to a simple life of temple service, carrying out their gods' will through prayer and sacrifice, not by magic and strength of arms. In some cities, priesthood amounts to a political office, viewed as a stepping stone to higher positions of authority and involving no communion with a god at all. True clerics are rare in most hierarchies.
+
+When a cleric takes up an adventuring life, it is usually because his or her god demands it. Pursuing the goals of the gods often involves braving dangers beyond the walls of civilization, smiting evil or seeking holy relics in ancient tombs. Many clerics are also expected to protect their deities' worshipers, which can mean fighting rampaging orcs, negotiating peace between warring nations, or sealing a portal that would allow a demon prince to enter the world.
+
+Most adventuring clerics maintain some connection to established temples and orders of their faiths. A temple might ask for a cleric's aid, or a high priest might be in a position to demand it.
+
+### Creating a Cleric
+
+As you create a cleric, the most important question to consider is which deity to serve and what principles you want your character to embody. Appendix B includes lists of many of the gods of the multiverse. Check with your DM to learn which deities are in your campaign.
+
+Once you've chosen a deity, consider your cleric's relationship to that god. Did you enter this service willingly? Or did the god choose you, impelling you into service with no regard for your wishes? How do the temple priests of your faith regard you: as a champion or a troublemaker? What are your ultimate goals? Does your deity have a special task in mind for you? Or are you striving to prove yourself worthy of a great quest?
+
+#### Quick Build
+
+You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the [[5. Mechanics/Backgrounds/Acolyte.md\|acolyte]] background.
+
+> [!quote] A quote from Riggby the patriarch  
+> 
+> To become a cleric is to become a messenger of the gods. The power the divine offers is great, but it always comes with tremendous responsibility.
+
+Almost all the folk in the world who revere a deity live their lives without ever being directly touched by a divine being. As such, they can never know what it feels like to be a cleric—someone who is not only a devout worshiper, but who has also been invested with a measure of a deity's power.
+
+The question has long been debated: Does a mortal become a cleric as a consequence of deep devotion to one's deity, thereby attracting the god's favor? Or is it the deity who sees the potential in a person and calls that individual into service? Ultimately, perhaps, the answer doesn't matter. However clerics come into being, the world needs clerics as much as clerics and deities need each other.
+
+If you're playing a cleric character, the following sections offer ways to add some detail to that character's history and personality.
+
+## Temple
+_Source: Xanathar's Guide to Everything_
+
+Most clerics start their lives of service as priests in an order, then later realize that they have been blessed by their god with the qualities needed to become a cleric. To prepare for this new duty, candidates typically receive instruction from a cleric of a temple or another place of study devoted to their deity.
+
+Some temples are cut off from the world so that their occupants can focus on devotions, while other temples open their doors to minister to and heal the masses. What is noteworthy about the temple you studied at?
+
+**Temple**
+
+`dice: [[Cleric.md#^temple]]`
+
+| dice: d6 | Temple |
+|----------|--------|
+| 1 | Your temple is said to be the oldest surviving structure built to honor your god. |
+| 2 | Acolytes of several like-minded deities all received instruction together in your temple. |
+| 3 | You come from a temple famed for the brewery it operates. Some say you smell like one of its ales. |
+| 4 | Your temple is a fortress and a proving ground that trains warrior-priests. |
+| 5 | Your temple is a peaceful, humble place, filled with vegetable gardens and simple priests. |
+| 6 | You served in a temple in the Outer Planes. |
+^temple
+
+### Keepsake
+_Source: Xanathar's Guide to Everything_
+
+Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.
+
+**Keepsake**
+
+`dice: [[Cleric.md#^keepsake]]`
+
+| dice: d6 | Keepsake |
+|----------|----------|
+| 1 | The finger bone of a saint |
+| 2 | A metal-bound book that tells how to hunt and destroy infernal creatures |
+| 3 | A pig's whistle that reminds you of your humble and beloved mentor |
+| 4 | A braid of hair woven from the tail of a unicorn |
+| 5 | A scroll that describes how best to rid the world of necromancers |
+| 6 | A runestone said to be blessed by your god |
+^keepsake
+
+### Secret
+_Source: Xanathar's Guide to Everything_
+
+No mortal soul is entirely free of second thoughts or doubt. Even a cleric must grapple with dark desires or the forbidden attraction of turning against the teachings of one's deity.
+
+If you haven't considered this aspect of your character yet, see the table entries for some possibilities, or use them for inspiration. Your deep, dark secret might involve something you did (or are doing), or it could be rooted in the way you feel about the world and your role in it.
+
+**Secret**
+
+`dice: [[Cleric.md#^secret]]`
+
+| dice: d6 | Secret |
+|----------|--------|
+| 1 | An imp offers you counsel. You try to ignore the creature, but sometimes its advice is helpful. |
+| 2 | You believe that, in the final analysis, the gods are nothing more than ultrapowerful mortal creatures. |
+| 3 | You acknowledge the power of the gods, but you think that most events are dictated by pure chance. |
+| 4 | Even though you can work divine magic, you have never truly felt the presence of a divine essence within yourself. |
+| 5 | You are plagued by nightmares that you believe are sent by your god as punishment for some unknown transgression. |
+| 6 | In times of despair, you feel that you are but a plaything of the gods, and you resent their remoteness. |
+^secret
+
+> [!note] Serving a Pantheon, Philosophy, or Force
+> 
+> The typical cleric is an ordained servant of a particular god and chooses a Divine Domain associated with that deity. The cleric's magic flows from the god or the god's sacred realm, and often the cleric bears a holy symbol that represents that divinity.
+> 
+> Some clerics, especially in a world like Eberron, serve a whole pantheon, rather than a single deity. In certain campaigns, a cleric might instead serve a cosmic force, such as life or death, or a philosophy or concept, such as love, peace, or one of the nine alignments. Chapter 1 of the Dungeon Master's Guide explores options like these, in the section "Gods of Your World."
+> 
+> Talk with your DM about the divine options available in your campaign, whether they're gods, pantheons, philosophies, or cosmic forces. Whatever being or thing your cleric ends up serving, choose a Divine Domain that is appropriate for it, and if it doesn't have a holy symbol, work with your DM to design one.
+> 
+> The cleric's class features often refer to your deity. If you are devoted to a pantheon, cosmic force, or philosophy, your cleric features still work for you as written. Think of the references to a god as references to the divine thing you serve that gives you your magic.
+^serving-a-pantheon-philosophy-or-force
 
 ## Class Features
 
@@ -128,9 +214,9 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 
 Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
-**Spell save DC**: 8 + your proficiency bonus + your Wisdom modifier
+<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Wisdom modifier</span>
 
-**Spell attack modifier**: your proficiency bonus + your Wisdom modifier
+<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Wisdom modifier</span>
 
 #### Ritual Casting
 
@@ -169,7 +255,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 ### Channel Divinity: Harness Divine Power (Level 2)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*2nd-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
+*2nd-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
 
 You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
 
@@ -186,7 +272,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Cantrip Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*4th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
+*4th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the cleric spell list.
 

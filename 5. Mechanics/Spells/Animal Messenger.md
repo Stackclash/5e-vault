@@ -6,9 +6,17 @@ tags:
   - spell/class/bard
   - spell/class/druid
   - spell/class/ranger
-  - spell/level/2
+  - spell/level/2nd-level
   - spell/ritual
   - spell/school/enchantment
+  - spell/subclass/hedge-mage
+  - spell/subclass/oath-of-the-open-road
+level: 2nd-level
+range: true
+school: Enchantment
+time: 1 action
+duration: 24 hour
+components: 'V, S, a morsel of food'
 aliases:
   - Animal Messenger
 ---
@@ -26,6 +34,6 @@ When the messenger arrives, it delivers your message to the creature that you de
 
 **At Higher Levels.** If you cast this spell using a spell slot of 3rd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Ranger.md\|Ranger]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]; [[List Spells Classes Paladin Oath Of The Open Road (GRIFFONSSADDLEBAG3)\|Paladin (Oath of the Open Road)]]
 
-*Source: Player's Handbook p. 212. Available in the SRD.*
+*Source: Player's Handbook p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

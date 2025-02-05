@@ -5,8 +5,17 @@ tags:
   - compendium/src/5e/phb
   - spell/class/bard
   - spell/class/wizard
-  - spell/level/6
+  - spell/level/6th-level
   - spell/school/abjuration
+level: 6th-level
+range: false
+school: Abjuration
+time: 10 minute
+duration: 24 hour
+components: >-
+  V, S, burning incense, a small measure of brimstone and oil, a knotted string,
+  a small amount of umber hulk blood, and a small silver rod worth at least 10
+  gp
 aliases:
   - Guards and Wards
 ---
@@ -26,7 +35,7 @@ Guards and wards creates the following effects within the warded area.
 
 ## Corridors
 
-Fog fills all the warded corridors, making them heavily obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50% chance chance that a creature other than you will believe it is going in the opposite direction from the one it chooses.
+Fog fills all the warded corridors, making them heavily obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a  chance that a creature other than you will believe it is going in the opposite direction from the one it chooses.
 
 ## Doors
 
@@ -52,6 +61,6 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
 
-*Source: Player's Handbook p. 248. Available in the SRD.*
+*Source: Player's Handbook p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
   - monster/environment/underdark
   - monster/size/large
   - monster/type/elemental
-statblock: inline
 aliases:
   - Salamander
 ---
-# [[5. Mechanics/Bestiary/Elemental/Salamander.md|Salamander]]
-*Source: Monster Manual p. 266. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Elemental\Salamander.md|Salamander]]
+*Source: Monster Manual p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.
 
@@ -80,23 +83,13 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
     \ damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage."
   "name": "Spear"
 - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6\
-    \ + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+    \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
     \ the salamander can automatically hit the target with its tail, and the salamander\
     \ can't make tail attacks against other targets."
   "name": "Tail"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "BGDIA"
-- "JttRC"
-- "DoSI"
-- "KftGV"
-- "GotSF"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Elemental/token/salamander.webp"
 ```
 ^statblock

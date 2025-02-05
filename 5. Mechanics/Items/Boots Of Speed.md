@@ -6,12 +6,11 @@ tags:
   - item/attunement/required
   - item/rarity/rare
   - item/tier/major
-  - item/wondrous
 aliases:
   - Boots of Speed
 ---
 # Boots of Speed
-*Wondrous Item, major, rare (requires attunement)*  
+*Wondrous item, major, rare (requires attunement)*  
 ![[5. Mechanics/Items/img/boots-of-speed.webp#right]]  
 
 
@@ -19,4 +18,4 @@ While you wear these boots, you can use a bonus action and click the boots' heel
 
 When the boots' property has been used for a total of 10 minutes, the magic ceases to function until you finish a long rest.
 
-*Source: Dungeon Master's Guide p. 155. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

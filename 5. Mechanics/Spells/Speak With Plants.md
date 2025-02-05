@@ -6,8 +6,17 @@ tags:
   - spell/class/bard
   - spell/class/druid
   - spell/class/ranger
-  - spell/level/3
+  - spell/level/3rd-level
   - spell/school/transmutation
+  - spell/subclass/circle-of-the-grove
+  - spell/subclass/hedge-mage
+  - spell/subclass/hunting-domain
+level: 3rd-level
+range: false
+school: Transmutation
+time: 1 action
+duration: 10 minute
+components: 'V, S'
 aliases:
   - Speak with Plants
 ---
@@ -27,8 +36,8 @@ Plants might be able to perform other tasks on your behalf, at the DM's discreti
 
 If a plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.
 
-This spell can cause the plants created by the [[5. Mechanics/Spells/Entangle.md\|entangle]] spell to release a [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] creature.
+This spell can cause the plants created by the [[5. Mechanics/Spells/Entangle.md\|entangle]] spell to release a [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Ranger.md\|Ranger]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Druid Circle Of The Grove (GRIFFONSSADDLEBAG3)\|Druid (Circle of the Grove)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]; [[List Spells Classes Cleric Hunting Domain (KPDM)\|Cleric (Hunting Domain)]]
 
-*Source: Player's Handbook p. 277. Available in the SRD.*
+*Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

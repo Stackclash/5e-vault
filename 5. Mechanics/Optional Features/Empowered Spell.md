@@ -8,7 +8,7 @@ aliases:
   - Empowered Spell
 ---
 # Empowered Spell
-*Source: Player's Handbook p. 102. Available in the SRD.*  
+*Source: Player's Handbook p. 102. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
 

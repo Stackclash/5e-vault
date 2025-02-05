@@ -3,19 +3,20 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/phb
-  - item/property/two-handed
-  - item/weapon/simple/melee
+  - item/rarity/none
+  - item/weapon/melee
+  - item/weapon/simple
 aliases:
   - Greatclub
 cost: 20
 one-hand-damage: 1d8 B
 ---
 # Greatclub
-*Melee Weapon*  
+*Weapon*  
 
 - **Damage**: 1d8 B
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Cost**: 2 sp
 - **Weight**: 10.0 lbs.
 
-*Source: Player's Handbook p. 149. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

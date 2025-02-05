@@ -13,7 +13,7 @@ aliases:
 
 Tsolenka Pass is a gravel road that hugs Mount Ghakis, climbing to great heights. The road starts at the Raven River crossroads (chapter 2, area R) and travels seven miles to a gatehouse (areas T1–T3) and a guard tower (areas T4–T6), as well as a stone bridge (areas T7–T9) that spans the Luna River. Wind and snow make the journey treacherous. Without some way to keep warm, characters who aren't dressed for cold weather suffer the effects of extreme cold at night (see ""Weather"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide").
 
-> [!quote]- A quote from [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]] in I, Strahd: The Memoirs of a Vampire  
+> [!quote] A quote from [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] in I, Strahd: The Memoirs of a Vampire  
 > 
 > The road curved and climbed, making a lengthy switchback into this edge of Mount Ghakis. The air grew colder, not warmer, and patches of snow became more frequent until they were unbroken.
 
@@ -42,11 +42,11 @@ If the characters approach within 10 feet of the portcullis, it shrieks with the
 
 ### T2. Demon Statues
 
-These statues are actually two [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]] [[5. Mechanics/Bestiary/Fiend/Vrock.md\|vrocks]]. If they are attacked, or if the characters bypass the gatehouse, the vrocks revert to flesh and attack, pursuing prey that flees and fighting until slain.
+These statues are actually two [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] [[5. Mechanics/Bestiary/Fiend/Vrock.md\|vrocks]]. If they are attacked, or if the characters bypass the gatehouse, the vrocks revert to flesh and attack, pursuing prey that flees and fighting until slain.
 
 ### T3. Curtain of Green Flame
 
-A curtain of green flame fills the eastern archway of the gatehouse. Any creature that enters the curtain for the first time on a turn or starts its turn in the green flame takes `dice:6d10|text(33)` (`6d10`) fire damage.
+A curtain of green flame fills the eastern archway of the gatehouse. Any creature that enters the curtain for the first time on a turn or starts its turn in the green flame takes `dice:6d10|noform|avg|text(33)` (`6d10`) fire damage.
 
 A successful casting of [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] (DC 16) suppresses the curtain for 1 minute. The curtain is also suppressed within an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].
 
@@ -94,12 +94,12 @@ If your card reading reveals that a treasure is here, read:
 > The swirling snow assumes the forms of thin, young women. The wind howls, "Begone! The treasure is ours!"
 ^53e
 
-The forms are six [[5. Mechanics/Bestiary/Undead/Snow Maiden.md\|snow maidens]]. Use the [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]] statistics, with the following modifications:
+The forms are six [[5. Mechanics/Bestiary/Undead/Snow Maiden (COS).md\|snow maidens]]. Use the [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]] statistics, with the following modifications:
 
 - The snow maidens have immunity to cold damage.  
 - The snow maidens' Life Drain attack deals cold damage instead of necrotic damage.  
 
-The snow maidens don't speak, nor are they interested in hearing what the characters have to say. If the characters don't leave at once, the snow maidens attack. When the last [[5. Mechanics/Bestiary/Undead/Snow Maiden.md\|snow maiden]] is defeated, the treasure that the characters seek magically appears in the swirling snow on the rooftop.
+The snow maidens don't speak, nor are they interested in hearing what the characters have to say. If the characters don't leave at once, the snow maidens attack. When the last [[5. Mechanics/Bestiary/Undead/Snow Maiden (COS).md\|snow maiden]] is defeated, the treasure that the characters seek magically appears in the swirling snow on the rooftop.
 
 ### T7. Western Arch
 
@@ -119,7 +119,7 @@ The western arch contains empty guard posts, one on each side of the bridge. The
 > The low walls that enclose the stone bridge have fallen away in a couple of places, but the bridge appears intact. A black-cloaked rider on a charcoal-colored horse guards the middle of the bridge.
 ^542
 
-The cloaked rider is a manifestation of [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]]—a grim warning to proceed no further. If the characters interact with the manifestation in any way, the rider and horse disperse like ash in the wind.
+The cloaked rider is a manifestation of [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]—a grim warning to proceed no further. If the characters interact with the manifestation in any way, the rider and horse disperse like ash in the wind.
 
 Five hundred feet below the bridge is the Luna River, barely visible through the fog. Though slippery in a few places, the 10-foot-wide, 90-foot-long bridge is safe to cross.
 
@@ -155,21 +155,21 @@ The roc attacks a random creature on the bridge, snatching up a horse or a mule,
 
 ### Bloodhorn's Charge
 
-As the characters make their way along Tsolenka Pass, they encounter a beast that the druids and berserkers of Barovia call [[4. World Almanac/NPCs/Sangzor.md\|Sangzor]] ("Bloodhorn"):
+As the characters make their way along Tsolenka Pass, they encounter a beast that the druids and berserkers of Barovia call [[4. World Almanac/NPCs/Sangzor (COS).md\|Sangzor]] ("Bloodhorn"):
 
 > [!readaloud] 
 > 
 > The road ahead is cut out of the mountainside, rising steeply to one side and falling away on the other. Mist and snow greatly reduce visibility, and the howling wind cuts through you like a knife.
 ^549
 
-If no character has a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 16 or higher, the party is surprised. Otherwise, read:
+If no character has a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 16 or higher, the party is [[/5. Mechanics/Rules/Conditions.md#Surprised\|surprised]]. Otherwise, read:
 
 > [!readaloud] 
 > 
 > A nine-foot-tall goat stands atop a crag above you, its gray fur blending perfectly with the rock of the mountainside. It lowers its head, and malice glimmers in its eyes.
 ^54a
 
-[[4. World Almanac/NPCs/Sangzor.md\|Sangzor]] is a [[5. Mechanics/Bestiary/Beast/Giant Goat.md\|giant goat]] known for its supernatural resilience and evil disposition. Mountain folk have been hunting it for years. Modify its statistics as follows:
+[[4. World Almanac/NPCs/Sangzor (COS).md\|Sangzor]] is a [[5. Mechanics/Bestiary/Beast/Giant Goat.md\|giant goat]] known for its supernatural resilience and evil disposition. Mountain folk have been hunting it for years. Modify its statistics as follows:
 
 - It has an Intelligence of 6 (−2 modifier) and is chaotic evil.  
 - It has 33 hit points.  
@@ -182,4 +182,4 @@ The goat flees if it takes 10 damage or more. The mist and snowfall prevent seei
 
 #### Development
 
-A character who wears [[4. World Almanac/NPCs/Sangzor.md\|Sangzor]]'s pelt can command the respect of the berserkers who inhabit Strahd's domain. They will not attack the character or that character's companions unless provoked.
+A character who wears [[4. World Almanac/NPCs/Sangzor (COS).md\|Sangzor]]'s pelt can command the respect of the berserkers who inhabit Strahd's domain. They will not attack the character or that character's companions unless provoked.

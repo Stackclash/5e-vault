@@ -3,15 +3,22 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
-  - spell/class/fighter/eldritch-knight
   - spell/class/paladin
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer/divine-soul
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/3
+  - spell/level/3rd-level
   - spell/school/abjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/divine-soul
+  - spell/subclass/eldritch-knight
+level: 3rd-level
+range: false
+school: Abjuration
+time: 1 action
+duration: Instantaneous
+components: 'V, S'
 aliases:
   - Remove Curse
 ---
@@ -25,6 +32,6 @@ aliases:
 
 At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
 
-*Source: Player's Handbook p. 271. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 271. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

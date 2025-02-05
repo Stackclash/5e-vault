@@ -185,79 +185,79 @@ The character who recruited the retainer is called their **leader**. This term i
 
 #### Barbarian Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Reaver.md\|Reaver]]  
-- [[5. Mechanics/Bestiary/Humanoid/Spirit Warden.md\|Spirit Warden]]  
+- [[5. Mechanics/Bestiary/Humanoid/Reaver (SAF).md\|Reaver]]  
+- [[5. Mechanics/Bestiary/Humanoid/Spirit Warden (SAF).md\|Spirit Warden]]  
 
 #### Bard Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Loremaster.md\|Loremaster]]  
-- [[5. Mechanics/Bestiary/Humanoid/Troubadour Warrior.md\|Troubadour-warrior]]  
+- [[5. Mechanics/Bestiary/Humanoid/Loremaster (SAF).md\|Loremaster]]  
+- [[5. Mechanics/Bestiary/Humanoid/Troubadour Warrior (SAF).md\|Troubadour-warrior]]  
 
 #### Cleric Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Curate.md\|Curate]]  
-- [[5. Mechanics/Bestiary/Humanoid/Exorcist.md\|Exorcist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Healer.md\|Healer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Shadow Priest.md\|Shadow Priest]]  
-- [[5. Mechanics/Bestiary/Humanoid/Stormspeaker.md\|Stormspeaker]]  
-- [[5. Mechanics/Bestiary/Humanoid/Warden.md\|Warden]]  
-- [[5. Mechanics/Bestiary/Humanoid/Battle Priest.md\|Battle Priest]]  
+- [[5. Mechanics/Bestiary/Humanoid/Curate (SAF).md\|Curate]]  
+- [[5. Mechanics/Bestiary/Humanoid/Exorcist (SAF).md\|Exorcist]]  
+- [[5. Mechanics/Bestiary/Humanoid/Healer (SAF).md\|Healer]]  
+- [[5. Mechanics/Bestiary/Humanoid/Shadow Priest (SAF).md\|Shadow Priest]]  
+- [[5. Mechanics/Bestiary/Humanoid/Stormspeaker (SAF).md\|Stormspeaker]]  
+- [[5. Mechanics/Bestiary/Humanoid/Warden (SAF).md\|Warden]]  
+- [[5. Mechanics/Bestiary/Humanoid/Battle Priest (SAF).md\|Battle Priest]]  
 
 #### Druid Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Mystic.md\|Mystic]]  
-- [[5. Mechanics/Bestiary/Humanoid/Skinwalker.md\|Skinwalker]]  
+- [[5. Mechanics/Bestiary/Humanoid/Mystic (SAF).md\|Mystic]]  
+- [[5. Mechanics/Bestiary/Humanoid/Skinwalker (SAF).md\|Skinwalker]]  
 
 #### Fighter Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Knight Sorcerer.md\|Knight-Sorcerer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Swordmaster.md\|Swordmaster]]  
-- [[5. Mechanics/Bestiary/Humanoid/Warlord.md\|Warlord]]  
+- [[5. Mechanics/Bestiary/Humanoid/Knight Sorcerer (SAF).md\|Knight-Sorcerer]]  
+- [[5. Mechanics/Bestiary/Humanoid/Swordmaster (SAF).md\|Swordmaster]]  
+- [[5. Mechanics/Bestiary/Humanoid/Warlord (SAF).md\|Warlord]]  
 
 #### Monk Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Acolyte Of The Way.md\|Acolyte of the Way]]  
-- [[5. Mechanics/Bestiary/Humanoid/Acolyte Of Darkness.md\|Acolyte of Darkness]]  
-- [[5. Mechanics/Bestiary/Humanoid/Elemental Acolyte.md\|Elemental Acolyte]]  
+- [[5. Mechanics/Bestiary/Humanoid/Acolyte Of The Way (SAF).md\|Acolyte of the Way]]  
+- [[5. Mechanics/Bestiary/Humanoid/Acolyte Of Darkness (SAF).md\|Acolyte of Darkness]]  
+- [[5. Mechanics/Bestiary/Humanoid/Elemental Acolyte (SAF).md\|Elemental Acolyte]]  
 
 #### Paladin Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Cavalier.md\|Cavalier]]  
-- [[5. Mechanics/Bestiary/Humanoid/Justicar.md\|Justicar]]  
-- [[5. Mechanics/Bestiary/Humanoid/Knight Of The Green Order.md\|Knight of the Green Order]]  
+- [[5. Mechanics/Bestiary/Humanoid/Cavalier (SAF).md\|Cavalier]]  
+- [[5. Mechanics/Bestiary/Humanoid/Justicar (SAF).md\|Justicar]]  
+- [[5. Mechanics/Bestiary/Humanoid/Knight Of The Green Order (SAF).md\|Knight of the Green Order]]  
 
 #### Ranger Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Beast Lord.md\|Beast Lord]]  
-- [[5. Mechanics/Bestiary/Humanoid/Tracker.md\|Tracker]]  
+- [[5. Mechanics/Bestiary/Humanoid/Beast Lord (SAF).md\|Beast Lord]]  
+- [[5. Mechanics/Bestiary/Humanoid/Tracker (SAF).md\|Tracker]]  
 
 #### Rogue Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Executioner.md\|Executioner]]  
-- [[5. Mechanics/Bestiary/Humanoid/Guild Adept.md\|Guild Adept]]  
-- [[5. Mechanics/Bestiary/Humanoid/Cutpurse.md\|Cutpurse]]  
+- [[5. Mechanics/Bestiary/Humanoid/Executioner (SAF).md\|Executioner]]  
+- [[5. Mechanics/Bestiary/Humanoid/Guild Adept (SAF).md\|Guild Adept]]  
+- [[5. Mechanics/Bestiary/Humanoid/Cutpurse (SAF).md\|Cutpurse]]  
 
 #### Sorcerer Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Thaumaturgist.md\|Thaumaturgist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Chaos Mage.md\|Chaos Mage]]  
+- [[5. Mechanics/Bestiary/Humanoid/Thaumaturgist (SAF).md\|Thaumaturgist]]  
+- [[5. Mechanics/Bestiary/Humanoid/Chaos Mage (SAF).md\|Chaos Mage]]  
 
 #### Warlock Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Alienist.md\|Alienist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Diabolist.md\|Diabolist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Exarch.md\|Exarch]]  
+- [[5. Mechanics/Bestiary/Humanoid/Alienist (SAF).md\|Alienist]]  
+- [[5. Mechanics/Bestiary/Humanoid/Diabolist (SAF).md\|Diabolist]]  
+- [[5. Mechanics/Bestiary/Humanoid/Exarch (SAF).md\|Exarch]]  
 
 #### Wizard Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Conjurer.md\|Conjurer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Enchanter.md\|Enchanter]]  
-- [[5. Mechanics/Bestiary/Humanoid/Evoker.md\|Evoker]]  
-- [[5. Mechanics/Bestiary/Humanoid/Illusionist.md\|Illusionist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Necromancer.md\|Necromancer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Seer.md\|Seer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Shaper.md\|Shaper]]  
-- [[5. Mechanics/Bestiary/Humanoid/Theurgist.md\|Theurgist]]  
+- [[5. Mechanics/Bestiary/Humanoid/Conjurer (SAF).md\|Conjurer]]  
+- [[5. Mechanics/Bestiary/Humanoid/Enchanter (SAF).md\|Enchanter]]  
+- [[5. Mechanics/Bestiary/Humanoid/Evoker (SAF).md\|Evoker]]  
+- [[5. Mechanics/Bestiary/Humanoid/Illusionist (SAF).md\|Illusionist]]  
+- [[5. Mechanics/Bestiary/Humanoid/Necromancer (SAF).md\|Necromancer]]  
+- [[5. Mechanics/Bestiary/Humanoid/Seer (SAF).md\|Seer]]  
+- [[5. Mechanics/Bestiary/Humanoid/Shaper (SAF).md\|Shaper]]  
+- [[5. Mechanics/Bestiary/Humanoid/Theurgist (SAF).md\|Theurgist]]  
 
 ## Artisans
 
@@ -273,7 +273,7 @@ The mason who sets up shop in a fighter's keep was probably one of the folks who
 
 A tailor who joins a lord in their wilderness stronghold may be a local townsperson seeking greater glory, the opportunity to serve a baron or a count! Or they may be someone from the nearest big city who's tired of serving folks who don't appreciate their handiwork, hearing tell of a newly landed noble building a keep, and decides it is better to be a big fish in a small pond than a little fish in the great wide ocean. The tailor from the big city brings with them all the prejudices of civilization, but also all the knowledge that comes with it, knowledge of court intrigues and fashion.
 
-![[5. Mechanics/Tables/Artisan Shop Improvement Table.md\|Artisan Shop Improvement Table]]
+![[5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md\|Artisan Shop Improvement Table]]
 
 ### Your Artisan's Shop
 
@@ -293,7 +293,7 @@ An alchemy test combines two skill checks: first an Arcana check to determine if
 
 **The DC of the Arcana check** to locate the organs and remember the best way to extract them equals 8 + the challenge rating of the creature you're operating on.
 
-**The DC of the Medicine check** to perform the surgery and extract enough useful material without destroying it depends on the organ in question and the challenge rating of the creature, as shown in the [[5. Mechanics/Tables/Alchemy Test.md\|Alchemy Test]] table.
+**The DC of the Medicine check** to perform the surgery and extract enough useful material without destroying it depends on the organ in question and the challenge rating of the creature, as shown in the [[5. Mechanics/Tables/Alchemy Test (SAF).md\|Alchemy Test]] table.
 
 A given corpse can only withstand one alchemy test before it's unusable.
 
@@ -346,7 +346,7 @@ Consuming the potion acts just like casting the spell, but it only works against
 > ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sample-witch.webp#center)
 ^sample-alchemist-morwen-the-witch
 
-![[5. Mechanics/Tables/Alchemy Test.md\|Alchemy Test]]
+![[5. Mechanics/Tables/Alchemy Test (SAF).md\|Alchemy Test]]
 
 ### The Blacksmith
 
@@ -362,7 +362,7 @@ What items your smith can forge depends on which organs you bring!
 
 #### The Blood of the Beast: Arrows of Slaying
 
-The alchemy test needed to make arrows of slaying depends on the CR of the monster in question, as described in [[5. Mechanics/Tables/Alchemy Test.md\|The Alchemy Test]] (page 83). The number of arrows you get is also based on the CR of the monster. Very powerful monsters yield only a single arrow. Crafting the arrows requires the services of a 9th-level spellcaster.
+The alchemy test needed to make [[5. Mechanics/Items/Arrow Of Slaying.md\|arrows of slaying]] depends on the CR of the monster in question, as described in [[5. Mechanics/Tables/Alchemy Test (SAF).md\|The Alchemy Test]] (page 83). The number of arrows you get is also based on the CR of the monster. Very powerful monsters yield only a single arrow. Crafting the arrows requires the services of a 9th-level spellcaster.
 
 If a player asks, "Why there aren't more of these things out in the world?" remind them that there are few people out there with the necessary skill (alchemy), opportunity (adventuring), and resources (stronghold with appropriate follower), and even then, you only get a handful of arrows, and of course they are spent once shot!
 
@@ -382,8 +382,8 @@ The alchemy test needed to make a slaying weapon depends on the CR of the monste
 
 | Monster CR | # Arrows |
 |------------|----------|
-| 1–5 | `dice: 1d6\|avg\|noform` (`1d6`) |
-| 6–9 | `dice: 1d4\|avg\|noform` (`1d4`) |
+| 1–5 | `dice:1d6\|noform\|avg` (`1d6`) |
+| 6–9 | `dice:1d4\|noform\|avg` (`1d4`) |
 | 10–14 | 2 |
 | 15 + | 1 |
 ^arrows-of-slaying
@@ -483,7 +483,7 @@ Having a mason on staff means you pay nothing to repair your stronghold after a 
 
 Like carpenters, masons decrease the cost of improving your stronghold by 10% per quarry level. This cost decrease can be combined with the carpenter's benefit.
 
-> [!quote]-  
+> [!quote]  
 > 
 > Lord Kenway's stronghold has both a 5th-level mason's quarry and a 5th-level carpenter's shop, so he can improve Castle Dalrath 50% faster and 50% cheaper.
 

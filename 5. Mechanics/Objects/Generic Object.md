@@ -10,7 +10,7 @@ aliases:
   - Generic Object
 ---
 # Generic Object
-*Source: Dungeon Master's Guide p. 246. Available in the SRD.*  
+*Source: Dungeon Master's Guide p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 When characters need to saw through ropes, shatter a window, or smash a vampire's coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character's success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.
 

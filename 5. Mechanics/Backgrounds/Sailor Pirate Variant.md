@@ -12,7 +12,7 @@ aliases:
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]  
 - **Tool Proficiencies.** [[5. Mechanics/Items/Navigators Tools.md\|Navigator's tools]], vehicles (water)  
-- **Equipment.** A belaying pin ([[5. Mechanics/Items/Club.md\|club]]), [[5. Mechanics/Items/Silk Rope 50 Feet.md\|silk rope (50 feet)]], a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [[5. Mechanics/Items/Trinket.md\|trinket]] on the Trinkets table in chapter 5), a set of [[5. Mechanics/Items/Common Clothes.md\|common clothes]], and a belt [[5. Mechanics/Items/Pouch.md\|pouch]] containing 10 gp  
+- **Equipment.** A belaying pin ([[5. Mechanics/Items/Club.md\|club]]), [[5. Mechanics/Items/Silk Rope 50 F(EET).md\|silk rope (50 feet)]], a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [[5. Mechanics/Items/Trinket.md\|trinket]] on the Trinkets table in chapter 5), a set of [[5. Mechanics/Items/Common Clothes.md\|common clothes]], and a belt [[5. Mechanics/Items/Pouch.md\|pouch]] containing 10 gp  
 
 You spent your youth under the sway of a dread pirate, a ruthless cutthroat who taught you how to survive in a world of sharks and savages. You've indulged in larceny on the high seas and sent more than one deserving soul to a briny grave. Fear and bloodshed are no strangers to you, and you've garnered a somewhat unsavory reputation in many a port town.
 

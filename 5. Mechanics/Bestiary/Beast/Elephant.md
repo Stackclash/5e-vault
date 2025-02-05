@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: grassland
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
   - monster/environment/grassland
   - monster/size/huge
   - monster/type/beast
-statblock: inline
 aliases:
   - Elephant
 ---
-# [[5. Mechanics/Bestiary/Beast/Elephant.md|Elephant]]
-*Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Elephant.md|Elephant]]
+*Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Elephant"
@@ -37,22 +40,19 @@ aliases:
 "traits":
 - "desc": "If the elephant moves at least 20 feet straight toward a creature and then\
     \ hits it with a gore attack on the same turn, that target must succeed on a DC\
-    \ 12 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the elephant\
+    \ 12 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], the elephant\
     \ can make one stomp attack against it as a bonus action."
   "name": "Trampling Charge"
 "actions":
 - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 19 (3d8\
     \ + 6) piercing damage."
   "name": "Gore"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
     \ creature. Hit: 22 (3d10 + 6) bludgeoning damage."
   "name": "Stomp"
 "source":
 - "MM"
-- "ToA"
-- "SatO"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Beast/token/elephant.webp"
 ```
 ^statblock

@@ -5,12 +5,11 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/uncommon
   - item/tier/minor
-  - item/wondrous
 aliases:
   - Bag of Holding
 ---
 # Bag of Holding
-*Wondrous Item, minor, uncommon*  
+*Wondrous item, minor, uncommon*  
 ![[5. Mechanics/Items/img/bag-of-holding.webp#right]]  
 
 - **Weight**: 15.0 lbs.
@@ -21,4 +20,4 @@ If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and it
 
 Placing a bag of holding inside an extradimensional space created by a [[5. Mechanics/Items/Hewards Handy Haversack.md\|Heward's handy haversack]], [[5. Mechanics/Items/Portable Hole.md\|portable hole]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
-*Source: Dungeon Master's Guide p. 153. Available in the SRD and the Basic Rules.*
+*Source: Dungeon Master's Guide p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

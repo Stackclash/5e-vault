@@ -5,17 +5,16 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/very-rare
   - item/tier/minor
-  - item/wondrous
 aliases:
   - Nolzur's Marvelous Pigments
 ---
 # Nolzur's Marvelous Pigments
-*Wondrous Item, minor, very rare*  
+*Wondrous item, minor, very rare*  
 ![[5. Mechanics/Items/img/nolzurs-marvelous-pigments.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 
-Typically found in `dice: 1d4|avg|noform` (`1d4`) pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.
+Typically found in `dice:1d4|noform|avg` (`1d4`) pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.
 
 Each pot of paint is sufficient to cover 1,000 square feet of a surface, which lets you create inanimate objects or terrain features—such as a door, a pit, flowers, trees, cells, rooms, or weapons—that are up to 10,000 cubic feet. It takes 10 minutes to cover 100 square feet.
 
@@ -25,4 +24,4 @@ Nothing created by the pigments can have a value greater than 25 gp. If you pain
 
 If you paint a form of energy such as fire or lightning, the energy appears but dissipates as soon as you complete the painting, doing no harm to anything.
 
-*Source: Dungeon Master's Guide p. 183. Available in the SRD (as 'Marvelous Pigments').*
+*Source: Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Marvelous Pigments")*

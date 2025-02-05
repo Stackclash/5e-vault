@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: null
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/size/large
   - monster/type/construct
-statblock: inline
 aliases:
   - Pentadrone
 ---
-# [[5. Mechanics/Bestiary/Construct/Pentadrone.md|Pentadrone]]
+# [[5. Mechanics\Bestiary\Construct\Pentadrone.md|Pentadrone]]
 *Source: Monster Manual p. 226*
 
 Pentadrones oversee Mechanus's worker populace and can improvise in response to new situations.
@@ -42,7 +45,7 @@ If a modron is destroyed, its remains disintegrate. A replacement from the next 
 
 When the gears of Mechanus complete seventeen cycles once every 289 years, Primus sends a vast army of modrons across the Outer Planes, ostensibly on a reconnaissance mission. The march is long and dangerous, and only a small number of modrons returns to Mechanus.
 
-> [!quote]- A quote from Kwint Stormbellow, rock gnome adventurer  
+> [!quote] A quote from Kwint Stormbellow, rock gnome adventurer  
 > 
 > Every 289 years, the entire multiverse goes mad. Like clockwork.
 
@@ -83,16 +86,12 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
     \ + 2) bludgeoning damage."
   "name": "Arm"
 - "desc": "The pentadrone exhales a 30-foot cone of gas. Each creature in that area\
-    \ must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Paralysis Gas (Recharge 5-6)"
 "source":
 - "MM"
-- "ToA"
-- "KftGV"
-- "SatO"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Construct/token/pentadrone.webp"
 ```
 ^statblock

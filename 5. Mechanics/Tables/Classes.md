@@ -7,7 +7,7 @@ aliases:
   - Classes
 ---
 # Classes
-*Source: Player's Handbook p. 45. Available in the Basic Rules.* 
+*Source: Player's Handbook p. 45. Available in the Basic Rules (2014)* 
 
 | Class | Description | Hit Die | Primary Ability | Saving Throw Proficiencies | Armor and Weapon Proficiencies |
 |-------|-------------|---------|-----------------|----------------------------|--------------------------------|

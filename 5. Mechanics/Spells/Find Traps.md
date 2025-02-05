@@ -3,12 +3,19 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
   - spell/class/druid
   - spell/class/ranger
-  - spell/class/sorcerer/divine-soul
-  - spell/level/2
+  - spell/level/2nd-level
   - spell/school/divination
+  - spell/subclass/divine-soul
+level: 2nd-level
+range: false
+school: Divination
+time: 1 action
+duration: Instantaneous
+components: 'V, S'
 aliases:
   - Find Traps
 ---
@@ -24,6 +31,6 @@ You sense the presence of any trap within range that is within line of sight. A 
 
 This spell merely reveals that a trap is present. You don't learn the location of each trap, but you do learn the general nature of the danger posed by a trap you sense.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 241. Available in the SRD.*
+*Source: Player's Handbook p. 241. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: 'underdark, grassland, forest'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
@@ -9,11 +13,10 @@ tags:
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/humanoid/goblinoid
-statblock: inline
 aliases:
   - Bugbear Chief
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Bugbear Chief.md|Bugbear Chief]]
+# [[5. Mechanics\Bestiary\Humanoid\Bugbear Chief.md|Bugbear Chief]]
 *Source: Monster Manual p. 33*
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
@@ -62,9 +65,9 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 - "desc": "If the bugbear surprises a creature and hits it with an attack during the\
     \ first round of combat, the target takes an extra 7 (2d6) damage from the attack."
   "name": "Surprise Attack"
-- "desc": "The bugbear has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
+- "desc": "The bugbear has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]],\
     \ or put to sleep."
   "name": "Heart of Hruggek"
 "actions":
@@ -79,8 +82,6 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
   "name": "Javelin"
 "source":
 - "MM"
-- "TftYP"
-- "CRCotN"
 "image": "5. Mechanics/Bestiary/Humanoid/token/bugbear-chief.webp"
 ```
 ^statblock

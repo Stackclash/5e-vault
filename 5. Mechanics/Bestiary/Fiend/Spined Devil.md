@@ -1,23 +1,26 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: null
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/size/small
   - monster/type/fiend/devil
-statblock: inline
 aliases:
   - Spined Devil
 ---
-# [[5. Mechanics/Bestiary/Fiend/Spined Devil.md|Spined Devil]]
+# [[5. Mechanics\Bestiary\Fiend\Spined Devil.md|Spined Devil]]
 *Source: Monster Manual p. 78*
 
 Smaller than most other devils, spinagons act as messengers and spies for greater devils and archdevils. They are the eyes and ears of the Nine Hells, and even fiends that despise a spined devil's weakness treat it with a modicum of respect. A spined devil's body and tail bristle with spines, and it can fling its tail spines as ranged weapons. The spines burst into flame on impact.
 
 When not delivering messages or gathering intelligence, spined devils serve in the infernal legions as flying artillery, making up for their relative weakness by mobbing together to overwhelm their foes. Though they crave promotion and power, spined devils are craven by nature, and they will quickly scatter if a fight goes against them.
 
-> [!quote]- A quote from Fierna, Archduchess of Phlegethos, commanding her spined devil legions  
+> [!quote] A quote from Fierna, Archduchess of Phlegethos, commanding her spined devil legions  
 > 
 > Fly, my pretties, fly! Fly!
 
@@ -117,7 +120,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -130,13 +133,13 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > **Summon Devil (1/Day).** The devil chooses what to summon and attempts a magical summoning.
 > 
-> - A barbed devil has a 30% chance chance of summoning one barbed devil.  
-> - A bearded devil has a 30% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg|noform` (`3d6`) spined devils, `dice: 1d6|avg|noform` (`1d6`) bearded devils, or one erinyes.  
-> - A horned devil has a 30% chance chance of summoning one horned devil.  
-> - An ice devil has a 60% chance chance of summoning one ice devil.  
-> - A pit fiend summons `dice: 2d4|avg|noform` (`2d4`) bearded devils, `dice: 1d4|avg|noform` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A barbed devil has a 30 percent chance of summoning one barbed devil.  
+> - A bearded devil has a 30 percent chance of summoning one bearded devil.  
+> - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|avg` (`3d6`) spined devils, `dice:1d6|noform|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A horned devil has a 30 percent chance of summoning one horned devil.  
+> - An ice devil has a 60 percent chance of summoning one ice devil.  
+> - A pit fiend summons `dice:2d4|noform|avg` (`2d4`) bearded devils, `dice:1d4|noform|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -162,7 +165,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "2"
@@ -193,11 +196,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   "name": "Tail Spine"
 "source":
 - "MM"
-- "ToA"
-- "WDH"
-- "BGDIA"
-- "KftGV"
-- "PSI"
 "image": "5. Mechanics/Bestiary/Fiend/token/spined-devil.webp"
 ```
 ^statblock

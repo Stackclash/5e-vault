@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
   - monster/size/medium
   - monster/type/construct
-statblock: inline
 aliases:
   - Quadrone
 ---
-# [[5. Mechanics/Bestiary/Construct/Quadrone.md|Quadrone]]
+# [[5. Mechanics\Bestiary\Construct\Quadrone.md|Quadrone]]
 *Source: Monster Manual p. 226*
 
 Astute combatants, quadrones serve as artillery and field officers in the regiments of modron armies.
@@ -42,7 +45,7 @@ If a modron is destroyed, its remains disintegrate. A replacement from the next 
 
 When the gears of Mechanus complete seventeen cycles once every 289 years, Primus sends a vast army of modrons across the Outer Planes, ostensibly on a reconnaissance mission. The march is long and dangerous, and only a small number of modrons returns to Mechanus.
 
-> [!quote]- A quote from Kwint Stormbellow, rock gnome adventurer  
+> [!quote] A quote from Kwint Stormbellow, rock gnome adventurer  
 > 
 > Every 289 years, the entire multiverse goes mad. Like clockwork.
 
@@ -87,11 +90,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
   "name": "Shortbow"
 "source":
 - "MM"
-- "ToA"
-- "WDMM"
-- "KftGV"
-- "SatO"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Construct/token/quadrone.webp"
 ```
 ^statblock

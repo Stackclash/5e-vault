@@ -17,7 +17,7 @@ The fighting takes place across the Lower Planes, on the Material Plane, and any
 
 ## The Great Dance
 
-> [!quote]- A quote from Veritus Wrath, commander, Flawless Execution  
+> [!quote] A quote from Veritus Wrath, commander, Flawless Execution  
 > 
 > We measure ourselves by those we fight, and my company faces the greatest threat to the cosmos.
 
@@ -41,7 +41,7 @@ A casual observer might suppose that two forces of evil bent on exterminating ea
 
 #### Agents of Treachery
 
-Both sides in the Blood War employ spies and soldiers drawn from the ranks of other evil creatures of the planes. The devils are generally more successful at this tactic because of the discipline they can bring to bear on these ostensible allies. Even so, powerful, intelligent demon lords such as [[4. World Almanac/NPCs/Grazzt.md\|Graz'zt]] can also force their agents to do their bidding under threat of annihilation.
+Both sides in the Blood War employ spies and soldiers drawn from the ranks of other evil creatures of the planes. The devils are generally more successful at this tactic because of the discipline they can bring to bear on these ostensible allies. Even so, powerful, intelligent demon lords such as [[4. World Almanac/NPCs/Grazzt (MPMM).md\|Graz'zt]] can also force their agents to do their bidding under threat of annihilation.
 
 As creatures that don't favor either cause, because they care nothing for the philosophical concerns of law and chaos, other fiends including incubi, succubi, and night hags work for whichever side offers the best compensation. Demons use them as insurrectionists in the Nine Hells, inciting rebellion and defiance. The devils employ such creatures as scouts, who use their magic and other abilities to navigate the Abyss and gain intelligence about the demons' activities. Adventurers hired by an agent of the Nine Hells to make a foray into the Abyss are customarily guided by such a mercenary.
 
@@ -70,7 +70,7 @@ The devils view fighting demons on Avernus as a net benefit for their cause. Alt
 
 ### The Devilish Point of View
 
-> [!quote]- A quote from [[4. World Almanac/NPCs/Zariel.md\|Zariel]], Archduchess of Avernus, former angel of Celestia  
+> [!quote] A quote from [[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]], Archduchess of Avernus, former angel of Celestia  
 > 
 > My legions are the only thing standing between your precious Seven Heavens and the bottomless hunger of the Abyss. I did not fall into the clutches of evil. I rose to shoulder a cosmic burden.
 
@@ -95,7 +95,7 @@ Every devil takes a grim pride in its service in the Blood War. Talk to one for 
 
 ### The Demonic Point of View
 
-> [!quote]- A quote from Zaadaaak, demon of the Abyss  
+> [!quote] A quote from Zaadaaak, demon of the Abyss  
 > 
 > Why do we descend upon the domain of our hated enemies? Because that's where the fighting is!
 
@@ -122,7 +122,7 @@ The adherents of this viewpoint refer to the concept they espouse as the Balance
 
 To an outside observer, a disciple of the Balance might act cruelly or heartlessly one day, and benevolent and caring the next. A follower might aid in consigning one city to domination by a devil cult while driving demonic cultists from another. For the sake of the Balance, the cosmos must remain in a static state where neither demon nor devil can permanently gain the upper hand.
 
-Keepers of the Balance sometimes resort to strategies that seem inexplicable to those who don't grasp the whole situation. A crusading paladin might be discouraged from seeking out and defeating [[4. World Almanac/NPCs/Demogorgon.md\|Demogorgon]], because doing so could weaken the Abyss enough to allow the forces of the Nine Hells to gain a firm foothold there. An adherent of the Balance might vie with a great arcanist as both search for knowledge of a ritual that would cripple Asmodeus for a short time. The arcanist correctly believes that performing the ritual would free a world of the Material Plane from the devils' taint, but doesn't appreciate that it also would bring a grievous setback to the forces that had been keeping the demons from overrunning Avernus.
+Keepers of the Balance sometimes resort to strategies that seem inexplicable to those who don't grasp the whole situation. A crusading paladin might be discouraged from seeking out and defeating [[4. World Almanac/NPCs/Demogorgon (MPMM).md\|Demogorgon]], because doing so could weaken the Abyss enough to allow the forces of the Nine Hells to gain a firm foothold there. An adherent of the Balance might vie with a great arcanist as both search for knowledge of a ritual that would cripple Asmodeus for a short time. The arcanist correctly believes that performing the ritual would free a world of the Material Plane from the devils' taint, but doesn't appreciate that it also would bring a grievous setback to the forces that had been keeping the demons from overrunning Avernus.
 
 Those who vow to maintain the Balance make enemies wherever they go, because their full reasons for acting as they do aren't always apparent. The fact that some of these adherents embrace the Balance to further their personal quests for power makes it impossible to count on them as allies with complete certainty.
 
@@ -134,11 +134,11 @@ From his throne at the bottom of the Nine Hells, Asmodeus commands a sprawling b
 
 Asmodeus and the other archdevils rule over the nine layers that comprise the Hells. The devil lords make up a hierarchy that is both rigid and fragile. Although Asmodeus is more powerful than any other lord, he has to be constantly wary of treachery within his ranks. It could be said that the true ruler of the Nine Hells is the immense body of rules and regulations that dictate how all devils, even Asmodeus, must conduct themselves.
 
-![[5. Mechanics/Tables/Lords Of The Nine Layers And Rulers Of The Nine Hells.md\|Lords of the Nine; Layers and Rulers of the Nine Hells]]
+![[5. Mechanics/Tables/Lords Of The Nine Layers And Rulers Of The Nine Hells (MTF).md\|Lords of the Nine; Layers and Rulers of the Nine Hells]]
 
 ### Asmodeus
 
-> [!quote]- A quote from Asmodeus addresses the celestial jury, from The Trial of Asmodeus  
+> [!quote] A quote from Asmodeus addresses the celestial jury, from The Trial of Asmodeus  
 > 
 > I literally sit beneath eight tiers of scheming, ambitious entities that represent primal law suffused with evil. The path from this realm leads to an infinite pit of chaos and evil. Now, tell me again how you and your ilk are the victims in this eternal struggle.
 
@@ -154,7 +154,7 @@ He further asserted that he was bound to the rules and traditions of the Nine He
 
 Primus weighed Asmodeus's words and listened patiently as angel after angel testified to his crimes. Hours turned to days and days into weeks as more and more of his sins entered the court record.
 
-Even Primus's patience has its limits, and in time, the remaining angels who were eager to testify were told that only a few more would be allowed to speak. A brawl broke out when one angel, [[4. World Almanac/NPCs/Zariel.md\|Zariel]], pushed her way to the front and demanded to be heard. As the scuffle turned into a battle, Asmodeus looked on with a smirk.
+Even Primus's patience has its limits, and in time, the remaining angels who were eager to testify were told that only a few more would be allowed to speak. A brawl broke out when one angel, [[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]], pushed her way to the front and demanded to be heard. As the scuffle turned into a battle, Asmodeus looked on with a smirk.
 
 In the end, Primus declined to issue a definitive judgment. He rebuked the angels for their descent into infighting, but didn't punish Asmodeus for his evil ways. He did, however, order Asmodeus to forever carry a mighty artifact, the Ruby Rod, that would guarantee his adherence to law. The artifact, which has remained at Asmodeus's side ever since, grants him and his underlings the right to enter into contracts with mortals for their souls but unleashes an inescapable punishment upon any devil that breaches such a contract.
 
@@ -168,7 +168,7 @@ If Asmodeus were any less capable, his arrogance would have led to his undoing l
 
 #### Power without Limit
 
-Unlike the other Lords of the Nine, Asmodeus has no quota of souls to fill. Any soul recruited by any denizen of the Nine Hells is also pledged in his name, and a cult dedicated to any other devil is also dedicated to him. Because he doesn't need to spend his time courting mortals, he concentrates on manipulating demigods and beings of similar station. Occasionally, he lures such a being into a contract and adds a new, unique devil to the ranks of the Hells. His most recent recruit is [[4. World Almanac/NPCs/Zariel.md\|Zariel]], a former angel. His supposed daughter, Glasya, is thought by some sages to be a godlike entity of unknown origin.
+Unlike the other Lords of the Nine, Asmodeus has no quota of souls to fill. Any soul recruited by any denizen of the Nine Hells is also pledged in his name, and a cult dedicated to any other devil is also dedicated to him. Because he doesn't need to spend his time courting mortals, he concentrates on manipulating demigods and beings of similar station. Occasionally, he lures such a being into a contract and adds a new, unique devil to the ranks of the Hells. His most recent recruit is [[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]], a former angel. His supposed daughter, Glasya, is thought by some sages to be a godlike entity of unknown origin.
 
 #### Lord of Nessus
 
@@ -176,29 +176,29 @@ Asmodeus resides in Nessus, the bottommost layer of the Nine Hells. By design, t
 
 ### Zariel
 
-> [!quote]- A quote from [[4. World Almanac/NPCs/Zariel.md\|Zariel]] addressing emissaries from Dis  
+> [!quote] A quote from [[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]] addressing emissaries from Dis  
 > 
 > Keep wasting my time with your pointless words and die, or join my war band and live. Choose swiftly. I have a plane to conquer.
 
-[[4. World Almanac/NPCs/Zariel.md\|Zariel]] was once an angel, but her impetuous nature and love of battle led to her fall. In her previous life, she was charged with observing the battles on Avernus and tracking their progress. From this exposure, she grew obsessed with the Blood War, and a thirst for battle grew within her that she couldn't ignore. In time, she became frustrated that she and the other angels were forced to remain spectators while the demons and devils battled. The hosts of Mount Celestia, she believed, could descend upon Avernus en masse and wipe both hordes of evil from the cosmos if they so desired.
+[[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]] was once an angel, but her impetuous nature and love of battle led to her fall. In her previous life, she was charged with observing the battles on Avernus and tracking their progress. From this exposure, she grew obsessed with the Blood War, and a thirst for battle grew within her that she couldn't ignore. In time, she became frustrated that she and the other angels were forced to remain spectators while the demons and devils battled. The hosts of Mount Celestia, she believed, could descend upon Avernus en masse and wipe both hordes of evil from the cosmos if they so desired.
 
 After her repeated requests to join the fray were denied, her frustration overtook her, and she launched herself into the Blood War. Accompanied by a mob of mortal followers, she cut a swath through a legion of devils before their numbers overwhelmed her. A delegation of bone devils later dispatched to the site by Asmodeus recovered her unconscious form beneath a small mountain of her slaughtered enemies. After allowing her to recover in the depths of Nessus, Asmodeus installed her on Avernus as his champion and new lord of that layer.
 
 #### A Fighting General
 
-When [[4. World Almanac/NPCs/Zariel.md\|Zariel]] supplanted the pit fiend Bel as the ruler of Avernus, that change signaled a major shift in the devils' tactics. [[4. World Almanac/NPCs/Zariel.md\|Zariel]]'s fiery temperament and reckless maneuvering stand in stark contrast to Bel's approach, which relied on his expertise in logistics and defensive tactics to make steady but slow advances. Bel remains one of her chief lieutenants, and he doesn't discourage her reckless tactics in the hope that she will overextend her forces and suffer a defeat that leads to her removal.
+When [[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]] supplanted the pit fiend Bel as the ruler of Avernus, that change signaled a major shift in the devils' tactics. [[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]]'s fiery temperament and reckless maneuvering stand in stark contrast to Bel's approach, which relied on his expertise in logistics and defensive tactics to make steady but slow advances. Bel remains one of her chief lieutenants, and he doesn't discourage her reckless tactics in the hope that she will overextend her forces and suffer a defeat that leads to her removal.
 
-For now, though, the devils are fighting with a berserker fury under her charge. [[4. World Almanac/NPCs/Zariel.md\|Zariel]] leads their offensives herself, and her unyielding resolve coupled with the fighting skill of her underlings has pushed nearly all the demonic invaders out of Avernus.
+For now, though, the devils are fighting with a berserker fury under her charge. [[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]] leads their offensives herself, and her unyielding resolve coupled with the fighting skill of her underlings has pushed nearly all the demonic invaders out of Avernus.
 
 #### The Warrior's General
 
-[[4. World Almanac/NPCs/Zariel.md\|Zariel]] is no politician. She lives to fight, and she bases her assessment of those she meets on a combination of their combat skills and their willingness to use those skills. In [[4. World Almanac/NPCs/Zariel.md\|Zariel]]'s eyes, zeal and fury are as important in a fight as iron discipline and extensive training.
+[[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]] is no politician. She lives to fight, and she bases her assessment of those she meets on a combination of their combat skills and their willingness to use those skills. In [[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]]'s eyes, zeal and fury are as important in a fight as iron discipline and extensive training.
 
-That outlook has made her something of a political pariah, since she has spurned overtures of alliance from other Lords of the Nine and elected to swell the ranks of her armies through the aggressive recruitment of mortal souls. Her agents offer gifts of martial skill and courage to any who are willing to bargain. [[4. World Almanac/NPCs/Zariel.md\|Zariel]] needs souls that yearn to prove their worth on the battlefield.
+That outlook has made her something of a political pariah, since she has spurned overtures of alliance from other Lords of the Nine and elected to swell the ranks of her armies through the aggressive recruitment of mortal souls. Her agents offer gifts of martial skill and courage to any who are willing to bargain. [[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]] needs souls that yearn to prove their worth on the battlefield.
 
 #### Lady of Ruin
 
-[[4. World Almanac/NPCs/Zariel.md\|Zariel]] rules over the ruin that Avernus has become. Once it was a bustling realm filled with cities, trade outposts, and other features, but recent activity in the Blood War has reduced it to a blasted wasteland. The few structures still standing are citadels constructed by the devils to repel attackers, to be rebuilt each time the front line of the war moves. The devils are in control of Avernus at present, though the fighting goes on (as it always does) in isolated locales throughout the layer.
+[[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]] rules over the ruin that Avernus has become. Once it was a bustling realm filled with cities, trade outposts, and other features, but recent activity in the Blood War has reduced it to a blasted wasteland. The few structures still standing are citadels constructed by the devils to repel attackers, to be rebuilt each time the front line of the war moves. The devils are in control of Avernus at present, though the fighting goes on (as it always does) in isolated locales throughout the layer.
 
 Adventurers able to avoid the other occupants can find treasure within some of the ruins, though they must venture to the fringes of the active conflict to have any hope of finding places that have not yet been looted. Many of the active citadels on Avernus loom over the River Styx or surround portals to other planes or to Dis. An amnizu presides over each location, directing the lemures that emerge from the Styx, marshaling forces against invaders, and preventing unauthorized travel.
 
@@ -213,13 +213,13 @@ Adventurers able to avoid the other occupants can find treasure within some of t
 
 ### Dispater
 
-> [!quote]- A quote from Dispater  
+> [!quote] A quote from Dispater  
 > 
 > The cosmos is a grand game. He who knows its rules the best shall win the prize.
 
 Dispater is the foremost arms dealer of the Nine Hells, and perhaps the greatest weapons supplier in all the planes. As the lord of Dis, he oversees a mining and smelting operation that continually churns out weapons and armor. Using some of the great number of secret techniques Dispater has unearthed over his lifetime, the foundries of Dis produce deadly armaments that help to stem the abyssal tide. The fighting requires constant reinforcements, creating a voracious appetite for the products of the iron mines on Dis and the workshops in the sprawling metropolis that shares the name of the layer.
 
-Dispater trusts no one and dislikes surprises. Since [[4. World Almanac/NPCs/Zariel.md\|Zariel]]'s rise to power, he has taken to dwelling in the libraries inside his iron palace. He employs a network of spies and informants to watch over anyone that might threaten him, a measure of his deep paranoia. Dispater has created an impenetrable suit of adamantine armor for himself, imbued with charms designed to foil spells and keep him safe in any environment, no matter how hostile. No one can guess at all of its features, since he crafted it using methods that only he has mastered.
+Dispater trusts no one and dislikes surprises. Since [[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]]'s rise to power, he has taken to dwelling in the libraries inside his iron palace. He employs a network of spies and informants to watch over anyone that might threaten him, a measure of his deep paranoia. Dispater has created an impenetrable suit of adamantine armor for himself, imbued with charms designed to foil spells and keep him safe in any environment, no matter how hostile. No one can guess at all of its features, since he crafted it using methods that only he has mastered.
 
 Dispater's paranoia affects everything he does. For example, he often dispatches orders and other missives by branding his message on the back of an imp. The imp wears a leather vest that conceals the message, and the laces of the vest are knitted into the imp's heart. If the vest is removed by anyone other than the intended recipient, that act kills the imp and causes its body to disintegrate before the message can be read.
 
@@ -235,7 +235,7 @@ To Dispater, all of reality is a contest played out under secret rules. If he ca
 
 ### Mammon
 
-> [!quote]- A quote from Mammon  
+> [!quote] A quote from Mammon  
 > 
 > The count of my coins is more reliable than any roster of mortal hearts or immortal souls.
 
@@ -263,7 +263,7 @@ Mammon refuses to spend any more coin than necessary to keep the soul marketplac
 
 ### Fierna and Belial
 
-> [!quote]- A quote from Fierna  
+> [!quote] A quote from Fierna  
 > 
 > A paladin? How exquisite! Sit, please. Rest. Tell me about the god that would send such a bright soul on so long and dark a journey.
 
@@ -291,7 +291,7 @@ Fierna takes a direct interest in the soul trade. Her prodigious intellect allow
 
 ### Levistus
 
-> [!quote]- A quote from Levistus  
+> [!quote] A quote from Levistus  
 > 
 > Though ice might hold my body in place, it has done nothing to contain my ambition.
 
@@ -301,11 +301,11 @@ As part of Levistus's punishment, Asmodeus decreed that he must offer escape and
 
 #### A Contested Realm
 
-Levistus was not always the lord of Stygia. The archdevil [[4. World Almanac/NPCs/Geryon.md\|Geryon]] previously ruled over the layer. The two constantly vied for control of Stygia. The conflict ended when Asmodeus brought down his punishment on Levistus, who was frozen just after his latest victory over [[4. World Almanac/NPCs/Geryon.md\|Geryon]]. The displaced lord still schemes to supplant Levistus as ruler of the realm, but he can't directly affect his foe, since the ice that imprisons Levistus is impervious to harm.
+Levistus was not always the lord of Stygia. The archdevil [[4. World Almanac/NPCs/Geryon (MPMM).md\|Geryon]] previously ruled over the layer. The two constantly vied for control of Stygia. The conflict ended when Asmodeus brought down his punishment on Levistus, who was frozen just after his latest victory over [[4. World Almanac/NPCs/Geryon (MPMM).md\|Geryon]]. The displaced lord still schemes to supplant Levistus as ruler of the realm, but he can't directly affect his foe, since the ice that imprisons Levistus is impervious to harm.
 
-Violence does, however, remain a viable option for [[4. World Almanac/NPCs/Geryon.md\|Geryon]] against Levistus's servants. As such, Stygia has become a war-wracked realm. Any devils bound to either of the archdevils that aren't needed for service in the Blood War engage in constant skirmishes across the ice, and yugoloths and other mercenaries from across the planes play a key role in the struggle. Both sides sometimes employ adventurers to seek out knowledge that could free Levistus or allow [[4. World Almanac/NPCs/Geryon.md\|Geryon]] to vanquish him and ascend to the lordship.
+Violence does, however, remain a viable option for [[4. World Almanac/NPCs/Geryon (MPMM).md\|Geryon]] against Levistus's servants. As such, Stygia has become a war-wracked realm. Any devils bound to either of the archdevils that aren't needed for service in the Blood War engage in constant skirmishes across the ice, and yugoloths and other mercenaries from across the planes play a key role in the struggle. Both sides sometimes employ adventurers to seek out knowledge that could free Levistus or allow [[4. World Almanac/NPCs/Geryon (MPMM).md\|Geryon]] to vanquish him and ascend to the lordship.
 
-[[4. World Almanac/NPCs/Geryon.md\|Geryon]] fulfills his responsibilities in the soul trade by continuing to court mortals through his agents, offering them superior strength and great physical prowess in return for their allegiance.
+[[4. World Almanac/NPCs/Geryon (MPMM).md\|Geryon]] fulfills his responsibilities in the soul trade by continuing to court mortals through his agents, offering them superior strength and great physical prowess in return for their allegiance.
 
 #### A Frozen Wasteland
 
@@ -315,7 +315,7 @@ The presence of so many creatures native to the Material Plane has led to specul
 
 ### Glasya
 
-> [!quote]- A quote from Glasya  
+> [!quote] A quote from Glasya  
 > 
 > Of course I love my father. Without him, whom would I have to strive against?
 
@@ -368,7 +368,7 @@ A notable portion of Glasya's petitioners are souls who have pledged themselves 
 
 ### Baalzebul
 
-> [!quote]- A quote from Baalzebul  
+> [!quote] A quote from Baalzebul  
 > 
 > Through sufficient penance and grace, even the lowliest can redeem themselves. Am I not a living testament to that fact?
 
@@ -404,7 +404,7 @@ Although Baalzebul claims a great number of unsuspecting souls, almost all of th
 
 ### Mephistopheles
 
-> [!quote]- A quote from Mephistopheles  
+> [!quote] A quote from Mephistopheles  
 > 
 > There are few problems that cannot be solved through the application of overwhelming arcane firepower.
 
@@ -414,7 +414,7 @@ Mephistopheles keeps his realm churning with punishing storms. He doesn't entert
 
 The foremost wizard in the Hells, Mephistopheles suffers nothing that would compromise his intellectual focus. He hates distractions and allows only particular devils to speak to him without first being spoken to. He has been known to disintegrate minions for the smallest transgressions, and sometimes carries out an execution simply because he suspected that a devil was about to do something to annoy him.
 
-Mephistopheles is able to devote almost all his time to his research thanks to the loyalty of [[4. World Almanac/NPCs/Hutijin.md\|Hutijin]], his top lieutenant. Even though [[4. World Almanac/NPCs/Hutijin.md\|Hutijin]] commands enough power to threaten his master's position, he is content to remain at the right hand of the throne, at least for the time being.
+Mephistopheles is able to devote almost all his time to his research thanks to the loyalty of [[4. World Almanac/NPCs/Hutijin (MPMM).md\|Hutijin]], his top lieutenant. Even though [[4. World Almanac/NPCs/Hutijin (MPMM).md\|Hutijin]] commands enough power to threaten his master's position, he is content to remain at the right hand of the throne, at least for the time being.
 
 #### Experiments in the Unknown
 
@@ -527,7 +527,7 @@ Cambions have the Innate Spellcasting trait. When customizing an infernal cambio
 
 A cambion linked to a specific devil typically gains any special traits conferred to that devil's cultists.
 
-Some devils grant a unique ability to their spawn that replaces the cambion's Fiendish Charm trait; [[4. World Almanac/NPCs/Zariel.md\|Zariel]] and [[4. World Almanac/NPCs/Geryon.md\|Geryon]] have a penchant for spawning cambions to serve as war leaders among their followers. The two of them grant the Fury of the Nine ability in place of Fiendish Charm.
+Some devils grant a unique ability to their spawn that replaces the cambion's Fiendish Charm trait; [[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]] and [[4. World Almanac/NPCs/Geryon (MPMM).md\|Geryon]] have a penchant for spawning cambions to serve as war leaders among their followers. The two of them grant the Fury of the Nine ability in place of Fiendish Charm.
 
 #### Fury of the Nine
 
@@ -537,15 +537,15 @@ As a bonus action, the cambion chooses an other creature that can see or hear it
 
 At the DM's option, you can create a tiefling character who has a special link to one of the Lords of the Nine Hells. This link is represented by a subrace.
 
-- [[5. Mechanics/Races/Tiefling Asmodeus.md\|Tiefling (Asmodeus)]]  
-- [[5. Mechanics/Races/Tiefling Baalzebul.md\|Tiefling (Baalzebul)]]  
-- [[5. Mechanics/Races/Tiefling Dispater.md\|Tiefling (Dispater)]]  
-- [[5. Mechanics/Races/Tiefling Fierna.md\|Tiefling (Fierna)]]  
-- [[5. Mechanics/Races/Tiefling Glasya.md\|Tiefling (Glasya)]]  
-- [[5. Mechanics/Races/Tiefling Levistus.md\|Tiefling (Levistus)]]  
-- [[5. Mechanics/Races/Tiefling Mammon.md\|Tiefling (Mammon)]]  
-- [[5. Mechanics/Races/Tiefling Mephistopheles.md\|Tiefling (Mephistopheles)]]  
-- [[5. Mechanics/Races/Tiefling Zariel.md\|Tiefling (Zariel)]]  
+- [[5. Mechanics/Races/Tiefling Asmodeus (MTF).md\|Tiefling (Asmodeus)]]  
+- [[5. Mechanics/Races/Tiefling Baalzebul (MTF).md\|Tiefling (Baalzebul)]]  
+- [[5. Mechanics/Races/Tiefling Dispater (MTF).md\|Tiefling (Dispater)]]  
+- [[5. Mechanics/Races/Tiefling Fierna (MTF).md\|Tiefling (Fierna)]]  
+- [[5. Mechanics/Races/Tiefling Glasya (MTF).md\|Tiefling (Glasya)]]  
+- [[5. Mechanics/Races/Tiefling Levistus (MTF).md\|Tiefling (Levistus)]]  
+- [[5. Mechanics/Races/Tiefling Mammon (MTF).md\|Tiefling (Mammon)]]  
+- [[5. Mechanics/Races/Tiefling Mephistopheles (MTF).md\|Tiefling (Mephistopheles)]]  
+- [[5. Mechanics/Races/Tiefling Zariel (MTF).md\|Tiefling (Zariel)]]  
 
 ## Devil Customization Tables
 
@@ -561,7 +561,7 @@ The demon princes' arrogance is exceeded only by their ambition. While any ratio
 
 ### Scourge of Worlds
 
-> [!quote]- A quote from Iuz the Old  
+> [!quote] A quote from Iuz the Old  
 > 
 > You must understand that my ambitions do not stop here in Doraaka, or even at the doorstep of Greyhawk or the Amedio jungles beyond. Oerth is but the first of many worlds that will fall.
 
@@ -635,7 +635,7 @@ Those who would navigate the Abyss always enter the place in a random location. 
 
 ### Evil Inchoate
 
-> [!quote]- A quote from [[4. World Almanac/NPCs/Orcus.md\|Orcus]]  
+> [!quote] A quote from [[4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]]  
 > 
 > I will be the last creature when I am done. The cosmos will then be perfect, free of the braying abominations that are all other living things.
 
@@ -657,7 +657,7 @@ Less intelligent and less powerful demons typically have correspondingly modest 
 > 
 > For this reason, demon lords hide their amulets away and trust no one, not even their followers, with knowledge of the location. Such a site is usually protected with intricate traps, mindless servants, and other defenses that bring no risk of subversion or betrayal.
 > 
-> If an archdevil were ever to acquire a demonic amulet, that event could signal a tipping point in the Blood War. If Asmodeus held [[4. World Almanac/NPCs/Demogorgon.md\|Demogorgon]]'s amulet, for instance, the demon lord might find itself in a position from which there is no escape.
+> If an archdevil were ever to acquire a demonic amulet, that event could signal a tipping point in the Blood War. If Asmodeus held [[4. World Almanac/NPCs/Demogorgon (MPMM).md\|Demogorgon]]'s amulet, for instance, the demon lord might find itself in a position from which there is no escape.
 ^demonic-amulets-blessing-and-curse
 
 ## Lords and Their Thralls
@@ -670,120 +670,120 @@ Many cultists gravitate to a demon lord out of a desire for power. Others find t
 
 ### Baphomet
 
-Known as the Horned King, [[4. World Almanac/NPCs/Baphomet.md\|Baphomet]] divides the creatures of the world into two groups. Those who acknowledge his power are his servants, and he endows them with savagery and a hunter's cunning. The rest are prey, creatures to be hunted and slaughtered. His aim is to transform the cosmos into his personal hunting ground.
+Known as the Horned King, [[4. World Almanac/NPCs/Baphomet (MPMM).md\|Baphomet]] divides the creatures of the world into two groups. Those who acknowledge his power are his servants, and he endows them with savagery and a hunter's cunning. The rest are prey, creatures to be hunted and slaughtered. His aim is to transform the cosmos into his personal hunting ground.
 
-[[4. World Almanac/NPCs/Baphomet.md\|Baphomet]] is a savage entity, but he tempers his ferocity with shrewdness. He loves the hunt and the sense of impending doom that comes over prey that can't escape his pursuit. His fondness for labyrinths, instilled in the minotaurs he created, reflects this aspect of his personality. [[4. World Almanac/NPCs/Baphomet.md\|Baphomet]] studies every detail of the mazes he creates and exults in the dread that overcome those who become lost in them. He tracks them at his leisure, striking only after the maze's contorted corridors have exhausted the energy and the hope of his victims.
+[[4. World Almanac/NPCs/Baphomet (MPMM).md\|Baphomet]] is a savage entity, but he tempers his ferocity with shrewdness. He loves the hunt and the sense of impending doom that comes over prey that can't escape his pursuit. His fondness for labyrinths, instilled in the minotaurs he created, reflects this aspect of his personality. [[4. World Almanac/NPCs/Baphomet (MPMM).md\|Baphomet]] studies every detail of the mazes he creates and exults in the dread that overcome those who become lost in them. He tracks them at his leisure, striking only after the maze's contorted corridors have exhausted the energy and the hope of his victims.
 
 #### Cultists
 
-The cult of [[4. World Almanac/NPCs/Baphomet.md\|Baphomet]] attracts those who see themselves as superior to everyone else, to the extent that they consider other people little more than animals. [[4. World Almanac/NPCs/Baphomet.md\|Baphomet]]'s teachings reinforce these beliefs, appealing to the ego and justifying narcissism. Bigots are also drawn to [[4. World Almanac/NPCs/Baphomet.md\|Baphomet]]'s doctrine of individual superiority.
+The cult of [[4. World Almanac/NPCs/Baphomet (MPMM).md\|Baphomet]] attracts those who see themselves as superior to everyone else, to the extent that they consider other people little more than animals. [[4. World Almanac/NPCs/Baphomet (MPMM).md\|Baphomet]]'s teachings reinforce these beliefs, appealing to the ego and justifying narcissism. Bigots are also drawn to [[4. World Almanac/NPCs/Baphomet (MPMM).md\|Baphomet]]'s doctrine of individual superiority.
 
-Cultists of [[4. World Almanac/NPCs/Baphomet.md\|Baphomet]] include nobles who use their vassals as playthings, assassins who practice their murderous art for the sheer love of hunting intelligent creatures, and paranoid humans who combine a hatred of outsiders with bloodthirstiness.
+Cultists of [[4. World Almanac/NPCs/Baphomet (MPMM).md\|Baphomet]] include nobles who use their vassals as playthings, assassins who practice their murderous art for the sheer love of hunting intelligent creatures, and paranoid humans who combine a hatred of outsiders with bloodthirstiness.
 
-Typically, a cult builds a maze beneath a castle, a guild hall, or some other place it controls. The cultists drug their victims, strip them of their weapons and armor, and place them in the labyrinth before they wake up disoriented. Then the cultists stalk their prey in the maze. They howl as they chase their quarry, striking fear into their victims' hearts before descending for the kill. If the hunt claims a particularly powerful creature, [[4. World Almanac/NPCs/Baphomet.md\|Baphomet]] might bestow boons on the cultists as a reward.
+Typically, a cult builds a maze beneath a castle, a guild hall, or some other place it controls. The cultists drug their victims, strip them of their weapons and armor, and place them in the labyrinth before they wake up disoriented. Then the cultists stalk their prey in the maze. They howl as they chase their quarry, striking fear into their victims' hearts before descending for the kill. If the hunt claims a particularly powerful creature, [[4. World Almanac/NPCs/Baphomet (MPMM).md\|Baphomet]] might bestow boons on the cultists as a reward.
 
 ### Demogorgon
 
 The Prince of Demons is a being of unfettered violence and rage, the mightiest of the demon lords. His twin heads, Aameul and Hathradiah, compete in some ways and cooperate in others. The result is an entity that is capable of devising and enacting the most clever strategies, paranoid at all times about threats to his rule (which certainly exist in the chaos of the Abyss), and possessed of immense physical power.
 
-[[4. World Almanac/NPCs/Demogorgon.md\|Demogorgon]] prefers to meets every challenge with overwhelming force and to ferret out enemies long before they can marshal the strength to make a serious stand against him. He sees every living creature as a potential threat-and only those who debase themselves before him have a chance of escaping his wrath.
+[[4. World Almanac/NPCs/Demogorgon (MPMM).md\|Demogorgon]] prefers to meets every challenge with overwhelming force and to ferret out enemies long before they can marshal the strength to make a serious stand against him. He sees every living creature as a potential threat-and only those who debase themselves before him have a chance of escaping his wrath.
 
-His ultimate goal is to empty the multiverse of all other creatures, even his cultists. Free from any prospect of being betrayed or insulted, he can finally rest in a perfectly peaceful cosmos. According to one hypothesis, if [[4. World Almanac/NPCs/Demogorgon.md\|Demogorgon]] were ever to achieve this end, his two heads would finally fight to the death, each devouring the other and leaving behind nothing but a void.
+His ultimate goal is to empty the multiverse of all other creatures, even his cultists. Free from any prospect of being betrayed or insulted, he can finally rest in a perfectly peaceful cosmos. According to one hypothesis, if [[4. World Almanac/NPCs/Demogorgon (MPMM).md\|Demogorgon]] were ever to achieve this end, his two heads would finally fight to the death, each devouring the other and leaving behind nothing but a void.
 
 #### Cultists
 
-Demons comprise the majority of [[4. World Almanac/NPCs/Demogorgon.md\|Demogorgon]]'s cultists, since he commands unmatched power in the Abyss. The mere sight of him anywhere in that realm can transfix lesser demons and instantly compel them to do his bidding.
+Demons comprise the majority of [[4. World Almanac/NPCs/Demogorgon (MPMM).md\|Demogorgon]]'s cultists, since he commands unmatched power in the Abyss. The mere sight of him anywhere in that realm can transfix lesser demons and instantly compel them to do his bidding.
 
-In mortal realms, people can fall under his sway simply by laying eyes on a true copy of his symbol, crafted either by [[4. World Almanac/NPCs/Demogorgon.md\|Demogorgon]] or one of his most powerful demonic followers. An individual exposed to such a symbol becomes an agent of [[4. World Almanac/NPCs/Demogorgon.md\|Demogorgon]], dedicated ever after to a life of lurking in the shadows, lashing out against unsuspecting victims and striking fear into those who discover the bodies left behind.
+In mortal realms, people can fall under his sway simply by laying eyes on a true copy of his symbol, crafted either by [[4. World Almanac/NPCs/Demogorgon (MPMM).md\|Demogorgon]] or one of his most powerful demonic followers. An individual exposed to such a symbol becomes an agent of [[4. World Almanac/NPCs/Demogorgon (MPMM).md\|Demogorgon]], dedicated ever after to a life of lurking in the shadows, lashing out against unsuspecting victims and striking fear into those who discover the bodies left behind.
 
-> [!quote]-  
+> [!quote]  
 > 
-> I studied [[4. World Almanac/NPCs/Demogorgon.md\|Demogorgon]]'s symbol. I thought that, by looking at it through a mirror, I might avoid its effects. If anything, viewing its reflection made its effect more potent and more subtle. It was Rary who saved me, and I thought he had been spared the symbol's effects. I don't have many regrets, but underestimating that symbol is one of my greatest.
+> I studied [[4. World Almanac/NPCs/Demogorgon (MPMM).md\|Demogorgon]]'s symbol. I thought that, by looking at it through a mirror, I might avoid its effects. If anything, viewing its reflection made its effect more potent and more subtle. It was Rary who saved me, and I thought he had been spared the symbol's effects. I don't have many regrets, but underestimating that symbol is one of my greatest.
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315585_cn_wmask.webp#center]]
 
 ### Fraz-Urb'luu
 
-The most deceptive of all demons, [[4. World Almanac/NPCs/Fraz Urbluu.md\|Fraz-Urb'luu]] is a master illusionist and weaver of lies. He thrives by luring his cultists and his enemies alike into lives of self-delusion. He can take on nearly any form, usually appearing in whatever shape is most pleasing to a potential cultist.
+The most deceptive of all demons, [[4. World Almanac/NPCs/Fraz Urbluu (MPMM).md\|Fraz-Urb'luu]] is a master illusionist and weaver of lies. He thrives by luring his cultists and his enemies alike into lives of self-delusion. He can take on nearly any form, usually appearing in whatever shape is most pleasing to a potential cultist.
 
-[[4. World Almanac/NPCs/Fraz Urbluu.md\|Fraz-Urb'luu]] considers himself the smartest entity in the cosmos, the only one who can see through all of reality's lies and understand the truth that lies beyond them. Yet the truth that he sees remains known only to him. He utters cryptic remarks about a grand design that guides the cosmos toward some unknown end, but none can say whether these statements are another layer of deception or evidence of a true insight.
+[[4. World Almanac/NPCs/Fraz Urbluu (MPMM).md\|Fraz-Urb'luu]] considers himself the smartest entity in the cosmos, the only one who can see through all of reality's lies and understand the truth that lies beyond them. Yet the truth that he sees remains known only to him. He utters cryptic remarks about a grand design that guides the cosmos toward some unknown end, but none can say whether these statements are another layer of deception or evidence of a true insight.
 
 #### Cultists
 
-Those who worship [[4. World Almanac/NPCs/Fraz Urbluu.md\|Fraz-Urb'luu]] fall into two camps. Most of his so-called "cultists," rather than being true volunteers, are unfortunates duped into honoring him because they listened to his lies. [[4. World Almanac/NPCs/Fraz Urbluu.md\|Fraz-Urb'luu]] might appear to a desperate paladin and claim to be a saintly figure, or contact a wizard while in the guise of a wise sage. He tells these folk whatever stories and promises they want to hear, playing to their needs and slowly drawing them into his circle of influence. He especially enjoys using the arrogance and vanity of good folk against them, helping to bring about their downfall.
+Those who worship [[4. World Almanac/NPCs/Fraz Urbluu (MPMM).md\|Fraz-Urb'luu]] fall into two camps. Most of his so-called "cultists," rather than being true volunteers, are unfortunates duped into honoring him because they listened to his lies. [[4. World Almanac/NPCs/Fraz Urbluu (MPMM).md\|Fraz-Urb'luu]] might appear to a desperate paladin and claim to be a saintly figure, or contact a wizard while in the guise of a wise sage. He tells these folk whatever stories and promises they want to hear, playing to their needs and slowly drawing them into his circle of influence. He especially enjoys using the arrogance and vanity of good folk against them, helping to bring about their downfall.
 
-A few of his followers are illusionists, deceivers, and con artists who seek him out. [[4. World Almanac/NPCs/Fraz Urbluu.md\|Fraz-Urb'luu]] makes use of their talents, and rewards these supplicants appropriately, as long as they follow his example in the campaign to bring about the downfall of all that is lawful and good.
+A few of his followers are illusionists, deceivers, and con artists who seek him out. [[4. World Almanac/NPCs/Fraz Urbluu (MPMM).md\|Fraz-Urb'luu]] makes use of their talents, and rewards these supplicants appropriately, as long as they follow his example in the campaign to bring about the downfall of all that is lawful and good.
 
 ### Graz'zt
 
-The lord of pleasure and limitless indulgence, [[4. World Almanac/NPCs/Grazzt.md\|Graz'zt]] is the ultimate hedonist. He incites lust and uncontrollable urges in both his cultists and his enemies.
+The lord of pleasure and limitless indulgence, [[4. World Almanac/NPCs/Grazzt (MPMM).md\|Graz'zt]] is the ultimate hedonist. He incites lust and uncontrollable urges in both his cultists and his enemies.
 
-In [[4. World Almanac/NPCs/Grazzt.md\|Graz'zt]]'s eyes, the universe is a great plaything, and one day he will be its master. All other creatures and things will be allowed to exist only if they give him pleasure. When he ascends to dominate the cosmos, all who are left will love and worship him.
+In [[4. World Almanac/NPCs/Grazzt (MPMM).md\|Graz'zt]]'s eyes, the universe is a great plaything, and one day he will be its master. All other creatures and things will be allowed to exist only if they give him pleasure. When he ascends to dominate the cosmos, all who are left will love and worship him.
 
-Despite his extreme self-indulgence, [[4. World Almanac/NPCs/Grazzt.md\|Graz'zt]] isn't blind to what goes on around him. He can curb his lust when he needs to plot against an enemy or counter an attack. When he must contend with an enemy, he fights with a detached, thoughtful demeanor, channeling his frustration at being distracted from pleasurable pursuits into the actions of a cool, efficient killer.
+Despite his extreme self-indulgence, [[4. World Almanac/NPCs/Grazzt (MPMM).md\|Graz'zt]] isn't blind to what goes on around him. He can curb his lust when he needs to plot against an enemy or counter an attack. When he must contend with an enemy, he fights with a detached, thoughtful demeanor, channeling his frustration at being distracted from pleasurable pursuits into the actions of a cool, efficient killer.
 
 #### Cultists
 
-[[4. World Almanac/NPCs/Grazzt.md\|Graz'zt]] attracts most of his followers from the ranks of those who seek pleasure above all else. He promises dark delights and forbidden ecstasies, in return for total submission to him. His cult gathers new members by circulating tracts, poems, and other works of art that depict encounters with him. Upstanding folk regard these works as vulgar, wretched, and obscene, but the delights they depict or describe sometimes lure a curious soul into learning more about the demon lord.
+[[4. World Almanac/NPCs/Grazzt (MPMM).md\|Graz'zt]] attracts most of his followers from the ranks of those who seek pleasure above all else. He promises dark delights and forbidden ecstasies, in return for total submission to him. His cult gathers new members by circulating tracts, poems, and other works of art that depict encounters with him. Upstanding folk regard these works as vulgar, wretched, and obscene, but the delights they depict or describe sometimes lure a curious soul into learning more about the demon lord.
 
-When a cult beseeches him during the induction of new members, [[4. World Almanac/NPCs/Grazzt.md\|Graz'zt]] sends an emissary or an avatar to preside over the proceedings, which conclude with the new followers being treated to a night of debauchery.
+When a cult beseeches him during the induction of new members, [[4. World Almanac/NPCs/Grazzt (MPMM).md\|Graz'zt]] sends an emissary or an avatar to preside over the proceedings, which conclude with the new followers being treated to a night of debauchery.
 
 > [!note] Graz'zt's Murky Past
 > 
-> Sages have put forth ideas for why demons consider the denizens of the Nine Hells as the greatest threat to their designs for the cosmos. Some researchers claim to have uncovered evidence that the animosity between demons and devils has its roots in a primeval time when [[4. World Almanac/NPCs/Grazzt.md\|Graz'zt]], now a demon lord, was a member of the devils' hierarchy.
+> Sages have put forth ideas for why demons consider the denizens of the Nine Hells as the greatest threat to their designs for the cosmos. Some researchers claim to have uncovered evidence that the animosity between demons and devils has its roots in a primeval time when [[4. World Almanac/NPCs/Grazzt (MPMM).md\|Graz'zt]], now a demon lord, was a member of the devils' hierarchy.
 > 
-> As the hypothesis goes, [[4. World Almanac/NPCs/Grazzt.md\|Graz'zt]] wasn't satisfied with the prospect of being eternally subservient to Asmodeus in the Hells, where only one devil can claim absolute rulership. The Abyss offers greater freedom to those who are powerful enough to carve out a realm for themselves-and, after forsaking his status in the Hells, that's exactly what [[4. World Almanac/NPCs/Grazzt.md\|Graz'zt]] did.
+> As the hypothesis goes, [[4. World Almanac/NPCs/Grazzt (MPMM).md\|Graz'zt]] wasn't satisfied with the prospect of being eternally subservient to Asmodeus in the Hells, where only one devil can claim absolute rulership. The Abyss offers greater freedom to those who are powerful enough to carve out a realm for themselves-and, after forsaking his status in the Hells, that's exactly what [[4. World Almanac/NPCs/Grazzt (MPMM).md\|Graz'zt]] did.
 > 
-> Those who find this idea plausible hope that [[4. World Almanac/NPCs/Grazzt.md\|Graz'zt]]'s defection is a unique event, never to be repeated. If that turns out not to be the case, another such shift could be a major turning point in the Blood War.
+> Those who find this idea plausible hope that [[4. World Almanac/NPCs/Grazzt (MPMM).md\|Graz'zt]]'s defection is a unique event, never to be repeated. If that turns out not to be the case, another such shift could be a major turning point in the Blood War.
 ^grazzts-murky-past
 
 ### Juiblex
 
-The Faceless Lord is a truly alien creature, said to be responsible for spawning the oozes found throughout the world. Those who study such topics theorize that every such creature has a connection to [[4. World Almanac/NPCs/Juiblex.md\|Juiblex]], and the demon lord sees and knows all that its minions encounter.
+The Faceless Lord is a truly alien creature, said to be responsible for spawning the oozes found throughout the world. Those who study such topics theorize that every such creature has a connection to [[4. World Almanac/NPCs/Juiblex (MPMM).md\|Juiblex]], and the demon lord sees and knows all that its minions encounter.
 
-Wherever [[4. World Almanac/NPCs/Juiblex.md\|Juiblex]] wanders, it leaves trailings in its wake that coalesce into new slimes and oozes. Most sages believe that if [[4. World Almanac/NPCs/Juiblex.md\|Juiblex]] and its spawn were given free rein, they would one day overrun the universe, turning every realm into an ooze-infested wasteland.
+Wherever [[4. World Almanac/NPCs/Juiblex (MPMM).md\|Juiblex]] wanders, it leaves trailings in its wake that coalesce into new slimes and oozes. Most sages believe that if [[4. World Almanac/NPCs/Juiblex (MPMM).md\|Juiblex]] and its spawn were given free rein, they would one day overrun the universe, turning every realm into an ooze-infested wasteland.
 
 #### Cultists
 
-[[4. World Almanac/NPCs/Juiblex.md\|Juiblex]] has few cultists, and most of them are incurably disturbed or delusional. His mortal cultists preach of the glorious day to come, when a tide of slimes and oozes will swallow the world. These wretched followers believe that by aligning with [[4. World Almanac/NPCs/Juiblex.md\|Juiblex]], they can avoid the fate that awaits all other living creatures.
+[[4. World Almanac/NPCs/Juiblex (MPMM).md\|Juiblex]] has few cultists, and most of them are incurably disturbed or delusional. His mortal cultists preach of the glorious day to come, when a tide of slimes and oozes will swallow the world. These wretched followers believe that by aligning with [[4. World Almanac/NPCs/Juiblex (MPMM).md\|Juiblex]], they can avoid the fate that awaits all other living creatures.
 
-The lord's followers dwell underground, where they maintain a stable of oozes and slimes that help to protect their gathering place. They use traps to capture sentient creatures, then feed them to the oozes in a simulation of what awaits all who don't revere [[4. World Almanac/NPCs/Juiblex.md\|Juiblex]].
+The lord's followers dwell underground, where they maintain a stable of oozes and slimes that help to protect their gathering place. They use traps to capture sentient creatures, then feed them to the oozes in a simulation of what awaits all who don't revere [[4. World Almanac/NPCs/Juiblex (MPMM).md\|Juiblex]].
 
 ### Orcus
 
 The bloated Demon Prince of the Undead seeks to end all life in the cosmos, replacing the living with immortal, undead creatures that answer only to him. In this grim future, the many suns of the Material Plane are extinguished, and all hope has faded away. All that remains is the eternally static realm of the living dead.
 
-[[4. World Almanac/NPCs/Orcus.md\|Orcus]] is the universe's staunchest advocate of stagnation. He sees the activity of life as noisy, crude, and maddening. It rakes at his senses like the claws of a rat scratch across a hard floor. In his view, the universe can know peace only when life's incessant hum is replaced with the peace and quiet of the world of the dead.
+[[4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] is the universe's staunchest advocate of stagnation. He sees the activity of life as noisy, crude, and maddening. It rakes at his senses like the claws of a rat scratch across a hard floor. In his view, the universe can know peace only when life's incessant hum is replaced with the peace and quiet of the world of the dead.
 
 #### Cultists
 
-Worshipers of [[4. World Almanac/NPCs/Orcus.md\|Orcus]] are heretics and blasphemers who see the gods of the multiverse as cruel, unjust creatures. They resent that mortals must suffer and die at the whims of these entities. In [[4. World Almanac/NPCs/Orcus.md\|Orcus]], they see the promise of release from pain without the demand of obedience. In the state of undeath that [[4. World Almanac/NPCs/Orcus.md\|Orcus]] offers, they will be free from hunger, fear, and worry.
+Worshipers of [[4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] are heretics and blasphemers who see the gods of the multiverse as cruel, unjust creatures. They resent that mortals must suffer and die at the whims of these entities. In [[4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]], they see the promise of release from pain without the demand of obedience. In the state of undeath that [[4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] offers, they will be free from hunger, fear, and worry.
 
-People who have lost a loved one to a tragic death are especially susceptible to his appeal. A father stricken with grief after the death of his child might seek [[4. World Almanac/NPCs/Orcus.md\|Orcus]]'s intervention in returning his child to the world after the gods cruelly snatched her away.
+People who have lost a loved one to a tragic death are especially susceptible to his appeal. A father stricken with grief after the death of his child might seek [[4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]]'s intervention in returning his child to the world after the gods cruelly snatched her away.
 
-All who would become cultists of [[4. World Almanac/NPCs/Orcus.md\|Orcus]] must be willing to become undead. Those who commit to the cause are admitted to the cult. Those who have second thoughts and attempt to decline are destroyed, their souls condemned to the Outer Planes while their bodies are animated as skeletons and zombies.
+All who would become cultists of [[4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] must be willing to become undead. Those who commit to the cause are admitted to the cult. Those who have second thoughts and attempt to decline are destroyed, their souls condemned to the Outer Planes while their bodies are animated as skeletons and zombies.
 
 ### Yeenoghu
 
-Also known as the Beast of Butchery, [[4. World Almanac/NPCs/Yeenoghu.md\|Yeenoghu]] inspires his followers to devour any creatures they meet. In his mind, the cosmos is made up only of predators and prey.
+Also known as the Beast of Butchery, [[4. World Almanac/NPCs/Yeenoghu (MPMM).md\|Yeenoghu]] inspires his followers to devour any creatures they meet. In his mind, the cosmos is made up only of predators and prey.
 
-To sate his blood lust, [[4. World Almanac/NPCs/Yeenoghu.md\|Yeenoghu]] often rampages across the Abyss, killing everything in his path. Only those demons that join him in wreaking carnage can avoid his wrath. [[4. World Almanac/NPCs/Yeenoghu.md\|Yeenoghu]]'s wanderings across the Abyss are like the meanderings of a storm. He and his cultists pass through an area like a monstrous hurricane whose course can never be predicted.
+To sate his blood lust, [[4. World Almanac/NPCs/Yeenoghu (MPMM).md\|Yeenoghu]] often rampages across the Abyss, killing everything in his path. Only those demons that join him in wreaking carnage can avoid his wrath. [[4. World Almanac/NPCs/Yeenoghu (MPMM).md\|Yeenoghu]]'s wanderings across the Abyss are like the meanderings of a storm. He and his cultists pass through an area like a monstrous hurricane whose course can never be predicted.
 
-Of all the demon lords, [[4. World Almanac/NPCs/Yeenoghu.md\|Yeenoghu]] has made the greatest mark on the Material Plane. During his rampage across the world eons ago, the race of gnolls sprang up in his wake. Every gnoll is a miniature embodiment of [[4. World Almanac/NPCs/Yeenoghu.md\|Yeenoghu]]'s rage and hunger. They mimic their creator, killing any creatures that cross them and respecting only those that can withstand their fury.
+Of all the demon lords, [[4. World Almanac/NPCs/Yeenoghu (MPMM).md\|Yeenoghu]] has made the greatest mark on the Material Plane. During his rampage across the world eons ago, the race of gnolls sprang up in his wake. Every gnoll is a miniature embodiment of [[4. World Almanac/NPCs/Yeenoghu (MPMM).md\|Yeenoghu]]'s rage and hunger. They mimic their creator, killing any creatures that cross them and respecting only those that can withstand their fury.
 
 #### Cultists
 
-[[4. World Almanac/NPCs/Yeenoghu.md\|Yeenoghu]] rarely acquires cultists other than gnolls, leucrottas, and the other creatures spawned by his incursions across the planes. The few humanoids that take up his worship are disaffected loners, many of them outcasts driven away from civilization. A cult of [[4. World Almanac/NPCs/Yeenoghu.md\|Yeenoghu]] operates like a pack of gnolls, regardless of what creatures make it up. [[4. World Almanac/NPCs/Yeenoghu.md\|Yeenoghu]] infuses them with a cannibalistic hunger, and they know that each victim they claim draws them closer to his presence.
+[[4. World Almanac/NPCs/Yeenoghu (MPMM).md\|Yeenoghu]] rarely acquires cultists other than gnolls, leucrottas, and the other creatures spawned by his incursions across the planes. The few humanoids that take up his worship are disaffected loners, many of them outcasts driven away from civilization. A cult of [[4. World Almanac/NPCs/Yeenoghu (MPMM).md\|Yeenoghu]] operates like a pack of gnolls, regardless of what creatures make it up. [[4. World Almanac/NPCs/Yeenoghu (MPMM).md\|Yeenoghu]] infuses them with a cannibalistic hunger, and they know that each victim they claim draws them closer to his presence.
 
 ### Zuggtmoy
 
-The Demon Queen of Fungi has many traits similar to those of [[4. World Almanac/NPCs/Juiblex.md\|Juiblex]]. Some sages believe she is the originator of all fungi and molds, from the mushrooms that grow in the forest to the deadliest forms of yellow mold. Those who study demons argue that [[4. World Almanac/NPCs/Zuggtmoy.md\|Zuggtmoy]] isn't merely a patron of fungi, and that her ultimate goal is to meld all living creatures into one great organism, an entity that she will then join with and rule over.
+The Demon Queen of Fungi has many traits similar to those of [[4. World Almanac/NPCs/Juiblex (MPMM).md\|Juiblex]]. Some sages believe she is the originator of all fungi and molds, from the mushrooms that grow in the forest to the deadliest forms of yellow mold. Those who study demons argue that [[4. World Almanac/NPCs/Zuggtmoy (MPMM).md\|Zuggtmoy]] isn't merely a patron of fungi, and that her ultimate goal is to meld all living creatures into one great organism, an entity that she will then join with and rule over.
 
 #### Cultists
 
-Most of [[4. World Almanac/NPCs/Zuggtmoy.md\|Zuggtmoy]]'s cultists are hapless mortals that have been infested with the demonic spores she cultivates in the fungi she created. The spores slowly devour these creatures' brains, leaving them with enough functionality to spread malevolent fungi but robbing them of the will to turn against their master.
+Most of [[4. World Almanac/NPCs/Zuggtmoy (MPMM).md\|Zuggtmoy]]'s cultists are hapless mortals that have been infested with the demonic spores she cultivates in the fungi she created. The spores slowly devour these creatures' brains, leaving them with enough functionality to spread malevolent fungi but robbing them of the will to turn against their master.
 
-A few mortals freely enter her service. Most are druids who want to exterminate civilization and replace it with wild plants and fungus, or deluded, power-hungry individuals who believe that they would retain their identities while they bring others under [[4. World Almanac/NPCs/Zuggtmoy.md\|Zuggtmoy]]'s thrall. [[4. World Almanac/NPCs/Zuggtmoy.md\|Zuggtmoy]] allows these zealots to retain their existing forms if doing so furthers her aims and helps to spread her children far and wide, but they are destined for the same fate as all the others.
+A few mortals freely enter her service. Most are druids who want to exterminate civilization and replace it with wild plants and fungus, or deluded, power-hungry individuals who believe that they would retain their identities while they bring others under [[4. World Almanac/NPCs/Zuggtmoy (MPMM).md\|Zuggtmoy]]'s thrall. [[4. World Almanac/NPCs/Zuggtmoy (MPMM).md\|Zuggtmoy]] allows these zealots to retain their existing forms if doing so furthers her aims and helps to spread her children far and wide, but they are destined for the same fate as all the others.
 
 > [!note] Lolth Extends Her Webs
 > 
@@ -813,7 +813,7 @@ Boons from demons are fickle gifts. They remain in place only as long as the dem
 
 ## Demonic Cambions
 
-Cambions spawned by demon lords sometimes manifest different abilities from a typical cambion. [[4. World Almanac/NPCs/Grazzt.md\|Graz'zt]] is notable among demon lords for the many cambions he has spawned across the multiverse. Most famous among them is Iuz, who combined his father's abyssal heritage and his mother's peerless arcane tutelage to become a demigod.
+Cambions spawned by demon lords sometimes manifest different abilities from a typical cambion. [[4. World Almanac/NPCs/Grazzt (MPMM).md\|Graz'zt]] is notable among demon lords for the many cambions he has spawned across the multiverse. Most famous among them is Iuz, who combined his father's abyssal heritage and his mother's peerless arcane tutelage to become a demigod.
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315587_cn.webp#center]]
 
@@ -825,7 +825,7 @@ Cambions have the Innate Spellcasting trait. When customizing a demonic cambion,
 
 A cambion descended from a demon can have the special traits conferred to that demon's cultists, as described in the demon's boon section.
 
-Few demons consort with mortals, and those with the charm or desire to usually grant their cambion children the Fiendish Charm ability. Cultists of [[4. World Almanac/NPCs/Baphomet.md\|Baphomet]] and [[4. World Almanac/NPCs/Orcus.md\|Orcus]] can also use foul rituals to infuse their master's strength into a young or unborn child, yielding a cult champion who can wield special abilities; a cambion linked to [[4. World Almanac/NPCs/Orcus.md\|Orcus]] replaces Fiendish Charm with Spawn of the Grave, and one linked to [[4. World Almanac/NPCs/Baphomet.md\|Baphomet]] replaces it with Horned One's Call.
+Few demons consort with mortals, and those with the charm or desire to usually grant their cambion children the Fiendish Charm ability. Cultists of [[4. World Almanac/NPCs/Baphomet (MPMM).md\|Baphomet]] and [[4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] can also use foul rituals to infuse their master's strength into a young or unborn child, yielding a cult champion who can wield special abilities; a cambion linked to [[4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] replaces Fiendish Charm with Spawn of the Grave, and one linked to [[4. World Almanac/NPCs/Baphomet (MPMM).md\|Baphomet]] replaces it with Horned One's Call.
 
 #### Horned One's Call
 
@@ -841,15 +841,15 @@ In addition, this cambion can use its Innate Spellcasting ability to cast animat
 
 This section provides tables useful for DMs who want to customize certain demons.
 
-![[5. Mechanics/Tables/Demon Customization Tables Demon Personality Traits.md\|Demon Customization Tables; Demon Personality Traits]]
+![[5. Mechanics/Tables/Demon Customization Tables Demon Personality Traits (MTF).md\|Demon Customization Tables; Demon Personality Traits]]
 
-![[5. Mechanics/Tables/Demon Customization Tables Demon Ideals.md\|Demon Customization Tables; Demon Ideals]]
+![[5. Mechanics/Tables/Demon Customization Tables Demon Ideals (MTF).md\|Demon Customization Tables; Demon Ideals]]
 
-![[5. Mechanics/Tables/Demon Customization Tables Demon Bonds.md\|Demon Customization Tables; Demon Bonds]]
+![[5. Mechanics/Tables/Demon Customization Tables Demon Bonds (MTF).md\|Demon Customization Tables; Demon Bonds]]
 
-![[5. Mechanics/Tables/Demon Customization Tables Demon Flaws.md\|Demon Customization Tables; Demon Flaws]]
+![[5. Mechanics/Tables/Demon Customization Tables Demon Flaws (MTF).md\|Demon Customization Tables; Demon Flaws]]
 
-![[5. Mechanics/Tables/Demon Customization Tables Unusual Demon Features.md\|Demon Customization Tables; Unusual Demon Features]]
+![[5. Mechanics/Tables/Demon Customization Tables Unusual Demon Features (MTF).md\|Demon Customization Tables; Unusual Demon Features]]
 
 Use the following template to quickly customize a Demon
 
@@ -859,14 +859,14 @@ The following tables can be used to generate random cults dedicated to fiends. R
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315588_cn_wmask.webp#center]]
 
-![[5. Mechanics/Tables/Fiendish Cults Cult Goals.md\|Fiendish Cults; Cult Goals]]
+![[5. Mechanics/Tables/Fiendish Cults Cult Goals (MTF).md\|Fiendish Cults; Cult Goals]]
 
-![[5. Mechanics/Tables/Fiendish Cults Cult Resources.md\|Fiendish Cults; Cult Resources]]
+![[5. Mechanics/Tables/Fiendish Cults Cult Resources (MTF).md\|Fiendish Cults; Cult Resources]]
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315589_cn.webp#center]]
 
-![[5. Mechanics/Tables/Fiendish Cults Cult Organization.md\|Fiendish Cults; Cult Organization]]
+![[5. Mechanics/Tables/Fiendish Cults Cult Organization (MTF).md\|Fiendish Cults; Cult Organization]]
 
-![[5. Mechanics/Tables/Fiendish Cults Cult Hardship.md\|Fiendish Cults; Cult Hardship]]
+![[5. Mechanics/Tables/Fiendish Cults Cult Hardship (MTF).md\|Fiendish Cults; Cult Hardship]]
 
 Use the template linked above to quickly draw up some information on a Fiendish Cult.

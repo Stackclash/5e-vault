@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: urban
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/urban
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Acolyte
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Acolyte.md|Acolyte]]
-*Source: Monster Manual p. 342, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Humanoid\Acolyte.md|Acolyte]]
+*Source: Monster Manual p. 342, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Acolytes are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities.
 
@@ -54,25 +57,6 @@ Acolytes are junior members of a clergy, usually answerable to a priest. They pe
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "PotA"
-- "SKT"
-- "ToA"
-- "WDH"
-- "GoS"
-- "BGDIA"
-- "ERLW"
-- "EGW"
-- "MOT"
-- "IDRotF"
-- "CM"
-- "CRCotN"
-- "JttRC"
-- "SjA"
-- "DSotDQ"
-- "PSI"
-- "PaBTSO"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Humanoid/token/acolyte.webp"
 ```
 ^statblock

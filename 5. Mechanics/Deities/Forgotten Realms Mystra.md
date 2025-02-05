@@ -10,7 +10,7 @@ aliases:
   - Mystra
 ---
 # Mystra
-*Source: Player's Handbook p. 294, Sword Coast Adventurer's Guide p. 125. Available in the Basic Rules.* 
+*Source: Player's Handbook p. 294, Sword Coast Adventurer's Guide p. 125. Available in the Basic Rules (2014)* 
 
 - **Alignment**: Neutral Good
 - **Domains**: Knowledge, Arcana

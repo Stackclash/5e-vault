@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 6
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/6
   - monster/size/medium
   - monster/type/humanoid/gith
-statblock: inline
 aliases:
   - Githzerai Zerth
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Githzerai Zerth.md|Githzerai Zerth]]
+# [[5. Mechanics\Bestiary\Humanoid\Githzerai Zerth.md|Githzerai Zerth]]
 *Source: Monster Manual p. 161*
 
 Focused philosophers and austere ascetics, the githzerai pursue lives of rigid order. Lean and muscular, they wear unadorned clothing free of ornamentation, keeping their own counsel and trusting few creatures outside of their own kind. Having turned their backs on their warlike githyanki kin, the githzerai maintain a strict monastic lifestyle, dwelling on islands of order in the vast sea of chaos that is the plane of Limbo.
@@ -55,7 +58,7 @@ Zerthimon challenged Gith's motives, claiming that her strict martial leadership
 
 Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md|mind flayers]] enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
 
-> [!quote]- A quote from Aristul the Yellow, master of planar lore  
+> [!quote] A quote from Aristul the Yellow, master of planar lore  
 > 
 > The githyanki and the githzerai were so profoundly scarred by their enslavement to the mind flayers that they forget they were one race, united. Having won their freedom, they wage war against each other with a hatred none can fully comprehend.
 
@@ -109,9 +112,6 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
   "name": "Unarmed Strike"
 "source":
 - "MM"
-- "WDMM"
-- "SatO"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/githzerai-zerth.webp"
 ```
 ^statblock

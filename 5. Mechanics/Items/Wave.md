@@ -4,11 +4,9 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/dmg
   - item/attunement/required
-  - item/property/martial
-  - item/property/thrown
-  - item/property/versatile
   - item/rarity/legendary
-  - item/weapon/martial/melee
+  - item/weapon/martial
+  - item/weapon/melee
 aliases:
   - Wave
 one-hand-damage: 1d6 P
@@ -16,14 +14,14 @@ two-hand-damage: 1d8 P
 range: 20/60
 ---
 # Wave
-*Melee Weapon, legendary (requires attunement by a creature that worships a god of the sea)*  
+*Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), legendary (requires attunement by a creature that worships a god of the sea)*  
 ![[5. Mechanics/Items/img/wave.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d6 P
   - Two-handed: 1d8 P
 - **Range**: 20/60
-- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 Held in the dungeon of White Plume Mountain, this trident is an exquisite weapon engraved with images of waves, shells, and sea creatures. Although you must worship a god of the sea to attune to this weapon, Wave happily accepts new converts.
@@ -34,7 +32,7 @@ The weapon also functions as a [[5. Mechanics/Items/Trident Of Fish Command.md\|
 
 ## Sentience
 
-Wave is a sentient weapon of neutral alignment, with an Intelligence of 14, a Wisdom of 10, and a Charisma of 18. It has hearing and [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] out to a range of 120 feet.
+Wave is a sentient weapon of neutral alignment, with an Intelligence of 14, a Wisdom of 10, and a Charisma of 18. It has hearing and [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to a range of 120 feet.
 
 The weapon communicates telepathically with its wielder and can speak, read, and understand Aquan. It can also speak with aquatic animals as if using a [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] spell, using telepathy to involve its wielder in the conversation.
 

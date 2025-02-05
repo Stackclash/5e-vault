@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 22
+environments: forest
+size: Gargantuan
 tags:
   - compendium/src/5e/mm
   - monster/cr/22
   - monster/environment/forest
   - monster/size/gargantuan
   - monster/type/dragon
-statblock: inline
 aliases:
   - Ancient Green Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Ancient Green Dragon.md|Ancient Green Dragon]]
-*Source: Monster Manual p. 93. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Ancient Green Dragon.md|Ancient Green Dragon]]
+*Source: Monster Manual p. 93. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
 
@@ -46,7 +49,7 @@ Green dragons accept the servitude of sentient creatures such as goblinoids, ett
 
 A green dragon's favored treasures are the sentient creatures it bends to its will, including significant figures such as popular heroes, well-known sages, and renowned bards. Among material treasures, a green dragon favors emeralds, wood carvings, musical instruments, and sculptures of humanoid subjects.
 
-> [!quote]- A quote from Pelios of Ergoth, Silvanesti seer  
+> [!quote] A quote from Pelios of Ergoth, Silvanesti seer  
 > 
 > I see an ancient elf king, his majesty long since faded, slumped and half asleep in his throne. A green dragon whispers in the king's ear, corrupting and twisting the king's dreams. This dragon's name is Cyan Bloodbane, and he means the destruction of us all.
 
@@ -133,7 +136,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "Perception": !!int "17"
   "Persuasion": !!int "11"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
 "languages": "Common, Draconic"
 "cr": "22"
@@ -156,7 +159,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ (2d8 + 8) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
@@ -174,7 +177,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
     \ must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The dragon\
     \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
@@ -185,7 +188,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "- Grasping roots and vines erupt in a 20-foot radius centered on a point\
     \ on the ground that the dragon can see within 120 feet of it. That area becomes\
     \ difficult terrain, and each creature there must succeed on a DC 15 Strength\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
     \ by the roots and vines. A creature can be freed if it or another creature takes\
     \ an action to make a DC 15 Strength check and succeeds. The roots and vines wilt\
     \ away when the dragon uses this lair action again or when the dragon dies.  \n\
@@ -204,7 +207,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ and piercing damage, and immunity to psychic damage. The wall sinks back into\
     \ the ground when the dragon uses this lair action again or when the dragon dies.\
     \  \n- Magical fog billows around one creature the dragon can see within 120 feet\
-    \ of it. The creature must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ of it. The creature must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
     \ by the dragon until initiative count 20 on the next round.  "
   "name": ""
 - "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Green Dragon.md|adult]]\
@@ -218,7 +221,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ or branch that is part of the lair makes a melee attack roll against a creature\
     \ within 10 feet of it. It has a +7 bonus to hit and deals 10 (3d6) bludgeoning\
     \ damage on a hit. If the target is a Medium or smaller creature, it must succeed\
-    \ on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
     \  "
   "name": "Additional Lair Actions"
 "regional_effects":
@@ -258,8 +261,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Additional Regional Effects"
 "source":
 - "MM"
-- "SKT"
-- "DIP"
 "image": "5. Mechanics/Bestiary/Dragon/token/ancient-green-dragon.webp"
 ```
 ^statblock

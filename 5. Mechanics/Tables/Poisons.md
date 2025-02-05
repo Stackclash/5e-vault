@@ -7,7 +7,7 @@ aliases:
   - Poisons
 ---
 # Poisons
-*Source: Dungeon Master's Guide p. 257. Available in the SRD.* 
+*Source: Dungeon Master's Guide p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 
 **Poisons**
 
@@ -15,7 +15,7 @@ aliases:
 |------|------|----------------|
 | [[5. Mechanics/Items/Assassins Blood.md\|Assassin's blood]] | Ingested | 150 gp |
 | [[5. Mechanics/Items/Burnt Othur Fumes.md\|Burnt othur fumes]] | Inhaled | 500 gp |
-| [[5. Mechanics/Items/Carrion Crawler Mucus.md\|Carrion crawler mucus]] | Contact | 200 gp |
+| [[5. Mechanics/Items/Carrion Crawler Muc(US).md\|Carrion crawler mucus]] | Contact | 200 gp |
 | [[5. Mechanics/Items/Drow Poison.md\|Drow poison]] | Injury | 200 gp |
 | [[5. Mechanics/Items/Essence Of Ether.md\|Essence of ether]] | Inhaled | 300 gp |
 | [[5. Mechanics/Items/Malice.md\|Malice]] | Inhaled | 250 gp |

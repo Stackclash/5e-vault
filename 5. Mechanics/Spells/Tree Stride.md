@@ -3,13 +3,23 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/cleric/nature-domain
+  - spell/class/bard
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/paladin/oath-of-the-ancients
   - spell/class/ranger
-  - spell/level/5
+  - spell/level/5th-level
   - spell/school/conjuration
+  - spell/subclass/circle-of-the-grove
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/greenleaf-college
+  - spell/subclass/hedge-mage
+  - spell/subclass/nature-domain
+  - spell/subclass/oath-of-the-ancients
+level: 5th-level
+range: false
+school: Conjuration
+time: 1 action
+duration: 'Concentration, up to 1 minute'
+components: 'V, S'
 aliases:
   - Tree Stride
 ---
@@ -25,6 +35,6 @@ You gain the ability to enter a tree and move from inside it to inside another t
 
 You can use this transportation ability once per round for the duration. You must end each turn outside a tree.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Druid Circle Of The Grove (GRIFFONSSADDLEBAG3)\|Druid (Circle of the Grove)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Bard Greenleaf College (KPDM)\|Bard (Greenleaf College)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]; [[List Spells Classes Paladin Oath Of The Ancients\|Paladin (Oath of the Ancients)]]
 
-*Source: Player's Handbook p. 283. Available in the SRD.*
+*Source: Player's Handbook p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -4,11 +4,9 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/dmg
   - item/attunement/required
-  - item/property/martial
-  - item/property/thrown
-  - item/property/versatile
   - item/rarity/artifact
-  - item/weapon/martial/melee
+  - item/weapon/martial
+  - item/weapon/melee
 aliases:
   - Axe of the Dwarvish Lords
 one-hand-damage: 1d8 S
@@ -16,14 +14,14 @@ two-hand-damage: 1d10 S
 range: 20/60
 ---
 # Axe of the Dwarvish Lords
-*Melee Weapon, artifact (requires attunement)*  
+*Weapon ([[5. Mechanics/Items/Battleaxe.md\|battleaxe]]), cursed item, artifact (requires attunement)*  
 ![[5. Mechanics/Items/img/axe-of-the-dwarvish-lords.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
 - **Range**: 20/60
-- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 Seeing the peril his people faced, a young dwarf prince came to believe that his people needed something to unite them. Thus, he set out to forge a weapon that would be such a symbol.
@@ -51,12 +49,12 @@ The axe has the following randomly determined properties:
 If you are a dwarf attuned to the axe, you gain the following benefits:
 
 - You have immunity to poison damage.  
-- The range of your [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] increases by 60 feet.  
+- The range of your [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] increases by 60 feet.  
 - You gain proficiency with [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] related to blacksmithing, brewing, and stonemasonry.  
 
 ## Conjure Earth Elemental
 
-If you are holding the axe, you can use your action to cast the [[5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]] spell from it, summoning an [[5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elemental]]. You can't use this property again until the next dawn.
+If you are holding the axe, you can use your action to cast the [[5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]] spell from it, summoning an [[5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elemental]]. You can't use this property again until the next dawn.
 
 ## Travel the Depths
 

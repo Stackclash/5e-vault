@@ -13,8 +13,8 @@ aliases:
 
 Some items must be **installed** in your stronghold in order to function. Such items cease to function if taken from the stronghold in which they were installed, and must be reinstalled to regain their power, though their powers may still work on *you* if you leave.
 
-- [[5. Mechanics/Items/Altar Of Unyielding Faith.md\|Altar of Unyielding Faith]]  
-- [[5. Mechanics/Items/Candles Of Accord.md\|Candles of Accord]]  
+- [[5. Mechanics/Items/Altar Of Unyielding Faith (SAF).md\|Altar of Unyielding Faith]]  
+- [[5. Mechanics/Items/Candles Of Accord (SAF).md\|Candles of Accord]]  
 
 ## Codices
 
@@ -52,4 +52,4 @@ Once attuned, the owner of the codex need not take the book with them. They can 
 
 Some of these books require the attuned owner to surrender some of their life essence to satiate the dark powers constrained or described in their texts. Sacrificing requires rolling some number of Hit Dice, losing that many hit points *and* the Hit Dice immediately, and reducing your maximum hit points by the same amount. While the effect powered by the sacrifice persists, the lost hit points and Hit Dice cannot be regenerated. When the effect ends, you can heal the damage and recover the Hit Dice normally.
 
-If sacrificing Hit Dice causes you to drop to 0 hit points, you fall [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] and all effects you created end. You cannot sacrifice more Hit Dice than you have. If you must sacrifice a Hit Die to power an effect but you have none, the effect ends.
+If sacrificing Hit Dice causes you to drop to 0 hit points, you fall [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] and all effects you created end. You cannot sacrifice more Hit Dice than you have. If you must sacrifice a Hit Die to power an effect but you have none, the effect ends.

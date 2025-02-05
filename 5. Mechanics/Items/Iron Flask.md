@@ -5,12 +5,11 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/legendary
   - item/tier/major
-  - item/wondrous
 aliases:
   - Iron Flask
 ---
 # Iron Flask
-*Wondrous Item, major, legendary*  
+*Wondrous item, major, legendary*  
 ![[5. Mechanics/Items/img/iron-flask.webp#right]]  
 
 - **Weight**: 1.0 lbs.
@@ -52,9 +51,9 @@ An [[5. Mechanics/Spells/Identify.md\|identify]] spell reveals that a creature i
 | 92-93 | [[5. Mechanics/Bestiary/Elemental/Salamander.md\|Salamander]] |
 | 94-95 | Slaad (any) |
 | 96 | [[5. Mechanics/Bestiary/Celestial/Solar.md\|Solar]] |
-| 97-98 | [[5. Mechanics/Bestiary/Fiend/Succubus.md\|Succubus/Incubus]] |
+| 97-98 | [[5. Mechanics/Bestiary/Fiend/Succub(US).md\|Succubus/Incubus]] |
 | 99 | [[5. Mechanics/Bestiary/Fiend/Ultroloth.md\|Ultroloth]] |
 | 00 | [[5. Mechanics/Bestiary/Elemental/Xorn.md\|Xorn]] |
 ^contents
 
-*Source: Dungeon Master's Guide p. 178. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

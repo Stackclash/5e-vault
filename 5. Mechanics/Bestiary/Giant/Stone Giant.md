@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 7
+environments: 'underdark, mountain, hill'
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/7
@@ -9,12 +13,11 @@ tags:
   - monster/environment/underdark
   - monster/size/huge
   - monster/type/giant
-statblock: inline
 aliases:
   - Stone Giant
 ---
-# [[5. Mechanics/Bestiary/Giant/Stone Giant.md|Stone Giant]]
-*Source: Monster Manual p. 156. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Giant\Stone Giant.md|Stone Giant]]
+*Source: Monster Manual p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Stone giants are reclusive, quiet, and peaceful as long as they are left alone. Their granite-gray skin, gaunt features, and black, sunken eyes endow stone giants with a stern countenance. They are private creatures, hiding their lives and art away from the world.
 
@@ -69,11 +72,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 > Some giants abandon their own gods and fall prey to demon cults, paying homage to Baphomet or Kostchtchie. To worship them or any other non-giant deity is a great sin against the ordning, and almost certain to make a giant an outcast.
 ^giant-gods
 
-> [!quote]- A quote from Captain Dwern Addlestone's partial account of the Siege of Sterngate  
+> [!quote] A quote from Captain Dwern Addlestone's partial account of the Siege of Sterngate  
 > 
 > Boulders assailed our walls and cast them down, leavin' gaps through which the giants strode, weapons in hand.
 
-> [!quote]- A quote from Elder Zelane of Istivin, recounting the Giant Wars  
+> [!quote] A quote from Elder Zelane of Istivin, recounting the Giant Wars  
 > 
 > And here is where Angerroth the barbarian fell against the giant horde. His bones are under that boulder over there.
 
@@ -117,7 +120,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   "name": "Greatclub"
 - "desc": "Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit:\
     \ 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed\
-    \ on a DC 17 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ on a DC 17 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Rock"
 "reactions":
 - "desc": "If a rock or similar object is hurled at the giant, the giant can, with\
@@ -126,12 +129,6 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   "name": "Rock Catching"
 "source":
 - "MM"
-- "HotDQ"
-- "SKT"
-- "TftYP"
-- "WDMM"
-- "MOT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Giant/token/stone-giant.webp"
 ```
 ^statblock

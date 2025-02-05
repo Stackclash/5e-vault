@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: 'forest, swamp, hill, urban'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
@@ -10,12 +14,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Swarm of Ravens
 ---
-# [[5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md|Swarm of Ravens]]
-*Source: Monster Manual p. 339, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Ravens.md|Swarm of Ravens]]
+*Source: Monster Manual p. 339, Curse of Strahd, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 > [!note] The Nature of Swarms
 > 
@@ -41,10 +44,10 @@ aliases:
 "skillsaves":
   "Perception": !!int "5"
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
 "senses": "passive Perception 15"
 "languages": ""
 "cr": "1/4"
@@ -61,13 +64,7 @@ aliases:
 "source":
 - "MM"
 - "CoS"
-- "RoT"
-- "DIP"
-- "SDW"
-- "EGW"
-- "IDRotF"
 - "TCE"
-- "CM"
 "image": "5. Mechanics/Bestiary/Beast/token/swarm-of-ravens.webp"
 ```
 ^statblock

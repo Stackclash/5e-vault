@@ -7,7 +7,7 @@ aliases:
   - Final Challenge Rating; Experience Points by Challenge Rating
 ---
 # Final Challenge Rating; Experience Points by Challenge Rating
-*Source: Dungeon Master's Guide p. 274. Available in the SRD and the Basic Rules.* 
+*Source: Dungeon Master's Guide p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
 
 **Experience Points by Challenge Rating**
 

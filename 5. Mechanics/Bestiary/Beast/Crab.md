@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: coastal
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
   - monster/environment/coastal
   - monster/size/tiny
   - monster/type/beast
-statblock: inline
 aliases:
   - Crab
 ---
-# [[5. Mechanics/Bestiary/Beast/Crab.md|Crab]]
-*Source: Monster Manual p. 320, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Crab.md|Crab]]
+*Source: Monster Manual p. 320, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Crab"
@@ -45,9 +48,6 @@ aliases:
   "name": "Claw"
 "source":
 - "MM"
-- "ToA"
-- "GoS"
-- "BGDIA"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Beast/token/crab.webp"
 ```

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 17
+environments: desert
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/17
   - monster/environment/desert
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Androsphinx
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Androsphinx.md|Androsphinx]]
-*Source: Monster Manual p. 281. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Monstrosity\Androsphinx.md|Androsphinx]]
+*Source: Monster Manual p. 281. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 An androsphinx bears the head of a humanoid male on its lion's body. Outwardly gruff and downcast, it often begins conversations with insults or negative observations. Beneath this gruff exterior, however, an androsphinx has a noble heart. It has no wish to lie or deceive, but it doesn't give away information readily, choosing its words as wisely as it guards its secrets.
 
@@ -42,7 +45,7 @@ Mortals that encounter sphinxes do so most often in ancient tombs and ruins, but
 
 Whether through the weariness of the ages, regret at the slaughter of innocents, or dreams of worship by supplicants that attempt to bargain their way to knowledge, some sphinxes break free of their divine command. However, even if a sphinx's alignment and loyalties drift in this way, it never leaves the place it guards or grants its secrets to any except creatures it deems worthy.
 
-> [!quote]- A quote from Riddle of the gynosphinx of White Plume Mountain  
+> [!quote] A quote from Riddle of the gynosphinx of White Plume Mountain  
 > 
 > Round she is, yet flat as a board
 > 
@@ -83,7 +86,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
   "Perception": !!int "10"
   "Arcana": !!int "9"
 "damage_immunities": "psychic; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
 "senses": "truesight 120 ft., passive Perception 20"
 "languages": "Common, Sphinx"
 "cr": "17"
@@ -119,18 +122,18 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
     \ long rest, the roar is louder and the effect is different, as detailed below.\
     \ Each creature within 500 feet of the sphinx and able to hear the roar must make\
     \ a saving throw.\n\n- First Roar. Each creature that fails a DC 18 Wisdom\
-    \ saving throw is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] for\
-    \ 1 minute. A [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] creature\
+    \ saving throw is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] for\
+    \ 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] creature\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success.  \n- Second Roar. Each creature that fails a DC\
-    \ 18 Wisdom saving throw is [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]\
-    \ and [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute. A\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] creature is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ 18 Wisdom saving throw is [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]\
+    \ and [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] for 1 minute. A\
+    \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] creature is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
     \ and can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success.  \n- Third Roar. Each creature makes a DC\
     \ 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder\
-    \ damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. On a successful\
-    \ save, the creature takes half as much damage and isn't knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ damage and is knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. On a successful\
+    \ save, the creature takes half as much damage and isn't knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
     \  "
   "name": "Roar (3/Day)"
 "legendary_actions":
@@ -150,8 +153,8 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - "desc": "- The flow of time is altered such that every creature in the lair must\
     \ reroll initiative. The sphinx can choose not to reroll.  \n- The effects of\
     \ time are altered such that every creature in the lair must succeed on a DC 15\
-    \ Constitution saving throw or become 1d20 years older or younger (the sphinx's\
-    \ choice), but never any younger than 1 year old. A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ Constitution saving throw or become  years older or younger (the sphinx's choice),\
+    \ but never any younger than 1 year old. A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
     \ spell can restore a creature's age to normal.  \n- The flow of time within the\
     \ lair is altered such that everything within moves up to 10 years forward or\
     \ backward (sphinx's choice). Only the sphinx is immediately aware of the time\
@@ -164,10 +167,6 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
   "name": ""
 "source":
 - "MM"
-- "EGW"
-- "MOT"
-- "CM"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/androsphinx.webp"
 ```
 ^statblock

@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/size/medium
   - monster/type/dragon
-statblock: inline
 aliases:
   - Blue Dragon Wyrmling
 ---
-# [[5. Mechanics/Bestiary/Dragon/Blue Dragon Wyrmling.md|Blue Dragon Wyrmling]]
-*Source: Monster Manual p. 91. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Blue Dragon Wyrmling.md|Blue Dragon Wyrmling]]
+*Source: Monster Manual p. 91. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
 
@@ -136,8 +139,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Lightning Breath (Recharge 5-6)"
 "source":
 - "MM"
-- "MOT"
-- "DoSI"
 "image": "5. Mechanics/Bestiary/Dragon/token/blue-dragon-wyrmling.webp"
 ```
 ^statblock

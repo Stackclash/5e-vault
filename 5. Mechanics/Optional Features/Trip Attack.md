@@ -10,4 +10,4 @@ aliases:
 # Trip Attack
 *Source: Player's Handbook p. 74*  
 
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].

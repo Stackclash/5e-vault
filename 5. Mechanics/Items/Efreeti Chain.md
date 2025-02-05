@@ -12,7 +12,7 @@ aliases:
 armorClass: 16
 ---
 # Efreeti Chain
-*Heavy Armor, major, legendary (requires attunement)*  
+*Heavy armor ([[5. Mechanics/Items/Chain Mail.md\|chain mail]]), major, legendary (requires attunement)*  
 ![[5. Mechanics/Items/img/efreeti-chain.webp#right]]  
 
 - **Armor Class**: 16

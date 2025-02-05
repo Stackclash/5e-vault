@@ -9,7 +9,7 @@ aliases:
 # Part 3: The Ruins of Castle Rend
 *Source: The Siege of Castle Rend, p. 115* 
 
-> [!quote]- A quote from   
+> [!quote] A quote from   
 > 
 > To the peasantry, goblins and orcs are "demons," meaning nothing more than fell spirits that live in the darkness of the wilds. But there is truth hidden in their folk wisdom, for Grole the OneHanded, Wargod of the Orcs, was once a Lord of Gehennom, a Demon Lord of Hell. But now he and his children call our world home.
 
@@ -65,7 +65,7 @@ The keep's doors are unlocked by virtue of the original keys having been lost. T
 
 ### Floors
 
-Castle Rend's flagstones are cracked and filled with moss. The White Tusk orcs removed some of these stones and excavated the foundation to create hidden pit traps by covering the hole with flimsy wooden planks covered in moss. A pit trap can be spotted by making a successful DC 16 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check while within 30 feet of the pit. If a creature weighing more than 50 pounds (including gear) steps on a pit trap, it must make a successful DC 16 Dexterity saving throw or fall in. The pits are 30 feet deep and lined with wooden stakes. A creature that falls into a pit takes `dice:3d6|text(10)` (`3d6`) bludgeoning damage plus `dice:3d6|text(10)` (`3d6`) piercing damage.
+Castle Rend's flagstones are cracked and filled with moss. The White Tusk orcs removed some of these stones and excavated the foundation to create hidden pit traps by covering the hole with flimsy wooden planks covered in moss. A pit trap can be spotted by making a successful DC 16 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check while within 30 feet of the pit. If a creature weighing more than 50 pounds (including gear) steps on a pit trap, it must make a successful DC 16 Dexterity saving throw or fall in. The pits are 30 feet deep and lined with wooden stakes. A creature that falls into a pit takes `dice:3d6|noform|avg|text(10)` (`3d6`) bludgeoning damage plus `dice:3d6|noform|avg|text(10)` (`3d6`) piercing damage.
 
 Pit traps are marked on the map of Castle Rend (next page) with a red "X."
 
@@ -116,7 +116,7 @@ Castle Rend's bailey has largely been cleared of overgrowth by the orcs and thei
 
 The orcs atop the guard tower (C13) do not watch the bailey unless alerted by noise from the courtyard. To cover this blind spot, the bailey is filled with pit traps, covered with thin planks of wood, with the wood covered in mud and grass. The pits do not have spikes, but the boards have affixed chimes made of bone and metal.
 
-A creature that weighs more than 50 pounds (including its gear) falls into the pit if it steps on top of it, and must make a successful DC 16 Dexterity saving throw or fall in, breaking the boards, ringing the chimes, and attracting the attention of the sentries. The pits are 20 feet deep, and a creature that falls into one takes `dice:2d6|text(7)` (`2d6`) bludgeoning damage from the fall.
+A creature that weighs more than 50 pounds (including its gear) falls into the pit if it steps on top of it, and must make a successful DC 16 Dexterity saving throw or fall in, breaking the boards, ringing the chimes, and attracting the attention of the sentries. The pits are 20 feet deep, and a creature that falls into one takes `dice:2d6|noform|avg|text(7)` (`2d6`) bludgeoning damage from the fall.
 
 If the chimes ring or another loud noise is made in the bailey, the orc sentries turn to look. Any character in the bailey can use their reaction to fall to the ground and make a Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check with disadvantage. If the result of their check is greater than the result of the orcs' Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, the character escapes the orcs' notice, and the orcs look back toward the forest.
 
@@ -130,7 +130,7 @@ This trapdoor is overgrown with creeper vines and is unknown to the orcs. It con
 
 ## Castle Rend Interior Locations
 
-Noise travels poorly within the plant-choked stone interior of Castle Rend. If a battle breaks out in any room within the castle, only creatures in adjacent areas connected by a doorway can hear the sound of combat. Even then, unless an orc calls for help or the PCs shout a phrase in a language other than Orc, the orcs simply assume that a brawl has broken out. The White Tusk does not fear dying for their chieftain; they only call for help if [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] by supernatural means.
+Noise travels poorly within the plant-choked stone interior of Castle Rend. If a battle breaks out in any room within the castle, only creatures in adjacent areas connected by a doorway can hear the sound of combat. Even then, unless an orc calls for help or the PCs shout a phrase in a language other than Orc, the orcs simply assume that a brawl has broken out. The White Tusk does not fear dying for their chieftain; they only call for help if [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] by supernatural means.
 
 ### C1. Entryway
 
@@ -144,13 +144,13 @@ Area C2b also has a lever that controls the portcullis hanging above the castle'
 
 ### C3. Entrance Hall
 
-The largest chamber in Castle Rend is now breezy and moss-covered. Its carpets have been shredded by animal claws and rotted by water. A large bonfire burns in the center of this chamber, its smoke pouring out of a hole in the ceiling. Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut.md\|White Tusk juggernauts]] (see page 136) and their two [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]] pets sit around the fire, gnawing on large hunks of venison. The two juggernauts each carry a [[5. Mechanics/Items/Potion Of Hill Giant Strength.md\|potion of hill giant strength]] brewed by the orc shamans in the cauldron room (C18), and each orc drinks their potion on their first turn in combat.
+The largest chamber in Castle Rend is now breezy and moss-covered. Its carpets have been shredded by animal claws and rotted by water. A large bonfire burns in the center of this chamber, its smoke pouring out of a hole in the ceiling. Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut (SAF).md\|White Tusk juggernauts]] (see page 136) and their two [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]] pets sit around the fire, gnawing on large hunks of venison. The two juggernauts each carry a [[5. Mechanics/Items/Potion Of Hill Giant Strength.md\|potion of hill giant strength]] brewed by the orc shamans in the cauldron room (C18), and each orc drinks their potion on their first turn in combat.
 
 A treasure chest has been slid against the south wall of this chamber. It is surrounded by animal bones that have been gnawed clean by sharp fangs. This treasure chest is actually a [[5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] that the orcs found and now keep as a pet. It contains 500 gp worth of sapphires inside its gullet.
 
 #### Developments
 
-This room is connected to many others, so creating a disturbance here causes the orcs in adjacent rooms to investigate. If it is sundown, Bonebreaker Dorokor, Oregg Steeltwister, Pinna, and Edmund Bedegar are likely dining in the Great Hall (C8). [[4. World Almanac/NPCs/Bonebreaker Dorokor.md\|Bonebreaker Dorokor]] and [[4. World Almanac/NPCs/Oregg Steeltwister.md\|Oregg Steeltwister]] (page 135) attack on sight, suspecting that the characters are Lord Saxton's thugs. Pinna and Edmund hold back and come to investigate on the second round of combat, but if Pinna recognizes the characters from Gravesford, she screams for both sides to stop fighting. See the Negotiating with Orcs event (page 125).
+This room is connected to many others, so creating a disturbance here causes the orcs in adjacent rooms to investigate. If it is sundown, Bonebreaker Dorokor, Oregg Steeltwister, Pinna, and Edmund Bedegar are likely dining in the Great Hall (C8). [[4. World Almanac/NPCs/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]] and [[4. World Almanac/NPCs/Oregg Steeltwister (SAF).md\|Oregg Steeltwister]] (page 135) attack on sight, suspecting that the characters are Lord Saxton's thugs. Pinna and Edmund hold back and come to investigate on the second round of combat, but if Pinna recognizes the characters from Gravesford, she screams for both sides to stop fighting. See the Negotiating with Orcs event (page 125).
 
 #### Treasure
 
@@ -186,7 +186,7 @@ About two dozen sets of orcish armor and crude weapons are haphazardly stored al
 
 The Blue Dragonflight stored their weapons and armor here. None of the armor fits the orcs, and most of it is rusty and corroded by time and water. The crest of the dragon knights is still visible on the chest pieces of the plate armor, though.
 
-Twelve suits of plate armor stand around the walls of this room. Eleven are rusted and pitted, but one still seems to gleam silver, as if it had been polished mere moments ago. This suit of [[5. Mechanics/Items/1 Armor.md\|+1 plate]] belonged to Raizorojan, Captain of the Blue Dragon Phalanx, and fits a human with a broad, athletic build. Other creatures will need to have it refitted. Touching the suit of magical plate causes eight of the rusty suits of armor to creak to life as [[5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]] and attack the pillagers until they all leave the room. These enchanted suits of armor have Strength (`dice: d20+4|text(+4)`) Strength; their slam attacks have a +6|Slam bonus to hit and deal 11 (2d6 + 4) bludgeoning damage on a hit. These changes increase their challenge rating to 2 (450 XP).
+Twelve suits of plate armor stand around the walls of this room. Eleven are rusted and pitted, but one still seems to gleam silver, as if it had been polished mere moments ago. This suit of [[5. Mechanics/Items/1 Armor.md\|+1 plate]] belonged to Raizorojan, Captain of the Blue Dragon Phalanx, and fits a human with a broad, athletic build. Other creatures will need to have it refitted. Touching the suit of magical plate causes eight of the rusty suits of armor to creak to life as [[5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]] and attack the pillagers until they all leave the room. These enchanted suits of armor have Strength (`dice:1d20+4|noform|text(+4)`) Strength; their slam attacks have a Slam (`dice:1d20+6|noform|text(+6)`) bonus to hit and deal `dice:2d6+4|noform|avg|text(2d6 + 4)|text(11)` (`2d6 + 4`) bludgeoning damage on a hit. These changes increase their challenge rating to 2 (450 XP).
 
 ### C7. Coatroom
 
@@ -200,7 +200,7 @@ Digging through the mold and muck for 5 minutes will yield gold buttons, lapis l
 
 A stately marble dining table stands before a cold hearth in the center of the great hall. Twelve stone chairs are assembled around it, though all have been chipped, covered with plants, or knocked over. Every night at sunset, Bonebreaker Dorokor sups here with her lieutenant, Oregg Steeltwister, as well as Edmund Bedegar and Pinna. Lately, they have been planning how best to conduct negotiations with the people of Gravesford.
 
-If the PCs interrupt this meal, [[4. World Almanac/NPCs/Bonebreaker Dorokor.md\|Bonebreaker Dorokor]] and [[4. World Almanac/NPCs/Oregg Steeltwister.md\|Oregg Steeltwister]] (page 135) both leap over the table and attack instantly, suspecting that the PCs are assassins sent by Lord Saxton. If Pinna recognizes them from Gravesford, she instantly calls for everyone to stop fighting. See the Negotiating with Orcs event (page 125).
+If the PCs interrupt this meal, [[4. World Almanac/NPCs/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]] and [[4. World Almanac/NPCs/Oregg Steeltwister (SAF).md\|Oregg Steeltwister]] (page 135) both leap over the table and attack instantly, suspecting that the PCs are assassins sent by Lord Saxton. If Pinna recognizes them from Gravesford, she instantly calls for everyone to stop fighting. See the Negotiating with Orcs event (page 125).
 
 At other times of day, this chamber is usually empty. Orcs can pass through it to get from the barracks to the watchtower when changing guard shifts (see C13).
 
@@ -208,7 +208,7 @@ At other times of day, this chamber is usually empty. Orcs can pass through it t
 
 The orcs have repurposed the Blue Dragonflight's barracks as their own. Areas 9a, 9b, and 9c each contain four bunks. Area 9d has been converted into a holding chamber for Edmund Bedegar and, more recently, Pinna. Young Lord Bedegar has helped soothe the hedge mage's nerves after being kidnapped.
 
-Area 9e belongs to Bonebreaker Dorokor, and its door is decorated with an ornate crest of snapped bones, with an eagle's skull in the center. Her large chamber contains items unusual for an orc, such as a washbasin, parchment, and charcoal. Dorokor has no use for human fineries, and everything within her chamber is worthless by human standards, save for her magical greataxe, [[5. Mechanics/Items/Wound.md\|Wound]] (see [[4. World Almanac/NPCs/Bonebreaker Dorokor.md\|Bonebreaker Dorokor]], page 141). She keeps this mighty weapon on her person at all times, and rests it at the foot of her cot while she sleeps.
+Area 9e belongs to Bonebreaker Dorokor, and its door is decorated with an ornate crest of snapped bones, with an eagle's skull in the center. Her large chamber contains items unusual for an orc, such as a washbasin, parchment, and charcoal. Dorokor has no use for human fineries, and everything within her chamber is worthless by human standards, save for her magical greataxe, [[5. Mechanics/Items/Wound (SAF).md\|Wound]] (see [[4. World Almanac/NPCs/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]], page 141). She keeps this mighty weapon on her person at all times, and rests it at the foot of her cot while she sleeps.
 
 Area 9f belongs to Oregg Steeltwister, second-in-command of the White Tusk clan. He possesses none of Dorokor's cunning or subtlety, but he is madly in love with her. He follows her every order and pretends to understand her schemes in order to win her favor.
 
@@ -224,13 +224,13 @@ The orcs do not store or preserve their food, and what provisions remained here 
 
 ### C12. Tower Stairs
 
-A stone spiral staircase winds up into the watchtower and down into the stronghold's basement. Characters trying to climb the stairs quietly must make a successful DC 10 Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check. If the passive Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) of every character is higher than 10, they automatically succeed on this check. If they fail this check or do not attempt to ascend the staircase quietly, all four [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] in C13 hear their approach and [[/5. Mechanics/Rules/Actions.md#ready\|ready]] an action to attack the next non-orc creature they see.
+A stone spiral staircase winds up into the watchtower and down into the stronghold's basement. Characters trying to climb the stairs quietly must make a successful DC 10 Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check. If the passive Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) of every character is higher than 10, they automatically succeed on this check. If they fail this check or do not attempt to ascend the staircase quietly, all four [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] in C13 hear their approach and [[/5. Mechanics/Rules/Actions.md#Ready\|ready]] an action to attack the next non-orc creature they see.
 
 ### C13. Watchtower
 
 Four [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] stand guard at this fifty-foot-tall watchtower at all times, looking down upon the forest surrounding Castle Rend. A stone brazier holds faintly burning embers for staving off the cold during the night. They pass the time by telling rude jokes.
 
-If attacked in melee, they try to [[/5. Mechanics/Rules/Actions.md#grapple\|grapple]] their attackers and hurl them from the tower.
+If attacked in melee, they try to [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]] their attackers and hurl them from the tower.
 
 ### C14. Collapsed Tower
 
@@ -238,7 +238,7 @@ The collapsed south tower is a place of great suffering. Those who once inhabite
 
 This tower holds a staircase that climbs to its ruined top and descends into C25 of the keep's dungeons. Climbing the staircase leads to a dead end where the tower has caved in, and any creature who sifts through the rubble must make a DC 13 Charisma saving throw as the [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] of one of the knights emerges through the wall and uses its Possession ability on them. The ghost fights until it is destroyed.
 
-Sifting through the rubble for 5 minutes reveals a rusted iron lockbox, which is trivial to force open. Inside is an airtight pewter [[5. Mechanics/Items/Map Or Scroll Case.md\|scroll case]] embellished with silver images of dragons. Inside the case is a small key and a piece of [[5. Mechanics/Items/Parchment One Sheet.md\|parchment]]: the deed to this keep, signed by Omund himself. The deed is a historical curiosity, but since both King Omund and the Blue Dragonflight are now little more than a memory, the deed is practically useless in this day and age. That is, unless someone convincing and charismatic decided to keep it and declare it valid under the principle that Omund's proclamation was never lawfully rescinded. The scroll case could be sold to a jeweler for 300 gp.
+Sifting through the rubble for 5 minutes reveals a rusted iron lockbox, which is trivial to force open. Inside is an airtight pewter [[5. Mechanics/Items/Map Or Scroll Case.md\|scroll case]] embellished with silver images of dragons. Inside the case is a small key and a piece of [[5. Mechanics/Items/Parchment One Sh(EET).md\|parchment]]: the deed to this keep, signed by Omund himself. The deed is a historical curiosity, but since both King Omund and the Blue Dragonflight are now little more than a memory, the deed is practically useless in this day and age. That is, unless someone convincing and charismatic decided to keep it and declare it valid under the principle that Omund's proclamation was never lawfully rescinded. The scroll case could be sold to a jeweler for 300 gp.
 
 The key within this scroll case is small, made of silver, and embellished with an image of a dragon. It opens the treasure chests in C19 within the dungeon.
 
@@ -261,7 +261,7 @@ The key within this scroll case is small, made of silver, and embellished with a
 
 ## Castle Rend Dungeon Locations
 
-The dungeons of Castle Rend contain the sleeping quarters of the White Tusk clan's lowliest grunts, but they are also home to the clan's shrine to Grole, the clan's warspeakers, and their shamans. Some putrid smell and the acrid stench of smoke fills the dungeons—the orcs' shamans are brewing something foul down here, and there is hardly any ventilation. The stink doesn't bother the orcs, but PCs that enter the dungeon level must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 1 hour by the smell. If a PC succeeds on this save, they become immune to being [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in this way for 24 hours.
+The dungeons of Castle Rend contain the sleeping quarters of the White Tusk clan's lowliest grunts, but they are also home to the clan's shrine to Grole, the clan's warspeakers, and their shamans. Some putrid smell and the acrid stench of smoke fills the dungeons—the orcs' shamans are brewing something foul down here, and there is hardly any ventilation. The stink doesn't bother the orcs, but PCs that enter the dungeon level must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 hour by the smell. If a PC succeeds on this save, they become immune to being [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] in this way for 24 hours.
 
 > [!gallery]
 > ![DM map](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-rend-dungeon.jpg#gallery)
@@ -271,11 +271,11 @@ The dungeons of Castle Rend contain the sleeping quarters of the White Tusk clan
 
 This room was once a prison, but the White Tusk orcs have converted it into barracks for their lowliest grunts.
 
-Whichever [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orc]] is on watch duty for the night rests here with 2 [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] at his side. Any combat here instantly draws the attention of any orcs in areas C16a-d and awakens any that are asleep. A poisoned [[5. Mechanics/Items/Dagger.md\|dagger]] rests on the orc's bedside table. The orc throws this dagger at an enemy on his first turn in combat. On a hit, the target takes the dagger's normal damage and must also make a DC 14 Constitution saving throw, taking 31 (9d6) poison damage on a failed save, or half as much damage on a successful one.
+Whichever [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orc]] is on watch duty for the night rests here with 2 [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] at his side. Any combat here instantly draws the attention of any orcs in areas C16a-d and awakens any that are asleep. A poisoned [[5. Mechanics/Items/Dagger.md\|dagger]] rests on the orc's bedside table. The orc throws this dagger at an enemy on his first turn in combat. On a hit, the target takes the dagger's `dice:1d4+3|noform|avg|text(normal damage)` (`1d4+3`) and must also make a DC 14 Constitution saving throw, taking `dice:9d6|noform|avg|text(9d6)|text(31)` (`9d6`) poison damage on a failed save, or half as much damage on a successful one.
 
 #### Treasure
 
-A small treasure chest is stowed beneath the sentry's bed. It is unlocked and contains a vial of deadly poison. There is enough left to coat one weapon. The next time the poisoned weapon deals damage to a creature, it must also make a DC 14 Constitution saving throw, taking `dice:9d6|text(31)` (`9d6`) poison damage on a failed save, or half as much damage on a successful one.
+A small treasure chest is stowed beneath the sentry's bed. It is unlocked and contains a vial of deadly poison. There is enough left to coat one weapon. The next time the poisoned weapon deals damage to a creature, it must also make a DC 14 Constitution saving throw, taking `dice:9d6|noform|avg|text(31)` (`9d6`) poison damage on a failed save, or half as much damage on a successful one.
 
 ### C16. Barracks-Cells
 
@@ -283,26 +283,26 @@ Each of these four rooms contains a bunk that fits two orcs (in fairly cramped c
 
 Each cell's occupants are:
 
-- **C16a..** Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Orc.md\|White Tusk orcs]].  
-- **C16b..** Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Bloodrager.md\|White Tusk bloodragers]].  
-- **C16c..** Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Orc.md\|White Tusk orcs]].  
-- **C16d..** One [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut.md\|White Tusk juggernaut]].  
+- **C16a..** Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Orc (SAF).md\|White Tusk orcs]].  
+- **C16b..** Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Bloodrager (SAF).md\|White Tusk bloodragers]].  
+- **C16c..** Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Orc (SAF).md\|White Tusk orcs]].  
+- **C16d..** One [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut (SAF).md\|White Tusk juggernaut]].  
 
 ### C17. Warspeakers' Cloister
 
-Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker.md\|White Tusk warspeakers]] of Grole have made this spacious chamber their home. While they tend to the shrine (C23) during the day, they return here to sleep after nightfall. One has cast an [[5. Mechanics/Spells/Alarm.md\|alarm]] spell on this room in case one of the common orcs is foolish enough to try to steal from them, and both warspeakers come running from the shrine if the spell is triggered.
+Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker (SAF).md\|White Tusk warspeakers]] of Grole have made this spacious chamber their home. While they tend to the shrine (C23) during the day, they return here to sleep after nightfall. One has cast an [[5. Mechanics/Spells/Alarm.md\|alarm]] spell on this room in case one of the common orcs is foolish enough to try to steal from them, and both warspeakers come running from the shrine if the spell is triggered.
 
 #### Treasure
 
-Each warspeaker keeps a small chest containing 100 gp underneath their cot. Additionally, one has a stack of three stone tablets that function like [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]]. Only creatures that can read Orc can use these stone scrolls of [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[5. Mechanics/Spells/Shield Of Faith.md\|shield of faith]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]].
+Each warspeaker keeps a small chest containing 100 gp underneath their cot. Additionally, one has a stack of three stone tablets that function like [[5. Mechanics/Items/Spell Scroll (DMG).md\|spell scrolls]]. Only creatures that can read Orc can use these stone scrolls of [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[5. Mechanics/Spells/Shield Of Faith.md\|shield of faith]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]].
 
 ### C18. Cauldron Room
 
-Here, two [[5. Mechanics/Bestiary/Humanoid/White Tusk Shaman.md\|White Tusk shamans]] brew a foul-smelling concoction in a cauldron suspended over a bed of smoldering embers. On the first turn of combat, one of the shamans uses its Spirit-Bonded Body trait to transform into a [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolf]] and howl loudly as an action. This howling alerts all orcs in the dungeon level to the presence of intruders, so they can't be surprised for the next hour. Additionally, all orcs in areas C15, C16, C17, and C20 come to investigate the disturbance, ready for battle.
+Here, two [[5. Mechanics/Bestiary/Humanoid/White Tusk Shaman (SAF).md\|White Tusk shamans]] brew a foul-smelling concoction in a cauldron suspended over a bed of smoldering embers. On the first turn of combat, one of the shamans uses its Spirit-Bonded Body trait to transform into a [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolf]] and howl loudly as an action. This howling alerts all orcs in the dungeon level to the presence of intruders, so they can't be surprised for the next hour. Additionally, all orcs in areas C15, C16, C17, and C20 come to investigate the disturbance, ready for battle.
 
 #### Treasure
 
-The cauldron contains a potion that the shamans are brewing to aid their bloodchief in the trials to come. This pungent broth is the base for a [[5. Mechanics/Items/Potion Of Enhance Ability.md\|potion of enhance ability]]. It is currently inert, but its magical effects can be activated by adding a single hair or feather of a certain animal to a vial of this potion. There is enough broth in this cauldron to fill six glass vials. A crate containing twelve [[5. Mechanics/Items/Vial.md\|vials]] sits in a corner of this room.
+The cauldron contains a potion that the shamans are brewing to aid their bloodchief in the trials to come. This pungent broth is the base for a [[5. Mechanics/Items/Potion Of Enhance Ability (SAF).md\|potion of enhance ability]]. It is currently inert, but its magical effects can be activated by adding a single hair or feather of a certain animal to a vial of this potion. There is enough broth in this cauldron to fill six glass vials. A crate containing twelve [[5. Mechanics/Items/Vi(AL).md\|vials]] sits in a corner of this room.
 
 ### C19. Secret Treasury
 
@@ -310,9 +310,9 @@ The White Tusk orcs have not discovered the secret vault in which the Blue Drago
 
 Within the chamber is a small, uncorrupted shrine to St. Gaed the Confessor. A silver chalice worth 100 gp rests on it, filled with divine mead that has stayed fresh through the ages. A cleric, druid, or paladin that drinks of this holy mead restores 1 expended spell slot.
 
-The larger room to the west of this shrine contains four treasure chests, each locked and trapped with a poison needle trap. Opening a chest without the proper key (found in the scroll case in area C14) causes a needle to spring out from the lock three inches, delivering a dose of poison. A pricked creature takes 1 piercing damage and `dice:2d10|text(11)` (`2d10`) poison damage and must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 1 hour. A character who makes a successful DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check will deduce the trap's presence from alterations made to the lock to accommodate the needle. The needle can be removed from the lock, disarming the trap, by making a successful DC 15 Dexterity check using [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]. Failing to pick the lock triggers the trap.
+The larger room to the west of this shrine contains four treasure chests, each locked and trapped with a poison needle trap. Opening a chest without the proper key (found in the scroll case in area C14) causes a needle to spring out from the lock three inches, delivering a dose of poison. A pricked creature takes 1 piercing damage and `dice:2d10|noform|avg|text(11)` (`2d10`) poison damage and must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 hour. A character who makes a successful DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check will deduce the trap's presence from alterations made to the lock to accommodate the needle. The needle can be removed from the lock, disarming the trap, by making a successful DC 15 Dexterity check using [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]. Failing to pick the lock triggers the trap.
 
-Each chest contains `dice: 500 + 10d6|avg|noform` (`500 + 10d6`) gp and `dice: 50 + 1d10|avg|noform` (`50 + 1d10`) pp.
+Each chest contains `dice:500+10d6|noform|avg` (`500 + 10d6`) gp and `dice:50+1d10|noform|avg` (`50 + 1d10`) pp.
 
 ### C20. Refuse Pit
 
@@ -326,7 +326,7 @@ At the start of each round of combat while in the crypt, two [[5. Mechanics/Best
 
 #### Treasure
 
-Within the wraith's sarcophagus is his holy sword, [[5. Mechanics/Items/Grace.md\|Grace]] (page 144). Another sarcophagus holds the dust of another knight and the [[5. Mechanics/Items/Armor Of St Gaed The Confessor.md\|Armor of St. Gaed the Confessor]] (page 144).
+Within the wraith's sarcophagus is his holy sword, [[5. Mechanics/Items/Grace (SAF).md\|Grace]] (page 144). Another sarcophagus holds the dust of another knight and the [[5. Mechanics/Items/Armor Of St Gaed The Confessor (SAF).md\|Armor of St. Gaed the Confessor]] (page 144).
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-crypt-blue-dragonflight.webp#center)
 
@@ -338,11 +338,11 @@ A stone spiral staircase winds up to the main floor of the keep (C12), and then 
 
 The warspeakers of the White Tusk clan created a new shrine to Grole after they realized their error in defiling the statue of St. Gaed in the upper levels. The shrine to Grole in the dungeons is little more than a stone slab covered in carved bone trinkets, but it is enough to satisfy Bonebreaker Dorokor.
 
-Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker.md\|White Tusk warspeakers]] tend to this shrine. They allow their fellow orcs to pray at this shrine, but attack invaders on sight.
+Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker (SAF).md\|White Tusk warspeakers]] tend to this shrine. They allow their fellow orcs to pray at this shrine, but attack invaders on sight.
 
 #### Treasure
 
-A fist-sized sapphire rests on the shrine, a shining stone that one of the warspeakers found while exploring the dungeons. A character that makes a successful DC 22 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] or [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) check discerns that this stone is actually the crystallized heart of a sapphire dragon, and it is probably about a hundred years old. As a stone, it would sell for about 400 gp, but as a magical relic, a wizard would easily buy it for 1,000 gp. It also functions as a medium [[5. Mechanics/Items/Psionic Crystal.md\|psionic crystal]] (page 260).
+A fist-sized sapphire rests on the shrine, a shining stone that one of the warspeakers found while exploring the dungeons. A character that makes a successful DC 22 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] or [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) check discerns that this stone is actually the crystallized heart of a sapphire dragon, and it is probably about a hundred years old. As a stone, it would sell for about 400 gp, but as a magical relic, a wizard would easily buy it for 1,000 gp. It also functions as a medium [[5. Mechanics/Items/Psionic Crystal (SAF).md\|psionic crystal]] (page 260).
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-grole-shrine.webp#center)
 
@@ -358,7 +358,7 @@ These stairs lead upward to the collapsed tower (C14).
 
 ## Castle Rend Event: Negotiating with Orcs
 
-When the PCs meet with [[4. World Almanac/NPCs/Bonebreaker Dorokor.md\|Bonebreaker Dorokor]], she announces: "I am Bonebreaker Dorokor, Bloodchief of the White Tusk. I hold [[5. Mechanics/Items/Wound.md\|Wound]]. If you are servants of the human Saxton, you will die quickly and painfully."
+When the PCs meet with [[4. World Almanac/NPCs/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]], she announces: "I am Bonebreaker Dorokor, Bloodchief of the White Tusk. I hold [[5. Mechanics/Items/Wound (SAF).md\|Wound]]. If you are servants of the human Saxton, you will die quickly and painfully."
 
 Facing an orc with two humans hostage, the heroes may just attack. Typical. But if they negotiate with her, she agrees to parley. She demands that the PCs set down their arms and join her at the table. She snarls at Edmund and Pinna to not speak out of turn, and the two meekly oblige. Edmund sits on Dorokor's left, Pinna sits on Edmund's left, and Oregg Steeltwister sits on Dorokor's right.
 
@@ -372,13 +372,13 @@ Dorokor is willing to return both Pinna and Edmund and quit the field, leaving t
 
 The flip side of this is that the orcs don't really know what counts as "an item of power," so they can be fooled a little. But Bonebreaker Dorokor is harder to fool. If the PCs are sufficiently persuasive, she'll accept a lesser item and play it up to her tribe as though it's a triumph.
 
-Otherwise, she demands a powerful magic item—a rare or rarer magic weapon (like the holy sword [[5. Mechanics/Items/Grace.md\|Grace]] found in C21) would do the trick. As a rule of thumb, the PCs' single most valuable possession is enough to all-but-instantly secure a successful negotiation.
+Otherwise, she demands a powerful magic item—a rare or rarer magic weapon (like the holy sword [[5. Mechanics/Items/Grace (SAF).md\|Grace]] found in C21) would do the trick. As a rule of thumb, the PCs' single most valuable possession is enough to all-but-instantly secure a successful negotiation.
 
 If this negotiation goes well, Dorokor snarls a wide smile. "Take the boy. Take the girl. Take this stone house too, if you wish. Walls are for keeping cattle and pigs. We care not for such things—you can have it. But kill Saxton. He is too treacherous to lead men, and too weak to survive out here. If you agree to this, the White Tusk clan will return to the hills in the north and trouble you no more."
 
 If the negotiations go *exceptionally well*, Dorokor produces a hollowed ram's horn from her belt and hands it to the PCs. "I do not give Men gifts lightly. We have a common enemy: Saxton and his vermin. If you blow the horn, my clan will answer so long as we can hear it."
 
-If negotiations stall or turn sour, Dorokor puts her hostage to work. She grabs Edmund by the neck and levels [[5. Mechanics/Items/Wound.md\|Wound]] at his throat. "Meet my demands or your true bloodchief dies. And the girl too. You must swear it. Swear with something stronger than your worthless honor." It is clear from the look in her eyes and the edge in her voice that Dorokor never makes empty threats.
+If negotiations stall or turn sour, Dorokor puts her hostage to work. She grabs Edmund by the neck and levels [[5. Mechanics/Items/Wound (SAF).md\|Wound]] at his throat. "Meet my demands or your true bloodchief dies. And the girl too. You must swear it. Swear with something stronger than your worthless honor." It is clear from the look in her eyes and the edge in her voice that Dorokor never makes empty threats.
 
 If the PCs can't agree on how to negotiate with Dorokor, then it's initiative. If they fail to beat her in the initiative order, she executes Edmund. Or just slits his throat and leaves him for dead, so a PC cleric can heal him later, depending on what kind of GM you are. 😃
 

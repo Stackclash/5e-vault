@@ -33,4 +33,17 @@ You have resistance to one damage type while wearing this ring. The gem in the r
 | 10 | [[5. Mechanics/Items/Ring Of Thunder Resistance.md\|Thunder]] | Spinel |
 ^damage-type-gem
 
+**Items in this group:**
+
+- [[5. Mechanics/Items/Ring Of Acid Resistance.md\|Ring of Acid Resistance]]
+- [[5. Mechanics/Items/Ring Of Cold Resistance.md\|Ring of Cold Resistance]]
+- [[5. Mechanics/Items/Ring Of Fire Resistance.md\|Ring of Fire Resistance]]
+- [[5. Mechanics/Items/Ring Of Force Resistance.md\|Ring of Force Resistance]]
+- [[5. Mechanics/Items/Ring Of Lightning Resistance.md\|Ring of Lightning Resistance]]
+- [[5. Mechanics/Items/Ring Of Necrotic Resistance.md\|Ring of Necrotic Resistance]]
+- [[5. Mechanics/Items/Ring Of Poison Resistance.md\|Ring of Poison Resistance]]
+- [[5. Mechanics/Items/Ring Of Psychic Resistance.md\|Ring of Psychic Resistance]]
+- [[5. Mechanics/Items/Ring Of Radiant Resistance.md\|Ring of Radiant Resistance]]
+- [[5. Mechanics/Items/Ring Of Thunder Resistance.md\|Ring of Thunder Resistance]]
+
 *Source: Dungeon Master's Guide p. 192*

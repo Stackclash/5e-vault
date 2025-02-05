@@ -4,14 +4,22 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
+  - spell/class/bard
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/2
+  - spell/level/2nd-level
   - spell/school/transmutation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/eldritch-knight
+  - spell/subclass/mountain-domain
+level: 2nd-level
+range: false
+school: Transmutation
+time: 1 action
+duration: 'Concentration, up to 1 hour'
+components: 'V, S, a drop of bitumen and a spider'
 aliases:
   - Spider Climb
 ---
@@ -25,6 +33,6 @@ aliases:
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Mountain Domain (KPDM)\|Cleric (Mountain Domain)]]
 
-*Source: Player's Handbook p. 277. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

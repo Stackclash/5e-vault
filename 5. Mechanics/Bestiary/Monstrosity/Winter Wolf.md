@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: arctic
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/arctic
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Winter Wolf
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Winter Wolf.md|Winter Wolf]]
-*Source: Monster Manual p. 340. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Monstrosity\Winter Wolf.md|Winter Wolf]]
+*Source: Monster Manual p. 340. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves' deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.
 
@@ -46,7 +49,7 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
   "name": "Keen Hearing and Smell"
 - "desc": "The wolf has advantage on an attack roll against a creature if at least\
     \ one of the wolf's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 - "desc": "The wolf has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
     \ checks made to hide in snowy terrain."
@@ -54,7 +57,7 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
 "actions":
 - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6\
     \ + 4) piercing damage. If the target is a creature, it must succeed on a DC 14\
-    \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Bite"
 - "desc": "The wolf exhales a blast of freezing wind in a 15-foot cone. Each creature\
     \ in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold\
@@ -62,12 +65,6 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
   "name": "Cold Breath (Recharge 5-6)"
 "source":
 - "MM"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "IDRotF"
-- "KftGV"
-- "GHLoE"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/winter-wolf.webp"
 ```
 ^statblock

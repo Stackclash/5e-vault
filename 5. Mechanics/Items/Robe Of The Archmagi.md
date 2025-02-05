@@ -6,12 +6,11 @@ tags:
   - item/attunement/required
   - item/rarity/legendary
   - item/tier/major
-  - item/wondrous
 aliases:
   - Robe of the Archmagi
 ---
 # Robe of the Archmagi
-*Wondrous Item, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
+*Wondrous item, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
 ![[5. Mechanics/Items/img/robe-of-the-archmagi.webp#right]]  
 
 
@@ -23,4 +22,4 @@ You gain these benefits while wearing the robe:
 - You have advantage on saving throws against spell and other magical effects.  
 - Your spell save DC and spell attack bonus each increase by 2.  
 
-*Source: Dungeon Master's Guide p. 194. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 194. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

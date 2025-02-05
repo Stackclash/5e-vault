@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 15
+environments: coastal
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/15
   - monster/environment/coastal
   - monster/size/huge
   - monster/type/dragon
-statblock: inline
 aliases:
   - Adult Bronze Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Bronze Dragon.md|Adult Bronze Dragon]]
-*Source: Monster Manual p. 108. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Adult Bronze Dragon.md|Adult Bronze Dragon]]
+*Source: Monster Manual p. 108. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
 
@@ -129,7 +132,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ (2d8 + 7) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
@@ -161,7 +164,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
     \ must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The dragon\
     \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
@@ -172,7 +175,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ spell. The fog lasts until initiative count 20 on the next round.  \n- A thunderclap\
     \ originates at a point the dragon can see within 120 feet of it. Each creature\
     \ within a 20-foot radius centered on that point must make a DC 15 Constitution\
-    \ saving throw or take 5 (1d10) thunder damage and be [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]\
+    \ saving throw or take 5 (1d10) thunder damage and be [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]\
     \ until the end of its next turn.  "
   "name": ""
 - "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Bronze Dragon.md|adult]]\
@@ -188,7 +191,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ strong current to course through the water in its lair. The dragon chooses any\
     \ number of creatures it can see that are standing or swimming in water within\
     \ 120 feet of it. Each chosen creature must succeed on a DC 15 Strength saving\
-    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].  "
+    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].  "
   "name": "Additional Lair Actions"
 "regional_effects":
 - "desc": "The region containing a legendary bronze dragon's lair is warped by the\
@@ -216,14 +219,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Additional Regional Effects"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "GoS"
-- "SDW"
-- "EGW"
-- "JttRC"
-- "DoSI"
-- "DSotDQ"
 "image": "5. Mechanics/Bestiary/Dragon/token/adult-bronze-dragon.webp"
 ```
 ^statblock

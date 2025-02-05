@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: null
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
   - monster/size/tiny
   - monster/type/beast
-statblock: inline
 aliases:
   - Lizard
 ---
-# [[5. Mechanics/Bestiary/Beast/Lizard.md|Lizard]]
-*Source: Monster Manual p. 332. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Lizard.md|Lizard]]
+*Source: Monster Manual p. 332. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Lizard"
@@ -38,9 +41,6 @@ aliases:
   "name": "Bite"
 "source":
 - "MM"
-- "ToA"
-- "JttRC"
-- "KftGV"
 "image": "5. Mechanics/Bestiary/Beast/token/lizard.webp"
 ```
 ^statblock

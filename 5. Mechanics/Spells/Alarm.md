@@ -4,15 +4,29 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin/oath-of-the-watchers
+  - spell/class/bard
   - spell/class/ranger
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer/clockwork-soul
   - spell/class/wizard
-  - spell/level/1
+  - spell/feat/artificer-initiate
+  - spell/feat/magic-initiate
+  - spell/feat/ritual-caster
+  - spell/level/1st-level
+  - spell/optfeature/book-of-ancient-secrets
   - spell/ritual
   - spell/school/abjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/carillon-domain
+  - spell/subclass/clockwork-soul
+  - spell/subclass/eldritch-knight
+  - spell/subclass/labyrinth-domain
+  - spell/subclass/oath-of-the-watchers
+  - spell/subclass/the-sibyl
+level: 1st-level
+range: true
+school: Abjuration
+time: 1 minute
+duration: 8 hour
+components: 'V, S, a tiny bell and a piece of fine silver wire'
 aliases:
   - Alarm
 ---
@@ -30,6 +44,6 @@ A mental alarm alerts you with a ping in your mind if you are within 1 mile of t
 
 An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of The Watchers.md\|Paladin (Oath of the Watchers)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Clockwork Soul.md\|Sorcerer (Clockwork Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Cleric Carillon Domain (GRIFFONSSADDLEBAG3)\|Cleric (Carillon Domain)]]; [[List Spells Classes Sorcerer Clockwork Soul (TCE)\|Sorcerer (Clockwork Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Labyrinth Domain (KPDM)\|Cleric (Labyrinth Domain)]]; [[List Spells Classes Paladin Oath Of The Watchers (TCE)\|Paladin (Oath of the Watchers)]]; [[List Spells Classes Warlock The Sibyl (KPDM)\|Warlock (The Sibyl)]]
 
-*Source: Player's Handbook p. 211. Available in the SRD.*
+*Source: Player's Handbook p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

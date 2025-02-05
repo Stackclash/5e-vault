@@ -3,14 +3,22 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/cleric/death-domain
-  - spell/class/cleric/grave-domain
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
+  - spell/class/bard
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/2
+  - spell/level/2nd-level
   - spell/school/necromancy
+  - spell/subclass/arcane-trickster
+  - spell/subclass/death-domain-dmg
+  - spell/subclass/eldritch-knight
+  - spell/subclass/grave-domain
+  - spell/subclass/second-soul
+level: 2nd-level
+range: false
+school: Necromancy
+time: 1 action
+duration: 'Concentration, up to 1 minute'
+components: 'V, S'
 aliases:
   - Ray of Enfeeblement
 ---
@@ -26,6 +34,6 @@ A black beam of enervating energy springs from your finger toward a creature wit
 
 At the end of each of the target's turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Death Domain.md\|Cleric (Death Domain)]], [[5. Mechanics/Classes/Cleric Grave Domain.md\|Cleric (Grave Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Cleric Death Domain (DMG)\|Cleric (Death Domain (DMG))]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Grave Domain (XGE)\|Cleric (Grave Domain)]]; [[List Spells Classes Sorcerer Second Soul (GRIFFONSSADDLEBAG3)\|Sorcerer (Second Soul)]]
 
-*Source: Player's Handbook p. 271. Available in the SRD.*
+*Source: Player's Handbook p. 271. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

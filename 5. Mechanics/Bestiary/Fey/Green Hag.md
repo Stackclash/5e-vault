@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: 'forest, swamp, hill'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
@@ -9,12 +13,11 @@ tags:
   - monster/environment/swamp
   - monster/size/medium
   - monster/type/fey
-statblock: inline
 aliases:
   - Green Hag
 ---
-# [[5. Mechanics/Bestiary/Fey/Green Hag.md|Green Hag]]
-*Source: Monster Manual p. 177, Tasha's Cauldron of Everything. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Fey\Green Hag.md|Green Hag]]
+*Source: Monster Manual p. 177, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The wretched and hateful green hags dwell in dying forests, lonely swamps, and misty moors, making their homes in caves. Green hags love to manipulate other creatures into doing their bidding, masking their intentions behind layers of deception. They lure victims to them by mimicking voices calling out for help, or drive unwanted visitors away by imitating the cries of fierce beasts.
 
@@ -83,9 +86,9 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10|avg|noform` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice:3d10|noform|avg` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] for 24 hours.
 > 
-> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
+> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
 
 ```statblock
@@ -138,11 +141,12 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ visually inspect the illusion and succeed on a DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]])\
     \ check to discern that the hag is disguised."
   "name": "Illusory Appearance"
-- "desc": "The hag magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ until she attacks or casts a spell, or until her [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
-    \ ends (as if concentrating on a spell). While [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]],\
-    \ she leaves no physical evidence of her passage, so she can be tracked only by\
-    \ magic. Any equipment she wears or carries is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+- "desc": "The hag magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+    \ until she attacks or casts a spell, or until her [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
+    \ ends (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on\
+    \ a spell). While [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]], she\
+    \ leaves no physical evidence of her passage, so she can be tracked only by magic.\
+    \ Any equipment she wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
     \ with her."
   "name": "Invisible Passage"
 "lair_actions":
@@ -190,7 +194,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
   "name": ""
 - "desc": "- Birds, rodents, snakes, spiders, or toads (or some other creatures appropriate\
     \ to the hag) are found in great profusion.  \n- Beasts that have an Intelligence\
-    \ score of 2 or lower are [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by\
+    \ score of 2 or lower are [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] by\
     \ the hag and directed to be aggressive toward intruders in the area.  \n- Strange\
     \ carved figurines, twig fetishes, or rag dolls magically appear in trees.  "
   "name": ""
@@ -209,18 +213,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
   "name": ""
 "source":
 - "MM"
-- "ToA"
-- "GoS"
-- "IMR"
-- "EGW"
-- "MOT"
 - "TCE"
-- "CM"
-- "WBtW"
-- "JttRC"
-- "PSI"
-- "SatO"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Fey/token/green-hag.webp"
 ```
 ^statblock

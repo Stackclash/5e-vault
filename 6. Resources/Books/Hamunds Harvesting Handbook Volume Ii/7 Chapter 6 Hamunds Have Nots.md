@@ -9,7 +9,7 @@ aliases:
 # Chapter 6: Hamund's Have-Nots
 *Source: Hamund's Harvesting Handbook: Volume II, p. 72* 
 
-> [!quote]- A quote from Hamund  
+> [!quote] A quote from Hamund  
 > 
 > I have been an adventurer for as long as I have been a harvester. As part of that, I have met a myriad of people from all over the multiverse, many of whom have asked for my help and expertise on whatever problems may plague them. Unfortunately, I am but one person, and do not have the resources to help everyone. Instead, I have done the next best thing: write down their details to outsource these quests to my readers! If you are in the altruistic mood (or just in the need for some extra coin), consider lending someone in here a hand.
 
@@ -39,7 +39,7 @@ The name of the quest giver. Feel free to change the names to suit your own game
 
 ### Race
 
-The race of the quest giver. Most races chosen are from the "Player's Handbook", and especially from the "main" races of [[5. Mechanics/Races/Human.md\|Human]], [[5. Mechanics/Races/Elf.md\|Elf]], [[5. Mechanics/Races/Dwarf.md\|Dwarf]], and [[5. Mechanics/Races/Halfling.md\|Halfling]]. This was in order to make them as adaptable to individual tables as possible. That said, some esoteric races also appear such as [[5. Mechanics/Races/Tiefling.md\|Tiefling]], [[5. Mechanics/Races/Goliath.md\|Goliath]], [[5. Mechanics/Races/Tabaxi.md\|Tabaxi]], etc. If any of these contradict your own games, you are encouraged to adapt them to your own table. All included races appear in either the "Player's Handbook" or in "Volo's Guide to Monsters".
+The race of the quest giver. Most races chosen are from the "Player's Handbook", and especially from the "main" races of [[5. Mechanics/Races/Human.md\|Human]], [[5. Mechanics/Races/Elf.md\|Elf]], [[5. Mechanics/Races/Dwarf.md\|Dwarf]], and [[5. Mechanics/Races/Halfling.md\|Halfling]]. This was in order to make them as adaptable to individual tables as possible. That said, some esoteric races also appear such as [[5. Mechanics/Races/Tiefling.md\|Tiefling]], [[5. Mechanics/Races/Goliath (MPMM).md\|Goliath]], [[5. Mechanics/Races/Tabaxi (MPMM).md\|Tabaxi]], etc. If any of these contradict your own games, you are encouraged to adapt them to your own table. All included races appear in either the "Player's Handbook" or in "Volo's Guide to Monsters".
 
 ### Suggested Locations
 
@@ -83,7 +83,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Many times have I bragged to my friend about managing to hunt the largest birds in these known lands. However, he's finally decided to call my bluff and ask for proof; I need to show him something. I have heard of race of bird people known as Aarakocra whose feathers should be big enough to convince him of my prowess. All I need is a few to shove in his face so that I can save mine.
 > 
@@ -97,7 +97,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I got a need to grow some crops real fast, and the only way I can think of doing that is if I have a little magic fertiliser. A druid friend told me that crushing up some blight seeds and mixing it in with the soil would do the trick, so I'll take any you can find. I just hope it don't change the taste of my pumpkins too bad.
 > 
@@ -111,7 +111,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > This prank never gets old. Pour some oil outside someone's room and watch them slip and slide as they try to make their way down the hall. While any oil will do, I am impartial to the oil of a boggle myself. It tends to have a consistency that allows for the furthest slides (and of course, the greatest hilarity).
 > 
@@ -125,7 +125,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's been too many dangnab bullywugs hopping around my hut recently. They're a cowardly bunch, so I bet if I put up a few warnings, they ought to back off. I'd say that nailing the tongues of a couple of their kin to my door oughta do the trick.
 > 
@@ -139,7 +139,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > It must have taken the drow significant effort to make a race that is even uglier and more hate-filled than themselves, and yet, they somehow achieved that with the chitine. The blood of these mutants also carry the enzymes necessary for brewing drow poison, which I want to use on the drow themselves.
 > 
@@ -153,7 +153,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Stonework animals have seen a surge in popularity these days, problem is, they take a damn long time to carve. I want to speed up the process a little with a cockatrice beak. Just take a petrifying dagger to some critters and sell the results. I'm just going to need the beak first.
 > 
@@ -167,7 +167,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Of all the illithid experiments out there, the brain of a cranium rat is among the ones I am most excited to study. Most of my samples of illithid experiments come from humanoids like grimlocks and duergar, so you can imagine how interesting it is to see illithid influence on the simple brain of a beast. The way their feral instincts interacts with psionic control is fascinating, and I simply cannot have enough samples. If you can bring them back in one piece, I will gladly pay you for each brain you can find.
 > 
@@ -181,7 +181,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's a piece of drek in my mercenary band with a real chip on her shoulder. Seems to think she's the best fighter to ever walk the Multiverse. I want to take her down a peg or two, and I was thinking making her lose all her money next time she goes gambling would be good. I've heard that a set of dice crafted from a hand touched by necromancy can help me out in that regard.
 > 
@@ -195,7 +195,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am always on the lookout to make my employees more effective in their...night-time activities. One thing that would help is a better way of blacking out torches and lamps. I've heard that darkling ash is particularly useful for this purpose, and I would pay a decent price for anyone that can get me some...discreetly.
 > 
@@ -209,7 +209,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was born deaf, but honestly, I've never had a problem with it or wanted to change it. Thing is though, there's a bard that's rolled into town recently and I've grown a bit enamoured with them. I'd like a chance to listen to their music, and the only way I can see that happening is if I get some magical assistance. I've been told that a magic hearing horn can be crafted from the otolith of a darkmantle, if someone would just be kind enough to get me one.
 > 
@@ -223,7 +223,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vyth is a master of crafting with bone and claw. Vyth has heard of large lizards and wants to make weapons from them. Get these for him, and Vyth shall pay you well.
 > 
@@ -237,7 +237,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Bad smells keep bad people away from home. Achuak has seen demons create bad smell. Get bad smell for Achuak.
 > 
@@ -251,7 +251,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > At long last we've discovered the secret to the drow's deadly poison: their own blood. It must be a sign from providence for us, to be able to kill drow and then use their own blood against them as a weapon. Bring me their blood and I will happily pay a handsome bounty.
 > 
@@ -265,7 +265,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am in love. I saw a pair of golden-amber eyes darting through the forest and I knew they were calling to me. I don't have much, but I will pay whatever I can to have a reminder of that fair creature I saw.
 > 
@@ -279,7 +279,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The duergar are a disgrace to the dwarven identity, and it is my mission to eradicate them wherever they dare appear. This is not a mission that I can do alone however; I will pay a bounty to anyone that can bring me proof of a duergar's demise.
 > 
@@ -293,7 +293,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm running out of time to complete my studies and I need anything I can get my hands on to speed it up. I've done some research and found that faerie dragon blood boasts special properties that makes it particularly conducive to the inscription of magical runes and texts. If it's true, it may just be the thing I need to finish my spellbook before my master flunks me out of my apprenticeship.
 > 
@@ -307,7 +307,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've had a lot of orders lately and unfortunately haven't had a chance to restock my supplies. In particular, I'm running low on lubricants; without which my operations will come to a literal grinding halt. There's a lot of different lubricants I could get, but firenewt mucus serves me particularly well for its insulation properties.
 > 
@@ -321,7 +321,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm in a bit of a spat these days with one of my neighbours and have figured out the best way to get a little harmless revenge on him. I'm going to bake him some goodies with a nasty surprise in the center: flumph spray. Imagine his disgust when he bites into a scrumptious cookie only for his mouth to be filled with the most horrid concoction, oh it'll be hilarious!
 > 
@@ -335,7 +335,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm working on a commission piece: a diorama of the Battle of Four Flags. I thought I might go that extra mile in having the soldiers actually move by imbuing them with a little bit of magic, but I've run low on the materials to do so. I can't get enough of them, so any that you got I'll take.
 > 
@@ -349,7 +349,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > When I was a child, I saw a travelling merchant with the most wondrous items and trinkets. One of them was a stuffed animal that floated around without any magic. I was mystified by it back then, and even to this day I think about the joy I had chasing it around. These days, I believe he was just using the spores from a gas spore fungus to make it float, but I would still like some of it for myself, if at the very least to entertain my own children.
 > 
@@ -363,7 +363,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > It's odd. Despite having accomplished many things during my magical career, I have never gotten around to summoning up a familiar; it's the independent fire in me I suppose. Anyway, I feel that because I'm getting older now, perhaps I should try my hand at it. I don't want any ordinary one though, I want something more unique and interesting. A gazer would be nice; if you manage to find one and pluck out its main eye, bring it to me, would you?
 > 
@@ -377,7 +377,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Let's be honest, of all the dangerous issues in the world, the undead are probably the most pressing. That is why I try to study them whenever I can, to learn them and their weaknesses, and hopefully, a way to defeat them. To that end, I need study samples; a ghoul's hide should be a good start.
 > 
@@ -391,7 +391,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > This is pretty simple. We got too many gnolls around here, and we'll pay just about anyone to get rid of them. Bring back any sort of proof of their death, and you'll get a bounty.
 > 
@@ -405,7 +405,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > This is pretty simple. We got too many gnolls around here, and we'll pay just about anyone to get rid of them. Bring back any sort of proof of their death, and you'll get a bounty.
 > 
@@ -419,7 +419,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > This is pretty simple. We got too many gnolls around here, and we'll pay just about anyone to get rid of them. Bring back any sort of proof of their death, and you'll get a bounty.
 > 
@@ -433,7 +433,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There are special gnomes that hide in caves. Darastrix is going to dangerous caves soon. Darastrik wants special gnome skin for good hiding.
 > 
@@ -447,7 +447,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > It's a tale as old as time: too many goblins in our area, overworked city guard asks adventurers to go hunt down aforementioned goblins. Adventurers bring back proof, get a bounty. The end.
 > 
@@ -461,7 +461,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Here's what my dear 'pa used to say: 'you don't need to work a shovel if you know how to pour a vial.' That's because his tool of choice was concentrated acid to eat through layers of stone and dirt like they were made of sugar. The best source of it comes from oozes: they're plentiful, potent, and if you leave it long enough it starts to reproduce itself. That said, I'll take any samples you have, I've always got more projects than I have materials for.
 > 
@@ -475,7 +475,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Grimlocks are an interesting bunch. Generations of being subjected to the machinations of the illithid's experiments have made them simultaneously incredibly stupid yet gifted with decent mental powers. I want samples of their brains for study; perhaps I can unlock their mental talents without the off-putting side effects.
 > 
@@ -489,7 +489,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's nothing better in life than a good drink, but after years of the same ales, beers, and whiskeys, I'm itching to try something new. I've heard that swampfolk brew up a mighty strong drink using the poison glands of the grung; something so strong it'll make you see things. If you could go out and collect some for me, I'm sure the swampfolk would thank you too for ridding them of their pesky neighbours.
 > 
@@ -503,7 +503,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vyth is a master of crafting with bone and claw. Vyth has heard of large lizards and wants to make weapons from them. Get these for him, and Vyth shall pay you well.
 > 
@@ -517,7 +517,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > It's a tale as old as time: too many hobgoblins in our area, overworked city guard asks adventurers to go hunt down aforementioned hobgoblins. Adventurers bring back proof, get a bounty. The end.
 > 
@@ -531,7 +531,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Okay, I think I know how to pass my finals exam. Despite my academic record, I am actually an extraordinarily fast writer. Thus, I'm pretty sure that if I drink a vial of homunculus blood, I can finish my exam before it wears off and before I get the strong withdrawal symptoms. All I need is the homunculus from a good wizard and I'm good to go.
 > 
@@ -545,7 +545,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Insomnia runs in my family, it's sorta how we got our name. It's been years since I've been able to get a good night's rest and frankly, I'm at my wits end. I'll do just about anything to get some sleep, even if it means using a jackalwere's eyes to cast some super strong sleep magic on myself.
 > 
@@ -559,7 +559,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have a couple of orders for music boxes that I do not have the resources to fulfil at the moment. I've also heard that there's a bunch of kenku thieves causing a commotion in the nearby town. If you bring me the voice boxes that I need to make these music boxes, I won't ask you where you got them.
 > 
@@ -573,7 +573,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Kosj has seen smaller reptile people called kobolds. Kobolds have sharp teeth, good for tools. Kosj wants some teeth for new tools.
 > 
@@ -587,7 +587,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Kosj has seen smaller reptile people called kobolds. Kobolds have sharp teeth, good for tools. Kosj wants some teeth for new tools.
 > 
@@ -601,7 +601,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The kuo-toa are another fascinating result of illithid experimentation. Their brains are so chaotic yet so powerful. I want some samples to study, perhaps I can figure out how they work and add some method to their madness.
 > 
@@ -615,7 +615,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As the currency of the Nine Hells, lemure essence is a key aspect of devilish culture. I want as many samples of it as possible for my studies into the fiends around us.
 > 
@@ -629,7 +629,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Long ago, tribe cast Throden out. Throden hate other lizardfolk, will do anything to make them hurt. Throden is old and cannot hunt anymore, but Throden has coin. Adventurers will be paid bounty for hunting other lizardfolk.
 > 
@@ -643,7 +643,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > When they asked me to become an adventurer, they never said anything about how BAD the food would be. Nothing but salted beef and stale crackers for weeks on end! And every time I offer to cook up something nice, my companions give me the same excuse that it's too risky to light a fire where enemies might spot it. Well, I just heard of a wondrous frying pan that doesn't need any fire to be used, and all it takes is the shell of a magmin. Please find one for me: my appetite is on the line!
 > 
@@ -657,7 +657,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am running low on alchemy supplies, which causes me to worry about the wellbeing of the town that I tend to as healer. If I could get any medicinal supplies, I would happily pay out of my own savings for them. Manes vapour may be off-putting, but it actually has many uses as an inoculation substance and is crucial for the winter months.
 > 
@@ -671,7 +671,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm just so busy these days, I can't even keep the basics well stocked. Now normally, my assistant would be the one to just summon mephitis and harvest them for their motes, but he...exploded recently (he didn't measure the fiend powder to ignition gel ratio properly, and well ALL know what happens then). So, if you have some elemental motes, I'll be glad to buy them off you.
 > 
@@ -685,7 +685,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Merchants sail in their ships and they ask Garurt for shiny things around his home. Merfolk have shiny scales, so Garurt will give merchants merfolk scales. Garurt will pay mercenaries bounty if they help him find the shinies.
 > 
@@ -699,7 +699,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have had it up to HERE with the bickering and fighting that goes on in the meeting chambers of our city council. For weeks now, the elites of the city have been sniping at each other; all of them too proud to give an inch of power to another, even if it is for the good of the city! Well no more, for I have come up with a solution. I have heard that the rapport spores of a myconid are capable of increasing empathy among those who breathe them in; perhaps if I spike the meeting chamber with some of them, it'll let our leaders finally see eye to eye. If not, then at least it'll allow them to communicate in a less noisy manner.
 > 
@@ -713,7 +713,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have had it up to HERE with the bickering and fighting that goes on in the meeting chambers of our city council. For weeks now, the elites of the city have been sniping at each other; all of them too proud to give an inch of power to another, even if it is for the good of the city! Well no more, for I have come up with a solution. I have heard that the rapport spores of a myconid are capable of increasing empathy among those who breathe them in; perhaps if I spike the meeting chamber with some of them, it'll let our leaders finally see eye to eye. If not, then at least it'll allow them to communicate in a less noisy manner.
 > 
@@ -729,7 +729,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The thing that every new commander fails to grasp is the importance of troop morale; how willing are your soldiers to charge into what may very well be their deaths? Morale can make or break a battle, make no mistake about that. As such, I want to make neogi amygdalas a standard inventory item in our supply caravans; I've heard that chewing on that for a while calms a person down and gives them the steely resolve of the uncaring insectoids themselves.
 > 
@@ -743,7 +743,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've made a huge mistake. I was at the tavern last week with the lads, tipping back a few pints of ale. To be honest, the night's a little hazy, but apparently in the middle of it all I had challenged the biggest grognard in town to a duel. Now I'm not much of a fighting man myself, so I will most definitely die in that duel without some outside help. Unfortunately, I'm also a bit strapped for cash, so the only thing I can think of that I can also afford is some orc blood. One sip of that stuff can turn any man into a raging fighting machine...at least for a little while.
 > 
@@ -757,7 +757,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There is a man that I must kill, a cleric of a dark god. My problem is that whenever I slice him open, he simply heals the damage and runs away. I have heard however of a fiendish poison that is capable of preventing such magical healing. If I had it, I could finally end my target once and for all.
 > 
@@ -771,7 +771,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Unbeknownst to many of my customers, the foul-smelling piercer musk is actually a key component in many of my best-selling perfumes. In fact, the perfumes sell so well that I've run low on musk. If you have any, I'll gladly take if off your hands, and even pay a premium if you can remain discreet about it.
 > 
@@ -785,7 +785,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've come up with the most whimsical idea for my next party favour: pixie dust! Imagine my guests delight as they open up a pouch and are sprinkled with concentrated magic in powder form, not knowing what wonderful effect they will get. I can see the laughs from the room as they fly around, turn invisible, or shapeshift into animals. Of course, some of them will be restrained by thorny vines or be afflicted by madness, but that's all part of the fun isn't it?
 > 
@@ -799,7 +799,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Insomnia runs in my family, it's sorta how we got our name. It's been years since I've been able to get a good night's rest and frankly, I'm at my wits end. I'll do just about anything to get some sleep, even if it means tranquilising myself with some pseudodragon venom.
 > 
@@ -813,7 +813,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vyth is a master of crafting with bone and claw. Vyth has heard of large lizards and wants to make weapons from them. Get these for him, and Vyth shall pay you well.
 > 
@@ -827,7 +827,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've thought of another great prank. I'm going to pour some rust monster dust on my guests next time they come in. I can imagine the roars of laughter as their armor corrodes and rusts up. Trust me, it'll be hilarious.
 > 
@@ -841,7 +841,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Sahuagin raids have become particularly nasty as of late, and we're going to need to step up our arsenal if we have a chance of beating them back. We have ideas for new poisons or deterrents we could make to fend them off, but we'll need to test them first. If you can bring back some sahuagin blood, we would be in your debt.
 > 
@@ -855,7 +855,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I can't let anyone know about this, but I'm actually as bald as a plucked chicken. I've been covering it up for years with a variety of wigs, toupees, and hats, but this charade has grown tiresome. I want to do something more proactive about it, and I heard that satyr hair can make a potion for combatting baldness. Get me some, and please don't tell anyone about this.
 > 
@@ -869,7 +869,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've heard that leaving a shadow wisp in someone's shadow will drain them of their strength. As nefarious as that sounds, I think it would make for a great prank! I want to leave one in my houseguest's room overnight and see what happens, maybe have them awake up groggier than when they went to sleep? I'm sure they'll laugh about it afterwards when I tell them what happened.
 > 
@@ -883,7 +883,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > My officers have finally taken me up on my suggestion of incorporating shrieker spores into the standard kit of our mages. Such a thing would make sure they don't have to waste any of their energies on securing camps at the end of the day, but it also means we need to increase our supply of the spores. We'll take any that you can gather, at a premium too since we need them fast.
 > 
@@ -897,7 +897,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Nothing like some good bone dust for doing your necromancy; and boy do I do a lot of necromancy. So much necromancy in fact that some people have the audacity to accuse me of being a lich in disguise. I have to vehemently deny that accusation and state that I merely have a skin condition that makes it look like I have no skin...or flesh.
 > 
@@ -911,7 +911,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Although it is a relatively rare occurrence, being infested with a slaad egg is a horrible affliction that I would not wish on anyone. The problem is that some of our warriors can engage in a fight with a slaad and not realise they've been infected until it is far too late. To remedy this, I want to invent a vaccine against these infections, and to do this, I need to study slaad biology a little more closely. Slaad slime would be a good start since they use it to protect their bodies; perhaps some reverse engineering can make a potion that causes the imbiber to produce antigens that kill eggs as soon as they're implanted.
 > 
@@ -925,7 +925,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I feel there's this gulf between my husband and I lately. There's just some barrier in communication I can't seem to broach; like he's not telling me how he feels. I want to understand him better so I was thinking I could use some sprite dust next time so I could understand his emotions and figure out what's troubling him.
 > 
@@ -939,7 +939,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I serve as the healer of the local village and my supplies have run quite low lately. I don't even have the basics like needles for administering tinctures. Stirge needles are a good substitute, and I will gladly pay out of my own pocket for some supplies.
 > 
@@ -953,7 +953,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Despite troglodytes being generally useless, their hides are actually quite useful. My favourite use is to grind them up for a special pigment for invisible ink. If you're going down into the caves and see some troglodytes, skin a few of them for me, would you?
 > 
@@ -967,7 +967,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vyth is a master of crafting with bone and claw. Vyth has heard of large lizards and wants to make weapons from them. Get these for him, and Vyth shall pay you well.
 > 
@@ -981,7 +981,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I will not beat around the bush. I want someone dead, and I want it to be painful. Unfortunately, I am not in the position to do it face to face the way it should be done, so I will need to resort to other methods. The poison made from a violet fungus stalk is a particularly torturous method of death, and one that I think is suitable for my quarry.
 > 
@@ -995,7 +995,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Kosj has seen smaller reptile people called kobolds. Kobolds have sharp teeth, good for tools. Kosj wants some teeth for new tools.
 > 
@@ -1009,7 +1009,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's something that's been missing from my theatre troupe's performances of 'The Scuttling King' and I think I know what it is: realistic sound effects. Sure, we can try to imitate the sounds of vermin, but unfortunately, none of us are particularly good at it. Recently however, I've heard that the tongue of a xvart can imitate those sounds perfectly. If I had some of those for noisemakers, I know our troupe will have the spookiest performance in the whole land.
 > 
@@ -1023,7 +1023,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I must acknowledge that there are those who think I am a lich, merely because of my skin condition that makes it seem I have no skin, and my muscle condition that makes it look like I have no flesh. I assure you that I am very much a normal human. That said, I would like you to find some zombie juice for me. I swear it's not for any necromantic or lich-y behaviour, it's for my...skin condition. Yes, that will do.
 > 
@@ -1039,7 +1039,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm working on a commission piece: a diorama of the Battle of Four Flags. I thought I might go that extra mile in having the soldiers actually move by imbuing them with a little bit of magic, but I've run low on the materials to do so. I can't get enough of them, so any that you got I'll take.
 > 
@@ -1053,7 +1053,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > More furs are needed in home. Home also has many furry bugbears around. Solution seems obvious.
 > 
@@ -1067,7 +1067,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vyth is a master of crafting with bone and claw. Vyth has heard of large lizards and wants to make weapons from them. Get these for him, and Vyth shall pay you well.
 > 
@@ -1081,7 +1081,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Salamander blood is a pretty staple material to have in any high-end blacksmith, but I've had so many orders lately that I'm starting to run out. I'd gladly buy any that you have, and at a premium too due to the urgency.
 > 
@@ -1095,7 +1095,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've had a lot of orders lately and unfortunately haven't had a chance to restock my supplies. In particular, I'm running low on lubricants; without which my operations will come to a literal grinding halt. There's a lot of different lubricants I could get, but firenewt mucus serves particularly well for its insulation properties.
 > 
@@ -1109,7 +1109,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm not nearly as young as I used to be, and the cold winters are starting to get to me. What I could really use is a warmer coat, something that can stay warm on even the most frigid of days. The hide of a giant strider would be nice; those beasties radiate a toasty heat at all times, even in death.
 > 
@@ -1123,7 +1123,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > It's a tale as old as time: too many goblins in our area, overworked city guard asks adventurers to go hunt down aforementioned goblins. Adventurers bring back proof, get a bounty. The end.
 > 
@@ -1137,7 +1137,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > This is pretty simple. We got too many gnolls around here, and we'll pay just about anyone to get rid of them. Bring back any sort of proof of their death, and you'll get a bounty.
 > 
@@ -1151,7 +1151,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's nothing better in life than a good drink, but after years of the same ales, beers, and whiskeys, I'm itching to try something new. I've heard that swampfolk brew up a mighty strong drink using the poison glands of the grung; something so strong it'll make you see things. If you could go out and collect some for me, I'm sure the swampfolk would thank you too for ridding them of their pesky neighbours.
 > 
@@ -1165,7 +1165,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Although it is not the most ideal source, a half-ogre's blood can still make for a decent strengthenhancing potion. I would obviously rather brew my potions from giants, but this will do if my supplies of giant fingernails ever runs low.
 > 
@@ -1179,7 +1179,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > It is my dream to be the greatest bard that has ever lived, and to do that, I will need an instrument befitting of my greatness. I believe I'll start with a harp strung with the vocal cords of a harpy. Imagine my debut performance with that in my hands: the ladies will be all over me.
 > 
@@ -1193,7 +1193,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I need to improve my archery game, and I've heard that fletching with hippogriff feathers will give me the edge I need. I'll take any off your hands for a good price.
 > 
@@ -1207,7 +1207,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have been researching the local cults in my area and have discovered that they have repurposed imp heads as a type of censer to seek out other fiends. No doubt, such a thing would be of huge benefit in my own endeavours, and I would like a sample of it myself.
 > 
@@ -1221,7 +1221,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Kosj has seen smaller reptile people called kobolds. Kobolds have sharp teeth, good for tools. Kosj wants some teeth for new tools.
 > 
@@ -1235,7 +1235,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Kosj has seen smaller reptile people called kobolds. Kobolds have sharp teeth, good for tools. Kosj wants some teeth for new tools.
 > 
@@ -1249,7 +1249,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The kuo-toa are another fascinating result of illithid experimentation. Their brains are so chaotic yet so powerful. I want some samples to study, perhaps I can figure out how they work and add some method to their madness.
 > 
@@ -1263,7 +1263,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > My entire life has been turned upside down. The other day, I saw a friend of mine whip out a set of fake teeth that chattered on their own. We all had a quick laugh at first, but that turned to awe as the teeth began to actually devour a sausage that he had placed in front of it. Not only that, but he could taste it as well, and the food actually ended up in his real stomach! Imagine how fast I could eat with a set of those teeth! I could lay claim to half the dinner spread by myself! I need to make those teeth for myself, even if it does come with the risk of a fiendish curse.
 > 
@@ -1277,7 +1277,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I always strive to make sure that any houseguests of mine leave with a smile on their faces. Unfortunately, some of them can be quite the sourpusses so I need to resort to magical help to turn that frown upside down. I had a wand of smiles a while ago, but it's broken down with overuse. I know how to craft a new one, all I need is some residual magic form a goblin that's been touched by a nilbog spirit.
 > 
@@ -1291,7 +1291,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am doing some research into the demonic cults around my area, and I feel that to understand them fully, I need to immerse myself in their practices. To that end, I wish to summon a quasit as my familiar, and to do that, I need a vial of quasit blood.
 > 
@@ -1305,7 +1305,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Being on quickling blood is one of the most amazing experiences you'll ever have, my friend. Imagine being able to see the individual wing flaps of a hummingbird, or a swift river flowing in slow motion. The only issue is just how short its effects are! I'm always in the market for some more blood to keep the feeling going, so if you're selling, I'm buying!
 > 
@@ -1319,7 +1319,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I despise the so-called 'scarecrows' made by hags and lesser wizards. It's such a waste of spiritual energy to make such a weak servant. However, the only reason the scarecrow is so weak is because these people have no idea what they're doing when it comes to construct creation. I am going to prove to them you can make something much more dangerous with the spirits they have.
 > 
@@ -1333,7 +1333,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As quartermaster, it's my duty to make sure that our armies have the supplies they need to stay healthy and safe. One thing I've always pushed for is better supplied ships, part of which is something to keep sailors safe in the event of going overboard or capsizing. I want potions of water breathing in every sailor's kit, but to do that, I'm going to need a lot of supplies. Thankfully, sea spawn are pretty numerous, and their blood lends itself well to the potion. I'll buy any vials of their blood that you bring me.
 > 
@@ -1349,7 +1349,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Specters have a terrible existence, damned to spend their undeath in a state of utter hatred and spite. I want to help them, but first I need to study them. Specter remnants or even poltergeist paper is all I need to start working on some method to alleviate the spiritual pain that they are in, and hopefully end this horrible curse forever.
 > 
@@ -1363,7 +1363,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I got a need to grow some crops real fast, and the only way I can think of doing that is if I have a little magical fertiliser. A druid friend told me that crushing up some thorny thorns and mixing it in with the soil should do the trick, so I'll take any you can find. I just hope it don't change the taste of my melons too bad.
 > 
@@ -1377,7 +1377,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The thri-kreen are fascinating to me, possessing psionic powers that rival the races influenced by illithid experimentation. Their brains are so alien to the rest of us that they are difficult to study, but I am determined to figure out exactly how they work. I will need a few more samples to study however.
 > 
@@ -1391,7 +1391,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > So I've heard of something called the 'mirror of insecurity' and it was easily one of the most hilarious things I've ever heard of. I can imagine using it right now on some of my snootier house guests; listen to them shriek as they think they've received some horrible curse, when in reality, they've just been hit by a relatively benign curse. I want to make this mirror immediately: I just need a vargouille jaw to do it.
 > 
@@ -1405,7 +1405,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I serve a little nearby town as healer, but I'm running dangerously low on supplies. I'll take anything you can offer, and I'll even pay for it out of my own pocket. Vegepygmy frills would be good; I like to turn it into a paste to treat a child in town with a bad case of asthma. Please get some for me, won't you?
 > 
@@ -1419,7 +1419,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's something that's been missing from my theatre troupe's performances of 'The Scuttling King' and I think I know what it is: realistic sound effects. Sure, we can try to imitate the sounds of vermin, but unfortunately, none of us are particularly good at it. Recently however, I've heard that the tongue of a xvart can imitate those sounds perfectly. If I had some of those for noisemakers, I know our troupe will have the spookiest performance in the whole land.
 > 
@@ -1433,7 +1433,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > One of my basic services is to make a potion for adventurers that will protect them from the various poisons out there in the world. Unfortunately, I've gotten so many orders recently that I'm having trouble keeping up with demand. While there are a lot of different bases that can be used to craft the potion, one of the more common ones is yuan-ti blood. If you get me some, I'll gladly pay you a decent price for it.
 > 
@@ -1451,7 +1451,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vyth is a master of crafting with bone and claw. Vyth has heard of large lizards and wants to make weapons from them. Get these for him, and Vyth shall pay you well.
 > 
@@ -1465,7 +1465,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I had a bit too much to drink last night and long story short, one of the walls of my hut is gone. I need some building materials for repairs, preferably something that will survive whiskey Wednesdays.
 > 
@@ -1479,7 +1479,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm close to finishing my seminal work and I would like to give it a good blessing. A sprinkle of azer ash ought to be a good.
 > 
@@ -1493,7 +1493,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've had a horrible case of indigestion for the past few weeks. I can't figure out what caused it, mostly because the list of things I've eaten is too long to remember. Regardless, I need something to get the system running again, and a mixture of carrion crawler guts and honey used to be my old ma's recipe for that.
 > 
@@ -1507,7 +1507,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > An archery contest is coming up and I need a finer bow than the one I have now. I've heard that a bow strung with a centaur tail's hairs makes for a particularly good one. Unfortunately it's not like I can just ask them for some tail hairs, so I'm going to need someone to go out and get some for me.
 > 
@@ -1521,7 +1521,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am always on the lookout to make my employees more effective in their...night-time activities. One thing that would help is a better way of blacking out torches and lamps. I've heard that darkling ash is particularly useful for this purpose, and I would pay a decent price for anyone that can get me some...discreetly.
 > 
@@ -1535,7 +1535,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As a gourmand, there is nothing more that I enjoy than a sumptuous dragon steak. Some say the older the dragon the better the flavour, but I'm impartial to the wyrmlings myself. I find they're more tender and amenable to spicing.
 > 
@@ -1549,7 +1549,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > In the old days, we used to spin our ropes from the webs of the ettercap. The younger generation unfortunately have lost this art, even though the result was a stronger binding than hemp or mundane silk. I want to teach these kids a lesson or two from the past, I just need some materials to work with first.
 > 
@@ -1563,7 +1563,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I work as a stonemason and it's gotten a bit tiresome trying to move these heavy blocks of stone everywhere. I heard there was some artificers that can turn gargoyle wings into a cloak that gives stone wings. If I get something like that, I wouldn't need to break my back whenever I have a job to do.
 > 
@@ -1577,7 +1577,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Here's what my dear 'pa used to say: 'you don't need to work a shovel if you know how to pour a vial.' That's because his tool of choice was concentrated acid to eat through layers of stone and dirt like they were made of sugar. The best source of it comes from oozes, they're plentiful, potent, and if you leave it long enough it starts to reproduce itself. That said, I'll take any samples you have, I've always got more projects than I have materials for.
 > 
@@ -1591,7 +1591,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Let's be honest, of all the dangerous issues in the world, the undead are probably the most pressing. That is why I try to study them whenever I can, to learn them and their weaknesses, and hopefully, a way to defeat them. To that end, I need study samples; a ghoul's hide should be a good start.
 > 
@@ -1605,7 +1605,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've figured out a great prank to use on my next house guest. I'm going to leave a pair of living dentures in a hidden place in their room and laugh every time it loudly chatters. They're going to go nuts trying to find it, but I'm sure they'll laugh about it afterwards.
 > 
@@ -1619,7 +1619,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am fascinated by the case of the githzerai. As a race of people with psionic abilities, their brains are unlike any other humanoid's. I would very much like to study them and perhaps find a way to grant the rest of us similar powers.
 > 
@@ -1633,7 +1633,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > This is pretty simple. We got too many gnolls around here, and we'll pay just about anyone to get rid of them. Bring back any sort of proof of their death, and you'll get a bounty.
 > 
@@ -1647,7 +1647,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There is creature that hides good in caves. Darastrix wants this creature's hide so Darastrix can also hide good.
 > 
@@ -1661,7 +1661,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I need to improve my archery game, and I've heard that fletching with griffon feathers will give me the edge I need. I'll take any off your hands for a good price.
 > 
@@ -1675,7 +1675,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's nothing better in life than a good drink, but after years of the same ales, beers, and whiskeys, I'm itching to try something new. I've heard that swampfolk brew up a mighty strong drink using the poison glands of the grung; something so strong it'll make you see things. If you could go out and collect some for me, I'm sure the swampfolk would thank you too for ridding them of their pesky neighbours.
 > 
@@ -1689,7 +1689,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > My wedding anniversary is coming up in a few weeks and somehow, my wife has gotten it into her head that I'm buying her a dragon-scale dress as a present. I can tell you right now that I cannot afford that. However, I've heard of something called a guard drake and that their scales are pretty close to being dragon scales. It's not like she's going to be able to tell the difference, right?
 > 
@@ -1703,7 +1703,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > It's a tale as old as time: too many hobgoblins in our area, overworked city guard asks adventurers to go hunt down aforementioned hobgoblins. Adventurers bring back proof, get a bounty. The end.
 > 
@@ -1717,7 +1717,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As disgusting and dangerous as they are, the intellect devourer is a triumph of transmutation and alchemy. I am fascinated by their creation, but obviously, details of their creation process are scarce. Their brain fluids however contain traces of the devourer's memories; if I imbibe it, perhaps I can gain the memory of what it went through and unlock its secrets that way.
 > 
@@ -1731,7 +1731,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Long ago, tribe cast Throden out. Throden hate other lizardfolk, will do anything to make them hurt. Throden is old and cannot hunt anymore, but Throden has coin. Adventurers will be paid bounty for hunting other lizardfolk.
 > 
@@ -1745,7 +1745,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I used to live the life of an adventurer, but those violent times are behind me. Now, I am simply a farmer, tending to my herds. I abhor violence so much now that I refuse to even strike my animals when they begin to wander off. I have heard however, of elves that use meenlock claws as a pacifistic way of calming over-excited livestock. Something like that seems the perfect fit for my preferred method of farming.
 > 
@@ -1759,7 +1759,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Ship merchants keep asking Garurt for new powder to change colour of their clothes. Garurt has found merrow around his home, maybe their scales will be good for what ship merchants want. Bring them back to me, and Garurt will pay bounty.
 > 
@@ -1773,7 +1773,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > No matter what you're building, there's nothing quite like mimic gel to keep it all together. I've got a few DIY projects coming up so I need as much of the stuff as I can get my hands on.
 > 
@@ -1787,7 +1787,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have had it up to HERE with the bickering and fighting that goes on in the meeting chambers of our city council. For weeks now, the elites of the city have been sniping at each other; all of them too proud to give an inch of power to another, even if it is for the good of the city! Well no more, for I have come up with a solution. I have heard that the rapport spores of a myconid are capable of increasing empathy among those who breathe them in; perhaps if I spike the meeting chamber with some of them, it'll let our leaders finally see eye to eye. If not, then at least it'll allow them to communicate in a less noisy manner.
 > 
@@ -1801,7 +1801,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Let's get right to the point on this one: I am going to fail my wizard apprenticeship if I don't do something FAST. My spellbook is sorely lacking in...well... spells but I think I know the solution. An older student told me that a nothic brain can yield some of its spells to a wizard that writes in their book with its pulped remains. Now, they may have just said it as some stupid hazing prank, but at this point I'm willing to try anything.
 > 
@@ -1817,7 +1817,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Here's what my dear 'pa used to say: 'you don't need to work a shovel if you know how to pour a vial.' That's because his tool of choice was concentrated acid to eat through layers of stone and dirt like they were made of sugar. The best source of it comes from oozes, they're plentiful, potent, and if you leave it long enough it starts to reproduce itself. That said, I'll take any samples you have, I've always got more projects than I have materials for.
 > 
@@ -1831,7 +1831,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Back in my bear hunting days, regular leather was sufficient when it came to armor. These days however, I hunt much more dangerous game and so I need something a bit tougher and thicker. Ogre hide should be a good fit for me, both in terms of its durability and its size.
 > 
@@ -1845,7 +1845,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As my name would suggest, I am descended from a long line of orc hunters. It is a tradition in my family to venture out into the world and destroy orcs wherever we find them, taking their hearts back in triumph to our ancestral home. I, however, have not done so well in this regard. While I have cut through quite a few orcs, I have yet to find any special ones: those touched by the orcish pantheon. If I could bring a few of those home, even if they were not from my kills, I would be able to return with no small amount of glory.
 > 
@@ -1859,7 +1859,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As my name would suggest, I am descended from a long line of orc hunters. It is a tradition in my family to venture out into the world and destroy orcs wherever we find them, taking their hearts back in triumph to our ancestral home. I, however, have not done so well in this regard. While I have cut through quite a few orcs, I have yet to find any special ones; those touched by the orcish pantheon. If I could bring a few of those home, even if they were not from my kills, I would be able to return with no small amount of glory.
 > 
@@ -1873,7 +1873,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've made a huge mistake. I was at the tavern last week with the lads, tipping back a few pints of ale. To be honest, the night's a little hazy, but apparently in the middle of it all I had challenged the biggest grognard in town to a duel. Now I'm not much of a fighting man myself, so I will most definitely die in that duel without some outside help. Unfortunately, I'm also a bit strapped for cash, so the only thing I can think of that I can also afford is some orc blood. One sip of that stuff can turn any man into a raging fighting machine...at least for a little while.
 > 
@@ -1887,7 +1887,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've made a huge mistake. I was at the tavern last week with the lads, tipping back a few pints of ale. To be honest, the night's a little hazy, but apparently in the middle of it all I had challenged the biggest grognard in town to a duel. Now I'm not much of a fighting man myself, so I will most definitely die in that duel without some outside help. Unfortunately, I'm also a bit strapped for cash, so the only thing I can think of that I can also afford is some orc blood. One sip of that stuff can turn any man into a raging fighting machine...at least for a little while.
 > 
@@ -1901,7 +1901,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > You should have seen my last performance; I was bringing the roof down with how hard I was shredding my lute. In fact, I shred so hard that my strings snapped. I see this as something of a wake-up call: I need instruments that can better match a bard of my calibre. To that end, I want to restring my lute with pegasus hair; they say it gives a flighty quality to your notes and songs.
 > 
@@ -1915,7 +1915,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > "There's a piece of drek in my mercenary band with a real chip on her shoulder. Seems to think she's the best fighter to ever walk the Multiverse. I want to take her down a peg or two, and I was thinking making her lose all her money next time she goes gambling would be good. I've heard that a set of dice crafted from a peryton's horns are particularly unlucky. I'd be glad to shell out a few gold pieces just to wipe that smile off her face.
 > 
@@ -1929,7 +1929,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vyth is a master of crafting with bone and claw. Vyth has heard of large lizards and wants to make weapons from them. Get these for him, and Vyth shall pay you well.
 > 
@@ -1943,7 +1943,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've learned my lesson from last time I went spelunking; always bring some insulated clothes for those cold Underdark depths. Quaggoth fur is particularly good lining for coats and blankets, and it's relatively comfortable too. If you could get me some, you'd be making my life A LOT more comfortable.
 > 
@@ -1957,7 +1957,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm working on a commission piece: a diorama of the Battle of Four Flags. I thought I might go that extra mile in having the soldiers actually move by imbuing them with a little bit of magic, but I've run low on the materials to do so. I can't get enough of them, so any that you got I'll take.
 > 
@@ -1971,7 +1971,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Sahuagin raids have become particularly nasty as of late, and we're going to need to step up our arsenal if we have a chance of beating them back. We have ideas for new poisons or deterrents we could make to fend them off, but we'll need to test them first. If you can bring back some sahuagin blood, we would be in your debt.
 > 
@@ -1985,7 +1985,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The threat posed by hags has gone on for far too long. I am studying a way to put an end to their vile race once and for all, and I believe that the key lies in their infamous eyes. With the way they are connected to them, I believe they may be used as a method to find, hunt, and destroy them easily. I will need more samples to experiment with first though.
 > 
@@ -1999,7 +1999,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's nothing better in life than a good drink, but after years of the same ales, beers, and whiskeys, I'm itching to try something new. I've heard that dark dogs called "shadow mastiffs" have a drool that you can make a pretty interesting drink out of. Sure, the idea of drinking a magical mutt's spit isn't the most tantalising, but that's the whole point of trying new things isn't it?
 > 
@@ -2013,7 +2013,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Regular arrows have grown boring for me. I want something with a bit more spark, a bit more excitement. I've heard that arrows fletched from the spines of a devil ignite upon impact. That should satisfy my malaise for now.
 > 
@@ -2027,7 +2027,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I serve a little nearby town as healer, but I'm running dangerously low on supplies. I'll take anything you can offer, and I'll even pay for it out of my own pocket. Vegepygmy frills would be good; I like to turn it into a paste to treat a child in town with a bad case of asthma. Please get some for me, won't you?
 > 
@@ -2041,7 +2041,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Lycanthropy is a terrible affliction, and those who are cursed by it should be cared for, not cast out. I run a home that any lycan is free to come to and stay while they turn their lives around. To help them, I brew up copious amounts of moon muzzle mixture, but supply is always limited since the blood required to make it must be donated by an already deceased lycan. If you are ever forced to kill one, please bring me their blood so that their death may help save the life of another.
 > 
@@ -2055,7 +2055,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I serve my local village as healer, which unfortunately sometimes involves helping the critically ill pass into death. I try to do it as painlessly as possible, and I've found that the energy produced by will-o-wisps produce the best results. Sprinkling their energy over a dying person will kill them painlessly, instantly, and with no mark left on their corpse. As macabre as it may sound, I would like to stock up on these motes of necrotic energy for those...less enjoyable moments of my job.
 > 
@@ -2069,7 +2069,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > One of my basic services is to make a potion for adventurers that will protect them from the various poisons out there in the world. Unfortunately, I've gotten so many orders recently that I'm having trouble keeping up with demand. While there are a lot of different bases that can be used to craft the potion, one of the more common ones is yuan-ti blood. If you get me some, I'll gladly pay you a decent price for it.
 > 
@@ -2087,7 +2087,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vyth is a master of crafting with bone and claw. Vyth has heard of large lizards and wants to make weapons from them. Get these for him, and Vyth shall pay you well.
 > 
@@ -2101,7 +2101,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have a new stoneworking project in the works, but the tools I have available are not of a high enough standard to get the job done. If I want to do this project justice, I need basilisk teeth; only tools made from them can give me the precision I need.
 > 
@@ -2115,7 +2115,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There is a man that I must kill, a cleric of a dark god. My problem is that whenever I slice him open, he simply heals the damage and runs away. I have heard however of a fiendish poison that is capable of preventing such magical healing. If I had it, I could finally end my target once and for all.
 > 
@@ -2129,7 +2129,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > More furs are needed in home. Home also has many bugbears around. Solution seems obvious.
 > 
@@ -2145,7 +2145,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I always say that half of a soldier's effectiveness is in their gear, so I always make a point of sourcing the best gear for our troops. Cave fisher filament is significantly tougher than hemp, much easier to carry, and wont fray nearly as badly. We will take any that you can spare.
 > 
@@ -2159,7 +2159,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > It must have taken the drow significant effort to make a race that is even uglier and more hate-filled than themselves, and yet, they somehow achieved that with the choldrith. The blood of these mutants also carry the enzymes necessary for brewing drow poison, something I find quite fitting. How about we use the blood of their creations to wreak havoc on the drow themselves?
 > 
@@ -2173,7 +2173,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Although I'd hate to admit it, the deep scions I've encountered are a pretty powerful bunch. In particular are their shrieks which can stun just about everything around them underwater. I would like to keep something like that around, if only as just a last resort.
 > 
@@ -2187,7 +2187,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > A certain client has asked for something to aid their...night-time activities. To that end, I am in need of a displacer beast hide so I may fashion something for them. I am willing to pay a premium to anyone able to provide one and be discreet about it.
 > 
@@ -2201,7 +2201,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As a master thespian and veteran of the stage, I have thrust myself into countless roles and characters. However, I want to delve deeper into my craft and physically embody someone in ways that makeup cannot provide. A doppelganger face has the ability to change someone's face to that of another person. Such a thing would be a devilish test of my chameleon-like acting talents.
 > 
@@ -2215,7 +2215,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Every year for our anniversary, my wife gets me the most thoughtful presents: a fancy new hammer, jewelled armor, a dragon skin bag; I almost hate her for it. Well for our 100th anniversary, I'm going to get her something she's wanted since she was little: the shell of a flail snail. I know it's expensive, but she never stops talking about all the things she'd craft if she had one. So, I don't care how much I'm paying for it, I'm going to make sure that this is the best darn anniversary ever.
 > 
@@ -2229,7 +2229,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am fascinated by the case of the githyanki. A race of people with psionic abilities, their brains are unlike any other humanoids. I would very much like to study them and perhaps find a way to grant the rest of us similar powers.
 > 
@@ -2243,7 +2243,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The threat posed by hags has gone on for far too long. I am studying a way to put an end to their vile race once and for all, and I believe that the key lies in their infamous eyes. With the way they are connected to them, I believe they may be used as a method to find, hunt, and destroy them easily. I will need more samples to experiment with first though.
 > 
@@ -2257,7 +2257,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There is a creature in caves that is good at moving in caves. Darastrix wants that creature's skin, so Darastrix can also move good in caves.
 > 
@@ -2271,7 +2271,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Okay imagine this: I stride forward into battle, muscles gleaming, armor shining, and a big flaming axe in my hands. I mean that literally, I want my axe to be on fire. Some guy in a tavern told me that hell hounds have fur that can set your weapon AND hands on fire. Get me some of that.
 > 
@@ -2285,7 +2285,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The hobgoblins in this are a bit more focused and organised than the average wandering party, which is a nightmare for an overworked town guard (me). They must have a captain leading them. I'll pay a bounty if you can track them down and bring back the proof.
 > 
@@ -2299,7 +2299,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have some Deep Gnome cousins that are in the market for some new building materials (they're a little tired of staring at stone-grey walls all day). I've heard that hooked horror exoskeletons are nice if you can get your hands on them, maybe I can send some of them their way.
 > 
@@ -2313,7 +2313,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Despite my best efforts, sometimes you just can't have a steady supply line to your soldiers. In cases like these, it really helps if your soldiers can live off the land, which means having a bit of a...varied diet. If I could make some potions of digestion and make that part of a soldiers' standard kit, it would really help survivability in the long term and help our soldiers stay stronger for longer. All I need is some Leucrotta bile; I'll take any that you can spare.
 > 
@@ -2327,7 +2327,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I run a dinky little roadside shop, selling trinkets and baubles to travellers. The ones that sell best are the items made from monster teeth and claws; gives people a sense of mystery and danger? Now, despite what people assume (me being a half-orc and all), I don't hunt these monsters myself. I just buy them off whatever adventurers pass by, then make them look more "tribal". So, if you have anything like that, I'll buy it for a fair price.
 > 
@@ -2341,7 +2341,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have a steady trade amongst my people, carving horns into tools. It is good work, and one which I am very proud, but it leaves me little time to venture outside for myself. Tales have reached my ears about a half man, half bull creature called a minotaur. I would very much like an opportunity to work with such rare horns, and I will pay for the privilege of doing so.
 > 
@@ -2355,7 +2355,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The people of my village are counting on me as healer, but I am desperately low on medical supplies. I'll take just about anything and pay for it out of my own pocket if it will keep the people of the village in good health. Mummy bandages would be of a great help, the precious oils in them can be extracted and diluted quite a lot to make treatments for all sorts of ailments.
 > 
@@ -2369,7 +2369,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The thing that every new commander fails to grasp is the importance of troop morale; how willing are your soldiers to charge into what may very well be their deaths? Morale can make or break a battle, make no mistake about that. As such, I want to make neogi amygdalas a standard inventory item in our supply caravans; I've heard that chewing on that for a while calms a person down and gives them the steely resolve of the uncaring neogi themselves.
 > 
@@ -2383,7 +2383,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > All my life they have called me demonspawn, based solely on my looks. Well, if that's what they think of me, then I may as well live up to their expectations before I leave them behind for good. I think riding a nightmare out of town seems fitting, don't you? All I need to summon one is hooves of a defeated one, I can take care of the rest on my own.
 > 
@@ -2397,7 +2397,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As my name would suggest, I am descended from a long line of orc hunters. It is a tradition in my family to venture out into the world and destroy orcs wherever we find them, taking their hearts back in triumph to our ancestral home. I, however, have not done so well in this regard. While I have cut through quite a few orcs, I have yet to find any special ones; those touched by the orcish pantheon. If I could bring a few of those home, even if they were not from my kills, I would be able to return with no small amount of glory.
 > 
@@ -2411,7 +2411,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I want to make a present for mommy. She used to be an adventurer you know, so I thought I could make a dolly for her of the monsters she used to hunt. She's really proud of the owlbear head we have mounted in our living room, so maybe I could make one of that? I'll need some materials to make it look good, but I've been saving up my pocket money so I can pay you for it!
 > 
@@ -2425,7 +2425,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vyth is a master of crafting with bone and claw. Vyth has heard of large lizards and wants to make weapons from them. Get these for him, and Vyth shall pay.
 > 
@@ -2439,7 +2439,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > If there's one thing I hate about my town it's just how WINDY it is! The zephyrs coming down main street are strong enough to knock over a bull, let alone a little gnome such as myself. I need something that'll help me stand my ground; I've heard that the boots of a redcap can do just that. Get me a pair, would you? I'd pay a good price if it meant being able to walk down the street without falling over.
 > 
@@ -2453,7 +2453,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am the employer of people that partake in... night-time activities. As part of that, it would definitely make their lives easier if they had some way of slipping through small spaces and cracks. I know a guy that can make a pretty sneaky potion out of the slime of a slithering tracker, all he needs is the materials. If you bring me some, I'll pay you well, especially if you can be...discreet about it.
 > 
@@ -2467,7 +2467,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's a wizard in my adventuring band that is being a real knot in my beard. The damn boy has an obnoxious habit of using his magic to play pranks on us: yesterday, he turned poor Corrin into a squirrel for no reason! I want to forge a Shield of Reflection to take him down a notch. I'd happily pay all of my adventuring gold just to see his face when his next spell goes flying back at him.
 > 
@@ -2481,7 +2481,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am the employer of some people that partake in a lot of...night-time activities. I'm always looking for ways to make sure that they stay out of trouble, and one of the best ways is to make sure they aren't even seen. It would be extremely expensive for me to commission a bunch of invisibility items (certainly much more than my employees are worth) so I'll have to go with some camouflage instead. The hide of a trapper would be good, and I'll even pay a premium if you can get it to me... discreetly.
 > 
@@ -2495,7 +2495,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm interested in the properties of elementals and how they can be used in changing the nature of some of my potions. To that end, I need some samples of them to do some research. I'd go out and find some myself, but I've started a potion that needs to be on the boil for several months and I need to keep my eye on it. I'd happily pay a premium if you could go out and get me what I need.
 > 
@@ -2509,7 +2509,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Lycanthropy is a terrible affliction; and those who are cursed by it should be cared for, not cast out. I run a home that any lycan is free to come to and stay while they turn their lives around. To help them, I brew up copious amounts of moon muzzle mixture, but supply is always limited since the blood required to make it must be donated by an already deceased lycan. If you are ever forced to kill one, please bring me their blood so that their death may help save the life of another.
 > 
@@ -2523,7 +2523,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > It may sound unconventional, but I've realised that wight blood makes for a great reconnaissance tool. Drinking one lets you see creatures even in pitch blackness and through cover, so I want to add it to our scouts' kits. We're going to need some more of course, and wights aren't all that easy to find, but we'll pay a decent price for them.
 > 
@@ -2537,7 +2537,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The tongue of a yeti has deep significance for our people. They warn us of danger and blizzards, and we have had some of our oldest tongues for generations. I am not asking you to go hunt the yetis that live in the mountains, but if you find any, we will gladly buy any tongues from you.
 > 
@@ -2551,7 +2551,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > One of my basic services is to make a potion for adventurers that will protect them from the various poisons out there in the world. Unfortunately, I've gotten so many orders recently that I'm having trouble keeping up with demand. While there are a lot of different bases that can be used to craft the potion, one of the more common ones is yuan-ti blood. If you get me some, I'll gladly pay you a decent price for it.
 > 
@@ -2567,7 +2567,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I own a gladiatorial ring, a place where tough folk can come to beat each other up. Problem is, there's this one fighter that's been dominating the competition lately; it's made the shows a little boring to be honest. What I want to do is put a handicap on him. He's already agreed to it, we just need something that can do it without restraining him too hard. I think a minor curse should help out, something to sap his strength without making him look too weak. I've got a tiefling buddy that can whip up something like that, they say they just need a couple of eyes from some demon. Do that for me, and you're in for a good reward AND front row tickets.
 > 
@@ -2581,7 +2581,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I feel that traditional music and songs have grown stale. I've started experimenting with some pretty out-there sounds, so I really just want anything you can get me that feels different to everything else, and as far as I can tell, no one has incorporated a banshee into their repertoire yet.
 > 
@@ -2595,7 +2595,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There is a man that I need to destroy; a bad man that has done bad things. His crimes against my family and I...well...they do not bear repeating. I do not seek something to help me kill him, I can already handle that part myself. What I need is something to destroy him. I need to ensure that when he is dead, he stays dead; to ensure that after I drive my knife through his black heart, his spiteful soul does not rise from the corpse to continue its sins. As evil as my request may be, I need the stomach acid of a barghest. Pouring that on his corpse will destroy him body and soul, and finally pay my family's debt.
 > 
@@ -2609,7 +2609,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Here's what my dear 'pa used to say: 'you don't need to work a shovel if you know how to pour a vial.' That's because his tool of choice was concentrated acid to eat through layers of stone and dirt like they were made of sugar. The best source of it comes from oozes, they're plentiful, potent, and if you leave it long enough it starts to reproduce itself. That said, I'll take any samples you have, I've always got more projects than I have materials for.
 > 
@@ -2623,7 +2623,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > While trekking through the far jungles, I was offered a tea by a local hermit. When I drank it, I experienced visions and histories that few living can attest to. When I woke, the hermit was gone, but I yearned for that feeling again. It has taken me a few years to figure it out, but I believe what I had was a tea brewed from the bones of a naga. I will pay a good price if you can bring me some, so I may feel the weight of history meld with my mind once again.
 > 
@@ -2637,7 +2637,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The wizard in our adventuring party died recently (damn fool forgot to check if the chest was a mimic). So, until we get a new one, we're going to need something else to find magical items and treasure when we go dungeon delving. We'd get it ourselves, but we're a little busy with funeral arrangements for our wizard (or what's left of him anyway).
 > 
@@ -2651,7 +2651,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Insomnia runs in my family, it's sorta how we got our name. It's been years since I've been able to get a good night's rest and frankly, I'm at my wits end. I'll do just about anything to get some sleep, even if it means ordering the death of an innocent creature such as the couatl.
 > 
@@ -2665,7 +2665,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > We are twins, with a bond stronger than anyone can understand. But we have heard of a property offered by an ettin head; an ability to share feelings and link to another person telepathically. As strong as we are together right now, imagine the power we will have when linked like this.
 > 
@@ -2679,7 +2679,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm at the end of my apprenticeship but I'm lacking a spell or two to complete my spellbook. I was procrastinating a little before and ended up looking up magical inks and stumbled upon flameskull ashes. If I can get some, I should be able to just fill in the gaps of my spellbook with some old spells that a flameskull had before, which would allow me to pass my apprenticeship!
 > 
@@ -2693,7 +2693,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Let's be honest, of all the dangerous issues in the world, the undead are probably the most pressing. That is why I try to study them whenever I can, to learn them and their weaknesses, and hopefully, a way to defeat them. To that end, I need study samples; a ghost's ectoplasmic trail should be a good start.
 > 
@@ -2707,7 +2707,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I employ a number of people who partake in some...night-time activities. During these...night-time activities, they usually have to do a lot of climbing, so much so that they tend to joke they're half monkey. Well that got me thinking, what if I could actually make them half monkey it would certainly make their jobs a lot easier. I found an artificer that can make a pair of boots to do just that, they say they just need some girallon feet to do it.
 > 
@@ -2721,7 +2721,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > This is pretty simple. We got too many gnolls around here, and we'll pay just about anyone to get rid of them. Bring back any sort of proof of their death, and you'll get a bounty.
 > 
@@ -2735,7 +2735,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Okay I need some serious help. Through no fault of my own, the animated armor that guards my master's bedchambers has been destroyed. I need to replace it somehow, but I haven't learned that level of transmutation magic yet. If I can get some helmed horror essence however, I may be able to remake the armor without knowing the necessary spells.
 > 
@@ -2749,7 +2749,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > It's a tale as old as time: too many hobgoblins in our area, overworked city guard asks adventurers to go hunt down aforementioned hobgoblins. Adventurers bring back proof, get a bounty. The end.
 > 
@@ -2763,7 +2763,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I enjoy stories of the lamia, the way they draw in their prey using their charms and appearance. I've even heard that their claws can be made into weapons that mimic some of their abilities. Not that I want to use this weapon to kill people of course, I just want it to...teach a few lessons.
 > 
@@ -2777,7 +2777,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Long ago, tribe cast Throden out. Throden hate other lizardfolk, will do anything to make them hurt. Throden is old and cannot hunt anymore, but Throden has coin. Adventurers will be paid bounty for hunting other lizardfolk.
 > 
@@ -2791,7 +2791,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The thing that every new commander fails to grasp is the importance of troop morale; how willing are your soldiers to charge into what may very well be their deaths? Morale can make or break a battle, make no mistake about that. As such, I want to make neogi amygdalas a standard inventory item in our supply caravans; I've heard that chewing on that for a while calms a person down and gives them the steely resolve of the uncaring neogi themselves.
 > 
@@ -2805,7 +2805,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As my name would suggest, I am descended from a long line of orc hunters. It is a tradition in my family to venture out into the world and destroy orcs wherever we find them, taking their hearts back in triumph to our ancestral home. I, however, have not done so well in this regard. While I have cut through quite a few orcs, I have yet to find any special ones; those touched by the orcish pantheon. If I could bring a few of those home, even if they were not from my kills, I would be able to return with no small amount of glory.
 > 
@@ -2819,7 +2819,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've made a huge mistake. I was at the tavern last week with the lads, tipping back a few pints of ale. To be honest, the night's a little hazy, but apparently in the middle of it all I had challenged the biggest grognard in town to a duel. Now I'm not much of a fighting man myself, so I will most definitely die in that duel without some outside help. Unfortunately, I'm also a bit strapped for cash, so the only thing I can think of that I can also afford is some orc blood. One sip of that stuff can turn any man into a raging fighting machine...at least for a little while.
 > 
@@ -2833,7 +2833,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was raised to destroy demons, devils, and fiends wherever I find them. It is my purpose in life and it is what pushes me forward. I have found however, that I still need more power to achieve this goal. A thought has struck me, why not use the power of the demons themselves against them? With the right enchantments, a captured essence of shadow demon can be used to destroy the forces of evil: a fitting punishment for them, no?
 > 
@@ -2847,7 +2847,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vyth is a master of crafting with bone and claw. Vyth has heard of large lizards and wants to make weapons from them. Get these for him, and Vyth shall pay you well.
 > 
@@ -2861,7 +2861,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have gotten tired of the usual methods for keeping prisoners in line. The constant whipping and manacles take their toll on their health and on my time. I've been thinking of getting a succubus tail to make a chain of command. With that, I can keep my prisoners in line with just a single lash a day. It's the much more humane (and time-efficient) method.
 > 
@@ -2875,7 +2875,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Lycanthropy is a terrible affliction; and those who are cursed by it should be cared for, not cast out. I run a home that any lycan is free to come to and stay while they turn their lives around. To help them, I brew up copious amounts of moon muzzle mixture, but supply is always limited since the blood required to make it must be donated by an already deceased lycan. If you are ever forced to kill one, please bring me their blood so that their death may help save the life of another.
 > 
@@ -2889,7 +2889,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Lycanthropy is a terrible affliction; and those who are cursed by it should be cared for, not cast out. I run a home that any lycan is free to come to and stay while they turn their lives around. To help them, I brew up copious amounts of moon muzzle mixture, but supply is always limited since the blood required to make it must be donated by an already deceased lycan. If you are ever forced to kill one, please bring me their blood so that their death may help save the life of another.
 > 
@@ -2903,7 +2903,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm generally a pretty peaceful person, even if the people that keep raiding my farm are not. What I need is something that can repel intruders without harming them. Some tinker told me they could make some magical fear-inducing whatchamajigger if I just bring them a yeth hound voice box. It sounds like a good idea, but I wouldn't know the first thing about getting the voice box; do you think you could help me out?
 > 
@@ -2917,7 +2917,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > One of my basic services is to make a potion for adventurers that will protect them from the various poisons out there in the world. Unfortunately, I've gotten so many orders recently that I'm having trouble keeping up with demand. While there are a lot of different bases that can be used to craft the potion, one of the more common ones is yuan-ti blood. If you get me some, I'll gladly pay you a decent price for it.
 > 
@@ -2935,7 +2935,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm interested in the properties of elementals and how they can be used in changing the nature of some of my potions. To that end, I need some samples of them to do some research. I'd go out and find some myself, but I've started a potion that needs to be on the boil for several months and I need to keep my eye on it. I'd happily pay a premium if you could go out and get me what I need.
 > 
@@ -2949,7 +2949,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've got a great idea, just hear me out: giant frog fights. Yes, I know it sounds dangerous, but that's the point! I already have the frogs; I just need something to make them big. Unfortunately, I don't know magic myself, but I have heard that hags can make giant frogs called banderhobbs. Get me some of whatever makes them so big, and I'll cut you a sweet deal of the profits.
 > 
@@ -2963,7 +2963,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am going hunting soon for a giant constrictor snake and want to take some precautions. I found inspiration seeing a porcupine defend itself and think that the hide of a barbed devil will make an appropriate defence if that snake tries to hug me too tight.
 > 
@@ -2977,7 +2977,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm doing some research into the practices of cults in the local area and I've heard that some of them employ demon fangs in their ceremonial duties. In particular, they've been using the fang of a barlgura as a sacrificial dagger. Ghastly stuff to be certain, but in order to understand them better, I feel I need to have and hold one myself.
 > 
@@ -2991,7 +2991,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vyth is a master of crafting with bone and claw. Vyth has heard of large lizards and wants to make weapons from them. Get these for him, and Vyth shall pay you well.
 > 
@@ -3005,7 +3005,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > In my tribe, hunting a bulette is a rite of passage. Our warriors are meant to craft their weapons from this hunt and return to the tribe with pride, but I just... can't. I'm just not strong enough to hunt one, but I can't return without those teeth. I know asking for help is dishonourable, but I just don't know what else to do.
 > 
@@ -3019,7 +3019,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > For years I've researched the difference between my people and true fiends, trying to find a clear distinction as a means of staving off the ignorant jests that would lump us together. I believe that cambions however pose a good reference point due to their mixed heritage; I just need some samples of them to study.
 > 
@@ -3033,7 +3033,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > An army lives and dies on its stomach. With this in mind, there is nothing we could do to aid our soldiers more than to make sure that their food and water supplies last as long as possible. The fur of a catoblepas is capable of salvaging even the dirtiest and most rancid of liquids. It may be disgusting, but adding this to our mess kits can mean the difference between starvation and victory while our army is on the march.
 > 
@@ -3047,7 +3047,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > At long last we've discovered the secret to the drow's deadly poison: their own blood. It must be a sign from providence for us, to be able to kill drow and then use their own blood against them as a weapon. Bring me their blood and I will happily pay a handsome bounty.
 > 
@@ -3061,7 +3061,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm interested in the properties of elementals and how they can be used in changing the nature of some of my potions. To that end, I need some samples of them to do some research. I'd go out and find some myself, but I've started a potion that needs to be on the boil for several months and I need to keep my eye on it. I'd happily pay a premium if you could go out and get me what I need.
 > 
@@ -3075,7 +3075,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm interested in the properties of elementals and how they can be used in changing the nature of some of my potions. To that end, I need some samples of them to do some research. I'd go out and find some myself, but I've started a potion that needs to be on the boil for several months and I need to keep my eye on it. I'd happily pay a premium if you could go out and get me what I need.
 > 
@@ -3089,7 +3089,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have a few orders for animated contraptions and trinkets. I could do it with an intricate series of gears and mechanisms, but I'd rather take a shortcut here and just use the same animating force that goes into golems. Find some manual ashes from golems and bring them back, I'll give you a decent price for them.
 > 
@@ -3103,7 +3103,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm pretty damn screwed. My sister's got a great project practically finished and ready to show the elders, meanwhile I haven't even started. I'm going to need something good and fast in order to catch up, so I was thinking of making something out of gorgon plate. After all, most of the work is done already when it comes to making armor from it, the hard part is just getting some.
 > 
@@ -3117,7 +3117,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > To me, the existence of the Half-Dragons are a mockery of our noble heritage as dragonborn. I would wish to see them eradicated and would pay a bounty to anyone that can provide for me proof of their deaths.
 > 
@@ -3131,7 +3131,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was weak once, and it cost me something very dear. I swore that I would never be weak again, even if I had to resort to outside sources to achieve that. The fingernails of giants are a potent source of magical energy that can be brewed into strength-enhancing potions. I will take any that you have and make their strength my own.
 > 
@@ -3145,7 +3145,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > In several ways, yugoloths are worse than regular fiends. While fiends fight merely for their bloodthirstiness or their vanity, yugoloths do so purely out of greed. I have made it my goal to end them once and for all, and to do that, I will need access to Gehenna. If you can get me yugoloth hearts, I can craft them into gems that will take my companions and I into that dark realm, to confront the legendary yugoloth general and destroy him.
 > 
@@ -3159,7 +3159,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The influence that illithids have over other creatures is fascinating to me. Even the infamous beholder is no match for their corruption, with their ubiquitous main eyes mutating into mere extensions of their brains (and an elder brain's will). I want to study these eyes to discover the psionic potential inside, maybe it will help me understand the psionics of the illithids themselves better in the process.
 > 
@@ -3173,7 +3173,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The threat posed by hags has gone on for far too long. I am studying a way to put an end to their vile race once and for all, and I believe that the key lies in their infamous eyes. With the way they are connected to them, I believe they may be used as a method to find, hunt, and destroy them easily. I will need more samples to experiment with first though.
 > 
@@ -3189,7 +3189,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Despite its horrid smell and taste, otyugh bile is a wonderful remedy for all sorts of digestive ailments. With my supplies running so low, I'd be happy to get my hands on any sort of medical supplies, even if they are rather unpleasant to use.
 > 
@@ -3203,7 +3203,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Although it is a relatively rare occurrence, being infested with a slaad egg is a horrible affliction that I would not wish on anyone. The problem is that some of our warriors can engage in a fight with a slaad and not realise they've been infected until it is far too late. To remedy this, I want to invent a vaccine against these infections, and to do this, I need to study slaad biology a little more closely. Slaad slime would be a good start since they use it to protect their bodies; perhaps some reverse engineering can make a potion that causes the imbiber to produce antigens that kill eggs as soon as they're implanted.
 > 
@@ -3217,7 +3217,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Revenants are pitiful creatures. Born of pure vengeance, their emotions can persist even after their bodies are destroyed. I want to find a better way to help them find peace than to indulge their bloodlust, but to do that, I need to find out what really makes them function. Samples of their essence in spirit paper would be a good place to start.
 > 
@@ -3231,7 +3231,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Unbeknownst to many of my customers, the foul-smelling roper saliva is actually a key component in many of my best-selling perfumes. In fact, the perfumes sell so well that I've run low on saliva. If you have any, I'll gladly take if off your hands, and even pay a premium if you can remain discreet about it.
 > 
@@ -3245,7 +3245,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Sahuagin raids have become particularly nasty as of late, and we're going to need to step up our arsenal if we have a chance of beating them back. We have ideas for new poisons or deterrents we could make to fend them off, but we'll need to test them first. If you can bring back some sahuagin blood, we would be in your debt.
 > 
@@ -3259,7 +3259,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Salamander blood is a pretty staple material to have in any high-end blacksmith, but I've had so many orders lately that I'm starting to run out. I'd gladly buy any that you have, and at a premium too due to the urgency.
 > 
@@ -3273,7 +3273,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I serve as the healer for a nearby town, but my supplies have run dangerously low. One thing that I have been looking to get for quite a while is a root-stem from a shambling mound; when turned into a paste, they are capable of reversing even the most egregious of injuries. Would you mind getting me one for my emergency kit?
 > 
@@ -3287,7 +3287,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Infestation by a spawn of Kyuss is one of the worst fates imaginable, and something I would not wish on even the direst of sinners. With that in mind, I am working on a trinket that may be able to protect innocent people from this fate, but I need to do more study into the spawn of Kyuss first. If you can bring me samples of their brain for research, you would be contributing greatly to this noble cause.
 > 
@@ -3301,7 +3301,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Of all the illithid experiments out there, the brain of a cranium rat is the one I am most excited to study. Most of my samples of illithid experiments come from humanoids like grimlocks and duergar, so you can imagine how interesting it is to see illithid influence on the simple brain of a beast. The way their feral instincts interacts with psionic control is fascinating, and I simply cannot have enough samples. If you can bring them back in one piece, I will gladly pay you for each brain you can find.
 > 
@@ -3317,7 +3317,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As a child, I was scorned in my tribe. It made sense though; they considered me a half-breed and unworthy of sharing in the tribe's success. I suffered many abuses during that time and left as soon as I could. I have become a stronger person without them, and now I think it's time for a little closure. I want to challenge the clan elder for leadership of the tribe, but by our custom, I first need a weapon crafted from a tanarukk horn. Only then will I have the right to call a duel with him and get a little bit of payback.
 > 
@@ -3331,7 +3331,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > What many people don't appreciate is just how useful tlincalli legs are for tools in a desert lifestyle. They don't break down from exposure to sand, hold up well in the heat, and are hardy enough to be dropped from even the highest canyons. You can make just about anything from them if you try hard enough, which is why I can never get enough of them. If you kill some tlincalli out there (which by itself you should be getting paid for to be honest), bring me their legs and I'll give you a good price.
 > 
@@ -3345,7 +3345,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vyth is a master of crafting with bone and claw. Vyth has heard of large lizards and wants to make weapons from them. Get these for him, and Vyth shall pay you well.
 > 
@@ -3359,7 +3359,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Even among the gourmand community, troll flesh is considered quite the strange meal. I believe it mostly comes down to the taste which is best described as...acquired. I can taste a good undertone in it however and I am sure that if I experiment with it enough, I can figure out a recipe that can bring out is full flavour potential.
 > 
@@ -3373,7 +3373,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's a new dye I'm developing that has umber hulk guts as a major component. The end result is a smoky grey colour that seems to shift with the light and has become quite popular among my more high-end clients. So popular in fact that I've run out of guts. I need someone to do an emergency supply run for me, and I'll shell out some decent coin for anyone that does.
 > 
@@ -3387,7 +3387,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I serve the local village as healer, but I'm desperately low on supplies. I need anything you can spare, from the basic to the valuable. Although I'm a fan of unicorns, I wouldn't mind having some of their hooves to make glue for triage procedures.
 > 
@@ -3401,7 +3401,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vampire spawn generally don't deserve their fates, having been enslaved by darker forces than them. Although their deaths are a tragedy, they can be used to save others. Bring me their hearts and I can craft it into an instrument for detecting the vampire that enslaved them, and hopefully help in bringing down the foul creature.
 > 
@@ -3415,7 +3415,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm interested in the properties of elementals and how they can be used in changing the nature of some of my potions. To that end, I need some samples of them to do some research. I'd go out and find some myself, but I've started a potion that needs to be on the boil for several months and I need to keep my eye on it. I'd happily pay a premium if you could go out and get me what I need.
 > 
@@ -3429,7 +3429,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Lycanthropy is a terrible affliction; and those who are cursed by it should be cared for, not cast out. I run a home that any lycan is free to come to and stay while they turn their lives around. To help them, I brew up copious amounts of moon muzzle mixture, but supply is always limited since the blood required to make it must be donated by an already deceased lycan. If you are ever forced to kill one, please bring me their blood so that their death may help save the life of another.
 > 
@@ -3443,7 +3443,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have spent the better part of a decade growing the greatest garden in the land (or at least my servants have). The soaring trees and bountiful flowers are beautiful enough to attract starry-eyed visitors...and jealous vandals. I need something to protect my work, and thankfully, I overheard a passing adventurer speak of a wood woad in the nearby forest that I'm sure wouldn't mind 'donating' his seed to place a protective enchantment over my garden. It's for the greater good, I assure you.
 > 
@@ -3457,7 +3457,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Wraith energy is something that I haven't experimented with yet. It possesses very strong necromantic energy and I feel there's great potential to make something...interesting. I'm going to need someone to go out and get the energy for me first of course, I can't take the time to leave my lair, I mean, house.
 > 
@@ -3471,7 +3471,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As proud as I am of the dwarven race for their treasure finding abilities, there's no denying that the xorn have us beat on that front hands down. That said, there's no stopping me from getting my hands on their eyes and making their talents my own.
 > 
@@ -3485,7 +3485,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > My enemies are everywhere; I just know it. I can't prove that they have ways of getting through my alarm spells and traps, but it's better to be safe than sorry. What I want is a more organic approach to security, the antennae of a remorhaz should do. Those things will let me know if anything is scurrying about trying to get me in my sleep.
 > 
@@ -3499,7 +3499,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > One of my basic services is to make a potion for adventurers that will protect them from the various poisons out there in the world. Unfortunately, I've gotten so many orders recently that I'm having trouble keeping up with demand. While there are a lot of different bases that can be used to craft the potion, one of the more common ones is yuan-ti blood. If you get me some, I'll gladly pay you a decent price for it.
 > 
@@ -3517,7 +3517,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The threat posed by hags has gone on for far too long. I am studying a way to put an end to their vile race once and for all, and I believe that the key lies in their infamous eyes. With the way they are connected to them, I believe they may be used as a method to find, hunt, and destroy them easily. I will need more samples to experiment with first though.
 > 
@@ -3531,7 +3531,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As a judge, it is my duty to determine the guilt of the criminals that come before me and sentence them accordingly. Of course, even with magic this can be difficult; some criminals are crafty enough to talk their way through a zone of truth spell. I want something a bit stronger, something powered by...something stronger. The eyes of a bodak can see into one's soul and find the darkness that lives there. If I had those, I would be able to judge a man without a doubt, and justice would always be served.
 > 
@@ -3545,7 +3545,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm doing some research into the cults of my local area and have heard that they use the proboscis of a chasme in their ceremonies. Specifically, they use them to drain a victim of their blood so they may use it later in their fiendish rituals. I want to have a sample of a proboscis for my research, to better understand the cults and their motives.
 > 
@@ -3559,7 +3559,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was an adventurer in my youth. Had a good run of slaying monsters and saving (very appreciative) princesses. One of the first monsters that I killed was a chimera, but in my excitement, I had neglected to take a trophy. My slaying days may be far behind me, but I would love for a small reminder of them, and finally getting that trophy would fill me with no small amount of satisfaction.
 > 
@@ -3573,7 +3573,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > You wouldn't be able to tell now, but in his prime years, my father was the greatest giant hunter in our clan. He could break a giant's neck with one swing of his mighty fist and send them scurrying with his terrible roar. He doesn't have long left to live now though, and I want to give him something to remind him of his glory days. I'd go get it myself, but I can't leave his bedside for a moment.
 > 
@@ -3587,7 +3587,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The men and me are going venturing deep underground soon on a scouting mission. We've heard rumours that some drow have set up close by and want to keep an eye out. Of course, where there's drow, there's spiders; and where there's spiders, there's webs. Some drider oil ought to keep us safe in the worst parts of it though, so I'd like to stock up before we head out.
 > 
@@ -3601,7 +3601,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm in need of a new guardian over a fey circle I have identified nearby. As far as I am concerned, I could do no better than creating a galeb-duhr for the job. If you happen upon a core, sell it to me so I can restore it and use it for a new duty.
 > 
@@ -3615,7 +3615,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm a bounty hunter by trade. I enjoy it quite a bit, but problem is that I'm having trouble bringing my targets in alive. It's not because I brutalise them or anything, it's just that they always run, and it's hard enough to aim at a moving target, let alone aim for anything nonvital. If I get something that can help me slow them down or stop them completely then I'd gladly pay for that. The bonus I'd get in live bounty rewards would easily make up for what I pay.
 > 
@@ -3629,7 +3629,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am fascinated by the case of the githzerai. A race of people with psionic abilities, their brains are unlike any other humanoids. I would very much like to study them and perhaps find a way to grant the rest of us similar powers.
 > 
@@ -3643,7 +3643,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The hobgoblins in this are a bit more focused and organised than the average wandering party, which is a nightmare for an overworked town guard (me). They must have a warlord leading them. I'll pay a bounty if you can track them down and bring back the proof.
 > 
@@ -3657,7 +3657,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm interested in the properties of elementals and how they can be used in changing the nature of some of my potions. To that end, I need some samples of them to do some research. I'd go out and find some myself, but I've started a potion that needs to be on the boil for several months and I need to keep my eye on it. I'd happily pay a premium if you could go out and get me what I need.
 > 
@@ -3671,7 +3671,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The kuo-toa are another fascinating result of illithid experimentation. Their brains are so chaotic yet so powerful. I want some samples to study, perhaps I can figure out how they work and add some method to their madness.
 > 
@@ -3685,7 +3685,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > That damn Rieta will not stop making fun of me for the size of my nose, that is when she's not staring at herself in the mirror. Well, if she wants to gaze at her own reflection all day, I'll give her a little magical help. A medusa heart should cut it, and by "it" I mean her ego.
 > 
@@ -3699,7 +3699,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was weak once, and it cost me something very dear. I swore that I would never be weak again, even if I had to resort to outside sources to achieve that. The fingernails of giants are a potent source of magical energy that can be brewed into strength-enhancing potions. I will take any that you have and make their strength my own.
 > 
@@ -3713,7 +3713,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have a marvellous idea for a prank on my house guests, I'm going to set a demonic music box on a timer under their bed to play while they sleep. No doubt they'll find it to be the most whimsical joke of the season, but I'll need some vrock vocal cords to craft the box in the first place.
 > 
@@ -3727,7 +3727,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Wyvern poison is the standard poison among our thieves and assassins and so we never have quite enough of it. Get some for us and be discreet about it, and you'll find a fat pouch of coin in your future.
 > 
@@ -3741,7 +3741,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There is an armor that I covet, one made from the scales of a dragon. I have searched and hunted for a dragon strong enough to give me the type of armor I want for years but to no avail. Although I would prefer to get the scales myself, I am not above paying someone else, should they come into their possession.
 > 
@@ -3757,7 +3757,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The threat posed by hags has gone on for far too long. I am studying a way to put an end to their vile race once and for all, and I believe that the key lies in their infamous eyes. With the way they are connected to them, I believe they may be used as a method to find, hunt, and destroy them easily. I will need more samples to experiment with first though.
 > 
@@ -3771,7 +3771,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Although it is a relatively rare occurrence, being infested with a slaad egg is a horrible affliction that I would not wish on anyone. The problem is that some of our warriors can engage in a fight with a slaad and not realise they've been infected until it is far too late. To remedy this, I want to invent a vaccine against these infections, and to do this, I need to study slaad biology a little more closely. Slaad slime would be a good start since they use it to protect their bodies; perhaps some reverse engineering can make a potion that causes the imbiber to produce antigens that kill eggs as soon as they're implanted.
 > 
@@ -3785,7 +3785,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I do not have any shame in saying this: I have been exiled from my home. The reason I am so calm about this, is because I know that soon I will have my revenge. I was exiled for a crime that I did not commit, and I fully intend on destroying those that were complicit in my downfall. But of course, revenge is nothing without a little theatrics, and in my culture, sending a draegloth claw to one's enemies is a grave sign of warning. I have admittedly had some trouble in finding a draegloth however, so if you can find one for me and cut off one of its claws for me, I will pay you fairly for the trouble.
 > 
@@ -3799,7 +3799,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The highest members of drow society are known to have blessings of Lolth that they carry in their hearts. The best thing is, these hearts can be used by anyone once removed from their bodies. What better way to eradicate the drow, than to use their goddess and the organs of their fallen comrades against them?
 > 
@@ -3813,7 +3813,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's a pearl I've been hunting down for a while now. It only grows in the stomachs of long-lived gricks, but it has a unique lustre that can't be matched by anything else. For too long that shelf in my jeweller's store has been bare, I will pay a good premium to anyone able to help me fill it.
 > 
@@ -3827,7 +3827,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've been commissioned by a wealthy patron with a big purse. She wants something elegant to wear, but she's also got a paranoid side, so she wants it to be a functional set of armor as well (I guess in case she gets attacked at one of her fancy balls). Anyway, the only way I see this working is if I can find "threads" of metal, and the only way I can figure out how to do that is by using the hairs of a korred. I'll need a lot of it, so if you can bring me any uncut korred scalps you find, I'll pay you well for it.
 > 
@@ -3841,7 +3841,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There is so much to learn from the elusive illithids, but I will endeavour to start small in studying them. Their mucus contains enzymes from the brains they consume, and so it displays certain qualities that are fascinating to a researcher like me. Bring me back some of these samples and there will no doubt be more work for you in the future.
 > 
@@ -3857,7 +3857,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The heart of an oni possesses powerful dark magic in it; magic that can grant strength to any that wield it. I only need such power for a little while, to enact a muchdelayed justice. After that, I swear I will put the heart away and never use it again.
 > 
@@ -3871,7 +3871,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As a merchant that has found himself quickly moving up in the world, I am in sore need of extra protection. I was thinking of investing in a good solid shield guardian, but it is next to impossible to find a golem-crafter with an open commission spot. Instead, I'll have to turn to the next best thing: a mercenary outfitted with the armor of the guardian. If you manage to destroy someone else's shield guardian, make sure to bring me its breastplate so I can outfit my bodyguard with what they need to protect my life.
 > 
@@ -3885,7 +3885,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was weak once, and it cost me something very dear. I swore that I would never be weak again, even if I had to resort to outside sources to achieve that. The fingernails of giants are a potent source of magical energy that can be brewed into strength-enhancing potions. I will take any that you have and make their strength my own.
 > 
@@ -3899,7 +3899,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There are large lizards in jungles. Large lizards have magic in their hearts that can make you stronger by eating it. Jhank wants to eat that heart, so Jhank can be stronger.
 > 
@@ -3915,7 +3915,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have a masquerade party coming up soon and I've thought of the best costume. It's a devilish piece, topped off with a mask made from the eyes of a chain devil. Imagine the shrieks of terror (and fun) from the other guests!
 > 
@@ -3929,7 +3929,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > A certain client has asked for something to aid their...night-time activities. To that end, I am in need of a cloaker hide so I may fashion something for them. I am willing to pay a premium to anyone able to provide one and be discreet about it.
 > 
@@ -3943,7 +3943,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The highest members of drow society are known to have blessings of Lolth that they carry in their hearts. The best thing is, these hearts can be used by anyone once removed from their bodies. What better way to eradicate the drow, than to use their goddess and the organs of their fallen comrades against them?
 > 
@@ -3957,7 +3957,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have thought of the best prank ever. There's a lady in my circle of friends who is OBSSESSED with her looks. She spends hours every day in front of the mirror, preening and primping. I want to use a fomorian eye to curse her for a little bit with the deformed features they're famous for. It's only temporary of course, and I'm sure she'll laugh about it after.
 > 
@@ -3971,7 +3971,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was weak once, and it cost me something very dear. I swore that I would never be weak again, even if I had to resort to outside sources to achieve that. The fingernails of giants are a potent source of magical energy that can be brewed into strength-enhancing potions. I will take any that you have and make their strength my own.
 > 
@@ -3985,7 +3985,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am fascinated by the case of the githyanki. A race of people with psionic abilities, their brains are unlike any other humanoids. I would very much like to study them and perhaps find a way to grant the rest of us similar powers.
 > 
@@ -3999,7 +3999,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've started working with a particular sample of iron that can only be forged in extremely high temperatures. Unfortunately, such flames also end up melting my tools, so I first need to make some tools that can stand the heat. Glabrezu pincers should do pretty well, they're probably the most economical option, at least.
 > 
@@ -4013,7 +4013,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Although it is a relatively rare occurrence, being infested with a slaad egg is a horrible affliction that I would not wish on anyone. The problem is that some of our warriors can engage in a fight with a slaad and not realise they've been infected until it is far too late. To remedy this, I want to invent a vaccine against these infections, and to do this, I need to study slaad biology a little more closely. Slaad slime would be a good start since they use it to protect their bodies; perhaps some reverse engineering can make a potion that causes the imbiber to produce antigens that kill eggs as soon as they're implanted.
 > 
@@ -4027,7 +4027,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have received a bounty to hunt down a criminal who I believe has fled into the sewers of the city. I'd rather not spend half my time down there puking my guts out, so I'm going to need something to bolster my constitution a bit. I have an alchemist friend who says they can brew something like that for me, they just need a vial of hezrou blood.
 > 
@@ -4043,7 +4043,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am running low on alchemy supplies, which causes me to worry about the wellbeing of the town that I tend to as healer. If I could get any medicinal supplies, I would happily pay out of my own savings for them. Hydra blood is extremely potent and doesn't even need to be brewed into a full healing potion for it to act as medicine. Having some of that would make a big difference in my ability to help the town.
 > 
@@ -4057,7 +4057,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > So there's this underground fighting pit nearby, and to be honest, I really don't like them. Now don't get me wrong, I enjoy seeing a good fight as much as the next guy, but these aren't exactly what you would call "good fights." Most of them are pitting a full-grown man against some starved and scared wolf that wouldn't be able to put up a good fight if its life depended on it...which unfortunately it does. There's not really much I can do to save them from their terrible fates, but what I can do is make sure they get a little justice for themselves before they face them. I want to keep a little shoosuva fur on me when I go watch the fights, a whiff of that will turn even the most timid animals into a rabid monster that'll tear the throat out of the next jerk that steps into the ring with them (and if I happen to make a little money betting on the underdog, then where's the harm in that?)
 > 
@@ -4071,7 +4071,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > While trekking through the far jungles, I was offered a tea by a local hermit. When I drank it, I experienced visions and histories that few living can attest to. When I woke, the hermit was gone, but I yearned for that feeling again. It has taken me a few years to figure it out, but I believe what I had was a tea brewed from the bones of a naga. I will pay a good price if you can bring me some, so I may feel the weight of history meld with my mind once again.
 > 
@@ -4085,7 +4085,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vyth is a master of crafting with bone and claw. Vyth has heard of large lizards and wants to make weapons from them. Get these for him, and Vyth shall pay you well.
 > 
@@ -4101,7 +4101,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The tongue of a yeti has deep significance for our people. They warn us of danger and blizzards, and we have had some of our oldest tongues for generations. I am not asking you to go hunt the yetis that live in the mountains, but if you find any, we will gladly buy any tongues from you.
 > 
@@ -4115,7 +4115,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am doing research into the cults in my local area and it has come to my attention that they use the skin of a bone devil in the vellum of their tomes. I want to learn more about this practice, and the only way to do that is to get a sample of it myself.
 > 
@@ -4129,7 +4129,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have a few orders for animated contraptions and trinkets. I could do it with an intricate series of gears and mechanisms, but I'd rather take a shortcut here and just use the same animating force that goes into golems. Find some manual ashes from golems and bring them back, I'll give you a decent price for them.
 > 
@@ -4143,7 +4143,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was weak once, and it cost me something very dear. I swore that I would never be weak again, even if I had to resort to outside sources to achieve that. The fingernails of giants are a potent source of magical energy that can be brewed into strength-enhancing potions. I will take any that you have and make their strength my own.
 > 
@@ -4157,7 +4157,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was weak once, and it cost me something very dear. I swore that I would never be weak again, even if I had to resort to outside sources to achieve that. The fingernails of giants are a potent source of magical energy that can be brewed into strength-enhancing potions. I will take any that you have and make their strength my own.
 > 
@@ -4171,7 +4171,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > This is pretty simple. We got too many gnolls around here, and we'll pay just about anyone to get rid of them. Bring back any sort of proof of their death, and you'll get a bounty.
 > 
@@ -4185,7 +4185,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Although it is a relatively rare occurrence, being infested with a slaad egg is a horrible affliction that I would not wish on anyone. The problem is that some of our warriors can engage in a fight with a slaad and not realise they've been infected until it is far too late. To remedy this, I want to invent a vaccine against these infections, and to do this, I need to study slaad biology a little more closely. Slaad slime would be a good start since they use it to protect their bodies; perhaps some reverse engineering can make a potion that causes the imbiber to produce antigens that kill eggs as soon as they're implanted.
 > 
@@ -4199,7 +4199,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > In several ways, yugoloths are worse than regular fiends. While fiends fight merely for their bloodthirstiness or their vanity, yugoloths do so purely out of greed. I have made it my goal to end them once and for all, and to do that, I will need access to Gehenna. If you can get me yugoloth hearts, I can craft them into gems that will take my companions and I into that dark realm, to confront the legendary yugoloth general and destroy him.
 > 
@@ -4213,7 +4213,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The death of a treant is not one to be treated lightly. They are innocent creatures, dedicated only in protecting the forests that I have also sworn my life to. If they do fall however, they would want their remains to be used in the best way possible, and as far as I am concerned, the best way is to craft armor from them so other protectors may take their place. If you do bring me some of their bark, I will reward you and not ask how exactly you got it.
 > 
@@ -4227,7 +4227,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There is so much to learn from the elusive illithids, but I will endeavour to start small in studying them. Their mucus contains enzymes from the brains they consume, and so it displays certain qualities that are fascinating to a researcher like me. Bring me back some of these samples and there will no doubt be more work for you in the future.
 > 
@@ -4243,7 +4243,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Years ago in my sailor days, I was caught in a storm, yet I found myself unharmed on the shore the next morning. But since then I believe I have been marked by whatever slimy denizen called that ocean its domain. If I want to be free from whatever it did, I believe I need a totem, crafted from a set of its teeth. Maybe then I will be free from the nightmares have plagued me since that night.
 > 
@@ -4257,7 +4257,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Illithids have so much to teach us; or at least their brains do. I want to unlock the mysteries of their psionic abilities, and alhoon brains are of particular note to me. I want to study what makes them so different to regular illithids, and perhaps isolate something that can be used on ourselves to increase our own mental powers. All I need is a sample to study, which I will pay handsomely for.
 > 
@@ -4271,7 +4271,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > We are plagued by a mysterious problem as of late, an invisible hunter that stalks through our territory, killing our herds and poaching our game. The task of tracking this hunter falls to me, but I will admit that they have vexed me so far. I have an idea though. A few years ago, I had met a man with a crimson monocle that allowed them to see blood as if it were a shining beacon. They claimed they had it crafted from the eye of a death kiss. If I had such a tool, I would be able to hunt this hunter without a problem.
 > 
@@ -4285,7 +4285,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Although it is a relatively rare occurrence, being infested with a slaad egg is a horrible affliction that I would not wish on anyone. The problem is that some of our warriors can engage in a fight with a slaad and not realise they've been infected until it is far too late. To remedy this, I want to invent a vaccine against these infections, and to do this, I need to study slaad biology a little more closely. Slaad slime would be a good start since they use it to protect their bodies; perhaps some reverse engineering can make a potion that causes the imbiber to produce antigens that kill eggs as soon as they're implanted.
 > 
@@ -4299,7 +4299,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > My wife is dying. I know not what kind of dark presence grips her, but even the most powerful of healers have failed to help. In my desperation, I can think of only one cure: the blood of an angel. I know that I face punishment from the divine for even asking for such a thing, but it is a price I am willing to pay if it means giving her even one more day.
 > 
@@ -4313,7 +4313,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As a gallant adventurer, I must have only the finest equipment. That includes something to stop me from (hypothetically) dropping my sword in the mud when a massive oaf of an orc smacks it with his axe. I've heard that some crafty tinkers out there have figured out how to transform the tongue of a froghemoth into a weapon chain that can make your weapon an extension of your own hand. I would get it myself of course, but I'm too busy right now with more important quests.
 > 
@@ -4327,7 +4327,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > While trekking through the far jungles, I was offered a tea by a local hermit. When I drank it, I experienced visions and histories that few living can attest to. When I woke, the hermit was gone, but I yearned for that feeling again. It has taken me a few years to figure it out, but I believe what I had was a tea brewed from the bones of a naga. I will pay a good price if you can bring me some, so I may feel the weight of history meld with my mind once again.
 > 
@@ -4341,7 +4341,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was weak once, and it cost me something very dear. I swore that I would never be weak again, even if I had to resort to outside sources to achieve that. The fingernails of giants are a potent source of magical energy that can be brewed into strength-enhancing potions. I will take any that you have and make their strength my own.
 > 
@@ -4355,7 +4355,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have a few orders for animated contraptions and trinkets. I could do it with an intricate series of gears and mechanisms, but I'd rather take a shortcut here and just use the same animating force that goes into golems. Find some manual ashes from golems and bring them back, I'll give you a decent price for them.
 > 
@@ -4369,7 +4369,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I run a rather specialised jewellers and am in need of something to complete my collection. Even though it may be garish and unpleasant, I cannot feel satisfied until I have placed it on the empty pedestal in my shop where it belongs.
 > 
@@ -4385,7 +4385,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > My wedding anniversary is coming up in a few weeks and somehow, my wife has gotten it into her head that I'm buying her a dragon-scale dress as a present. I can tell you right now that I cannot afford that. What I can afford however is a behir-scale dress; all I need are the scales. It's not like she's going to be able to tell the difference, right?
 > 
@@ -4399,7 +4399,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was weak once, and it cost me something very dear. I swore that I would never be weak again, even if I had to resort to outside sources to achieve that. The fingernails of giants are a potent source of magical energy that can be brewed into strength-enhancing potions. I will take any that you have and make their strength my own.
 > 
@@ -4413,7 +4413,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's a certain kick that I want in my potions that can only get from the elemental energies of a defeated genie. I'd go out and find some myself, but I've started a potion that needs to be on the boil for several months and I need to keep my eye on it. I'd happily pay a premium if you could go out and get me what I need.
 > 
@@ -4427,7 +4427,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's a certain kick that I want in my potions that can only get from the elemental energies of a defeated genie. I'd go out and find some myself, but I've started a potion that needs to be on the boil for several months and I need to keep my eye on it. I'd happily pay a premium if you could go out and get me what I need.
 > 
@@ -4441,7 +4441,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's a certain kick that I want in my potions that can only get from the elemental energies of a defeated genie. I'd go out and find some myself, but I've started a potion that needs to be on the boil for several months and I need to keep my eye on it. I'd happily pay a premium if you could go out and get me what I need.
 > 
@@ -4455,7 +4455,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have travelled the world in search of stories, and who knows more stories than the ancient sphinxes. Guardians of long-forgotten history, every fibre of their being drips with mystery. I have been told that burning their tails in particular reveal visions of the past. I would gladly pay a large reward for anyone that can bring me such a tantalising item.
 > 
@@ -4469,7 +4469,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've been hitting the bottle pretty hard lately and it's starting to become a bit of a problem. I've been thinking of using some form of medication to help calm me down whenever I get the shakes. I heard that horned devil blood works pretty well as a calmative, if I could get some of that I think it would do me a world of good.
 > 
@@ -4483,7 +4483,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There's a certain kick that I want in my potions that can only get from the elemental energies of a defeated genie. I'd go out and find some myself, but I've started a potion that needs to be on the boil for several months and I need to keep my eye on it. I'd happily pay a premium if you could go out and get me what I need.
 > 
@@ -4497,7 +4497,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Some people use morkoth eyes for their hypnotic quality; not me though. I know a little ritual you can do with them to bring out their ability to find and scavenge things. Just say a few choice words over them, and suddenly you can spot the most valuable items in the biggest piles of junk as if there was a massive beacon coming out of them. Anyway, I'm going on a big scavenging run soon and I want it to be as efficient as possible, so if you got any morkoth eyes lying around I'll be happy to buy them off you.
 > 
@@ -4511,7 +4511,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > My enemies are everywhere; I just know it. I can't prove that they have ways of getting through my alarm spells and traps, but it's better to be safe than sorry. What I want is a more organic approach to security, the antennae of a remorhaz should do. Those things will let me know if anything is scurrying about trying to get me in my sleep.
 > 
@@ -4525,7 +4525,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I've had the strongest craving these days for the gamey, complex flavours of roc gizzards. If you haven't tried them before, I have a wonderful recipe that involves frying them up in a batter made from the yolk of a roc egg, and I'd gladly share it with you if you just get me the ingredients first.
 > 
@@ -4541,7 +4541,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > In several ways, yugoloths are worse than regular fiends. While fiends fight merely for their bloodthirstiness or their vanity, yugoloths do so purely out of greed. I have made it my goal to end them once and for all, and to do that, I will need access to Gehenna. If you can get me yugoloth hearts, I can craft them into gems that will take my companions and I into that dark realm, to confront the legendary yugoloth general and destroy him.
 > 
@@ -4555,7 +4555,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am doing some research into the cults of my local area and have heard of some of the curses they create by invoking their dark patrons. I want to look into this further and have discovered that an Erinyes heart contains the potential to create many of these curses. Such a sample would be a fantastic boon to my studies.
 > 
@@ -4569,7 +4569,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was weak once, and it cost me something very dear. I swore that I would never be weak again, even if I had to resort to outside sources to achieve that. The fingernails of giants are a potent source of magical energy that can be brewed into strength-enhancing potions. I will take any that you have and make their strength my own.
 > 
@@ -4585,7 +4585,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As a judge, it is my duty to determine the guilt of the criminals that come before me and sentence them accordingly. Of course, even with magic this can be difficult; Some criminals are crafty enough to talk their way through a zone of truth spell. I want something a bit stronger, something powered by...something stronger. A kirin is one of the wisest creatures to ever roam the world. Although their deaths are always a tragedy, if you hand their heart over to me, I can use it to enact justice and perhaps balance the scales a little.
 > 
@@ -4599,7 +4599,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > One of my basic services is to make a potion for adventurers that will protect them from the various poisons out there in the world. Unfortunately, I've gotten so many orders recently that I'm having trouble keeping up with demand. While there are a lot of different bases that can be used to craft the potion, one of the more common ones is yuan-ti blood. If you get me some, I'll gladly pay you a decent price for it.
 > 
@@ -4615,7 +4615,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > For centuries now I've been researching a new spell capable of replacing lost organs, such a discovery would likely save many lives. I believe that the key lies in the internal anatomy of the beholder, specifically their membrum. If I can just get a sample of it, I'm sure I can unlock the mystery.
 > 
@@ -4629,7 +4629,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > All my life, they have called me a monster. All my life, people have feared me based solely on my looks. Well, if that is how people see me, then I may as well lean into it. I'm going to need an intimidating weapon; the claw of a devourer should do.
 > 
@@ -4643,7 +4643,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I'm having a dinner party soon and it is tradition that we play a little prank on our guests. I know how to craft a set of those delightful magical cutlery and I think it would make for a delightful jape on the evening. All I need are a set of nalfeshnee teeth and I can take care of the rest.
 > 
@@ -4657,7 +4657,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > As a scholar of illithids and psionics, the brain of a neothelid has the potential to change everything I have researched so far. Because the neothelid comes from a tadpole that has had no influence from other minds, it provides the perfect control experiment and baseline for understanding illithids. With these, I'll be able to understand exactly how a humanoid's brain contributes to the psionic potential of the mind flayers, and thus figure out how to unlock some of that in our own minds.
 > 
@@ -4671,7 +4671,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > For half my life, people have come to challenge me to magical duels, hoping that they will be the one to finally topple one of the greatest arch-mages that ever lived. Although I've managed to beat back every single one of them, the years have caught up to me and unfortunately, I must admit that I am not the duellist I used to be. That hasn't stopped the constant flow of eager upstarts though, so I need some extra protection to put us on an even playing ground. A rakshasa hide would be good, since it will allow me to effectively ignore anyone without the power to give me a real challenge and let me focus on fending off the people with actual talent.
 > 
@@ -4685,7 +4685,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > My stores are running a little low, especially on the more esoteric materials. I'd go out and find some myself, but I've started a potion that needs to be on the boil for several months and I need to keep my eye on it. I'd happily pay a premium if you could go out and get me what I need.
 > 
@@ -4699,7 +4699,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was weak once, and it cost me something very dear. I swore that I would never be weak again, even if I had to resort to outside sources to achieve that. The fingernails of giants are a potent source of magical energy that can be brewed into strength-enhancing potions. I will take any that you have and make their strength my own.
 > 
@@ -4713,7 +4713,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > In several ways, yugoloths are worse than regular fiends. While fiends fight merely for their bloodthirstiness or their vanity, yugoloths do so purely out of greed. I have made it my goal to end them once and for all, and to do that, I will need access to Gehenna. If you can get me yugoloth hearts, I can craft them into gems that will take my companions and I into that dark realm, to confront the legendary yugoloth general and destroy him.
 > 
@@ -4727,7 +4727,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Vampires are some of the most insidious creatures I have come across, not least of which is because of their ability to turn innocent people into bloodthirsty monsters. Their blood however contains the ability to save those they have enslaved, so if you manage to slay one, please do not waste their blood. Give it to me so that I can try to save a few lost souls.
 > 
@@ -4743,7 +4743,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There is an armor that I covet, one made from the scales of a dragon. I have searched and hunted for a dragon strong enough to give me the type of armor I want for years but to no avail. Although I would prefer to get the scales myself, I am not above paying someone else, should they come into their possession.
 > 
@@ -4757,7 +4757,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I need to beef up the security around my... house. As part of the redesign, I've been thinking of crafting a Negative Energy Crystal to mess with any...uninvited guests. Of course, in order to make one I will need a Death Tyrant Eye and will pay copious amounts of gold and jewels to anyone able to bring me one. Also contrary to all the rumours, I am not a lich. I just have a skin disease that makes it look like I have no skin. Or flesh. I am not a lich. Look, just get me the eye.
 > 
@@ -4771,7 +4771,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am a scholar of psionic abilities, and in this entire field, there is no more valuable specimen than an elder brain. Every living inch of them contains psionic secrets that the rest of us have yet to even scratch the surface of, but I intend to discover them all. If I had to spend my funding on any particular part of the elder brain, I would like to start with its thalamus; if it is anything like the thalamus of a humanoid, it should be a key lobe of the elder brain and thus be rich in answers and research possibilities.
 > 
@@ -4785,7 +4785,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was weak once, and it cost me something very dear. I swore that I would never be weak again, even if I had to resort to outside sources to achieve that. The fingernails of giants are a potent source of magical energy that can be brewed into strength-enhancing potions. I will take any that you have and make their strength my own.
 > 
@@ -4799,7 +4799,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Winters are getting tougher round these parts; tougher and colder. Sometimes the blizzards are so bad that we get snowed in for weeks. I want to have something in our emergency kit that'll let us venture out into the cold if we really need to. Ice devil blood should do, we'll take any that you can get.
 > 
@@ -4815,7 +4815,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > The people of my village are counting on me as healer, but I am desperately low on medical supplies. I'll take just about anything and pay for it out of my own pocket if it will keep the people of the village in good health. Mummy bandages would be of a great help, the precious oils in them can be extracted and diluted quite a lot to make treatments for all sorts of ailments.
 > 
@@ -4829,7 +4829,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I run a rather specialised jewellers and am in need of something to complete my collection: a purple worm pearl. I have many clients asking about owning one of these massive gems, so I can afford to pay a premium for it.
 > 
@@ -4847,7 +4847,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have a few orders for animated contraptions and trinkets. I could do it with an intricate series of gears and mechanisms, but I'd rather take a shortcut here and just use the same animating force that goes into golems. Find some manual ashes from golems and bring them back, I'll give you a decent price for them.
 > 
@@ -4863,7 +4863,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Thurkear has heard of snake woman with skin tougher than any lizardfolk. Thurkear wants this skin for armor. No one may be stronger than Thurkear.
 > 
@@ -4877,7 +4877,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > My wife is dying. I know not what kind of dark presence grips her, but even the most powerful of healers have failed to help. In my desperation, I can think of only one cure: the blood of an angel. I know that I face punishment from the divine for even asking for such a thing, but it is a price I am willing to pay if it means giving her even one more day.
 > 
@@ -4891,7 +4891,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was weak once, and it cost me something very dear. I swore that I would never be weak again, even if I had to resort to outside sources to achieve that. The fingernails of giants are a potent source of magical energy that can be brewed into strength-enhancing potions. I will take any that you have and make their strength my own.
 > 
@@ -4907,7 +4907,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have travelled the world in search of stories, and who knows more stories than the ancient sphinxes. Guardians of long-forgotten history, every fibre of their being drips with mystery. I have been told that burning their tails in particular reveal visions of the past. I would gladly pay a large reward for anyone that can bring me such a tantalising item.
 > 
@@ -4921,7 +4921,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I serve a very powerful lord with a strong sense of paranoia. As his apothecarist, I am responsible for amassing powders, mixtures, and tinctures to ensure his safety in any situation and it has recently come to my attention that the blighted ash of a death knight is capable of protecting an individual from the undead. As such, my lord has directed me to procure some for him in the offchance that his castle ever randomly comes under attack by a zombie horde.
 > 
@@ -4935,7 +4935,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I have a mission that has been handed down through generations of my clan: hunt down and put an end to the dracolich, Bel'therizan. The problem however is not so much finding his body but finding his gemstone. If, however, I can get a good sample of one of his bones, I can craft a special censer to hunt it down and finish him once and for all. I will happily pay all of my gold to get my hands on such a thing.
 > 
@@ -4949,7 +4949,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > If there's one thing my old captain taught me in my youth, it's to never set sail without a few barrels of dragon turtle blood on hand. Now that it's my time to captain a ship, I intend to follow through on that advice. I need to ship off soon, so I'm willing to pay a decent sum to anyone who can bring me some fast.
 > 
@@ -4963,7 +4963,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Many years ago, a man killed my father. The coward fled in the night, fearful of my vengeance. I lost track of him over time, but I finally managed to track him down, hiding in a fort with his cronies. I know I have the strength to defeat them all, I just need a way to bash down the gates of that fort. I have heard of a magical dust that can enchant my hammer to do just that. I know it is expensive, but for my father's peace, I will pay any price.
 > 
@@ -4979,7 +4979,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am in the market for something to give my spells a little extra kick, and I have found out that the bone dust of a lich or demilich may be the thing that I need. How I found that out is nobody's concern, it's not like I myself am a lich or anything. Look, just get me the bone dust.
 > 
@@ -4995,7 +4995,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > Me and the boys have been doing some serious mining these days and hit a bit of a snag. Specifically, an abyssal rock that we just can't get through even with our strongest picks. So, I was thinking, if it's an abyssal rock, why not use some abyssal explosives? Balor ash mixed with saltpetre should do the trick.
 > 
@@ -5011,7 +5011,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I was visiting my good friend Hamund the other day and had the chance to look at his collection of taxidermy creatures. While there were many impressive specimens, the one that I have fixated on was the mounted head of a pit fiend. I cannot stop thinking about its fierce countenance and terrifying visage and I have decided that I shall have one of my own. Now, I am not much of a hunter myself, but I do have gold. Fetch me what I desire, and you shall be handsomely rewarded.
 > 
@@ -5027,7 +5027,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > One of the sacred treasures of our clan has always been the dragon crystal that sits at the center of our village. A recent disaster has swept through the town however and the crystal has been horribly damaged. I believe that it can be fixed however, using the energies given off by a fresh dragon heart from an ancient dragon. Undertake this dangerous quest for us, and the village coffers shall be yours.
 > 
@@ -5041,7 +5041,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > I am in the market for something to give my spells a little extra kick, and I have found out that the bone dust of a lich or demilich may be the thing that I need. How I found that out is nobody's concern, it's not like I myself am a lich or anything. Look, just get me the bone dust.
 > 
@@ -5055,7 +5055,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > My wife is dying. I know not what kind of dark presence grips her, but even the most powerful of healers have failed to help. In my desperation, I can think of only one cure: the blood of an angel. I know that I face punishment from the divine for even asking for such a thing, but it is a price I am willing to pay if it means giving her even one more day.
 > 
@@ -5071,7 +5071,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > An empyrean heart is by far one of the most valuable organs in existence. A force of nature in and of itself, it is coveted by many clients of mine. Find me one (and don't ask any further questions), and you will be paid handsomely.
 > 
@@ -5085,7 +5085,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > **Description:** 
 > 
-> > [!quote]-  
+> > [!quote]  
 > > 
 > > There is no denying the evidence anymore, the waves will soon consume our coastal city and our leaders are too busy lining their pockets to do something about it. Therefore, the task of saving our home falls to me. I have studied far and gathered many resources and found the solution: the hearts of a kraken. When used properly, they can be transformed into magical crystals that keep the tide at bay. I have everything else I need, the only thing remaining is the hearts themselves.
 > 

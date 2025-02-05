@@ -60,7 +60,7 @@ const config = {
 
                 newFileName = newFileName
                     .replaceAll(/(^|[\/\\\-])([a-z0-9])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' ' + letter.toUpperCase() : separator + letter.toUpperCase())
-                    .replace(new RegExp(`\s*(${sourceKeys.join('|')})$`, 'i'), (oldText, source) => ` (${source.toUpperCase()})`)
+                    .replace(new RegExp(`(${sourceKeys.join('|')})$`, 'i'), (oldText, source) => `(${source.toUpperCase()})`)
 
                 return newFileName
             }
@@ -186,7 +186,7 @@ const config = {
             enabled: true,
             name: 'Move File',
             ignore: function (file) {
-                return /npc/i.test(file.path) && file.frontMatter.tags && !file.frontMatter.tags.some(tag => tag === 'compendium/src/5e/cos')
+                return /4. world almanac[\/\\]npc/i.test(file.path) && file.frontMatter.tags && !file.frontMatter.tags.some(tag => tag === 'compendium/src/5e/cos')
             },
             process: function (file) {
                 fs.mkdirSync(path.parse(file.path).dir, { recursive: true })
@@ -299,7 +299,7 @@ function getAllSourceKeys() {
     ttrpgConvertConfig.sources.homebrew.forEach(homebrew => {
         const file = JSON.parse(fs.readFileSync(path.resolve(config.rootVaultPath, homebrew), 'utf-8'))
         file._meta.sources.forEach(source => {
-            sourceKeys.push(source.abbreviation)
+            sourceKeys.push(source.json)
         })
     })
 
@@ -308,7 +308,7 @@ function getAllSourceKeys() {
     return sourceKeys
 }
 
-function main() {Y
+function main() {
     if (config.css.move) moveCssSnippets()
     const filesList = getFilesList(path.resolve(config.rootVaultPath, config.compendiumPath))
     let index = 0

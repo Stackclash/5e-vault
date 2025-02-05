@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: 'grassland, forest, urban'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
@@ -9,12 +13,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Giant Wasp
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Wasp.md|Giant Wasp]]
-*Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Giant Wasp.md|Giant Wasp]]
+*Source: Monster Manual p. 329. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Giant Wasp"
@@ -40,17 +43,12 @@ aliases:
     \ + 2) piercing damage, and the target must make a DC 11 Constitution saving throw,\
     \ taking 10 (3d6) poison damage on a failed save, or half as much damage on a\
     \ successful one. If the poison damage reduces the target to 0 hit points, the\
-    \ target is stable but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
-    \ 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way."
+    \ target is stable but [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
+    \ 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
+    \ while [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] in this way."
   "name": "Sting"
 "source":
 - "MM"
-- "ToA"
-- "GoS"
-- "EGW"
-- "PSX"
-- "PSA"
 "image": "5. Mechanics/Bestiary/Beast/token/giant-wasp.webp"
 ```
 ^statblock

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: 'forest, swamp, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
@@ -10,11 +14,10 @@ tags:
   - monster/size/medium
   - monster/type/monstrosity/shapechanger
   - monster/type/monstrosity/yuan-ti
-statblock: inline
 aliases:
   - Yuan-ti Malison (Type 3)
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Malison Type 3.md|Yuan-ti Malison (Type 3)]]
+# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Malison Type 3.md|Yuan-ti Malison (Type 3)]]
 *Source: Monster Manual p. 309*
 
 A malison is a hideous blend of human and serpentine features. Three different types of malisons are known to exist, and other types are possible. Malisons form the middle caste of yuan-ti society and hunt with arrows tipped with their own venom. They use their magical powers of suggestion to force their enemies' surrender.
@@ -56,7 +59,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 > **Sseth, the Sibilant Death.** Sseth appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
 ^serpent-gods
 
-> [!quote]- A quote from From Masters of the Forbidden City by Codo Vidak  
+> [!quote] A quote from From Masters of the Forbidden City by Codo Vidak  
 > 
 > The yuan-ti cast off their humanity long ago, and with it, their sanity.
 
@@ -82,7 +85,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
   "Deception": !!int "5"
   "Stealth": !!int "4"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Abyssal, Common, Draconic"
 "cr": "3"
@@ -112,8 +115,8 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
     \ + 3) piercing damage plus 7 (2d6) poison damage."
   "name": "Bite (Snake Form Only)"
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
-    \ + 3) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ + 3) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+    \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
     \ and the yuan-ti can't constrict another target."
   "name": "Constrict"
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
@@ -124,11 +127,6 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
   "name": "Longbow (Yuan-ti Form Only)"
 "source":
 - "MM"
-- "HotDQ"
-- "RoT"
-- "SKT"
-- "ToA"
-- "CM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-malison-type-3.webp"
 ```
 ^statblock

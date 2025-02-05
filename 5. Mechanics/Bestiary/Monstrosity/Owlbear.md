@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: forest
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/forest
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Owlbear
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Owlbear.md|Owlbear]]
-*Source: Monster Manual p. 249. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Monstrosity\Owlbear.md|Owlbear]]
+*Source: Monster Manual p. 249. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 An owlbear's screech echoes through dark valleys and benighted forests, piercing the quiet night to announce the death of its prey. Feathers cover the thick, shaggy coat of its bearlike body, and the limpid pupils of its great round eyes stare furiously from its owlish head.
 
@@ -38,7 +41,7 @@ Elven communities encourage owlbears to den beneath their treetop villages, usin
 
 Scholars have long debated the origins of the owlbear. The most common theory is that a demented wizard created the first specimen by crossing a giant owl with a bear. However, venerable elves claim to have known these creatures for thousands of years, and some fey insist that owlbears have always existed in the Feywild.
 
-> [!quote]- A quote from Xarshel Ravenshadow, Gnome Professor of Transmutative Science at Morgrave University  
+> [!quote] A quote from Xarshel Ravenshadow, Gnome Professor of Transmutative Science at Morgrave University  
 > 
 > The only good thing about owlbears is that the wizard who created them is probably dead.
 
@@ -80,25 +83,6 @@ Scholars have long debated the origins of the owlbear. The most common theory is
   "name": "Claws"
 "source":
 - "MM"
-- "LMoP"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "SDW"
-- "RMBRE"
-- "IMR"
-- "EGW"
-- "IDRotF"
-- "WBtW"
-- "CRCotN"
-- "DoSI"
-- "HftT"
-- "PaBTSO"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/owlbear.webp"
 ```
 ^statblock

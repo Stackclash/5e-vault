@@ -21,7 +21,7 @@ Most effects in the game happen in succession, following an order set by the rul
 
 ## Falling
 
-Falling from a great height is a significant risk for adventurers and their foes. The rule given in the player's handbook is simple: at the end of a fall, you take `dice: 1d6|avg|noform` (`1d6`) bludgeoning damage for every 10 feet you fell, to a maximum of `dice: 20d6|avg|noform` (`20d6`). You also land [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
+Falling from a great height is a significant risk for adventurers and their foes. The rule given in the player's handbook is simple: at the end of a fall, you take `dice:1d6|noform|avg` (`1d6`) bludgeoning damage for every 10 feet you fell, to a maximum of `dice:20d6|noform|avg` (`20d6`). You also land [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
 
 ### Rate of Falling
 
@@ -31,15 +31,15 @@ When you fall from a great height, you instantly descend up to 500 feet. If you'
 
 ### Flying Creatures and Falling
 
-A flying creature in flight falls if it is knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], if its speed is reduced to 0 feet, or if it otherwise loses the ability to move, unless it can hover or it is being held aloft by magic, such as the [[5. Mechanics/Spells/Fly.md\|fly]] spell.
+A flying creature in flight falls if it is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], if its speed is reduced to 0 feet, or if it otherwise loses the ability to move, unless it can hover or it is being held aloft by magic, such as the [[5. Mechanics/Spells/Fly.md\|fly]] spell.
 
-If you'd like a flying creature to have a better chance of surviving a fall than a non-flying creature does, use this rule: subtract the creature's current flying speed from the distance it fell before calculating falling damage. This rule is helpful to a flier that is knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] but is still conscious and has a current flying speed that is greater than 0 feet. The rule is designed to simulate the creature flapping its wings furiously or taking similar measures to slow the velocity of its fall.
+If you'd like a flying creature to have a better chance of surviving a fall than a non-flying creature does, use this rule: subtract the creature's current flying speed from the distance it fell before calculating falling damage. This rule is helpful to a flier that is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] but is still conscious and has a current flying speed that is greater than 0 feet. The rule is designed to simulate the creature flapping its wings furiously or taking similar measures to slow the velocity of its fall.
 
-If you use the rule for rate of falling in the previous section, a flying creature descends 500 feet on the turn when it falls, just as other creatures do. But if that creature starts any of its later turns still falling and is [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], it can halt the fall on its turn by spending half its flying speed to counter the [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] condition (as if it were standing up in midair).
+If you use the rule for rate of falling in the previous section, a flying creature descends 500 feet on the turn when it falls, just as other creatures do. But if that creature starts any of its later turns still falling and is [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], it can halt the fall on its turn by spending half its flying speed to counter the [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] condition (as if it were standing up in midair).
 
 ## Sleep
 
-Just as in the real world, D&D characters spend many hours sleeping, most often as part of a long rest. Most monsters also need to sleep. While a creature sleeps, it is subjected to the [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] condition. Here are a few rules that expand on that basic fact.
+Just as in the real world, D&D characters spend many hours sleeping, most often as part of a long rest. Most monsters also need to sleep. While a creature sleeps, it is subjected to the [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] condition. Here are a few rules that expand on that basic fact.
 
 ### Waking Someone
 
@@ -51,15 +51,15 @@ Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([[/5. Mechanics
 
 Sleeping in light armor has no adverse effect on the wearer, but sleeping in medium or heavy armor makes it difficult to recover fully during a long rest.
 
-When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], the rest doesn't reduce your [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] level.
+When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]], the rest doesn't reduce your [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] level.
 
 ### Going without a Long Rest
 
 A long rest is never mandatory, but going without sleep does have its consequences. If you want to account for the effects of sleep deprivation on characters and creatures, use these rules.
 
-Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]].
+Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]].
 
-It becomes harder to fight off [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] if you stay awake for multiple days. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.
+It becomes harder to fight off [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] if you stay awake for multiple days. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.
 
 ## Adamantine Weapons
 
@@ -173,7 +173,7 @@ When you place a template, follow all the rules in the Player's Handbook for pla
 
 Diagrams 2.1 and 2.2 show the template method in action.
 
-![[6. Resources/Books/Xanathars Guide To Everything/img/001.webp#center]]
+![[/5. Mechanics/Rules/Variant Rules/img/xge-001.webp#center]]
 
 #### Token Method
 
@@ -187,9 +187,9 @@ Every 5-foot square of an area of effect becomes a die or other token that you p
 
 Diagrams 2.3 through 2.6 show this method in action, using dice as the tokens.
 
-![[6. Resources/Books/Xanathars Guide To Everything/img/002.webp#center]]
+![[/5. Mechanics/Rules/Variant Rules/img/xge-002.webp#center]]
 
-![[6. Resources/Books/Xanathars Guide To Everything/img/003.webp#center]]
+![[/5. Mechanics/Rules/Variant Rules/img/xge-003.webp#center]]
 
 ##### Circles
 
@@ -227,7 +227,7 @@ The process for building fights that feature only one legendary monster is simpl
 
 For a more perilous battle, match up the characters with a legendary creature whose challenge rating is 1 or 2 higher than optimal. For an easy fight, use a legendary creature whose challenge rating is 3 or more lower than the challenge rating for an optimal encounter.
 
-![[5. Mechanics/Tables/Determine Numbers And Challenge Ratings Solo Monster Challenge Rating.md\|Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating]]
+![[5. Mechanics/Tables/Determine Numbers And Challenge Ratings Solo Monster Challenge Rating (XGE).md\|Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating]]
 
 If your encounter features multiple monsters, balancing it takes a little more work. Refer to the Multiple Monsters tables, which are broken up by level ranges, providing information for how to balance encounters for characters of 1st-5th level, 6th-10th level, 11th-15th level, and 16th-20th level.
 
@@ -235,21 +235,21 @@ First, you need to note the challenge rating for each creature the party will fa
 
 For example, reading the row for 1st-level characters from the 1st-5th Level table, we see that one 1st-level character is the equivalent of two CR 1/8 monsters or one CR 1/4 monster. The ratio reverses for higher challenge ratings, where a single monster is more powerful than a single 1st-level character. One CR 1/2 creature is equivalent to three 1st-level characters, while one CR 1 opponent is equivalent to five.
 
-![[5. Mechanics/Tables/Determine Numbers And Challenge Ratings Multiple Monsters 1st 5th Level.md\|Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level]]
+![[5. Mechanics/Tables/Determine Numbers And Challenge Ratings Multiple Monsters 1st 5th Level (XGE).md\|Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level]]
 
 Let's say you have a party of four 3rd-level characters. Using the table, you can see that one CR 2 foe is a good match for the entire party, but that the characters will likely have a hard time handling a CR 3 creature.
 
 Using the same guidelines, you can mix and match challenge ratings to put together a group of creatures to oppose four 3rd-level characters. For example, you could select one CR 1 creature. That's worth two 3rd-level characters, leaving you with two characters' worth of monsters to allocate. You could then add two CR 1/4 monsters to account for one other character and one CR 1/2 monster to account for the final character. In total, your encounter has one CR 1, one CR 1/2, and two CR 1/4 creatures.
 
-![[5. Mechanics/Tables/Determine Numbers And Challenge Ratings Multiple Monsters 6th 10th Level.md\|Determine Numbers and Challenge Ratings; Multiple Monsters: 6th-10th Level]]
+![[5. Mechanics/Tables/Determine Numbers And Challenge Ratings Multiple Monsters 6th 10th Level (XGE).md\|Determine Numbers and Challenge Ratings; Multiple Monsters: 6th-10th Level]]
 
 For groups in which the characters are of different levels, you have two options. You can group all characters of the same level together, match them with monsters, and then combine all the creatures into one encounter. Alternatively, you can determine the group's average level and treat each character as being of that level for the purpose of selecting appropriate monsters.
 
-![[5. Mechanics/Tables/Determine Numbers And Challenge Ratings Multiple Monsters 11th 15th Level.md\|Determine Numbers and Challenge Ratings; Multiple Monsters: 11th-15th Level]]
+![[5. Mechanics/Tables/Determine Numbers And Challenge Ratings Multiple Monsters 11th 15th Level (XGE).md\|Determine Numbers and Challenge Ratings; Multiple Monsters: 11th-15th Level]]
 
 The above guidelines are designed to create a fight that will challenge a party while still being winnable. If you want to create an easier encounter that will challenge characters but not threaten to defeat them, you can treat the party as if it were roughly one-third smaller than it is. For example, to make an easy encounter for a party of five characters, put them up against monsters that would be a tough fight for three characters. Likewise, you can treat the party as up to half again larger to build a battle that is potentially deadly, though still not likely to be an automatic defeat. A party of four characters facing an encounter designed for six characters would fall into this category.
 
-![[5. Mechanics/Tables/Determine Numbers And Challenge Ratings Multiple Monsters 16th 20th Level.md\|Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level]]
+![[5. Mechanics/Tables/Determine Numbers And Challenge Ratings Multiple Monsters 16th 20th Level (XGE).md\|Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level]]
 
 #### Weak Monsters and High-Level Characters
 
@@ -279,13 +279,13 @@ If you already have ideas for how to flesh out your encounter in these ways, go 
 
 To address the question of a monster's personality, you can use the tables in chapter 4 of the Dungeon Master's Guide, use the Monster Personality table below, or simply jot down a few notes based on a creature's Monster Manual description. During the battle, you can use these ideas to inform how you portray the monsters and their actions. To keep things simple, you can assign the same personality traits to an entire group of monsters. For example, one bandit gang might be an unruly mob of braggarts, while the members of another gang are always on edge and ready to flee at the first sign of danger.
 
-![[5. Mechanics/Tables/Monster Personality.md\|Monster Personality]]
+![[5. Mechanics/Tables/Monster Personality (XGE).md\|Monster Personality]]
 
 #### Monster Relationships
 
 Do rivalries, hatreds, or attachments exist among the monsters in an encounter? If so, you can use such relationships to inform the monsters' behavior during combat. The death of a much-revered leader might throw its followers into a frenzy. On the other hand, a monster might decide to flee if its spouse is killed, or a mistreated toady might be eager to surrender and betray its master in return for its life.
 
-![[5. Mechanics/Tables/Monster Relationships.md\|Monster Relationships]]
+![[5. Mechanics/Tables/Monster Relationships (XGE).md\|Monster Relationships]]
 
 #### Terrain and Traps
 
@@ -305,7 +305,7 @@ The guidelines above assume that you are concerned about balance in your combat 
 
 This table gives you a way to match a character of a certain level with a number of monsters. The table lists the challenge ratings to use for including one, two, and four monsters per character for each level. For instance, looking at the 3rd-level entry on the table, you can see that a CR 1/2 monster is equivalent to one 3rd-level character, as are two CR 1/4 monsters and four CR 1/8 ones.
 
-![[5. Mechanics/Tables/Quick Matchups.md\|Quick Matchups]]
+![[5. Mechanics/Tables/Quick Matchups (XGE).md\|Quick Matchups]]
 
 ## Random Encounters: A World of Possibilities
 
@@ -382,15 +382,15 @@ To make it easier for you to describe what happens next, the players should be s
 
 The following simple traps can be used to populate your adventures or as models for your own creations.
 
-- [[5. Mechanics/Traps Hazards/Bear Trap.md\|Bear Trap]]  
-- [[5. Mechanics/Traps Hazards/Crossbow Trap.md\|Crossbow Trap]]  
-- [[5. Mechanics/Traps Hazards/Falling Portcullis.md\|Falling Portcullis]]  
-- [[5. Mechanics/Traps Hazards/Fiery Blast Trap.md\|Fiery Blast Trap]]  
-- [[5. Mechanics/Traps Hazards/Net Trap.md\|Net Trap]]  
-- [[5. Mechanics/Traps Hazards/Pit Trap.md\|Pit Trap]]  
-- [[5. Mechanics/Traps Hazards/Poison Needle Trap.md\|Poison Needle Trap]]  
-- [[5. Mechanics/Traps Hazards/Scything Blade Trap.md\|Scything Blade Trap]]  
-- [[5. Mechanics/Traps Hazards/Sleep Of Ages Trap.md\|Sleep of Ages Trap]]  
+- [[5. Mechanics/Traps Hazards/Bear Trap (XGE).md\|Bear Trap]]  
+- [[5. Mechanics/Traps Hazards/Crossbow Trap (XGE).md\|Crossbow Trap]]  
+- [[5. Mechanics/Traps Hazards/Falling Portcullis (XGE).md\|Falling Portcullis]]  
+- [[5. Mechanics/Traps Hazards/Fiery Blast Trap (XGE).md\|Fiery Blast Trap]]  
+- [[5. Mechanics/Traps Hazards/Net Trap (XGE).md\|Net Trap]]  
+- [[5. Mechanics/Traps Hazards/Pit Trap (XGE).md\|Pit Trap]]  
+- [[5. Mechanics/Traps Hazards/Poison Needle Trap (XGE).md\|Poison Needle Trap]]  
+- [[5. Mechanics/Traps Hazards/Scything Blade Trap (XGE).md\|Scything Blade Trap]]  
+- [[5. Mechanics/Traps Hazards/Sleep Of Ages Trap (XGE).md\|Sleep of Ages Trap]]  
 
 ![[6. Resources/Books/Xanathars Guide To Everything/img/c2022.webp#center]]
 
@@ -438,13 +438,13 @@ The Damage Severity by Level table lists the typical damage a trap deals at cert
 
 The Spell Equivalent by Level table shows the spell slot level that is appropriate for a given character level and the severity of danger posed by the trap. A spell is a great foundation to use as the design of a trap, whether the trap duplicates the spell (a mirror that casts charm person on whoever looks into it) or uses its effects (an alchemical device that explodes like a fireball).
 
-The Deadly entry for characters of 17th level or higher suggests combining a 9th-level and a 5th-level spell into one effect. In this case, pick two spells, or combine the effects of a spell cast using a 9th-level and a 5th-level slot. For instance, a fireball spell of this sort would deal `dice: 24d6|avg|noform` (`24d6`) fire damage on a failed saving throw.
+The Deadly entry for characters of 17th level or higher suggests combining a 9th-level and a 5th-level spell into one effect. In this case, pick two spells, or combine the effects of a spell cast using a 9th-level and a 5th-level slot. For instance, a fireball spell of this sort would deal `dice:24d6|noform|avg` (`24d6`) fire damage on a failed saving throw.
 
-![[5. Mechanics/Tables/Level And Lethality Trap Save Dcs And Attack Bonuses.md\|Level and Lethality; Trap Save DCs and Attack Bonuses]]
+![[5. Mechanics/Tables/Level And Lethality Trap Save Dcs And Attack Bonuses (XGE).md\|Level and Lethality; Trap Save DCs and Attack Bonuses]]
 
-![[5. Mechanics/Tables/Level And Lethality Damage Severity By Level.md\|Level and Lethality; Damage Severity by Level]]
+![[5. Mechanics/Tables/Level And Lethality Damage Severity By Level (XGE).md\|Level and Lethality; Damage Severity by Level]]
 
-![[5. Mechanics/Tables/Level And Lethality Spell Equivalent By Level.md\|Level and Lethality; Spell Equivalent by Level]]
+![[5. Mechanics/Tables/Level And Lethality Spell Equivalent By Level (XGE).md\|Level and Lethality; Spell Equivalent by Level]]
 
 #### Triggers
 
@@ -555,15 +555,15 @@ The trap's constant elements allow it to have effects when it isn't the trap's t
 
 Overcoming a complex trap merits an experience point award, depending on the danger it poses. Judging whether a party has overcome a trap requires some amount of adjudication. As a rule of thumb, if the characters disable a complex trap or are exposed to its effects and survive, award them experience points for the effort according to the table below.
 
-![[5. Mechanics/Tables/Experience For Complex Traps Complex Trap Experience Awards.md\|Experience for Complex Traps; Complex Trap Experience Awards]]
+![[5. Mechanics/Tables/Experience For Complex Traps Complex Trap Experience Awards (XGE).md\|Experience for Complex Traps; Complex Trap Experience Awards]]
 
 ### Example Complex Traps
 
 The following complex traps can be used to challenge characters or to inspire your own creations.
 
-- [[5. Mechanics/Traps Hazards/Path Of Blades.md\|Path of Blades]]  
-- [[5. Mechanics/Traps Hazards/Poisoned Tempest.md\|Poisoned Tempest]]  
-- [[5. Mechanics/Traps Hazards/Sphere Of Crushing Doom.md\|Sphere of Crushing Doom]]  
+- [[5. Mechanics/Traps Hazards/Path Of Blades (XGE).md\|Path of Blades]]  
+- [[5. Mechanics/Traps Hazards/Poisoned Tempest (XGE).md\|Poisoned Tempest]]  
+- [[5. Mechanics/Traps Hazards/Sphere Of Crushing Doom (XGE).md\|Sphere of Crushing Doom]]  
 
 ### Designing Complex Traps
 
@@ -692,7 +692,7 @@ It's possible for the characters to have two or three rivals at a time, each wit
 
 The best rivals have a connection with their adversaries on a personal level. Find links in the characters' backstories or the events of recent adventures that explain what sparked the rival's actions. The best trouble to put the characters in is trouble they created for themselves.
 
-![[5. Mechanics/Tables/Creating A Rival Rival.md\|Creating a Rival; Rival]]
+![[5. Mechanics/Tables/Creating A Rival Rival (XGE).md\|Creating a Rival; Rival]]
 
 To add the right amount of detail to a rival you want to create, give some thought to what that NPC is trying to accomplish and what resources and methods the rival can bring to bear against the characters.
 
@@ -758,15 +758,15 @@ You have final say in determining which items are for sale and their final price
 
 If the characters seek a specific magic item, first decide if it's an item you want to allow in your game. If so, include the desired item among the items for sale on a check total of 10 or higher if the item is common, 15 or higher if it is uncommon, 20 or higher if it is rare, 25 or higher if it is very rare, and 30 or higher if it is legendary.
 
-![[5. Mechanics/Tables/Buying A Magic Item Buying Magic Items.md\|Buying a Magic Item; Buying Magic Items]]
+![[5. Mechanics/Tables/Buying A Magic Item Buying Magic Items (XGE).md\|Buying a Magic Item; Buying Magic Items]]
 
-![[5. Mechanics/Tables/Buying A Magic Item Magic Item Price.md\|Buying a Magic Item; Magic Item Price]]
+![[5. Mechanics/Tables/Buying A Magic Item Magic Item Price (XGE).md\|Buying a Magic Item; Magic Item Price]]
 
 ##### Complications
 
 The magic item trade is fraught with peril. The large sums of money involved and the power offered by magic items attract thieves, con artists, and other villains. If you want to make things more interesting for the characters, roll on the Magic Item Purchase Complications table or invent your own complication.
 
-![[5. Mechanics/Tables/Magic Item Purchase Complications.md\|Magic Item Purchase Complications]]
+![[5. Mechanics/Tables/Magic Item Purchase Complications (XGE).md\|Magic Item Purchase Complications]]
 
 ![[6. Resources/Books/Xanathars Guide To Everything/img/c2025.webp#center]]
 
@@ -784,7 +784,7 @@ A character with the noble background can mingle with the upper class, but other
 
 After a workweek of carousing, a character stands to make contacts within the selected social class. The character makes a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check using the Carousing table.
 
-![[5. Mechanics/Tables/Carousing.md\|Carousing]]
+![[5. Mechanics/Tables/Carousing (XGE).md\|Carousing]]
 
 Contacts are NPCs who now share a bond with the character. Each one either owes the character a favor or has some reason to bear a grudge. A hostile contact works against the character, placing obstacles but stopping short of committing a crime or a violent act. Allied contacts are friends who will render aid to the character, but not at the risk of their lives.
 
@@ -808,13 +808,13 @@ At any time, a character can have a maximum number of unspecified allied contact
 
 ##### Complications
 
-Characters who carouse risk bar brawls, accumulating a cloud of nasty rumors, and building a bad reputation around town. As a rule of thumb, a character has a 10% chance chance of triggering a complication for each workweek of carousing.
+Characters who carouse risk bar brawls, accumulating a cloud of nasty rumors, and building a bad reputation around town. As a rule of thumb, a character has a 10 percent chance of triggering a complication for each workweek of carousing.
 
-![[5. Mechanics/Tables/Lower Class Carousing Complications.md\|Lower-Class Carousing Complications]]
+![[5. Mechanics/Tables/Lower Class Carousing Complications (XGE).md\|Lower-Class Carousing Complications]]
 
-![[5. Mechanics/Tables/Middle Class Carousing Complications.md\|Middle-Class Carousing Complications]]
+![[5. Mechanics/Tables/Middle Class Carousing Complications (XGE).md\|Middle-Class Carousing Complications]]
 
-![[5. Mechanics/Tables/Upper Class Carousing Complications.md\|Upper-Class Carousing Complications]]
+![[5. Mechanics/Tables/Upper Class Carousing Complications (XGE).md\|Upper-Class Carousing Complications]]
 
 #### Crafting an Item
 
@@ -828,7 +828,7 @@ Multiple characters can combine their efforts. Divide the time needed to create 
 
 A character needs to be proficient with the tools needed to craft an item and have access to the appropriate equipment. Everyone who collaborates needs to have the appropriate tool proficiency. You need to make any judgment calls regarding whether a character has the correct equipment. The following table provides some examples.
 
-![[5. Mechanics/Tables/Crafting An Item Resources And Resolution.md\|Crafting an Item; Resources and Resolution]]
+![[5. Mechanics/Tables/Crafting An Item Resources And Resolution (XGE).md\|Crafting an Item; Resources and Resolution]]
 
 If all the above requirements are met, the result of the process is an item of the desired sort. A character can sell an item crafted in this way at its listed price.
 
@@ -846,13 +846,13 @@ An item invariably requires an exotic material to complete it. This material can
 
 The Magic Item Ingredients table suggests the challenge rating of a creature that the characters need to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that the characters need access to.
 
-![[5. Mechanics/Tables/Crafting Magic Items Magic Item Ingredients.md\|Crafting Magic Items; Magic Item Ingredients]]
+![[5. Mechanics/Tables/Crafting Magic Items Magic Item Ingredients (XGE).md\|Crafting Magic Items; Magic Item Ingredients]]
 
 If appropriate, pick a monster or a location that is a thematic fit for the item to be crafted. For example, creating mariner's armor might require the essence of a water weird. Crafting a staff of charming might require the cooperation of a specific arcanaloth, who will help only if the characters complete a task for it. Making a staff of power might hinge on acquiring a piece of an ancient stone that was once touched by the god of magic—a stone now guarded by a suspicious androsphinx.
 
 In addition to facing a specific creature, creating an item comes with a gold piece cost covering other materials, tools, and so on, based on the item's rarity. Those values, as well as the time a character needs to work in order to complete the item, are shown on the Magic Item Crafting Time and Cost table. Halve the listed price and creation time for any consumable items.
 
-![[5. Mechanics/Tables/Crafting Magic Items Magic Item Crafting Time And Cost.md\|Crafting Magic Items; Magic Item Crafting Time and Cost]]
+![[5. Mechanics/Tables/Crafting Magic Items Magic Item Crafting Time And Cost (XGE).md\|Crafting Magic Items; Magic Item Crafting Time and Cost]]
 
 To complete a magic item, a character also needs whatever tool proficiency is appropriate, as for crafting a nonmagical object, or proficiency in the [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] skill.
 
@@ -860,15 +860,15 @@ If all the above requirements are met, the result of the process is a magic item
 
 ##### Complications
 
-Most of the complications involved in creating something, especially a magic item, are linked to the difficulty in finding rare ingredients or components needed to complete the work. The complications a character might face as byproducts of the creation process are most interesting when the characters are working on a magic item: there's a 10% chance chance for every five workweeks spent on crafting an item that a complication occurs. The Crafting Complications table provides examples of what might happen.
+Most of the complications involved in creating something, especially a magic item, are linked to the difficulty in finding rare ingredients or components needed to complete the work. The complications a character might face as byproducts of the creation process are most interesting when the characters are working on a magic item: there's a 10 percent chance for every five workweeks spent on crafting an item that a complication occurs. The Crafting Complications table provides examples of what might happen.
 
-![[5. Mechanics/Tables/Crafting Complications.md\|Crafting Complications]]
+![[5. Mechanics/Tables/Crafting Complications (XGE).md\|Crafting Complications]]
 
 ##### Brewing Potions of Healing
 
 Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the herbalism kit can create these potions. The times and costs for doing so are summarized on the Potion of Healing Creation table.
 
-![[5. Mechanics/Tables/Brewing Potions Of Healing Potion Of Healing Creation.md\|Brewing Potions of Healing; Potion of Healing Creation]]
+![[5. Mechanics/Tables/Brewing Potions Of Healing Potion Of Healing Creation (XGE).md\|Brewing Potions of Healing; Potion of Healing Creation]]
 
 #### Crime
 
@@ -894,13 +894,13 @@ If two checks are successful, the heist is a partial success, netting the charac
 
 If all three checks are successful, the character earns the full value of the loot.
 
-![[5. Mechanics/Tables/Crime Loot Value.md\|Crime; Loot Value]]
+![[5. Mechanics/Tables/Crime Loot Value (XGE).md\|Crime; Loot Value]]
 
 ##### Complications
 
 A life of crime is filled with complications. Roll on the Crime Complications table (or create a complication of your own) if the character succeeds on only one check. If the character's rival is involved in crime or law enforcement, a complication ensues if the character succeeds on only two checks.
 
-![[5. Mechanics/Tables/Crime Complications.md\|Crime Complications]]
+![[5. Mechanics/Tables/Crime Complications (XGE).md\|Crime Complications]]
 
 #### Gambling
 
@@ -914,15 +914,15 @@ This activity requires one workweek of effort plus a stake of at least 10 gp, to
 
 The character must make a series of checks, with a DC determined at random based on the quality of the competition that the character runs into. Part of the risk of gambling is that one never knows who might end up sitting across the table.
 
-The character makes three checks: Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]), Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]), and Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]). If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is `dice: 5 + 2d10|avg|noform` (`5 + 2d10`); generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
+The character makes three checks: Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]), Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]), and Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]). If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is `dice:5+2d10|noform|avg` (`5 + 2d10`); generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
 
-![[5. Mechanics/Tables/Gambling Results.md\|Gambling Results]]
+![[5. Mechanics/Tables/Gambling Results (XGE).md\|Gambling Results]]
 
 ##### Complications
 
-Gambling tends to attract unsavory individuals. The potential complications involved come from run-ins with the law and associations with various criminals tied to the activity. Every workweek spent gambling brings a 10% chance chance of a complication, examples of which are on the Gambling Complications table.
+Gambling tends to attract unsavory individuals. The potential complications involved come from run-ins with the law and associations with various criminals tied to the activity. Every workweek spent gambling brings a 10 percent chance of a complication, examples of which are on the Gambling Complications table.
 
-![[5. Mechanics/Tables/Gambling Complications.md\|Gambling Complications]]
+![[5. Mechanics/Tables/Gambling Complications (XGE).md\|Gambling Complications]]
 
 #### Pit Fighting
 
@@ -936,15 +936,15 @@ Engaging in this activity requires one workweek of effort from a character.
 
 The character must make a series of checks, with a DC determined at random based on the quality of the opposition that the character runs into. A big part of the challenge in pit fighting lies in the unknown nature of a character's opponents.
 
-The character makes three checks: Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]), Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]), and a special Constitution check that has a bonus equal to a roll of the character's largest Hit Die (this roll doesn't spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character's weapons. The DC for each of the checks is `dice: 5 + 2d10|avg|noform` (`5 + 2d10`); generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
+The character makes three checks: Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]), Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]), and a special Constitution check that has a bonus equal to a roll of the character's largest Hit Die (this roll doesn't spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character's weapons. The DC for each of the checks is `dice:5+2d10|noform|avg` (`5 + 2d10`); generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
 
-![[5. Mechanics/Tables/Pit Fighting Results.md\|Pit Fighting Results]]
+![[5. Mechanics/Tables/Pit Fighting Results (XGE).md\|Pit Fighting Results]]
 
 ##### Complications
 
-Characters involved in pit fighting must deal with their opponents, the people who bet on matches, and the matches' promoters. Every workweek spent pit fighting brings a 10% chance chance of a complication, examples of which are on the Pit Fighting Complications table.
+Characters involved in pit fighting must deal with their opponents, the people who bet on matches, and the matches' promoters. Every workweek spent pit fighting brings a 10 percent chance of a complication, examples of which are on the Pit Fighting Complications table.
 
-![[5. Mechanics/Tables/Pit Fighting Complications.md\|Pit Fighting Complications]]
+![[5. Mechanics/Tables/Pit Fighting Complications (XGE).md\|Pit Fighting Complications]]
 
 #### Relaxation
 
@@ -974,7 +974,7 @@ Performing religious service requires access to, and often attendance at, a temp
 
 At the end of the required time, the character chooses to make either an Intelligence ([[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]) check or a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check. The total of the check determines the benefits of service, as shown on the Religious Service table.
 
-![[5. Mechanics/Tables/Religious Service.md\|Religious Service]]
+![[5. Mechanics/Tables/Religious Service (XGE).md\|Religious Service]]
 
 A favor, in broad terms, is a promise of future assistance from a representative of the temple. It can be expended to ask the temple for help in dealing with a specific problem, for general political or social support, or to reduce the cost of cleric spellcasting by 50 percent. A favor could also take the form of a deity's intervention, such as an omen, a vision, or a minor miracle provided at a key moment. This latter sort of favor is expended by the DM, who also determines its nature.
 
@@ -982,9 +982,9 @@ Favors earned need not be expended immediately, but only a certain number can be
 
 ##### Complications
 
-Temples can be labyrinths of political and social scheming. Even the best-intentioned sect can fall prone to rivalries. A character who serves a temple risks becoming embroiled in such struggles. Every workweek spent in religious service brings a 10% chance chance of a complication, examples of which are on the Religious Service Complications table.
+Temples can be labyrinths of political and social scheming. Even the best-intentioned sect can fall prone to rivalries. A character who serves a temple risks becoming embroiled in such struggles. Every workweek spent in religious service brings a 10 percent chance of a complication, examples of which are on the Religious Service Complications table.
 
-![[5. Mechanics/Tables/Religious Service Complications.md\|Religious Service Complications]]
+![[5. Mechanics/Tables/Religious Service Complications (XGE).md\|Religious Service Complications]]
 
 #### Research
 
@@ -998,7 +998,7 @@ Typically, a character needs access to a library or a sage to conduct research. 
 
 The character declares the focus of the research—a specific person, place, or thing. After one workweek, the character makes an Intelligence check with a +1 bonus per 50 gp spent beyond the initial 50 gp, to a maximum of +6. In addition, a character who has access to a particularly well-stocked library or knowledgeable sages gains advantage on this check. Determine how much lore a character learns using the Research Outcomes table.
 
-![[5. Mechanics/Tables/Research Outcomes.md\|Research Outcomes]]
+![[5. Mechanics/Tables/Research Outcomes (XGE).md\|Research Outcomes]]
 
 ![[6. Resources/Books/Xanathars Guide To Everything/img/c2027.webp#center]]
 
@@ -1010,9 +1010,9 @@ As DM, you are the final arbiter concerning exactly what a character learns. For
 
 The greatest risk in research is uncovering false information. Not all lore is accurate or truthful, and a rival with a scholarly bent might try to lead the character astray, especially if the object of the research is known to the rival. The rival might plant false information, bribe sages to give bad advice, or steal key tomes needed to find the truth.
 
-In addition, a character might run into other complications during research. Every workweek spent in research brings a 10% chance chance of a complication, examples of which are on the Research Complications table.
+In addition, a character might run into other complications during research. Every workweek spent in research brings a 10 percent chance of a complication, examples of which are on the Research Complications table.
 
-![[5. Mechanics/Tables/Research Complications.md\|Research Complications]]
+![[5. Mechanics/Tables/Research Complications (XGE).md\|Research Complications]]
 
 #### Scribing a Spell Scroll
 
@@ -1024,13 +1024,13 @@ Scribing a spell scroll takes an amount of time and money related to the level o
 
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were 1st level.
 
-![[5. Mechanics/Tables/Resources Spell Scroll Costs.md\|Resources; Spell Scroll Costs]]
+![[5. Mechanics/Tables/Resources Spell Scroll Costs (XGE).md\|Resources; Spell Scroll Costs]]
 
 ##### Complications
 
-Crafting a spell scroll is a solitary task, unlikely to attract much attention. The complications that arise are more likely to involve the preparation needed for the activity. Every workweek spent scribing brings a 10% chance chance of a complication, examples of which are on the Scribe a Scroll Complications table.
+Crafting a spell scroll is a solitary task, unlikely to attract much attention. The complications that arise are more likely to involve the preparation needed for the activity. Every workweek spent scribing brings a 10 percent chance of a complication, examples of which are on the Scribe a Scroll Complications table.
 
-![[5. Mechanics/Tables/Scribe A Scroll Complications.md\|Scribe a Scroll Complications]]
+![[5. Mechanics/Tables/Scribe A Scroll Complications (XGE).md\|Scribe a Scroll Complications]]
 
 #### Selling a Magic Item
 
@@ -1044,15 +1044,15 @@ A character can find a buyer for one magic item by spending one workweek and 25 
 
 A character who wants to sell an item must make a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check to determine what kind of offer comes in. The character can always opt not to sell, instead forfeiting the workweek of effort and trying again later. Use the Magic Item Base Prices and Magic Item Offer tables to determine the sale price.
 
-![[5. Mechanics/Tables/Resolution Magic Item Base Prices.md\|Resolution; Magic Item Base Prices]]
+![[5. Mechanics/Tables/Selling A Magic Item Magic Item Base Prices (XGE).md\|Selling a Magic Item; Magic Item Base Prices]]
 
-![[5. Mechanics/Tables/Resolution Magic Item Offer.md\|Resolution; Magic Item Offer]]
+![[5. Mechanics/Tables/Selling A Magic Item Magic Item Offer (XGE).md\|Selling a Magic Item; Magic Item Offer]]
 
 ##### Complications
 
-The main risk in selling a magic item lies in attracting thieves and anyone else who wants the item but doesn't want to pay for it. Other folk might try to undermine a deal in order to bolster their own business or seek to discredit the character as a legitimate seller. Every workweek spent trying to sell an item brings a 10% chance chance of a complication, examples of which are on the Magic Item Sale Complications table.
+The main risk in selling a magic item lies in attracting thieves and anyone else who wants the item but doesn't want to pay for it. Other folk might try to undermine a deal in order to bolster their own business or seek to discredit the character as a legitimate seller. Every workweek spent trying to sell an item brings a 10 percent chance of a complication, examples of which are on the Magic Item Sale Complications table.
 
-![[5. Mechanics/Tables/Magic Item Sale Complications.md\|Magic Item Sale Complications]]
+![[5. Mechanics/Tables/Magic Item Sale Complications (XGE).md\|Magic Item Sale Complications]]
 
 ![[6. Resources/Books/Xanathars Guide To Everything/img/c2028.webp#center]]
 
@@ -1066,9 +1066,9 @@ Receiving training in a language or tool typically takes at least ten workweeks,
 
 ##### Complications
 
-Complications that arise while training typically involve the teacher. Every ten workweeks spent in training brings a 10% chance chance of a complication, examples of which are on the Training Complications table.
+Complications that arise while training typically involve the teacher. Every ten workweeks spent in training brings a 10 percent chance of a complication, examples of which are on the Training Complications table.
 
-![[5. Mechanics/Tables/Training Complications.md\|Training Complications]]
+![[5. Mechanics/Tables/Training Complications (XGE).md\|Training Complications]]
 
 #### Work
 
@@ -1082,13 +1082,13 @@ Performing a job requires one workweek of effort.
 
 To determine how much money a character earns, the character makes an ability check: Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]), Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]), Intelligence using a set of tools, Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]), or Charisma using a musical instrument. Consult the Wages table to see how much money is generated according to the total of the check.
 
-![[5. Mechanics/Tables/Resolution Wages.md\|Resolution; Wages]]
+![[5. Mechanics/Tables/Work Wages (XGE).md\|Work; Wages]]
 
 ##### Complications
 
-Ordinary work is rarely filled with significant complications. Still, the Work Complications table can add some difficulties to a worker's life. Each workweek of activity brings a 10% chance chance that a character encounters a complication.
+Ordinary work is rarely filled with significant complications. Still, the Work Complications table can add some difficulties to a worker's life. Each workweek of activity brings a 10 percent chance that a character encounters a complication.
 
-![[5. Mechanics/Tables/Work Complications.md\|Work Complications]]
+![[5. Mechanics/Tables/Work Complications (XGE).md\|Work Complications]]
 
 ## Awarding Magic Items
 
@@ -1100,7 +1100,7 @@ The system in the dungeon master's guide is designed so that you can generate al
 
 This alternative method of treasure determination focuses on choosing magic items based on their rarity, rather than by rolling on the tables in the dungeon master's guide. This method uses two tables: Magic Items Awarded by Tier and Magic Items Awarded by Rarity.
 
-![[5. Mechanics/Tables/Distribution By Rarity Magic Items Awarded By Tier.md\|Distribution by Rarity; Magic Items Awarded by Tier]]
+![[5. Mechanics/Tables/Distribution By Rarity Magic Items Awarded By Tier (XGE).md\|Distribution by Rarity; Magic Items Awarded by Tier]]
 
 #### By Tier
 
@@ -1110,9 +1110,9 @@ The Magic Items Awarded by Tier table shows the number of magic items a D&D part
 
 The Magic Items Awarded by Rarity table takes the numbers from the Magic Items Awarded by Tier table and breaks them down to show the number of items of each rarity the characters are expected to have when they reach the end of a tier.
 
-![[5. Mechanics/Tables/Magic Items Awarded By Rarity Minor.md\|Magic Items Awarded by Rarity - Minor]]
+![[5. Mechanics/Tables/Magic Items Awarded By Rarity Minor (XGE).md\|Magic Items Awarded by Rarity - Minor]]
 
-![[5. Mechanics/Tables/Magic Items Awarded By Rarity Major.md\|Magic Items Awarded by Rarity - Major]]
+![[5. Mechanics/Tables/Magic Items Awarded By Rarity Major (XGE).md\|Magic Items Awarded by Rarity - Major]]
 
 #### Minor and Major Items
 

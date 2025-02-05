@@ -17,7 +17,7 @@ In this chapter, the characters search the Astral Sea for the second rod piece. 
 
 ## Running the Adventure
 
-This chapter begins after the characters retrieve the first piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]]. A character who holds that piece knows instinctively that the next piece is in the part of the Astral Plane called the Astral Sea. As Mordenkainen previously explained, the portal in the Sigil sanctum leads to the general area of the rod piece the characters seek.
+This chapter begins after the characters retrieve the first piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. A character who holds that piece knows instinctively that the next piece is in the part of the Astral Plane called the Astral Sea. As Mordenkainen previously explained, the portal in the Sigil sanctum leads to the general area of the rod piece the characters seek.
 
 ### Features of the Astral Sea
 
@@ -39,7 +39,7 @@ Though many creatures use spelljamming ships or other vessels to traverse the As
 
 ### Character Advancement
 
-The characters should be 12th level when this chapter begins. The characters gain a level after they retrieve the [[5. Mechanics/Items/Rod Of Seven Parts.md\|second piece]] of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] from the hertilod.
+The characters should be 12th level when this chapter begins. The characters gain a level after they retrieve the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|second piece]] of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] from the hertilod.
 
 ### Power of Secrets
 
@@ -50,7 +50,7 @@ The characters can learn two secrets in this chapter that are applicable to the 
 
 ### Second Rod Piece
 
-The second piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] is inside the hertilod in area A2 in the "Heart of Havock" section later in this chapter. For more information about the rod and the spell this piece allows its wielder to cast, see this book's introduction.
+The second piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] is inside the hertilod in area A2 in the "Heart of Havock" section later in this chapter. For more information about the rod and the spell this piece allows its wielder to cast, see this book's introduction.
 
 ## A Doorway to Space
 
@@ -92,13 +92,13 @@ As the characters move toward the mass, something follows them. Read or paraphra
 > Amid the clouds, two large globes of light bob toward you.
 ^143
 
-Characters can make a DC 18 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. On a successful check, a character notices a large, anglerfish-shaped outline following each bobbing light—two hungry [[5. Mechanics/Bestiary/Monstrosity/Star Angler.md\|star anglers]] (see appendix A) are stalking the party. The star anglers attack immediately.
+Characters can make a DC 18 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. On a successful check, a character notices a large, anglerfish-shaped outline following each bobbing light—two hungry [[5. Mechanics/Bestiary/Monstrosity/Star Angler (VEOR).md\|star anglers]] (see appendix A) are stalking the party. The star anglers attack immediately.
 
 Once the star anglers are dispatched, the characters can continue on to the surface of the dying god, where the wreckage of the *Lambent Zenith* lies.
 
 ## Wreck of the Lambent Zenith
 
-With its navy-blue hull and golden gossamer sails, the spelljamming galleon *Lambent Zenith* once cut an elegant silhouette through the Astral Sea's silver clouds. Its captain, the deva Inda Malayuri, was an arcanist and emissary tasked with guiding the lost and bringing peace to tumultuous worlds. During a voyage, Inda uncovered a piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]].
+With its navy-blue hull and golden gossamer sails, the spelljamming galleon *Lambent Zenith* once cut an elegant silhouette through the Astral Sea's silver clouds. Its captain, the deva Inda Malayuri, was an arcanist and emissary tasked with guiding the lost and bringing peace to tumultuous worlds. During a voyage, Inda uncovered a piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]].
 
 Using her extensive arcane knowledge, Inda harnessed the magic within the rod piece to augment the *Lambent Zenith*, allowing the ship to travel to the farthest corners of the multiverse in the blink of an eye.
 
@@ -161,8 +161,8 @@ The areas between the segments contain a multitude of hungry astral predators. T
 
 | dice: d10 | Creature |
 |-----------|----------|
-| 1–2 | Two [[5. Mechanics/Bestiary/Monstrosity/Night Scavver Bam.md\|night scavvers]] (see appendix A) |
-| 3–4 | One [[5. Mechanics/Bestiary/Monstrosity/Star Angler.md\|star angler]] (see appendix A) |
+| 1–2 | Two [[5. Mechanics/Bestiary/Monstrosity/Night Scavver (BAM).md\|night scavvers]] (see appendix A) |
+| 3–4 | One [[5. Mechanics/Bestiary/Monstrosity/Star Angler (VEOR).md\|star angler]] (see appendix A) |
 | 5–6 | One [[5. Mechanics/Bestiary/Aberration/Cloaker.md\|cloaker]] |
 | 7–10 | No encounter |
 ^random-wreck-encounters
@@ -274,7 +274,7 @@ If asked about Figaro, Kycera expresses annoyance at his seclusion; her tone bel
 
 ##### Treasure
 
-Within the pantry are `dice: 2d4|avg|noform` (`2d4`) unopened casks of aged wine, each worth 500 gp. Kycera happily allows the characters to take them, as she's concerned about the crew getting too drunk to fend off threats.
+Within the pantry are `dice:2d4|noform|avg` (`2d4`) unopened casks of aged wine, each worth 500 gp. Kycera happily allows the characters to take them, as she's concerned about the crew getting too drunk to fend off threats.
 
 #### Z4: Mess Hall
 
@@ -355,7 +355,7 @@ The tiefling is Figaro, a lawful good [[5. Mechanics/Bestiary/Humanoid/Mage.md\|
 
 If the characters gained Figaro's trust, he answers questions about the Lambent Zenith. He knows the following:
 
-- **Experiments with the Rod.** The Lambent Zenith harnessed the conjuration magic within a piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] to create portals that allow the ship to quickly traverse the multiverse. The rod piece was stored below the bridge on the ship's prow.  
+- **Experiments with the Rod.** The Lambent Zenith harnessed the conjuration magic within a piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to create portals that allow the ship to quickly traverse the multiverse. The rod piece was stored below the bridge on the ship's prow.  
 - **Emergency Security Protocol.** Knowing that the rod piece shouldn't fall into the wrong hands, the Lambent Zenith's captain installed a security protocol that sealed the rod piece's location in the event of an emergency—such as a crash. As far as Figaro knows, the rod remains in the safe room (area Z19), though that area is inaccessible due to the activated safety protocol.  
 - **Ward Runes.** The security protocol is fueled by two runes in different locations aboard the ship. Both runes must be dispelled to access the room that holds the rod piece. Figaro knows the runes are invisible. He also knows one rune is located in this stateroom, on the bed's headboard, while the other is in the ship's study (area Z13) on the wall above the desk. He suspects casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on a rune would deactivate it, but the caster needs to see the rune. He also suspects the captain knew another way to deactivate it. If she survived on another segment, the characters could try to reach her to ask; if not, it might be recorded it in her notes.  
 
@@ -461,7 +461,7 @@ The lifeboat's interior contains survival necessities. A character who searches 
 
 A character who inspects the bookshelves and succeeds on a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check discovers that one of the books—a volume titled Dissertations on the Abstruse Mind—is a disguised strongbox. The box is locked, but the lock can be picked with a successful DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check using thieves' tools or forced open with a successful DC 11 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. Inda carries the strongbox's key.
 
-The box is trapped. When a creature attempts to open the box by any means other than the key, poisonous gas puffs out the keyhole. The creature must succeed on a DC 20 Constitution saving throw or have the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] condition for 1 hour.
+The box is trapped. When a creature attempts to open the box by any means other than the key, poisonous gas puffs out the keyhole. The creature must succeed on a DC 20 Constitution saving throw or have the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition for 1 hour.
 
 The box contains a [[5. Mechanics/Items/Potion Of Mind Reading.md\|Potion of Mind Reading]] and a journal. The journal belongs to Inda and contains writings in Common and Celestial regarding her experiments with the rod piece. A character who spends 10 minutes reading the journal learns the pass phrase needed to deactivate the ward runes protecting the safe room: "The moon sings a song for the lost."
 
@@ -505,7 +505,7 @@ If the characters have no way to see the invisible ward runes, Inda lends the pa
 
 ##### Treasure
 
-Inda has a [[5. Mechanics/Items/Flame Tongue.md\|Flame Tongue shortsword]] and a [[5. Mechanics/Items/Ring Of Evasion.md\|Ring of Evasion]] on her bedside table next to the [[5. Mechanics/Items/Lantern Of Revealing.md\|Lantern of Revealing]]. If asked, Inda is reluctant to give away the shortsword or ring but can be convinced with a successful DC 22 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check. Inda has a key to the strongbox in area Z13 and knows where the secret compartment holding a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Flame Strike.md\|Flame Strike]] is in area Z17; she mentions these to the characters if they help her with her prosthetic wing in area Z16 or help her reach her crew in the stern segment.
+Inda has a [[5. Mechanics/Items/Flame Tongue.md\|Flame Tongue shortsword]] and a [[5. Mechanics/Items/Ring Of Evasion.md\|Ring of Evasion]] on her bedside table next to the [[5. Mechanics/Items/Lantern Of Revealing.md\|Lantern of Revealing]]. If asked, Inda is reluctant to give away the shortsword or ring but can be convinced with a successful DC 22 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check. Inda has a key to the strongbox in area Z13 and knows where the secret compartment holding a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Flame Strike.md\|Flame Strike]] is in area Z17; she mentions these to the characters if they help her with her prosthetic wing in area Z16 or help her reach her crew in the stern segment.
 
 As an action, a character who can reach the bedside table can try to steal one of the magic items atop it without being seen by Inda, doing so with a successful DC 19 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check. On a failed check, Inda sees the attempt and immediately becomes hostile.
 
@@ -539,7 +539,7 @@ The armchair served as the captain's chair. The broken chair on the ground was t
 
 ##### Treasure
 
-A character who examines the captain's chair and succeeds on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check finds a secret compartment in the right armrest. The compartment holds a bronze tube containing a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Flame Strike.md\|Flame Strike]].
+A character who examines the captain's chair and succeeds on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check finds a secret compartment in the right armrest. The compartment holds a bronze tube containing a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Flame Strike.md\|Flame Strike]].
 
 #### Z18: Forward Cargo Hold
 
@@ -557,7 +557,7 @@ The door to the safe room is sealed by the ship's emergency security wards (see 
 > An overwhelmingly foul stench fills this destroyed and empty room. Where the prow should be is a gaping hole leading into the putrid core of Havock's heart.
 ^18a
 
-The rod piece was consumed by the [[5. Mechanics/Bestiary/Monstrosity/Hertilod.md\|hertilod]] lurking within the heart.
+The rod piece was consumed by the [[5. Mechanics/Bestiary/Monstrosity/Hertilod (VEOR).md\|hertilod]] lurking within the heart.
 
 ##### Heart Entryway
 
@@ -565,13 +565,13 @@ The hole in this area leads into the heart of Havock, as shown on map 3.2 and de
 
 ## Heart of Havock
 
-Though much of Havock is petrified and crumbling, the god's heart still beats. Over time, the heart spawned a parasitic monstrosity known as a hertilod, which feasts on the god's residual divine power and terrorizes hapless astral travelers who stumble on Havock's corpse. When the *Lambent Zenith* crashed into Havock, the god's heart began absorbing pieces of the ship's prow, and the hertilod gorged itself on the spelljamming vessel's detritus—including the piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]].
+Though much of Havock is petrified and crumbling, the god's heart still beats. Over time, the heart spawned a parasitic monstrosity known as a hertilod, which feasts on the god's residual divine power and terrorizes hapless astral travelers who stumble on Havock's corpse. When the *Lambent Zenith* crashed into Havock, the god's heart began absorbing pieces of the ship's prow, and the hertilod gorged itself on the spelljamming vessel's detritus—including the piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]].
 
 ### General Features
 
 The areas of the heart of Havock have the following notable features:
 
-- **Foul Air.** The air throughout the heart is foul. Any creature that breathes the foul air has the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] condition until it breathes fresh air again.  
+- **Foul Air.** The air throughout the heart is foul. Any creature that breathes the foul air has the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition until it breathes fresh air again.  
 - **Lighting.** All areas inside the heart are dimly lit by floating orbs of pinkish bioluminescence.  
 - **Walls, Ceiling, and Floor.** The walls, ceiling, and floor of the heart are made of purple flesh. Parts of this flesh have been petrified, hardening into gray crystal, while other parts remain soft and spongy. The heart beats erratically, sending a dull pulse echoing through its chambers every few minutes. The ceilings in the heart are all 50 feet high.  
 
@@ -605,11 +605,11 @@ The heart absorbed detritus from the wreckage of the Lambent Zenith's safe room 
 > The walls and floor of this massive chamber alternate between gray, petrified stone and flexing muscle and flesh. Clinging to the ceiling is a serpentine monstrosity, like a skinless snake. Its long, draconic snout drips with venom as it slumbers.
 ^193
 
-The creature sleeping on the ceiling is the [[5. Mechanics/Bestiary/Monstrosity/Hertilod.md\|hertilod]] (see appendix A) that swallowed the next rod piece. A character can move through the area without waking the hertilod by succeeding on a DC 18 Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check. Otherwise, the hertilod wakes when it detects a creature within 30 feet of itself and attacks.
+The creature sleeping on the ceiling is the [[5. Mechanics/Bestiary/Monstrosity/Hertilod (VEOR).md\|hertilod]] (see appendix A) that swallowed the next rod piece. A character can move through the area without waking the hertilod by succeeding on a DC 18 Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check. Otherwise, the hertilod wakes when it detects a creature within 30 feet of itself and attacks.
 
 ##### Retrieving the Rod Piece
 
-The rod piece is deep within the hertilod's gullet. If the hertilod is forced to regurgitate creatures in its gullet, roll a `dice: d6|avg|noform` (`d6`). On a roll of 4 or higher, the [[5. Mechanics/Items/Rod Of Seven Parts.md\|rod piece]] is also regurgitated and lands in an unoccupied space within 10 feet of the hertilod. Alternatively, a creature within the hertilod's gullet can use its action to make a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check, finding the rod piece on a successful check. Once the hertilod is dispatched, a character can easily recover the rod piece from the hertilod's gullet. For more about the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]], see this book's introduction.
+The rod piece is deep within the hertilod's gullet. If the hertilod is forced to regurgitate creatures in its gullet, roll a `dice:d6|noform|avg` (`d6`). On a roll of 4 or higher, the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|rod piece]] is also regurgitated and lands in an unoccupied space within 10 feet of the hertilod. Alternatively, a creature within the hertilod's gullet can use its action to make a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check, finding the rod piece on a successful check. Once the hertilod is dispatched, a character can easily recover the rod piece from the hertilod's gullet. For more about the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], see this book's introduction.
 
 ##### Caved-In Artery
 
@@ -624,7 +624,7 @@ A character who uses an action to dig through the cave-in can make a DC 15 Stren
 > The air here is humid. Pooled on the floor is black sludge that shimmers like an oil slick.
 ^197
 
-A character who examines the sludge and succeeds on a DC 13 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check identifies it as Havock's blood. A creature that touches the blood immediately takes `dice:3d6|text(10)` (`3d6`) force damage. For each minute a creature spends in contact with the blood, the creature takes this damage again.
+A character who examines the sludge and succeeds on a DC 13 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check identifies it as Havock's blood. A creature that touches the blood immediately takes `dice:3d6|noform|avg|text(10)` (`3d6`) force damage. For each minute a creature spends in contact with the blood, the creature takes this damage again.
 
 ##### Caved-In Artery
 
@@ -632,4 +632,4 @@ A 10-foot-wide petrified artery leads from this chamber. The artery has caved in
 
 ## Next Steps
 
-Once the characters have successfully retrieved the second piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] from the hertilod, they can return to the portal to Sigil that floats above Havock. After the rod piece is removed from Havock's vicinity, teleportation magic within the wreck segments functions normally.
+Once the characters have successfully retrieved the second piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] from the hertilod, they can return to the portal to Sigil that floats above Havock. After the rod piece is removed from Havock's vicinity, teleportation magic within the wreck segments functions normally.

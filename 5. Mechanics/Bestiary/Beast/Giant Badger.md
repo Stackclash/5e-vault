@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: forest
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/forest
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Giant Badger
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Badger.md|Giant Badger]]
-*Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Giant Badger.md|Giant Badger]]
+*Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Giant Badger"
@@ -48,9 +51,6 @@ aliases:
   "name": "Claws"
 "source":
 - "MM"
-- "WDMM"
-- "JttRC"
-- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Beast/token/giant-badger.webp"
 ```
 ^statblock

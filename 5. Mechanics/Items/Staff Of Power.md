@@ -4,17 +4,16 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/dmg
   - item/attunement/required
-  - item/property/versatile
   - item/rarity/very-rare
   - item/tier/major
-  - item/wondrous/staff
+  - item/weapon/simple
 aliases:
   - Staff of Power
 one-hand-damage: 1d6 B
 two-hand-damage: 1d8 B
 ---
 # Staff of Power
-*Staff, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  
+*Staff, weapon, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  
 ![[5. Mechanics/Items/img/staff-of-power.webp#right]]  
 
 - **Damage**:
@@ -25,11 +24,11 @@ two-hand-damage: 1d8 B
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
 
-The staff has 20 charges for the following properties. The staff regains `dice: 2d8 + 4|avg|noform` (`2d8 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20|avg|noform` (`d20`). On a 1, the staff retains its +2 bonus to attack and damage roll but loses all other properties. On a 20, the staff regain `dice: 1d8 + 2|avg|noform` (`1d8 + 2`) charges.
+The staff has 20 charges for the following properties. The staff regains `dice:2d8+4|noform|avg` (`2d8 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the staff retains its +2 bonus to attack and damage roll but loses all other properties. On a 20, the staff regain `dice:1d8+2|noform|avg` (`1d8 + 2`) charges.
 
 ## Power Strike
 
-When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra `dice: 1d6|avg|noform` (`1d6`) force damage to the target.
+When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra `dice:1d6|noform|avg` (`1d6`) force damage to the target.
 
 ## Spells
 
@@ -39,7 +38,7 @@ While holding this staff, you can use an action to expend 1 or more of its charg
 
 You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-foot-radius sphere centered on it.
 
-You have a 50% chance chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
+You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
 
 | Distance from Origin | Effect |
 |----------------------|--------|
@@ -48,4 +47,4 @@ You have a 50% chance chance to instantly travel to a random plane of existence,
 | 21 to 30 ft. away | 4 × the number of charges in the staff |
 ^distance-from-origin-effect
 
-*Source: Dungeon Master's Guide p. 202. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 202. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

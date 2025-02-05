@@ -1,21 +1,24 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: null
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/size/small
   - monster/type/construct
-statblock: inline
 aliases:
   - Flying Sword
 ---
-# [[5. Mechanics/Bestiary/Construct/Flying Sword.md|Flying Sword]]
-*Source: Monster Manual p. 20, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Construct\Flying Sword.md|Flying Sword]]
+*Source: Monster Manual p. 20, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A flying sword dances through the air, fighting with the confidence of a warrior that can't be injured. Swords are the most common weapons animated with magic. Axes, clubs, daggers, maces, spears, and even self-loading crossbows are also known to exist in animated object form.
 
-> [!quote]- A quote from Levity Quickstitch, halfling rogue  
+> [!quote] A quote from Levity Quickstitch, halfling rogue  
 > 
 > Lyin' next to the chest were the bones of Cap'n Scornblade himself, still clutchin' his rusty sword. Imagine my surprise when the blade flew from his bony grasp! Still go the scar.
 
@@ -47,19 +50,19 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "saves":
   "Dexterity": !!int "4"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 7"
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The sword is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+- "desc": "The sword is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
     \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
     \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the sword\
     \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1\
+    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]] for 1\
     \ minute."
   "name": "Antimagic Susceptibility"
 - "desc": "While the sword remains motionless and isn't flying, it is indistinguishable\
@@ -72,21 +75,7 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "source":
 - "MM"
 - "CoS"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "EGW"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "KftGV"
-- "BMT"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Construct/token/flying-sword.webp"
 ```

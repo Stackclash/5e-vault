@@ -3,13 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/phb
-  - item/wealth/coinage
+  - item/gear/treasure-coinage
+  - item/rarity/none
 aliases:
   - Copper (cp)
 cost: 1
 ---
 # Copper (cp)
-*Coinage*  
+*Treasure (coinage)*  
 ![[5. Mechanics/Items/img/copper-cp.webp#right]]  
 
 - **Cost**: 1 cp

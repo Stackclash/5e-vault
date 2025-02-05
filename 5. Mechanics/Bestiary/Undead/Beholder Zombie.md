@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
   - monster/environment/underdark
   - monster/size/large
   - monster/type/undead
-statblock: inline
 aliases:
   - Beholder Zombie
 ---
-# [[5. Mechanics/Bestiary/Undead/Beholder Zombie.md|Beholder Zombie]]
+# [[5. Mechanics\Bestiary\Undead\Beholder Zombie.md|Beholder Zombie]]
 *Source: Monster Manual p. 316, Vecna: Eve of Ruin*
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
@@ -38,7 +41,7 @@ A zombie can follow simple orders and distinguish friends from foes, but its abi
 
 A zombie doesn't require air, food, drink, or sleep.
 
-> [!quote]- A quote from Fonkin Hoodypeak  
+> [!quote] A quote from Fonkin Hoodypeak  
 > 
 > After Beek died, we cast an [[5. Mechanics/Spells/Animate Dead.md|animate dead]] spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
 
@@ -63,7 +66,7 @@ A zombie doesn't require air, food, drink, or sleep.
 "saves":
   "Wisdom": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Deep Speech and Undercommon but can't speak"
 "cr": "5"
@@ -78,10 +81,10 @@ A zombie doesn't require air, food, drink, or sleep.
   "name": "Bite"
 - "desc": "The zombie uses a random magical eye ray, choosing a target that it can\
     \ see within 60 feet of it.\n\n- 1. Paralyzing Ray. The targeted creature\
-    \ must succeed on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ must succeed on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  \n- 2. Fear Ray. The targeted\
-    \ creature must succeed on a DC 14 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ creature must succeed on a DC 14 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  \n- 3. Enervation Ray.\
     \ The targeted creature must make a DC 14 Constitution saving throw, taking 36\
@@ -96,9 +99,6 @@ A zombie doesn't require air, food, drink, or sleep.
   "name": "Eye Ray"
 "source":
 - "MM"
-- "WDH"
-- "WDMM"
-- "ToFW"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/beholder-zombie.webp"
 ```

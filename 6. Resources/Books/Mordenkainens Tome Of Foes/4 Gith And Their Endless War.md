@@ -27,7 +27,7 @@ Vlaakith commands the loyalty of the githyanki from her personal stronghold, Sus
 
 ### The Revered Queen
 
-> [!quote]- A quote from Meldavh, githyanki knight  
+> [!quote] A quote from Meldavh, githyanki knight  
 > 
 > To slay in her name is our greatest service. To die in her name is our last act of reverence.
 
@@ -57,7 +57,7 @@ All attempts to learn about Gith through divine magic return utter silence. Thos
 
 ### Born to Serve
 
-> [!quote]- A quote from Adaka Fell Hand, githzerai monk  
+> [!quote] A quote from Adaka Fell Hand, githzerai monk  
 > 
 > Under the illithids, we and the githyanki fought and died across a thousand worlds for implacable masters. Under Vlaakith, our kin fight and die across a thousand words for an implacable master. And they call that liberation?
 
@@ -111,7 +111,7 @@ Vlaakith, of course, stands atop the githyanki military hierarchy. Under her ser
 
 ### Knights: A Breed Apart
 
-> [!quote]- A quote from Battle hymn of the githyanki knights  
+> [!quote] A quote from Battle hymn of the githyanki knights  
 > 
 > I am her will made manifest.
 > 
@@ -144,7 +144,7 @@ Knights and their silver swords are inseparable, and a knight will fight to the 
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315596_cn.webp#center]]
 
-- [[5. Mechanics/Items/Greater Silver Sword.md\|Greater Silver Sword]]  
+- [[5. Mechanics/Items/Greater Silver Sword (MTF).md\|Greater Silver Sword]]  
 
 #### Dragon Steeds
 
@@ -158,7 +158,7 @@ The dragons that are bound to serve githyanki consider their assignment an irrit
 
 ### Terror from the Sky
 
-> [!quote]- A quote from Lord Kedrek Thoroden, Marshal of the Eastern Reach  
+> [!quote] A quote from Lord Kedrek Thoroden, Marshal of the Eastern Reach  
 > 
 > We praised Pelor when we realized the shapes above us were not dragons. We cursed him when we saw they were the airships of the githyanki.
 
@@ -199,7 +199,7 @@ The largest of the githyanki ships, the planar raider serves as a mobile headqua
 
 ### Tu'narath
 
-> [!quote]- A quote from Gimble, gnome bard  
+> [!quote] A quote from Gimble, gnome bard  
 > 
 > They call it the City of Death. I would mock such a tired excuse for a name, but if it fits, who am I to argue?
 
@@ -291,7 +291,7 @@ Today, under the leadership of the Great Githzerai, Zaerith Menyar-Ag-Gith, the 
 
 ### Order in a Sea of Chaos
 
-> [!quote]- A quote from The Teachings of Menyar-Ag  
+> [!quote] A quote from The Teachings of Menyar-Ag  
 > 
 > We githzerai crave a challenge, so that when Zerthimon returns he shall find us ready. Thus we traveled to howling Limbo to make our new home.
 
@@ -341,7 +341,7 @@ Beyond the entrance to the city wait six layers of nested defenses. Each one is 
 
 ### Githzerai in the World
 
-> [!quote]- A quote from The Teachings of Menyar-Ag  
+> [!quote] A quote from The Teachings of Menyar-Ag  
 > 
 > Zerthimon does not expect us to wait in patience for his return. Instead, we must pave the way for his efforts, so that we can hasten the coming of our golden age.
 
@@ -394,12 +394,12 @@ As their means of vengeance against the mind flayers, the githzerai send bands o
 
 At the DM's option, you can create a gith character, using the following traits.
 
-- [[5. Mechanics/Races/Githyanki.md\|Gith (Githyanki)]]  
-- [[5. Mechanics/Races/Githzerai.md\|Gith (Githzerai)]]  
+- [[5. Mechanics/Races/Githyanki (MPMM).md\|Gith (Githyanki)]]  
+- [[5. Mechanics/Races/Githzerai (MPMM).md\|Gith (Githzerai)]]  
 
 ### Gith Random Height and Weight
 
-![[5. Mechanics/Tables/Gith Random Height And Weight.md\|Gith Random Height and Weight]]
+![[5. Mechanics/Tables/Gith Random Height And Weight (MTF).md\|Gith Random Height and Weight]]
 
 **Height** = Base Height + Height Modifier (in inches) **Weight** = Base Weight + Height Modifier (in pounds) × Weight Modifier
 
@@ -407,31 +407,31 @@ At the DM's option, you can create a gith character, using the following traits.
 
 This section provides tables for players and DMs who want to create githzerai and githyanki characters. **Githyanki**
 
-![[5. Mechanics/Tables/Gith Tables Githyanki Names Male.md\|Gith Tables; Githyanki Names, Male]]
+![[5. Mechanics/Tables/Gith Tables Githyanki Names Male (MTF).md\|Gith Tables; Githyanki Names, Male]]
 
-![[5. Mechanics/Tables/Gith Tables Githyanki Names Female.md\|Gith Tables; Githyanki Names, Female]]
+![[5. Mechanics/Tables/Gith Tables Githyanki Names Female (MTF).md\|Gith Tables; Githyanki Names, Female]]
 
-![[5. Mechanics/Tables/Gith Tables Githyanki Personality Traits.md\|Gith Tables; Githyanki Personality Traits]]
+![[5. Mechanics/Tables/Gith Tables Githyanki Personality Traits (MTF).md\|Gith Tables; Githyanki Personality Traits]]
 
-![[5. Mechanics/Tables/Gith Tables Githyanki Ideals.md\|Gith Tables; Githyanki Ideals]]
+![[5. Mechanics/Tables/Gith Tables Githyanki Ideals (MTF).md\|Gith Tables; Githyanki Ideals]]
 
-![[5. Mechanics/Tables/Gith Tables Githyanki Bonds.md\|Gith Tables; Githyanki Bonds]]
+![[5. Mechanics/Tables/Gith Tables Githyanki Bonds (MTF).md\|Gith Tables; Githyanki Bonds]]
 
-![[5. Mechanics/Tables/Gith Tables Githyanki Flaws.md\|Gith Tables; Githyanki Flaws]]
+![[5. Mechanics/Tables/Gith Tables Githyanki Flaws (MTF).md\|Gith Tables; Githyanki Flaws]]
 
 **Githzerai**
 
-![[5. Mechanics/Tables/Gith Tables Githzerai Names Male.md\|Gith Tables; Githzerai Names, Male]]
+![[5. Mechanics/Tables/Gith Tables Githzerai Names Male (MTF).md\|Gith Tables; Githzerai Names, Male]]
 
-![[5. Mechanics/Tables/Gith Tables Githzerai Names Female.md\|Gith Tables; Githzerai Names, Female]]
+![[5. Mechanics/Tables/Gith Tables Githzerai Names Female (MTF).md\|Gith Tables; Githzerai Names, Female]]
 
-![[5. Mechanics/Tables/Gith Tables Githzerai Personality Traits.md\|Gith Tables; Githzerai Personality Traits]]
+![[5. Mechanics/Tables/Gith Tables Githzerai Personality Traits (MTF).md\|Gith Tables; Githzerai Personality Traits]]
 
-![[5. Mechanics/Tables/Gith Tables Githzerai Ideals.md\|Gith Tables; Githzerai Ideals]]
+![[5. Mechanics/Tables/Gith Tables Githzerai Ideals (MTF).md\|Gith Tables; Githzerai Ideals]]
 
-![[5. Mechanics/Tables/Gith Tables Githzerai Bonds.md\|Gith Tables; Githzerai Bonds]]
+![[5. Mechanics/Tables/Gith Tables Githzerai Bonds (MTF).md\|Gith Tables; Githzerai Bonds]]
 
-![[5. Mechanics/Tables/Gith Tables Githzerai Flaws.md\|Gith Tables; Githzerai Flaws]]
+![[5. Mechanics/Tables/Gith Tables Githzerai Flaws (MTF).md\|Gith Tables; Githzerai Flaws]]
 
 ### Githyanki Raiding Parties
 
@@ -439,15 +439,15 @@ Use the following tables to generate a band of githyanki raiders and some additi
 
 In the tables, a name in bold refers to a stat block in the *Monster Manual.*
 
-![[5. Mechanics/Tables/Githyanki Raiding Parties Dragon Chance.md\|Githyanki Raiding Parties; Dragon Chance]]
+![[5. Mechanics/Tables/Githyanki Raiding Parties Dragon Chance (MTF).md\|Githyanki Raiding Parties; Dragon Chance]]
 
-![[5. Mechanics/Tables/Githyanki Raiding Parties Raiding Party Leader.md\|Githyanki Raiding Parties; Raiding Party Leader]]
+![[5. Mechanics/Tables/Githyanki Raiding Parties Raiding Party Leader (MTF).md\|Githyanki Raiding Parties; Raiding Party Leader]]
 
-![[5. Mechanics/Tables/Githyanki Raiding Parties Githyanki Special Allies.md\|Githyanki Raiding Parties; Githyanki Special Allies]]
+![[5. Mechanics/Tables/Githyanki Raiding Parties Githyanki Special Allies (MTF).md\|Githyanki Raiding Parties; Githyanki Special Allies]]
 
-![[5. Mechanics/Tables/Githyanki Raiding Parties Raiding Party Transport.md\|Githyanki Raiding Parties; Raiding Party Transport]]
+![[5. Mechanics/Tables/Githyanki Raiding Parties Raiding Party Transport (MTF).md\|Githyanki Raiding Parties; Raiding Party Transport]]
 
-![[5. Mechanics/Tables/Githyanki Raiding Parties Githyanki Purpose Of Raid.md\|Githyanki Raiding Parties; Githyanki Purpose of Raid]]
+![[5. Mechanics/Tables/Githyanki Raiding Parties Githyanki Purpose Of Raid (MTF).md\|Githyanki Raiding Parties; Githyanki Purpose of Raid]]
 
 ### Githzerai Groups
 
@@ -455,8 +455,8 @@ Use the following tables to generate a band of githzerai and determine their rea
 
 In the tables, a name in bold refers to a stat block in the *Monster Manual.*
 
-![[5. Mechanics/Tables/Githzerai Groups Githzerai Group Leader.md\|Githzerai Groups; Githzerai Group Leader]]
+![[5. Mechanics/Tables/Githzerai Groups Githzerai Group Leader (MTF).md\|Githzerai Groups; Githzerai Group Leader]]
 
-![[5. Mechanics/Tables/Githzerai Groups Githzerai Special Allies.md\|Githzerai Groups; Githzerai Special Allies]]
+![[5. Mechanics/Tables/Githzerai Groups Githzerai Special Allies (MTF).md\|Githzerai Groups; Githzerai Special Allies]]
 
-![[5. Mechanics/Tables/Githzerai Groups Githzerai Mission Purpose.md\|Githzerai Groups; Githzerai Mission Purpose]]
+![[5. Mechanics/Tables/Githzerai Groups Githzerai Mission Purpose (MTF).md\|Githzerai Groups; Githzerai Mission Purpose]]

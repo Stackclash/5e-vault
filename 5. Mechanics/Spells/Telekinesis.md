@@ -3,13 +3,20 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/fighter/psi-warrior
+  - spell/class/bard
   - spell/class/sorcerer
-  - spell/class/sorcerer/aberrant-mind
-  - spell/class/warlock/the-great-old-one
   - spell/class/wizard
-  - spell/level/5
+  - spell/level/5th-level
   - spell/school/transmutation
+  - spell/subclass/aberrant-mind
+  - spell/subclass/psi-warrior
+  - spell/subclass/the-great-old-one
+level: 5th-level
+range: false
+school: Transmutation
+time: 1 action
+duration: 'Concentration, up to 10 minute'
+components: 'V, S'
 aliases:
   - Telekinesis
 ---
@@ -25,7 +32,7 @@ You gain the ability to move or manipulate creatures or objects by thought. When
 
 ## Creature
 
-You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature's Strength check. If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] in your telekinetic grip. A creature lifted upward is suspended in mid-air.
+You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature's Strength check. If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] in your telekinetic grip. A creature lifted upward is suspended in mid-air.
 
 On subsequent rounds, you can use your action to attempt to maintain your telekinetic grip on the creature by repeating the contest.
 
@@ -39,6 +46,6 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Fighter Psi Warrior.md\|Fighter (Psi Warrior)]], [[5. Mechanics/Classes/Sorcerer Aberrant Mind.md\|Sorcerer (Aberrant Mind)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Aberrant Mind (TCE)\|Sorcerer (Aberrant Mind)]]; [[List Spells Classes Fighter Psi Warrior (TCE)\|Fighter (Psi Warrior)]]; [[List Spells Classes Warlock The Great Old One\|Warlock (The Great Old One)]]
 
-*Source: Player's Handbook p. 280. Available in the SRD.*
+*Source: Player's Handbook p. 280. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

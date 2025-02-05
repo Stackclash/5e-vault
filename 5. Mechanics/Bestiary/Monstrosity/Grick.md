@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'underdark, forest'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -8,12 +12,11 @@ tags:
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Grick
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Grick.md|Grick]]
-*Source: Monster Manual p. 173, Curse of Strahd. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Monstrosity\Grick.md|Grick]]
+*Source: Monster Manual p. 173, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
 
@@ -67,14 +70,6 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 "source":
 - "MM"
 - "CoS"
-- "LMoP"
-- "PotA"
-- "TftYP"
-- "WDMM"
-- "CM"
-- "DSotDQ"
-- "KftGV"
-- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/grick.webp"
 ```
 ^statblock

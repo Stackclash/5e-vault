@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'underdark, mountain, grassland, forest, swamp, hill, arctic'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -13,11 +17,10 @@ tags:
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/humanoid/orc
-statblock: inline
 aliases:
   - Orc Eye of Gruumsh
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Orc Eye Of Gruumsh.md|Orc Eye of Gruumsh]]
+# [[5. Mechanics\Bestiary\Humanoid\Orc Eye Of Gruumsh.md|Orc Eye of Gruumsh]]
 *Source: Monster Manual p. 247*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -102,11 +105,6 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
   "name": "Spear"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "EGW"
-- "IDRotF"
 "image": "5. Mechanics/Bestiary/Humanoid/token/orc-eye-of-gruumsh.webp"
 ```
 ^statblock

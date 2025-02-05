@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 7
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/7
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/humanoid/elf
-statblock: inline
 aliases:
   - Drow Mage
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Mage.md|Drow Mage]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Mage.md|Drow Mage]]
 *Source: Monster Manual p. 129, Vecna: Eve of Ruin*
 
 ## Drow
@@ -52,7 +55,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 ### Poison Predilection
 
-Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
+Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!note] Variant: Drow Magic Armor and Weapons
 > 
@@ -63,7 +66,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 > - A drow priestess of Lolth wearing +3 scale mail has AC 19.  
 ^variant-drow-magic-armor-and-weapons
 
-> [!quote]- A quote from Nelar Autumnwell, elf cleric of Corellon Larethian  
+> [!quote] A quote from Nelar Autumnwell, elf cleric of Corellon Larethian  
 > 
 > Such depravity. Such terrifying cruelty. They are the vile poison that plagues all elvenkind.
 
@@ -115,7 +118,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]\n\n5th level\
     \ (2 slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]]"
   "name": "Spellcasting"
-- "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"
 - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
@@ -129,24 +132,13 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
   "name": "Staff"
 - "desc": "The drow magically summons a [[5. Mechanics/Bestiary/Fiend/Quasit.md|quasit]],\
     \ or attempts to summon a [[5. Mechanics/Bestiary/Fiend/Shadow Demon.md|shadow demon]]\
-    \ with a 50% chance chance of success. The summoned demon appears in an unoccupied\
+    \ with a 50 percent chance of success. The summoned demon appears in an unoccupied\
     \ space within 60 feet of its summoner, acts as an ally of its summoner, and can't\
     \ summon other demons. It remains for 10 minutes, until it or its summoner dies,\
     \ or until its summoner dismisses it as an action."
   "name": "Summon Demon (1/Day)"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "DC"
-- "DIP"
-- "IDRotF"
-- "CM"
-- "WBtW"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/drow-mage.webp"
 ```

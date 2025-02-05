@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
   - monster/size/medium
   - monster/type/construct
-statblock: inline
 aliases:
   - Helmed Horror
 ---
-# [[5. Mechanics/Bestiary/Construct/Helmed Horror.md|Helmed Horror]]
+# [[5. Mechanics\Bestiary\Construct\Helmed Horror.md|Helmed Horror]]
 *Source: Monster Manual p. 183, Vecna: Eve of Ruin*
 
 This construct possesses intelligence, the ability to reason and adjust its tactics, and an unswerving devotion to its maker that persists even after its maker's demise. Resembling an animated suit of empty plate armor, a helmed horror serves without ambition or emotion.
@@ -49,10 +52,10 @@ A helmed horror doesn't require air, food, drink, or sleep.
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't adamantine"
 "damage_immunities": "force, necrotic, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 14"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "4"
@@ -61,7 +64,7 @@ A helmed horror doesn't require air, food, drink, or sleep.
     \ magical effects."
   "name": "Magic Resistance"
 - "desc": "The helmed horror is immune to three spells chosen by its creator. Typical\
-    \ immunities include [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Heat Metal.md|heat metal]],\
+    \ immunities include [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Heat Met(AL).md|heat metal]],\
     \ and [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]."
   "name": "Spell Immunity"
 "actions":
@@ -72,19 +75,6 @@ A helmed horror doesn't require air, food, drink, or sleep.
   "name": "Longsword"
 "source":
 - "MM"
-- "HotDQ"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "BGDIA"
-- "IDRotF"
-- "JttRC"
-- "KftGV"
-- "PaBTSO"
-- "BMT"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Construct/token/helmed-horror.webp"
 ```

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 10
+environments: 'grassland, forest'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/10
@@ -8,12 +12,11 @@ tags:
   - monster/environment/grassland
   - monster/size/large
   - monster/type/dragon
-statblock: inline
 aliases:
   - Young Gold Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young Gold Dragon.md|Young Gold Dragon]]
-*Source: Monster Manual p. 115. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Young Gold Dragon.md|Young Gold Dragon]]
+*Source: Monster Manual p. 115. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 

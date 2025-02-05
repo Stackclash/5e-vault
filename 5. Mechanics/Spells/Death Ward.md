@@ -3,16 +3,25 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/artificer/alchemist
+  - spell/class/bard
   - spell/class/cleric
-  - spell/class/cleric/death-domain
-  - spell/class/cleric/grave-domain
-  - spell/class/cleric/life-domain
   - spell/class/paladin
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-undead
-  - spell/level/4
+  - spell/level/4th-level
   - spell/school/abjuration
+  - spell/subclass/alchemist
+  - spell/subclass/death-domain-dmg
+  - spell/subclass/divine-soul
+  - spell/subclass/grave-domain
+  - spell/subclass/life-domain
+  - spell/subclass/oath-of-legacy
+  - spell/subclass/oath-of-the-watchtower
+  - spell/subclass/the-undead
+level: 4th-level
+range: false
+school: Abjuration
+time: 1 action
+duration: 8 hour
+components: 'V, S'
 aliases:
   - Death Ward
 ---
@@ -30,6 +39,6 @@ The first time the target would drop to 0 hit points as a result of taking damag
 
 If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.
 
-**Classes**: [[5. Mechanics/Classes/Artificer Alchemist.md\|Artificer (Alchemist)]], [[5. Mechanics/Classes/Cleric Death Domain.md\|Cleric (Death Domain)]], [[5. Mechanics/Classes/Cleric Grave Domain.md\|Cleric (Grave Domain)]], [[5. Mechanics/Classes/Cleric Life Domain.md\|Cleric (Life Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Undead.md\|Warlock (The Undead)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Artificer Alchemist (TCE)\|Artificer (Alchemist)]]; [[List Spells Classes Cleric Death Domain (DMG)\|Cleric (Death Domain (DMG))]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Cleric Grave Domain (XGE)\|Cleric (Grave Domain)]]; [[List Spells Classes Cleric Life Domain\|Cleric (Life Domain)]]; [[List Spells Classes Paladin Oath Of Legacy (HHHVIII)\|Paladin (Oath of Legacy)]]; [[List Spells Classes Paladin Oath Of The Watchtower (GRIFFONSSADDLEBAG3)\|Paladin (Oath of the Watchtower)]]; [[List Spells Classes Warlock The Undead (VRGR)\|Warlock (The Undead)]]
 
-*Source: Player's Handbook p. 230. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

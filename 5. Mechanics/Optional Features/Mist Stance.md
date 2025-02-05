@@ -10,6 +10,6 @@ aliases:
 # Mist Stance
 *Source: Player's Handbook p. 81*  
 
-***Prerequisites*** 11th-level
+***Prerequisites*** 11th
 
 You can spend 4 ki points to cast [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]], targeting yourself.

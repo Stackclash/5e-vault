@@ -1,24 +1,27 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 6
+environments: desert
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/6
   - monster/environment/desert
   - monster/size/medium
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Medusa
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Medusa.md|Medusa]]
-*Source: Monster Manual p. 214, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Monstrosity\Medusa.md|Medusa]]
+*Source: Monster Manual p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 As deadly as they are ravishing, the serpent-haired medusas suffer an immortal curse brought on by their vanity. They lurk in quiet exile among the tumbled ruins of their former lives, surrounded by the petrified remains of past admirers and would-be heroes.
 
 ## Immortal Splendor
 
-Men and women who desire eternal youth, beauty, and adoration might pray to malicious gods, beg dragons for ancient magic, or seek out powerful archmages to fulfill their wishes. Others make sacrifices to demon lords or archdevils, offering all in exchange for this gift, oblivious to the curse that accompanies it. Those who strike such bargains gain physical beauty, restored youth, immortality, and the adoration of all who behold them, granting them the influence and power they so desire. However, after years of the living like a demigod among mortals, the price for their vanity and hubris is exacted, and they are forever transformed into medusas. A medusa's hair turns into a nest of venomous serpents, and all who gaze upon the medusa are [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], becoming stone monuments to its corruption.
+Men and women who desire eternal youth, beauty, and adoration might pray to malicious gods, beg dragons for ancient magic, or seek out powerful archmages to fulfill their wishes. Others make sacrifices to demon lords or archdevils, offering all in exchange for this gift, oblivious to the curse that accompanies it. Those who strike such bargains gain physical beauty, restored youth, immortality, and the adoration of all who behold them, granting them the influence and power they so desire. However, after years of the living like a demigod among mortals, the price for their vanity and hubris is exacted, and they are forever transformed into medusas. A medusa's hair turns into a nest of venomous serpents, and all who gaze upon the medusa are [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], becoming stone monuments to its corruption.
 
 ## Medusa Lairs
 
@@ -54,21 +57,21 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
 "traits":
 - "desc": "When a creature that can see the medusa's eyes starts its turn within 30\
     \ feet of the medusa, the medusa can force it to make a DC 14 Constitution saving\
-    \ throw if the medusa isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ throw if the medusa isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
     \ and can see the creature. If the saving throw fails by 5 or more, the creature\
-    \ is instantly [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]. Otherwise,\
-    \ a creature that fails the save begins to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
-    \ The [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] creature must repeat\
-    \ the saving throw at the end of its next turn, becoming [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
+    \ is instantly [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]. Otherwise,\
+    \ a creature that fails the save begins to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
+    \ The [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] creature must repeat\
+    \ the saving throw at the end of its next turn, becoming [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]\
     \ on a failure or ending the effect on a success. The petrification lasts until\
     \ the creature is freed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-    \ spell or other magic.\n\nUnless surprised, a creature can avert its eyes to\
-    \ avoid the saving throw at the start of its turn. If the creature does so, it\
-    \ can't see the medusa until the start of its next turn, when it can avert its\
-    \ eyes again. If the creature looks at the medusa in the meantime, it must immediately\
-    \ make the save.\n\nIf the medusa sees itself reflected on a polished surface\
-    \ within 30 feet of it and in an area of bright light, the medusa is, due to its\
-    \ curse, affected by its own gaze."
+    \ spell or other magic.\n\nUnless [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]],\
+    \ a creature can avert its eyes to avoid the saving throw at the start of its\
+    \ turn. If the creature does so, it can't see the medusa until the start of its\
+    \ next turn, when it can avert its eyes again. If the creature looks at the medusa\
+    \ in the meantime, it must immediately make the save.\n\nIf the medusa sees itself\
+    \ reflected on a polished surface within 30 feet of it and in an area of bright\
+    \ light, the medusa is, due to its curse, affected by its own gaze."
   "name": "Petrifying Gaze"
 "actions":
 - "desc": "The medusa makes either three melee attacks—one with its snake hair and\
@@ -85,12 +88,6 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
   "name": "Longbow"
 "source":
 - "MM"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "ERLW"
-- "IMR"
-- "CM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/medusa.webp"
 ```
 ^statblock

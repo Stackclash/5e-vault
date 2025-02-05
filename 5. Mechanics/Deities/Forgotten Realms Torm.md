@@ -9,7 +9,7 @@ aliases:
   - Torm
 ---
 # Torm
-*Source: Player's Handbook p. 294. Available in the Basic Rules.* 
+*Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 
 
 - **Alignment**: Lawful Good
 - **Domains**: War

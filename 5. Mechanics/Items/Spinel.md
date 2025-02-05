@@ -3,13 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/dmg
-  - item/wealth/gemstone
+  - item/gear/treasure-gemstone
+  - item/rarity/none
 aliases:
   - Spinel
 cost: 10000
 ---
 # Spinel
-*Gemstone*  
+*Treasure (gemstone)*  
 
 - **Cost**: 100 gp
 

@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
   - monster/size/medium
   - monster/type/humanoid/human
-statblock: inline
 aliases:
   - Half-Red Dragon Veteran
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Half Red Dragon Veteran.md|Half-Red Dragon Veteran]]
-*Source: Monster Manual p. 180. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Humanoid\Half Red Dragon Veteran.md|Half-Red Dragon Veteran]]
+*Source: Monster Manual p. 180. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 When a dragon in polymorphed form mates with another creature, the union sometimes produces half dragon offspring. A creature might also transform into a half-dragon as a result of a mad wizard's spell or a ritual bath in dragon's blood. In all these cases, the result is a creature that combines the essence of a dragon with the form of its original race. Regardless of their origins, all half-dragons have similar features and appearance, gaining special senses, resistance to destructive energy, and a breath weapon.
 
@@ -31,7 +34,7 @@ To avoid recalculating the creature's challenge rating, apply the template only 
 
 ### Senses
 
-The half-dragon gains [[/5. Mechanics/Rules/Senses.md#blindsight|blindsight]] with a radius of 10 feet and [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a radius of 60 feet.
+The half-dragon gains [[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] with a radius of 10 feet and [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] with a radius of 60 feet.
 
 ### Resistances
 
@@ -97,10 +100,6 @@ Here the half-dragon template has been applied to a human [[5. Mechanics/Bestiar
   "name": "Fire Breath (Recharge 5-6)"
 "source":
 - "MM"
-- "RoT"
-- "GoS"
-- "SLW"
-- "IMR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/half-red-dragon-veteran.webp"
 ```
 ^statblock

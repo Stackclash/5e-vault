@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: 'grassland, forest, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
@@ -10,12 +14,11 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-statblock: inline
 aliases:
   - Weretiger
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Weretiger.md|Weretiger]]
-*Source: Monster Manual p. 210. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Humanoid\Weretiger.md|Weretiger]]
+*Source: Monster Manual p. 210. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Weretigers are ferocious hunters and warriors with a haughty and fastidious nature. Lithe and sleekly muscular in humanoid form, they are taller than average and meticulously groomed. Weretigers grow to enormous size in animal and hybrid form, but they fight in their more refined humanoid form when they can.
 
@@ -45,7 +48,7 @@ Some individuals see little point in fighting the curse and accept what they are
 > 
 > The following information applies to specific lycanthropes.
 > 
-> **.** **[[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 > 
 > **[[5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]].** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 > 
@@ -92,8 +95,8 @@ Some individuals see little point in fighting the curse and accept what they are
   "name": "Keen Hearing and Smell"
 - "desc": "If the weretiger moves at least 15 feet straight toward a creature and\
     \ then hits it with a claw attack on the same turn, that target must succeed on\
-    \ a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the weretiger\
+    \ a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], the weretiger\
     \ can make one bite attack against it as a bonus action."
   "name": "Pounce (Tiger or Hybrid Form Only)"
 "actions":
@@ -115,10 +118,6 @@ Some individuals see little point in fighting the curse and accept what they are
   "name": "Longbow (Humanoid or Hybrid Form Only)"
 "source":
 - "MM"
-- "ToA"
-- "EGW"
-- "JttRC"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/weretiger.webp"
 ```
 ^statblock

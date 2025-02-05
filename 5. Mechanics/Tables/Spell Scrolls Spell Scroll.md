@@ -7,7 +7,7 @@ aliases:
   - Spell Scrolls; Spell Scroll
 ---
 # Spell Scrolls; Spell Scroll
-*Source: Dungeon Master's Guide p. 139. Available in the SRD.* 
+*Source: Dungeon Master's Guide p. 139. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 
 **Spell Scroll**
 

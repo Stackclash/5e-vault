@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/8
+environments: urban
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-8
   - monster/environment/urban
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Pony
 ---
-# [[5. Mechanics/Bestiary/Beast/Pony.md|Pony]]
-*Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Pony.md|Pony]]
+*Source: Monster Manual p. 335. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Pony"
@@ -39,9 +42,6 @@ aliases:
   "name": "Hooves"
 "source":
 - "MM"
-- "SKT"
-- "WBtW"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Beast/token/pony.webp"
 ```
 ^statblock

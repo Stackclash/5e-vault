@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 8
+environments: urban
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/8
   - monster/environment/urban
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Assassin
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Assassin.md|Assassin]]
-*Source: Monster Manual p. 343, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Humanoid\Assassin.md|Assassin]]
+*Source: Monster Manual p. 343, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
 
@@ -49,7 +52,8 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
 "traits":
 - "desc": "During its first turn, the assassin has advantage on attack rolls against\
     \ any creature that hasn't taken a turn. Any hit the assassin scores against a\
-    \ surprised creature is a critical hit."
+    \ [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]] creature is a critical\
+    \ hit."
   "name": "Assassinate"
 - "desc": "If the assassin is subjected to an effect that allows it to make a Dexterity\
     \ saving throw to take only half damage, the assassin instead takes no damage\
@@ -57,7 +61,7 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
   "name": "Evasion"
 - "desc": "The assassin deals an extra 14 (4d6) damage when it hits a target with\
     \ a weapon attack and has advantage on the attack roll, or when the target is\
-    \ within 5 feet of an ally of the assassin that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ within 5 feet of an ally of the assassin that isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
     \ and the assassin doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
 "actions":
@@ -76,28 +80,7 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "IMR"
-- "EGW"
-- "MOT"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "CRCotN"
-- "JttRC"
-- "KftGV"
-- "SatO"
-- "ToFW"
-- "GHLoE"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/assassin.webp"
 ```

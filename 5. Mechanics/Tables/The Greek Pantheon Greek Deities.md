@@ -7,7 +7,7 @@ aliases:
   - The Greek Pantheon; Greek Deities
 ---
 # The Greek Pantheon; Greek Deities
-*Source: Player's Handbook p. 297. Available in the SRD.* 
+*Source: Player's Handbook p. 297. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 
 **Greek Deities**
 

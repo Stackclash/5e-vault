@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 21
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/21
   - monster/size/medium
   - monster/type/undead
-statblock: inline
 aliases:
   - Lich
 ---
-# [[5. Mechanics/Bestiary/Undead/Lich.md|Lich]]
-*Source: Monster Manual p. 202, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Undead\Lich.md|Lich]]
+*Source: Monster Manual p. 202, Curse of Strahd, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Liches are the remains of great wizards who embrace undeath as a means of preserving themselves. They further their own power at any cost, having no interest in the affairs of the living except where those affairs interfere with their own. Scheming and insane, they hunger for long-forgotten knowledge and the most terrible secrets. Because the shadow of death doesn't hang over them, they can conceive plans that take years, decades, or centuries to come to fruition.
 
@@ -85,9 +88,9 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
   "Arcana": !!int "19"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 19"
 "languages": "Common plus up to five other languages"
 "cr": "21"
@@ -124,7 +127,7 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 "actions":
 - "desc": "Melee Spell Attack: +12 to hit, reach 5 ft., one creature. Hit: 10\
     \ (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw\
-    \ or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute. The\
+    \ or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]] for 1 minute. The\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success."
   "name": "Paralyzing Touch"
@@ -135,8 +138,8 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
   "name": "Paralyzing Touch (Costs 2 Actions)"
 - "desc": "The lich fixes its gaze on one creature it can see within 10 feet of it.\
     \ The target must succeed on a DC 18 Wisdom saving throw against this magic or\
-    \ become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute.\
-    \ The [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] target can repeat\
+    \ become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] for 1 minute.\
+    \ The [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] target can repeat\
     \ the saving throw at the end of each of its turns, ending the effect on itself\
     \ on a success. If a target's saving throw is successful or the effect ends for\
     \ it, the target is immune to the lich's gaze for the next 24 hours."
@@ -167,13 +170,7 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 "source":
 - "MM"
 - "CoS"
-- "GoS"
-- "IDRotF"
 - "TCE"
-- "PSI"
-- "SatO"
-- "ToFW"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Undead/token/lich.webp"
 ```
 ^statblock

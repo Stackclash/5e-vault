@@ -8,7 +8,7 @@ aliases:
   - Acolyte
 ---
 # Acolyte
-*Source: Player's Handbook p. 127. Available in the SRD and the Basic Rules.*  
+*Source: Player's Handbook p. 127. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]  
 - **Languages.** Two of your choice  

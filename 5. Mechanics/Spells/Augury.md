@@ -3,15 +3,27 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/barbarian/path-of-the-ancestral-guardian
+  - spell/class/bard
   - spell/class/cleric
-  - spell/class/cleric/knowledge-domain
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer/divine-soul
-  - spell/level/2
+  - spell/class/druid
+  - spell/class/wizard
+  - spell/level/2nd-level
   - spell/ritual
   - spell/school/divination
+  - spell/subclass/arcane-trickster
+  - spell/subclass/circle-of-the-spirits
+  - spell/subclass/divine-soul
+  - spell/subclass/eldritch-knight
+  - spell/subclass/knowledge-domain
+  - spell/subclass/oath-of-the-annihilator
+  - spell/subclass/path-of-the-ancestral-guardian
+  - spell/subclass/the-sibyl
+level: 2nd-level
+range: true
+school: Divination
+time: 1 minute
+duration: Instantaneous
+components: 'V, S, specially marked sticks, bones, or similar tokens worth at least 25 gp'
 aliases:
   - Augury
 ---
@@ -32,8 +44,8 @@ By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or 
 
 The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
 
-If you cast the spell two or more times before completing your next long rest, there is a cumulative 25% chance chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
+If you cast the spell two or more times before completing your next long rest, there is a cumulative  chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
-**Classes**: [[5. Mechanics/Classes/Barbarian Path Of The Ancestral Guardian.md\|Barbarian (Path of the Ancestral Guardian)]], [[5. Mechanics/Classes/Cleric Knowledge Domain.md\|Cleric (Knowledge Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Spirits (KPDM)\|Druid (Circle of the Spirits)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Knowledge Domain\|Cleric (Knowledge Domain)]]; [[List Spells Classes Paladin Oath Of The Annihilator (KPDM)\|Paladin (Oath of the Annihilator)]]; [[List Spells Classes Barbarian Path Of The Ancestral Guardian (XGE)\|Barbarian (Path of the Ancestral Guardian)]]; [[List Spells Classes Warlock The Sibyl (KPDM)\|Warlock (The Sibyl)]]
 
-*Source: Player's Handbook p. 215. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: 'grassland, desert'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
@@ -8,12 +12,11 @@ tags:
   - monster/environment/grassland
   - monster/size/large
   - monster/type/beast
-statblock: inline
 aliases:
   - Giant Vulture
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Vulture.md|Giant Vulture]]
-*Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Giant Vulture.md|Giant Vulture]]
+*Source: Monster Manual p. 329. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A giant vulture has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.
 
@@ -44,7 +47,7 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
   "name": "Keen Sight and Smell"
 - "desc": "The vulture has advantage on an attack roll against a creature if at least\
     \ one of the vulture's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "The vulture makes two attacks: one with its beak and one with its talons."
@@ -57,12 +60,6 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
   "name": "Talons"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "WDH"
-- "MOT"
-- "IDRotF"
-- "CRCotN"
 "image": "5. Mechanics/Bestiary/Beast/token/giant-vulture.webp"
 ```
 ^statblock

@@ -6,12 +6,21 @@ tags:
   - spell/class/artificer
   - spell/class/bard
   - spell/class/cleric
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer/divine-soul
   - spell/class/wizard
-  - spell/level/3
+  - spell/level/3rd-level
   - spell/school/abjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/divine-soul
+  - spell/subclass/eldritch-knight
+  - spell/subclass/fey-trapper
+level: 3rd-level
+range: false
+school: Abjuration
+time: 1 hour
+duration: Until dispelled or triggered
+components: >-
+  V, S, incense and powdered diamond worth at least 200 gp, which the spell
+  consumes
 aliases:
   - Glyph of Warding
 ---
@@ -35,18 +44,18 @@ When you inscribe the glyph, choose explosive runes or a spell glyph.
 
 ## Explosive Runes
 
-When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes `dice: 5d8|avg|noform` (`5d8`) acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one.
+When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes `dice:5d8|noform|avg` (`5d8`) acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one.
 
 ## Spell Glyph
 
-You can store a prepared spell of 3rd level or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]], it lasts until the end of its full duration.
+You can store a prepared spell of 3rd level or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], it lasts until the end of its full duration.
 
 ## At Higher Levels
 
-When you cast this spell using a spell slot of 4th level or higher, the damage of an explosive runes glyph increases by `1d8` for each slot level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding.
+When you cast this spell using a spell slot of 4th level or higher, the damage of an explosive runes glyph increases by `dice:1d8|noform|avg|text(1d8)` for each slot level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding.
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Fey Trapper (HHHVIII)\|Ranger (Fey Trapper)]]
 
-*Source: Player's Handbook p. 245. Available in the SRD.*
+*Source: Player's Handbook p. 245. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

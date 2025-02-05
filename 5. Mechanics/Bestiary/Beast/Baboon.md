@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: 'forest, hill'
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
@@ -8,12 +12,11 @@ tags:
   - monster/environment/hill
   - monster/size/small
   - monster/type/beast
-statblock: inline
 aliases:
   - Baboon
 ---
-# [[5. Mechanics/Bestiary/Beast/Baboon.md|Baboon]]
-*Source: Monster Manual p. 318, Curse of Strahd. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Baboon.md|Baboon]]
+*Source: Monster Manual p. 318, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Baboon"
@@ -37,7 +40,7 @@ aliases:
 "traits":
 - "desc": "The baboon has advantage on an attack roll against a creature if at least\
     \ one of the baboon's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4\
@@ -45,12 +48,7 @@ aliases:
   "name": "Bite"
 "source":
 - "MM"
-- "TftYP"
-- "ToA"
-- "CM"
 - "CoS"
-- "WBtW"
-- "KftGV"
 "image": "5. Mechanics/Bestiary/Beast/token/baboon.webp"
 ```
 ^statblock

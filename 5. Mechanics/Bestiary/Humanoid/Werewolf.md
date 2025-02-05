@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: 'forest, hill'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
@@ -9,18 +13,17 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-statblock: inline
 aliases:
   - Werewolf
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]]
-*Source: Monster Manual p. 211, Curse of Strahd, Eberron: Rising from the Last War, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Humanoid\Werewolf.md|Werewolf]]
+*Source: Monster Manual p. 211, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A werewolf is a savage predator. In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far-a furred and well-muscled humanoid body topped by a ravening wolf's head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite.
 
 Most werewolves flee civilized lands not long after becoming afflicted. Those that reject the curse fear what will happen if they remain among their friends and family. Those that embrace the curse fear discovery and the consequences of their murderous acts. In the wild, werewolves form packs that also include wolves and dire wolves.
 
-> [!quote]- A quote from Thornstaff, elf druid  
+> [!quote] A quote from Thornstaff, elf druid  
 > 
 > The Company of the Black Moon—they used to be adventurers loyal to the realm. Now they roam the woods as a pack of werewolves. The king has promised estates, titles, and gold to anyone who can undo the curse afflicting them. I, for one, have no interest in such rewards.
 
@@ -46,7 +49,7 @@ Some individuals see little point in fighting the curse and accept what they are
 > 
 > The following information applies to specific lycanthropes.
 > 
-> **.** **[[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 > 
 > **[[5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]].** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 > 
@@ -110,17 +113,6 @@ Some individuals see little point in fighting the curse and accept what they are
 "source":
 - "MM"
 - "CoS"
-- "PotA"
-- "SKT"
-- "WDH"
-- "GoS"
-- "BGDIA"
-- "ERLW"
-- "IMR"
-- "EGW"
-- "IDRotF"
-- "CM"
-- "BMT"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/werewolf.webp"
 ```

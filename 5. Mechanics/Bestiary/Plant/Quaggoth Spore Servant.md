@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/plant
-statblock: inline
 aliases:
   - Quaggoth Spore Servant
 ---
-# [[5. Mechanics/Bestiary/Plant/Quaggoth Spore Servant.md|Quaggoth Spore Servant]]
+# [[5. Mechanics\Bestiary\Plant\Quaggoth Spore Servant.md|Quaggoth Spore Servant]]
 *Source: Monster Manual p. 230*
 
 A spore servant is any Large or smaller creature brought back to life by the animating spores of a myconid sovereign. A creature that was never flesh and blood to begin with (such as a construct, elemental, ooze, plant, or undead) can't be turned into a spore servant.
@@ -42,11 +45,11 @@ The servant's ability scores change as follows: Int 2 (-4), Wis 6 (-2), Cha 1 (-
 
 ## Senses
 
-The servant has [[/5. Mechanics/Rules/Senses.md#blindsight|blindsight]] with a radius of 30 feet, and it is blind beyond this radius.
+The servant has [[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] with a radius of 30 feet, and it is blind beyond this radius.
 
 ## Condition Immunities
 
-The servant can't be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], or [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].
+The servant can't be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], or [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]].
 
 ## Languages
 
@@ -54,7 +57,7 @@ The servant loses all known languages, but it responds to orders given to it by 
 
 ## Attacks
 
-If the servant has no other means of dealing damage, it can use its fists or limbs to make unarmed strikes. On a hit, an unarmed strike deals bludgeoning damage equal to `dice: 1d4|avg|noform` (`1d4`) + the servant's Strength modifier, or, if the servant is Large, `dice: 2d4|avg|noform` (`2d4`) + its Strength modifier.
+If the servant has no other means of dealing damage, it can use its fists or limbs to make unarmed strikes. On a hit, an unarmed strike deals bludgeoning damage equal to `dice:1d4|noform|avg` (`1d4`) + the servant's Strength modifier, or, if the servant is Large, `dice:2d4|noform|avg` (`2d4`) + its Strength modifier.
 
 ```statblock
 "name": "Quaggoth Spore Servant"
@@ -74,9 +77,9 @@ If the servant has no other means of dealing damage, it can use its fists or lim
 - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "1"
@@ -88,8 +91,6 @@ If the servant has no other means of dealing damage, it can use its fists or lim
   "name": "Claw"
 "source":
 - "MM"
-- "WDMM"
-- "IDRotF"
 "image": "5. Mechanics/Bestiary/Plant/token/quaggoth-spore-servant.webp"
 ```
 ^statblock

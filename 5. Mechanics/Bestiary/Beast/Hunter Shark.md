@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: underwater
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/underwater
   - monster/size/large
   - monster/type/beast
-statblock: inline
 aliases:
   - Hunter Shark
 ---
-# [[5. Mechanics/Bestiary/Beast/Hunter Shark.md|Hunter Shark]]
-*Source: Monster Manual p. 330. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Hunter Shark.md|Hunter Shark]]
+*Source: Monster Manual p. 330. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.
 
@@ -50,15 +53,6 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a hunter sh
   "name": "Bite"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "GoS"
-- "DIP"
-- "EGW"
-- "PSX"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Beast/token/hunter-shark.webp"
 ```
 ^statblock

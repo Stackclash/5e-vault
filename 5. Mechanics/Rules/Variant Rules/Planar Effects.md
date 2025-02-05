@@ -31,7 +31,7 @@ Whenever a creature or group of creatures leaves the Feywild after spending at l
 
 A melancholic atmosphere pervades the Shadowfell. Extended forays to this plane can afflict characters with despair, as reflected in this optional rule.
 
-When you deem it appropriate, though usually not more than once per day, you can require a character not native to the Shadowfell to make a DC 10 Wisdom saving throw. On a failure, the character is affected by despair. Roll a `dice: d6|avg|noform` (`d6`) to determine the effects, using the Shadowfell Despair table. You can substitute different despair effects of your own creation.
+When you deem it appropriate, though usually not more than once per day, you can require a character not native to the Shadowfell to make a DC 10 Wisdom saving throw. On a failure, the character is affected by despair. Roll a `dice:d6|noform|avg` (`d6`) to determine the effects, using the Shadowfell Despair table. You can substitute different despair effects of your own creation.
 
 ![[5. Mechanics/Tables/Shadowfell Despair.md\|Shadowfell Despair]]
 
@@ -41,7 +41,7 @@ A [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] spell removes despair,
 
 ## Outer Planes: Psychic Dissonance
 
-Each of the Outer Planes emanates a psychic dissonance that affects visitors of an incompatible alignment—good creatures on the Lower Planes, evil ones on the Upper Planes—if they spend too much time on the plane. You can reflect this dissonance with this optional rule. At the end of a long rest spent on an incompatible plane, a visitor must make a DC 10 Constitution saving throw. On a failed save, the creature gains one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]]. Incompatibility between lawful and chaotic alignments doesn't have the same effect, so Mechanus and Limbo lack this quality.
+Each of the Outer Planes emanates a psychic dissonance that affects visitors of an incompatible alignment—good creatures on the Lower Planes, evil ones on the Upper Planes—if they spend too much time on the plane. You can reflect this dissonance with this optional rule. At the end of a long rest spent on an incompatible plane, a visitor must make a DC 10 Constitution saving throw. On a failed save, the creature gains one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]. Incompatibility between lawful and chaotic alignments doesn't have the same effect, so Mechanus and Limbo lack this quality.
 
 ## Mount Celestia: Blessed Beneficence
 
@@ -49,7 +49,7 @@ In contrast to the dissonance experienced by evil creatures here, good creatures
 
 ## Bytopia: Pervasive Goodwill
 
-At the end of each long rest taken on this plane, a visitor that is neither lawful good nor neutral good must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful good or neutral good (whichever is closer to the creature's current alignment). The change becomes permanent if the creature doesn't leave the plane within `dice: 1d4|avg|noform` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than Bytopia. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature also restores its original alignment.
+At the end of each long rest taken on this plane, a visitor that is neither lawful good nor neutral good must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful good or neutral good (whichever is closer to the creature's current alignment). The change becomes permanent if the creature doesn't leave the plane within `dice:1d4|noform|avg` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than Bytopia. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature also restores its original alignment.
 
 ## Elysium: Overwhelming Joy
 
@@ -81,7 +81,7 @@ Finally, a creature can use an action to make an Intelligence check to stabilize
 
 ## Pandemonium: Mad Winds
 
-A visitor must make a DC 10 Wisdom saving throw after each hour spent among the howling winds. On a failed save, the creature gains one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]]. A creature that reaches six levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] while on this plane doesn't die. Instead, the creature gains a random form of indefinite madness, as described in chapter 8, "Running the Game." Finishing a long rest doesn't reduce a creature's [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] level unless the creature can somehow escape the maddening winds.
+A visitor must make a DC 10 Wisdom saving throw after each hour spent among the howling winds. On a failed save, the creature gains one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]. A creature that reaches six levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] while on this plane doesn't die. Instead, the creature gains a random form of indefinite madness, as described in chapter 8, "Running the Game." Finishing a long rest doesn't reduce a creature's [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] level unless the creature can somehow escape the maddening winds.
 
 ## The Abyss: Abyssal Corruption
 
@@ -89,7 +89,7 @@ A non-evil visitor that finishes a long rest in the Abyss must make a DC 10 Char
 
 After finishing a long rest, a corrupted creature can make a DC 15 Charisma saving throw. On a successful save, the corruption effect ends. A [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell or any magic that removes a curse also ends the effect.
 
-If a corrupted creature doesn't leave the plane within `dice: 1d4 + 2|avg|noform` (`1d4 + 2`) days, its alignment changes to chaotic evil. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature restores its original alignment.
+If a corrupted creature doesn't leave the plane within `dice:1d4+2|noform|avg` (`1d4 + 2`) days, its alignment changes to chaotic evil. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature restores its original alignment.
 
 **Abyssal Corruption**
 
@@ -111,9 +111,9 @@ Portals and gates that open onto the plane become one-way only. Secret ways out 
 
 ## Hades: Vile Transformation
 
-At the end of each long rest taken on the plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature gains one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], which can't be removed while the creature remains in Hades. If the creature reaches six levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], it doesn't die. Instead, the creature permanently transforms into a larva, whereupon all levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] afflicting the creature are removed.
+At the end of each long rest taken on the plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature gains one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]], which can't be removed while the creature remains in Hades. If the creature reaches six levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]], it doesn't die. Instead, the creature permanently transforms into a larva, whereupon all levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] afflicting the creature are removed.
 
-A larva is a miserable fiend that retains the facial features of its previous form but has the body of a fat worm. A larva has only a few faint memories of its previous life and the statistics in the [[5. Mechanics/Bestiary/Fiend/Larva.md\|larva]] stat block. Hades is crawling with larvae. Night hags, liches, and rakshasas harvest them for use in vile rituals. Other fiends like to feed on them.
+A larva is a miserable fiend that retains the facial features of its previous form but has the body of a fat worm. A larva has only a few faint memories of its previous life and the statistics in the [[5. Mechanics/Bestiary/Fiend/Larva (DMG).md\|larva]] stat block. Hades is crawling with larvae. Night hags, liches, and rakshasas harvest them for use in vile rituals. Other fiends like to feed on them.
 
 ## Gehenna: Cruel Hindrance
 
@@ -121,7 +121,7 @@ The plane's cruel nature makes it difficult for visitors to help one another. Wh
 
 ## The Nine Hells: Pervasive Evil
 
-Evil pervades the Nine Hells, and visitors to this plane feel its influence. At the end of each long rest taken on this plane, a visitor that isn't evil must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful evil. The change becomes permanent if the creature doesn't leave the plane within `dice: 1d4|avg|noform` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than the Nine Hells. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature also restores its original alignment.
+Evil pervades the Nine Hells, and visitors to this plane feel its influence. At the end of each long rest taken on this plane, a visitor that isn't evil must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful evil. The change becomes permanent if the creature doesn't leave the plane within `dice:1d4|noform|avg` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than the Nine Hells. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature also restores its original alignment.
 
 ## Acheron: Bloodlust
 
@@ -129,7 +129,7 @@ Acheron rewards a creature for harming other creatures by imbuing that creature 
 
 ## Mechanus: Law of Averages
 
-While on Mechanus, creatures always use the average damage result for attacks and spells. For example, an attack that normally deals `dice: 1d10 + 5|avg|noform` (`1d10 + 5`) damage always deals 10 damage on Mechanus.
+While on Mechanus, creatures always use the average damage result for attacks and spells. For example, an attack that normally deals `dice:1d10+5|noform|avg` (`1d10 + 5`) damage always deals 10 damage on Mechanus.
 
 ## Mechanus: Imposing Order
 
@@ -137,4 +137,4 @@ At the end of each long rest taken on this plane, a visitor that isn't lawful ne
 
 ## Arcadia: Planar Vitality
 
-While on this plane, creatures can't be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] or [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]], and they are immune to disease and poisons.
+While on this plane, creatures can't be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] or [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]], and they are immune to disease and poisons.

@@ -1,23 +1,26 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 16
+environments: null
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/16
   - monster/size/large
   - monster/type/fiend/demon
-statblock: inline
 aliases:
   - Marilith
 ---
-# [[5. Mechanics/Bestiary/Fiend/Marilith.md|Marilith]]
-*Source: Monster Manual p. 61, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Fiend\Marilith.md|Marilith]]
+*Source: Monster Manual p. 61, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Terrible to behold, a marilith has the lower body of a great serpent and the upper torso of a humanoid female with six arms. Wielding a wicked blade in each of its six hands, a marilith is a devastating foe that few can match in battle.
 
 These demons possess keen minds and a finely honed sense of tactics, and they are able to lead and unite other demons in common cause. Mariliths are often encountered as captains at the head of a demonic horde, where they embrace any opportunity to rush headlong into battle.
 
-> [!quote]- A quote from Nelumé, a young half-elf wizard, chronicling her one and only visit to the Temple of Elemental Evil  
+> [!quote] A quote from Nelumé, a young half-elf wizard, chronicling her one and only visit to the Temple of Elemental Evil  
 > 
 > The temple was strewn with body parts. We concluded that the cultists had summoned a powerful demon and not lived to regret it. Not wanting to get hacked to pieces ourselves, we cut short our expedition and returned to the village of Hommlet with our tails between our legs. Rufus and Burne had a good laugh at our expense, let me tell you.
 
@@ -161,7 +164,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -170,20 +173,20 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50% chance chance of summoning `dice: 1d8|avg|noform` (`1d8`) vrocks, `dice: 1d6|avg|noform` (`1d6`) hezrous, `dice: 1d4|avg|noform` (`1d4`) glabrezus, `dice: 1d3|avg|noform` (`1d3`) nalfeshnees, `dice: 1d2|avg|noform` (`1d2`) mariliths, or one goristro.  
-> - A barlgura has a 30% chance chance of summoning one barlgura.  
-> - A chasme has a 30% chance chance of summoning one chasme.  
-> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg|noform` (`1d3`) vrocks, `dice: 1d2|avg|noform` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) vrocks, `dice: 1d4|avg|noform` (`1d4`) hezrous, `dice: 1d3|avg|noform` (`1d3`) glabrezus, `dice: 1d2|avg|noform` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) vrocks, `dice: 1d3|avg|noform` (`1d3`) hezrous, `dice: 1d2|avg|noform` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg|noform` (`2d4`) dretches or one vrock.  
-> - A yochlol has a 50% chance chance of summoning one yochlol.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|avg` (`1d8`) vrocks, `dice:1d6|noform|avg` (`1d6`) hezrous, `dice:1d4|noform|avg` (`1d4`) glabrezus, `dice:1d3|noform|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|avg` (`1d2`) mariliths, or one goristro.  
+> - A barlgura has a 30 percent chance of summoning one barlgura.  
+> - A chasme has a 30 percent chance of summoning one chasme.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|avg` (`1d3`) vrocks, `dice:1d2|noform|avg` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|avg` (`1d6`) vrocks, `dice:1d4|noform|avg` (`1d4`) hezrous, `dice:1d3|noform|avg` (`1d3`) glabrezus, `dice:1d2|noform|avg` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|avg` (`1d4`) vrocks, `dice:1d3|noform|avg` (`1d3`) hezrous, `dice:1d2|noform|avg` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|avg` (`2d4`) dretches or one vrock.  
+> - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-demon-summoning
 
-> [!quote]- A quote from From the Demonomicon of Iggwilv  
+> [!quote] A quote from From the Demonomicon of Iggwilv  
 > 
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
 
@@ -214,7 +217,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "16"
@@ -234,8 +237,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     \ + 4) slashing damage."
   "name": "Longsword"
 - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 15\
-    \ (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 19). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+    \ (escape DC 19). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
     \ the marilith can automatically hit the target with its tail, and the marilith\
     \ can't make tail attacks against other targets."
   "name": "Tail"
@@ -248,12 +251,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   "name": "Parry"
 "source":
 - "MM"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "EGW"
 - "TCE"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/marilith.webp"
 ```

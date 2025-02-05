@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 10
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/10
   - monster/size/medium
   - monster/type/aberration/shapechanger
-statblock: inline
 aliases:
   - Death Slaad
 ---
-# [[5. Mechanics/Bestiary/Aberration/Death Slaad.md|Death Slaad]]
+# [[5. Mechanics\Bestiary\Aberration\Death Slaad.md|Death Slaad]]
 *Source: Monster Manual p. 278, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin*
 
 Death slaadi are suffused with energy from the Negative Energy Plane and exemplify evil's corruption of chaos, and they take sadistic pleasure in bringing harm to others. They propagate their race by dragooning mobs of red and blue slaadi and invading other planes. Humanoids who survive the incursion become incubators for new slaadi.
@@ -39,16 +42,16 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
 > 
-> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] while so controlled.
+> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] while so controlled.
 > 
 > Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [[5. Mechanics/Spells/Wish.md|wish]] spell, if cast in the slaad's presence, can be worded to acquire the gem.
 > 
 > A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|text(22)` (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|noform|avg|text(22)` (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
-> [!quote]-  
+> [!quote]  
 > 
 > Embedded in a slaad's brain is a magic gem. Acquire it, and the slaad is yours to command.
 
@@ -117,14 +120,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "source":
 - "MM"
 - "CoS"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "EGW"
 - "TCE"
-- "CM"
-- "DSotDQ"
-- "PSI"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Aberration/token/death-slaad.webp"
 ```

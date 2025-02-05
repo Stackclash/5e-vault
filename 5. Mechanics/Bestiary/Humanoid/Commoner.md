@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: 'arctic, desert, coastal, grassland, hill, urban, forest'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
@@ -13,12 +17,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Commoner
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Commoner.md|Commoner]]
-*Source: Monster Manual p. 345, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Humanoid\Commoner.md|Commoner]]
+*Source: Monster Manual p. 345, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 
@@ -49,42 +52,7 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "LMoP"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SLW"
-- "BGDIA"
-- "ERLW"
-- "RMBRE"
-- "EGW"
-- "MOT"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "WBtW"
-- "CRCotN"
-- "JttRC"
-- "LoX"
-- "DSotDQ"
-- "KftGV"
-- "GotSF"
-- "PaBTSO"
-- "AATM"
-- "SatO"
-- "ToFW"
-- "BMT"
-- "HFStCM"
-- "GHLoE"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/commoner.webp"
 ```

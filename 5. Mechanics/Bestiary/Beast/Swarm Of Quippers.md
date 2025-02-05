@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: underwater
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
   - monster/environment/underwater
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Swarm of Quippers
 ---
-# [[5. Mechanics/Bestiary/Beast/Swarm Of Quippers.md|Swarm of Quippers]]
-*Source: Monster Manual p. 338. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Quippers.md|Swarm of Quippers]]
+*Source: Monster Manual p. 338. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 > [!note] The Nature of Swarms
 > 
@@ -36,10 +39,10 @@ aliases:
 - !!int "2"
 "speed": "0 ft., swim 40 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1"
@@ -60,20 +63,6 @@ aliases:
   "name": "Bites"
 "source":
 - "MM"
-- "PotA"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "SDW"
-- "LR"
-- "WBtW"
-- "CRCotN"
-- "JttRC"
-- "DSotDQ"
-- "KftGV"
-- "PSA"
-- "GHLoE"
 "image": "5. Mechanics/Bestiary/Beast/token/swarm-of-quippers.webp"
 ```
 ^statblock

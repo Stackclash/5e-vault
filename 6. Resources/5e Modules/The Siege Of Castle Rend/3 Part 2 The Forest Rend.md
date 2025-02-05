@@ -9,7 +9,7 @@ aliases:
 # Part 2: The Forest Rend
 *Source: The Siege of Castle Rend, p. 114* 
 
-> [!quote]- A quote from   
+> [!quote] A quote from   
 > 
 > "The Mundane World lies between Axiom and Primordius, planes of uttermost law and chaos. Philosophers believe our world is a mirror of those two diametrically opposed realms. They describe law and chaos as "leaking" into our world like water through a poorly sealed bladder. But this ignores a fundamental truth: Axiom and Primordius are at war, and our world lies between. These forces do not exist here because of a mere quirk of geometry. They are here because our world is their battlefield."
 
@@ -27,7 +27,7 @@ If the tracker fails a check, roll on the Forest Rend Encounters chart below, or
 
 The characters find Castle Rend once their tracker makes three Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) checks, regardless of success or failure.
 
-![[5. Mechanics/Tables/Forest Rend Encounters.md\|Forest Rend Encounters]]
+![[5. Mechanics/Tables/Forest Rend Encounters (SAF).md\|Forest Rend Encounters]]
 
 ### Encounter 1: Hungry Beasts
 
@@ -43,7 +43,7 @@ Whoever is tracking the orcs must make a DC 15 Wisdom ([[/5. Mechanics/Rules/Ski
 
 ### Encounter 3: White Tusk Sentries
 
-The branches of the forest grow thinner, light breaks through the canopy, and the faint chirping of cicadas covers the forest like an aural blanket. The orc tracks here are dense; this area has been heavily trafficked in recent months. As the tracker studies the path to discern the correct way forward, the cicadas are silenced by the snarling of dogs and the plodding of metal boots. A pair of [[5. Mechanics/Bestiary/Humanoid/White Tusk Bloodrager.md\|White Tusk bloodragers]] and their 2 [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]] hunting dogs patrol this area.
+The branches of the forest grow thinner, light breaks through the canopy, and the faint chirping of cicadas covers the forest like an aural blanket. The orc tracks here are dense; this area has been heavily trafficked in recent months. As the tracker studies the path to discern the correct way forward, the cicadas are silenced by the snarling of dogs and the plodding of metal boots. A pair of [[5. Mechanics/Bestiary/Humanoid/White Tusk Bloodrager (SAF).md\|White Tusk bloodragers]] and their 2 [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]] hunting dogs patrol this area.
 
 Whoever is tracking the orcs must make a successful DC 17 Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) or Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check. On a failed check, the dire wolves catch the characters' scent, and the sentries pursue them with intent to kill for up to 1 mile. On a successful check, the tracker finds a path through the underbrush that helps them conceal their tracks and scent, letting them slip past the sentries. On a failure, the orcs immediately catch up and attack. If any of the orcs are captured and interrogated, a successful DC 14 Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) check forces one to reveal the existance of a second human captive, though they aren't super clear on who exactly "the little one" is or why he's important. They unquestioningly believe he *is* important because the bloodchief says so.
 

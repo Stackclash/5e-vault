@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: 'underdark, mountain, forest, hill, urban, desert, arctic'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
@@ -13,12 +17,11 @@ tags:
   - monster/environment/urban
   - monster/size/large
   - monster/type/giant
-statblock: inline
 aliases:
   - Half-Ogre (Ogrillon)
 ---
-# [[5. Mechanics/Bestiary/Giant/Half Ogre Ogrillon.md|Half-Ogre (Ogrillon)]]
-*Source: Monster Manual p. 238, Eberron: Rising from the Last War*
+# [[5. Mechanics\Bestiary\Giant\Half Ogre Ogrillon.md|Half-Ogre (Ogrillon)]]
+*Source: Monster Manual p. 238*
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 
@@ -50,7 +53,7 @@ Ogres sometimes band together in small, nomadic groups, but they lack a true sen
 
 Whenever possible, ogres gang up with other monsters to bully or prey on creatures weaker than themselves. They associate freely with goblinoids, orcs, and trolls, and practically worship giants. In the giants' complex social structure (known as the ordning), ogres rank beneath the lowest giants in status. As a result, an ogre will do nearly anything a giant asks.
 
-> [!quote]- A quote from Riddlefiddle the Satyr, on ogres  
+> [!quote] A quote from Riddlefiddle the Satyr, on ogres  
 > 
 > Worst. Dancers. Ever.
 
@@ -89,13 +92,6 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
   "name": "Javelin"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "WDH"
-- "BGDIA"
-- "ERLW"
-- "IDRotF"
-- "DSotDQ"
 "image": "5. Mechanics/Bestiary/Giant/token/half-ogre-ogrillon.webp"
 ```
 ^statblock

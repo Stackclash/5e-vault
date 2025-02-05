@@ -23,7 +23,7 @@ Here are the options featured in this chapter:
 
 ## Customizing Your Origin
 
-See the [[/5. Mechanics/Rules/Variant Rules/Customizing Your Origin.md\|Customizing Your Origin]] entry.
+See the [[/5. Mechanics/Rules/Variant Rules/Customizing Your Origin (TCE).md\|Customizing Your Origin]] entry.
 
 ## Changing a Skill
 
@@ -51,7 +51,7 @@ Sometimes a character undergoes a dramatic transformation in their beliefs and a
 
 ## Artificer
 
-Masters of invention, [[5. Mechanics/Classes/Artificer.md\|artificers]] use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in the next few sections.
+Masters of invention, [[5. Mechanics/Classes/Artificer (TCE).md\|artificers]] use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in the next few sections.
 
 Artificers use a variety of tools to channel their arcane power. To cast a spell, an artificer might use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power, or tinker's tools to craft a temporary charm. The magic of artificers is tied to their tools and their talents, and few other characters can produce the right tool for a job as well as an artificer.
 
@@ -63,15 +63,15 @@ In the Forgotten Realms, the island of Lantan is home to many artificers, and in
 
 Artificers in the City of Sigil share discoveries from throughout the multiverse, and from there, the gnome artificer Vi runs a cosmos-spanning business that hires adventurers to fix problems that others deem unfixable. In Vi's home world, Eberron, magic is harnessed as a form of science and deployed throughout society, largely as a result of the wondrous ingenuity of artificers.
 
-> [!quote]- A quote from Tasha  
+> [!quote] A quote from Tasha  
 > 
 > Artificers invent cutting-edge problems, then try to solve them—loudly and often with collateral damage.
 
-- [[5. Mechanics/Classes/Artificer.md\|Artificer]]  
-- [[5. Mechanics/Classes/Artificer Alchemist.md\|Alchemist]]  
-- [[5. Mechanics/Classes/Artificer Armorer.md\|Armorer]]  
-- [[5. Mechanics/Classes/Artificer Artillerist.md\|Artillerist]]  
-- [[5. Mechanics/Classes/Artificer Battle Smith.md\|Battle Smith]]  
+- [[5. Mechanics/Classes/Artificer (TCE).md\|Artificer]]  
+- [[5. Mechanics/Classes/Artificer Alchemist (TCE).md\|Alchemist]]  
+- [[5. Mechanics/Classes/Artificer Armorer (TCE).md\|Armorer]]  
+- [[5. Mechanics/Classes/Artificer Artillerist (TCE).md\|Artillerist]]  
+- [[5. Mechanics/Classes/Artificer Battle Smith (TCE).md\|Battle Smith]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/003-01-004-artificer-vi.webp#gallery\|"The gnome artificer Vi and her cockatrice-like Eldritch Cannon battle foes atop a lightning train."]]
@@ -99,8 +99,8 @@ Unlike the features in the "Player's Handbook", you don't gain the features here
 
 At 3rd level, a barbarian gains the Primal Path feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Path of the Beast and Path of Wild Magic.
 
-- [[5. Mechanics/Classes/Barbarian Path Of The Beast.md\|Path of the Beast]]  
-- [[5. Mechanics/Classes/Barbarian Path Of Wild Magic.md\|Path of Wild Magic]]  
+- [[5. Mechanics/Classes/Barbarian Path Of The Beast (TCE).md\|Path of the Beast]]  
+- [[5. Mechanics/Classes/Barbarian Path Of Wild Magic (TCE).md\|Path of Wild Magic]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/010-01-012.webp#gallery\|Human Barbarian of the Beast]]
@@ -122,11 +122,11 @@ The spells in the following list expand the bard spell list in the "Player's Han
 
 - 1st level: [[5. Mechanics/Spells/Color Spray.md\|Color spray]], [[5. Mechanics/Spells/Command.md\|Command]]  
 - 2nd level: [[5. Mechanics/Spells/Aid.md\|Aid]], [[5. Mechanics/Spells/Enlarge Reduce.md\|Enlarge/reduce]], [[5. Mechanics/Spells/Mirror Image.md\|Mirror image]]  
-- 3rd level: [[5. Mechanics/Spells/Intellect Fortress.md\|Intellect fortress]],* [[5. Mechanics/Spells/Mass Healing Word.md\|Mass healing word]], [[5. Mechanics/Spells/Slow.md\|Slow]]  
+- 3rd level: [[5. Mechanics/Spells/Intellect Fortress (TCE).md\|Intellect fortress]],* [[5. Mechanics/Spells/Mass Healing Word.md\|Mass healing word]], [[5. Mechanics/Spells/Slow.md\|Slow]]  
 - 4th level: [[5. Mechanics/Spells/Phantasmal Killer.md\|Phantasmal killer]]  
 - 5th level: [[5. Mechanics/Spells/Rarys Telepathic Bond.md\|Rary's telepathic bond]] (ritual)  
 - 6th level: [[5. Mechanics/Spells/Heroes Feast.md\|Heroes' feast]]  
-- 7th level: [[5. Mechanics/Spells/Dream Of The Blue Veil.md\|Dream of the blue veil]],* [[5. Mechanics/Spells/Prismatic Spray.md\|Prismatic spray]]  
+- 7th level: [[5. Mechanics/Spells/Dream Of The Blue Veil (TCE).md\|Dream of the blue veil]],* [[5. Mechanics/Spells/Prismatic Spray.md\|Prismatic spray]]  
 - 8th level: [[5. Mechanics/Spells/Antipathy Sympathy.md\|Antipathy/sympathy]]  
 - 9th level: [[5. Mechanics/Spells/Prismatic Wall.md\|Prismatic wall]]  
 
@@ -138,8 +138,8 @@ The spells in the following list expand the bard spell list in the "Player's Han
 
 At 3rd level, a bard gains the Bard College feature, which offers you the choice of a subclass. The following options are available to you when making that choice: College of Creation and College of Eloquence.
 
-- [[5. Mechanics/Classes/Bard College Of Creation.md\|College of Creation]]  
-- [[5. Mechanics/Classes/Bard College Of Eloquence.md\|College of Eloquence]]  
+- [[5. Mechanics/Classes/Bard College Of Creation (TCE).md\|College of Creation]]  
+- [[5. Mechanics/Classes/Bard College Of Eloquence (TCE).md\|College of Eloquence]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/013-01-016.webp#gallery\|"A dragonborn bard of the College of Creation animates a statue to dance."]]
@@ -161,12 +161,12 @@ If you take a feature that replaces another feature, you gain no benefit from th
 
 The spells in the following list expand the cleric spell list in the "Player's Handbook". The list is organized by spell level, not character level. If a spell can be cast as a ritual, the ritual tag appears after the spell's name. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
-- 3rd level: [[5. Mechanics/Spells/Aura Of Vitality.md\|Aura of vitality]], [[5. Mechanics/Spells/Spirit Shroud.md\|Spirit shroud]]*  
+- 3rd level: [[5. Mechanics/Spells/Aura Of Vitality.md\|Aura of vitality]], [[5. Mechanics/Spells/Spirit Shroud (TCE).md\|Spirit shroud]]*  
 - 4th level: [[5. Mechanics/Spells/Aura Of Life.md\|Aura of life]], [[5. Mechanics/Spells/Aura Of Purity.md\|Aura of purity]]  
-- 5th level: [[5. Mechanics/Spells/Summon Celestial.md\|Summon celestial]]*  
+- 5th level: [[5. Mechanics/Spells/Summon Celestial (TCE).md\|Summon celestial]]*  
 - 6th level: [[5. Mechanics/Spells/Sunbeam.md\|Sunbeam]]  
 - 8th level: [[5. Mechanics/Spells/Sunburst.md\|Sunburst]]  
-- 9th level: [[5. Mechanics/Spells/Power Word Heal.md\|Power word heal]]  
+- 9th level: [[5. Mechanics/Spells/Power Word He(AL).md\|Power word heal]]  
 
 [Channel Divinity: Harness Divine Power](compendium/classes/cleric.md#Channel%20Divinity%20Harness%20Divine%20Power%20(Level%202)) (*2nd-level cleric feature*)
 
@@ -178,9 +178,9 @@ The spells in the following list expand the cleric spell list in the "Player's H
 
 At 1st level, a cleric gains the Divine Domain feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Order Domain, Peace Domain, and Twilight Domain.
 
-- [[5. Mechanics/Classes/Cleric Order Domain.md\|Order Domain]]  
-- [[5. Mechanics/Classes/Cleric Peace Domain.md\|Peace Domain]]  
-- [[5. Mechanics/Classes/Cleric Twilight Domain.md\|Twilight Domain]]  
+- [[5. Mechanics/Classes/Cleric Order Domain (TCE).md\|Order Domain]]  
+- [[5. Mechanics/Classes/Cleric Peace Domain (TCE).md\|Peace Domain]]  
+- [[5. Mechanics/Classes/Cleric Twilight Domain (TCE).md\|Twilight Domain]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/016-01-020.webp#gallery\|A cleric harnesses divine power]]
@@ -203,9 +203,9 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 The spells in the following list expand the druid spell list in the "Player's Handbook". The list is organized by spell level, not character level. If a spell can be cast as a ritual, the ritual tag appears after the spell's name. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
 - 1st level: [[5. Mechanics/Spells/Protection From Evil And Good.md\|Protection from evil and good]]  
-- 2nd level: [[5. Mechanics/Spells/Augury.md\|Augury]], (ritual) [[5. Mechanics/Spells/Continual Flame.md\|Continual flame]], [[5. Mechanics/Spells/Enlarge Reduce.md\|Enlarge/reduce]], [[5. Mechanics/Spells/Summon Beast.md\|Summon beast]]*  
-- 3rd level: [[5. Mechanics/Spells/Aura Of Vitality.md\|Aura of vitality]], [[5. Mechanics/Spells/Elemental Weapon.md\|Elemental weapon]], [[5. Mechanics/Spells/Revivify.md\|Revivify]], [[5. Mechanics/Spells/Summon Fey.md\|Summon fey]]*  
-- 4th level: [[5. Mechanics/Spells/Divination.md\|Divination]], (ritual) [[5. Mechanics/Spells/Fire Shield.md\|Fire shield]], [[5. Mechanics/Spells/Summon Elemental.md\|Summon elemental]]*  
+- 2nd level: [[5. Mechanics/Spells/Augury.md\|Augury]], (ritual) [[5. Mechanics/Spells/Continual Flame.md\|Continual flame]], [[5. Mechanics/Spells/Enlarge Reduce.md\|Enlarge/reduce]], [[5. Mechanics/Spells/Summon Beast (TCE).md\|Summon beast]]*  
+- 3rd level: [[5. Mechanics/Spells/Aura Of Vitality.md\|Aura of vitality]], [[5. Mechanics/Spells/Elemental Weapon.md\|Elemental weapon]], [[5. Mechanics/Spells/Revivify.md\|Revivify]], [[5. Mechanics/Spells/Summon Fey (TCE).md\|Summon fey]]*  
+- 4th level: [[5. Mechanics/Spells/Divination.md\|Divination]], (ritual) [[5. Mechanics/Spells/Fire Shield.md\|Fire shield]], [[5. Mechanics/Spells/Summon Elemental (TCE).md\|Summon elemental]]*  
 - 5th level: [[5. Mechanics/Spells/Cone Of Cold.md\|Cone of cold]]  
 - 6th level: [[5. Mechanics/Spells/Flesh To Stone.md\|Flesh to stone]]  
 - 7th level: [[5. Mechanics/Spells/Symbol.md\|Symbol]]  
@@ -219,9 +219,9 @@ The spells in the following list expand the druid spell list in the "Player's Ha
 
 At 2nd level, a druid gains the Druid Circle feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Circle of Spores, Circle of Stars, and Circle of Wildfire.
 
-- [[5. Mechanics/Classes/Druid Circle Of Spores.md\|Circle of Spores]]  
-- [[5. Mechanics/Classes/Druid Circle Of Stars.md\|Circle of Stars]]  
-- [[5. Mechanics/Classes/Druid Circle Of Wildfire.md\|Circle of Wildfire]]  
+- [[5. Mechanics/Classes/Druid Circle Of Spores (TCE).md\|Circle of Spores]]  
+- [[5. Mechanics/Classes/Druid Circle Of Stars (TCE).md\|Circle of Stars]]  
+- [[5. Mechanics/Classes/Druid Circle Of Wildfire (TCE).md\|Circle of Wildfire]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/021-01-026.webp#gallery\|Druid with Wild Companion]]
@@ -243,32 +243,32 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 When you choose a fighting style, the following styles are added to your list of options.
 
-- [[5. Mechanics/Optional Features/Blind Fighting.md\|Blind Fighting]]  
-- [[5. Mechanics/Optional Features/Interception.md\|Interception]]  
-- [[5. Mechanics/Optional Features/Superior Technique.md\|Superior Technique]]  
-- [[5. Mechanics/Optional Features/Thrown Weapon Fighting.md\|Thrown Weapon Fighting]]  
-- [[5. Mechanics/Optional Features/Unarmed Fighting.md\|Unarmed Fighting]]  
+- [[5. Mechanics/Optional Features/Blind Fighting (TCE).md\|Blind Fighting]]  
+- [[5. Mechanics/Optional Features/Interception (TCE).md\|Interception]]  
+- [[5. Mechanics/Optional Features/Superior Technique (TCE).md\|Superior Technique]]  
+- [[5. Mechanics/Optional Features/Thrown Weapon Fighting (TCE).md\|Thrown Weapon Fighting]]  
+- [[5. Mechanics/Optional Features/Unarmed Fighting (TCE).md\|Unarmed Fighting]]  
 
 [Martial Versatility](compendium/classes/fighter.md#Martial%20Versatility%20(Level%204)) (*4th-level fighter feature*)
 
 ### Maneuver Options
 
-If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the [[5. Mechanics/Optional Features/Superior Technique.md\|Superior Technique]] fighting style or the [[5. Mechanics/Feats/Martial Adept.md\|Martial Adept]] feat.
+If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the [[5. Mechanics/Optional Features/Superior Technique (TCE).md\|Superior Technique]] fighting style or the [[5. Mechanics/Feats/Martial Adept.md\|Martial Adept]] feat.
 
-- [[5. Mechanics/Optional Features/Ambush.md\|Ambush]]  
-- [[5. Mechanics/Optional Features/Bait And Switch.md\|Bait and Switch]]  
-- [[5. Mechanics/Optional Features/Brace.md\|Brace]]  
-- [[5. Mechanics/Optional Features/Commanding Presence.md\|Commanding Presence]]  
-- [[5. Mechanics/Optional Features/Grappling Strike.md\|Grappling Strike]]  
-- [[5. Mechanics/Optional Features/Quick Toss.md\|Quick Toss]]  
-- [[5. Mechanics/Optional Features/Tactical Assessment.md\|Tactical Assessment]]  
+- [[5. Mechanics/Optional Features/Ambush (TCE).md\|Ambush]]  
+- [[5. Mechanics/Optional Features/Bait And Switch (TCE).md\|Bait and Switch]]  
+- [[5. Mechanics/Optional Features/Brace (TCE).md\|Brace]]  
+- [[5. Mechanics/Optional Features/Commanding Presence (TCE).md\|Commanding Presence]]  
+- [[5. Mechanics/Optional Features/Grappling Strike (TCE).md\|Grappling Strike]]  
+- [[5. Mechanics/Optional Features/Quick Toss (TCE).md\|Quick Toss]]  
+- [[5. Mechanics/Optional Features/Tactical Assessment (TCE).md\|Tactical Assessment]]  
 
 ### Martial Archetypes
 
 At 3rd level, a fighter gains the Martial Archetype feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Psi Warrior and Rune Knight.
 
-- [[5. Mechanics/Classes/Fighter Psi Warrior.md\|Psi Warrior]]  
-- [[5. Mechanics/Classes/Fighter Rune Knight.md\|Rune Knight]]  
+- [[5. Mechanics/Classes/Fighter Psi Warrior (TCE).md\|Psi Warrior]]  
+- [[5. Mechanics/Classes/Fighter Rune Knight (TCE).md\|Rune Knight]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/026-01-032.webp#gallery\|A young fighter spars with an instructor.]]
@@ -287,22 +287,22 @@ Each of these builds contains suggested fighting styles, maneuvers, and feats. T
 
 - **Fighting Style.** [[5. Mechanics/Optional Features/Archery.md\|Archery]]  
 - **Maneuvers.** [[5. Mechanics/Optional Features/Disarming Attack.md\|Disarming Attack]], [[5. Mechanics/Optional Features/Distracting Strike.md\|Distracting Strike]], [[5. Mechanics/Optional Features/Precision Attack.md\|Precision Attack]]  
-- **Feats.** [[5. Mechanics/Feats/Piercer.md\|Piercer]], [[5. Mechanics/Feats/Sharpshooter.md\|Sharpshooter]]  
+- **Feats.** [[5. Mechanics/Feats/Piercer (TCE).md\|Piercer]], [[5. Mechanics/Feats/Sharpshooter.md\|Sharpshooter]]  
 
 You prefer to deal with your enemies from afar, trusting in a well-placed arrow, javelin, or sling bullet to end a fight without a response. You rely on accuracy and probably subscribe to the axiom that "those who live by the sword die by the bow."
 
 ### Bodyguard
 
-- **Fighting Style.** [[5. Mechanics/Optional Features/Interception.md\|Interception]],* [[5. Mechanics/Optional Features/Protection.md\|Protection]]  
-- **Maneuvers.** [[5. Mechanics/Optional Features/Bait And Switch.md\|Bait and Switch]],* [[5. Mechanics/Optional Features/Disarming Attack.md\|Disarming Attack]], [[5. Mechanics/Optional Features/Goading Attack.md\|Goading Attack]], [[5. Mechanics/Optional Features/Grappling Strike.md\|Grappling Strike]]*  
+- **Fighting Style.** [[5. Mechanics/Optional Features/Interception (TCE).md\|Interception]],* [[5. Mechanics/Optional Features/Protection.md\|Protection]]  
+- **Maneuvers.** [[5. Mechanics/Optional Features/Bait And Switch (TCE).md\|Bait and Switch]],* [[5. Mechanics/Optional Features/Disarming Attack.md\|Disarming Attack]], [[5. Mechanics/Optional Features/Goading Attack.md\|Goading Attack]], [[5. Mechanics/Optional Features/Grappling Strike (TCE).md\|Grappling Strike]]*  
 - **Feats.** [[5. Mechanics/Feats/Alert.md\|Alert]], [[5. Mechanics/Feats/Observant.md\|Observant]], [[5. Mechanics/Feats/Sentinel.md\|Sentinel]], [[5. Mechanics/Feats/Tough.md\|Tough]]  
 
 Love, money, or some other obligation motivates you to place your own body between harm and the one you're sworn to protect. You have honed the ability to sniff out potential threats and see your charge through dangerous situations.
 
 ### Brawler
 
-- **Fighting Style.** [[5. Mechanics/Optional Features/Blind Fighting.md\|Blind Fighting]],* [[5. Mechanics/Optional Features/Two Weapon Fighting.md\|Two-Weapon Fighting]], [[5. Mechanics/Optional Features/Unarmed Fighting.md\|Unarmed Fighting]]*  
-- **Maneuvers.** [[5. Mechanics/Optional Features/Ambush.md\|Ambush]],* [[5. Mechanics/Optional Features/Disarming Attack.md\|Disarming Attack]], [[5. Mechanics/Optional Features/Feinting Attack.md\|Feinting Attack]], [[5. Mechanics/Optional Features/Pushing Attack.md\|Pushing Attack]], [[5. Mechanics/Optional Features/Trip Attack.md\|Trip Attack]]  
+- **Fighting Style.** [[5. Mechanics/Optional Features/Blind Fighting (TCE).md\|Blind Fighting]],* [[5. Mechanics/Optional Features/Two Weapon Fighting.md\|Two-Weapon Fighting]], [[5. Mechanics/Optional Features/Unarmed Fighting (TCE).md\|Unarmed Fighting]]*  
+- **Maneuvers.** [[5. Mechanics/Optional Features/Ambush (TCE).md\|Ambush]],* [[5. Mechanics/Optional Features/Disarming Attack.md\|Disarming Attack]], [[5. Mechanics/Optional Features/Feinting Attack.md\|Feinting Attack]], [[5. Mechanics/Optional Features/Pushing Attack.md\|Pushing Attack]], [[5. Mechanics/Optional Features/Trip Attack.md\|Trip Attack]]  
 - **Feats.** [[5. Mechanics/Feats/Athlete.md\|Athlete]], [[5. Mechanics/Feats/Durable.md\|Durable]], [[5. Mechanics/Feats/Grappler.md\|Grappler]], [[5. Mechanics/Feats/Resilient.md\|Resilient]], [[5. Mechanics/Feats/Shield Master.md\|Shield Master]], [[5. Mechanics/Feats/Tavern Brawler.md\|Tavern Brawler]], [[5. Mechanics/Feats/Tough.md\|Tough]]  
 
 When bottles start breaking and chairs start flying, you're in your element. You love a good scrap, and you've likely seen your share of them. You may or may not have formal training, and while others might call you a dirty fighter, you're still alive.
@@ -325,9 +325,9 @@ You've fought to entertain crowds, whether for sport or as punishment. Along the
 
 ### Hoplite
 
-- **Fighting Style.** [[5. Mechanics/Optional Features/Defense.md\|Defense]], [[5. Mechanics/Optional Features/Thrown Weapon Fighting.md\|Thrown Weapon Fighting]]*  
-- **Maneuvers.** [[5. Mechanics/Optional Features/Brace.md\|Brace]],* [[5. Mechanics/Optional Features/Lunging Attack.md\|Lunging Attack]], [[5. Mechanics/Optional Features/Parry.md\|Parry]], [[5. Mechanics/Optional Features/Precision Attack.md\|Precision Attack]]  
-- **Feats.** [[5. Mechanics/Feats/Athlete.md\|Athlete]], [[5. Mechanics/Feats/Grappler.md\|Grappler]], [[5. Mechanics/Feats/Piercer.md\|Piercer]], [[5. Mechanics/Feats/Polearm Master.md\|Polearm Master]], [[5. Mechanics/Feats/Sentinel.md\|Sentinel]], [[5. Mechanics/Feats/Shield Master.md\|Shield Master]]  
+- **Fighting Style.** [[5. Mechanics/Optional Features/Defense.md\|Defense]], [[5. Mechanics/Optional Features/Thrown Weapon Fighting (TCE).md\|Thrown Weapon Fighting]]*  
+- **Maneuvers.** [[5. Mechanics/Optional Features/Brace (TCE).md\|Brace]],* [[5. Mechanics/Optional Features/Lunging Attack.md\|Lunging Attack]], [[5. Mechanics/Optional Features/Parry.md\|Parry]], [[5. Mechanics/Optional Features/Precision Attack.md\|Precision Attack]]  
+- **Feats.** [[5. Mechanics/Feats/Athlete.md\|Athlete]], [[5. Mechanics/Feats/Grappler.md\|Grappler]], [[5. Mechanics/Feats/Piercer (TCE).md\|Piercer]], [[5. Mechanics/Feats/Polearm Master.md\|Polearm Master]], [[5. Mechanics/Feats/Sentinel.md\|Sentinel]], [[5. Mechanics/Feats/Shield Master.md\|Shield Master]]  
 
 With spear and shield, you follow in the footsteps of the heroes of ages past. You rely on discipline and athleticism to overcome improbable odds. Whether fighting in ranks alongside your comrades or squaring off as a lone warrior, you're equal to the task.
 
@@ -342,15 +342,15 @@ When the cavalry is called in, that means you. You ride out to greet your enemy 
 ### Outrider
 
 - **Fighting Style.** [[5. Mechanics/Optional Features/Archery.md\|Archery]]  
-- **Maneuvers.** [[5. Mechanics/Optional Features/Ambush.md\|Ambush]],* [[5. Mechanics/Optional Features/Distracting Strike.md\|Distracting Strike]], [[5. Mechanics/Optional Features/Goading Attack.md\|Goading Attack]], [[5. Mechanics/Optional Features/Precision Attack.md\|Precision Attack]], [[5. Mechanics/Optional Features/Quick Toss.md\|Quick Toss]]*  
+- **Maneuvers.** [[5. Mechanics/Optional Features/Ambush (TCE).md\|Ambush]],* [[5. Mechanics/Optional Features/Distracting Strike.md\|Distracting Strike]], [[5. Mechanics/Optional Features/Goading Attack.md\|Goading Attack]], [[5. Mechanics/Optional Features/Precision Attack.md\|Precision Attack]], [[5. Mechanics/Optional Features/Quick Toss (TCE).md\|Quick Toss]]*  
 - **Feats.** [[5. Mechanics/Feats/Alert.md\|Alert]], [[5. Mechanics/Feats/Crossbow Expert.md\|Crossbow Expert]], [[5. Mechanics/Feats/Mounted Combatant.md\|Mounted Combatant]], [[5. Mechanics/Feats/Observant.md\|Observant]], [[5. Mechanics/Feats/Sharpshooter.md\|Sharpshooter]]  
 
 You find freedom in the saddle and a companion in your mount. A headlong charge into combat is a blunt instrument for oafs. You prefer mobility and range, opting to find advantageous positions that allow you to deal with foes at full gallop while evading the most dangerous threats.
 
 ### Pugilist
 
-- **Fighting Style.** [[5. Mechanics/Optional Features/Unarmed Fighting.md\|Unarmed Fighting]]*  
-- **Maneuvers.** [[5. Mechanics/Optional Features/Disarming Attack.md\|Disarming Attack]], [[5. Mechanics/Optional Features/Evasive Footwork.md\|Evasive Footwork]], [[5. Mechanics/Optional Features/Grappling Strike.md\|Grappling Strike]],* [[5. Mechanics/Optional Features/Menacing Attack.md\|Menacing Attack]], [[5. Mechanics/Optional Features/Pushing Attack.md\|Pushing Attack]], [[5. Mechanics/Optional Features/Riposte.md\|Riposte]], [[5. Mechanics/Optional Features/Trip Attack.md\|Trip Attack]]  
+- **Fighting Style.** [[5. Mechanics/Optional Features/Unarmed Fighting (TCE).md\|Unarmed Fighting]]*  
+- **Maneuvers.** [[5. Mechanics/Optional Features/Disarming Attack.md\|Disarming Attack]], [[5. Mechanics/Optional Features/Evasive Footwork.md\|Evasive Footwork]], [[5. Mechanics/Optional Features/Grappling Strike (TCE).md\|Grappling Strike]],* [[5. Mechanics/Optional Features/Menacing Attack.md\|Menacing Attack]], [[5. Mechanics/Optional Features/Pushing Attack.md\|Pushing Attack]], [[5. Mechanics/Optional Features/Riposte.md\|Riposte]], [[5. Mechanics/Optional Features/Trip Attack.md\|Trip Attack]]  
 - **Feats.** [[5. Mechanics/Feats/Athlete.md\|Athlete]], [[5. Mechanics/Feats/Durable.md\|Durable]], [[5. Mechanics/Feats/Grappler.md\|Grappler]], [[5. Mechanics/Feats/Savage Attacker.md\|Savage Attacker]], [[5. Mechanics/Feats/Tavern Brawler.md\|Tavern Brawler]]  
 
 Where others rely on steel, you've got your fists. Whether through training or experience, you've developed a superior technique that can help you overcome an enemy in an up-close fight.
@@ -367,8 +367,8 @@ Subtlety is not your style. You're trained to get straight into the fighting, bu
 
 ### Skirmisher
 
-- **Fighting Style.** [[5. Mechanics/Optional Features/Archery.md\|Archery]], [[5. Mechanics/Optional Features/Thrown Weapon Fighting.md\|Thrown Weapon Fighting]]*  
-- **Maneuvers.** [[5. Mechanics/Optional Features/Ambush.md\|Ambush]],* [[5. Mechanics/Optional Features/Bait And Switch.md\|Bait and Switch]],* [[5. Mechanics/Optional Features/Distracting Strike.md\|Distracting Strike]], [[5. Mechanics/Optional Features/Quick Toss.md\|Quick Toss]]*  
+- **Fighting Style.** [[5. Mechanics/Optional Features/Archery.md\|Archery]], [[5. Mechanics/Optional Features/Thrown Weapon Fighting (TCE).md\|Thrown Weapon Fighting]]*  
+- **Maneuvers.** [[5. Mechanics/Optional Features/Ambush (TCE).md\|Ambush]],* [[5. Mechanics/Optional Features/Bait And Switch (TCE).md\|Bait and Switch]],* [[5. Mechanics/Optional Features/Distracting Strike.md\|Distracting Strike]], [[5. Mechanics/Optional Features/Quick Toss (TCE).md\|Quick Toss]]*  
 - **Feats.** [[5. Mechanics/Feats/Alert.md\|Alert]], [[5. Mechanics/Feats/Dual Wielder.md\|Dual Wielder]], [[5. Mechanics/Feats/Mobile.md\|Mobile]], [[5. Mechanics/Feats/Skulker.md\|Skulker]]  
 
 You thrive amid the chaos of battle. You use your mobility and versatility in combat to soften your adversaries and disrupt their formations. An enemy's plan rarely survives contact with you.
@@ -376,7 +376,7 @@ You thrive amid the chaos of battle. You use your mobility and versatility in co
 ### Strategist
 
 - **Fighting Style.** [[5. Mechanics/Optional Features/Defense.md\|Defense]]  
-- **Maneuvers.** [[5. Mechanics/Optional Features/Commanders Strike.md\|Commander's Strike]], [[5. Mechanics/Optional Features/Commanding Presence.md\|Commanding Presence]],* [[5. Mechanics/Optional Features/Maneuvering Attack.md\|Maneuvering Attack]], [[5. Mechanics/Optional Features/Rally.md\|Rally]], [[5. Mechanics/Optional Features/Tactical Assessment.md\|Tactical Assessment]]*  
+- **Maneuvers.** [[5. Mechanics/Optional Features/Commanders Strike.md\|Commander's Strike]], [[5. Mechanics/Optional Features/Commanding Presence (TCE).md\|Commanding Presence]],* [[5. Mechanics/Optional Features/Maneuvering Attack.md\|Maneuvering Attack]], [[5. Mechanics/Optional Features/Rally.md\|Rally]], [[5. Mechanics/Optional Features/Tactical Assessment (TCE).md\|Tactical Assessment]]*  
 - **Feats.** [[5. Mechanics/Feats/Inspiring Leader.md\|Inspiring Leader]], [[5. Mechanics/Feats/Keen Mind.md\|Keen Mind]], [[5. Mechanics/Feats/Linguist.md\|Linguist]]  
 
 To you, battles unfold like a game of chess. You understand that strength and speed are important in a fight, but it takes intellect and experience to know how best to apply them. That's where you come in.
@@ -401,8 +401,8 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 At 3rd level, a monk gains the Monastic Tradition feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Way of Mercy or Way of the Astral Self.
 
-- [[5. Mechanics/Classes/Monk Way Of Mercy.md\|Way of Mercy]]  
-- [[5. Mechanics/Classes/Monk Way Of The Astral Self.md\|Way of the Astral Self]]  
+- [[5. Mechanics/Classes/Monk Way Of Mercy (TCE).md\|Way of Mercy]]  
+- [[5. Mechanics/Classes/Monk Way Of The Astral Self (TCE).md\|Way of the Astral Self]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/031-01-038.webp#gallery\|"An orc monk of the Four Elements unleashes a ki-fueled attack."]]
@@ -424,8 +424,8 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 The spells in the following list expand the paladin spell list in the "Player's Handbook". The list is organized by spell level, not character level. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
 - 2nd level: [[5. Mechanics/Spells/Gentle Repose.md\|Gentle repose]], [[5. Mechanics/Spells/Prayer Of Healing.md\|Prayer of healing]], [[5. Mechanics/Spells/Warding Bond.md\|Warding bond]]  
-- 3rd level: [[5. Mechanics/Spells/Spirit Shroud.md\|Spirit shroud]]*  
-- 5th level: [[5. Mechanics/Spells/Summon Celestial.md\|Summon celestial]]*  
+- 3rd level: [[5. Mechanics/Spells/Spirit Shroud (TCE).md\|Spirit shroud]]*  
+- 5th level: [[5. Mechanics/Spells/Summon Celestial (TCE).md\|Summon celestial]]*  
 
 #### Fighting Style Options
 
@@ -433,9 +433,9 @@ The spells in the following list expand the paladin spell list in the "Player's 
 
 When you choose a fighting style, the following styles are added to your list of options.
 
-- [[5. Mechanics/Optional Features/Blessed Warrior.md\|Blessed Warrior]]  
-- [[5. Mechanics/Optional Features/Blind Fighting.md\|Blind Fighting]]  
-- [[5. Mechanics/Optional Features/Interception.md\|Interception]]  
+- [[5. Mechanics/Optional Features/Blessed Warrior (TCE).md\|Blessed Warrior]]  
+- [[5. Mechanics/Optional Features/Blind Fighting (TCE).md\|Blind Fighting]]  
+- [[5. Mechanics/Optional Features/Interception (TCE).md\|Interception]]  
 
 [Channel Divinity: Harness Divine Power](compendium/classes/paladin.md#Channel%20Divinity%20Harness%20Divine%20Power%20(Level%203)) (*3rd-level paladin feature*)
 
@@ -445,8 +445,8 @@ When you choose a fighting style, the following styles are added to your list of
 
 At 3rd level, a paladin gains the Sacred Oath feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Oath of Glory and Oath of the Watchers.
 
-- [[5. Mechanics/Classes/Paladin Oath Of Glory.md\|Oath of Glory]]  
-- [[5. Mechanics/Classes/Paladin Oath Of The Watchers.md\|Oath of the Watchers]]  
+- [[5. Mechanics/Classes/Paladin Oath Of Glory (TCE).md\|Oath of Glory]]  
+- [[5. Mechanics/Classes/Paladin Oath Of The Watchers (TCE).md\|Oath of the Watchers]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/035-01-043.webp#gallery\|A young paladin seeks divine guidance.]]
@@ -474,9 +474,9 @@ If you take a feature that replaces another feature, you gain no benefit from th
 The spells in the following list expand the ranger spell list in the "Player's Handbook". The list is organized by spell level, not character level. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
 - 1st level: [[5. Mechanics/Spells/Entangle.md\|Entangle]], [[5. Mechanics/Spells/Searing Smite.md\|Searing smite]]  
-- 2nd level: [[5. Mechanics/Spells/Aid.md\|Aid]], [[5. Mechanics/Spells/Enhance Ability.md\|Enhance ability]], [[5. Mechanics/Spells/Gust Of Wind.md\|Gust of wind]], [[5. Mechanics/Spells/Magic Weapon.md\|Magic weapon]], [[5. Mechanics/Spells/Summon Beast.md\|Summon beast]]*  
-- 3rd level: [[5. Mechanics/Spells/Elemental Weapon.md\|Elemental weapon]], [[5. Mechanics/Spells/Meld Into Stone.md\|Meld into stone]], [[5. Mechanics/Spells/Revivify.md\|Revivify]], [[5. Mechanics/Spells/Summon Fey.md\|Summon fey]]*  
-- 4th level: [[5. Mechanics/Spells/Dominate Beast.md\|Dominate beast]], [[5. Mechanics/Spells/Summon Elemental.md\|Summon elemental]]*  
+- 2nd level: [[5. Mechanics/Spells/Aid.md\|Aid]], [[5. Mechanics/Spells/Enhance Ability.md\|Enhance ability]], [[5. Mechanics/Spells/Gust Of Wind.md\|Gust of wind]], [[5. Mechanics/Spells/Magic Weapon.md\|Magic weapon]], [[5. Mechanics/Spells/Summon Beast (TCE).md\|Summon beast]]*  
+- 3rd level: [[5. Mechanics/Spells/Elemental Weapon.md\|Elemental weapon]], [[5. Mechanics/Spells/Meld Into Stone.md\|Meld into stone]], [[5. Mechanics/Spells/Revivify.md\|Revivify]], [[5. Mechanics/Spells/Summon Fey (TCE).md\|Summon fey]]*  
+- 4th level: [[5. Mechanics/Spells/Dominate Beast.md\|Dominate beast]], [[5. Mechanics/Spells/Summon Elemental (TCE).md\|Summon elemental]]*  
 - 5th level: [[5. Mechanics/Spells/Greater Restoration.md\|Greater restoration]]  
 
 #### Fighting Style Options
@@ -485,9 +485,9 @@ The spells in the following list expand the ranger spell list in the "Player's H
 
 When you choose a fighting style, the following styles are added to your list of options.
 
-- [[5. Mechanics/Optional Features/Blind Fighting.md\|Blind Fighting]]  
-- [[5. Mechanics/Optional Features/Druidic Warrior.md\|Druidic Warrior]]  
-- [[5. Mechanics/Optional Features/Thrown Weapon Fighting.md\|Thrown Weapon Fighting]]  
+- [[5. Mechanics/Optional Features/Blind Fighting (TCE).md\|Blind Fighting]]  
+- [[5. Mechanics/Optional Features/Druidic Warrior (TCE).md\|Druidic Warrior]]  
+- [[5. Mechanics/Optional Features/Thrown Weapon Fighting (TCE).md\|Thrown Weapon Fighting]]  
 
 [Spellcasting Focus](compendium/classes/ranger.md#Spellcasting%20Focus%20(Level%202)) (*2nd-level ranger feature*)
 
@@ -501,8 +501,8 @@ When you choose a fighting style, the following styles are added to your list of
 
 At 3rd level, a ranger gains the Ranger Archetype feature, which offers you the choice of a subclass. The following options are available to you when making that choice: the Fey Wanderer and the Swarmkeeper.
 
-- [[5. Mechanics/Classes/Ranger Fey Wanderer.md\|Fey Wanderer]]  
-- [[5. Mechanics/Classes/Ranger Swarmkeeper.md\|Swarmkeeper]]  
+- [[5. Mechanics/Classes/Ranger Fey Wanderer (TCE).md\|Fey Wanderer]]  
+- [[5. Mechanics/Classes/Ranger Swarmkeeper (TCE).md\|Swarmkeeper]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/039-01-048.webp#gallery\|A Halfling Ranger explores the wilds]]
@@ -529,8 +529,8 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 At 3rd level, a rogue gains the Roguish Archetype feature, which offers you the choice of a subclass. The following options are available to you when making that choice: the Phantom and the Soulknife.
 
-- [[5. Mechanics/Classes/Rogue Phantom.md\|Phantom]]  
-- [[5. Mechanics/Classes/Rogue Soulknife.md\|Soulknife]]  
+- [[5. Mechanics/Classes/Rogue Phantom (TCE).md\|Phantom]]  
+- [[5. Mechanics/Classes/Rogue Soulknife (TCE).md\|Soulknife]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/043-01-053.webp#gallery\|A Drow Rogue takes aim.]]
@@ -551,16 +551,16 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 The spells in the following list expand the sorcerer spell list in the "Player's Handbook". The list is organized by spell level, not character level. If a spell can be cast as a ritual, the ritual tag appears after the spell's name. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
-- Cantrip (0 Level): [[5. Mechanics/Spells/Booming Blade.md\|Booming blade]],* [[5. Mechanics/Spells/Green Flame Blade.md\|Green-flame blade]],* [[5. Mechanics/Spells/Lightning Lure.md\|Lightning lure]],* [[5. Mechanics/Spells/Mind Sliver.md\|Mind sliver]],* [[5. Mechanics/Spells/Sword Burst.md\|Sword burst]]*  
-- 1st Level: [[5. Mechanics/Spells/Grease.md\|Grease]], [[5. Mechanics/Spells/Tashas Caustic Brew.md\|Tasha's caustic brew]]*  
-- 2nd Level: [[5. Mechanics/Spells/Flame Blade.md\|Flame blade]], [[5. Mechanics/Spells/Flaming Sphere.md\|Flaming sphere]], [[5. Mechanics/Spells/Magic Weapon.md\|Magic weapon]], [[5. Mechanics/Spells/Tashas Mind Whip.md\|Tasha's mind whip]]*  
-- 3rd Level: [[5. Mechanics/Spells/Intellect Fortress.md\|Intellect fortress]],* [[5. Mechanics/Spells/Vampiric Touch.md\|Vampiric touch]]  
+- Cantrip (0 Level): [[5. Mechanics/Spells/Booming Blade (TCE).md\|Booming blade]],* [[5. Mechanics/Spells/Green Flame Blade (TCE).md\|Green-flame blade]],* [[5. Mechanics/Spells/Lightning Lure (TCE).md\|Lightning lure]],* [[5. Mechanics/Spells/Mind Sliver (TCE).md\|Mind sliver]],* [[5. Mechanics/Spells/Sword Burst (TCE).md\|Sword burst]]*  
+- 1st Level: [[5. Mechanics/Spells/Grease.md\|Grease]], [[5. Mechanics/Spells/Tashas Caustic Brew (TCE).md\|Tasha's caustic brew]]*  
+- 2nd Level: [[5. Mechanics/Spells/Flame Blade.md\|Flame blade]], [[5. Mechanics/Spells/Flaming Sphere.md\|Flaming sphere]], [[5. Mechanics/Spells/Magic Weapon.md\|Magic weapon]], [[5. Mechanics/Spells/Tashas Mind Whip (TCE).md\|Tasha's mind whip]]*  
+- 3rd Level: [[5. Mechanics/Spells/Intellect Fortress (TCE).md\|Intellect fortress]],* [[5. Mechanics/Spells/Vampiric Touch.md\|Vampiric touch]]  
 - 4th Level: [[5. Mechanics/Spells/Fire Shield.md\|Fire shield]]  
 - 5th Level: [[5. Mechanics/Spells/Bigbys Hand.md\|Bigby's hand]]  
-- 6th Level: [[5. Mechanics/Spells/Flesh To Stone.md\|Flesh to stone]], [[5. Mechanics/Spells/Otilukes Freezing Sphere.md\|Otiluke's freezing sphere]], [[5. Mechanics/Spells/Tashas Otherworldly Guise.md\|Tasha's otherworldly guise]]*  
-- 7th Level: [[5. Mechanics/Spells/Dream Of The Blue Veil.md\|Dream of the blue veil]]*  
+- 6th Level: [[5. Mechanics/Spells/Flesh To Stone.md\|Flesh to stone]], [[5. Mechanics/Spells/Otilukes Freezing Sphere.md\|Otiluke's freezing sphere]], [[5. Mechanics/Spells/Tashas Otherworldly Guise (TCE).md\|Tasha's otherworldly guise]]*  
+- 7th Level: [[5. Mechanics/Spells/Dream Of The Blue Veil (TCE).md\|Dream of the blue veil]]*  
 - 8th Level: [[5. Mechanics/Spells/Demiplane.md\|Demiplane]]  
-- 9th Level: [[5. Mechanics/Spells/Blade Of Disaster.md\|Blade of disaster]]*  
+- 9th Level: [[5. Mechanics/Spells/Blade Of Disaster (TCE).md\|Blade of disaster]]*  
 
 [Metamagic Options](compendium/classes/sorcerer.md#Metamagic%20Options%20(Level%203)) (*3rd-level sorcerer feature*)
 
@@ -572,8 +572,8 @@ The spells in the following list expand the sorcerer spell list in the "Player's
 
 At 1st level, a sorcerer gains the Sorcerous Origin feature, which offers you the choice of a subclass. The following options are available to you when making that choice: the Aberrant Mind and the Clockwork Soul.
 
-- [[5. Mechanics/Classes/Sorcerer Aberrant Mind.md\|Aberrant Mind]]  
-- [[5. Mechanics/Classes/Sorcerer Clockwork Soul.md\|Clockwork Soul]]  
+- [[5. Mechanics/Classes/Sorcerer Aberrant Mind (TCE).md\|Aberrant Mind]]  
+- [[5. Mechanics/Classes/Sorcerer Clockwork Soul (TCE).md\|Clockwork Soul]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/047-01-058.webp#gallery\|A Sorcerer uses transmuted spell]]
@@ -594,13 +594,13 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 The spells in the following list expand the warlock spell list in the "Player's Handbook". The list is organized by spell level, not character level. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
-- Cantrip (0 level): [[5. Mechanics/Spells/Booming Blade.md\|Booming blade]],* [[5. Mechanics/Spells/Green Flame Blade.md\|Green-flame blade]],* [[5. Mechanics/Spells/Lightning Lure.md\|Lightning lure]],* [[5. Mechanics/Spells/Mind Sliver.md\|Mind sliver]],* [[5. Mechanics/Spells/Sword Burst.md\|Sword burst]]*  
-- 3rd level: [[5. Mechanics/Spells/Intellect Fortress.md\|Intellect fortress]],* [[5. Mechanics/Spells/Spirit Shroud.md\|Spirit shroud]],* [[5. Mechanics/Spells/Summon Fey.md\|Summon fey]],* [[5. Mechanics/Spells/Summon Shadowspawn.md\|Summon shadowspawn]],* [[5. Mechanics/Spells/Summon Undead.md\|Summon undead]]*  
-- 4th level: [[5. Mechanics/Spells/Summon Aberration.md\|Summon aberration]]*  
+- Cantrip (0 level): [[5. Mechanics/Spells/Booming Blade (TCE).md\|Booming blade]],* [[5. Mechanics/Spells/Green Flame Blade (TCE).md\|Green-flame blade]],* [[5. Mechanics/Spells/Lightning Lure (TCE).md\|Lightning lure]],* [[5. Mechanics/Spells/Mind Sliver (TCE).md\|Mind sliver]],* [[5. Mechanics/Spells/Sword Burst (TCE).md\|Sword burst]]*  
+- 3rd level: [[5. Mechanics/Spells/Intellect Fortress (TCE).md\|Intellect fortress]],* [[5. Mechanics/Spells/Spirit Shroud (TCE).md\|Spirit shroud]],* [[5. Mechanics/Spells/Summon Fey (TCE).md\|Summon fey]],* [[5. Mechanics/Spells/Summon Shadowspawn (TCE).md\|Summon shadowspawn]],* [[5. Mechanics/Spells/Summon Undead (TCE).md\|Summon undead]]*  
+- 4th level: [[5. Mechanics/Spells/Summon Aberration (TCE).md\|Summon aberration]]*  
 - 5th level: [[5. Mechanics/Spells/Mislead.md\|Mislead]], [[5. Mechanics/Spells/Planar Binding.md\|Planar binding]], [[5. Mechanics/Spells/Teleportation Circle.md\|Teleportation circle]]  
-- 6th level: [[5. Mechanics/Spells/Summon Fiend.md\|Summon fiend]],* [[5. Mechanics/Spells/Tashas Otherworldly Guise.md\|Tasha's otherworldly guise]]*  
-- 7th level: [[5. Mechanics/Spells/Dream Of The Blue Veil.md\|Dream of the blue veil]]*  
-- 9th level: [[5. Mechanics/Spells/Blade Of Disaster.md\|Blade of disaster]],* [[5. Mechanics/Spells/Gate.md\|Gate]], [[5. Mechanics/Spells/Weird.md\|Weird]]  
+- 6th level: [[5. Mechanics/Spells/Summon Fiend (TCE).md\|Summon fiend]],* [[5. Mechanics/Spells/Tashas Otherworldly Guise (TCE).md\|Tasha's otherworldly guise]]*  
+- 7th level: [[5. Mechanics/Spells/Dream Of The Blue Veil (TCE).md\|Dream of the blue veil]]*  
+- 9th level: [[5. Mechanics/Spells/Blade Of Disaster (TCE).md\|Blade of disaster]],* [[5. Mechanics/Spells/Gate.md\|Gate]], [[5. Mechanics/Spells/Weird.md\|Weird]]  
 
 #### Pact Boon Option
 
@@ -608,7 +608,7 @@ The spells in the following list expand the warlock spell list in the "Player's 
 
 When you choose your Pact Boon feature, the following option is available to you.
 
-[[5. Mechanics/Optional Features/Pact Of The Talisman.md\|Pact of the Talisman]]
+[[5. Mechanics/Optional Features/Pact Of The Talisman (TCE).md\|Pact of the Talisman]]
 
 [Eldritch Versatility](compendium/classes/warlock.md#Eldritch%20Versatility%20(Level%204)) (*4th-level warlock feature*)
 
@@ -616,21 +616,21 @@ When you choose your Pact Boon feature, the following option is available to you
 
 When you choose eldritch invocations, you have access to these additional options.
 
-- [[5. Mechanics/Optional Features/Bond Of The Talisman.md\|Bond of the Talisman]]  
-- [[5. Mechanics/Optional Features/Eldritch Mind.md\|Eldritch Mind]]  
-- [[5. Mechanics/Optional Features/Far Scribe.md\|Far Scribe]]  
-- [[5. Mechanics/Optional Features/Gift Of The Protectors.md\|Gift of the Protectors]]  
-- [[5. Mechanics/Optional Features/Investment Of The Chain Master.md\|Investment of the Chain Master]]  
-- [[5. Mechanics/Optional Features/Protection Of The Talisman.md\|Protection of the Talisman]]  
-- [[5. Mechanics/Optional Features/Rebuke Of The Talisman.md\|Rebuke of the Talisman]]  
-- [[5. Mechanics/Optional Features/Undying Servitude.md\|Undying Servitude]]  
+- [[5. Mechanics/Optional Features/Bond Of The Talisman (TCE).md\|Bond of the Talisman]]  
+- [[5. Mechanics/Optional Features/Eldritch Mind (TCE).md\|Eldritch Mind]]  
+- [[5. Mechanics/Optional Features/Far Scribe (TCE).md\|Far Scribe]]  
+- [[5. Mechanics/Optional Features/Gift Of The Protectors (TCE).md\|Gift of the Protectors]]  
+- [[5. Mechanics/Optional Features/Investment Of The Chain Master (TCE).md\|Investment of the Chain Master]]  
+- [[5. Mechanics/Optional Features/Protection Of The Talisman (TCE).md\|Protection of the Talisman]]  
+- [[5. Mechanics/Optional Features/Rebuke Of The Talisman (TCE).md\|Rebuke of the Talisman]]  
+- [[5. Mechanics/Optional Features/Undying Servitude (TCE).md\|Undying Servitude]]  
 
 ### Otherworldly Patrons
 
 At 1st level, a warlock gains the Otherworldly Patron feature, which offers you the choice of a subclass. The following options are available to you when making that choice: the Fathomless and the Genie.
 
-- [[5. Mechanics/Classes/Warlock The Fathomless.md\|The Fathomless]]  
-- [[5. Mechanics/Classes/Warlock The Genie.md\|The Genie]]  
+- [[5. Mechanics/Classes/Warlock The Fathomless (TCE).md\|The Fathomless]]  
+- [[5. Mechanics/Classes/Warlock The Genie (TCE).md\|The Genie]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/051-01-063.webp#gallery\|"A tiefling warlock calls on the power of his talisman."]]
@@ -651,14 +651,14 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 The spells in the following list expand the wizard spell list in the "Player's Handbook". The list is organized by spell level, not character level. A spell's school of magic is noted, and if a spell can be cast as a ritual, the ritual tag appears after the spell's name. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
-- Cantrip (0 level): [[5. Mechanics/Spells/Booming Blade.md\|Booming blade]],* (evoc.) [[5. Mechanics/Spells/Green Flame Blade.md\|Green-flame blade]],* (evoc.) [[5. Mechanics/Spells/Lightning Lure.md\|Lightning lure]],* (evoc.) [[5. Mechanics/Spells/Mind Sliver.md\|Mind sliver]],* (ench.) [[5. Mechanics/Spells/Sword Burst.md\|Sword burst]]* (conj.)  
-- 1st level: [[5. Mechanics/Spells/Tashas Caustic Brew.md\|Tasha's caustic brew]]* (evoc.)  
-- 2nd level: [[5. Mechanics/Spells/Augury.md\|Augury]], (divin., ritual) [[5. Mechanics/Spells/Enhance Ability.md\|Enhance ability]], (trans.) [[5. Mechanics/Spells/Tashas Mind Whip.md\|Tasha's mind whip]]* (ench.)  
-- 3rd level: [[5. Mechanics/Spells/Intellect Fortress.md\|Intellect fortress]],* (abjur.) [[5. Mechanics/Spells/Speak With Dead.md\|Speak with dead]], (necro.) [[5. Mechanics/Spells/Spirit Shroud.md\|Spirit shroud]],* (necro.) [[5. Mechanics/Spells/Summon Fey.md\|Summon fey]],* (conj.) [[5. Mechanics/Spells/Summon Shadowspawn.md\|Summon shadowspawn]],* (conj.) [[5. Mechanics/Spells/Summon Undead.md\|Summon undead]]* (conj.)  
-- 4th level: [[5. Mechanics/Spells/Divination.md\|Divination]], (divin., ritual) [[5. Mechanics/Spells/Summon Aberration.md\|Summon aberration]],* (conj.) [[5. Mechanics/Spells/Summon Construct.md\|Summon construct]],* (conj.) [[5. Mechanics/Spells/Summon Elemental.md\|Summon elemental]]* (conj.)  
-- 6th level: [[5. Mechanics/Spells/Summon Fiend.md\|Summon fiend]],* (conj.) [[5. Mechanics/Spells/Tashas Otherworldly Guise.md\|Tasha's otherworldly guise]]* (trans.)  
-- 7th level: [[5. Mechanics/Spells/Dream Of The Blue Veil.md\|Dream of the blue veil]]* (conj.)  
-- 9th level: [[5. Mechanics/Spells/Blade Of Disaster.md\|Blade of disaster]]* (conj.)  
+- Cantrip (0 level): [[5. Mechanics/Spells/Booming Blade (TCE).md\|Booming blade]],* (evoc.) [[5. Mechanics/Spells/Green Flame Blade (TCE).md\|Green-flame blade]],* (evoc.) [[5. Mechanics/Spells/Lightning Lure (TCE).md\|Lightning lure]],* (evoc.) [[5. Mechanics/Spells/Mind Sliver (TCE).md\|Mind sliver]],* (ench.) [[5. Mechanics/Spells/Sword Burst (TCE).md\|Sword burst]]* (conj.)  
+- 1st level: [[5. Mechanics/Spells/Tashas Caustic Brew (TCE).md\|Tasha's caustic brew]]* (evoc.)  
+- 2nd level: [[5. Mechanics/Spells/Augury.md\|Augury]], (divin., ritual) [[5. Mechanics/Spells/Enhance Ability.md\|Enhance ability]], (trans.) [[5. Mechanics/Spells/Tashas Mind Whip (TCE).md\|Tasha's mind whip]]* (ench.)  
+- 3rd level: [[5. Mechanics/Spells/Intellect Fortress (TCE).md\|Intellect fortress]],* (abjur.) [[5. Mechanics/Spells/Speak With Dead.md\|Speak with dead]], (necro.) [[5. Mechanics/Spells/Spirit Shroud (TCE).md\|Spirit shroud]],* (necro.) [[5. Mechanics/Spells/Summon Fey (TCE).md\|Summon fey]],* (conj.) [[5. Mechanics/Spells/Summon Shadowspawn (TCE).md\|Summon shadowspawn]],* (conj.) [[5. Mechanics/Spells/Summon Undead (TCE).md\|Summon undead]]* (conj.)  
+- 4th level: [[5. Mechanics/Spells/Divination.md\|Divination]], (divin., ritual) [[5. Mechanics/Spells/Summon Aberration (TCE).md\|Summon aberration]],* (conj.) [[5. Mechanics/Spells/Summon Construct (TCE).md\|Summon construct]],* (conj.) [[5. Mechanics/Spells/Summon Elemental (TCE).md\|Summon elemental]]* (conj.)  
+- 6th level: [[5. Mechanics/Spells/Summon Fiend (TCE).md\|Summon fiend]],* (conj.) [[5. Mechanics/Spells/Tashas Otherworldly Guise (TCE).md\|Tasha's otherworldly guise]]* (trans.)  
+- 7th level: [[5. Mechanics/Spells/Dream Of The Blue Veil (TCE).md\|Dream of the blue veil]]* (conj.)  
+- 9th level: [[5. Mechanics/Spells/Blade Of Disaster (TCE).md\|Blade of disaster]]* (conj.)  
 
 [Cantrip Formulas](compendium/classes/wizard.md#Cantrip%20Formulas%20(Level%203)) (*3rd-level wizard feature*)
 
@@ -666,8 +666,8 @@ The spells in the following list expand the wizard spell list in the "Player's H
 
 At 2nd level, a wizard gains the Arcane Tradition feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Bladesinging and the Order of Scribes.
 
-- [[5. Mechanics/Classes/Wizard Bladesinging.md\|Bladesinging]]  
-- [[5. Mechanics/Classes/Wizard Order Of Scribes.md\|Order of Scribes]]  
+- [[5. Mechanics/Classes/Wizard Bladesinging (TCE).md\|Bladesinging]]  
+- [[5. Mechanics/Classes/Wizard Order Of Scribes (TCE).md\|Order of Scribes]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/055-01-068.webp#gallery\|A Drow and a High Elf Bladesinger]]
@@ -677,21 +677,21 @@ At 2nd level, a wizard gains the Arcane Tradition feature, which offers you the 
 
 New feats are presented here in alphabetical order for groups that use them.
 
-- [[5. Mechanics/Feats/Artificer Initiate.md\|Artificer Initiate]]  
-- [[5. Mechanics/Feats/Chef.md\|Chef]]  
-- [[5. Mechanics/Feats/Crusher.md\|Crusher]]  
-- [[5. Mechanics/Feats/Eldritch Adept.md\|Eldritch Adept]]  
-- [[5. Mechanics/Feats/Fey Touched.md\|Fey Touched]]  
-- [[5. Mechanics/Feats/Fighting Initiate.md\|Fighting Initiate]]  
-- [[5. Mechanics/Feats/Gunner.md\|Gunner]]  
-- [[5. Mechanics/Feats/Metamagic Adept.md\|Metamagic Adept]]  
-- [[5. Mechanics/Feats/Piercer.md\|Piercer]]  
-- [[5. Mechanics/Feats/Poisoner.md\|Poisoner]]  
-- [[5. Mechanics/Feats/Shadow Touched.md\|Shadow Touched]]  
-- [[5. Mechanics/Feats/Skill Expert.md\|Skill Expert]]  
-- [[5. Mechanics/Feats/Slasher.md\|Slasher]]  
-- [[5. Mechanics/Feats/Telekinetic.md\|Telekinetic]]  
-- [[5. Mechanics/Feats/Telepathic.md\|Telepathic]]  
+- [[5. Mechanics/Feats/Artificer Initiate (TCE).md\|Artificer Initiate]]  
+- [[5. Mechanics/Feats/Chef (TCE).md\|Chef]]  
+- [[5. Mechanics/Feats/Crusher (TCE).md\|Crusher]]  
+- [[5. Mechanics/Feats/Eldritch Adept (TCE).md\|Eldritch Adept]]  
+- [[5. Mechanics/Feats/Fey Touched (TCE).md\|Fey Touched]]  
+- [[5. Mechanics/Feats/Fighting Initiate (TCE).md\|Fighting Initiate]]  
+- [[5. Mechanics/Feats/Gunner (TCE).md\|Gunner]]  
+- [[5. Mechanics/Feats/Metamagic Adept (TCE).md\|Metamagic Adept]]  
+- [[5. Mechanics/Feats/Piercer (TCE).md\|Piercer]]  
+- [[5. Mechanics/Feats/Poisoner (TCE).md\|Poisoner]]  
+- [[5. Mechanics/Feats/Shadow Touched (TCE).md\|Shadow Touched]]  
+- [[5. Mechanics/Feats/Skill Expert (TCE).md\|Skill Expert]]  
+- [[5. Mechanics/Feats/Slasher (TCE).md\|Slasher]]  
+- [[5. Mechanics/Feats/Telekinetic (TCE).md\|Telekinetic]]  
+- [[5. Mechanics/Feats/Telepathic (TCE).md\|Telepathic]]  
 
 > [!gallery]
 > ![[6. Resources/Books/Tashas Cauldron Of Everything/img/057-01-070.webp#gallery\|Eldritch Adept]]

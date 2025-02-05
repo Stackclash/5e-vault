@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: mountain
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/mountain
   - monster/size/medium
   - monster/type/humanoid/aarakocra
-statblock: inline
 aliases:
   - Aarakocra
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Aarakocra.md|Aarakocra]]
+# [[5. Mechanics\Bestiary\Humanoid\Aarakocra.md|Aarakocra]]
 *Source: Monster Manual p. 12*
 
 Aarakocra range the Howling Gyre, an endless storm of mighty winds and lashing rains that surrounds the tranquil realm of Aaqa in the Elemental Plane of Air. Making aerial patrols, these birdlike humanoids guard the windy borders of their home against invaders from the Elemental Plane of Earth, such as gargoyles, their sworn enemies.
@@ -67,27 +70,21 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 - "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120\
     \ ft., one target. Hit: 5 (1d6 + 2) piercing damage."
   "name": "Javelin"
-- "desc": "Five aarakocra within 30 feet of each other can magically summon an [[5. Mechanics/Bestiary/Elemental/Air Elemental.md|air\
+- "desc": "Five aarakocra within 30 feet of each other can magically summon an [[5. Mechanics/Bestiary/Elemental/Air Element(AL).md|air\
     \ elemental]]. Each of the five\
     \ must use its action and movement on three consecutive turns to perform an aerial\
-    \ dance and must maintain [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
-    \ while doing so (as if concentrating on a spell). When all five have finished\
-    \ their third turn of the dance, the elemental appears in an unoccupied space\
-    \ within 60 feet of them. It is friendly toward them and obeys their spoken commands.\
-    \ It remains for 1 hour, until it or all its summoners die, or until any of its\
-    \ summoners dismisses it as a bonus action. A summoner can't perform the dance\
-    \ again until it finishes a short rest. When the elemental returns to the Elemental\
-    \ Plane of Air, any aarakocra within 5 feet of it can return with it."
+    \ dance and must maintain [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
+    \ while doing so (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
+    \ on a spell). When all five have finished their third turn of the dance, the\
+    \ elemental appears in an unoccupied space within 60 feet of them. It is friendly\
+    \ toward them and obeys their spoken commands. It remains for 1 hour, until it\
+    \ or all its summoners die, or until any of its summoners dismisses it as a bonus\
+    \ action. A summoner can't perform the dance again until it finishes a short rest.\
+    \ When the elemental returns to the Elemental Plane of Air, any aarakocra within\
+    \ 5 feet of it can return with it."
   "name": "Summon Air Elemental"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "ToA"
-- "EGW"
-- "IDRotF"
-- "CRCotN"
-- "LoX"
 "image": "5. Mechanics/Bestiary/Humanoid/token/aarakocra.webp"
 ```
 ^statblock

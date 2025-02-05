@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/underdark
   - monster/size/large
   - monster/type/plant
-statblock: inline
 aliases:
   - Myconid Sovereign
 ---
-# [[5. Mechanics/Bestiary/Plant/Myconid Sovereign.md|Myconid Sovereign]]
+# [[5. Mechanics\Bestiary\Plant\Myconid Sovereign.md|Myconid Sovereign]]
 *Source: Monster Manual p. 232*
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
@@ -67,14 +70,14 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
     \ destroyed, and it can't be animated again in this way."
   "name": "Animating Spores (3/Day)"
 - "desc": "The myconid ejects spores at one creature it can see within 5 feet of it.\
-    \ The target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] while it hallucinates.\
+    \ The target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] target\
+    \ is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] while it hallucinates.\
     \ The target can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Hallucination Spores"
 - "desc": "The myconid ejects spores at one creature it can see within 5 feet of it.\
-    \ The target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ The target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Pacifying Spores"
@@ -86,11 +89,6 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
   "name": "Rapport Spores"
 "source":
 - "MM"
-- "WDMM"
-- "GoS"
-- "IMR"
-- "IDRotF"
-- "KftGV"
 "image": "5. Mechanics/Bestiary/Plant/token/myconid-sovereign.webp"
 ```
 ^statblock

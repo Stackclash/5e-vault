@@ -3,13 +3,21 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/artificer/battle-smith
-  - spell/class/cleric/peace-domain
+  - spell/class/bard
+  - spell/class/cleric
   - spell/class/paladin
-  - spell/class/paladin/oath-of-the-watchers
-  - spell/class/sorcerer/divine-soul
-  - spell/level/4
+  - spell/level/4th-level
   - spell/school/abjuration
+  - spell/subclass/battle-smith
+  - spell/subclass/divine-soul
+  - spell/subclass/oath-of-the-watchers
+  - spell/subclass/peace-domain
+level: 4th-level
+range: false
+school: Abjuration
+time: 1 action
+duration: 'Concentration, up to 10 minute'
+components: V
 aliases:
   - Aura of Purity
 ---
@@ -21,8 +29,8 @@ aliases:
 - **Components:** V
 - **Duration:** Concentration, up to 10 minute
 
-Purifying energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) can't become diseased, has resistance to poison damage, and has advantage on saving throws against effects that cause any of the following conditions: [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]], [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]], and [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]].
+Purifying energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) can't become diseased, has resistance to poison damage, and has advantage on saving throws against effects that cause any of the following conditions: [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]], [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]], and [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]].
 
-**Classes**: [[5. Mechanics/Classes/Artificer Battle Smith.md\|Artificer (Battle Smith)]], [[5. Mechanics/Classes/Cleric Peace Domain.md\|Cleric (Peace Domain)]], [[5. Mechanics/Classes/Paladin Oath Of The Watchers.md\|Paladin (Oath of the Watchers)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Artificer Battle Smith (TCE)\|Artificer (Battle Smith)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Paladin Oath Of The Watchers (TCE)\|Paladin (Oath of the Watchers)]]; [[List Spells Classes Cleric Peace Domain (TCE)\|Cleric (Peace Domain)]]
 
 *Source: Player's Handbook p. 216*

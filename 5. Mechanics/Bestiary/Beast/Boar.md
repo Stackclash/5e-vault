@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: 'grassland, forest, hill'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
@@ -9,12 +13,11 @@ tags:
   - monster/environment/hill
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Boar
 ---
-# [[5. Mechanics/Bestiary/Beast/Boar.md|Boar]]
-*Source: Monster Manual p. 319. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Beast\Boar.md|Boar]]
+*Source: Monster Manual p. 319. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock
 "name": "Boar"
@@ -40,7 +43,7 @@ aliases:
 - "desc": "If the boar moves at least 20 feet straight toward a target and then hits\
     \ it with a tusk attack on the same turn, the target takes an extra 3 (1d6) slashing\
     \ damage. If the target is a creature, it must succeed on a DC 11 Strength saving\
-    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Charge"
 - "desc": "If the boar takes 7 damage or less that would reduce it to 0 hit points,\
     \ it is reduced to 1 hit point instead."
@@ -51,13 +54,6 @@ aliases:
   "name": "Tusk"
 "source":
 - "MM"
-- "SKT"
-- "ToA"
-- "WDMM"
-- "DIP"
-- "MOT"
-- "CM"
-- "WBtW"
 "image": "5. Mechanics/Bestiary/Beast/token/boar.webp"
 ```
 ^statblock

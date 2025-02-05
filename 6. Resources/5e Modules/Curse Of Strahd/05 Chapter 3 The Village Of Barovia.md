@@ -13,9 +13,9 @@ aliases:
 
 The village of Barovia is the saddest place in the land, its residents so terrified of Strahd that they rarely venture from their homes. The village lies in the shadow of Castle Ravenloft, buried under fog but still unable to hide from the vampire's sight.
 
-Until recently, Strahd had been paying nightly visits to [[4. World Almanac/NPCs/Ireena Kolyana.md\|Ireena Kolyana]], the adopted daughter of the village burgomaster. Ireena carries the soul of Strahd's beloved Tatyana and looks exactly like her. Strahd intends to make Ireena his bride, turn her into a vampire, and lock her away in the castle crypts for all time.
+Until recently, Strahd had been paying nightly visits to [[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]], the adopted daughter of the village burgomaster. Ireena carries the soul of Strahd's beloved Tatyana and looks exactly like her. Strahd intends to make Ireena his bride, turn her into a vampire, and lock her away in the castle crypts for all time.
 
-> [!quote]- A quote from [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]] in I, Strahd: The Memoirs of a Vampire  
+> [!quote] A quote from [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] in I, Strahd: The Memoirs of a Vampire  
 > 
 > Same voice, same face, same graceful body, she was Tatyana come back to life again. I was absolutely witless from astonishment.
 
@@ -28,13 +28,13 @@ When the characters first approach the village, read:
 > Tall shapes loom out of the dense fog that surrounds everything. The muddy ground underfoot gives way to slick, wet cobblestones. The tall shapes become recognizable as village dwellings. The windows of each house stare out from pools of blackness. No sound cuts the silence except for mournful sobbing that echoes through the streets from a distance.
 ^13e
 
-The sobbing comes from [[4. World Almanac/NPCs/Mad Mary.md\|Mad Mary]]'s townhouse (area E3). With the exception of areas E1 and E2, all the shops in the village are permanently closed, and the unoccupied shops have been looted of anything valuable. Claw marks cover most of the walls.
+The sobbing comes from [[4. World Almanac/NPCs/Mad Mary (COS).md\|Mad Mary]]'s townhouse (area E3). With the exception of areas E1 and E2, all the shops in the village are permanently closed, and the unoccupied shops have been looted of anything valuable. Claw marks cover most of the walls.
 
 When the fog eventually burns off, Castle Ravenloft looms over the village, like a lance piercing the sky.
 
 ### House Occupants
 
-If the characters explore a residence other than [[4. World Almanac/NPCs/Mad Mary.md\|Mad Mary]]'s townhouse (area E3) or the burgomaster's mansion (area E4), roll a `dice: d20|avg|noform` (`d20`) and consult the following table to determine the house's occupants.
+If the characters explore a residence other than [[4. World Almanac/NPCs/Mad Mary (COS).md\|Mad Mary]]'s townhouse (area E3) or the burgomaster's mansion (area E4), roll a `dice:d20|noform|avg` (`d20`) and consult the following table to determine the house's occupants.
 
 **Occupants of Houses in Barovia**
 
@@ -43,9 +43,9 @@ If the characters explore a residence other than [[4. World Almanac/NPCs/Mad Mar
 | dice: d20 | Occupants |
 |-----------|-----------|
 | 1–3 | None |
-| 4–8 | `dice: 2d4\|avg\|noform` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarms of rats]] |
+| 4–8 | `dice:2d4\|noform\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarms of rats]] |
 | 9–16 | Barovian villagers |
-| 17–20 | `dice: 2d4\|avg\|noform` (`2d4`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md\|Strahd zombies]] (see appendix D) |
+| 17–20 | `dice:2d4\|noform\|avg` (`2d4`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md\|Strahd zombies]] (see appendix D) |
 ^occupants-of-houses-in-barovia
 
 #### Rats
@@ -54,7 +54,7 @@ A house infested with rats looks abandoned. The rats are servants of Strahd and 
 
 #### Barovian Villagers
 
-A house of Barovian villagers is home to `dice: 1d4|avg|noform` (`1d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]) and `dice: 1d8|avg|noform` (`1d8`)−1 children (male and female noncombatants). Characters who listen at the door hear low, muffled whispers from within. These villagers aren't interested in speaking with strangers and never attack first, always fleeing from danger if possible. At night they cower by candlelight and keep makeshift holy symbols close at hand.
+A house of Barovian villagers is home to `dice:1d4|noform|avg` (`1d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]) and `dice:1d8|noform|avg` (`1d8`)−1 children (male and female noncombatants). Characters who listen at the door hear low, muffled whispers from within. These villagers aren't interested in speaking with strangers and never attack first, always fleeing from danger if possible. At night they cower by candlelight and keep makeshift holy symbols close at hand.
 
 #### Strahd Zombies
 
@@ -79,7 +79,7 @@ The establishment is 70 feet long by 40 feet wide. The owner, Bildrath Cantemir 
 
 Bildrath trades with the Vistani when they pass through. He is also happy to make a profit from any strangers unlucky enough to find themselves here. He serves his own interests and offers no sanctuary. He never bargains since, as he says, "If you want it badly enough, you'll pay for it." He has no competition in the village.
 
-If the characters give Bildrath a hard time, he calls [[4. World Almanac/NPCs/Parriwimple.md\|Parriwimple]] (LG male human), his nephew and stock-boy, to help him out. [[4. World Almanac/NPCs/Parriwimple.md\|Parriwimple]] has the statistics of a [[5. Mechanics/Bestiary/Humanoid/Gladiator.md\|gladiator]], except that he has an Intelligence of 6 and doesn't carry a shield (AC 14). [[4. World Almanac/NPCs/Parriwimple.md\|Parriwimple]]'s real name is Parpol Cantemir, but no one in the village calls him that. His muscles rippling beneath his leather tunic should give ample notice of his strength. At the same time, [[4. World Almanac/NPCs/Parriwimple.md\|Parriwimple]] is simple-minded. He is devoted to his uncle and will not follow the characters as long as Bildrath has something to say about it.
+If the characters give Bildrath a hard time, he calls [[4. World Almanac/NPCs/Parriwimple (COS).md\|Parriwimple]] (LG male human), his nephew and stock-boy, to help him out. [[4. World Almanac/NPCs/Parriwimple (COS).md\|Parriwimple]] has the statistics of a [[5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|gladiator]], except that he has an Intelligence of 6 and doesn't carry a shield (AC 14). [[4. World Almanac/NPCs/Parriwimple (COS).md\|Parriwimple]]'s real name is Parpol Cantemir, but no one in the village calls him that. His muscles rippling beneath his leather tunic should give ample notice of his strength. At the same time, [[4. World Almanac/NPCs/Parriwimple (COS).md\|Parriwimple]] is simple-minded. He is devoted to his uncle and will not follow the characters as long as Bildrath has something to say about it.
 
 ### E2. Blood of the Vine Tavern
 
@@ -88,7 +88,7 @@ If the characters give Bildrath a hard time, he calls [[4. World Almanac/NPCs/Pa
 > A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.
 ^147
 
-The tavern building is about 60 feet square. Close inspection of the sign reveals that it originally read "Blood of the Vine." (An "n" has been scratched over with the "f.") This once finely appointed tavern has grown shoddy over the years. A blazing fire in the hearth gives scant warmth to the few huddled souls within. They include the barkeep, three Vistani sitting together, and a man named [[4. World Almanac/NPCs/Ismark Kolyanovich.md\|Ismark Kolyanovich]]—who happens to be the son of the village burgomaster, Kolyan Indirovich.
+The tavern building is about 60 feet square. Close inspection of the sign reveals that it originally read "Blood of the Vine." (An "n" has been scratched over with the "f.") This once finely appointed tavern has grown shoddy over the years. A blazing fire in the hearth gives scant warmth to the few huddled souls within. They include the barkeep, three Vistani sitting together, and a man named [[4. World Almanac/NPCs/Ismark Kolyanovich (COS).md\|Ismark Kolyanovich]]—who happens to be the son of the village burgomaster, Kolyan Indirovich.
 
 #### Roleplaying Ismark
 
@@ -96,7 +96,7 @@ The tavern building is about 60 feet square. Close inspection of the sign reveal
 
 Ismark (LG male human [[5. Mechanics/Bestiary/Humanoid/Veteran.md\|veteran]]) is a young man who sits by himself at a corner table, sipping his wine. Other villagers call him "Ismark the Lesser" because he has lived in the shadow of his father for most of his life.
 
-Ismark isn't a typically dour Barovian. He invites the characters to join him, offers to pay for their wine, and asks for their aid in protecting his adopted sister, [[4. World Almanac/NPCs/Ireena Kolyana.md\|Ireena Kolyana]]. If they agree to help, he takes them to the burgomaster's residence (area E4). He wants the characters to help him escort Ireena to Vallaki, a settlement in the heart of the valley, beyond the view of Castle Ravenloft and (he hopes) beyond the reach of Strahd. Ismark knows that moving Ireena is a gamble, since she's vulnerable to Strahd when she is outside their home, but he has heard assertions that Vallaki is well-defended.
+Ismark isn't a typically dour Barovian. He invites the characters to join him, offers to pay for their wine, and asks for their aid in protecting his adopted sister, [[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]]. If they agree to help, he takes them to the burgomaster's residence (area E4). He wants the characters to help him escort Ireena to Vallaki, a settlement in the heart of the valley, beyond the view of Castle Ravenloft and (he hopes) beyond the reach of Strahd. Ismark knows that moving Ireena is a gamble, since she's vulnerable to Strahd when she is outside their home, but he has heard assertions that Vallaki is well-defended.
 
 Ismark is as tight-lipped as any of the other Barovian villagers, unless the talk deals with Ireena or Strahd. Ismark knows everything the other villagers know. He also knows that, for some unknown reason, Strahd is attracted to Ireena and desires her above all others.
 
@@ -114,9 +114,9 @@ A pudgy little man named Arik Lorensk (CN male human [[5. Mechanics/Bestiary/Hum
 
 ##### Vistani Owners
 
-Three Vistani [[5. Mechanics/Bestiary/Humanoid/Vistana Spy.md\|spies]] (N female humans) named Alenka, Mirabel, and Sorvia sit at a table near the front door. They own the tavern and see to it that all customers pay their tabs. They otherwise show little interest in the characters.
+Three Vistani [[5. Mechanics/Bestiary/Humanoid/Vistana Spy (COS).md\|spies]] (N female humans) named Alenka, Mirabel, and Sorvia sit at a table near the front door. They own the tavern and see to it that all customers pay their tabs. They otherwise show little interest in the characters.
 
-If the characters arrive in the company of other Vistani, the owners are much more likely to engage them in conversation and provide useful information. They suggest that the characters visit [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] (see chapter 2, area G) to have their fortunes read.
+If the characters arrive in the company of other Vistani, the owners are much more likely to engage them in conversation and provide useful information. They suggest that the characters visit [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] (see chapter 2, area G) to have their fortunes read.
 
 ### E3. Mad Mary's Townhouse
 
@@ -127,11 +127,11 @@ If the characters arrive in the company of other Vistani, the owners are much mo
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/016-cos03-04.webp#center\|Mad Mary]]
 
-The house, which is about 40 feet square, is boarded up and barricaded from the inside. [[4. World Almanac/NPCs/Mad Mary.md\|Mad Mary]] (CN female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]) sits in the center of the floor in an upstairs bedroom, clutching a malformed doll. She is lost in her sorrow and despondency. She barely recognizes the presence of anyone in the room. She says nothing in the presence of anger, but she will talk, albeit haltingly, to someone who talks with her gently.
+The house, which is about 40 feet square, is boarded up and barricaded from the inside. [[4. World Almanac/NPCs/Mad Mary (COS).md\|Mad Mary]] (CN female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]) sits in the center of the floor in an upstairs bedroom, clutching a malformed doll. She is lost in her sorrow and despondency. She barely recognizes the presence of anyone in the room. She says nothing in the presence of anger, but she will talk, albeit haltingly, to someone who talks with her gently.
 
-Mary hid her beloved daughter, [[4. World Almanac/NPCs/Gertruda.md\|Gertruda]], in this house for the girl's entire life. [[4. World Almanac/NPCs/Gertruda.md\|Gertruda]], now a teenager, broke out of the house a week ago and has not been seen since. Her mother fears the worst—and is justified in doing so. See area K42 in chapter 4 for more information on [[4. World Almanac/NPCs/Gertruda.md\|Gertruda]]'s fate.
+Mary hid her beloved daughter, [[4. World Almanac/NPCs/Gertruda (COS).md\|Gertruda]], in this house for the girl's entire life. [[4. World Almanac/NPCs/Gertruda (COS).md\|Gertruda]], now a teenager, broke out of the house a week ago and has not been seen since. Her mother fears the worst—and is justified in doing so. See area K42 in chapter 4 for more information on [[4. World Almanac/NPCs/Gertruda (COS).md\|Gertruda]]'s fate.
 
-The malformed doll has a strange leer and wears a sackcloth dress. It belonged to Mary in her youth and was passed down to [[4. World Almanac/NPCs/Gertruda.md\|Gertruda]]. [[4. World Almanac/NPCs/Gadof Blinsky.md\|Gadof Blinsky]], the toymaker of Vallaki (see chapter 5, area N7), made the doll. Stitched into the hem of its dress is a frayed tag bearing the words "Is No Fun, Is No Blinsky!"
+The malformed doll has a strange leer and wears a sackcloth dress. It belonged to Mary in her youth and was passed down to [[4. World Almanac/NPCs/Gertruda (COS).md\|Gertruda]]. [[4. World Almanac/NPCs/Gadof Blinsky (COS).md\|Gadof Blinsky]], the toymaker of Vallaki (see chapter 5, area N7), made the doll. Stitched into the hem of its dress is a frayed tag bearing the words "Is No Fun, Is No Blinsky!"
 
 ### E4. Burgomaster's Mansion
 
@@ -142,7 +142,7 @@ The malformed doll has a strange leer and wears a sackcloth dress. It belonged t
 
 Characters who survey the grounds can, with a successful DC 11 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, discern trampled weeds all around the mansion as well as scores of wolf paw prints and human footprints. The footprints were made by zombies and ghouls under Strahd's control.
 
-[[4. World Almanac/NPCs/Ireena Kolyana.md\|Ireena Kolyana]] (LG female human [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]] with 14 hit points), the adopted daughter of the burgomaster, is inside the mansion and won't open the heavily barred door to anyone unless she is convinced that those outside her door have no allegiance to Strahd. If the characters convince her, either with good roleplaying or a successful DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]] or [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check, or if Ismark is with them, she opens the door and invites them in.
+[[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]] (LG female human [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]] with 14 hit points), the adopted daughter of the burgomaster, is inside the mansion and won't open the heavily barred door to anyone unless she is convinced that those outside her door have no allegiance to Strahd. If the characters convince her, either with good roleplaying or a successful DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]] or [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check, or if Ismark is with them, she opens the door and invites them in.
 
 If the characters enter the mansion, read:
 
@@ -161,7 +161,7 @@ Ireena, a striking young woman with auburn hair, has been bitten twice by Strahd
 
 She tells the characters that wolves and other terrible creatures attacked the house night after night for weeks. The burgomaster's heart couldn't stand the constant assault, and he died three days ago. Strangely, since his death, the house has not come under attack.
 
-She says that no one from the village has been brave enough to help Ismark take Kolyan Indirovich to the cemetery for proper burial. Ireena asks the characters if they would be so kind as to help Ismark deliver her father's body safely to [[4. World Almanac/NPCs/Donavich.md\|Donavich]], the local priest (area E5). She refuses to be taken to Vallaki or anywhere else while the burgomaster lies dead on the mansion floor.
+She says that no one from the village has been brave enough to help Ismark take Kolyan Indirovich to the cemetery for proper burial. Ireena asks the characters if they would be so kind as to help Ismark deliver her father's body safely to [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]], the local priest (area E5). She refuses to be taken to Vallaki or anywhere else while the burgomaster lies dead on the mansion floor.
 
 ### E5. Church
 
@@ -177,7 +177,7 @@ If the characters approach the church doors, add:
 > The heavy wooden doors of the church are covered with claw marks and scarred by fire.
 ^154
 
-The village priest, [[4. World Almanac/NPCs/Donavich.md\|Donavich]], lives here. Other Barovians shun the church for reasons that will quickly become obvious.
+The village priest, [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]], lives here. Other Barovians shun the church for reasons that will quickly become obvious.
 
 The following areas correspond to labels on the map of the church below.
 
@@ -194,7 +194,7 @@ The following areas correspond to labels on the map of the church below.
 > You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer. Suddenly, the prayer is blotted out by an inhuman scream that rises up from beneath the wooden floor.
 ^156
 
-The scream comes from the church's undercroft (area E5g). The soft voice uttering the prayer belongs to [[4. World Almanac/NPCs/Donavich.md\|Donavich]], the priest (see area E5f).
+The scream comes from the church's undercroft (area E5g). The soft voice uttering the prayer belongs to [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]], the priest (see area E5f).
 
 #### E5b. Doru's Bedroom
 
@@ -203,7 +203,7 @@ The scream comes from the church's undercroft (area E5g). The soft voice utterin
 > This dirty, lightless room contains a wooden bed with a straw-filled mattress. Mounted above the bed's headboard is a wooden holy symbol.
 ^158
 
-This room once belonged to [[4. World Almanac/NPCs/Doru.md\|Doru]], [[4. World Almanac/NPCs/Donavich.md\|Donavich]]'s son, who is trapped in the undercroft (area E5g). It hasn't been used in more than a year and contains nothing of value.
+This room once belonged to [[4. World Almanac/NPCs/Doru (COS).md\|Doru]], [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]]'s son, who is trapped in the undercroft (area E5g). It hasn't been used in more than a year and contains nothing of value.
 
 #### E5c. Donavich's Bedroom
 
@@ -212,7 +212,7 @@ This room once belonged to [[4. World Almanac/NPCs/Doru.md\|Doru]], [[4. World A
 > This dirty room contains a wooden bed with a straw-filled mattress, next to which rests a small table with an oil lamp burning brightly on it. Mounted above the bed's headboard is a wooden sun-shaped holy symbol.
 ^15a
 
-This is [[4. World Almanac/NPCs/Donavich.md\|Donavich]]'s room and contains nothing of value.
+This is [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]]'s room and contains nothing of value.
 
 #### E5d. Trapdoor
 
@@ -221,7 +221,7 @@ This is [[4. World Almanac/NPCs/Donavich.md\|Donavich]]'s room and contains noth
 > Time and neglect have punched holes in the ceiling of this moldy room, which contains a few broken roof shingles amid puddles of water. In one corner, set into the floor, is a heavy wooden trapdoor held shut with a chain and a padlock. A young man's screams of anguish can be heard through the door.
 ^15c
 
-[[4. World Almanac/NPCs/Donavich.md\|Donavich]] lost the key to the iron padlock. If the chain is removed and the trapdoor is opened, the screaming in the undercroft stops. The trapdoor is swollen and stuck in its frame, so that a successful DC 12 Strength check is required to pull it open. Below it is a wooden staircase that descends 15 feet into the undercroft (area E5g).
+[[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]] lost the key to the iron padlock. If the chain is removed and the trapdoor is opened, the screaming in the undercroft stops. The trapdoor is swollen and stuck in its frame, so that a successful DC 12 Strength check is required to pull it open. Below it is a wooden staircase that descends 15 feet into the undercroft (area E5g).
 
 #### E5e. Office
 
@@ -250,20 +250,20 @@ If the characters have not already entered the undercroft, add:
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/020-cos03-07.webp#center\|Donavich]]
 
-[[4. World Almanac/NPCs/Donavich.md\|Donavich]] (LG male human [[5. Mechanics/Bestiary/Humanoid/Acolyte.md\|acolyte]]) has been praying throughout the night. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son [[4. World Almanac/NPCs/Doru.md\|Doru]] and several other villagers stormed Castle Ravenloft in revolt, having been lured there by a wizard in black robes who came to Barovia from a faraway land (see chapter 2, area M, for more information on the wizard). By all accounts, the wizard died by Strahd's hand, and so too did [[4. World Almanac/NPCs/Doru.md\|Doru]], who returned to his father as a vampire spawn. [[4. World Almanac/NPCs/Donavich.md\|Donavich]] was able to trap his son in the church's undercroft, where he remains to this day.
+[[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]] (LG male human [[5. Mechanics/Bestiary/Humanoid/Acolyte.md\|acolyte]]) has been praying throughout the night. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son [[4. World Almanac/NPCs/Doru (COS).md\|Doru]] and several other villagers stormed Castle Ravenloft in revolt, having been lured there by a wizard in black robes who came to Barovia from a faraway land (see chapter 2, area M, for more information on the wizard). By all accounts, the wizard died by Strahd's hand, and so too did [[4. World Almanac/NPCs/Doru (COS).md\|Doru]], who returned to his father as a vampire spawn. [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]] was able to trap his son in the church's undercroft, where he remains to this day.
 
-[[4. World Almanac/NPCs/Doru.md\|Doru]] hasn't fed since he was imprisoned, and he cries out to his father at all hours. Meanwhile, [[4. World Almanac/NPCs/Donavich.md\|Donavich]] prays day and night, hoping that the gods will tell him how to save [[4. World Almanac/NPCs/Doru.md\|Doru]] without destroying him. If the characters seem intent on slaying [[4. World Almanac/NPCs/Doru.md\|Doru]], [[4. World Almanac/NPCs/Donavich.md\|Donavich]] does his best to stop them. If [[4. World Almanac/NPCs/Doru.md\|Doru]] dies, [[4. World Almanac/NPCs/Donavich.md\|Donavich]] falls to the floor and weeps inconsolably, overcome with despair.
+[[4. World Almanac/NPCs/Doru (COS).md\|Doru]] hasn't fed since he was imprisoned, and he cries out to his father at all hours. Meanwhile, [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]] prays day and night, hoping that the gods will tell him how to save [[4. World Almanac/NPCs/Doru (COS).md\|Doru]] without destroying him. If the characters seem intent on slaying [[4. World Almanac/NPCs/Doru (COS).md\|Doru]], [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]] does his best to stop them. If [[4. World Almanac/NPCs/Doru (COS).md\|Doru]] dies, [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]] falls to the floor and weeps inconsolably, overcome with despair.
 
-In addition to the lore known to all Barovians (see "Barovian Lore" in chapter 2), [[4. World Almanac/NPCs/Donavich.md\|Donavich]] knows the following useful information:
+In addition to the lore known to all Barovians (see "Barovian Lore" in chapter 2), [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]] knows the following useful information:
 
-- [[4. World Almanac/NPCs/Ireena Kolyana.md\|Ireena Kolyana]] isn't the natural daughter of Kolyan Indirovich. Although Ireena never knew, Kolyan found her at the edge of the Svalich Woods near the Pillarstone of Ravenloft. She was but a girl then and seemed to have no memory of her past. Kolyan adopted her and loved her dearly.  
+- [[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]] isn't the natural daughter of Kolyan Indirovich. Although Ireena never knew, Kolyan found her at the edge of the Svalich Woods near the Pillarstone of Ravenloft. She was but a girl then and seemed to have no memory of her past. Kolyan adopted her and loved her dearly.  
 - Every night at midnight, the spirits of dead adventurers rise up out of the church graveyard, forming a silent procession as they walk the road toward Castle Ravenloft. (See "March of the Dead" in the "Special Events" section at the chapter's end.)  
 
 ##### Funeral for the Burgomaster
 
-If the characters bring Kolyan Indirovich's body to the church, [[4. World Almanac/NPCs/Donavich.md\|Donavich]] presses the characters into helping him bury the burgomaster in the cemetery (area E6) at dawn. During the burial, [[4. World Almanac/NPCs/Donavich.md\|Donavich]] offers prayers to the Morninglord in exchange for Kolyan Indirovich's deliverance from Barovia.
+If the characters bring Kolyan Indirovich's body to the church, [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]] presses the characters into helping him bury the burgomaster in the cemetery (area E6) at dawn. During the burial, [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]] offers prayers to the Morninglord in exchange for Kolyan Indirovich's deliverance from Barovia.
 
-Once Kolyan is put in the ground, [[4. World Almanac/NPCs/Donavich.md\|Donavich]] suggests that Ireena be taken as far from Castle Ravenloft as possible. He proposes that the characters take her to the Abbey of Saint Markovia in Krezk (chapter 8) or, failing that, the fortified town of Vallaki (chapter 5). [[4. World Almanac/NPCs/Donavich.md\|Donavich]] is unaware that the abbey, once a bastion of good, has become a den of evil.
+Once Kolyan is put in the ground, [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]] suggests that Ireena be taken as far from Castle Ravenloft as possible. He proposes that the characters take her to the Abbey of Saint Markovia in Krezk (chapter 8) or, failing that, the fortified town of Vallaki (chapter 5). [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]] is unaware that the abbey, once a bastion of good, has become a den of evil.
 
 #### E5g. Undercroft
 
@@ -274,9 +274,9 @@ Once Kolyan is put in the ground, [[4. World Almanac/NPCs/Donavich.md\|Donavich]
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/021-cos03-08.webp#center\|Doru]]
 
-The shape is [[4. World Almanac/NPCs/Doru.md\|Doru]], a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] sent by Strahd to torment [[4. World Almanac/NPCs/Donavich.md\|Donavich]] and cast down the church. [[4. World Almanac/NPCs/Doru.md\|Doru]] is starved for blood and brave enough to attack a lone character. If the characters approach as a group, he does his best to avoid them while hissing, "I can smell your blood!" If they cut off his escape, he lunges forth and attacks.
+The shape is [[4. World Almanac/NPCs/Doru (COS).md\|Doru]], a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] sent by Strahd to torment [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]] and cast down the church. [[4. World Almanac/NPCs/Doru (COS).md\|Doru]] is starved for blood and brave enough to attack a lone character. If the characters approach as a group, he does his best to avoid them while hissing, "I can smell your blood!" If they cut off his escape, he lunges forth and attacks.
 
-If the characters restrain [[4. World Almanac/NPCs/Doru.md\|Doru]] and either promise him blood or threaten to destroy him, or if they kill him and then raise him from the dead, he recounts the events that led to his downfall (see area E5f).
+If the characters restrain [[4. World Almanac/NPCs/Doru (COS).md\|Doru]] and either promise him blood or threaten to destroy him, or if they kill him and then raise him from the dead, he recounts the events that led to his downfall (see area E5f).
 
 #### Fortunes of Ravenloft
 
@@ -321,9 +321,9 @@ This event occurs as the characters make their way through the village.
 > You hear the sound of small, wooden wheels rolling across damp cobbles. You trace the lonely sound to a hunched figure bundled in rags, pushing a rickety wooden cart through the fog.
 ^16d
 
-[[4. World Almanac/NPCs/Morgantha.md\|Morgantha]], a [[5. Mechanics/Bestiary/Fiend/Night Hag.md\|night hag]] in the guise of an old woman, has come to the village from Old Bonegrinder to sell her dream pastries for 1 gp apiece (see chapter 6 for a description of the pastries). She goes from house to house, knocking on doors. Most of the time, no one answers. When someone does, [[4. World Almanac/NPCs/Morgantha.md\|Morgantha]] tries to peddle her wares, offering customers an escape from the misery and despair of everyday Barovian life. If the characters shadow her for a while, she collects payment from one household in the form of a seven-year-old boy named Lucian Jarov (LG male human noncombatant). Lucian's parents plead with [[4. World Almanac/NPCs/Morgantha.md\|Morgantha]] not to take their boy, but she snatches the crying child from their grasp, stuffs him in a sack, straps him down to her peddler's cart, and casually makes her way back to Old Bonegrinder.
+[[4. World Almanac/NPCs/Morgantha (COS).md\|Morgantha]], a [[5. Mechanics/Bestiary/Fiend/Night Hag.md\|night hag]] in the guise of an old woman, has come to the village from Old Bonegrinder to sell her dream pastries for 1 gp apiece (see chapter 6 for a description of the pastries). She goes from house to house, knocking on doors. Most of the time, no one answers. When someone does, [[4. World Almanac/NPCs/Morgantha (COS).md\|Morgantha]] tries to peddle her wares, offering customers an escape from the misery and despair of everyday Barovian life. If the characters shadow her for a while, she collects payment from one household in the form of a seven-year-old boy named Lucian Jarov (LG male human noncombatant). Lucian's parents plead with [[4. World Almanac/NPCs/Morgantha (COS).md\|Morgantha]] not to take their boy, but she snatches the crying child from their grasp, stuffs him in a sack, straps him down to her peddler's cart, and casually makes her way back to Old Bonegrinder.
 
-[[4. World Almanac/NPCs/Morgantha.md\|Morgantha]] recognizes that the characters are strangers and does her best to avoid them. If the characters demand the release of the child, she grudgingly complies, knowing that she can always come back for the boy later. She fights only in self-defense and offers the following information in exchange for her life:
+[[4. World Almanac/NPCs/Morgantha (COS).md\|Morgantha]] recognizes that the characters are strangers and does her best to avoid them. If the characters demand the release of the child, she grudgingly complies, knowing that she can always come back for the boy later. She fights only in self-defense and offers the following information in exchange for her life:
 
 - Strahd has mastery over the land and the weather, and his spies include the Vistani.  
 - There's a Vistani camp to the west, on the shores of Tser Pool (chapter 2, area G), and another on the outskirts of Vallaki (chapter 5, area N9).  

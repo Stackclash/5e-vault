@@ -4,19 +4,31 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/cleric/war-domain
+  - spell/class/bard
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin/oath-of-conquest
-  - spell/class/paladin/oath-of-redemption
-  - spell/class/paladin/oath-of-the-ancients
   - spell/class/ranger
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
   - spell/class/wizard
-  - spell/level/4
+  - spell/level/4th-level
+  - spell/optfeature/eternal-mountain-defense
   - spell/school/abjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/eldritch-knight
+  - spell/subclass/mountain-domain
+  - spell/subclass/oath-of-conquest
+  - spell/subclass/oath-of-redemption
+  - spell/subclass/oath-of-the-ancients
+  - spell/subclass/oath-of-thunder
+  - spell/subclass/the-lithic
+  - spell/subclass/the-shapechanger
+  - spell/subclass/war-domain
+level: 4th-level
+range: false
+school: Abjuration
+time: 1 action
+duration: 'Concentration, up to 1 hour'
+components: 'V, S, diamond dust worth 100 gp, which the spell consumes'
 aliases:
   - Stoneskin
 ---
@@ -30,6 +42,6 @@ aliases:
 
 This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Cleric War Domain.md\|Cleric (War Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Conquest.md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption.md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Paladin Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Mountain Domain (KPDM)\|Cleric (Mountain Domain)]]; [[List Spells Classes Paladin Oath Of Conquest (XGE)\|Paladin (Oath of Conquest)]]; [[List Spells Classes Paladin Oath Of Redemption (XGE)\|Paladin (Oath of Redemption)]]; [[List Spells Classes Paladin Oath Of The Ancients\|Paladin (Oath of the Ancients)]]; [[List Spells Classes Paladin Oath Of Thunder (KPDM)\|Paladin (Oath of Thunder)]]; [[List Spells Classes Warlock The Lithic (GRIFFONSSADDLEBAG3)\|Warlock (The Lithic)]]; [[List Spells Classes Warlock The Shapechanger (GRIFFONSSADDLEBAG4)\|Warlock (The Shapechanger)]]; [[List Spells Classes Cleric War Domain\|Cleric (War Domain)]]
 
-*Source: Player's Handbook p. 278. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 278. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

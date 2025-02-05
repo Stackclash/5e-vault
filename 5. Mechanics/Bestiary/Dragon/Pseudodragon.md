@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: 'mountain, forest, hill, urban, desert, coastal'
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
@@ -12,12 +16,11 @@ tags:
   - monster/environment/urban
   - monster/size/tiny
   - monster/type/dragon
-statblock: inline
 aliases:
   - Pseudodragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Pseudodragon.md|Pseudodragon]]
-*Source: Monster Manual p. 254, Eberron: Rising from the Last War. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Pseudodragon.md|Pseudodragon]]
+*Source: Monster Manual p. 254. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The elusive pseudodragon dwells in the quiet places of the world, making its home in the hollows of trees and small caves. With its red-brown scales, horns, and a maw filled with sharp teeth, a pseudodragon resembles a tiny red dragon but its disposition is playful.
 
@@ -85,22 +88,13 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4\
     \ + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving\
-    \ throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 hour.\
-    \ If the saving throw fails by 5 or more, the target falls [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for 1 hour.\
+    \ If the saving throw fails by 5 or more, the target falls [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
     \ for the same duration, or until it takes damage or another creature uses an\
     \ action to shake it awake."
   "name": "Sting"
 "source":
 - "MM"
-- "RoT"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "ERLW"
-- "IMR"
-- "EGW"
-- "IDRotF"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Dragon/token/pseudodragon.webp"
 ```
 ^statblock

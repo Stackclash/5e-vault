@@ -7,7 +7,7 @@ aliases:
   - Ability Checks; Typical Difficulty Classes
 ---
 # Ability Checks; Typical Difficulty Classes
-*Source: Player's Handbook p. 174. Available in the SRD and the Basic Rules.* 
+*Source: Player's Handbook p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
 
 **Typical Difficulty Classes**
 

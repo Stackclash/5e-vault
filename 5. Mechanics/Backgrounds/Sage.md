@@ -8,7 +8,7 @@ aliases:
   - Sage
 ---
 # Sage
-*Source: Player's Handbook p. 137. Available in the Basic Rules.*  
+*Source: Player's Handbook p. 137. Available in the Basic Rules (2014)*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], [[/5. Mechanics/Rules/Skills.md#History\|History]]  
 - **Languages.** Two of your choice  

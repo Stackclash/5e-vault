@@ -11,6 +11,36 @@ aliases:
 *[[Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Dungeon Master's Guide p. 97*  
 
+> [!tldr] Class and Feature Progression
+> 
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='3'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oathbreaker%20(Level%203)'>Oathbreaker</a></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Aura%20of%20Hate%20(Level%207)'>Aura of Hate</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Supernatural%20Resistance%20(Level%2015)'>Supernatural Resistance</a></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Dread%20Lord%20(Level%2020)'>Dread Lord</a></td></tr>
+> </tbody></table>
+^class-progession
+
 
 ## Class Features
 
@@ -45,7 +75,7 @@ As an action, the paladin targets one undead creature he or she can see within 3
 
 ### Dreadful Aspect (Level 3)
 
-As an action, the paladin channels the darkest emotions and focuses them into a burst of magical menace. Each creature of the paladin's choice within 30 feet of the paladin must make a Wisdom saving throw if it can see the paladin. On a failed save, the target is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] of the paladin for 1 minute. If a creature [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] by this effect ends its turn more than 30 feet away from the paladin, it can attempt another Wisdom saving throw to end the effect on it.
+As an action, the paladin channels the darkest emotions and focuses them into a burst of magical menace. Each creature of the paladin's choice within 30 feet of the paladin must make a Wisdom saving throw if it can see the paladin. On a failed save, the target is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of the paladin for 1 minute. If a creature [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] by this effect ends its turn more than 30 feet away from the paladin, it can attempt another Wisdom saving throw to end the effect on it.
 
 ### Aura of Hate (Level 7)
 
@@ -59,8 +89,8 @@ At 15th level, the paladin gains resistance to bludgeoning, piercing, and slashi
 
 ### Dread Lord (Level 20)
 
-At 20th level, the paladin can, as an action, surround himself or herself with an aura of gloom that lasts for 1 minute. The aura reduces any bright light in a 30-foot radius around the paladin to dim light. Whenever an enemy that is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] by the paladin starts its turn in the aura, it takes `dice: 4d10|avg|noform` (`4d10`) psychic damage. Additionally, the paladin and creatures he or she chooses in the aura are draped in deeper shadow. Creatures that rely on sight have disadvantage on attack rolls against creatures draped in this shadow.
+At 20th level, the paladin can, as an action, surround himself or herself with an aura of gloom that lasts for 1 minute. The aura reduces any bright light in a 30-foot radius around the paladin to dim light. Whenever an enemy that is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] by the paladin starts its turn in the aura, it takes `dice:4d10|noform|avg` (`4d10`) psychic damage. Additionally, the paladin and creatures he or she chooses in the aura are draped in deeper shadow. Creatures that rely on sight have disadvantage on attack rolls against creatures draped in this shadow.
 
-While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to `dice: 3d10|avg|noform` (`3d10`) + the paladin's Charisma modifier.
+While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to `dice:3d10|noform|avg` (`3d10`) + the paladin's Charisma modifier.
 
 After activating the aura, the paladin can't do so again until he or she finishes a long rest.

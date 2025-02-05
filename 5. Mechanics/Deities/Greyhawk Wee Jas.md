@@ -13,7 +13,7 @@ aliases:
   - Wee Jas
 ---
 # Wee Jas
-*Source: Player's Handbook p. 295, Xanathar's Guide to Everything p. 19, Sword Coast Adventurer's Guide p. 125* 
+*Source: Player's Handbook p. 295, Xanathar's Guide to Everything p. 19, Sword Coast Adventurer's Guide p. 125, Tasha's Cauldron of Everything p. 31* 
 
 - **Alignment**: Lawful Neutral
 - **Domains**: Death, Grave, Knowledge, Order, Arcana

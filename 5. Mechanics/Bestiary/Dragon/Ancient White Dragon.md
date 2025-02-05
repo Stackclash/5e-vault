@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 20
+environments: arctic
+size: Gargantuan
 tags:
   - compendium/src/5e/mm
   - monster/cr/20
   - monster/environment/arctic
   - monster/size/gargantuan
   - monster/type/dragon
-statblock: inline
 aliases:
   - Ancient White Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Ancient White Dragon.md|Ancient White Dragon]]
-*Source: Monster Manual p. 100. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Ancient White Dragon.md|Ancient White Dragon]]
+*Source: Monster Manual p. 100. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
 
@@ -146,7 +149,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ (2d8 + 8) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
@@ -164,7 +167,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
     \ must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The dragon\
     \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
@@ -197,7 +200,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \n- Blinding Sleet. Driving sleet falls in a 40-foot-high, 20-foot-radius\
     \ cylinder centered on a point the dragon can see within 120 feet of it. Each\
     \ creature in that area must succeed on a DC 15 Constitution saving throw or be\
-    \ [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until initiative count 20\
+    \ [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] until initiative count 20\
     \ on the next round.  \n- Whirling Wind. A strong wind blows in a 30-foot-radius\
     \ sphere centered on the dragon (see the \"Dungeon Master's Guide\" for rules\
     \ on \"strong wind\"). The dragon's flying is not affected by this wind, which\
@@ -230,14 +233,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ dragon's lair reflect light like mirrors, giving creatures in the lair other\
     \ than the dragon disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
     \ checks made to hide. In addition, at each intersection or branching passage,\
-    \ any creature other than the dragon has a 50% chance chance of going in a different\
+    \ any creature other than the dragon has a 50 percent chance of going in a different\
     \ direction from the direction it intends.  "
   "name": "Additional Regional Effects"
 "source":
 - "MM"
-- "SKT"
-- "EGW"
-- "IDRotF"
 "image": "5. Mechanics/Bestiary/Dragon/token/ancient-white-dragon.webp"
 ```
 ^statblock

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: urban
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/urban
   - monster/size/large
   - monster/type/beast
-statblock: inline
 aliases:
   - Draft Horse
 ---
-# [[5. Mechanics/Bestiary/Beast/Draft Horse.md|Draft Horse]]
-*Source: Monster Manual p. 321, Curse of Strahd. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Draft Horse.md|Draft Horse]]
+*Source: Monster Manual p. 321, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Draft Horse"
@@ -40,12 +43,6 @@ aliases:
 "source":
 - "MM"
 - "CoS"
-- "SKT"
-- "WDH"
-- "GoS"
-- "BGDIA"
-- "PaBTSO"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Beast/token/draft-horse.webp"
 ```
 ^statblock

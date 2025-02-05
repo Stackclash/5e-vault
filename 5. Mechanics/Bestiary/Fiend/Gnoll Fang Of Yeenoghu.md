@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: 'grassland, forest, hill, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
@@ -10,11 +14,10 @@ tags:
   - monster/environment/hill
   - monster/size/medium
   - monster/type/fiend/gnoll
-statblock: inline
 aliases:
   - Gnoll Fang of Yeenoghu
 ---
-# [[5. Mechanics/Bestiary/Fiend/Gnoll Fang Of Yeenoghu.md|Gnoll Fang of Yeenoghu]]
+# [[5. Mechanics\Bestiary\Fiend\Gnoll Fang Of Yeenoghu.md|Gnoll Fang of Yeenoghu]]
 *Source: Monster Manual p. 163*
 
 Gnolls celebrate their victories by performing demonic rituals and making blood offerings to Yeenoghu.
@@ -81,11 +84,6 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
   "name": "Claw"
 "source":
 - "MM"
-- "BGDIA"
-- "IDRotF"
-- "SatO"
-- "ToFW"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Fiend/token/gnoll-fang-of-yeenoghu.webp"
 ```
 ^statblock

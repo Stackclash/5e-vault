@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: 'forest, hill, arctic'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
@@ -10,12 +14,11 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-statblock: inline
 aliases:
   - Werebear
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]]
-*Source: Monster Manual p. 208. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Humanoid\Werebear.md|Werebear]]
+*Source: Monster Manual p. 208. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Werebears are powerful lycanthropes with the ability to temper their monstrous natures and reject their violent impulses. In humanoid form, they are large, muscular, and covered in hair matching the color of their ursine form's fur. A werebear is a loner by nature, fearing what might happen to innocent creatures around it when its bestial nature takes over.
 
@@ -45,7 +48,7 @@ Some individuals see little point in fighting the curse and accept what they are
 > 
 > The following information applies to specific lycanthropes.
 > 
-> **.** **[[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 > 
 > **[[5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]].** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 > 
@@ -107,9 +110,6 @@ Some individuals see little point in fighting the curse and accept what they are
   "name": "Greataxe (Humanoid or Hybrid Form Only)"
 "source":
 - "MM"
-- "GoS"
-- "EGW"
-- "KftGV"
 "image": "5. Mechanics/Bestiary/Humanoid/token/werebear.webp"
 ```
 ^statblock

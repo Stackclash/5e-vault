@@ -10,9 +10,10 @@ tags:
 location: 
 condition: healthy
 {#if resource.fluffImages && resource.fluffImages.size > 0 }{#let first=resource.fluffImages.get(0)}
-image: {first.vaultPath}
+images: 
+- {first.vaultPath}
 {/let}{#else}
-image:
+images: []
 {/if} 
 relationships: []
 aliases: [{resource.name}]

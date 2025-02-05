@@ -1,20 +1,23 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: underdark
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
   - monster/environment/underdark
   - monster/size/small
   - monster/type/beast
-statblock: inline
 aliases:
   - Giant Fire Beetle
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Fire Beetle.md|Giant Fire Beetle]]
-*Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Giant Fire Beetle.md|Giant Fire Beetle]]
+*Source: Monster Manual p. 325. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
-A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle's glands continue to shed light for `dice: 1d6|avg|noform` (`1d6`) days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
+A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle's glands continue to shed light for `dice:1d6|noform|avg` (`1d6`) days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
 
 ```statblock
 "name": "Giant Fire Beetle"
@@ -46,10 +49,6 @@ A giant fire beetle is a nocturnal creature that takes its name from a pair of g
   "name": "Bite"
 "source":
 - "MM"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "PSX"
 "image": "5. Mechanics/Bestiary/Beast/token/giant-fire-beetle.webp"
 ```
 ^statblock

@@ -15,6 +15,6 @@ aliases:
 ![[5. Mechanics/Items/img/ring-of-free-action.webp#right]]  
 
 
-While you wear this ring, difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] or [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]].
+While you wear this ring, difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] or [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]].
 
-*Source: Dungeon Master's Guide p. 191. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

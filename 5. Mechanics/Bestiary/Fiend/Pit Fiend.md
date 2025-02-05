@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 20
+environments: null
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/20
   - monster/size/large
   - monster/type/fiend/devil
-statblock: inline
 aliases:
   - Pit Fiend
 ---
-# [[5. Mechanics/Bestiary/Fiend/Pit Fiend.md|Pit Fiend]]
-*Source: Monster Manual p. 77, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Fiend\Pit Fiend.md|Pit Fiend]]
+*Source: Monster Manual p. 77, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The undisputed lords of most other devils, pit fiends attend the archdukes and archduchesses of the Nine Hells and carry out their wishes. These mighty devils are the generals of the Nine Hells, leading its infernal legions into battle.
 
@@ -19,7 +22,7 @@ With an inflated sense of superiority and entitlement, pit fiends form a grotesq
 
 A pit fiend is a hulking monster with a whip-like tail and enormous wings that it wraps around itself like a cloak. Armored scales cover its body, and its fanged maw drips a venom that can lay the mightiest mortal creatures low. Fearless in battle, a pit fiend takes on the most powerful foes in single combat, demonstrating its supremacy and an arrogance that prevents it from acknowledging any chance of defeat.
 
-> [!quote]- A quote from Herobaal, the Pit Fiend  
+> [!quote] A quote from Herobaal, the Pit Fiend  
 > 
 > Your war-torn kingdom is rife with corruption, its people dying from starvation and strife. They cry out for new leadership—someone with the charisma and the courage to put an end to the turmoil and suffering. You could be that someone!
 
@@ -119,7 +122,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -132,13 +135,13 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > **Summon Devil (1/Day).** The devil chooses what to summon and attempts a magical summoning.
 > 
-> - A barbed devil has a 30% chance chance of summoning one barbed devil.  
-> - A bearded devil has a 30% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg|noform` (`3d6`) spined devils, `dice: 1d6|avg|noform` (`1d6`) bearded devils, or one erinyes.  
-> - A horned devil has a 30% chance chance of summoning one horned devil.  
-> - An ice devil has a 60% chance chance of summoning one ice devil.  
-> - A pit fiend summons `dice: 2d4|avg|noform` (`2d4`) bearded devils, `dice: 1d4|avg|noform` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A barbed devil has a 30 percent chance of summoning one barbed devil.  
+> - A bearded devil has a 30 percent chance of summoning one bearded devil.  
+> - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|avg` (`3d6`) spined devils, `dice:1d6|noform|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A horned devil has a 30 percent chance of summoning one horned devil.  
+> - An ice devil has a 60 percent chance of summoning one ice devil.  
+> - A pit fiend summons `dice:2d4|noform|avg` (`2d4`) bearded devils, `dice:1d4|noform|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -168,7 +171,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 14"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "20"
@@ -181,8 +184,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   "name": "Innate Spellcasting"
 - "desc": "Any creature hostile to the pit fiend that starts its turn within 20 feet\
     \ of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend\
-    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. On a failed\
-    \ save, the creature is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]. On a failed\
+    \ save, the creature is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ until the start of its next turn. If a creature's saving throw is successful,\
     \ the creature is immune to the pit fiend's Fear Aura for the next 24 hours."
   "name": "Fear Aura"
@@ -197,10 +200,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 22 (4d6\
     \ + 8) piercing damage. The target must succeed on a DC 21 Constitution saving\
-    \ throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. While\
-    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, the target\
+    \ throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]. While\
+    \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] in this way, the target\
     \ can't regain hit points, and it takes 21 (6d6) poison damage at the start of\
-    \ each of its turns. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ each of its turns. The [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success."
   "name": "Bite"
@@ -215,12 +218,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   "name": "Tail"
 "source":
 - "MM"
-- "WDMM"
-- "BGDIA"
-- "EGW"
 - "TCE"
-- "SatO"
-- "ToFW"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/pit-fiend.webp"
 ```

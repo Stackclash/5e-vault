@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: 'forest, swamp, hill, urban, desert, arctic'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
@@ -12,12 +16,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/undead
-statblock: inline
 aliases:
   - Revenant
 ---
-# [[5. Mechanics/Bestiary/Undead/Revenant.md|Revenant]]
-*Source: Monster Manual p. 259, Curse of Strahd, Eberron: Rising from the Last War*
+# [[5. Mechanics\Bestiary\Undead\Revenant.md|Revenant]]
+*Source: Monster Manual p. 259, Curse of Strahd*
 
 A revenant forms from the soul of a mortal who met a cruel and undeserving fate. It claws its way back into the world to seek revenge against the one who wronged it. The revenant reclaims its mortal body and superficially resembles a zombie. However, instead of lifeless eyes, a revenant's eyes burn with resolve and flare in the presence of its adversary. If the revenant's original body was destroyed or is otherwise unavailable, the spirit of the revenant enters another humanoid corpse. Regardless of the body the revenant uses as a vessel, its adversary always recognizes the revenant for what it truly is.
 
@@ -57,9 +60,9 @@ A revenant doesn't require air, food, drink, or sleep.
   "Constitution": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"
 "cr": "5"
@@ -92,28 +95,17 @@ A revenant doesn't require air, food, drink, or sleep.
   "name": "Fist"
 - "desc": "The revenant targets one creature it can see within 30 feet of it and against\
     \ which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw.\
-    \ On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
     \ until the revenant deals damage to it, or until the end of the revenant's next\
-    \ turn. When the paralysis ends, the target is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ of the revenant for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ turn. When the paralysis ends, the target is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+    \ of the revenant for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ target can repeat the saving throw at the end of each of its turns, with disadvantage\
-    \ if it can see the revenant, ending the [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ if it can see the revenant, ending the [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ condition on itself on a success."
   "name": "Vengeful Glare"
 "source":
 - "MM"
 - "CoS"
-- "PotA"
-- "ToA"
-- "WDMM"
-- "ERLW"
-- "EGW"
-- "MOT"
-- "CRCotN"
-- "JttRC"
-- "PaBTSO"
-- "SatO"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Undead/token/revenant.webp"
 ```
 ^statblock

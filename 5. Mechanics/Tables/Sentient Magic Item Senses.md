@@ -7,7 +7,7 @@ aliases:
   - Sentient Magic Item Senses
 ---
 # Sentient Magic Item Senses
-*Source: Dungeon Master's Guide p. 214. Available in the SRD.* 
+*Source: Dungeon Master's Guide p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 
 **Sentient Magic Item Senses**
 

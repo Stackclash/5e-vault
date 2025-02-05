@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: 'underdark, forest'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
@@ -8,12 +12,11 @@ tags:
   - monster/environment/underdark
   - monster/size/large
   - monster/type/beast
-statblock: inline
 aliases:
   - Giant Bat
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Bat.md|Giant Bat]]
-*Source: Monster Manual p. 323, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Giant Bat.md|Giant Bat]]
+*Source: Monster Manual p. 323, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Giant Bat"
@@ -35,7 +38,7 @@ aliases:
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The bat can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]."
+- "desc": "The bat can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]."
   "name": "Echolocation"
 - "desc": "The bat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on hearing."
@@ -46,11 +49,7 @@ aliases:
   "name": "Bite"
 "source":
 - "MM"
-- "PotA"
-- "WDMM"
-- "MOT"
 - "TCE"
-- "PSX"
 "image": "5. Mechanics/Bestiary/Beast/token/giant-bat.webp"
 ```
 ^statblock

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: 'forest, swamp'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
@@ -8,12 +12,11 @@ tags:
   - monster/environment/swamp
   - monster/size/large
   - monster/type/plant
-statblock: inline
 aliases:
   - Shambling Mound
 ---
-# [[5. Mechanics/Bestiary/Plant/Shambling Mound.md|Shambling Mound]]
-*Source: Monster Manual p. 270, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Plant\Shambling Mound.md|Shambling Mound]]
+*Source: Monster Manual p. 270, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A shambling mound, sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless "head" at its top.
 
@@ -62,8 +65,8 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
   "Stealth": !!int "2"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 "languages": ""
 "cr": "5"
@@ -73,15 +76,15 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
   "name": "Lightning Absorption"
 "actions":
 - "desc": "The shambling mound makes two slam attacks. If both attacks hit a Medium\
-    \ or smaller target, the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ or smaller target, the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
     \ (escape DC 14), and the shambling mound uses its Engulf on it."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8\
     \ + 4) bludgeoning damage."
   "name": "Slam"
-- "desc": "The shambling mound engulfs a Medium or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by it. The engulfed target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and unable to breathe,\
+- "desc": "The shambling mound engulfs a Medium or smaller creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+    \ by it. The engulfed target is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], and unable to breathe,\
     \ and it must succeed on a DC 14 Constitution saving throw at the start of each\
     \ of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves,\
     \ the engulfed target moves with it. The mound can have only one creature engulfed\
@@ -90,22 +93,6 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "MOT"
-- "CM"
-- "WBtW"
-- "JttRC"
-- "KftGV"
-- "PSI"
-- "BMT"
-- "HFStCM"
-- "GHLoE"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Plant/token/shambling-mound.webp"
 ```

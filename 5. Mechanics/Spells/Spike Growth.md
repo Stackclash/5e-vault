@@ -3,13 +3,22 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/cleric/nature-domain
+  - spell/class/bard
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
   - spell/class/ranger
-  - spell/class/warlock/the-genie
-  - spell/level/2
+  - spell/level/2nd-level
   - spell/school/transmutation
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/greenleaf-college
+  - spell/subclass/hedge-mage
+  - spell/subclass/nature-domain
+  - spell/subclass/the-genie
+level: 2nd-level
+range: false
+school: Transmutation
+time: 1 action
+duration: 'Concentration, up to 10 minute'
+components: 'V, S, seven sharp thorns or seven small twigs, each sharpened to a point'
 aliases:
   - Spike Growth
 ---
@@ -21,10 +30,10 @@ aliases:
 - **Components:** V, S, seven sharp thorns or seven small twigs, each sharpened to a point
 - **Duration:** Concentration, up to 10 minute
 
-The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes `dice: 2d4|avg|noform` (`2d4`) piercing damage for every 5 feet it travels.
+The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes `dice:2d4|noform|avg` (`2d4`) piercing damage for every 5 feet it travels.
 
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Bard Greenleaf College (KPDM)\|Bard (Greenleaf College)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]; [[List Spells Classes Warlock The Genie (TCE)\|Warlock (The Genie)]]
 
-*Source: Player's Handbook p. 277. Available in the SRD.*
+*Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

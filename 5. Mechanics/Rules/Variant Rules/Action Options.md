@@ -29,7 +29,7 @@ The attacker has disadvantage on its attack roll if the target is holding the it
 
 This option makes it easier for melee combatants to harry each other with opportunity attacks.
 
-When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] condition or the [[5. Mechanics/Spells/Shocking Grasp.md\|shocking grasp]] spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
+When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] condition or the [[5. Mechanics/Spells/Shocking Grasp.md\|shocking grasp]] spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
 
 ## Overrun
 
@@ -37,7 +37,7 @@ When a creature tries to move through a hostile creature's space, the mover can 
 
 ## Shove Aside
 
-With this option, a creature uses the special [[/5. Mechanics/Rules/Actions.md#shove\|shove]] attack from the "Player's Handbook" to force a target to the side, rather than away. The attacker has disadvantage on its Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
+With this option, a creature uses the special [[/5. Mechanics/Rules/Actions.md#Shove\|shove]] attack from the "Player's Handbook" to force a target to the side, rather than away. The attacker has disadvantage on its Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
 
 ## Tumble
 

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: underdark
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
   - monster/environment/underdark
   - monster/size/tiny
   - monster/type/undead
-statblock: inline
 aliases:
   - Flameskull
 ---
-# [[5. Mechanics/Bestiary/Undead/Flameskull.md|Flameskull]]
-*Source: Monster Manual p. 134, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the Basic Rules.*
+# [[5. Mechanics\Bestiary\Undead\Flameskull.md|Flameskull]]
+*Source: Monster Manual p. 134, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the Basic Rules (2014)*
 
 Blazing green flames and mad, echoing laughter follow a disembodied skull as it patrols its demesne. When the undead flameskull discovers trespassers, it blasts the intruders with fiery rays from its eyes and dreadful spells called up from the dark recesses of its memory.
 
@@ -59,9 +62,9 @@ A flameskull doesn't require air, food, drink, or sleep
   "Arcana": !!int "5"
 "damage_resistances": "lightning, necrotic, piercing"
 "damage_immunities": "cold, fire, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common"
 "cr": "4"
@@ -95,24 +98,7 @@ A flameskull doesn't require air, food, drink, or sleep
 "source":
 - "MM"
 - "CoS"
-- "LMoP"
-- "PotA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "SDW"
-- "BGDIA"
-- "RMBRE"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "WBtW"
-- "CRCotN"
-- "JttRC"
-- "DSotDQ"
-- "HftT"
-- "PaBTSO"
-- "SatO"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/flameskull.webp"
 ```

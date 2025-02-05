@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: swamp
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/swamp
   - monster/size/medium
   - monster/type/humanoid/bullywug
-statblock: inline
 aliases:
   - Bullywug
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|Bullywug]]
+# [[5. Mechanics\Bestiary\Humanoid\Bullywug.md|Bullywug]]
 *Source: Monster Manual p. 35*
 
 Life as a bullywug is nasty, brutish, and wet. These frog-headed amphibious humanoids must stay constantly moist, dwelling in rainy forests, marshes, and damp caves. Always hungry and thoroughly evil, bullywugs overwhelm opponents with superior numbers when they can, but they flee from serious threats to search for easier prey.
@@ -84,11 +87,6 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
   "name": "Spear"
 "source":
 - "MM"
-- "HotDQ"
-- "WDMM"
-- "GoS"
-- "EGW"
-- "WBtW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/bullywug.webp"
 ```
 ^statblock

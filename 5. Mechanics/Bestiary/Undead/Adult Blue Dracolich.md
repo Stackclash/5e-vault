@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 17
+environments: desert
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/17
   - monster/environment/desert
   - monster/size/huge
   - monster/type/undead
-statblock: inline
 aliases:
   - Adult Blue Dracolich
 ---
-# [[5. Mechanics/Bestiary/Undead/Adult Blue Dracolich.md|Adult Blue Dracolich]]
+# [[5. Mechanics\Bestiary\Undead\Adult Blue Dracolich.md|Adult Blue Dracolich]]
 *Source: Monster Manual p. 84*
 
 Even as long-lived as they are, all dragons must eventually die. This thought doesn't sit well with many dragons, some of which allow themselves to be transformed by necromantic energy and ancient rituals into powerful undead dracoliches. Only the most narcissistic dragons choose this path, knowing that by doing so, they sever all ties to their kin and the dragon gods.
@@ -48,7 +51,7 @@ The dracolich has immunity to poison. It also retains any immunities it had prio
 
 ### Condition Immunities
 
-The dracolich can't be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], or [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. It also doesn't suffer from [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]].
+The dracolich can't be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], or [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]. It also doesn't suffer from [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]].
 
 ### Magic Resistance
 
@@ -81,9 +84,9 @@ The dracolich has advantage on saving throws against spells and other magical ef
   "Perception": !!int "14"
 "damage_resistances": "necrotic"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 24"
 "languages": "Common, Draconic"
 "cr": "17"
@@ -108,7 +111,7 @@ The dracolich has advantage on saving throws against spells and other magical ef
   "name": "Tail"
 - "desc": "Each creature of the dracolich's choice that is within 120 feet of the\
     \ dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute. A creature\
+    \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] for 1 minute. A creature\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success. If a creature's saving throw is successful or the effect\
     \ ends for it, the creature is immune to the dracolich's Frightful Presence for\
@@ -127,7 +130,7 @@ The dracolich has advantage on saving throws against spells and other magical ef
   "name": "Tail Attack"
 - "desc": "The dracolich beats its tattered wings. Each creature within 10 feet of\
     \ the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (2d6\
-    \ + 7) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ + 7) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
     \ After beating its wings this way, the dracolich can fly up to half its flying\
     \ speed."
   "name": "Wing Attack (Costs 2 Actions)"
@@ -138,13 +141,13 @@ The dracolich has advantage on saving throws against spells and other magical ef
   "name": ""
 - "desc": "- Part of the ceiling collapses above one creature that the dragon can\
     \ see within 120 feet of it. The creature must succeed on a DC 15 Dexterity saving\
-    \ throw or take 10 (3d6) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
-    \ and buried. The buried target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ throw or take 10 (3d6) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+    \ and buried. The buried target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
     \ and unable to breathe or stand up. A creature can take an action to make a DC\
     \ 10 Strength check, ending the buried state on a success.  \n- A cloud of sand\
     \ swirls about in a 20-foot-radius sphere centered on a point the dragon can see\
     \ within 120 feet of it. The cloud spreads around corners. Each creature in the\
-    \ cloud must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ cloud must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  \n- Lightning arcs, forming\
     \ a 5-foot-wide line between two of the lair's solid surfaces that the dragon\
@@ -157,12 +160,12 @@ The dracolich has advantage on saving throws against spells and other magical ef
     \ can use one or both of the following additional lair actions while in its lair:\n\
     \n- Misleading Mirage. Until initiative count 20 on the next round, at each\
     \ intersection or branching passage in the lair, a creature other than the dragon\
-    \ has a 50% chance chance of going in a different direction from the direction\
+    \ has a 50 percent chance of going in a different direction from the direction\
     \ it intends.  \n- Sudden Sinkhole. The dragon chooses a point on the ground\
     \ that it can see within 120 feet of it. A 5-foot-radius, 20-foot-deep pit forms\
     \ centered on that point. A creature on the ground above where the pit formed\
     \ must make a DC 15 Dexterity saving throw. On a failed save, a creature falls\
-    \ to the bottom of the pit, taking 7 (2d6) bludgeoning damage and landing [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ to the bottom of the pit, taking 7 (2d6) bludgeoning damage and landing [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
     \ On a successful save, a creature moves to the nearest unoccupied space instead\
     \ of falling in the pit.  "
   "name": "Additional Lair Actions"
@@ -195,10 +198,6 @@ The dracolich has advantage on saving throws against spells and other magical ef
   "name": "Additional Regional Effects"
 "source":
 - "MM"
-- "WDMM"
-- "CM"
-- "JttRC"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Undead/token/adult-blue-dracolich.webp"
 ```
 ^statblock

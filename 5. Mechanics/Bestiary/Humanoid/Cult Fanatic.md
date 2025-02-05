@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: urban
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/urban
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Cult Fanatic
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md|Cult Fanatic]]
-*Source: Monster Manual p. 345, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Humanoid\Cult Fanatic.md|Cult Fanatic]]
+*Source: Monster Manual p. 345, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else
 
@@ -50,8 +53,8 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
     \ [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\n2nd level (3 slots):\
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]"
   "name": "Spellcasting"
-- "desc": "The fanatic has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
+- "desc": "The fanatic has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]."
   "name": "Dark Devotion"
 "actions":
 - "desc": "The fanatic makes two melee attacks."
@@ -62,33 +65,7 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 "source":
 - "MM"
 - "CoS"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SLW"
-- "BGDIA"
-- "IMR"
-- "EGW"
-- "MOT"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "CRCotN"
-- "JttRC"
-- "LoX"
-- "KftGV"
-- "PSI"
-- "PaBTSO"
-- "ToFW"
-- "BMT"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/cult-fanatic.webp"
 ```

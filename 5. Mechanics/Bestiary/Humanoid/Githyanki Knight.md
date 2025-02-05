@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 8
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/8
   - monster/size/medium
   - monster/type/humanoid/gith
-statblock: inline
 aliases:
   - Githyanki Knight
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Githyanki Knight.md|Githyanki Knight]]
+# [[5. Mechanics\Bestiary\Humanoid\Githyanki Knight.md|Githyanki Knight]]
 *Source: Monster Manual p. 160, Vecna: Eve of Ruin*
 
 The githyanki plunder countless worlds from the decks of their astral vessels and the backs of red dragons. Feathers, beads, gems, and precious metals decorate their armor and weapons-the legendary silver swords with which they cut through their foes. Since winning their freedom from the mind flayers, the githyanki have become ruthless conquerors under the rulership of their dread lich-queen, Vlaakith.
@@ -51,7 +54,7 @@ Zerthimon challenged Gith's motives, claiming that her strict martial leadership
 
 Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md|mind flayers]] enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
 
-> [!quote]- A quote from Aristul the Yellow, master of planar lore  
+> [!quote] A quote from Aristul the Yellow, master of planar lore  
 > 
 > The githyanki and the githzerai were so profoundly scarred by their enslavement to the mind flayers that they forget they were one race, united. Having won their freedom, they wage war against each other with a hatred none can fully comprehend.
 
@@ -101,12 +104,6 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
   "name": "Silver Greatsword"
 "source":
 - "MM"
-- "WDMM"
-- "LoX"
-- "PaBTSO"
-- "AATM"
-- "SatO"
-- "BMT"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/githyanki-knight.webp"
 ```

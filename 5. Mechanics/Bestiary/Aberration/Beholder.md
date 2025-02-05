@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 13
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/13
   - monster/environment/underdark
   - monster/size/large
   - monster/type/aberration
-statblock: inline
 aliases:
   - Beholder
 ---
-# [[5. Mechanics/Bestiary/Aberration/Beholder.md|Beholder]]
-*Source: Monster Manual p. 28, Eberron: Rising from the Last War, Tasha's Cauldron of Everything*
+# [[5. Mechanics\Bestiary\Aberration\Beholder.md|Beholder]]
+*Source: Monster Manual p. 28, Tasha's Cauldron of Everything*
 
 One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these aberrations dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.
 
@@ -32,9 +35,9 @@ Some beholders manage to channel their xenophobic tendencies into a terrible des
 
 Because they refuse to share territory with others, most beholders withdraw to frigid hills, abandoned ruins, and deep caverns to scheme. A beholder's lair is carved out by its disintegration eye ray, emphasizing vertical passages connecting chambers stacked on top of each other. Such an environment allows a beholder to move freely, even as it prevents intruders from easily creeping about. When intruders do break in, the height of its open ceilings allows a beholder to float up and harry foes on the floor.
 
-As alien as their creator, the rooms in a beholder's lair reflect the creature's arrogance. It festoons its chambers with trophies from the battles it has won, including [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] adventurers standing frozen in their horrified final moments, pieces of other beholders, and magic items wrested from powerful foes. A beholder judges its own worth by its acquisitions, and it never willingly parts with its treasures.
+As alien as their creator, the rooms in a beholder's lair reflect the creature's arrogance. It festoons its chambers with trophies from the battles it has won, including [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]] adventurers standing frozen in their horrified final moments, pieces of other beholders, and magic items wrested from powerful foes. A beholder judges its own worth by its acquisitions, and it never willingly parts with its treasures.
 
-> [!quote]- A quote from Valkara Ironfeel, dwarf sage  
+> [!quote] A quote from Valkara Ironfeel, dwarf sage  
 > 
 > Every beholder thinks it is the epitome of beholderkind, and the only thing it fears is that it might be wrong.
 
@@ -65,7 +68,7 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
   "Intelligence": !!int "8"
 "skillsaves":
   "Perception": !!int "12"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 22"
 "languages": "Deep Speech, Undercommon"
 "cr": "13"
@@ -82,13 +85,13 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
 - "desc": "The beholder shoots three of the following magical eye rays at random (reroll\
     \ duplicates), choosing one to three targets it can see within 120 feet of it:\n\
     \n- 1. Charm Ray. The targeted creature must succeed on a DC 16 Wisdom saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the beholder\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] by the beholder\
     \ for 1 hour, or until the beholder harms the creature.  \n- 2. Paralyzing Ray.\
     \ The targeted creature must succeed on a DC 16 Constitution saving throw or be\
-    \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute. The target\
+    \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]] for 1 minute. The target\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success.  \n- 3. Fear Ray. The targeted creature must succeed\
-    \ on a DC 16 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ on a DC 16 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  \n- 4. Slowing Ray. The\
     \ targeted creature must succeed on a DC 16 Dexterity saving throw. On a failed\
@@ -100,21 +103,21 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
     \ (8d8) necrotic damage on a failed save, or half as much damage on a successful\
     \ one.  \n- 6. Telekinetic Ray. If the target is a creature, it must succeed\
     \ on a DC 16 Strength saving throw or the beholder moves it up to 30 feet in any\
-    \ direction. It is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by\
+    \ direction. It is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] by\
     \ the ray's telekinetic grip until the start of the beholder's next turn or until\
-    \ the beholder is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
+    \ the beholder is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]].\
     \  \n\n    If the target is an object weighing 300 pounds or less that isn't being\
     \ worn or carried, it is moved up to 30 feet in any direction. The beholder can\
     \ also exert fine control on objects with this ray, such as manipulating a simple\
     \ tool or opening a door or a container.  \n- 7. Sleep Ray. The targeted creature\
-    \ must succeed on a DC 16 Wisdom saving throw or fall asleep and remain [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ must succeed on a DC 16 Wisdom saving throw or fall asleep and remain [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
     \ for 1 minute. The target awakens if it takes damage or another creature takes\
     \ an action to wake it. This ray has no effect on constructs and undead.  \n-\
     \ 8. Petrification Ray. The targeted creature must make a DC 16 Dexterity\
     \ saving throw. On a failed save, the creature begins to turn to stone and is\
-    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. It must repeat the\
+    \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]. It must repeat the\
     \ saving throw at the end of its next turn. On a success, the effect ends. On\
-    \ a failure, the creature is [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
+    \ a failure, the creature is [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]\
     \ until freed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
     \ spell or other magic.  \n- 9. Disintegration Ray. If the target is a creature,\
     \ it must succeed on a DC 16 Dexterity saving throw or take 45 (10d8) force damage.\
@@ -144,7 +147,7 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
     \ round.  \n- Walls within 120 feet of the beholder sprout grasping appendages\
     \ until initiative count 20 on the round after next. Each creature of the beholder's\
     \ choice that starts its turn within 10 feet of such a wall must succeed on a\
-    \ DC 15 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]].\
+    \ DC 15 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]].\
     \ Escaping requires a successful DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
     \ or Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check. \
     \ \n- An eye opens on a solid surface within 60 feet of the beholder. One random\
@@ -170,20 +173,7 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
   "name": ""
 "source":
 - "MM"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "ERLW"
-- "EGW"
 - "TCE"
-- "CM"
-- "JttRC"
-- "LoX"
-- "KftGV"
-- "PaBTSO"
-- "SatO"
-- "ToFW"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Aberration/token/beholder.webp"
 ```
 ^statblock

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/8
+environments: 'hill, urban, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-8
@@ -9,12 +13,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Mule
 ---
-# [[5. Mechanics/Bestiary/Beast/Mule.md|Mule]]
-*Source: Monster Manual p. 333, Curse of Strahd. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Mule.md|Mule]]
+*Source: Monster Manual p. 333, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Mule"
@@ -40,7 +43,7 @@ aliases:
     \ its carrying capacity."
   "name": "Beast of Burden"
 - "desc": "The mule has advantage on Strength and Dexterity saving throws made against\
-    \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Sure-Footed"
 "actions":
 - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4\
@@ -49,10 +52,6 @@ aliases:
 "source":
 - "MM"
 - "CoS"
-- "SKT"
-- "GoS"
-- "KftGV"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Beast/token/mule.webp"
 ```
 ^statblock

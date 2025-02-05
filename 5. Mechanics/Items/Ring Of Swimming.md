@@ -15,4 +15,4 @@ aliases:
 
 You have a swimming speed of 40 feet while wearing this ring.
 
-*Source: Dungeon Master's Guide p. 193. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

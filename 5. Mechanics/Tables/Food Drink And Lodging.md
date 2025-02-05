@@ -7,7 +7,7 @@ aliases:
   - 'Food, Drink, and Lodging'
 ---
 # Food, Drink, and Lodging
-*Source: Player's Handbook p. 158. Available in the SRD and the Basic Rules.* 
+*Source: Player's Handbook p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
 
 **Food, Drink, and Lodging**
 

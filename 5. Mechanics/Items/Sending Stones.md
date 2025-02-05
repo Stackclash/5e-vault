@@ -5,12 +5,11 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/uncommon
   - item/tier/minor
-  - item/wondrous
 aliases:
   - Sending Stones
 ---
 # Sending Stones
-*Wondrous Item, minor, uncommon*  
+*Wondrous item, minor, uncommon*  
 ![[5. Mechanics/Items/img/sending-stones.webp#right]]  
 
 

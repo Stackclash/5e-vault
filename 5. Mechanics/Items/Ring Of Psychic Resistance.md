@@ -14,6 +14,4 @@ aliases:
 *Ring, major, rare (requires attunement)*  
 
 
-You have resistance to psychic damage while wearing this ring. The ring is set with jade.
-
-*Source: Dungeon Master's Guide p. 192. Available in the SRD and the Basic Rules.*
+*Source: Dungeon Master's Guide p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

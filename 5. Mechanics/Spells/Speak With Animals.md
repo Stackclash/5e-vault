@@ -3,15 +3,29 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/barbarian/path-of-the-totem-warrior
   - spell/class/bard
-  - spell/class/cleric/nature-domain
   - spell/class/druid
-  - spell/class/paladin/oath-of-the-ancients
   - spell/class/ranger
-  - spell/level/1
+  - spell/feat/fey-touched
+  - spell/feat/magic-initiate
+  - spell/feat/ritual-caster
+  - spell/level/1st-level
+  - spell/optfeature/beast-speech
+  - spell/optfeature/book-of-ancient-secrets
   - spell/ritual
   - spell/school/divination
+  - spell/subclass/cat-domain
+  - spell/subclass/hedge-mage
+  - spell/subclass/nature-domain
+  - spell/subclass/oath-of-the-ancients
+  - spell/subclass/ocean-domain
+  - spell/subclass/path-of-the-totem-warrior
+level: 1st-level
+range: true
+school: Divination
+time: 1 action
+duration: 10 minute
+components: 'V, S'
 aliases:
   - Speak with Animals
 ---
@@ -25,6 +39,6 @@ aliases:
 
 You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM's discretion.
 
-**Classes**: [[5. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md\|Barbarian (Path of the Totem Warrior)]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Cleric Cat Domain (KPDM)\|Cleric (Cat Domain)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]; [[List Spells Classes Paladin Oath Of The Ancients\|Paladin (Oath of the Ancients)]]; [[List Spells Classes Cleric Ocean Domain (KPDM)\|Cleric (Ocean Domain)]]; [[List Spells Classes Barbarian Path Of The Totem Warrior\|Barbarian (Path of the Totem Warrior)]]
 
-*Source: Player's Handbook p. 277. Available in the SRD.*
+*Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

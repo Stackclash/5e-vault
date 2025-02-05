@@ -4,11 +4,24 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/bard
-  - spell/class/ranger/horizon-walker
   - spell/class/sorcerer
+  - spell/class/warlock
   - spell/class/wizard
-  - spell/level/5
+  - spell/level/5th-level
   - spell/school/conjuration
+  - spell/subclass/horizon-walker
+  - spell/subclass/oath-of-the-open-road
+  - spell/subclass/speed-domain
+  - spell/subclass/travel-domain
+  - spell/subclass/wealth-domain
+level: 5th-level
+range: false
+school: Conjuration
+time: 1 minute
+duration: 1 round
+components: >-
+  V, rare chalks and inks infused with precious gems worth 50 gp, which the
+  spell consumes
 aliases:
   - Teleportation Circle
 ---
@@ -26,6 +39,6 @@ Many major temples, guilds, and other important places have permanent teleportat
 
 You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Ranger Horizon Walker.md\|Ranger (Horizon Walker)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Ranger Horizon Walker (XGE)\|Ranger (Horizon Walker)]]; [[List Spells Classes Paladin Oath Of The Open Road (GRIFFONSSADDLEBAG3)\|Paladin (Oath of the Open Road)]]; [[List Spells Classes Cleric Speed Domain (KPDM)\|Cleric (Speed Domain)]]; [[List Spells Classes Cleric Travel Domain (KPDM)\|Cleric (Travel Domain)]]; [[List Spells Classes Cleric Wealth Domain (GRIFFONSSADDLEBAG3)\|Cleric (Wealth Domain)]]
 
-*Source: Player's Handbook p. 282. Available in the SRD.*
+*Source: Player's Handbook p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

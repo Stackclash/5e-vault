@@ -4,13 +4,24 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/cleric/peace-domain
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin/oath-of-redemption
-  - spell/class/rogue/arcane-trickster
+  - spell/class/bard
   - spell/class/wizard
-  - spell/level/4
+  - spell/level/4th-level
   - spell/school/evocation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/beer-domain
+  - spell/subclass/eldritch-knight
+  - spell/subclass/oath-of-redemption
+  - spell/subclass/oath-of-the-spelldrinker
+  - spell/subclass/peace-domain
+level: 4th-level
+range: false
+school: Evocation
+time: 1 action
+duration: 'Concentration, up to 1 minute'
+components: >-
+  V, S, a hemispherical piece of clear crystal and a matching hemispherical
+  piece of gum arabic
 aliases:
   - Otiluke's Resilient Sphere
 ---
@@ -30,6 +41,6 @@ The sphere is weightless and just large enough to contain the creature or object
 
 A [[5. Mechanics/Spells/Disintegrate.md\|disintegrate]] spell targeting the globe destroys it without harming anything inside it.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Cleric Peace Domain.md\|Cleric (Peace Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption.md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Cleric Beer Domain (KPDM)\|Cleric (Beer Domain)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Paladin Oath Of Redemption (XGE)\|Paladin (Oath of Redemption)]]; [[List Spells Classes Paladin Oath Of The Spelldrinker (GRIFFONSSADDLEBAG2)\|Paladin (Oath of the Spelldrinker)]]; [[List Spells Classes Cleric Peace Domain (TCE)\|Cleric (Peace Domain)]]
 
-*Source: Player's Handbook p. 264. Available in the SRD (as 'Resilient Sphere').*
+*Source: Player's Handbook p. 264. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Resilient Sphere")*

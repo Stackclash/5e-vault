@@ -3,17 +3,27 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/artificer/artillerist
-  - spell/class/cleric/tempest-domain
+  - spell/class/bard
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin/oath-of-the-ancients
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
   - spell/class/wizard
-  - spell/level/4
+  - spell/level/4th-level
   - spell/school/evocation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/artillerist
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/eldritch-knight
+  - spell/subclass/oath-of-the-ancients
+  - spell/subclass/rocborne
+  - spell/subclass/tempest-domain
+  - spell/subclass/the-frozen-one
+  - spell/subclass/winter-domain
+level: 4th-level
+range: false
+school: Evocation
+time: 1 action
+duration: Instantaneous
+components: 'V, S, a pinch of dust and a few drops of water'
 aliases:
   - Ice Storm
 ---
@@ -25,12 +35,12 @@ aliases:
 - **Components:** V, S, a pinch of dust and a few drops of water
 - **Duration:** Instantaneous
 
-A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high cylinder centered on a point within range. Each creature in the cylinder must make a Dexterity saving throw. A creature takes `dice: 2d8|avg|noform` (`2d8`) bludgeoning damage and `dice: 4d6|avg|noform` (`4d6`) cold damage on a failed save, or half as much damage on a successful one.
+A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high cylinder centered on a point within range. Each creature in the cylinder must make a Dexterity saving throw. A creature takes `dice:2d8|noform|avg` (`2d8`) bludgeoning damage and `dice:4d6|noform|avg` (`4d6`) cold damage on a failed save, or half as much damage on a successful one.
 
 Hailstones turn the storm's area of effect into difficult terrain until the end of your next turn.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by `1d8` for each slot level above 4th.
+**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by `dice:1d8|noform|avg|text(1d8)` for each slot level above 4th.
 
-**Classes**: [[5. Mechanics/Classes/Artificer Artillerist.md\|Artificer (Artillerist)]], [[5. Mechanics/Classes/Cleric Tempest Domain.md\|Cleric (Tempest Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Artificer Artillerist (TCE)\|Artificer (Artillerist)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Paladin Oath Of The Ancients\|Paladin (Oath of the Ancients)]]; [[List Spells Classes Ranger Rocborne (GRIFFONSSADDLEBAG2)\|Ranger (Rocborne)]]; [[List Spells Classes Cleric Tempest Domain\|Cleric (Tempest Domain)]]; [[List Spells Classes Warlock The Frozen One (KPDM)\|Warlock (The Frozen One)]]; [[List Spells Classes Cleric Winter Domain (KPDM)\|Cleric (Winter Domain)]]
 
-*Source: Player's Handbook p. 252. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 252. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

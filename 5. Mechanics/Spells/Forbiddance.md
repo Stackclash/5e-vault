@@ -3,11 +3,20 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
-  - spell/class/sorcerer/divine-soul
-  - spell/level/6
+  - spell/level/6th-level
   - spell/ritual
   - spell/school/abjuration
+  - spell/subclass/divine-soul
+level: 6th-level
+range: true
+school: Abjuration
+time: 10 minute
+duration: 1 day
+components: >-
+  V, S, a sprinkling of holy water, rare incense, and powdered ruby worth at
+  least 1,000 gp
 aliases:
   - Forbiddance
 ---
@@ -21,12 +30,12 @@ aliases:
 
 You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the [[5. Mechanics/Spells/Gate.md\|gate]] spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, Feywild, Shadowfell, or the [[5. Mechanics/Spells/Plane Shift.md\|plane shift]] spell.
 
-In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: celestials, elementals, fey, fiends, and undead. When a chosen creature enters the spell's area for the first time on a turn or starts its turn there, the creature takes `dice: 5d10|avg|noform` (`5d10`) radiant or necrotic damage (your choice when you cast this spell).
+In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: celestials, elementals, fey, fiends, and undead. When a chosen creature enters the spell's area for the first time on a turn or starts its turn there, the creature takes `dice:5d10|noform|avg` (`5d10`) radiant or necrotic damage (your choice when you cast this spell).
 
 When you cast this spell, you can designate a password. A creature that speaks the password as it enters the area takes no damage from the spell.
 
 The spell's area can't overlap with the area of another forbiddance spell. If you cast forbiddance every day for 30 days in the same location, the spell lasts until it is dispelled, and the material components are consumed on the last casting.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 243. Available in the SRD.*
+*Source: Player's Handbook p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

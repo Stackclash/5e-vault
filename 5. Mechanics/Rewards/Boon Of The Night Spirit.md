@@ -9,6 +9,6 @@ aliases:
 ---
 # Boon of the Night Spirit
 
-While completely in an area of dim light or darkness, you can become [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] as an action. You remain [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] until you take an action or a reaction. 
+While completely in an area of dim light or darkness, you can become [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] as an action. You remain [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] until you take an action or a reaction. 
 
 *Source: Dungeon Master's Guide p. 232*

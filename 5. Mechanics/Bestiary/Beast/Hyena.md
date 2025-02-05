@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: 'grassland, forest, hill, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
@@ -10,12 +14,11 @@ tags:
   - monster/environment/hill
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Hyena
 ---
-# [[5. Mechanics/Bestiary/Beast/Hyena.md|Hyena]]
-*Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Hyena.md|Hyena]]
+*Source: Monster Manual p. 331. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Hyena"
@@ -41,7 +44,7 @@ aliases:
 "traits":
 - "desc": "The hyena has advantage on an attack roll against a creature if at least\
     \ one of the hyena's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6)\
@@ -49,9 +52,6 @@ aliases:
   "name": "Bite"
 "source":
 - "MM"
-- "PotA"
-- "CM"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Beast/token/hyena.webp"
 ```
 ^statblock

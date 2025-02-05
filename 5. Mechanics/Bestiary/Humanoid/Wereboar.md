@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: 'grassland, forest, hill'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
@@ -10,12 +14,11 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-statblock: inline
 aliases:
   - Wereboar
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]]
-*Source: Monster Manual p. 209, Tasha's Cauldron of Everything. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Humanoid\Wereboar.md|Wereboar]]
+*Source: Monster Manual p. 209, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Wereboars are ill-tempered and vulgar brutes. As humanoids, they are stocky and muscular, with short, stiff hair. In their humanoid and hybrid forms, they use heavy weapons, while in hybrid or animal form, they gain a devastating goring attack through which their curse is spread. A wereboar infects other creatures indiscriminately, relishing the fact that the more its victims resist the curse, the more savage and bestial they become.
 
@@ -43,7 +46,7 @@ Some individuals see little point in fighting the curse and accept what they are
 > 
 > The following information applies to specific lycanthropes.
 > 
-> **.** **[[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 > 
 > **[[5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]].** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 > 
@@ -88,7 +91,7 @@ Some individuals see little point in fighting the curse and accept what they are
 - "desc": "If the wereboar moves at least 15 feet straight toward a target and then\
     \ hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing\
     \ damage. If the target is a creature, it must succeed on a DC 13 Strength saving\
-    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Charge (Boar or Hybrid Form Only)"
 - "desc": "If the wereboar takes 14 damage or less that would reduce it to 0 hit points,\
     \ it is reduced to 1 hit point instead."
@@ -105,15 +108,7 @@ Some individuals see little point in fighting the curse and accept what they are
   "name": "Tusks (Boar or Hybrid Form Only)"
 "source":
 - "MM"
-- "ToA"
-- "DC"
-- "DIP"
-- "BGDIA"
-- "IMR"
-- "EGW"
 - "TCE"
-- "CM"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Humanoid/token/wereboar.webp"
 ```
 ^statblock

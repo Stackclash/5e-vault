@@ -27,12 +27,12 @@ A powerful sea hag might have the following additional lair actions:
 ## Regional effects
 _Source: Monster Manual_
 
-Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `dice: 2d10|avg|noform` (`2d10`) days to fade away.
+Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `dice:2d10|noform|avg` (`2d10`) days to fade away.
 
 The region within 1 mile of a grandmother hag's lair is warped by the creature's fell magic, which creates one or more of the following effects:
 
 - Birds, rodents, snakes, spiders, or toads (or some other creatures appropriate to the hag) are found in great profusion.  
-- Beasts that have an Intelligence score of 2 or lower are [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the hag and directed to be aggressive toward intruders in the area.  
+- Beasts that have an Intelligence score of 2 or lower are [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] by the hag and directed to be aggressive toward intruders in the area.  
 - Strange carved figurines, twig fetishes, or rag dolls magically appear in trees.  
 
 A powerful sea hag creates one or more of the following additional regional effects within 1 mile of her lair:

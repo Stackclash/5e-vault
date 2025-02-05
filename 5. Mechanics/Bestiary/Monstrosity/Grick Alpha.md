@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 7
+environments: 'underdark, forest'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/7
@@ -8,11 +12,10 @@ tags:
   - monster/environment/underdark
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Grick Alpha
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Grick Alpha.md|Grick Alpha]]
+# [[5. Mechanics\Bestiary\Monstrosity\Grick Alpha.md|Grick Alpha]]
 *Source: Monster Manual p. 173*
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
@@ -70,10 +73,6 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
   "name": "Beak"
 "source":
 - "MM"
-- "WDMM"
-- "CM"
-- "DSotDQ"
-- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/grick-alpha.webp"
 ```
 ^statblock

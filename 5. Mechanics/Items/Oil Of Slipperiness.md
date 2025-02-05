@@ -17,4 +17,4 @@ This sticky black unguent is thick and heavy in the container, but it flows quic
 
 Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the [[5. Mechanics/Spells/Grease.md\|grease]] spell in that area for 8 hours.
 
-*Source: Dungeon Master's Guide p. 184. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 184. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

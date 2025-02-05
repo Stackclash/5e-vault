@@ -3,17 +3,27 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
-  - spell/class/cleric/light-domain
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
   - spell/class/paladin
   - spell/class/ranger
   - spell/class/sorcerer
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-celestial
-  - spell/level/3
+  - spell/level/3rd-level
+  - spell/race/aasimar-dmg
   - spell/school/evocation
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/divine-soul
+  - spell/subclass/greenleaf-college
+  - spell/subclass/light-domain
+  - spell/subclass/oath-of-radiance
+  - spell/subclass/the-celestial
+level: 3rd-level
+range: false
+school: Evocation
+time: 1 action
+duration: 1 hour
+components: 'V, S'
 aliases:
   - Daylight
 ---
@@ -31,6 +41,6 @@ If you chose a point on an object you are holding or one that isn't being worn o
 
 If any of this spell's area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Light Domain.md\|Cleric (Light Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Celestial.md\|Warlock (The Celestial)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Bard Greenleaf College (KPDM)\|Bard (Greenleaf College)]]; [[List Spells Classes Cleric Light Domain\|Cleric (Light Domain)]]; [[List Spells Classes Paladin Oath Of Radiance (KPDM)\|Paladin (Oath of Radiance)]]; [[List Spells Classes Warlock The Celestial (XGE)\|Warlock (The Celestial)]]
 
-*Source: Player's Handbook p. 230. Available in the SRD.*
+*Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

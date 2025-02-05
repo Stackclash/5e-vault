@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 21
+environments: hill
+size: Gargantuan
 tags:
   - compendium/src/5e/mm
   - monster/cr/21
   - monster/environment/hill
   - monster/size/gargantuan
   - monster/type/dragon
-statblock: inline
 aliases:
   - Ancient Copper Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Ancient Copper Dragon.md|Ancient Copper Dragon]]
-*Source: Monster Manual p. 110. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Ancient Copper Dragon.md|Ancient Copper Dragon]]
+*Source: Monster Manual p. 110. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
 
@@ -127,7 +130,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ (2d8 + 8) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
@@ -163,7 +166,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
     \ must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The dragon\
     \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
@@ -177,9 +180,9 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ dies.  \n- The dragon chooses a 10-foot-square area on the ground that it can\
     \ see within 120 feet of it. The ground in that area turns into 3-foot-deep mud.\
     \ Each creature on the ground in that area when the mud appears must succeed on\
-    \ a DC 15 Dexterity saving throw or sink into the mud and become [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+    \ a DC 15 Dexterity saving throw or sink into the mud and become [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
     \ A creature can take an action to attempt a DC 15 Strength check, freeing itself\
-    \ or another creature within its reach and ending the [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ or another creature within its reach and ending the [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
     \ condition on a success. Moving 1 foot in the mud costs 2 feet of movement. On\
     \ initiative count 20 on the next round, the mud hardens, and the Strength DC\
     \ to work free increases to 20.  "
@@ -190,7 +193,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \n- Laughing Gas. The dragon chooses a point on the ground that it can see\
     \ within 120 feet of it. A cloud of pink gas fills a 20-foot-radius sphere centered\
     \ on that point. Each creature in that area that fails a DC 15 Wisdom saving throw\
-    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] with laughter\
+    \ is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] with laughter\
     \ until the end of its next turn.  \n- Torpid Energy. The dragon chooses a\
     \ creature it can see within 120 feet of it. If the target fails a DC 15 Constitution\
     \ saving throw, its speed is halved, and it can't use reactions or bonus actions\
@@ -221,7 +224,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Additional Regional Effects"
 "source":
 - "MM"
-- "BGDIA"
 "image": "5. Mechanics/Bestiary/Dragon/token/ancient-copper-dragon.webp"
 ```
 ^statblock

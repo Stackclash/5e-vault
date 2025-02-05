@@ -5,13 +5,24 @@ tags:
   - compendium/src/5e/phb
   - spell/class/bard
   - spell/class/cleric
-  - spell/class/cleric/knowledge-domain
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-undead
-  - spell/level/3
+  - spell/class/wizard
+  - spell/level/3rd-level
+  - spell/optfeature/whispers-of-the-grave
   - spell/school/necromancy
+  - spell/subclass/arcane-trickster
+  - spell/subclass/circle-of-the-spirits
+  - spell/subclass/divine-soul
+  - spell/subclass/eldritch-knight
+  - spell/subclass/gravetender
+  - spell/subclass/knowledge-domain
+  - spell/subclass/second-soul
+  - spell/subclass/the-undead
+level: 3rd-level
+range: false
+school: Necromancy
+time: 1 action
+duration: 10 minute
+components: 'V, S, burning incense'
 aliases:
   - Speak with Dead
 ---
@@ -27,6 +38,6 @@ You grant the semblance of life and intelligence to a corpse of your choice with
 
 Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Knowledge Domain.md\|Cleric (Knowledge Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Undead.md\|Warlock (The Undead)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Spirits (KPDM)\|Druid (Circle of the Spirits)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Gravetender (GRIFFONSSADDLEBAG4)\|Ranger (Gravetender)]]; [[List Spells Classes Cleric Knowledge Domain\|Cleric (Knowledge Domain)]]; [[List Spells Classes Sorcerer Second Soul (GRIFFONSSADDLEBAG3)\|Sorcerer (Second Soul)]]; [[List Spells Classes Warlock The Undead (VRGR)\|Warlock (The Undead)]]
 
-*Source: Player's Handbook p. 277. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

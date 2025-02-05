@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: arctic
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
   - monster/environment/arctic
   - monster/size/small
   - monster/type/elemental
-statblock: inline
 aliases:
   - Ice Mephit
 ---
-# [[5. Mechanics/Bestiary/Elemental/Ice Mephit.md|Ice Mephit]]
-*Source: Monster Manual p. 215. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Elemental\Ice Mephit.md|Ice Mephit]]
+*Source: Monster Manual p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ## Mephits
 
@@ -49,7 +52,7 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
   "Perception": !!int "2"
 "damage_vulnerabilities": "bludgeoning, fire"
 "damage_immunities": "cold, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Aquan, Auran"
 "cr": "1/2"
@@ -75,13 +78,6 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
   "name": "Frost Breath (Recharge 6)"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "EGW"
-- "IDRotF"
-- "CM"
-- "KftGV"
 "image": "5. Mechanics/Bestiary/Elemental/token/ice-mephit.webp"
 ```
 ^statblock

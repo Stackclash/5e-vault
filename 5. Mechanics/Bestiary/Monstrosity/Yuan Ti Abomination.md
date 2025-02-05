@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 7
+environments: 'forest, swamp, desert'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/7
@@ -10,11 +14,10 @@ tags:
   - monster/size/large
   - monster/type/monstrosity/shapechanger
   - monster/type/monstrosity/yuan-ti
-statblock: inline
 aliases:
   - Yuan-ti Abomination
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Abomination.md|Yuan-ti Abomination]]
+# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Abomination.md|Yuan-ti Abomination]]
 *Source: Monster Manual p. 308*
 
 Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society, and they most closely resemble the race as the serpent gods intended it. They mastermind elaborate schemes and perform dark rites in the hope of one day ruling the world.
@@ -56,7 +59,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 > **Sseth, the Sibilant Death.** Sseth appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
 ^serpent-gods
 
-> [!quote]- A quote from From Masters of the Forbidden City by Codo Vidak  
+> [!quote] A quote from From Masters of the Forbidden City by Codo Vidak  
 > 
 > The yuan-ti cast off their humanity long ago, and with it, their sanity.
 
@@ -83,7 +86,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
   "Stealth": !!int "6"
   "Perception": !!int "5"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Draconic"
 "cr": "7"
@@ -108,8 +111,8 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
     \ + 4) piercing damage plus 10 (3d6) poison damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6\
-    \ + 4) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ + 4) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+    \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
     \ and the yuan-ti can't constrict another target."
   "name": "Constrict"
 - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
@@ -120,12 +123,6 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
   "name": "Longbow (Abomination Form Only)"
 "source":
 - "MM"
-- "RoT"
-- "ToA"
-- "WDMM"
-- "DIP"
-- "SLW"
-- "CM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-abomination.webp"
 ```
 ^statblock

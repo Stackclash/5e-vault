@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 23
+environments: null
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/23
   - monster/size/huge
   - monster/type/celestial/titan
-statblock: inline
 aliases:
   - Empyrean
 ---
-# [[5. Mechanics/Bestiary/Celestial/Empyrean.md|Empyrean]]
+# [[5. Mechanics\Bestiary\Celestial\Empyrean.md|Empyrean]]
 *Source: Monster Manual p. 130*
 
 Empyreans are the celestial children of the gods of the Upper Planes. They are universally beautiful, statuesque, and self-assured.
@@ -62,7 +65,7 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
     \ +15 to hit with spell attacks). It can innately cast the following spells, requiring\
     \ no material components:\n\nAt will: [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
     \ [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]],\
-    \ [[5. Mechanics/Spells/Water Walk.md|water walk]]\n\n1/day each: [[5. Mechanics/Spells/Commune.md|commune]],\
+    \ [[5. Mechanics/Spells/Water Wa(LK).md|water walk]]\n\n1/day each: [[5. Mechanics/Spells/Commune.md|commune]],\
     \ [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]], [[5. Mechanics/Spells/Earthquake.md|earthquake]],\
     \ [[5. Mechanics/Spells/Fire Storm.md|fire storm]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
     \ (self only)"
@@ -77,7 +80,7 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 "actions":
 - "desc": "Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 31\
     \ (6d6 + 10) bludgeoning damage. If the target is a creature, it must succeed\
-    \ on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
     \ until the end of the empyrean's next turn."
   "name": "Maul"
 - "desc": "Ranged Spell Attack: +15 to hit, range 600 ft., one target. Hit: 24\
@@ -88,23 +91,16 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 - "desc": "The empyrean makes one attack."
   "name": "Attack"
 - "desc": "The empyrean bolsters all nonhostile creatures within 120 feet of it until\
-    \ the end of its next turn. Bolstered creatures can't be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], and they gain advantage\
+    \ the end of its next turn. Bolstered creatures can't be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], and they gain advantage\
     \ on ability checks and saving throws until the end of the empyrean's next turn."
   "name": "Bolster"
 - "desc": "The empyrean strikes the ground with its maul, triggering an earth tremor.\
     \ All other creatures on the ground within 60 feet of the empyrean must succeed\
-    \ on a DC 25 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ on a DC 25 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Trembling Strike (Costs 2 Actions)"
 "source":
 - "MM"
-- "TftYP"
-- "WDMM"
-- "BGDIA"
-- "MOT"
-- "SatO"
-- "ToFW"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Celestial/token/empyrean.webp"
 ```
 ^statblock

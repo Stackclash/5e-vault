@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
   - monster/size/medium
   - monster/type/dragon
-statblock: inline
 aliases:
   - Copper Dragon Wyrmling
 ---
-# [[5. Mechanics/Bestiary/Dragon/Copper Dragon Wyrmling.md|Copper Dragon Wyrmling]]
-*Source: Monster Manual p. 111. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Copper Dragon Wyrmling.md|Copper Dragon Wyrmling]]
+*Source: Monster Manual p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
 

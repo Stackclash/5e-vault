@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/8
+environments: 'underdark, forest, swamp, urban'
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-8
@@ -10,12 +14,11 @@ tags:
   - monster/environment/urban
   - monster/size/small
   - monster/type/beast
-statblock: inline
 aliases:
   - Giant Rat
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Rat.md|Giant Rat]]
-*Source: Monster Manual p. 327. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Giant Rat.md|Giant Rat]]
+*Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Giant Rat"
@@ -42,7 +45,7 @@ aliases:
   "name": "Keen Smell"
 - "desc": "The rat has advantage on an attack roll against a creature if at least\
     \ one of the rat's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
@@ -50,19 +53,6 @@ aliases:
   "name": "Bite"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "BGDIA"
-- "EGW"
-- "IDRotF"
-- "CM"
-- "WBtW"
-- "GHLoE"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Beast/token/giant-rat.webp"
 ```
 ^statblock

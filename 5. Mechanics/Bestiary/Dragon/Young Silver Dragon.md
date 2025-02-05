@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 9
+environments: 'mountain, urban'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/9
@@ -8,12 +12,11 @@ tags:
   - monster/environment/urban
   - monster/size/large
   - monster/type/dragon
-statblock: inline
 aliases:
   - Young Silver Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young Silver Dragon.md|Young Silver Dragon]]
-*Source: Monster Manual p. 118. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Young Silver Dragon.md|Young Silver Dragon]]
+*Source: Monster Manual p. 118. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
 
@@ -132,14 +135,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on\
     \ a failed save, or half as much damage on a successful one.  \n- Paralyzing\
     \ Breath. The dragon exhales paralyzing gas in a 30-foot cone. Each creature\
-    \ in that area must succeed on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ in that area must succeed on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  "
   "name": "Breath Weapons (Recharge 5-6)"
 "source":
 - "MM"
-- "SKT"
-- "DSotDQ"
 "image": "5. Mechanics/Bestiary/Dragon/token/young-silver-dragon.webp"
 ```
 ^statblock

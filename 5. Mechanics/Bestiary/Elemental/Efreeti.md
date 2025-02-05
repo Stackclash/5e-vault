@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 11
+environments: desert
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/11
   - monster/environment/desert
   - monster/size/large
   - monster/type/elemental
-statblock: inline
 aliases:
   - Efreeti
 ---
-# [[5. Mechanics/Bestiary/Elemental/Efreeti.md|Efreeti]]
-*Source: Monster Manual p. 145, Tasha's Cauldron of Everything. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Elemental\Efreeti.md|Efreeti]]
+*Source: Monster Manual p. 145, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Hulking genies of the Elemental Plane of Fire, the efreet are masters of flame, immune to fire and able to create it on a whim. Fine silk caftans and damask robes drape their magma-red or coal-black skin, and they bedeck themselves in brass and gold torcs, chains, and rings, all glittering with jewels. When an efreeti flies, its lower body transforms into a column of smoke and embers.
 
@@ -30,7 +33,7 @@ Most efreet reside on the Elemental Plane of Fire, either in great domed fortres
 
 On the Material Plane, efreet dwell in fiery regions such as volcanoes and the burning expanses of the world's deserts. Their love of the desert brings them into conflict with the djinn that ride the desert whirlwinds, and with the earthbound dao. Efreet utterly despise marids, with whom they have maintained a passionate conflict throughout the history of both races.
 
-> [!quote]- A quote from A djinni enticing adventurers to free her caliph from a magic lamp in the Charcoal Palace of the City of Brass  
+> [!quote] A quote from A djinni enticing adventurers to free her caliph from a magic lamp in the Charcoal Palace of the City of Brass  
 > 
 > The armies of the Grand Sultan are bolstered by legions of devils, his palace warded by spells of a thousand archmagi. No one has plundered the efreeti's fabled vaults and lived to tell the tale. By the grace of a thousand winds, you could be the first.
 
@@ -95,8 +98,8 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - "desc": "The efreeti's innate spellcasting ability is Charisma (spell save DC 15,\
     \ +7 to hit with spell attacks). It can innately cast the following spells, requiring\
     \ no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
-    \ ([[5. Mechanics/Bestiary/Elemental/Fire Elemental.md|fire elemental]] only), [[5. Mechanics/Spells/Gaseous Form.md|gaseous\
+    \n1/day each: [[5. Mechanics/Spells/Conjure Element(AL).md|conjure elemental]]\
+    \ ([[5. Mechanics/Bestiary/Elemental/Fire Element(AL).md|fire elemental]] only), [[5. Mechanics/Spells/Gaseous Form.md|gaseous\
     \ form]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
     \ [[5. Mechanics/Spells/Major Image.md|major image]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
     \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]\n\n3/day each: [[5. Mechanics/Spells/Enlarge Reduce.md|enlarge/reduce]],\
@@ -116,16 +119,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
   "name": "Hurl Flame"
 "source":
 - "MM"
-- "PotA"
-- "RoT"
-- "TftYP"
-- "WDMM"
-- "EGW"
 - "TCE"
-- "JttRC"
-- "KftGV"
-- "SatO"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Elemental/token/efreeti.webp"
 ```
 ^statblock

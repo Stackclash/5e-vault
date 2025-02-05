@@ -6,12 +6,11 @@ tags:
   - item/attunement/required
   - item/rarity/legendary
   - item/tier/major
-  - item/wondrous
 aliases:
   - Crystal Ball of Telepathy
 ---
 # Crystal Ball of Telepathy
-*Wondrous Item, major, legendary (requires attunement)*  
+*Wondrous item, major, legendary (requires attunement)*  
 
 - **Weight**: 3.0 lbs.
 

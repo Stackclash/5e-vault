@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: 'underdark, urban'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
@@ -8,12 +12,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/undead
-statblock: inline
 aliases:
   - Ghost
 ---
-# [[5. Mechanics/Bestiary/Undead/Ghost.md|Ghost]]
-*Source: Monster Manual p. 147, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Undead\Ghost.md|Ghost]]
+*Source: Monster Manual p. 147, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A ghost is the soul of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.
 
@@ -50,11 +53,11 @@ A ghost doesn't require air, food, drink, or sleep.
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "any languages it knew in life"
 "cr": "4"
@@ -75,10 +78,10 @@ A ghost doesn't require air, food, drink, or sleep.
     \ vice versa, yet it can't affect or be affected by anything on the other plane."
   "name": "Etherealness"
 - "desc": "Each non-undead creature within 60 feet of the ghost that can see it must\
-    \ succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10\
-    \ years. A [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] target can\
-    \ repeat the saving throw at the end of each of its turns, ending the [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ years. A [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] target can\
+    \ repeat the saving throw at the end of each of its turns, ending the [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ condition on itself on a success. If a target's saving throw is successful or\
     \ the effect ends for it, the target is immune to this ghost's Horrifying Visage\
     \ for the next 24 hours. The aging effect can be reversed with a  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
@@ -86,12 +89,12 @@ A ghost doesn't require air, food, drink, or sleep.
   "name": "Horrifying Visage"
 - "desc": "One humanoid that the ghost can see within 5 feet of it must succeed on\
     \ a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears,\
-    \ and the target is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ and the target is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
     \ and loses control of its body. The ghost now controls the body but doesn't deprive\
     \ the target of awareness. The ghost can't be targeted by any attack, spell, or\
     \ other effect, except ones that turn undead, and it retains its alignment, Intelligence,\
-    \ Wisdom, Charisma, and immunity to being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ and [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]. It otherwise uses\
+    \ Wisdom, Charisma, and immunity to being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+    \ and [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]. It otherwise uses\
     \ the possessed target's statistics, but doesn't gain access to the target's knowledge,\
     \ class features, or proficiencies.\n\nThe possession lasts until the body drops\
     \ to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned\
@@ -103,34 +106,7 @@ A ghost doesn't require air, food, drink, or sleep.
 "source":
 - "MM"
 - "CoS"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SLW"
-- "SDW"
-- "BGDIA"
-- "ERLW"
-- "EGW"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "CRCotN"
-- "JttRC"
-- "LoX"
-- "DSotDQ"
-- "KftGV"
-- "PaBTSO"
-- "AATM"
-- "SatO"
-- "ToFW"
-- "BMT"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/ghost.webp"
 ```

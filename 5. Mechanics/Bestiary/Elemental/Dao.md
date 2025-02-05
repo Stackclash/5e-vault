@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 11
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/11
   - monster/environment/underdark
   - monster/size/large
   - monster/type/elemental
-statblock: inline
 aliases:
   - Dao
 ---
-# [[5. Mechanics/Bestiary/Elemental/Dao.md|Dao]]
+# [[5. Mechanics\Bestiary\Elemental\Dao.md|Dao]]
 *Source: Monster Manual p. 143, Tasha's Cauldron of Everything*
 
 Dao are greedy, malicious genies from the Elemental Plane of Earth. They adorn themselves with jewelry crafted from precious gems and rare metals, and when they fly, their lower bodies become columns of swirling sand. A dao isn't happy unless it is the envy of other dao.
@@ -81,7 +84,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
   "Charisma": !!int "6"
   "Wisdom": !!int "5"
   "Intelligence": !!int "5"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Terran"
 "cr": "11"
@@ -90,8 +93,8 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
     \ to hit with spell attacks). It can innately cast the following spells, requiring\
     \ no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Stone Shape.md|stone shape]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
-    \ ([[5. Mechanics/Bestiary/Elemental/Earth Elemental.md|earth elemental]] only),\
+    \n1/day each: [[5. Mechanics/Spells/Conjure Element(AL).md|conjure elemental]]\
+    \ ([[5. Mechanics/Bestiary/Elemental/Earth Element(AL).md|earth elemental]] only),\
     \ [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
     \ [[5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
     \ [[5. Mechanics/Spells/Wall Of Stone.md|wall of stone]]\n\n3/day each: [[5. Mechanics/Spells/Passwall.md|passwall]],\
@@ -104,7 +107,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
     \ behind only equipment the dao was wearing or carrying."
   "name": "Elemental Demise"
 - "desc": "The dao has advantage on Strength and Dexterity saving throws made against\
-    \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Sure-Footed"
 "actions":
 - "desc": "The Dao makes two fist attacks or two maul attacks."
@@ -114,18 +117,11 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
   "name": "Fist"
 - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 20 (4d6\
     \ + 6) bludgeoning damage. If the target is a Huge or smaller creature, it must\
-    \ succeed on a DC 18 Strength check or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ succeed on a DC 18 Strength check or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Maul"
 "source":
 - "MM"
-- "PotA"
-- "RoT"
-- "ToA"
-- "WDMM"
-- "BGDIA"
 - "TCE"
-- "CM"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Elemental/token/dao.webp"
 ```
 ^statblock

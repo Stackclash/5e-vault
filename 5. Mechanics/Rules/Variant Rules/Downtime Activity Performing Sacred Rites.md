@@ -13,4 +13,4 @@ A pious character can spend time between adventures performing sacred rites in a
 
 A character who is a priest in the temple can lead these rites, which might include weddings, funerals, and ordinations. A layperson can offer sacrifices in a temple or assist a priest with a rite.
 
-A character who spends at least 10 days performing sacred rites gains "inspiration" (described in chapter 4 of the "Player's Handbook") at the start of each day for the next `dice: 2d6|avg|noform` (`2d6`) days.
+A character who spends at least 10 days performing sacred rites gains "inspiration" (described in chapter 4 of the "Player's Handbook") at the start of each day for the next `dice:2d6|noform|avg` (`2d6`) days.

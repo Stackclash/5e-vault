@@ -3,12 +3,20 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/cleric/nature-domain
+  - spell/class/bard
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
   - spell/class/ranger
-  - spell/level/2
+  - spell/level/2nd-level
   - spell/school/transmutation
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/hedge-mage
+  - spell/subclass/nature-domain
+level: 2nd-level
+range: false
+school: Transmutation
+time: 1 action
+duration: 'Concentration, up to 1 hour'
+components: 'V, S, a handful of oak bark'
 aliases:
   - Barkskin
 ---
@@ -23,6 +31,6 @@ aliases:
 
 You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Ranger.md\|Ranger]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]
 
-*Source: Player's Handbook p. 217. Available in the SRD.*
+*Source: Player's Handbook p. 217. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

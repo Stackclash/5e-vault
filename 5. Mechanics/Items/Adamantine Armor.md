@@ -3,25 +3,29 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/dmg
+  - item/armor/heavy
+  - item/armor/medium
   - item/rarity/uncommon
   - item/tier/major
-  - item/wondrous/wondrous-item
+  - item/wondrous/generic-variant
 aliases:
   - Adamantine Armor
+  - Adamantine Bone Plate Armor
+  - Adamantine Breastplate
   - Adamantine Chain Mail
   - Adamantine Chain Shirt
-  - Adamantine Plate Armor
-  - Adamantine Spiked Armor
-  - Adamantine Scale Mail
-  - Adamantine Splint Armor
   - Adamantine Half Plate Armor
+  - Adamantine Plate Armor
   - Adamantine Ring Mail
-  - Adamantine Breastplate
+  - Adamantine Scale Mail
+  - Adamantine Spiked Armor
+  - Adamantine Splint Armor
+  - Adamantine Wooden Breastplate
 ---
 # Adamantine Armor
-*Generic Variant, major, uncommon*  
+*Major, uncommon*  
 
 
 This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.
 
-*Source: Dungeon Master's Guide p. 150. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

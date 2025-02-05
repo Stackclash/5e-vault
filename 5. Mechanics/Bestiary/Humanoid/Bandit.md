@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/8
+environments: 'coastal, hill, arctic, urban, forest, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-8
@@ -12,12 +16,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Bandit
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Bandit.md|Bandit]]
-*Source: Monster Manual p. 343, Eberron: Rising from the Last War, Curse of Strahd. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Humanoid\Bandit.md|Bandit]]
+*Source: Monster Manual p. 343, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Bandits rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
 
@@ -53,32 +56,7 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
   "name": "Light Crossbow"
 "source":
 - "MM"
-- "HotDQ"
-- "PotA"
-- "SKT"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SLW"
-- "BGDIA"
-- "ERLW"
-- "EGW"
-- "IDRotF"
-- "CM"
 - "CoS"
-- "CRCotN"
-- "JttRC"
-- "SjA"
-- "LoX"
-- "DSotDQ"
-- "KftGV"
-- "PaBTSO"
-- "SatO"
-- "BMT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Humanoid/token/bandit.webp"
 ```
 ^statblock

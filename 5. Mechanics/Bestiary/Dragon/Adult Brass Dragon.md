@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 13
+environments: desert
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/13
   - monster/environment/desert
   - monster/size/huge
   - monster/type/dragon
-statblock: inline
 aliases:
   - Adult Brass Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Brass Dragon.md|Adult Brass Dragon]]
-*Source: Monster Manual p. 105. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Adult Brass Dragon.md|Adult Brass Dragon]]
+*Source: Monster Manual p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
 
@@ -128,7 +131,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ (2d8 + 6) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
@@ -139,7 +142,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ in that line must make a DC 18 Dexterity saving throw, taking 45 (13d6) fire\
     \ damage on a failed save, or half as much damage on a successful one.  \n- Sleep\
     \ Breath. The dragon exhales sleep gas in a 60-foot cone. Each creature in that\
-    \ area must succeed on a DC 18 Constitution saving throw or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ area must succeed on a DC 18 Constitution saving throw or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
     \ for 10 minutes. This effect ends for a creature if the creature takes damage\
     \ or someone uses an action to wake it.  "
   "name": "Breath Weapons (Recharge 5-6)"
@@ -151,7 +154,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
     \ must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The dragon\
     \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
@@ -160,13 +163,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": ""
 - "desc": "- A strong wind blows around the dragon. Each creature within 60 feet of\
     \ the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet\
-    \ away from the dragon and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ away from the dragon and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
     \ Gases and vapors are dispersed by the wind, and unprotected flames are extinguished.\
-    \ Protected flames; such as lanterns, have a 50% chance chance of being extinguished.\
+    \ Protected flames; such as lanterns, have a 50 percent chance of being extinguished.\
     \  \n- A cloud of sand swirls about in a 20-foot-radius sphere centered on a point\
     \ the dragon can see within 120 feet of it. The cloud spreads around corners.\
     \ Each creature in it must succeed on a DC 15 Constitution saving throw or be\
-    \ [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] for 1 minute. A creature\
+    \ [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] for 1 minute. A creature\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success.  "
   "name": ""
@@ -180,11 +183,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ in a direction of the dragon's choice, blowing along a line 40 feet wide and\
     \ 100 feet long. Each creature in that area except the dragon must succeed on\
     \ a DC 15 Strength saving throw or be pushed 15 feet in the wind's direction and\
-    \ be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. Gases and vapors\
+    \ be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. Gases and vapors\
     \ are dispersed by the wind, and unprotected flames are extinguished. Protected\
-    \ flames, such as lanterns, have a 50% chance chance of being extinguished. If\
+    \ flames, such as lanterns, have a 50 percent chance of being extinguished. If\
     \ the dragon is within the area of the wind, it can choose to be pushed 15 feet\
-    \ in the wind's direction, and the wind can't knock the dragon [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ in the wind's direction, and the wind can't knock the dragon [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
     \  \n- Obscuring Sand. Dust and sand fill the air within 120 feet of the dragon,\
     \ making the area lightly obscured until initiative count 20 on the next round.\
     \  "
@@ -221,7 +224,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Additional Regional Effects"
 "source":
 - "MM"
-- "GoS"
 "image": "5. Mechanics/Bestiary/Dragon/token/adult-brass-dragon.webp"
 ```
 ^statblock

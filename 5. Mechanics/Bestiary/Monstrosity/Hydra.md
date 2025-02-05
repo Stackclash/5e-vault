@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 8
+environments: swamp
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/8
   - monster/environment/swamp
   - monster/size/huge
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Hydra
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Hydra.md|Hydra]]
-*Source: Monster Manual p. 190. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Monstrosity\Hydra.md|Hydra]]
+*Source: Monster Manual p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The hydra is a reptilian horror with a crocodilian body and multiple heads on long, serpentine necks. Although its heads can be severed, the hydra magically regrows them in short order. A typical specimen has five heads. At the dawn of time, Tiamat, the Queen of Evil Dragons, slew a rival dragon god named Lernaea and cast her blood across the multiverse. Each drop that fell upon a world spawned a multi-headed hydra consumed by a hunger as great as the fallen god's hatred. Great champions are known to test their mettle against these fearsome creatures.
 
@@ -50,10 +53,10 @@ Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shal
 - "desc": "The hydra can hold its breath for 1 hour."
   "name": "Hold Breath"
 - "desc": "The hydra has five heads. While it has more than one head, the hydra has\
-    \ advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
-    \ and knocked [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]].\n\n\
+    \ advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]],\
+    \ and knocked [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]].\n\n\
     Whenever the hydra takes 25 or more damage in a single turn, one of its heads\
     \ dies. If all its heads die, the hydra dies.\n\nAt the end of its turn, it grows\
     \ two heads for each of its heads that died since its last turn, unless it has\
@@ -73,22 +76,6 @@ Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shal
   "name": "Bite"
 "source":
 - "MM"
-- "PotA"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "SLW"
-- "EGW"
-- "MOT"
-- "IDRotF"
-- "JttRC"
-- "LoX"
-- "PSZ"
-- "PaBTSO"
-- "SatO"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/hydra.webp"
 ```
 ^statblock

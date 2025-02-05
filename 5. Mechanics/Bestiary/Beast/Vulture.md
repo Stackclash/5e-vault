@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: 'grassland, hill, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
@@ -9,12 +13,11 @@ tags:
   - monster/environment/hill
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Vulture
 ---
-# [[5. Mechanics/Bestiary/Beast/Vulture.md|Vulture]]
-*Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Vulture.md|Vulture]]
+*Source: Monster Manual p. 339. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Vulture"
@@ -43,7 +46,7 @@ aliases:
   "name": "Keen Sight and Smell"
 - "desc": "The vulture has advantage on an attack roll against a creature if at least\
     \ one of the vulture's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
@@ -51,12 +54,6 @@ aliases:
   "name": "Beak"
 "source":
 - "MM"
-- "RoT"
-- "ToA"
-- "BGDIA"
-- "CM"
-- "WBtW"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Beast/token/vulture.webp"
 ```
 ^statblock

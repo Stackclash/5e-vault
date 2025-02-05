@@ -7,7 +7,7 @@ aliases:
   - 'Variant: Customizing Ability Scores; Ability Scores and Modifiers'
 ---
 # Variant: Customizing Ability Scores; Ability Scores and Modifiers
-*Source: Player's Handbook p. 13. Available in the SRD and the Basic Rules.* 
+*Source: Player's Handbook p. 13. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
 
 **Ability Scores and Modifiers**
 

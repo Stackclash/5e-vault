@@ -1,23 +1,26 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 9
+environments: null
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/9
   - monster/size/large
   - monster/type/construct
-statblock: inline
 aliases:
   - Clay Golem
 ---
-# [[5. Mechanics/Bestiary/Construct/Clay Golem.md|Clay Golem]]
-*Source: Monster Manual p. 168, Curse of Strahd. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Construct\Clay Golem.md|Clay Golem]]
+*Source: Monster Manual p. 168, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Sculpted from clay, this bulky golem stands head and shoulders taller than most human-sized creatures. It is human shaped, but its proportions are off.
 
 Clay golems are often divinely endowed with purpose by priests of great faith. However, clay is a weak vessel for life force. If the golem is damaged, the elemental spirit bound into it can break free. Such a golem runs amok, smashing everything around it until it is destroyed or completely repaired.
 
-> [!quote]- A quote from Words of warning in the Manual of Clay Golems  
+> [!quote] A quote from Words of warning in the Manual of Clay Golems  
 > 
 > The more rigid its physical form, the less likely the golem is to lose its sense of purpose. The clay ones can be a bit twitchy.
 
@@ -25,7 +28,7 @@ Clay golems are often divinely endowed with purpose by priests of great faith. H
 
 Golems are made from humble materials-clay, flesh and bones, iron, or stone-but they possess astonishing power and durability. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. An unstoppable juggernaut, it exists to follow its creator's orders, and it protects or attacks as that creator demands.
 
-To create a golem, one requires a [[5. Mechanics/Items/Manual Of Golems.md|manual of golems]]. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
+To create a golem, one requires a [[5. Mechanics/Items/Manual Of Golems (DMG).md|manual of golems]]. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
 
 ### Elemental Spirit in Material Form
 
@@ -43,7 +46,7 @@ Golems can guard sacred sites, tombs, and treasure vaults long after the deaths 
 
 ### Blind Obedience
 
-When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
+When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]], it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
 
 ### Constructed Nature
 
@@ -68,9 +71,9 @@ A golem doesn't require air, food, drink, or sleep.
 "speed": "20 ft."
 "damage_immunities": "acid; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "9"
@@ -109,14 +112,6 @@ A golem doesn't require air, food, drink, or sleep.
 "source":
 - "MM"
 - "CoS"
-- "RoT"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "DSotDQ"
-- "KftGV"
-- "PaBTSO"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Construct/token/clay-golem.webp"
 ```
 ^statblock

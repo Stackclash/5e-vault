@@ -7,7 +7,7 @@ aliases:
   - Trade Goods
 ---
 # Trade Goods
-*Source: Player's Handbook p. 157. Available in the SRD.* 
+*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 
 **Trade Goods**
 

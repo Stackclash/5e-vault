@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 11
+environments: null
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/11
   - monster/size/large
   - monster/type/fiend/devil
-statblock: inline
 aliases:
   - Horned Devil
 ---
-# [[5. Mechanics/Bestiary/Fiend/Horned Devil.md|Horned Devil]]
-*Source: Monster Manual p. 74, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Fiend\Horned Devil.md|Horned Devil]]
+*Source: Monster Manual p. 74, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Horned devils are lazy to the point of belligerence and reluctant to put themselves in harm's way. Moreover, they hate and fear any creature stronger than themselves. When they are sufficiently provoked or antagonized, the fury of these fiends can be terrifying.
 
@@ -113,7 +116,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -126,13 +129,13 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > **Summon Devil (1/Day).** The devil chooses what to summon and attempts a magical summoning.
 > 
-> - A barbed devil has a 30% chance chance of summoning one barbed devil.  
-> - A bearded devil has a 30% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg|noform` (`3d6`) spined devils, `dice: 1d6|avg|noform` (`1d6`) bearded devils, or one erinyes.  
-> - A horned devil has a 30% chance chance of summoning one horned devil.  
-> - An ice devil has a 60% chance chance of summoning one ice devil.  
-> - A pit fiend summons `dice: 2d4|avg|noform` (`2d4`) bearded devils, `dice: 1d4|avg|noform` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A barbed devil has a 30 percent chance of summoning one barbed devil.  
+> - A bearded devil has a 30 percent chance of summoning one bearded devil.  
+> - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|avg` (`3d6`) spined devils, `dice:1d6|noform|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A horned devil has a 30 percent chance of summoning one horned devil.  
+> - An ice devil has a 60 percent chance of summoning one ice devil.  
+> - A pit fiend summons `dice:2d4|noform|avg` (`2d4`) bearded devils, `dice:1d4|noform|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -163,7 +166,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "11"
@@ -195,10 +198,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   "name": "Hurl Flame"
 "source":
 - "MM"
-- "ToA"
-- "BGDIA"
-- "SatO"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/horned-devil.webp"
 ```

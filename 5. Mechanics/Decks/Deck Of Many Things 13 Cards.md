@@ -7,9 +7,9 @@ aliases:
   - Deck of Many Things (13 Cards)
 ---
 # Deck of Many Things (13 Cards)
-*Source: Dungeon Master's Guide p. 162. Available in the SRD.*  
+*Source: Dungeon Master's Guide p. 162. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75% chance) of these decks have only thirteen cards, but the rest have twenty-two.
+Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.
 
 Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly (you can use an altered deck of playing cards to simulate the deck). Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck on their own and take effect all at once.
 
@@ -48,7 +48,7 @@ You gain 50,000 XP, and a wondrous item (which the DM determines randomly) appea
 
 ### Moon
 ![[5. Mechanics/Decks/img/deck-of-many-things-03-moon.webp#card]]
-You are granted the ability to cast the [[5. Mechanics/Spells/Wish.md\|wish]] spell `dice: 1d3|avg|noform` (`1d3`) times.
+You are granted the ability to cast the [[5. Mechanics/Spells/Wish.md\|wish]] spell `dice:1d3|noform|avg` (`1d3`) times.
 
 ### Star
 ![[5. Mechanics/Decks/img/deck-of-many-things-04-star.webp#card]]
@@ -68,7 +68,7 @@ You gain the service of a 4th-level fighter who appears in a space you choose wi
 
 ### The Void
 ![[5. Mechanics/Decks/img/deck-of-many-things-12-void.webp#card]]
-This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. A [[5. Mechanics/Spells/Wish.md\|wish]] spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.
+This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. A [[5. Mechanics/Spells/Wish.md\|wish]] spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.
 
 ### Flames
 ![[5. Mechanics/Decks/img/deck-of-many-things-13-flames.webp#card]]
@@ -76,7 +76,7 @@ A powerful devil becomes your enemy. The devil seeks your ruin and plagues your 
 
 ### Skull
 ![[5. Mechanics/Decks/img/deck-of-many-things-14-skull.webp#card]]
-You summon an [[5. Mechanics/Bestiary/Undead/Avatar Of Death.md\|avatar of death]]—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the DM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own [[5. Mechanics/Bestiary/Undead/Avatar Of Death.md\|avatar of death]]. A creature slain by an [[5. Mechanics/Bestiary/Undead/Avatar Of Death.md\|avatar of death]] can't be restored to life.
+You summon an [[5. Mechanics/Bestiary/Undead/Avatar Of Death (DMG).md\|avatar of death]]—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the DM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own [[5. Mechanics/Bestiary/Undead/Avatar Of Death (DMG).md\|avatar of death]]. A creature slain by an [[5. Mechanics/Bestiary/Undead/Avatar Of Death (DMG).md\|avatar of death]] can't be restored to life.
 
 ### Ruin
 ![[5. Mechanics/Decks/img/deck-of-many-things-17-ruin.webp#card]]

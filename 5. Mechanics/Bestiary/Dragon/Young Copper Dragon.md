@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 7
+environments: hill
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/7
   - monster/environment/hill
   - monster/size/large
   - monster/type/dragon
-statblock: inline
 aliases:
   - Young Copper Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young Copper Dragon.md|Young Copper Dragon]]
-*Source: Monster Manual p. 112. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Young Copper Dragon.md|Young Copper Dragon]]
+*Source: Monster Manual p. 112. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
 
@@ -133,8 +136,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Breath Weapons (Recharge 5-6)"
 "source":
 - "MM"
-- "SKT"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Dragon/token/young-copper-dragon.webp"
 ```
 ^statblock

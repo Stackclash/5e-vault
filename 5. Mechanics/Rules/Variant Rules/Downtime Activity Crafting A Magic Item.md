@@ -7,7 +7,7 @@ aliases:
   - 'Downtime Activity: Crafting a Magic Item'
 ---
 # Downtime Activity: Crafting a Magic Item
-*Source: Dungeon Master's Guide p. 128* 
+*Source: Dungeon Master's Guide* 
 
 Magic items are the DM's purview, so you decide how they fall into the party's possession. As an option, you can allow player characters to craft magic items.
 
@@ -28,7 +28,7 @@ You can decide that certain items also require special materials or locations to
 
 An item has a creation cost specified in the Crafting Magic Items table. A character engaged in the crafting of a magic item makes progress in 25 gp increments, spending that amount for each day of work until the total cost is paid. The character is assumed to work for 8 hours each of those days. Thus, creating an uncommon magic item takes 20 days and 500 gp. You are free to adjust the costs to better suit your campaign.
 
-If a spell will be produced by the item being created, the creator must expend one spell slot of the spell's level for each day of the creation process. The spell's material components must also be at hand throughout the process. If the spell normally consumes those components, they are consumed by the creation process. If the item will be able to produce the spell only once, as with a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]], the components are consumed only once by the process. Otherwise, the components are consumed once each day of the item's creation.
+If a spell will be produced by the item being created, the creator must expend one spell slot of the spell's level for each day of the creation process. The spell's material components must also be at hand throughout the process. If the spell normally consumes those components, they are consumed by the creation process. If the item will be able to produce the spell only once, as with a [[5. Mechanics/Items/Spell Scroll (DMG).md\|spell scroll]], the components are consumed only once by the process. Otherwise, the components are consumed once each day of the item's creation.
 
 Multiple characters can combine their efforts to create a magic item if each of them meets the level prerequisite. Each character can contribute spells, spell slots and components, as long as everyone participates during the entire crafting process. Each character can contribute 25 gp worth of effort for each day spent helping to craft the item.
 

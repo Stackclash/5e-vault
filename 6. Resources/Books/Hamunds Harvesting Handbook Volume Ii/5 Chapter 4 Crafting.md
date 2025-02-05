@@ -9,7 +9,7 @@ aliases:
 # Chapter 4: Crafting
 *Source: Hamund's Harvesting Handbook: Volume II, p. 49* 
 
-> [!quote]- A quote from Hamund  
+> [!quote] A quote from Hamund  
 > 
 > As harvesting evolves, so too does crafting. As always, I have brought the spoils from my harvesting adventures back to my crafting contacts in order to discover what new wonders can be created. I present them here, so you too may harness the strength that nature provides.
 
@@ -31,15 +31,15 @@ Each craftable item listed in this guide requires at least one harvestable mater
 
 Craftable items require more than just the base component provided by harvested materials, however. Crafting an item requires a cost covering other requirements such as tools, facilities, and extra materials. Note that this cost does NOT include the cost of actually hiring a crafter, and that such a cost is considered separate. Assuming that the players are providing the base component for a craftable material, the value of this base component can be deducted from the end cost of crafting the item.
 
-Finally, craftable items take a certain amount of time before they can be completed. The breakdown of the time and cost investment to craft an item is listed in the [[5. Mechanics/Tables/Magic Item Crafting Time And Cost.md\|Magic Item Crafting Time and Cost]] table on the next page ^[This is a homebrew addition, replacing the following: below].
+Finally, craftable items take a certain amount of time before they can be completed. The breakdown of the time and cost investment to craft an item is listed in the [[5. Mechanics/Tables/Magic Item Crafting Time And Cost (HHHVI).md\|Magic Item Crafting Time and Cost]] table on the next page ^[This is a homebrew addition, replacing the following: below].
 
 > [!embed-table]- Magic Item Crafting Time and Cost
-> ![[5. Mechanics/Tables/Magic Item Crafting Time And Cost.md\|Magic Item Crafting Time and Cost]]
+> ![[5. Mechanics/Tables/Magic Item Crafting Time And Cost (HHHVI).md\|Magic Item Crafting Time and Cost]]
 
 This guide uses the rules for crafting in "Xanathar's Guide to Everything" as the basis for the crafting rules presented here. DM's are encouraged to adjust these numbers based on the needs of their own games.
 
 > [!embed-variantrule]- Optional Rule: Crafter Skill
-> ![[/5. Mechanics/Rules/Variant Rules/Optional Rule Crafter Skill.md\|Optional Rule: Crafter Skill]]
+> ![[/5. Mechanics/Rules/Variant Rules/Optional Rule Crafter Skill (HHHVI).md\|Optional Rule: Crafter Skill]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Crafter.webp#center)
 
@@ -51,23 +51,23 @@ Crafters are not restricted to a single profession either. Some skills are compl
 
 The following is a basic rundown of crafter types:
 
-> [!embed-optionalfeature]- Alchemist
-> ![[5. Mechanics/Optional Features/Alchemist.md\|Alchemist]]
+> [!embed-optfeature]- Alchemist
+> ![[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]]
 
-> [!embed-optionalfeature]- Artificer
-> ![[5. Mechanics/Optional Features/Artificer.md\|Artificer]]
+> [!embed-optfeature]- Artificer
+> ![[5. Mechanics/Optional Features/Artificer (HHHVI).md\|Artificer]]
 
-> [!embed-optionalfeature]- Blacksmith
-> ![[5. Mechanics/Optional Features/Blacksmith.md\|Blacksmith]]
+> [!embed-optfeature]- Blacksmith
+> ![[5. Mechanics/Optional Features/Blacksmith (HHHVI).md\|Blacksmith]]
 
-> [!embed-optionalfeature]- Leatherworker
-> ![[5. Mechanics/Optional Features/Leatherworker.md\|Leatherworker]]
+> [!embed-optfeature]- Leatherworker
+> ![[5. Mechanics/Optional Features/Leatherworker (HHHVI).md\|Leatherworker]]
 
-> [!embed-optionalfeature]- Tinker
-> ![[5. Mechanics/Optional Features/Tinker.md\|Tinker]]
+> [!embed-optfeature]- Tinker
+> ![[5. Mechanics/Optional Features/Tinker (HHHVI).md\|Tinker]]
 
-> [!embed-optionalfeature]- Thaumaturge
-> ![[5. Mechanics/Optional Features/Thaumaturge.md\|Thaumaturge]]
+> [!embed-optfeature]- Thaumaturge
+> ![[5. Mechanics/Optional Features/Thaumaturge (HHHVI).md\|Thaumaturge]]
 
 ### Crafting Items from Published Books
 
@@ -76,7 +76,7 @@ Some craftable items originate from official source books published by Wizards o
 In order to understand the quantities of harvestable materials required and the type of crafter, the following table has been made:
 
 > [!embed-table]- Published Book Items
-> ![[5. Mechanics/Tables/Published Book Items.md\|Published Book Items]]
+> ![[5. Mechanics/Tables/Published Book Items (HHHVII).md\|Published Book Items]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Crafting.webp#center)
 
@@ -85,200 +85,200 @@ In order to understand the quantities of harvestable materials required and the 
 Craftable items are presented in alphabetical order. A craftable item's description gives the item's name, its category, its rarity, its base component, the crafter type required to make it, and its magical properties.
 
 > [!note]
-> These items are already available in Volume I. ^[[5. Mechanics/Items/Amulet Of The Mind Flayer.md\|collection/Jasmine Yang; Hamund's Harvesting Handbook I.json]
+> These items are already available in Volume I. ^[[5. Mechanics/Items/Amulet Of The Mind Flayer (HHHVI).md\|collection/Jasmine Yang; Hamund's Harvesting Handbook I.json]
 
 [Amulet of the Mind Flayer]]
 
-[[5. Mechanics/Items/Bag Of Colding.md\|Bag of Colding]]
+[[5. Mechanics/Items/Bag Of Colding (HHHVI).md\|Bag of Colding]]
 
-[[5. Mechanics/Items/Cloud Step Oil.md\|Cloud Step Oil]]
+[[5. Mechanics/Items/Cloud Step Oil (HHHVI).md\|Cloud Step Oil]]
 
-[[5. Mechanics/Items/Dra Gone Paste.md\|Dra-gone Paste]]
+[[5. Mechanics/Items/Dra Gone Paste (HHHVI).md\|Dra-gone Paste]]
 
-[[5. Mechanics/Items/Drag On Paste.md\|Drag-on Paste]]
+[[5. Mechanics/Items/Drag On Paste (HHHVI).md\|Drag-on Paste]]
 
-[[5. Mechanics/Items/Drow Amulet.md\|Drow Amulet]]
+[[5. Mechanics/Items/Drow Amulet (HHHVI).md\|Drow Amulet]]
 
-[[5. Mechanics/Items/Living Lamp.md\|Living Lamp]]
+[[5. Mechanics/Items/Living Lamp (HHHVI).md\|Living Lamp]]
 
-[[5. Mechanics/Items/Potion Of Poison Immunity.md\|Potion of Poison Immunity]]
+[[5. Mechanics/Items/Potion Of Poison Immunity (HHHVI).md\|Potion of Poison Immunity]]
 
-[[5. Mechanics/Items/Stinger Whip.md\|Stinger Whip]]
+[[5. Mechanics/Items/Stinger Whip (HHHVI).md\|Stinger Whip]]
 
-[[5. Mechanics/Items/Stone Anvil.md\|Stone Anvil]]
+[[5. Mechanics/Items/Stone Anvil (HHHVI).md\|Stone Anvil]]
 
-[[5. Mechanics/Items/Stone Swim Armor.md\|Stone Swim Armor]]
+[[5. Mechanics/Items/Stone Swim Armor (HHHVI).md\|Stone Swim Armor]]
 
-[[5. Mechanics/Items/Yeenoghus Boon.md\|Yeenoghu's Boon]]
+[[5. Mechanics/Items/Yeenoghus Boon (HHHVI).md\|Yeenoghu's Boon]]
 
 > [!note]
 > These items are new to Volume II.
 
-[[5. Mechanics/Items/Amulet Of Dragonkin.md\|Amulet of Dragonkin]]
+[[5. Mechanics/Items/Amulet Of Dragonkin (HHHVII).md\|Amulet of Dragonkin]]
 
-[[5. Mechanics/Items/Amulet Of Enslavement.md\|Amulet of Enslavement]]
+[[5. Mechanics/Items/Amulet Of Enslavement (HHHVII).md\|Amulet of Enslavement]]
 
-[[5. Mechanics/Items/Amulet Of Imix.md\|Amulet of Imix]]
+[[5. Mechanics/Items/Amulet Of Imix (HHHVII).md\|Amulet of Imix]]
 
-[[5. Mechanics/Items/Amulet Of Telepathic Control.md\|Amulet of Telepathic Control]]
+[[5. Mechanics/Items/Amulet Of Telepathic Control (HHHVII).md\|Amulet of Telepathic Control]]
 
-[[5. Mechanics/Items/Amulet Of The Closed Heart.md\|Amulet of the Closed Heart]]
+[[5. Mechanics/Items/Amulet Of The Closed Heart (HHHVII).md\|Amulet of the Closed Heart]]
 
-[[5. Mechanics/Items/Amulet Of The Forest.md\|Amulet of the Forest]]
+[[5. Mechanics/Items/Amulet Of The Forest (HHHVII).md\|Amulet of the Forest]]
 
-[[5. Mechanics/Items/Anathema Device.md\|Anathema Device]]
+[[5. Mechanics/Items/Anathema Device (HHHVII).md\|Anathema Device]]
 
-[[5. Mechanics/Items/Antimagic Shield.md\|Antimagic Shield]]
+[[5. Mechanics/Items/Antimagic Shield (HHHVII).md\|Antimagic Shield]]
 
-[[5. Mechanics/Items/Armor Of The Forest Sentinel.md\|Armor of the Forest Sentinel]]
+[[5. Mechanics/Items/Armor Of The Forest Sentinel (HHHVII).md\|Armor of the Forest Sentinel]]
 
-[[5. Mechanics/Items/Bewildering Bagpipes.md\|Bewildering Bagpipes]]
+[[5. Mechanics/Items/Bewildering Bagpipes (HHHVII).md\|Bewildering Bagpipes]]
 
-[[5. Mechanics/Items/Big Catch Hooks.md\|Big Catch Hooks]]
+[[5. Mechanics/Items/Big Catch Hooks (HHHVII).md\|Big Catch Hooks]]
 
-[[5. Mechanics/Items/Bite Of Varpak.md\|Bite of Varpak]]
+[[5. Mechanics/Items/Bite Of Varpak (HHHVII).md\|Bite of Varpak]]
 
-[[5. Mechanics/Items/Bloodhunters Lens.md\|Bloodhunter's Lens]]
+[[5. Mechanics/Items/Bloodhunters Lens (HHHVII).md\|Bloodhunter's Lens]]
 
-[[5. Mechanics/Items/Bone Plate Armor.md\|Bone Plate Armor]] > [!note]
+[[5. Mechanics/Items/Bone Plate Armor (HHHVII).md\|Bone Plate Armor]] > [!note]
 > This item is mentioned but not detailed, it has been created from basic assumptions.
 
-[[5. Mechanics/Items/Boots Of Iron Gait.md\|Boots of Iron Gait]]
+[[5. Mechanics/Items/Boots Of Iron Gait (HHHVII).md\|Boots of Iron Gait]]
 
-[[5. Mechanics/Items/Boots Of Stone Strength.md\|Boots of Stone Strength]]
+[[5. Mechanics/Items/Boots Of Stone Strength (HHHVII).md\|Boots of Stone Strength]]
 
-[[5. Mechanics/Items/Breastplate Of The Boundary.md\|Breastplate of the Boundary]]
+[[5. Mechanics/Items/Breastplate Of The Boundary (HHHVII).md\|Breastplate of the Boundary]]
 
-[[5. Mechanics/Items/Camouflage Cloak.md\|Camouflage Cloak]]
+[[5. Mechanics/Items/Camouflage Cloak (HHHVII).md\|Camouflage Cloak]]
 
-[[5. Mechanics/Items/Cap Of Aggression.md\|Cap of Aggression]]
+[[5. Mechanics/Items/Cap Of Aggression (HHHVII).md\|Cap of Aggression]]
 
-[[5. Mechanics/Items/Clerics Bane Poison.md\|Cleric's Bane Poison]]
+[[5. Mechanics/Items/Clerics Bane Poison (HHHVII).md\|Cleric's Bane Poison]]
 
-[[5. Mechanics/Items/Cloak Of The Storm Spirit.md\|Cloak of the Storm Spirit]]
+[[5. Mechanics/Items/Cloak Of The Storm Spirit (HHHVII).md\|Cloak of the Storm Spirit]]
 
-[[5. Mechanics/Items/Curse Of Desolation.md\|Curse of Desolation]]
+[[5. Mechanics/Items/Curse Of Desolation (HHHVII).md\|Curse of Desolation]]
 
-[[5. Mechanics/Items/Curse Of Never Ending Fear.md\|Curse of Never-Ending Fear]]
+[[5. Mechanics/Items/Curse Of Never Ending Fear (HHHVII).md\|Curse of Never-Ending Fear]]
 
-[[5. Mechanics/Items/Curse Of Suns Bane.md\|Curse of Sun's Bane]]
+[[5. Mechanics/Items/Curse Of Suns Bane (HHHVII).md\|Curse of Sun's Bane]]
 
-[[5. Mechanics/Items/Curse Of Vengeance.md\|Curse of Vengeance]]
+[[5. Mechanics/Items/Curse Of Vengeance (HHHVII).md\|Curse of Vengeance]]
 
-[[5. Mechanics/Items/Curse Of Weakening.md\|Curse of Weakening]]
+[[5. Mechanics/Items/Curse Of Weakening (HHHVII).md\|Curse of Weakening]]
 
-[[5. Mechanics/Items/Death Goggles.md\|Death Goggles]]
+[[5. Mechanics/Items/Death Goggles (HHHVII).md\|Death Goggles]]
 
-[[5. Mechanics/Items/Demon Vellum.md\|Demon Vellum]]
+[[5. Mechanics/Items/Demon Vellum (HHHVII).md\|Demon Vellum]]
 
-[[5. Mechanics/Items/Doublet Of Psionic Protection.md\|Doublet of Psionic Protection]]
+[[5. Mechanics/Items/Doublet Of Psionic Protection (HHHVII).md\|Doublet of Psionic Protection]]
 
-[[5. Mechanics/Items/Eye Drone.md\|Eye Drone]]
+[[5. Mechanics/Items/Eye Drone (HHHVII).md\|Eye Drone]]
 
-[[5. Mechanics/Items/Filter Rag.md\|Filter Rag]]
+[[5. Mechanics/Items/Filter Rag (HHHVII).md\|Filter Rag]]
 
-[[5. Mechanics/Items/Fire Flash Armor.md\|Fire Flash Armor]]
+[[5. Mechanics/Items/Fire Flash Armor (HHHVII).md\|Fire Flash Armor]]
 
-[[5. Mechanics/Items/Flask Of Storms.md\|Flask of Storms]]
+[[5. Mechanics/Items/Flask Of Storms (HHHVII).md\|Flask of Storms]]
 
-[[5. Mechanics/Items/Frozen Skull.md\|Frozen Skull]]
+[[5. Mechanics/Items/Frozen Skull (HHHVII).md\|Frozen Skull]]
 
-[[5. Mechanics/Items/Glass Oil.md\|Glass Oil]]
+[[5. Mechanics/Items/Glass Oil (HHHVII).md\|Glass Oil]]
 
-[[5. Mechanics/Items/Goblin Effigy.md\|Goblin Effigy]]
+[[5. Mechanics/Items/Goblin Effigy (HHHVII).md\|Goblin Effigy]]
 
-[[5. Mechanics/Items/Golden Sun Armor.md\|Golden Sun Armor]]
+[[5. Mechanics/Items/Golden Sun Armor (HHHVII).md\|Golden Sun Armor]]
 
-[[5. Mechanics/Items/Harp Of Winters Tempo.md\|Harp of Winter's Tempo]]
+[[5. Mechanics/Items/Harp Of Winters Tempo (HHHVII).md\|Harp of Winter's Tempo]]
 
-[[5. Mechanics/Items/Heart Scales.md\|Heart Scales]]
+[[5. Mechanics/Items/Heart Scales (HHHVII).md\|Heart Scales]]
 
-[[5. Mechanics/Items/Helm Of Mind Trapping.md\|Helm of Mind Trapping]]
+[[5. Mechanics/Items/Helm Of Mind Trapping (HHHVII).md\|Helm of Mind Trapping]]
 
-[[5. Mechanics/Items/Helm Of The Cryptkeeper.md\|Helm of the Cryptkeeper]]
+[[5. Mechanics/Items/Helm Of The Cryptkeeper (HHHVII).md\|Helm of the Cryptkeeper]]
 
-[[5. Mechanics/Items/Helm Of The Ulitharid.md\|Helm of the Ulitharid]]
+[[5. Mechanics/Items/Helm Of The Ulitharid (HHHVII).md\|Helm of the Ulitharid]]
 
-[[5. Mechanics/Items/Helmet Of Stone Dreams.md\|Helmet of Stone Dreams]]
+[[5. Mechanics/Items/Helmet Of Stone Dreams (HHHVII).md\|Helmet of Stone Dreams]]
 
-[[5. Mechanics/Items/Horn Of Fear.md\|Horn of Fear]]
+[[5. Mechanics/Items/Horn Of Fear (HHHVII).md\|Horn of Fear]]
 
-[[5. Mechanics/Items/Idea Bulb.md\|Idea Bulb]]
+[[5. Mechanics/Items/Idea Bulb (HHHVII).md\|Idea Bulb]]
 
-[[5. Mechanics/Items/Ink Of Secret Knowledge.md\|Ink of Secret Knowledge]]
+[[5. Mechanics/Items/Ink Of Secret Knowledge (HHHVII).md\|Ink of Secret Knowledge]]
 
-[[5. Mechanics/Items/Interrogators Web.md\|Interrogator's Web]]
+[[5. Mechanics/Items/Interrogators Web (HHHVII).md\|Interrogator's Web]]
 
-[[5. Mechanics/Items/Leeching Whip.md\|Leeching Whip]]
+[[5. Mechanics/Items/Leeching Whip (HHHVII).md\|Leeching Whip]]
 
-[[5. Mechanics/Items/Lenses Of Hypnosis.md\|Lenses of Hypnosis]]
+[[5. Mechanics/Items/Lenses Of Hypnosis (HHHVII).md\|Lenses of Hypnosis]]
 
-[[5. Mechanics/Items/Lesser Eye Stalk Wand.md\|Lesser Eye Stalk Wand]] > [!note]
-> Not to be confused with [[5. Mechanics/Items/Lesser Eye Stalk Wand.md\|Lesser Eye Stalk Wand (HHHVI)]].
+[[5. Mechanics/Items/Lesser Eye Stalk Wand (HHHVII).md\|Lesser Eye Stalk Wand]] > [!note]
+> Not to be confused with [[5. Mechanics/Items/Lesser Eye Stalk Wand (HHHVI).md\|Lesser Eye Stalk Wand (HHHVI)]].
 
-[[5. Mechanics/Items/Mask Of Clouds.md\|Mask of Clouds]]
+[[5. Mechanics/Items/Mask Of Clouds (HHHVII).md\|Mask of Clouds]]
 
-[[5. Mechanics/Items/1 Mind Hook.md\|+1 Mind Hook]]
+[[5. Mechanics/Items/1 Mind Hook (HHHVII).md\|+1 Mind Hook]]
 
-[[5. Mechanics/Items/1 Mind Whip.md\|+1 Mind Whip]] > [!note]
-> This item is an extension of the [[5. Mechanics/Items/Mind Whip.md\|Mind Whip (HHHVI)]].
+[[5. Mechanics/Items/1 Mind Whip (HHHVII).md\|+1 Mind Whip]] > [!note]
+> This item is an extension of the [[5. Mechanics/Items/Mind Whip (HHHVI).md\|Mind Whip (HHHVI)]].
 
-[[5. Mechanics/Items/Minor Eye Stalk Wand.md\|Minor Eye Stalk Wand]]
+[[5. Mechanics/Items/Minor Eye Stalk Wand (HHHVII).md\|Minor Eye Stalk Wand]]
 
-[[5. Mechanics/Items/Mirror Of Insecurity.md\|Mirror of Insecurity]]
+[[5. Mechanics/Items/Mirror Of Insecurity (HHHVII).md\|Mirror of Insecurity]]
 
-[[5. Mechanics/Items/Mutated Eye Stalk Wand.md\|Mutated Eye Stalk Wand]]
+[[5. Mechanics/Items/Mutated Eye Stalk Wand (HHHVII).md\|Mutated Eye Stalk Wand]]
 
-[[5. Mechanics/Items/Necrotic Cloak.md\|Necrotic Cloak]]
+[[5. Mechanics/Items/Necrotic Cloak (HHHVII).md\|Necrotic Cloak]]
 
-[[5. Mechanics/Items/Portable Mouth.md\|Portable Mouth]]
+[[5. Mechanics/Items/Portable Mouth (HHHVII).md\|Portable Mouth]]
 
-[[5. Mechanics/Items/Potion Of Boundless Intellect.md\|Potion of Boundless Intellect]]
+[[5. Mechanics/Items/Potion Of Boundless Intellect (HHHVII).md\|Potion of Boundless Intellect]]
 
-[[5. Mechanics/Items/Potion Of Corrupted Strength.md\|Potion of Corrupted Strength]]
+[[5. Mechanics/Items/Potion Of Corrupted Strength (HHHVII).md\|Potion of Corrupted Strength]]
 
-[[5. Mechanics/Items/Potion Of Digestion.md\|Potion of Digestion]]
+[[5. Mechanics/Items/Potion Of Digestion (HHHVII).md\|Potion of Digestion]]
 
-[[5. Mechanics/Items/Potion Of Liquid Form.md\|Potion of Liquid Form]]
+[[5. Mechanics/Items/Potion Of Liquid Form (HHHVII).md\|Potion of Liquid Form]]
 
-[[5. Mechanics/Items/Potion Of Vigor.md\|Potion of Vigor]]
+[[5. Mechanics/Items/Potion Of Vigor (HHHVII).md\|Potion of Vigor]]
 
-[[5. Mechanics/Items/Radiant Oil.md\|Radiant Oil]]
+[[5. Mechanics/Items/Radiant Oil (HHHVII).md\|Radiant Oil]]
 
-[[5. Mechanics/Items/Raxivorts Boon.md\|Raxivort's Boon]]
+[[5. Mechanics/Items/Raxivorts Boon (HHHVII).md\|Raxivort's Boon]]
 
-[[5. Mechanics/Items/Reversal Boots.md\|Reversal Boots]]
+[[5. Mechanics/Items/Reversal Boots (HHHVII).md\|Reversal Boots]]
 
-[[5. Mechanics/Items/Shadow Dye.md\|Shadow Dye]]
+[[5. Mechanics/Items/Shadow Dye (HHHVII).md\|Shadow Dye]]
 
-[[5. Mechanics/Items/Shadow Hunter Bow.md\|Shadow Hunter Bow]]
+[[5. Mechanics/Items/Shadow Hunter Bow (HHHVII).md\|Shadow Hunter Bow]]
 
-[[5. Mechanics/Items/Shadow Spikes.md\|Shadow Spikes]]
+[[5. Mechanics/Items/Shadow Spikes (HHHVII).md\|Shadow Spikes]]
 
-[[5. Mechanics/Items/1 Shield Of Reflection.md\|+1 Shield of Reflection]]
+[[5. Mechanics/Items/1 Shield Of Reflection (HHHVII).md\|+1 Shield of Reflection]]
 
-[[5. Mechanics/Items/Silhouette Shawl.md\|Silhouette Shawl]]
+[[5. Mechanics/Items/Silhouette Shawl (HHHVII).md\|Silhouette Shawl]]
 
-[[5. Mechanics/Items/Snap Tongue Attachment.md\|Snap Tongue Attachment]]
+[[5. Mechanics/Items/Snap Tongue Attachment (HHHVII).md\|Snap Tongue Attachment]]
 
-[[5. Mechanics/Items/Soul Render.md\|Soul Render]]
+[[5. Mechanics/Items/Soul Render (HHHVII).md\|Soul Render]]
 
-[[5. Mechanics/Items/Staff Of Split Control.md\|Staff of Split Control]]
+[[5. Mechanics/Items/Staff Of Split Control (HHHVII).md\|Staff of Split Control]]
 
-[[5. Mechanics/Items/Stunning Lens.md\|Stunning Lens]]
+[[5. Mechanics/Items/Stunning Lens (HHHVII).md\|Stunning Lens]]
 
-[[5. Mechanics/Items/Sun Stream Bow.md\|Sun Stream Bow]]
+[[5. Mechanics/Items/Sun Stream Bow (HHHVII).md\|Sun Stream Bow]]
 
-[[5. Mechanics/Items/Swarm Charms.md\|Swarm Charms]]
+[[5. Mechanics/Items/Swarm Charms (HHHVII).md\|Swarm Charms]]
 
-[[5. Mechanics/Items/Telepathic Lens.md\|Telepathic Lens]]
+[[5. Mechanics/Items/Telepathic Lens (HHHVII).md\|Telepathic Lens]]
 
-[[5. Mechanics/Items/Tormentors Cap.md\|Tormentor's Cap]]
+[[5. Mechanics/Items/Tormentors Cap (HHHVII).md\|Tormentor's Cap]]
 
-[[5. Mechanics/Items/Wand Of The Golden Ray.md\|Wand of the Golden Ray]]
+[[5. Mechanics/Items/Wand Of The Golden Ray (HHHVII).md\|Wand of the Golden Ray]]
 
-[[5. Mechanics/Items/Whip Of Extended Reach.md\|Whip of Extended Reach]]
+[[5. Mechanics/Items/Whip Of Extended Reach (HHHVII).md\|Whip of Extended Reach]]
 
-[[5. Mechanics/Items/Withering Lenses.md\|Withering Lenses]]
+[[5. Mechanics/Items/Withering Lenses (HHHVII).md\|Withering Lenses]]
 
-[[5. Mechanics/Items/Yeenoghus Wrath.md\|Yeenoghu's Wrath]]
+[[5. Mechanics/Items/Yeenoghus Wrath (HHHVII).md\|Yeenoghu's Wrath]]

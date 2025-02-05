@@ -3,16 +3,29 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard/college-of-glamour
+  - spell/class/bard
   - spell/class/cleric
-  - spell/class/cleric/knowledge-domain
-  - spell/class/cleric/order-domain
   - spell/class/paladin
-  - spell/class/paladin/oath-of-conquest
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-fiend
-  - spell/level/1
+  - spell/feat/fey-touched
+  - spell/feat/magic-initiate
+  - spell/level/1st-level
   - spell/school/enchantment
+  - spell/subclass/chain-domain
+  - spell/subclass/college-of-glamour
+  - spell/subclass/divine-soul
+  - spell/subclass/fey-trapper
+  - spell/subclass/knowledge-domain
+  - spell/subclass/lust-domain
+  - spell/subclass/oath-of-conquest
+  - spell/subclass/order-domain
+  - spell/subclass/second-soul
+  - spell/subclass/the-fiend
+level: 1st-level
+range: false
+school: Enchantment
+time: 1 action
+duration: 1 round
+components: V
 aliases:
   - Command
 ---
@@ -42,7 +55,7 @@ The target spends its turn moving away from you by the fastest available means.
 
 ## Grovel
 
-The target falls [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] and then ends its turn.
+The target falls [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and then ends its turn.
 
 ## Halt
 
@@ -54,6 +67,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Bard College Of Glamour.md\|Bard (College of Glamour)]], [[5. Mechanics/Classes/Cleric Knowledge Domain.md\|Cleric (Knowledge Domain)]], [[5. Mechanics/Classes/Cleric Order Domain.md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin Oath Of Conquest.md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Cleric Chain Domain (GRIFFONSSADDLEBAG4)\|Cleric (Chain Domain)]]; [[List Spells Classes Bard College Of Glamour (XGE)\|Bard (College of Glamour)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Ranger Fey Trapper (HHHVIII)\|Ranger (Fey Trapper)]]; [[List Spells Classes Cleric Knowledge Domain\|Cleric (Knowledge Domain)]]; [[List Spells Classes Cleric Lust Domain (KPDM)\|Cleric (Lust Domain)]]; [[List Spells Classes Paladin Oath Of Conquest (XGE)\|Paladin (Oath of Conquest)]]; [[List Spells Classes Cleric Order Domain (TCE)\|Cleric (Order Domain)]]; [[List Spells Classes Sorcerer Second Soul (GRIFFONSSADDLEBAG3)\|Sorcerer (Second Soul)]]; [[List Spells Classes Warlock The Fiend\|Warlock (The Fiend)]]
 
-*Source: Player's Handbook p. 223. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

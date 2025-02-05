@@ -3,9 +3,20 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/wizard
-  - spell/level/7
+  - spell/level/7th-level
   - spell/school/illusion
+level: 7th-level
+range: false
+school: Illusion
+time: 12 hour
+duration: Until dispelled
+components: >-
+  V, S, snow or ice in quantities sufficient to make a life-size copy of the
+  duplicated creature; some hair, fingernail clippings, or other piece of that
+  creature's body placed inside the snow or ice; and powdered ruby worth 1,500
+  gp, sprinkled over the duplicate and consumed by the spell
 aliases:
   - Simulacrum
 ---
@@ -25,6 +36,6 @@ If the simulacrum is damaged, you can repair it in an alchemical laboratory, usi
 
 If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.
 
-**Classes**: [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
 
-*Source: Player's Handbook p. 276. Available in the SRD.*
+*Source: Player's Handbook p. 276. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

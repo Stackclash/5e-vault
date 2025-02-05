@@ -3,13 +3,23 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
   - spell/class/monk
-  - spell/class/sorcerer/divine-soul
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/9
+  - spell/level/9th-level
   - spell/school/necromancy
+  - spell/subclass/divine-soul
+level: 9th-level
+range: false
+school: Necromancy
+time: 1 hour
+duration: Special
+components: >-
+  V, S, for each creature you affect with this spell, you must provide one
+  jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at
+  least 100 gp, all of which the spell consumes
 aliases:
   - Astral Projection
 ---
@@ -21,7 +31,7 @@ aliases:
 - **Components:** V, S, for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes
 - **Duration:** Special
 
-You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] and in a state of suspended animation, it doesn't need food or air and doesn't age.
+You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] and in a state of suspended animation, it doesn't need food or air and doesn't age.
 
 Your astral body resembles your mortal form in almost every way, replicating your game statistics and possessions. The principal difference is the addition of a silvery cord that extends from between your shoulder blades and trails behind you, fading to invisibility after 1 foot. This cord is your tether to your material body. As long as the tether remains intact, you can find your way home. If the cord is cut-something that can happen only when an effect specifically states that it does-your soul and body are separated, killing you instantly.
 
@@ -33,6 +43,6 @@ The spell might also end early for you or one of your companions. A successful [
 
 If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 hit points.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Monk.md\|Monk]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Monk\|Monk]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 215. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

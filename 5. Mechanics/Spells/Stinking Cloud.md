@@ -4,14 +4,22 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/bard
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
-  - spell/class/warlock/the-fiend
   - spell/class/wizard
-  - spell/level/3
+  - spell/level/3rd-level
   - spell/school/conjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/eldritch-knight
+  - spell/subclass/festus-domain
+  - spell/subclass/marshwarden
+  - spell/subclass/the-fiend
+level: 3rd-level
+range: false
+school: Conjuration
+time: 1 action
+duration: 'Concentration, up to 1 minute'
+components: 'V, S, a rotten egg or several skunk cabbage leaves'
 aliases:
   - Stinking Cloud
 ---
@@ -29,6 +37,6 @@ Each creature that is completely within the cloud at the start of its turn must 
 
 A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds. A strong wind (at least 20 miles per hour) disperses it after 1 round.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Festus Domain (GRIFFONSSADDLEBAG2)\|Cleric (Festus Domain)]]; [[List Spells Classes Ranger Marshwarden (GRIFFONSSADDLEBAG3)\|Ranger (Marshwarden)]]; [[List Spells Classes Warlock The Fiend\|Warlock (The Fiend)]]
 
-*Source: Player's Handbook p. 278. Available in the SRD.*
+*Source: Player's Handbook p. 278. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

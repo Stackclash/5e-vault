@@ -3,12 +3,25 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/cleric/nature-domain
+  - spell/class/bard
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/arcane-archer
+  - spell/feat/magic-initiate
+  - spell/feat/wood-elf-magic
   - spell/level/cantrip
+  - spell/optfeature/druidic-warrior
+  - spell/optfeature/pact-of-the-tome
+  - spell/race/fairy
   - spell/school/transmutation
+  - spell/subclass/arcane-archer
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/hedge-mage
+  - spell/subclass/nature-domain
+level: cantrip
+range: false
+school: Transmutation
+time: 1 action
+duration: Instantaneous
+components: 'V, S'
 aliases:
   - Druidcraft
 ---
@@ -27,6 +40,6 @@ Whispering to the spirits of nature, you create one of the following effects wit
 - You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.  
 - You instantly light or snuff out a candle, a torch, or a small campfire.  
 
-**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Arcane Archer.md\|Fighter (Arcane Archer)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Fighter Arcane Archer (XGE)\|Fighter (Arcane Archer)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]
 
-*Source: Player's Handbook p. 236. Available in the SRD.*
+*Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -3,17 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/barbarian/path-of-the-ancestral-guardian
   - spell/class/bard
   - spell/class/cleric
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-great-old-one
   - spell/class/wizard
-  - spell/level/3
+  - spell/level/3rd-level
   - spell/school/divination
+  - spell/subclass/arcane-trickster
+  - spell/subclass/divine-soul
+  - spell/subclass/eldritch-knight
+  - spell/subclass/path-of-the-ancestral-guardian
+  - spell/subclass/the-great-old-one
+  - spell/subclass/the-sibyl
+level: 3rd-level
+range: false
+school: Divination
+time: 10 minute
+duration: 'Concentration, up to 10 minute'
+components: >-
+  V, S, a focus worth at least 100 gp, either a jeweled horn for hearing or a
+  glass eye for seeing
 aliases:
   - Clairvoyance
 ---
@@ -29,8 +38,8 @@ You create an invisible sensor within range in a location familiar to you (a pla
 
 When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your action, you can switch between seeing and hearing.
 
-A creature that can see the sensor (such as a creature benefiting from [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] or [[/5. Mechanics/Rules/Senses.md#truesight\|truesight]]) sees a luminous, intangible orb about the size of your fist.
+A creature that can see the sensor (such as a creature benefiting from [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] or [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]]) sees a luminous, intangible orb about the size of your fist.
 
-**Classes**: [[5. Mechanics/Classes/Barbarian Path Of The Ancestral Guardian.md\|Barbarian (Path of the Ancestral Guardian)]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Barbarian Path Of The Ancestral Guardian (XGE)\|Barbarian (Path of the Ancestral Guardian)]]; [[List Spells Classes Warlock The Great Old One\|Warlock (The Great Old One)]]; [[List Spells Classes Warlock The Sibyl (KPDM)\|Warlock (The Sibyl)]]
 
-*Source: Player's Handbook p. 222. Available in the SRD.*
+*Source: Player's Handbook p. 222. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: urban
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/urban
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Priest
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Priest.md|Priest]]
-*Source: Monster Manual p. 348, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Humanoid\Priest.md|Priest]]
+*Source: Monster Manual p. 348, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Priests bring the teachings of their gods to the common folk. They are the spiritual leaders of temples and shrines and often hold positions of influence in their communities. Evil priests might work openly under a tyrant, or they might be the leaders of religious sects hidden in the shadows of good society, overseeing depraved rites. A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties.
 
@@ -65,33 +68,7 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
 "source":
 - "MM"
 - "CoS"
-- "HotDQ"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SLW"
-- "SDW"
-- "BGDIA"
-- "ERLW"
-- "EGW"
-- "MOT"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "CRCotN"
-- "JttRC"
-- "DSotDQ"
-- "PSI"
-- "SatO"
-- "ToFW"
-- "BMT"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/priest.webp"
 ```

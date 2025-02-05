@@ -3,13 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/phb
-  - item/gear
+  - item/gear/
+  - item/rarity/none
 aliases:
   - Entertainer's Pack
 cost: 4000
 ---
 # Entertainer's Pack
-*Adventuring Gear*  
+*Adventuring gear*  
 
 - **Cost**: 40 gp
 - **Weight**: 38.0 lbs.
@@ -24,4 +25,4 @@ Includes:
 - a [[5. Mechanics/Items/Waterskin.md\|waterskin]]  
 - a [[5. Mechanics/Items/Disguise Kit.md\|disguise kit]]  
 
-*Source: Player's Handbook p. 151. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

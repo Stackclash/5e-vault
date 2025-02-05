@@ -9,7 +9,7 @@ aliases:
 # Chapter 5: Miscellaneous Additions
 *Source: Hamund's Harvesting Handbook: Volume II, p. 67* 
 
-> [!quote]- A quote from Hamund  
+> [!quote] A quote from Hamund  
 > 
 > Harvesting is a holistic art. It is not simply the physical act of cutting and slicing through a carcass, it is the tools you use, the rules you live by and the skills you have; in short it is an entire lifestyle! Once you have assumed the life of a harvester, you will see the world in a different way, and find the new possibilities and options open to you. However, in the case that you haven't, I've listed them down here for you anyway.
 
@@ -20,36 +20,36 @@ This guide introduces a few new concepts into the base game of Dungeons and Drag
 A few new pieces of adventuring gear have been added in this book to accommodate the act of harvesting. Their functions are described below:
 
 > [!embed-item]- Enchanted Vial
-> ![[5. Mechanics/Items/Enchanted Vial.md\|Enchanted Vial]]
+> ![[5. Mechanics/Items/Enchanted Vial (HHHVI).md\|Enchanted Vial]]
 
 > [!embed-item]- Hamund's Harvesting Handbook
-> ![[5. Mechanics/Items/Hamunds Harvesting Handbook.md\|Hamund's Harvesting Handbook]]
+> ![[5. Mechanics/Items/Hamunds Harvesting Handbook (HHHVI).md\|Hamund's Harvesting Handbook]]
 
 > [!embed-item]- Harvesting Kit
-> ![[5. Mechanics/Items/Harvesting Kit.md\|Harvesting Kit]]
+> ![[5. Mechanics/Items/Harvesting Kit (HHHVI).md\|Harvesting Kit]]
 
 > [!embed-item]- Spirit Paper
-> ![[5. Mechanics/Items/Spirit Paper.md\|Spirit Paper]]
+> ![[5. Mechanics/Items/Spirit Paper (HHHVI).md\|Spirit Paper]]
 
 > [!embed-table]- Special Tools
-> ![[5. Mechanics/Tables/Special Tools.md\|Special Tools]]
+> ![[5. Mechanics/Tables/Special Tools (HHHVI).md\|Special Tools]]
 
 ## Additions and Changes
 
 The following are a few balance changes to accommodate the harvesting and crafting rules in this guide, as well as a background and feat to incorporate harvesting into your game.
 
 > [!embed-variantrule]- New Proficiency: Harvesting Kit
-> ![[/5. Mechanics/Rules/Variant Rules/New Proficiency Harvesting Kit.md\|New Proficiency: Harvesting Kit]]
+> ![[/5. Mechanics/Rules/Variant Rules/New Proficiency Harvesting Kit (HHHVI).md\|New Proficiency: Harvesting Kit]]
 
 ### New Spells
 
-> [!quote]- A quote from Hamund  
+> [!quote] A quote from Hamund  
 > 
 > Having preferred the hands-on approach, I never had much of an affinity for magic myself. However, one must always endeavour to expand one's horizons, so I have scoured the planes looking for spells to bolster my (already impressive) skills. The result is the following spells, curated from the minds of the greatest witch-doctors, soothsayers, and magic-men that I have encountered on my travels.
 
 A few new spells have been added to the game. Each one either aids with harvesting, or has harvesting as a core mechanic. In many cases, the spells have uses in both combat and in harvesting, making them especially versatile. Feel free to add any of them to your own game to support your players' harvesting fantasies.
 
-**[[5. Mechanics/Spells/Cold Storage.md\|Cold Storage]].** 
+**[[5. Mechanics/Spells/Cold Storage (HHHVII).md\|Cold Storage]].** 
 Cleric
 
 Paladin
@@ -60,12 +60,12 @@ Warlock
 
 Wizard
 
-**[[5. Mechanics/Spells/Conjure Creature.md\|Conjure Creature]].** 
+**[[5. Mechanics/Spells/Conjure Creature (HHHVII).md\|Conjure Creature]].** 
 Wizard
 
 Warlock
 
-**[[5. Mechanics/Spells/Hamunds Harvesting Hands.md\|Hamund's Harvesting Hands]].** 
+**[[5. Mechanics/Spells/Hamunds Harvesting Hands (HHHVII).md\|Hamund's Harvesting Hands]].** 
 Bard
 
 Cleric
@@ -74,7 +74,7 @@ Ranger
 
 Wizard
 
-**[[5. Mechanics/Spells/Identify Vitals.md\|Identify Vitals]].** 
+**[[5. Mechanics/Spells/Identify Vitals (HHHVII).md\|Identify Vitals]].** 
 Cleric
 
 Druid
@@ -87,7 +87,7 @@ Warlock
 
 Wizard
 
-**[[5. Mechanics/Spells/Recomposition.md\|Recomposition]].** 
+**[[5. Mechanics/Spells/Recomposition (HHHVII).md\|Recomposition]].** 
 Cleric
 
 Druid
@@ -96,7 +96,7 @@ Paladin
 
 Wizard
 
-**[[5. Mechanics/Spells/Transfusion.md\|Transfusion]].** 
+**[[5. Mechanics/Spells/Transfusion (HHHVII).md\|Transfusion]].** 
 Cleric
 
 Druid
@@ -110,26 +110,26 @@ Wizard
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/NewSpells.webp#center)
 
 > [!embed-spell]- Cold Storage
-> ![[5. Mechanics/Spells/Cold Storage.md\|Cold Storage]]
+> ![[5. Mechanics/Spells/Cold Storage (HHHVII).md\|Cold Storage]]
 
 > [!embed-spell]- Conjure Creature
-> ![[5. Mechanics/Spells/Conjure Creature.md\|Conjure Creature]]
+> ![[5. Mechanics/Spells/Conjure Creature (HHHVII).md\|Conjure Creature]]
 
 > [!embed-spell]- Hamund's Harvesting Hands
-> ![[5. Mechanics/Spells/Hamunds Harvesting Hands.md\|Hamund's Harvesting Hands]]
+> ![[5. Mechanics/Spells/Hamunds Harvesting Hands (HHHVII).md\|Hamund's Harvesting Hands]]
 
 > [!embed-spell]- Identify Vitals
-> ![[5. Mechanics/Spells/Identify Vitals.md\|Identify Vitals]]
+> ![[5. Mechanics/Spells/Identify Vitals (HHHVII).md\|Identify Vitals]]
 
 > [!embed-spell]- Recomposition
-> ![[5. Mechanics/Spells/Recomposition.md\|Recomposition]]
+> ![[5. Mechanics/Spells/Recomposition (HHHVII).md\|Recomposition]]
 
 > [!embed-spell]- Transfusion
-> ![[5. Mechanics/Spells/Transfusion.md\|Transfusion]]
+> ![[5. Mechanics/Spells/Transfusion (HHHVII).md\|Transfusion]]
 
 ## Hamund's Helpers
 
-> [!quote]- A quote from Hamund  
+> [!quote] A quote from Hamund  
 > 
 > Despite the rugged independent aesthetic that I exude, I must assure you that harvesting is not a solitary profession! What we do as harvesters is simply the first step in a long chain of commerce and industry, without which, our work would be meaningless. In my career, I have established a long list of faithful contacts and friends that I refer to as my "Helpers." Without them, I would merely be a random man slicing animals open in the wilderness! I pass their information on to you, my dear readers, with my reassurance that their services are second to none. All I ask is that if you find them and engage their services, let them know that Hamund sent you.
 

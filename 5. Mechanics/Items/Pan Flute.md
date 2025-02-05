@@ -4,6 +4,7 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/phb
   - item/gear/instrument
+  - item/rarity/none
 aliases:
   - Pan Flute
 cost: 1200
@@ -14,4 +15,4 @@ cost: 1200
 - **Cost**: 12 gp
 - **Weight**: 2.0 lbs.
 
-*Source: Player's Handbook p. 154. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

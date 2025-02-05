@@ -3,13 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/dmg
-  - item/wealth/art-object
+  - item/gear/treasure-art-object
+  - item/rarity/none
 aliases:
   - Obsidian statuette with gold fittings and inlay
 cost: 75000
 ---
 # Obsidian statuette with gold fittings and inlay
-*Art object*  
+*Treasure (art object)*  
 
 - **Cost**: 750 gp
 

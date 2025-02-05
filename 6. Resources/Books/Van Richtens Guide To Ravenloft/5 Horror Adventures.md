@@ -255,7 +255,7 @@ Ravenloft has a tradition of adventures featuring setting-specific props and mem
 
 ### Tarokka Deck
 
-In both 1983's adventure *Ravenloft* and 2016's adventure Curse of Strahd, the plot changes in accordance with cards drawn from a [[5. Mechanics/Decks/Tarokka Deck.md\|tarokka deck]]. A tarokka deck contains fifty-four tarot-like, fortune-telling cards, each one bearing one of the following symbols:
+In both 1983's adventure *Ravenloft* and 2016's adventure Curse of Strahd, the plot changes in accordance with cards drawn from a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]]. A tarokka deck contains fifty-four tarot-like, fortune-telling cards, each one bearing one of the following symbols:
 
 - **Crowns.** The portentous cards of the high deck are marked with crowns but are not themselves a suit. The figures on these fourteen cards represent distinct forces of fate, change, and despair.  
 - **Coins.** The ten cards of this suit symbolize avarice and the desire for personal gain.  
@@ -265,13 +265,13 @@ In both 1983's adventure *Ravenloft* and 2016's adventure Curse of Strahd, the p
 
 Tarokka decks allow you run encounters where fortune-tellers predict characters' fates. Once you're familiar with the cards and their meanings, you can interpret them in ways that tie in to the characters' pasts or events in your adventures. You can also use the results of tarokka readings to guide your campaign and make sure predictions come to pass.
 
-The tarokka hails from the same world as the domain of Barovia, but it and its users have since spread throughout the Domains of Dread. Further details and a complete [[5. Mechanics/Decks/Tarokka Deck.md\|tarokka deck]] appear in the adventure Curse of Strahd.
+The tarokka hails from the same world as the domain of Barovia, but it and its users have since spread throughout the Domains of Dread. Further details and a complete [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]] appear in the adventure Curse of Strahd.
 
 ### Spirit Board
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/107-04-003.webp#center]]
 
-Spirit boards are tools to contact and divine the will of spirits or other mysterious forces. Upon placing their fingertips on a planchette set atop the board, assembled users feel forces move the planchette toward letters and symbols, gradually revealing a cryptic message. The spirits boards common in the Land of the Mists were first created by members of the "Keepers of the Feather" (see "chapter 3"), and feature half-understood images from their occult studies and Barovian lore. These markings include symbols from the [[5. Mechanics/Decks/Tarokka Deck.md\|tarokka deck]], which carry the same meanings as they do upon those cards. All manner of mysterious beings consider a spirit board's use an invitation to communicate with the living, resulting in messages shared from beyond the grave and frightful revelations.
+Spirit boards are tools to contact and divine the will of spirits or other mysterious forces. Upon placing their fingertips on a planchette set atop the board, assembled users feel forces move the planchette toward letters and symbols, gradually revealing a cryptic message. The spirits boards common in the Land of the Mists were first created by members of the "Keepers of the Feather" (see "chapter 3"), and feature half-understood images from their occult studies and Barovian lore. These markings include symbols from the [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]], which carry the same meanings as they do upon those cards. All manner of mysterious beings consider a spirit board's use an invitation to communicate with the living, resulting in messages shared from beyond the grave and frightful revelations.
 
 This book's "appendix" provides a depiction of a spirit board to use in your adventures, while a planchette to be used with it appears here. The adventure "The House of Lament" later in this chapter features séances employing a spirit board. When making use of this game prop, you take the role of the forces guiding the planchette. Move the planchette subtly to reveal mysterious messages appropriate to your adventures.
 
@@ -320,9 +320,9 @@ A curse's burden is the effect that causes hardship and suffering to the curse's
 
 - The victim has disadvantage on attack rolls, ability checks, saving throws, or some combination of the three. This can be tied to a single ability score or applied generally.  
 - The victim can't communicate using language, whether through speaking, sign language, writing, telepathy, or any other means.  
-- The victim gains 3 levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] that can't be removed while the curse endures.  
-- When the victim finishes a long rest, they must succeed on a DC 15 Constitution saving throw, or their hit point maximum is reduced by `dice: 1d10|avg|noform` (`1d10`). If this reduces their hit point maximum to 0, the victim dies, and their body crumbles to dust.  
-- When the victim takes damage, they take an extra `dice: 1d10|avg|noform` (`1d10`) necrotic damage. This effect can't happen again until the start of the victim's next turn.  
+- The victim gains 3 levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] that can't be removed while the curse endures.  
+- When the victim finishes a long rest, they must succeed on a DC 15 Constitution saving throw, or their hit point maximum is reduced by `dice:1d10|noform|avg` (`1d10`). If this reduces their hit point maximum to 0, the victim dies, and their body crumbles to dust.  
+- When the victim takes damage, they take an extra `dice:1d10|noform|avg` (`1d10`) necrotic damage. This effect can't happen again until the start of the victim's next turn.  
 - The victim gains a Dark Gift (see "chapter 1") appropriate to the circumstances surrounding the curse.  
 - The victim gains vulnerability to one damage type.  
 - The victim's Strength, Dexterity, or Constitution score is reduced to 3, and the victim can't be raised from the dead while the curse lasts.  
@@ -375,7 +375,7 @@ Whatever vow the character made, it came with an implied warning that guilt and 
 
 #### Burden
 
-The character is plagued by restless sleep and recurring nightmares featuring those the character swore to protect. The character gains 3 levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] that can't be removed until the curse ends.
+The character is plagued by restless sleep and recurring nightmares featuring those the character swore to protect. The character gains 3 levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] that can't be removed until the curse ends.
 
 #### Resolution
 
@@ -407,7 +407,7 @@ The dying victim spits final words: "You shall spill innocent blood until laid l
 
 #### Burden
 
-The character is cursed with [[5. Mechanics/Bestiary/Monstrosity/Loup Garou.md\|loup garou]] lycanthropy (see "chapter 5").
+The character is cursed with [[5. Mechanics/Bestiary/Monstrosity/Loup Garou (VRGR).md\|loup garou]] lycanthropy (see "chapter 5").
 
 #### Resolution
 
@@ -417,15 +417,15 @@ This curse can't be broken until the character is reduced to 0 hit points by a s
 
 ## Fear and Stress
 
-See the [[/5. Mechanics/Rules/Variant Rules/Fear And Stress.md\|Fear and Stress]] entry.
+See the [[/5. Mechanics/Rules/Variant Rules/Fear And Stress (VRGR).md\|Fear and Stress]] entry.
 
 ## Haunted Traps
 
-See the [[/5. Mechanics/Rules/Variant Rules/Haunted Traps.md\|Haunted Traps]] entry.
+See the [[/5. Mechanics/Rules/Variant Rules/Haunted Traps (VRGR).md\|Haunted Traps]] entry.
 
 ## Survivors
 
-See the [[/5. Mechanics/Rules/Variant Rules/Survivors.md\|Survivors]] entry.
+See the [[/5. Mechanics/Rules/Variant Rules/Survivors (VRGR).md\|Survivors]] entry.
 
 ## The House of Lament
 

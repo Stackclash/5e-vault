@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: 'underwater, coastal'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
@@ -8,12 +12,11 @@ tags:
   - monster/environment/underwater
   - monster/size/medium
   - monster/type/humanoid/sahuagin
-statblock: inline
 aliases:
   - Sahuagin
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Sahuagin.md|Sahuagin]]
-*Source: Monster Manual p. 263. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Humanoid\Sahuagin.md|Sahuagin]]
+*Source: Monster Manual p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
 
@@ -37,7 +40,7 @@ So intense is sahuagin hatred for the aquatic elves that the sea devils have ada
 
 The sahuagin put the malenti to good use as spies and assassins in aquatic elf cities and the societies of other creatures that pose a threat to sahuagin. The mere shadow of the malenti threat incites paranoia and suspicion among aquatic elves, whose resilience is weakened as the prelude to an actual sahuagin invasion.
 
-> [!quote]- A quote from An account of the aftermath of a sahuagin raid  
+> [!quote] A quote from An account of the aftermath of a sahuagin raid  
 > 
 > TThe village was empty, the seagulls were strangely quiet, and all we could hear was the surge of the sea.
 
@@ -91,13 +94,6 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
   "name": "Spear"
 "source":
 - "MM"
-- "TftYP"
-- "GoS"
-- "DIP"
-- "SDW"
-- "BGDIA"
-- "EGW"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Humanoid/token/sahuagin.webp"
 ```
 ^statblock

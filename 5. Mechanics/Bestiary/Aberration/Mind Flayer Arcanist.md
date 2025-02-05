@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 8
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/8
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/aberration
-statblock: inline
 aliases:
   - Mind Flayer Arcanist
 ---
-# [[5. Mechanics/Bestiary/Aberration/Mind Flayer Arcanist.md|Mind Flayer Arcanist]]
+# [[5. Mechanics\Bestiary\Aberration\Mind Flayer Arcanist.md|Mind Flayer Arcanist]]
 *Source: Monster Manual p. 222*
 
 A few mind flayers supplement their psionic power with arcane spells. However, they are regarded as deviants by their illithid peers and usually shunned.
@@ -101,26 +104,24 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
   "name": "Magic Resistance"
 "actions":
 - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 15\
-    \ (2d10 + 4) psychic damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ (2d10 + 4) psychic damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+    \ (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
     \ until this grapple ends."
   "name": "Tentacles"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ humanoid [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the mind flayer.\
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
+    \ humanoid [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] by the mind flayer.\
     \ Hit: The target takes 55 (10d10) piercing damage. If this damage reduces the\
     \ target to 0 hit points, the mind flayer kills the target by extracting and devouring\
     \ its brain."
   "name": "Extract Brain"
 - "desc": "The mind flayer magically emits psychic energy in a 60-foot cone. Each\
     \ creature in that area must succeed on a DC 15 Intelligence saving throw or take\
-    \ 22 (4d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ 22 (4d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Mind Blast (Recharge 5-6)"
 "source":
 - "MM"
-- "WDMM"
-- "SatO"
 "image": "5. Mechanics/Bestiary/Aberration/token/mind-flayer-arcanist.webp"
 ```
 ^statblock

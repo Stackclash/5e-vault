@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: 'underdark, urban'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
@@ -8,11 +12,10 @@ tags:
   - monster/environment/urban
   - monster/size/large
   - monster/type/elemental
-statblock: inline
 aliases:
   - Water Weird
 ---
-# [[5. Mechanics/Bestiary/Elemental/Water Weird.md|Water Weird]]
+# [[5. Mechanics\Bestiary\Elemental\Water Weird.md|Water Weird]]
 *Source: Monster Manual p. 299, Vecna: Eve of Ruin*
 
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.
@@ -29,7 +32,7 @@ A neutral good water weird tries to frighten away interlopers rather than kill t
 
 A water weird doesn't require air, food, drink, or sleep.
 
-> [!quote]- A quote from X the Mystic's 2nd rule of dungeon survival  
+> [!quote] A quote from X the Mystic's 2nd rule of dungeon survival  
 > 
 > Before you drink from a fountain or pool, toss a copper coin into it. It's a small price to pay for your life.
 
@@ -52,15 +55,15 @@ A water weird doesn't require air, food, drink, or sleep.
 "speed": "0 ft., swim 60 ft."
 "damage_resistances": "fire; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
 "senses": "blindsight 30 ft., passive Perception 10"
 "languages": "understands Aquan but doesn't speak"
 "cr": "3"
 "traits":
-- "desc": "The water weird is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+- "desc": "The water weird is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
     \ while fully immersed in water."
   "name": "Invisible in Water"
 - "desc": "The water weird dies if it leaves the water to which it is bound or if\
@@ -68,25 +71,14 @@ A water weird doesn't require air, food, drink, or sleep.
   "name": "Water Bound"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 13\
-    \ (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
     \ (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple\
-    \ ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
     \ the water weird tries to drown it, and the water weird can't constrict another\
     \ target."
   "name": "Constrict"
 "source":
 - "MM"
-- "PotA"
-- "TftYP"
-- "DIP"
-- "SLW"
-- "MOT"
-- "IDRotF"
-- "CM"
-- "JttRC"
-- "DSotDQ"
-- "PaBTSO"
-- "LK"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Elemental/token/water-weird.webp"
 ```

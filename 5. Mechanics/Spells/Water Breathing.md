@@ -4,16 +4,26 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
+  - spell/class/bard
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/eldritch-knight
   - spell/class/ranger
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
   - spell/class/wizard
-  - spell/level/3
+  - spell/level/3rd-level
+  - spell/optfeature/gift-of-the-depths
   - spell/ritual
   - spell/school/transmutation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/eldritch-knight
+  - spell/subclass/ocean-domain
+  - spell/subclass/the-genie-lord
+level: 3rd-level
+range: true
+school: Transmutation
+time: 1 action
+duration: 24 hour
+components: 'V, S, a short reed or piece of straw'
 aliases:
   - Water Breathing
 ---
@@ -27,6 +37,6 @@ aliases:
 
 This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Ocean Domain (KPDM)\|Cleric (Ocean Domain)]]; [[List Spells Classes Warlock The Genie Lord (KPDM)\|Warlock (The Genie Lord)]]
 
-*Source: Player's Handbook p. 287. Available in the SRD.*
+*Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

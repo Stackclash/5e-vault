@@ -9,7 +9,37 @@ aliases:
 ---
 # Circle of the Land
 *[[Druid.md\|Druid]]: Druid Circle*  
-*Source: Player's Handbook p. 68. Available in the SRD.*  
+*Source: Player's Handbook p. 68. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+> [!tldr] Class and Feature Progression
+> 
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='3'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Circle%20of%20the%20Land%20(Level%202)'>Circle of the Land</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Land's%20Stride%20(Level%206)'>Land's Stride</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Nature's%20Ward%20(Level%2010)'>Nature's Ward</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Nature's%20Sanctuary%20(Level%2014)'>Nature's Sanctuary</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> </tbody></table>
+^class-progession
 
 
 ## Class Features
@@ -49,9 +79,9 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | Druid Level | Circle Spells |
 |-------------|---------------|
 | 3rd | [[5. Mechanics/Spells/Mirror Image.md\|mirror image]], [[5. Mechanics/Spells/Misty Step.md\|misty step]] |
-| 5th | [[5. Mechanics/Spells/Water Breathing.md\|water breathing]], [[5. Mechanics/Spells/Water Walk.md\|water walk]] |
+| 5th | [[5. Mechanics/Spells/Water Breathing.md\|water breathing]], [[5. Mechanics/Spells/Water Wa(LK).md\|water walk]] |
 | 7th | [[5. Mechanics/Spells/Control Water.md\|control water]], [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]] |
-| 9th | [[5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]], [[5. Mechanics/Spells/Scrying.md\|scrying]] |
+| 9th | [[5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]], [[5. Mechanics/Spells/Scrying.md\|scrying]] |
 ^coast
 
 **Desert**
@@ -99,7 +129,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | Druid Level | Circle Spells |
 |-------------|---------------|
 | 3rd | [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Melfs Acid Arrow.md\|Melf's acid arrow]] |
-| 5th | [[5. Mechanics/Spells/Water Walk.md\|water walk]], [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] |
+| 5th | [[5. Mechanics/Spells/Water Wa(LK).md\|water walk]], [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] |
 | 7th | [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], [[5. Mechanics/Spells/Locate Creature.md\|locate creature]] |
 | 9th | [[5. Mechanics/Spells/Insect Plague.md\|insect plague]], [[5. Mechanics/Spells/Scrying.md\|scrying]] |
 ^swamp
@@ -122,7 +152,7 @@ In addition, you have advantage on saving throws against plants that are magical
 
 ### Nature's Ward (Level 10)
 
-When you reach 10th level, you can't be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] by elementals or fey, and you are immune to poison and disease.
+When you reach 10th level, you can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] by elementals or fey, and you are immune to poison and disease.
 
 ### Nature's Sanctuary (Level 14)
 

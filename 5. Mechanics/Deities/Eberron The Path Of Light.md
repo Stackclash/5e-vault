@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/erlw
+  - compendium/src/5e/phb
   - deity/eberron
   - domain/life
   - domain/light
@@ -10,12 +10,10 @@ aliases:
   - The Path of Light
 ---
 # The Path of Light
-*Source: Eberron: Rising from the Last War p. 141* 
-![[5. Mechanics/Deities/img/erlw-the-path-of-light.webp#symbol]]
+*Source: Player's Handbook p. 296* 
 
-- **Alignment**: Unaligned
+- **Alignment**: Lawful Neutral
 - **Category**: Other Faiths of Eberron
 - **Domains**: Life, Light
 - **Pantheon**: Eberron
-- **Province**: Light, self-improvement
 - **Symbol**: Brilliant crystal

@@ -18,7 +18,7 @@ aliases:
 | 1 | [[5. Mechanics/Items/Amber.md\|Amber]] (transparent watery gold to rich gold) |
 | 2 | [[5. Mechanics/Items/Amethyst.md\|Amethyst]] (transparent deep purple) |
 | 3 | [[5. Mechanics/Items/Chrysoberyl.md\|Chrysoberyl]] (transparent yellow-green to pale green) |
-| 4 | [[5. Mechanics/Items/Coral.md\|Coral]] (opaque crimson) |
+| 4 | [[5. Mechanics/Items/Cor(AL).md\|Coral]] (opaque crimson) |
 | 5 | [[5. Mechanics/Items/Garnet.md\|Garnet]] (transparent red, brown-green, or violet) |
 | 6 | [[5. Mechanics/Items/Jade.md\|Jade]] (translucent light green, deep green, or white) |
 | 7 | [[5. Mechanics/Items/Jet.md\|Jet]] (opaque deep black) |

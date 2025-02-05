@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: desert
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/desert
   - monster/size/large
   - monster/type/beast
-statblock: inline
 aliases:
   - Giant Scorpion
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Scorpion.md|Giant Scorpion]]
-*Source: Monster Manual p. 327. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Giant Scorpion.md|Giant Scorpion]]
+*Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Giant Scorpion"
@@ -38,7 +41,7 @@ aliases:
 - "desc": "The scorpion makes three attacks: two with its claws and one with its sting."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
-    \ + 2) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ + 2) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
     \ (escape DC 12). The scorpion has two claws, each of which can grapple only one\
     \ target."
   "name": "Claw"
@@ -49,14 +52,6 @@ aliases:
   "name": "Sting"
 "source":
 - "MM"
-- "TftYP"
-- "ToA"
-- "BGDIA"
-- "EGW"
-- "CM"
-- "JttRC"
-- "DSotDQ"
-- "PSA"
 "image": "5. Mechanics/Bestiary/Beast/token/giant-scorpion.webp"
 ```
 ^statblock

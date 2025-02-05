@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: 'mountain, grassland, hill, coastal'
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
@@ -10,12 +14,11 @@ tags:
   - monster/environment/mountain
   - monster/size/small
   - monster/type/beast
-statblock: inline
 aliases:
   - Eagle
 ---
-# [[5. Mechanics/Bestiary/Beast/Eagle.md|Eagle]]
-*Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Eagle.md|Eagle]]
+*Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Eagle"
@@ -48,8 +51,6 @@ aliases:
   "name": "Talons"
 "source":
 - "MM"
-- "CM"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Beast/token/eagle.webp"
 ```
 ^statblock

@@ -3,13 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/cleric/trickery-domain
+  - spell/class/bard
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/monk/way-of-shadow
   - spell/class/ranger
-  - spell/level/2
+  - spell/feat/wood-elf-magic
+  - spell/level/2nd-level
   - spell/school/abjuration
+  - spell/subclass/cat-domain
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/greenleaf-college
+  - spell/subclass/hunting-domain
+  - spell/subclass/labyrinth-domain
+  - spell/subclass/oath-of-the-open-road
+  - spell/subclass/travel-domain
+  - spell/subclass/trickery-domain
+  - spell/subclass/way-of-shadow
+  - spell/subrace/genasi-earth
+level: 2nd-level
+range: false
+school: Abjuration
+time: 1 action
+duration: 'Concentration, up to 1 hour'
+components: 'V, S, ashes from a burned leaf of mistletoe and a sprig of spruce'
 aliases:
   - Pass without Trace
 ---
@@ -23,6 +38,6 @@ aliases:
 
 A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Trickery Domain.md\|Cleric (Trickery Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Monk Way Of Shadow.md\|Monk (Way of Shadow)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Cleric Cat Domain (KPDM)\|Cleric (Cat Domain)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Bard Greenleaf College (KPDM)\|Bard (Greenleaf College)]]; [[List Spells Classes Cleric Hunting Domain (KPDM)\|Cleric (Hunting Domain)]]; [[List Spells Classes Cleric Labyrinth Domain (KPDM)\|Cleric (Labyrinth Domain)]]; [[List Spells Classes Paladin Oath Of The Open Road (GRIFFONSSADDLEBAG3)\|Paladin (Oath of the Open Road)]]; [[List Spells Classes Cleric Travel Domain (KPDM)\|Cleric (Travel Domain)]]; [[List Spells Classes Cleric Trickery Domain\|Cleric (Trickery Domain)]]; [[List Spells Classes Monk Way Of Shadow\|Monk (Way of Shadow)]]
 
-*Source: Player's Handbook p. 264. Available in the SRD.*
+*Source: Player's Handbook p. 264. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

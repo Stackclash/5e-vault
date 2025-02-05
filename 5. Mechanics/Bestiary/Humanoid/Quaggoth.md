@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/humanoid/quaggoth
-statblock: inline
 aliases:
   - Quaggoth
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Quaggoth.md|Quaggoth]]
+# [[5. Mechanics\Bestiary\Humanoid\Quaggoth.md|Quaggoth]]
 *Source: Monster Manual p. 256*
 
 Savage and territorial, quaggoths climb the chasms of the Underdark. They maul their foes in a frenzy, becoming even more murderous in the face of death.
@@ -57,7 +60,7 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 "skillsaves":
   "Athletics": !!int "5"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Undercommon"
 "cr": "2"
@@ -74,10 +77,6 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
   "name": "Claw"
 "source":
 - "MM"
-- "WDMM"
-- "IDRotF"
-- "LoX"
-- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Humanoid/token/quaggoth.webp"
 ```
 ^statblock

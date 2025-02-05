@@ -17,7 +17,7 @@ aliases:
 |-----------|---------|
 | 1 | Antechamber or waiting room for spectators |
 | 2-8 | Guardroom fortified against intruders |
-| 9-11 | Vault for holding important treasures, accessible only by locked or secret door (75% chance chance of being trapped) |
+| 9-11 | Vault for holding important treasures, accessible only by locked or secret door (75 percent chance of being trapped) |
 | 12-14 | Room containing a puzzle that must be solved to bypass a trap or monster |
 | 15-19 | Trap designed to kill or capture creatures |
 | 20 | Observation room, allowing guards or spectators to observe creatures moving through the dungeon |

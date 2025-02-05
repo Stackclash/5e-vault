@@ -8,7 +8,7 @@ aliases:
   - Book of Ancient Secrets
 ---
 # Book of Ancient Secrets
-*Source: Player's Handbook p. 110. Available in the SRD.*  
+*Source: Player's Handbook p. 110. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 ***Prerequisites*** Pact of the Tome
 

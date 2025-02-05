@@ -2,22 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/erlw
+  - compendium/src/5e/phb
   - deity/eberron
-  - domain/trickery
   - domain/war
 aliases:
   - The Mockery
 ---
 # The Mockery
-*Source: Eberron: Rising from the Last War p. 141* 
-![[5. Mechanics/Deities/img/erlw-the-dark-six.webp#symbol\|The Dark Six]]
+*Source: Player's Handbook p. 296* 
 
-- **Alignment**: Unaligned
+- **Alignment**: Neutral Evil
 - **Category**: The Dark Six
-- **Domains**: Trickery, War
+- **Domains**: War
 - **Pantheon**: Eberron
-- **Province**: Betrayal, bloodshed
-- **Symbol**: Five blood-spattered blades *or* flayed dragon
-
-The Mockery is the patron of treachery and of terror in battle. He guides those who seek victory through guile, both warriors and assassins. He was once the brother of Dol Dorn and Dol Arrah, but he was stripped of his skin and his name after betraying them.
+- **Symbol**: Five blood-spattered tools

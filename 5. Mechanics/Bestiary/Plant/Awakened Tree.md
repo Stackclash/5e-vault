@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: forest
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/forest
   - monster/size/huge
   - monster/type/plant
-statblock: inline
 aliases:
   - Awakened Tree
 ---
-# [[5. Mechanics/Bestiary/Plant/Awakened Tree.md|Awakened Tree]]
-*Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Plant\Awakened Tree.md|Awakened Tree]]
+*Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 An awakened tree is an ordinary tree given sentience and mobility by the [[5. Mechanics/Spells/Awaken.md|awaken]] spell or similar magic.
 
@@ -48,17 +51,6 @@ An awakened tree is an ordinary tree given sentience and mobility by the [[5. Me
   "name": "Slam"
 "source":
 - "MM"
-- "PotA"
-- "RoT"
-- "SKT"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "MOT"
-- "IDRotF"
-- "CM"
-- "WBtW"
-- "PSI"
 "image": "5. Mechanics/Bestiary/Plant/token/awakened-tree.webp"
 ```
 ^statblock

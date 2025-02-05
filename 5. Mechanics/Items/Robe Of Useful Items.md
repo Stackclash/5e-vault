@@ -5,16 +5,15 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/uncommon
   - item/tier/minor
-  - item/wondrous
 aliases:
   - Robe of Useful Items
 ---
 # Robe of Useful Items
-*Wondrous Item, minor, uncommon*  
+*Wondrous item, minor, uncommon*  
 ![[5. Mechanics/Items/img/robe-of-useful-items.webp#right]]  
 
 
-This robe has cloth patches of various shapes and colors covering it. While wearing the robe. you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
+This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
 
 The robe has two of each of the following patches:
 
@@ -25,7 +24,7 @@ The robe has two of each of the following patches:
 - Hempen rope (50 feet, coiled)  
 - Sack  
 
-In addition, the robe has `dice: 4d4|avg|noform` (`4d4`) other patches. The DM chooses the patches or determines them randomly.
+In addition, the robe has `dice:4d4|noform|avg` (`4d4`) other patches. The DM chooses the patches or determines them randomly.
 
 `dice: [[Robe Of Useful Items.md#^patch]]`
 
@@ -46,4 +45,4 @@ In addition, the robe has `dice: 4d4|avg|noform` (`4d4`) other patches. The DM c
 | 97-00 | [[5. Mechanics/Items/Portable Ram.md\|Portable ram]] |
 ^patch
 
-*Source: Dungeon Master's Guide p. 195. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 5
+environments: grassland
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/5
   - monster/environment/grassland
   - monster/size/huge
   - monster/type/beast
-statblock: inline
 aliases:
   - Triceratops
 ---
-# [[5. Mechanics/Bestiary/Beast/Triceratops.md|Triceratops]]
-*Source: Monster Manual p. 80. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Triceratops.md|Triceratops]]
+*Source: Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 One of the most aggressive of the herbivorous dinosaurs, a triceratops has a skull that flares out to form a protective plate of bone. With its great horns and formidable speed, a triceratops gores and tramples would-be predators to death.
 
@@ -45,21 +48,19 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 "traits":
 - "desc": "If the triceratops moves at least 20 feet straight toward a creature and\
     \ then hits it with a gore attack on the same turn, that target must succeed on\
-    \ a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the triceratops\
+    \ a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], the triceratops\
     \ can make one stomp attack against it as a bonus action."
   "name": "Trampling Charge"
 "actions":
 - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 24 (4d8\
     \ + 6) piercing damage."
   "name": "Gore"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
     \ creature. Hit: 22 (3d10 + 6) bludgeoning damage"
   "name": "Stomp"
 "source":
 - "MM"
-- "ToA"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Beast/token/triceratops.webp"
 ```
 ^statblock

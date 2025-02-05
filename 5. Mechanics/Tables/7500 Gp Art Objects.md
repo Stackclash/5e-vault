@@ -20,7 +20,7 @@ aliases:
 | 3 | [[5. Mechanics/Items/Small Gold Statuette Set With Rubies.md\|Small gold statuette set with rubies]] |
 | 4 | [[5. Mechanics/Items/Gold Cup Set With Emeralds.md\|Gold cup set with emeralds]] |
 | 5 | [[5. Mechanics/Items/Gold Jewelry Box With Platinum Filigree.md\|Gold jewelry box with platinum filigree]] |
-| 6 | [[5. Mechanics/Items/Painted Gold Childs Sarcophagus.md\|Painted gold child's sarcophagus]] |
+| 6 | [[5. Mechanics/Items/Painted Gold Childs Sarcophag(US).md\|Painted gold child's sarcophagus]] |
 | 7 | [[5. Mechanics/Items/Jade Game Board With Solid Gold Playing Pieces.md\|Jade game board with solid gold playing pieces]] |
 | 8 | [[5. Mechanics/Items/Bejeweled Ivory Drinking Horn With Gold Filigree.md\|Bejeweled ivory drinking horn with gold filigree]] |
 ^7500-gp-art-objects

@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
   - monster/size/medium
   - monster/type/dragon
-statblock: inline
 aliases:
   - Brass Dragon Wyrmling
 ---
-# [[5. Mechanics/Bestiary/Dragon/Brass Dragon Wyrmling.md|Brass Dragon Wyrmling]]
-*Source: Monster Manual p. 106. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Dragon\Brass Dragon Wyrmling.md|Brass Dragon Wyrmling]]
+*Source: Monster Manual p. 106. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
 
@@ -117,7 +120,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire\
     \ damage on a failed save, or half as much damage on a successful one.  \n- Sleep\
     \ Breath. The dragon exhales sleep gas in a 15-foot cone. Each creature in that\
-    \ area must succeed on a DC 11 Constitution saving throw or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ area must succeed on a DC 11 Constitution saving throw or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
     \ for 1 minute. This effect ends for a creature if the creature takes damage or\
     \ someone uses an action to wake it.  "
   "name": "Breath Weapons (Recharge 5-6)"

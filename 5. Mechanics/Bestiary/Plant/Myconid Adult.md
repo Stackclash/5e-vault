@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/plant
-statblock: inline
 aliases:
   - Myconid Adult
 ---
-# [[5. Mechanics/Bestiary/Plant/Myconid Adult.md|Myconid Adult]]
+# [[5. Mechanics\Bestiary\Plant\Myconid Adult.md|Myconid Adult]]
 *Source: Monster Manual p. 232*
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
@@ -59,7 +62,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
     \ bludgeoning damage plus 5 (2d4) poison damage."
   "name": "Fist"
 - "desc": "The myconid ejects spores at one creature it can see within 5 feet of it.\
-    \ The target must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ The target must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Pacifying Spores (3/Day)"
@@ -71,11 +74,6 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
   "name": "Rapport Spores"
 "source":
 - "MM"
-- "WDMM"
-- "GoS"
-- "DoSI"
-- "KftGV"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Plant/token/myconid-adult.webp"
 ```
 ^statblock

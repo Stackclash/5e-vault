@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 0
+environments: 'swamp, hill, urban'
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/0
@@ -9,12 +13,11 @@ tags:
   - monster/environment/urban
   - monster/size/tiny
   - monster/type/beast
-statblock: inline
 aliases:
   - Raven
 ---
-# [[5. Mechanics/Bestiary/Beast/Raven.md|Raven]]
-*Source: Monster Manual p. 335, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Raven.md|Raven]]
+*Source: Monster Manual p. 335, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Raven"
@@ -50,10 +53,6 @@ aliases:
 "source":
 - "MM"
 - "CoS"
-- "IDRotF"
-- "CM"
-- "WBtW"
-- "KftGV"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Beast/token/raven.webp"
 ```

@@ -9,7 +9,7 @@ aliases:
   - Deneir
 ---
 # Deneir
-*Source: Player's Handbook p. 294. Available in the Basic Rules.* 
+*Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 
 
 - **Alignment**: Neutral Good
 - **Domains**: Knowledge

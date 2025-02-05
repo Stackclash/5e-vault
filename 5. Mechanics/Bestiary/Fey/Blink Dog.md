@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: forest
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/forest
   - monster/size/medium
   - monster/type/fey
-statblock: inline
 aliases:
   - Blink Dog
 ---
-# [[5. Mechanics/Bestiary/Fey/Blink Dog.md|Blink Dog]]
-*Source: Monster Manual p. 318, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Fey\Blink Dog.md|Blink Dog]]
+*Source: Monster Manual p. 318, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A blink dog takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for displacer beasts and attack them on sight.
 
@@ -52,14 +55,7 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
   "name": "Teleport (Recharge 4-6)"
 "source":
 - "MM"
-- "WDMM"
-- "GoS"
-- "ERLW"
-- "MOT"
 - "TCE"
-- "WBtW"
-- "SatO"
-- "BMT"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Fey/token/blink-dog.webp"
 ```

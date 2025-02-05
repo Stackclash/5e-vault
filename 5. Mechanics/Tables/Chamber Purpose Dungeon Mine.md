@@ -22,7 +22,7 @@ aliases:
 | 6-7 | Guardroom |
 | 8 | Kitchen used to feed workers |
 | 9 | Laboratory used to conduct tests on strange minerals extracted from the mine |
-| 10-15 | Lode where metal ore is mined (75% chance chance of being depleted) |
+| 10-15 | Lode where metal ore is mined (75 percent chance of being depleted) |
 | 16 | Office used by the mine supervisor |
 | 17 | Smithy for repairing damaged tools |
 | 18-19 | Storage for tools and other equipment |

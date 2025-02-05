@@ -3,14 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/barbarian/path-of-the-totem-warrior
+  - spell/class/bard
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/paladin/oath-of-the-ancients
   - spell/class/ranger
-  - spell/level/5
+  - spell/level/5th-level
   - spell/ritual
   - spell/school/divination
+  - spell/subclass/cat-domain
+  - spell/subclass/circle-of-oaks
+  - spell/subclass/circle-of-the-grove
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/greenleaf-college
+  - spell/subclass/hedge-mage
+  - spell/subclass/hunting-domain
+  - spell/subclass/mountain-domain
+  - spell/subclass/oath-of-the-ancients
+  - spell/subclass/path-of-the-totem-warrior
+level: 5th-level
+range: true
+school: Divination
+time: 1 minute
+duration: Instantaneous
+components: 'V, S'
 aliases:
   - Commune with Nature
 ---
@@ -34,6 +48,6 @@ You instantly gain knowledge of up to three facts of your choice about any of th
 
 For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
 
-**Classes**: [[5. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md\|Barbarian (Path of the Totem Warrior)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Cleric Cat Domain (KPDM)\|Cleric (Cat Domain)]]; [[List Spells Classes Druid Circle Of Oaks (KPDM)\|Druid (Circle of Oaks)]]; [[List Spells Classes Druid Circle Of The Grove (GRIFFONSSADDLEBAG3)\|Druid (Circle of the Grove)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Bard Greenleaf College (KPDM)\|Bard (Greenleaf College)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]; [[List Spells Classes Cleric Hunting Domain (KPDM)\|Cleric (Hunting Domain)]]; [[List Spells Classes Cleric Mountain Domain (KPDM)\|Cleric (Mountain Domain)]]; [[List Spells Classes Paladin Oath Of The Ancients\|Paladin (Oath of the Ancients)]]; [[List Spells Classes Barbarian Path Of The Totem Warrior\|Barbarian (Path of the Totem Warrior)]]
 
-*Source: Player's Handbook p. 224. Available in the SRD.*
+*Source: Player's Handbook p. 224. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

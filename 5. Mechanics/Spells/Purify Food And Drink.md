@@ -4,13 +4,26 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
+  - spell/class/bard
   - spell/class/cleric
   - spell/class/druid
   - spell/class/paladin
-  - spell/class/sorcerer/divine-soul
-  - spell/level/1
+  - spell/feat/artificer-initiate
+  - spell/feat/magic-initiate
+  - spell/feat/ritual-caster
+  - spell/level/1st-level
+  - spell/optfeature/book-of-ancient-secrets
   - spell/ritual
   - spell/school/transmutation
+  - spell/subclass/divine-soul
+  - spell/subclass/festus-domain
+  - spell/subclass/hedge-mage
+level: 1st-level
+range: true
+school: Transmutation
+time: 1 action
+duration: Instantaneous
+components: 'V, S'
 aliases:
   - Purify Food and Drink
 ---
@@ -24,6 +37,6 @@ aliases:
 
 All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Cleric Festus Domain (GRIFFONSSADDLEBAG2)\|Cleric (Festus Domain)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]
 
-*Source: Player's Handbook p. 270. Available in the SRD.*
+*Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: 'underdark, mountain'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
@@ -8,12 +12,11 @@ tags:
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/fiend
-statblock: inline
 aliases:
   - Hell Hound
 ---
-# [[5. Mechanics/Bestiary/Fiend/Hell Hound.md|Hell Hound]]
-*Source: Monster Manual p. 182, Curse of Strahd. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Fiend\Hell Hound.md|Hell Hound]]
+*Source: Monster Manual p. 182, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Monstrous, fire-breathing fiends that take the form of powerful dogs, hell hounds are found on the battlefields of Acheron and throughout the Lower Planes. On the Material Plane, hell hounds are most commonly seen in service to devils, fire giants, and other evil creatures that use them as guard animals and companions.
 
@@ -56,7 +59,7 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
   "name": "Keen Hearing and Smell"
 - "desc": "The hound has advantage on an attack roll against a creature if at least\
     \ one of the hound's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
@@ -69,24 +72,6 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
 "source":
 - "MM"
 - "CoS"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "SLW"
-- "BGDIA"
-- "IMR"
-- "EGW"
-- "MOT"
-- "CM"
-- "KftGV"
-- "PSI"
-- "SatO"
-- "BMT"
-- "HFStCM"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Fiend/token/hell-hound.webp"
 ```
 ^statblock

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: urban
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/urban
   - monster/size/medium
   - monster/type/undead
-statblock: inline
 aliases:
   - Skeleton
 ---
-# [[5. Mechanics/Bestiary/Undead/Skeleton.md|Skeleton]]
-*Source: Monster Manual p. 272, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Undead\Skeleton.md|Skeleton]]
+*Source: Monster Manual p. 272, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
 
@@ -59,8 +62,8 @@ A skeleton doesn't require air, food, drink, or sleep.
 "speed": "30 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands all languages it spoke in life but can't speak"
 "cr": "1/4"
@@ -74,33 +77,7 @@ A skeleton doesn't require air, food, drink, or sleep.
 "source":
 - "MM"
 - "CoS"
-- "LMoP"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SDW"
-- "BGDIA"
-- "RMBRE"
-- "IMR"
 - "TCE"
-- "WBtW"
-- "CRCotN"
-- "JttRC"
-- "DSotDQ"
-- "KftGV"
-- "HftT"
-- "PaBTSO"
-- "AATM"
-- "SatO"
-- "ToFW"
-- "BMT"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/skeleton.webp"
 ```

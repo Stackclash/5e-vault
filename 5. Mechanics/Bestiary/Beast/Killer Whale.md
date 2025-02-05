@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: underwater
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/underwater
   - monster/size/huge
   - monster/type/beast
-statblock: inline
 aliases:
   - Killer Whale
 ---
-# [[5. Mechanics/Bestiary/Beast/Killer Whale.md|Killer Whale]]
-*Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Killer Whale.md|Killer Whale]]
+*Source: Monster Manual p. 331. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Killer Whale"
@@ -37,7 +40,7 @@ aliases:
 "languages": ""
 "cr": "3"
 "traits":
-- "desc": "The whale can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]."
+- "desc": "The whale can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]."
   "name": "Echolocation"
 - "desc": "The whale can hold its breath for 30 minutes."
   "name": "Hold Breath"
@@ -50,11 +53,6 @@ aliases:
   "name": "Bite"
 "source":
 - "MM"
-- "SKT"
-- "GoS"
-- "EGW"
-- "MOT"
-- "IDRotF"
 "image": "5. Mechanics/Bestiary/Beast/token/killer-whale.webp"
 ```
 ^statblock

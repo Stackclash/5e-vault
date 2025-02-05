@@ -3,12 +3,20 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
   - spell/class/sorcerer
-  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock
   - spell/class/wizard
-  - spell/level/9
+  - spell/level/9th-level
   - spell/school/conjuration
+  - spell/subclass/divine-soul
+level: 9th-level
+range: false
+school: Conjuration
+time: 1 action
+duration: 'Concentration, up to 1 minute'
+components: 'V, S, a diamond worth at least 5,000 gp'
 aliases:
   - Gate
 ---
@@ -28,6 +36,6 @@ Deities and other planar rulers can prevent portals created by this spell from o
 
 When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn't work). If that creature is on a plane other than the one you are on, the portal opens in the named creature's immediate vicinity and draws the creature through it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the DM deems appropriate. It might leave, attack you, or help you.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 244. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 244. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

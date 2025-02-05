@@ -3,11 +3,19 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
   - spell/class/paladin
-  - spell/class/sorcerer/divine-soul
-  - spell/level/5
+  - spell/level/5th-level
   - spell/school/abjuration
+  - spell/subclass/divine-soul
+  - spell/subclass/the-valiant
+level: 5th-level
+range: false
+school: Abjuration
+time: 1 action
+duration: 'Concentration, up to 1 minute'
+components: 'V, S, holy water or powdered silver and iron'
 aliases:
   - Dispel Evil and Good
 ---
@@ -25,7 +33,7 @@ You can end the spell early by using either of the following special functions.
 
 ## Break Enchantment
 
-As your action, you touch a creature you can reach that is [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], or possessed by such creatures.
+As your action, you touch a creature you can reach that is [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], or possessed by such creatures.
 
 ## Dismissal
 
@@ -33,6 +41,6 @@ As your action, make a melee spell attack against a celestial, an elemental, a f
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Warlock The Valiant (GRIFFONSSADDLEBAG3)\|Warlock (The Valiant)]]
 
-*Source: Player's Handbook p. 233. Available in the SRD.*
+*Source: Player's Handbook p. 233. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

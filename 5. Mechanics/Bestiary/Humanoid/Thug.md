@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: urban
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
   - monster/environment/urban
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Thug
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Thug.md|Thug]]
-*Source: Monster Manual p. 350, Tasha's Cauldron of Everything, Curse of Strahd. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Humanoid\Thug.md|Thug]]
+*Source: Monster Manual p. 350, Tasha's Cauldron of Everything, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
 
@@ -42,7 +45,7 @@ Thugs are ruthless enforcers skilled at intimidation and violence. They work for
 "traits":
 - "desc": "The thug has advantage on an attack roll against a creature if at least\
     \ one of the thug's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "The thug makes two melee attacks."
@@ -55,29 +58,8 @@ Thugs are ruthless enforcers skilled at intimidation and violence. They work for
   "name": "Heavy Crossbow"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "SLW"
-- "BGDIA"
-- "EGW"
-- "MOT"
-- "IDRotF"
 - "TCE"
-- "CM"
 - "CoS"
-- "CRCotN"
-- "JttRC"
-- "LoX"
-- "KftGV"
-- "ToFW"
-- "BMT"
-- "GHLoE"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Humanoid/token/thug.webp"
 ```
 ^statblock

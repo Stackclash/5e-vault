@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 30
+environments: urban
+size: Gargantuan
 tags:
   - compendium/src/5e/mm
   - monster/cr/30
   - monster/environment/urban
   - monster/size/gargantuan
   - monster/type/monstrosity/titan
-statblock: inline
 aliases:
   - Tarrasque
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Tarrasque.md|Tarrasque]]
-*Source: Monster Manual p. 286, Tasha's Cauldron of Everything. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Monstrosity\Tarrasque.md|Tarrasque]]
+*Source: Monster Manual p. 286, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The legendary tarrasque is possibly the most dreaded monster of the Material Plane. It is widely believed that only one of these creatures exists, though no one can predict where and when it will strike.
 
@@ -48,8 +51,8 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
   "Intelligence": !!int "5"
 "damage_immunities": "fire; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "blindsight 120 ft., passive Perception 10"
 "languages": ""
 "cr": "30"
@@ -73,8 +76,8 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
     \ tail. It can use its Swallow instead of its bite."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 36\
-    \ (4d12 + 10) piercing damage. If the target is a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 20). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ (4d12 + 10) piercing damage. If the target is a creature, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+    \ (escape DC 20). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
     \ and the tarrasque can't bite another target."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +19 to hit, reach 15 ft., one target. Hit: 28\
@@ -85,10 +88,10 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
   "name": "Horns"
 - "desc": "Melee Weapon Attack: +19 to hit, reach 20 ft., one target. Hit: 24\
     \ (4d6 + 10) bludgeoning damage. If the target is a creature, it must succeed\
-    \ on a DC 20 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ on a DC 20 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Tail"
 - "desc": "Each creature of the tarrasque's choice within 120 feet of it and aware\
-    \ of it must succeed on a DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of it must succeed on a DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, with disadvantage if the tarrasque is within line of sight, ending the\
     \ effect on itself on a success. If a creature's saving throw is successful or\
@@ -98,15 +101,15 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
 - "desc": "The tarrasque makes one bite attack against a Large or smaller creature\
     \ it is grappling. If the attack hits, the target takes the bite's damage, the\
     \ target is swallowed, and the grapple ends. While swallowed, the creature is\
-    \ [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
     \ it has total cover against attacks and other effects outside the tarrasque,\
     \ and it takes 56 (16d6) acid damage at the start of each of the tarrasque's turns.\n\
     \nIf the tarrasque takes 60 damage or more on a single turn from a creature inside\
     \ it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end\
-    \ of that turn or regurgitate all swallowed creatures, which fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ of that turn or regurgitate all swallowed creatures, which fall [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
     \ in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed\
-    \ creature is no longer [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ by it and can escape from the corpse by using 30 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ creature is no longer [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
+    \ by it and can escape from the corpse by using 30 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Swallow"
 "legendary_actions":
 - "desc": "The tarrasque makes one claw attack or tail attack."
@@ -117,13 +120,7 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
   "name": "Chomp (Costs 2 Actions)"
 "source":
 - "MM"
-- "IMR"
-- "MOT"
-- "IDRotF"
 - "TCE"
-- "LoX"
-- "BMT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/tarrasque.webp"
 ```
 ^statblock

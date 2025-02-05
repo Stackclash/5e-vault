@@ -10,7 +10,7 @@ aliases:
   - Gond
 ---
 # Gond
-*Source: Player's Handbook p. 294, Xanathar's Guide to Everything p. 18. Available in the Basic Rules.* 
+*Source: Player's Handbook p. 294, Xanathar's Guide to Everything p. 18. Available in the Basic Rules (2014)* 
 
 - **Alignment**: Neutral
 - **Domains**: Forge, Knowledge

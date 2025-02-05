@@ -34,7 +34,7 @@ As you peruse the many options herein, you'll come across observations from Xana
 
 ## The Core Rules
 
-This book relies on the rules in the three core rulebooks. The game especially makes frequent use of the rules in chapters 7-10 of the player's handbook: "Using Ability Scores," "Adventuring," "Combat," and "Spellcasting." That book's appendix A is also crucial; it contains definitions of conditions, like [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] and [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]. You don't need to know the rules by heart, but it's helpful to know where to find them when you need them.
+This book relies on the rules in the three core rulebooks. The game especially makes frequent use of the rules in chapters 7-10 of the player's handbook: "Using Ability Scores," "Adventuring," "Combat," and "Spellcasting." That book's appendix A is also crucial; it contains definitions of conditions, like [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] and [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. You don't need to know the rules by heart, but it's helpful to know where to find them when you need them.
 
 If you're a DM, you should also know where to look things up in the dungeon master's guide, especially the rules on how magic items work (see chapter 7 of that book). The introduction of the monster manual is your guide on how to use a monster's stat block.
 

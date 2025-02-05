@@ -3,10 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/wizard
-  - spell/level/6
+  - spell/level/6th-level
   - spell/ritual
   - spell/school/conjuration
+level: 6th-level
+range: true
+school: Conjuration
+time: 1 minute
+duration: Until dispelled
+components: 'V, S, a sapphire worth 1,000 gp'
 aliases:
   - Drawmij's Instant Summons
 ---
@@ -26,6 +33,6 @@ If another creature is holding or carrying the item, crushing the sapphire doesn
 
 [[5. Mechanics/Spells/Dispel Magic.md\|Dispel magic]] or a similar effect successfully applied to the sapphire ends this spell's effect.
 
-**Classes**: [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
 
-*Source: Player's Handbook p. 235. Available in the SRD (as 'Instant Summons').*
+*Source: Player's Handbook p. 235. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Instant Summons")*

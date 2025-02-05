@@ -6,8 +6,14 @@ tags:
   - spell/class/bard
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/7
+  - spell/level/7th-level
   - spell/school/evocation
+level: 7th-level
+range: false
+school: Evocation
+time: 1 action
+duration: 1 hour
+components: 'V, S, ruby dust worth 1,500 gp'
 aliases:
   - Forcecage
 ---
@@ -31,6 +37,6 @@ A creature inside the cage can't leave it by nonmagical means. If the creature t
 
 This spell can't be dispelled by [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]].
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
 
-*Source: Player's Handbook p. 243. Available in the SRD.*
+*Source: Player's Handbook p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

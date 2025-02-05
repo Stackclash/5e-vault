@@ -5,9 +5,15 @@ tags:
   - compendium/src/5e/phb
   - spell/class/bard
   - spell/class/cleric
-  - spell/class/sorcerer/divine-soul
-  - spell/level/7
+  - spell/level/7th-level
   - spell/school/necromancy
+  - spell/subclass/divine-soul
+level: 7th-level
+range: false
+school: Necromancy
+time: 1 hour
+duration: Instantaneous
+components: 'V, S, a diamond worth at least 1,000 gp, which the spell consumes'
 aliases:
   - Resurrection
 ---
@@ -29,6 +35,6 @@ Coming back from the dead is an ordeal. The target takes a −4 penalty to all a
 
 Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 272. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

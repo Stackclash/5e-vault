@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'underwater, underdark, forest, swamp, desert'
+size: Huge
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -11,12 +15,11 @@ tags:
   - monster/environment/underwater
   - monster/size/huge
   - monster/type/beast
-statblock: inline
 aliases:
   - Giant Constrictor Snake
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md|Giant Constrictor Snake]]
-*Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Giant Constrictor Snake.md|Giant Constrictor Snake]]
+*Source: Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Giant Constrictor Snake"
@@ -44,19 +47,12 @@ aliases:
     \ (2d6 + 4) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 13\
-    \ (2d8 + 4) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 16). Until this grapple ends, the creature is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ (2d8 + 4) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+    \ (escape DC 16). Until this grapple ends, the creature is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
     \ and the snake can't constrict another target."
   "name": "Constrict"
 "source":
 - "MM"
-- "ToA"
-- "GoS"
-- "DIP"
-- "SLW"
-- "EGW"
-- "WBtW"
-- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Beast/token/giant-constrictor-snake.webp"
 ```
 ^statblock

@@ -4,11 +4,21 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/bard
-  - spell/class/druid/circle-of-the-land
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/5
+  - spell/level/5th-level
   - spell/school/illusion
+  - spell/subclass/beer-domain
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/moon-domain
+level: 5th-level
+range: false
+school: Illusion
+time: 1 minute
+duration: 8 hour
+components: >-
+  V, S, a handful of sand, a dab of ink, and a writing quill plucked from a
+  sleeping bird
 aliases:
   - Dream
 ---
@@ -24,10 +34,10 @@ This spell shapes a creature's dreams. Choose a creature known to you as the tar
 
 If the target is asleep, the messenger appears in the target's dreams and can converse with the target as long as it remains asleep, through the duration of the spell. The messenger can also shape the environment of the dream, creating landscapes, objects, and other images. The messenger can emerge from the trance at any time, ending the effect of the spell early. The target recalls the dream perfectly upon waking. If the target is awake when you cast the spell, the messenger knows it, and can either end the trance (and the spell) or wait for the target to fall asleep, at which point the messenger appears in the target's dreams.
 
-You can make the messenger appear monstrous and terrifying to the target. If you do, the messenger can deliver a message of no more than ten words and then the target must make a Wisdom saving throw. On a failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts the duration of the target's sleep and prevents the target from gaining any benefit from that rest. In addition, when the target wakes up, it takes `dice: 3d6|avg|noform` (`3d6`) psychic damage.
+You can make the messenger appear monstrous and terrifying to the target. If you do, the messenger can deliver a message of no more than ten words and then the target must make a Wisdom saving throw. On a failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts the duration of the target's sleep and prevents the target from gaining any benefit from that rest. In addition, when the target wakes up, it takes `dice:3d6|noform|avg` (`3d6`) psychic damage.
 
 If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Cleric Beer Domain (KPDM)\|Cleric (Beer Domain)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Cleric Moon Domain (KPDM)\|Cleric (Moon Domain)]]
 
-*Source: Player's Handbook p. 236. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

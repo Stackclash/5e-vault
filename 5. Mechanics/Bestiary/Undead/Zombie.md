@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: urban
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/urban
   - monster/size/medium
   - monster/type/undead
-statblock: inline
 aliases:
   - Zombie
 ---
-# [[5. Mechanics/Bestiary/Undead/Zombie.md|Zombie]]
-*Source: Monster Manual p. 316, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Undead\Zombie.md|Zombie]]
+*Source: Monster Manual p. 316, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
 
@@ -38,7 +41,7 @@ A zombie can follow simple orders and distinguish friends from foes, but its abi
 
 A zombie doesn't require air, food, drink, or sleep.
 
-> [!quote]- A quote from Fonkin Hoodypeak  
+> [!quote] A quote from Fonkin Hoodypeak  
 > 
 > After Beek died, we cast an [[5. Mechanics/Spells/Animate Dead.md|animate dead]] spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
 
@@ -62,7 +65,7 @@ A zombie doesn't require air, food, drink, or sleep.
 "saves":
   "Wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands all languages it spoke in life but can't speak"
 "cr": "1/4"
@@ -78,36 +81,7 @@ A zombie doesn't require air, food, drink, or sleep.
 "source":
 - "MM"
 - "CoS"
-- "LMoP"
-- "PotA"
-- "RoT"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SLW"
-- "SDW"
-- "BGDIA"
-- "ERLW"
-- "RMBRE"
-- "EGW"
 - "TCE"
-- "WBtW"
-- "JttRC"
-- "DoSI"
-- "DSotDQ"
-- "KftGV"
-- "PSI"
-- "HftT"
-- "PaBTSO"
-- "AATM"
-- "SatO"
-- "ToFW"
-- "BMT"
-- "GHLoE"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/zombie.webp"
 ```

@@ -1,23 +1,26 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/8
+environments: null
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-8
   - monster/size/small
   - monster/type/fiend/demon
-statblock: inline
 aliases:
   - Manes
 ---
-# [[5. Mechanics/Bestiary/Fiend/Manes.md|Manes]]
+# [[5. Mechanics\Bestiary\Fiend\Manes.md|Manes]]
 *Source: Monster Manual p. 60*
 
 Souls of evil creatures that descend to the Lower Planes are transformed into manes-the lowest form of demonkind. These wretched fiends attack any non-demon they see, and they are called to the Material Plane by those seeking to sow death and chaos.
 
 Orcus, the Prince of Undeath, has the power to transform manes into undead monsters, most often ghouls and shadows. Other demon lords feed on manes, destroying them utterly. Otherwise, killing a manes causes it to dissipate into a cloud of reeking vapor that reforms into another manes after one day.
 
-> [!quote]- A quote from Emirikol the Chaotic  
+> [!quote] A quote from Emirikol the Chaotic  
 > 
 > Have no pity for this damnable wretch. Bloody thing could grow up to be a demon lord one day.
 
@@ -161,7 +164,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -170,20 +173,20 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50% chance chance of summoning `dice: 1d8|avg|noform` (`1d8`) vrocks, `dice: 1d6|avg|noform` (`1d6`) hezrous, `dice: 1d4|avg|noform` (`1d4`) glabrezus, `dice: 1d3|avg|noform` (`1d3`) nalfeshnees, `dice: 1d2|avg|noform` (`1d2`) mariliths, or one goristro.  
-> - A barlgura has a 30% chance chance of summoning one barlgura.  
-> - A chasme has a 30% chance chance of summoning one chasme.  
-> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg|noform` (`1d3`) vrocks, `dice: 1d2|avg|noform` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) vrocks, `dice: 1d4|avg|noform` (`1d4`) hezrous, `dice: 1d3|avg|noform` (`1d3`) glabrezus, `dice: 1d2|avg|noform` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) vrocks, `dice: 1d3|avg|noform` (`1d3`) hezrous, `dice: 1d2|avg|noform` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg|noform` (`2d4`) dretches or one vrock.  
-> - A yochlol has a 50% chance chance of summoning one yochlol.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|avg` (`1d8`) vrocks, `dice:1d6|noform|avg` (`1d6`) hezrous, `dice:1d4|noform|avg` (`1d4`) glabrezus, `dice:1d3|noform|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|avg` (`1d2`) mariliths, or one goristro.  
+> - A barlgura has a 30 percent chance of summoning one barlgura.  
+> - A chasme has a 30 percent chance of summoning one chasme.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|avg` (`1d3`) vrocks, `dice:1d2|noform|avg` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|avg` (`1d6`) vrocks, `dice:1d4|noform|avg` (`1d4`) hezrous, `dice:1d3|noform|avg` (`1d3`) glabrezus, `dice:1d2|noform|avg` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|avg` (`1d4`) vrocks, `dice:1d3|noform|avg` (`1d3`) hezrous, `dice:1d2|noform|avg` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|avg` (`2d4`) dretches or one vrock.  
+> - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-demon-summoning
 
-> [!quote]- A quote from From the Demonomicon of Iggwilv  
+> [!quote] A quote from From the Demonomicon of Iggwilv  
 > 
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
 
@@ -208,8 +211,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1/8"
@@ -219,14 +222,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   "name": "Claws"
 "source":
 - "MM"
-- "TftYP"
-- "GoS"
-- "BGDIA"
-- "IMR"
-- "WBtW"
-- "CRCotN"
-- "PSI"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Fiend/token/manes.webp"
 ```
 ^statblock

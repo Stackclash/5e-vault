@@ -1,24 +1,27 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 7
+environments: urban
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/7
   - monster/environment/urban
   - monster/size/large
   - monster/type/construct
-statblock: inline
 aliases:
   - Shield Guardian
 ---
-# [[5. Mechanics/Bestiary/Construct/Shield Guardian.md|Shield Guardian]]
-*Source: Monster Manual p. 271, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Construct\Shield Guardian.md|Shield Guardian]]
+*Source: Monster Manual p. 271, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Wizards and other spellcasters create shield guardians for protection. A shield guardian treads beside its master, absorbing damage to keep its master alive as long as possible.
 
 ## Master's Amulet
 
-Every shield guardian has an amulet magically linked to it. A shield guardian can have only one corresponding amulet, and if that amulet is destroyed, the shield guardian is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] until a replacement amulet is created. A shield guardian's amulet is subject to direct attack if it isn't being worn or carried. It has AC 10, 10 hit points, and immunity to poison and psychic damage. Crafting an amulet requires 1 week and costs 1,000 gp in components.
+Every shield guardian has an amulet magically linked to it. A shield guardian can have only one corresponding amulet, and if that amulet is destroyed, the shield guardian is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] until a replacement amulet is created. A shield guardian's amulet is subject to direct attack if it isn't being worn or carried. It has AC 10, 10 hit points, and immunity to poison and psychic damage. Crafting an amulet requires 1 week and costs 1,000 gp in components.
 
 A shield guardian's solitary focus is to protect the amulet's wearer. The amulet's wearer can command the guardian to attack its enemies or to guard the wielder against attack. If an attack threatens to injure the wearer, the construct can magically absorb the blow into its own body, even at a distance.
 
@@ -50,9 +53,9 @@ A shield guardian doesn't require air, food, drink, or sleep.
 - !!int "3"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
 "languages": "understands commands given in any language but can't speak"
 "cr": "7"
@@ -88,19 +91,6 @@ A shield guardian doesn't require air, food, drink, or sleep.
 "source":
 - "MM"
 - "CoS"
-- "PotA"
-- "SKT"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "IDRotF"
-- "CRCotN"
-- "KftGV"
-- "PaBTSO"
-- "BMT"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Construct/token/shield-guardian.webp"
 ```

@@ -8,8 +8,8 @@ aliases:
   - One with Shadows
 ---
 # One with Shadows
-*Source: Player's Handbook p. 111. Available in the SRD.*  
+*Source: Player's Handbook p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-***Prerequisites*** 5th-level
+***Prerequisites*** 5th
 
-When you are in an area of dim light or darkness, you can use your action to become [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] until you move or take an action or a reaction.
+When you are in an area of dim light or darkness, you can use your action to become [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] until you move or take an action or a reaction.

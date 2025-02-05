@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: 'forest, swamp'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
@@ -8,12 +12,11 @@ tags:
   - monster/environment/swamp
   - monster/size/medium
   - monster/type/beast
-statblock: inline
 aliases:
   - Giant Frog
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Frog.md|Giant Frog]]
-*Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Giant Frog.md|Giant Frog]]
+*Source: Monster Manual p. 325. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Giant Frog"
@@ -45,30 +48,22 @@ aliases:
   "name": "Standing Leap"
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
-    \ + 1) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 11). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ + 1) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+    \ (escape DC 11). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
     \ and the frog can't bite another target."
   "name": "Bite"
 - "desc": "The frog makes one bite attack against a Small or smaller target it is\
     \ grappling. If the attack hits, the target is swallowed, and the grapple ends.\
-    \ The swallowed target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and\
-    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], it has total cover\
+    \ The swallowed target is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] and\
+    \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], it has total cover\
     \ against attacks and other effects outside the frog, and it takes 5 (2d4) acid\
     \ damage at the start of each of the frog's turns. The frog can have only one\
     \ target swallowed at a time. If the frog dies, a swallowed creature is no longer\
-    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by it and can escape\
-    \ from the corpse using 5 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] by it and can escape\
+    \ from the corpse using 5 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
   "name": "Swallow"
 "source":
 - "MM"
-- "HotDQ"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "EGW"
-- "WBtW"
-- "PSA"
 "image": "5. Mechanics/Bestiary/Beast/token/giant-frog.webp"
 ```
 ^statblock

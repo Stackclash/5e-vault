@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/humanoid/elf
-statblock: inline
 aliases:
   - Drow
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow.md|Drow]]
-*Source: Monster Manual p. 128. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Humanoid\Drow.md|Drow]]
+*Source: Monster Manual p. 128. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ## Drow
 
@@ -52,7 +55,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 ### Poison Predilection
 
-Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
+Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!note] Variant: Drow Magic Armor and Weapons
 > 
@@ -63,7 +66,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 > - A drow priestess of Lolth wearing +3 scale mail has AC 19.  
 ^variant-drow-magic-armor-and-weapons
 
-> [!quote]- A quote from Nelar Autumnwell, elf cleric of Corellon Larethian  
+> [!quote] A quote from Nelar Autumnwell, elf cleric of Corellon Larethian  
 > 
 > Such depravity. Such terrifying cruelty. They are the vile poison that plagues all elvenkind.
 
@@ -98,7 +101,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \ will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day each:\
     \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]]"
   "name": "Innate Spellcasting"
-- "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"
 - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
@@ -111,25 +114,14 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
   "name": "Shortsword"
 - "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
     \ 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
-    \ 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
-    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
+    \ 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
+    \ while [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] in this way. The\
     \ target wakes up if it takes damage or if another creature takes an action to\
     \ shake it awake."
   "name": "Hand Crossbow"
 "source":
 - "MM"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "DC"
-- "DIP"
-- "BGDIA"
-- "EGW"
-- "CM"
-- "CRCotN"
-- "PaBTSO"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Humanoid/token/drow.webp"
 ```
 ^statblock

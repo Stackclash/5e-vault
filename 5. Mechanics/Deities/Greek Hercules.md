@@ -10,7 +10,7 @@ aliases:
   - Hercules
 ---
 # Hercules
-*Source: Player's Handbook p. 298. Available in the SRD.* 
+*Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 
 - **Alignment**: Chaotic Good
 - **Domains**: Tempest, War

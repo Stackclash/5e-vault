@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/size/medium
   - monster/type/elemental
-statblock: inline
 aliases:
   - Azer
 ---
-# [[5. Mechanics/Bestiary/Elemental/Azer.md|Azer]]
-*Source: Monster Manual p. 22. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Elemental\Azer.md|Azer]]
+*Source: Monster Manual p. 22. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Natives of the Elemental Plane of Fire, azers are master crafters, expert miners, and sworn foes of the efreet. In appearance and manner, an azer resembles a male dwarf, but this is a facade. Beneath its metallic looking skin, an azer is a being of fire, which outwardly manifests in its fiery hair and beard.
 
@@ -37,7 +40,7 @@ When azers are called by magic to the Material Plane, it is typically to help fo
 
 An azer doesn't require food, drink, or sleep.
 
-> [!quote]- A quote from Arakses al-Saqar, efreeti pasha  
+> [!quote] A quote from Arakses al-Saqar, efreeti pasha  
 > 
 > Give me a hundred azer slaves, and I can forge an empire that would make the gods tremble.
 
@@ -62,7 +65,7 @@ An azer doesn't require food, drink, or sleep.
 "saves":
   "Constitution": !!int "4"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "passive Perception 11"
 "languages": "Ignan"
 "cr": "2"
@@ -83,10 +86,6 @@ An azer doesn't require food, drink, or sleep.
   "name": "Warhammer"
 "source":
 - "MM"
-- "PotA"
-- "WDMM"
-- "KftGV"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Elemental/token/azer.webp"
 ```
 ^statblock

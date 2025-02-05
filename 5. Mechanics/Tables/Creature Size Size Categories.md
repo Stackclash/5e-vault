@@ -7,7 +7,7 @@ aliases:
   - Creature Size; Size Categories
 ---
 # Creature Size; Size Categories
-*Source: Player's Handbook p. 191. Available in the SRD and the Basic Rules.* 
+*Source: Player's Handbook p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
 
 **Size Categories**
 

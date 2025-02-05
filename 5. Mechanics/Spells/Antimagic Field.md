@@ -3,11 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/cleric
-  - spell/class/sorcerer/divine-soul
   - spell/class/wizard
-  - spell/level/8
+  - spell/level/8th-level
   - spell/school/abjuration
+  - spell/subclass/divine-soul
+level: 8th-level
+range: false
+school: Abjuration
+time: 1 action
+duration: 'Concentration, up to 1 hour'
+components: 'V, S, a pinch of powdered iron or iron filings'
 aliases:
   - Antimagic Field
 ---
@@ -55,6 +62,6 @@ Spells and magical effects such as [[5. Mechanics/Spells/Dispel Magic.md\|dispel
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
 
-*Source: Player's Handbook p. 213. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

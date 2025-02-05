@@ -8,7 +8,7 @@ aliases:
   - Criminal (Spy) (Variant)
 ---
 # Criminal (Spy) (Variant)
-*Source: Player's Handbook p. 130. Available in the Basic Rules.*  
+*Source: Player's Handbook p. 130. Available in the Basic Rules (2014)*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Deception\|Deception]], [[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]  
 - **Tool Proficiencies.** One type of gaming set, [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]  

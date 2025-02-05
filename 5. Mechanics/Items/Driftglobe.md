@@ -5,12 +5,11 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/uncommon
   - item/tier/minor
-  - item/wondrous
 aliases:
   - Driftglobe
 ---
 # Driftglobe
-*Wondrous Item, minor, uncommon*  
+*Wondrous item, minor, uncommon*  
 ![[5. Mechanics/Items/img/driftglobe.webp#right]]  
 
 - **Weight**: 1.0 lbs.

@@ -9,7 +9,7 @@ aliases:
 # Chapter 1: Introduction
 *Source: Hamund's Herbalism Handbook, p. 2* 
 
-> [!quote]- A quote from Sir Hamund Holderhek, O.B.H. (First Class), V.A., N.K.P.  
+> [!quote] A quote from Sir Hamund Holderhek, O.B.H. (First Class), V.A., N.K.P.  
 > 
 > Welcome dear reader to a brand new series of learning and adventure, brought to you by none other than I, Sir Hamund Holderhek! On the off chance that my published works have yet to reach you, let me say that I am a writer by trade, but an explorer at heart. Through my many years of wandering these planes of existence, I have seen, done, and conquered just about everything the multiverse has to offer!
 > 

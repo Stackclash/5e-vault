@@ -5,12 +5,11 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/rare
   - item/tier/minor
-  - item/wondrous
 aliases:
   - Heward's Handy Haversack
 ---
 # Heward's Handy Haversack
-*Wondrous Item, minor, rare*  
+*Wondrous item, minor, rare*  
 ![[5. Mechanics/Items/img/hewards-handy-haversack.webp#right]]  
 
 - **Weight**: 5.0 lbs.
@@ -23,4 +22,4 @@ The haversack has a few limitations. If it is overloaded, or if a sharp object p
 
 Placing the haversack inside an extradimensional space created by a [[5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], [[5. Mechanics/Items/Portable Hole.md\|portable hole]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10-feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
-*Source: Dungeon Master's Guide p. 174. Available in the SRD (as 'Handy Haversack').*
+*Source: Dungeon Master's Guide p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Handy Haversack")*

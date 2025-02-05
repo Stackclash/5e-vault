@@ -3,9 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/wizard
-  - spell/level/6
+  - spell/level/6th-level
   - spell/school/necromancy
+level: 6th-level
+range: false
+school: Necromancy
+time: 1 minute
+duration: Until dispelled
+components: >-
+  V, S, a gem, crystal, reliquary, or some other ornamental container worth at
+  least 500 gp
 aliases:
   - Magic Jar
 ---
@@ -31,6 +40,6 @@ If the container is destroyed or the spell ends, your soul immediately returns t
 
 When the spell ends, the container is destroyed.
 
-**Classes**: [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
 
-*Source: Player's Handbook p. 257. Available in the SRD.*
+*Source: Player's Handbook p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 4
+environments: underdark
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/4
   - monster/environment/underdark
   - monster/size/large
   - monster/type/ooze
-statblock: inline
 aliases:
   - Black Pudding
 ---
-# [[5. Mechanics/Bestiary/Ooze/Black Pudding.md|Black Pudding]]
-*Source: Monster Manual p. 241, Curse of Strahd. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Ooze\Black Pudding.md|Black Pudding]]
+*Source: Monster Manual p. 241, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A black pudding resembles a heaving mound of sticky black sludge. In dim passageways, the pudding appears to be little more than a blot of shadow.
 
@@ -61,9 +64,9 @@ An ooze doesn't require sleep.
 - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "acid, cold, lightning, slashing"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "4"
@@ -97,20 +100,6 @@ An ooze doesn't require sleep.
 "source":
 - "MM"
 - "CoS"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "IDRotF"
-- "CM"
-- "JttRC"
-- "DSotDQ"
-- "KftGV"
-- "SatO"
-- "ToFW"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Ooze/token/black-pudding.webp"
 ```
 ^statblock

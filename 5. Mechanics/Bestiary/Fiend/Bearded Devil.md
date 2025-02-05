@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 3
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/size/medium
   - monster/type/fiend/devil
-statblock: inline
 aliases:
   - Bearded Devil
 ---
-# [[5. Mechanics/Bestiary/Fiend/Bearded Devil.md|Bearded Devil]]
-*Source: Monster Manual p. 70, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Fiend\Bearded Devil.md|Bearded Devil]]
+*Source: Monster Manual p. 70, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Bearded devils serve archdevils as shock troops, fighting shoulder-to-shoulder and reveling in the glory of battle. They respond with violence to any slight, real or imagined, gorging themselves on violence as their infernal saw-toothed glaives carve a path through their foes.
 
@@ -113,7 +116,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -126,13 +129,13 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > **Summon Devil (1/Day).** The devil chooses what to summon and attempts a magical summoning.
 > 
-> - A barbed devil has a 30% chance chance of summoning one barbed devil.  
-> - A bearded devil has a 30% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg|noform` (`3d6`) spined devils, `dice: 1d6|avg|noform` (`1d6`) bearded devils, or one erinyes.  
-> - A horned devil has a 30% chance chance of summoning one horned devil.  
-> - An ice devil has a 60% chance chance of summoning one ice devil.  
-> - A pit fiend summons `dice: 2d4|avg|noform` (`2d4`) bearded devils, `dice: 1d4|avg|noform` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A barbed devil has a 30 percent chance of summoning one barbed devil.  
+> - A bearded devil has a 30 percent chance of summoning one bearded devil.  
+> - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|avg` (`3d6`) spined devils, `dice:1d6|noform|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A horned devil has a 30 percent chance of summoning one horned devil.  
+> - An ice devil has a 60 percent chance of summoning one ice devil.  
+> - A pit fiend summons `dice:2d4|noform|avg` (`2d4`) bearded devils, `dice:1d4|noform|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -162,7 +165,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "3"
@@ -172,7 +175,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "The devil has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- "desc": "The devil can't be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+- "desc": "The devil can't be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
     \ while it can see an allied creature within 30 feet of it."
   "name": "Steadfast"
 "actions":
@@ -180,8 +183,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d8\
     \ + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
-    \ While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, the\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for 1 minute.\
+    \ While [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] in this way, the\
     \ target can't regain hit points. The target can repeat the saving throw at the\
     \ end of each of its turns, ending the effect on itself on a success."
   "name": "Beard"
@@ -196,14 +199,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   "name": "Glaive"
 "source":
 - "MM"
-- "RoT"
-- "ToA"
-- "WDH"
-- "BGDIA"
-- "EGW"
-- "IDRotF"
-- "BMT"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/bearded-devil.webp"
 ```

@@ -7,8 +7,14 @@ tags:
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
-  - spell/level/6
+  - spell/level/6th-level
   - spell/school/necromancy
+level: 6th-level
+range: false
+school: Necromancy
+time: 1 action
+duration: 'Concentration, up to 1 minute'
+components: 'V, S'
 aliases:
   - Eyebite
 ---
@@ -24,11 +30,11 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 ## Asleep
 
-The target falls [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
+The target falls [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
 
 ## Panicked
 
-The target is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] of you. On each of its turns, the [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] creature must take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
+The target is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you. On each of its turns, the [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] creature must take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
 
 ## Sickened
 
@@ -36,6 +42,6 @@ The target has disadvantage on attack rolls and ability checks. At the end of ea
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
 
-*Source: Player's Handbook p. 238. Available in the SRD.*
+*Source: Player's Handbook p. 238. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

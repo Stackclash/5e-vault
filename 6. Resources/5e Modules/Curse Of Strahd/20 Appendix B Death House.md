@@ -29,7 +29,7 @@ The wealthy family that built the house practiced the dark arts. Through seducti
 
 The cult tried to summon malevolent extraplanar entities with no success. The cultists also preyed on visitors, sacrificed them in bizarre rituals, and hosted morbid banquets to feast on their corpses. When nothing came of these ritualized murders, the cultists' activities became thinly disguised excuses to indulge their lurid fantasies. The ranks of the cult thinned as members began to lose interest in the debacle.
 
-Then [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]] arrived.
+Then [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] arrived.
 
 The cultists regarded Strahd as a messiah sent to them by the Dark Powers. Drawn to Strahd like moths to a flame, they pledged their devotion for a promise of immortality, but Strahd turned them away, deeming the cult and its leaders unworthy of his attention. The cultists withdrew to Death House in despair.
 
@@ -83,7 +83,7 @@ Characters who remain outside the house can see the mists close in around them, 
 > 
 > None of the rooms in the house are lit when the characters arrive, although most areas contain working oil lamps or fireplaces.
 > 
-> Characters can burn the house to the ground if they want, but any destruction to the house is temporary. After `dice: 1d10|avg|noform` (`1d10`) days, the house begins to repair itself. Ashes sweep together to form blackened timbers, which then turn back into a sturdy wooden frame around which walls begin to materialize. Destroyed furnishings are likewise repaired. It takes `dice: 2d6|avg|noform` (`2d6`) hours for the house to complete its resurrection. Items taken from the house aren't replaced, nor are undead that are destroyed. The dungeon level isn't considered part of the house and can't repair itself in this fashion.
+> Characters can burn the house to the ground if they want, but any destruction to the house is temporary. After `dice:1d10|noform|avg` (`1d10`) days, the house begins to repair itself. Ashes sweep together to form blackened timbers, which then turn back into a sturdy wooden frame around which walls begin to materialize. Destroyed furnishings are likewise repaired. It takes `dice:2d6|noform|avg` (`2d6`) hours for the house to complete its resurrection. Items taken from the house aren't replaced, nor are undead that are destroyed. The dungeon level isn't considered part of the house and can't repair itself in this fashion.
 ^death-houses-features
 
 ## Areas of the House
@@ -177,7 +177,7 @@ This secret room contains bookshelves packed with tomes describing fiend-summoni
 
 A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest is a skeleton in leather armor. Close inspection reveals that the skeleton belongs to a human who triggered a poisoned dart trap. Three darts are stuck in the dead adventurer's armor and ribcage. The dart-firing mechanism inside the chest no longer functions.
 
-Clutched in the skeleton's left hand is a letter bearing the seal of [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]], which the adventurer tried to remove from the chest. Written in flowing script, the letter reads as follows:
+Clutched in the skeleton's left hand is a letter bearing the seal of [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]], which the adventurer tried to remove from the chest. Written in flowing script, the letter reads as follows:
 
 > [!note] 
 > 
@@ -189,12 +189,12 @@ Clutched in the skeleton's left hand is a letter bearing the seal of [[4. World 
 > 
 > Your dread lord and master,
 > 
-> [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]]
+> [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]
 ^6e5
 
 #### Treasure
 
-The chest contains three blank books with black leather covers (worth 25 gp each), three [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]] ([[5. Mechanics/Spells/Bless.md\|bless]], [[5. Mechanics/Spells/Protection From Poison.md\|protection from poison]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]]), the deed to the house, the deed to a windmill, and a signed will. The windmill referred to in the second deed is situated in the mountains east of Vallaki (see chapter 6, "Old Bonegrinder"). The will is signed by Gustav and Elisabeth Durst and bequeathes the house, the windmill, and all other family property to Rosavalda and Thornboldt Durst in the event of their parents' deaths. The books, scrolls, deeds, and will age markedly if taken from the house but remain intact.
+The chest contains three blank books with black leather covers (worth 25 gp each), three [[5. Mechanics/Items/Spell Scroll (DMG).md\|spell scrolls]] ([[5. Mechanics/Spells/Bless.md\|bless]], [[5. Mechanics/Spells/Protection From Poison.md\|protection from poison]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]]), the deed to the house, the deed to a windmill, and a signed will. The windmill referred to in the second deed is situated in the mountains east of Vallaki (see chapter 6, "Old Bonegrinder"). The will is signed by Gustav and Elisabeth Durst and bequeathes the house, the windmill, and all other family property to Rosavalda and Thornboldt Durst in the event of their parents' deaths. The books, scrolls, deeds, and will age markedly if taken from the house but remain intact.
 
 ### 10. Conservatory
 
@@ -234,7 +234,7 @@ This dark room contains a wooden tub with clawed feet, a small iron stove with a
 
 ### 14. Storage Room
 
-Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack.md\|broom of animated attack]] (see appendix D) leans against the far wall; it attacks any creature approaching within 5 feet of it.
+Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md\|broom of animated attack]] (see appendix D) leans against the far wall; it attacks any creature approaching within 5 feet of it.
 
 ### 15. Nursemaid's Suite
 
@@ -285,16 +285,16 @@ The door to this room is locked from the outside (see area 16 for details).
 > This room contains a bricked-up window flanked by two dusty, wood-framed beds sized for children. Closer to the door is a toy chest with windmills painted on its sides and a dollhouse that's a perfect replica of the dreary edifice in which you stand. These furnishings are draped in cobwebs. Lying in the middle of the floor are two small skeletons wearing tattered but familiar clothing. The smaller of the two cradles a stuffed doll that you also recognize.
 ^6f9
 
-The Durst children, [[4. World Almanac/NPCs/Rosavalda Rose Durst.md\|Rose]] and [[4. World Almanac/NPCs/Thornboldt Thorn Durst.md\|Thorn]], were neglected by their parents and locked in this room until they starved to death. Their small skeletons lie in the middle of the floor, plain as day, wearing tattered clothing that the characters recognize as belonging to the children. Thorn's skeleton cradles the boy's stuffed doll.
+The Durst children, [[4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md\|Rose]] and [[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md\|Thorn]], were neglected by their parents and locked in this room until they starved to death. Their small skeletons lie in the middle of the floor, plain as day, wearing tattered clothing that the characters recognize as belonging to the children. Thorn's skeleton cradles the boy's stuffed doll.
 
 The toy chest contains an assortment of stuffed animals and toys. Characters who search the dollhouse and succeed on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check find all of the house's secret doors, including one in the attic that leads to a spiral staircase (a miniature replica of area 21).
 
 #### Rose and Thorn
 
-If either the dollhouse or the chest is disturbed, the ghosts of [[4. World Almanac/NPCs/Rosavalda Rose Durst.md\|Rose]] and [[4. World Almanac/NPCs/Thornboldt Thorn Durst.md\|Thorn]] appear in the middle of the room. Use the [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] statistics in the "Monster Manual", with the following modifications:
+If either the dollhouse or the chest is disturbed, the ghosts of [[4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md\|Rose]] and [[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md\|Thorn]] appear in the middle of the room. Use the [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] statistics in the "Monster Manual", with the following modifications:
 
 - The ghosts are Small and lawful good.  
-- They have `dice:10d6|text(35)` (`10d6`) hit points each.  
+- They have `dice:10d6|noform|avg|text(35)` (`10d6`) hit points each.  
 - They lack the Horrifying Visage action.  
 - They speak Common and have a challenge rating of 3 (700 XP).  
 
@@ -326,7 +326,7 @@ Once the house wills the secret door into existence, characters find it automati
 
 > [!note] Dungeon Features
 > 
-> The dungeon level underneath Death House is carved out of earth, clay, and rock. The tunnels are 4 feet wide by 7 feet high with timber braces at 5-foot intervals. Rooms are 8 feet tall and supported by thick wooden posts with crossbeams. The only exception is area 38, which has a 16-foot-high ceiling supported by stone pillars. Characters without [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] must provide their own light sources, as the dungeon is unlit.
+> The dungeon level underneath Death House is carved out of earth, clay, and rock. The tunnels are 4 feet wide by 7 feet high with timber braces at 5-foot intervals. Rooms are 8 feet tall and supported by thick wooden posts with crossbeams. The only exception is area 38, which has a 16-foot-high ceiling supported by stone pillars. Characters without [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] must provide their own light sources, as the dungeon is unlit.
 > 
 > As the characters explore the dungeon, they see centuries-old human footprints in the earthen floor leading every which way.
 ^dungeon-features
@@ -363,13 +363,13 @@ The stone slab is etched with the name Elisabeth Durst. The crypt contains a sto
 
 The stone slab is etched with the name Rosavalda Durst. The chamber beyond contains an empty coffin on a stone bier.
 
-If Rose's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[4. World Almanac/NPCs/Rosavalda Rose Durst.md\|Rose's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
+If Rose's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md\|Rose's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
 
 #### 23F. Thorn's Crypt
 
 The stone slab is etched with the name Thornboldt Durst. The chamber beyond contains an empty coffin on a stone bier.
 
-If Thorn's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[4. World Almanac/NPCs/Thornboldt Thorn Durst.md\|Thorn's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
+If Thorn's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md\|Thorn's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
 
 ### 24. Cult Initiates' Quarters
 
@@ -407,7 +407,7 @@ This room's chest contains a silvered [[5. Mechanics/Items/Shortsword.md\|shorts
 
 ### 26. Hidden Spiked Pit
 
-The ghostly chanting heard throughout the dungeon gets discernibly louder as one heads west along this tunnel. A successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check reveals an absence of footprints. Characters searching the floor for traps find a 5-foot-long, 10-foot-deep pit hidden under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom. The first character to step on the cover falls through, landing [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] and taking `dice:1d6|text(3)` (`1d6`) bludgeoning damage from the fall plus `dice:2d10|text(11)` (`2d10`) piercing damage from the spikes.
+The ghostly chanting heard throughout the dungeon gets discernibly louder as one heads west along this tunnel. A successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check reveals an absence of footprints. Characters searching the floor for traps find a 5-foot-long, 10-foot-deep pit hidden under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom. The first character to step on the cover falls through, landing [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and taking `dice:1d6|noform|avg|text(3)` (`1d6`) bludgeoning damage from the fall plus `dice:2d10|noform|avg|text(11)` (`2d10`) piercing damage from the spikes.
 
 ### 27. Dining Hall
 
@@ -417,7 +417,7 @@ In the middle of the south wall is a darkened alcove (area 28). Characters who a
 
 ### 28. Larder
 
-This alcove contains a [[5. Mechanics/Bestiary/Monstrosity/Grick.md\|grick]] that slithers out to attack the first character it sees within 5 feet of it. Any character with a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score under 12 is surprised by it. The alcove is otherwise empty.
+This alcove contains a [[5. Mechanics/Bestiary/Monstrosity/Grick.md\|grick]] that slithers out to attack the first character it sees within 5 feet of it. Any character with a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score under 12 is [[/5. Mechanics/Rules/Conditions.md#Surprised\|surprised]] by it. The alcove is otherwise empty.
 
 ### 29. Ghoulish Encounter
 
@@ -563,8 +563,8 @@ Death House harbors no ill will toward a party willing to sacrifice a life to ap
 If the characters deny the cult its sacrifice and either destroy the shambling mound or escape from it, Death House attacks them as they try to leave. When they return upstairs, they must roll initiative as they discover several architectural changes:
 
 - All the windows are bricked up; the bricked-up windows and the outer walls are impervious to the party's weapon attacks and damage-dealing spells.  
-- All the doors are gone, replaced by slashing scythe-blades. A character must succeed on a DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check to pass through a blade-trapped doorway unscathed. A character who spends 1 minute studying the blades in a particular doorway can try to take advantage of a momentary gap in their repeating movements and make a DC 15 Intelligence check instead. Failing either check, a character takes `dice: 2d10|avg|noform` (`2d10`) slashing damage but manages to pass through the doorway. Any creature pushed through a doorway must succeed on a DC 15 Dexterity saving throw or take the damage. The blades can't be disarmed.  
-- Every room that contains a fireplace, an oven, or a stove is filled with poisonous black smoke. The room is heavily obscured, and any creature that starts its turn in the smoke must succeed on a DC 10 Constitution saving throw or take `dice: 1d10|avg|noform` (`1d10`) poison damage.  
+- All the doors are gone, replaced by slashing scythe-blades. A character must succeed on a DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check to pass through a blade-trapped doorway unscathed. A character who spends 1 minute studying the blades in a particular doorway can try to take advantage of a momentary gap in their repeating movements and make a DC 15 Intelligence check instead. Failing either check, a character takes `dice:2d10|noform|avg` (`2d10`) slashing damage but manages to pass through the doorway. Any creature pushed through a doorway must succeed on a DC 15 Dexterity saving throw or take the damage. The blades can't be disarmed.  
+- Every room that contains a fireplace, an oven, or a stove is filled with poisonous black smoke. The room is heavily obscured, and any creature that starts its turn in the smoke must succeed on a DC 10 Constitution saving throw or take `dice:1d10|noform|avg` (`1d10`) poison damage.  
 - The interior walls become rotted and brittle. Each 5-foot-section has AC 5 and 5 hit points, and can also be destroyed with a successful DC 10 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. Each 5-foot section of wall that's destroyed causes a [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarm of rats]] to pour out and attack. The swarm won't leave the house.  
 
 Keep track of initiative as the characters make their way through the house. Once they escape, they advance to 3rd level, and the house does no more to harm them.

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/8
+environments: forest
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-8
   - monster/environment/forest
   - monster/size/small
   - monster/type/plant
-statblock: inline
 aliases:
   - Twig Blight
 ---
-# [[5. Mechanics/Bestiary/Plant/Twig Blight.md|Twig Blight]]
-*Source: Monster Manual p. 32, Curse of Strahd. Available in the Basic Rules.*
+# [[5. Mechanics\Bestiary\Plant\Twig Blight.md|Twig Blight]]
+*Source: Monster Manual p. 32, Curse of Strahd. Available in the Basic Rules (2014)*
 
 Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.
 
@@ -38,7 +41,7 @@ In forests infested with blights, trees and plants grow with supernatural speed.
 
 Blights are independent creatures, but most act under a Gulthias tree's control, often displaying the habits and traits of the life force or spirit that spawned them. By attacking their progenitor's old foes or seeking out treasures valuable to it, they carry on the legacy of long-lost evil.
 
-> [!quote]-  
+> [!quote]  
 > 
 > Behold the legacy of Gulthias the vampire: plants with a taste for blood.
 
@@ -63,7 +66,7 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 "skillsaves":
   "Stealth": !!int "3"
 "damage_vulnerabilities": "fire"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/8"
@@ -78,15 +81,6 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 "source":
 - "MM"
 - "CoS"
-- "LMoP"
-- "TftYP"
-- "GoS"
-- "RMBRE"
-- "WBtW"
-- "PSI"
-- "HftT"
-- "PaBTSO"
-- "DIP"
 "image": "5. Mechanics/Bestiary/Plant/token/twig-blight.webp"
 ```
 ^statblock

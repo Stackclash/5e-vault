@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1
+environments: null
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1
   - monster/size/medium
   - monster/type/construct
-statblock: inline
 aliases:
   - Animated Armor
 ---
-# [[5. Mechanics/Bestiary/Construct/Animated Armor.md|Animated Armor]]
-*Source: Monster Manual p. 19, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Construct\Animated Armor.md|Animated Armor]]
+*Source: Monster Manual p. 19, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 This empty steel shell clamors as it moves, heavy plates banging and grinding against one another like the vengeful spirit of a fallen knight. Ponderous but persistent, this magical guardian is almost always a suit of plate armor.
 
@@ -43,19 +46,19 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 - !!int "1"
 "speed": "25 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "1"
 "traits":
-- "desc": "The armor is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+- "desc": "The armor is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
     \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
     \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the armor\
     \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1\
+    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]] for 1\
     \ minute."
   "name": "Antimagic Susceptibility"
 - "desc": "While the armor remains motionless, it is indistinguishable from a normal\
@@ -70,22 +73,7 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "source":
 - "MM"
 - "CoS"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "EGW"
-- "IDRotF"
 - "TCE"
-- "CM"
-- "WBtW"
-- "KftGV"
-- "PaBTSO"
-- "SatO"
-- "DoDk"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Construct/token/animated-armor.webp"
 ```

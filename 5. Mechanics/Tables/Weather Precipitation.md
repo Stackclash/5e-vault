@@ -7,7 +7,7 @@ aliases:
   - Weather; Precipitation
 ---
 # Weather; Precipitation
-*Source: Dungeon Master's Guide p. 109. Available in the SRD.* 
+*Source: Dungeon Master's Guide p. 109. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 
 **Precipitation**
 

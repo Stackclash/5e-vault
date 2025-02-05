@@ -35,7 +35,7 @@ aliases:
 | 73-77 | Laboratory for conducting experiments relating to the portal and creatures that emerge from it |
 | 78-80 | Library holding books about the portal's history |
 | 81-85 | Pen or prison for holding captives or creatures that emerge from the portal |
-| 86-87 | Planar junction, where the gate to another plane once stood (25% chance chance of being active) |
+| 86-87 | Planar junction, where the gate to another plane once stood (25 percent chance of being active) |
 | 88-90 | Storage |
 | 91 | Strong room or vault, for guarding valuable treasures connected to the portal or funds used to pay the planar gate's guardians |
 | 92-93 | Study |

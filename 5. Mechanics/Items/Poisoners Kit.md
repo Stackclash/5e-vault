@@ -3,13 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/phb
-  - item/gear/tools
+  - item/gear/tool
+  - item/rarity/none
 aliases:
   - Poisoner's Kit
 cost: 5000
 ---
 # Poisoner's Kit
-*Tools*  
+*Tool*  
 
 - **Cost**: 50 gp
 - **Weight**: 2.0 lbs.
@@ -18,4 +19,4 @@ A poisoner's kit includes the vials, chemicals, and other equipment necessary fo
 
 Additionally, the "Crafting and Harvesting Poison" rules require the use of a poisoner's kit.
 
-*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 83. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 83. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

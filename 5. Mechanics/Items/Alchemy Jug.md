@@ -5,12 +5,11 @@ tags:
   - compendium/src/5e/dmg
   - item/rarity/uncommon
   - item/tier/minor
-  - item/wondrous
 aliases:
   - Alchemy Jug
 ---
 # Alchemy Jug
-*Wondrous Item, minor, uncommon*  
+*Wondrous item, minor, uncommon*  
 ![[5. Mechanics/Items/img/alchemy-jug.webp#right]]  
 
 - **Weight**: 12.0 lbs.

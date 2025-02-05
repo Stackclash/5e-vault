@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/cos
-  - item/gear
+  - compendium/src/5e/phb
+  - item/gear/
+  - item/rarity/none
 aliases:
   - Trinket
 ---
 # Trinket
-*Adventuring Gear*  
+*Adventuring gear*  
 ![[5. Mechanics/Items/img/trinket-phb.webp#right]]  
 
 
@@ -114,7 +115,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 92 | An ornate brooch of dwarven design |
 | 93 | An empty wine bottle bearing a pretty label that says, "The Wizard of Wines Winery, Red Dragon Crush, 331422-W" |
 | 94 | A mosaic tile with a multicolored, glazed surface |
-| 95 | A [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]] mouse |
+| 95 | A [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] mouse |
 | 96 | A black pirate flag adorned with a dragon's skull and crossbones |
 | 97 | A tiny mechanical crab or spider that moves about when it's not being observed |
 | 98 | A glass jar containing lard with a label that reads, "Griffon Grease" |
@@ -122,4 +123,4 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 100 | A metal urn containing the ashes of a hero |
 ^players-handbook-trinket-table
 
-*Source: Player's Handbook p. 159. Available in the Basic Rules.*
+*Source: Player's Handbook p. 159. Available in the Basic Rules (2014)*

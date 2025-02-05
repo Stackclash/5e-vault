@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'coastal, hill, arctic, urban, forest, desert'
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -12,12 +16,11 @@ tags:
   - monster/environment/urban
   - monster/size/medium
   - monster/type/humanoid/any-race
-statblock: inline
 aliases:
   - Bandit Captain
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Bandit Captain.md|Bandit Captain]]
-*Source: Monster Manual p. 344, Curse of Strahd. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Humanoid\Bandit Captain.md|Bandit Captain]]
+*Source: Monster Manual p. 344, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit captain has these qualities in spades.
 
@@ -69,30 +72,7 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
   "name": "Parry"
 "source":
 - "MM"
-- "PotA"
-- "SKT"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DC"
-- "DIP"
-- "SLW"
-- "BGDIA"
-- "IMR"
-- "EGW"
-- "MOT"
-- "IDRotF"
-- "CM"
 - "CoS"
-- "CRCotN"
-- "LoX"
-- "DSotDQ"
-- "KftGV"
-- "SatO"
-- "ToFW"
-- "BMT"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Humanoid/token/bandit-captain.webp"
 ```
 ^statblock

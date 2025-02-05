@@ -11,17 +11,17 @@ aliases:
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/121-08-001-red-belvedere.webp#center\|"The heroes' quest for the final rod piece takes them into a casino in the heart of Avernus"]]
 
-The adventurers discover that the final piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] is in the heart of Avernus, the first layer of the Nine Hells. The characters must infiltrate a diabolical casino dedicated to Tiamat, Queen of Evil Dragons, whose lair is nearby.
+The adventurers discover that the final piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] is in the heart of Avernus, the first layer of the Nine Hells. The characters must infiltrate a diabolical casino dedicated to Tiamat, Queen of Evil Dragons, whose lair is nearby.
 
 ## Running This Chapter
 
-This chapter begins after the characters retrieve the sixth piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]]. A character who holds this piece knows instinctively that the seventh piece is located somewhere inside a casino called the Red Belvedere in Avernus. The Wizards Three warn the characters that finding this location might be difficult since the Nine Hells are impossible to map and difficult to traverse.
+This chapter begins after the characters retrieve the sixth piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. A character who holds this piece knows instinctively that the seventh piece is located somewhere inside a casino called the Red Belvedere in Avernus. The Wizards Three warn the characters that finding this location might be difficult since the Nine Hells are impossible to map and difficult to traverse.
 
 Once the characters enter Avernus, they must hitch a ride on an infernal war machine and traverse the hellish landscape to reach the Red Belvedere. The characters must manipulate the Fiends in the casino's highest ranks to enter the exclusive Ruby Sanctum, then fight Tiamat's champion—or convince Tiamat to give up the final rod piece.
 
 ### Character Advancement
 
-The characters should be 17th level when this chapter begins. They gain a level once they retrieve the seventh and final piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] from the casino's Ruby Sanctum.
+The characters should be 17th level when this chapter begins. They gain a level once they retrieve the seventh and final piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] from the casino's Ruby Sanctum.
 
 ### Power of Secrets
 
@@ -29,7 +29,7 @@ The individuals the characters meet in Avernus are primarily Fiends and other un
 
 ### Seventh Rod Piece
 
-The final piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] is in area N5 in the Ruby Sanctum, located in the Dragon's Pride area of the Red Belvedere casino. For more information about the rod and the spell this rod piece allows its wielder to cast, see this book's introduction.
+The final piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] is in area N5 in the Ruby Sanctum, located in the Dragon's Pride area of the Red Belvedere casino. For more information about the rod and the spell this rod piece allows its wielder to cast, see this book's introduction.
 
 ## Avernus
 
@@ -69,7 +69,7 @@ When the characters step through the portal in Sigil, they emerge along a shelf 
 
 The characters know they need to travel to the Red Belvedere, but they don't know where the casino is located. The warped nature of the Nine Hells defies all mapping attempts, so the characters must figure out how to get to their destination.
 
-If consulted, the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] points away from the mountains and down the cliff, where a rough path skirts the cliff's base.
+If consulted, the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] points away from the mountains and down the cliff, where a rough path skirts the cliff's base.
 
 ### Hell of a Ride
 
@@ -82,7 +82,7 @@ The characters can descend the cliff without trouble. Once they do, they catch t
 > Out of the red dust clouds barrels an angular metal vehicle, ten feet tall, with spiked tires and hellfire roaring in its engine. Tortured screams issue from its furnace. The vehicle slows to a halt, and a winged silhouette jumps out and waves at you.
 ^3fb
 
-The infernal war machine [[5. Mechanics/Vehicles/Venatrix.md\|Venatrix]] has room for four Medium or smaller creatures to ride inside the vehicle, including its driver, and for four Medium or smaller creatures to ride in its upper, open-air area. Three [[5. Mechanics/Bestiary/Fiend/Erinyes.md\|erinyes]] crew the [[5. Mechanics/Vehicles/Venatrix.md\|Venatrix]]: Nykaia, who leaps out to greet the characters, and Kypris and Mykale, who are inside.
+The infernal war machine [[5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]] has room for four Medium or smaller creatures to ride inside the vehicle, including its driver, and for four Medium or smaller creatures to ride in its upper, open-air area. Three [[5. Mechanics/Bestiary/Fiend/Erinyes.md\|erinyes]] crew the [[5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]]: Nykaia, who leaps out to greet the characters, and Kypris and Mykale, who are inside.
 
 Nykaia is the group's glib and calculating leader, Kypris is their unflappable engineer and driver, and Mykale is their overeager weapons specialist. The three devils travel the wasteland of Avernus harvesting scrap metal and other valuable materials. The group is searching for additional crew members to aid them in their latest score.
 
@@ -90,9 +90,9 @@ Seeing that the characters lack a vehicle, Nykaia offers them a deal: if the cha
 
 The three erinyes are hoping to take down a [[5. Mechanics/Bestiary/Fiend/Goristro.md\|goristro]]: a minotaur-like demon that carries demonic legions and rare treasures through the battlefields of the Blood War. They need someone to focus on the goristro while they take out the soldiers on its back.
 
-Nykaia knows about the Red Belvedere but refuses to provide any more information until the characters help with the goristro. If the characters agree to her deal, she welcomes them aboard the [[5. Mechanics/Vehicles/Venatrix.md\|Venatrix]]. Nykaia isn't hostile toward the characters and won't attack them unless the characters threaten her or start a fight.
+Nykaia knows about the Red Belvedere but refuses to provide any more information until the characters help with the goristro. If the characters agree to her deal, she welcomes them aboard the [[5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]]. Nykaia isn't hostile toward the characters and won't attack them unless the characters threaten her or start a fight.
 
-If the characters attack Nykaia or attempt to take the [[5. Mechanics/Vehicles/Venatrix.md\|Venatrix]] by force, Kypris and Mykale emerge from the war machine and join the fight. If the erinyes are in danger of losing the fight, they surrender and beg the characters to spare them, offering to drive the characters to the Red Belvedere in exchange.
+If the characters attack Nykaia or attempt to take the [[5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]] by force, Kypris and Mykale emerge from the war machine and join the fight. If the erinyes are in danger of losing the fight, they surrender and beg the characters to spare them, offering to drive the characters to the Red Belvedere in exchange.
 
 #### Driving the Venatrix
 
@@ -102,21 +102,21 @@ The following rules are an adjusted, condensed version of the infernal war machi
 
 The helm of an infernal war machine is a chair with a wheel, levers, pedals, and other controls. The helm requires a driver to operate.
 
-While the [[5. Mechanics/Vehicles/Venatrix.md\|Venatrix]]'s engine is on, the driver can use an action to propel the vehicle up to its speed (see the "Vehicle Statistics" section below) or bring the vehicle to a dead stop. While the vehicle is moving, the driver can steer it along any course.
+While the [[5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]]'s engine is on, the driver can use an action to propel the vehicle up to its speed (see the "Vehicle Statistics" section below) or bring the vehicle to a dead stop. While the vehicle is moving, the driver can steer it along any course.
 
-If the driver has the [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] condition, leaves the helm, or does nothing to alter the [[5. Mechanics/Vehicles/Venatrix.md\|Venatrix]]'s course and speed, the vehicle moves in the same direction and at the same speed it did during the driver's last turn until it hits an obstacle big enough to stop it.
+If the driver has the [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] condition, leaves the helm, or does nothing to alter the [[5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]]'s course and speed, the vehicle moves in the same direction and at the same speed it did during the driver's last turn until it hits an obstacle big enough to stop it.
 
 As a bonus action, the driver can do one of the following:
 
-- Start the [[5. Mechanics/Vehicles/Venatrix.md\|Venatrix]]'s engine or shut it off.  
-- Cause the [[5. Mechanics/Vehicles/Venatrix.md\|Venatrix]] to take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] or [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]] action while the vehicle's engine is running  
+- Start the [[5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]]'s engine or shut it off.  
+- Cause the [[5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]] to take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] or [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]] action while the vehicle's engine is running  
 - Insert a Soul Coin into the engine's furnace  
 
 ##### Soul Fuel
 
 The Venatrix's engine has a furnace fueled by Soul Coins (described later in this chapter). Among the vehicle's helm controls is a narrow slot into which Soul Coins can be fed. The vehicle's furnace consumes a Soul Coin instantly, expending all the coin's remaining charges at once and destroying the coin in the process. The soul trapped in the coin becomes trapped in the furnace instead, giving the vehicle 24 hours of fuel for each charge the Soul Coin had when it was consumed (maximum 72 hours). The furnace can hold any number of souls, their screams of anguish audible out to a range of 60 feet.
 
-The [[5. Mechanics/Vehicles/Venatrix.md\|Venatrix]] currently has enough soul fuel to run for 60 hours.
+The [[5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]] currently has enough soul fuel to run for 60 hours.
 
 ##### Vehicle Statistics
 
@@ -126,15 +126,15 @@ The Venatrix is a Gargantuan vehicle that can hold eight Medium creatures and ca
 
 The Venatrix is equipped with two harpoon guns and an infernal screamer, which is a writhing humanoid torso made of melting wax with a barbed hand crank between its shoulder blades. The weapons are mounted to the vehicle's exterior, so any creature riding on the outside of the vehicle can operate a weapon. Each weapon station requires one creature to operate it.
 
-A creature operating a harpoon gun can use an action to make a ranged weapon attack with it (+6 to hit, range 120 ft., one target). On a hit, the harpoon deals `dice:2d8 + 1|text(10)` (`2d8 + 1`) piercing damage.
+A creature operating a harpoon gun can use an action to make a ranged weapon attack with it (+6 to hit, range 120 ft., one target). On a hit, the harpoon deals `dice:2d8+1|noform|avg|text(10)` (`2d8 + 1`) piercing damage.
 
-A creature operating the infernal screamer can use an action to turn its crank, unleashing a telepathic shriek of agony at one target the creature can see within 120 feet of itself. The target must make a DC 15 Wisdom saving throw, taking `dice:4d12|text(26)` (`4d12`) psychic damage on a failed save or half as much damage on a successful one.
+A creature operating the infernal screamer can use an action to turn its crank, unleashing a telepathic shriek of agony at one target the creature can see within 120 feet of itself. The target must make a DC 15 Wisdom saving throw, taking `dice:4d12|noform|avg|text(26)` (`4d12`) psychic damage on a failed save or half as much damage on a successful one.
 
 ### Goristro Raid
 
-This encounter occurs only if the characters teamed up with the [[5. Mechanics/Bestiary/Fiend/Erinyes.md\|erinyes]] in the previous encounter. If the characters instead defeated the erinyes and claimed the [[5. Mechanics/Vehicles/Venatrix.md\|Venatrix]] for themselves or bypassed the erinyes entirely, skip to the "Stop for Directions" section.
+This encounter occurs only if the characters teamed up with the [[5. Mechanics/Bestiary/Fiend/Erinyes.md\|erinyes]] in the previous encounter. If the characters instead defeated the erinyes and claimed the [[5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]] for themselves or bypassed the erinyes entirely, skip to the "Stop for Directions" section.
 
-It takes about an hour for the [[5. Mechanics/Vehicles/Venatrix.md\|Venatrix]] to travel to the goristro's location. As the [[5. Mechanics/Vehicles/Venatrix.md\|Venatrix]] approaches the goristro, read or paraphrase the following:
+It takes about an hour for the [[5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]] to travel to the goristro's location. As the [[5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]] approaches the goristro, read or paraphrase the following:
 
 > [!readaloud] 
 > 
@@ -173,14 +173,14 @@ If the characters are forced to search the plains and battlefields of Avernus fo
 | dice: d6 | Source of Help |
 |----------|----------------|
 | 1–3 | An iron signpost in the middle of nowhere points in the direction of the Red Belvedere. |
-| 4 | A friendly [[5. Mechanics/Bestiary/Fiend/Imp.md\|imp]] knows the way to the Red Belvedere. After tagging along for an hour and giving directions, the imp turns [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] and leaves. |
+| 4 | A friendly [[5. Mechanics/Bestiary/Fiend/Imp.md\|imp]] knows the way to the Red Belvedere. After tagging along for an hour and giving directions, the imp turns [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] and leaves. |
 | 5 | A [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] doomed to wander the battlefields of Avernus points the way to the Red Belvedere. |
 | 6 | An indifferent [[5. Mechanics/Bestiary/Fiend/Bearded Devil.md\|bearded devil]] hitchhiker offers directions, preferably in exchange for food, drink, or a free ride. |
 ^stop-for-directions
 
 ## The Red Belvedere
 
-Eventually, the characters reach the Red Belvedere. The casino is a remnant of Avernus's original existence: a bucolic paradise designed to tempt mortal souls. Its edifice was destroyed in the carnage of the Blood War, but a champion of Tiamat named [[4. World Almanac/NPCs/Windfall.md\|Windfall]] rebuilt the casino and rededicated it to the Dragon Queen as a celebration of her god's greed and vanity.
+Eventually, the characters reach the Red Belvedere. The casino is a remnant of Avernus's original existence: a bucolic paradise designed to tempt mortal souls. Its edifice was destroyed in the carnage of the Blood War, but a champion of Tiamat named [[4. World Almanac/NPCs/Windfall (VEOR).md\|Windfall]] rebuilt the casino and rededicated it to the Dragon Queen as a celebration of her god's greed and vanity.
 
 The Red Belvedere is more than a monument to the Dragon Queen. The casino is connected via a tunnel to Tiamat's lair, and Tiamat can hear every prayer and proclamation of her power uttered within the buildings' walls.
 
@@ -191,7 +191,7 @@ As the characters approach the Red Belvedere, read or paraphrase the following:
 > Jagged mountains give way to an unexpectedly beautiful sight: a sprawling, palatial complex glittering with silver and gold. Light dances through the front rotunda's red stained-glass dome, reflecting off the overcast sky to shower the buildings with a rosy glow. A carved stone sign at the front of the complex reads in numerous languages, "The Red Belvedere."
 ^408
 
-If the crew of the [[5. Mechanics/Vehicles/Venatrix.md\|Venatrix]] is with the party, the erinyes bid the characters goodbye at the front of the casino.
+If the crew of the [[5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]] is with the party, the erinyes bid the characters goodbye at the front of the casino.
 
 ### Casino Lobby
 
@@ -210,24 +210,24 @@ When the characters first enter the casino's rotunda lobby, read or paraphrase t
 > A winged tiefling soars above the spectacle. Patches of multicolored scales freckle her skin, and her prim tailcoat shimmers with every hue.
 ^40a
 
-The winged tiefling is [[4. World Almanac/NPCs/Windfall.md\|Windfall]], a champion of Tiamat and the proprietor of the Red Belvedere (see the accompanying stat block). A performer at heart, Windfall is ostentatious and charismatic, making small talk with regular patrons and jovially welcoming new faces to the casino.
+The winged tiefling is [[4. World Almanac/NPCs/Windfall (VEOR).md\|Windfall]], a champion of Tiamat and the proprietor of the Red Belvedere (see the accompanying stat block). A performer at heart, Windfall is ostentatious and charismatic, making small talk with regular patrons and jovially welcoming new faces to the casino.
 
 ### Meeting Windfall
 
-As a dedicated champion of Tiamat, [[4. World Almanac/NPCs/Windfall.md\|Windfall]] has been granted phenomenal power by her master. Her skin glitters with patches of multicolored scales, and in combat, her blade sings with all five of the chromatic dragons' elements. Windfall's enchanted tailcoat shimmers with the colors of the Dragon Queen, and she uses this coat to dazzle patrons and enemies alike.
+As a dedicated champion of Tiamat, [[4. World Almanac/NPCs/Windfall (VEOR).md\|Windfall]] has been granted phenomenal power by her master. Her skin glitters with patches of multicolored scales, and in combat, her blade sings with all five of the chromatic dragons' elements. Windfall's enchanted tailcoat shimmers with the colors of the Dragon Queen, and she uses this coat to dazzle patrons and enemies alike.
 
 When the characters arrive at the Red Belvedere, Windfall introduces herself and answers any questions the characters have about the Red Belvedere. She provides the following information:
 
 - **Casino.** The Red Belvedere is a decadent respite from the Blood War's horrors. Here, adventurers and devils alike can indulge in their vices in five different rooms, each with its own theme.  
 - **Currency.** The Red Belvedere has its own in-house currency (see the "Casino Currency" section). Both gold and Soul Coins can be traded for in-house currency at the exchange desk in the lobby.  
 - **Dragon Queen Dedication.** The casino is dedicated to Tiamat to celebrate the Dragon Queen's avarice and pride. Those who don't worship Tiamat are also welcome to partake in the casino's offerings.  
-- **Rod Piece.** If the characters mention the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]], Windfall artfully dodges the topic. She claims that while the casino has been visited by several high-profile adventurers and scholars, she hasn't seen anything matching the rod piece's description. In truth, Windfall knows exactly where the final piece of the rod is: her private sanctum, adjacent to Tiamat's lair. A character who succeeds on a DC 32 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check discerns only that Windfall is concealing information.  
+- **Rod Piece.** If the characters mention the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], Windfall artfully dodges the topic. She claims that while the casino has been visited by several high-profile adventurers and scholars, she hasn't seen anything matching the rod piece's description. In truth, Windfall knows exactly where the final piece of the rod is: her private sanctum, adjacent to Tiamat's lair. A character who succeeds on a DC 32 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check discerns only that Windfall is concealing information.  
 
 ### Where's the Rod Piece?
 
 While inside the Red Belvedere, the character holding the sixth rod piece can determine that the seventh piece is located on the casino's premises one floor down.
 
-The final piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] is held in Windfall's sanctum within the casino's exclusive club, Dragon's Pride. Only those personally invited by Windfall or one of the casino's pit masters are allowed inside Dragon's Pride.
+The final piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] is held in Windfall's sanctum within the casino's exclusive club, Dragon's Pride. Only those personally invited by Windfall or one of the casino's pit masters are allowed inside Dragon's Pride.
 
 If the characters ask her for permission to enter Dragon's Pride, Windfall scoffs and says they'll need to ingratiate themselves to a pit master to gain access to the exclusive area. It amuses the tiefling to watch the characters try to gain favor with at least one of the casino's pit masters (see the "Casino Pit Masters" section). Windfall is certain the characters will never convince the pit masters to let them into Dragon's Pride.
 
@@ -237,7 +237,7 @@ The Red Belvedere uses a special type of in-house currency known as a talon. An 
 
 A talon looks like an iridescent metal coin stamped with the silhouette of a dragon's claw on both sides. Since the Red Belvedere is dedicated to Tiamat, each talon is imbued with a mote of the Dragon Queen's power. Carrying and exchanging talons bear unpleasant consequences:
 
-- **Curse.** A creature that carries any number of talons is cursed. While cursed in this way, the creature has disadvantage on Intelligence and Wisdom saving throws as its mind is clouded by jealous and selfish thoughts. The curse ends on an affected creature only when the creature no longer holds any talons. A [[5. Mechanics/Spells/Remove Curse.md\|Remove Curse]] spell or similar magic suppresses the curse's effects for 1 hour. When the curse ends on a creature, that creature must succeed on a DC 18 Constitution saving throw or gain 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], as the rampant avarice takes a physical toll.  
+- **Curse.** A creature that carries any number of talons is cursed. While cursed in this way, the creature has disadvantage on Intelligence and Wisdom saving throws as its mind is clouded by jealous and selfish thoughts. The curse ends on an affected creature only when the creature no longer holds any talons. A [[5. Mechanics/Spells/Remove Curse.md\|Remove Curse]] spell or similar magic suppresses the curse's effects for 1 hour. When the curse ends on a creature, that creature must succeed on a DC 18 Constitution saving throw or gain 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]], as the rampant avarice takes a physical toll.  
 
 #### Soul Coins
 
@@ -261,7 +261,7 @@ An evil creature can carry as many *Soul Coins* as it wishes (up to its maximum 
 
 A Soul Coin has 3 charges. A creature carrying the coin can use its action to expend 1 charge from a Soul Coin and do one of the following:
 
-- **Drain Life.** You siphon away some of the soul's essence and gain `dice: 1d10|avg|noform` (`1d10`) "temporary hit points".  
+- **Drain Life.** You siphon away some of the soul's essence and gain `dice:1d10|noform|avg` (`1d10`) "temporary hit points".  
 - **Query.** You telepathically ask the soul a question and receive a brief telepathic response, which you can always understand. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.  
 
 ##### Freeing a Soul
@@ -305,7 +305,7 @@ Kaylan desires to feed off as many Soul Coins as he can. The characters can give
 
 *Master of the Scarlet Coliseum*
 
-Khai is a boisterous [[5. Mechanics/Bestiary/Fiend/Red Abishai.md\|red abishai]] (see appendix A) and the master of the casino's fighting pit. He relishes bloodshed, and his laughter booms over the gore-stained arena. Khai fancies himself the strongest of the pit masters, and he chafes under Windfall's leadership. Khai dedicates every death in the coliseum to Tiamat.
+Khai is a boisterous [[5. Mechanics/Bestiary/Fiend/Red Abishai (MPMM).md\|red abishai]] (see appendix A) and the master of the casino's fighting pit. He relishes bloodshed, and his laughter booms over the gore-stained arena. Khai fancies himself the strongest of the pit masters, and he chafes under Windfall's leadership. Khai dedicates every death in the coliseum to Tiamat.
 
 ##### Gaining Khai's Favor
 
@@ -317,7 +317,7 @@ Khai prizes battle prowess above all else. Should the characters win three match
 
 *Master of the Cerulean Hall*
 
-A stoic and haughty [[5. Mechanics/Bestiary/Fiend/Blue Abishai.md\|blue abishai]] (see appendix A), Nyssa serves as the master of the casino's games of strategy and intellect. Nyssa prides herself on being an unbeatable foe in battles of wit. However, Nyssa doesn't hesitate to resort to underhanded methods to achieve victory, citing her opponent's inability to notice her cheating as a failure of intellect.
+A stoic and haughty [[5. Mechanics/Bestiary/Fiend/Blue Abishai (MPMM).md\|blue abishai]] (see appendix A), Nyssa serves as the master of the casino's games of strategy and intellect. Nyssa prides herself on being an unbeatable foe in battles of wit. However, Nyssa doesn't hesitate to resort to underhanded methods to achieve victory, citing her opponent's inability to notice her cheating as a failure of intellect.
 
 ##### Gaining Nyssa's Favor
 
@@ -327,7 +327,7 @@ Nyssa admires those who are extremely clever and observant. See the "Cerulean Ha
 
 *Master of the Viridian Den*
 
-Rezran, a greedy [[5. Mechanics/Bestiary/Fiend/Green Abishai.md\|green abishai]] (see appendix A), is the master of the casino's games of chance. His nickname "Snake Eyes" comes from his penchant for rolling ones in Triple Hydra (see the "Viridian Den" section for an explanation of the game's rules). Rezran is an opportunist to his core, always chasing after riches. He is a devoted follower of Tiamat and covets the Dragon Queen's amassed wealth.
+Rezran, a greedy [[5. Mechanics/Bestiary/Fiend/Green Abishai (MPMM).md\|green abishai]] (see appendix A), is the master of the casino's games of chance. His nickname "Snake Eyes" comes from his penchant for rolling ones in Triple Hydra (see the "Viridian Den" section for an explanation of the game's rules). Rezran is an opportunist to his core, always chasing after riches. He is a devoted follower of Tiamat and covets the Dragon Queen's amassed wealth.
 
 ##### Gaining Rezran's Favor
 
@@ -360,7 +360,7 @@ The casino's rooms are described in the following sections.
 
 This arena hosts nightmare racing. Audience members can place bets, earning a payout depending on which steeds place in the top two of a given race. Up to six [[5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmares]] race at any given time; those who bet on the first-place steed receive triple their initial bet, and those who bet on the second-place steed receive double their initial bet.
 
-To simulate a race, have each participating character place a bet on a single number from 1 to 6—each number represents a nightmare. Roll a `dice: d6|avg|noform` (`d6`) twice to determine which nightmares win first and second place, respectively. If both rolls are the same number, reroll one die to determine which nightmare wins second place.
+To simulate a race, have each participating character place a bet on a single number from 1 to 6—each number represents a nightmare. Roll a `dice:d6|noform|avg` (`d6`) twice to determine which nightmares win first and second place, respectively. If both rolls are the same number, reroll one die to determine which nightmare wins second place.
 
 #### To Cheat or Not to Cheat
 
@@ -402,7 +402,7 @@ Successfully slipping the [[5. Mechanics/Items/Potion Of Speed.md\|Potion of Spe
 
 - **Step 1.** One or more characters must successfully sneak into the stables.  
 - **Step 2.** After locating Sunshroud's stall, a character must succeed on a DC 25 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check to pour the potion into the feed bucket. On a failed check, Sunshroud and its jockey notice the character and make a ruckus, attracting the attention of the pit fiend.  
-- **Step 3.** The potion reacts with the offal in the nightmare's feed bucket, causing a cloud of toxic gas to erupt. Characters within 5 feet of the feed bucket must succeed on a DC 20 Constitution saving throw or have the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] condition for 1 hour. On a failed saving throw, the character's coughing also alerts the pit fiend.  
+- **Step 3.** The potion reacts with the offal in the nightmare's feed bucket, causing a cloud of toxic gas to erupt. Characters within 5 feet of the feed bucket must succeed on a DC 20 Constitution saving throw or have the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition for 1 hour. On a failed saving throw, the character's coughing also alerts the pit fiend.  
 - **Step 4.** The characters must successfully sneak out of the stables.  
 
 If a character executes all four steps without attracting the attention of the pit fiend, Sunshroud consumes the [[5. Mechanics/Items/Potion Of Speed.md\|Potion of Speed]] and wins handily.
@@ -447,9 +447,9 @@ For NPC participants, the following table shows the average bet and skill modifi
 
 | Section Level | Average Bet | Modifier |
 |---------------|-------------|----------|
-| Amateur | 17 (`dice: 1d4 + 15\|avg\|noform` (`1d4 + 15`)) talons | +4 |
-| Intermediate | 20 (`dice: 2d4 + 15\|avg\|noform` (`2d4 + 15`)) talons | +8 |
-| Expert | 25 (`dice: 4d4 + 15\|avg\|noform` (`4d4 + 15`)) talons | +12 |
+| Amateur | 17 (`dice:1d4+15\|noform\|avg` (`1d4 + 15`)) talons | +4 |
+| Intermediate | 20 (`dice:2d4+15\|noform\|avg` (`2d4 + 15`)) talons | +8 |
+| Expert | 25 (`dice:4d4+15\|noform\|avg` (`4d4 + 15`)) talons | +12 |
 ^cerulean-hall-betting
 
 #### A Contest of Wits
@@ -562,7 +562,7 @@ Before the characters explore the maze, have them designate a leader. If a chara
 | dice: d10 | Chamber |
 |-----------|---------|
 | 1–3 | A simple table sits at the center of this chamber. On the table are two [[5. Mechanics/Items/Potion Of Greater Healing.md\|Potions of Healing (greater)]] and a bag of 30 talons. |
-| 4–6 | This chamber contains a gurgling pool of turquoise water. A creature that spends 1 minute bathing in the pool gains `dice: 2d10\|avg\|noform` (`2d10`) temporary hit points. |
+| 4–6 | This chamber contains a gurgling pool of turquoise water. A creature that spends 1 minute bathing in the pool gains `dice:2d10\|noform\|avg` (`2d10`) temporary hit points. |
 | 7–8 | Planters filled with sweet-smelling flowers line this room. At the center of the room is an unlocked wooden chest containing 75 talons. |
 | 9 | This chamber contains a locked iron chest. A character can open the chest with a successful DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check using thieves' tools, or it can be forced open with a successful DC 17 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. A [[5. Mechanics/Spells/Knock.md\|Knock]] spell or similar magic also opens the chest. Inside the chest are 100 talons and three Soul Coins. |
 | 10 | One of this room's walls has a simple stone doorway, which leads out of the maze and returns the characters to the maze lobby. |
@@ -575,7 +575,7 @@ Before the characters explore the maze, have them designate a leader. If a chara
 | dice: d10 | Chamber |
 |-----------|---------|
 | 1–3 | Five [[5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimics]], all disguised as treasure chests, occupy this room. Disturbing one mimic causes them all to attack. |
-| 4–6 | This room is filled with 1-foot-deep water. A thin wooden plank spans the water, connecting the room's entrance and exit. A creature crossing the plank must succeed on a DC 17 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check or fall into the water. The first time a creature touches the water, three [[5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elementals]] appear and attack. |
+| 4–6 | This room is filled with 1-foot-deep water. A thin wooden plank spans the water, connecting the room's entrance and exit. A creature crossing the plank must succeed on a DC 17 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check or fall into the water. The first time a creature touches the water, three [[5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elementals]] appear and attack. |
 | 7–8 | A hostile but sleeping [[5. Mechanics/Bestiary/Monstrosity/Behir.md\|behir]] lies curled around a chest. A creature that approaches the behir must succeed on a DC 16 Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check to avoid being noticed. The chest is unlocked and contains 50 talons and one Soul Coin. |
 | 9 | A large vase filled with 100 talons sits in the center of the room. The vase is guarded by three [[5. Mechanics/Bestiary/Elemental/Invisible Stalker.md\|invisible stalkers]], which attack any creature that touches the vessel. |
 | 10 | A hostile [[5. Mechanics/Bestiary/Construct/Iron Golem.md\|iron golem]] patrols this room and immediately attacks intruders. If the golem is destroyed, a character who searches the golem's remains finds three Soul Coins. |
@@ -604,11 +604,11 @@ This card game has a minimum bet of 20 talons, which goes into a pot at the cent
 
 At the start of the game, the croupier deals each participant a pair of cards. The croupier draws three cards to lay face up next to the pot; these cards are up for auction. Participants bid on the auction cards, and the participant with the highest bid wins the card and adds their bid to the pot. Once all three auction cards have been sold, all participants reveal their hands, and the highest-ranking hand wins the whole pot.
 
-To simulate play of this game, have each participant roll `dice: 2d12|avg|noform` (`2d12`) in secret. Then, roll `dice: 3d12|avg|noform` (`3d12`) and show the numbers rolled—these represent the auction cards. On winning a bid, the participant can add the number rolled on the die won to their total roll. At the end of the game, the participant with the highest total wins. If the highest totals are tied, no one wins.
+To simulate play of this game, have each participant roll `dice:2d12|noform|avg` (`2d12`) in secret. Then, roll `dice:3d12|noform|avg` (`3d12`) and show the numbers rolled—these represent the auction cards. On winning a bid, the participant can add the number rolled on the die won to their total roll. At the end of the game, the participant with the highest total wins. If the highest totals are tied, no one wins.
 
 ##### Triple Hydra
 
-The minimum bet for this game is 25 talons. In this dice game, each participant rolls `dice: 3d6|avg|noform` (`3d6`). If the participant rolls none of the same number, the participant wins nothing. If the participant rolls two of the same number, the participant wins an amount equal to twice their starting bet. If the participant rolls three of the same number, the participant wins an amount equal to triple their starting bet.
+The minimum bet for this game is 25 talons. In this dice game, each participant rolls `dice:3d6|noform|avg` (`3d6`). If the participant rolls none of the same number, the participant wins nothing. If the participant rolls two of the same number, the participant wins an amount equal to twice their starting bet. If the participant rolls three of the same number, the participant wins an amount equal to triple their starting bet.
 
 If a participant rolls two or more 1s, this roll is called snake eyes. In addition to the normal payout, a participant who rolls snake eyes also gets an additional payout equal to their starting bet.
 
@@ -616,7 +616,7 @@ If a participant rolls two or more 1s, this roll is called snake eyes. In additi
 
 Occupying the lower floor of the Red Belvedere, Dragon's Pride is an exclusive club reserved for the casino's most valued patrons. Here, club members can spend talons on opulent jewelry, refreshing cocktails, and rejuvenating spa treatments.
 
-This floor is also home to the casino proprietor's office, which connects to a hidden sanctum used to communicate directly with Tiamat. Within this sanctum, Windfall keeps the final piece of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]], hoping to amplify the rod's ability to cast [[5. Mechanics/Spells/Simulacrum.md\|Simulacrum]] with Tiamat's power and re-create her master's beloved lost creation: Sardior, the ruby dragon.
+This floor is also home to the casino proprietor's office, which connects to a hidden sanctum used to communicate directly with Tiamat. Within this sanctum, Windfall keeps the final piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], hoping to amplify the rod's ability to cast [[5. Mechanics/Spells/Simulacrum.md\|Simulacrum]] with Tiamat's power and re-create her master's beloved lost creation: Sardior, the ruby dragon.
 
 ### Entering Dragon's Pride
 
@@ -649,7 +649,7 @@ A [[5. Mechanics/Bestiary/Fiend/Pit Fiend.md\|pit fiend]] stands guard in each r
 
 #### Wards
 
-Magical wards surround Dragon's Pride. If a creature without the club's mark attempts to teleport into Dragon's Pride, the creature takes `dice:6d10|text(33)` (`6d10`) psychic damage, and the attempt fails.
+Magical wards surround Dragon's Pride. If a creature without the club's mark attempts to teleport into Dragon's Pride, the creature takes `dice:6d10|noform|avg|text(33)` (`6d10`) psychic damage, and the attempt fails.
 
 ### Dragon's Pride Locations
 
@@ -666,7 +666,7 @@ The areas of Dragon's Pride are keyed to map 8.4.
 > Lavish couches surround low tables in this dimly lit lounge. At the center of the room is a circular bar. Liquor bottles on shelves flash colors in time with faintly playing jazz, while a frost-blue devil pours drinks behind the bar.
 ^450
 
-The bartender is an [[5. Mechanics/Bestiary/Fiend/Ice Devil.md\|ice devil]] named Oganath, who uses its frigid claws to instantly chill the drinks it serves. At any given time, `dice: 2d4|avg|noform` (`2d4`) [[5. Mechanics/Bestiary/Fiend/Horned Devil.md\|horned devils]] relax in the lounge.
+The bartender is an [[5. Mechanics/Bestiary/Fiend/Ice Devil.md\|ice devil]] named Oganath, who uses its frigid claws to instantly chill the drinks it serves. At any given time, `dice:2d4|noform|avg` (`2d4`) [[5. Mechanics/Bestiary/Fiend/Horned Devil.md\|horned devils]] relax in the lounge.
 
 ##### Oganath's Cocktails
 
@@ -706,14 +706,14 @@ Any magic item created by Krysocol bears the following additional effect, which 
 
 The spa is run by two [[5. Mechanics/Bestiary/Fiend/Erinyes.md\|erinyes]] named Vitia and Vertu. They offer two services:
 
-- **Brimstone Springs (Costs 100 Talons).** This service takes 1 hour and includes a relaxing hot spring bath and massage. A creature who partakes in this service gains `dice: 4d10 + 4|avg|noform` (`4d10 + 4`) "temporary hit points" in addition to the benefits of a short rest.  
-- **Luxe Reawakening (Costs 450 Talons).** This rejuvenating service takes 3 hours. A creature who partakes in this service gains `dice: 6d10 + 6|avg|noform` (`6d10 + 6`) "temporary hit points" in addition to the benefits of a long rest.  
+- **Brimstone Springs (Costs 100 Talons).** This service takes 1 hour and includes a relaxing hot spring bath and massage. A creature who partakes in this service gains `dice:4d10+4|noform|avg` (`4d10 + 4`) "temporary hit points" in addition to the benefits of a short rest.  
+- **Luxe Reawakening (Costs 450 Talons).** This rejuvenating service takes 3 hours. A creature who partakes in this service gains `dice:6d10+6|noform|avg` (`6d10 + 6`) "temporary hit points" in addition to the benefits of a long rest.  
 
 #### N4: Windfall's Office
 
 The door to the office is locked and guarded by two [[5. Mechanics/Bestiary/Fiend/Pit Fiend.md\|pit fiends]]. Each pit fiend standing guard also carries a key to the office door for emergency purposes. Opening the door without the proper key requires thieves' tools and a successful DC 20 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check, or a [[5. Mechanics/Spells/Knock.md\|Knock]] spell or similar magic.
 
-If the office door is opened by any means other than the key, its trap activates, spraying colorless poisonous gas in a 15-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or take `dice:4d8|text(18)` (`4d8`) poison damage. This trap can't be disarmed.
+If the office door is opened by any means other than the key, its trap activates, spraying colorless poisonous gas in a 15-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or take `dice:4d8|noform|avg|text(18)` (`4d8`) poison damage. This trap can't be disarmed.
 
 The office's interior is devoid of occupants. When the characters venture inside, read the following:
 
@@ -726,7 +726,7 @@ The desk is covered with notes about magical constructs, as well as religious an
 
 - **The First World.** Tiamat worked alongside the platinum dragon Bahamut to shape the Material Plane in the form of a single First World. An unknown cataclysm sundered this First World, resulting in the numerous universes now occupying the Material Plane.  
 - **The Ruby Dragon.** While creating the First World, Bahamut and Tiamat also created Sardior, a dragon with ruby scales. Sardior was destroyed in the sundering of the First World.  
-- **The Simulacrum Project.** Windfall acquired the [[5. Mechanics/Items/Rod Of Seven Parts.md\|seventh piece]] of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]] some time ago. She used it to create an image of Sardior, who she believes resembled a red dragon. Windfall hopes to find a way to use the rod piece to bring the image to life.  
+- **The Simulacrum Project.** Windfall acquired the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|seventh piece]] of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] some time ago. She used it to create an image of Sardior, who she believes resembled a red dragon. Windfall hopes to find a way to use the rod piece to bring the image to life.  
 
 ##### Secret Entrance
 
@@ -747,9 +747,9 @@ Most of the items in Windfall's office are lavish but mundane and too big to tra
 > A stalagmite rises from the floor in the center of the room. A similarly sized stalactite hangs from the ceiling directly above it. The space between the two is occupied by a crystalline rod piece pulsing with energy. The piece projects the holographic image of a sleeping red dragon. Windfall stands near the projection, watching it intently.
 ^45c
 
-The ceilings in this chamber are 45 feet high. [[4. World Almanac/NPCs/Windfall.md\|Windfall]] is hostile to trespassers in the sanctum.
+The ceilings in this chamber are 45 feet high. [[4. World Almanac/NPCs/Windfall (VEOR).md\|Windfall]] is hostile to trespassers in the sanctum.
 
-The crystalline object floating between the stalagmite and stalactite is the [[5. Mechanics/Items/Rod Of Seven Parts.md\|final piece]] of the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]]. Attempting to remove the rod piece from its position immediately causes the image of the dragon to disappear, prompting Windfall to attack.
+The crystalline object floating between the stalagmite and stalactite is the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|final piece]] of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. Attempting to remove the rod piece from its position immediately causes the image of the dragon to disappear, prompting Windfall to attack.
 
 ##### Draconic Intervention
 
@@ -760,13 +760,13 @@ When Windfall is first reduced to 0 hit points, multicolored light surrounds her
 > "Upstart insects! Who dares make a racket outside my lair? Who dares interrupt the musings of the Dragon Queen?"
 ^45e
 
-The facets of the sanctum's walls reflect images of Tiamat's eyes as she talks. Windfall regains 300 hit points but has the [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] condition due to Tiamat's magic as the Dragon Queen speaks to the characters directly.
+The facets of the sanctum's walls reflect images of Tiamat's eyes as she talks. Windfall regains 300 hit points but has the [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] condition due to Tiamat's magic as the Dragon Queen speaks to the characters directly.
 
 ##### Retrieving the Rod Piece
 
 If the characters inform Tiamat of Vecna's plot, Tiamat growls in disdain before grudgingly allowing the characters to leave with the final piece of the rod. She explains that the Material Plane is partly her creation—and she refuses to let an overzealous archlich unmake it. The Dragon Queen then commands the characters to leave the casino at once.
 
-Otherwise, Tiamat releases Windfall from her magical restraints, instructs the tiefling to eradicate the party, and leaves to commune with her other champions. Only after Windfall is defeated can the characters acquire the final piece of the rod. For more about the [[5. Mechanics/Items/Rod Of Seven Parts.md\|Rod of Seven Parts]], see this book's introduction.
+Otherwise, Tiamat releases Windfall from her magical restraints, instructs the tiefling to eradicate the party, and leaves to commune with her other champions. Only after Windfall is defeated can the characters acquire the final piece of the rod. For more about the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], see this book's introduction.
 
 ##### To Tiamat's Lair
 

@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/phb
-  - item/property/light
-  - item/property/thrown
-  - item/weapon/simple/melee
+  - item/rarity/none
+  - item/weapon/melee
+  - item/weapon/simple
 aliases:
   - Handaxe
 cost: 500
@@ -13,7 +13,7 @@ one-hand-damage: 1d6 S
 range: 20/60
 ---
 # Handaxe
-*Melee Weapon*  
+*Weapon*  
 
 - **Damage**: 1d6 S
 - **Range**: 20/60
@@ -21,4 +21,4 @@ range: 20/60
 - **Cost**: 5 gp
 - **Weight**: 2.0 lbs.
 
-*Source: Player's Handbook p. 149. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

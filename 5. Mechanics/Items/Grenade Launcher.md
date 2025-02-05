@@ -3,12 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - compendium/src/5e/dmg
-  - item/gear
+  - item/age/modern
+  - item/gear/
+  - item/rarity/none
 aliases:
   - Grenade Launcher
 ---
 # Grenade Launcher
-*Adventuring Gear*  
+*Adventuring gear*  
 
 - **Weight**: 7.0 lbs.
 

@@ -3,9 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/druid
-  - spell/level/4
+  - spell/level/4th-level
   - spell/school/transmutation
+  - spell/subclass/circle-of-the-grove
+  - spell/subclass/hedge-mage
+level: 4th-level
+range: false
+school: Transmutation
+time: 1 action
+duration: 'Concentration, up to 10 minute'
+components: 'V, S'
 aliases:
   - Giant Insect
 ---
@@ -25,6 +34,6 @@ A creature remains in its giant size for the duration, until it drops to 0 hit p
 
 The DM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a [[5. Mechanics/Bestiary/Beast/Giant Wasp.md\|giant wasp]].
 
-**Classes**: [[5. Mechanics/Classes/Druid.md\|Druid]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Druid Circle Of The Grove (GRIFFONSSADDLEBAG3)\|Druid (Circle of the Grove)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]
 
-*Source: Player's Handbook p. 245. Available in the SRD.*
+*Source: Player's Handbook p. 245. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

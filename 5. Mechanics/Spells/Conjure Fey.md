@@ -3,10 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/druid
   - spell/class/warlock
-  - spell/level/6
+  - spell/level/6th-level
   - spell/school/conjuration
+  - spell/subclass/hedge-mage
+level: 6th-level
+range: false
+school: Conjuration
+time: 1 minute
+duration: 'Concentration, up to 1 hour'
+components: 'V, S'
 aliases:
   - Conjure Fey
 ---
@@ -22,12 +30,12 @@ You summon a fey creature of challenge rating 6 or lower, or a fey spirit that t
 
 The fey creature is friendly to you and your companions for the duration. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don't violate its alignment. If you don't issue any commands to the fey creature, it defends itself from hostile creatures but otherwise takes no actions.
 
-If your [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] is broken, the fey creature doesn't disappear. Instead, you lose control of the fey creature, it becomes hostile toward you and your companions, and it might attack. An uncontrolled fey creature can't be dismissed by you, and it disappears 1 hour after you summoned it.
+If your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] is broken, the fey creature doesn't disappear. Instead, you lose control of the fey creature, it becomes hostile toward you and your companions, and it might attack. An uncontrolled fey creature can't be dismissed by you, and it disappears 1 hour after you summoned it.
 
 The DM has the fey creature's statistics.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th.
 
-**Classes**: [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Warlock.md\|Warlock]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]
 
-*Source: Player's Handbook p. 226. Available in the SRD.*
+*Source: Player's Handbook p. 226. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: underdark
+size: Tiny
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/underdark
   - monster/size/tiny
   - monster/type/aberration
-statblock: inline
 aliases:
   - Intellect Devourer
 ---
-# [[5. Mechanics/Bestiary/Aberration/Intellect Devourer.md|Intellect Devourer]]
-*Source: Monster Manual p. 191, Eberron: Rising from the Last War*
+# [[5. Mechanics\Bestiary\Aberration\Intellect Devourer.md|Intellect Devourer]]
+*Source: Monster Manual p. 191*
 
 An intellect devourer resembles a walking brain protected by a crusty covering and set on bestial clawed legs. This foul aberration feeds on the intelligence of sentient creatures, taking over a victim's body on behalf of its mind flayer masters.
 
@@ -24,7 +27,7 @@ Mind flayers breed intellect devourers to serve as roaming hunters of the Underd
 
 An intellect devourer consumes a creature's mind and memories, then turns the host body into a puppet under its control. An intellect devourer typically uses its puppet host to lure others into the domain of the mind flayers to be enthralled or consumed.
 
-> [!quote]- A quote from Qorik el-Slurrk, mind flayer  
+> [!quote] A quote from Qorik el-Slurrk, mind flayer  
 > 
 > Don't cry. We have no intention of eating your brain. In fact, your brain is going on a wonderful journey!
 
@@ -49,7 +52,7 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
   "Stealth": !!int "4"
   "Perception": !!int "2"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 12"
 "languages": "understands Deep Speech but can't speak, telepathy 60 ft."
 "cr": "2"
@@ -70,10 +73,10 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
     \ it that has a brain. The target must succeed on a DC 12 Intelligence saving\
     \ throw against this magic or take 11 (2d10) psychic damage. Also on a failure,\
     \ roll 3d6: If the total equals or exceeds the target's Intelligence score, that\
-    \ score is reduced to 0. The target is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ score is reduced to 0. The target is [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
     \ until it regains at least one point of Intelligence."
   "name": "Devour Intellect"
-- "desc": "The intellect devourer initiates an Intelligence contest with an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+- "desc": "The intellect devourer initiates an Intelligence contest with an [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
     \ humanoid within 5 feet of it that isn't protected by [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and\
     \ good]]. If it wins the contest,\
     \ the intellect devourer magically consumes the target's brain, teleports into\
@@ -92,10 +95,6 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
   "name": "Body Thief"
 "source":
 - "MM"
-- "WDH"
-- "WDMM"
-- "ERLW"
-- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Aberration/token/intellect-devourer.webp"
 ```
 ^statblock

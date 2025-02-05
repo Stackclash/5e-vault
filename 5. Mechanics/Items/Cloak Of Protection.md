@@ -6,15 +6,14 @@ tags:
   - item/attunement/required
   - item/rarity/uncommon
   - item/tier/major
-  - item/wondrous
 aliases:
   - Cloak of Protection
 ---
 # Cloak of Protection
-*Wondrous Item, major, uncommon (requires attunement)*  
+*Wondrous item, major, uncommon (requires attunement)*  
 ![[5. Mechanics/Items/img/cloak-of-protection.webp#right]]  
 
 
 You gain a +1 bonus to AC and saving throws while you wear this cloak.
 
-*Source: Dungeon Master's Guide p. 159. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 159. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

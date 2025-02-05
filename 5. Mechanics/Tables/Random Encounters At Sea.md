@@ -15,8 +15,8 @@ aliases:
 |----------|-----------|
 | 2 | Ghost ship |
 | 3 | Friendly and curious bronze dragon |
-| 4 | Whirlpool (25% chance chance that the whirlpool is a portal to the Elemental Plane of Water) |
-| 5 | [[5. Mechanics/Bestiary/Humanoid/Merfolk.md\|Merfolk]] traders |
+| 4 | Whirlpool (25 percent chance that the whirlpool is a portal to the Elemental Plane of Water) |
+| 5 | [[5. Mechanics/Bestiary/Humanoid/Merfo(LK).md\|Merfolk]] traders |
 | 6 | Passing warship (friendly or hostile) |
 | 7-8 | Pirate ship (hostile) |
 | 9-10 | Passing merchant ship (galley or sailing ship) |

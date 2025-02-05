@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: underdark
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/humanoid/grimlock
-statblock: inline
 aliases:
   - Grimlock
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Grimlock.md|Grimlock]]
-*Source: Monster Manual p. 175, Vecna: Eve of Ruin. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Humanoid\Grimlock.md|Grimlock]]
+*Source: Monster Manual p. 175, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The degenerate subterranean grimlocks were once human, but their worship of the mind flayers over generations of prowling the Underdark transformed them into blind, monstrous cannibals long ago.
 
@@ -55,13 +58,13 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
   "Athletics": !!int "5"
   "Stealth": !!int "3"
   "Perception": !!int "3"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]"
 "senses": "blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius),\
   \ passive Perception 13"
 "languages": "Undercommon"
 "cr": "1/4"
 "traits":
-- "desc": "The grimlock can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]\
+- "desc": "The grimlock can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]\
     \ and unable to smell."
   "name": "Blind Senses"
 - "desc": "The grimlock has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
@@ -76,9 +79,6 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
   "name": "Spiked Bone Club"
 "source":
 - "MM"
-- "WDMM"
-- "PaBTSO"
-- "GHLoE"
 - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/grimlock.webp"
 ```

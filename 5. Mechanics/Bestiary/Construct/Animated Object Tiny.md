@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: null
+environments: null
+size: Tiny
 tags:
   - compendium/src/5e/phb
   - monster/cr/
   - monster/size/tiny
   - monster/type/construct
-statblock: inline
 aliases:
   - Animated Object (Tiny)
 ---
-# [[5. Mechanics/Bestiary/Construct/Animated Object Tiny.md|Animated Object (Tiny)]]
+# [[5. Mechanics\Bestiary\Construct\Animated Object Tiny.md|Animated Object (Tiny)]]
 *Source: Player's Handbook p. 213*
 
 ```statblock

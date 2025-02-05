@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/4
+environments: urban
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/urban
   - monster/size/small
   - monster/type/elemental
-statblock: inline
 aliases:
   - Smoke Mephit
 ---
-# [[5. Mechanics/Bestiary/Elemental/Smoke Mephit.md|Smoke Mephit]]
+# [[5. Mechanics\Bestiary\Elemental\Smoke Mephit.md|Smoke Mephit]]
 *Source: Monster Manual p. 217, Curse of Strahd*
 
 ## Mephits
@@ -48,7 +51,7 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
   "Stealth": !!int "4"
   "Perception": !!int "2"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Auran, Ignan"
 "cr": "1/4"
@@ -66,18 +69,12 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
     \ + 2) slashing damage."
   "name": "Claws"
 - "desc": "The mephit exhales a 15-foot cone of smoldering ash. Each creature in that\
-    \ area must succeed on a DC 10 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ area must succeed on a DC 10 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
     \ until the end of the mephit's next turn."
   "name": "Cinder Breath (Recharge 6)"
 "source":
 - "MM"
 - "CoS"
-- "PotA"
-- "SKT"
-- "ToA"
-- "WDMM"
-- "KftGV"
-- "ToFW"
 "image": "5. Mechanics/Bestiary/Elemental/token/smoke-mephit.webp"
 ```
 ^statblock

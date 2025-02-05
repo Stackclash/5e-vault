@@ -8,7 +8,7 @@ aliases:
   - Elf
 ---
 # Elf
-*Source: Player's Handbook p. 21. Available in the SRD and the Basic Rules.*  
+*Source: Player's Handbook p. 21. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 ![[5. Mechanics/Races/img/elf.webp#right]]  
 
 - **Ability Scores**: Dexterity +2
@@ -35,7 +35,7 @@ You have proficiency in the [[/5. Mechanics/Rules/Skills.md#Perception\|Percepti
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and magic can't put you to sleep.
+You have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], and magic can't put you to sleep.
 
 ### Trance
 

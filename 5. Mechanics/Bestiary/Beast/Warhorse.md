@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: urban
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
   - monster/environment/urban
   - monster/size/large
   - monster/type/beast
-statblock: inline
 aliases:
   - Warhorse
 ---
-# [[5. Mechanics/Bestiary/Beast/Warhorse.md|Warhorse]]
-*Source: Monster Manual p. 340, Curse of Strahd. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Beast\Warhorse.md|Warhorse]]
+*Source: Monster Manual p. 340, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Warhorse"
@@ -36,8 +39,8 @@ aliases:
 "traits":
 - "desc": "If the horse moves at least 20 feet straight toward a creature and then\
     \ hits it with a hooves attack on the same turn, that target must succeed on a\
-    \ DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the horse can\
+    \ DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], the horse can\
     \ make another attack with its hooves against it as a bonus action."
   "name": "Trampling Charge"
 "actions":
@@ -47,15 +50,6 @@ aliases:
 "source":
 - "MM"
 - "CoS"
-- "PotA"
-- "RoT"
-- "SKT"
-- "ToA"
-- "BGDIA"
-- "EGW"
-- "CRCotN"
-- "DSotDQ"
-- "DoDk"
 "image": "5. Mechanics/Bestiary/Beast/token/warhorse.webp"
 ```
 ^statblock

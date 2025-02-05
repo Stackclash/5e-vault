@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 2
+environments: 'grassland, forest'
+size: Large
 tags:
   - compendium/src/5e/mm
   - monster/cr/2
@@ -8,12 +12,11 @@ tags:
   - monster/environment/grassland
   - monster/size/large
   - monster/type/monstrosity
-statblock: inline
 aliases:
   - Ankheg
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Ankheg.md|Ankheg]]
-*Source: Monster Manual p. 21. Available in the SRD.*
+# [[5. Mechanics\Bestiary\Monstrosity\Ankheg.md|Ankheg]]
+*Source: Monster Manual p. 21. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 An ankheg resembles an enormous many-legged insect, its long antennae twitching in response to any movement around it. Its legs end in sharp hooks adapted for burrowing and grasping its prey, and its powerful mandibles can snap a small tree in half.
 
@@ -52,26 +55,18 @@ As it burrows through earth, the ankheg leaves a narrow, partially collapsed tun
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
     \ + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller\
-    \ creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
-    \ DC 13). Until this grapple ends, the ankheg can bite only the [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ creature, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape\
+    \ DC 13). Until this grapple ends, the ankheg can bite only the [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
     \ creature and has advantage on attack rolls to do so."
   "name": "Bite"
 - "desc": "The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided\
-    \ that it has no creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]].\
+    \ that it has no creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]].\
     \ Each creature in that line must make a DC 13 Dexterity saving throw, taking\
     \ 10 (3d6) acid damage on a failed save, or half as much damage on a successful\
     \ one."
   "name": "Acid Spray (Recharge 6)"
 "source":
 - "MM"
-- "PotA"
-- "WDH"
-- "GoS"
-- "DIP"
-- "BGDIA"
-- "JttRC"
-- "KftGV"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/ankheg.webp"
 ```
 ^statblock

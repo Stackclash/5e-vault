@@ -6,16 +6,31 @@ tags:
   - spell/class/artificer
   - spell/class/bard
   - spell/class/cleric
-  - spell/class/cleric/nature-domain
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
-  - spell/class/sorcerer/divine-soul
   - spell/class/wizard
+  - spell/feat/artificer-initiate
+  - spell/feat/magic-initiate
+  - spell/feat/wood-elf-magic
   - spell/level/cantrip
+  - spell/optfeature/blessed-warrior
+  - spell/optfeature/druidic-warrior
+  - spell/optfeature/pact-of-the-tome
+  - spell/race/kobold
   - spell/school/transmutation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/divine-soul
+  - spell/subclass/eldritch-knight
+  - spell/subclass/nature-domain
+  - spell/subclass/the-lithic
+  - spell/subrace/elf-high
+level: cantrip
+range: false
+school: Transmutation
+time: 1 minute
+duration: Instantaneous
+components: 'V, S, two lodestones'
 aliases:
   - Mending
 ---
@@ -31,6 +46,6 @@ This spell repairs a single break or tear in an object you touch, such as broken
 
 This spell can physically repair a magic item or construct, but the spell can't restore magic to such an object.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]; [[List Spells Classes Warlock The Lithic (GRIFFONSSADDLEBAG3)\|Warlock (The Lithic)]]
 
-*Source: Player's Handbook p. 259. Available in the SRD.*
+*Source: Player's Handbook p. 259. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

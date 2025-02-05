@@ -4,15 +4,22 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
+  - spell/class/bard
   - spell/class/druid
-  - spell/class/fighter/eldritch-knight
-  - spell/class/monk/way-of-shadow
   - spell/class/ranger
-  - spell/class/rogue/arcane-trickster
   - spell/class/sorcerer
   - spell/class/wizard
-  - spell/level/2
+  - spell/level/2nd-level
   - spell/school/transmutation
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+  - spell/subclass/way-of-shadow
+level: 2nd-level
+range: false
+school: Transmutation
+time: 1 action
+duration: 8 hour
+components: 'V, S, either a pinch of dried carrot or an agate'
 aliases:
   - Darkvision
 ---
@@ -24,8 +31,8 @@ aliases:
 - **Components:** V, S, either a pinch of dried carrot or an agate
 - **Duration:** 8 hour
 
-You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] out to a range of 60 feet.
+You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to a range of 60 feet.
 
-**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Monk Way Of Shadow.md\|Monk (Way of Shadow)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Monk Way Of Shadow\|Monk (Way of Shadow)]]
 
-*Source: Player's Handbook p. 230. Available in the SRD.*
+*Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

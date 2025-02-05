@@ -19,4 +19,4 @@ The region surrounding a vampire's lair is warped by the creature's unnatural pr
 - Shadows cast within 500 feet of the lair seem abnormally gaunt and sometimes move as though alive.  
 - A creeping fog clings to the ground within 500 feet of the vampire's lair. The fog occasionally takes eerie forms, such as grasping claws and writhing serpents.  
 
-If the vampire is destroyed, these effects end after `dice: 2d6|avg|noform` (`2d6`) days.
+If the vampire is destroyed, these effects end after `dice:2d6|noform|avg` (`2d6`) days.

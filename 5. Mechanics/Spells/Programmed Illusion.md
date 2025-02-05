@@ -5,8 +5,14 @@ tags:
   - compendium/src/5e/phb
   - spell/class/bard
   - spell/class/wizard
-  - spell/level/6
+  - spell/level/6th-level
   - spell/school/illusion
+level: 6th-level
+range: false
+school: Illusion
+time: 1 action
+duration: Until dispelled
+components: 'V, S, a bit of fleece and jade dust worth at least 25 gp'
 aliases:
   - Programmed Illusion
 ---
@@ -26,6 +32,6 @@ The triggering condition can be as general or as detailed as you like, though it
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
 
-*Source: Player's Handbook p. 269. Available in the SRD.*
+*Source: Player's Handbook p. 269. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

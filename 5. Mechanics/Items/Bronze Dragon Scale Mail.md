@@ -9,12 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Bronze Dragon Scale Mail
-armorClass: 14 + DEX (max of +2)
+armorClass: 14 + Dex modifier (max of +2)
 ---
 # Bronze Dragon Scale Mail
-*Medium Armor, major, very rare (requires attunement)*  
+*Medium armor, major, very rare (requires attunement)*  
 
-- **Armor Class**: 14 + DEX (max of +2)
+- **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 45.0 lbs.
 
@@ -22,4 +22,4 @@ Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons
 
 Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest bronze dragon within 30 miles of you. This special action can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide p. 165. Available in the SRD.*
+*Source: Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

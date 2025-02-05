@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/2
+environments: forest
+size: Medium
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-2
   - monster/environment/forest
   - monster/size/medium
   - monster/type/fey
-statblock: inline
 aliases:
   - Satyr
 ---
-# [[5. Mechanics/Bestiary/Fey/Satyr.md|Satyr]]
-*Source: Monster Manual p. 267. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Fey\Satyr.md|Satyr]]
+*Source: Monster Manual p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Satyrs are raucous fey that frolic in wild forests, driven by curiosity and hedonism in equal measure.
 
@@ -24,7 +27,7 @@ Satyrs crave the strongest drink, the most fragrant spices, and the most dizzyin
 
 Inebriated on drink and pleasure, satyrs give no thought to the consequences of the hedonism they incite in others. They leave such creatures mystified at their own behavior. Such revelers might have to scrounge for excuses to explain their disordered state to parents, employers, family, or friends.
 
-> [!quote]- A quote from Sonnet of a Naughty Satyr  
+> [!quote] A quote from Sonnet of a Naughty Satyr  
 > 
 > Twixt day and night the spirits goad me on
 > 
@@ -95,14 +98,6 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
   "name": "Shortbow"
 "source":
 - "MM"
-- "SKT"
-- "IMR"
-- "CM"
-- "WBtW"
-- "KftGV"
-- "SatO"
-- "ToFW"
-- "BMT"
 "image": "5. Mechanics/Bestiary/Fey/token/satyr.webp"
 ```
 ^statblock

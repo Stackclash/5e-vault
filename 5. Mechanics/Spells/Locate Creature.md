@@ -5,17 +5,26 @@ tags:
   - compendium/src/5e/phb
   - spell/class/bard
   - spell/class/cleric
-  - spell/class/cleric/order-domain
   - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/eldritch-knight
   - spell/class/paladin
   - spell/class/ranger
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer/divine-soul
   - spell/class/wizard
-  - spell/level/4
+  - spell/level/4th-level
   - spell/school/divination
+  - spell/subclass/arcane-trickster
+  - spell/subclass/cat-domain
+  - spell/subclass/circle-of-the-land
+  - spell/subclass/divine-soul
+  - spell/subclass/eldritch-knight
+  - spell/subclass/harvester-domain
+  - spell/subclass/order-domain
+  - spell/subclass/the-apex-predator
+level: 4th-level
+range: false
+school: Divination
+time: 1 action
+duration: 'Concentration, up to 1 hour'
+components: 'V, S, a bit of fur from a bloodhound'
 aliases:
   - Locate Creature
 ---
@@ -33,6 +42,6 @@ The spell can locate a specific creature known to you, or the nearest creature o
 
 This spell can't locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Order Domain.md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Cleric Cat Domain (KPDM)\|Cleric (Cat Domain)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Harvester Domain (HHHVIII)\|Cleric (Harvester Domain)]]; [[List Spells Classes Cleric Order Domain (TCE)\|Cleric (Order Domain)]]; [[List Spells Classes Warlock The Apex Predator (HHHVIII)\|Warlock (The Apex Predator)]]
 
-*Source: Player's Handbook p. 256. Available in the SRD and the Basic Rules.*
+*Source: Player's Handbook p. 256. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

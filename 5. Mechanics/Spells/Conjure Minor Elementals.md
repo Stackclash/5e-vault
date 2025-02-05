@@ -3,12 +3,22 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
+  - spell/class/bard
   - spell/class/druid
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
   - spell/class/wizard
-  - spell/level/4
+  - spell/level/4th-level
   - spell/school/conjuration
+  - spell/subclass/arcane-trickster
+  - spell/subclass/eldritch-knight
+  - spell/subclass/ocean-domain
+  - spell/subclass/speed-domain
+  - spell/subclass/the-genie-lord
+level: 4th-level
+range: false
+school: Conjuration
+time: 1 minute
+duration: 'Concentration, up to 1 hour'
+components: 'V, S'
 aliases:
   - Conjure Minor Elementals
 ---
@@ -35,6 +45,6 @@ The DM has the creatures' statistics.
 
 **At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 
-**Classes**: [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Ocean Domain (KPDM)\|Cleric (Ocean Domain)]]; [[List Spells Classes Cleric Speed Domain (KPDM)\|Cleric (Speed Domain)]]; [[List Spells Classes Warlock The Genie Lord (KPDM)\|Warlock (The Genie Lord)]]
 
-*Source: Player's Handbook p. 226. Available in the SRD.*
+*Source: Player's Handbook p. 226. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

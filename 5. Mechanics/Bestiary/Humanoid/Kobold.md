@@ -1,6 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-monster
+statblock: inline
+cr: 1/8
+environments: 'forest, swamp, hill, urban, desert, coastal, arctic, mountain, underdark'
+size: Small
 tags:
   - compendium/src/5e/mm
   - monster/cr/1-8
@@ -15,12 +19,11 @@ tags:
   - monster/environment/urban
   - monster/size/small
   - monster/type/humanoid/kobold
-statblock: inline
 aliases:
   - Kobold
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Kobold.md|Kobold]]
-*Source: Monster Manual p. 195, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
+# [[5. Mechanics\Bestiary\Humanoid\Kobold.md|Kobold]]
+*Source: Monster Manual p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
 
@@ -63,7 +66,7 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
   "name": "Sunlight Sensitivity"
 - "desc": "The kobold has advantage on an attack roll against a creature if at least\
     \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
@@ -74,18 +77,6 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
   "name": "Sling"
 "source":
 - "MM"
-- "HotDQ"
-- "RoT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "ERLW"
-- "EGW"
-- "DoSI"
-- "GHLoE"
 "image": "5. Mechanics/Bestiary/Humanoid/token/kobold.webp"
 ```
 ^statblock
