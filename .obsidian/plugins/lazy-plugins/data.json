@@ -96,7 +96,7 @@
         "startupType": "instant"
       },
       "templater-obsidian": {
-        "startupType": "long"
+        "startupType": "instant"
       },
       "obsidian-textgenerator-plugin": {
         "startupType": "long"
