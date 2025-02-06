@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/ranger
-  - spell/level/5th-level
-  - spell/school/transmutation
-  - spell/subclass/oath-of-thunder
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Ranger
+  - spell\Level\5th Level
+  - spell\School\Transmutation
+  - spell\Subclass\Oath Of Thunder
 level: 5th-level
 range: false
 school: Transmutation

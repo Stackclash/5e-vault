@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/forgotten-realms
-  - domain/death
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Forgotten Realms
+  - domain\Death
 aliases:
   - Talona
 ---

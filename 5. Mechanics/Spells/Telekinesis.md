@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/transmutation
-  - spell/subclass/aberrant-mind
-  - spell/subclass/psi-warrior
-  - spell/subclass/the-great-old-one
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Transmutation
+  - spell\Subclass\Aberrant Mind
+  - spell\Subclass\Psi Warrior
+  - spell\Subclass\The Great Old One
 level: 5th-level
 range: false
 school: Transmutation

@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Rarity\Very Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Dream Catcher
-range: 5/15
+range: 5\15
 ---
 # Dream Catcher
 *Weapon ([[5. Mechanics/Items/Net.md\|net]]), major, very rare*  

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subrace/genasi-earth
+  - spell\List\Subrace\Genasi Earth
 aliases:
   - Spells for Genasi (Earth)
 ---

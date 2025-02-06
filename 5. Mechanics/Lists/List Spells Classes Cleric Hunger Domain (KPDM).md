@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/hunger-domain
+  - spell\List\Subclass\Hunger Domain
 aliases:
   - Spells for Hunger Domain
 ---

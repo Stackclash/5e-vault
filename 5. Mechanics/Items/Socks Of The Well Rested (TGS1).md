@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/uncommon
-  - item/tier/minor
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Uncommon
+  - item\Tier\Minor
 aliases:
   - Socks of the Well-Rested
 ---

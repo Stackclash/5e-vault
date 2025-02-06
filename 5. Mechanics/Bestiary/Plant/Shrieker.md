@@ -6,11 +6,11 @@ cr: 0
 environments: underdark
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/plant
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Plant
 aliases:
   - Shrieker
 ---

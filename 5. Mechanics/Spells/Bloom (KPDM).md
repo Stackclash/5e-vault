@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/wizard
-  - spell/level/8th-level
-  - spell/ritual
-  - spell/school/conjuration
-  - spell/subclass/divine-soul
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Wizard
+  - spell\Level\8th Level
+  - spell\Ritu(AL)
+  - spell\School\Conjuration
+  - spell\Subclass\Divine Soul
 level: 8th-level
 range: true
 school: Conjuration

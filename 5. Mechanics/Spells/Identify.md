@@ -2,23 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/feat/artificer-initiate
-  - spell/feat/fey-touched
-  - spell/feat/magic-initiate
-  - spell/feat/ritual-caster
-  - spell/level/1st-level
-  - spell/optfeature/book-of-ancient-secrets
-  - spell/ritual
-  - spell/school/divination
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/forge-domain
-  - spell/subclass/knowledge-domain
-  - spell/subclass/wealth-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Fey Touched
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Ritual Caster
+  - spell\Level\1st Level
+  - spell\Optfeature\Book Of Ancient Secrets
+  - spell\Ritu(AL)
+  - spell\School\Divination
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Forge Domain
+  - spell\Subclass\Knowledge Domain
+  - spell\Subclass\Wealth Domain
 level: 1st-level
 range: true
 school: Divination

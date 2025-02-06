@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/gear/curse
-  - item/rarity/rare
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Gear\Curse
+  - item\Rarity\Rare
 aliases:
   - Curse of Desolation
 ---

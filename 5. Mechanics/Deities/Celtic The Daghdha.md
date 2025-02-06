@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/celtic
-  - domain/nature
-  - domain/trickery
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Celtic
+  - domain\Nature
+  - domain\Trickery
 aliases:
   - The Daghdha
 ---

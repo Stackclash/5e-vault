@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/greyhawk
-  - domain/arcana
-  - domain/death
-  - domain/grave
-  - domain/knowledge
-  - domain/order
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Greyhawk
+  - domain\Arcana
+  - domain\Death
+  - domain\Grave
+  - domain\Knowledge
+  - domain\Order
 aliases:
   - Wee Jas
 ---

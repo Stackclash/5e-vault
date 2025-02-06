@@ -6,11 +6,11 @@ cr: 3
 environments: underdark
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/3
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\3
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Cave Fisher
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/prophecy-domain
+  - spell\List\Subclass\Prophecy Domain
 aliases:
   - Spells for Prophecy Domain
 ---

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/tce
-  - subclass/bard/creation
+  - 5. Mechanics\Src\5e\(TCE)
+  - subclass\Bard\Creation
 aliases:
   - College of Creation
 ---

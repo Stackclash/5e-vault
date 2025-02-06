@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/armor/medium
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Armor\Medium
+  - item\Rarity\None
 aliases:
   - Scale Mail
 cost: 5000

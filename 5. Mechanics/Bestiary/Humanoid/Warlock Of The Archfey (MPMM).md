@@ -6,15 +6,15 @@ cr: 4
 environments: 'arctic, forest, mountain, swamp, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/4
-  - monster/environment/arctic
-  - monster/environment/forest
-  - monster/environment/mountain
-  - monster/environment/swamp
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\4
+  - monster\Environment\Arctic
+  - monster\Environment\Forest
+  - monster\Environment\Mountain
+  - monster\Environment\Swamp
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Humanoid
 aliases:
   - Warlock of the Archfey
 ---

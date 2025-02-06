@@ -6,10 +6,10 @@ cr: 6
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/6
-  - monster/size/large
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\6
+  - monster\Size\Large
+  - monster\Type\Fiend\Demon
 aliases:
   - Vrock
 ---

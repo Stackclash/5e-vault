@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/whispers-of-the-grave
+  - spell\List\Optfeature\Whispers Of The Grave
 aliases:
   - Spells for Whispers of the Grave
 ---

@@ -6,11 +6,11 @@ cr: 11
 environments: desert
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/11
-  - monster/environment/desert
-  - monster/size/large
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\11
+  - monster\Environment\Desert
+  - monster\Size\Large
+  - monster\Type\Element(AL)
 aliases:
   - Efreeti
 ---

@@ -6,11 +6,11 @@ cr: 8
 environments: urban
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/8
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead/warlock
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\8
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Undead\Warlock
 aliases:
   - Deathlock Mastermind
 ---

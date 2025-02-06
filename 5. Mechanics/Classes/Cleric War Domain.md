@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - domain/war
-  - subclass/cleric/war
+  - 5. Mechanics\Src\5e\(PHB)
+  - domain\War
+  - subclass\Cleric\War
 aliases:
   - War Domain
 ---

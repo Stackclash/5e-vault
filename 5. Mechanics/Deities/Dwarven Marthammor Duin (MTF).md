@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/dwarven
-  - domain/nature
-  - domain/trickery
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Dwarven
+  - domain\Nature
+  - domain\Trickery
 aliases:
   - Marthammor Duin
 ---

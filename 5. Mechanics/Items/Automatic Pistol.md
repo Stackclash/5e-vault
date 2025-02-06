@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/age/modern
-  - item/rarity/none
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Age\Modern
+  - item\Rarity\None
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Automatic Pistol
 one-hand-damage: 2d6 P
-range: 50/150
+range: 50\150
 ---
 # Automatic Pistol
 *Weapon*  

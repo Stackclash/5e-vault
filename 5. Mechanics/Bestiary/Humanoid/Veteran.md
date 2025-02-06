@@ -6,18 +6,18 @@ cr: 3
 environments: 'coastal, mountain, grassland, hill, arctic, urban, forest, underdark'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/arctic
-  - monster/environment/coastal
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\3
+  - monster\Environment\Arctic
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Any Race
 aliases:
   - Veteran
 ---

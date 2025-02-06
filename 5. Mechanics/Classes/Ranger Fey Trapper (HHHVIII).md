@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/hhhviii
-  - subclass/ranger/fey-trapper
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - subclass\Ranger\Fey Trapper
 aliases:
   - Fey Trapper
 ---

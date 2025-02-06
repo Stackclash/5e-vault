@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subrace/tiefling-levistus
+  - spell\List\Subrace\Tiefling Levist(US)
 aliases:
   - Spells for Tiefling (Levistus)
 ---

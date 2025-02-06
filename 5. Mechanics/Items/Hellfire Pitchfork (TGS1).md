@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Hellfire Pitchfork
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 15/45
+range: 15\45
 ---
 # Hellfire Pitchfork
 *Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), major, very rare (requires attunement)*  

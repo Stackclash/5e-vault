@@ -6,10 +6,10 @@ cr: 1
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/xge
-  - monster/cr/1
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(XGE)
+  - monster\Cr\1
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Hound of Ill Omen
 ---

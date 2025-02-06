@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/mm
-  - item/armor/heavy
-  - item/armor/light
-  - item/armor/medium
-  - item/rarity/unknown/magic
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(MM)
+  - item\Armor\Heavy
+  - item\Armor\Light
+  - item\Armor\Medium
+  - item\Rarity\Unknown\Magic
+  - item\Wondrous\Generic Variant
 aliases:
   - Drow +3 Armor
   - Drow +3 Bone Plate Armor

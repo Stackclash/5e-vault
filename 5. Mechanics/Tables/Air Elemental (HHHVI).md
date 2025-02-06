@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/hhhvi
+  - 5. Mechanics\Src\5e\(HHHVI)
 aliases:
   - Air Elemental
 ---

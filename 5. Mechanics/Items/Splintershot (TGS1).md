@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/ranged
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
 aliases:
   - Splintershot
 one-hand-damage: 1d6 T
-range: 80/320
+range: 80\320
 ---
 # Splintershot
 *Weapon ([[5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare*  

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - subclass/bard/mercantile
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - subclass\Bard\Mercantile
 aliases:
   - College of Mercantile
 ---

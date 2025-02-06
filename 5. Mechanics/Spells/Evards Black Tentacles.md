@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/school/conjuration
-  - spell/subclass/aberrant-mind
-  - spell/subclass/angler
-  - spell/subclass/arcane-trickster
-  - spell/subclass/chain-domain
-  - spell/subclass/eldritch-knight
-  - spell/subclass/ocean-domain
-  - spell/subclass/the-fathomless
-  - spell/subclass/the-great-old-one
-  - spell/subclass/the-many
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\School\Conjuration
+  - spell\Subclass\Aberrant Mind
+  - spell\Subclass\Angler
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Chain Domain
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Ocean Domain
+  - spell\Subclass\The Fathomless
+  - spell\Subclass\The Great Old One
+  - spell\Subclass\The Many
 level: 4th-level
 range: false
 school: Conjuration

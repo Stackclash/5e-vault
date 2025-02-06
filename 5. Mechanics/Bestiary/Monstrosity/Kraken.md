@@ -6,11 +6,11 @@ cr: 23
 environments: underwater
 size: Gargantuan
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/23
-  - monster/environment/underwater
-  - monster/size/gargantuan
-  - monster/type/monstrosity/titan
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\23
+  - monster\Environment\Underwater
+  - monster\Size\Gargantuan
+  - monster\Type\Monstrosity\Titan
 aliases:
   - Kraken
 ---

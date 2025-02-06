@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/armor/heavy
-  - item/rarity/very-rare
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Armor\Heavy
+  - item\Rarity\Very Rare
+  - item\Wondrous\Generic Variant
 aliases:
   - Fire Flash Armor
   - Fire Flash Bone Plate Armor

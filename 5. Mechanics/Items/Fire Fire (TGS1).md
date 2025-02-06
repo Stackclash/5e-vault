@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/ranged
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
 aliases:
   - Fire Fire!
 one-hand-damage: 1d8 P
-range: 80/320
+range: 80\320
 ---
 # Fire Fire!
 *Weapon ([[5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), major, rare*  

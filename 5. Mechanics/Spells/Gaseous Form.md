@@ -2,22 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/optfeature/mist-stance
-  - spell/school/transmutation
-  - spell/subclass/alchemist
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-spores
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/eldritch-knight
-  - spell/subclass/ocean-domain
-  - spell/subclass/swarmkeeper
-  - spell/subclass/void-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\Optfeature\Mist Stance
+  - spell\School\Transmutation
+  - spell\Subclass\Alchemist
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of Spores
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Ocean Domain
+  - spell\Subclass\Swarmkeeper
+  - spell\Subclass\Void Domain
 level: 3rd-level
 range: false
 school: Transmutation

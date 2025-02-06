@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/breath-of-winter
+  - spell\List\Optfeature\Breath Of Winter
 aliases:
   - Spells for Breath of Winter
 ---

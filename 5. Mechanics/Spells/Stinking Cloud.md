@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/school/conjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/eldritch-knight
-  - spell/subclass/festus-domain
-  - spell/subclass/marshwarden
-  - spell/subclass/the-fiend
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\School\Conjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Festus Domain
+  - spell\Subclass\Marshwarden
+  - spell\Subclass\The Fiend
 level: 3rd-level
 range: false
 school: Conjuration

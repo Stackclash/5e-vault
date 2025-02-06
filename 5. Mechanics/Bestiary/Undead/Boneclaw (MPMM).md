@@ -6,13 +6,13 @@ cr: 12
 environments: 'arctic, desert, urban'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/12
-  - monster/environment/arctic
-  - monster/environment/desert
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\12
+  - monster\Environment\Arctic
+  - monster\Environment\Desert
+  - monster\Environment\Urban
+  - monster\Size\Large
+  - monster\Type\Undead
 aliases:
   - Boneclaw
 ---

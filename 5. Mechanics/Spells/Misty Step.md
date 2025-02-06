@@ -2,26 +2,26 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/feat/fey-teleportation
-  - spell/feat/fey-touched
-  - spell/level/2nd-level
-  - spell/race/githyanki
-  - spell/school/conjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/eldritch-knight
-  - spell/subclass/fey-wanderer
-  - spell/subclass/gravetender
-  - spell/subclass/horizon-walker
-  - spell/subclass/oath-of-the-ancients
-  - spell/subclass/oath-of-vengeance
-  - spell/subclass/ocean-domain
-  - spell/subrace/elf-eladrin-dmg
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Feat\Fey Teleportation
+  - spell\Feat\Fey Touched
+  - spell\Level\2nd Level
+  - spell\Race\Githyanki
+  - spell\School\Conjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Fey Wanderer
+  - spell\Subclass\Gravetender
+  - spell\Subclass\Horizon Walker
+  - spell\Subclass\Oath Of The Ancients
+  - spell\Subclass\Oath Of Vengeance
+  - spell\Subclass\Ocean Domain
+  - spell\Subrace\Elf Eladrin (DMG)
 level: 2nd-level
 range: false
 school: Conjuration

@@ -6,10 +6,10 @@ cr: 3
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/3
-  - monster/size/small
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\3
+  - monster\Size\Small
+  - monster\Type\Undead
 aliases:
   - Brain in a Jar
 ---

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/vgm
-  - item/attunement/required
-  - item/rarity/rare
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(VGM)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Weapon\Melee
 aliases:
   - Mind Lash
 one-hand-damage: 1d4 S

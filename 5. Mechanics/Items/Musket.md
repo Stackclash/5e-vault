@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/age/renaissance
-  - item/rarity/none
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Age\Renaissance
+  - item\Rarity\None
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Musket
 cost: 50000
 one-hand-damage: 1d12 P
-range: 40/120
+range: 40\120
 ---
 # Musket
 *Weapon*  

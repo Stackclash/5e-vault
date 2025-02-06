@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/armor/light
-  - item/armor/medium
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Armor\Light
+  - item\Armor\Medium
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Wondrous\Generic Variant
 aliases:
   - Myceliaweave Armor
   - Myceliaweave Hide Armor

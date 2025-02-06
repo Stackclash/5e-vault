@@ -6,16 +6,16 @@ cr: 12
 environments: 'coastal, desert, forest, grassland, mountain, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/12
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/mountain
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\12
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Mountain
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Eidolon
 ---

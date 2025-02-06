@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/race/triton
+  - spell\List\Race\Triton
 aliases:
   - Spells for Triton
 ---

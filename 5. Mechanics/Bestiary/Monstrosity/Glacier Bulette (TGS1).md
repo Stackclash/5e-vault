@@ -6,12 +6,12 @@ cr: 6
 environments: 'arctic, everglacier'
 size: Large
 tags:
-  - compendium/src/5e/tgs1
-  - monster/cr/6
-  - monster/environment/arctic
-  - monster/environment/everglacier
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(TGS1)
+  - monster\Cr\6
+  - monster\Environment\Arctic
+  - monster\Environment\Everglacier
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Glacier Bulette
 ---

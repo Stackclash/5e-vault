@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - domain/wealth
-  - subclass/cleric/wealth
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - domain\Wealth
+  - subclass\Cleric\Wealth
 aliases:
   - Wealth Domain
 ---

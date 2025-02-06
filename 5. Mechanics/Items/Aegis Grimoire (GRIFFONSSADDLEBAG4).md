@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/shield/
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Shield
 aliases:
   - Aegis Grimoire
 armorClass: 2

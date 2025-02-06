@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/paladin
-  - spell/level/1st-level
-  - spell/school/evocation
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Paladin
+  - spell\Level\1st Level
+  - spell\School\Evocation
 level: 1st-level
 range: false
 school: Evocation

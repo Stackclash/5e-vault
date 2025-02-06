@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Sunfire
 one-hand-damage: 2d8 R
-range: 100/400
+range: 100\400
 ---
 # Sunfire
 *Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare (requires attunement by a cleric or paladin)*  

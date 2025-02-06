@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tce
-  - item/attunement/required
-  - item/rarity/artifact
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(TCE)
+  - item\Attunement\Required
+  - item\Rarity\Artifact
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Baba Yaga's Pestle
 one-hand-damage: 1d6 B

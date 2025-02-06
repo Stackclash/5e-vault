@@ -6,12 +6,12 @@ cr: 1
 environments: 'grassland, desert'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/desert
-  - monster/environment/grassland
-  - monster/size/medium
-  - monster/type/humanoid/thri-kreen
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1
+  - monster\Environment\Desert
+  - monster\Environment\Grassland
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Thri Kreen
 aliases:
   - Thri-kreen (Weapons and Psionics)
 ---

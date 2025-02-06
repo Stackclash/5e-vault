@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/abjuration
-  - spell/subclass/divine-soul
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Abjuration
+  - spell\Subclass\Divine Soul
 level: 5th-level
 range: false
 school: Abjuration

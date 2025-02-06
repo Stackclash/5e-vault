@@ -6,10 +6,10 @@ cr: 17
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/17
-  - monster/size/huge
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\17
+  - monster\Size\Huge
+  - monster\Type\Fiend\Demon
 aliases:
   - Goristro
 ---

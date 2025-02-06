@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/level/9th-level
-  - spell/school/necromancy
-  - spell/subclass/divine-soul
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Level\9th Level
+  - spell\School\Necromancy
+  - spell\Subclass\Divine Soul
 level: 9th-level
 range: false
 school: Necromancy

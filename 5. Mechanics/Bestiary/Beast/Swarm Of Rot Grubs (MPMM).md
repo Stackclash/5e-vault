@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'swamp, underdark'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-2
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 2
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Beast
 aliases:
   - Swarm of Rot Grubs
 ---

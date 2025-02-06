@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/oath-of-redemption
+  - spell\List\Subclass\Oath Of Redemption
 aliases:
   - Spells for Oath of Redemption
 ---

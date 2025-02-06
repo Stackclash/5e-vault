@@ -6,11 +6,11 @@ cr: 8
 environments: swamp
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/8
-  - monster/environment/swamp
-  - monster/size/huge
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\8
+  - monster\Environment\Swamp
+  - monster\Size\Huge
+  - monster\Type\Monstrosity
 aliases:
   - Hydra
 ---

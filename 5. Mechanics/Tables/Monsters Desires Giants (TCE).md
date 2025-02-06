@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/tce
+  - 5. Mechanics\Src\5e\(TCE)
 aliases:
   - Monsters' Desires; Giants
 ---

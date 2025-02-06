@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-  - compendium/src/5e/dmg
-  - object/size/gargantuan
-  - object/type/siege-weapon
+  - 5. Mechanics\Src\5e\(DMG)
+  - object\Size\Gargantuan
+  - object\Type\Siege Weapon
 statblock: inline
 aliases:
   - Siege Tower

@@ -6,12 +6,12 @@ cr: 5
 environments: 'forest, grassland'
 size: Gargantuan
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/5
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/size/gargantuan
-  - monster/type/beast/dinosaur
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\5
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Size\Gargantuan
+  - monster\Type\Beast\Dinosaur
 aliases:
   - Brontosaurus
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/circle-of-roses
+  - spell\List\Subclass\Circle Of Roses
 aliases:
   - Spells for Circle of Roses
 ---

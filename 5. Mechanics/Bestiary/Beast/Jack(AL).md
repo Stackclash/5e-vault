@@ -6,12 +6,12 @@ cr: 0
 environments: 'grassland, desert'
 size: Small
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/desert
-  - monster/environment/grassland
-  - monster/size/small
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Environment\Desert
+  - monster\Environment\Grassland
+  - monster\Size\Small
+  - monster\Type\Beast
 aliases:
   - Jackal
 ---

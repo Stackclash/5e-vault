@@ -6,15 +6,15 @@ cr: 2
 environments: 'underwater, underdark, forest, swamp, desert'
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/underwater
-  - monster/size/huge
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Environment\Underwater
+  - monster\Size\Huge
+  - monster\Type\Beast
 aliases:
   - Giant Constrictor Snake
 ---

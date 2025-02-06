@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/attunement/required
-  - item/rarity/artifact
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Attunement\Required
+  - item\Rarity\Artifact
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Angdrelve (Wave of Sorrow)
 one-hand-damage: 2d6 S

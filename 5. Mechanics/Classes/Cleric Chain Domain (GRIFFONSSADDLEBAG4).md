@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - domain/chain
-  - subclass/cleric/chain
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - domain\Chain
+  - subclass\Cleric\Chain
 aliases:
   - Chain Domain
 ---

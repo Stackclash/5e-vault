@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/tgs1
-  - subclass/druid/unbroken
+  - 5. Mechanics\Src\5e\(TGS1)
+  - subclass\Druid\Unbroken
 aliases:
   - The Unbroken Circle
 ---

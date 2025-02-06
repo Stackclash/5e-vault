@@ -6,12 +6,12 @@ cr: 3
 environments: 'underdark, urban'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\3
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Large
+  - monster\Type\Element(AL)
 aliases:
   - Water Weird
 ---

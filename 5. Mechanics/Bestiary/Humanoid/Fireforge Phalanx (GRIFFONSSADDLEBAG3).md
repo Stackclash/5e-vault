@@ -6,10 +6,10 @@ cr: 3
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/3
-  - monster/size/medium
-  - monster/type/humanoid/dwarf
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\3
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Dwarf
 aliases:
   - Fireforge Phalanx
 ---

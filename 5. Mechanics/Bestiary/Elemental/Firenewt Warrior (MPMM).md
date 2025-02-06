@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'desert, hill, mountain, underdark'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-2
-  - monster/environment/desert
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 2
+  - monster\Environment\Desert
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Element(AL)
 aliases:
   - Firenewt Warrior
 ---

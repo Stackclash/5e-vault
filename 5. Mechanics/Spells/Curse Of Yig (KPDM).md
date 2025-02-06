@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/level/5th-level
-  - spell/ritual
-  - spell/school/transmutation
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Level\5th Level
+  - spell\Ritu(AL)
+  - spell\School\Transmutation
 level: 5th-level
 range: true
 school: Transmutation

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/kpdm
-  - item/rarity/artifact
+  - 5. Mechanics\Src\5e\(KPDM)
+  - item\Rarity\Artifact
 aliases:
   - Anuraag's Crucible
 ---

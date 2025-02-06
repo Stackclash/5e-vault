@@ -6,11 +6,11 @@ cr: 12
 environments: coastal
 size: Huge
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/12
-  - monster/environment/coastal
-  - monster/size/huge
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\12
+  - monster\Environment\Coast(AL)
+  - monster\Size\Huge
+  - monster\Type\Giant
 aliases:
   - Frost Giant Everlasting One
 ---

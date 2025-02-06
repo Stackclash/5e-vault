@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/dmg
-  - race/gnome/deep/dmg
+  - 5. Mechanics\Src\5e\(DMG)
+  - race\Gnome\Deep\(DMG)
 aliases:
   - Gnome (Deep) (DMG)
 ---

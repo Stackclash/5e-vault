@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/tgs1
-  - subclass/fighter/couatl-herald
+  - 5. Mechanics\Src\5e\(TGS1)
+  - subclass\Fighter\Couatl Herald
 aliases:
   - Couatl Herald
 ---

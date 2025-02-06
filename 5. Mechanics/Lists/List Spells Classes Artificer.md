@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/class/artificer
+  - spell\List\Class\Artificer
 aliases:
   - Artificer Spells
 ---

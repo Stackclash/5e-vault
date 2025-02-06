@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/rarity/none
-  - item/weapon/ranged
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Rarity\None
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
 aliases:
   - Sling
 cost: 10
 one-hand-damage: 1d4 B
-range: 30/120
+range: 30\120
 ---
 # Sling
 *Weapon*  

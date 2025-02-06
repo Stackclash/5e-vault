@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/level/2nd-level
-  - spell/school/evocation
-  - spell/subrace/genasi-fire
-  - spell/subrace/tiefling-mephistopheles
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Level\2nd Level
+  - spell\School\Evocation
+  - spell\Subrace\Genasi Fire
+  - spell\Subrace\Tiefling Mephistopheles
 level: 2nd-level
 range: false
 school: Evocation

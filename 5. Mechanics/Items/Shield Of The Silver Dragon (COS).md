@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/cos
-  - item/rarity/rare
-  - item/shield/
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(COS)
+  - item\Rarity\Rare
+  - item\Shield
+  - item\Tier\Major
 aliases:
   - Shield of the Silver Dragon
 armorClass: 2

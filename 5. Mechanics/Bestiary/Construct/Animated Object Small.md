@@ -6,10 +6,10 @@ cr: null
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/phb
-  - monster/cr/
-  - monster/size/small
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(PHB)
+  - monster\Cr
+  - monster\Size\Small
+  - monster\Type\Construct
 aliases:
   - Animated Object (Small)
 ---

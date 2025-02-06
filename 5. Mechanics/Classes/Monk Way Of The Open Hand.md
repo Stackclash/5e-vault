@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/monk/open-hand
+  - 5. Mechanics\Src\5e\(PHB)
+  - subclass\Monk\Open Hand
 aliases:
   - Way of the Open Hand
 ---

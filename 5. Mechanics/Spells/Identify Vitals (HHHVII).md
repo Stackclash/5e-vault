@@ -2,26 +2,26 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/hhhvii
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/paladin
-  - spell/class/ranger
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/feat/fey-touched
-  - spell/feat/magic-initiate
-  - spell/feat/ritual-caster
-  - spell/level/1st-level
-  - spell/optfeature/book-of-ancient-secrets
-  - spell/ritual
-  - spell/school/enchantment
-  - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/harvester-domain
-  - spell/subclass/oath-of-legacy
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Paladin
+  - spell\Class\Ranger
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Feat\Fey Touched
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Ritual Caster
+  - spell\Level\1st Level
+  - spell\Optfeature\Book Of Ancient Secrets
+  - spell\Ritu(AL)
+  - spell\School\Enchantment
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Harvester Domain
+  - spell\Subclass\Oath Of Legacy
 level: 1st-level
 range: true
 school: Enchantment

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/spellcaster-sidekick
-  - compendium/src/5e/tce
+  - class\Spellcaster Sidekick
+  - 5. Mechanics\Src\5e\(TCE)
 aliases:
   - Spellcaster Sidekick
 ---

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/armor/heavy
-  - item/armor/medium
-  - item/rarity/uncommon
-  - item/tier/minor
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Armor\Heavy
+  - item\Armor\Medium
+  - item\Rarity\Uncommon
+  - item\Tier\Minor
+  - item\Wondrous\Generic Variant
 aliases:
   - Mithral Armor
   - Mithral Bone Plate Armor

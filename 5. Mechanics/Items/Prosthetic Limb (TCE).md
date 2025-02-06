@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tce
-  - item/rarity/common
+  - 5. Mechanics\Src\5e\(TCE)
+  - item\Rarity\Common
 aliases:
   - Prosthetic Limb
 ---

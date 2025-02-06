@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/paladin
-  - spell/level/4th-level
-  - spell/school/abjuration
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Paladin
+  - spell\Level\4th Level
+  - spell\School\Abjuration
 level: 4th-level
 range: false
 school: Abjuration

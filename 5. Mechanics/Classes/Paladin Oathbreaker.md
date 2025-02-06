@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/dmg
-  - subclass/paladin/oathbreaker
+  - 5. Mechanics\Src\5e\(DMG)
+  - subclass\Paladin\Oathbreaker
 aliases:
   - Oathbreaker
 ---

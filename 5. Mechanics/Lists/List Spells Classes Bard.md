@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/class/bard
+  - spell\List\Class\Bard
 aliases:
   - Bard Spells
 ---

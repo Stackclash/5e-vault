@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/xge
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/feat/magic-initiate
-  - spell/level/cantrip
-  - spell/optfeature/blessed-warrior
-  - spell/optfeature/pact-of-the-tome
-  - spell/school/evocation
-  - spell/subclass/divine-soul
+  - 5. Mechanics\Src\5e\(XGE)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Feat\Magic Initiate
+  - spell\Level\Cantrip
+  - spell\Optfeature\Blessed Warrior
+  - spell\Optfeature\Pact Of The Tome
+  - spell\School\Evocation
+  - spell\Subclass\Divine Soul
 level: cantrip
 range: false
 school: Evocation

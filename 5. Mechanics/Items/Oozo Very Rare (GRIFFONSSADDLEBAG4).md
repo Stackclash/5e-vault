@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/rarity/very-rare
-  - item/wondrous/potion
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Rarity\Very Rare
+  - item\Wondrous\Potion
 aliases:
   - Oozo (Very Rare)
 ---

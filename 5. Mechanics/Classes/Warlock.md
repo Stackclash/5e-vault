@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/warlock
-  - compendium/src/5e/phb
+  - class\Warlock
+  - 5. Mechanics\Src\5e\(PHB)
 aliases:
   - Warlock
 ---

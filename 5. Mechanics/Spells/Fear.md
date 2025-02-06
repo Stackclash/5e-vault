@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/school/illusion
-  - spell/subclass/apocalypse-domain
-  - spell/subclass/arcane-trickster
-  - spell/subclass/dragon-domain
-  - spell/subclass/eldritch-knight
-  - spell/subclass/gloom-stalker
-  - spell/subclass/justice-domain
-  - spell/subclass/moon-domain
-  - spell/subclass/oath-of-conquest
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\School\Illusion
+  - spell\Subclass\Apocalypse Domain
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Dragon Domain
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Gloom Stalker
+  - spell\Subclass\Justice Domain
+  - spell\Subclass\Moon Domain
+  - spell\Subclass\Oath Of Conquest
 level: 3rd-level
 range: false
 school: Illusion

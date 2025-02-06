@@ -6,10 +6,10 @@ cr: 5
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/size/large
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\5
+  - monster\Size\Large
+  - monster\Type\Aberration
 aliases:
   - Red Slaad
 ---

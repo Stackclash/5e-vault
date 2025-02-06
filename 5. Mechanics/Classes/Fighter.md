@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/fighter
-  - compendium/src/5e/phb
+  - class\Fighter
+  - 5. Mechanics\Src\5e\(PHB)
 aliases:
   - Fighter
 ---

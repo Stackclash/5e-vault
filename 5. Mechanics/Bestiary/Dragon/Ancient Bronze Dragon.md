@@ -6,11 +6,11 @@ cr: 22
 environments: coastal
 size: Gargantuan
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/22
-  - monster/environment/coastal
-  - monster/size/gargantuan
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\22
+  - monster\Environment\Coast(AL)
+  - monster\Size\Gargantuan
+  - monster\Type\Dragon
 aliases:
   - Ancient Bronze Dragon
 ---

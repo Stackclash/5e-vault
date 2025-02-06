@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - subclass/paladin/open-road
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - subclass\Paladin\Open Road
 aliases:
   - Oath of the Open Road
 ---

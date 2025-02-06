@@ -6,10 +6,10 @@ cr: 3
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/3
-  - monster/size/medium
-  - monster/type/undead/warlock
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\3
+  - monster\Size\Medium
+  - monster\Type\Undead\Warlock
 aliases:
   - Deathlock Wight
 ---

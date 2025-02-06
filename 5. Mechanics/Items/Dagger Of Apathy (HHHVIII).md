@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/attunement/required
-  - item/rarity/rare
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Dagger of Apathy
 one-hand-damage: 1d4 P
-range: 20/60
+range: 20\60
 ---
 # Dagger of Apathy
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), rare (requires attunement)*  

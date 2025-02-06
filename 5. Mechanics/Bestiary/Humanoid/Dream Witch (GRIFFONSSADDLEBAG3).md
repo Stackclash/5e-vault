@@ -6,10 +6,10 @@ cr: 3
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/3
-  - monster/size/small
-  - monster/type/humanoid/goblin
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\3
+  - monster\Size\Small
+  - monster\Type\Humanoid\Goblin
 aliases:
   - Dream Witch
 ---

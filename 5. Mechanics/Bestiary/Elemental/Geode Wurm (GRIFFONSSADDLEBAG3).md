@@ -6,10 +6,10 @@ cr: 11
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/11
-  - monster/size/huge
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\11
+  - monster\Size\Huge
+  - monster\Type\Element(AL)
 aliases:
   - Geode Wurm
 ---

@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/level/2nd-level
-  - spell/school/transmutation
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/greenleaf-college
-  - spell/subclass/hedge-mage
-  - spell/subclass/nature-domain
-  - spell/subclass/the-genie
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Level\2nd Level
+  - spell\School\Transmutation
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Greenleaf College
+  - spell\Subclass\Hedge Mage
+  - spell\Subclass\Nature Domain
+  - spell\Subclass\The Genie
 level: 2nd-level
 range: false
 school: Transmutation

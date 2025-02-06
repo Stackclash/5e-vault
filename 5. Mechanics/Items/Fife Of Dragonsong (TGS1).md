@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Fife of Dragonsong
 one-hand-damage: 1 P
-range: 25/100
+range: 25\100
 ---
 # Fife of Dragonsong
 *Weapon ([[5. Mechanics/Items/Blowgun.md\|blowgun]]), major, rare (requires attunement by a bard)*  

@@ -6,12 +6,12 @@ cr: 6
 environments: 'arctic, everglacier'
 size: Medium
 tags:
-  - compendium/src/5e/tgs1
-  - monster/cr/6
-  - monster/environment/arctic
-  - monster/environment/everglacier
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(TGS1)
+  - monster\Cr\6
+  - monster\Environment\Arctic
+  - monster\Environment\Everglacier
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - White Wraith
 ---

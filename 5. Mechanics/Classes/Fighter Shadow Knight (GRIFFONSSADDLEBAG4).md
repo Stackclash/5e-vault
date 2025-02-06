@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - subclass/fighter/shadow-knight
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - subclass\Fighter\Shadow Knight
 aliases:
   - Shadow Knight
 ---

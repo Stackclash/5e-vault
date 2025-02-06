@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/fey-touched
-  - spell/level/1st-level
-  - spell/school/enchantment
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/time-domain
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Fey Touched
+  - spell\Level\1st Level
+  - spell\School\Enchantment
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Time Domain
 level: 1st-level
 range: false
 school: Enchantment

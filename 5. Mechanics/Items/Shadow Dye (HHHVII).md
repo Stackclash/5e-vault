@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/rarity/rare
-  - item/wondrous/potion
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Rarity\Rare
+  - item\Wondrous\Potion
 aliases:
   - Shadow Dye
 ---

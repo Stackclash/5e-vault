@@ -6,15 +6,15 @@ cr: 4
 environments: 'underdark, mountain, grassland, forest, hill'
 size: Medium
 tags:
-  - compendium/src/5e/vgm
-  - monster/cr/4
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/orc
+  - 5. Mechanics\Src\5e\(VGM)
+  - monster\Cr\4
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Orc
 aliases:
   - Orc Blade of Ilneval
 ---

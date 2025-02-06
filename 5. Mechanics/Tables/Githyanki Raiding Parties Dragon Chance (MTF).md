@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/mtf
+  - 5. Mechanics\Src\5e\(MTF)
 aliases:
   - Githyanki Raiding Parties; Dragon Chance
 ---

@@ -6,10 +6,10 @@ cr: 7
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/7
-  - monster/size/huge
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\7
+  - monster\Size\Huge
+  - monster\Type\Construct
 aliases:
   - Wicked Wagon
 ---

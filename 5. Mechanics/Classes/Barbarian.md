@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/barbarian
-  - compendium/src/5e/phb
+  - class\Barbarian
+  - 5. Mechanics\Src\5e\(PHB)
 aliases:
   - Barbarian
 ---

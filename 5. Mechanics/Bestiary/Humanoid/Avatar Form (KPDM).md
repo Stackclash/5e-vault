@@ -6,10 +6,10 @@ cr: 18
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/kpdm
-  - monster/cr/18
-  - monster/size/large
-  - monster/type/humanoid
+  - 5. Mechanics\Src\5e\(KPDM)
+  - monster\Cr\18
+  - monster\Size\Large
+  - monster\Type\Humanoid
 aliases:
   - Avatar Form
 ---

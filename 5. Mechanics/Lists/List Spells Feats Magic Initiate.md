@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/feat/magic-initiate
+  - spell\List\Feat\Magic Initiate
 aliases:
   - Spells for Magic Initiate
 ---

@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/level/3rd-level
-  - spell/school/evocation
-  - spell/subclass/alchemist
-  - spell/subclass/beer-domain
-  - spell/subclass/carillon-domain
-  - spell/subclass/circle-of-the-eclipse
-  - spell/subclass/divine-soul
-  - spell/subclass/order-domain
-  - spell/subclass/the-valiant
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Level\3rd Level
+  - spell\School\Evocation
+  - spell\Subclass\Alchemist
+  - spell\Subclass\Beer Domain
+  - spell\Subclass\Carillon Domain
+  - spell\Subclass\Circle Of The Eclipse
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Order Domain
+  - spell\Subclass\The Valiant
 level: 3rd-level
 range: false
 school: Evocation

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-  - compendium/src/5e/mtf
-  - reward/other
+  - 5. Mechanics\Src\5e\(MTF)
+  - reward\Other
 aliases:
   - The Blessed of Corellon
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/dragon-domain
+  - spell\List\Subclass\Dragon Domain
 aliases:
   - Spells for Dragon Domain
 ---

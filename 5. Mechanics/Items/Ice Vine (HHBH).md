@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhbh
-  - item/gear/herb
-  - item/rarity/common
+  - 5. Mechanics\Src\5e\(HHBH)
+  - item\Gear\Herb
+  - item\Rarity\Common
 aliases:
   - Ice Vine
 cost: 100

@@ -2,25 +2,25 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/eldritch-knight
-  - spell/subclass/griffon-scout
-  - spell/subclass/horizon-walker
-  - spell/subclass/oath-of-glory
-  - spell/subclass/oath-of-the-open-road
-  - spell/subclass/oath-of-vengeance
-  - spell/subclass/speed-domain
-  - spell/subclass/the-apex-predator
-  - spell/subclass/time-domain
-  - spell/subclass/travel-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Griffon Scout
+  - spell\Subclass\Horizon Walker
+  - spell\Subclass\Oath Of Glory
+  - spell\Subclass\Oath Of The Open Road
+  - spell\Subclass\Oath Of Vengeance
+  - spell\Subclass\Speed Domain
+  - spell\Subclass\The Apex Preda(TOR)
+  - spell\Subclass\Time Domain
+  - spell\Subclass\Travel Domain
 level: 3rd-level
 range: false
 school: Transmutation

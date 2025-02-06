@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/norse
-  - domain/life
-  - domain/light
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Norse
+  - domain\Life
+  - domain\Light
 aliases:
   - Balder
 ---

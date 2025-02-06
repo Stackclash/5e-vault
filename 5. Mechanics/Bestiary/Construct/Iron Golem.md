@@ -6,10 +6,10 @@ cr: 16
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/16
-  - monster/size/large
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\16
+  - monster\Size\Large
+  - monster\Type\Construct
 aliases:
   - Iron Golem
 ---

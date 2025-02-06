@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - compendium/src/5e/kpdm
-  - compendium/src/5e/phb
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - 5. Mechanics\Src\5e\(KPDM)
+  - 5. Mechanics\Src\5e\(PHB)
 aliases:
   - Conditions
 ---

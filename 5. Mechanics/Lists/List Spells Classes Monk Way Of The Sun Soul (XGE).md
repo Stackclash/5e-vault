@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/way-of-the-sun-soul
+  - spell\List\Subclass\Way Of The Sun Soul
 aliases:
   - Spells for Way of the Sun Soul
 ---

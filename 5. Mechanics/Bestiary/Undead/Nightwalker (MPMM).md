@@ -6,14 +6,14 @@ cr: 20
 environments: 'arctic, desert, swamp, underdark'
 size: Huge
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/20
-  - monster/environment/arctic
-  - monster/environment/desert
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/size/huge
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\20
+  - monster\Environment\Arctic
+  - monster\Environment\Desert
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Size\Huge
+  - monster\Type\Undead
 aliases:
   - Nightwalker
 ---

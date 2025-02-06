@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/1-2
-  - monster/size/tiny
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\1 2
+  - monster\Size\Tiny
+  - monster\Type\Undead
 aliases:
   - Death's Head
 ---

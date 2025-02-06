@@ -6,11 +6,11 @@ cr: 2
 environments: desert
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/2
-  - monster/environment/desert
-  - monster/size/medium
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\2
+  - monster\Environment\Desert
+  - monster\Size\Medium
+  - monster\Type\Aberration
 aliases:
   - Berbalang
 ---

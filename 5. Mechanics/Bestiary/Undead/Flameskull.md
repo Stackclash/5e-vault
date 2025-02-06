@@ -6,11 +6,11 @@ cr: 4
 environments: underdark
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/environment/underdark
-  - monster/size/tiny
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\4
+  - monster\Environment\Underdark
+  - monster\Size\Tiny
+  - monster\Type\Undead
 aliases:
   - Flameskull
 ---

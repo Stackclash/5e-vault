@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/tgs1
-  - race/feathren
+  - 5. Mechanics\Src\5e\(TGS1)
+  - race\Feathren
 aliases:
   - Feathren
 ---

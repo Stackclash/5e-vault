@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/scag
-  - deity/faerunian
-  - domain/life
-  - domain/nature
-  - domain/peace
+  - 5. Mechanics\Src\5e\(SCAG)
+  - deity\Faerunian
+  - domain\Life
+  - domain\Nature
+  - domain\Peace
 aliases:
   - Eldath
   - The Quiet One

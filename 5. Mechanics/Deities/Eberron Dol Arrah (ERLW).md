@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/erlw
-  - deity/eberron
-  - domain/light
-  - domain/twilight
-  - domain/war
+  - 5. Mechanics\Src\5e\(ERLW)
+  - deity\Eberron
+  - domain\Light
+  - domain\Twilight
+  - domain\War
 aliases:
   - Dol Arrah
 ---

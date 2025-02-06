@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/class/wizard
+  - spell\List\Class\Wizard
 aliases:
   - Wizard Spells
 ---

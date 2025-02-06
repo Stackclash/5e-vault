@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/feat/fey-touched
+  - spell\List\Feat\Fey Touched
 aliases:
   - Spells for Fey Touched
 ---

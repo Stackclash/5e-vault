@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/shadow-magic
+  - spell\List\Subclass\Shadow Magic
 aliases:
   - Spells for Shadow Magic
 ---

@@ -6,11 +6,11 @@ cr: 0
 environments: underdark
 size: Small
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/underdark
-  - monster/size/small
-  - monster/type/plant
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Environment\Underdark
+  - monster\Size\Small
+  - monster\Type\Plant
 aliases:
   - Myconid Sprout
 ---

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/paladin
-  - spell/level/4th-level
-  - spell/school/evocation
-  - spell/subclass/the-hexblade
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Paladin
+  - spell\Level\4th Level
+  - spell\School\Evocation
+  - spell\Subclass\The Hexblade
 level: 4th-level
 range: false
 school: Evocation

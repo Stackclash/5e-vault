@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/monster-slayer
+  - spell\List\Subclass\Monster Slayer
 aliases:
   - Spells for Monster Slayer
 ---

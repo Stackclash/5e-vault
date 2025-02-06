@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/rarity/uncommon
-  - item/tier/minor
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Rarity\Uncommon
+  - item\Tier\Minor
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Glass Carver
 one-hand-damage: 1d4 P
-range: 20/60
+range: 20\60
 ---
 # Glass Carver
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), minor, uncommon*  

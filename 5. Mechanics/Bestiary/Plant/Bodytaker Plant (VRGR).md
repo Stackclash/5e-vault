@@ -6,10 +6,10 @@ cr: 7
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/7
-  - monster/size/huge
-  - monster/type/plant
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\7
+  - monster\Size\Huge
+  - monster\Type\Plant
 aliases:
   - Bodytaker Plant
 ---

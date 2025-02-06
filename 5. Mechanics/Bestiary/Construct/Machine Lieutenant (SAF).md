@@ -6,10 +6,10 @@ cr: 4
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/4
-  - monster/size/medium
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\4
+  - monster\Size\Medium
+  - monster\Type\Construct
 aliases:
   - Machine Lieutenant
 ---

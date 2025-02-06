@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Tier\Major
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Prismatic Javelin
 one-hand-damage: 2d6 P
-range: 60/150
+range: 60\150
 ---
 # Prismatic Javelin
 *Weapon ([[5. Mechanics/Items/Javelin.md\|javelin]]), major, very rare (requires attunement)*  

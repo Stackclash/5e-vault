@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/armor/medium
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Armor\Medium
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Tier\Major
 aliases:
   - Whalefall Armor
 armorClass: 15 + Dex modifier (max of +2)

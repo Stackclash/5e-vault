@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/tool
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Gear\Tool
+  - item\Rarity\None
 aliases:
   - Thieves' Tools
 cost: 2500

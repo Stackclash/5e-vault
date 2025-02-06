@@ -6,12 +6,12 @@ cr: 6
 environments: 'grassland, hill'
 size: Huge
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/6
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/size/huge
-  - monster/type/giant/hill-giant
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\6
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Size\Huge
+  - monster\Type\Giant\Hill Giant
 aliases:
   - Mouth of Grolantor
 ---

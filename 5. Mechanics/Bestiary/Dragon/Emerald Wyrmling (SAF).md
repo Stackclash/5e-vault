@@ -6,10 +6,10 @@ cr: 3
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/3
-  - monster/size/medium
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\3
+  - monster\Size\Medium
+  - monster\Type\Dragon
 aliases:
   - Emerald Wyrmling
 ---

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/mpmm
-  - race/aasimar
+  - 5. Mechanics\Src\5e\(MPMM)
+  - race\Aasimar
 aliases:
   - Aasimar
 ---

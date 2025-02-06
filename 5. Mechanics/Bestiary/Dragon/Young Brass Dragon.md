@@ -6,11 +6,11 @@ cr: 6
 environments: desert
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/6
-  - monster/environment/desert
-  - monster/size/large
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\6
+  - monster\Environment\Desert
+  - monster\Size\Large
+  - monster\Type\Dragon
 aliases:
   - Young Brass Dragon
 ---

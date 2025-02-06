@@ -6,10 +6,10 @@ cr: 12
 environments: null
 size: Gargantuan
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/12
-  - monster/size/gargantuan
-  - monster/type/plant
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\12
+  - monster\Size\Gargantuan
+  - monster\Type\Plant
 aliases:
   - Faeflame Willow
 ---

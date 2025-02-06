@@ -6,12 +6,12 @@ cr: 10
 environments: 'grassland, forest'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/10
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/size/large
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\10
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Size\Large
+  - monster\Type\Dragon
 aliases:
   - Young Gold Dragon
 ---

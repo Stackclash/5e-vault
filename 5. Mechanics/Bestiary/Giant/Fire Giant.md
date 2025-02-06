@@ -6,12 +6,12 @@ cr: 9
 environments: 'underdark, mountain'
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/9
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/huge
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\9
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Huge
+  - monster\Type\Giant
 aliases:
   - Fire Giant
 ---

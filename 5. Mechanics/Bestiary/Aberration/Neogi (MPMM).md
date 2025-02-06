@@ -6,12 +6,12 @@ cr: 3
 environments: 'hill, underdark'
 size: Small
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/3
-  - monster/environment/hill
-  - monster/environment/underdark
-  - monster/size/small
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\3
+  - monster\Environment\Hill
+  - monster\Environment\Underdark
+  - monster\Size\Small
+  - monster\Type\Aberration
 aliases:
   - Neogi
 ---

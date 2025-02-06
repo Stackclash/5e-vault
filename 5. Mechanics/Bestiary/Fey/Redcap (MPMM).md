@@ -6,13 +6,13 @@ cr: 3
 environments: 'forest, hill, swamp'
 size: Small
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/3
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/swamp
-  - monster/size/small
-  - monster/type/fey
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\3
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Environment\Swamp
+  - monster\Size\Small
+  - monster\Type\Fey
 aliases:
   - Redcap
 ---

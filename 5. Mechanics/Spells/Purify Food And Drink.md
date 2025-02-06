@@ -2,22 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/paladin
-  - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
-  - spell/feat/ritual-caster
-  - spell/level/1st-level
-  - spell/optfeature/book-of-ancient-secrets
-  - spell/ritual
-  - spell/school/transmutation
-  - spell/subclass/divine-soul
-  - spell/subclass/festus-domain
-  - spell/subclass/hedge-mage
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Paladin
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Ritual Caster
+  - spell\Level\1st Level
+  - spell\Optfeature\Book Of Ancient Secrets
+  - spell\Ritu(AL)
+  - spell\School\Transmutation
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Festus Domain
+  - spell\Subclass\Hedge Mage
 level: 1st-level
 range: true
 school: Transmutation

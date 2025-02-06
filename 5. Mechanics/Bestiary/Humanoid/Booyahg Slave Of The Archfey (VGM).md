@@ -6,10 +6,10 @@ cr: 4
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/vgm
-  - monster/cr/4
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+  - 5. Mechanics\Src\5e\(VGM)
+  - monster\Cr\4
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Any Race
 aliases:
   - Booyahg Slave of the Archfey
 ---

@@ -6,10 +6,10 @@ cr: 8
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/8
-  - monster/size/medium
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\8
+  - monster\Size\Medium
+  - monster\Type\Element(AL)
 aliases:
   - Knight of Air
 ---

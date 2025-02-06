@@ -6,10 +6,10 @@ cr: 5
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/5
-  - monster/size/small
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\5
+  - monster\Size\Small
+  - monster\Type\Element(AL)
 aliases:
   - Fire Mote
 ---

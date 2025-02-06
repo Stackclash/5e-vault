@@ -2,27 +2,27 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/school/abjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/clockwork-soul
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/forge-domain
-  - spell/subclass/oath-of-glory
-  - spell/subclass/oath-of-the-ancients
-  - spell/subclass/oath-of-vengeance
-  - spell/subclass/the-genie-lord
-  - spell/subclass/the-shapechanger
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\School\Abjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Clockwork Soul
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Forge Domain
+  - spell\Subclass\Oath Of Glory
+  - spell\Subclass\Oath Of The Ancients
+  - spell\Subclass\Oath Of Vengeance
+  - spell\Subclass\The Genie Lord
+  - spell\Subclass\The Shapechanger
 level: 3rd-level
 range: false
 school: Abjuration

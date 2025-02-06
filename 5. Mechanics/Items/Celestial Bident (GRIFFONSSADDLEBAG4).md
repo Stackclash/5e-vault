@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Celestial Bident
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 20/60
+range: 20\60
 ---
 # Celestial Bident
 *Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), legendary (requires attunement by a cleric or paladin)*  

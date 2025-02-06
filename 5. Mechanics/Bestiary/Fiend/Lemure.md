@@ -6,10 +6,10 @@ cr: 0
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/size/medium
-  - monster/type/fiend/devil
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Size\Medium
+  - monster\Type\Fiend\Devil
 aliases:
   - Lemure
 ---

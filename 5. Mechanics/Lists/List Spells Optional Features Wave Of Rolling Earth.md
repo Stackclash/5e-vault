@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/wave-of-rolling-earth
+  - spell\List\Optfeature\Wave Of Rolling Earth
 aliases:
   - Spells for Wave of Rolling Earth
 ---

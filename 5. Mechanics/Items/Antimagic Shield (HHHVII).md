@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/shield/
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Shield
 aliases:
   - Antimagic Shield
 armorClass: 2

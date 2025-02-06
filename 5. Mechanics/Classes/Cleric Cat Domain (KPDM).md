@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - domain/cat
-  - subclass/cleric/cat
+  - 5. Mechanics\Src\5e\(KPDM)
+  - domain\Cat
+  - subclass\Cleric\Cat
 aliases:
   - Cat Domain
 ---

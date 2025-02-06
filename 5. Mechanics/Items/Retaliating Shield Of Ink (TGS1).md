@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/uncommon
-  - item/shield/
-  - item/tier/minor
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Uncommon
+  - item\Shield
+  - item\Tier\Minor
 aliases:
   - Retaliating Shield of Ink
 armorClass: 2

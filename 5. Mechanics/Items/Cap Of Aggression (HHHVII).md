@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/attunement/required
-  - item/rarity/uncommon
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Attunement\Required
+  - item\Rarity\Uncommon
 aliases:
   - Cap of Aggression
 ---

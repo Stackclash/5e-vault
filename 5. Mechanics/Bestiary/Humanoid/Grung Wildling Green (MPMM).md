@@ -6,11 +6,11 @@ cr: 1
 environments: forest
 size: Small
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1
-  - monster/environment/forest
-  - monster/size/small
-  - monster/type/humanoid
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1
+  - monster\Environment\Forest
+  - monster\Size\Small
+  - monster\Type\Humanoid
 aliases:
   - Grung Wildling (Green)
 ---

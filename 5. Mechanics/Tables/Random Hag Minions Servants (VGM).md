@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/vgm
+  - 5. Mechanics\Src\5e\(VGM)
 aliases:
   - Random Hag Minions; Servants
 ---

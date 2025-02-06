@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/dreadful-word
+  - spell\List\Optfeature\Dreadful Word
 aliases:
   - Spells for Dreadful Word
 ---

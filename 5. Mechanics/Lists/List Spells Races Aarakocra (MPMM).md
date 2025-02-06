@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/race/aarakocra
+  - spell\List\Race\Aarakocra
 aliases:
   - Spells for Aarakocra
 ---

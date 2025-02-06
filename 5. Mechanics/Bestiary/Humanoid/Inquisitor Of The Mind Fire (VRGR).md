@@ -6,10 +6,10 @@ cr: 8
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/8
-  - monster/size/medium
-  - monster/type/humanoid
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\8
+  - monster\Size\Medium
+  - monster\Type\Humanoid
 aliases:
   - Inquisitor of the Mind Fire
 ---

@@ -2,24 +2,24 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
-  - spell/feat/shadow-touched
-  - spell/level/1st-level
-  - spell/optfeature/fiendish-vigor
-  - spell/school/necromancy
-  - spell/subclass/arcane-trickster
-  - spell/subclass/death-domain-dmg
-  - spell/subclass/eldritch-knight
-  - spell/subclass/grave-domain
-  - spell/subclass/hunger-domain
-  - spell/subclass/the-lithic
-  - spell/subclass/the-undead
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Shadow Touched
+  - spell\Level\1st Level
+  - spell\Optfeature\Fiendish Vigor
+  - spell\School\Necromancy
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Death Domain (DMG)
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Grave Domain
+  - spell\Subclass\Hunger Domain
+  - spell\Subclass\The Lithic
+  - spell\Subclass\The Undead
 level: 1st-level
 range: false
 school: Necromancy

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/race/yuan-ti
+  - spell\List\Race\Yuan Ti
 aliases:
   - Spells for Yuan-Ti
 ---

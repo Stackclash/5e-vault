@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/level/3rd-level
-  - spell/school/evocation
-  - spell/subclass/artillerist
-  - spell/subclass/nature-domain
-  - spell/subclass/the-genie
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Level\3rd Level
+  - spell\School\Evocation
+  - spell\Subclass\Artillerist
+  - spell\Subclass\Nature Domain
+  - spell\Subclass\The Genie
 level: 3rd-level
 range: false
 school: Evocation

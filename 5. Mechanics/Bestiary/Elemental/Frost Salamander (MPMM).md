@@ -6,11 +6,11 @@ cr: 9
 environments: arctic
 size: Huge
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/9
-  - monster/environment/arctic
-  - monster/size/huge
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\9
+  - monster\Environment\Arctic
+  - monster\Size\Huge
+  - monster\Type\Element(AL)
 aliases:
   - Frost Salamander
 ---

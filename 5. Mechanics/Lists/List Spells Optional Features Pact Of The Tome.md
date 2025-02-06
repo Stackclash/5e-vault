@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/pact-of-the-tome
+  - spell\List\Optfeature\Pact Of The Tome
 aliases:
   - Spells for Pact of the Tome
 ---

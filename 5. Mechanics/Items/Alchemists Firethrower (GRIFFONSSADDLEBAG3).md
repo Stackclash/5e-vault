@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/ranged
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
 aliases:
   - Alchemist's Firethrower
 one-hand-damage: 1d6 F
-range: 30/90
+range: 30\90
 ---
 # Alchemist's Firethrower
 *Weapon ([[5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), major, rare*  

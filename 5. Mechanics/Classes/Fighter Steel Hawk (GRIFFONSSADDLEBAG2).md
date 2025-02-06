@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - subclass/fighter/steel-hawk
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - subclass\Fighter\Steel Hawk
 aliases:
   - Steel Hawk
 ---

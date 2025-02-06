@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: 'underdark, hill'
 size: Small
 tags:
-  - compendium/src/5e/vgm
-  - monster/cr/1-8
-  - monster/environment/hill
-  - monster/environment/underdark
-  - monster/size/small
-  - monster/type/humanoid/xvart
+  - 5. Mechanics\Src\5e\(VGM)
+  - monster\Cr\1 8
+  - monster\Environment\Hill
+  - monster\Environment\Underdark
+  - monster\Size\Small
+  - monster\Type\Humanoid\Xvart
 aliases:
   - Xvart Speaker
 ---

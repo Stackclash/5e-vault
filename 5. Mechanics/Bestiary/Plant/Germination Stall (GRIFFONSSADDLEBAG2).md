@@ -6,10 +6,10 @@ cr: 5
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - monster/cr/5
-  - monster/size/huge
-  - monster/type/plant
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - monster\Cr\5
+  - monster\Size\Huge
+  - monster\Type\Plant
 aliases:
   - Germination Stall
 ---

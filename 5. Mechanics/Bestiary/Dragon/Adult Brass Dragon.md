@@ -6,11 +6,11 @@ cr: 13
 environments: desert
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/13
-  - monster/environment/desert
-  - monster/size/huge
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\13
+  - monster\Environment\Desert
+  - monster\Size\Huge
+  - monster\Type\Dragon
 aliases:
   - Adult Brass Dragon
 ---

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/xge
-  - subclass/druid/dreams
+  - 5. Mechanics\Src\5e\(XGE)
+  - subclass\Druid\Dreams
 aliases:
   - Circle of Dreams
 ---

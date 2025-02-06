@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/grave-domain
+  - spell\List\Subclass\Grave Domain
 aliases:
   - Spells for Grave Domain
 ---

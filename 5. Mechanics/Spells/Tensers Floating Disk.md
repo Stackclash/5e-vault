@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/feat/magic-initiate
-  - spell/feat/ritual-caster
-  - spell/level/1st-level
-  - spell/optfeature/book-of-ancient-secrets
-  - spell/ritual
-  - spell/school/conjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subrace/tiefling-mammon
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Ritual Caster
+  - spell\Level\1st Level
+  - spell\Optfeature\Book Of Ancient Secrets
+  - spell\Ritu(AL)
+  - spell\School\Conjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subrace\Tiefling Mammon
 level: 1st-level
 range: true
 school: Conjuration

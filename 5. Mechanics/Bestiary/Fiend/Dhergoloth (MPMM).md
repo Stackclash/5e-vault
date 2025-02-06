@@ -6,11 +6,11 @@ cr: 7
 environments: underdark
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/7
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/fiend/yugoloth
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\7
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Fiend\Yugoloth
 aliases:
   - Dhergoloth
 ---

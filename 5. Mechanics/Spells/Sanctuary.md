@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/abjuration
-  - spell/subclass/divine-soul
-  - spell/subclass/oath-of-devotion
-  - spell/subclass/oath-of-redemption
-  - spell/subclass/peace-domain
-  - spell/subclass/the-genie
-  - spell/subclass/way-of-the-open-hand
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Abjuration
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Oath Of Devotion
+  - spell\Subclass\Oath Of Redemption
+  - spell\Subclass\Peace Domain
+  - spell\Subclass\The Genie
+  - spell\Subclass\Way Of The Open Hand
 level: 1st-level
 range: false
 school: Abjuration

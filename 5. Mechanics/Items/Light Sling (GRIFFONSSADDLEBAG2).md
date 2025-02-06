@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/rarity/common
-  - item/tier/minor
-  - item/weapon/ranged
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Rarity\Common
+  - item\Tier\Minor
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
 aliases:
   - Light Sling
 one-hand-damage: 1d4 B
-range: 30/120
+range: 30\120
 ---
 # Light Sling
 *Weapon ([[5. Mechanics/Items/Sling.md\|sling]]), minor, common*  

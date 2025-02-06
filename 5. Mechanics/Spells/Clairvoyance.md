@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/school/divination
-  - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/path-of-the-ancestral-guardian
-  - spell/subclass/the-great-old-one
-  - spell/subclass/the-sibyl
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\School\Divination
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Path Of The Ancestral Guardian
+  - spell\Subclass\The Great Old One
+  - spell\Subclass\The Sibyl
 level: 3rd-level
 range: false
 school: Divination

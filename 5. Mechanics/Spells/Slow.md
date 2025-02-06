@@ -2,24 +2,24 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/optfeature/mire-the-mind
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/chain-domain
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/eldritch-knight
-  - spell/subclass/harvester-domain
-  - spell/subclass/oath-of-the-spelldrinker
-  - spell/subclass/order-domain
-  - spell/subclass/prophecy-domain
-  - spell/subclass/speed-domain
-  - spell/subclass/the-lithic
-  - spell/subclass/time-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\Optfeature\Mire The Mind
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Chain Domain
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Harvester Domain
+  - spell\Subclass\Oath Of The Spelldrinker
+  - spell\Subclass\Order Domain
+  - spell\Subclass\Prophecy Domain
+  - spell\Subclass\Speed Domain
+  - spell\Subclass\The Lithic
+  - spell\Subclass\Time Domain
 level: 3rd-level
 range: false
 school: Transmutation

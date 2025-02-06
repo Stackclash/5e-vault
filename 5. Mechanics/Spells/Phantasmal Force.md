@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/school/illusion
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/the-archfey
-  - spell/subclass/the-genie
-  - spell/subclass/the-great-old-one
-  - spell/subclass/the-undead
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\School\Illusion
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\The Archfey
+  - spell\Subclass\The Genie
+  - spell\Subclass\The Great Old One
+  - spell\Subclass\The Undead
 level: 2nd-level
 range: false
 school: Illusion

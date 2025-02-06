@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/drow-high-magic
-  - spell/level/2nd-level
-  - spell/optfeature/ascendant-step
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subrace/genasi-air
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Drow High Magic
+  - spell\Level\2nd Level
+  - spell\Optfeature\Ascendant Step
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subrace\Genasi Air
 level: 2nd-level
 range: false
 school: Transmutation

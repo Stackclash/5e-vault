@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-  - compendium/src/5e/dmg
-  - hazard/gen
+  - 5. Mechanics\Src\5e\(DMG)
+  - hazard\Gen
 aliases:
   - Improvised Damage
 ---

@@ -6,13 +6,13 @@ cr: 1
 environments: 'desert, mountain, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1
-  - monster/environment/desert
-  - monster/environment/mountain
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1
+  - monster\Environment\Desert
+  - monster\Environment\Mountain
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Construct
 aliases:
   - Stone Cursed
 ---

@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/telepathic
-  - spell/level/2nd-level
-  - spell/race/githzerai
-  - spell/school/divination
-  - spell/subclass/aberrant-mind
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-owls
-  - spell/subclass/eldritch-knight
-  - spell/subclass/second-soul
-  - spell/subclass/the-great-old-one
-  - spell/subrace/tiefling-dispater
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Telepathic
+  - spell\Level\2nd Level
+  - spell\Race\Githzer(AI)
+  - spell\School\Divination
+  - spell\Subclass\Aberrant Mind
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of Owls
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Second Soul
+  - spell\Subclass\The Great Old One
+  - spell\Subrace\Tiefling Dispater
 level: 2nd-level
 range: false
 school: Divination

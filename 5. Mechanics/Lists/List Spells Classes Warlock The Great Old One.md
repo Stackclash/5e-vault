@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/the-great-old-one
+  - spell\List\Subclass\The Great Old One
 aliases:
   - Spells for The Great Old One
 ---

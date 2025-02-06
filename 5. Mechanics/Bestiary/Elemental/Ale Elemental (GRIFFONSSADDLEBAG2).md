@@ -6,10 +6,10 @@ cr: 5
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - monster/cr/5
-  - monster/size/large
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - monster\Cr\5
+  - monster\Size\Large
+  - monster\Type\Element(AL)
 aliases:
   - Ale Elemental
 ---

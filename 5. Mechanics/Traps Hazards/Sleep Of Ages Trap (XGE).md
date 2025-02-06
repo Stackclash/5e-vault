@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-  - compendium/src/5e/xge
-  - hazard/smpl
+  - 5. Mechanics\Src\5e\(XGE)
+  - hazard\Smpl
 aliases:
   - Sleep of Ages Trap
 ---

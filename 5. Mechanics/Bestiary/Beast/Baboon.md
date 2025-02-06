@@ -6,12 +6,12 @@ cr: 0
 environments: 'forest, hill'
 size: Small
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/size/small
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Size\Small
+  - monster\Type\Beast
 aliases:
   - Baboon
 ---

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tce
-  - item/attunement/required
-  - item/rarity/very-rare
+  - 5. Mechanics\Src\5e\(TCE)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
 aliases:
   - +3 Amulet of the Devout
 ---

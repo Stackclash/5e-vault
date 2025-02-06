@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/tier/major
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Tier\Major
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Shade and Shine
 one-hand-damage: 1d6 S
-range: 20/60
+range: 20\60
 ---
 # Shade and Shine
 *Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, legendary (requires attunement)*  

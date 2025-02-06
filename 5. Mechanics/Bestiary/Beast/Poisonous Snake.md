@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: 'grassland, forest, swamp, hill, desert, coastal'
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/swamp
-  - monster/size/tiny
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 8
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Swamp
+  - monster\Size\Tiny
+  - monster\Type\Beast
 aliases:
   - Poisonous Snake
 ---

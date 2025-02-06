@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/hhhviii
-  - subclass/sorcerer/skin-wearer
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - subclass\Sorcerer\Skin Wearer
 aliases:
   - Skin Wearer
 ---

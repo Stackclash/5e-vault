@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/nonhuman
-  - domain/tempest
-  - domain/war
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Nonhuman
+  - domain\Tempest
+  - domain\War
 aliases:
   - Gruumsh
 ---

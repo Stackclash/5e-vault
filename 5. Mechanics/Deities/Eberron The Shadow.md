@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/eberron
-  - domain/knowledge
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Eberron
+  - domain\Knowledge
 aliases:
   - The Shadow
 ---

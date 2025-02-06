@@ -6,16 +6,16 @@ cr: 5
 environments: 'underdark, mountain, forest, swamp, hill, arctic'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/arctic
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\5
+  - monster\Environment\Arctic
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Giant
 aliases:
   - Troll
 ---

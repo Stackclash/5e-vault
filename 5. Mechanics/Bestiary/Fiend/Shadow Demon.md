@@ -6,10 +6,10 @@ cr: 4
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/size/medium
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\4
+  - monster\Size\Medium
+  - monster\Type\Fiend\Demon
 aliases:
   - Shadow Demon
 ---

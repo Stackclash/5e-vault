@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/age/futuristic
-  - item/age/modern
-  - item/age/renaissance
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/melee
-  - item/weapon/ranged
-  - item/weapon/simple
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Age\Futuristic
+  - item\Age\Modern
+  - item\Age\Renaissance
+  - item\Rarity\Very Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
+  - item\Wondrous\Generic Variant
 aliases:
   - +3 Weapon
   - +3 Antimatter Rifle

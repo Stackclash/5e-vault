@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/age/futuristic
-  - item/age/modern
-  - item/age/renaissance
-  - item/gear/ammunition
-  - item/gear/ammunition-firearm
-  - item/rarity/very-rare
-  - item/tier/minor
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Age\Futuristic
+  - item\Age\Modern
+  - item\Age\Renaissance
+  - item\Gear\Ammunition
+  - item\Gear\Ammunition Firearm
+  - item\Rarity\Very Rare
+  - item\Tier\Minor
+  - item\Wondrous\Generic Variant
 aliases:
   - +3 Ammunition
   - +3 Arrow

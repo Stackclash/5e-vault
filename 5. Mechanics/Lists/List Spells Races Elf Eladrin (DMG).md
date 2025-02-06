@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subrace/elf-eladrin-dmg
+  - spell\List\Subrace\Elf Eladrin (DMG)
 aliases:
   - Spells for Elf (Eladrin) (DMG)
 ---

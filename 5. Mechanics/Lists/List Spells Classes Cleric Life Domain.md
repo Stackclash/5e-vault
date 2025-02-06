@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/life-domain
+  - spell\List\Subclass\Life Domain
 aliases:
   - Spells for Life Domain
 ---

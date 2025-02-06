@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/artillerist
+  - spell\List\Subclass\Artillerist
 aliases:
   - Spells for Artillerist
 ---

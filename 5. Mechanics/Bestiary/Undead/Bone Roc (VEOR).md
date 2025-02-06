@@ -6,10 +6,10 @@ cr: 8
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/veor
-  - monster/cr/8
-  - monster/size/huge
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(VEOR)
+  - monster\Cr\8
+  - monster\Size\Huge
+  - monster\Type\Undead
 aliases:
   - Bone Roc
 ---

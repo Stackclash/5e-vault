@@ -2,26 +2,26 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/race/tiefling-base
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-eclipse
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/darkness-domain
-  - spell/subclass/eldritch-knight
-  - spell/subclass/oathbreaker-dmg
-  - spell/subclass/shadow-magic
-  - spell/subclass/way-of-shadow
-  - spell/subrace/elf-drow
-  - spell/subrace/tiefling
-  - spell/subrace/tiefling-asmodeus
-  - spell/subrace/tiefling-levistus
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\Race\Tiefling Base
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of The Eclipse
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Darkness Domain
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Oathbreaker (DMG)
+  - spell\Subclass\Shadow Magic
+  - spell\Subclass\Way Of Shadow
+  - spell\Subrace\Elf Drow
+  - spell\Subrace\Tiefling
+  - spell\Subrace\Tiefling Asmode(US)
+  - spell\Subrace\Tiefling Levist(US)
 level: 2nd-level
 range: false
 school: Evocation

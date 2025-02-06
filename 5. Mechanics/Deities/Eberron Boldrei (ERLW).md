@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/erlw
-  - deity/eberron
-  - domain/life
-  - domain/peace
-  - domain/twilight
+  - 5. Mechanics\Src\5e\(ERLW)
+  - deity\Eberron
+  - domain\Life
+  - domain\Peace
+  - domain\Twilight
 aliases:
   - Boldrei
 ---

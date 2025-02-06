@@ -6,11 +6,11 @@ cr: 7
 environments: forest
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/7
-  - monster/environment/forest
-  - monster/size/huge
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\7
+  - monster\Environment\Forest
+  - monster\Size\Huge
+  - monster\Type\Beast
 aliases:
   - Giant Ape
 ---

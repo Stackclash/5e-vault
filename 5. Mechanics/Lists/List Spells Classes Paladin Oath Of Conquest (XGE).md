@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/oath-of-conquest
+  - spell\List\Subclass\Oath Of Conquest
 aliases:
   - Spells for Oath of Conquest
 ---

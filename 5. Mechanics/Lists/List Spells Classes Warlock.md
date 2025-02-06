@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/class/warlock
+  - spell\List\Class\Warlock
 aliases:
   - Warlock Spells
 ---

@@ -2,24 +2,24 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/feat/fey-touched
-  - spell/feat/magic-initiate
-  - spell/feat/ritual-caster
-  - spell/level/1st-level
-  - spell/optfeature/beast-speech
-  - spell/optfeature/book-of-ancient-secrets
-  - spell/ritual
-  - spell/school/divination
-  - spell/subclass/cat-domain
-  - spell/subclass/hedge-mage
-  - spell/subclass/nature-domain
-  - spell/subclass/oath-of-the-ancients
-  - spell/subclass/ocean-domain
-  - spell/subclass/path-of-the-totem-warrior
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Feat\Fey Touched
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Ritual Caster
+  - spell\Level\1st Level
+  - spell\Optfeature\Beast Speech
+  - spell\Optfeature\Book Of Ancient Secrets
+  - spell\Ritu(AL)
+  - spell\School\Divination
+  - spell\Subclass\Cat Domain
+  - spell\Subclass\Hedge Mage
+  - spell\Subclass\Nature Domain
+  - spell\Subclass\Oath Of The Ancients
+  - spell\Subclass\Ocean Domain
+  - spell\Subclass\Path Of The Totem Warrior
 level: 1st-level
 range: true
 school: Divination

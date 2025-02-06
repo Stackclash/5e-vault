@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/school/abjuration
+  - spell\List\School\Abjuration
 aliases:
   - Abjuration Spells
 ---

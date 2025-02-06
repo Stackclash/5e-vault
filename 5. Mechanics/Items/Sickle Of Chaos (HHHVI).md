@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/attunement/required
-  - item/rarity/rare
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Sickle of Chaos
 one-hand-damage: 1d4 S

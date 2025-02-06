@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/school/divination
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/justice-domain
-  - spell/subclass/oath-of-the-watchers
-  - spell/subclass/oath-of-the-watchtower
-  - spell/subclass/prophecy-domain
-  - spell/subclass/the-many
-  - spell/subclass/twilight-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\School\Divination
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Justice Domain
+  - spell\Subclass\Oath Of The Watchers
+  - spell\Subclass\Oath Of The Watchtower
+  - spell\Subclass\Prophecy Domain
+  - spell\Subclass\The Many
+  - spell\Subclass\Twilight Domain
 level: 2nd-level
 range: false
 school: Divination

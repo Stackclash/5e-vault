@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/optfeature/sculptor-of-flesh
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/the-shapechanger
-  - spell/subclass/trickery-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\Optfeature\Sculptor Of Flesh
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\The Shapechanger
+  - spell\Subclass\Trickery Domain
 level: 4th-level
 range: false
 school: Transmutation

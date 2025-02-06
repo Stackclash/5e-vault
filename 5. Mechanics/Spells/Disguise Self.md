@@ -2,28 +2,28 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
-  - spell/feat/shadow-touched
-  - spell/feat/svirfneblin-magic
-  - spell/level/1st-level
-  - spell/optfeature/mask-of-many-faces
-  - spell/race/deep-gnome
-  - spell/race/firbolg
-  - spell/race/gnome-deep-dmg
-  - spell/race/hexblood
-  - spell/school/illusion
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/gloom-stalker
-  - spell/subclass/trickery-domain
-  - spell/subrace/tiefling-dispater
-  - spell/subrace/tiefling-glasya
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Shadow Touched
+  - spell\Feat\Svirfneblin Magic
+  - spell\Level\1st Level
+  - spell\Optfeature\Mask Of Many Faces
+  - spell\Race\Deep Gnome
+  - spell\Race\Firbolg
+  - spell\Race\Gnome Deep (DMG)
+  - spell\Race\Hexblood
+  - spell\School\Illusion
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Gloom Stalker
+  - spell\Subclass\Trickery Domain
+  - spell\Subrace\Tiefling Dispater
+  - spell\Subrace\Tiefling Glasya
 level: 1st-level
 range: false
 school: Illusion

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/xge
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/level/4th-level
-  - spell/school/transmutation
+  - 5. Mechanics\Src\5e\(XGE)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Level\4th Level
+  - spell\School\Transmutation
 level: 4th-level
 range: false
 school: Transmutation

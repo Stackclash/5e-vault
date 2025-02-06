@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/scag
-  - deity/faerunian
-  - domain/knowledge
-  - domain/life
-  - domain/twilight
+  - 5. Mechanics\Src\5e\(SCAG)
+  - deity\Faerunian
+  - domain\Knowledge
+  - domain\Life
+  - domain\Twilight
 aliases:
   - Selûne
   - Our Lady of Silver

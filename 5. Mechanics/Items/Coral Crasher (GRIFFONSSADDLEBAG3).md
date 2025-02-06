@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/melee
-  - item/weapon/simple
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Rarity\Very Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
+  - item\Weapon\Simple
+  - item\Wondrous\Generic Variant
 aliases:
   - Coral Crasher
   - Coral Crasher Battleaxe

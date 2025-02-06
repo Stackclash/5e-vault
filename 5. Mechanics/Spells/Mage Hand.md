@@ -2,27 +2,27 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
-  - spell/feat/telekinetic
-  - spell/level/cantrip
-  - spell/optfeature/pact-of-the-tome
-  - spell/race/githyanki
-  - spell/race/githzerai
-  - spell/race/kobold
-  - spell/school/conjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/swarmkeeper
-  - spell/subrace/elf-high
-  - spell/subrace/tiefling-mammon
-  - spell/subrace/tiefling-mephistopheles
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Telekinetic
+  - spell\Level\Cantrip
+  - spell\Optfeature\Pact Of The Tome
+  - spell\Race\Githyanki
+  - spell\Race\Githzer(AI)
+  - spell\Race\Kobold
+  - spell\School\Conjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Swarmkeeper
+  - spell\Subrace\Elf High
+  - spell\Subrace\Tiefling Mammon
+  - spell\Subrace\Tiefling Mephistopheles
 level: cantrip
 range: false
 school: Conjuration

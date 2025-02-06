@@ -6,11 +6,11 @@ cr: 5
 environments: urban
 size: Medium
 tags:
-  - compendium/src/5e/mtf
-  - monster/cr/5
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/fiend
+  - 5. Mechanics\Src\5e\(MTF)
+  - monster\Cr\5
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Fiend
 aliases:
   - Infernal Cambion
 ---

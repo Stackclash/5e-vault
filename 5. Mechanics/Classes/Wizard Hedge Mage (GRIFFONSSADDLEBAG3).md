@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - subclass/wizard/hedge-mage
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - subclass\Wizard\Hedge Mage
 aliases:
   - Hedge Mage
 ---

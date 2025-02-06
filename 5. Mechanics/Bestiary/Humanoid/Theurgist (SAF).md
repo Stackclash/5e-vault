@@ -6,10 +6,10 @@ cr: Unknown
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/unknown
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\Unknown
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Any Race
 aliases:
   - Theurgist
 ---

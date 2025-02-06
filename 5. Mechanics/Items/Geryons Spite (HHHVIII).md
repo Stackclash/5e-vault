@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Geryon's Spite
 one-hand-damage: 1d10 P

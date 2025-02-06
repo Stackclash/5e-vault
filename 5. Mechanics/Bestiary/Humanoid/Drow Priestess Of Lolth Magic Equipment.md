@@ -6,11 +6,11 @@ cr: 8
 environments: underdark
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/8
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/elf
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\8
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Elf
 aliases:
   - Drow Priestess of Lolth (Magic Equipment)
 ---

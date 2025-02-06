@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/artificer
-  - compendium/src/5e/tce
+  - class\Artificer
+  - 5. Mechanics\Src\5e\(TCE)
 aliases:
   - Artificer
 ---

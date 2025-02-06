@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/hhhvi
-  - optional-feature/ct
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - optional Feature\Ct
 aliases:
   - Leatherworker
 ---

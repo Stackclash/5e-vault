@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/paladin
-  - spell/class/ranger
-  - spell/level/2nd-level
-  - spell/school/abjuration
-  - spell/subclass/divine-soul
-  - spell/subclass/hedge-mage
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Paladin
+  - spell\Class\Ranger
+  - spell\Level\2nd Level
+  - spell\School\Abjuration
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Hedge Mage
 level: 2nd-level
 range: false
 school: Abjuration

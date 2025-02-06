@@ -6,12 +6,12 @@ cr: 20
 environments: underdark
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/20
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/cleric
-  - monster/type/humanoid/elf
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\20
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Cleric
+  - monster\Type\Humanoid\Elf
 aliases:
   - Drow Matron Mother
 ---

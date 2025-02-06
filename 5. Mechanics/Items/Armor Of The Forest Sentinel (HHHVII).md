@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/armor/heavy
-  - item/attunement/required
-  - item/rarity/rare
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Armor\Heavy
+  - item\Attunement\Required
+  - item\Rarity\Rare
 aliases:
   - Armor of the Forest Sentinel
 armorClass: 17

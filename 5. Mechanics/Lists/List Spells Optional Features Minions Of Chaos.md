@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/minions-of-chaos
+  - spell\List\Optfeature\Minions Of Chaos
 aliases:
   - Spells for Minions of Chaos
 ---

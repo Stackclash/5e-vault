@@ -2,27 +2,27 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
-  - spell/level/cantrip
-  - spell/optfeature/blessed-warrior
-  - spell/optfeature/pact-of-the-tome
-  - spell/race/aasimar
-  - spell/race/aasimar-dmg
-  - spell/race/kobold
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/light-domain
-  - spell/subclass/the-celestial
-  - spell/subrace/elf-high
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Magic Initiate
+  - spell\Level\Cantrip
+  - spell\Optfeature\Blessed Warrior
+  - spell\Optfeature\Pact Of The Tome
+  - spell\Race\Aasimar
+  - spell\Race\Aasimar (DMG)
+  - spell\Race\Kobold
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Light Domain
+  - spell\Subclass\The Celesti(AL)
+  - spell\Subrace\Elf High
 level: cantrip
 range: false
 school: Evocation

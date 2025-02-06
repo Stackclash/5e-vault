@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/weapon/ranged
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Rarity\Uncommon
+  - item\Tier\Major
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
 aliases:
   - Torchbearer's Sling
 one-hand-damage: 1d4 B
-range: 30/120
+range: 30\120
 ---
 # Torchbearer's Sling
 *Weapon ([[5. Mechanics/Items/Sling.md\|sling]]), major, uncommon*  

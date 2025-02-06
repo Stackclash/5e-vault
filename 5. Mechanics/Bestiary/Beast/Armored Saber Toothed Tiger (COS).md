@@ -6,10 +6,10 @@ cr: 3
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/cos
-  - monster/cr/3
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(COS)
+  - monster\Cr\3
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Armored Saber-Toothed Tiger
 ---

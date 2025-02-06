@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'coastal, forest, swamp, underdark, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-2
-  - monster/environment/coastal
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 2
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Skulk
 ---

@@ -6,10 +6,10 @@ cr: 2
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/2
-  - monster/size/small
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\2
+  - monster\Size\Small
+  - monster\Type\Fiend\Demon
 aliases:
   - Devourer
 ---

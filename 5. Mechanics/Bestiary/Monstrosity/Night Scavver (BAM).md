@@ -6,10 +6,10 @@ cr: 5
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/bam
-  - monster/cr/5
-  - monster/size/huge
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(BAM)
+  - monster\Cr\5
+  - monster\Size\Huge
+  - monster\Type\Monstrosity
 aliases:
   - Night Scavver
 ---

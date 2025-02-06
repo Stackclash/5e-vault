@@ -6,10 +6,10 @@ cr: 13
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/13
-  - monster/size/medium
-  - monster/type/fiend/devil
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\13
+  - monster\Size\Medium
+  - monster\Type\Fiend\Devil
 aliases:
   - Narzugon
 ---

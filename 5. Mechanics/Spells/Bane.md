@@ -2,23 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/feat/fey-touched
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/optfeature/thief-of-five-fates
-  - spell/school/enchantment
-  - spell/subclass/apocalypse-domain
-  - spell/subclass/circle-of-the-eclipse
-  - spell/subclass/divine-soul
-  - spell/subclass/grave-domain
-  - spell/subclass/gravetender
-  - spell/subclass/oath-of-the-spelldrinker
-  - spell/subclass/oath-of-vengeance
-  - spell/subclass/the-undead
-  - spell/subclass/void-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Feat\Fey Touched
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\Optfeature\Thief Of Five Fates
+  - spell\School\Enchantment
+  - spell\Subclass\Apocalypse Domain
+  - spell\Subclass\Circle Of The Eclipse
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Grave Domain
+  - spell\Subclass\Gravetender
+  - spell\Subclass\Oath Of The Spelldrinker
+  - spell\Subclass\Oath Of Vengeance
+  - spell\Subclass\The Undead
+  - spell\Subclass\Void Domain
 level: 1st-level
 range: false
 school: Enchantment

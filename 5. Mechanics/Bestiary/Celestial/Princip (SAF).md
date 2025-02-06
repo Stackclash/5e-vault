@@ -6,10 +6,10 @@ cr: 5
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/5
-  - monster/size/medium
-  - monster/type/celestial
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\5
+  - monster\Size\Medium
+  - monster\Type\Celesti(AL)
 aliases:
   - Princip
 ---

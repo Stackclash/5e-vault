@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/oath-of-the-annihilator
+  - spell\List\Subclass\Oath Of The Annihila(TOR)
 aliases:
   - Spells for Oath of the Annihilator
 ---

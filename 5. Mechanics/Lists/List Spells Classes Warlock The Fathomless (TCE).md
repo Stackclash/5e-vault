@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/the-fathomless
+  - spell\List\Subclass\The Fathomless
 aliases:
   - Spells for The Fathomless
 ---

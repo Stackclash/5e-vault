@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/forgotten-realms
-  - domain/life
-  - domain/light
-  - domain/twilight
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Forgotten Realms
+  - domain\Life
+  - domain\Light
+  - domain\Twilight
 aliases:
   - Helm
 ---

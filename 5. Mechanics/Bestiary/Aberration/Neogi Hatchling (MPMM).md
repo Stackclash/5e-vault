@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: 'hill, underdark'
 size: Tiny
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-8
-  - monster/environment/hill
-  - monster/environment/underdark
-  - monster/size/tiny
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 8
+  - monster\Environment\Hill
+  - monster\Environment\Underdark
+  - monster\Size\Tiny
+  - monster\Type\Aberration
 aliases:
   - Neogi Hatchling
 ---

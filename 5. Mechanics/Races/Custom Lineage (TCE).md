@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/tce
-  - race/custom-lineage
+  - 5. Mechanics\Src\5e\(TCE)
+  - race\Custom Lineage
 aliases:
   - Custom Lineage
 ---

@@ -6,13 +6,13 @@ cr: 5
 environments: 'hill, mountain, underdark'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/5
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\5
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Fiend\Demon
 aliases:
   - Tanarukk
 ---

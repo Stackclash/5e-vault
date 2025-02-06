@@ -6,10 +6,10 @@ cr: 8
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/8
-  - monster/size/medium
-  - monster/type/humanoid/gith
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\8
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Gith
 aliases:
   - Githyanki Knight
 ---

@@ -6,12 +6,12 @@ cr: 15
 environments: 'underdark, desert'
 size: Gargantuan
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/15
-  - monster/environment/desert
-  - monster/environment/underdark
-  - monster/size/gargantuan
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\15
+  - monster\Environment\Desert
+  - monster\Environment\Underdark
+  - monster\Size\Gargantuan
+  - monster\Type\Monstrosity
 aliases:
   - Purple Worm
 ---

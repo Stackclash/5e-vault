@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/9th-level
-  - spell/school/illusion
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\9th Level
+  - spell\School\Illusion
 level: 9th-level
 range: false
 school: Illusion

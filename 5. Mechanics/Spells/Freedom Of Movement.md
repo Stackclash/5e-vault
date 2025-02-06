@@ -2,25 +2,25 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/level/4th-level
-  - spell/optfeature/tricksters-escape
-  - spell/school/abjuration
-  - spell/subclass/chain-domain
-  - spell/subclass/circle-of-oaks
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/clockwork-soul
-  - spell/subclass/divine-soul
-  - spell/subclass/oath-of-devotion
-  - spell/subclass/oath-of-glory
-  - spell/subclass/oath-of-thunder
-  - spell/subclass/travel-domain
-  - spell/subclass/war-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Level\4th Level
+  - spell\Optfeature\Tricksters Escape
+  - spell\School\Abjuration
+  - spell\Subclass\Chain Domain
+  - spell\Subclass\Circle Of Oaks
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Clockwork Soul
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Oath Of Devotion
+  - spell\Subclass\Oath Of Glory
+  - spell\Subclass\Oath Of Thunder
+  - spell\Subclass\Travel Domain
+  - spell\Subclass\War Domain
 level: 4th-level
 range: false
 school: Abjuration

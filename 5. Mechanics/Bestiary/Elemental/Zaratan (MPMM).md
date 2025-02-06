@@ -6,16 +6,16 @@ cr: 22
 environments: 'desert, forest, grassland, hill, mountain, underdark'
 size: Gargantuan
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/22
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/gargantuan
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\22
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Gargantuan
+  - monster\Type\Element(AL)
 aliases:
   - Zaratan
 ---

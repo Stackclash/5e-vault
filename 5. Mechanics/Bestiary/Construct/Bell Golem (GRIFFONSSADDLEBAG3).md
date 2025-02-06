@@ -6,10 +6,10 @@ cr: 12
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/12
-  - monster/size/huge
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\12
+  - monster\Size\Huge
+  - monster\Type\Construct
 aliases:
   - Bell Golem
 ---

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/armor/medium
-  - item/rarity/rare
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Armor\Medium
+  - item\Rarity\Rare
 aliases:
   - Camouflage Chitin
 armorClass: 13 + Dex modifier (max of +2)

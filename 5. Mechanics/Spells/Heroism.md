@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/paladin
-  - spell/feat/fey-touched
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/enchantment
-  - spell/subclass/battle-smith
-  - spell/subclass/beer-domain
-  - spell/subclass/oath-of-glory
-  - spell/subclass/oath-of-thunder
-  - spell/subclass/order-domain
-  - spell/subclass/peace-domain
-  - spell/subclass/the-valiant
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Paladin
+  - spell\Feat\Fey Touched
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Enchantment
+  - spell\Subclass\Battle Smith
+  - spell\Subclass\Beer Domain
+  - spell\Subclass\Oath Of Glory
+  - spell\Subclass\Oath Of Thunder
+  - spell\Subclass\Order Domain
+  - spell\Subclass\Peace Domain
+  - spell\Subclass\The Valiant
 level: 1st-level
 range: false
 school: Enchantment

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/rarity/uncommon
-  - item/tier/minor
-  - item/wondrous/potion
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Rarity\Uncommon
+  - item\Tier\Minor
+  - item\Wondrous\Potion
 aliases:
   - Elixir of Night
 ---

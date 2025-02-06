@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/rarity/rare
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Rarity\Rare
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Charming Knife
 one-hand-damage: 1d4 P
-range: 20/60
+range: 20\60
 ---
 # Charming Knife
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), rare*  

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/elven
-  - domain/knowledge
-  - domain/life
-  - domain/peace
-  - domain/war
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Elven
+  - domain\Knowledge
+  - domain\Life
+  - domain\Peace
+  - domain\War
 aliases:
   - Angharradh
 ---

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/sorcerer
-  - compendium/src/5e/phb
+  - class\Sorcerer
+  - 5. Mechanics\Src\5e\(PHB)
 aliases:
   - Sorcerer
 ---

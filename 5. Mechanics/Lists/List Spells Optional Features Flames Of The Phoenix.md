@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/flames-of-the-phoenix
+  - spell\List\Optfeature\Flames Of The Phoenix
 aliases:
   - Spells for Flames of the Phoenix
 ---

@@ -6,14 +6,14 @@ cr: 0
 environments: 'mountain, grassland, hill, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Beast
 aliases:
   - Goat
 ---

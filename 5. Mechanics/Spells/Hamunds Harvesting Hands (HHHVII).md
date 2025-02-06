@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/hhhvii
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/ranger
-  - spell/class/wizard
-  - spell/level/1st-level
-  - spell/optfeature/book-of-ancient-secrets
-  - spell/ritual
-  - spell/school/conjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/harvester-domain
-  - spell/subclass/oath-of-legacy
-  - spell/subclass/the-apex-predator
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Ranger
+  - spell\Class\Wizard
+  - spell\Level\1st Level
+  - spell\Optfeature\Book Of Ancient Secrets
+  - spell\Ritu(AL)
+  - spell\School\Conjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Harvester Domain
+  - spell\Subclass\Oath Of Legacy
+  - spell\Subclass\The Apex Preda(TOR)
 level: 1st-level
 range: true
 school: Conjuration

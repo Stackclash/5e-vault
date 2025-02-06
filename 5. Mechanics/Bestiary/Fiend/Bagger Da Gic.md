@@ -6,10 +6,10 @@ cr: 3
 environments: null
 size: Medium
 tags:
-  - 'compendium/src/5e/da:gic'
-  - monster/cr/3
-  - monster/size/medium
-  - monster/type/fiend/devil
+  - '5. Mechanics\Src\5e\(DA:GIC)'
+  - monster\Cr\3
+  - monster\Size\Medium
+  - monster\Type\Fiend\Devil
 aliases:
   - Bagger
 ---

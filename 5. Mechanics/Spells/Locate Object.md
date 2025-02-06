@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/paladin
-  - spell/class/ranger
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/school/divination
-  - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/wealth-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Paladin
+  - spell\Class\Ranger
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\School\Divination
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Wealth Domain
 level: 2nd-level
 range: false
 school: Divination

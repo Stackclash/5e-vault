@@ -2,27 +2,27 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/optfeature/chains-of-carceri
-  - spell/school/enchantment
-  - spell/subclass/angler
-  - spell/subclass/chain-domain
-  - spell/subclass/fey-trapper
-  - spell/subclass/harvester-domain
-  - spell/subclass/hunting-domain
-  - spell/subclass/justice-domain
-  - spell/subclass/monster-slayer
-  - spell/subclass/moon-domain
-  - spell/subclass/oath-of-redemption
-  - spell/subclass/oath-of-the-watchers
-  - spell/subclass/oath-of-vengeance
-  - spell/subclass/speed-domain
-  - spell/subclass/war-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\Optfeature\Chains Of Carceri
+  - spell\School\Enchantment
+  - spell\Subclass\Angler
+  - spell\Subclass\Chain Domain
+  - spell\Subclass\Fey Trapper
+  - spell\Subclass\Harvester Domain
+  - spell\Subclass\Hunting Domain
+  - spell\Subclass\Justice Domain
+  - spell\Subclass\Monster Slayer
+  - spell\Subclass\Moon Domain
+  - spell\Subclass\Oath Of Redemption
+  - spell\Subclass\Oath Of The Watchers
+  - spell\Subclass\Oath Of Vengeance
+  - spell\Subclass\Speed Domain
+  - spell\Subclass\War Domain
 level: 5th-level
 range: false
 school: Enchantment

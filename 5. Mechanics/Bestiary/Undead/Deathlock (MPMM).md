@@ -6,11 +6,11 @@ cr: 4
 environments: urban
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/4
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead/warlock
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\4
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Undead\Warlock
 aliases:
   - Deathlock
 ---

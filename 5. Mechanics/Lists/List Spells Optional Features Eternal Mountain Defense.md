@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/eternal-mountain-defense
+  - spell\List\Optfeature\Eternal Mountain Defense
 aliases:
   - Spells for Eternal Mountain Defense
 ---

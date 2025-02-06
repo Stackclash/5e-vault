@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/paladin
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/ritual
-  - spell/school/divination
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Paladin
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\Ritu(AL)
+  - spell\School\Divination
 level: 5th-level
 range: true
 school: Divination

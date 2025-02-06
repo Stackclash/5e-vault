@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/mire-the-mind
+  - spell\List\Optfeature\Mire The Mind
 aliases:
   - Spells for Mire the Mind
 ---

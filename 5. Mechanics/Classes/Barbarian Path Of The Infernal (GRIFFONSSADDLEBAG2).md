@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - subclass/barbarian/infernal
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - subclass\Barbarian\Infern(AL)
 aliases:
   - Path of the Infernal
 ---

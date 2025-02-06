@@ -6,10 +6,10 @@ cr: 2
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/2
-  - monster/size/medium
-  - monster/type/plant
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\2
+  - monster\Size\Medium
+  - monster\Type\Plant
 aliases:
   - Swarm of Nox Flowers
 ---

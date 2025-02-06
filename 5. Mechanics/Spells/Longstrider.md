@@ -2,23 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/class/wizard
-  - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
-  - spell/feat/wood-elf-magic
-  - spell/level/1st-level
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/justice-domain
-  - spell/subclass/oath-of-the-open-road
-  - spell/subclass/oath-of-the-watchtower
-  - spell/subclass/travel-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Class\Wizard
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Wood Elf Magic
+  - spell\Level\1st Level
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Justice Domain
+  - spell\Subclass\Oath Of The Open Road
+  - spell\Subclass\Oath Of The Watchtower
+  - spell\Subclass\Travel Domain
 level: 1st-level
 range: false
 school: Transmutation

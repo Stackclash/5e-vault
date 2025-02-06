@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/school/necromancy
-  - spell/subclass/arcane-trickster
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\School\Necromancy
+  - spell\Subclass\Arcane Trickster
 level: 2nd-level
 range: false
 school: Necromancy

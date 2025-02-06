@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/pact-of-the-chain
+  - spell\List\Optfeature\Pact Of The Chain
 aliases:
   - Spells for Pact of the Chain
 ---

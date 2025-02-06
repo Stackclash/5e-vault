@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/hhhviii
-  - domain/harvester
-  - subclass/cleric/harvester
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - domain\Harvester
+  - subclass\Cleric\Harvester
 aliases:
   - Harvester Domain
 ---

@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Soothstriker
 one-hand-damage: 1d8 P

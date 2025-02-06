@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/oath-of-radiance
+  - spell\List\Subclass\Oath Of Radiance
 aliases:
   - Spells for Oath of Radiance
 ---

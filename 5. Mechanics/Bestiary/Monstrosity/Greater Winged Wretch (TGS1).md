@@ -6,13 +6,13 @@ cr: 4
 environments: 'swamp, forest, hearth'
 size: Large
 tags:
-  - compendium/src/5e/tgs1
-  - monster/cr/4
-  - monster/environment/forest
-  - monster/environment/hearth
-  - monster/environment/swamp
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(TGS1)
+  - monster\Cr\4
+  - monster\Environment\Forest
+  - monster\Environment\Hearth
+  - monster\Environment\Swamp
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Greater Winged Wretch
 ---

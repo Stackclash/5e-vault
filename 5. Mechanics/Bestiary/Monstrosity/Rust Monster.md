@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: underdark
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 2
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Rust Monster
 ---

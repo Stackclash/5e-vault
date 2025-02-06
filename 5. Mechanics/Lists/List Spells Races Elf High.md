@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subrace/elf-high
+  - spell\List\Subrace\Elf High
 aliases:
   - Spells for Elf (High)
 ---

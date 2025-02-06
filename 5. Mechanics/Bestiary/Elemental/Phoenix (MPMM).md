@@ -6,12 +6,12 @@ cr: 16
 environments: 'desert, mountain'
 size: Gargantuan
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/16
-  - monster/environment/desert
-  - monster/environment/mountain
-  - monster/size/gargantuan
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\16
+  - monster\Environment\Desert
+  - monster\Environment\Mountain
+  - monster\Size\Gargantuan
+  - monster\Type\Element(AL)
 aliases:
   - Phoenix
 ---

@@ -6,11 +6,11 @@ cr: 13
 environments: underdark
 size: Gargantuan
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/13
-  - monster/environment/underdark
-  - monster/size/gargantuan
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\13
+  - monster\Environment\Underdark
+  - monster\Size\Gargantuan
+  - monster\Type\Aberration
 aliases:
   - Neothelid
 ---

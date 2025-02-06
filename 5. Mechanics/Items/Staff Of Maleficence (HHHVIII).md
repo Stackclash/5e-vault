@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Staff of Maleficence
 one-hand-damage: 1d6 B

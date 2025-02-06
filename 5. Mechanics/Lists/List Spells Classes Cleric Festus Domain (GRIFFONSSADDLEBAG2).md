@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/festus-domain
+  - spell\List\Subclass\Festus Domain
 aliases:
   - Spells for Festus Domain
 ---

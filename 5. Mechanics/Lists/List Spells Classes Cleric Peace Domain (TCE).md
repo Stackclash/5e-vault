@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/peace-domain
+  - spell\List\Subclass\Peace Domain
 aliases:
   - Spells for Peace Domain
 ---

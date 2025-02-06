@@ -6,13 +6,13 @@ cr: 1
 environments: 'hill, mountain, underdark'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Element(AL)
 aliases:
   - Giant Strider
 ---

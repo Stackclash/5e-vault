@@ -6,10 +6,10 @@ cr: null
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/dmg
-  - monster/cr/
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(DMG)
+  - monster\Cr
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Giant Fly (DMG)
 ---

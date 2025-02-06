@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/school/conjuration
-  - spell/subclass/alchemist
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-eclipse
-  - spell/subclass/circle-of-wildfire
-  - spell/subclass/eldritch-knight
-  - spell/subclass/light-domain
-  - spell/subclass/the-celestial
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\School\Conjuration
+  - spell\Subclass\Alchemist
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of The Eclipse
+  - spell\Subclass\Circle Of Wildfire
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Light Domain
+  - spell\Subclass\The Celesti(AL)
 level: 2nd-level
 range: false
 school: Conjuration

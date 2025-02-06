@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/vgm
-  - deity/orc
-  - domain/tempest
-  - domain/war
+  - 5. Mechanics\Src\5e\(VGM)
+  - deity\Orc
+  - domain\Tempest
+  - domain\War
 aliases:
   - Gruumsh
 ---

@@ -6,12 +6,12 @@ cr: 16
 environments: 'mountain, urban'
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/16
-  - monster/environment/mountain
-  - monster/environment/urban
-  - monster/size/huge
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\16
+  - monster\Environment\Mountain
+  - monster\Environment\Urban
+  - monster\Size\Huge
+  - monster\Type\Dragon
 aliases:
   - Adult Silver Dragon
 ---

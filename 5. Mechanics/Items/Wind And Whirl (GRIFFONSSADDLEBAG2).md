@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Wind and Whirl
 one-hand-damage: 1d6 S
-range: 20/60
+range: 20\60
 ---
 # Wind and Whirl
 *Weapon ([[5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  

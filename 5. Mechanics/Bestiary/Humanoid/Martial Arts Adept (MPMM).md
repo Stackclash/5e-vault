@@ -6,11 +6,11 @@ cr: 3
 environments: urban
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/3
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\3
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Humanoid
 aliases:
   - Martial Arts Adept
 ---

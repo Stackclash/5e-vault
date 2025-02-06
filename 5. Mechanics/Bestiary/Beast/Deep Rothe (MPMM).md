@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: underdark
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-4
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/beast/cattle
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 4
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Beast\Cattle
 aliases:
   - Deep Rothé
 ---

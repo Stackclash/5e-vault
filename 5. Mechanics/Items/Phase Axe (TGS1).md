@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Phase Axe
 one-hand-damage: 1d8 S
 two-hand-damage: 1d10 S
-range: 20/60
+range: 20\60
 ---
 # Phase Axe
 *Weapon ([[5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, rare (requires attunement)*  

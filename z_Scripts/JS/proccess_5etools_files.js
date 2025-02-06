@@ -6,7 +6,7 @@ const NodeCache = require('node-cache')
 const fetch = require('sync-fetch')
 const ttrpgConvertConfig = require('../../z_Extra/ttrpg-convert/config.json')
 
-// Create reliable logging
+// Ignore images for NPCs not imported
 
 const cache = new NodeCache({ stdTTL: 0, checkperiod: 0 })
 
@@ -125,7 +125,7 @@ const config = {
             target: 'content',
             regex: /"*image"*: "*([\w\/]+)(\/[img|token]+\/[\w-]+\.[\w]+)"*/g,
             process: function (file, oldText, imagePath, restOfPath) {
-                let filePathRule = config.rules.filter(rule => rule.name === 'Update File Path')[0]
+                let filePathRule = config.rules.find(rule => rule.name === 'Update File Path')
 
                 imagePath = filePathRule.process({ relativePath: imagePath })
 
@@ -150,6 +150,46 @@ const config = {
         },
         {
             enabled: true,
+            name: 'Update links in Frontmatter',
+            ignore: function (file) {
+                ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
+            },
+            target: 'frontMatter',
+            process: function (file) {
+                const updateFilePath = config.rules.find(rule => rule.name === 'Update File Path')
+                const updateFileName = config.rules.find(rule => rule.name === 'Update File Name')
+
+                const frontMatter = file.frontMatter
+                const regex = /[\w\s\d\/\\\.\-%\d]+[\/\\]+[\w\s\d\/\\\.\-%\d]+#{0,1}\^{0,1}[\-\w%]*\s{0,1}"{0,1}[A-zÀ-ú\w\d\s:&,'\.\(\)\-]*?"{0,1}/
+                
+                for(const key of Object.keys(frontMatter)) {
+
+                    if (typeof frontMatter[key] === 'string') {
+                        if (regex.test(frontMatter[key])) {
+                            const extension = path.extname(frontMatter[key])
+                            const filePath = updateFilePath.process({relativePath: path.parse(path.relative(config.rootVaultPath, frontMatter[key])).dir})
+                            const fileName = updateFileName.process({fileName: path.parse(frontMatter[key]).name})
+
+                            frontMatter[key] = path.join(filePath, `${fileName}${extension}`)
+                        }
+                    } else if (Array.isArray(frontMatter[key])) {
+                        for (let i = 0; i < frontMatter[key].length; i++) {
+                            if (regex.test(frontMatter[key][i])) {
+                                const extension = path.extname(frontMatter[key][i])
+                                const filePath = updateFilePath.process({relativePath: path.parse(path.relative(config.rootVaultPath, frontMatter[key][i])).dir})
+                                const fileName = updateFileName.process({fileName: path.parse(frontMatter[key][i]).name})
+
+                                frontMatter[key][i] = path.join(filePath, `${fileName}${extension}`)
+                            }
+                        }
+                    }
+                }
+
+                return frontMatter
+            }
+        },
+        {
+            enabled: true,
             name: 'Update Frontmatter based on existing file',
             ignore: function (file) {
                 return !fs.existsSync(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
@@ -168,9 +208,10 @@ const config = {
                     if (file.frontMatter[prop]) {
                         if (JSON.stringify(file.frontMatter[prop]) !== JSON.stringify(currentFileFrontMatter[prop])) {
                             // const update = askQuestion(`Update ${prop} from ${currentFileFrontMatter[prop]} to ${file.frontMatter[prop]}? (Y/N) `)
-                            if (false) {
+                            if (true) {
+                                finalFrontMatter[prop] = file.frontMatter[prop]
                             } else {
-                                finalFrontMatter[prop] = currentFileFrontMatter[prop]
+                                // finalFrontMatter[prop] = currentFileFrontMatter[prop]
                             }
                         }
                     } else {
@@ -254,16 +295,19 @@ function getFilesList(folderPath) {
 }
 
 function moveCssSnippets() {
-    console.log('Moving CSS Snippets')
-    const newCssPath = path.resolve(config.rootVaultPath, config.css.newPath)
-    const cssFiles = fs.readdirSync(path.resolve(config.rootVaultPath, config.css.path))
-    for (const file of cssFiles) {
-        const filePath = path.resolve(config.rootVaultPath, config.css.path, file)
-        const newFilePath = path.resolve(newCssPath, file)
-        fs.rename(filePath, newFilePath, (err) => {
-            if (err) throw err
-        })
-        if (config.logs.moves) console.log(`\tMoved ${file} to ${newFilePath}`)
+    const newCssPath = path.join(config.rootVaultPath, config.css.newPath)
+    
+    if (fs.existsSync(path.join(config.rootVaultPath, config.css.path))) {
+        console.log('Moving CSS Snippets')
+        const cssFiles = fs.readdirSync(path.join(config.rootVaultPath, config.css.path))
+        for (const file of cssFiles) {
+            const filePath = path.resolve(config.rootVaultPath, config.css.path, file)
+            const newFilePath = path.resolve(newCssPath, file)
+            fs.rename(filePath, newFilePath, (err) => {
+                if (err) throw err
+            })
+            if (config.logs.moves) console.log(`\tMoved ${file} to ${newFilePath}`)
+        }
     }
 
     return

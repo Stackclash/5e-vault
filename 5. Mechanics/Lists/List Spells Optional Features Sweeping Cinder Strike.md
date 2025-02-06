@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/sweeping-cinder-strike
+  - spell\List\Optfeature\Sweeping Cinder Strike
 aliases:
   - Spells for Sweeping Cinder Strike
 ---

@@ -6,12 +6,12 @@ cr: 4
 environments: 'desert, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/4
-  - monster/environment/desert
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\4
+  - monster\Environment\Desert
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Fiend\Demon
 aliases:
   - Dybbuk
 ---

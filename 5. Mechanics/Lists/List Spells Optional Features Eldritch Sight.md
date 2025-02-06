@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/eldritch-sight
+  - spell\List\Optfeature\Eldritch Sight
 aliases:
   - Spells for Eldritch Sight
 ---

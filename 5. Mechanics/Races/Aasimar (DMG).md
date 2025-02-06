@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/dmg
-  - race/aasimar/dmg
+  - 5. Mechanics\Src\5e\(DMG)
+  - race\Aasimar\(DMG)
 aliases:
   - Aasimar (DMG)
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/feat/wood-elf-magic
+  - spell\List\Feat\Wood Elf Magic
 aliases:
   - Spells for Wood Elf Magic
 ---

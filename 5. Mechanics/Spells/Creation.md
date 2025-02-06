@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/illusion
-  - spell/subclass/forge-domain
-  - spell/subclass/the-genie
-  - spell/subclass/the-genie-lord
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Illusion
+  - spell\Subclass\Forge Domain
+  - spell\Subclass\The Genie
+  - spell\Subclass\The Genie Lord
 level: 5th-level
 range: false
 school: Illusion

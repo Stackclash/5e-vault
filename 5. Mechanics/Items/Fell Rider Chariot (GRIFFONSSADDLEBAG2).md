@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/rarity/legendary
-  - item/tier/major
-  - item/vehicle/land
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Rarity\Legendary
+  - item\Tier\Major
+  - item\Vehicle\Land
 aliases:
   - Fell-Rider Chariot
 ---

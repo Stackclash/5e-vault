@@ -6,15 +6,15 @@ cr: 23
 environments: 'arctic, coastal, grassland, hill, mountain'
 size: Gargantuan
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/23
-  - monster/environment/arctic
-  - monster/environment/coastal
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/gargantuan
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\23
+  - monster\Environment\Arctic
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Gargantuan
+  - monster\Type\Element(AL)
 aliases:
   - Elder Tempest
 ---

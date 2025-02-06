@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/xge
-  - spell/class/bard
-  - spell/class/paladin
-  - spell/level/4th-level
-  - spell/school/conjuration
+  - 5. Mechanics\Src\5e\(XGE)
+  - spell\Class\Bard
+  - spell\Class\Paladin
+  - spell\Level\4th Level
+  - spell\School\Conjuration
 level: 4th-level
 range: false
 school: Conjuration

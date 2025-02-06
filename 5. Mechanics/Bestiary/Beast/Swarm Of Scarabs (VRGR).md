@@ -6,10 +6,10 @@ cr: 3
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/3
-  - monster/size/medium
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\3
+  - monster\Size\Medium
+  - monster\Type\Beast
 aliases:
   - Swarm of Scarabs
 ---

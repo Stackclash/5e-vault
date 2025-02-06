@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/xge
-  - spell/class/bard
-  - spell/class/warlock
-  - spell/level/4th-level
-  - spell/school/necromancy
+  - 5. Mechanics\Src\5e\(XGE)
+  - spell\Class\Bard
+  - spell\Class\Warlock
+  - spell\Level\4th Level
+  - spell\School\Necromancy
 level: 4th-level
 range: false
 school: Necromancy

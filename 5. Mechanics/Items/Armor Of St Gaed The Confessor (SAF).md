@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/saf
-  - item/armor/heavy
-  - item/rarity/unknown/magic
+  - 5. Mechanics\Src\5e\(SAF)
+  - item\Armor\Heavy
+  - item\Rarity\Unknown\Magic
 aliases:
   - Armor of St. Gaed the Confessor
 armorClass: 18

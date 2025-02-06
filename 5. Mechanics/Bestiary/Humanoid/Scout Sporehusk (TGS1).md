@@ -6,13 +6,13 @@ cr: 1
 environments: 'mountain, forest, festerwood'
 size: Medium
 tags:
-  - compendium/src/5e/tgs1
-  - monster/cr/1
-  - monster/environment/festerwood
-  - monster/environment/forest
-  - monster/environment/mountain
-  - monster/size/medium
-  - monster/type/humanoid/human
+  - 5. Mechanics\Src\5e\(TGS1)
+  - monster\Cr\1
+  - monster\Environment\Festerwood
+  - monster\Environment\Forest
+  - monster\Environment\Mountain
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Human
 aliases:
   - Scout Sporehusk
 ---

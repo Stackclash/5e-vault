@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/saf
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(SAF)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Foxglove Bow
 one-hand-damage: 1d8 P
-range: 150/600
+range: 150\600
 ---
 # Foxglove Bow
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), very rare (requires attunement by a chaotic creature)*  

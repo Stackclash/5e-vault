@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/attunement/required
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Attunement\Required
+  - item\Rarity\Uncommon
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Crossbow of the Flying Fist
 one-hand-damage: 1d6 P
-range: 30/120
+range: 30\120
 ---
 # Crossbow of the Flying Fist
 *Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, uncommon (requires attunement)*  

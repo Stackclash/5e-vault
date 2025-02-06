@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/xge
-  - subclass/sorcerer/divine-soul
+  - 5. Mechanics\Src\5e\(XGE)
+  - subclass\Sorcerer\Divine Soul
 aliases:
   - Divine Soul
 ---

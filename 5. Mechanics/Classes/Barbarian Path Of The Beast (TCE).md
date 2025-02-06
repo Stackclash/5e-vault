@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/tce
-  - subclass/barbarian/beast
+  - 5. Mechanics\Src\5e\(TCE)
+  - subclass\Barbarian\Beast
 aliases:
   - Path of the Beast
 ---

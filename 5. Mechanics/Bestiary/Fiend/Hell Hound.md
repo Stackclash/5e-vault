@@ -6,12 +6,12 @@ cr: 3
 environments: 'underdark, mountain'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/fiend
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\3
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Fiend
 aliases:
   - Hell Hound
 ---

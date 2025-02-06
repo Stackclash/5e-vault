@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/vgm
-  - monster/cr/1-4
-  - monster/size/small
-  - monster/type/humanoid/goblinoid
+  - 5. Mechanics\Src\5e\(VGM)
+  - monster\Cr\1 4
+  - monster\Size\Small
+  - monster\Type\Humanoid\Goblinoid
 aliases:
   - Booyahg Wielder
 ---

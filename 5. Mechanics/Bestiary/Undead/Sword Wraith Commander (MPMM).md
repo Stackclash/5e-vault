@@ -6,12 +6,12 @@ cr: 8
 environments: 'grassland, swamp'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/8
-  - monster/environment/grassland
-  - monster/environment/swamp
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\8
+  - monster\Environment\Grassland
+  - monster\Environment\Swamp
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Sword Wraith Commander
 ---

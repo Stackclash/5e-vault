@@ -2,23 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/druid
-  - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/race/fairy
-  - spell/school/evocation
-  - spell/subclass/fey-soul
-  - spell/subclass/light-domain
-  - spell/subclass/moon-domain
-  - spell/subclass/swarmkeeper
-  - spell/subclass/the-archfey
-  - spell/subclass/the-shapechanger
-  - spell/subclass/twilight-domain
-  - spell/subrace/elf-drow
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\Race\Fairy
+  - spell\School\Evocation
+  - spell\Subclass\Fey Soul
+  - spell\Subclass\Light Domain
+  - spell\Subclass\Moon Domain
+  - spell\Subclass\Swarmkeeper
+  - spell\Subclass\The Archfey
+  - spell\Subclass\The Shapechanger
+  - spell\Subclass\Twilight Domain
+  - spell\Subrace\Elf Drow
 level: 1st-level
 range: false
 school: Evocation

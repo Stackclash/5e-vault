@@ -6,13 +6,13 @@ cr: 13
 environments: 'mountain, swamp, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/13
-  - monster/environment/mountain
-  - monster/environment/swamp
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\13
+  - monster\Environment\Mountain
+  - monster\Environment\Swamp
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Aberration
 aliases:
   - Star Spawn Seer
 ---

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/trade-good
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Gear\Trade Good
+  - item\Rarity\None
 aliases:
   - Saffron
 cost: 1500

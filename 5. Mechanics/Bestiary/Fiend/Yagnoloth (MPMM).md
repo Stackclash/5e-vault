@@ -6,11 +6,11 @@ cr: 11
 environments: urban
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/11
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/fiend/yugoloth
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\11
+  - monster\Environment\Urban
+  - monster\Size\Large
+  - monster\Type\Fiend\Yugoloth
 aliases:
   - Yagnoloth
 ---

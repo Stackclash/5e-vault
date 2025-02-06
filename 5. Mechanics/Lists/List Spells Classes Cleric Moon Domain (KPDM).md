@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/moon-domain
+  - spell\List\Subclass\Moon Domain
 aliases:
   - Spells for Moon Domain
 ---

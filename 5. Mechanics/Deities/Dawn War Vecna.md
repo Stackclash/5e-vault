@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/dmg
-  - deity/dawn-war
-  - domain/arcana
-  - domain/death
-  - domain/knowledge
+  - 5. Mechanics\Src\5e\(DMG)
+  - deity\Dawn War
+  - domain\Arcana
+  - domain\Death
+  - domain\Knowledge
 aliases:
   - Vecna
 ---

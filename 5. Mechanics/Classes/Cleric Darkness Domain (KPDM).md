@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - domain/darkness
-  - subclass/cleric/darkness
+  - 5. Mechanics\Src\5e\(KPDM)
+  - domain\Darkness
+  - subclass\Cleric\Darkness
 aliases:
   - Darkness Domain
 ---

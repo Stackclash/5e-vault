@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/none
-  - item/vehicle/airship-air
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Rarity\None
+  - item\Vehicle\Airship Air
 aliases:
   - Airship
 cost: 2000000

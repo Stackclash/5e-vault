@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/mm
-  - item/age/futuristic
-  - item/age/modern
-  - item/rarity/unknown/magic
-  - item/weapon/martial
-  - item/weapon/melee
-  - item/weapon/ranged
-  - item/weapon/simple
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(MM)
+  - item\Age\Futuristic
+  - item\Age\Modern
+  - item\Rarity\Unknown\Magic
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
+  - item\Wondrous\Generic Variant
 aliases:
   - Drow +2 Weapon
   - Drow +2 Antimatter Rifle

@@ -2,25 +2,25 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/optfeature/rush-of-the-gale-spirits
-  - spell/race/aarakocra
-  - spell/race/triton
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/oath-of-thunder
-  - spell/subclass/rocborne
-  - spell/subclass/tempest-domain
-  - spell/subclass/the-fathomless
-  - spell/subclass/the-genie
-  - spell/subclass/the-genie-lord
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\Optfeature\Rush Of The Gale Spirits
+  - spell\Race\Aarakocra
+  - spell\Race\Triton
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Oath Of Thunder
+  - spell\Subclass\Rocborne
+  - spell\Subclass\Tempest Domain
+  - spell\Subclass\The Fathomless
+  - spell\Subclass\The Genie
+  - spell\Subclass\The Genie Lord
 level: 2nd-level
 range: false
 school: Evocation

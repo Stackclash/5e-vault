@@ -6,11 +6,11 @@ cr: 15
 environments: urban
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/15
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/fiend/devil
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\15
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Fiend\Devil
 aliases:
   - Green Abishai
 ---

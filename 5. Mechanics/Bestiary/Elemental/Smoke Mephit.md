@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: urban
 size: Small
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/urban
-  - monster/size/small
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 4
+  - monster\Environment\Urban
+  - monster\Size\Small
+  - monster\Type\Element(AL)
 aliases:
   - Smoke Mephit
 ---

@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: grassland
 size: Small
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/grassland
-  - monster/size/small
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 2
+  - monster\Environment\Grassland
+  - monster\Size\Small
+  - monster\Type\Monstrosity
 aliases:
   - Cockatrice
 ---

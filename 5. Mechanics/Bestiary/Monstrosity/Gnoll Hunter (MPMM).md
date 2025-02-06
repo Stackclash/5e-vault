@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'arctic, forest, grassland, hill'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-2
-  - monster/environment/arctic
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 2
+  - monster\Environment\Arctic
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Gnoll Hunter
 ---

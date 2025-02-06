@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/legendary
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Legendary
+  - item\Tier\Major
 aliases:
   - Mastery Gem
 ---

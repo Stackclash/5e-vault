@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/circle-of-the-eclipse
+  - spell\List\Subclass\Circle Of The Eclipse
 aliases:
   - Spells for Circle of the Eclipse
 ---

@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/age/modern
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/weapon/martial
-  - item/weapon/melee
-  - item/weapon/ranged
-  - item/weapon/simple
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Age\Modern
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
+  - item\Wondrous\Generic Variant
 aliases:
   - Bite of Varpak
   - Bite of Varpak Automatic Rifle

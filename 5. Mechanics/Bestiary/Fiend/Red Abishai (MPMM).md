@@ -6,12 +6,12 @@ cr: 19
 environments: 'mountain, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/19
-  - monster/environment/mountain
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/fiend/devil
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\19
+  - monster\Environment\Mountain
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Fiend\Devil
 aliases:
   - Red Abishai
 ---

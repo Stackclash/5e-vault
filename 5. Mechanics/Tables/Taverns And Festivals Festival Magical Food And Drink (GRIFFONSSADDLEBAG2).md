@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/griffonssaddlebag2
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
 aliases:
   - Taverns and Festivals; Festival Magical Food and Drink
 ---

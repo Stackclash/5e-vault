@@ -6,13 +6,13 @@ cr: 2
 environments: 'coastal, hill, mountain'
 size: Huge
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/2
-  - monster/environment/coastal
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/huge
-  - monster/type/beast/dinosaur
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\2
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Huge
+  - monster\Type\Beast\Dinosaur
 aliases:
   - Quetzalcoatlus
 ---

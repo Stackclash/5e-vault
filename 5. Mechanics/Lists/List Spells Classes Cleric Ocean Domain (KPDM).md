@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/ocean-domain
+  - spell\List\Subclass\Ocean Domain
 aliases:
   - Spells for Ocean Domain
 ---

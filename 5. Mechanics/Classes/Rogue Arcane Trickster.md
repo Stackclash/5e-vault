@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/rogue/arcane-trickster
+  - 5. Mechanics\Src\5e\(PHB)
+  - subclass\Rogue\Arcane Trickster
 aliases:
   - Arcane Trickster
 ---

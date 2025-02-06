@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/gnome
-  - domain/knowledge
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Gnome
+  - domain\Knowledge
 aliases:
   - Rill Cleverthrush
 ---

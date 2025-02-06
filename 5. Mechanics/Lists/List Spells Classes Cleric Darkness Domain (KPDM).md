@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/darkness-domain
+  - spell\List\Subclass\Darkness Domain
 aliases:
   - Spells for Darkness Domain
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/oath-of-the-open-road
+  - spell\List\Subclass\Oath Of The Open Road
 aliases:
   - Spells for Oath of the Open Road
 ---

@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'grassland, swamp'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-4
-  - monster/environment/grassland
-  - monster/environment/swamp
-  - monster/size/large
-  - monster/type/beast/dinosaur
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 4
+  - monster\Environment\Grassland
+  - monster\Environment\Swamp
+  - monster\Size\Large
+  - monster\Type\Beast\Dinosaur
 aliases:
   - Hadrosaurus
 ---

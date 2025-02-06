@@ -6,10 +6,10 @@ cr: 19
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/veor
-  - monster/cr/19
-  - monster/size/large
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(VEOR)
+  - monster\Cr\19
+  - monster\Size\Large
+  - monster\Type\Fiend\Demon
 aliases:
   - Raklupis Spyder-Fiend
 ---

@@ -6,12 +6,12 @@ cr: 8
 environments: 'mountain, arctic'
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/8
-  - monster/environment/arctic
-  - monster/environment/mountain
-  - monster/size/huge
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\8
+  - monster\Environment\Arctic
+  - monster\Environment\Mountain
+  - monster\Size\Huge
+  - monster\Type\Giant
 aliases:
   - Frost Giant
 ---

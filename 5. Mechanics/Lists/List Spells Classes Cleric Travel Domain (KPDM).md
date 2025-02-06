@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/travel-domain
+  - spell\List\Subclass\Travel Domain
 aliases:
   - Spells for Travel Domain
 ---

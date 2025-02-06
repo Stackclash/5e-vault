@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'coastal, swamp'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-4
-  - monster/environment/coastal
-  - monster/environment/swamp
-  - monster/size/medium
-  - monster/type/beast/dinosaur
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 4
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Swamp
+  - monster\Size\Medium
+  - monster\Type\Beast\Dinosaur
 aliases:
   - Dimetrodon
 ---

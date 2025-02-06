@@ -6,10 +6,10 @@ cr: null
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/phb
-  - monster/cr/
-  - monster/size/large
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(PHB)
+  - monster\Cr
+  - monster\Size\Large
+  - monster\Type\Construct
 aliases:
   - Animated Object (Large)
 ---

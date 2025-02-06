@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/armor/heavy
-  - item/rarity/rare
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Armor\Heavy
+  - item\Rarity\Rare
 aliases:
   - Ironleather Splint
 armorClass: 17

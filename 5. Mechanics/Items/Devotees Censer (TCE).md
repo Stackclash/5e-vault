@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tce
-  - item/attunement/required
-  - item/rarity/rare
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(TCE)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Devotee's Censer
 one-hand-damage: 1d8 B

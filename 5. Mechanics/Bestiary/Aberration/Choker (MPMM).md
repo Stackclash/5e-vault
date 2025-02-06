@@ -6,13 +6,13 @@ cr: 1
 environments: 'forest, mountain, underdark'
 size: Small
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1
-  - monster/environment/forest
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/small
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1
+  - monster\Environment\Forest
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Small
+  - monster\Type\Aberration
 aliases:
   - Choker
 ---

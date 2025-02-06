@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/armor/light
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Armor\Light
+  - item\Rarity\None
 aliases:
   - Leather Armor
 cost: 1000

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/circle-of-the-spirits
+  - spell\List\Subclass\Circle Of The Spirits
 aliases:
   - Spells for Circle of the Spirits
 ---

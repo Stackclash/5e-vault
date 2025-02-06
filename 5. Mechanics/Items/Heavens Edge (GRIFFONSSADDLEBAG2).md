@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/tier/major
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Tier\Major
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Heaven's Edge
 one-hand-damage: 1d4 P
-range: 20/60
+range: 20\60
 ---
 # Heaven's Edge
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, legendary (requires attunement)*  

@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'underdark, urban'
 size: Small
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/small
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 4
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Small
+  - monster\Type\Beast
 aliases:
   - Giant Centipede
 ---

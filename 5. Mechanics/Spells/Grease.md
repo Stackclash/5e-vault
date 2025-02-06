@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/conjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/chain-domain
-  - spell/subclass/eldritch-knight
-  - spell/subclass/marshwarden
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Conjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Chain Domain
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Marshwarden
 level: 1st-level
 range: false
 school: Conjuration

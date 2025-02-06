@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/rare
-  - item/tier/minor
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Rarity\Rare
+  - item\Tier\Minor
 aliases:
   - Folding Boat
 ---

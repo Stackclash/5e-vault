@@ -6,14 +6,14 @@ cr: 5
 environments: 'coastal, grassland, hill, hearth'
 size: Huge
 tags:
-  - compendium/src/5e/tgs1
-  - monster/cr/5
-  - monster/environment/coastal
-  - monster/environment/grassland
-  - monster/environment/hearth
-  - monster/environment/hill
-  - monster/size/huge
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(TGS1)
+  - monster\Cr\5
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Grassland
+  - monster\Environment\Hearth
+  - monster\Environment\Hill
+  - monster\Size\Huge
+  - monster\Type\Beast
 aliases:
   - Swordbeak
 ---

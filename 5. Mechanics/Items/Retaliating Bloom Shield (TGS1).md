@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/rare
-  - item/shield/
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Rare
+  - item\Shield
+  - item\Tier\Major
 aliases:
   - Retaliating Bloom Shield
 armorClass: 2

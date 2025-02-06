@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/forge-domain
-  - spell/subclass/wealth-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Forge Domain
+  - spell\Subclass\Wealth Domain
 level: 4th-level
 range: false
 school: Transmutation

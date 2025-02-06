@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'underdark, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 2
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Shadow
 ---

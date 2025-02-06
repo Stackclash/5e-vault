@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/gear/tack-and-harness
-  - item/rarity/very-rare
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Gear\Tack And Harness
+  - item\Rarity\Very Rare
+  - item\Tier\Major
 aliases:
   - Dragon Turtle Barding
   - Dragon Turtle Bone Plate Barding

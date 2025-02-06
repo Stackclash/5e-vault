@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: forest
 size: Small
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-4
-  - monster/environment/forest
-  - monster/size/small
-  - monster/type/humanoid
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 4
+  - monster\Environment\Forest
+  - monster\Size\Small
+  - monster\Type\Humanoid
 aliases:
   - Grung (Red)
 ---

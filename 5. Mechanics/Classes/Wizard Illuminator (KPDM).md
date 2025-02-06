@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - subclass/wizard/illuminator
+  - 5. Mechanics\Src\5e\(KPDM)
+  - subclass\Wizard\Illumina(TOR)
 aliases:
   - Illuminator
 ---

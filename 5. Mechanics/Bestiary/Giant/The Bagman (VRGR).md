@@ -6,10 +6,10 @@ cr: 5
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/5
-  - monster/size/large
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\5
+  - monster\Size\Large
+  - monster\Type\Giant
 aliases:
   - The Bagman
 ---

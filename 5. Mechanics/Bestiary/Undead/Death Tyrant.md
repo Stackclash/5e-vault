@@ -6,11 +6,11 @@ cr: 14
 environments: underdark
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/14
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\14
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Undead
 aliases:
   - Death Tyrant
 ---

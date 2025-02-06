@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/paladin
-  - spell/class/ranger
-  - spell/level/1st-level
-  - spell/school/evocation
-  - spell/subclass/forge-domain
-  - spell/subrace/tiefling-zariel
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Paladin
+  - spell\Class\Ranger
+  - spell\Level\1st Level
+  - spell\School\Evocation
+  - spell\Subclass\Forge Domain
+  - spell\Subrace\Tiefling Zariel
 level: 1st-level
 range: false
 school: Evocation

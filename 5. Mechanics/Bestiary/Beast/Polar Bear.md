@@ -6,12 +6,12 @@ cr: 2
 environments: 'underdark, arctic'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/arctic
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Environment\Arctic
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Polar Bear
 ---

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/eberron
-  - domain/tempest
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Eberron
+  - domain\Tempest
 aliases:
   - The Devourer
 ---

@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/xge
-  - item/age/futuristic
-  - item/age/modern
-  - item/age/renaissance
-  - item/rarity/unknown
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/melee
-  - item/weapon/ranged
-  - item/weapon/simple
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(XGE)
+  - item\Age\Futuristic
+  - item\Age\Modern
+  - item\Age\Renaissance
+  - item\Rarity\Unknown
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
+  - item\Wondrous\Generic Variant
 aliases:
   - Adamantine Weapon
   - Adamantine Antimatter Rifle

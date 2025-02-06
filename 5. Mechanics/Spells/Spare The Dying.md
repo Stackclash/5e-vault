@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
-  - spell/level/cantrip
-  - spell/optfeature/blessed-warrior
-  - spell/optfeature/pact-of-the-tome
-  - spell/school/necromancy
-  - spell/subclass/death-domain-dmg
-  - spell/subclass/divine-soul
-  - spell/subclass/grave-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Magic Initiate
+  - spell\Level\Cantrip
+  - spell\Optfeature\Blessed Warrior
+  - spell\Optfeature\Pact Of The Tome
+  - spell\School\Necromancy
+  - spell\Subclass\Death Domain (DMG)
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Grave Domain
 level: cantrip
 range: false
 school: Necromancy

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - domain/labyrinth
-  - subclass/cleric/labyrinth
+  - 5. Mechanics\Src\5e\(KPDM)
+  - domain\Labyrinth
+  - subclass\Cleric\Labyrinth
 aliases:
   - Labyrinth Domain
 ---

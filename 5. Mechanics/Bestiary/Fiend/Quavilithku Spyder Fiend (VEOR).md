@@ -6,10 +6,10 @@ cr: 17
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/veor
-  - monster/cr/17
-  - monster/size/large
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(VEOR)
+  - monster\Cr\17
+  - monster\Size\Large
+  - monster\Type\Fiend\Demon
 aliases:
   - Quavilithku Spyder-Fiend
 ---

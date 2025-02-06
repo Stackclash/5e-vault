@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/magic-initiate
-  - spell/feat/shadow-touched
-  - spell/level/1st-level
-  - spell/school/necromancy
-  - spell/subclass/alchemist
-  - spell/subclass/arcane-trickster
-  - spell/subclass/death-domain-dmg
-  - spell/subclass/eldritch-knight
-  - spell/subclass/oath-of-the-annihilator
-  - spell/subrace/tiefling-baalzebul
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Shadow Touched
+  - spell\Level\1st Level
+  - spell\School\Necromancy
+  - spell\Subclass\Alchemist
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Death Domain (DMG)
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Oath Of The Annihila(TOR)
+  - spell\Subrace\Tiefling Baalzebul
 level: 1st-level
 range: false
 school: Necromancy

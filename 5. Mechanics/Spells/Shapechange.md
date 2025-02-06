@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/wizard
-  - spell/level/9th-level
-  - spell/school/transmutation
-  - spell/subclass/circle-of-the-cycle
-  - spell/subclass/skin-wearer
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Wizard
+  - spell\Level\9th Level
+  - spell\School\Transmutation
+  - spell\Subclass\Circle Of The Cycle
+  - spell\Subclass\Skin Wearer
 level: 9th-level
 range: false
 school: Transmutation

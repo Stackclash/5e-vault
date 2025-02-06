@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'mountain, grassland, coastal'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/coastal
-  - monster/environment/grassland
-  - monster/environment/mountain
-  - monster/size/medium
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 4
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Grassland
+  - monster\Environment\Mountain
+  - monster\Size\Medium
+  - monster\Type\Beast
 aliases:
   - Pteranodon
 ---

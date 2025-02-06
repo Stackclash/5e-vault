@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/paladin
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/abjuration
-  - spell/subclass/divine-soul
-  - spell/subclass/war-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Paladin
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Abjuration
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\War Domain
 level: 1st-level
 range: false
 school: Abjuration

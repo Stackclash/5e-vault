@@ -2,22 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/wood-elf-magic
-  - spell/level/cantrip
-  - spell/optfeature/blessed-warrior
-  - spell/optfeature/druidic-warrior
-  - spell/optfeature/pact-of-the-tome
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/nature-domain
-  - spell/subrace/elf-high
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Wood Elf Magic
+  - spell\Level\Cantrip
+  - spell\Optfeature\Blessed Warrior
+  - spell\Optfeature\Druidic Warrior
+  - spell\Optfeature\Pact Of The Tome
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Nature Domain
+  - spell\Subrace\Elf High
 level: cantrip
 range: false
 school: Transmutation

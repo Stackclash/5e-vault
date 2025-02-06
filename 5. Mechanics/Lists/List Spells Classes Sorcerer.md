@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/class/sorcerer
+  - spell\List\Class\Sorcerer
 aliases:
   - Sorcerer Spells
 ---

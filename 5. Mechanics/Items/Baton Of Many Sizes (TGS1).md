@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/uncommon
-  - item/tier/minor
-  - item/wondrous/rod
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Uncommon
+  - item\Tier\Minor
+  - item\Wondrous\Rod
 aliases:
   - Baton of Many Sizes
 ---

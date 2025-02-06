@@ -6,10 +6,10 @@ cr: 10
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/10
-  - monster/size/medium
-  - monster/type/aberration/shapechanger
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\10
+  - monster\Size\Medium
+  - monster\Type\Aberration\Shapechanger
 aliases:
   - Death Slaad
 ---

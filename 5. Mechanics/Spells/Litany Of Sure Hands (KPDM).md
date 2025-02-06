@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/paladin
-  - spell/feat/fey-touched
-  - spell/level/1st-level
-  - spell/school/divination
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Paladin
+  - spell\Feat\Fey Touched
+  - spell\Level\1st Level
+  - spell\School\Divination
 level: 1st-level
 range: false
 school: Divination

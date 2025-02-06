@@ -6,10 +6,10 @@ cr: 0
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/size/small
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Size\Small
+  - monster\Type\Beast
 aliases:
   - Octopus
 ---

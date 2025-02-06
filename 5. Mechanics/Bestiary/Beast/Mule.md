@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: 'hill, urban, desert'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/environment/desert
-  - monster/environment/hill
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 8
+  - monster\Environment\Desert
+  - monster\Environment\Hill
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Beast
 aliases:
   - Mule
 ---

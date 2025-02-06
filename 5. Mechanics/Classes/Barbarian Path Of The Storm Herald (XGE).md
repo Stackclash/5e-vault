@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/xge
-  - subclass/barbarian/storm-herald
+  - 5. Mechanics\Src\5e\(XGE)
+  - subclass\Barbarian\Storm Herald
 aliases:
   - Path of the Storm Herald
 ---

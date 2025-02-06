@@ -6,10 +6,10 @@ cr: null
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/kpdm
-  - monster/cr/
-  - monster/size/medium
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(KPDM)
+  - monster\Cr
+  - monster\Size\Medium
+  - monster\Type\Construct
 aliases:
   - Animated Object Swarm
 ---

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/forgotten-realms
-  - domain/order
-  - domain/war
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Forgotten Realms
+  - domain\Order
+  - domain\War
 aliases:
   - Bane
 ---

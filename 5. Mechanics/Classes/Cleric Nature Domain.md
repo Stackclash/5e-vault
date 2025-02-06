@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - domain/nature
-  - subclass/cleric/nature
+  - 5. Mechanics\Src\5e\(PHB)
+  - domain\Nature
+  - subclass\Cleric\Nature
 aliases:
   - Nature Domain
 ---

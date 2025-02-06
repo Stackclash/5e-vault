@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/forge-domain
+  - spell\List\Subclass\Forge Domain
 aliases:
   - Spells for Forge Domain
 ---

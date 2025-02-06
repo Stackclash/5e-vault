@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/veor
-  - item/attunement/required
-  - item/rarity/artifact
+  - 5. Mechanics\Src\5e\(VEOR)
+  - item\Attunement\Required
+  - item\Rarity\Artifact
 aliases:
   - Crown of Lies
 ---

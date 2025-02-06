@@ -6,10 +6,10 @@ cr: 6
 environments: null
 size: Gargantuan
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/6
-  - monster/size/gargantuan
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\6
+  - monster\Size\Gargantuan
+  - monster\Type\Undead
 aliases:
   - Death Haze
 ---

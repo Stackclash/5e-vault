@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/armor/heavy
-  - item/attunement/required
-  - item/rarity/varies
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Armor\Heavy
+  - item\Attunement\Required
+  - item\Rarity\Varies
 aliases:
   - Dusk Armor
 armorClass: 18

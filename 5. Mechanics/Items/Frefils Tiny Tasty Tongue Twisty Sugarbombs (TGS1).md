@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/very-rare
-  - item/tier/minor
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Very Rare
+  - item\Tier\Minor
 aliases:
   - Frefil's Tiny Tasty Tongue Twisty Sugarbombs
 ---

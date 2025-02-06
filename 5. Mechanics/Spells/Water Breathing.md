@@ -2,22 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/optfeature/gift-of-the-depths
-  - spell/ritual
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/eldritch-knight
-  - spell/subclass/ocean-domain
-  - spell/subclass/the-genie-lord
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\Optfeature\Gift Of The Depths
+  - spell\Ritu(AL)
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Ocean Domain
+  - spell\Subclass\The Genie Lord
 level: 3rd-level
 range: true
 school: Transmutation

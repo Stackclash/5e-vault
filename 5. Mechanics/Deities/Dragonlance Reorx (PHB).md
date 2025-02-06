@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/dragonlance
-  - domain/forge
-  - domain/knowledge
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Dragonlance
+  - domain\Forge
+  - domain\Knowledge
 aliases:
   - Reorx
 ---

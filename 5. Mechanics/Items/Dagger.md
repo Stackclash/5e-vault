@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/rarity/none
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Rarity\None
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Dagger
 cost: 200
 one-hand-damage: 1d4 P
-range: 20/60
+range: 20\60
 ---
 # Dagger
 *Weapon*  

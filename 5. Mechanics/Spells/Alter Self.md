@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/optfeature/master-of-myriad-forms
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-moon
-  - spell/subclass/eldritch-knight
-  - spell/subclass/lust-domain
-  - spell/subclass/the-apex-predator
-  - spell/subclass/the-lithic
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\Optfeature\Master Of Myriad Forms
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of The Moon
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Lust Domain
+  - spell\Subclass\The Apex Preda(TOR)
+  - spell\Subclass\The Lithic
 level: 2nd-level
 range: false
 school: Transmutation

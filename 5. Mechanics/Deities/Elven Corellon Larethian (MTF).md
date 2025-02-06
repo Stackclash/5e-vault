@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/elven
-  - domain/arcana
-  - domain/life
-  - domain/light
-  - domain/war
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Elven
+  - domain\Arcana
+  - domain\Life
+  - domain\Light
+  - domain\War
 aliases:
   - Corellon Larethian
 ---

@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/paladin
-  - spell/level/2nd-level
-  - spell/school/enchantment
-  - spell/subclass/divine-soul
-  - spell/subclass/monster-slayer
-  - spell/subclass/oath-of-devotion
-  - spell/subclass/order-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Paladin
+  - spell\Level\2nd Level
+  - spell\School\Enchantment
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Monster Slayer
+  - spell\Subclass\Oath Of Devotion
+  - spell\Subclass\Order Domain
 level: 2nd-level
 range: false
 school: Enchantment

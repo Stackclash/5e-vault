@@ -6,11 +6,11 @@ cr: 30
 environments: urban
 size: Gargantuan
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/30
-  - monster/environment/urban
-  - monster/size/gargantuan
-  - monster/type/monstrosity/titan
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\30
+  - monster\Environment\Urban
+  - monster\Size\Gargantuan
+  - monster\Type\Monstrosity\Titan
 aliases:
   - Tarrasque
 ---

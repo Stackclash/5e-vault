@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: underwater
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/underwater
-  - monster/size/medium
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 2
+  - monster\Environment\Underwater
+  - monster\Size\Medium
+  - monster\Type\Beast
 aliases:
   - Reef Shark
 ---

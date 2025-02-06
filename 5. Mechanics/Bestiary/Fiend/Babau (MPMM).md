@@ -6,12 +6,12 @@ cr: 4
 environments: 'underdark, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/4
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\4
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Fiend\Demon
 aliases:
   - Babau
 ---

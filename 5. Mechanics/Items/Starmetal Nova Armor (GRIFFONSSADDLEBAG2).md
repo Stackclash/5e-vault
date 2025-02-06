@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/armor/medium
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/tier/major
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Armor\Medium
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Tier\Major
+  - item\Wondrous\Generic Variant
 aliases:
   - Starmetal Nova Armor
   - Starmetal Nova Chain Shirt

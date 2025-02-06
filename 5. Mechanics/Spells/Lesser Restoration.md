@@ -2,22 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/paladin
-  - spell/class/ranger
-  - spell/level/2nd-level
-  - spell/race/aasimar-dmg
-  - spell/school/abjuration
-  - spell/subclass/circle-of-the-grove
-  - spell/subclass/clockwork-soul
-  - spell/subclass/divine-soul
-  - spell/subclass/life-domain
-  - spell/subclass/oath-of-devotion
-  - spell/subclass/the-celestial
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Paladin
+  - spell\Class\Ranger
+  - spell\Level\2nd Level
+  - spell\Race\Aasimar (DMG)
+  - spell\School\Abjuration
+  - spell\Subclass\Circle Of The Grove
+  - spell\Subclass\Clockwork Soul
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Life Domain
+  - spell\Subclass\Oath Of Devotion
+  - spell\Subclass\The Celesti(AL)
 level: 2nd-level
 range: false
 school: Abjuration

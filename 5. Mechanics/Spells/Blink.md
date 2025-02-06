@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/the-archfey
-  - spell/subclass/the-hexblade
-  - spell/subclass/the-many
-  - spell/subclass/trickery-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\The Archfey
+  - spell\Subclass\The Hexblade
+  - spell\Subclass\The Many
+  - spell\Subclass\Trickery Domain
 level: 3rd-level
 range: false
 school: Transmutation

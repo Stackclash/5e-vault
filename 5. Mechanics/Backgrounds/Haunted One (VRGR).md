@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
   - background
-  - compendium/src/5e/vrgr
+  - 5. Mechanics\Src\5e\(VRGR)
 aliases:
   - Haunted One
 ---

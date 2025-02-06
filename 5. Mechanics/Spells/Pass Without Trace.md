@@ -2,23 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/feat/wood-elf-magic
-  - spell/level/2nd-level
-  - spell/school/abjuration
-  - spell/subclass/cat-domain
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/greenleaf-college
-  - spell/subclass/hunting-domain
-  - spell/subclass/labyrinth-domain
-  - spell/subclass/oath-of-the-open-road
-  - spell/subclass/travel-domain
-  - spell/subclass/trickery-domain
-  - spell/subclass/way-of-shadow
-  - spell/subrace/genasi-earth
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Feat\Wood Elf Magic
+  - spell\Level\2nd Level
+  - spell\School\Abjuration
+  - spell\Subclass\Cat Domain
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Greenleaf College
+  - spell\Subclass\Hunting Domain
+  - spell\Subclass\Labyrinth Domain
+  - spell\Subclass\Oath Of The Open Road
+  - spell\Subclass\Travel Domain
+  - spell\Subclass\Trickery Domain
+  - spell\Subclass\Way Of Shadow
+  - spell\Subrace\Genasi Earth
 level: 2nd-level
 range: false
 school: Abjuration

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - subclass/wizard/dragon
+  - 5. Mechanics\Src\5e\(KPDM)
+  - subclass\Wizard\Dragon
 aliases:
   - Dragon Mage
 ---

@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
 level: 4th-level
 range: false
 school: Evocation

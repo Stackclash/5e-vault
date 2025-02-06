@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/gear/ammunition
-  - item/rarity/very-rare
-  - item/tier/minor
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Gear\Ammunition
+  - item\Rarity\Very Rare
+  - item\Tier\Minor
 aliases:
   - Crossbow Bolt of Slaying
 ---

@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/paladin
-  - spell/class/ranger
-  - spell/level/3rd-level
-  - spell/school/transmutation
-  - spell/subclass/forge-domain
-  - spell/subclass/oath-of-thunder
-  - spell/subclass/the-hexblade
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Paladin
+  - spell\Class\Ranger
+  - spell\Level\3rd Level
+  - spell\School\Transmutation
+  - spell\Subclass\Forge Domain
+  - spell\Subclass\Oath Of Thunder
+  - spell\Subclass\The Hexblade
 level: 3rd-level
 range: false
 school: Transmutation

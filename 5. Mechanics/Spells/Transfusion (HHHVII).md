@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/hhhvii
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/school/necromancy
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/harvester-domain
-  - spell/subclass/oath-of-legacy
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\School\Necromancy
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Harvester Domain
+  - spell\Subclass\Oath Of Legacy
 level: 2nd-level
 range: false
 school: Necromancy

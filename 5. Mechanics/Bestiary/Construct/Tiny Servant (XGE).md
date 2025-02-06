@@ -6,10 +6,10 @@ cr: null
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/xge
-  - monster/cr/
-  - monster/size/tiny
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(XGE)
+  - monster\Cr
+  - monster\Size\Tiny
+  - monster\Type\Construct
 aliases:
   - Tiny Servant
 ---

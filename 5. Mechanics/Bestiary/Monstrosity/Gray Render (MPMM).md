@@ -6,12 +6,12 @@ cr: 12
 environments: 'forest, hill'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/12
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\12
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Gray Render
 ---

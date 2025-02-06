@@ -6,13 +6,13 @@ cr: 1
 environments: 'desert, swamp, underdark'
 size: Tiny
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1
-  - monster/environment/desert
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/size/tiny
-  - monster/type/fiend
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1
+  - monster\Environment\Desert
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Size\Tiny
+  - monster\Type\Fiend
 aliases:
   - Vargouille
 ---

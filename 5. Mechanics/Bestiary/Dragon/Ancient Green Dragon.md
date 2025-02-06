@@ -6,11 +6,11 @@ cr: 22
 environments: forest
 size: Gargantuan
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/22
-  - monster/environment/forest
-  - monster/size/gargantuan
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\22
+  - monster\Environment\Forest
+  - monster\Size\Gargantuan
+  - monster\Type\Dragon
 aliases:
   - Ancient Green Dragon
 ---

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/melee
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Uncommon
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
+  - item\Wondrous\Generic Variant
 aliases:
   - Silver Eagle Weapon
   - Silver Eagle Greataxe

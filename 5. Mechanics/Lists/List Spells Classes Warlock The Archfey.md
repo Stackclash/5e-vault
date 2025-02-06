@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/the-archfey
+  - spell\List\Subclass\The Archfey
 aliases:
   - Spells for The Archfey
 ---

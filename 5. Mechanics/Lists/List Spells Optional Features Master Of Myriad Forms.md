@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/master-of-myriad-forms
+  - spell\List\Optfeature\Master Of Myriad Forms
 aliases:
   - Spells for Master of Myriad Forms
 ---

@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/level/cantrip
-  - spell/optfeature/pact-of-the-tome
-  - spell/school/enchantment
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Level\Cantrip
+  - spell\Optfeature\Pact Of The Tome
+  - spell\School\Enchantment
 level: cantrip
 range: false
 school: Enchantment

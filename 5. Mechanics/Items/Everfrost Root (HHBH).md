@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhbh
-  - item/gear/herb
-  - item/gear/spellcasting-focus
-  - item/rarity/rare
+  - 5. Mechanics\Src\5e\(HHBH)
+  - item\Gear\Herb
+  - item\Gear\Spellcasting Foc(US)
+  - item\Rarity\Rare
 aliases:
   - Everfrost Root
 cost: 100000

@@ -6,10 +6,10 @@ cr: 10
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/bam
-  - monster/cr/10
-  - monster/size/large
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(BAM)
+  - monster\Cr\10
+  - monster\Size\Large
+  - monster\Type\Aberration
 aliases:
   - Eye Monger
 ---

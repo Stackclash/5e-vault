@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/level/cantrip
-  - spell/optfeature/pact-of-the-tome
-  - spell/school/evocation
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Level\Cantrip
+  - spell\Optfeature\Pact Of The Tome
+  - spell\School\Evocation
 level: cantrip
 range: false
 school: Evocation

@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/attunement/required
-  - item/rarity/uncommon
-  - item/tier/minor
-  - item/weapon/ranged
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Attunement\Required
+  - item\Rarity\Uncommon
+  - item\Tier\Minor
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
 aliases:
   - Hadiya's Handy Quill
 one-hand-damage: 1d4 P
-range: 20/60
+range: 20\60
 ---
 # Hadiya's Handy Quill
 *Weapon ([[5. Mechanics/Items/Dart.md\|dart]]), minor, uncommon (requires attunement)*  

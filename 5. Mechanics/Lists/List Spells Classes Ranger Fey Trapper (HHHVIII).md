@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/fey-trapper
+  - spell\List\Subclass\Fey Trapper
 aliases:
   - Spells for Fey Trapper
 ---

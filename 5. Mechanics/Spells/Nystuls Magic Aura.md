@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/school/illusion
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/fey-soul
-  - spell/subclass/oath-of-the-spelldrinker
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\School\Illusion
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Fey Soul
+  - spell\Subclass\Oath Of The Spelldrinker
 level: 2nd-level
 range: false
 school: Illusion

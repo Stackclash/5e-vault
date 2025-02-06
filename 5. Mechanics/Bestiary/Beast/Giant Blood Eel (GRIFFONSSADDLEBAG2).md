@@ -6,10 +6,10 @@ cr: 1
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - monster/cr/1
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - monster\Cr\1
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Giant Blood Eel
 ---

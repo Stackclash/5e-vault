@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/beast-speech
+  - spell\List\Optfeature\Beast Speech
 aliases:
   - Spells for Beast Speech
 ---

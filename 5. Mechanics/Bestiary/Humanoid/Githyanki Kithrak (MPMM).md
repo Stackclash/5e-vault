@@ -6,13 +6,13 @@ cr: 12
 environments: 'desert, mountain, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/12
-  - monster/environment/desert
-  - monster/environment/mountain
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid/gith
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\12
+  - monster\Environment\Desert
+  - monster\Environment\Mountain
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Gith
 aliases:
   - Githyanki Kith'rak
 ---

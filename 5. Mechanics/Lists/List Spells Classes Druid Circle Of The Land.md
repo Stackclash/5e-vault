@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/circle-of-the-land
+  - spell\List\Subclass\Circle Of The Land
 aliases:
   - Spells for Circle of the Land
 ---

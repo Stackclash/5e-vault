@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/cos
-  - item/rarity/unknown/magic
-  - item/wondrous/other
+  - 5. Mechanics\Src\5e\(COS)
+  - item\Rarity\Unknown\Magic
+  - item\Wondrous\Other
 aliases:
   - Statuette of Saint Markovia
 cost: 25000

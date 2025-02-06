@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/conjuration
-  - spell/subclass/angler
-  - spell/subclass/circle-of-the-grove
-  - spell/subclass/greenleaf-college
-  - spell/subclass/hedge-mage
-  - spell/subclass/the-many
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Conjuration
+  - spell\Subclass\Angler
+  - spell\Subclass\Circle Of The Grove
+  - spell\Subclass\Greenleaf College
+  - spell\Subclass\Hedge Mage
+  - spell\Subclass\The Many
 level: 1st-level
 range: false
 school: Conjuration

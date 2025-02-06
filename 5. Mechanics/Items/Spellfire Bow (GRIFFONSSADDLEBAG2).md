@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Spellfire Bow
 one-hand-damage: 1d8 O
-range: 150/600
+range: 150\600
 ---
 # Spellfire Bow
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, legendary (requires attunement by a spellcaster)*  

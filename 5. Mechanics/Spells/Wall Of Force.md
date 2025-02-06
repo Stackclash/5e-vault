@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/evocation
-  - spell/subclass/armorer
-  - spell/subclass/artillerist
-  - spell/subclass/clockwork-soul
-  - spell/subclass/oath-of-redemption
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Evocation
+  - spell\Subclass\Armorer
+  - spell\Subclass\Artillerist
+  - spell\Subclass\Clockwork Soul
+  - spell\Subclass\Oath Of Redemption
 level: 5th-level
 range: false
 school: Evocation

@@ -2,29 +2,29 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
-  - spell/feat/wood-elf-magic
-  - spell/level/cantrip
-  - spell/optfeature/blessed-warrior
-  - spell/optfeature/druidic-warrior
-  - spell/optfeature/pact-of-the-tome
-  - spell/race/kobold
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/nature-domain
-  - spell/subclass/the-lithic
-  - spell/subrace/elf-high
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Wood Elf Magic
+  - spell\Level\Cantrip
+  - spell\Optfeature\Blessed Warrior
+  - spell\Optfeature\Druidic Warrior
+  - spell\Optfeature\Pact Of The Tome
+  - spell\Race\Kobold
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Nature Domain
+  - spell\Subclass\The Lithic
+  - spell\Subrace\Elf High
 level: cantrip
 range: false
 school: Transmutation

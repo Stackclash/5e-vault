@@ -6,12 +6,12 @@ cr: 13
 environments: 'coastal, underwater'
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/13
-  - monster/environment/coastal
-  - monster/environment/underwater
-  - monster/size/huge
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\13
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Underwater
+  - monster\Size\Huge
+  - monster\Type\Giant
 aliases:
   - Storm Giant
 ---

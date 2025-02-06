@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/feat/shadow-touched
+  - spell\List\Feat\Shadow Touched
 aliases:
   - Spells for Shadow Touched
 ---

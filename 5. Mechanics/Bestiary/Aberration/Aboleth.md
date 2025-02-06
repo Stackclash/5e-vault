@@ -6,11 +6,11 @@ cr: 10
 environments: underdark
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/10
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\10
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Aberration
 aliases:
   - Aboleth
 ---

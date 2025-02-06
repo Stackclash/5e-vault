@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/oath-of-legacy
+  - spell\List\Subclass\Oath Of Legacy
 aliases:
   - Spells for Oath of Legacy
 ---

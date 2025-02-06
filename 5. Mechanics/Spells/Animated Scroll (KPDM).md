@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/cantrip
-  - spell/optfeature/pact-of-the-tome
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\Cantrip
+  - spell\Optfeature\Pact Of The Tome
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
 level: cantrip
 range: false
 school: Transmutation

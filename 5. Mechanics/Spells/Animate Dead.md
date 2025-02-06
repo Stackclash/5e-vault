@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/optfeature/undying-servitude
-  - spell/school/necromancy
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-spores
-  - spell/subclass/death-domain-dmg
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/oathbreaker-dmg
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\Optfeature\Undying Servitude
+  - spell\School\Necromancy
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of Spores
+  - spell\Subclass\Death Domain (DMG)
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Oathbreaker (DMG)
 level: 3rd-level
 range: false
 school: Necromancy

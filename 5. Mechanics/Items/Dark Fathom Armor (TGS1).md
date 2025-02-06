@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/armor/light
-  - item/rarity/very-rare
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Armor\Light
+  - item\Rarity\Very Rare
+  - item\Tier\Major
 aliases:
   - Dark Fathom Armor
 armorClass: 12 + Dex modifier

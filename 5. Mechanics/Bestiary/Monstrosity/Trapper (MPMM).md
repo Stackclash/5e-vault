@@ -6,11 +6,11 @@ cr: 3
 environments: underdark
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/3
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\3
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Trapper
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/bewitching-whispers
+  - spell\List\Optfeature\Bewitching Whispers
 aliases:
   - Spells for Bewitching Whispers
 ---

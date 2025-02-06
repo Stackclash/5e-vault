@@ -6,12 +6,12 @@ cr: 7
 environments: 'underdark, forest'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/7
-  - monster/environment/forest
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\7
+  - monster\Environment\Forest
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Grick Alpha
 ---

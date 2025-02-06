@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/xge
-  - item/age/futuristic
-  - item/age/modern
-  - item/age/renaissance
-  - item/gear/ammunition
-  - item/gear/ammunition-firearm
-  - item/rarity/common
-  - item/tier/minor
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(XGE)
+  - item\Age\Futuristic
+  - item\Age\Modern
+  - item\Age\Renaissance
+  - item\Gear\Ammunition
+  - item\Gear\Ammunition Firearm
+  - item\Rarity\Common
+  - item\Tier\Minor
+  - item\Wondrous\Generic Variant
 aliases:
   - Walloping Ammunition
   - Walloping Arrow

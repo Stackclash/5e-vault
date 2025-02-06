@@ -6,11 +6,11 @@ cr: 4
 environments: underdark
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\4
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Undead
 aliases:
   - Bone Naga (Guardian)
 ---

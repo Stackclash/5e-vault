@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/the-many
+  - spell\List\Subclass\The Many
 aliases:
   - Spells for The Many
 ---

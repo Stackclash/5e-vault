@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/ascendant-step
+  - spell\List\Optfeature\Ascendant Step
 aliases:
   - Spells for Ascendant Step
 ---

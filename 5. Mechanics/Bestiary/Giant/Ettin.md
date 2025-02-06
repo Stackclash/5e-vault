@@ -6,13 +6,13 @@ cr: 4
 environments: 'underdark, mountain, hill'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\4
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Giant
 aliases:
   - Ettin
 ---

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/artisans-tools
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Gear\Artisans Tools
+  - item\Rarity\None
 aliases:
   - Cobbler's Tools
 cost: 500

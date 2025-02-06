@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/swarmkeeper
+  - spell\List\Subclass\Swarmkeeper
 aliases:
   - Spells for Swarmkeeper
 ---

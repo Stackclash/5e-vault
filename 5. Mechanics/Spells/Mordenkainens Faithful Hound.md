@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/school/conjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/carillon-domain
-  - spell/subclass/eldritch-knight
-  - spell/subclass/justice-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\School\Conjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Carillon Domain
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Justice Domain
 level: 4th-level
 range: false
 school: Conjuration

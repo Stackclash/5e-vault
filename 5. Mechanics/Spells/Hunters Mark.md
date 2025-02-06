@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/ranger
-  - spell/feat/fey-touched
-  - spell/level/1st-level
-  - spell/school/divination
-  - spell/subclass/hunting-domain
-  - spell/subclass/oath-of-vengeance
-  - spell/subclass/the-apex-predator
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Ranger
+  - spell\Feat\Fey Touched
+  - spell\Level\1st Level
+  - spell\School\Divination
+  - spell\Subclass\Hunting Domain
+  - spell\Subclass\Oath Of Vengeance
+  - spell\Subclass\The Apex Preda(TOR)
 level: 1st-level
 range: false
 school: Divination

@@ -6,10 +6,10 @@ cr: 0
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/cos
-  - monster/cr/0
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+  - 5. Mechanics\Src\5e\(COS)
+  - monster\Cr\0
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Any Race
 aliases:
   - Barovian Commoner
 ---

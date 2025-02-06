@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/vrgr
-  - subclass/warlock/undead
+  - 5. Mechanics\Src\5e\(VRGR)
+  - subclass\Warlock\Undead
 aliases:
   - The Undead
 ---

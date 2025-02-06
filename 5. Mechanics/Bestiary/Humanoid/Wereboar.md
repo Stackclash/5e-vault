@@ -6,14 +6,14 @@ cr: 4
 environments: 'grassland, forest, hill'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/size/medium
-  - monster/type/humanoid/human
-  - monster/type/humanoid/shapechanger
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\4
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Human
+  - monster\Type\Humanoid\Shapechanger
 aliases:
   - Wereboar
 ---

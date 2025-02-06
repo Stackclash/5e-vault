@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/gear/artisans-tools
-  - item/rarity/uncommon
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Gear\Artisans Tools
+  - item\Rarity\Uncommon
+  - item\Tier\Major
 aliases:
   - Stonemason's Companion
 ---

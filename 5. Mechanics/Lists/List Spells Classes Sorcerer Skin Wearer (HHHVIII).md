@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/skin-wearer
+  - spell\List\Subclass\Skin Wearer
 aliases:
   - Spells for Skin Wearer
 ---

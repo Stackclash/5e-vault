@@ -2,23 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/level/5th-level
-  - spell/ritual
-  - spell/school/divination
-  - spell/subclass/cat-domain
-  - spell/subclass/circle-of-oaks
-  - spell/subclass/circle-of-the-grove
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/greenleaf-college
-  - spell/subclass/hedge-mage
-  - spell/subclass/hunting-domain
-  - spell/subclass/mountain-domain
-  - spell/subclass/oath-of-the-ancients
-  - spell/subclass/path-of-the-totem-warrior
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Level\5th Level
+  - spell\Ritu(AL)
+  - spell\School\Divination
+  - spell\Subclass\Cat Domain
+  - spell\Subclass\Circle Of Oaks
+  - spell\Subclass\Circle Of The Grove
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Greenleaf College
+  - spell\Subclass\Hedge Mage
+  - spell\Subclass\Hunting Domain
+  - spell\Subclass\Mountain Domain
+  - spell\Subclass\Oath Of The Ancients
+  - spell\Subclass\Path Of The Totem Warrior
 level: 5th-level
 range: true
 school: Divination

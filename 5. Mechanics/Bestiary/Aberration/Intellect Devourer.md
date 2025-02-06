@@ -6,11 +6,11 @@ cr: 2
 environments: underdark
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/underdark
-  - monster/size/tiny
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Environment\Underdark
+  - monster\Size\Tiny
+  - monster\Type\Aberration
 aliases:
   - Intellect Devourer
 ---

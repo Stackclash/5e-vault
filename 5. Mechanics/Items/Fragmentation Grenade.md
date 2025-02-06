@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/age/modern
-  - item/rarity/none
-  - item/weapon/explosive
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Age\Modern
+  - item\Rarity\None
+  - item\Weapon\Explosive
 aliases:
   - Fragmentation Grenade
 ---

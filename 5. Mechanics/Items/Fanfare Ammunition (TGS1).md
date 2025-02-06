@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/common
-  - item/tier/minor
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Common
+  - item\Tier\Minor
+  - item\Wondrous\Generic Variant
 aliases:
   - Fanfare Ammunition
 ---

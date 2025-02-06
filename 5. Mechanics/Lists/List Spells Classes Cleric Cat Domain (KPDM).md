@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/cat-domain
+  - spell\List\Subclass\Cat Domain
 aliases:
   - Spells for Cat Domain
 ---

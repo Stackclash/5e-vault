@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/tgs1
-  - domain/astral
-  - subclass/cleric/astral
+  - 5. Mechanics\Src\5e\(TGS1)
+  - domain\Astr(AL)
+  - subclass\Cleric\Astr(AL)
 aliases:
   - Astral Domain
 ---

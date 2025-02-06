@@ -6,10 +6,10 @@ cr: 10
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/10
-  - monster/size/large
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\10
+  - monster\Size\Large
+  - monster\Type\Aberration
 aliases:
   - Star Spawn Hulk
 ---

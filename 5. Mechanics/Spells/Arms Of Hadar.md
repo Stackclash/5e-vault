@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/warlock
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/conjuration
-  - spell/subclass/aberrant-mind
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Warlock
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Conjuration
+  - spell\Subclass\Aberrant Mind
 level: 1st-level
 range: false
 school: Conjuration

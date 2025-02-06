@@ -6,12 +6,12 @@ cr: 4
 environments: 'hill, underdark'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/4
-  - monster/environment/hill
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/aberration/warlock
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\4
+  - monster\Environment\Hill
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Aberration\Warlock
 aliases:
   - Neogi Master
 ---

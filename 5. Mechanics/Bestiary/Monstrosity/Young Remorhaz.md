@@ -6,11 +6,11 @@ cr: 5
 environments: arctic
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/arctic
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\5
+  - monster\Environment\Arctic
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Young Remorhaz
 ---

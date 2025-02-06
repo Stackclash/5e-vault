@@ -6,10 +6,10 @@ cr: 9
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/9
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\9
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Jiangshi
 ---

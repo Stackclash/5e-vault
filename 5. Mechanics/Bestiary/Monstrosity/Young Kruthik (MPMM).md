@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: 'desert, mountain, underdark'
 size: Small
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-8
-  - monster/environment/desert
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/small
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 8
+  - monster\Environment\Desert
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Small
+  - monster\Type\Monstrosity
 aliases:
   - Young Kruthik
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/college-of-glamour
+  - spell\List\Subclass\College Of Glamour
 aliases:
   - Spells for College of Glamour
 ---

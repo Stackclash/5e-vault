@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/oath-of-the-watchtower
+  - spell\List\Subclass\Oath Of The Watchtower
 aliases:
   - Spells for Oath of the Watchtower
 ---

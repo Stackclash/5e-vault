@@ -6,10 +6,10 @@ cr: 10
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/10
-  - monster/size/medium
-  - monster/type/fey
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\10
+  - monster\Size\Medium
+  - monster\Type\Fey
 aliases:
   - Sidereal Vizier
 ---

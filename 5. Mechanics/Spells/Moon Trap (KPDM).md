@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/school/abjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/labyrinth-domain
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\School\Abjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Labyrinth Domain
 level: 4th-level
 range: false
 school: Abjuration

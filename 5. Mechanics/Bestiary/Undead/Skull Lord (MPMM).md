@@ -6,13 +6,13 @@ cr: 15
 environments: 'desert, swamp, underdark'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/15
-  - monster/environment/desert
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/undead/sorcerer
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\15
+  - monster\Environment\Desert
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Undead\Sorcerer
 aliases:
   - Skull Lord
 ---

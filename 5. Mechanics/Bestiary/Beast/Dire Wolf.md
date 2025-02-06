@@ -6,12 +6,12 @@ cr: 1
 environments: 'forest, hill'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Dire Wolf
 ---

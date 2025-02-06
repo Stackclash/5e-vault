@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/ranged
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
 aliases:
   - Bow of the Eldritch Archer
 one-hand-damage: 1d6 P
-range: 80/320
+range: 80\320
 ---
 # Bow of the Eldritch Archer
 *Weapon ([[5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  

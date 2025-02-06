@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/xge
-  - subclass/monk/drunken-master
+  - 5. Mechanics\Src\5e\(XGE)
+  - subclass\Monk\Drunken Master
 aliases:
   - Way of the Drunken Master
 ---

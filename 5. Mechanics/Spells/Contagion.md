@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/level/5th-level
-  - spell/school/necromancy
-  - spell/subclass/circle-of-spores
-  - spell/subclass/divine-soul
-  - spell/subclass/festus-domain
-  - spell/subclass/hedge-mage
-  - spell/subclass/oath-of-the-annihilator
-  - spell/subclass/oathbreaker-dmg
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Level\5th Level
+  - spell\School\Necromancy
+  - spell\Subclass\Circle Of Spores
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Festus Domain
+  - spell\Subclass\Hedge Mage
+  - spell\Subclass\Oath Of The Annihila(TOR)
+  - spell\Subclass\Oathbreaker (DMG)
 level: 5th-level
 range: false
 school: Necromancy

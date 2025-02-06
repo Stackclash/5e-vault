@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/attunement/required
-  - item/rarity/uncommon
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Attunement\Required
+  - item\Rarity\Uncommon
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Compass Blowgun
 one-hand-damage: 1 P
-range: 25/100
+range: 25\100
 ---
 # Compass Blowgun
 *Weapon ([[5. Mechanics/Items/Blowgun.md\|blowgun]]), uncommon (requires attunement)*  

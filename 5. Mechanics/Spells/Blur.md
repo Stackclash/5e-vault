@@ -2,24 +2,24 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/svirfneblin-magic
-  - spell/level/2nd-level
-  - spell/race/gnome-deep-dmg
-  - spell/school/illusion
-  - spell/subclass/arcane-trickster
-  - spell/subclass/beer-domain
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/eldritch-knight
-  - spell/subclass/speed-domain
-  - spell/subclass/the-frozen-one
-  - spell/subclass/the-genie
-  - spell/subclass/the-hexblade
-  - spell/subclass/the-valiant
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Svirfneblin Magic
+  - spell\Level\2nd Level
+  - spell\Race\Gnome Deep (DMG)
+  - spell\School\Illusion
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Beer Domain
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Speed Domain
+  - spell\Subclass\The Frozen One
+  - spell\Subclass\The Genie
+  - spell\Subclass\The Hexblade
+  - spell\Subclass\The Valiant
 level: 2nd-level
 range: false
 school: Illusion

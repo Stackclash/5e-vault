@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/artillerist
-  - spell/subclass/circle-of-wildfire
-  - spell/subclass/eldritch-knight
-  - spell/subclass/light-domain
-  - spell/subclass/oath-of-radiance
-  - spell/subclass/the-fiend
-  - spell/subclass/the-genie
-  - spell/subclass/the-many
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Artillerist
+  - spell\Subclass\Circle Of Wildfire
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Light Domain
+  - spell\Subclass\Oath Of Radiance
+  - spell\Subclass\The Fiend
+  - spell\Subclass\The Genie
+  - spell\Subclass\The Many
 level: 2nd-level
 range: false
 school: Evocation

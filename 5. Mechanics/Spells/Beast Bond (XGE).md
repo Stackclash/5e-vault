@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/xge
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/feat/fey-touched
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/divination
+  - 5. Mechanics\Src\5e\(XGE)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Feat\Fey Touched
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Divination
 level: 1st-level
 range: false
 school: Divination

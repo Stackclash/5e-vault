@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/attunement/required
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Attunement\Required
+  - item\Rarity\Uncommon
+  - item\Tier\Major
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Direstone Dwarven Key
 one-hand-damage: 1d6 S
-range: 20/60
+range: 20\60
 ---
 # Direstone Dwarven Key
 *Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon (requires attunement by a dwarf)*  

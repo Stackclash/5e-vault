@@ -6,11 +6,11 @@ cr: 17
 environments: desert
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/17
-  - monster/environment/desert
-  - monster/size/huge
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\17
+  - monster\Environment\Desert
+  - monster\Size\Huge
+  - monster\Type\Undead
 aliases:
   - Adult Blue Dracolich
 ---

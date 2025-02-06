@@ -6,12 +6,12 @@ cr: 6
 environments: 'hill, mountain'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/6
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/large
-  - monster/type/fey
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\6
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Large
+  - monster\Type\Fey
 aliases:
   - Annis Hag
 ---

@@ -6,12 +6,12 @@ cr: 10
 environments: 'forest, desert'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/10
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\10
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Guardian Naga
 ---

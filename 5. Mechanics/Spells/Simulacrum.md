@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/7th-level
-  - spell/school/illusion
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\7th Level
+  - spell\School\Illusion
 level: 7th-level
 range: false
 school: Illusion

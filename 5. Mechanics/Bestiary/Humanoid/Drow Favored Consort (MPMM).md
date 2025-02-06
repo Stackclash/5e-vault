@@ -6,12 +6,12 @@ cr: 18
 environments: underdark
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/18
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/elf
-  - monster/type/humanoid/wizard
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\18
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Elf
+  - monster\Type\Humanoid\Wizard
 aliases:
   - Drow Favored Consort
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/the-lithic
+  - spell\List\Subclass\The Lithic
 aliases:
   - Spells for The Lithic
 ---

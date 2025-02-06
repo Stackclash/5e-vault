@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/ritual
-  - spell/school/necromancy
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\Ritu(AL)
+  - spell\School\Necromancy
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
 level: 4th-level
 range: true
 school: Necromancy

@@ -6,14 +6,14 @@ cr: 4
 environments: 'forest, grassland, hill, mountain'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/4
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/medium
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\4
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Medium
+  - monster\Type\Construct
 aliases:
   - Clockwork Stone Defender
 ---

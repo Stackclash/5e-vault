@@ -6,11 +6,11 @@ cr: 13
 environments: urban
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/13
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead/shapechanger
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\13
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Undead\Shapechanger
 aliases:
   - Vampire
 ---

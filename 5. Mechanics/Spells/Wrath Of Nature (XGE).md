@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/xge
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/level/5th-level
-  - spell/school/evocation
+  - 5. Mechanics\Src\5e\(XGE)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Level\5th Level
+  - spell\School\Evocation
 level: 5th-level
 range: false
 school: Evocation

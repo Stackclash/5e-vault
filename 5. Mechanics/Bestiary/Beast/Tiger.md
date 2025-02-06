@@ -6,12 +6,12 @@ cr: 1
 environments: 'grassland, forest'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Tiger
 ---

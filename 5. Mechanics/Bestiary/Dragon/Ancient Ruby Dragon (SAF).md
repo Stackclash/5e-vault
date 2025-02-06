@@ -6,10 +6,10 @@ cr: 23
 environments: null
 size: Gargantuan
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/23
-  - monster/size/gargantuan
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\23
+  - monster\Size\Gargantuan
+  - monster\Type\Dragon
 aliases:
   - Ancient Ruby Dragon
 ---

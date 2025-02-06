@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/level/2nd-level
-  - spell/school/evocation
-  - spell/subclass/moon-domain
-  - spell/subclass/oath-of-the-ancients
-  - spell/subclass/oath-of-the-watchers
-  - spell/subclass/the-shapechanger
-  - spell/subclass/twilight-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Level\2nd Level
+  - spell\School\Evocation
+  - spell\Subclass\Moon Domain
+  - spell\Subclass\Oath Of The Ancients
+  - spell\Subclass\Oath Of The Watchers
+  - spell\Subclass\The Shapechanger
+  - spell\Subclass\Twilight Domain
 level: 2nd-level
 range: false
 school: Evocation

@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/level/3rd-level
-  - spell/ritual
-  - spell/school/transmutation
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/divine-soul
-  - spell/subclass/mountain-domain
-  - spell/subclass/the-genie
-  - spell/subclass/the-lithic
-  - spell/subclass/the-shapechanger
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Level\3rd Level
+  - spell\Ritu(AL)
+  - spell\School\Transmutation
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Mountain Domain
+  - spell\Subclass\The Genie
+  - spell\Subclass\The Lithic
+  - spell\Subclass\The Shapechanger
 level: 3rd-level
 range: true
 school: Transmutation

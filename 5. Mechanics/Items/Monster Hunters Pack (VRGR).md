@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/vrgr
-  - item/gear/
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(VRGR)
+  - item\Gear
+  - item\Rarity\None
 aliases:
   - Monster Hunter's Pack
 cost: 3300

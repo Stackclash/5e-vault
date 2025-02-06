@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/size/tiny
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 8
+  - monster\Size\Tiny
+  - monster\Type\Aberration
 aliases:
   - Slaad Tadpole
 ---

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/saf
-  - item/gear/requires-installation
-  - item/rarity/rare
+  - 5. Mechanics\Src\5e\(SAF)
+  - item\Gear\Requires Installation
+  - item\Rarity\Rare
 aliases:
   - The Tapestry of Reweaving
 ---

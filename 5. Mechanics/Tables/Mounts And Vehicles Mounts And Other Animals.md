@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/phb
+  - 5. Mechanics\Src\5e\(PHB)
 aliases:
   - Mounts and Vehicles; Mounts and Other Animals
 ---

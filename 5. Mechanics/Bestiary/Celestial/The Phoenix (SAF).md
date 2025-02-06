@@ -6,10 +6,10 @@ cr: 21
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/21
-  - monster/size/huge
-  - monster/type/celestial
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\21
+  - monster\Size\Huge
+  - monster\Type\Celesti(AL)
 aliases:
   - The Phoenix
 ---

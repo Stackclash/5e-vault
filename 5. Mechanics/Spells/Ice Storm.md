@@ -2,22 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/artillerist
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/eldritch-knight
-  - spell/subclass/oath-of-the-ancients
-  - spell/subclass/rocborne
-  - spell/subclass/tempest-domain
-  - spell/subclass/the-frozen-one
-  - spell/subclass/winter-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Artillerist
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Oath Of The Ancients
+  - spell\Subclass\Rocborne
+  - spell\Subclass\Tempest Domain
+  - spell\Subclass\The Frozen One
+  - spell\Subclass\Winter Domain
 level: 4th-level
 range: false
 school: Evocation

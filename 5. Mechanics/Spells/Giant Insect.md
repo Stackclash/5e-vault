@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/level/4th-level
-  - spell/school/transmutation
-  - spell/subclass/circle-of-the-grove
-  - spell/subclass/hedge-mage
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Level\4th Level
+  - spell\School\Transmutation
+  - spell\Subclass\Circle Of The Grove
+  - spell\Subclass\Hedge Mage
 level: 4th-level
 range: false
 school: Transmutation

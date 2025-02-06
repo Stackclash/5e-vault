@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/1-2
-  - monster/size/tiny
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\1 2
+  - monster\Size\Tiny
+  - monster\Type\Element(AL)
 aliases:
   - Gargoyle Impling
 ---

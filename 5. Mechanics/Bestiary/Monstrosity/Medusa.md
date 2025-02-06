@@ -6,11 +6,11 @@ cr: 6
 environments: desert
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/6
-  - monster/environment/desert
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\6
+  - monster\Environment\Desert
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Medusa
 ---

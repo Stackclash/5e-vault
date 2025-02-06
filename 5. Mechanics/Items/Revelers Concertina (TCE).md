@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tce
-  - item/attunement/required
-  - item/gear/instrument
-  - item/rarity/rare
+  - 5. Mechanics\Src\5e\(TCE)
+  - item\Attunement\Required
+  - item\Gear\Instrument
+  - item\Rarity\Rare
 aliases:
   - Reveler's Concertina
 ---

@@ -6,11 +6,11 @@ cr: 14
 environments: hill
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/14
-  - monster/environment/hill
-  - monster/size/huge
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\14
+  - monster\Environment\Hill
+  - monster\Size\Huge
+  - monster\Type\Dragon
 aliases:
   - Adult Copper Dragon
 ---

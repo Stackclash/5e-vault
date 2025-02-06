@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'grassland, urban'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-4
-  - monster/environment/grassland
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/beast/cattle
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 4
+  - monster\Environment\Grassland
+  - monster\Environment\Urban
+  - monster\Size\Large
+  - monster\Type\Beast\Cattle
 aliases:
   - Ox
 ---

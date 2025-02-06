@@ -6,12 +6,12 @@ cr: 5
 environments: 'swamp, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/5
-  - monster/environment/swamp
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\5
+  - monster\Environment\Swamp
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Allip
 ---

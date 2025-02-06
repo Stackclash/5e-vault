@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/race/gnome-deep-dmg
+  - spell\List\Race\Gnome Deep (DMG)
 aliases:
   - Spells for Gnome (Deep) (DMG)
 ---

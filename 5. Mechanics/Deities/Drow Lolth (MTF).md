@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/drow
-  - domain/trickery
-  - domain/war
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Drow
+  - domain\Trickery
+  - domain\War
 aliases:
   - Lolth
 ---

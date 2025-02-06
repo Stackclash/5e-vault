@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/norse
-  - domain/nature
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Norse
+  - domain\Nature
 aliases:
   - Uller
 ---

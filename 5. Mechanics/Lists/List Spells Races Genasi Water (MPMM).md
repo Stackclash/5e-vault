@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subrace/genasi-water
+  - spell\List\Subrace\Genasi Water
 aliases:
   - Spells for Genasi (Water)
 ---

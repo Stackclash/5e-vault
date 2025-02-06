@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/mpmm
-  - monster/legendary-group
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Legendary Group
 aliases:
   - Ki-rin
 ---

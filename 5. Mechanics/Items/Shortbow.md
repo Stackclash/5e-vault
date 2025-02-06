@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/rarity/none
-  - item/weapon/ranged
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Rarity\None
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
 aliases:
   - Shortbow
 cost: 2500
 one-hand-damage: 1d6 P
-range: 80/320
+range: 80\320
 ---
 # Shortbow
 *Weapon*  

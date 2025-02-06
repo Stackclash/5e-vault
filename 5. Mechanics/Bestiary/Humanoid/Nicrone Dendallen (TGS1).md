@@ -6,10 +6,10 @@ cr: 11
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/tgs1
-  - monster/cr/11
-  - monster/size/medium
-  - monster/type/humanoid/human
+  - 5. Mechanics\Src\5e\(TGS1)
+  - monster\Cr\11
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Human
 aliases:
   - Nicrone Dendallen
 ---

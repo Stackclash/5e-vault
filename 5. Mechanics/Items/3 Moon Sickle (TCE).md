@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tce
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(TCE)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - +3 Moon Sickle
 one-hand-damage: 1d4 S

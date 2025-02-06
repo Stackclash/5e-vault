@@ -6,14 +6,14 @@ cr: 1
 environments: 'forest, swamp, urban, desert'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid/yuan-ti
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Yuan Ti
 aliases:
   - Yuan-ti Pureblood
 ---

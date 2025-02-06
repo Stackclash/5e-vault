@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/clench-of-the-north-wind
+  - spell\List\Optfeature\Clench Of The North Wind
 aliases:
   - Spells for Clench of the North Wind
 ---

@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/attunement/required
-  - item/rarity/uncommon
-  - item/weapon/martial
-  - item/weapon/melee
-  - item/weapon/simple
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Attunement\Required
+  - item\Rarity\Uncommon
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
+  - item\Weapon\Simple
+  - item\Wondrous\Generic Variant
 aliases:
   - Dragonbone Weapon (Young)
   - Young Dragonbone Double-Bladed Scimitar

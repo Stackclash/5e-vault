@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/level/3rd-level
-  - spell/school/conjuration
-  - spell/subclass/circle-of-the-spirits
-  - spell/subclass/divine-soul
-  - spell/subclass/fey-soul
-  - spell/subclass/war-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Level\3rd Level
+  - spell\School\Conjuration
+  - spell\Subclass\Circle Of The Spirits
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Fey Soul
+  - spell\Subclass\War Domain
 level: 3rd-level
 range: false
 school: Conjuration

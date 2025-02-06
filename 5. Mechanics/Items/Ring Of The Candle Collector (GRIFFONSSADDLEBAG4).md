@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/rarity/common
-  - item/wondrous/ring
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Rarity\Common
+  - item\Wondrous\Ring
 aliases:
   - Ring of the Candle Collector
 ---

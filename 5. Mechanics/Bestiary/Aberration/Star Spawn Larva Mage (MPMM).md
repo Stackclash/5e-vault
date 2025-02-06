@@ -6,11 +6,11 @@ cr: 16
 environments: mountain
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/16
-  - monster/environment/mountain
-  - monster/size/medium
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\16
+  - monster\Environment\Mountain
+  - monster\Size\Medium
+  - monster\Type\Aberration
 aliases:
   - Star Spawn Larva Mage
 ---

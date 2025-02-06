@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/oath-of-glory
+  - spell\List\Subclass\Oath Of Glory
 aliases:
   - Spells for Oath of Glory
 ---

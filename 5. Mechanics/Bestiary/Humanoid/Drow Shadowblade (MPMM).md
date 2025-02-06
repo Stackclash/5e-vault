@@ -6,11 +6,11 @@ cr: 11
 environments: underdark
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/11
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/elf
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\11
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Elf
 aliases:
   - Drow Shadowblade
 ---

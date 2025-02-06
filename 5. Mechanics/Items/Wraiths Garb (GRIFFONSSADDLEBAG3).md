@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/armor/light
-  - item/attunement/required
-  - item/rarity/uncommon
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Armor\Light
+  - item\Attunement\Required
+  - item\Rarity\Uncommon
+  - item\Tier\Major
 aliases:
   - Wraith's Garb
 armorClass: 11 + Dex modifier

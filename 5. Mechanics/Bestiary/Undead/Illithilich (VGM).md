@@ -6,11 +6,11 @@ cr: 22
 environments: underdark
 size: Medium
 tags:
-  - compendium/src/5e/vgm
-  - monster/cr/22
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(VGM)
+  - monster\Cr\22
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Illithilich
 ---

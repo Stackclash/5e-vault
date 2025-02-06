@@ -6,12 +6,12 @@ cr: 1
 environments: 'hill, underdark'
 size: Small
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1
-  - monster/environment/hill
-  - monster/environment/underdark
-  - monster/size/small
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1
+  - monster\Environment\Hill
+  - monster\Environment\Underdark
+  - monster\Size\Small
+  - monster\Type\Monstrosity
 aliases:
   - Xvart Warlock of Raxivort
 ---

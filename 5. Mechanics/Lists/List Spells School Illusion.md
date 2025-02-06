@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/school/illusion
+  - spell\List\School\Illusion
 aliases:
   - Illusion Spells
 ---

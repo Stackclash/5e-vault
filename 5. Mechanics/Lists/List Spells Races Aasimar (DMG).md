@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/race/aasimar-dmg
+  - spell\List\Race\Aasimar (DMG)
 aliases:
   - Spells for Aasimar (DMG)
 ---

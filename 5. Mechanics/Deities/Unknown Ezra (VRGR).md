@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/vrgr
-  - deity/unknown
-  - domain/unknown
+  - 5. Mechanics\Src\5e\(VRGR)
+  - deity\Unknown
+  - domain\Unknown
 aliases:
   - Ezra
 ---

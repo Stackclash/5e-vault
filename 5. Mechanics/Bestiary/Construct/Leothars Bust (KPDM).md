@@ -6,10 +6,10 @@ cr: 3
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/kpdm
-  - monster/cr/3
-  - monster/size/tiny
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(KPDM)
+  - monster\Cr\3
+  - monster\Size\Tiny
+  - monster\Type\Construct
 aliases:
   - Leothar's Bust
 ---

@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/ritual
-  - spell/school/divination
-  - spell/subclass/apocalypse-domain
-  - spell/subclass/prophecy-domain
-  - spell/subclass/void-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\Ritu(AL)
+  - spell\School\Divination
+  - spell\Subclass\Apocalypse Domain
+  - spell\Subclass\Prophecy Domain
+  - spell\Subclass\Void Domain
 level: 5th-level
 range: true
 school: Divination

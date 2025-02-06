@@ -6,10 +6,10 @@ cr: 13
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/bam
-  - monster/cr/13
-  - monster/size/huge
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(BAM)
+  - monster\Cr\13
+  - monster\Size\Huge
+  - monster\Type\Dragon
 aliases:
   - Adult Lunar Dragon
 ---

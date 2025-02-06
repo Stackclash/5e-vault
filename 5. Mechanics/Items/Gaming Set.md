@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/gaming-set
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Gear\Gaming Set
+  - item\Rarity\None
 aliases:
   - Gaming Set
 ---

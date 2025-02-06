@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/the-hexblade
+  - spell\List\Subclass\The Hexblade
 aliases:
   - Spells for The Hexblade
 ---

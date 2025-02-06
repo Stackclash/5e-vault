@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/hhhvii
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/paladin
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/ritual
-  - spell/school/necromancy
-  - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/harvester-domain
-  - spell/subclass/oath-of-legacy
-  - spell/subclass/the-apex-predator
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Paladin
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\Ritu(AL)
+  - spell\School\Necromancy
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Harvester Domain
+  - spell\Subclass\Oath Of Legacy
+  - spell\Subclass\The Apex Preda(TOR)
 level: 3rd-level
 range: true
 school: Necromancy

@@ -6,11 +6,11 @@ cr: 15
 environments: coastal
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/15
-  - monster/environment/coastal
-  - monster/size/huge
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\15
+  - monster\Environment\Coast(AL)
+  - monster\Size\Huge
+  - monster\Type\Dragon
 aliases:
   - Adult Bronze Dragon
 ---

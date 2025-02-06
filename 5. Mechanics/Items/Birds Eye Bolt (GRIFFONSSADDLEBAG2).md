@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/gear/ammunition
-  - item/rarity/common
-  - item/tier/minor
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Gear\Ammunition
+  - item\Rarity\Common
+  - item\Tier\Minor
+  - item\Wondrous\Generic Variant
 aliases:
   - Bird's-Eye Bolt
   - Bird's-Eye Arrow

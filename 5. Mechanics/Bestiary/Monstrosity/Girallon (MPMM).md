@@ -6,11 +6,11 @@ cr: 4
 environments: forest
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/4
-  - monster/environment/forest
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\4
+  - monster\Environment\Forest
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Girallon
 ---

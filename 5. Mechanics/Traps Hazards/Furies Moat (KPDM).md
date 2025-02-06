@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-  - compendium/src/5e/kpdm
-  - hazard/mag
+  - 5. Mechanics\Src\5e\(KPDM)
+  - hazard\Mag
 aliases:
   - Furies' Moat
 ---

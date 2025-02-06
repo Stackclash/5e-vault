@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/the-fiend
+  - spell\List\Subclass\The Fiend
 aliases:
   - Spells for The Fiend
 ---

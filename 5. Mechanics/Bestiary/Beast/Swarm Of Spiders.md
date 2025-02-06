@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'underdark, grassland, forest, swamp, hill, urban, desert'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 2
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Beast
 aliases:
   - Swarm of Spiders
 ---

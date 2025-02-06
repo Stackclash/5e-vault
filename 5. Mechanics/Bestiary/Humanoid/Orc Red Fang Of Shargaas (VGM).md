@@ -6,15 +6,15 @@ cr: 3
 environments: 'underdark, mountain, forest, hill, urban'
 size: Medium
 tags:
-  - compendium/src/5e/vgm
-  - monster/cr/3
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid/orc
+  - 5. Mechanics\Src\5e\(VGM)
+  - monster\Cr\3
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Orc
 aliases:
   - Orc Red Fang of Shargaas
 ---

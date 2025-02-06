@@ -6,11 +6,11 @@ cr: 11
 environments: mountain
 size: Huge
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/11
-  - monster/environment/mountain
-  - monster/size/huge
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\11
+  - monster\Environment\Mountain
+  - monster\Size\Huge
+  - monster\Type\Giant
 aliases:
   - Cloud Giant Smiling One
 ---

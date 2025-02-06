@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/optfeature/visions-of-distant-realms
-  - spell/school/divination
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-owls
-  - spell/subclass/eldritch-knight
-  - spell/subclass/knowledge-domain
-  - spell/subclass/prophecy-domain
-  - spell/subclass/swarmkeeper
-  - spell/subclass/the-many
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\Optfeature\Visions Of Distant Realms
+  - spell\School\Divination
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of Owls
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Knowledge Domain
+  - spell\Subclass\Prophecy Domain
+  - spell\Subclass\Swarmkeeper
+  - spell\Subclass\The Many
 level: 4th-level
 range: false
 school: Divination

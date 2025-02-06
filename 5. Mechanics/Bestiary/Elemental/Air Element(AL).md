@@ -6,12 +6,12 @@ cr: 5
 environments: 'mountain, desert'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/desert
-  - monster/environment/mountain
-  - monster/size/large
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\5
+  - monster\Environment\Desert
+  - monster\Environment\Mountain
+  - monster\Size\Large
+  - monster\Type\Element(AL)
 aliases:
   - Air Elemental
 ---

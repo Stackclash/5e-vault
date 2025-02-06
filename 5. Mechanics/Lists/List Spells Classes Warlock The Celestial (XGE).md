@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/the-celestial
+  - spell\List\Subclass\The Celesti(AL)
 aliases:
   - Spells for The Celestial
 ---

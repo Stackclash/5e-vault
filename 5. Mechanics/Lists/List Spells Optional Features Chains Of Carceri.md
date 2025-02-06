@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/chains-of-carceri
+  - spell\List\Optfeature\Chains Of Carceri
 aliases:
   - Spells for Chains of Carceri
 ---

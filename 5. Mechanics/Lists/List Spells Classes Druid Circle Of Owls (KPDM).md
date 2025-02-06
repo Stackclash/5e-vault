@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/circle-of-owls
+  - spell\List\Subclass\Circle Of Owls
 aliases:
   - Spells for Circle of Owls
 ---

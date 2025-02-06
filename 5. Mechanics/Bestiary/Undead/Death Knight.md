@@ -6,10 +6,10 @@ cr: 17
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/17
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\17
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Death Knight
 ---

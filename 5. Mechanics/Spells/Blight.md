@@ -2,30 +2,30 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/school/necromancy
-  - spell/subclass/alchemist
-  - spell/subclass/apocalypse-domain
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-spores
-  - spell/subclass/circle-of-the-grove
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/death-domain-dmg
-  - spell/subclass/dragon-domain
-  - spell/subclass/eldritch-knight
-  - spell/subclass/festus-domain
-  - spell/subclass/grave-domain
-  - spell/subclass/gravetender
-  - spell/subclass/hunger-domain
-  - spell/subclass/oath-of-the-annihilator
-  - spell/subclass/oathbreaker-dmg
-  - spell/subclass/second-soul
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\School\Necromancy
+  - spell\Subclass\Alchemist
+  - spell\Subclass\Apocalypse Domain
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of Spores
+  - spell\Subclass\Circle Of The Grove
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Death Domain (DMG)
+  - spell\Subclass\Dragon Domain
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Festus Domain
+  - spell\Subclass\Grave Domain
+  - spell\Subclass\Gravetender
+  - spell\Subclass\Hunger Domain
+  - spell\Subclass\Oath Of The Annihila(TOR)
+  - spell\Subclass\Oathbreaker (DMG)
+  - spell\Subclass\Second Soul
 level: 4th-level
 range: false
 school: Necromancy

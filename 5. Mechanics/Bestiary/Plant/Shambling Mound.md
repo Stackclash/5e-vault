@@ -6,12 +6,12 @@ cr: 5
 environments: 'forest, swamp'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/size/large
-  - monster/type/plant
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\5
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Size\Large
+  - monster\Type\Plant
 aliases:
   - Shambling Mound
 ---

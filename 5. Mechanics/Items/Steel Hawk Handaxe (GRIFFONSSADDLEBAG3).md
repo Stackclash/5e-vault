@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Rarity\Uncommon
+  - item\Tier\Major
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Steel Hawk Handaxe
 one-hand-damage: 1d6 S
-range: 20/60
+range: 20\60
 ---
 # Steel Hawk Handaxe
 *Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon*  

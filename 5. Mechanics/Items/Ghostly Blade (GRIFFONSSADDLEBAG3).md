@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Ghostly Blade
 one-hand-damage: 1d8 O

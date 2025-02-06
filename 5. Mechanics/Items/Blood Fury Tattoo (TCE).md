@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tce
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/wondrous/tattoo
+  - 5. Mechanics\Src\5e\(TCE)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Wondrous\Tattoo
 aliases:
   - Blood Fury Tattoo
 ---

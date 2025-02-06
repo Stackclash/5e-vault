@@ -6,13 +6,13 @@ cr: 8
 environments: 'coastal, underdark, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/8
-  - monster/environment/coastal
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/fiend/yugoloth
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\8
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Fiend\Yugoloth
 aliases:
   - Canoloth
 ---

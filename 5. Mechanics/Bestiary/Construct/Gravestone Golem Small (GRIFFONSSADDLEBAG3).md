@@ -6,10 +6,10 @@ cr: 1
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/1
-  - monster/size/small
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\1
+  - monster\Size\Small
+  - monster\Type\Construct
 aliases:
   - Gravestone Golem (Small)
 ---

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - subclass/wizard/dracomage
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - subclass\Wizard\Dracomage
 aliases:
   - Dracomage
 ---

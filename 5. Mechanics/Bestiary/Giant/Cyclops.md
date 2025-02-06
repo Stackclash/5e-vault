@@ -6,16 +6,16 @@ cr: 6
 environments: 'underdark, mountain, grassland, hill, desert, coastal'
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/6
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/huge
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\6
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Huge
+  - monster\Type\Giant
 aliases:
   - Cyclops
 ---

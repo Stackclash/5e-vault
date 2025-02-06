@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/tricksters-escape
+  - spell\List\Optfeature\Tricksters Escape
 aliases:
   - Spells for Trickster's Escape
 ---

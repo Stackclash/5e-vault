@@ -6,11 +6,11 @@ cr: 7
 environments: arctic
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/7
-  - monster/environment/arctic
-  - monster/size/medium
-  - monster/type/fey
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\7
+  - monster\Environment\Arctic
+  - monster\Size\Medium
+  - monster\Type\Fey
 aliases:
   - Bheur Hag
 ---

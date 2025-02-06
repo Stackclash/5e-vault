@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/druid
-  - spell/level/2nd-level
-  - spell/school/transmutation
-  - spell/subclass/festus-domain
-  - spell/subclass/forge-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Level\2nd Level
+  - spell\School\Transmutation
+  - spell\Subclass\Festus Domain
+  - spell\Subclass\Forge Domain
 level: 2nd-level
 range: false
 school: Transmutation

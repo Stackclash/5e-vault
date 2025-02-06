@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/angler
+  - spell\List\Subclass\Angler
 aliases:
   - Spells for Angler
 ---

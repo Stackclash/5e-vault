@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'forest, grassland'
 size: Tiny
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-4
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/size/tiny
-  - monster/type/beast/dinosaur
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 4
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Size\Tiny
+  - monster\Type\Beast\Dinosaur
 aliases:
   - Velociraptor
 ---

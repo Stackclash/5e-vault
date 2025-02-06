@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/tempest-domain
+  - spell\List\Subclass\Tempest Domain
 aliases:
   - Spells for Tempest Domain
 ---

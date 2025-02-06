@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/feat/magic-initiate
-  - spell/feat/wood-elf-magic
-  - spell/level/cantrip
-  - spell/optfeature/druidic-warrior
-  - spell/optfeature/pact-of-the-tome
-  - spell/school/conjuration
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/nature-domain
-  - spell/subrace/genasi-fire
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Wood Elf Magic
+  - spell\Level\Cantrip
+  - spell\Optfeature\Druidic Warrior
+  - spell\Optfeature\Pact Of The Tome
+  - spell\School\Conjuration
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Nature Domain
+  - spell\Subrace\Genasi Fire
 level: cantrip
 range: false
 school: Conjuration

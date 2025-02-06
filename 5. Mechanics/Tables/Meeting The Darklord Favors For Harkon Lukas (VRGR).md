@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/vrgr
+  - 5. Mechanics\Src\5e\(VRGR)
 aliases:
   - Meeting the Darklord; Favors for Harkon Lukas
 ---

@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: mountain
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/mountain
-  - monster/size/medium
-  - monster/type/humanoid/aarakocra
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 4
+  - monster\Environment\Mountain
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Aarakocra
 aliases:
   - Aarakocra
 ---

@@ -6,12 +6,12 @@ cr: 3
 environments: 'underdark, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/3
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/ooze
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\3
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Ooze
 aliases:
   - Slithering Tracker
 ---

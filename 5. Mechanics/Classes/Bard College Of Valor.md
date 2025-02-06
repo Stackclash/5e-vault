@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/bard/valor
+  - 5. Mechanics\Src\5e\(PHB)
+  - subclass\Bard\Valor
 aliases:
   - College of Valor
 ---

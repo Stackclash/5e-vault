@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/transmutation
-  - spell/subclass/circle-of-the-grove
-  - spell/subclass/festus-domain
-  - spell/subclass/greenleaf-college
-  - spell/subclass/hedge-mage
-  - spell/subclass/hunger-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Transmutation
+  - spell\Subclass\Circle Of The Grove
+  - spell\Subclass\Festus Domain
+  - spell\Subclass\Greenleaf College
+  - spell\Subclass\Hedge Mage
+  - spell\Subclass\Hunger Domain
 level: 1st-level
 range: false
 school: Transmutation

@@ -6,10 +6,10 @@ cr: 1
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - monster/cr/1
-  - monster/size/small
-  - monster/type/ooze
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - monster\Cr\1
+  - monster\Size\Small
+  - monster\Type\Ooze
 aliases:
   - Purple Jam
 ---

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/common
-  - item/tier/minor
-  - item/wondrous/ring
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Common
+  - item\Tier\Minor
+  - item\Wondrous\Ring
 aliases:
   - Ring of Roses
 ---

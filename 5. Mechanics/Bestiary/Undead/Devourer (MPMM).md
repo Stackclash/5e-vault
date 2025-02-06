@@ -6,11 +6,11 @@ cr: 13
 environments: underdark
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/13
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\13
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Undead
 aliases:
   - Devourer
 ---

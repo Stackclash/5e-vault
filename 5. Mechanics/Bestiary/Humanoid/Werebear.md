@@ -6,14 +6,14 @@ cr: 5
 environments: 'forest, hill, arctic'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/arctic
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/size/medium
-  - monster/type/humanoid/human
-  - monster/type/humanoid/shapechanger
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\5
+  - monster\Environment\Arctic
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Human
+  - monster\Type\Humanoid\Shapechanger
 aliases:
   - Werebear
 ---

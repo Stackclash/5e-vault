@@ -6,10 +6,10 @@ cr: 13
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/veor
-  - monster/cr/13
-  - monster/size/large
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(VEOR)
+  - monster\Cr\13
+  - monster\Size\Large
+  - monster\Type\Fiend\Demon
 aliases:
   - Phisarazu Spyder-Fiend
 ---

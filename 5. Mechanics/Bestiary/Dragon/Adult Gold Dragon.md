@@ -6,12 +6,12 @@ cr: 17
 environments: 'grassland, forest'
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/17
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/size/huge
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\17
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Size\Huge
+  - monster\Type\Dragon
 aliases:
   - Adult Gold Dragon
 ---

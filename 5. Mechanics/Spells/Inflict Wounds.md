@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/feat/magic-initiate
-  - spell/feat/shadow-touched
-  - spell/level/1st-level
-  - spell/school/necromancy
-  - spell/subclass/divine-soul
-  - spell/subclass/oathbreaker-dmg
-  - spell/subclass/second-soul
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Shadow Touched
+  - spell\Level\1st Level
+  - spell\School\Necromancy
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Oathbreaker (DMG)
+  - spell\Subclass\Second Soul
 level: 1st-level
 range: false
 school: Necromancy

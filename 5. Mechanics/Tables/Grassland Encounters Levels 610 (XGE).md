@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/xge
+  - 5. Mechanics\Src\5e\(XGE)
 aliases:
   - Grassland Encounters (Levels 6—10)
 ---

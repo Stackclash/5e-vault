@@ -6,10 +6,10 @@ cr: 13
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/13
-  - monster/size/medium
-  - monster/type/fiend/yugoloth
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\13
+  - monster\Size\Medium
+  - monster\Type\Fiend\Yugoloth
 aliases:
   - Ultroloth
 ---

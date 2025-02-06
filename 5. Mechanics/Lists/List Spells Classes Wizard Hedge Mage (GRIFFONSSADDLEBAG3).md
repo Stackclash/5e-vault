@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/hedge-mage
+  - spell\List\Subclass\Hedge Mage
 aliases:
   - Spells for Hedge Mage
 ---

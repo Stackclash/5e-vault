@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/armor/light
-  - item/attunement/required
-  - item/rarity/very-rare
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Armor\Light
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
 aliases:
   - Doublet of Psionic Protection
 armorClass: 12 + Dex modifier

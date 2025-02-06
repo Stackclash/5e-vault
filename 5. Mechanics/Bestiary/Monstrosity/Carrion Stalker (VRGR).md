@@ -6,10 +6,10 @@ cr: 3
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/3
-  - monster/size/tiny
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\3
+  - monster\Size\Tiny
+  - monster\Type\Monstrosity
 aliases:
   - Carrion Stalker
 ---

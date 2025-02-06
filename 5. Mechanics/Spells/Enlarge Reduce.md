@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/race/duergar
-  - spell/race/fairy
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-grove
-  - spell/subclass/eldritch-knight
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\Race\Duergar
+  - spell\Race\Fairy
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of The Grove
+  - spell\Subclass\Eldritch Knight
 level: 2nd-level
 range: false
 school: Transmutation
@@ -22,7 +22,7 @@ time: 1 action
 duration: 'Concentration, up to 1 minute'
 components: 'V, S, a pinch of powdered iron'
 aliases:
-  - Enlarge/Reduce
+  - Enlarge\Reduce
 ---
 # Enlarge/Reduce
 *2nd-level, Transmutation*  

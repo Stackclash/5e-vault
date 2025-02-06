@@ -6,11 +6,11 @@ cr: 3
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - monster/cr/3
-  - monster/size/small
-  - monster/type/fiend/devil
-  - monster/type/fiend/shapechanger
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - monster\Cr\3
+  - monster\Size\Small
+  - monster\Type\Fiend\Devil
+  - monster\Type\Fiend\Shapechanger
 aliases:
   - Crimson Legion Imp
 ---

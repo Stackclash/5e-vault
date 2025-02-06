@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/artifact
-  - item/weapon/melee
-  - item/weapon/simple
-  - item/wondrous/wand
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Attunement\Required
+  - item\Rarity\Artifact
+  - item\Weapon\Melee
+  - item\Weapon\Simple
+  - item\Wondrous\Wand
 aliases:
   - Wand of Orcus
 one-hand-damage: 1d6 B

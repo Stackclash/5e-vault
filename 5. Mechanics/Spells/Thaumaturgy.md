@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/feat/magic-initiate
-  - spell/level/cantrip
-  - spell/optfeature/blessed-warrior
-  - spell/optfeature/pact-of-the-tome
-  - spell/race/tiefling-base
-  - spell/school/transmutation
-  - spell/subclass/divine-soul
-  - spell/subrace/tiefling
-  - spell/subrace/tiefling-asmodeus
-  - spell/subrace/tiefling-baalzebul
-  - spell/subrace/tiefling-dispater
-  - spell/subrace/tiefling-zariel
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Feat\Magic Initiate
+  - spell\Level\Cantrip
+  - spell\Optfeature\Blessed Warrior
+  - spell\Optfeature\Pact Of The Tome
+  - spell\Race\Tiefling Base
+  - spell\School\Transmutation
+  - spell\Subclass\Divine Soul
+  - spell\Subrace\Tiefling
+  - spell\Subrace\Tiefling Asmode(US)
+  - spell\Subrace\Tiefling Baalzebul
+  - spell\Subrace\Tiefling Dispater
+  - spell\Subrace\Tiefling Zariel
 level: cantrip
 range: false
 school: Transmutation

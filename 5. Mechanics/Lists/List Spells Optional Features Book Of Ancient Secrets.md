@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/book-of-ancient-secrets
+  - spell\List\Optfeature\Book Of Ancient Secrets
 aliases:
   - Spells for Book of Ancient Secrets
 ---

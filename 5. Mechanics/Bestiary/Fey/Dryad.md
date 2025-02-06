@@ -6,11 +6,11 @@ cr: 1
 environments: forest
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/forest
-  - monster/size/medium
-  - monster/type/fey
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1
+  - monster\Environment\Forest
+  - monster\Size\Medium
+  - monster\Type\Fey
 aliases:
   - Dryad
 ---

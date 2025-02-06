@@ -6,10 +6,10 @@ cr: 7
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/veor
-  - monster/cr/7
-  - monster/size/large
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(VEOR)
+  - monster\Cr\7
+  - monster\Size\Large
+  - monster\Type\Construct
 aliases:
   - Whirling Chandelier
 ---

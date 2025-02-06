@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/monk
-  - compendium/src/5e/phb
+  - class\Monk
+  - 5. Mechanics\Src\5e\(PHB)
 aliases:
   - Monk
 ---

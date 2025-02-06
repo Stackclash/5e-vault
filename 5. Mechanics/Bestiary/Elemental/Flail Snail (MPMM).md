@@ -6,13 +6,13 @@ cr: 3
 environments: 'forest, swamp, underdark'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/3
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\3
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Element(AL)
 aliases:
   - Flail Snail
 ---

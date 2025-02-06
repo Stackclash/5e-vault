@@ -6,11 +6,11 @@ cr: 7
 environments: swamp
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/7
-  - monster/environment/swamp
-  - monster/size/large
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\7
+  - monster\Environment\Swamp
+  - monster\Size\Large
+  - monster\Type\Dragon
 aliases:
   - Young Black Dragon
 ---

@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/attunement/required
-  - item/gear/instrument
-  - item/rarity/uncommon
-  - item/tier/minor
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Attunement\Required
+  - item\Gear\Instrument
+  - item\Rarity\Uncommon
+  - item\Tier\Minor
 aliases:
   - Snake Charmer's Flute
 ---

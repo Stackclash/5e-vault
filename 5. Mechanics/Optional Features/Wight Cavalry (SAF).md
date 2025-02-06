@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/saf
-  - optional-feature/unit
+  - 5. Mechanics\Src\5e\(SAF)
+  - optional Feature\Unit
 aliases:
   - Wight Cavalry
 ---

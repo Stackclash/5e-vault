@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/paladin
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/enchantment
-  - spell/subclass/circle-of-roses
-  - spell/subclass/divine-soul
-  - spell/subclass/the-apex-predator
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Paladin
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Enchantment
+  - spell\Subclass\Circle Of Roses
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\The Apex Preda(TOR)
 level: 5th-level
 range: false
 school: Enchantment

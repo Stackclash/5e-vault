@@ -6,10 +6,10 @@ cr: 9
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/veor
-  - monster/cr/9
-  - monster/size/medium
-  - monster/type/construct/warforged
+  - 5. Mechanics\Src\5e\(VEOR)
+  - monster\Cr\9
+  - monster\Size\Medium
+  - monster\Type\Construct\Warforged
 aliases:
   - Blade Lieutenant
 ---

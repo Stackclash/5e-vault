@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tce
-  - item/attunement/required
-  - item/rarity/common
-  - item/wondrous/tattoo
+  - 5. Mechanics\Src\5e\(TCE)
+  - item\Attunement\Required
+  - item\Rarity\Common
+  - item\Wondrous\Tattoo
 aliases:
   - Masquerade Tattoo
 ---

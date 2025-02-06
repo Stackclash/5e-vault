@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/feat/magic-initiate
-  - spell/feat/ritual-caster
-  - spell/level/1st-level
-  - spell/optfeature/book-of-ancient-secrets
-  - spell/optfeature/pact-of-the-chain
-  - spell/ritual
-  - spell/school/conjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/cat-domain
-  - spell/subclass/circle-of-the-spirits
-  - spell/subclass/eldritch-knight
-  - spell/subclass/fey-soul
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Ritual Caster
+  - spell\Level\1st Level
+  - spell\Optfeature\Book Of Ancient Secrets
+  - spell\Optfeature\Pact Of The Chain
+  - spell\Ritu(AL)
+  - spell\School\Conjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Cat Domain
+  - spell\Subclass\Circle Of The Spirits
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Fey Soul
 level: 1st-level
 range: true
 school: Conjuration

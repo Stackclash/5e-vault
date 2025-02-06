@@ -6,12 +6,12 @@ cr: 10
 environments: 'forest, grassland'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/10
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/size/medium
-  - monster/type/fey/elf
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\10
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Size\Medium
+  - monster\Type\Fey\Elf
 aliases:
   - Spring Eladrin
 ---

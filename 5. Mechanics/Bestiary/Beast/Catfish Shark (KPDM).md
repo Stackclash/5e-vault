@@ -6,10 +6,10 @@ cr: 0
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/kpdm
-  - monster/cr/0
-  - monster/size/tiny
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(KPDM)
+  - monster\Cr\0
+  - monster\Size\Tiny
+  - monster\Type\Beast
 aliases:
   - Catfish Shark
 ---

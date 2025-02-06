@@ -6,10 +6,10 @@ cr: 1
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/1
-  - monster/size/medium
-  - monster/type/humanoid/orc
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\1
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Orc
 aliases:
   - White Tusk Orc
 ---

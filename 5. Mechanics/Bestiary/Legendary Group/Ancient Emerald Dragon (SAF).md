@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/saf
-  - monster/legendary-group
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Legendary Group
 aliases:
   - Ancient Emerald Dragon
 ---

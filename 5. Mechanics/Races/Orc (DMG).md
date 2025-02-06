@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/dmg
-  - race/orc/dmg
+  - 5. Mechanics\Src\5e\(DMG)
+  - race\Orc\(DMG)
 aliases:
   - Orc (DMG)
 ---

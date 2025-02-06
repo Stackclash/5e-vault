@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/rarity/uncommon
-  - item/wondrous/wand
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Rarity\Uncommon
+  - item\Wondrous\Wand
 aliases:
   - Minor Eye Stalk Wand
 ---

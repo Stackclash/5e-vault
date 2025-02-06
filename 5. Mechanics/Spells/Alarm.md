@@ -2,25 +2,25 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/ranger
-  - spell/class/wizard
-  - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
-  - spell/feat/ritual-caster
-  - spell/level/1st-level
-  - spell/optfeature/book-of-ancient-secrets
-  - spell/ritual
-  - spell/school/abjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/carillon-domain
-  - spell/subclass/clockwork-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/labyrinth-domain
-  - spell/subclass/oath-of-the-watchers
-  - spell/subclass/the-sibyl
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Ranger
+  - spell\Class\Wizard
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Ritual Caster
+  - spell\Level\1st Level
+  - spell\Optfeature\Book Of Ancient Secrets
+  - spell\Ritu(AL)
+  - spell\School\Abjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Carillon Domain
+  - spell\Subclass\Clockwork Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Labyrinth Domain
+  - spell\Subclass\Oath Of The Watchers
+  - spell\Subclass\The Sibyl
 level: 1st-level
 range: true
 school: Abjuration

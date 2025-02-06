@@ -2,23 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/optfeature/sign-of-ill-omen
-  - spell/school/necromancy
-  - spell/subclass/apocalypse-domain
-  - spell/subclass/arcane-trickster
-  - spell/subclass/cat-domain
-  - spell/subclass/chain-domain
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/oath-of-conquest
-  - spell/subclass/oath-of-the-annihilator
-  - spell/subclass/oathbreaker-dmg
-  - spell/subclass/the-sibyl
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\Optfeature\Sign Of Ill Omen
+  - spell\School\Necromancy
+  - spell\Subclass\Apocalypse Domain
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Cat Domain
+  - spell\Subclass\Chain Domain
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Oath Of Conquest
+  - spell\Subclass\Oath Of The Annihila(TOR)
+  - spell\Subclass\Oathbreaker (DMG)
+  - spell\Subclass\The Sibyl
 level: 3rd-level
 range: false
 school: Necromancy

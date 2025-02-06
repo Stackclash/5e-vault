@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/paladin
-  - spell/class/ranger
-  - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/evocation
-  - spell/subclass/circle-of-wildfire
-  - spell/subclass/divine-soul
-  - spell/subclass/life-domain
-  - spell/subclass/the-celestial
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Paladin
+  - spell\Class\Ranger
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Evocation
+  - spell\Subclass\Circle Of Wildfire
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Life Domain
+  - spell\Subclass\The Celesti(AL)
 level: 1st-level
 range: false
 school: Evocation

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/order-domain
+  - spell\List\Subclass\Order Domain
 aliases:
   - Spells for Order Domain
 ---

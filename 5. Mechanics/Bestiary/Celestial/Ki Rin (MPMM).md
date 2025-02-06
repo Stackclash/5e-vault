@@ -6,14 +6,14 @@ cr: 12
 environments: 'coastal, desert, grassland, mountain'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/12
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/grassland
-  - monster/environment/mountain
-  - monster/size/large
-  - monster/type/celestial
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\12
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Environment\Grassland
+  - monster\Environment\Mountain
+  - monster\Size\Large
+  - monster\Type\Celesti(AL)
 aliases:
   - Ki-rin
 ---

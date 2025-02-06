@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/rarity/uncommon
-  - item/tier/minor
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Rarity\Uncommon
+  - item\Tier\Minor
+  - item\Weapon\Simple
 aliases:
   - Staff of Cubic Cultivation
 one-hand-damage: 1d6 B

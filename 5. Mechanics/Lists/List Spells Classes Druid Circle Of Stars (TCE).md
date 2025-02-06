@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/circle-of-stars
+  - spell\List\Subclass\Circle Of Stars
 aliases:
   - Spells for Circle of Stars
 ---

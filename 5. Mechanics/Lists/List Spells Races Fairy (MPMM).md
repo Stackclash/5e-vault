@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/race/fairy
+  - spell\List\Race\Fairy
 aliases:
   - Spells for Fairy
 ---

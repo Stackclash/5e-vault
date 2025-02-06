@@ -6,10 +6,10 @@ cr: 13
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/13
-  - monster/size/medium
-  - monster/type/monstrosity/shapechanger
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\13
+  - monster\Size\Medium
+  - monster\Type\Monstrosity\Shapechanger
 aliases:
   - Loup Garou
 ---

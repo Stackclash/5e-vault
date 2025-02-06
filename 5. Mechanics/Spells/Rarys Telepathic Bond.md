@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/ritual
-  - spell/school/divination
-  - spell/subclass/aberrant-mind
-  - spell/subclass/griffon-scout
-  - spell/subclass/peace-domain
-  - spell/subclass/the-many
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\Ritu(AL)
+  - spell\School\Divination
+  - spell\Subclass\Aberrant Mind
+  - spell\Subclass\Griffon Scout
+  - spell\Subclass\Peace Domain
+  - spell\Subclass\The Many
 level: 5th-level
 range: true
 school: Divination

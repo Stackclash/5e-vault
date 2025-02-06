@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - optional-feature/ei
+  - 5. Mechanics\Src\5e\(PHB)
+  - optional Feature\Ei
 aliases:
   - Master of Myriad Forms
 ---

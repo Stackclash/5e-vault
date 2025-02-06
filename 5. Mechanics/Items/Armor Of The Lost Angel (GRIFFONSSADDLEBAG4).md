@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/armor/heavy
-  - item/attunement/required
-  - item/rarity/legendary
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Armor\Heavy
+  - item\Attunement\Required
+  - item\Rarity\Legendary
 aliases:
   - Armor of the Lost Angel
 armorClass: 18

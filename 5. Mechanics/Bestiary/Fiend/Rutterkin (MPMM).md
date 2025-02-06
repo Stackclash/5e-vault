@@ -6,10 +6,10 @@ cr: 2
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/2
-  - monster/size/medium
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\2
+  - monster\Size\Medium
+  - monster\Type\Fiend\Demon
 aliases:
   - Rutterkin
 ---

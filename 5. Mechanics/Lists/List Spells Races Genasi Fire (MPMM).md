@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subrace/genasi-fire
+  - spell\List\Subrace\Genasi Fire
 aliases:
   - Spells for Genasi (Fire)
 ---

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-  - compendium/src/5e/dmg
-  - reward/boon
+  - 5. Mechanics\Src\5e\(DMG)
+  - reward\Boon
 aliases:
   - Boon of Recovery
 ---

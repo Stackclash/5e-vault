@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/attunement/required
-  - item/rarity/varies
-  - item/tier/major
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Attunement\Required
+  - item\Rarity\Varies
+  - item\Tier\Major
+  - item\Wondrous\Generic Variant
 aliases:
   - Scholar's Cap
 ---

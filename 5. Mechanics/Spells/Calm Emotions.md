@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/level/2nd-level
-  - spell/school/enchantment
-  - spell/subclass/aberrant-mind
-  - spell/subclass/circle-of-roses
-  - spell/subclass/divine-soul
-  - spell/subclass/oath-of-redemption
-  - spell/subclass/the-archfey
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Level\2nd Level
+  - spell\School\Enchantment
+  - spell\Subclass\Aberrant Mind
+  - spell\Subclass\Circle Of Roses
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Oath Of Redemption
+  - spell\Subclass\The Archfey
 level: 2nd-level
 range: false
 school: Enchantment

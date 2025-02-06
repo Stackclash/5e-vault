@@ -6,10 +6,10 @@ cr: 4
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/4
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\4
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Dream Eater
 ---

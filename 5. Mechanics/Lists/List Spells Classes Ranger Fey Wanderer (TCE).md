@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/fey-wanderer
+  - spell\List\Subclass\Fey Wanderer
 aliases:
   - Spells for Fey Wanderer
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/the-sibyl
+  - spell\List\Subclass\The Sibyl
 aliases:
   - Spells for The Sibyl
 ---

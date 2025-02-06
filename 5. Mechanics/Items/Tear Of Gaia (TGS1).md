@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/common
-  - item/tier/minor
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Common
+  - item\Tier\Minor
 aliases:
   - Tear of Gaia
 ---

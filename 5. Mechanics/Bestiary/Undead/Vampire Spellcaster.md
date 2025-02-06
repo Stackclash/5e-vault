@@ -6,11 +6,11 @@ cr: 15
 environments: urban
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/15
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead/shapechanger
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\15
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Undead\Shapechanger
 aliases:
   - Vampire Spellcaster
 ---

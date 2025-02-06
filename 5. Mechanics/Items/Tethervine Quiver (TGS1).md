@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/attunement/required
-  - item/gear/
-  - item/rarity/uncommon
-  - item/tier/minor
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Attunement\Required
+  - item\Gear
+  - item\Rarity\Uncommon
+  - item\Tier\Minor
 aliases:
   - Tethervine Quiver
 ---

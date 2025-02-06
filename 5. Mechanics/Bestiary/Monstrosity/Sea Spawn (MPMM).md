@@ -6,12 +6,12 @@ cr: 1
 environments: 'coastal, underwater'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1
-  - monster/environment/coastal
-  - monster/environment/underwater
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Underwater
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Sea Spawn
 ---

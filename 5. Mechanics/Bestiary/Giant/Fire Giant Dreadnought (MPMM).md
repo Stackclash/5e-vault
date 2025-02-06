@@ -6,12 +6,12 @@ cr: 14
 environments: 'mountain, underdark'
 size: Huge
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/14
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/huge
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\14
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Huge
+  - monster\Type\Giant
 aliases:
   - Fire Giant Dreadnought
 ---

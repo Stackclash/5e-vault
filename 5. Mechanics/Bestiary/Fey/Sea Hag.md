@@ -6,12 +6,12 @@ cr: 2
 environments: 'underwater, coastal'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/coastal
-  - monster/environment/underwater
-  - monster/size/medium
-  - monster/type/fey
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Underwater
+  - monster\Size\Medium
+  - monster\Type\Fey
 aliases:
   - Sea Hag
 ---

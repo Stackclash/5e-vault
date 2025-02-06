@@ -6,10 +6,10 @@ cr: 21
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/21
-  - monster/size/huge
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\21
+  - monster\Size\Huge
+  - monster\Type\Aberration
 aliases:
   - Greater Star Spawn Emissary
 ---

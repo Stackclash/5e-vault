@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/armor/light
-  - item/attunement/required
-  - item/rarity/artifact
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Armor\Light
+  - item\Attunement\Required
+  - item\Rarity\Artifact
 aliases:
   - Armor of the Gnoll Lord
 armorClass: 12 + Dex modifier

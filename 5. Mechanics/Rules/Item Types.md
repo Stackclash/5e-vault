@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/dmg
-  - compendium/src/5e/hhbh
-  - compendium/src/5e/hhhvi
-  - compendium/src/5e/hhhvii
-  - compendium/src/5e/hhhviii
-  - compendium/src/5e/phb
-  - compendium/src/5e/saf
+  - 5. Mechanics\Src\5e\(DMG)
+  - 5. Mechanics\Src\5e\(HHBH)
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - 5. Mechanics\Src\5e\(PHB)
+  - 5. Mechanics\Src\5e\(SAF)
 aliases:
   - Item Types
 ---

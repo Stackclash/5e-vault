@@ -6,12 +6,12 @@ cr: 2
 environments: 'underwater, coastal'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/coastal
-  - monster/environment/underwater
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Underwater
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Merrow
 ---

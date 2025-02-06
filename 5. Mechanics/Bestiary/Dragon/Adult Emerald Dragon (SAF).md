@@ -6,10 +6,10 @@ cr: 15
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/15
-  - monster/size/huge
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\15
+  - monster\Size\Huge
+  - monster\Type\Dragon
 aliases:
   - Adult Emerald Dragon
 ---

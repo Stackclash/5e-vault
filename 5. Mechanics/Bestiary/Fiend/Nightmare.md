@@ -6,10 +6,10 @@ cr: 3
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/size/large
-  - monster/type/fiend
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\3
+  - monster\Size\Large
+  - monster\Type\Fiend
 aliases:
   - Nightmare
 ---

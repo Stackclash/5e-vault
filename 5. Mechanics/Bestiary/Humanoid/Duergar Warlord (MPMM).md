@@ -6,12 +6,12 @@ cr: 6
 environments: 'mountain, underdark'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/6
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/dwarf
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\6
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Dwarf
 aliases:
   - Duergar Warlord
 ---

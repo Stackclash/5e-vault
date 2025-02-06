@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/paladin
-  - spell/feat/fey-touched
-  - spell/level/1st-level
-  - spell/school/enchantment
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Paladin
+  - spell\Feat\Fey Touched
+  - spell\Level\1st Level
+  - spell\School\Enchantment
 level: 1st-level
 range: false
 school: Enchantment

@@ -6,13 +6,13 @@ cr: 11
 environments: 'coastal, mountain, underdark'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/11
-  - monster/environment/coastal
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\11
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Aberration
 aliases:
   - Balhannoth
 ---

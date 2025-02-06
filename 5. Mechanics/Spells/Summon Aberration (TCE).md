@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/tce
-  - spell/class/bard
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/school/conjuration
-  - spell/subclass/aberrant-mind
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
+  - 5. Mechanics\Src\5e\(TCE)
+  - spell\Class\Bard
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\School\Conjuration
+  - spell\Subclass\Aberrant Mind
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
 level: 4th-level
 range: false
 school: Conjuration

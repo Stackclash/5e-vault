@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/bard/lore
+  - 5. Mechanics\Src\5e\(PHB)
+  - subclass\Bard\Lore
 aliases:
   - College of Lore
 ---

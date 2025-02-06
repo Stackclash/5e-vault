@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/mask-of-many-faces
+  - spell\List\Optfeature\Mask Of Many Faces
 aliases:
   - Spells for Mask of Many Faces
 ---

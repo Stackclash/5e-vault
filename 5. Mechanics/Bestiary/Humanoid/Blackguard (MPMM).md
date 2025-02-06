@@ -6,12 +6,12 @@ cr: 8
 environments: 'underdark, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/8
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid/paladin
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\8
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Paladin
 aliases:
   - Blackguard
 ---

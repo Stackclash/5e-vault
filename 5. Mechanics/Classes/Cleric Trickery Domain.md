@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - domain/trickery
-  - subclass/cleric/trickery
+  - 5. Mechanics\Src\5e\(PHB)
+  - domain\Trickery
+  - subclass\Cleric\Trickery
 aliases:
   - Trickery Domain
 ---

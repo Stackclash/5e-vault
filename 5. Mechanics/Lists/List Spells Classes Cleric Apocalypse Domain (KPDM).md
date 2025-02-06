@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/apocalypse-domain
+  - spell\List\Subclass\Apocalypse Domain
 aliases:
   - Spells for Apocalypse Domain
 ---

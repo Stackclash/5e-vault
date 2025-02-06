@@ -6,12 +6,12 @@ cr: 2
 environments: 'mountain, hill'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Peryton
 ---

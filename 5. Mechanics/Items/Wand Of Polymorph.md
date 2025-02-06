@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/wondrous/wand
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Tier\Major
+  - item\Wondrous\Wand
 aliases:
   - Wand of Polymorph
 ---

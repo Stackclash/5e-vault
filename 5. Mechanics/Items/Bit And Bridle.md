@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/tack-and-harness
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Gear\Tack And Harness
+  - item\Rarity\None
 aliases:
   - Bit and bridle
 cost: 200

@@ -6,14 +6,14 @@ cr: 1
 environments: 'mountain, grassland, hill, desert'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/desert
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1
+  - monster\Environment\Desert
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Lion
 ---

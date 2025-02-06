@@ -6,11 +6,11 @@ cr: 11
 environments: underdark
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/11
-  - monster/environment/underdark
-  - monster/size/huge
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\11
+  - monster\Environment\Underdark
+  - monster\Size\Huge
+  - monster\Type\Monstrosity
 aliases:
   - Behir
 ---

@@ -2,26 +2,26 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/optfeature/fist-of-four-thunders
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/armorer
-  - spell/subclass/artillerist
-  - spell/subclass/carillon-domain
-  - spell/subclass/dragon-domain
-  - spell/subclass/eldritch-knight
-  - spell/subclass/oath-of-thunder
-  - spell/subclass/tempest-domain
-  - spell/subclass/the-fathomless
-  - spell/subclass/the-genie
-  - spell/subclass/the-genie-lord
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\Optfeature\Fist Of Four Thunders
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Armorer
+  - spell\Subclass\Artillerist
+  - spell\Subclass\Carillon Domain
+  - spell\Subclass\Dragon Domain
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Oath Of Thunder
+  - spell\Subclass\Tempest Domain
+  - spell\Subclass\The Fathomless
+  - spell\Subclass\The Genie
+  - spell\Subclass\The Genie Lord
 level: 1st-level
 range: false
 school: Evocation

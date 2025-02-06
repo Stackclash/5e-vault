@@ -2,22 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/optfeature/far-scribe
-  - spell/school/evocation
-  - spell/subclass/aberrant-mind
-  - spell/subclass/arcane-trickster
-  - spell/subclass/carillon-domain
-  - spell/subclass/circle-of-owls
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/oath-of-the-watchtower
-  - spell/subclass/peace-domain
-  - spell/subclass/the-great-old-one
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\Optfeature\Far Scribe
+  - spell\School\Evocation
+  - spell\Subclass\Aberrant Mind
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Carillon Domain
+  - spell\Subclass\Circle Of Owls
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Oath Of The Watchtower
+  - spell\Subclass\Peace Domain
+  - spell\Subclass\The Great Old One
 level: 3rd-level
 range: false
 school: Evocation

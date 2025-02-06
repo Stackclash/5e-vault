@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/ranged
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
 aliases:
   - Bullseye Dart
 one-hand-damage: 1d4 P
-range: 20/60
+range: 20\60
 ---
 # Bullseye Dart
 *Weapon ([[5. Mechanics/Items/Dart.md\|dart]]), major, rare*  

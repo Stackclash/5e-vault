@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/rarity/rare
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Rarity\Rare
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Leeching Whip
 one-hand-damage: 1d4 S

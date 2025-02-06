@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/the-apex-predator
+  - spell\List\Subclass\The Apex Preda(TOR)
 aliases:
   - Spells for The Apex Predator
 ---

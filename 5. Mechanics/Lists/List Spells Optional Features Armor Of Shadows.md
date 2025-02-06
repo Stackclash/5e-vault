@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/armor-of-shadows
+  - spell\List\Optfeature\Armor Of Shadows
 aliases:
   - Spells for Armor of Shadows
 ---

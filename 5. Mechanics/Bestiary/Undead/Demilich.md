@@ -6,10 +6,10 @@ cr: 18
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/18
-  - monster/size/tiny
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\18
+  - monster\Size\Tiny
+  - monster\Type\Undead
 aliases:
   - Demilich
 ---

@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'underdark, forest, swamp, desert, coastal'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 4
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Giant Lizard
 ---

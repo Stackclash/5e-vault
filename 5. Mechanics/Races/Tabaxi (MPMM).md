@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/mpmm
-  - race/tabaxi
+  - 5. Mechanics\Src\5e\(MPMM)
+  - race\Tabaxi
 aliases:
   - Tabaxi
 ---

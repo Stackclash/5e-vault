@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/rarity/rare
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Rarity\Rare
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Interrogator's Web
-range: 5/15
+range: 5\15
 ---
 # Interrogator's Web
 *Weapon ([[5. Mechanics/Items/Net.md\|net]]), rare*  

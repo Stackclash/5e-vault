@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - 'compendium/src/5e/da:gic'
-  - optional-feature/fo
+  - '5. Mechanics\Src\5e\(DA:GIC)'
+  - optional Feature\Fo
 aliases:
   - Infernal Ally
 ---

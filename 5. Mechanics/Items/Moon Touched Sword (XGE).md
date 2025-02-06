@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/xge
-  - item/rarity/common
-  - item/tier/minor
-  - item/weapon/martial
-  - item/weapon/melee
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(XGE)
+  - item\Rarity\Common
+  - item\Tier\Minor
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
+  - item\Wondrous\Generic Variant
 aliases:
   - Moon-Touched Sword
   - Moon-Touched Double-Bladed Scimitar

@@ -6,13 +6,13 @@ cr: 2
 environments: 'grassland, hill, mountain'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/2
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/large
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\2
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Large
+  - monster\Type\Giant
 aliases:
   - Ogre Bolt Launcher
 ---

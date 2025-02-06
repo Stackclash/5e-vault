@@ -6,10 +6,10 @@ cr: null
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/tce
-  - monster/cr/
-  - monster/size/huge
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(TCE)
+  - monster\Cr
+  - monster\Size\Huge
+  - monster\Type\Construct
 aliases:
   - Mighty Servant of Leuk-o
 ---

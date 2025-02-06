@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/gloom-stalker
+  - spell\List\Subclass\Gloom Stalker
 aliases:
   - Spells for Gloom Stalker
 ---

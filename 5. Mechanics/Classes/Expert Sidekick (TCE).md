@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/expert-sidekick
-  - compendium/src/5e/tce
+  - class\Expert Sidekick
+  - 5. Mechanics\Src\5e\(TCE)
 aliases:
   - Expert Sidekick
 ---

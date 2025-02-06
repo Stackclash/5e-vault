@@ -6,14 +6,14 @@ cr: 4
 environments: 'grassland, forest, urban, desert'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/celestial
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\4
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Celesti(AL)
 aliases:
   - Couatl
 ---

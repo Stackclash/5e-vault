@@ -6,10 +6,10 @@ cr: 10
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/10
-  - monster/size/large
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\10
+  - monster\Size\Large
+  - monster\Type\Element(AL)
 aliases:
   - High Templar of Dust
 ---

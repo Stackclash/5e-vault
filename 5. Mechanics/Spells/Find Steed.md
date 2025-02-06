@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/paladin
-  - spell/level/2nd-level
-  - spell/school/conjuration
-  - spell/subclass/griffon-scout
-  - spell/subclass/marshwarden
-  - spell/subclass/oath-of-thunder
-  - spell/subclass/the-valiant
-  - spell/subclass/travel-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Paladin
+  - spell\Level\2nd Level
+  - spell\School\Conjuration
+  - spell\Subclass\Griffon Scout
+  - spell\Subclass\Marshwarden
+  - spell\Subclass\Oath Of Thunder
+  - spell\Subclass\The Valiant
+  - spell\Subclass\Travel Domain
 level: 2nd-level
 range: false
 school: Conjuration

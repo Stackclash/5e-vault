@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/druidic-warrior
+  - spell\List\Optfeature\Druidic Warrior
 aliases:
   - Spells for Druidic Warrior
 ---

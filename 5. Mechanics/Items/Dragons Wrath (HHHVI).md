@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/rarity/varies
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Rarity\Varies
 aliases:
   - Dragon's Wrath
 ---

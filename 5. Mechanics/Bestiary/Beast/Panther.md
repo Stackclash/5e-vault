@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'grassland, forest, hill'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/size/medium
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 4
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Size\Medium
+  - monster\Type\Beast
 aliases:
   - Panther
 ---

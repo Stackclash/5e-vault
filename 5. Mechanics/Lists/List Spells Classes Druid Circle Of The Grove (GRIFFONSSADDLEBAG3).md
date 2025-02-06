@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/circle-of-the-grove
+  - spell\List\Subclass\Circle Of The Grove
 aliases:
   - Spells for Circle of the Grove
 ---

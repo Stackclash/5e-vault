@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/college-of-spirits
+  - spell\List\Subclass\College Of Spirits
 aliases:
   - Spells for College of Spirits
 ---

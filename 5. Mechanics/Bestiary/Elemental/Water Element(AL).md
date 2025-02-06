@@ -6,13 +6,13 @@ cr: 5
 environments: 'underwater, swamp, coastal'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/coastal
-  - monster/environment/swamp
-  - monster/environment/underwater
-  - monster/size/large
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\5
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Swamp
+  - monster\Environment\Underwater
+  - monster\Size\Large
+  - monster\Type\Element(AL)
 aliases:
   - Water Elemental
 ---

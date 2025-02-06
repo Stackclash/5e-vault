@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/ritual
-  - spell/school/conjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\Ritu(AL)
+  - spell\School\Conjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
 level: 2nd-level
 range: true
 school: Conjuration

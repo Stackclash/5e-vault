@@ -6,15 +6,15 @@ cr: 1
 environments: 'forest, hill, mountain, underdark, urban'
 size: Small
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/small
-  - monster/type/humanoid
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Small
+  - monster\Type\Humanoid
 aliases:
   - Kobold Scale Sorcerer
 ---

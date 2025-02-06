@@ -2,24 +2,24 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/optfeature/breath-of-winter
-  - spell/school/evocation
-  - spell/subclass/artillerist
-  - spell/subclass/circle-of-the-eclipse
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/hunger-domain
-  - spell/subclass/mountain-domain
-  - spell/subclass/the-fathomless
-  - spell/subclass/the-frozen-one
-  - spell/subclass/the-genie
-  - spell/subclass/the-hexblade
-  - spell/subclass/winter-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\Optfeature\Breath Of Winter
+  - spell\School\Evocation
+  - spell\Subclass\Artillerist
+  - spell\Subclass\Circle Of The Eclipse
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Hunger Domain
+  - spell\Subclass\Mountain Domain
+  - spell\Subclass\The Fathomless
+  - spell\Subclass\The Frozen One
+  - spell\Subclass\The Genie
+  - spell\Subclass\The Hexblade
+  - spell\Subclass\Winter Domain
 level: 5th-level
 range: false
 school: Evocation

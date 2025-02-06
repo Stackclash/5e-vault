@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/size/large
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 2
+  - monster\Size\Large
+  - monster\Type\Undead
 aliases:
   - Warhorse Skeleton
 ---

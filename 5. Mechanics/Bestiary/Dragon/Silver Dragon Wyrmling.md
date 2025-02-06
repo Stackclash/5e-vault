@@ -6,10 +6,10 @@ cr: 2
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/size/medium
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Size\Medium
+  - monster\Type\Dragon
 aliases:
   - Silver Dragon Wyrmling
 ---

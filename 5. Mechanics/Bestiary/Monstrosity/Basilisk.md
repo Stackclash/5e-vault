@@ -6,11 +6,11 @@ cr: 3
 environments: mountain
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/mountain
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\3
+  - monster\Environment\Mountain
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Basilisk
 ---

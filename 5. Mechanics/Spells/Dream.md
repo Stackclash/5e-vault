@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/illusion
-  - spell/subclass/beer-domain
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/moon-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Illusion
+  - spell\Subclass\Beer Domain
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Moon Domain
 level: 5th-level
 range: false
 school: Illusion

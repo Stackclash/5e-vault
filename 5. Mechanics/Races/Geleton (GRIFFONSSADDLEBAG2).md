@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - race/geleton
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - race\Geleton
 aliases:
   - Geleton
 ---

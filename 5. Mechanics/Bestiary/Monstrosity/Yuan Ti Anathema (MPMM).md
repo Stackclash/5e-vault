@@ -6,13 +6,13 @@ cr: 12
 environments: 'desert, forest, underdark'
 size: Huge
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/12
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/underdark
-  - monster/size/huge
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\12
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Underdark
+  - monster\Size\Huge
+  - monster\Type\Monstrosity
 aliases:
   - Yuan-ti Anathema
 ---

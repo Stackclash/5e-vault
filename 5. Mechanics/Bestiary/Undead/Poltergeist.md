@@ -6,12 +6,12 @@ cr: 2
 environments: 'underdark, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Poltergeist
 ---

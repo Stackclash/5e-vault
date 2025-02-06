@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/elven
-  - domain/life
-  - domain/tempest
-  - domain/trickery
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Elven
+  - domain\Life
+  - domain\Tempest
+  - domain\Trickery
 aliases:
   - Aerdrie Faenya
 ---

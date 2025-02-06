@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/school/transmutation
-  - spell/subclass/angler
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/gloom-stalker
-  - spell/subclass/void-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\School\Transmutation
+  - spell\Subclass\Angler
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Gloom Stalker
+  - spell\Subclass\Void Domain
 level: 2nd-level
 range: false
 school: Transmutation

@@ -6,14 +6,14 @@ cr: 6
 environments: 'underdark, mountain, grassland, hill'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/6
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\6
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Chimera
 ---

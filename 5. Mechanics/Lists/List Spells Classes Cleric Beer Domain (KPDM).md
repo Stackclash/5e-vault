@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/beer-domain
+  - spell\List\Subclass\Beer Domain
 aliases:
   - Spells for Beer Domain
 ---

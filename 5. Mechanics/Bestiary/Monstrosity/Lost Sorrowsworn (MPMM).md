@@ -6,17 +6,17 @@ cr: 7
 environments: 'arctic, desert, forest, mountain, swamp, underdark, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/7
-  - monster/environment/arctic
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/mountain
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\7
+  - monster\Environment\Arctic
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Mountain
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Lost Sorrowsworn
 ---

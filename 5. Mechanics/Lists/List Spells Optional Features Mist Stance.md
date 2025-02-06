@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/mist-stance
+  - spell\List\Optfeature\Mist Stance
 aliases:
   - Spells for Mist Stance
 ---

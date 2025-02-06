@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - subclass/bard/entropy
+  - 5. Mechanics\Src\5e\(KPDM)
+  - subclass\Bard\Entropy
 aliases:
   - College of Entropy
 ---

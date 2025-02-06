@@ -6,11 +6,11 @@ cr: 2
 environments: underdark
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/quaggoth
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Quaggoth
 aliases:
   - Quaggoth
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/greenleaf-college
+  - spell\List\Subclass\Greenleaf College
 aliases:
   - Spells for Greenleaf College
 ---

@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/conjuration
-  - spell/subclass/alchemist
-  - spell/subclass/circle-of-spores
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/death-domain-dmg
-  - spell/subclass/festus-domain
-  - spell/subclass/hunger-domain
-  - spell/subclass/marshwarden
-  - spell/subclass/oath-of-conquest
-  - spell/subclass/the-undead
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Conjuration
+  - spell\Subclass\Alchemist
+  - spell\Subclass\Circle Of Spores
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Death Domain (DMG)
+  - spell\Subclass\Festus Domain
+  - spell\Subclass\Hunger Domain
+  - spell\Subclass\Marshwarden
+  - spell\Subclass\Oath Of Conquest
+  - spell\Subclass\The Undead
 level: 5th-level
 range: false
 school: Conjuration

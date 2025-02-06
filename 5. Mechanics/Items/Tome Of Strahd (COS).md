@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/cos
-  - item/gear/
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(COS)
+  - item\Gear
+  - item\Rarity\None
 aliases:
   - Tome of Strahd
 ---

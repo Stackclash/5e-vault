@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: desert
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/environment/desert
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 8
+  - monster\Environment\Desert
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Camel
 ---

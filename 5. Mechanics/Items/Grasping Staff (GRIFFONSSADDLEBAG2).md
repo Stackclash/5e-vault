@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/gear/spellcasting-focus
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Gear\Spellcasting Foc(US)
+  - item\Rarity\Very Rare
+  - item\Tier\Major
+  - item\Weapon\Simple
 aliases:
   - Grasping Staff
 one-hand-damage: 1d6 B

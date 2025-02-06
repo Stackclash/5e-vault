@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/9th-level
-  - spell/school/conjuration
-  - spell/subclass/the-genie
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\9th Level
+  - spell\School\Conjuration
+  - spell\Subclass\The Genie
 level: 9th-level
 range: false
 school: Conjuration

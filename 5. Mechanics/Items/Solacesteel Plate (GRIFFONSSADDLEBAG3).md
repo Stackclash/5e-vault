@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/armor/heavy
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Armor\Heavy
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Tier\Major
 aliases:
   - Solacesteel Plate
 armorClass: 18

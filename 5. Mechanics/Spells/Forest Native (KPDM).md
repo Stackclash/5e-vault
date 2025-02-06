@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/druid
-  - spell/level/1st-level
-  - spell/school/transmutation
-  - spell/subclass/circle-of-oaks
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Level\1st Level
+  - spell\School\Transmutation
+  - spell\Subclass\Circle Of Oaks
 level: 1st-level
 range: false
 school: Transmutation

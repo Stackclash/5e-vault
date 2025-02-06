@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - subclass/druid/dragons
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - subclass\Druid\Dragons
 aliases:
   - Circle of Dragons
 ---

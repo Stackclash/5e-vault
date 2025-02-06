@@ -6,10 +6,10 @@ cr: null
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/tce
-  - monster/cr/
-  - monster/size/tiny
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(TCE)
+  - monster\Cr
+  - monster\Size\Tiny
+  - monster\Type\Construct
 aliases:
   - Homunculus Servant
 ---

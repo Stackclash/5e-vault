@@ -6,11 +6,11 @@ cr: 1
 environments: forest
 size: Tiny
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1
-  - monster/environment/forest
-  - monster/size/tiny
-  - monster/type/fey
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1
+  - monster\Environment\Forest
+  - monster\Size\Tiny
+  - monster\Type\Fey
 aliases:
   - Quickling
 ---

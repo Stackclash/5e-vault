@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: grassland
 size: Large
 tags:
-  - compendium/src/5e/vgm
-  - monster/cr/1-4
-  - monster/environment/grassland
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(VGM)
+  - monster\Cr\1 4
+  - monster\Environment\Grassland
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Cow
 ---

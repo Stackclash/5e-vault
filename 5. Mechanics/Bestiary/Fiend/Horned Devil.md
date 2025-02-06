@@ -6,10 +6,10 @@ cr: 11
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/11
-  - monster/size/large
-  - monster/type/fiend/devil
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\11
+  - monster\Size\Large
+  - monster\Type\Fiend\Devil
 aliases:
   - Horned Devil
 ---

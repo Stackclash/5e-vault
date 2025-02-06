@@ -6,10 +6,10 @@ cr: null
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/tce
-  - monster/cr/
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(TCE)
+  - monster\Cr
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Undead Spirit (Putrid)
 ---

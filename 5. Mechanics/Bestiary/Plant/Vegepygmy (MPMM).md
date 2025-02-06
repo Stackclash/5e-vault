@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'forest, swamp'
 size: Small
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-4
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/size/small
-  - monster/type/plant
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 4
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Size\Small
+  - monster\Type\Plant
 aliases:
   - Vegepygmy
 ---

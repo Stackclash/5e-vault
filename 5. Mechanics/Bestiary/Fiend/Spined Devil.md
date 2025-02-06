@@ -6,10 +6,10 @@ cr: 2
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/size/small
-  - monster/type/fiend/devil
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Size\Small
+  - monster\Type\Fiend\Devil
 aliases:
   - Spined Devil
 ---

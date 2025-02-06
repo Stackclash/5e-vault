@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mtf
-  - monster/cr/1-4
-  - monster/size/medium
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(MTF)
+  - monster\Cr\1 4
+  - monster\Size\Medium
+  - monster\Type\Fiend\Demon
 aliases:
   - Abyssal Wretch
 ---

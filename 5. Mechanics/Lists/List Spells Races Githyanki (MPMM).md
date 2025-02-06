@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/race/githyanki
+  - spell\List\Race\Githyanki
 aliases:
   - Spells for Githyanki
 ---

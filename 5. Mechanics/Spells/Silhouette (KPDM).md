@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/cantrip
-  - spell/optfeature/pact-of-the-tome
-  - spell/school/illusion
-  - spell/subclass/arcane-trickster
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\Cantrip
+  - spell\Optfeature\Pact Of The Tome
+  - spell\School\Illusion
+  - spell\Subclass\Arcane Trickster
 level: cantrip
 range: false
 school: Illusion

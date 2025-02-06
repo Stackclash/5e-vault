@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - domain/mountain
-  - subclass/cleric/mountain
+  - 5. Mechanics\Src\5e\(KPDM)
+  - domain\Mountain
+  - subclass\Cleric\Mountain
 aliases:
   - Mountain Domain
 ---

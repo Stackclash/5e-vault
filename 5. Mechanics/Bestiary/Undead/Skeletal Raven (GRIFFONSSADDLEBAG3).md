@@ -6,10 +6,10 @@ cr: 0
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/0
-  - monster/size/tiny
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\0
+  - monster\Size\Tiny
+  - monster\Type\Undead
 aliases:
   - Skeletal Raven
 ---

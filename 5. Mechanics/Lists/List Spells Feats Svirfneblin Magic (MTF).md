@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/feat/svirfneblin-magic
+  - spell\List\Feat\Svirfneblin Magic
 aliases:
   - Spells for Svirfneblin Magic
 ---

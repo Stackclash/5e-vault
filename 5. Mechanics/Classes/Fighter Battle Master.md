@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/fighter/battle-master
+  - 5. Mechanics\Src\5e\(PHB)
+  - subclass\Fighter\Battle Master
 aliases:
   - Battle Master
 ---

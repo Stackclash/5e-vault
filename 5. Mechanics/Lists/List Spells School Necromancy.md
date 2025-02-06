@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/school/necromancy
+  - spell\List\School\Necromancy
 aliases:
   - Necromancy Spells
 ---

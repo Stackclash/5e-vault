@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Bolt
 one-hand-damage: 1d12 L
-range: 100/400
+range: 100\400
 ---
 # Bolt
 *Weapon ([[5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, very rare (requires attunement)*  

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-vehicle
 tags:
-  - compendium/src/5e/hhhvi
-  - vehicle/size/gargantuan
-  - vehicle/terrain/sea
-  - vehicle/type/ship
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - vehicle\Size\Gargantuan
+  - vehicle\Terrain\Sea
+  - vehicle\Type\Ship
 aliases:
   - Titan Ship
 ---

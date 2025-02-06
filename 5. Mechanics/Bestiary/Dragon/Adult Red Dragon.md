@@ -6,12 +6,12 @@ cr: 17
 environments: 'mountain, hill'
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/17
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/huge
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\17
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Huge
+  - monster\Type\Dragon
 aliases:
   - Adult Red Dragon
 ---

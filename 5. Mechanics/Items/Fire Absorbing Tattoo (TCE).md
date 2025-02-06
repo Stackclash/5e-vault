@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tce
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/wondrous/tattoo
+  - 5. Mechanics\Src\5e\(TCE)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Wondrous\Tattoo
 aliases:
   - Fire Absorbing Tattoo
 ---

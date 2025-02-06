@@ -6,10 +6,10 @@ cr: 16
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/16
-  - monster/size/medium
-  - monster/type/humanoid/gith
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\16
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Gith
 aliases:
   - Githzerai Anarch
 ---

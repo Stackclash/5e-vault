@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/class/paladin
+  - spell\List\Class\Paladin
 aliases:
   - Paladin Spells
 ---

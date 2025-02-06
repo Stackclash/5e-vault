@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subrace/genasi-air
+  - spell\List\Subrace\Genasi Air
 aliases:
   - Spells for Genasi (Air)
 ---

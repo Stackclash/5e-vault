@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/armor/heavy
-  - item/armor/medium
-  - item/attunement/required
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Armor\Heavy
+  - item\Armor\Medium
+  - item\Attunement\Required
+  - item\Rarity\Uncommon
+  - item\Tier\Major
+  - item\Wondrous\Generic Variant
 aliases:
   - Scorpio Armor
   - Scorpio Half Plate Armor

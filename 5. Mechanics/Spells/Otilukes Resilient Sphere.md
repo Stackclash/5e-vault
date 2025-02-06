@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/beer-domain
-  - spell/subclass/eldritch-knight
-  - spell/subclass/oath-of-redemption
-  - spell/subclass/oath-of-the-spelldrinker
-  - spell/subclass/peace-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Beer Domain
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Oath Of Redemption
+  - spell\Subclass\Oath Of The Spelldrinker
+  - spell\Subclass\Peace Domain
 level: 4th-level
 range: false
 school: Evocation

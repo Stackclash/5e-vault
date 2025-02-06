@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/paladin
-  - spell/level/2nd-level
-  - spell/school/evocation
-  - spell/subclass/divine-soul
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Paladin
+  - spell\Level\2nd Level
+  - spell\School\Evocation
+  - spell\Subclass\Divine Soul
 level: 2nd-level
 range: false
 school: Evocation

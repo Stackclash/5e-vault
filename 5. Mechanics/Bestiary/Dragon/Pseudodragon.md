@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'mountain, forest, hill, urban, desert, coastal'
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/urban
-  - monster/size/tiny
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 4
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Urban
+  - monster\Size\Tiny
+  - monster\Type\Dragon
 aliases:
   - Pseudodragon
 ---

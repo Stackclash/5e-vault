@@ -6,13 +6,13 @@ cr: 4
 environments: 'desert, forest, underdark'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/4
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/monstrosity/warlock
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\4
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Monstrosity\Warlock
 aliases:
   - Yuan-ti Mind Whisperer
 ---

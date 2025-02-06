@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/level/2nd-level
-  - spell/ritual
-  - spell/school/divination
-  - spell/subclass/harvester-domain
-  - spell/subclass/hedge-mage
-  - spell/subclass/hunger-domain
-  - spell/subclass/hunting-domain
-  - spell/subclass/ocean-domain
-  - spell/subclass/the-apex-predator
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Level\2nd Level
+  - spell\Ritu(AL)
+  - spell\School\Divination
+  - spell\Subclass\Harvester Domain
+  - spell\Subclass\Hedge Mage
+  - spell\Subclass\Hunger Domain
+  - spell\Subclass\Hunting Domain
+  - spell\Subclass\Ocean Domain
+  - spell\Subclass\The Apex Preda(TOR)
 level: 2nd-level
 range: true
 school: Divination

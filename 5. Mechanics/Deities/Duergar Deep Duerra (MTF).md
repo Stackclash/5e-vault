@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/duergar
-  - domain/knowledge
-  - domain/war
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Duergar
+  - domain\Knowledge
+  - domain\War
 aliases:
   - Deep Duerra
 ---

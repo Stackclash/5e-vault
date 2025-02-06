@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/wizard
-  - spell/level/8th-level
-  - spell/school/enchantment
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Wizard
+  - spell\Level\8th Level
+  - spell\School\Enchantment
 level: 8th-level
 range: false
 school: Enchantment
@@ -17,7 +17,7 @@ components: >-
   V, S, either a lump of alum soaked in vinegar for the antipathy effect or a
   drop of honey for the sympathy effect
 aliases:
-  - Antipathy/Sympathy
+  - Antipathy\Sympathy
 ---
 # Antipathy/Sympathy
 *8th-level, Enchantment*  

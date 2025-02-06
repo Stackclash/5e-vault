@@ -6,11 +6,11 @@ cr: 18
 environments: underdark
 size: Huge
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/18
-  - monster/environment/underdark
-  - monster/size/huge
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\18
+  - monster\Environment\Underdark
+  - monster\Size\Huge
+  - monster\Type\Fiend\Demon
 aliases:
   - Sibriex
 ---

@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/conjuration
-  - spell/subclass/horizon-walker
-  - spell/subclass/oath-of-the-open-road
-  - spell/subclass/speed-domain
-  - spell/subclass/travel-domain
-  - spell/subclass/wealth-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Conjuration
+  - spell\Subclass\Horizon Walker
+  - spell\Subclass\Oath Of The Open Road
+  - spell\Subclass\Speed Domain
+  - spell\Subclass\Travel Domain
+  - spell\Subclass\Wealth Domain
 level: 5th-level
 range: false
 school: Conjuration

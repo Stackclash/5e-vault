@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/ranger
-  - spell/level/2nd-level
-  - spell/school/conjuration
-  - spell/subclass/the-frozen-one
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Ranger
+  - spell\Level\2nd Level
+  - spell\School\Conjuration
+  - spell\Subclass\The Frozen One
 level: 2nd-level
 range: false
 school: Conjuration

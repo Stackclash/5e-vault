@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/paladin
-  - spell/level/2nd-level
-  - spell/school/evocation
-  - spell/subclass/battle-smith
-  - spell/subclass/chain-domain
-  - spell/subclass/the-hexblade
-  - spell/subrace/tiefling-zariel
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Paladin
+  - spell\Level\2nd Level
+  - spell\School\Evocation
+  - spell\Subclass\Battle Smith
+  - spell\Subclass\Chain Domain
+  - spell\Subclass\The Hexblade
+  - spell\Subrace\Tiefling Zariel
 level: 2nd-level
 range: false
 school: Evocation

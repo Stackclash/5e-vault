@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/6th-level
-  - spell/ritual
-  - spell/school/conjuration
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\6th Level
+  - spell\Ritu(AL)
+  - spell\School\Conjuration
 level: 6th-level
 range: true
 school: Conjuration

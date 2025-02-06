@@ -6,10 +6,10 @@ cr: 6
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/6
-  - monster/size/medium
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\6
+  - monster\Size\Medium
+  - monster\Type\Element(AL)
 aliases:
   - Source of Earth
 ---

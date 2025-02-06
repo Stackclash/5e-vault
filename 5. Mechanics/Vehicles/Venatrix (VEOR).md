@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-vehicle
 tags:
-  - compendium/src/5e/veor
-  - vehicle/size/gargantuan
-  - vehicle/terrain/land
-  - vehicle/type/infernal-war-machine
+  - 5. Mechanics\Src\5e\(VEOR)
+  - vehicle\Size\Gargantuan
+  - vehicle\Terrain\Land
+  - vehicle\Type\Infernal War Machine
 aliases:
   - Venatrix
 ---

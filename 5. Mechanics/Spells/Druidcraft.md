@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/feat/magic-initiate
-  - spell/feat/wood-elf-magic
-  - spell/level/cantrip
-  - spell/optfeature/druidic-warrior
-  - spell/optfeature/pact-of-the-tome
-  - spell/race/fairy
-  - spell/school/transmutation
-  - spell/subclass/arcane-archer
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/hedge-mage
-  - spell/subclass/nature-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Wood Elf Magic
+  - spell\Level\Cantrip
+  - spell\Optfeature\Druidic Warrior
+  - spell\Optfeature\Pact Of The Tome
+  - spell\Race\Fairy
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Archer
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Hedge Mage
+  - spell\Subclass\Nature Domain
 level: cantrip
 range: false
 school: Transmutation

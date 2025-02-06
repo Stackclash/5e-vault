@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/sorcerer
-  - spell/level/2nd-level
-  - spell/school/abjuration
-  - spell/subclass/moon-domain
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Sorcerer
+  - spell\Level\2nd Level
+  - spell\School\Abjuration
+  - spell\Subclass\Moon Domain
 level: 2nd-level
 range: false
 school: Abjuration

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Rarity\Very Rare
+  - item\Tier\Major
+  - item\Wondrous\Generic Variant
 aliases:
   - +3 Weapon (no damage)
 ---

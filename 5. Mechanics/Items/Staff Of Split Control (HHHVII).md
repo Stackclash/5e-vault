@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Staff of Split Control
 one-hand-damage: 1d6 B

@@ -6,14 +6,14 @@ cr: 4
 environments: 'grassland, forest, desert'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/size/medium
-  - monster/type/humanoid/human
-  - monster/type/humanoid/shapechanger
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\4
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Human
+  - monster\Type\Humanoid\Shapechanger
 aliases:
   - Weretiger
 ---

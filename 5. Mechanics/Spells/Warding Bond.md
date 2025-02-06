@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/paladin
-  - spell/level/2nd-level
-  - spell/school/abjuration
-  - spell/subclass/battle-smith
-  - spell/subclass/divine-soul
-  - spell/subclass/oath-of-the-watchtower
-  - spell/subclass/peace-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Paladin
+  - spell\Level\2nd Level
+  - spell\School\Abjuration
+  - spell\Subclass\Battle Smith
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Oath Of The Watchtower
+  - spell\Subclass\Peace Domain
 level: 2nd-level
 range: false
 school: Abjuration

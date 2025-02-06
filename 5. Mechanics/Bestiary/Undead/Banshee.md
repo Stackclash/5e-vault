@@ -6,12 +6,12 @@ cr: 4
 environments: 'forest, coastal'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/environment/coastal
-  - monster/environment/forest
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\4
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Forest
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Banshee
 ---

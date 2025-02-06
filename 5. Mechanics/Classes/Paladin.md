@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/paladin
-  - compendium/src/5e/phb
+  - class\Paladin
+  - 5. Mechanics\Src\5e\(PHB)
 aliases:
   - Paladin
 ---

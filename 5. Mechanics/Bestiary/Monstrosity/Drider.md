@@ -6,11 +6,11 @@ cr: 6
 environments: underdark
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/6
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\6
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Drider
 ---

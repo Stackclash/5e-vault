@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-deck
 tags:
-  - compendium/src/5e/cos
+  - 5. Mechanics\Src\5e\(COS)
 aliases:
   - Tarokka Deck
 ---

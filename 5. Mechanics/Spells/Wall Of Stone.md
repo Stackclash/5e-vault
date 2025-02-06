@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/optfeature/wave-of-rolling-earth
-  - spell/school/evocation
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/the-genie
-  - spell/subclass/the-genie-lord
-  - spell/subclass/the-lithic
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\Optfeature\Wave Of Rolling Earth
+  - spell\School\Evocation
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\The Genie
+  - spell\Subclass\The Genie Lord
+  - spell\Subclass\The Lithic
 level: 5th-level
 range: false
 school: Evocation

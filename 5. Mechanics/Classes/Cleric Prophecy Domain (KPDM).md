@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - domain/prophecy
-  - subclass/cleric/prophecy
+  - 5. Mechanics\Src\5e\(KPDM)
+  - domain\Prophecy
+  - subclass\Cleric\Prophecy
 aliases:
   - Prophecy Domain
 ---

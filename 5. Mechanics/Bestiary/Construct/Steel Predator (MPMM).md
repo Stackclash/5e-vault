@@ -6,11 +6,11 @@ cr: 16
 environments: urban
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/16
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\16
+  - monster\Environment\Urban
+  - monster\Size\Large
+  - monster\Type\Construct
 aliases:
   - Steel Predator
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/speed-domain
+  - spell\List\Subclass\Speed Domain
 aliases:
   - Spells for Speed Domain
 ---

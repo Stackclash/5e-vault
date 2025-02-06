@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/attunement/required
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Attunement\Required
+  - item\Rarity\Uncommon
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Fanfare Blowgun
 one-hand-damage: 1 P
-range: 25/100
+range: 25\100
 ---
 # Fanfare Blowgun
 *Weapon ([[5. Mechanics/Items/Blowgun.md\|blowgun]]), major, uncommon (requires attunement by a bard)*  

@@ -6,10 +6,10 @@ cr: 21
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/21
-  - monster/size/large
-  - monster/type/celestial
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\21
+  - monster\Size\Large
+  - monster\Type\Celesti(AL)
 aliases:
   - Solar
 ---

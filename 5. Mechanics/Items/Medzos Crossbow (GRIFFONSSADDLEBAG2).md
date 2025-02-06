@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Medzo's Crossbow
 one-hand-damage: 3d4 P
-range: 30/120
+range: 30\120
 ---
 # Medzo's Crossbow
 *Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare*  

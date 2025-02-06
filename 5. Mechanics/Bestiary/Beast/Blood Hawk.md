@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: 'mountain, grassland, forest, hill, coastal, arctic'
 size: Small
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/environment/arctic
-  - monster/environment/coastal
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/small
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 8
+  - monster\Environment\Arctic
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Small
+  - monster\Type\Beast
 aliases:
   - Blood Hawk
 ---

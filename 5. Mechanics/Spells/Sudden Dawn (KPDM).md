@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/ritual
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\Ritu(AL)
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
 level: 3rd-level
 range: true
 school: Evocation

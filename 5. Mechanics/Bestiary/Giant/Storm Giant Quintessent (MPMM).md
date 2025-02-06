@@ -6,14 +6,14 @@ cr: 16
 environments: 'coastal, desert, mountain, underwater'
 size: Huge
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/16
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/mountain
-  - monster/environment/underwater
-  - monster/size/huge
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\16
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Environment\Mountain
+  - monster\Environment\Underwater
+  - monster\Size\Huge
+  - monster\Type\Giant
 aliases:
   - Storm Giant Quintessent
 ---

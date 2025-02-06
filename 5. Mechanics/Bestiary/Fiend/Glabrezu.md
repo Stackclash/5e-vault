@@ -6,10 +6,10 @@ cr: 9
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/9
-  - monster/size/large
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\9
+  - monster\Size\Large
+  - monster\Type\Fiend\Demon
 aliases:
   - Glabrezu
 ---

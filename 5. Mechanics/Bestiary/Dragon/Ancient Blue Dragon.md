@@ -6,12 +6,12 @@ cr: 23
 environments: 'desert, coastal'
 size: Gargantuan
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/23
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/size/gargantuan
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\23
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Size\Gargantuan
+  - monster\Type\Dragon
 aliases:
   - Ancient Blue Dragon
 ---

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/saf
-  - race/gemstone-dragonborn
+  - 5. Mechanics\Src\5e\(SAF)
+  - race\Gemstone Dragonborn
 aliases:
   - Gemstone Dragonborn
 ---

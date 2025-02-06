@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/race/firbolg
+  - spell\List\Race\Firbolg
 aliases:
   - Spells for Firbolg
 ---

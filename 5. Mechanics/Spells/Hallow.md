@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/level/5th-level
-  - spell/school/evocation
-  - spell/subclass/divine-soul
-  - spell/subclass/gravetender
-  - spell/subclass/oath-of-the-annihilator
-  - spell/subclass/oath-of-the-watchtower
-  - spell/subclass/the-fiend
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Level\5th Level
+  - spell\School\Evocation
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Gravetender
+  - spell\Subclass\Oath Of The Annihila(TOR)
+  - spell\Subclass\Oath Of The Watchtower
+  - spell\Subclass\The Fiend
 level: 5th-level
 range: false
 school: Evocation

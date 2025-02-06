@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/wondrous/rod
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Rarity\Very Rare
+  - item\Tier\Major
+  - item\Wondrous\Rod
 aliases:
   - Rod of Security
 ---

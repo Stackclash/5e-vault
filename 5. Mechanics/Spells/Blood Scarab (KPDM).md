@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/warlock
-  - spell/feat/shadow-touched
-  - spell/level/1st-level
-  - spell/school/necromancy
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Warlock
+  - spell\Feat\Shadow Touched
+  - spell\Level\1st Level
+  - spell\School\Necromancy
 level: 1st-level
 range: false
 school: Necromancy

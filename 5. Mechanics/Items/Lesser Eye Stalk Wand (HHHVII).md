@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/attunement/required
-  - item/rarity/rare
-  - item/wondrous/wand
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Wondrous\Wand
 aliases:
   - Lesser Eye Stalk Wand
 ---

@@ -6,10 +6,10 @@ cr: 21
 environments: null
 size: Gargantuan
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/21
-  - monster/size/gargantuan
-  - monster/type/monstrosity/titan
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\21
+  - monster\Size\Gargantuan
+  - monster\Type\Monstrosity\Titan
 aliases:
   - Astral Dreadnought
 ---

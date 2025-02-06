@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/1st-level
-  - spell/school/abjuration
-  - spell/subclass/void-domain
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\1st Level
+  - spell\School\Abjuration
+  - spell\Subclass\Void Domain
 level: 1st-level
 range: false
 school: Abjuration

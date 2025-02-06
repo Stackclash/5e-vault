@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/shroud-of-shadow
+  - spell\List\Optfeature\Shroud Of Shadow
 aliases:
   - Spells for Shroud of Shadow
 ---

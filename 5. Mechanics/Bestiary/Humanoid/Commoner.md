@@ -6,17 +6,17 @@ cr: 0
 environments: 'arctic, desert, coastal, grassland, hill, urban, forest'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/arctic
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Environment\Arctic
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Any Race
 aliases:
   - Commoner
 ---

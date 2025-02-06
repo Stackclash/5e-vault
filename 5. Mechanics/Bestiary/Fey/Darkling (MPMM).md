@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'forest, swamp, underdark, urban'
 size: Small
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-2
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/small
-  - monster/type/fey
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 2
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Small
+  - monster\Type\Fey
 aliases:
   - Darkling
 ---

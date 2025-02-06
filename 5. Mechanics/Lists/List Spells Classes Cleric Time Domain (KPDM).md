@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/time-domain
+  - spell\List\Subclass\Time Domain
 aliases:
   - Spells for Time Domain
 ---

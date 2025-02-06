@@ -6,10 +6,10 @@ cr: 7
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/kpdm
-  - monster/cr/7
-  - monster/size/medium
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(KPDM)
+  - monster\Cr\7
+  - monster\Size\Medium
+  - monster\Type\Construct
 aliases:
   - Bzeldruin's Hundred
 ---

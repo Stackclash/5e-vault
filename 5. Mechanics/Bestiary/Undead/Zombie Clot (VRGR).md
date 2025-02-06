@@ -6,10 +6,10 @@ cr: 6
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/6
-  - monster/size/huge
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\6
+  - monster\Size\Huge
+  - monster\Type\Undead
 aliases:
   - Zombie Clot
 ---

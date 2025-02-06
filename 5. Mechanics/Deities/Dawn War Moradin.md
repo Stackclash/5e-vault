@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/dmg
-  - deity/dawn-war
-  - domain/forge
-  - domain/knowledge
-  - domain/war
+  - 5. Mechanics\Src\5e\(DMG)
+  - deity\Dawn War
+  - domain\Forge
+  - domain\Knowledge
+  - domain\War
 aliases:
   - Moradin
 ---

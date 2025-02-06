@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/scag
-  - deity/faerunian
-  - domain/forge
-  - domain/knowledge
+  - 5. Mechanics\Src\5e\(SCAG)
+  - deity\Faerunian
+  - domain\Forge
+  - domain\Knowledge
 aliases:
   - Gond
   - The Wonderbringer

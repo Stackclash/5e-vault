@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-  - compendium/src/5e/vrgr
-  - hazard/haunt
+  - 5. Mechanics\Src\5e\(VRGR)
+  - hazard\Haunt
 aliases:
   - Danse Macabre
 ---

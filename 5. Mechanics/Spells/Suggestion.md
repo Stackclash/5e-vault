@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/race/yuan-ti
-  - spell/school/enchantment
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-roses
-  - spell/subclass/eldritch-knight
-  - spell/subclass/hunger-domain
-  - spell/subclass/knowledge-domain
-  - spell/subclass/lust-domain
-  - spell/subrace/tiefling-fierna
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\Race\Yuan Ti
+  - spell\School\Enchantment
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of Roses
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Hunger Domain
+  - spell\Subclass\Knowledge Domain
+  - spell\Subclass\Lust Domain
+  - spell\Subrace\Tiefling Fierna
 level: 2nd-level
 range: false
 school: Enchantment

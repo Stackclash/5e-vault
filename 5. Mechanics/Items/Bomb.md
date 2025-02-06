@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/age/renaissance
-  - item/rarity/none
-  - item/weapon/explosive
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Age\Renaissance
+  - item\Rarity\None
+  - item\Weapon\Explosive
 aliases:
   - Bomb
 cost: 15000

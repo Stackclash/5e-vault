@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/armor/light
-  - item/attunement/required
-  - item/rarity/uncommon
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Armor\Light
+  - item\Attunement\Required
+  - item\Rarity\Uncommon
 aliases:
   - Grell Jerkin
 armorClass: 11 + Dex modifier

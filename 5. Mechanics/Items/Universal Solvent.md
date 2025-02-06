@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/legendary
-  - item/tier/minor
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Rarity\Legendary
+  - item\Tier\Minor
 aliases:
   - Universal Solvent
 ---

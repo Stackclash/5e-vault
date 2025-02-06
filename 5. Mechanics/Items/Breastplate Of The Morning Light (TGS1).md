@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/armor/medium
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Armor\Medium
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Tier\Major
 aliases:
   - Breastplate of the Morning Light
 armorClass: 14 + Dex modifier (max of +2)

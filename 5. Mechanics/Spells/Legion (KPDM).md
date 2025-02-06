@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/school/conjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/darkness-domain
-  - spell/subclass/eldritch-knight
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\School\Conjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Darkness Domain
+  - spell\Subclass\Eldritch Knight
 level: 3rd-level
 range: false
 school: Conjuration

@@ -6,15 +6,15 @@ cr: 1
 environments: 'underdark, forest, swamp, urban, desert'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Giant Spider
 ---

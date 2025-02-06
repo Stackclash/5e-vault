@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/evocation
-  - spell/subclass/circle-of-stars
-  - spell/subclass/divine-soul
-  - spell/subclass/oath-of-glory
-  - spell/subclass/oath-of-radiance
-  - spell/subclass/oath-of-the-watchtower
-  - spell/subclass/the-celestial
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Evocation
+  - spell\Subclass\Circle Of Stars
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Oath Of Glory
+  - spell\Subclass\Oath Of Radiance
+  - spell\Subclass\Oath Of The Watchtower
+  - spell\Subclass\The Celesti(AL)
 level: 1st-level
 range: false
 school: Evocation

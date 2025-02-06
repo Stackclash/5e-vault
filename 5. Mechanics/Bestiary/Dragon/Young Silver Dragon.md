@@ -6,12 +6,12 @@ cr: 9
 environments: 'mountain, urban'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/9
-  - monster/environment/mountain
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\9
+  - monster\Environment\Mountain
+  - monster\Environment\Urban
+  - monster\Size\Large
+  - monster\Type\Dragon
 aliases:
   - Young Silver Dragon
 ---

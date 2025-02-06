@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-  - compendium/src/5e/dmg
-  - object/size/varies
-  - object/type/generic
+  - 5. Mechanics\Src\5e\(DMG)
+  - object\Size\Varies
+  - object\Type\Generic
 statblock: inline
 aliases:
   - Generic Object

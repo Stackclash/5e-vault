@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/race/tiefling-base
+  - spell\List\Race\Tiefling Base
 aliases:
   - Spells for Tiefling (Base)
 ---

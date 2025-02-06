@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/xge
-  - spell/class/bard
-  - spell/class/druid
-  - spell/level/6th-level
-  - spell/school/abjuration
+  - 5. Mechanics\Src\5e\(XGE)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Level\6th Level
+  - spell\School\Abjuration
 level: 6th-level
 range: false
 school: Abjuration

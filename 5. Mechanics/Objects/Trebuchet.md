@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-  - compendium/src/5e/dmg
-  - object/size/huge
-  - object/type/siege-weapon
+  - 5. Mechanics\Src\5e\(DMG)
+  - object\Size\Huge
+  - object\Type\Siege Weapon
 statblock: inline
 aliases:
   - Trebuchet

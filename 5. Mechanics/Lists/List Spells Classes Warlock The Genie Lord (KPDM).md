@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/the-genie-lord
+  - spell\List\Subclass\The Genie Lord
 aliases:
   - Spells for The Genie Lord
 ---

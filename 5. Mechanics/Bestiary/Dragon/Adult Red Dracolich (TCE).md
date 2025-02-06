@@ -6,10 +6,10 @@ cr: 17
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/tce
-  - monster/cr/17
-  - monster/size/huge
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(TCE)
+  - monster\Cr\17
+  - monster\Size\Huge
+  - monster\Type\Dragon
 aliases:
   - Adult Red Dracolich
 ---

@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/ranger
-  - spell/level/2nd-level
-  - spell/ritual
-  - spell/school/illusion
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/divine-soul
-  - spell/subclass/the-fathomless
-  - spell/subclass/way-of-shadow
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Ranger
+  - spell\Level\2nd Level
+  - spell\Ritu(AL)
+  - spell\School\Illusion
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\The Fathomless
+  - spell\Subclass\Way Of Shadow
 level: 2nd-level
 range: true
 school: Illusion

@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/enchantment
-  - spell/subclass/beer-domain
-  - spell/subclass/circle-of-owls
-  - spell/subclass/fey-soul
-  - spell/subclass/prophecy-domain
-  - spell/subclass/the-shapechanger
-  - spell/subclass/time-domain
-  - spell/subclass/trickery-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Enchantment
+  - spell\Subclass\Beer Domain
+  - spell\Subclass\Circle Of Owls
+  - spell\Subclass\Fey Soul
+  - spell\Subclass\Prophecy Domain
+  - spell\Subclass\The Shapechanger
+  - spell\Subclass\Time Domain
+  - spell\Subclass\Trickery Domain
 level: 5th-level
 range: false
 school: Enchantment

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/death-domain-dmg
+  - spell\List\Subclass\Death Domain (DMG)
 aliases:
   - Spells for Death Domain (DMG)
 ---

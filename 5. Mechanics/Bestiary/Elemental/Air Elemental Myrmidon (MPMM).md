@@ -6,10 +6,10 @@ cr: 7
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/7
-  - monster/size/medium
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\7
+  - monster\Size\Medium
+  - monster\Type\Element(AL)
 aliases:
   - Air Elemental Myrmidon
 ---

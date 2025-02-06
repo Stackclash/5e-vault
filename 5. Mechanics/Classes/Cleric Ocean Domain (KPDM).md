@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - domain/ocean
-  - subclass/cleric/ocean
+  - 5. Mechanics\Src\5e\(KPDM)
+  - domain\Ocean
+  - subclass\Cleric\Ocean
 aliases:
   - Ocean Domain
 ---

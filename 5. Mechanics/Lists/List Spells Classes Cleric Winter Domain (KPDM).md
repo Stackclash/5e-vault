@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/winter-domain
+  - spell\List\Subclass\Winter Domain
 aliases:
   - Spells for Winter Domain
 ---

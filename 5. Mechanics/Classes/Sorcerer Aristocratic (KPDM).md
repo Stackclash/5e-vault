@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - subclass/sorcerer/aristocratic
+  - 5. Mechanics\Src\5e\(KPDM)
+  - subclass\Sorcerer\Aristocratic
 aliases:
   - Aristocratic
 ---

@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/halfling
-  - domain/death
-  - domain/grave
-  - domain/knowledge
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Halfling
+  - domain\Death
+  - domain\Grave
+  - domain\Knowledge
 aliases:
   - Urogalan
 ---

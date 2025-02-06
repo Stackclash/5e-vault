@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/void-domain
+  - spell\List\Subclass\Void Domain
 aliases:
   - Spells for Void Domain
 ---

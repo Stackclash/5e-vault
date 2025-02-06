@@ -6,14 +6,14 @@ cr: 4
 environments: 'grassland, forest, hill, desert'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/size/medium
-  - monster/type/fiend/gnoll
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\4
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Size\Medium
+  - monster\Type\Fiend\Gnoll
 aliases:
   - Gnoll Fang of Yeenoghu
 ---

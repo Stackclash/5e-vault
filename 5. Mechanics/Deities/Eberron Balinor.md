@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/eberron
-  - domain/life
-  - domain/nature
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Eberron
+  - domain\Life
+  - domain\Nature
 aliases:
   - Balinor
 ---

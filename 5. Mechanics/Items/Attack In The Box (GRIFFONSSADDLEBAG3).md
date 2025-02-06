@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Rarity\Uncommon
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Attack-In-The-Box
 one-hand-damage: 1d8 B

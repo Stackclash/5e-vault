@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/rare
-  - item/shield/
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Rarity\Rare
+  - item\Shield
+  - item\Tier\Major
 aliases:
   - +2 Shield
 armorClass: 2

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/aberrant-mind
+  - spell\List\Subclass\Aberrant Mind
 aliases:
   - Spells for Aberrant Mind
 ---

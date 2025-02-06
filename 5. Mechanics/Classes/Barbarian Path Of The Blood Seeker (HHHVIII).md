@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/hhhviii
-  - subclass/barbarian/blood-seeker
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - subclass\Barbarian\Blood Seeker
 aliases:
   - Path of the Blood Seeker
 ---

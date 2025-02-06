@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/arcane-archer
+  - spell\List\Subclass\Arcane Archer
 aliases:
   - Spells for Arcane Archer
 ---

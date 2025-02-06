@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/tce
-  - subclass/ranger/fey-wanderer
+  - 5. Mechanics\Src\5e\(TCE)
+  - subclass\Ranger\Fey Wanderer
 aliases:
   - Fey Wanderer
 ---

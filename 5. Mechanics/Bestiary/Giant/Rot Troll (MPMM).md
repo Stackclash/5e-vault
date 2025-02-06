@@ -6,14 +6,14 @@ cr: 9
 environments: 'desert, forest, swamp, underdark'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/9
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\9
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Giant
 aliases:
   - Rot Troll
 ---

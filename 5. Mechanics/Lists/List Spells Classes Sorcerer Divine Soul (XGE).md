@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/divine-soul
+  - spell\List\Subclass\Divine Soul
 aliases:
   - Spells for Divine Soul
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/griffon-scout
+  - spell\List\Subclass\Griffon Scout
 aliases:
   - Spells for Griffon Scout
 ---

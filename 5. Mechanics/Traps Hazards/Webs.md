@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-  - compendium/src/5e/dmg
+  - 5. Mechanics\Src\5e\(DMG)
 aliases:
   - Webs
 ---

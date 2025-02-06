@@ -6,12 +6,12 @@ cr: 3
 environments: 'forest, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/3
-  - monster/environment/forest
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\3
+  - monster\Environment\Forest
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Humanoid
 aliases:
   - Archer
 ---

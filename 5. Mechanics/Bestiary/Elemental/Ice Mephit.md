@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: arctic
 size: Small
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/arctic
-  - monster/size/small
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 2
+  - monster\Environment\Arctic
+  - monster\Size\Small
+  - monster\Type\Element(AL)
 aliases:
   - Ice Mephit
 ---

@@ -6,10 +6,10 @@ cr: 3
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/kpdm
-  - monster/cr/3
-  - monster/size/medium
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(KPDM)
+  - monster\Cr\3
+  - monster\Size\Medium
+  - monster\Type\Construct
 aliases:
   - Forest Defender
 ---

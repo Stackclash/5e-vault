@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/8th-level
-  - spell/school/enchantment
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\8th Level
+  - spell\School\Enchantment
 level: 8th-level
 range: false
 school: Enchantment

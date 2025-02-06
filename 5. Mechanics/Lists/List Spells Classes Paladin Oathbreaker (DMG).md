@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/oathbreaker-dmg
+  - spell\List\Subclass\Oathbreaker (DMG)
 aliases:
   - Spells for Oathbreaker (DMG)
 ---

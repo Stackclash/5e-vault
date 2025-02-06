@@ -6,14 +6,14 @@ cr: 0
 environments: 'mountain, grassland, hill, coastal'
 size: Small
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/coastal
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/small
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Small
+  - monster\Type\Beast
 aliases:
   - Eagle
 ---

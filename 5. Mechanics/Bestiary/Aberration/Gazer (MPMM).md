@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: underdark
 size: Tiny
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-2
-  - monster/environment/underdark
-  - monster/size/tiny
-  - monster/type/aberration/beholder
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 2
+  - monster\Environment\Underdark
+  - monster\Size\Tiny
+  - monster\Type\Aberration\Beholder
 aliases:
   - Gazer
 ---

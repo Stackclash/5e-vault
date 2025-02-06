@@ -6,10 +6,10 @@ cr: 14
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/14
-  - monster/size/large
-  - monster/type/fiend/devil
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\14
+  - monster\Size\Large
+  - monster\Type\Fiend\Devil
 aliases:
   - Ice Devil
 ---

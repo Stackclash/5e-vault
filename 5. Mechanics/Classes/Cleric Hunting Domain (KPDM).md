@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - domain/hunting
-  - subclass/cleric/hunting
+  - 5. Mechanics\Src\5e\(KPDM)
+  - domain\Hunting
+  - subclass\Cleric\Hunting
 aliases:
   - Hunting Domain
 ---

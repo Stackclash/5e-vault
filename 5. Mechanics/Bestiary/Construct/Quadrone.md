@@ -6,10 +6,10 @@ cr: 1
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/size/medium
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1
+  - monster\Size\Medium
+  - monster\Type\Construct
 aliases:
   - Quadrone
 ---

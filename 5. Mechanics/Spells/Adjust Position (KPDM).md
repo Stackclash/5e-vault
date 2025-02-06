@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
 level: 1st-level
 range: false
 school: Transmutation

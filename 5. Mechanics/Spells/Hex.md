@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/warlock
-  - spell/feat/fey-touched
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/race/hexblood
-  - spell/school/enchantment
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Warlock
+  - spell\Feat\Fey Touched
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\Race\Hexblood
+  - spell\School\Enchantment
 level: 1st-level
 range: false
 school: Enchantment

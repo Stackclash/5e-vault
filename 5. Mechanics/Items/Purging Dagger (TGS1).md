@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Tier\Major
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Purging Dagger
 one-hand-damage: 1d4 P
-range: 40/80
+range: 40\80
 ---
 # Purging Dagger
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement)*  

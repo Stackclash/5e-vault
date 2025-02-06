@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/chain-domain
+  - spell\List\Subclass\Chain Domain
 aliases:
   - Spells for Chain Domain
 ---

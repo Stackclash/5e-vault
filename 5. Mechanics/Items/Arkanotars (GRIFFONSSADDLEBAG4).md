@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/rarity/very-rare
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Rarity\Very Rare
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Arkanotars
 one-hand-damage: 1d4 L
-range: 20/60
+range: 20\60
 ---
 # Arkanotars
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), very rare*  

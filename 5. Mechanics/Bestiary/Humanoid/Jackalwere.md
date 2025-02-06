@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'grassland, desert'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/desert
-  - monster/environment/grassland
-  - monster/size/medium
-  - monster/type/humanoid/shapechanger
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 2
+  - monster\Environment\Desert
+  - monster\Environment\Grassland
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Shapechanger
 aliases:
   - Jackalwere
 ---

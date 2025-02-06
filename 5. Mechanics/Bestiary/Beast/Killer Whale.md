@@ -6,11 +6,11 @@ cr: 3
 environments: underwater
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/underwater
-  - monster/size/huge
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\3
+  - monster\Environment\Underwater
+  - monster\Size\Huge
+  - monster\Type\Beast
 aliases:
   - Killer Whale
 ---

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/armor/heavy
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Armor\Heavy
+  - item\Rarity\None
 aliases:
   - Bone Plate Armor
 cost: 150000

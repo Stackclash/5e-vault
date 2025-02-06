@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Sword of Answering (Rebutter)
 one-hand-damage: 1d8 S

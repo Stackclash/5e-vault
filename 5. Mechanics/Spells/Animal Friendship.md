@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/feat/fey-touched
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/race/yuan-ti
-  - spell/school/enchantment
-  - spell/subclass/hedge-mage
-  - spell/subclass/nature-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Feat\Fey Touched
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\Race\Yuan Ti
+  - spell\School\Enchantment
+  - spell\Subclass\Hedge Mage
+  - spell\Subclass\Nature Domain
 level: 1st-level
 range: false
 school: Enchantment

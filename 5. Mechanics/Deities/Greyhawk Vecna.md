@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/greyhawk
-  - domain/arcana
-  - domain/knowledge
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Greyhawk
+  - domain\Arcana
+  - domain\Knowledge
 aliases:
   - Vecna
 ---

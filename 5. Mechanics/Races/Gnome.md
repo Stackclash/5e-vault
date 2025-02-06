@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/phb
-  - race/gnome
+  - 5. Mechanics\Src\5e\(PHB)
+  - race\Gnome
 aliases:
   - Gnome
 ---

@@ -6,12 +6,12 @@ cr: 23
 environments: 'mountain, urban'
 size: Gargantuan
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/23
-  - monster/environment/mountain
-  - monster/environment/urban
-  - monster/size/gargantuan
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\23
+  - monster\Environment\Mountain
+  - monster\Environment\Urban
+  - monster\Size\Gargantuan
+  - monster\Type\Dragon
 aliases:
   - Ancient Silver Dragon
 ---

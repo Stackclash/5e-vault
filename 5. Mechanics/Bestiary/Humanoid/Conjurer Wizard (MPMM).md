@@ -6,11 +6,11 @@ cr: 6
 environments: urban
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/6
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\6
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Humanoid
 aliases:
   - Conjurer Wizard
 ---

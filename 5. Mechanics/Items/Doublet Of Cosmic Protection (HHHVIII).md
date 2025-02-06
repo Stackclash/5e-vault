@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/armor/light
-  - item/armor/medium
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Armor\Light
+  - item\Armor\Medium
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Wondrous\Generic Variant
 aliases:
   - Doublet of Cosmic Protection
   - Hide Armor Doublet of Cosmic Protection

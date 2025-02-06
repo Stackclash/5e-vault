@@ -6,11 +6,11 @@ cr: 13
 environments: arctic
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/13
-  - monster/environment/arctic
-  - monster/size/huge
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\13
+  - monster\Environment\Arctic
+  - monster\Size\Huge
+  - monster\Type\Dragon
 aliases:
   - Adult White Dragon
 ---

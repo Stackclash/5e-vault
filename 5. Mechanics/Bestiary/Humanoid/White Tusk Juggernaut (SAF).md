@@ -6,10 +6,10 @@ cr: 4
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/4
-  - monster/size/large
-  - monster/type/humanoid/orc
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\4
+  - monster\Size\Large
+  - monster\Type\Humanoid\Orc
 aliases:
   - White Tusk Juggernaut
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/feat/telepathic
+  - spell\List\Feat\Telepathic
 aliases:
   - Spells for Telepathic
 ---

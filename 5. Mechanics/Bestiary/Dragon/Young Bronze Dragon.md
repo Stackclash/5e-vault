@@ -6,11 +6,11 @@ cr: 8
 environments: coastal
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/8
-  - monster/environment/coastal
-  - monster/size/large
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\8
+  - monster\Environment\Coast(AL)
+  - monster\Size\Large
+  - monster\Type\Dragon
 aliases:
   - Young Bronze Dragon
 ---

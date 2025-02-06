@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/feat/fey-teleportation
+  - spell\List\Feat\Fey Teleportation
 aliases:
   - Spells for Fey Teleportation
 ---

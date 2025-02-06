@@ -6,11 +6,11 @@ cr: 1
 environments: underdark
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Fiend\Demon
 aliases:
   - Maw Demon
 ---

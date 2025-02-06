@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/marshwarden
+  - spell\List\Subclass\Marshwarden
 aliases:
   - Spells for Marshwarden
 ---

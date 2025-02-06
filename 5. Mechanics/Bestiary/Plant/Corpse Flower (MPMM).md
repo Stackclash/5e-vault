@@ -6,13 +6,13 @@ cr: 8
 environments: 'forest, swamp, urban'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/8
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/plant
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\8
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Environment\Urban
+  - monster\Size\Large
+  - monster\Type\Plant
 aliases:
   - Corpse Flower
 ---

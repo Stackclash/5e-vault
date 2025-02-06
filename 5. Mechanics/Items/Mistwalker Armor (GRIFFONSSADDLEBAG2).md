@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/armor/light
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Armor\Light
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Tier\Major
 aliases:
   - Mistwalker Armor
 armorClass: 11 + Dex modifier

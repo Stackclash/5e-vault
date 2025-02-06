@@ -6,10 +6,10 @@ cr: 16
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/16
-  - monster/size/large
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\16
+  - monster\Size\Large
+  - monster\Type\Undead
 aliases:
   - Grave Regent
 ---

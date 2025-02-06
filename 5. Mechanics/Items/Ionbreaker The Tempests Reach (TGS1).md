@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/attunement/required
-  - item/rarity/artifact
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Attunement\Required
+  - item\Rarity\Artifact
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - 'Ionbreaker, the Tempest''s Reach'
 one-hand-damage: 1d8 P
-range: 150/600
+range: 150\600
 ---
 # Ionbreaker, the Tempest's Reach
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, artifact (requires attunement)*  

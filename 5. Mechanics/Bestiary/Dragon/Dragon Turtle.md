@@ -6,12 +6,12 @@ cr: 17
 environments: 'underwater, coastal'
 size: Gargantuan
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/17
-  - monster/environment/coastal
-  - monster/environment/underwater
-  - monster/size/gargantuan
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\17
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Underwater
+  - monster\Size\Gargantuan
+  - monster\Type\Dragon
 aliases:
   - Dragon Turtle
 ---

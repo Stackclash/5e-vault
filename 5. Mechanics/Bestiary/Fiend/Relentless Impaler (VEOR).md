@@ -6,10 +6,10 @@ cr: 15
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/veor
-  - monster/cr/15
-  - monster/size/large
-  - monster/type/fiend
+  - 5. Mechanics\Src\5e\(VEOR)
+  - monster\Cr\15
+  - monster\Size\Large
+  - monster\Type\Fiend
 aliases:
   - Relentless Impaler
 ---

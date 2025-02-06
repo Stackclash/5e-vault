@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/shield/
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Shield
 aliases:
   - Astral Aegis
 armorClass: 2

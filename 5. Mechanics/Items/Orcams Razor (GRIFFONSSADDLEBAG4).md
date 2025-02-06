@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/rarity/uncommon
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Rarity\Uncommon
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Orcam's Razor
 one-hand-damage: 1d6 S
-range: 20/60
+range: 20\60
 ---
 # Orcam's Razor
 *Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), uncommon*  

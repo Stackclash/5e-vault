@@ -6,15 +6,15 @@ cr: 11
 environments: 'mountain, hill, desert, coastal, arctic'
 size: Gargantuan
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/11
-  - monster/environment/arctic
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/gargantuan
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\11
+  - monster\Environment\Arctic
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Gargantuan
+  - monster\Type\Monstrosity
 aliases:
   - Roc
 ---

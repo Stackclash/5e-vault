@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/egyptian
-  - domain/arcana
-  - domain/knowledge
-  - domain/life
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Egyptian
+  - domain\Arcana
+  - domain\Knowledge
+  - domain\Life
 aliases:
   - Isis
 ---

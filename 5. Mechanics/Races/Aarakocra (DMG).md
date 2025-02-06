@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/dmg
-  - race/aarakocra/dmg
+  - 5. Mechanics\Src\5e\(DMG)
+  - race\Aarakocra\(DMG)
 aliases:
   - Aarakocra (DMG)
 ---

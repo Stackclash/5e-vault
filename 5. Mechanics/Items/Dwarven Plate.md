@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/armor/heavy
-  - item/rarity/very-rare
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Armor\Heavy
+  - item\Rarity\Very Rare
+  - item\Tier\Major
 aliases:
   - Dwarven Plate
 armorClass: 18

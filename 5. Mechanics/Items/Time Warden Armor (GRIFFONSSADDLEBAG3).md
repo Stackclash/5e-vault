@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/armor/medium
-  - item/attunement/required
-  - item/rarity/very-rare
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Armor\Medium
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
 aliases:
   - Time Warden Armor
 armorClass: 14 + Dex modifier (max of +2)

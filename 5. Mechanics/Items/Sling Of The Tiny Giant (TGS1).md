@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/ranged
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
 aliases:
   - Sling of the Tiny Giant
 one-hand-damage: 1d4 B
-range: 30/120
+range: 30\120
 ---
 # Sling of the Tiny Giant
 *Weapon ([[5. Mechanics/Items/Sling.md\|sling]]), major, rare (requires attunement)*  

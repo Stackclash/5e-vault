@@ -6,10 +6,10 @@ cr: 12
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/12
-  - monster/size/medium
-  - monster/type/fiend/yugoloth
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\12
+  - monster\Size\Medium
+  - monster\Type\Fiend\Yugoloth
 aliases:
   - Arcanaloth
 ---

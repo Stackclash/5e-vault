@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/rarity/none
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Rarity\None
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Blowgun
 cost: 1000
 one-hand-damage: 1 P
-range: 25/100
+range: 25\100
 ---
 # Blowgun
 *Weapon*  

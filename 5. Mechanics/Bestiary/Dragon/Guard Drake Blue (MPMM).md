@@ -6,17 +6,17 @@ cr: 2
 environments: 'arctic, desert, forest, mountain, swamp, underdark, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/2
-  - monster/environment/arctic
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/mountain
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\2
+  - monster\Environment\Arctic
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Mountain
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Dragon
 aliases:
   - Guard Drake (Blue)
 ---

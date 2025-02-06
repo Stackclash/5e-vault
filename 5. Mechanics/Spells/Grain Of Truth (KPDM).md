@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/warlock
-  - spell/level/2nd-level
-  - spell/ritual
-  - spell/school/divination
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Warlock
+  - spell\Level\2nd Level
+  - spell\Ritu(AL)
+  - spell\School\Divination
 level: 2nd-level
 range: true
 school: Divination

@@ -6,11 +6,11 @@ cr: 8
 environments: grassland
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/8
-  - monster/environment/grassland
-  - monster/size/huge
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\8
+  - monster\Environment\Grassland
+  - monster\Size\Huge
+  - monster\Type\Beast
 aliases:
   - Tyrannosaurus Rex
 ---

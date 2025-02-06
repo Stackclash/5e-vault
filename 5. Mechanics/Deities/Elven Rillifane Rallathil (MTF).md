@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/elven
-  - domain/nature
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Elven
+  - domain\Nature
 aliases:
   - Rillifane Rallathil
 ---

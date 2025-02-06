@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/none
-  - item/vehicle/ship-water
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Rarity\None
+  - item\Vehicle\Ship Water
 aliases:
   - Warship
 cost: 2500000

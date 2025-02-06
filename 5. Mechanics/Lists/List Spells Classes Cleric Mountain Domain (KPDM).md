@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/mountain-domain
+  - spell\List\Subclass\Mountain Domain
 aliases:
   - Spells for Mountain Domain
 ---

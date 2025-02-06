@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/way-of-the-open-hand
+  - spell\List\Subclass\Way Of The Open Hand
 aliases:
   - Spells for Way of the Open Hand
 ---

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/armor/light
-  - item/attunement/required
-  - item/rarity/very-rare
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Armor\Light
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
 aliases:
   - Hide of Hiding
 armorClass: 11 + Dex modifier

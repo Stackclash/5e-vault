@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/attunement/required
-  - item/rarity/rare
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Whip of Extended Reach
 one-hand-damage: 1d4 S

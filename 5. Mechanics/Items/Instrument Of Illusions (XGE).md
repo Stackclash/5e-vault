@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/xge
-  - item/attunement/required
-  - item/gear/instrument
-  - item/rarity/common
-  - item/tier/minor
+  - 5. Mechanics\Src\5e\(XGE)
+  - item\Attunement\Required
+  - item\Gear\Instrument
+  - item\Rarity\Common
+  - item\Tier\Minor
 aliases:
   - Instrument of Illusions
 ---

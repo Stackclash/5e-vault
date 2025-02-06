@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/level/3rd-level
-  - spell/school/abjuration
-  - spell/subclass/divine-soul
-  - spell/subclass/life-domain
-  - spell/subclass/oath-of-devotion
-  - spell/subclass/oath-of-radiance
-  - spell/subclass/peace-domain
-  - spell/subclass/the-valiant
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Level\3rd Level
+  - spell\School\Abjuration
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Life Domain
+  - spell\Subclass\Oath Of Devotion
+  - spell\Subclass\Oath Of Radiance
+  - spell\Subclass\Peace Domain
+  - spell\Subclass\The Valiant
 level: 3rd-level
 range: false
 school: Abjuration

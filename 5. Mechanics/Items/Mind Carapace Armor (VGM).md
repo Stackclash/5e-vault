@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/vgm
-  - item/armor/heavy
-  - item/attunement/required
-  - item/rarity/uncommon
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(VGM)
+  - item\Armor\Heavy
+  - item\Attunement\Required
+  - item\Rarity\Uncommon
+  - item\Wondrous\Generic Variant
 aliases:
   - Mind Carapace Armor
   - Mind Carapace Bone Plate Armor

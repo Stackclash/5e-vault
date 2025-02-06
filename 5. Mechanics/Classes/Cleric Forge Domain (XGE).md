@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/xge
-  - domain/forge
-  - subclass/cleric/forge
+  - 5. Mechanics\Src\5e\(XGE)
+  - domain\Forge
+  - subclass\Cleric\Forge
 aliases:
   - Forge Domain
 ---

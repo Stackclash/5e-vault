@@ -6,12 +6,12 @@ cr: 20
 environments: 'coastal, underwater'
 size: Gargantuan
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/20
-  - monster/environment/coastal
-  - monster/environment/underwater
-  - monster/size/gargantuan
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\20
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Underwater
+  - monster\Size\Gargantuan
+  - monster\Type\Element(AL)
 aliases:
   - Leviathan
 ---

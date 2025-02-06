@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Riptide Crossbow
 one-hand-damage: 1d10 P
-range: 100/400
+range: 100\400
 ---
 # Riptide Crossbow
 *Weapon ([[5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, rare (requires attunement)*  

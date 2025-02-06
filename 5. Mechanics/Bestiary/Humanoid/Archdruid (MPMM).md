@@ -6,14 +6,14 @@ cr: 12
 environments: 'forest, mountain, swamp, underwater'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/12
-  - monster/environment/forest
-  - monster/environment/mountain
-  - monster/environment/swamp
-  - monster/environment/underwater
-  - monster/size/medium
-  - monster/type/humanoid/druid
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\12
+  - monster\Environment\Forest
+  - monster\Environment\Mountain
+  - monster\Environment\Swamp
+  - monster\Environment\Underwater
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Druid
 aliases:
   - Archdruid
 ---

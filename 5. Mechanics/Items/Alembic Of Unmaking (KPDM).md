@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/kpdm
-  - item/rarity/very-rare
+  - 5. Mechanics\Src\5e\(KPDM)
+  - item\Rarity\Very Rare
 aliases:
   - Alembic of Unmaking
 ---

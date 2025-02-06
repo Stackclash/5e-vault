@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/level/5th-level
-  - spell/school/conjuration
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/divine-soul
-  - spell/subclass/hedge-mage
-  - spell/subclass/nature-domain
-  - spell/subclass/swarmkeeper
-  - spell/subclass/tempest-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Level\5th Level
+  - spell\School\Conjuration
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Hedge Mage
+  - spell\Subclass\Nature Domain
+  - spell\Subclass\Swarmkeeper
+  - spell\Subclass\Tempest Domain
 level: 5th-level
 range: false
 school: Conjuration

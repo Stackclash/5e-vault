@@ -6,15 +6,15 @@ cr: 6
 environments: 'underdark, grassland, forest, hill, desert'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/6
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/goblinoid
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\6
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Goblinoid
 aliases:
   - Hobgoblin Warlord
 ---

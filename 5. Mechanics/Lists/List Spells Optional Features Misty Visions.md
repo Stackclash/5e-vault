@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/misty-visions
+  - spell\List\Optfeature\Misty Visions
 aliases:
   - Spells for Misty Visions
 ---

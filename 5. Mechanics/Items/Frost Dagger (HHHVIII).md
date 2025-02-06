@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/rarity/rare
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Rarity\Rare
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Frost Dagger
 one-hand-damage: 1d4 C
-range: 20/60
+range: 20\60
 ---
 # Frost Dagger
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), rare*  

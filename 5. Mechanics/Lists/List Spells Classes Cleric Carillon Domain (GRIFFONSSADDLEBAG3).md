@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/carillon-domain
+  - spell\List\Subclass\Carillon Domain
 aliases:
   - Spells for Carillon Domain
 ---

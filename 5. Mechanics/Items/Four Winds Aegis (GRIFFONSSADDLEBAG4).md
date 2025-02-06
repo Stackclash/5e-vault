@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/rarity/rare
-  - item/shield/
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Rarity\Rare
+  - item\Shield
 aliases:
   - Four Winds Aegis
 armorClass: 2

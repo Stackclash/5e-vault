@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/magi-zoologist
+  - spell\List\Subclass\Magi Zoologist
 aliases:
   - Spells for Magi-Zoologist
 ---

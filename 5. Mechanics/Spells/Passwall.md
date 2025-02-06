@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/transmutation
-  - spell/subclass/armorer
-  - spell/subclass/carillon-domain
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/labyrinth-domain
-  - spell/subclass/oath-of-the-open-road
-  - spell/subclass/travel-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Transmutation
+  - spell\Subclass\Armorer
+  - spell\Subclass\Carillon Domain
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Labyrinth Domain
+  - spell\Subclass\Oath Of The Open Road
+  - spell\Subclass\Travel Domain
 level: 5th-level
 range: false
 school: Transmutation

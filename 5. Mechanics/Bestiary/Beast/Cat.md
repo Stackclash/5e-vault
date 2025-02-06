@@ -6,14 +6,14 @@ cr: 0
 environments: 'grassland, forest, urban, desert'
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/urban
-  - monster/size/tiny
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Urban
+  - monster\Size\Tiny
+  - monster\Type\Beast
 aliases:
   - Cat
 ---

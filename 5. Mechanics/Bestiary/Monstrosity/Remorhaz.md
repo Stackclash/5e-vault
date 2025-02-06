@@ -6,11 +6,11 @@ cr: 11
 environments: arctic
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/11
-  - monster/environment/arctic
-  - monster/size/huge
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\11
+  - monster\Environment\Arctic
+  - monster\Size\Huge
+  - monster\Type\Monstrosity
 aliases:
   - Remorhaz
 ---

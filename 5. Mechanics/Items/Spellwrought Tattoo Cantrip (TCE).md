@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tce
-  - item/rarity/common
-  - item/wondrous/tattoo
+  - 5. Mechanics\Src\5e\(TCE)
+  - item\Rarity\Common
+  - item\Wondrous\Tattoo
 aliases:
   - Spellwrought Tattoo (Cantrip)
 ---

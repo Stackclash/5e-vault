@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/armor/heavy
-  - item/armor/medium
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Armor\Heavy
+  - item\Armor\Medium
+  - item\Rarity\Uncommon
+  - item\Tier\Major
+  - item\Wondrous\Generic Variant
 aliases:
   - Fey-Touched Armor
   - Fey-Touched Bone Plate Armor

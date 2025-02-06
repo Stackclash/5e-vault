@@ -6,11 +6,11 @@ cr: 5
 environments: forest
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/forest
-  - monster/size/large
-  - monster/type/celestial
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\5
+  - monster\Environment\Forest
+  - monster\Size\Large
+  - monster\Type\Celesti(AL)
 aliases:
   - Unicorn
 ---

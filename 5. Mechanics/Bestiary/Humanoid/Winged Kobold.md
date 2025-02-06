@@ -2,23 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'forest, swamp, hill, urban, desert, coastal, arctic, mountain, underdark'
 size: Small
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/arctic
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/small
-  - monster/type/humanoid/kobold
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 4
+  - monster\Environment\Arctic
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Small
+  - monster\Type\Humanoid\Kobold
 aliases:
   - Winged Kobold
 ---

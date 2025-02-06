@@ -6,10 +6,10 @@ cr: 8
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/veor
-  - monster/cr/8
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(VEOR)
+  - monster\Cr\8
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Star Angler
 ---

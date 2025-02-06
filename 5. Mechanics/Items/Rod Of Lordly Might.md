@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/tier/major
-  - item/weapon/melee
-  - item/wondrous/rod
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Tier\Major
+  - item\Weapon\Melee
+  - item\Wondrous\Rod
 aliases:
   - Rod of Lordly Might
 ---

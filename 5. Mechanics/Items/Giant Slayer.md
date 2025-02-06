@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/melee
-  - item/weapon/simple
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
+  - item\Weapon\Simple
+  - item\Wondrous\Generic Variant
 aliases:
   - Giant Slayer
   - Giant Slayer Battleaxe

@@ -6,13 +6,13 @@ cr: 2
 environments: 'desert, forest, underdark'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/2
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\2
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Yuan-ti Broodguard
 ---

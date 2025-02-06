@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/level/5th-level
-  - spell/ritual
-  - spell/school/divination
-  - spell/subclass/divine-soul
-  - spell/subclass/oath-of-devotion
-  - spell/subclass/oath-of-glory
-  - spell/subclass/order-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Level\5th Level
+  - spell\Ritu(AL)
+  - spell\School\Divination
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Oath Of Devotion
+  - spell\Subclass\Oath Of Glory
+  - spell\Subclass\Order Domain
 level: 5th-level
 range: true
 school: Divination

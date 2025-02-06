@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/mtf
-  - item/gear/
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(MTF)
+  - item\Gear
+  - item\Rarity\None
 aliases:
   - Elven Trinket
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subrace/tiefling-mephistopheles
+  - spell\List\Subrace\Tiefling Mephistopheles
 aliases:
   - Spells for Tiefling (Mephistopheles)
 ---

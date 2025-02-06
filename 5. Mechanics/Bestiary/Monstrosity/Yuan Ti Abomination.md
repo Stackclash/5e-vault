@@ -6,14 +6,14 @@ cr: 7
 environments: 'forest, swamp, desert'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/7
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/size/large
-  - monster/type/monstrosity/shapechanger
-  - monster/type/monstrosity/yuan-ti
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\7
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Size\Large
+  - monster\Type\Monstrosity\Shapechanger
+  - monster\Type\Monstrosity\Yuan Ti
 aliases:
   - Yuan-ti Abomination
 ---

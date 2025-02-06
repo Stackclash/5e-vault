@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/weapon/ranged
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Uncommon
+  - item\Tier\Major
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
 aliases:
   - Chromacloth
 one-hand-damage: 1d4 B
-range: 30/120
+range: 30\120
 ---
 # Chromacloth
 *Weapon ([[5. Mechanics/Items/Sling.md\|sling]]), major, uncommon*  

@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/uncommon
-  - item/tier/minor
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Uncommon
+  - item\Tier\Minor
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Telescoping Bladelance
 one-hand-damage: 1d12 P

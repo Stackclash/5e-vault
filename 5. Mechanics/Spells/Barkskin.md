@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/level/2nd-level
-  - spell/school/transmutation
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/hedge-mage
-  - spell/subclass/nature-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Level\2nd Level
+  - spell\School\Transmutation
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Hedge Mage
+  - spell\Subclass\Nature Domain
 level: 2nd-level
 range: false
 school: Transmutation

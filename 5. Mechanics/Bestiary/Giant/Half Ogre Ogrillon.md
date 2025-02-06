@@ -6,17 +6,17 @@ cr: 1
 environments: 'underdark, mountain, forest, hill, urban, desert, arctic'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/arctic
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1
+  - monster\Environment\Arctic
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Large
+  - monster\Type\Giant
 aliases:
   - Half-Ogre (Ogrillon)
 ---

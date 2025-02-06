@@ -6,13 +6,13 @@ cr: 10
 environments: 'swamp, underdark, urban'
 size: Huge
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/10
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/huge
-  - monster/type/ooze
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\10
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Huge
+  - monster\Type\Ooze
 aliases:
   - Elder Oblex
 ---

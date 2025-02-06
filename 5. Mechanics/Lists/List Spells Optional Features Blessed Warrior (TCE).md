@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/blessed-warrior
+  - spell\List\Optfeature\Blessed Warrior
 aliases:
   - Spells for Blessed Warrior
 ---

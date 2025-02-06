@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/feat/telekinetic
+  - spell\List\Feat\Telekinetic
 aliases:
   - Spells for Telekinetic
 ---

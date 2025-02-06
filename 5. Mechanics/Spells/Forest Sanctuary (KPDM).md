@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/druid
-  - spell/level/9th-level
-  - spell/school/abjuration
-  - spell/subclass/circle-of-oaks
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Level\9th Level
+  - spell\School\Abjuration
+  - spell\Subclass\Circle Of Oaks
 level: 9th-level
 range: false
 school: Abjuration

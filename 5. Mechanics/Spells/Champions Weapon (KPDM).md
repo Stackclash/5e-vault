@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/paladin
-  - spell/level/2nd-level
-  - spell/school/conjuration
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Paladin
+  - spell\Level\2nd Level
+  - spell\School\Conjuration
 level: 2nd-level
 range: false
 school: Conjuration

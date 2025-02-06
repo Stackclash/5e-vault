@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/otherworldly-leap
+  - spell\List\Optfeature\Otherworldly Leap
 aliases:
   - Spells for Otherworldly Leap
 ---

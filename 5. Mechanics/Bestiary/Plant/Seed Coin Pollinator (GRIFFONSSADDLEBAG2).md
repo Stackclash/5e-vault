@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - monster/cr/1-8
-  - monster/size/medium
-  - monster/type/plant
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - monster\Cr\1 8
+  - monster\Size\Medium
+  - monster\Type\Plant
 aliases:
   - Seed Coin Pollinator
 ---

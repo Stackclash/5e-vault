@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/halfling
-  - domain/life
-  - domain/peace
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Halfling
+  - domain\Life
+  - domain\Peace
 aliases:
   - Cyrrollalee
 ---

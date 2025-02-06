@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/vgm
-  - monster/legendary-group
+  - 5. Mechanics\Src\5e\(VGM)
+  - monster\Legendary Group
 aliases:
   - Elder Brain
 ---

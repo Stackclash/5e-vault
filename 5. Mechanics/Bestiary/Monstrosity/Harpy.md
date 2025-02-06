@@ -6,14 +6,14 @@ cr: 1
 environments: 'mountain, forest, hill, coastal'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/coastal
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Harpy
 ---

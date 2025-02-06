@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/the-valiant
+  - spell\List\Subclass\The Valiant
 aliases:
   - Spells for The Valiant
 ---

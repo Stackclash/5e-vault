@@ -6,11 +6,11 @@ cr: 21
 environments: hill
 size: Gargantuan
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/21
-  - monster/environment/hill
-  - monster/size/gargantuan
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\21
+  - monster\Environment\Hill
+  - monster\Size\Gargantuan
+  - monster\Type\Dragon
 aliases:
   - Ancient Copper Dragon
 ---

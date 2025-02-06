@@ -6,11 +6,11 @@ cr: 2
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/cos
-  - monster/cr/2
-  - monster/size/small
-  - monster/type/humanoid/human
-  - monster/type/humanoid/shapechanger
+  - 5. Mechanics\Src\5e\(COS)
+  - monster\Cr\2
+  - monster\Size\Small
+  - monster\Type\Humanoid\Human
+  - monster\Type\Humanoid\Shapechanger
 aliases:
   - Young Wereraven
 ---

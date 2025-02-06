@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/school/abjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subclass/fey-soul
-  - spell/subclass/oath-of-redemption
-  - spell/subclass/oath-of-the-watchers
-  - spell/subclass/prophecy-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\School\Abjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Fey Soul
+  - spell\Subclass\Oath Of Redemption
+  - spell\Subclass\Oath Of The Watchers
+  - spell\Subclass\Prophecy Domain
 level: 3rd-level
 range: false
 school: Abjuration

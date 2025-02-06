@@ -2,25 +2,25 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/ranger
-  - spell/class/wizard
-  - spell/feat/svirfneblin-magic
-  - spell/level/3rd-level
-  - spell/race/deep-gnome
-  - spell/race/gnome-deep-dmg
-  - spell/school/abjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/cat-domain
-  - spell/subclass/circle-of-owls
-  - spell/subclass/darkness-domain
-  - spell/subclass/eldritch-knight
-  - spell/subclass/knowledge-domain
-  - spell/subclass/labyrinth-domain
-  - spell/subclass/oath-of-the-watchers
-  - spell/subclass/the-many
-  - spell/subclass/wealth-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Ranger
+  - spell\Class\Wizard
+  - spell\Feat\Svirfneblin Magic
+  - spell\Level\3rd Level
+  - spell\Race\Deep Gnome
+  - spell\Race\Gnome Deep (DMG)
+  - spell\School\Abjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Cat Domain
+  - spell\Subclass\Circle Of Owls
+  - spell\Subclass\Darkness Domain
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Knowledge Domain
+  - spell\Subclass\Labyrinth Domain
+  - spell\Subclass\Oath Of The Watchers
+  - spell\Subclass\The Many
+  - spell\Subclass\Wealth Domain
 level: 3rd-level
 range: false
 school: Abjuration

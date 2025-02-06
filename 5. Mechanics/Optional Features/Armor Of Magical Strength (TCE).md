@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/tce
-  - optional-feature/ai
+  - 5. Mechanics\Src\5e\(TCE)
+  - optional Feature\(AI)
 aliases:
   - Armor of Magical Strength
 ---

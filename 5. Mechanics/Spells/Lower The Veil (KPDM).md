@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/wizard
-  - spell/level/8th-level
-  - spell/school/divination
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Wizard
+  - spell\Level\8th Level
+  - spell\School\Divination
 level: 8th-level
 range: false
 school: Divination

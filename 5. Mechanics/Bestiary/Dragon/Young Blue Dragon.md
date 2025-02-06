@@ -6,12 +6,12 @@ cr: 9
 environments: 'desert, coastal'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/9
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/size/large
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\9
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Size\Large
+  - monster\Type\Dragon
 aliases:
   - Young Blue Dragon
 ---

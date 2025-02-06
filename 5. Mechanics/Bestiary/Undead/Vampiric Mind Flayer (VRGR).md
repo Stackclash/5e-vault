@@ -6,10 +6,10 @@ cr: 5
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/5
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\5
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Vampiric Mind Flayer
 ---

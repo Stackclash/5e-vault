@@ -6,14 +6,14 @@ cr: 13
 environments: 'coastal, swamp, underdark, underwater'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/13
-  - monster/environment/coastal
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/underwater
-  - monster/size/large
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\13
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Environment\Underwater
+  - monster\Size\Large
+  - monster\Type\Fiend\Demon
 aliases:
   - Wastrilith
 ---

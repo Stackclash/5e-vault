@@ -6,10 +6,10 @@ cr: 16
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/16
-  - monster/size/huge
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\16
+  - monster\Size\Huge
+  - monster\Type\Dragon
 aliases:
   - Adult Amethyst Dragon
 ---

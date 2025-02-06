@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/oath-of-thunder
+  - spell\List\Subclass\Oath Of Thunder
 aliases:
   - Spells for Oath of Thunder
 ---

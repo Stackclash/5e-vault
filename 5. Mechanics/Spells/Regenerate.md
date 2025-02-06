@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/level/7th-level
-  - spell/school/transmutation
-  - spell/subclass/divine-soul
-  - spell/subclass/hedge-mage
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Level\7th Level
+  - spell\School\Transmutation
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Hedge Mage
 level: 7th-level
 range: false
 school: Transmutation

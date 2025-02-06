@@ -2,26 +2,26 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/optfeature/clench-of-the-north-wind
-  - spell/school/enchantment
-  - spell/subclass/arcane-trickster
-  - spell/subclass/chain-domain
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/oath-of-conquest
-  - spell/subclass/oath-of-redemption
-  - spell/subclass/oath-of-the-spelldrinker
-  - spell/subclass/oath-of-vengeance
-  - spell/subclass/order-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\Optfeature\Clench Of The North Wind
+  - spell\School\Enchantment
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Chain Domain
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Oath Of Conquest
+  - spell\Subclass\Oath Of Redemption
+  - spell\Subclass\Oath Of The Spelldrinker
+  - spell\Subclass\Oath Of Vengeance
+  - spell\Subclass\Order Domain
 level: 2nd-level
 range: false
 school: Enchantment

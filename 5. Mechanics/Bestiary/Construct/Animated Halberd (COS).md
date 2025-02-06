@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/cos
-  - monster/cr/1-4
-  - monster/size/small
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(COS)
+  - monster\Cr\1 4
+  - monster\Size\Small
+  - monster\Type\Construct
 aliases:
   - Animated Halberd
 ---

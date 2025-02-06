@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/artifact
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Attunement\Required
+  - item\Rarity\Artifact
 aliases:
   - Orb of Dragonkind
 ---

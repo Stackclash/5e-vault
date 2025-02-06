@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - subclass/druid/oaks
+  - 5. Mechanics\Src\5e\(KPDM)
+  - subclass\Druid\Oaks
 aliases:
   - Circle of Oaks
 ---

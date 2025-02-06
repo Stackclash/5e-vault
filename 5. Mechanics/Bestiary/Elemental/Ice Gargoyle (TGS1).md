@@ -6,12 +6,12 @@ cr: 3
 environments: 'arctic, everglacier'
 size: Medium
 tags:
-  - compendium/src/5e/tgs1
-  - monster/cr/3
-  - monster/environment/arctic
-  - monster/environment/everglacier
-  - monster/size/medium
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(TGS1)
+  - monster\Cr\3
+  - monster\Environment\Arctic
+  - monster\Environment\Everglacier
+  - monster\Size\Medium
+  - monster\Type\Element(AL)
 aliases:
   - Ice Gargoyle
 ---

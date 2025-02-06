@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/rarity/uncommon
-  - item/wondrous/scroll
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Rarity\Uncommon
+  - item\Wondrous\Scroll
 aliases:
   - Scroll of Scripts
 ---

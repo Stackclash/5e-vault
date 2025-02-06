@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: forest
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/forest
-  - monster/size/tiny
-  - monster/type/fey
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 4
+  - monster\Environment\Forest
+  - monster\Size\Tiny
+  - monster\Type\Fey
 aliases:
   - Pixie
 ---

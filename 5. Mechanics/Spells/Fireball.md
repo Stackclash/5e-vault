@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/optfeature/flames-of-the-phoenix
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/artillerist
-  - spell/subclass/eldritch-knight
-  - spell/subclass/light-domain
-  - spell/subclass/the-fiend
-  - spell/subclass/the-genie
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\Optfeature\Flames Of The Phoenix
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Artillerist
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Light Domain
+  - spell\Subclass\The Fiend
+  - spell\Subclass\The Genie
 level: 3rd-level
 range: false
 school: Evocation

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/drow
-  - domain/arcana
-  - domain/death
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Drow
+  - domain\Arcana
+  - domain\Death
 aliases:
   - Kiaransalee
 ---

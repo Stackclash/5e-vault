@@ -2,26 +2,26 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/paladin
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/feat/drow-high-magic
-  - spell/level/3rd-level
-  - spell/school/abjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/clockwork-soul
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/fey-wanderer
-  - spell/subclass/oath-of-devotion
-  - spell/subclass/oath-of-the-spelldrinker
-  - spell/subclass/trickery-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Paladin
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Feat\Drow High Magic
+  - spell\Level\3rd Level
+  - spell\School\Abjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Clockwork Soul
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Fey Wanderer
+  - spell\Subclass\Oath Of Devotion
+  - spell\Subclass\Oath Of The Spelldrinker
+  - spell\Subclass\Trickery Domain
 level: 3rd-level
 range: false
 school: Abjuration

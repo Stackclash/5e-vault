@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/age/futuristic
-  - item/rarity/none
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Age\Futuristic
+  - item\Rarity\None
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Laser Pistol
 one-hand-damage: 3d6 R
-range: 40/120
+range: 40\120
 ---
 # Laser Pistol
 *Weapon*  

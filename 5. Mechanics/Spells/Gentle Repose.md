@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/paladin
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/ritual
-  - spell/school/necromancy
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-spores
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/grave-domain
-  - spell/subclass/oath-of-legacy
-  - spell/subclass/time-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Paladin
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\Ritu(AL)
+  - spell\School\Necromancy
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of Spores
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Grave Domain
+  - spell\Subclass\Oath Of Legacy
+  - spell\Subclass\Time Domain
 level: 2nd-level
 range: true
 school: Necromancy

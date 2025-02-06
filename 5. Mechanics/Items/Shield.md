@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/rarity/none
-  - item/shield/
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Rarity\None
+  - item\Shield
 aliases:
   - Shield
 cost: 1000

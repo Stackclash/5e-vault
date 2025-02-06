@@ -6,10 +6,10 @@ cr: 2
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/kpdm
-  - monster/cr/2
-  - monster/size/large
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(KPDM)
+  - monster\Cr\2
+  - monster\Size\Large
+  - monster\Type\Construct
 aliases:
   - Nisruel's Coachfly
 ---

@@ -6,13 +6,13 @@ cr: 1
 environments: 'underdark, grassland, forest'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/goblinoid
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Goblinoid
 aliases:
   - Bugbear
 ---

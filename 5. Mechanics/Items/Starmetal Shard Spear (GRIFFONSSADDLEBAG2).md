@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Starmetal Shard Spear
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 20/60
+range: 20\60
 ---
 # Starmetal Shard Spear
 *Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), major, rare (requires attunement)*  

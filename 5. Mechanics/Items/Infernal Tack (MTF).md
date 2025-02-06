@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/mtf
-  - item/attunement/required
-  - item/rarity/legendary
+  - 5. Mechanics\Src\5e\(MTF)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
 aliases:
   - Infernal Tack
 ---

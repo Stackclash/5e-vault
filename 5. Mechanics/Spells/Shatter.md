@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/optfeature/gong-of-the-summit
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/armorer
-  - spell/subclass/artillerist
-  - spell/subclass/carillon-domain
-  - spell/subclass/eldritch-knight
-  - spell/subclass/oath-of-the-annihilator
-  - spell/subclass/tempest-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\Optfeature\Gong Of The Summit
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Armorer
+  - spell\Subclass\Artillerist
+  - spell\Subclass\Carillon Domain
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Oath Of The Annihila(TOR)
+  - spell\Subclass\Tempest Domain
 level: 2nd-level
 range: false
 school: Evocation

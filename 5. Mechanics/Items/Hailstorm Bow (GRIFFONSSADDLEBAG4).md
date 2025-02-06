@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Hailstorm Bow
 one-hand-damage: 1d8 P
-range: 150/600
+range: 150\600
 ---
 # Hailstorm Bow
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), legendary (requires attunement)*  

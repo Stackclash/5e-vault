@@ -6,10 +6,10 @@ cr: 21
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/21
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\21
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Lich
 ---

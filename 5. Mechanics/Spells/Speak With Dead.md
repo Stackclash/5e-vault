@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/optfeature/whispers-of-the-grave
-  - spell/school/necromancy
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-spirits
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/gravetender
-  - spell/subclass/knowledge-domain
-  - spell/subclass/second-soul
-  - spell/subclass/the-undead
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\Optfeature\Whispers Of The Grave
+  - spell\School\Necromancy
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of The Spirits
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Gravetender
+  - spell\Subclass\Knowledge Domain
+  - spell\Subclass\Second Soul
+  - spell\Subclass\The Undead
 level: 3rd-level
 range: false
 school: Necromancy

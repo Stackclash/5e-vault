@@ -2,22 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/school/illusion
-  - spell/subclass/arcane-trickster
-  - spell/subclass/armorer
-  - spell/subclass/beer-domain
-  - spell/subclass/circle-of-roses
-  - spell/subclass/circle-of-the-eclipse
-  - spell/subclass/eldritch-knight
-  - spell/subclass/lust-domain
-  - spell/subclass/moon-domain
-  - spell/subclass/oath-of-redemption
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\School\Illusion
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Armorer
+  - spell\Subclass\Beer Domain
+  - spell\Subclass\Circle Of Roses
+  - spell\Subclass\Circle Of The Eclipse
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Lust Domain
+  - spell\Subclass\Moon Domain
+  - spell\Subclass\Oath Of Redemption
 level: 3rd-level
 range: false
 school: Illusion

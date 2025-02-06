@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subrace/tiefling-asmodeus
+  - spell\List\Subrace\Tiefling Asmode(US)
 aliases:
   - Spells for Tiefling (Asmodeus)
 ---

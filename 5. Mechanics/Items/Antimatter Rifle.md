@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/age/futuristic
-  - item/rarity/none
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Age\Futuristic
+  - item\Rarity\None
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Antimatter Rifle
 one-hand-damage: 6d8 N
-range: 120/360
+range: 120\360
 ---
 # Antimatter Rifle
 *Weapon*  

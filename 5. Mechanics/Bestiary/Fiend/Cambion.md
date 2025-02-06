@@ -6,11 +6,11 @@ cr: 5
 environments: urban
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/fiend
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\5
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Fiend
 aliases:
   - Cambion
 ---

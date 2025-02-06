@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/6th-level
-  - spell/ritual
-  - spell/school/necromancy
-  - spell/subclass/divine-soul
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\6th Level
+  - spell\Ritu(AL)
+  - spell\School\Necromancy
+  - spell\Subclass\Divine Soul
 level: 6th-level
 range: true
 school: Necromancy

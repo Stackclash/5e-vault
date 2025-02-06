@@ -6,15 +6,15 @@ cr: 13
 environments: 'arctic, forest, hill, mountain, underdark'
 size: Huge
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/13
-  - monster/environment/arctic
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/huge
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\13
+  - monster\Environment\Arctic
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Huge
+  - monster\Type\Giant
 aliases:
   - Dire Troll
 ---

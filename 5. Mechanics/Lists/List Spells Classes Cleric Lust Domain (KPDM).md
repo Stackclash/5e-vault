@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/lust-domain
+  - spell\List\Subclass\Lust Domain
 aliases:
   - Spells for Lust Domain
 ---

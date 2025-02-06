@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/halfling
-  - domain/nature
-  - domain/tempest
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Halfling
+  - domain\Nature
+  - domain\Tempest
 aliases:
   - Sheela Peryroyl
 ---

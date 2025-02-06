@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/warrior-sidekick
-  - compendium/src/5e/tce
+  - class\Warrior Sidekick
+  - 5. Mechanics\Src\5e\(TCE)
 aliases:
   - Warrior Sidekick
 ---

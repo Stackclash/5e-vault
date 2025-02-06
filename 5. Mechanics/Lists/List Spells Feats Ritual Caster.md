@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/feat/ritual-caster
+  - spell\List\Feat\Ritual Caster
 aliases:
   - Spells for Ritual Caster
 ---

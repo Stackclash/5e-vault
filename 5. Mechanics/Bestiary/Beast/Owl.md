@@ -6,12 +6,12 @@ cr: 0
 environments: 'forest, arctic'
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/arctic
-  - monster/environment/forest
-  - monster/size/tiny
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Environment\Arctic
+  - monster\Environment\Forest
+  - monster\Size\Tiny
+  - monster\Type\Beast
 aliases:
   - Owl
 ---

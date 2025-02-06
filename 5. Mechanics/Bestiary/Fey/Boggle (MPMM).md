@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: 'forest, hill, underdark, urban'
 size: Small
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-8
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/small
-  - monster/type/fey
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 8
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Small
+  - monster\Type\Fey
 aliases:
   - Boggle
 ---

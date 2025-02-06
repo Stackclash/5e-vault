@@ -6,13 +6,13 @@ cr: 2
 environments: 'grassland, forest, hill'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/size/large
-  - monster/type/celestial
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Size\Large
+  - monster\Type\Celesti(AL)
 aliases:
   - Pegasus
 ---

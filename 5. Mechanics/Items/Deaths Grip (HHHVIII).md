@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/rarity/very-rare
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Rarity\Very Rare
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Death's Grip
 one-hand-damage: 1d10 P

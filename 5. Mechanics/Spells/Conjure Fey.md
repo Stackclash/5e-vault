@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/warlock
-  - spell/level/6th-level
-  - spell/school/conjuration
-  - spell/subclass/hedge-mage
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Warlock
+  - spell\Level\6th Level
+  - spell\School\Conjuration
+  - spell\Subclass\Hedge Mage
 level: 6th-level
 range: false
 school: Conjuration

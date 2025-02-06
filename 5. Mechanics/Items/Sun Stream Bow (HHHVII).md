@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/weapon/martial
-  - item/weapon/ranged
-  - item/weapon/simple
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
+  - item\Weapon\Simple
+  - item\Wondrous\Generic Variant
 aliases:
   - Sun Stream Bow
   - Sun Stream Longbow

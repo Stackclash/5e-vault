@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/wizard
-  - spell/level/9th-level
-  - spell/ritual
-  - spell/school/abjuration
-  - spell/subclass/divine-soul
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Wizard
+  - spell\Level\9th Level
+  - spell\Ritu(AL)
+  - spell\School\Abjuration
+  - spell\Subclass\Divine Soul
 level: 9th-level
 range: true
 school: Abjuration

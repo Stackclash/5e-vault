@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/far-scribe
+  - spell\List\Optfeature\Far Scribe
 aliases:
   - Spells for Far Scribe
 ---

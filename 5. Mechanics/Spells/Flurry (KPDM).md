@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/class/warlock
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/transmutation
-  - spell/subclass/divine-soul
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Class\Warlock
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Transmutation
+  - spell\Subclass\Divine Soul
 level: 1st-level
 range: false
 school: Transmutation

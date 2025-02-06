@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Galvanic Steelsnare
-range: 5/15
+range: 5\15
 ---
 # Galvanic Steelsnare
 *Weapon ([[5. Mechanics/Items/Net.md\|net]]), major, rare*  

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/hhhvii
+  - 5. Mechanics\Src\5e\(HHHVII)
 aliases:
   - Firenewt Warlock
 ---

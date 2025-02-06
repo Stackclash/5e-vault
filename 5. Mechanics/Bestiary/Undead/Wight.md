@@ -6,14 +6,14 @@ cr: 3
 environments: 'underdark, swamp, urban, desert'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/desert
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\3
+  - monster\Environment\Desert
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Wight
 ---

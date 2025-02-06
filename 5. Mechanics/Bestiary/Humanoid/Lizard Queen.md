@@ -6,12 +6,12 @@ cr: 4
 environments: 'forest, swamp'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/size/medium
-  - monster/type/humanoid/lizardfolk
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\4
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Lizardfo(LK)
 aliases:
   - Lizard Queen
 ---

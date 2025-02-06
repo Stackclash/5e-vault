@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/ride-the-wind
+  - spell\List\Optfeature\Ride The Wind
 aliases:
   - Spells for Ride the Wind
 ---

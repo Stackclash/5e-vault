@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - domain/life
-  - subclass/cleric/life
+  - 5. Mechanics\Src\5e\(PHB)
+  - domain\Life
+  - subclass\Cleric\Life
 aliases:
   - Life Domain
 ---

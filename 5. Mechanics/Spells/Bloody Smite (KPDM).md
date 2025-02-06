@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/class/wizard
-  - spell/feat/shadow-touched
-  - spell/level/1st-level
-  - spell/school/necromancy
-  - spell/subclass/arcane-trickster
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Class\Wizard
+  - spell\Feat\Shadow Touched
+  - spell\Level\1st Level
+  - spell\School\Necromancy
+  - spell\Subclass\Arcane Trickster
 level: 1st-level
 range: false
 school: Necromancy

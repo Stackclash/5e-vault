@@ -6,14 +6,14 @@ cr: 8
 environments: 'coastal, forest, grassland, hill'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/8
-  - monster/environment/coastal
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/size/large
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\8
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Size\Large
+  - monster\Type\Fiend\Demon
 aliases:
   - Shoosuva
 ---

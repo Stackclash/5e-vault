@@ -2,27 +2,27 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/optfeature/eternal-mountain-defense
-  - spell/school/abjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/eldritch-knight
-  - spell/subclass/mountain-domain
-  - spell/subclass/oath-of-conquest
-  - spell/subclass/oath-of-redemption
-  - spell/subclass/oath-of-the-ancients
-  - spell/subclass/oath-of-thunder
-  - spell/subclass/the-lithic
-  - spell/subclass/the-shapechanger
-  - spell/subclass/war-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\Optfeature\Eternal Mountain Defense
+  - spell\School\Abjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Mountain Domain
+  - spell\Subclass\Oath Of Conquest
+  - spell\Subclass\Oath Of Redemption
+  - spell\Subclass\Oath Of The Ancients
+  - spell\Subclass\Oath Of Thunder
+  - spell\Subclass\The Lithic
+  - spell\Subclass\The Shapechanger
+  - spell\Subclass\War Domain
 level: 4th-level
 range: false
 school: Abjuration

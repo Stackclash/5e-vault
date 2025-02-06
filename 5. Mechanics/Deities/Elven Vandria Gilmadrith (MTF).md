@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/elven
-  - domain/grave
-  - domain/war
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Elven
+  - domain\Grave
+  - domain\War
 aliases:
   - Vandria Gilmadrith
 ---

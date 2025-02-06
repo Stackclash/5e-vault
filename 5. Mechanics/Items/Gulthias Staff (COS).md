@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/cos
-  - item/attunement/required
-  - item/rarity/rare
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(COS)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Weapon\Simple
 aliases:
   - Gulthias Staff
 one-hand-damage: 1d6 B

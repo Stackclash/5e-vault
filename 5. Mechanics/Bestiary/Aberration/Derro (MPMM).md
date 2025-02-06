@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'mountain, underdark'
 size: Small
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1-4
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/small
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1 4
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Small
+  - monster\Type\Aberration
 aliases:
   - Derro
 ---

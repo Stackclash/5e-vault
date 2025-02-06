@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/school/enchantment
+  - spell\List\School\Enchantment
 aliases:
   - Enchantment Spells
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/the-undead
+  - spell\List\Subclass\The Undead
 aliases:
   - Spells for The Undead
 ---

@@ -6,13 +6,13 @@ cr: 4
 environments: 'forest, grassland, hill'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/4
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/size/large
-  - monster/type/fey
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\4
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Size\Large
+  - monster\Type\Fey
 aliases:
   - Yeth Hound
 ---

@@ -6,10 +6,10 @@ cr: 4
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/4
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\4
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Strigoi
 ---

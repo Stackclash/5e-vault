@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/nature-domain
+  - spell\List\Subclass\Nature Domain
 aliases:
   - Spells for Nature Domain
 ---

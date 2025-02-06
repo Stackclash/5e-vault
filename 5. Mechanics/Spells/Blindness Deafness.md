@@ -2,24 +2,24 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/svirfneblin-magic
-  - spell/level/2nd-level
-  - spell/race/gnome-deep-dmg
-  - spell/school/necromancy
-  - spell/subclass/apocalypse-domain
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-spores
-  - spell/subclass/death-domain-dmg
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/the-fiend
-  - spell/subclass/the-sibyl
-  - spell/subclass/the-undead
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Svirfneblin Magic
+  - spell\Level\2nd Level
+  - spell\Race\Gnome Deep (DMG)
+  - spell\School\Necromancy
+  - spell\Subclass\Apocalypse Domain
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of Spores
+  - spell\Subclass\Death Domain (DMG)
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\The Fiend
+  - spell\Subclass\The Sibyl
+  - spell\Subclass\The Undead
 level: 2nd-level
 range: false
 school: Necromancy
@@ -27,7 +27,7 @@ time: 1 action
 duration: 1 minute
 components: V
 aliases:
-  - Blindness/Deafness
+  - Blindness\Deafness
 ---
 # Blindness/Deafness
 *2nd-level, Necromancy*  

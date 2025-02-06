@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/veor
-  - item/rarity/very-rare
+  - 5. Mechanics\Src\5e\(VEOR)
+  - item\Rarity\Very Rare
 aliases:
   - Chime of Exile
 ---

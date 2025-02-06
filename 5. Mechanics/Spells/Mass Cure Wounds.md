@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/level/5th-level
-  - spell/school/evocation
-  - spell/subclass/battle-smith
-  - spell/subclass/circle-of-wildfire
-  - spell/subclass/divine-soul
-  - spell/subclass/life-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Level\5th Level
+  - spell\School\Evocation
+  - spell\Subclass\Battle Smith
+  - spell\Subclass\Circle Of Wildfire
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Life Domain
 level: 5th-level
 range: false
 school: Evocation

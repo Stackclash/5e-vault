@@ -6,12 +6,12 @@ cr: 12
 environments: 'mountain, underdark'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/12
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/dwarf
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\12
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Dwarf
 aliases:
   - Duergar Despot
 ---

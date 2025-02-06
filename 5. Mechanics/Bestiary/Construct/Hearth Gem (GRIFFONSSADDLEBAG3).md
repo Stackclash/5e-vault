@@ -6,10 +6,10 @@ cr: 14
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/14
-  - monster/size/tiny
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\14
+  - monster\Size\Tiny
+  - monster\Type\Construct
 aliases:
   - Hearth Gem
 ---

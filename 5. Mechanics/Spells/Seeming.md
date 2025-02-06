@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/illusion
-  - spell/subclass/gloom-stalker
-  - spell/subclass/the-archfey
-  - spell/subclass/the-genie
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Illusion
+  - spell\Subclass\Gloom Stalker
+  - spell\Subclass\The Archfey
+  - spell\Subclass\The Genie
 level: 5th-level
 range: false
 school: Illusion

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/greyhawk
-  - domain/knowledge
-  - domain/twilight
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Greyhawk
+  - domain\Knowledge
+  - domain\Twilight
 aliases:
   - Celestian
 ---

@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Snowstorm Blowgun
 one-hand-damage: 1 P
-range: 25/100
+range: 25\100
 ---
 # Snowstorm Blowgun
 *Weapon ([[5. Mechanics/Items/Blowgun.md\|blowgun]]), major, rare*  

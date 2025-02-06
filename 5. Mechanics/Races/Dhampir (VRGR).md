@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/vrgr
-  - race/dhampir
+  - 5. Mechanics\Src\5e\(VRGR)
+  - race\Dhampir
 aliases:
   - Dhampir
 ---

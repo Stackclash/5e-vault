@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/saf
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(SAF)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Weapon\Melee
 aliases:
   - High Templar's Glaive
 one-hand-damage: 1d10 S

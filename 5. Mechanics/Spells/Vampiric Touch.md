@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/3rd-level
-  - spell/school/necromancy
-  - spell/subclass/arcane-trickster
-  - spell/subclass/death-domain-dmg
-  - spell/subclass/eldritch-knight
-  - spell/subclass/grave-domain
-  - spell/subclass/hunger-domain
-  - spell/subclass/second-soul
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\3rd Level
+  - spell\School\Necromancy
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Death Domain (DMG)
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Grave Domain
+  - spell\Subclass\Hunger Domain
+  - spell\Subclass\Second Soul
 level: 3rd-level
 range: false
 school: Necromancy

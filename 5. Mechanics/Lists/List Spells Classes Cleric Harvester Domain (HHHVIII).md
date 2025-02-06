@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/harvester-domain
+  - spell\List\Subclass\Harvester Domain
 aliases:
   - Spells for Harvester Domain
 ---

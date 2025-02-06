@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/feat/magic-initiate
-  - spell/level/cantrip
-  - spell/optfeature/blessed-warrior
-  - spell/optfeature/pact-of-the-tome
-  - spell/school/evocation
-  - spell/subclass/divine-soul
-  - spell/subclass/the-celestial
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Feat\Magic Initiate
+  - spell\Level\Cantrip
+  - spell\Optfeature\Blessed Warrior
+  - spell\Optfeature\Pact Of The Tome
+  - spell\School\Evocation
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\The Celesti(AL)
 level: cantrip
 range: false
 school: Evocation

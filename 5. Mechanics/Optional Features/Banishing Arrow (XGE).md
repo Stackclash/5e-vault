@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/xge
-  - optional-feature/as
+  - 5. Mechanics\Src\5e\(XGE)
+  - optional Feature\As
 aliases:
   - Banishing Arrow
 ---

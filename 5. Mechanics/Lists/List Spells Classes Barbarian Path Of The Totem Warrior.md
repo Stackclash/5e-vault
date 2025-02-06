@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/path-of-the-totem-warrior
+  - spell\List\Subclass\Path Of The Totem Warrior
 aliases:
   - Spells for Path of the Totem Warrior
 ---

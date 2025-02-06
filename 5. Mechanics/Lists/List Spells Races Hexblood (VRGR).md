@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/race/hexblood
+  - spell\List\Race\Hexblood
 aliases:
   - Spells for Hexblood
 ---

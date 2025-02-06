@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-vehicle
 tags:
-  - compendium/src/5e/dmg
-  - vehicle/size/large
-  - vehicle/terrain/sea
-  - vehicle/type/object
+  - 5. Mechanics\Src\5e\(DMG)
+  - vehicle\Size\Large
+  - vehicle\Terrain\Sea
+  - vehicle\Type\Object
 aliases:
   - Apparatus of Kwalish
 ---

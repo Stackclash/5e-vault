@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Gear
+  - item\Rarity\None
 aliases:
   - Caltrops (bag of 20)
 cost: 100

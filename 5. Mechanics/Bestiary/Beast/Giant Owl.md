@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'forest, hill, arctic'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/arctic
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 4
+  - monster\Environment\Arctic
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Giant Owl
 ---

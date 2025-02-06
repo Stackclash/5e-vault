@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/nonhuman
-  - domain/life
-  - domain/twilight
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Nonhuman
+  - domain\Life
+  - domain\Twilight
 aliases:
   - Yondalla
 ---

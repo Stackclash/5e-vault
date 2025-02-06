@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/fey-soul
+  - spell\List\Subclass\Fey Soul
 aliases:
   - Spells for Fey Soul
 ---

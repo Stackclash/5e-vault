@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/wizard
-  - compendium/src/5e/phb
+  - class\Wizard
+  - 5. Mechanics\Src\5e\(PHB)
 aliases:
   - Wizard
 ---

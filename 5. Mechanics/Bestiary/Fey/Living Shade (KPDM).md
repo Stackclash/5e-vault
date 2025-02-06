@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/kpdm
-  - monster/cr/1-4
-  - monster/size/medium
-  - monster/type/fey
+  - 5. Mechanics\Src\5e\(KPDM)
+  - monster\Cr\1 4
+  - monster\Size\Medium
+  - monster\Type\Fey
 aliases:
   - Living Shade
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/feat/drow-high-magic
+  - spell\List\Feat\Drow High Magic
 aliases:
   - Spells for Drow High Magic
 ---

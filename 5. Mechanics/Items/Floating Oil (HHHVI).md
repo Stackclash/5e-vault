@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/gear/oil
-  - item/rarity/uncommon
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Gear\Oil
+  - item\Rarity\Uncommon
 aliases:
   - Floating Oil
 ---

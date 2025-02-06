@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/elven
-  - domain/arcana
-  - domain/forge
-  - domain/knowledge
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Elven
+  - domain\Arcana
+  - domain\Forge
+  - domain\Knowledge
 aliases:
   - Mythrien Sarath
 ---

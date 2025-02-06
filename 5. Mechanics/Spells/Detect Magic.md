@@ -2,32 +2,32 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/paladin
-  - spell/class/ranger
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/artificer-initiate
-  - spell/feat/drow-high-magic
-  - spell/feat/fey-touched
-  - spell/feat/magic-initiate
-  - spell/feat/ritual-caster
-  - spell/level/1st-level
-  - spell/optfeature/book-of-ancient-secrets
-  - spell/optfeature/eldritch-sight
-  - spell/race/firbolg
-  - spell/ritual
-  - spell/school/divination
-  - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
-  - spell/subclass/dragon-domain
-  - spell/subclass/eldritch-knight
-  - spell/subclass/oath-of-the-spelldrinker
-  - spell/subclass/oath-of-the-watchers
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Paladin
+  - spell\Class\Ranger
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Artificer Initiate
+  - spell\Feat\Drow High Magic
+  - spell\Feat\Fey Touched
+  - spell\Feat\Magic Initiate
+  - spell\Feat\Ritual Caster
+  - spell\Level\1st Level
+  - spell\Optfeature\Book Of Ancient Secrets
+  - spell\Optfeature\Eldritch Sight
+  - spell\Race\Firbolg
+  - spell\Ritu(AL)
+  - spell\School\Divination
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Dragon Domain
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Oath Of The Spelldrinker
+  - spell\Subclass\Oath Of The Watchers
 level: 1st-level
 range: true
 school: Divination

@@ -6,10 +6,10 @@ cr: 3
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/tgs1
-  - monster/cr/3
-  - monster/size/large
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(TGS1)
+  - monster\Cr\3
+  - monster\Size\Large
+  - monster\Type\Undead
 aliases:
   - Tendril of Dendallen
 ---

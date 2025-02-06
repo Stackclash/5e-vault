@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-  - compendium/src/5e/tce
-  - object/size/unknown
-  - object/type/unknown
+  - 5. Mechanics\Src\5e\(TCE)
+  - object\Size\Unknown
+  - object\Type\Unknown
 statblock: inline
 aliases:
   - 'Eldritch Cannon, Flamethrower'

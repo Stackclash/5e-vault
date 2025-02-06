@@ -6,11 +6,11 @@ cr: 5
 environments: swamp
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/5
-  - monster/environment/swamp
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\5
+  - monster\Environment\Swamp
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Catoblepas
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/alchemist
+  - spell\List\Subclass\Alchemist
 aliases:
   - Spells for Alchemist
 ---

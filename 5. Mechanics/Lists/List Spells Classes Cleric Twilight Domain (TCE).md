@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/twilight-domain
+  - spell\List\Subclass\Twilight Domain
 aliases:
   - Spells for Twilight Domain
 ---

@@ -6,13 +6,13 @@ cr: 2
 environments: 'urban, swamp, hearth'
 size: Large
 tags:
-  - compendium/src/5e/tgs1
-  - monster/cr/2
-  - monster/environment/hearth
-  - monster/environment/swamp
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(TGS1)
+  - monster\Cr\2
+  - monster\Environment\Hearth
+  - monster\Environment\Swamp
+  - monster\Environment\Urban
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Invisiboar
 ---

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/rarity/rare
-  - item/wondrous/potion
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Rarity\Rare
+  - item\Wondrous\Potion
 aliases:
   - Potion of the Gestalt
 ---

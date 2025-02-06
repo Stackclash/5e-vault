@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/the-shapechanger
+  - spell\List\Subclass\The Shapechanger
 aliases:
   - Spells for The Shapechanger
 ---

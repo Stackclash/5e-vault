@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/tce
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/paladin
-  - spell/level/5th-level
-  - spell/school/conjuration
-  - spell/subclass/divine-soul
+  - 5. Mechanics\Src\5e\(TCE)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Paladin
+  - spell\Level\5th Level
+  - spell\School\Conjuration
+  - spell\Subclass\Divine Soul
 level: 5th-level
 range: false
 school: Conjuration

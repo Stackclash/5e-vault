@@ -6,10 +6,10 @@ cr: null
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/tce
-  - monster/cr/
-  - monster/size/large
-  - monster/type/fiend
+  - 5. Mechanics\Src\5e\(TCE)
+  - monster\Cr
+  - monster\Size\Large
+  - monster\Type\Fiend
 aliases:
   - Fiendish Spirit (Demon)
 ---

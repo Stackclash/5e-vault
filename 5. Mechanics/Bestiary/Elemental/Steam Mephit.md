@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: underwater
 size: Small
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/underwater
-  - monster/size/small
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 4
+  - monster\Environment\Underwater
+  - monster\Size\Small
+  - monster\Type\Element(AL)
 aliases:
   - Steam Mephit
 ---

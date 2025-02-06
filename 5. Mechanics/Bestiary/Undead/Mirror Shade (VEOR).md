@@ -6,10 +6,10 @@ cr: 10
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/veor
-  - monster/cr/10
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(VEOR)
+  - monster\Cr\10
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Mirror Shade
 ---

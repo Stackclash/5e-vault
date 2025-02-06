@@ -6,10 +6,10 @@ cr: 23
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/23
-  - monster/size/huge
-  - monster/type/celestial/titan
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\23
+  - monster\Size\Huge
+  - monster\Type\Celestial\Titan
 aliases:
   - Empyrean
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/class/druid
+  - spell\List\Class\Druid
 aliases:
   - Druid Spells
 ---

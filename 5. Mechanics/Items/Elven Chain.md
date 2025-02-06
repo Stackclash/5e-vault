@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/armor/medium
-  - item/rarity/rare
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Armor\Medium
+  - item\Rarity\Rare
+  - item\Tier\Major
 aliases:
   - Elven Chain
 armorClass: 13 + Dex modifier (max of +2)

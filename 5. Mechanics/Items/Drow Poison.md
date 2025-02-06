@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/gear/
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Gear
+  - item\Rarity\None
 aliases:
   - Drow Poison
 cost: 20000

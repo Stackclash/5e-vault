@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/2nd-level
-  - spell/school/abjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/eldritch-knight
-  - spell/subrace/tiefling-mammon
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\2nd Level
+  - spell\School\Abjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Eldritch Knight
+  - spell\Subrace\Tiefling Mammon
 level: 2nd-level
 range: false
 school: Abjuration

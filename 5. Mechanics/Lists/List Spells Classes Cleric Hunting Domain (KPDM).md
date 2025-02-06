@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/hunting-domain
+  - spell\List\Subclass\Hunting Domain
 aliases:
   - Spells for Hunting Domain
 ---

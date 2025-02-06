@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/oath-of-vengeance
+  - spell\List\Subclass\Oath Of Vengeance
 aliases:
   - Spells for Oath of Vengeance
 ---

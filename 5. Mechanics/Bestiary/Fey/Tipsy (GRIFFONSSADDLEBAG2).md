@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - monster/cr/1-4
-  - monster/size/tiny
-  - monster/type/fey
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - monster\Cr\1 4
+  - monster\Size\Tiny
+  - monster\Type\Fey
 aliases:
   - Tipsy
 ---

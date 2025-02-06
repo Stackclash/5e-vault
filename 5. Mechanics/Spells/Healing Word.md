@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/evocation
-  - spell/subclass/alchemist
-  - spell/subclass/divine-soul
-  - spell/subclass/the-valiant
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Evocation
+  - spell\Subclass\Alchemist
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\The Valiant
 level: 1st-level
 range: false
 school: Evocation

@@ -2,27 +2,27 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/school/conjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/carillon-domain
-  - spell/subclass/cat-domain
-  - spell/subclass/circle-of-the-eclipse
-  - spell/subclass/eldritch-knight
-  - spell/subclass/fey-wanderer
-  - spell/subclass/labyrinth-domain
-  - spell/subclass/oath-of-the-open-road
-  - spell/subclass/oath-of-the-spelldrinker
-  - spell/subclass/oath-of-vengeance
-  - spell/subclass/speed-domain
-  - spell/subclass/travel-domain
-  - spell/subclass/trickery-domain
-  - spell/subclass/void-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\School\Conjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Carillon Domain
+  - spell\Subclass\Cat Domain
+  - spell\Subclass\Circle Of The Eclipse
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Fey Wanderer
+  - spell\Subclass\Labyrinth Domain
+  - spell\Subclass\Oath Of The Open Road
+  - spell\Subclass\Oath Of The Spelldrinker
+  - spell\Subclass\Oath Of Vengeance
+  - spell\Subclass\Speed Domain
+  - spell\Subclass\Travel Domain
+  - spell\Subclass\Trickery Domain
+  - spell\Subclass\Void Domain
 level: 4th-level
 range: false
 school: Conjuration

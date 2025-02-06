@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: urban
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 8
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Any Race
 aliases:
   - Cultist
 ---

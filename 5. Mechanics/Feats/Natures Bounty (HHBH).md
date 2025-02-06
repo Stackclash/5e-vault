@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/hhbh
+  - 5. Mechanics\Src\5e\(HHBH)
   - feat
 aliases:
   - Nature's Bounty

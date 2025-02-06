@@ -6,14 +6,14 @@ cr: 8
 environments: 'desert, grassland, hill, underdark'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/8
-  - monster/environment/desert
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/fiend
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\8
+  - monster\Environment\Desert
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Fiend
 aliases:
   - Howler
 ---

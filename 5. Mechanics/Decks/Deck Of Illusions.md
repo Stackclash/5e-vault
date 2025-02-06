@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-deck
 tags:
-  - compendium/src/5e/dmg
+  - 5. Mechanics\Src\5e\(DMG)
 aliases:
   - Deck of Illusions
 ---

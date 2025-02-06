@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/xge
-  - subclass/bard/whispers
+  - 5. Mechanics\Src\5e\(XGE)
+  - subclass\Bard\Whispers
 aliases:
   - College of Whispers
 ---

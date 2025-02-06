@@ -6,11 +6,11 @@ cr: 5
 environments: underdark
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\5
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Element(AL)
 aliases:
   - Xorn
 ---

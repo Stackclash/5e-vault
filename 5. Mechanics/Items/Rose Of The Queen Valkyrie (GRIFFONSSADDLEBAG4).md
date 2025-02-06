@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Rose of the Queen Valkyrie
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 20/60
+range: 20\60
 ---
 # Rose of the Queen Valkyrie
 *Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), legendary (requires attunement)*  

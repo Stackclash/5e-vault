@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-  - compendium/src/5e/tce
-  - hazard/est
+  - 5. Mechanics\Src\5e\(TCE)
+  - hazard\Est
 aliases:
   - Thrym's Howl
 ---

@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/armor/medium
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Armor\Medium
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Tier\Major
 aliases:
   - Scorned Heart Breastplate
 armorClass: 14 + Dex modifier (max of +2)

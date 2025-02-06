@@ -6,11 +6,11 @@ cr: 2
 environments: coastal
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/2
-  - monster/environment/coastal
-  - monster/size/medium
-  - monster/type/humanoid
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\2
+  - monster\Environment\Coast(AL)
+  - monster\Size\Medium
+  - monster\Type\Humanoid
 aliases:
   - Tortle Druid
 ---

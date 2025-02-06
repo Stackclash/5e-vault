@@ -6,14 +6,14 @@ cr: 1
 environments: 'underdark, grassland, forest, hill'
 size: Small
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/underdark
-  - monster/size/small
-  - monster/type/humanoid/goblinoid
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Underdark
+  - monster\Size\Small
+  - monster\Type\Humanoid\Goblinoid
 aliases:
   - Goblin Boss
 ---

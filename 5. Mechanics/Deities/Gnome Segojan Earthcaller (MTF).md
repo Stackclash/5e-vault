@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/gnome
-  - domain/grave
-  - domain/light
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Gnome
+  - domain\Grave
+  - domain\Light
 aliases:
   - Segojan Earthcaller
 ---

@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/cos
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(COS)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Sunsword
 one-hand-damage: 1d8 R

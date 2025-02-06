@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/way-of-shadow
+  - spell\List\Subclass\Way Of Shadow
 aliases:
   - Spells for Way of Shadow
 ---

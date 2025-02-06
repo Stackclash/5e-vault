@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/gong-of-the-summit
+  - spell\List\Optfeature\Gong Of The Summit
 aliases:
   - Spells for Gong of the Summit
 ---

@@ -2,23 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/armorer
-  - spell/subclass/battle-smith
-  - spell/subclass/circle-of-wildfire
-  - spell/subclass/eldritch-knight
-  - spell/subclass/oath-of-radiance
-  - spell/subclass/the-fiend
-  - spell/subclass/the-genie
-  - spell/subclass/the-genie-lord
-  - spell/subclass/the-valiant
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Armorer
+  - spell\Subclass\Battle Smith
+  - spell\Subclass\Circle Of Wildfire
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Oath Of Radiance
+  - spell\Subclass\The Fiend
+  - spell\Subclass\The Genie
+  - spell\Subclass\The Genie Lord
+  - spell\Subclass\The Valiant
 level: 4th-level
 range: false
 school: Evocation

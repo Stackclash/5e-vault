@@ -6,10 +6,10 @@ cr: 1
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/1
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\1
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Cacophony Crow
 ---

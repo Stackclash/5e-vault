@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - domain/beer
-  - subclass/cleric/beer
+  - 5. Mechanics\Src\5e\(KPDM)
+  - domain\Beer
+  - subclass\Cleric\Beer
 aliases:
   - Beer Domain
 ---

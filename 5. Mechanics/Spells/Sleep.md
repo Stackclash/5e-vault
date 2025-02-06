@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/fey-touched
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/enchantment
-  - spell/subclass/arcane-trickster
-  - spell/subclass/darkness-domain
-  - spell/subclass/eldritch-knight
-  - spell/subclass/oath-of-redemption
-  - spell/subclass/the-archfey
-  - spell/subclass/twilight-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Fey Touched
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Enchantment
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Darkness Domain
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Oath Of Redemption
+  - spell\Subclass\The Archfey
+  - spell\Subclass\Twilight Domain
 level: 1st-level
 range: false
 school: Enchantment

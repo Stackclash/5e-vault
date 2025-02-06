@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/thief-of-five-fates
+  - spell\List\Optfeature\Thief Of Five Fates
 aliases:
   - Spells for Thief of Five Fates
 ---

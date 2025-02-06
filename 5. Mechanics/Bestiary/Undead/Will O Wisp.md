@@ -6,13 +6,13 @@ cr: 2
 environments: 'forest, swamp, urban'
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/environment/urban
-  - monster/size/tiny
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Environment\Urban
+  - monster\Size\Tiny
+  - monster\Type\Undead
 aliases:
   - Will-o'-Wisp
 ---

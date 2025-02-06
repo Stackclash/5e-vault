@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - domain/lust
-  - subclass/cleric/lust
+  - 5. Mechanics\Src\5e\(KPDM)
+  - domain\Lust
+  - subclass\Cleric\Lust
 aliases:
   - Lust Domain
 ---

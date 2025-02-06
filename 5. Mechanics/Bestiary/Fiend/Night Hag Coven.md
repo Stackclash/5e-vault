@@ -6,10 +6,10 @@ cr: 7
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/7
-  - monster/size/medium
-  - monster/type/fiend
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\7
+  - monster\Size\Medium
+  - monster\Type\Fiend
 aliases:
   - Night Hag (Coven)
 ---

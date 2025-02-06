@@ -2,22 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/optfeature/river-of-hungry-flame
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/artillerist
-  - spell/subclass/circle-of-the-eclipse
-  - spell/subclass/eldritch-knight
-  - spell/subclass/forge-domain
-  - spell/subclass/light-domain
-  - spell/subclass/the-celestial
-  - spell/subclass/the-fiend
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\Optfeature\River Of Hungry Flame
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Artillerist
+  - spell\Subclass\Circle Of The Eclipse
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Forge Domain
+  - spell\Subclass\Light Domain
+  - spell\Subclass\The Celesti(AL)
+  - spell\Subclass\The Fiend
 level: 4th-level
 range: false
 school: Evocation

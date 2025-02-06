@@ -6,10 +6,10 @@ cr: null
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/tce
-  - monster/cr/
-  - monster/size/small
-  - monster/type/fey
+  - 5. Mechanics\Src\5e\(TCE)
+  - monster\Cr
+  - monster\Size\Small
+  - monster\Type\Fey
 aliases:
   - Fey Spirit
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/rocborne
+  - spell\List\Subclass\Rocborne
 aliases:
   - Spells for Rocborne
 ---

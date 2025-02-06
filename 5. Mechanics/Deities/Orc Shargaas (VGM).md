@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/vgm
-  - deity/orc
-  - domain/trickery
+  - 5. Mechanics\Src\5e\(VGM)
+  - deity\Orc
+  - domain\Trickery
 aliases:
   - Shargaas
 ---

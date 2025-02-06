@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Rarity\Uncommon
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Murk Blowgun
 one-hand-damage: 1 P
-range: 25/100
+range: 25\100
 ---
 # Murk Blowgun
 *Weapon ([[5. Mechanics/Items/Blowgun.md\|blowgun]]), major, uncommon*  

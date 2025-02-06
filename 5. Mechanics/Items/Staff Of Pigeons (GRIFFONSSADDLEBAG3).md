@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/attunement/required
-  - item/rarity/uncommon
-  - item/tier/minor
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Attunement\Required
+  - item\Rarity\Uncommon
+  - item\Tier\Minor
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Staff of Pigeons
 one-hand-damage: 1d6 B

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/xge
-  - domain/grave
-  - subclass/cleric/grave
+  - 5. Mechanics\Src\5e\(XGE)
+  - domain\Grave
+  - subclass\Cleric\Grave
 aliases:
   - Grave Domain
 ---

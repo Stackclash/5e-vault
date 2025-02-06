@@ -6,10 +6,10 @@ cr: 2
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - monster/cr/2
-  - monster/size/medium
-  - monster/type/monstrosity/shapechanger
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - monster\Cr\2
+  - monster\Size\Medium
+  - monster\Type\Monstrosity\Shapechanger
 aliases:
   - Mimic Keg
 ---

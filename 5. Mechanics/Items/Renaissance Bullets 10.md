@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/age/renaissance
-  - item/gear/ammunition-firearm
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Age\Renaissance
+  - item\Gear\Ammunition Firearm
+  - item\Rarity\None
 aliases:
   - Renaissance Bullets (10)
 cost: 300

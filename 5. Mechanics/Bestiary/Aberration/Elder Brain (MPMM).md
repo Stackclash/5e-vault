@@ -6,11 +6,11 @@ cr: 14
 environments: underdark
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/14
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/aberration/mind-flayer
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\14
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Aberration\Mind Flayer
 aliases:
   - Elder Brain
 ---

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/rarity/rare
-  - item/weapon/martial
-  - item/weapon/melee
-  - item/weapon/simple
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Rarity\Rare
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
+  - item\Weapon\Simple
+  - item\Wondrous\Generic Variant
 aliases:
   - Soul Render
   - Soul Render Double-Bladed Scimitar

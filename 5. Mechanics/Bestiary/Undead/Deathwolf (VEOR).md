@@ -6,10 +6,10 @@ cr: 15
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/veor
-  - monster/cr/15
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(VEOR)
+  - monster\Cr\15
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Deathwolf
 ---

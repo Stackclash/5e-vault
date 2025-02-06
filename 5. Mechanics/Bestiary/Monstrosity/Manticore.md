@@ -6,15 +6,15 @@ cr: 3
 environments: 'mountain, grassland, hill, coastal, arctic'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/arctic
-  - monster/environment/coastal
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\3
+  - monster\Environment\Arctic
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Manticore
 ---

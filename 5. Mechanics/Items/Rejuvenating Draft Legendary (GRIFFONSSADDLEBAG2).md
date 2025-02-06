@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/rarity/legendary
-  - item/tier/minor
-  - item/wondrous/potion
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Rarity\Legendary
+  - item\Tier\Minor
+  - item\Wondrous\Potion
 aliases:
   - Rejuvenating Draft (Legendary)
 ---

@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/race/githzerai
-  - spell/school/abjuration
-  - spell/subclass/arcane-trickster
-  - spell/subclass/artillerist
-  - spell/subclass/battle-smith
-  - spell/subclass/eldritch-knight
-  - spell/subclass/the-hexblade
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\Race\Githzer(AI)
+  - spell\School\Abjuration
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Artillerist
+  - spell\Subclass\Battle Smith
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\The Hexblade
 level: 1st-level
 range: false
 school: Abjuration

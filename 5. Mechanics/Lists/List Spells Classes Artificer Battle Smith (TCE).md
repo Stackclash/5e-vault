@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/battle-smith
+  - spell\List\Subclass\Battle Smith
 aliases:
   - Spells for Battle Smith
 ---

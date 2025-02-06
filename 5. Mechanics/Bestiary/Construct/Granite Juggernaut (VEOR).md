@@ -6,10 +6,10 @@ cr: 12
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/veor
-  - monster/cr/12
-  - monster/size/large
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(VEOR)
+  - monster\Cr\12
+  - monster\Size\Large
+  - monster\Type\Construct
 aliases:
   - Granite Juggernaut
 ---

@@ -6,10 +6,10 @@ cr: 21
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/tgs1
-  - monster/cr/21
-  - monster/size/huge
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(TGS1)
+  - monster\Cr\21
+  - monster\Size\Huge
+  - monster\Type\Undead
 aliases:
   - Spirit of Dendallen
 ---

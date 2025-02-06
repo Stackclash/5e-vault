@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/circle-of-the-moon
+  - spell\List\Subclass\Circle Of The Moon
 aliases:
   - Spells for Circle of the Moon
 ---

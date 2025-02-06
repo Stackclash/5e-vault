@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/undying-servitude
+  - spell\List\Optfeature\Undying Servitude
 aliases:
   - Spells for Undying Servitude
 ---

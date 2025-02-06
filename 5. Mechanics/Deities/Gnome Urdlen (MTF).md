@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/gnome
-  - domain/death
-  - domain/war
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Gnome
+  - domain\Death
+  - domain\War
 aliases:
   - Urdlen
 ---

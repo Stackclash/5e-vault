@@ -6,10 +6,10 @@ cr: 19
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/19
-  - monster/size/huge
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\19
+  - monster\Size\Huge
+  - monster\Type\Fiend\Demon
 aliases:
   - Balor
 ---

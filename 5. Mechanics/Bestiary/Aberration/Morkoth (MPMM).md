@@ -6,12 +6,12 @@ cr: 11
 environments: 'coastal, underwater'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/11
-  - monster/environment/coastal
-  - monster/environment/underwater
-  - monster/size/large
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\11
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Underwater
+  - monster\Size\Large
+  - monster\Type\Aberration
 aliases:
   - Morkoth
 ---

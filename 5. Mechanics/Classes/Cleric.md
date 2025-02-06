@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/cleric
-  - compendium/src/5e/phb
+  - class\Cleric
+  - 5. Mechanics\Src\5e\(PHB)
 aliases:
   - Cleric
 ---

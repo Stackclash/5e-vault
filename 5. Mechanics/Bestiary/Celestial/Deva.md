@@ -6,10 +6,10 @@ cr: 10
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/10
-  - monster/size/medium
-  - monster/type/celestial
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\10
+  - monster\Size\Medium
+  - monster\Type\Celesti(AL)
 aliases:
   - Deva
 ---

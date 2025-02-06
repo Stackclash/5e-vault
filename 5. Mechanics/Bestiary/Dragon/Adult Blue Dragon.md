@@ -6,12 +6,12 @@ cr: 16
 environments: 'desert, coastal'
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/16
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/size/huge
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\16
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Size\Huge
+  - monster\Type\Dragon
 aliases:
   - Adult Blue Dragon
 ---

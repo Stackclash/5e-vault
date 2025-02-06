@@ -6,10 +6,10 @@ cr: 7
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/7
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\7
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Priest of Osybus (Deathly Boon)
 ---

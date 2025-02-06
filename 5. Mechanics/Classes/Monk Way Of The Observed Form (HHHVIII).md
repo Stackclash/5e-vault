@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/hhhviii
-  - subclass/monk/observed-form
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - subclass\Monk\Observed Form
 aliases:
   - Way of the Observed Form
 ---

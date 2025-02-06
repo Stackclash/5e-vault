@@ -6,10 +6,10 @@ cr: 19
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/19
-  - monster/size/medium
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\19
+  - monster\Size\Medium
+  - monster\Type\Aberration
 aliases:
   - Lesser Star Spawn Emissary
 ---

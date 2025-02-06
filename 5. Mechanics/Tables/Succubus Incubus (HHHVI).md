@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/hhhvi
+  - 5. Mechanics\Src\5e\(HHHVI)
 aliases:
-  - Succubus/Incubus
+  - Succubus\Incub(US)
 ---
 # Succubus/Incubus
 *Source: Hamund's Harvesting Handbook: Volume I p. 98* 

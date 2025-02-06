@@ -6,10 +6,10 @@ cr: 6
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/6
-  - monster/size/large
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\6
+  - monster\Size\Large
+  - monster\Type\Construct
 aliases:
   - Sentry Golem
 ---

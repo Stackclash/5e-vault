@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/sign-of-ill-omen
+  - spell\List\Optfeature\Sign Of Ill Omen
 aliases:
   - Spells for Sign of Ill Omen
 ---

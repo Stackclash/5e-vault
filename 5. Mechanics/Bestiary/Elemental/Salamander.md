@@ -6,11 +6,11 @@ cr: 5
 environments: underdark
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\5
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Element(AL)
 aliases:
   - Salamander
 ---

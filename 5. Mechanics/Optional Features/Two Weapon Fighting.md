@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - optional-feature/fs-b
-  - optional-feature/fs-f
-  - optional-feature/fs-r
+  - 5. Mechanics\Src\5e\(PHB)
+  - optional Feature\Fs B
+  - optional Feature\Fs F
+  - optional Feature\Fs R
 aliases:
   - Two-Weapon Fighting
 ---

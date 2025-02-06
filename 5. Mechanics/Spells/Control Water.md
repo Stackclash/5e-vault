@@ -2,22 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/wizard
-  - spell/level/4th-level
-  - spell/school/transmutation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/divine-soul
-  - spell/subclass/eldritch-knight
-  - spell/subclass/festus-domain
-  - spell/subclass/marshwarden
-  - spell/subclass/tempest-domain
-  - spell/subclass/the-fathomless
-  - spell/subclass/the-genie
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Wizard
+  - spell\Level\4th Level
+  - spell\School\Transmutation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Festus Domain
+  - spell\Subclass\Marshwarden
+  - spell\Subclass\Tempest Domain
+  - spell\Subclass\The Fathomless
+  - spell\Subclass\The Genie
 level: 4th-level
 range: false
 school: Transmutation

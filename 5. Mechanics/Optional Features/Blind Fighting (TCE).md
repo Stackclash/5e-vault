@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/tce
-  - optional-feature/fs-f
-  - optional-feature/fs-p
-  - optional-feature/fs-r
+  - 5. Mechanics\Src\5e\(TCE)
+  - optional Feature\Fs F
+  - optional Feature\Fs P
+  - optional Feature\Fs R
 aliases:
   - Blind Fighting
 ---

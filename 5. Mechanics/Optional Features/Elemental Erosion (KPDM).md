@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/kpdm
-  - optional-feature/mastery
+  - 5. Mechanics\Src\5e\(KPDM)
+  - optional Feature\Mastery
 aliases:
   - Elemental Erosion
 ---

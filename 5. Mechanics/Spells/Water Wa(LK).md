@@ -2,23 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/class/sorcerer
-  - spell/level/3rd-level
-  - spell/race/triton
-  - spell/ritual
-  - spell/school/transmutation
-  - spell/subclass/angler
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/divine-soul
-  - spell/subclass/oath-of-the-open-road
-  - spell/subclass/travel-domain
-  - spell/subrace/genasi-water
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Class\Sorcerer
+  - spell\Level\3rd Level
+  - spell\Race\Triton
+  - spell\Ritu(AL)
+  - spell\School\Transmutation
+  - spell\Subclass\Angler
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Oath Of The Open Road
+  - spell\Subclass\Travel Domain
+  - spell\Subrace\Genasi Water
 level: 3rd-level
 range: true
 school: Transmutation

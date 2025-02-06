@@ -6,12 +6,12 @@ cr: 1
 environments: 'forest, swamp'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/1
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/size/medium
-  - monster/type/plant
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\1
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Size\Medium
+  - monster\Type\Plant
 aliases:
   - Thorny Vegepygmy
 ---

@@ -6,11 +6,11 @@ cr: 21
 environments: swamp
 size: Gargantuan
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/21
-  - monster/environment/swamp
-  - monster/size/gargantuan
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\21
+  - monster\Environment\Swamp
+  - monster\Size\Gargantuan
+  - monster\Type\Dragon
 aliases:
   - Ancient Black Dragon
 ---

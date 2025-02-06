@@ -6,12 +6,12 @@ cr: 2
 environments: 'forest, swamp'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/size/medium
-  - monster/type/humanoid/lizardfolk
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Lizardfo(LK)
 aliases:
   - Lizardfolk Shaman
 ---

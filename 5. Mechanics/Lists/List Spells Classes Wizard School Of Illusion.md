@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/school-of-illusion
+  - spell\List\Subclass\School Of Illusion
 aliases:
   - Spells for School of Illusion
 ---

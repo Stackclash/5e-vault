@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/race/aasimar
+  - spell\List\Race\Aasimar
 aliases:
   - Spells for Aasimar
 ---

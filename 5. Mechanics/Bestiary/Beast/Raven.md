@@ -6,13 +6,13 @@ cr: 0
 environments: 'swamp, hill, urban'
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/hill
-  - monster/environment/swamp
-  - monster/environment/urban
-  - monster/size/tiny
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Environment\Hill
+  - monster\Environment\Swamp
+  - monster\Environment\Urban
+  - monster\Size\Tiny
+  - monster\Type\Beast
 aliases:
   - Raven
 ---

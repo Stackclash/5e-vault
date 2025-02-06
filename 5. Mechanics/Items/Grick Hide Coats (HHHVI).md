@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/armor/light
-  - item/rarity/varies
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Armor\Light
+  - item\Rarity\Varies
 aliases:
   - Grick Hide Coats
 armorClass: 12 + Dex modifier

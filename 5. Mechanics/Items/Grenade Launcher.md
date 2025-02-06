@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/age/modern
-  - item/gear/
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Age\Modern
+  - item\Gear
+  - item\Rarity\None
 aliases:
   - Grenade Launcher
 ---

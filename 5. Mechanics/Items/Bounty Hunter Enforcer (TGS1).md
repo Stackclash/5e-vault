@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Rarity\Uncommon
+  - item\Tier\Major
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Bounty Hunter Enforcer
 one-hand-damage: 1d6 B
 two-hand-damage: 1d8 B
-range: 20/60
+range: 20\60
 ---
 # Bounty Hunter Enforcer
 *Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), major, uncommon*  

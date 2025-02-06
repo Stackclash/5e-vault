@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - race/half-dryad
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - race\Half Dryad
 aliases:
   - Half-Dryad
 ---

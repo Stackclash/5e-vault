@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/eberron
-  - domain/grave
-  - domain/knowledge
-  - domain/life
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Eberron
+  - domain\Grave
+  - domain\Knowledge
+  - domain\Life
 aliases:
   - The Undying Court
 ---

@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Davy Jones's Key
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 20/60
+range: 20\60
 ---
 # Davy Jones's Key
 *Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), major, legendary (requires attunement)*  

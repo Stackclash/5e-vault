@@ -6,12 +6,12 @@ cr: 24
 environments: 'grassland, forest'
 size: Gargantuan
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/24
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/size/gargantuan
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\24
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Size\Gargantuan
+  - monster\Type\Dragon
 aliases:
   - Ancient Gold Dragon
 ---

@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: urban
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 4
+  - monster\Environment\Urban
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Draft Horse
 ---

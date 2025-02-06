@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/level/4th-level
-  - spell/school/conjuration
-  - spell/subclass/divine-soul
-  - spell/subclass/life-domain
-  - spell/subclass/light-domain
-  - spell/subclass/oath-of-devotion
-  - spell/subclass/oath-of-the-watchtower
-  - spell/subclass/the-celestial
-  - spell/subclass/the-valiant
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Level\4th Level
+  - spell\School\Conjuration
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Life Domain
+  - spell\Subclass\Light Domain
+  - spell\Subclass\Oath Of Devotion
+  - spell\Subclass\Oath Of The Watchtower
+  - spell\Subclass\The Celesti(AL)
+  - spell\Subclass\The Valiant
 level: 4th-level
 range: false
 school: Conjuration

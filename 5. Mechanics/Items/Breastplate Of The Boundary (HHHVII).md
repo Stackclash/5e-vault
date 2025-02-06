@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/armor/medium
-  - item/attunement/required
-  - item/rarity/very-rare
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Armor\Medium
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
 aliases:
   - Breastplate of the Boundary
 armorClass: 14 + Dex modifier (max of +2)

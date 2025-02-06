@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/paladin
-  - spell/class/ranger
-  - spell/level/3rd-level
-  - spell/school/necromancy
-  - spell/subclass/circle-of-wildfire
-  - spell/subclass/divine-soul
-  - spell/subclass/grave-domain
-  - spell/subclass/life-domain
-  - spell/subclass/the-celestial
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Druid
+  - spell\Class\Paladin
+  - spell\Class\Ranger
+  - spell\Level\3rd Level
+  - spell\School\Necromancy
+  - spell\Subclass\Circle Of Wildfire
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Grave Domain
+  - spell\Subclass\Life Domain
+  - spell\Subclass\The Celesti(AL)
 level: 3rd-level
 range: false
 school: Necromancy

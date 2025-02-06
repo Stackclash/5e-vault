@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - subclass/ranger/griffon-scout
+  - 5. Mechanics\Src\5e\(KPDM)
+  - subclass\Ranger\Griffon Scout
 aliases:
   - Griffon Scout
 ---

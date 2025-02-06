@@ -6,12 +6,12 @@ cr: 6
 environments: 'mountain, hill'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/6
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/medium
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\6
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Medium
+  - monster\Type\Element(AL)
 aliases:
   - Galeb Duhr
 ---

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/rarity/rare
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Rarity\Rare
 aliases:
   - Rope of Fantasy
 ---

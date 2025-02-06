@@ -6,10 +6,10 @@ cr: 28
 environments: null
 size: Gargantuan
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/28
-  - monster/size/gargantuan
-  - monster/type/monstrosity/titan
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\28
+  - monster\Size\Gargantuan
+  - monster\Type\Monstrosity\Titan
 aliases:
   - Cosmos-Kraken
 ---

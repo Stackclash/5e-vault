@@ -6,10 +6,10 @@ cr: 18
 environments: null
 size: Gargantuan
 tags:
-  - compendium/src/5e/bam
-  - monster/cr/18
-  - monster/size/gargantuan
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(BAM)
+  - monster\Cr\18
+  - monster\Size\Gargantuan
+  - monster\Type\Aberration
 aliases:
   - Cosmic Horror
 ---

@@ -6,10 +6,10 @@ cr: 2
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/2
-  - monster/size/medium
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\2
+  - monster\Size\Medium
+  - monster\Type\Beast
 aliases:
   - Swarm of Maggots
 ---

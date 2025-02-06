@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/rarity/uncommon
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Rarity\Uncommon
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Biting Sickle
 one-hand-damage: 1d4 S

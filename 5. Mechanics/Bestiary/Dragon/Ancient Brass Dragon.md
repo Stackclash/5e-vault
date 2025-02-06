@@ -6,11 +6,11 @@ cr: 20
 environments: desert
 size: Gargantuan
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/20
-  - monster/environment/desert
-  - monster/size/gargantuan
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\20
+  - monster\Environment\Desert
+  - monster\Size\Gargantuan
+  - monster\Type\Dragon
 aliases:
   - Ancient Brass Dragon
 ---

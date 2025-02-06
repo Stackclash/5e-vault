@@ -2,22 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/level/5th-level
-  - spell/school/evocation
-  - spell/subclass/circle-of-the-eclipse
-  - spell/subclass/circle-of-wildfire
-  - spell/subclass/divine-soul
-  - spell/subclass/light-domain
-  - spell/subclass/oath-of-devotion
-  - spell/subclass/oath-of-glory
-  - spell/subclass/oath-of-the-watchtower
-  - spell/subclass/the-celestial
-  - spell/subclass/the-fiend
-  - spell/subclass/the-genie
-  - spell/subclass/war-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Level\5th Level
+  - spell\School\Evocation
+  - spell\Subclass\Circle Of The Eclipse
+  - spell\Subclass\Circle Of Wildfire
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Light Domain
+  - spell\Subclass\Oath Of Devotion
+  - spell\Subclass\Oath Of Glory
+  - spell\Subclass\Oath Of The Watchtower
+  - spell\Subclass\The Celesti(AL)
+  - spell\Subclass\The Fiend
+  - spell\Subclass\The Genie
+  - spell\Subclass\War Domain
 level: 5th-level
 range: false
 school: Evocation

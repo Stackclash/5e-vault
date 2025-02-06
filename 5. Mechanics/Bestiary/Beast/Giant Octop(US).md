@@ -6,11 +6,11 @@ cr: 1
 environments: underwater
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/underwater
-  - monster/size/large
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1
+  - monster\Environment\Underwater
+  - monster\Size\Large
+  - monster\Type\Beast
 aliases:
   - Giant Octopus
 ---

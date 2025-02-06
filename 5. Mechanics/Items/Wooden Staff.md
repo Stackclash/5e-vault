@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/spellcasting-focus
-  - item/rarity/none
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Gear\Spellcasting Foc(US)
+  - item\Rarity\None
+  - item\Weapon\Simple
 aliases:
   - Wooden Staff
 cost: 500

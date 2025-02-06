@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - domain/light
-  - subclass/cleric/light
+  - 5. Mechanics\Src\5e\(PHB)
+  - domain\Light
+  - subclass\Cleric\Light
 aliases:
   - Light Domain
 ---

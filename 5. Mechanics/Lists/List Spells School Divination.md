@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/school/divination
+  - spell\List\School\Divination
 aliases:
   - Divination Spells
 ---

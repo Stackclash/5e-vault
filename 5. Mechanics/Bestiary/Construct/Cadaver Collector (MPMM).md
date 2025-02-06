@@ -6,11 +6,11 @@ cr: 14
 environments: grassland
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/14
-  - monster/environment/grassland
-  - monster/size/large
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\14
+  - monster\Environment\Grassland
+  - monster\Size\Large
+  - monster\Type\Construct
 aliases:
   - Cadaver Collector
 ---

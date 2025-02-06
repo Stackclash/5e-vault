@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - monster/legendary-group
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - monster\Legendary Group
 aliases:
   - 'Lothrem, the Wreathed Dragon'
 ---

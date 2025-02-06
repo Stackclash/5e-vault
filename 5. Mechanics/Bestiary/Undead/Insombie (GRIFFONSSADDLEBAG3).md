@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/1-4
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\1 4
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Insombie
 ---

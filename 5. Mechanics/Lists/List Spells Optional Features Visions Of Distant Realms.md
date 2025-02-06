@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/visions-of-distant-realms
+  - spell\List\Optfeature\Visions Of Distant Realms
 aliases:
   - Spells for Visions of Distant Realms
 ---

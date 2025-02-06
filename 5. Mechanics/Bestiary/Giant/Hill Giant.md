@@ -6,11 +6,11 @@ cr: 5
 environments: hill
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/hill
-  - monster/size/huge
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\5
+  - monster\Environment\Hill
+  - monster\Size\Huge
+  - monster\Type\Giant
 aliases:
   - Hill Giant
 ---

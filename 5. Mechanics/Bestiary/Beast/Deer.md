@@ -6,12 +6,12 @@ cr: 0
 environments: 'grassland, forest'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/size/medium
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Size\Medium
+  - monster\Type\Beast
 aliases:
   - Deer
 ---

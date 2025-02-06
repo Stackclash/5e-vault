@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - domain/carillon
-  - subclass/cleric/carillon
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - domain\Carillon
+  - subclass\Cleric\Carillon
 aliases:
   - Carillon Domain
 ---

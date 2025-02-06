@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/circle-of-spores
+  - spell\List\Subclass\Circle Of Spores
 aliases:
   - Spells for Circle of Spores
 ---

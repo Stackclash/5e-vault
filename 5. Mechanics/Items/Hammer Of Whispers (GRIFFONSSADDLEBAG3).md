@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/attunement/required
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Attunement\Required
+  - item\Rarity\Uncommon
+  - item\Tier\Major
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Hammer of Whispers
 one-hand-damage: 1d4 B
-range: 20/60
+range: 20\60
 ---
 # Hammer of Whispers
 *Weapon ([[5. Mechanics/Items/Light Hammer.md\|light hammer]]), cursed item, major, uncommon (requires attunement)*  

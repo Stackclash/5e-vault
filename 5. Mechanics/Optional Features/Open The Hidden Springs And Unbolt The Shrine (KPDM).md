@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/kpdm
-  - optional-feature/hieroglyph
+  - 5. Mechanics\Src\5e\(KPDM)
+  - optional Feature\Hieroglyph
 aliases:
   - Open the Hidden Springs and Unbolt the Shrine
 ---

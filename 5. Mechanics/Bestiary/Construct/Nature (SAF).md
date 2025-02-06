@@ -6,10 +6,10 @@ cr: 10
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/10
-  - monster/size/large
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\10
+  - monster\Size\Large
+  - monster\Type\Construct
 aliases:
   - Nature
 ---

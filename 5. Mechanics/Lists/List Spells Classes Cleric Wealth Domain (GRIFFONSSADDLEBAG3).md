@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/wealth-domain
+  - spell\List\Subclass\Wealth Domain
 aliases:
   - Spells for Wealth Domain
 ---

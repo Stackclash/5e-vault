@@ -6,11 +6,11 @@ cr: 0
 environments: desert
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/desert
-  - monster/size/tiny
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Environment\Desert
+  - monster\Size\Tiny
+  - monster\Type\Beast
 aliases:
   - Scorpion
 ---

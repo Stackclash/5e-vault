@@ -6,10 +6,10 @@ cr: 7
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/7
-  - monster/size/large
-  - monster/type/elemental
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\7
+  - monster\Size\Large
+  - monster\Type\Element(AL)
 aliases:
   - Crystal Golem
 ---

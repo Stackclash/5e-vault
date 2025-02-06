@@ -6,11 +6,11 @@ cr: 8
 environments: underdark
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/8
-  - monster/environment/underdark
-  - monster/size/huge
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\8
+  - monster\Environment\Underdark
+  - monster\Size\Huge
+  - monster\Type\Giant
 aliases:
   - Fomorian
 ---

@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/paladin
-  - spell/level/4th-level
-  - spell/school/abjuration
-  - spell/subclass/circle-of-wildfire
-  - spell/subclass/divine-soul
-  - spell/subclass/oath-of-radiance
-  - spell/subclass/twilight-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Paladin
+  - spell\Level\4th Level
+  - spell\School\Abjuration
+  - spell\Subclass\Circle Of Wildfire
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Oath Of Radiance
+  - spell\Subclass\Twilight Domain
 level: 4th-level
 range: false
 school: Abjuration

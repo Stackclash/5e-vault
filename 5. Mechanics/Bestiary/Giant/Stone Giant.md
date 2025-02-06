@@ -6,13 +6,13 @@ cr: 7
 environments: 'underdark, mountain, hill'
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/7
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/huge
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\7
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Size\Huge
+  - monster\Type\Giant
 aliases:
   - Stone Giant
 ---

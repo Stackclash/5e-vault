@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/ranger
-  - spell/level/4th-level
-  - spell/school/divination
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Ranger
+  - spell\Level\4th Level
+  - spell\School\Divination
 level: 4th-level
 range: false
 school: Divination

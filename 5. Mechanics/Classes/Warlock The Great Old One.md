@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/warlock/great-old-one
+  - 5. Mechanics\Src\5e\(PHB)
+  - subclass\Warlock\Great Old One
 aliases:
   - The Great Old One
 ---

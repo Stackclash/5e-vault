@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/armor/light
-  - item/rarity/rare
-  - item/tier/major
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Armor\Light
+  - item\Rarity\Rare
+  - item\Tier\Major
 aliases:
   - Glamoured Studded Leather
 armorClass: 12 + Dex modifier

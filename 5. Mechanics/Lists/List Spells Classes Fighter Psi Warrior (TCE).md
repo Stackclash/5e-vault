@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/psi-warrior
+  - spell\List\Subclass\Psi Warrior
 aliases:
   - Spells for Psi Warrior
 ---

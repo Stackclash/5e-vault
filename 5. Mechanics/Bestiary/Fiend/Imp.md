@@ -6,10 +6,10 @@ cr: 1
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/size/tiny
-  - monster/type/fiend/devil
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1
+  - monster\Size\Tiny
+  - monster\Type\Fiend\Devil
 aliases:
   - Imp
 ---

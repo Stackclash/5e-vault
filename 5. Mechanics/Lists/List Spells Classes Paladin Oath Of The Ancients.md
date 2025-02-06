@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/oath-of-the-ancients
+  - spell\List\Subclass\Oath Of The Ancients
 aliases:
   - Spells for Oath of the Ancients
 ---

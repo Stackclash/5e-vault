@@ -6,13 +6,13 @@ cr: 14
 environments: 'desert, forest, underdark'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/14
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\14
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Underdark
+  - monster\Size\Large
+  - monster\Type\Construct
 aliases:
   - Retriever
 ---

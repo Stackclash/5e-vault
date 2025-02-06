@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/xge
-  - item/gear/ammunition
-  - item/rarity/unknown
-  - item/tier/minor
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(XGE)
+  - item\Gear\Ammunition
+  - item\Rarity\Unknown
+  - item\Tier\Minor
+  - item\Wondrous\Generic Variant
 aliases:
   - Adamantine Ammunition
   - Adamantine Arrow

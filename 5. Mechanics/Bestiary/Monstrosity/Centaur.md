@@ -6,12 +6,12 @@ cr: 2
 environments: 'grassland, forest'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Centaur
 ---

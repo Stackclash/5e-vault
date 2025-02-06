@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Vigilus
 one-hand-damage: 1d6 P
-range: 30/120
+range: 30\120
 ---
 # Vigilus
 *Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare (requires attunement)*  

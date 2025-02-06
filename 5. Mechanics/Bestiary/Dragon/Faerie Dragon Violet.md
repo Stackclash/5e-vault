@@ -6,11 +6,11 @@ cr: 2
 environments: forest
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/forest
-  - monster/size/tiny
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Environment\Forest
+  - monster\Size\Tiny
+  - monster\Type\Dragon
 aliases:
   - Faerie Dragon (Violet)
 ---

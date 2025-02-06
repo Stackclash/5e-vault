@@ -6,10 +6,10 @@ cr: 4
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/4
-  - monster/size/huge
-  - monster/type/monstrosity/shapechanger
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\4
+  - monster\Size\Huge
+  - monster\Type\Monstrosity\Shapechanger
 aliases:
   - Mimic Cart
 ---

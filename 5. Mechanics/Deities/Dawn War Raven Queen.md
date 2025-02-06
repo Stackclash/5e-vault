@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/dmg
-  - deity/dawn-war
-  - domain/death
-  - domain/life
+  - 5. Mechanics\Src\5e\(DMG)
+  - deity\Dawn War
+  - domain\Death
+  - domain\Life
 aliases:
   - Raven Queen
 ---

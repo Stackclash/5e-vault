@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/rarity/rare
-  - item/tier/major
-  - item/wondrous/rod
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Wondrous\Rod
 aliases:
   - Rod of the Magicycle
 ---

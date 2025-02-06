@@ -6,10 +6,10 @@ cr: 11
 environments: null
 size: Gargantuan
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/11
-  - monster/size/gargantuan
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\11
+  - monster\Size\Gargantuan
+  - monster\Type\Monstrosity
 aliases:
   - Cave Wurm
 ---

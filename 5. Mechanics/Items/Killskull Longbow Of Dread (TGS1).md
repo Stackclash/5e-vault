@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/tgs1
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/ranged
+  - 5. Mechanics\Src\5e\(TGS1)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Ranged
 aliases:
   - Killskull Longbow of Dread
 one-hand-damage: 1d8 P
-range: 150/600
+range: 150\600
 ---
 # Killskull Longbow of Dread
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, rare (requires attunement)*  

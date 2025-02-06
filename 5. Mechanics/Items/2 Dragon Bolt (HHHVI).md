@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/gear/ammunition
-  - item/rarity/rare
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Gear\Ammunition
+  - item\Rarity\Rare
 aliases:
   - +2 Dragon Bolt
 ---

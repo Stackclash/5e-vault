@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/varies
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Rarity\Varies
 aliases:
   - Horn of Valhalla
 ---

@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/hhhvii
-  - spell/class/bard
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/conjuration
-  - spell/subclass/harvester-domain
-  - spell/subclass/oath-of-legacy
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - spell\Class\Bard
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Conjuration
+  - spell\Subclass\Harvester Domain
+  - spell\Subclass\Oath Of Legacy
 level: 5th-level
 range: false
 school: Conjuration

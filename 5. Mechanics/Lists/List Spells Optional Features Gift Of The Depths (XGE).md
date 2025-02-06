@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/gift-of-the-depths
+  - spell\List\Optfeature\Gift Of The Depths
 aliases:
   - Spells for Gift of the Depths
 ---

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/vgm
-  - item/attunement/required
-  - item/rarity/rare
-  - item/weapon/martial
-  - item/weapon/melee
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(VGM)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
+  - item\Wondrous\Generic Variant
 aliases:
   - Mind Blade
   - Mind Blade Double-Bladed Scimitar

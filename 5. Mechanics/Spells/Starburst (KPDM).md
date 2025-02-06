@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/cantrip
-  - spell/optfeature/pact-of-the-tome
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\Cantrip
+  - spell\Optfeature\Pact Of The Tome
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
 level: cantrip
 range: false
 school: Evocation

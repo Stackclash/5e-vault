@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/dwarven
-  - domain/life
-  - domain/light
-  - domain/peace
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Dwarven
+  - domain\Life
+  - domain\Light
+  - domain\Peace
 aliases:
   - Berronar Truesilver
 ---

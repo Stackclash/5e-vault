@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/elven
-  - domain/life
-  - domain/nature
+  - 5. Mechanics\Src\5e\(MTF)
+  - deity\Elven
+  - domain\Life
+  - domain\Nature
 aliases:
   - Elebrin liothiel
 ---

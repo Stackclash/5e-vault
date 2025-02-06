@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvii
-  - item/armor/heavy
-  - item/attunement/required
-  - item/rarity/very-rare
+  - 5. Mechanics\Src\5e\(HHHVII)
+  - item\Armor\Heavy
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
 aliases:
   - Golden Sun Armor
 armorClass: 17

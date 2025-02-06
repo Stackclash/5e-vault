@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/armor/medium
-  - item/attunement/required
-  - item/rarity/rare
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Armor\Medium
+  - item\Attunement\Required
+  - item\Rarity\Rare
 aliases:
   - Suit of Shadows
 armorClass: 12 + Dex modifier (max of +2)

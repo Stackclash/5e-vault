@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/level/4th-level
-  - spell/school/conjuration
-  - spell/subclass/greenleaf-college
-  - spell/subclass/hedge-mage
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Level\4th Level
+  - spell\School\Conjuration
+  - spell\Subclass\Greenleaf College
+  - spell\Subclass\Hedge Mage
 level: 4th-level
 range: false
 school: Conjuration

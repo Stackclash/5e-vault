@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/paladin
-  - spell/level/3rd-level
-  - spell/school/conjuration
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/divine-soul
-  - spell/subclass/festus-domain
-  - spell/subclass/hunger-domain
-  - spell/subclass/the-genie
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Paladin
+  - spell\Level\3rd Level
+  - spell\School\Conjuration
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Festus Domain
+  - spell\Subclass\Hunger Domain
+  - spell\Subclass\The Genie
 level: 3rd-level
 range: false
 school: Conjuration

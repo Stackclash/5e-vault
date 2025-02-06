@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/school/transmutation
+  - spell\List\School\Transmutation
 aliases:
   - Transmutation Spells
 ---

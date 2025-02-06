@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/eberron
-  - domain/death
-  - domain/life
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Eberron
+  - domain\Death
+  - domain\Life
 aliases:
   - The Blood of Vol
 ---

@@ -6,10 +6,10 @@ cr: 5
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/veor
-  - monster/cr/5
-  - monster/size/medium
-  - monster/type/fiend/demon
+  - 5. Mechanics\Src\5e\(VEOR)
+  - monster\Cr\5
+  - monster\Size\Medium
+  - monster\Type\Fiend\Demon
 aliases:
   - Kakkuu Spyder-Fiend
 ---

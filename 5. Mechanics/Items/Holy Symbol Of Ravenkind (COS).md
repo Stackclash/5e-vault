@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/cos
-  - item/attunement/required
-  - item/rarity/legendary
+  - 5. Mechanics\Src\5e\(COS)
+  - item\Attunement\Required
+  - item\Rarity\Legendary
 aliases:
   - Holy Symbol of Ravenkind
 ---

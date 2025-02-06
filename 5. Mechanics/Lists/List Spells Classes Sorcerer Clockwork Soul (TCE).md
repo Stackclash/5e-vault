@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/clockwork-soul
+  - spell\List\Subclass\Clockwork Soul
 aliases:
   - Spells for Clockwork Soul
 ---

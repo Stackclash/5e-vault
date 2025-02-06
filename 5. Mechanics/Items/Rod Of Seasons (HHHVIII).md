@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/rarity/very-rare
-  - item/wondrous/rod
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Rarity\Very Rare
+  - item\Wondrous\Rod
 aliases:
   - Rod of Seasons
 ---

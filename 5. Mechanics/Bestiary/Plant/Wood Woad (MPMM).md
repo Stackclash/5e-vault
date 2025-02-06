@@ -6,11 +6,11 @@ cr: 5
 environments: forest
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/5
-  - monster/environment/forest
-  - monster/size/medium
-  - monster/type/plant
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\5
+  - monster\Environment\Forest
+  - monster\Size\Medium
+  - monster\Type\Plant
 aliases:
   - Wood Woad
 ---

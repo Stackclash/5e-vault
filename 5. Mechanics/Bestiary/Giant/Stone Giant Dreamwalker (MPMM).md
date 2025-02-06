@@ -6,13 +6,13 @@ cr: 10
 environments: 'coastal, hill, mountain'
 size: Huge
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/10
-  - monster/environment/coastal
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/huge
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\10
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Huge
+  - monster\Type\Giant
 aliases:
   - Stone Giant Dreamwalker
 ---

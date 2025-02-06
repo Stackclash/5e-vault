@@ -6,10 +6,10 @@ cr: 25
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/25
-  - monster/size/large
-  - monster/type/construct/inevitable
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\25
+  - monster\Size\Large
+  - monster\Type\Construct\Inevitable
 aliases:
   - Marut
 ---

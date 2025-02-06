@@ -6,10 +6,10 @@ cr: 12
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/12
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\12
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Lady Czorgan
 ---

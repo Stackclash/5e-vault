@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/vgm
-  - item/rarity/unknown
-  - item/wondrous/other
+  - 5. Mechanics\Src\5e\(VGM)
+  - item\Rarity\Unknown
+  - item\Wondrous\Other
 aliases:
   - Flensing Claws (Huge)
 one-hand-damage: 2d8 S

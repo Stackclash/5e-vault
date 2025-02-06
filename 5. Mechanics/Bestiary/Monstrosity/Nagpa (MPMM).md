@@ -6,16 +6,16 @@ cr: 17
 environments: 'coastal, desert, forest, swamp, underdark, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/17
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/monstrosity/wizard
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\17
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Swamp
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Monstrosity\Wizard
 aliases:
   - Nagpa
 ---

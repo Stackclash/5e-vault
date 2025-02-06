@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/class/sorcerer
-  - spell/level/4th-level
-  - spell/school/enchantment
-  - spell/subclass/greenleaf-college
-  - spell/subclass/hedge-mage
-  - spell/subclass/nature-domain
-  - spell/subclass/oath-of-conquest
-  - spell/subclass/the-apex-predator
-  - spell/subclass/the-archfey
-  - spell/subclass/the-great-old-one
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Class\Sorcerer
+  - spell\Level\4th Level
+  - spell\School\Enchantment
+  - spell\Subclass\Greenleaf College
+  - spell\Subclass\Hedge Mage
+  - spell\Subclass\Nature Domain
+  - spell\Subclass\Oath Of Conquest
+  - spell\Subclass\The Apex Preda(TOR)
+  - spell\Subclass\The Archfey
+  - spell\Subclass\The Great Old One
 level: 4th-level
 range: false
 school: Enchantment

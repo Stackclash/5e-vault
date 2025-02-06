@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/eldritch-knight
+  - spell\List\Subclass\Eldritch Knight
 aliases:
   - Spells for Eldritch Knight
 ---

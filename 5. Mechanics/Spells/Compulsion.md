@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/level/4th-level
-  - spell/optfeature/bewitching-whispers
-  - spell/school/enchantment
-  - spell/subclass/fey-soul
-  - spell/subclass/lust-domain
-  - spell/subclass/moon-domain
-  - spell/subclass/oath-of-glory
-  - spell/subclass/order-domain
-  - spell/subclass/prophecy-domain
-  - spell/subclass/second-soul
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Level\4th Level
+  - spell\Optfeature\Bewitching Whispers
+  - spell\School\Enchantment
+  - spell\Subclass\Fey Soul
+  - spell\Subclass\Lust Domain
+  - spell\Subclass\Moon Domain
+  - spell\Subclass\Oath Of Glory
+  - spell\Subclass\Order Domain
+  - spell\Subclass\Prophecy Domain
+  - spell\Subclass\Second Soul
 level: 4th-level
 range: false
 school: Enchantment

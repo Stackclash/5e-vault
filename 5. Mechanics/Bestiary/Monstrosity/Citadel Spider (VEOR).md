@@ -6,10 +6,10 @@ cr: 18
 environments: null
 size: Gargantuan
 tags:
-  - compendium/src/5e/veor
-  - monster/cr/18
-  - monster/size/gargantuan
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(VEOR)
+  - monster\Cr\18
+  - monster\Size\Gargantuan
+  - monster\Type\Monstrosity
 aliases:
   - Citadel Spider
 ---

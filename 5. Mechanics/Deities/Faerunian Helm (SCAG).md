@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/scag
-  - deity/faerunian
-  - domain/life
-  - domain/light
-  - domain/twilight
+  - 5. Mechanics\Src\5e\(SCAG)
+  - deity\Faerunian
+  - domain\Life
+  - domain\Light
+  - domain\Twilight
 aliases:
   - Helm
   - The Watcher

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/phb
-  - race/elf
+  - 5. Mechanics\Src\5e\(PHB)
+  - race\Elf
 aliases:
   - Elf
 ---

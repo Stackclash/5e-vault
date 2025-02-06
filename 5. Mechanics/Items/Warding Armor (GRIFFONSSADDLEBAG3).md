@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/armor/heavy
-  - item/armor/medium
-  - item/rarity/varies
-  - item/tier/major
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Armor\Heavy
+  - item\Armor\Medium
+  - item\Rarity\Varies
+  - item\Tier\Major
+  - item\Wondrous\Generic Variant
 aliases:
   - Warding Armor
   - Warding Bone Plate Armor

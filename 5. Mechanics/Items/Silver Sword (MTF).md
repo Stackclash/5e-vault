@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/mtf
-  - item/attunement/required
-  - item/rarity/unknown/magic
-  - item/tier/major
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(MTF)
+  - item\Attunement\Required
+  - item\Rarity\Unknown\Magic
+  - item\Tier\Major
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Silver Sword
 one-hand-damage: 2d6 S

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - subclass/warlock/genie-lord
+  - 5. Mechanics\Src\5e\(KPDM)
+  - subclass\Warlock\Genie Lord
 aliases:
   - The Genie Lord
 ---

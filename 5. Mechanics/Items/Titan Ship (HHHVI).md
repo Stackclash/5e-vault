@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/rarity/artifact
-  - item/vehicle/airship-air
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Rarity\Artifact
+  - item\Vehicle\Airship Air
 aliases:
   - Titan Ship
 ---

@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/illusion
-  - spell/subclass/cat-domain
-  - spell/subclass/darkness-domain
-  - spell/subclass/fey-soul
-  - spell/subclass/fey-wanderer
-  - spell/subclass/labyrinth-domain
-  - spell/subclass/the-many
-  - spell/subclass/the-shapechanger
-  - spell/subclass/twilight-domain
-  - spell/subclass/wealth-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Illusion
+  - spell\Subclass\Cat Domain
+  - spell\Subclass\Darkness Domain
+  - spell\Subclass\Fey Soul
+  - spell\Subclass\Fey Wanderer
+  - spell\Subclass\Labyrinth Domain
+  - spell\Subclass\The Many
+  - spell\Subclass\The Shapechanger
+  - spell\Subclass\Twilight Domain
+  - spell\Subclass\Wealth Domain
 level: 5th-level
 range: false
 school: Illusion

@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/level/6th-level
-  - spell/ritual
-  - spell/school/evocation
-  - spell/subclass/divine-soul
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Level\6th Level
+  - spell\Ritu(AL)
+  - spell\School\Evocation
+  - spell\Subclass\Divine Soul
 level: 6th-level
 range: true
 school: Evocation

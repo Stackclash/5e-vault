@@ -6,10 +6,10 @@ cr: 2
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/size/large
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\2
+  - monster\Size\Large
+  - monster\Type\Undead
 aliases:
   - Ogre Zombie
 ---

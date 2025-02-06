@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - monster/cr/1-2
-  - monster/size/small
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - monster\Cr\1 2
+  - monster\Size\Small
+  - monster\Type\Beast
 aliases:
   - Giant Spider Rat
 ---

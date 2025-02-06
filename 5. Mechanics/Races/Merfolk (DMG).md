@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/dmg
-  - race/merfolk/dmg
+  - 5. Mechanics\Src\5e\(DMG)
+  - race\Merfolk\(DMG)
 aliases:
   - Merfolk (DMG)
 ---

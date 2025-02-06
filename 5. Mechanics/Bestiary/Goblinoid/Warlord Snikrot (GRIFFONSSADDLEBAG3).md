@@ -6,10 +6,10 @@ cr: 8
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/8
-  - monster/size/medium
-  - monster/type/goblinoid/goblin
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\8
+  - monster\Size\Medium
+  - monster\Type\Goblinoid\Goblin
 aliases:
   - Warlord Snikrot
 ---

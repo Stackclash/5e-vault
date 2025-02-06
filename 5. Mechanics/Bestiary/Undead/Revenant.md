@@ -6,16 +6,16 @@ cr: 5
 environments: 'forest, swamp, hill, urban, desert, arctic'
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/arctic
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/swamp
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\5
+  - monster\Environment\Arctic
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Hill
+  - monster\Environment\Swamp
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Revenant
 ---

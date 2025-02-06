@@ -6,12 +6,12 @@ cr: 10
 environments: underdark
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/10
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/undead/mind-flayer
-  - monster/type/undead/wizard
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\10
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Undead\Mind Flayer
+  - monster\Type\Undead\Wizard
 aliases:
   - Alhoon
 ---

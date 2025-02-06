@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/ranger
-  - spell/level/1st-level
-  - spell/school/conjuration
-  - spell/subclass/oath-of-the-ancients
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Ranger
+  - spell\Level\1st Level
+  - spell\School\Conjuration
+  - spell\Subclass\Oath Of The Ancients
 level: 1st-level
 range: false
 school: Conjuration

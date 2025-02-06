@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/mpmm
-  - race/shadar-kai
+  - 5. Mechanics\Src\5e\(MPMM)
+  - race\Shadar K(AI)
 aliases:
   - Shadar-Kai
 ---

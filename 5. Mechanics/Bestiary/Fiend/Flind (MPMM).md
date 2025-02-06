@@ -6,14 +6,14 @@ cr: 9
 environments: 'coastal, forest, grassland, hill'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/9
-  - monster/environment/coastal
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/size/medium
-  - monster/type/fiend/gnoll
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\9
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Hill
+  - monster\Size\Medium
+  - monster\Type\Fiend\Gnoll
 aliases:
   - Flind
 ---

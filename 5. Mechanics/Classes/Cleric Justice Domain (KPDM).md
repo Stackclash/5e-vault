@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - domain/justice
-  - subclass/cleric/justice
+  - 5. Mechanics\Src\5e\(KPDM)
+  - domain\Justice
+  - subclass\Cleric\Justice
 aliases:
   - Justice Domain
 ---

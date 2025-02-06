@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/fist-of-four-thunders
+  - spell\List\Optfeature\Fist Of Four Thunders
 aliases:
   - Spells for Fist of Four Thunders
 ---

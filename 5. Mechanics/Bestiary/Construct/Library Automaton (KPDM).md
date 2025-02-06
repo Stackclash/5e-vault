@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/kpdm
-  - monster/cr/1-2
-  - monster/size/small
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(KPDM)
+  - monster\Cr\1 2
+  - monster\Size\Small
+  - monster\Type\Construct
 aliases:
   - Library Automaton
 ---

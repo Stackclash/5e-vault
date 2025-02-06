@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/rush-of-the-gale-spirits
+  - spell\List\Optfeature\Rush Of The Gale Spirits
 aliases:
   - Spells for Rush of the Gale Spirits
 ---

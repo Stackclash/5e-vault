@@ -6,12 +6,12 @@ cr: 10
 environments: 'mountain, hill'
 size: Large
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/10
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/large
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\10
+  - monster\Environment\Hill
+  - monster\Environment\Mountain
+  - monster\Size\Large
+  - monster\Type\Dragon
 aliases:
   - Young Red Dragon
 ---

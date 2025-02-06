@@ -6,11 +6,11 @@ cr: 10
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/10
-  - monster/size/medium
-  - monster/type/fiend/demon
-  - monster/type/fiend/shapechanger
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\10
+  - monster\Size\Medium
+  - monster\Type\Fiend\Demon
+  - monster\Type\Fiend\Shapechanger
 aliases:
   - Yochlol
 ---

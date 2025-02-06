@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/armor/heavy
-  - item/rarity/none
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Armor\Heavy
+  - item\Rarity\None
 aliases:
   - Ring Mail
 cost: 3000

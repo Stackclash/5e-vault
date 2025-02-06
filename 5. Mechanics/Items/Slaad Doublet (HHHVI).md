@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/armor/medium
-  - item/attunement/required
-  - item/rarity/very-rare
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Armor\Medium
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
 aliases:
   - Slaad Doublet
 armorClass: 12 + Dex modifier (max of +2)

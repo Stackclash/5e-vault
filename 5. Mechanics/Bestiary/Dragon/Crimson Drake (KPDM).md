@@ -6,10 +6,10 @@ cr: 1
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/kpdm
-  - monster/cr/1
-  - monster/size/tiny
-  - monster/type/dragon
+  - 5. Mechanics\Src\5e\(KPDM)
+  - monster\Cr\1
+  - monster\Size\Tiny
+  - monster\Type\Dragon
 aliases:
   - Crimson Drake
 ---

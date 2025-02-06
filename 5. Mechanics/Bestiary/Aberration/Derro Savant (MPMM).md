@@ -6,11 +6,11 @@ cr: 3
 environments: underdark
 size: Small
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/3
-  - monster/environment/underdark
-  - monster/size/small
-  - monster/type/aberration/sorcerer
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\3
+  - monster\Environment\Underdark
+  - monster\Size\Small
+  - monster\Type\Aberration\Sorcerer
 aliases:
   - Derro Savant
 ---

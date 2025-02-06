@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Rarity\Uncommon
+  - item\Tier\Major
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Javelin of Lightning
 one-hand-damage: 1d6 P
-range: 30/120
+range: 30\120
 ---
 # Javelin of Lightning
 *Weapon ([[5. Mechanics/Items/Javelin.md\|javelin]]), major, uncommon*  

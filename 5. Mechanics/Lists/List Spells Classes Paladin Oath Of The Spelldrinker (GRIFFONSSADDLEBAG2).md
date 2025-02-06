@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/oath-of-the-spelldrinker
+  - spell\List\Subclass\Oath Of The Spelldrinker
 aliases:
   - Spells for Oath of the Spelldrinker
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/optfeature/river-of-hungry-flame
+  - spell\List\Optfeature\River Of Hungry Flame
 aliases:
   - Spells for River of Hungry Flame
 ---

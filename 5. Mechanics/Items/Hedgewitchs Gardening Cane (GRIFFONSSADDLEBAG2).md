@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - item/gear/spellcasting-focus
-  - item/rarity/common
-  - item/tier/minor
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - item\Gear\Spellcasting Foc(US)
+  - item\Rarity\Common
+  - item\Tier\Minor
+  - item\Weapon\Simple
 aliases:
   - Hedgewitch's Gardening Cane
 one-hand-damage: 1d6 B

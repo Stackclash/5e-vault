@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/attunement/required
-  - item/rarity/rare
-  - item/wondrous/wand
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Wondrous\Wand
 aliases:
   - +1 Dragon Wand
 ---

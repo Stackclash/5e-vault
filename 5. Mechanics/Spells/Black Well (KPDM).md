@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/wizard
-  - spell/level/6th-level
-  - spell/school/necromancy
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Wizard
+  - spell\Level\6th Level
+  - spell\School\Necromancy
 level: 6th-level
 range: false
 school: Necromancy

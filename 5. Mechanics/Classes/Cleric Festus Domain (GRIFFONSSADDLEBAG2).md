@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/griffonssaddlebag2
-  - domain/festus
-  - subclass/cleric/festus
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG2)
+  - domain\Fest(US)
+  - subclass\Cleric\Fest(US)
 aliases:
   - Festus Domain
 ---

@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/ammunition
-  - item/rarity/unknown
-  - item/tier/minor
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(PHB)
+  - item\Gear\Ammunition
+  - item\Rarity\Unknown
+  - item\Tier\Minor
+  - item\Wondrous\Generic Variant
 aliases:
   - Silvered Ammunition
   - Silvered Arrow

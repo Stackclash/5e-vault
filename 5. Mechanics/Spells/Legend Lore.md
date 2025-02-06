@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/divination
-  - spell/subclass/divine-soul
-  - spell/subclass/dragon-domain
-  - spell/subclass/knowledge-domain
-  - spell/subclass/oath-of-legacy
-  - spell/subclass/rocborne
-  - spell/subclass/the-sibyl
-  - spell/subclass/the-valiant
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Divination
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Dragon Domain
+  - spell\Subclass\Knowledge Domain
+  - spell\Subclass\Oath Of Legacy
+  - spell\Subclass\Rocborne
+  - spell\Subclass\The Sibyl
+  - spell\Subclass\The Valiant
 level: 5th-level
 range: false
 school: Divination

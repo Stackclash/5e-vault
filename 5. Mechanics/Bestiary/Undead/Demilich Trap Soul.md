@@ -6,10 +6,10 @@ cr: 21
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/21
-  - monster/size/tiny
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\21
+  - monster\Size\Tiny
+  - monster\Type\Undead
 aliases:
   - Demilich (Trap Soul)
 ---

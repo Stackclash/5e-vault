@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: 'grassland, forest, urban, desert'
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/urban
-  - monster/size/tiny
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\1 8
+  - monster\Environment\Desert
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Environment\Urban
+  - monster\Size\Tiny
+  - monster\Type\Beast
 aliases:
   - Flying Snake
 ---

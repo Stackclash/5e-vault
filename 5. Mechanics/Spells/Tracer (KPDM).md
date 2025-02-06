@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/ranger
-  - spell/level/3rd-level
-  - spell/school/divination
-  - spell/subclass/hunting-domain
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Class\Ranger
+  - spell\Level\3rd Level
+  - spell\School\Divination
+  - spell\Subclass\Hunting Domain
 level: 3rd-level
 range: false
 school: Divination

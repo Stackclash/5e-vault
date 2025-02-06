@@ -6,12 +6,12 @@ cr: 5
 environments: 'desert, underdark'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/5
-  - monster/environment/desert
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/undead
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\5
+  - monster\Environment\Desert
+  - monster\Environment\Underdark
+  - monster\Size\Medium
+  - monster\Type\Undead
 aliases:
   - Spawn of Kyuss
 ---

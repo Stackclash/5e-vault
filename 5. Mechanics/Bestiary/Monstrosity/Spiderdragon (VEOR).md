@@ -6,10 +6,10 @@ cr: 11
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/veor
-  - monster/cr/11
-  - monster/size/huge
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(VEOR)
+  - monster\Cr\11
+  - monster\Size\Huge
+  - monster\Type\Monstrosity
 aliases:
   - Spiderdragon
 ---

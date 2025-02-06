@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - subclass/wizard/white-necromancer
+  - 5. Mechanics\Src\5e\(KPDM)
+  - subclass\Wizard\White Necromancer
 aliases:
   - White Necromancer
 ---

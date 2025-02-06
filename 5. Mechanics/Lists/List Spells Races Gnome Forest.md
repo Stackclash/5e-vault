@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subrace/gnome-forest
+  - spell\List\Subrace\Gnome Forest
 aliases:
   - Spells for Gnome (Forest)
 ---

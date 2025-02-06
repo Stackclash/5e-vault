@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/xge
-  - subclass/monk/kensei
+  - 5. Mechanics\Src\5e\(XGE)
+  - subclass\Monk\Kensei
 aliases:
   - Way of the Kensei
 ---

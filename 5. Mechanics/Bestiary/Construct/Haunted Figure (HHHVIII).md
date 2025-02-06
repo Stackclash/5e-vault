@@ -6,10 +6,10 @@ cr: null
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/hhhviii
-  - monster/cr/
-  - monster/size/tiny
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - monster\Cr
+  - monster\Size\Tiny
+  - monster\Type\Construct
 aliases:
   - Haunted Figure
 ---

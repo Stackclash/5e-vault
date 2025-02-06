@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/xge
-  - optional-feature/ei
+  - 5. Mechanics\Src\5e\(XGE)
+  - optional Feature\Ei
 aliases:
   - Relentless Hex
 ---

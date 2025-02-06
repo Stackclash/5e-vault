@@ -6,12 +6,12 @@ cr: 3
 environments: 'desert, grassland'
 size: Large
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/3
-  - monster/environment/desert
-  - monster/environment/grassland
-  - monster/size/large
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\3
+  - monster\Environment\Desert
+  - monster\Environment\Grassland
+  - monster\Size\Large
+  - monster\Type\Monstrosity
 aliases:
   - Leucrotta
 ---

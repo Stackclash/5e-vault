@@ -6,10 +6,10 @@ cr: 6
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/6
-  - monster/size/medium
-  - monster/type/humanoid
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\6
+  - monster\Size\Medium
+  - monster\Type\Humanoid
 aliases:
   - Priest of Osybus
 ---

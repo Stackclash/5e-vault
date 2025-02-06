@@ -6,11 +6,11 @@ cr: 9
 environments: forest
 size: Huge
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/9
-  - monster/environment/forest
-  - monster/size/huge
-  - monster/type/plant
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\9
+  - monster\Environment\Forest
+  - monster\Size\Huge
+  - monster\Type\Plant
 aliases:
   - Treant
 ---

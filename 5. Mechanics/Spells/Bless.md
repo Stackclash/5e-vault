@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/paladin
-  - spell/feat/fey-touched
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/enchantment
-  - spell/subclass/circle-of-the-eclipse
-  - spell/subclass/divine-soul
-  - spell/subclass/life-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Paladin
+  - spell\Feat\Fey Touched
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Enchantment
+  - spell\Subclass\Circle Of The Eclipse
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Life Domain
 level: 1st-level
 range: false
 school: Enchantment

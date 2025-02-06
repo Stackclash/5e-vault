@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: null
 size: Tiny
 tags:
-  - compendium/src/5e/kpdm
-  - monster/cr/1-8
-  - monster/size/tiny
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(KPDM)
+  - monster\Cr\1 8
+  - monster\Size\Tiny
+  - monster\Type\Beast
 aliases:
   - Wharfling
 ---

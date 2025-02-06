@@ -2,24 +2,24 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/paladin
-  - spell/feat/fey-touched
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/enchantment
-  - spell/subclass/chain-domain
-  - spell/subclass/college-of-glamour
-  - spell/subclass/divine-soul
-  - spell/subclass/fey-trapper
-  - spell/subclass/knowledge-domain
-  - spell/subclass/lust-domain
-  - spell/subclass/oath-of-conquest
-  - spell/subclass/order-domain
-  - spell/subclass/second-soul
-  - spell/subclass/the-fiend
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Paladin
+  - spell\Feat\Fey Touched
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Enchantment
+  - spell\Subclass\Chain Domain
+  - spell\Subclass\College Of Glamour
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Fey Trapper
+  - spell\Subclass\Knowledge Domain
+  - spell\Subclass\Lust Domain
+  - spell\Subclass\Oath Of Conquest
+  - spell\Subclass\Order Domain
+  - spell\Subclass\Second Soul
+  - spell\Subclass\The Fiend
 level: 1st-level
 range: false
 school: Enchantment

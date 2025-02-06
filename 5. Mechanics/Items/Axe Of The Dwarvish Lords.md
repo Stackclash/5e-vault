@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/artifact
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(DMG)
+  - item\Attunement\Required
+  - item\Rarity\Artifact
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Axe of the Dwarvish Lords
 one-hand-damage: 1d8 S
 two-hand-damage: 1d10 S
-range: 20/60
+range: 20\60
 ---
 # Axe of the Dwarvish Lords
 *Weapon ([[5. Mechanics/Items/Battleaxe.md\|battleaxe]]), cursed item, artifact (requires attunement)*  

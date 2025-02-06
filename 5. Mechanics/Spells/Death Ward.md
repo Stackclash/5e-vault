@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/paladin
-  - spell/level/4th-level
-  - spell/school/abjuration
-  - spell/subclass/alchemist
-  - spell/subclass/death-domain-dmg
-  - spell/subclass/divine-soul
-  - spell/subclass/grave-domain
-  - spell/subclass/life-domain
-  - spell/subclass/oath-of-legacy
-  - spell/subclass/oath-of-the-watchtower
-  - spell/subclass/the-undead
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Cleric
+  - spell\Class\Paladin
+  - spell\Level\4th Level
+  - spell\School\Abjuration
+  - spell\Subclass\Alchemist
+  - spell\Subclass\Death Domain (DMG)
+  - spell\Subclass\Divine Soul
+  - spell\Subclass\Grave Domain
+  - spell\Subclass\Life Domain
+  - spell\Subclass\Oath Of Legacy
+  - spell\Subclass\Oath Of The Watchtower
+  - spell\Subclass\The Undead
 level: 4th-level
 range: false
 school: Abjuration

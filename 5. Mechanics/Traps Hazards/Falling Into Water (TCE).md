@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-  - compendium/src/5e/tce
-  - hazard/wld
+  - 5. Mechanics\Src\5e\(TCE)
+  - hazard\Wld
 aliases:
   - Falling into Water
 ---

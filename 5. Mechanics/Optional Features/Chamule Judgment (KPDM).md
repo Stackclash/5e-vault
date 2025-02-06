@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/kpdm
-  - optional-feature/ag
+  - 5. Mechanics\Src\5e\(KPDM)
+  - optional Feature\Ag
 aliases:
   - Chamule (Judgment)
 ---

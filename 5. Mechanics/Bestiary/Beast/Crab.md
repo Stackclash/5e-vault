@@ -6,11 +6,11 @@ cr: 0
 environments: coastal
 size: Tiny
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/coastal
-  - monster/size/tiny
-  - monster/type/beast
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Cr\0
+  - monster\Environment\Coast(AL)
+  - monster\Size\Tiny
+  - monster\Type\Beast
 aliases:
   - Crab
 ---

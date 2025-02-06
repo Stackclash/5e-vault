@@ -6,10 +6,10 @@ cr: 10
 environments: null
 size: Huge
 tags:
-  - compendium/src/5e/saf
-  - monster/cr/10
-  - monster/size/huge
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(SAF)
+  - monster\Cr\10
+  - monster\Size\Huge
+  - monster\Type\Aberration
 aliases:
   - Maladar Dictum
 ---

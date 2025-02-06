@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/warlock
-  - spell/level/2nd-level
-  - spell/school/enchantment
-  - spell/subclass/apocalypse-domain
-  - spell/subclass/dragon-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Warlock
+  - spell\Level\2nd Level
+  - spell\School\Enchantment
+  - spell\Subclass\Apocalypse Domain
+  - spell\Subclass\Dragon Domain
 level: 2nd-level
 range: false
 school: Enchantment

@@ -6,12 +6,12 @@ cr: 4
 environments: 'forest, grassland'
 size: Huge
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/4
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/size/huge
-  - monster/type/beast/dinosaur
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\4
+  - monster\Environment\Forest
+  - monster\Environment\Grassland
+  - monster\Size\Huge
+  - monster\Type\Beast\Dinosaur
 aliases:
   - Stegosaurus
 ---

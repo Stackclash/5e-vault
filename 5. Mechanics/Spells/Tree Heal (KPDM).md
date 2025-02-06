@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/kpdm
-  - spell/class/bard
-  - spell/class/druid
-  - spell/feat/wood-elf-magic
-  - spell/level/cantrip
-  - spell/optfeature/druidic-warrior
-  - spell/optfeature/pact-of-the-tome
-  - spell/school/evocation
-  - spell/subclass/circle-of-oaks
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/nature-domain
+  - 5. Mechanics\Src\5e\(KPDM)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Feat\Wood Elf Magic
+  - spell\Level\Cantrip
+  - spell\Optfeature\Druidic Warrior
+  - spell\Optfeature\Pact Of The Tome
+  - spell\School\Evocation
+  - spell\Subclass\Circle Of Oaks
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Nature Domain
 level: cantrip
 range: false
 school: Evocation

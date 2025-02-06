@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/rarity/uncommon
-  - item/weapon/martial
-  - item/weapon/melee
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Rarity\Uncommon
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
 aliases:
   - Prisoner's Flail
 one-hand-damage: 1d8 B

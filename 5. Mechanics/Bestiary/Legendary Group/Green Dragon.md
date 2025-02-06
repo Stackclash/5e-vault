@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/mm
-  - monster/legendary-group
+  - 5. Mechanics\Src\5e\(MM)
+  - monster\Legendary Group
 aliases:
   - Green Dragon
 ---

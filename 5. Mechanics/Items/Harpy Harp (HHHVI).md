@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/attunement/required
-  - item/gear/instrument
-  - item/rarity/uncommon
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Attunement\Required
+  - item\Gear\Instrument
+  - item\Rarity\Uncommon
 aliases:
   - Harpy Harp
 ---

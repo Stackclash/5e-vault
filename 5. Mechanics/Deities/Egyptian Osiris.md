@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/egyptian
-  - domain/grave
-  - domain/life
-  - domain/nature
+  - 5. Mechanics\Src\5e\(PHB)
+  - deity\Egyptian
+  - domain\Grave
+  - domain\Life
+  - domain\Nature
 aliases:
   - Osiris
 ---

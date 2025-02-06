@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/horizon-walker
+  - spell\List\Subclass\Horizon Walker
 aliases:
   - Spells for Horizon Walker
 ---

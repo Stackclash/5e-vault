@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - item/rarity/varies
-  - item/tier/minor
-  - item/wondrous/potion
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - item\Rarity\Varies
+  - item\Tier\Minor
+  - item\Wondrous\Potion
 aliases:
   - Snake Oil
 ---

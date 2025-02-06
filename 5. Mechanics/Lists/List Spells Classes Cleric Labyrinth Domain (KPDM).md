@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/labyrinth-domain
+  - spell\List\Subclass\Labyrinth Domain
 aliases:
   - Spells for Labyrinth Domain
 ---

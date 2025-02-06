@@ -2,25 +2,25 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/5th-level
-  - spell/school/enchantment
-  - spell/subclass/chain-domain
-  - spell/subclass/circle-of-roses
-  - spell/subclass/justice-domain
-  - spell/subclass/lust-domain
-  - spell/subclass/oath-of-conquest
-  - spell/subclass/oath-of-the-spelldrinker
-  - spell/subclass/oathbreaker-dmg
-  - spell/subclass/order-domain
-  - spell/subclass/second-soul
-  - spell/subclass/the-apex-predator
-  - spell/subclass/the-archfey
-  - spell/subclass/the-great-old-one
-  - spell/subclass/trickery-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Level\5th Level
+  - spell\School\Enchantment
+  - spell\Subclass\Chain Domain
+  - spell\Subclass\Circle Of Roses
+  - spell\Subclass\Justice Domain
+  - spell\Subclass\Lust Domain
+  - spell\Subclass\Oath Of Conquest
+  - spell\Subclass\Oath Of The Spelldrinker
+  - spell\Subclass\Oathbreaker (DMG)
+  - spell\Subclass\Order Domain
+  - spell\Subclass\Second Soul
+  - spell\Subclass\The Apex Preda(TOR)
+  - spell\Subclass\The Archfey
+  - spell\Subclass\The Great Old One
+  - spell\Subclass\Trickery Domain
 level: 5th-level
 range: false
 school: Enchantment

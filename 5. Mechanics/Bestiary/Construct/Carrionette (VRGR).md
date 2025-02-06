@@ -6,10 +6,10 @@ cr: 1
 environments: null
 size: Small
 tags:
-  - compendium/src/5e/vrgr
-  - monster/cr/1
-  - monster/size/small
-  - monster/type/construct
+  - 5. Mechanics\Src\5e\(VRGR)
+  - monster\Cr\1
+  - monster\Size\Small
+  - monster\Type\Construct
 aliases:
   - Carrionette
 ---

@@ -6,12 +6,12 @@ cr: 0
 environments: 'underdark, urban'
 size: Tiny
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/0
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/tiny
-  - monster/type/aberration
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\0
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Tiny
+  - monster\Type\Aberration
 aliases:
   - Cranium Rat
 ---

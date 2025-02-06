@@ -6,15 +6,15 @@ cr: 9
 environments: 'coastal, desert, mountain, underdark, urban'
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/9
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/monstrosity
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\9
+  - monster\Environment\Coast(AL)
+  - monster\Environment\Desert
+  - monster\Environment\Mountain
+  - monster\Environment\Underdark
+  - monster\Environment\Urban
+  - monster\Size\Medium
+  - monster\Type\Monstrosity
 aliases:
   - Lonely Sorrowsworn
 ---

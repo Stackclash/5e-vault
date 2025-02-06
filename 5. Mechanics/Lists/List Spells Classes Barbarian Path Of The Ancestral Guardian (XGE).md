@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/path-of-the-ancestral-guardian
+  - spell\List\Subclass\Path Of The Ancestral Guardian
 aliases:
   - Spells for Path of the Ancestral Guardian
 ---

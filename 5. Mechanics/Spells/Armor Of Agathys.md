@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/warlock
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/abjuration
-  - spell/subclass/oath-of-conquest
-  - spell/subrace/tiefling-levistus
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Warlock
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Abjuration
+  - spell\Subclass\Oath Of Conquest
+  - spell\Subrace\Tiefling Levist(US)
 level: 1st-level
 range: false
 school: Abjuration

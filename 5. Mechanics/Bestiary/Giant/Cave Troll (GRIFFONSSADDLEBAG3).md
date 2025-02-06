@@ -6,10 +6,10 @@ cr: 5
 environments: null
 size: Large
 tags:
-  - compendium/src/5e/griffonssaddlebag3
-  - monster/cr/5
-  - monster/size/large
-  - monster/type/giant
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - monster\Cr\5
+  - monster\Size\Large
+  - monster\Type\Giant
 aliases:
   - Cave Troll
 ---

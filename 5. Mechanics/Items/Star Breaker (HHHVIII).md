@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhviii
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/weapon/martial
-  - item/weapon/melee
-  - item/weapon/simple
-  - item/wondrous/generic-variant
+  - 5. Mechanics\Src\5e\(HHHVIII)
+  - item\Attunement\Required
+  - item\Rarity\Very Rare
+  - item\Weapon\Marti(AL)
+  - item\Weapon\Melee
+  - item\Weapon\Simple
+  - item\Wondrous\Generic Variant
 aliases:
   - Star Breaker
   - Star Breaker Double-Bladed Scimitar

@@ -2,24 +2,24 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/feat/shadow-touched
-  - spell/level/2nd-level
-  - spell/optfeature/shroud-of-shadow
-  - spell/race/duergar
-  - spell/school/illusion
-  - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-owls
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/circle-of-the-spirits
-  - spell/subclass/eldritch-knight
-  - spell/subclass/fey-trapper
-  - spell/subrace/tiefling-glasya
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Artificer
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Warlock
+  - spell\Class\Wizard
+  - spell\Feat\Shadow Touched
+  - spell\Level\2nd Level
+  - spell\Optfeature\Shroud Of Shadow
+  - spell\Race\Duergar
+  - spell\School\Illusion
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Circle Of Owls
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Circle Of The Spirits
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\Fey Trapper
+  - spell\Subrace\Tiefling Glasya
 level: 2nd-level
 range: false
 school: Illusion

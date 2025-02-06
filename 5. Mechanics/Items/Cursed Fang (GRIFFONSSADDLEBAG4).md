@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/griffonssaddlebag4
-  - item/attunement/required
-  - item/rarity/rare
-  - item/weapon/melee
-  - item/weapon/simple
+  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG4)
+  - item\Attunement\Required
+  - item\Rarity\Rare
+  - item\Weapon\Melee
+  - item\Weapon\Simple
 aliases:
   - Cursed Fang
 one-hand-damage: 1d4 P
-range: 20/60
+range: 20\60
 ---
 # Cursed Fang
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), rare (requires attunement)*  

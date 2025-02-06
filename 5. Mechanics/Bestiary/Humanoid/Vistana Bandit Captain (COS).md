@@ -6,10 +6,10 @@ cr: 2
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/cos
-  - monster/cr/2
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+  - 5. Mechanics\Src\5e\(COS)
+  - monster\Cr\2
+  - monster\Size\Medium
+  - monster\Type\Humanoid\Any Race
 aliases:
   - Vistana Bandit Captain
 ---

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/hhhvi
-  - item/rarity/uncommon
-  - item/shield/
+  - 5. Mechanics\Src\5e\(HHHVI)
+  - item\Rarity\Uncommon
+  - item\Shield
 aliases:
   - Tri-Horn Shield
 armorClass: 2

@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/feat/magic-initiate
-  - spell/level/1st-level
-  - spell/school/evocation
-  - spell/subclass/arcane-trickster
-  - spell/subclass/armorer
-  - spell/subclass/eldritch-knight
-  - spell/subclass/the-many
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Sorcerer
+  - spell\Class\Wizard
+  - spell\Feat\Magic Initiate
+  - spell\Level\1st Level
+  - spell\School\Evocation
+  - spell\Subclass\Arcane Trickster
+  - spell\Subclass\Armorer
+  - spell\Subclass\Eldritch Knight
+  - spell\Subclass\The Many
 level: 1st-level
 range: false
 school: Evocation

@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/level/3rd-level
-  - spell/school/conjuration
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/justice-domain
-  - spell/subclass/oath-of-thunder
-  - spell/subclass/tempest-domain
+  - 5. Mechanics\Src\5e\(PHB)
+  - spell\Class\Bard
+  - spell\Class\Druid
+  - spell\Level\3rd Level
+  - spell\School\Conjuration
+  - spell\Subclass\Circle Of The Land
+  - spell\Subclass\Justice Domain
+  - spell\Subclass\Oath Of Thunder
+  - spell\Subclass\Tempest Domain
 level: 3rd-level
 range: false
 school: Conjuration

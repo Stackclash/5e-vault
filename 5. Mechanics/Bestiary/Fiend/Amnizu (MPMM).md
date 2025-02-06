@@ -6,10 +6,10 @@ cr: 18
 environments: null
 size: Medium
 tags:
-  - compendium/src/5e/mpmm
-  - monster/cr/18
-  - monster/size/medium
-  - monster/type/fiend/devil
+  - 5. Mechanics\Src\5e\(MPMM)
+  - monster\Cr\18
+  - monster\Size\Medium
+  - monster\Type\Fiend\Devil
 aliases:
   - Amnizu
 ---

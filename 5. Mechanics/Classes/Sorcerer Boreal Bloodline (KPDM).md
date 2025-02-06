@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/kpdm
-  - subclass/sorcerer/boreal
+  - 5. Mechanics\Src\5e\(KPDM)
+  - subclass\Sorcerer\Bore(AL)
 aliases:
   - Boreal Bloodline
 ---

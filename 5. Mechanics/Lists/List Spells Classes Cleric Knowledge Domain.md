@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subclass/knowledge-domain
+  - spell\List\Subclass\Knowledge Domain
 aliases:
   - Spells for Knowledge Domain
 ---
