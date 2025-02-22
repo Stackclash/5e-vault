@@ -1,0 +1,301 @@
+{
+    "name": "CoC_01_Generic",
+    "blocks": [
+        {
+            "type": "group",
+            "id": "c83b0babd99b",
+            "properties": [],
+            "nested": [
+                {
+                    "type": "image",
+                    "id": "897868c99be8",
+                    "properties": [
+                        "image"
+                    ],
+                    "fallback": "-",
+                    "conditioned": true
+                },
+                {
+                    "type": "inline",
+                    "id": "3b28da5879f9",
+                    "properties": [],
+                    "nested": [
+                        {
+                            "type": "heading",
+                            "id": "082b3a793afb",
+                            "properties": [
+                                "name"
+                            ],
+                            "size": 1,
+                            "fallback": "Unnameable",
+                            "dice": false,
+                            "hasRule": false
+                        },
+                        {
+                            "type": "subheading",
+                            "id": "5b185aa9ca79",
+                            "properties": [
+                                "title"
+                            ],
+                            "fallback": "-",
+                            "conditioned": true
+                        }
+                    ],
+                    "hasRule": true
+                },
+                {
+                    "type": "group",
+                    "id": "e9aa7bea2bea",
+                    "properties": [],
+                    "nested": [
+                        {
+                            "type": "text",
+                            "id": "a97b38ea38ab",
+                            "properties": [
+                                "quote"
+                            ],
+                            "text": null,
+                            "fallback": "-",
+                            "conditioned": true
+                        },
+                        {
+                            "type": "text",
+                            "id": "5b99fbaa98b9",
+                            "properties": [
+                                "quote attribution"
+                            ],
+                            "text": null,
+                            "fallback": "-",
+                            "conditioned": true
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "id": "38f949086afa",
+                    "properties": [
+                        "description"
+                    ],
+                    "text": null,
+                    "fallback": "-",
+                    "conditioned": true,
+                    "headingProp": true
+                }
+            ],
+            "conditioned": true
+        },
+        {
+            "type": "group",
+            "id": "2b2a6909ca58",
+            "properties": [],
+            "nested": [
+                {
+                    "type": "group",
+                    "id": "7a3a091adaab",
+                    "properties": [],
+                    "nested": [
+                        {
+                            "type": "subheading",
+                            "id": "0949b98b58e8",
+                            "properties": [
+                                "name",
+                                "title"
+                            ],
+                            "fallback": "-",
+                            "separator": ", ",
+                            "conditioned": true
+                        },
+                        {
+                            "type": "table",
+                            "id": "fb89eaa97b5a",
+                            "properties": [
+                                "characteristics"
+                            ],
+                            "headers": [
+                                "STR",
+                                "CON",
+                                "SIZ",
+                                "DEX",
+                                "INT",
+                                "POW"
+                            ],
+                            "calculate": false,
+                            "fallback": "-",
+                            "conditioned": true,
+                            "dice": true
+                        }
+                    ],
+                    "conditioned": true,
+                    "hasRule": true,
+                    "heading": "Characteristics"
+                },
+                {
+                    "type": "traits",
+                    "id": "cbd9181a1b79",
+                    "properties": [
+                        "special powers"
+                    ],
+                    "fallback": "-",
+                    "headingProp": true,
+                    "heading": "Special Powers",
+                    "conditioned": true
+                },
+                {
+                    "type": "group",
+                    "id": "7a183a1b7a19",
+                    "properties": [],
+                    "nested": [
+                        {
+                            "type": "property",
+                            "id": "b8c949d96a5a",
+                            "properties": [
+                                "sanity loss"
+                            ],
+                            "fallback": "-",
+                            "conditioned": true,
+                            "display": "Sanity loss"
+                        },
+                        {
+                            "type": "property",
+                            "id": "79d99aeac9db",
+                            "properties": [
+                                "hp"
+                            ],
+                            "fallback": "-",
+                            "display": "HP",
+                            "conditioned": true
+                        },
+                        {
+                            "type": "property",
+                            "id": "786ab82a28bb",
+                            "properties": [
+                                "avg damage bonus"
+                            ],
+                            "fallback": "-",
+                            "display": "Avg damage bonus",
+                            "conditioned": true
+                        },
+                        {
+                            "type": "property",
+                            "id": "eb480b782b99",
+                            "properties": [
+                                "avg build"
+                            ],
+                            "fallback": "-",
+                            "display": "Avg build",
+                            "conditioned": true
+                        },
+                        {
+                            "type": "property",
+                            "id": "0878fb3b5919",
+                            "properties": [
+                                "avg mp"
+                            ],
+                            "fallback": "-",
+                            "conditioned": true,
+                            "display": "Avg mp"
+                        },
+                        {
+                            "type": "property",
+                            "id": "fb286bd86a28",
+                            "properties": [
+                                "move"
+                            ],
+                            "fallback": "-",
+                            "display": "Move",
+                            "conditioned": true
+                        }
+                    ]
+                },
+                {
+                    "type": "group",
+                    "id": "3b7b6a4bc9da",
+                    "properties": [],
+                    "nested": [
+                        {
+                            "type": "property",
+                            "id": "f8784b38f918",
+                            "properties": [
+                                "attacks per round"
+                            ],
+                            "fallback": "-",
+                            "display": "Attacks per round",
+                            "conditioned": true
+                        },
+                        {
+                            "type": "property",
+                            "id": "09183b2b7ab8",
+                            "properties": [
+                                "armor"
+                            ],
+                            "fallback": "-",
+                            "display": "Armor",
+                            "conditioned": true
+                        },
+                        {
+                            "type": "traits",
+                            "id": "2ada4ad9c97a",
+                            "properties": [
+                                "attacks"
+                            ],
+                            "fallback": "-",
+                            "headingProp": true,
+                            "heading": "Attacks",
+                            "conditioned": true,
+                            "dice": false
+                        }
+                    ],
+                    "heading": "Attacks",
+                    "conditioned": true
+                },
+                {
+                    "type": "group",
+                    "id": "aa5968fbeb19",
+                    "properties": [],
+                    "nested": [
+                        {
+                            "type": "traits",
+                            "id": "c9ca681b3bda",
+                            "properties": [
+                                "skills"
+                            ],
+                            "fallback": "-",
+                            "headingProp": false,
+                            "heading": "Skills",
+                            "conditioned": true
+                        },
+                        {
+                            "type": "property",
+                            "id": "dabbd84988aa",
+                            "properties": [
+                                "dodge"
+                            ],
+                            "fallback": "-",
+                            "display": "Dodge",
+                            "conditioned": true
+                        }
+                    ],
+                    "conditioned": true
+                }
+            ],
+            "conditioned": true
+        }
+    ],
+    "id": "6b481a69c998",
+    "columns": 2,
+    "cssProperties": {
+        "traitsFontStyle": "normal",
+        "traitsNameFontStyle": "",
+        "propertyNameFontWeight": "bold"
+    },
+    "forceColumns": true,
+    "diceParsing": [
+        {
+            "regex": "(\\d+)\\s\\((\\d+d\\d+(?:\\s*[+\\-]\\s*\\d+)?)\\)",
+            "parser": "let [, base, dice] = matches;\nlet text;\nif (!isNaN(Number(base)) && dice) {\n    text = dice;\n}\nreturn { text, original: dice ?? original };",
+            "id": "6b18c8a898a9",
+            "desc": "4 (1d6 + 1)"
+        }
+    ],
+    "columnWidth": 550
+}
