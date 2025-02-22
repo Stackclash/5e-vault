@@ -21,8 +21,8 @@ if (currentPage.school) {
     spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/School\/${currentPage.school}`).test(t)))
 }
 const builtSpellsObject = spells.array().reduce((accum, spell) => {
-    const level = spell.tags.find(tag => new RegExp('spell\/level\/.*').test(tag)).match(new RegExp('spell\/level\/(.+)$'))[1]
-    const school = spell.tags.find(tag => new RegExp('spell\/school\/.*').test(tag)).match(new RegExp('spell\/school\/(.+)$'))[1]
+    const level = spell.tags.find(tag => new RegExp('spell\/Level\/.*').test(tag)).match(new RegExp('spell\/Level\/(.+)$'))[1]
+    const school = spell.tags.find(tag => new RegExp('spell\/School\/.*').test(tag)).match(new RegExp('spell\/School\/(.+)$'))[1]
 
     if (accum.hasOwnProperty(level)) {
         if (accum[level].hasOwnProperty(school)) {
