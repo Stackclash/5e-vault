@@ -17,7 +17,7 @@ The Wizard of Wines was founded by a mage whose name is buried in the annals of 
 
 Strahd bequeathed the winery and vineyard to the noble Krezkov family as a reward for the family's loyalty. Later, an arranged marriage between the Krezkovs and the Martikov family led to the land being taken over by a Martikov descendant. The winery and vineyard have been tended by the Martikovs ever since. At some point, the Martikov family became infected with widespread lycanthropy. The current patriarch, [[4. World Almanac/NPCs/Davian Martikov (COS).md\|Davian Martikov]], is a wereraven, as are his children and grandchildren.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/110-cos12-01.webp#center]]
+[[110-cos12-01.webp]]
 
 The wereravens provide the wine to Barovian taverns for free, knowing the good it brings to the Barovian people.
 
