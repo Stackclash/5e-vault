@@ -37,7 +37,8 @@ Description of any important information that the party learned.
 Who Did They Meet?
 
 ## Items Of Importance
-Description
+7: [[Courters Perfume (HHBH)]]
+
 
 ## What Happened
 Small description.
