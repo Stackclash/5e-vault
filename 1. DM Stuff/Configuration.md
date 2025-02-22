@@ -106,7 +106,7 @@ actions:
 >> | Session Prep | `INPUT[text:locations.preps]` |
 >> | Session Journals | `INPUT[text:locations.journals]` |
 >
->> ## Player Details
+>> ## Campaign Details
 >> |||
 >> |:---:|:---:|
 >> | Parties | `INPUT[text:locations.parties]` |
