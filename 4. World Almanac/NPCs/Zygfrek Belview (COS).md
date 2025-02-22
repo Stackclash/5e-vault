@@ -82,9 +82,7 @@ TBD
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
-```carousel
-images: 4. World Almanac/NPCs/img/zygfrek-belview.webp
-```
+
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button
