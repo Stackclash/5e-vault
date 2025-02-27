@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
+  - spell
   - compendium/src/5e/hhbh
   - spell/class/bard
   - spell/class/cleric

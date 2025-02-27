@@ -1,8 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-spell
-{#if resource.tags }
 tags:
+- spell
+{#if resource.tags }
 {#for tag in resource.tags}
 - {tag}
 {/for}
