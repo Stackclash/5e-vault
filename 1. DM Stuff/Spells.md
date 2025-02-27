@@ -12,17 +12,17 @@ School: `INPUT[inlineSelect(option('','Any'),option('evocation','Evocation'),opt
 const currentPage = dv.current()
 let spells = dv.pages('#spell')
 if (currentPage.class) {
-	spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/Class\/${currentPage.class}`).test(t)))
+	spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/class\/${currentPage.class}`).test(t)))
 }
 if (currentPage.level) {
-    spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/Level\/${currentPage.level}`).test(t)))
+    spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/level\/${currentPage.level}`).test(t)))
 }
 if (currentPage.school) {
-    spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/School\/${currentPage.school}`).test(t)))
+    spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/school\/${currentPage.school}`).test(t)))
 }
 const builtSpellsObject = spells.array().reduce((accum, spell) => {
-    const level = spell.tags.find(tag => new RegExp('spell\/Level\/.*').test(tag)).match(new RegExp('spell\/Level\/(.+)$'))[1]
-    const school = spell.tags.find(tag => new RegExp('spell\/School\/.*').test(tag)).match(new RegExp('spell\/School\/(.+)$'))[1]
+    const level = spell.tags.find(tag => new RegExp('spell\/level\/.*').test(tag)).match(new RegExp('spell\/level\/(.+)$'))[1]
+    const school = spell.tags.find(tag => new RegExp('spell\/school\/.*').test(tag)).match(new RegExp('spell\/school\/(.+)$'))[1]
 
     if (accum.hasOwnProperty(level)) {
         if (accum[level].hasOwnProperty(school)) {
