@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - '5. Mechanics\Src\5e\(DA:GIC)'
+  - 'compendium/src/5e/da:gic'
 aliases:
   - 'Appendix C: Infernal Ally'
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - 5. Mechanics\Src\5e\(HHHVII)
+  - compendium/src/5e/hhhvii
 aliases:
   - 'Hamund''s Harvesting Handbook: Volume II'
 ---

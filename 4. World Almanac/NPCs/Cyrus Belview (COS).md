@@ -2,24 +2,25 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/1-4
   - monster/size/medium
   - monster/type/humanoid/mongrelfolk
-  - npc
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
   Saint Markovia]]
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/cyrus-belview.webp
+  - 4. World Almanac\NPCs\img\Cyrus Belview.webp
 relationships: []
-aliases: []
+aliases:
+  - Cyrus Belview
 pronounced: SY-rus BEL-view
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 48
-alignment: Neutral Good
+alignment: Any alignment
 occupation: []
 groups: []
 religions: []

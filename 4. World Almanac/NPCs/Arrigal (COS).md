@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/8
   - monster/size/medium
   - monster/type/humanoid/human
-  - npc
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/arrigal.webp
-relationships:
-  - Luvash|brother
-  - Arabelle|uncle
-aliases: []
+  - 4. World Almanac\NPCs\img\Arrig(AL).webp
+relationships: []
+aliases:
+  - Arrigal
 pronounced: AH-ri-gal
 race: null
 gender: male
@@ -22,8 +21,7 @@ age: 35
 alignment: Neutral Evil
 occupation:
   - Assassin
-groups:
-  - Vistani
+groups: []
 religions: []
 personality: 'Charismatic, ruthless, cunning'
 ideal: >-

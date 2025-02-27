@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - 5. Mechanics\Src\5e\(TCE)
+  - compendium/src/5e/tce
 aliases:
   - Group Patrons
 ---

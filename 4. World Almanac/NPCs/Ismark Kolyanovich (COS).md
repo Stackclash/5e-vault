@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/3
   - monster/size/medium
   - monster/type/humanoid/human
-  - npc
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/ismark-kolyanovich.webp
-relationships:
-  - Ireena Kolyana|sister
-aliases: []
+  - 4. World Almanac\NPCs\img\Ismark Kolyanovich.webp
+relationships: []
+aliases:
+  - Ismark Kolyanovich
 pronounced: IS-mark KOHL-yan-o-vich
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
@@ -22,8 +22,7 @@ alignment: Lawful Good
 occupation:
   - Burgomaster
 groups: []
-religions:
-  - Faith of the Morninglord
+religions: []
 personality: 'Protective, responsible, deeply concerned for his sister''s safety'
 ideal: 'Duty above all, especially to family and those under my care.'
 bond: His late father's legacy and his sister's safety

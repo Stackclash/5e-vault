@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/10
   - monster/size/medium
   - monster/type/humanoid/human
-  - npc
 location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
 condition: healthy
-images:
-  - z_Assets/Madam Eva.webp
+images: []
 relationships: []
-aliases: []
+aliases:
+  - Madam Eva
 pronounced: MAD-ame EE-vah
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
@@ -20,10 +20,8 @@ age: 67
 alignment: Chaotic Neutral
 occupation:
   - Seer
-groups:
-  - Vistani
-religions:
-  - Old Ways of the Vistani
+groups: []
+religions: []
 personality: 'Mysterious, wise, enigmatic'
 ideal: I wish Strahd to be free of his curse.
 bond: The Vistani are my people now. The welfare and freedom of the Vistani people.

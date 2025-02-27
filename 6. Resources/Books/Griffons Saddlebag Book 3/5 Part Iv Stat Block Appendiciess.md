@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - 5. Mechanics\Src\5e\(GRIFFONSSADDLEBAG3)
+  - compendium/src/5e/griffonssaddlebag3
 aliases:
   - 'Part IV: Stat Block Appendiciess'
 ---

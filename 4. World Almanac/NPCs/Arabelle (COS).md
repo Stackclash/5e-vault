@@ -2,26 +2,24 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/0
   - monster/size/medium
   - monster/type/humanoid/human
-  - npc
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 condition: healthy
 images: []
-relationships:
-  - Luvash|father
-  - Arrigal|niece
-aliases: []
+relationships: []
+aliases:
+  - Arabelle
 pronounced: null
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 7
 alignment: Lawful Neutral
 occupation: []
-groups:
-  - Vistani
+groups: []
 religions: []
 personality: 'Curious, spirited, innocent'
 ideal: The world is full of wonder and adventure.

@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/1-4
   - monster/size/medium
   - monster/type/humanoid/mongrelfolk
-  - npc
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
   Saint Markovia]]
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/clovin-belview.webp
+  - 4. World Almanac\NPCs\img\Clovin Belview.webp
 relationships: []
-aliases: []
+aliases:
+  - Clovin Belview
 pronounced: CLOH-vin BEL-view
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
@@ -41,8 +42,7 @@ likes: >-
 dislikes: >-
   The disdain or fear of outsiders, the cruelty of his existence, the conflict
   within the Abbey
-partyRelationships:
-  Curse of Strahd: Acquaintance
+partyRelationships: {}
 ---
 
 > [!infobox]

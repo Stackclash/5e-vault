@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/7
   - monster/size/medium
   - monster/type/undead
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/vladimir-horngaard.webp
+  - 4. World Almanac\NPCs\img\Vladimir Horngaard.webp
 relationships: []
-aliases: []
+aliases:
+  - Vladimir Horngaard
 pronounced: null
 race: null
 gender: null

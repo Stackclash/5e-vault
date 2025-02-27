@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/1-2
   - monster/size/medium
   - monster/type/humanoid/human
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/052-cos05-05.webp
+  - 4. World Almanac\NPCs\img\052 Cos05 05.webp
 relationships: []
-aliases: []
+aliases:
+  - Szoldar Szoldarovich
 pronounced: null
 race: null
 gender: null

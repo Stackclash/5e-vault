@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/1
   - monster/size/tiny
   - monster/type/fiend/devil
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/060-cos05-11.webp
+  - 4. World Almanac\NPCs\img\060 Cos05 11.webp
 relationships: []
-aliases: []
+aliases:
+  - Majesto
 pronounced: null
 race: null
 gender: null

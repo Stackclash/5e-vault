@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/1-4
   - monster/size/small
   - monster/type/construct
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/pidlwick-ii.webp
+  - 4. World Almanac\NPCs\img\Pidlwick Ii.webp
 relationships: []
-aliases: []
+aliases:
+  - Pidlwick II
 pronounced: null
 race: null
 gender: null

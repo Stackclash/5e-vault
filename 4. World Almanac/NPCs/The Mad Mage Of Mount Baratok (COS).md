@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/12
   - monster/size/medium
   - monster/type/humanoid/human
-  - npc
 location: null
 condition: healthy
 images: []
 relationships: []
-aliases: []
+aliases:
+  - The Mad Mage of Mount Baratok
 pronounced: null
 race: null
 gender: null

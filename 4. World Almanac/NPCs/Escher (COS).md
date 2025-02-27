@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/5
   - monster/size/medium
   - monster/type/undead
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/escher.webp
+  - 4. World Almanac\NPCs\img\Escher.webp
 relationships: []
-aliases: []
+aliases:
+  - Escher
 pronounced: null
 race: null
 gender: null

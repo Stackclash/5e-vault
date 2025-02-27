@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/3
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/kiril-stoyanovich.webp
+  - 4. World Almanac\NPCs\img\Kiril Stoyanovich.webp
 relationships: []
-aliases: []
+aliases:
+  - Kiril Stoyanovich
 pronounced: null
 race: null
 gender: null

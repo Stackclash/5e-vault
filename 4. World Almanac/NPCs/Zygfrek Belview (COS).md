@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/1-4
   - monster/size/medium
   - monster/type/humanoid/mongrelfolk
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/zygfrek-belview.webp
+  - 4. World Almanac\NPCs\img\Zygfrek Belview.webp
 relationships: []
-aliases: []
+aliases:
+  - Zygfrek Belview
 pronounced: null
 race: null
 gender: null

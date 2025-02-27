@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/10
   - monster/size/medium
   - monster/type/humanoid/elf
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/rahadin.webp
+  - 4. World Almanac\NPCs\img\Rahadin.webp
 relationships: []
-aliases: []
+aliases:
+  - Rahadin
 pronounced: null
 race: null
 gender: null

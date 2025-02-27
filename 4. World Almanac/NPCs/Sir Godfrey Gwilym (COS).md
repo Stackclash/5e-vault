@@ -2,25 +2,25 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/6
   - monster/size/medium
   - monster/type/undead
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/sir-godfrey-gwilym.webp
+  - 4. World Almanac\NPCs\img\Sir Godfrey Gwilym.webp
 relationships: []
-aliases: []
+aliases:
+  - Sir Godfrey Gwilym
 pronounced: sir GOD-free GWIL-im
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: null
 alignment: Lawful Evil
 occupation: []
-groups:
-  - Order of the Silver Dragon
+groups: []
 religions: []
 personality: 'Stoic, honorable, deeply melancholic'
 ideal: Redemption for the Order and peace for Barovia are my only pursuits.

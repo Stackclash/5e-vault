@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/1-4
   - monster/size/medium
   - monster/type/humanoid/human
-  - npc
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/donavich.webp
-relationships:
-  - Doru|son
-aliases: []
+  - 4. World Almanac\NPCs\img\Donavich.webp
+relationships: []
+aliases:
+  - Donavich
 pronounced: DON-a-vich
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
@@ -22,8 +22,7 @@ alignment: Lawful Good
 occupation:
   - Priest
 groups: []
-religions:
-  - Faith of the Morninglord
+religions: []
 personality: 'Devout, troubled, compassionate'
 ideal: 'Through faith and perseverance, we can endure the darkest nights.'
 bond: 'His congregation, his son'

@@ -10,20 +10,18 @@ tags:
 location: '[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]'
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/anastrasya-karelova.webp
-relationships:
-  - Strahd Von Zarovich|cousin
-aliases: []
+  - 4. World Almanac\NPCs\img\Anastrasya Karelova.webp
+relationships: []
+aliases:
+  - Anastrasya Karelova
 pronounced: ah-nah-STRAH-sya ka-REL-o-va
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 28
 alignment: Neutral Evil
 occupation: []
-groups:
-  - Castle Ravenloft's Court
-religions:
-  - Cult of Strahd
+groups: []
+religions: []
 personality: 'Aristocratic, manipulative, fiercely loyal to Strahd.'
 ideal: Power and status are everything; those without them are to be used as pawns.
 bond: Her allegiance to Strahd and her noble lineage

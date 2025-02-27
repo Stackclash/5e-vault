@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/3
   - monster/size/small
   - monster/type/undead
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/rosavalda-rose-durst.webp
+  - 4. World Almanac\NPCs\img\Rosavalda Rose Durst.webp
 relationships: []
-aliases: []
+aliases:
+  - Rosavalda "Rose" Durst
 pronounced: null
 race: null
 gender: null

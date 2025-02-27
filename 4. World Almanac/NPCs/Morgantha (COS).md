@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/5
   - monster/size/medium
   - monster/type/fiend
-  - npc
 location: null
 condition: healthy
 images: []
 relationships: []
-aliases: []
+aliases:
+  - Morgantha
 pronounced: null
 race: null
 gender: null

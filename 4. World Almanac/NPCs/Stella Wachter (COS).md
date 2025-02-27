@@ -2,16 +2,15 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/0
   - monster/size/medium
   - monster/type/humanoid/human
-  - npc
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 condition: healthy
 images: []
-relationships:
-  - Lady Fiona Wachter|mother
+relationships: []
 aliases:
   - Stella Wachter
 pronounced: null

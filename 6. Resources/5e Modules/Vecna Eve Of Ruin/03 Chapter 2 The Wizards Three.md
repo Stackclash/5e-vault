@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - 5. Mechanics\Src\5e\(VEOR)
+  - compendium/src/5e/veor
 aliases:
   - 'Chapter 2: The Wizards Three'
 ---

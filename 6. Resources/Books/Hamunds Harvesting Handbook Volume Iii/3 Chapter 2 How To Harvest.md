@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - 5. Mechanics\Src\5e\(HHHVIII)
+  - compendium/src/5e/hhhviii
 aliases:
   - 'Chapter 2: How to Harvest'
 ---

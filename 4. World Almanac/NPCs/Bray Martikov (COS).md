@@ -2,29 +2,26 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/2
   - monster/size/small
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-  - npc
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/bray-martikov.webp
-relationships:
-  - Danika Dorakova|mother
-  - Brom Martikov|brother
-  - Urwin Martikov|father
-aliases: []
+  - 4. World Almanac\NPCs\img\Bray Martikov.webp
+relationships: []
+aliases:
+  - Bray Martikov
 pronounced: BRAY MAR-ti-kov
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 15
 alignment: Lawful Good
 occupation: []
-groups:
-  - Keepers of the Feather
+groups: []
 religions: []
 personality: 'Eager, hardworking, a bit naive'
 ideal: Family and tradition hold the keys to strength and unity.

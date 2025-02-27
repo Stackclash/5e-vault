@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/0
   - monster/size/small
   - monster/type/beast
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/piccolo.webp
+  - 4. World Almanac\NPCs\img\Piccolo.webp
 relationships: []
-aliases: []
+aliases:
+  - Piccolo
 pronounced: null
 race: null
 gender: null

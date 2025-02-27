@@ -2,20 +2,16 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/2
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-  - npc
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 images: []
-relationships:
-  - Brom Martikov|son
-  - Danika Dorakova|wife
-  - Davian Martikov|father
-  - Bray Martikov|son
+relationships: []
 aliases:
   - Urwin Martikov
 pronounced: null
@@ -33,8 +29,7 @@ flaw: null
 goals: null
 likes: null
 dislikes: null
-partyRelationships:
-  Curse of Strahd: Ally
+partyRelationships: {}
 image: null
 ---
 

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/1-2
   - monster/size/medium
   - monster/type/humanoid/dusk-elf
-  - npc
 location: null
 condition: healthy
 images: []
 relationships: []
-aliases: []
+aliases:
+  - Savid
 pronounced: null
 race: null
 gender: null

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - 5. Mechanics\Src\5e\(COS)
+  - compendium/src/5e/cos
 aliases:
   - 'Chapter 8: The Village of Krezk'
 ---

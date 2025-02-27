@@ -2,21 +2,17 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/2
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/davian-martikov.webp
-relationships:
-  - Urwin Martikov|son
-  - Stefania Martikov|daughter
-  - Adrian Martikov|son
-  - Elvir Martikov|son
+  - 4. World Almanac\NPCs\img\Davian Martikov.webp
+relationships: []
 aliases:
   - Davian Martikov
 pronounced: null

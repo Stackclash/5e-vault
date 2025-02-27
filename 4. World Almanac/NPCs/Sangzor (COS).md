@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/1
   - monster/size/large
   - monster/type/beast
-  - npc
 location: null
 condition: healthy
 images: []
 relationships: []
-aliases: []
+aliases:
+  - Sangzor
 pronounced: null
 race: null
 gender: null

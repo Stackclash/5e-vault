@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/3
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/emil-toranescu.webp
+  - 4. World Almanac\NPCs\img\Emil Toranescu.webp
 relationships: []
-aliases: []
+aliases:
+  - Emil Toranescu
 pronounced: null
 race: null
 gender: null

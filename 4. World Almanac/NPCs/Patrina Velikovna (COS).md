@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/12
   - monster/size/medium
   - monster/type/humanoid/dusk-elf
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/patrina-velikovna.webp
+  - 4. World Almanac\NPCs\img\Patrina Velikovna.webp
 relationships: []
-aliases: []
+aliases:
+  - Patrina Velikovna
 pronounced: null
 race: null
 gender: null

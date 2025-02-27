@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - 5. Mechanics\Src\5e\(HHBH)
+  - compendium/src/5e/hhbh
 aliases:
   - 'Chapter 4: Miscellaneous'
 ---

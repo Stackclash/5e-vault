@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/2
   - monster/size/medium
   - monster/type/humanoid/human
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/luvash.webp
-relationships:
-  - Arabelle|daughter
-  - Arrigal|brother
-aliases: []
+  - 4. World Almanac\NPCs\img\Luvash.webp
+relationships: []
+aliases:
+  - Luvash
 pronounced: null
 race: null
 gender: null

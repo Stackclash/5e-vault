@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
-statblock: 'true'
+statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/11
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-  - npc
 location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/baba-lysaga.webp
+  - 4. World Almanac\NPCs\img\Baba Lysaga.webp
 relationships: []
 aliases:
   - Baba Lysaga
@@ -33,8 +33,7 @@ goals:
   - ' To aid Strahd, to destroy his enemies, to gain more arcane power'
 likes: 'Magic, Strahd, her creeping hut'
 dislikes: 'Intruders in Berez, those who oppose Strahd, the light'
-partyRelationships:
-  Curse of Strahd: Enemy
+partyRelationships: {}
 ---
 
 > [!infobox]

@@ -2,27 +2,27 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/8
   - monster/size/medium
   - monster/type/humanoid/human
-  - npc
 location: >-
   [[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's
   Tower]]
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/ezmerelda-davenir.webp
+  - 4. World Almanac\NPCs\img\Ezmerelda Davenir.webp
 relationships: []
-aliases: []
+aliases:
+  - Ezmerelda d'Avenir
 pronounced: ez-meh-REL-da dah-veh-NEER
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 33
 alignment: Chaotic Good
 occupation: []
-groups:
-  - Vistani
+groups: []
 religions: []
 personality: 'Determined, fiercely independent, pragmatic'
 ideal: >-

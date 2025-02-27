@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/11
   - monster/size/gargantuan
   - monster/type/construct
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/baba-lysagas-creeping-hut.webp
+  - 4. World Almanac\NPCs\img\Baba Lysagas Creeping Hut.webp
 relationships: []
-aliases: []
+aliases:
+  - Baba Lysaga's Creeping Hut
 pronounced: null
 race: null
 gender: null

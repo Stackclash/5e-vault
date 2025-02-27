@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/5
   - monster/size/medium
   - monster/type/humanoid/human
-  - npc
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/izek-strazni.webp
-relationships:
-  - Ireena Kolyana|sister
+  - 4. World Almanac\NPCs\img\Izek Strazni.webp
+relationships: []
 aliases:
   - Izek Strazni
 pronounced: null

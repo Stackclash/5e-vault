@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 statblock: inline
 tags:
+  - npc
   - compendium/src/5e/cos
   - monster/cr/0
   - monster/size/medium
   - monster/type/humanoid/human
-  - npc
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 condition: healthy
 images: []
 relationships: []
-aliases: []
+aliases:
+  - Bluto Krogarov
 pronounced: BLOO-toh KRO-gah-rov
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

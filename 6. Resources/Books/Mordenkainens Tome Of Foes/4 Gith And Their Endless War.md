@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - 5. Mechanics\Src\5e\(MTF)
+  - compendium/src/5e/mtf
 aliases:
   - Gith and Their Endless War
 ---
