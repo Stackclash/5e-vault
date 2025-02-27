@@ -17,7 +17,7 @@ locations:
   groups: 4. World Almanac/Groups
   monsters: 5. Mechanics/Bestiary
 ---
-a > [!infobox|n-th]
+> [!infobox|n-th]
 > | | |
 > |---|---|
 > | **Active World:** | `INPUT[suggester(optionQuery("#world")):active_world]` |
