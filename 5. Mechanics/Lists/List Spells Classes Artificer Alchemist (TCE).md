@@ -15,7 +15,7 @@ aliases:
 
 ## 2nd Level
 
-- [[Flaming Sphere \|"PHB"]] at class level 13
+- [[Flaming Sphere|"PHB"]] at class level 13
 - [[Melfs Acid Arrow \|"PHB"]] at class level 13
 
 ## 3rd Level
