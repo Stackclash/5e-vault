@@ -11,7 +11,6 @@ School: `INPUT[inlineSelect(option('','Any'),option('evocation','Evocation'),opt
 ```dataviewjs
 const currentPage = dv.current()
 let spells = dv.pages('#spell')
-console.log(spells.file.name)
 if (currentPage.class) {
 	spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/class\/${currentPage.class}`).test(t)))
 }
@@ -22,6 +21,7 @@ if (currentPage.school) {
     spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/school\/${currentPage.school}`).test(t)))
 }
 const builtSpellsObject = spells.array().reduce((accum, spell) => {
+	console.log('hello', spell.tags.find(tag => new RegExp('spell\/level\/.*').test(tag)), spell.tags.find(tag => new RegExp('spell\/school\/.*').test(tag)))
     const level = spell.tags.find(tag => new RegExp('spell\/level\/.*').test(tag)).match(new RegExp('spell\/level\/(.+)$'))[1]
     const school = spell.tags.find(tag => new RegExp('spell\/school\/.*').test(tag)).match(new RegExp('spell\/school\/(.+)$'))[1]
 
