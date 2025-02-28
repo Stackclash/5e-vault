@@ -10,8 +10,7 @@ School: `INPUT[inlineSelect(option('','Any'),option('evocation','Evocation'),opt
 
 ```dataviewjs
 const currentPage = dv.current()
-let spells = dv.pages('#spell')
-console.log(spells.length)
+let spells = dv.pages('#spell AND -#spell/list')
 if (currentPage.class) {
 	spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/class\/${currentPage.class}`).test(t)))
 }
