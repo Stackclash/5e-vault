@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-class: ""
+class: wizard
 level: ""
 school: ""
 ---
@@ -21,7 +21,7 @@ if (currentPage.school) {
     spells = spells.filter(p => p.tags.some(t => new RegExp(`spell\/school\/${currentPage.school}`).test(t)))
 }
 const builtSpellsObject = spells.array().reduce((accum, spell) => {
-    const level = spell.tags.find(tag => new RegExp('spell\/level\/.*').test(tag)).match(new RegExp('spell\/level\/(\d|cantrip)((st|th|nd)-level)?$'))[1]
+    const level = spell.tags.find(tag => new RegExp('spell\/level\/.*').test(tag)).match(new RegExp('spell\/level\/(.+)$'))[1]
     const school = spell.tags.find(tag => new RegExp('spell\/school\/.*').test(tag)).match(new RegExp('spell\/school\/(.+)$'))[1]
 
     if (accum.hasOwnProperty(level)) {
