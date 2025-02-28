@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 statblock: true
 name: Faerah Duskrane
-level: 8
+level: 9
 ac: 17
-hp: 59
+hp: 66
 modifier: 7
-proficiency: 3
+proficiency: 4
 url: https://dndbeyond.com/characters/105635812
 image: https://www.dndbeyond.com/avatars/36048/643/1581111423-105635812.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: "[[5. Mechanics/Races/Elf Drow.md|Elf Drow]]"
