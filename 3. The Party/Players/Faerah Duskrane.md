@@ -635,6 +635,11 @@ actions:
         fm.defences = character.defences
         fm.background = character.background
         fm.classes = character.classes.map(async (characterClass) => {
+          console.log({
+            name: await find_file(characterClass.name, '5. Mechanics/Classes'),
+            subClass: await find_file(characterClass.subClass, '5. Mechanics/Classes'),
+            level: characterClass.level
+          })
           return {
             name: await find_file(characterClass.name, '5. Mechanics/Classes'),
             subClass: await find_file(characterClass.subClass, '5. Mechanics/Classes'),
