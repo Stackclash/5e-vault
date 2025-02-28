@@ -90,6 +90,7 @@ actions:
         fm.speed = character.speeds.walk
         fm.defences = character.defences
         fm.background = character.background
+        // FIXME: Classes is not updating
         fm.classes = character.classes.map(async (characterClass) => {
           return {
             name: await find_file(characterClass.name, '5. Mechanics/Classes'),

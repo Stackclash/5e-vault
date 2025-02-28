@@ -58,7 +58,7 @@ background:
 classes:
   - name: "[[5. Mechanics/Classes/Rogue.md|Rogue]]"
     subClass: "[[5. Mechanics/Classes/Rogue Swashbuckler.md|Rogue Swashbuckler]]"
-    level: 7
+    level: 9
 abilityScores:
   strength:
     value: 8
@@ -634,12 +634,7 @@ actions:
         fm.speed = character.speeds.walk
         fm.defences = character.defences
         fm.background = character.background
-        fm.classes = character.classes.map(async (characterClass) => {
-          console.log({
-            name: await find_file(characterClass.name, '5. Mechanics/Classes'),
-            subClass: await find_file(characterClass.subClass, '5. Mechanics/Classes'),
-            level: characterClass.level
-          })
+        fm.classes = await character.classes.map(async (characterClass) => {
           return {
             name: await find_file(characterClass.name, '5. Mechanics/Classes'),
             subClass: await find_file(characterClass.subClass, '5. Mechanics/Classes'),
