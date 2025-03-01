@@ -41,7 +41,7 @@ Description
 
 ## What Happened
 - Party has broaches that change colors to signal actions
-- The Party knows that the following will act against Strahd during the wedding:
+- The Party knows that the following will act against Strahd during the wedding and they may need to roll with the punches with what happens:
 	- [[Rictavio (COS)]]
 	- [[Ezmerelda Davenir (COS)]]
 	- [[The Abbot (COS)]]
