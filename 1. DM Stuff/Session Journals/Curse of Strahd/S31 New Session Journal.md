@@ -40,4 +40,8 @@ Who Did They Meet?
 Description
 
 ## What Happened
+- Party has broaches that change colors to signal actions
+- The Party knows that the following will act against Strahd during the wedding:
+	- [[Rictavio (COS)]]
+	- [[Ezmerelda Davenir (COS)]]
 - 
