@@ -49,4 +49,5 @@ Description
 	- **Music Box of Mind Shielding** – Plays a haunting lullaby that grants advantage on saving throws against charm and fear while it plays.
 	- **Cackling Skull Bomb** – A small skull with a wind-up mechanism. When thrown (20 ft. range), it explodes in a _Tasha’s Hideous Laughter_ effect (DC 14) on all creatures within 10 feet.
 	- **Jack-in-the-Dark** – A jack-in-the-box that, when cranked, either emits a loud _Thunderwave_ (DC 13) or releases a puff of necrotic gas, dealing 2d6 damage in a 10-ft radius.
-- [[Faerah Duskrane]] prays to El
+- [[Faerah Duskrane]] prays to [[Drow Eilistraee (MTF)|Eilistraee]]
+	- She offers guidance to "seek out the heart that could grant a boon for the final battle"
