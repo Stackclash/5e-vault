@@ -45,4 +45,5 @@ Description
 	- [[Rictavio (COS)]]
 	- [[Ezmerelda Davenir (COS)]]
 	- [[The Abbot (COS)]]
-- [[Seluvis Felo'melorn]], [[Marin]], 
+- [[Seluvis Felo'melorn]], [[Marin]], [[Faerah Duskrane]] visit Blinksy and get the following:
+	- 
