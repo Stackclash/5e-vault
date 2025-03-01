@@ -46,4 +46,6 @@ Description
 	- [[Ezmerelda Davenir (COS)]]
 	- [[The Abbot (COS)]]
 - [[Seluvis Felo'melorn]], [[Marin]], [[Faerah Duskrane]] visit Blinksy and get the following:
-	- 
+	- **Music Box of Mind Shielding** – Plays a haunting lullaby that grants advantage on saving throws against charm and fear while it plays.
+	- **Cackling Skull Bomb** – A small skull with a wind-up mechanism. When thrown (20 ft. range), it explodes in a _Tasha’s Hideous Laughter_ effect (DC 14) on all creatures within 10 feet.
+	- **Jack-in-the-Dark** – A jack-in-the-box that, when cranked, either emits a loud _Thunderwave_ (DC 13) or releases a puff of necrotic gas, dealing 2d6 damage in a 10-ft radius.
