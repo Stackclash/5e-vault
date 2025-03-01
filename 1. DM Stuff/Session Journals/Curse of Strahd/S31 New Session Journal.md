@@ -45,4 +45,4 @@ Description
 	- [[Rictavio (COS)]]
 	- [[Ezmerelda Davenir (COS)]]
 	- [[The Abbot (COS)]]
-- 
+- [[Seluvis Felo'melorn]], [[Marin]], 
