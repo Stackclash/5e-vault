@@ -44,4 +44,5 @@ Description
 - The Party knows that the following will act against Strahd during the wedding:
 	- [[Rictavio (COS)]]
 	- [[Ezmerelda Davenir (COS)]]
+	- [[The Abbot (COS)]]
 - 
