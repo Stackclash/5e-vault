@@ -124,7 +124,7 @@ const relationshipString = buildRelationshipArray(input.current, keys).map(i => 
 dv.paragraph(
   `${backticks}mermaid
 graph LR
-${keys.map(k => `${k.key}[${k.name}]${k.class ? `:::${k.class}` : ''}
+${keys.map(k => `${k.key}["${k.name}"]${k.class ? `:::${k.class}` : ''}
 `).join('')}
 
 ${relationshipString}
