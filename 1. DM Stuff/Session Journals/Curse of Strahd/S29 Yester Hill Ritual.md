@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
-date: 2025-02-21
-summary:
+date: 2025-01-19
+summary: 
 fc-date: 973-2-23
 fc-end: 
 timelines:
@@ -9,9 +9,12 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2025-02-21.md|2025-02-21]]"
+prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2025-01-19.md|2025-01-19]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
+  - "[[4. World Almanac/Places of Interest/Yester Hill.md|Yester Hill]]"
 ---
 > [!infobox]
 > ## Info
@@ -37,8 +40,14 @@ Description of any important information that the party learned.
 Who Did They Meet?
 
 ## Items Of Importance
-7: [[Courters Perfume (HHBH)]]
-
+Description
 
 ## What Happened
-Small description.
+- [[Seluvis Felo'melorn]] - makes captured druid shit himself
+- The Gulthias Avatar is summoned
+- 
+
+## Notes
+### Item Cards
+- [[Yester Hill Axe]]
+- [[Gulthias Staff]]

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2024-01-11
-summary:
+summary: 
 fc-date: 973-2-23
 fc-end: 
 timelines:
@@ -12,6 +12,8 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 prep-notes: ""
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
 ---
 > [!infobox]
 > ## Info
