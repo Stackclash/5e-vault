@@ -13,7 +13,7 @@ tags:
 aliases:
   - Behitaur
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Behitaur (GRIFFONSSADDLEBAG3).md|Behitaur]]
+# [[5. Mechanics/Bestiary/Monstrosity/Behitaur (GRIFFONSSADDLEBAG3).md|Behitaur]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Behitaurs are many-legged half-human, half-behir monstrosities in much the same way that a centaur is half human and half horse. The Lesser Reflectore Anillos are magically cursed and transformed into behitaurs as a result of their destiny-defying heressy and consumption.

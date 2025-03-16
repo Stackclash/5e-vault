@@ -11,7 +11,7 @@ aliases:
   - Sky Anchor
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 40\60
+range: 40/60
 ---
 # Sky Anchor
 *Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), major, rare*  

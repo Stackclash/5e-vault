@@ -11,7 +11,7 @@ tags:
 aliases:
   - Prismatic Javelin
 one-hand-damage: 2d6 P
-range: 60\150
+range: 60/150
 ---
 # Prismatic Javelin
 *Weapon ([[5. Mechanics/Items/Javelin.md\|javelin]]), major, very rare (requires attunement)*  

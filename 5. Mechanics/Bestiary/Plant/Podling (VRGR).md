@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Podling
 ---
-# [[5. Mechanics\Bestiary\Plant\Podling (VRGR).md|Podling]]
+# [[5. Mechanics/Bestiary/Plant/Podling (VRGR).md|Podling]]
 *Source: Van Richten's Guide to Ravenloft p. 227*
 
 Bodytaker plants either capture unsuspecting victims with their vines or accept captives brought to them by their podling servants. In either case, they drag creatures into their central pod, where potent chemicals render the captive comatose. Over the course of hours, the creature is dissolved and its body repurposed into a podling duplicate.

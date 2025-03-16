@@ -14,7 +14,7 @@ tags:
 aliases:
   - Crimson Legion Imp
 ---
-# [[5. Mechanics\Bestiary\Fiend\Crimson Legion Imp (GRIFFONSSADDLEBAG2).md|Crimson Legion Imp]]
+# [[5. Mechanics/Bestiary/Fiend/Crimson Legion Imp (GRIFFONSSADDLEBAG2).md|Crimson Legion Imp]]
 *Source: The Griffon's Saddlebag, Book 2 p. 344*
 
 The Crimson Legionnaires are a swift, decisive, and efficient unit of infantry. In stark contrast to typical imps, Crimson Legion imps are zealous and obedient followers, known throughout the Lower Planes for their stubborn devotion to Malfuriel. With invisibility and silvered tongues, the art of war is second nature to them, and ensures that any battlefield conflict is skewed in their favor. They make frequent use of their shapechanging, becoming rats, hawks, and centipedes in order to scout, spy, or conceal their true numbers. 

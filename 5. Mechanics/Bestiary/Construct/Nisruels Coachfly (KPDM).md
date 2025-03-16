@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nisruel's Coachfly
 ---
-# [[5. Mechanics\Bestiary\Construct\Nisruels Coachfly (KPDM).md|Nisruel's Coachfly]]
+# [[5. Mechanics/Bestiary/Construct/Nisruels Coachfly (KPDM).md|Nisruel's Coachfly]]
 *Source: Deep Magic p. 287*
 
 *This long, narrow contraption resembles a clockwork dragonfly that's larger than a horse. It is fashioned from silver and lapis lazuli, with panes of delicate-looking multicolored stained glass for wings. The back of the construct contains a hollow that looks like it could hold one or more occupants.*

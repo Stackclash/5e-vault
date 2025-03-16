@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'grassland, desert'
 size: Medium
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Jackalwere
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Jackalwere.md|Jackalwere]]
+# [[5. Mechanics/Bestiary/Humanoid/Jackalwere.md|Jackalwere]]
 *Source: Monster Manual p. 193*
 
 Ordinary jackals tainted by demonic power, jackalweres haunt roads and trails, waylaying and murdering those they meet.

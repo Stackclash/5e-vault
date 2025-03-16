@@ -14,7 +14,7 @@ tags:
 aliases:
   - Conjurer Wizard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Conjurer Wizard (MPMM).md|Conjurer Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Conjurer Wizard (MPMM).md|Conjurer Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 212*
 
 Conjurers summon creatures from other planes of existence and teleport themselves and others in the blink of an eye.

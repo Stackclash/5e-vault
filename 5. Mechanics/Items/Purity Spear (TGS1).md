@@ -12,7 +12,7 @@ aliases:
   - Purity Spear
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 20\60
+range: 20/60
 ---
 # Purity Spear
 *Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), major, legendary (requires attunement by a good-aligned creature)*  

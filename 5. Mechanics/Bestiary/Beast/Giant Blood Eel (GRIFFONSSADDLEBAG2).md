@@ -13,7 +13,7 @@ tags:
 aliases:
   - Giant Blood Eel
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Blood Eel (GRIFFONSSADDLEBAG2).md|Giant Blood Eel]]
+# [[5. Mechanics/Bestiary/Beast/Giant Blood Eel (GRIFFONSSADDLEBAG2).md|Giant Blood Eel]]
 *Source: The Griffon's Saddlebag, Book 2 p. 345*
 
 With translucent red skin, the giant blood eels of the Bloodmire are nearly impossible to detect as they traverse the deep pools of bloodwater. Naturalists are unsure of exactly how the eels came to dwell in the swamp, but attempts to research them more fully or retrieve a specimen has resulted in numerous vanished expeditions. 

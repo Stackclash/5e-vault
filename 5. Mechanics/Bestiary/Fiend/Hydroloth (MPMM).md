@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hydroloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Hydroloth (MPMM).md|Hydroloth]]
+# [[5. Mechanics/Bestiary/Fiend/Hydroloth (MPMM).md|Hydroloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 158, Mordenkainen's Tome of Foes p. 249*
 
 Like the thought-stealing waters of the River Styx they inhabit, hydroloths filch the memories of creatures they attack, stealing away thoughts for delivery to whatever master they happen to serve. Hydroloths also savor finding lost things, especially those that have been swallowed up in the deeps.

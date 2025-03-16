@@ -14,7 +14,7 @@ tags:
 aliases:
   - Cloaker
 ---
-# [[5. Mechanics\Bestiary\Aberration\Cloaker.md|Cloaker]]
+# [[5. Mechanics/Bestiary/Aberration/Cloaker.md|Cloaker]]
 *Source: Monster Manual p. 41, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Cloakers earned their names for the resemblance they bear to dark leathery cloaks. Lurking in remote dungeons and caves, these stealthy predators wait to slay lone or injured prey stumbling through the darkness.

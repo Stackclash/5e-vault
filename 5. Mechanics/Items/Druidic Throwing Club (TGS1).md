@@ -11,7 +11,7 @@ tags:
 aliases:
   - Druidic Throwing Club
 one-hand-damage: 1d4 B
-range: 20\60
+range: 20/60
 ---
 # Druidic Throwing Club
 *Weapon ([[5. Mechanics/Items/Club.md\|club]]), major, rare (requires attunement by a druid or ranger)*  

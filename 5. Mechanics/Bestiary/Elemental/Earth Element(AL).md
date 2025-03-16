@@ -14,7 +14,7 @@ tags:
 aliases:
   - Earth Elemental
 ---
-# [[5. Mechanics\Bestiary\Elemental\Earth Element(AL).md|Earth Elemental]]
+# [[5. Mechanics/Bestiary/Elemental/Earth Element(AL).md|Earth Elemental]]
 *Source: Monster Manual p. 124, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 An earth elemental plods forward like a walking hill, club-like arms of jagged stone swinging at its sides. Its head and body consist of dirt and stone, occasionally set with chunks of metal, gems, and bright minerals.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Quadrone
 ---
-# [[5. Mechanics\Bestiary\Construct\Quadrone.md|Quadrone]]
+# [[5. Mechanics/Bestiary/Construct/Quadrone.md|Quadrone]]
 *Source: Monster Manual p. 226*
 
 Astute combatants, quadrones serve as artillery and field officers in the regiments of modron armies.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Barovian Commoner
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Barovian Commoner (COS).md|Barovian Commoner]]
+# [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner (COS).md|Barovian Commoner]]
 *Source: Curse of Strahd p. 29*
 
 ```statblock

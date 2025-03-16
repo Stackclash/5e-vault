@@ -15,7 +15,7 @@ tags:
 aliases:
   - Doppelganger
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Doppelganger.md|Doppelganger]]
+# [[5. Mechanics/Bestiary/Monstrosity/Doppelganger.md|Doppelganger]]
 *Source: Monster Manual p. 82. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Doppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise. Few creatures spread fear, suspicion, and deceit better than doppelgangers. Found in every land and culture, they can take on the guise of any individual of any race.

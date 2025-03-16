@@ -13,7 +13,7 @@ tags:
 aliases:
   - Tracker
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Tracker (SAF).md|Tracker]]
+# [[5. Mechanics/Bestiary/Humanoid/Tracker (SAF).md|Tracker]]
 *Source: Strongholds and Followers p. 78*
 
 ```statblock

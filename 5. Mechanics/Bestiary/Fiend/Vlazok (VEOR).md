@@ -13,7 +13,7 @@ tags:
 aliases:
   - Vlazok
 ---
-# [[5. Mechanics\Bestiary\Fiend\Vlazok (VEOR).md|Vlazok]]
+# [[5. Mechanics/Bestiary/Fiend/Vlazok (VEOR).md|Vlazok]]
 *Source: Vecna: Eve of Ruin p. 238*
 
 Skeletal, quadrupedal horrors, vlazoks are particularly suited to battlefield cleanup in the Outer Planes. They love to stomp across battlefields after the fiercest fighting is over, trampling survivors and crushing pockets of resistance. When vlazoks anticipate an influx of enemies, these demons jump on them from above to crush them.

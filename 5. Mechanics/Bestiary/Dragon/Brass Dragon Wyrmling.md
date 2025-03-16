@@ -13,7 +13,7 @@ tags:
 aliases:
   - Brass Dragon Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Brass Dragon Wyrmling.md|Brass Dragon Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Brass Dragon Wyrmling.md|Brass Dragon Wyrmling]]
 *Source: Monster Manual p. 106. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Assassin
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Assassin.md|Assassin]]
+# [[5. Mechanics/Bestiary/Humanoid/Assassin.md|Assassin]]
 *Source: Monster Manual p. 343, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.

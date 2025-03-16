@@ -9,7 +9,7 @@ tags:
   - item/weapon/ranged
 aliases:
   - Dream Catcher
-range: 5\15
+range: 5/15
 ---
 # Dream Catcher
 *Weapon ([[5. Mechanics/Items/Net.md\|net]]), major, very rare*  

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Rutterkin
 ---
-# [[5. Mechanics\Bestiary\Fiend\Rutterkin (MPMM).md|Rutterkin]]
+# [[5. Mechanics/Bestiary/Fiend/Rutterkin (MPMM).md|Rutterkin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 210, Mordenkainen's Tome of Foes p. 136*
 
 > [!quote] A quote from Tasha  

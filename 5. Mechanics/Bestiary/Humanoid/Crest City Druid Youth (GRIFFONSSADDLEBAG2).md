@@ -13,7 +13,7 @@ tags:
 aliases:
   - Crest City Druid (Youth)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Crest City Druid Youth (GRIFFONSSADDLEBAG2).md|Crest City Druid (Youth)]]
+# [[5. Mechanics/Bestiary/Humanoid/Crest City Druid Youth (GRIFFONSSADDLEBAG2).md|Crest City Druid (Youth)]]
 *Source: The Griffon's Saddlebag, Book 2 p. 348*
 
 Druids of the Circle of Dragons typically take a supportive role while in combat, utilizing their spells to heal and empower their allies. However, if they become injured or face a truly imminent threat, they will wild shape into their powerful draconic form and unleash their full might with tremendous fervor.

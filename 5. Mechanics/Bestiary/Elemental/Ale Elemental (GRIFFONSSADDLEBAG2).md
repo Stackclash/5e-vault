@@ -13,7 +13,7 @@ tags:
 aliases:
   - Ale Elemental
 ---
-# [[5. Mechanics\Bestiary\Elemental\Ale Elemental (GRIFFONSSADDLEBAG2).md|Ale Elemental]]
+# [[5. Mechanics/Bestiary/Elemental/Ale Elemental (GRIFFONSSADDLEBAG2).md|Ale Elemental]]
 *Source: The Griffon's Saddlebag, Book 2 p. 358*
 
 These swirling and frothy, caramel-colored creatures smell of honey and hops. The existence of ale elementals has brought about hours of intense research and debate about the possibility of an elemental plane of alcohol or the like. Planar travel has thus far proved impossible, although these elementals are occasionally summoned by inebriated mages purposefully or accidentally. Regardless of their means of arrival, these creatures swarm towards areas with high concentrations of alcoholic beverages. As they pursue their murky agendas, they usually end up causing terrible havoc and general mayhem.

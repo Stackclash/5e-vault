@@ -14,7 +14,7 @@ tags:
 aliases:
   - Quaggoth Spore Servant
 ---
-# [[5. Mechanics\Bestiary\Plant\Quaggoth Spore Servant.md|Quaggoth Spore Servant]]
+# [[5. Mechanics/Bestiary/Plant/Quaggoth Spore Servant.md|Quaggoth Spore Servant]]
 *Source: Monster Manual p. 230*
 
 A spore servant is any Large or smaller creature brought back to life by the animating spores of a myconid sovereign. A creature that was never flesh and blood to begin with (such as a construct, elemental, ooze, plant, or undead) can't be turned into a spore servant.

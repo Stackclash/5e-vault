@@ -13,7 +13,7 @@ tags:
 aliases:
   - Righteous Spirit
 ---
-# [[5. Mechanics\Bestiary\Undead\Righteous Spirit (GRIFFONSSADDLEBAG3).md|Righteous Spirit]]
+# [[5. Mechanics/Bestiary/Undead/Righteous Spirit (GRIFFONSSADDLEBAG3).md|Righteous Spirit]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Standing in stark contrast to most ethereal undead, a righteous spirit forgoes moving on to the afterlife in order to accomplish a greater good on the Material Plane. Often, these individuals are highly devoted knights and warriors, but virtually any good-aligned creature that dies with an unfinished, righteous purpose could follow this path. Compared to more typical spirits, they often retain elements of their past abilities such as skill with magic and the like. As goals are completed and time passes, they may decide to pass on, or they may take up a new purpose, such as guarding a graveyard, temple, or a particular lineage.

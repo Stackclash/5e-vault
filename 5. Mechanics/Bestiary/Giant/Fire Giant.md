@@ -15,7 +15,7 @@ tags:
 aliases:
   - Fire Giant
 ---
-# [[5. Mechanics\Bestiary\Giant\Fire Giant.md|Fire Giant]]
+# [[5. Mechanics/Bestiary/Giant/Fire Giant.md|Fire Giant]]
 *Source: Monster Manual p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.

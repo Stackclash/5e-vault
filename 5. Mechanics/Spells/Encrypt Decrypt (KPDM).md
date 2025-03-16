@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - spell
   - compendium/src/5e/kpdm
   - spell/class/bard
   - spell/class/cleric
@@ -24,7 +23,7 @@ time: 1 action
 duration: Instantaneous
 components: 'V, S'
 aliases:
-  - Encrypt \ Decrypt
+  - Encrypt / Decrypt
 ---
 # Encrypt / Decrypt
 *cantrip, Divination*  

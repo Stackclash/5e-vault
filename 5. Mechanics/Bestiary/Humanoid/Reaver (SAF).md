@@ -13,7 +13,7 @@ tags:
 aliases:
   - Reaver
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Reaver (SAF).md|Reaver]]
+# [[5. Mechanics/Bestiary/Humanoid/Reaver (SAF).md|Reaver]]
 *Source: Strongholds and Followers p. 72*
 
 ```statblock

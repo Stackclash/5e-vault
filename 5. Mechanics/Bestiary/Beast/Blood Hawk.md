@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: 'mountain, grassland, forest, hill, coastal, arctic'
 size: Small
 tags:
@@ -19,7 +19,7 @@ tags:
 aliases:
   - Blood Hawk
 ---
-# [[5. Mechanics\Bestiary\Beast\Blood Hawk.md|Blood Hawk]]
+# [[5. Mechanics/Bestiary/Beast/Blood Hawk.md|Blood Hawk]]
 *Source: Monster Manual p. 319. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Taking its name from its crimson feathers and aggressive nature, the blood hawk fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey.

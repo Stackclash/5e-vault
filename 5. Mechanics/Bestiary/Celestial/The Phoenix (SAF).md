@@ -13,7 +13,7 @@ tags:
 aliases:
   - The Phoenix
 ---
-# [[5. Mechanics\Bestiary\Celestial\The Phoenix (SAF).md|The Phoenix]]
+# [[5. Mechanics/Bestiary/Celestial/The Phoenix (SAF).md|The Phoenix]]
 *Source: Strongholds and Followers p. 248*
 
 ```statblock

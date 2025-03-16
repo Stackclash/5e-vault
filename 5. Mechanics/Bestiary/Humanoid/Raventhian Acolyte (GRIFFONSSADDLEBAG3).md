@@ -13,7 +13,7 @@ tags:
 aliases:
   - Raventhian Acolyte
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Raventhian Acolyte (GRIFFONSSADDLEBAG3).md|Raventhian Acolyte]]
+# [[5. Mechanics/Bestiary/Humanoid/Raventhian Acolyte (GRIFFONSSADDLEBAG3).md|Raventhian Acolyte]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The lingering cultists of the fallen Raventhia. They seek to revive their leader as a lich and finally destroy Val Linsin, the very stronghold their presence forced to create years ago.

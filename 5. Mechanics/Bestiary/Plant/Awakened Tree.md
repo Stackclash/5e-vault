@@ -14,7 +14,7 @@ tags:
 aliases:
   - Awakened Tree
 ---
-# [[5. Mechanics\Bestiary\Plant\Awakened Tree.md|Awakened Tree]]
+# [[5. Mechanics/Bestiary/Plant/Awakened Tree.md|Awakened Tree]]
 *Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 An awakened tree is an ordinary tree given sentience and mobility by the [[5. Mechanics/Spells/Awaken.md|awaken]] spell or similar magic.

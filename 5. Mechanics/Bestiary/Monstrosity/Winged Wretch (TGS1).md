@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'swamp, forest, hearth'
 size: Medium
 tags:
@@ -16,7 +16,7 @@ tags:
 aliases:
   - Winged Wretch
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Winged Wretch (TGS1).md|Winged Wretch]]
+# [[5. Mechanics/Bestiary/Monstrosity/Winged Wretch (TGS1).md|Winged Wretch]]
 *Source: The Griffon's Saddlebag, Book 1 p. 195*
 
 Winged wretches are swarming bat-humanoid hybrids native to subterranean realms and tropical jungles. Although they resemble certain shapechangers and vampires, they are not blood-drinkers. Regardless, they are cruel creatures who delight in the torture of weaker prey.

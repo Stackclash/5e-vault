@@ -14,7 +14,7 @@ tags:
 aliases:
   - Steel Predator
 ---
-# [[5. Mechanics\Bestiary\Construct\Steel Predator (MPMM).md|Steel Predator]]
+# [[5. Mechanics/Bestiary/Construct/Steel Predator (MPMM).md|Steel Predator]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*
 
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.

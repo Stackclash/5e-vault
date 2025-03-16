@@ -14,7 +14,7 @@ tags:
 aliases:
   - Death Dog
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Death Dog.md|Death Dog]]
+# [[5. Mechanics/Bestiary/Monstrosity/Death Dog.md|Death Dog]]
 *Source: Monster Manual p. 321. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A death dog is an ugly two-headed hound that roams plains, deserts, and the Underdark. Hate burns in a death dog's heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim's flesh to slowly rot off the bone.

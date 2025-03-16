@@ -13,7 +13,7 @@ tags:
 aliases:
   - Swarm of Nox Flowers
 ---
-# [[5. Mechanics\Bestiary\Plant\Swarm Of Nox Flowers (GRIFFONSSADDLEBAG3).md|Swarm of Nox Flowers]]
+# [[5. Mechanics/Bestiary/Plant/Swarm Of Nox Flowers (GRIFFONSSADDLEBAG3).md|Swarm of Nox Flowers]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The nox flower was originally created in the Safire Wood as a misguided attempt to stem the tide of the Midas Tree's expansion on the fey plane.

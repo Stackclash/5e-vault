@@ -17,7 +17,7 @@ tags:
 aliases:
   - Goat
 ---
-# [[5. Mechanics\Bestiary\Beast\Goat.md|Goat]]
+# [[5. Mechanics/Bestiary/Beast/Goat.md|Goat]]
 *Source: Monster Manual p. 330, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

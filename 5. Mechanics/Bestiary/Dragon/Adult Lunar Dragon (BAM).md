@@ -13,7 +13,7 @@ tags:
 aliases:
   - Adult Lunar Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Lunar Dragon (BAM).md|Adult Lunar Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Adult Lunar Dragon (BAM).md|Adult Lunar Dragon]]
 *Source: Boo's Astral Menagerie p. 34, Vecna: Eve of Ruin*
 
 Lunar dragons (also known as moon dragons or phase dragons) are capricious, xenophobic creatures that make their lairs inside desolate moons by burrowing through the rock.

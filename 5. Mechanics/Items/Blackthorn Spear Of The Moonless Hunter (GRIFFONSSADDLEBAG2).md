@@ -12,7 +12,7 @@ aliases:
   - Blackthorn Spear of the Moonless Hunter
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 20\60
+range: 20/60
 ---
 # Blackthorn Spear of the Moonless Hunter
 *Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), major, rare (requires attunement)*  

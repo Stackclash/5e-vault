@@ -14,7 +14,7 @@ tags:
 aliases:
   - Shield Guardian
 ---
-# [[5. Mechanics\Bestiary\Construct\Shield Guardian.md|Shield Guardian]]
+# [[5. Mechanics/Bestiary/Construct/Shield Guardian.md|Shield Guardian]]
 *Source: Monster Manual p. 271, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Wizards and other spellcasters create shield guardians for protection. A shield guardian treads beside its master, absorbing damage to keep its master alive as long as possible.

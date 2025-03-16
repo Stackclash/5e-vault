@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: urban
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Noble
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Noble.md|Noble]]
+# [[5. Mechanics/Bestiary/Humanoid/Noble.md|Noble]]
 *Source: Monster Manual p. 348, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Nobles wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.

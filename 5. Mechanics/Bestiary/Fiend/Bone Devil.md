@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bone Devil
 ---
-# [[5. Mechanics\Bestiary\Fiend\Bone Devil.md|Bone Devil]]
+# [[5. Mechanics/Bestiary/Fiend/Bone Devil.md|Bone Devil]]
 *Source: Monster Manual p. 71. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Driven by hate, lust, and envy, bone devils act as the cruel taskmasters of the Nine Hells. They set weaker devils to work, taking special delight in seeing fiends that defy them demoted. At the same time, they long for promotion and are bitterly envious of their superiors, attempting to curry favor though it irks them to do so.

@@ -16,7 +16,7 @@ tags:
 aliases:
   - Choker
 ---
-# [[5. Mechanics\Bestiary\Aberration\Choker (MPMM).md|Choker]]
+# [[5. Mechanics/Bestiary/Aberration/Choker (MPMM).md|Choker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123*
 
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.

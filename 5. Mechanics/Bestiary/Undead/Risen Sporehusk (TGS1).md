@@ -16,7 +16,7 @@ tags:
 aliases:
   - Risen Sporehusk
 ---
-# [[5. Mechanics\Bestiary\Undead\Risen Sporehusk (TGS1).md|Risen Sporehusk]]
+# [[5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md|Risen Sporehusk]]
 *Source: The Griffon's Saddlebag, Book 1 p. 186*
 
 The creatures that fall victim to the Lightspore's influence become sporehusks: empty shells of their former selves whose only purpose is to nourish the great Lightspore at the center of the festerwood.

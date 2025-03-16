@@ -11,7 +11,7 @@ tags:
 aliases:
   - Battlechef Field Dresser
 one-hand-damage: 1d4 P
-range: 20\60
+range: 20/60
 ---
 # Battlechef Field Dresser
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon (requires attunement)*  

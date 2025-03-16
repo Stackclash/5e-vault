@@ -14,7 +14,7 @@ tags:
 aliases:
   - Tlincalli
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Tlincalli (MPMM).md|Tlincalli]]
+# [[5. Mechanics/Bestiary/Monstrosity/Tlincalli (MPMM).md|Tlincalli]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Volo's Guide to Monsters p. 193*
 
 Tlincallis, also called scorpion folk, are chitin-covered creatures with a humanlike upper body and the lower body of an enormous scorpion, complete with a stinger at the end of a long tail. These desert creatures range across arid lands, hunting at dawn and dusk. In the hours between, they wait out the day's heat or the night's cold by burying themselves in loose sand or earth or, if the terrain proves too inflexible, lurking in ruins or shallow caves.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cartographer's Agent
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Cartographers Agent (GRIFFONSSADDLEBAG2).md|Cartographer's Agent]]
+# [[5. Mechanics/Bestiary/Humanoid/Cartographers Agent (GRIFFONSSADDLEBAG2).md|Cartographer's Agent]]
 *Source: The Griffon's Saddlebag, Book 2 p. 337*
 
 Most members of The Cartographer's Guild are simple mapmakers or merchants, but a special division known as The Cartographer's Agents handles the faction's dirtier business. These are the individuals that track and follow adventurers, using them as pawns to wear down the defenses of various dungeons and similar challenging locations. If these unknowing adventurers fall in combat, these agents are the ones that retrieve their belongings and treasures to fill the guild's coffers. If they survive, the agents can either finish them off and claim the wealth, or loot any leftover treasure that they were unable to acquire.

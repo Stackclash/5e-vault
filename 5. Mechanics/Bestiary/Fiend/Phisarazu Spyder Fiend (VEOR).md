@@ -13,7 +13,7 @@ tags:
 aliases:
   - Phisarazu Spyder-Fiend
 ---
-# [[5. Mechanics\Bestiary\Fiend\Phisarazu Spyder Fiend (VEOR).md|Phisarazu Spyder-Fiend]]
+# [[5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend (VEOR).md|Phisarazu Spyder-Fiend]]
 *Source: Vecna: Eve of Ruin p. 235*
 
 Phisarazu spyder-fiends have a pair of muscular arms sprouting beneath their wolf heads. They are resentful and suspicious of all other creatures, which makes them useful for corralling kakkuus or standing guard.

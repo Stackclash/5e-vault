@@ -14,7 +14,7 @@ tags:
 aliases:
   - Vampire
 ---
-# [[5. Mechanics\Bestiary\Undead\Vampire.md|Vampire]]
+# [[5. Mechanics/Bestiary/Undead/Vampire.md|Vampire]]
 *Source: Monster Manual p. 297, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.

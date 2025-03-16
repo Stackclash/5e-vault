@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Doom Ringer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Doom Ringer (GRIFFONSSADDLEBAG3).md|Doom Ringer]]
+# [[5. Mechanics/Bestiary/Humanoid/Doom Ringer (GRIFFONSSADDLEBAG3).md|Doom Ringer]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A doom ringer is a feverish acolyte of Los Fieles. They walk the streets of Gavia quietly ringing small, well-worn hand bells. The most maddened of doom ringers believe that to live without the sound of the bells for even a moment is to live in aversion to destiny, and therefore are heretical to their core beliefs.

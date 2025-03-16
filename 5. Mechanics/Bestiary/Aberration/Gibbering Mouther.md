@@ -14,7 +14,7 @@ tags:
 aliases:
   - Gibbering Mouther
 ---
-# [[5. Mechanics\Bestiary\Aberration\Gibbering Mouther.md|Gibbering Mouther]]
+# [[5. Mechanics/Bestiary/Aberration/Gibbering Mouther.md|Gibbering Mouther]]
 *Source: Monster Manual p. 157, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Of all the terrors created by foul sorcery, gibbering mouthers are among the most wicked and depraved. This creature is the composite eyes, mouths, and liquefied matter of its former victims. Driven to insanity by the destruction of their bodies and absorption into the mouther, those victims gibber incoherent madness, forced to consume everything in reach.

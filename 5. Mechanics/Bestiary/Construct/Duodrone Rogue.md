@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Duodrone (Rogue)
 ---
-# [[5. Mechanics\Bestiary\Construct\Duodrone Rogue.md|Duodrone (Rogue)]]
+# [[5. Mechanics/Bestiary/Construct/Duodrone Rogue.md|Duodrone (Rogue)]]
 *Source: Monster Manual p. 225*
 
 ```statblock

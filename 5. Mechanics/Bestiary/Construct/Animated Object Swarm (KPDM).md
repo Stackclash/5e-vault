@@ -13,7 +13,7 @@ tags:
 aliases:
   - Animated Object Swarm
 ---
-# [[5. Mechanics\Bestiary\Construct\Animated Object Swarm (KPDM).md|Animated Object Swarm]]
+# [[5. Mechanics/Bestiary/Construct/Animated Object Swarm (KPDM).md|Animated Object Swarm]]
 *Source: Deep Magic p. 37*
 
 ```statblock

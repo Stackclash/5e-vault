@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Platypus
 ---
-# [[5. Mechanics\Bestiary\Beast\Platypus (KPDM).md|Platypus]]
+# [[5. Mechanics/Bestiary/Beast/Platypus (KPDM).md|Platypus]]
 *Source: Deep Magic p. 293*
 
 The platypus is a water-dwelling mammal that feeds on worms and other creatures living in the mud of streams and rivers. Because of its odd appearance, the platypus is often taken as a familiar by [[5. Mechanics/Classes/Wizard School Of Transmutation.md|transmuters]].

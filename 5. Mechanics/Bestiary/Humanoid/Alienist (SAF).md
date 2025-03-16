@@ -13,7 +13,7 @@ tags:
 aliases:
   - Alienist
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Alienist (SAF).md|Alienist]]
+# [[5. Mechanics/Bestiary/Humanoid/Alienist (SAF).md|Alienist]]
 *Source: Strongholds and Followers p. 80*
 
 ```statblock

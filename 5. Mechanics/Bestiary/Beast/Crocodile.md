@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'swamp, urban'
 size: Large
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Crocodile
 ---
-# [[5. Mechanics\Bestiary\Beast\Crocodile.md|Crocodile]]
+# [[5. Mechanics/Bestiary/Beast/Crocodile.md|Crocodile]]
 *Source: Monster Manual p. 320. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

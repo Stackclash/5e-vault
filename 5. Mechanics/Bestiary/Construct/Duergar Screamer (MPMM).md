@@ -15,7 +15,7 @@ tags:
 aliases:
   - Duergar Screamer
 ---
-# [[5. Mechanics\Bestiary\Construct\Duergar Screamer (MPMM).md|Duergar Screamer]]
+# [[5. Mechanics/Bestiary/Construct/Duergar Screamer (MPMM).md|Duergar Screamer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 190*
 
 A duergar screamer uses sonic energy to grind rock into dust and to hurl invaders to the ground.

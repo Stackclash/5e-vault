@@ -14,7 +14,7 @@ tags:
 aliases:
   - Mage (Familiar)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Mage Familiar.md|Mage (Familiar)]]
+# [[5. Mechanics/Bestiary/Humanoid/Mage Familiar.md|Mage (Familiar)]]
 *Source: Monster Manual p. 347, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

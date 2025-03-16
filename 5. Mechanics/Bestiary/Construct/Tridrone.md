@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Tridrone
 ---
-# [[5. Mechanics\Bestiary\Construct\Tridrone.md|Tridrone]]
+# [[5. Mechanics/Bestiary/Construct/Tridrone.md|Tridrone]]
 *Source: Monster Manual p. 225*
 
 Tridrones are shaped like inverted pyramids. They lead lesser modrons in battle.

@@ -11,7 +11,7 @@ tags:
 aliases:
   - Polaris Magistrate Gavel
 one-hand-damage: 1d4 B
-range: 20\60
+range: 20/60
 ---
 # Polaris Magistrate Gavel
 *Weapon ([[5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, rare (requires attunement by a lawful creature)*  

@@ -10,7 +10,7 @@ tags:
 aliases:
   - Automatic Rifle
 one-hand-damage: 2d8 P
-range: 80\240
+range: 80/240
 ---
 # Automatic Rifle
 *Weapon*  

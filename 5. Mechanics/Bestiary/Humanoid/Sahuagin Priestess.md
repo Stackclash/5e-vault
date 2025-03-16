@@ -15,7 +15,7 @@ tags:
 aliases:
   - Sahuagin Priestess
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Sahuagin Priestess.md|Sahuagin Priestess]]
+# [[5. Mechanics/Bestiary/Humanoid/Sahuagin Priestess.md|Sahuagin Priestess]]
 *Source: Monster Manual p. 264*
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.

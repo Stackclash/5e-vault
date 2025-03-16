@@ -10,7 +10,7 @@ tags:
 aliases:
   - Dart of Caltrops
 one-hand-damage: 1d4 P
-range: 20\60
+range: 20/60
 ---
 # Dart of Caltrops
 *Weapon ([[5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  

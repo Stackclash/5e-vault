@@ -14,7 +14,7 @@ tags:
 aliases:
   - Grung Elite Warrior (Gold)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grung Elite Warrior Gold (MPMM).md|Grung Elite Warrior (Gold)]]
+# [[5. Mechanics/Bestiary/Humanoid/Grung Elite Warrior Gold (MPMM).md|Grung Elite Warrior (Gold)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*
 
 ```statblock

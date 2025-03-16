@@ -15,7 +15,7 @@ tags:
 aliases:
   - Fire Giant Dreadnought
 ---
-# [[5. Mechanics\Bestiary\Giant\Fire Giant Dreadnought (MPMM).md|Fire Giant Dreadnought]]
+# [[5. Mechanics/Bestiary/Giant/Fire Giant Dreadnought (MPMM).md|Fire Giant Dreadnought]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147*
 
 > [!quote] A quote from Mordenkainen  

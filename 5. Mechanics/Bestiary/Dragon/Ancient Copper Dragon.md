@@ -14,7 +14,7 @@ tags:
 aliases:
   - Ancient Copper Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Ancient Copper Dragon.md|Ancient Copper Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Ancient Copper Dragon.md|Ancient Copper Dragon]]
 *Source: Monster Manual p. 110. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: coastal
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Tortle
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Tortle (MPMM).md|Tortle]]
+# [[5. Mechanics/Bestiary/Humanoid/Tortle (MPMM).md|Tortle]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*
 
 The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Preserver Worker
 ---
-# [[5. Mechanics\Bestiary\Construct\Preserver Worker (GRIFFONSSADDLEBAG3).md|Preserver Worker]]
+# [[5. Mechanics/Bestiary/Construct/Preserver Worker (GRIFFONSSADDLEBAG3).md|Preserver Worker]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 By far the most commonplace Preserver model across the Lunar Sea, Preserver workers are Large constructs that can handle most of the derelict ship's tasks with minimal input or instruction.

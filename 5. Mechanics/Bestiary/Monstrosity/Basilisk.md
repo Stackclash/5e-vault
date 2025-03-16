@@ -14,7 +14,7 @@ tags:
 aliases:
   - Basilisk
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Basilisk.md|Basilisk]]
+# [[5. Mechanics/Bestiary/Monstrosity/Basilisk.md|Basilisk]]
 *Source: Monster Manual p. 24. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Travelers sometimes find objects that look like pieces of remarkably lifelike stone carvings of wildlife. Missing parts appear to have been bitten off. Seasoned explorers regard such relics as warnings, knowing that the basilisk that created them is likely to be nearby.

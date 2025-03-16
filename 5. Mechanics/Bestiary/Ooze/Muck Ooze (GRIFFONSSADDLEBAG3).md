@@ -13,7 +13,7 @@ tags:
 aliases:
   - Muck Ooze
 ---
-# [[5. Mechanics\Bestiary\Ooze\Muck Ooze (GRIFFONSSADDLEBAG3).md|Muck Ooze]]
+# [[5. Mechanics/Bestiary/Ooze/Muck Ooze (GRIFFONSSADDLEBAG3).md|Muck Ooze]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 ```statblock

@@ -11,7 +11,7 @@ tags:
 aliases:
   - Fanfare Blowgun
 one-hand-damage: 1 P
-range: 25\100
+range: 25/100
 ---
 # Fanfare Blowgun
 *Weapon ([[5. Mechanics/Items/Blowgun.md\|blowgun]]), major, uncommon (requires attunement by a bard)*  

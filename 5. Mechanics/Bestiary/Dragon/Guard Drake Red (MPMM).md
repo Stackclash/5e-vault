@@ -20,7 +20,7 @@ tags:
 aliases:
   - Guard Drake (Red)
 ---
-# [[5. Mechanics\Bestiary\Dragon\Guard Drake Red (MPMM).md|Guard Drake (Red)]]
+# [[5. Mechanics/Bestiary/Dragon/Guard Drake Red (MPMM).md|Guard Drake (Red)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*
 
 ```statblock

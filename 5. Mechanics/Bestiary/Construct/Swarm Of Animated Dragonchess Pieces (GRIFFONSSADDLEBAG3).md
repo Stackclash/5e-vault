@@ -13,7 +13,7 @@ tags:
 aliases:
   - Swarm of Animated Dragonchess Pieces
 ---
-# [[5. Mechanics\Bestiary\Construct\Swarm Of Animated Dragonchess Pieces (GRIFFONSSADDLEBAG3).md|Swarm of Animated Dragonchess Pieces]]
+# [[5. Mechanics/Bestiary/Construct/Swarm Of Animated Dragonchess Pieces (GRIFFONSSADDLEBAG3).md|Swarm of Animated Dragonchess Pieces]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Dragonchess pieces that have been enchanted by beguiling wizards, artificers, and game masters sometimes become fully autonomous, much like their deck of card counterparts. These pieces rattle about and take turns enlarging and attacking, behaving like a legion of humanoids and beasts working together in deadly partnership.

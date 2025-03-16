@@ -14,7 +14,7 @@ tags:
 aliases:
   - Djinni (Wishes)
 ---
-# [[5. Mechanics\Bestiary\Elemental\Djinni Wishes.md|Djinni (Wishes)]]
+# [[5. Mechanics/Bestiary/Elemental/Djinni Wishes.md|Djinni (Wishes)]]
 *Source: Monster Manual p. 144, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock

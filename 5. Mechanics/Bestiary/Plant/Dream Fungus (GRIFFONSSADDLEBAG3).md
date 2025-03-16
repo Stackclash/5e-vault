@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dream Fungus
 ---
-# [[5. Mechanics\Bestiary\Plant\Dream Fungus (GRIFFONSSADDLEBAG3).md|Dream Fungus]]
+# [[5. Mechanics/Bestiary/Plant/Dream Fungus (GRIFFONSSADDLEBAG3).md|Dream Fungus]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A dream fungus is a towering mushroom that spreads brain-altering spores which allow it to lure and poison the minds of passersby. Its spores are known to create violent hallucinations resulting in berserking fits and unspeakable fear.

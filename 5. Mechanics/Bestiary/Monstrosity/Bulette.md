@@ -16,7 +16,7 @@ tags:
 aliases:
   - Bulette
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Bulette.md|Bulette]]
+# [[5. Mechanics/Bestiary/Monstrosity/Bulette.md|Bulette]]
 *Source: Monster Manual p. 34. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A bulette is a massive predator that terrorizes any lands it inhabits. Also called a "land shark," it lives only to feed. Irascible and rapacious, bulettes fear no other creature, and they attack with no regard for superior numbers or strength.

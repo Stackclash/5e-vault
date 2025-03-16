@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'mountain, underdark'
 size: Small
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Derro
 ---
-# [[5. Mechanics\Bestiary\Aberration\Derro (MPMM).md|Derro]]
+# [[5. Mechanics/Bestiary/Aberration/Derro (MPMM).md|Derro]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91, Mordenkainen's Tome of Foes p. 158*
 
 > [!quote] A quote from Mordenkainen  

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Durheim Leader
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Durheim Leader (GRIFFONSSADDLEBAG2).md|Durheim Leader]]
+# [[5. Mechanics/Bestiary/Humanoid/Durheim Leader (GRIFFONSSADDLEBAG2).md|Durheim Leader]]
 *Source: The Griffon's Saddlebag, Book 2 p. 354*
 
 Within the walls and courtyards of Durheim Monastery, the Leader serves as spiritual and secular advisor. In this role, they give lectures and interpretations of Lightseer Attiskin's teachings and philosophies, and ensure that both the living and the dead can walk their respective paths safely.

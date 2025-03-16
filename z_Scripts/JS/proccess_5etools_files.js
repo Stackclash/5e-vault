@@ -232,8 +232,12 @@ const config = {
             },
             process: function (file) {
                 fs.mkdirSync(path.parse(file.path).dir, { recursive: true })
-                fs.writeFileSync(file.path, matter.stringify(file.content, file.frontMatter))
-                fs.unlinkSync(file._oldPath)
+                if (['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)) {
+                    fs.renameSync(file._oldPath, file.path)
+                } else {
+                    fs.writeFileSync(file.path, matter.stringify(file.content, file.frontMatter))
+                    fs.unlinkSync(file._oldPath)
+                }
                 if (config.logs.moves) console.log(`\tMoved To: ${path.join(file.relativePath, file.fileName + file.fileExtension)}`)
             }
         }

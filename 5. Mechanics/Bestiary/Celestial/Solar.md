@@ -13,7 +13,7 @@ tags:
 aliases:
   - Solar
 ---
-# [[5. Mechanics\Bestiary\Celestial\Solar.md|Solar]]
+# [[5. Mechanics/Bestiary/Celestial/Solar.md|Solar]]
 *Source: Monster Manual p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Crystal Golem
 ---
-# [[5. Mechanics\Bestiary\Elemental\Crystal Golem (GRIFFONSSADDLEBAG3).md|Crystal Golem]]
+# [[5. Mechanics/Bestiary/Elemental/Crystal Golem (GRIFFONSSADDLEBAG3).md|Crystal Golem]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 These mighty elementals seem to form around mirrorlight crystal formations and are given life from any proximity to the Elemental Plane of Earth. Although their size is considerable, they often surprise travelers by blending in with the cave's mineral-strewn terrain. Much of their bulk is actual crystal, but a strange property of their animation allows them to sometimes nullify otherwise harmful frequencies and sonic attacks. The volume of crystal also makes them prime targets for miners and monsters that rely on the gems for sustenance, but these lumbering creatures display remarkable strength and ferocity against would-be predators.

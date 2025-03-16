@@ -11,7 +11,7 @@ tags:
 aliases:
   - Oathbow
 one-hand-damage: 1d8 P
-range: 150\600
+range: 150/600
 ---
 # Oathbow
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  

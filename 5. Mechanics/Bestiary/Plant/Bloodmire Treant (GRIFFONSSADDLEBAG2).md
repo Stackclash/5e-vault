@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bloodmire Treant
 ---
-# [[5. Mechanics\Bestiary\Plant\Bloodmire Treant (GRIFFONSSADDLEBAG2).md|Bloodmire Treant]]
+# [[5. Mechanics/Bestiary/Plant/Bloodmire Treant (GRIFFONSSADDLEBAG2).md|Bloodmire Treant]]
 *Source: The Griffon's Saddlebag, Book 2 p. 344*
 
 The Syre Wood was home to numerous great trees and treants, but the swiftness of the Legion's assault left the forest's defense in the hands of Syre and his sprites. As such, the blood of Malfuriel has rapidly tainted the various treants of the swamp just as it altered the other wildlife. Those unlucky enough to draw a bloodmire treant's ire will face all of nature's wrath as well as the foul blood magic of Malfuriel, as these cursed treants possess the ability to animate pools of bloodwater into ooze-like forms as an additional means of defense.

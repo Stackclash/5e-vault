@@ -15,7 +15,7 @@ tags:
 aliases:
   - Dybbuk
 ---
-# [[5. Mechanics\Bestiary\Fiend\Dybbuk (MPMM).md|Dybbuk]]
+# [[5. Mechanics/Bestiary/Fiend/Dybbuk (MPMM).md|Dybbuk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 113, Mordenkainen's Tome of Foes p. 132*
 
 Dybbuks are demons that terrorize mortals on the Material Plane by possessing corpses and giving them a semblance of life, after which the demons use them to engage in a range of sordid activities.

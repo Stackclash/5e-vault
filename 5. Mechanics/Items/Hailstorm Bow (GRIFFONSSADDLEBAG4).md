@@ -10,7 +10,7 @@ tags:
 aliases:
   - Hailstorm Bow
 one-hand-damage: 1d8 P
-range: 150\600
+range: 150/600
 ---
 # Hailstorm Bow
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), legendary (requires attunement)*  

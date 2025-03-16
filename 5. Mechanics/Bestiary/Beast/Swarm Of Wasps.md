@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'underdark, grassland, forest, swamp, hill, urban, desert'
 size: Medium
 tags:
@@ -20,7 +20,7 @@ tags:
 aliases:
   - Swarm of Wasps
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Wasps.md|Swarm of Wasps]]
+# [[5. Mechanics/Bestiary/Beast/Swarm Of Wasps.md|Swarm of Wasps]]
 *Source: Monster Manual p. 338, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 > [!note] The Nature of Swarms

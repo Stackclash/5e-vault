@@ -13,7 +13,7 @@ tags:
 aliases:
   - Shadow Spirit (Fear)
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit Fear (TCE).md|Shadow Spirit (Fear)]]
+# [[5. Mechanics/Bestiary/Monstrosity/Shadow Spirit Fear (TCE).md|Shadow Spirit (Fear)]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock

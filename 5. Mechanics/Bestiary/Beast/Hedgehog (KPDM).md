@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hedgehog
 ---
-# [[5. Mechanics\Bestiary\Beast\Hedgehog (KPDM).md|Hedgehog]]
+# [[5. Mechanics/Bestiary/Beast/Hedgehog (KPDM).md|Hedgehog]]
 *Source: Deep Magic p. 292*
 
 The hedgehog is a small terrestrial mammal that eats insects and worms. Its body is covered in hollow spines that it can extend as a defense mechanism. Hedgehogs are often used as familiars by gnomes and halflings.

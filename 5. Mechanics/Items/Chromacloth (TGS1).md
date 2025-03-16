@@ -10,7 +10,7 @@ tags:
 aliases:
   - Chromacloth
 one-hand-damage: 1d4 B
-range: 30\120
+range: 30/120
 ---
 # Chromacloth
 *Weapon ([[5. Mechanics/Items/Sling.md\|sling]]), major, uncommon*  

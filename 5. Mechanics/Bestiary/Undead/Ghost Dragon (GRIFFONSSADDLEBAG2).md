@@ -13,7 +13,7 @@ tags:
 aliases:
   - Ghost Dragon
 ---
-# [[5. Mechanics\Bestiary\Undead\Ghost Dragon (GRIFFONSSADDLEBAG2).md|Ghost Dragon]]
+# [[5. Mechanics/Bestiary/Undead/Ghost Dragon (GRIFFONSSADDLEBAG2).md|Ghost Dragon]]
 *Source: The Griffon's Saddlebag, Book 2 p. 355*
 
 In pursuit of knowledge or power, occasionally the soul of a chromatic dragon will accidentally or willfully ascend from its mortal trappings to terrorize the Ethereal Plane. Most often, a slain dragon will follow a pattern similar to other mortal creatures, becoming so consumed by the desire for vengeance that their incorporeal essence lingers. These vicious creatures are not to be underestimated upon observing their singleminded fury, for their bone-chilling breath weapon and life-sapping melee onslaught are truly formidable.

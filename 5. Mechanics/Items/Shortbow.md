@@ -10,7 +10,7 @@ aliases:
   - Shortbow
 cost: 2500
 one-hand-damage: 1d6 P
-range: 80\320
+range: 80/320
 ---
 # Shortbow
 *Weapon*  

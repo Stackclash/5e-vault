@@ -13,7 +13,7 @@ tags:
 aliases:
   - Purple Jam
 ---
-# [[5. Mechanics\Bestiary\Ooze\Purple Jam (GRIFFONSSADDLEBAG2).md|Purple Jam]]
+# [[5. Mechanics/Bestiary/Ooze/Purple Jam (GRIFFONSSADDLEBAG2).md|Purple Jam]]
 *Source: The Griffon's Saddlebag, Book 2 p. 360*
 
 A small and yet pernicious ooze, the purple jam looks like a mushy globule of smashed grapes or dark berries. They mindlessly consume plantlife, leading some to speculate that they originated from a goodberry spell gone wrong. Their wanderings often lead them to spaces like taverns where their natural camouflage is uniquely suited, and food is plentiful. A persistent creature, it's surprisingly difficult to destroy—especially for the type of magical practitioners typically found in the small towns and cities they prefer.

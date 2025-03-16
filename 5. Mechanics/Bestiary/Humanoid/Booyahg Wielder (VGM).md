@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Booyahg Wielder
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Booyahg Wielder (VGM).md|Booyahg Wielder]]
+# [[5. Mechanics/Bestiary/Humanoid/Booyahg Wielder (VGM).md|Booyahg Wielder]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin found a magic item (a [[5. Mechanics/Items/Necklace Of Fireballs.md|necklace of fireballs]], a [[5. Mechanics/Items/Circlet Of Blasting.md|circlet of blasting]], or the like) and learned how to use it.

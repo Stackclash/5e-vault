@@ -15,7 +15,7 @@ tags:
 aliases:
   - Alhoon
 ---
-# [[5. Mechanics\Bestiary\Undead\Alhoon (MPMM).md|Alhoon]]
+# [[5. Mechanics/Bestiary/Undead/Alhoon (MPMM).md|Alhoon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172*
 
 > [!quote] A quote from Mordenkainen  

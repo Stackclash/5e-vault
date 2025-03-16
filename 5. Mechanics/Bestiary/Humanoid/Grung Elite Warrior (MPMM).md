@@ -14,7 +14,7 @@ tags:
 aliases:
   - Grung Elite Warrior
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grung Elite Warrior (MPMM).md|Grung Elite Warrior]]
+# [[5. Mechanics/Bestiary/Humanoid/Grung Elite Warrior (MPMM).md|Grung Elite Warrior]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*
 
 A grung elite warrior typically leads a group of grung and other warriors into battle and is often accompanied by a grung wildling.

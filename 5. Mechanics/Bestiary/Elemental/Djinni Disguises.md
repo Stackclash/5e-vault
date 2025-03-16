@@ -14,7 +14,7 @@ tags:
 aliases:
   - Djinni (Disguises)
 ---
-# [[5. Mechanics\Bestiary\Elemental\Djinni Disguises.md|Djinni (Disguises)]]
+# [[5. Mechanics/Bestiary/Elemental/Djinni Disguises.md|Djinni (Disguises)]]
 *Source: Monster Manual p. 144, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock

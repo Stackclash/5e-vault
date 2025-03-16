@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cavalier
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Cavalier (SAF).md|Cavalier]]
+# [[5. Mechanics/Bestiary/Humanoid/Cavalier (SAF).md|Cavalier]]
 *Source: Strongholds and Followers p. 77*
 
 ```statblock

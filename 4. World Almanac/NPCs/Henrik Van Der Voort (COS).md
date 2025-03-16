@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\Henrik Van Der Voort.webp
+  - 4. World Almanac/NPCs/img/Henrik Van Der Voort.webp
 relationships: []
 aliases:
   - Henrik van der Voort

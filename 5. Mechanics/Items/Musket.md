@@ -11,7 +11,7 @@ aliases:
   - Musket
 cost: 50000
 one-hand-damage: 1d12 P
-range: 40\120
+range: 40/120
 ---
 # Musket
 *Weapon*  

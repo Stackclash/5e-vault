@@ -13,7 +13,7 @@ tags:
 aliases:
   - Sivvar's Writing Desk
 ---
-# [[5. Mechanics\Bestiary\Construct\Sivvars Writing Desk (KPDM).md|Sivvar's Writing Desk]]
+# [[5. Mechanics/Bestiary/Construct/Sivvars Writing Desk (KPDM).md|Sivvar's Writing Desk]]
 *Source: Deep Magic p. 288*
 
 *This large ebony writing table has glossy brass fittings and a broad, flat top, dangling from which is a thin brass chain. Carved at the end of the desk's wooden legs are the claws of some sort of beast. As you approach, these claws animate and paw menacingly at the ground.*

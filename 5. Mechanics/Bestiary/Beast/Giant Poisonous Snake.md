@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'underdark, grassland, forest, swamp, urban, desert'
 size: Medium
 tags:
@@ -19,7 +19,7 @@ tags:
 aliases:
   - Giant Poisonous Snake
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Poisonous Snake.md|Giant Poisonous Snake]]
+# [[5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md|Giant Poisonous Snake]]
 *Source: Monster Manual p. 327, Curse of Strahd, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

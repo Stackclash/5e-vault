@@ -13,7 +13,7 @@ tags:
 aliases:
   - Spirit of Dendallen
 ---
-# [[5. Mechanics\Bestiary\Undead\Spirit Of Dendallen (TGS1).md|Spirit of Dendallen]]
+# [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|Spirit of Dendallen]]
 *Source: The Griffon's Saddlebag, Book 1 p. 200*
 
 ## Attuning to the Remnants

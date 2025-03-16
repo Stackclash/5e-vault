@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bloodhound
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Bloodhound Da Gic.md|Bloodhound]]
+# [[5. Mechanics/Bestiary/Monstrosity/Bloodhound Da Gic.md|Bloodhound]]
 *Source: Devil's Advocate: A Guide to Infernal Contracts p. 22*
 
 Hellhounds are excellent trackers, but they're mediocre at sniffing out signees who can mask their trail with illusion magic or hide through a spell like Mordenkainen's private sanctum. Deep in the lorehouses of frigid Cania, servants of the archdevil Mephistopheles sought to remedy this problem by experimenting on hellhounds with ancient magic. The result was the bloodhound, a brutish tracker with a nose calibrated to arcane violators. When it's in range, the olfactory glands of a bloodhound's snout are capable of disrupting magical nondetection and illusions.

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'forest, swamp'
 size: Medium
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Giant Frog
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Frog.md|Giant Frog]]
+# [[5. Mechanics/Bestiary/Beast/Giant Frog.md|Giant Frog]]
 *Source: Monster Manual p. 325. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

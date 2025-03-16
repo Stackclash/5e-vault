@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Abyssal Worm
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Abyssal Worm (KPDM).md|Abyssal Worm]]
+# [[5. Mechanics/Bestiary/Monstrosity/Abyssal Worm (KPDM).md|Abyssal Worm]]
 *Source: Deep Magic p. 295*
 
 These creatures can be found in vast numbers in the lower planes, mostly providing fodder for demons and other denizens. Typically, an abyssal worm measures a foot to a foot and a half in length, its body gray in color, with mossy green and mustard yellow mottling. The worm's mouth is a round orifice ringed with sharp, needle-like teeth. The worm's skin exudes a slime that leaves a glistening trail in its path.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Moonlight Guardian
 ---
-# [[5. Mechanics\Bestiary\Construct\Moonlight Guardian (VEOR).md|Moonlight Guardian]]
+# [[5. Mechanics/Bestiary/Construct/Moonlight Guardian (VEOR).md|Moonlight Guardian]]
 *Source: Vecna: Eve of Ruin p. 227*
 
 > [!quote] A quote from Werthil,Kender Adventurer  

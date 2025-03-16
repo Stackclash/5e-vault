@@ -13,7 +13,7 @@ tags:
 aliases:
   - Durheim Guide
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Durheim Guide (GRIFFONSSADDLEBAG2).md|Durheim Guide]]
+# [[5. Mechanics/Bestiary/Humanoid/Durheim Guide (GRIFFONSSADDLEBAG2).md|Durheim Guide]]
 *Source: The Griffon's Saddlebag, Book 2 p. 353*
 
 When Durheim monks have honed their soul to the point where the Walking the Liminal Path is the next stage of their destiny, they begin their journey as Guides. Along the Path, they travel across the land and dutifully seek out struggling spirits. When they feel the time is right, they return to record their experiences. As the main body of the Monastery's membership, Guides are often someone's first introduction to the Order.

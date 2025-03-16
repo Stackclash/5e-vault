@@ -15,7 +15,7 @@ tags:
 aliases:
   - Centaur
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Centaur.md|Centaur]]
+# [[5. Mechanics/Bestiary/Monstrosity/Centaur.md|Centaur]]
 *Source: Monster Manual p. 38. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 > [!quote] A quote from Batley Summerfoot, a halfling adventurer who never read HOOVES OF FURY, by Iryil Grayborn of Sundown  

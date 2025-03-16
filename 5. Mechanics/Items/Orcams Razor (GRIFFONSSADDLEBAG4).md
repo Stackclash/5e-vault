@@ -9,7 +9,7 @@ tags:
 aliases:
   - Orcam's Razor
 one-hand-damage: 1d6 S
-range: 20\60
+range: 20/60
 ---
 # Orcam's Razor
 *Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), uncommon*  

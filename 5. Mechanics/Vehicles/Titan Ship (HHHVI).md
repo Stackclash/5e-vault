@@ -10,7 +10,6 @@ aliases:
   - Titan Ship
 ---
 # Titan Ship
-%%-- Embedded content starts on the next line. --%%
 *Source: Hamund's Harvesting Handbook: Volume I p. 142*  
 
 

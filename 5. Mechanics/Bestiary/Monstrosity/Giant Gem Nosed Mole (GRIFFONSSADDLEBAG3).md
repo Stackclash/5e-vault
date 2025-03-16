@@ -13,7 +13,7 @@ tags:
 aliases:
   - Giant Gem-nosed Mole
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Giant Gem Nosed Mole (GRIFFONSSADDLEBAG3).md|Giant Gem-nosed Mole]]
+# [[5. Mechanics/Bestiary/Monstrosity/Giant Gem Nosed Mole (GRIFFONSSADDLEBAG3).md|Giant Gem-nosed Mole]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 With claws of diamond-cutting adamantine and a particularly sensitive olfactory organ made of some sort of living crystal, the giant gem-nosed mole is another creature that seeks out gems and mineral growths for nutrients, but are generally much less aggressive than geode wurms are. Their gemstone noses are capable of detecting both light and smell, allowing it to navigate to nearby mineral deposits and detect even the slightest hint of light from a crystal or gem.

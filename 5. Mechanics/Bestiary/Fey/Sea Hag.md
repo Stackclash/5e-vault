@@ -15,7 +15,7 @@ tags:
 aliases:
   - Sea Hag
 ---
-# [[5. Mechanics\Bestiary\Fey\Sea Hag.md|Sea Hag]]
+# [[5. Mechanics/Bestiary/Fey/Sea Hag.md|Sea Hag]]
 *Source: Monster Manual p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Sea hags live in dismal and polluted underwater lairs, surrounded by merrow and other aquatic monsters.

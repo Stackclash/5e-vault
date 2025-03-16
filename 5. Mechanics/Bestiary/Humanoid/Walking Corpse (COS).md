@@ -13,7 +13,7 @@ tags:
 aliases:
   - Walking Corpse
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Walking Corpse (COS).md|Walking Corpse]]
+# [[5. Mechanics/Bestiary/Humanoid/Walking Corpse (COS).md|Walking Corpse]]
 *Source: Curse of Strahd p. 165*
 
 ```statblock

@@ -11,7 +11,7 @@ tags:
 aliases:
   - Orner's Venomous Crossbow
 one-hand-damage: 1d6 P
-range: 30\120
+range: 30/120
 ---
 # Orner's Venomous Crossbow
 *Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, uncommon (requires attunement)*  

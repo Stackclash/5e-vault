@@ -17,7 +17,7 @@ tags:
 aliases:
   - Weretiger
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Weretiger.md|Weretiger]]
+# [[5. Mechanics/Bestiary/Humanoid/Weretiger.md|Weretiger]]
 *Source: Monster Manual p. 210. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Weretigers are ferocious hunters and warriors with a haughty and fastidious nature. Lithe and sleekly muscular in humanoid form, they are taller than average and meticulously groomed. Weretigers grow to enormous size in animal and hybrid form, but they fight in their more refined humanoid form when they can.

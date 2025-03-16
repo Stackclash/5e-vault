@@ -13,7 +13,7 @@ tags:
 aliases:
   - Swarm of Giant Mosquitoes
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Giant Mosquitoes (GRIFFONSSADDLEBAG2).md|Swarm of Giant Mosquitoes]]
+# [[5. Mechanics/Bestiary/Beast/Swarm Of Giant Mosquitoes (GRIFFONSSADDLEBAG2).md|Swarm of Giant Mosquitoes]]
 *Source: The Griffon's Saddlebag, Book 2 p. 345*
 
 Empowered by the sheer volume of slow-moving blood present in the swampland formerly known as the Syre Wood, giant mosquitoes are a constant threat to travelers and denizens alike. The mosquitoes are one of the most frequent carriers of disease and with their size and numbers are capable of tremendous damage.

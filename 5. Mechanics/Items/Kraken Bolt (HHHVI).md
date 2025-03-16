@@ -7,7 +7,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Kraken Bolt
-range: 120\480
+range: 120/480
 ---
 # Kraken Bolt
 *Ammunition, very rare*  

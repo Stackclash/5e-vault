@@ -13,7 +13,7 @@ tags:
 aliases:
   - Citadel Spider
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Citadel Spider (VEOR).md|Citadel Spider]]
+# [[5. Mechanics/Bestiary/Monstrosity/Citadel Spider (VEOR).md|Citadel Spider]]
 *Source: Vecna: Eve of Ruin p. 214*
 
 > [!quote] A quote from Camlash, Balor General of Lolth  

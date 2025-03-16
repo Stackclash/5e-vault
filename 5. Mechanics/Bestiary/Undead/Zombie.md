@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: urban
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Zombie
 ---
-# [[5. Mechanics\Bestiary\Undead\Zombie.md|Zombie]]
+# [[5. Mechanics/Bestiary/Undead/Zombie.md|Zombie]]
 *Source: Monster Manual p. 316, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.

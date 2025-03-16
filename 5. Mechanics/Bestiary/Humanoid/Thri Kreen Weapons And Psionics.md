@@ -15,7 +15,7 @@ tags:
 aliases:
   - Thri-kreen (Weapons and Psionics)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Thri Kreen Weapons And Psionics.md|Thri-kreen (Weapons and Psionics)]]
+# [[5. Mechanics/Bestiary/Humanoid/Thri Kreen Weapons And Psionics.md|Thri-kreen (Weapons and Psionics)]]
 *Source: Monster Manual p. 288*
 
 ```statblock

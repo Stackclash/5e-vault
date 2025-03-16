@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: 'underwater, coastal'
 size: Medium
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Merfolk
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Merfo(LK).md|Merfolk]]
+# [[5. Mechanics/Bestiary/Humanoid/Merfo(LK).md|Merfolk]]
 *Source: Monster Manual p. 218. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Aquatic humanoids with the upper body of a human and the lower body of a fish, merfolk adorn their skin and scales with shell decorations.

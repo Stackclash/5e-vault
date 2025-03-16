@@ -13,7 +13,7 @@ tags:
 aliases:
   - Clay Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Clay Golem.md|Clay Golem]]
+# [[5. Mechanics/Bestiary/Construct/Clay Golem.md|Clay Golem]]
 *Source: Monster Manual p. 168, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Sculpted from clay, this bulky golem stands head and shoulders taller than most human-sized creatures. It is human shaped, but its proportions are off.

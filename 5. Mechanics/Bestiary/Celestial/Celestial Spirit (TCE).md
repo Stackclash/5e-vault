@@ -13,7 +13,7 @@ tags:
 aliases:
   - Celestial Spirit
 ---
-# [[5. Mechanics\Bestiary\Celestial\Celestial Spirit (TCE).md|Celestial Spirit]]
+# [[5. Mechanics/Bestiary/Celestial/Celestial Spirit (TCE).md|Celestial Spirit]]
 *Source: Tasha's Cauldron of Everything p. 110*
 
 ```statblock

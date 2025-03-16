@@ -15,7 +15,7 @@ tags:
 aliases:
   - Sea Hag (Coven)
 ---
-# [[5. Mechanics\Bestiary\Fey\Sea Hag Coven.md|Sea Hag (Coven)]]
+# [[5. Mechanics/Bestiary/Fey/Sea Hag Coven.md|Sea Hag (Coven)]]
 *Source: Monster Manual p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock

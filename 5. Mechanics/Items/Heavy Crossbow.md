@@ -10,7 +10,7 @@ aliases:
   - Heavy Crossbow
 cost: 5000
 one-hand-damage: 1d10 P
-range: 100\400
+range: 100/400
 ---
 # Heavy Crossbow
 *Weapon*  

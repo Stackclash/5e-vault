@@ -13,7 +13,7 @@ tags:
 aliases:
   - Vault Scanner
 ---
-# [[5. Mechanics\Bestiary\Construct\Vault Scanner (GRIFFONSSADDLEBAG3).md|Vault Scanner]]
+# [[5. Mechanics/Bestiary/Construct/Vault Scanner (GRIFFONSSADDLEBAG3).md|Vault Scanner]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Vault scanners are the mechanical constructs that patrol the vaults and hallways of the Mountain of Gold. Their purpose is to find intruders and validate any bank-going clientelle.

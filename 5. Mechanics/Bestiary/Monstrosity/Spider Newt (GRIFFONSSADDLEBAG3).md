@@ -13,7 +13,7 @@ tags:
 aliases:
   - Spider-Newt
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Spider Newt (GRIFFONSSADDLEBAG3).md|Spider-Newt]]
+# [[5. Mechanics/Bestiary/Monstrosity/Spider Newt (GRIFFONSSADDLEBAG3).md|Spider-Newt]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Of the many predators that stalk the wood, the spider-newt is the most renowned. This arachnid-like reptile is uniquely suited to surviving in such a hostile locale, protected by acid that oozes from its skin and from glands in its throat and mouth. Most [[5. Mechanics/Bestiary/Fey/Safire Hag (GRIFFONSSADDLEBAG3).md|Safire hags]] keep one or more of these beasts for travel, acid collection, or a combination of the two. The secret to keeping them placated is a steady diet of their favorite treat, Ketriphan Moss, dosed with a special solution. In its mouth and stomach, this potion blends with the acid to create a potent and highly-addictive sedative.

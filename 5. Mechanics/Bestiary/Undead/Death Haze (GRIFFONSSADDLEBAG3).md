@@ -13,7 +13,7 @@ tags:
 aliases:
   - Death Haze
 ---
-# [[5. Mechanics\Bestiary\Undead\Death Haze (GRIFFONSSADDLEBAG3).md|Death Haze]]
+# [[5. Mechanics/Bestiary/Undead/Death Haze (GRIFFONSSADDLEBAG3).md|Death Haze]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 In the miasma of nightmares, either in the space of dreams or in the lands that touch them, the threat of a death haze is a constant worry. Death hazes create powerful illusions responsible for luring unexpecting dreamers into peril, convincing them of any manner of temptations or fears with their illusory appearances.

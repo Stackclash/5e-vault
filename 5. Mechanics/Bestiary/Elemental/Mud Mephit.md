@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: swamp
 size: Small
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Mud Mephit
 ---
-# [[5. Mechanics\Bestiary\Elemental\Mud Mephit.md|Mud Mephit]]
+# [[5. Mechanics/Bestiary/Elemental/Mud Mephit.md|Mud Mephit]]
 *Source: Monster Manual p. 216*
 
 ## Mephits

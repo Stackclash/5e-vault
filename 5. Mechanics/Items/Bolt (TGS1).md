@@ -11,7 +11,7 @@ tags:
 aliases:
   - Bolt
 one-hand-damage: 1d12 L
-range: 100\400
+range: 100/400
 ---
 # Bolt
 *Weapon ([[5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, very rare (requires attunement)*  

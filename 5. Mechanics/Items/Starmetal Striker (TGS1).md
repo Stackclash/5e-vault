@@ -11,7 +11,7 @@ tags:
 aliases:
   - Starmetal Striker
 one-hand-damage: 1d4 B
-range: 20\60
+range: 20/60
 ---
 # Starmetal Striker
 *Weapon ([[5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, rare (requires attunement)*  

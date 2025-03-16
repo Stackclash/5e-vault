@@ -13,7 +13,7 @@ tags:
 aliases:
   - Theurgist
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Theurgist (SAF).md|Theurgist]]
+# [[5. Mechanics/Bestiary/Humanoid/Theurgist (SAF).md|Theurgist]]
 *Source: Strongholds and Followers p. 81*
 
 ```statblock

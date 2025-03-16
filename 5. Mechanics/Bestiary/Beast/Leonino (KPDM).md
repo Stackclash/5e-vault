@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Leonino
 ---
-# [[5. Mechanics\Bestiary\Beast\Leonino (KPDM).md|Leonino]]
+# [[5. Mechanics/Bestiary/Beast/Leonino (KPDM).md|Leonino]]
 *Source: Deep Magic p. 298*
 
 Appearing as a wild cat with hawk-like wings, the leonino is a much sought-after familiar by elf wizards, particularly those who have an affinity for air or wind. Acquiring a leonino familiar requires the casting of the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] spell, with an additional offering of fine fish and at least 200 feet of dyed red yarn. Once the spell is cast, the wizard makes a Charisma check contested by the leonino's Charisma check. If the leonino wins the contest, the creature flies off and the wizard is hated and distrusted by all feline creatures for at least a month.

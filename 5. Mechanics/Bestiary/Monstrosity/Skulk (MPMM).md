@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'coastal, forest, swamp, underdark, urban'
 size: Medium
 tags:
@@ -18,7 +18,7 @@ tags:
 aliases:
   - Skulk
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Skulk (MPMM).md|Skulk]]
+# [[5. Mechanics/Bestiary/Monstrosity/Skulk (MPMM).md|Skulk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227*
 
 > [!quote] A quote from Mordenkainen  

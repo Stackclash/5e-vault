@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fen Serpent
 ---
-# [[5. Mechanics\Bestiary\Beast\Fen Serpent (GRIFFONSSADDLEBAG3).md|Fen Serpent]]
+# [[5. Mechanics/Bestiary/Beast/Fen Serpent (GRIFFONSSADDLEBAG3).md|Fen Serpent]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 ```statblock

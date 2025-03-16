@@ -17,7 +17,7 @@ tags:
 aliases:
   - Wastrilith
 ---
-# [[5. Mechanics\Bestiary\Fiend\Wastrilith (MPMM).md|Wastrilith]]
+# [[5. Mechanics/Bestiary/Fiend/Wastrilith (MPMM).md|Wastrilith]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 258, Mordenkainen's Tome of Foes p. 139*
 
 Found in the waters of the Abyss and other bodies of water contaminated by that plane's fell influence, wastriliths establish themselves as lords of the deep and rule their dominions with cruelty.

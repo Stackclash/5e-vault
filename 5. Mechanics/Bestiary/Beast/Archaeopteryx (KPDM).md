@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Archaeopteryx
 ---
-# [[5. Mechanics\Bestiary\Beast\Archaeopteryx (KPDM).md|Archaeopteryx]]
+# [[5. Mechanics/Bestiary/Beast/Archaeopteryx (KPDM).md|Archaeopteryx]]
 *Source: Deep Magic p. 291*
 
 A prehistoric bird native to warm climates except for mountains and deserts, the archaeopteryx makes a faithful familiar.

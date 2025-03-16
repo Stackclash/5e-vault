@@ -14,7 +14,7 @@ tags:
 aliases:
   - Ancient Brass Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Ancient Brass Dragon.md|Ancient Brass Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Ancient Brass Dragon.md|Ancient Brass Dragon]]
 *Source: Monster Manual p. 104. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.

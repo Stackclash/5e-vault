@@ -13,7 +13,7 @@ tags:
 aliases:
   - Ice Soldier
 ---
-# [[5. Mechanics\Bestiary\Construct\Ice Soldier (KPDM).md|Ice Soldier]]
+# [[5. Mechanics/Bestiary/Construct/Ice Soldier (KPDM).md|Ice Soldier]]
 *Source: Deep Magic p. 82*
 
 ```statblock

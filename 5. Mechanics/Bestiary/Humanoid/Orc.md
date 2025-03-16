@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'underdark, mountain, grassland, forest, swamp, hill, arctic'
 size: Medium
 tags:
@@ -20,7 +20,7 @@ tags:
 aliases:
   - Orc
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc.md|Orc]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc.md|Orc]]
 *Source: Monster Manual p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.

@@ -16,7 +16,7 @@ tags:
 aliases:
   - Scout Sporehusk
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Scout Sporehusk (TGS1).md|Scout Sporehusk]]
+# [[5. Mechanics/Bestiary/Humanoid/Scout Sporehusk (TGS1).md|Scout Sporehusk]]
 *Source: The Griffon's Saddlebag, Book 1 p. 187*
 
 The creatures that fall victim to the Lightspore's influence become sporehusks: empty shells of their former selves whose only purpose is to nourish the great Lightspore at the center of the festerwood.

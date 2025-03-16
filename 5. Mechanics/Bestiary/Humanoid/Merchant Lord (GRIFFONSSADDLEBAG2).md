@@ -13,7 +13,7 @@ tags:
 aliases:
   - Merchant Lord
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Merchant Lord (GRIFFONSSADDLEBAG2).md|Merchant Lord]]
+# [[5. Mechanics/Bestiary/Humanoid/Merchant Lord (GRIFFONSSADDLEBAG2).md|Merchant Lord]]
 *Source: The Griffon's Saddlebag, Book 2 p. 339*
 
 Within the Mercantile Guild, the most powerful, skilled, and experienced members are known as Merchant Lords. They typically occupy a notable position in one of Antronec's public service departments, hold a government office, or are major players in their black market. These individuals are truly masters of deception and manipulation of commerce, working behind the scenes to direct the populace and maintain their city.

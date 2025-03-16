@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - spell
   - compendium/src/5e/phb
   - spell/class/bard
   - spell/class/cleric
@@ -28,7 +27,7 @@ time: 1 action
 duration: 1 minute
 components: V
 aliases:
-  - Blindness\Deafness
+  - Blindness/Deafness
 ---
 # Blindness/Deafness
 *2nd-level, Necromancy*  

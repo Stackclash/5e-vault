@@ -13,7 +13,7 @@ tags:
 aliases:
   - Feathered Mask Leader (Daisy Z)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Feathered Mask Leader Daisy Z (GRIFFONSSADDLEBAG3).md|Feathered Mask Leader (Daisy Z)]]
+# [[5. Mechanics/Bestiary/Humanoid/Feathered Mask Leader Daisy Z (GRIFFONSSADDLEBAG3).md|Feathered Mask Leader (Daisy Z)]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The current Feathered Mask leader, Daisy Z, is a powerful spellcaster and masterful socialite. Her work to establish a reknowned and respected organization of companions is nothing short of impressive, and is capable of defending herself and her own with or without force, as necessary.

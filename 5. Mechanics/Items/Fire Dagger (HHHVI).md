@@ -9,7 +9,7 @@ tags:
 aliases:
   - Fire Dagger
 one-hand-damage: 1d4 F
-range: 20\60
+range: 20/60
 ---
 # Fire Dagger
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), uncommon*  

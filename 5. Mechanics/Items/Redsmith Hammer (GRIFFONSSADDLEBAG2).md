@@ -10,7 +10,7 @@ tags:
 aliases:
   - Redsmith Hammer
 one-hand-damage: 1d4 B
-range: 20\60
+range: 20/60
 ---
 # Redsmith Hammer
 *Weapon ([[5. Mechanics/Items/Light Hammer.md\|light hammer]]), minor, common*  

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Dire Wolf
 ---
-# [[5. Mechanics\Bestiary\Beast\Dire Wolf.md|Dire Wolf]]
+# [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|Dire Wolf]]
 *Source: Monster Manual p. 321, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

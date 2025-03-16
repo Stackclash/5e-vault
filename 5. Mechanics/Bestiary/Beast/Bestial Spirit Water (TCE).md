@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bestial Spirit (Water)
 ---
-# [[5. Mechanics\Bestiary\Beast\Bestial Spirit Water (TCE).md|Bestial Spirit (Water)]]
+# [[5. Mechanics/Bestiary/Beast/Bestial Spirit Water (TCE).md|Bestial Spirit (Water)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock

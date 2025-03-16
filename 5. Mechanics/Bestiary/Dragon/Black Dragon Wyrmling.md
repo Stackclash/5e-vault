@@ -13,7 +13,7 @@ tags:
 aliases:
   - Black Dragon Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Black Dragon Wyrmling.md|Black Dragon Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Black Dragon Wyrmling.md|Black Dragon Wyrmling]]
 *Source: Monster Manual p. 88, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.

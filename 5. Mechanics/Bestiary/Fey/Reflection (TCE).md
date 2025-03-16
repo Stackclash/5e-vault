@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Reflection
 ---
-# [[5. Mechanics\Bestiary\Fey\Reflection (TCE).md|Reflection]]
+# [[5. Mechanics/Bestiary/Fey/Reflection (TCE).md|Reflection]]
 *Source: Tasha's Cauldron of Everything p. 158*
 
 ```statblock

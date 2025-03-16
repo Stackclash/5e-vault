@@ -15,7 +15,7 @@ tags:
 aliases:
   - Wyvern
 ---
-# [[5. Mechanics\Bestiary\Dragon\Wyvern.md|Wyvern]]
+# [[5. Mechanics/Bestiary/Dragon/Wyvern.md|Wyvern]]
 *Source: Monster Manual p. 303. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Travelers in the wild sometimes look to the skies to see the dark-winged shape of a wyvern carrying its prey. These cousins to the great dragons hunt the same tangled forests and caverns as their kin. Their appearance sends ripples of alarm through the borderlands of civilization.

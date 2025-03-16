@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Duodrone
 ---
-# [[5. Mechanics\Bestiary\Construct\Duodrone.md|Duodrone]]
+# [[5. Mechanics/Bestiary/Construct/Duodrone.md|Duodrone]]
 *Source: Monster Manual p. 225*
 
 The blocky duodrones supervise units of monodrones and can perform up to two tasks at a time.

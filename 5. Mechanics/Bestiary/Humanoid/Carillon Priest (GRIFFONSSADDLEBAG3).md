@@ -13,7 +13,7 @@ tags:
 aliases:
   - Carillon Priest
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Carillon Priest (GRIFFONSSADDLEBAG3).md|Carillon Priest]]
+# [[5. Mechanics/Bestiary/Humanoid/Carillon Priest (GRIFFONSSADDLEBAG3).md|Carillon Priest]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The fanatical priests of Gavia who worship the toll of the Capilla's twin bells are carillon priests. Other carillon priests exist throughout the world, but the ones in Gavia are particularly zealous in their piety and narrow scope. Typical carillon priests revere all bells, not just Alegría and Aflicción, and believe that the ringing of bells is simply the shared language of gods on the Material Plane.

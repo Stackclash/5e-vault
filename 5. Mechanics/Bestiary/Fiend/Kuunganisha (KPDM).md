@@ -13,7 +13,7 @@ tags:
 aliases:
   - Kuunganisha
 ---
-# [[5. Mechanics\Bestiary\Fiend\Kuunganisha (KPDM).md|Kuunganisha]]
+# [[5. Mechanics/Bestiary/Fiend/Kuunganisha (KPDM).md|Kuunganisha]]
 *Source: Deep Magic p. 297*
 
 The kuunganisha is a type of fiend that appears to have been specifically created by the powers of villainy to serve as a familiar. An evil [[5. Mechanics/Classes/Warlock.md|warlock]] who has the [[5. Mechanics/Optional Features/Pact Of The Chain.md|Pact of the Chain]] can summon a kuunganisha in place of a [[5. Mechanics/Bestiary/Fiend/Quasit.md|quasit]] or an [[5. Mechanics/Bestiary/Fiend/Imp.md|imp]], while a [[5. Mechanics/Classes/Wizard.md|wizard]] can acquire one only by casting a [[5. Mechanics/Spells/Planar Binding.md|planar binding]] spell (though the kuunganisha serves the [[5. Mechanics/Classes/Wizard.md|wizard]] permanently in this case, rather than for just 24 hours).

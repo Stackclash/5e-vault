@@ -13,7 +13,7 @@ tags:
 aliases:
   - Booyahg Slave of the Great Old One
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Booyahg Slave Of The Great Old One (VGM).md|Booyahg Slave of the Great Old One]]
+# [[5. Mechanics/Bestiary/Humanoid/Booyahg Slave Of The Great Old One (VGM).md|Booyahg Slave of the Great Old One]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").

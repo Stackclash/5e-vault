@@ -13,7 +13,7 @@ tags:
 aliases:
   - Avatar Form
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Avatar Form (KPDM).md|Avatar Form]]
+# [[5. Mechanics/Bestiary/Humanoid/Avatar Form (KPDM).md|Avatar Form]]
 *Source: Deep Magic p. 72*
 
 ```statblock

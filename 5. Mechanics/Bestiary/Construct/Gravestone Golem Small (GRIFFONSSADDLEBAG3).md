@@ -13,7 +13,7 @@ tags:
 aliases:
   - Gravestone Golem (Small)
 ---
-# [[5. Mechanics\Bestiary\Construct\Gravestone Golem Small (GRIFFONSSADDLEBAG3).md|Gravestone Golem (Small)]]
+# [[5. Mechanics/Bestiary/Construct/Gravestone Golem Small (GRIFFONSSADDLEBAG3).md|Gravestone Golem (Small)]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Gravestone golems hide beneath the fertile ground of graveyards. Some of these golems act as protectors of gravesites— typically for noteworthy characters or necromancers— whereas others are naturally formed as a result of lingering magic in the area. When a creature walks too close to their gravestone, which rests atop their otherwise hidden forms, the golem springs up from the ground the grab it and drag it downward to an early grave.

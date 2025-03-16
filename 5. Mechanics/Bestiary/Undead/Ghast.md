@@ -16,7 +16,7 @@ tags:
 aliases:
   - Ghast
 ---
-# [[5. Mechanics\Bestiary\Undead\Ghast.md|Ghast]]
+# [[5. Mechanics/Bestiary/Undead/Ghast.md|Ghast]]
 *Source: Monster Manual p. 148, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.

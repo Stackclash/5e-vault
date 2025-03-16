@@ -14,7 +14,7 @@ tags:
 aliases:
   - Ochre Jelly
 ---
-# [[5. Mechanics\Bestiary\Ooze\Ochre Jelly.md|Ochre Jelly]]
+# [[5. Mechanics/Bestiary/Ooze/Ochre Jelly.md|Ochre Jelly]]
 *Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.

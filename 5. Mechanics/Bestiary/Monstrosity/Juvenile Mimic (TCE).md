@@ -13,7 +13,7 @@ tags:
 aliases:
   - Juvenile Mimic
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Juvenile Mimic (TCE).md|Juvenile Mimic]]
+# [[5. Mechanics/Bestiary/Monstrosity/Juvenile Mimic (TCE).md|Juvenile Mimic]]
 *Source: Tasha's Cauldron of Everything p. 167*
 
 ```statblock

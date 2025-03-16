@@ -16,7 +16,7 @@ tags:
 aliases:
   - Pegasus
 ---
-# [[5. Mechanics\Bestiary\Celestial\Pegas(US).md|Pegasus]]
+# [[5. Mechanics/Bestiary/Celestial/Pegas(US).md|Pegasus]]
 *Source: Monster Manual p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The white winged horses known as pegasi soar through the skies, a vision of grace and majesty. When they touch down on solid ground, they linger only for a moment, drinking from mountain springs and pristine lakes. Any sound or sign of another creature startles them, sending them off to fly once more among the clouds.

@@ -11,7 +11,7 @@ tags:
 location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\Baba Lysaga.webp
+  - 4. World Almanac/NPCs/img/Baba Lysaga.webp
 relationships: []
 aliases:
   - Baba Lysaga

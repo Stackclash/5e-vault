@@ -13,7 +13,7 @@ tags:
 aliases:
   - Elemental Spirit (Earth)
 ---
-# [[5. Mechanics\Bestiary\Elemental\Elemental Spirit Earth (TCE).md|Elemental Spirit (Earth)]]
+# [[5. Mechanics/Bestiary/Elemental/Elemental Spirit Earth (TCE).md|Elemental Spirit (Earth)]]
 *Source: Tasha's Cauldron of Everything p. 111*
 
 ```statblock

@@ -10,7 +10,7 @@ tags:
 aliases:
   - Trident of the Hydra
 one-hand-damage: 1d6 P
-range: 20\60
+range: 20/60
 ---
 # Trident of the Hydra
 *Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), major, rare*  

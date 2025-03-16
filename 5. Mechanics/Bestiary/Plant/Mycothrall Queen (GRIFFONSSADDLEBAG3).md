@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mycothrall Queen
 ---
-# [[5. Mechanics\Bestiary\Plant\Mycothrall Queen (GRIFFONSSADDLEBAG3).md|Mycothrall Queen]]
+# [[5. Mechanics/Bestiary/Plant/Mycothrall Queen (GRIFFONSSADDLEBAG3).md|Mycothrall Queen]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The prime consciousness of the collective Mycothrall Sovereignty. The Queen is stretched thin across the Lunar Sea after launching an all-out attack against Styggar's Preserver constructs. She hopes to eventually take complete control of the Lunar Sea and overrun it onto the planet below, further spreading her collective conscience.

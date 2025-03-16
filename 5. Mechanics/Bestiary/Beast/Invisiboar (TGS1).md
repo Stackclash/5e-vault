@@ -16,7 +16,7 @@ tags:
 aliases:
   - Invisiboar
 ---
-# [[5. Mechanics\Bestiary\Beast\Invisiboar (TGS1).md|Invisiboar]]
+# [[5. Mechanics/Bestiary/Beast/Invisiboar (TGS1).md|Invisiboar]]
 *Source: The Griffon's Saddlebag, Book 1 p. 194*
 
 Native to the jungles of Elsath, invisiboars are literally invisible boars. It's largely believed that these strange pigs owe their existence to the wild magic that flows through the jungles of the world, and the fact that so many of them are found near sites of permanent or programmed illusions lends further credence to that theory.

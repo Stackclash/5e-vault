@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Living Shade
 ---
-# [[5. Mechanics\Bestiary\Fey\Living Shade (KPDM).md|Living Shade]]
+# [[5. Mechanics/Bestiary/Fey/Living Shade (KPDM).md|Living Shade]]
 *Source: Deep Magic p. 299*
 
 One of the rarer and more bizarre options for a familiar is the living shade, a fey creature often confused with undead creatures such as the [[5. Mechanics/Bestiary/Undead/Shadow.md|shadow]]. [[5. Mechanics/Classes/Wizard School Of Illusion.md|Illusionists]], [[5. Mechanics/Classes/Wizard.md|wizards]] who specialize in shadow, and [[5. Mechanics/Classes/Warlock The Archfey.md|Pact of the Archfey]] [[5. Mechanics/Classes/Warlock.md|warlocks]] are the most common masters of these creatures. Obtaining a living shade by casting the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] spell requires an additional material component: 50 gp worth of powdered jet.

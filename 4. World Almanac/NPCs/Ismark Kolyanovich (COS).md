@@ -10,7 +10,7 @@ tags:
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\Ismark Kolyanovich.webp
+  - 4. World Almanac/NPCs/img/Ismark Kolyanovich.webp
 relationships: []
 aliases:
   - Ismark Kolyanovich

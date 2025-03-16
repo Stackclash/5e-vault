@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Greille
 ---
-# [[5. Mechanics\Bestiary\Fey\Greille (GRIFFONSSADDLEBAG3).md|Greille]]
+# [[5. Mechanics/Bestiary/Fey/Greille (GRIFFONSSADDLEBAG3).md|Greille]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Commonly called pilfurrs, these chipmunk-like fey are a frequent nuisance to travelers and shoppers. Greille are incredibly adept at sneaking into purses and bags, stuffing whatever coins and small objects they can find into their expansive cheeks before running off again. Their burrows can contain anything from gold and gems to worthless collections of junk. Some burrows in Breezeport are already known to Duvra, having spent time disguised as a greille himself, and he'll help himself to anything of value he finds there to add to his own hoard.

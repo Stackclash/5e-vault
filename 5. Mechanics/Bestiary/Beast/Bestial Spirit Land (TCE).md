@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bestial Spirit (Land)
 ---
-# [[5. Mechanics\Bestiary\Beast\Bestial Spirit Land (TCE).md|Bestial Spirit (Land)]]
+# [[5. Mechanics/Bestiary/Beast/Bestial Spirit Land (TCE).md|Bestial Spirit (Land)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock

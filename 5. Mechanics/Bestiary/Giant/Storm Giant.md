@@ -15,7 +15,7 @@ tags:
 aliases:
   - Storm Giant
 ---
-# [[5. Mechanics\Bestiary\Giant\Storm Giant.md|Storm Giant]]
+# [[5. Mechanics/Bestiary/Giant/Storm Giant.md|Storm Giant]]
 *Source: Monster Manual p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Storm giants are contemplative seers that live in places far removed from mortal civilization. Most have pale purple-gray skin and hair, and glittering emerald eyes.

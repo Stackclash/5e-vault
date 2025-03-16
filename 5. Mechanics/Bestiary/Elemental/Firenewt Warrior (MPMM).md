@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'desert, hill, mountain, underdark'
 size: Medium
 tags:
@@ -17,7 +17,7 @@ tags:
 aliases:
   - Firenewt Warrior
 ---
-# [[5. Mechanics\Bestiary\Elemental\Firenewt Warrior (MPMM).md|Firenewt Warrior]]
+# [[5. Mechanics/Bestiary/Elemental/Firenewt Warrior (MPMM).md|Firenewt Warrior]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 142*
 
 A firenewt warrior can spew fire. Many of these warriors have a close relationship with giant striders (in this book). They provide shelter, food, and breeding grounds in their lairs for giant striders, which then voluntarily serve them as mounts.

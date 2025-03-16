@@ -13,7 +13,7 @@ tags:
 aliases:
   - Twilight Valkyrie
 ---
-# [[5. Mechanics\Bestiary\Celestial\Twilight Valkyrie (GRIFFONSSADDLEBAG3).md|Twilight Valkyrie]]
+# [[5. Mechanics/Bestiary/Celestial/Twilight Valkyrie (GRIFFONSSADDLEBAG3).md|Twilight Valkyrie]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Standing simultaneously opposite to and between the fiends and angels, the neutral-aligned Twilight Valkyries are winged warriors wielding the power of both light and shadow. The focus of their devotion is maintaining the balance between those dual opposing forces, for neither can exist without the other. To that end, they appear throughout the multiverse in order to ensure that when an individual is fated for death or for life, events unfold as the multiverse intends. Most often, this causes them to appear as alternating villains and heroes in seemingly obscure locales, causing domino effects that cascade into a solid, binding fate.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Giant Spore Lizard
 ---
-# [[5. Mechanics\Bestiary\Plant\Giant Spore Lizard (GRIFFONSSADDLEBAG2).md|Giant Spore Lizard]]
+# [[5. Mechanics/Bestiary/Plant/Giant Spore Lizard (GRIFFONSSADDLEBAG2).md|Giant Spore Lizard]]
 *Source: The Griffon's Saddlebag, Book 2*
 
 Another major consequence of Antronec's sewer network was that it provided a wonderfully damp environment for the giant spore lizards to move in and claim. A strange creature, it possesses the ability to magically transport itself between instances of flora and biota, for instance from a mushroom to a bush. They also possess hazardous spores, which they utilize as a defensive system against attackers. With these elements and a ferocious dedication to protecting its perceived territory, to underestimate a giant spore lizard is to court death.

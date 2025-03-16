@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cave Troll Mage
 ---
-# [[5. Mechanics\Bestiary\Giant\Cave Troll Mage (GRIFFONSSADDLEBAG3).md|Cave Troll Mage]]
+# [[5. Mechanics/Bestiary/Giant/Cave Troll Mage (GRIFFONSSADDLEBAG3).md|Cave Troll Mage]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Cave trolls, like normal trolls, are tall and lanky giantkin. Cave trolls, in particular, are more gray and hunched over. They have a penchant for crystals and often collect them for trade or crafting. They form small communities within their cave networks, and at times make the transition to larger society.

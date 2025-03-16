@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bagger
 ---
-# [[5. Mechanics\Bestiary\Fiend\Bagger Da Gic.md|Bagger]]
+# [[5. Mechanics/Bestiary/Fiend/Bagger Da Gic.md|Bagger]]
 *Source: Devil's Advocate: A Guide to Infernal Contracts p. 20*
 
 Baggers are tall, gangly devils charged with transporting uncooperative signees to the Nine Hells. They get their name by stuffing writhing signees into claustrophobic, cursed sacks. Oftentimes, these bags contain nightmares - a taste of the horrors awaiting the signee at their destination.

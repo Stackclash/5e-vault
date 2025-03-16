@@ -13,7 +13,7 @@ tags:
 aliases:
   - Blazebear
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Blazebear (VEOR).md|Blazebear]]
+# [[5. Mechanics/Bestiary/Monstrosity/Blazebear (VEOR).md|Blazebear]]
 *Source: Vecna: Eve of Ruin p. 210*
 
 > [!quote] A quote from Clank, Warforged Merchant from Sharn  

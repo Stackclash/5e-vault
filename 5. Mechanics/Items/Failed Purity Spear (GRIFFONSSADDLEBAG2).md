@@ -12,7 +12,7 @@ aliases:
   - Failed Purity Spear
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 20\60
+range: 20/60
 ---
 # Failed Purity Spear
 *Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), cursed item, major, rare (requires attunement)*  

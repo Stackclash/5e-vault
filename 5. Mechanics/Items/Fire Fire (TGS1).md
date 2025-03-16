@@ -10,7 +10,7 @@ tags:
 aliases:
   - Fire Fire!
 one-hand-damage: 1d8 P
-range: 80\320
+range: 80/320
 ---
 # Fire Fire!
 *Weapon ([[5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), major, rare*  

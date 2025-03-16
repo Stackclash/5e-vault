@@ -15,7 +15,7 @@ tags:
 aliases:
   - Marid
 ---
-# [[5. Mechanics\Bestiary\Elemental\Marid.md|Marid]]
+# [[5. Mechanics/Bestiary/Elemental/Marid.md|Marid]]
 *Source: Monster Manual p. 146, Tasha's Cauldron of Everything, Vecna: Eve of Ruin*
 
 Hailing from the Elemental Plane of Water, the marids are the most wondrous of genie-kind. Although all genies wield great power, even the lowliest marid sees itself as clearly superior to the flighty djinn, the ground-hugging dao, and the fuming efreet. Large and piscine, marids are a strange sight to behold, particularly when clad in the finely stitched vests and colorful pantaloons they favor. They speak in voices as soft as the sea breeze or as sonorous as storm waves breaking against a rocky cliff. In flight, their lower bodies transform into columns of foamy water.

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'underdark, grassland, forest, hill'
 size: Small
 tags:
@@ -17,7 +17,7 @@ tags:
 aliases:
   - Goblin
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Goblin.md|Goblin]]
+# [[5. Mechanics/Bestiary/Humanoid/Goblin.md|Goblin]]
 *Source: Monster Manual p. 166, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.

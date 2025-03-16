@@ -11,7 +11,7 @@ aliases:
   - Celestial Bident
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 20\60
+range: 20/60
 ---
 # Celestial Bident
 *Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), legendary (requires attunement by a cleric or paladin)*  

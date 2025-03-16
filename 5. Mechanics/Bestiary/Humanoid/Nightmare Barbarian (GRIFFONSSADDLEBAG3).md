@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nightmare Barbarian
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Nightmare Barbarian (GRIFFONSSADDLEBAG3).md|Nightmare Barbarian]]
+# [[5. Mechanics/Bestiary/Humanoid/Nightmare Barbarian (GRIFFONSSADDLEBAG3).md|Nightmare Barbarian]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Barbarians that are driven by their innermost turmoil as much as they are their anger. Using bizarre magic pulled seemingly straight from The Grephearon, these brutal warriors are capable of striking bone-chilling fear into those whom they stalk from the shadows.

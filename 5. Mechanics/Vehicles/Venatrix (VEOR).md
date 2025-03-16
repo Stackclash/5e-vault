@@ -10,7 +10,6 @@ aliases:
   - Venatrix
 ---
 # Venatrix
-%%-- Embedded content starts on the next line. --%%
 *Source: Vecna: Eve of Ruin*  
 
 

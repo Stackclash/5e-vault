@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Slaad Tadpole
 ---
-# [[5. Mechanics\Bestiary\Aberration\Slaad Tadpole.md|Slaad Tadpole]]
+# [[5. Mechanics/Bestiary/Aberration/Slaad Tadpole.md|Slaad Tadpole]]
 *Source: Monster Manual p. 276*
 
 ## Slaadi

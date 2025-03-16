@@ -10,7 +10,7 @@ aliases:
   - Blowgun
 cost: 1000
 one-hand-damage: 1 P
-range: 25\100
+range: 25/100
 ---
 # Blowgun
 *Weapon*  

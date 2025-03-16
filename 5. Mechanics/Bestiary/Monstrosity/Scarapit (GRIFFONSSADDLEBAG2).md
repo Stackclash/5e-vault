@@ -13,7 +13,7 @@ tags:
 aliases:
   - Scarapit
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Scarapit (GRIFFONSSADDLEBAG2).md|Scarapit]]
+# [[5. Mechanics/Bestiary/Monstrosity/Scarapit (GRIFFONSSADDLEBAG2).md|Scarapit]]
 *Source: The Griffon's Saddlebag, Book 2 p. 340*
 
 In Antronec's sewers, these vile monstrosities roam, relishing in the abundance of waste and smaller prey. Some researchers presume that this unholy mixture of dung beetle and centipede was created by a mage or deity striving to inspire nightmares. It is uniquely adept at navigating the underground and often-poisonous sewer system, as many adventurers have discovered. In fact, some adventuring agencies consider slaying a scarapit to be the deciding factor between an adventurer and a thrill-seeker.

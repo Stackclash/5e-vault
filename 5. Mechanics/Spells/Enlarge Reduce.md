@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - spell
   - compendium/src/5e/phb
   - spell/class/artificer
   - spell/class/bard
@@ -23,7 +22,7 @@ time: 1 action
 duration: 'Concentration, up to 1 minute'
 components: 'V, S, a pinch of powdered iron'
 aliases:
-  - Enlarge\Reduce
+  - Enlarge/Reduce
 ---
 # Enlarge/Reduce
 *2nd-level, Transmutation*  

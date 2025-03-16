@@ -13,7 +13,7 @@ tags:
 aliases:
   - Empyrean
 ---
-# [[5. Mechanics\Bestiary\Celestial\Empyrean.md|Empyrean]]
+# [[5. Mechanics/Bestiary/Celestial/Empyrean.md|Empyrean]]
 *Source: Monster Manual p. 130*
 
 Empyreans are the celestial children of the gods of the Upper Planes. They are universally beautiful, statuesque, and self-assured.

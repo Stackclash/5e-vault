@@ -13,7 +13,7 @@ tags:
 aliases:
   - Elemental Spirit (Water)
 ---
-# [[5. Mechanics\Bestiary\Elemental\Elemental Spirit Water (TCE).md|Elemental Spirit (Water)]]
+# [[5. Mechanics/Bestiary/Elemental/Elemental Spirit Water (TCE).md|Elemental Spirit (Water)]]
 *Source: Tasha's Cauldron of Everything p. 111*
 
 ```statblock

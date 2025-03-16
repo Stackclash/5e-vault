@@ -10,7 +10,7 @@ tags:
 aliases:
   - Fish Ripper
 one-hand-damage: 1d4 P
-range: 20\60
+range: 20/60
 ---
 # Fish Ripper
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, rare*  

@@ -11,7 +11,7 @@ tags:
 aliases:
   - Killskull Longbow of Dread
 one-hand-damage: 1d8 P
-range: 150\600
+range: 150/600
 ---
 # Killskull Longbow of Dread
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, rare (requires attunement)*  

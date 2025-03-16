@@ -17,7 +17,7 @@ tags:
 aliases:
   - Hyena
 ---
-# [[5. Mechanics\Bestiary\Beast\Hyena.md|Hyena]]
+# [[5. Mechanics/Bestiary/Beast/Hyena.md|Hyena]]
 *Source: Monster Manual p. 331. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

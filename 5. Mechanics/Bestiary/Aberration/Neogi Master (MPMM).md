@@ -15,7 +15,7 @@ tags:
 aliases:
   - Neogi Master
 ---
-# [[5. Mechanics\Bestiary\Aberration\Neogi Master (MPMM).md|Neogi Master]]
+# [[5. Mechanics/Bestiary/Aberration/Neogi Master (MPMM).md|Neogi Master]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*
 
 Neogi masters use magic, as a result of a pact between neogi and aberrant entities they met during their journey from their home world. These entities—known by such names as Acamar, Caiphon, Gibbeth, and Hadar—resemble stars and embody the essence of evil.

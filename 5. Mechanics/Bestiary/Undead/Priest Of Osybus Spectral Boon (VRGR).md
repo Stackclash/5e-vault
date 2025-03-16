@@ -13,7 +13,7 @@ tags:
 aliases:
   - Priest of Osybus (Spectral Boon)
 ---
-# [[5. Mechanics\Bestiary\Undead\Priest Of Osybus Spectral Boon (VRGR).md|Priest of Osybus (Spectral Boon)]]
+# [[5. Mechanics/Bestiary/Undead/Priest Of Osybus Spectral Boon (VRGR).md|Priest of Osybus (Spectral Boon)]]
 *Source: Van Richten's Guide to Ravenloft p. 241, Vecna: Eve of Ruin*
 
 ```statblock

@@ -16,7 +16,7 @@ tags:
 aliases:
   - Retriever
 ---
-# [[5. Mechanics\Bestiary\Construct\Retriever (MPMM).md|Retriever]]
+# [[5. Mechanics/Bestiary/Construct/Retriever (MPMM).md|Retriever]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222*
 
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.

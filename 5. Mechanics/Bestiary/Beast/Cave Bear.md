@@ -15,7 +15,7 @@ tags:
 aliases:
   - Cave Bear
 ---
-# [[5. Mechanics\Bestiary\Beast\Cave Bear.md|Cave Bear]]
+# [[5. Mechanics/Bestiary/Beast/Cave Bear.md|Cave Bear]]
 *Source: Monster Manual p. 334*
 
 ```statblock

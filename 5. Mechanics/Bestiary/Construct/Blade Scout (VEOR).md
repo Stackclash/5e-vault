@@ -13,7 +13,7 @@ tags:
 aliases:
   - Blade Scout
 ---
-# [[5. Mechanics\Bestiary\Construct\Blade Scout (VEOR).md|Blade Scout]]
+# [[5. Mechanics/Bestiary/Construct/Blade Scout (VEOR).md|Blade Scout]]
 *Source: Vecna: Eve of Ruin p. 209*
 
 Blade scouts are responsible for exploring and charting Mournland regions not yet claimed by the Lord of Blades' legions.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Silver Dragon Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Silver Dragon Wyrmling.md|Silver Dragon Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Silver Dragon Wyrmling.md|Silver Dragon Wyrmling]]
 *Source: Monster Manual p. 118. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.

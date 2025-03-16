@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Giant Spider Rat
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Spider Rat (GRIFFONSSADDLEBAG2).md|Giant Spider Rat]]
+# [[5. Mechanics/Bestiary/Beast/Giant Spider Rat (GRIFFONSSADDLEBAG2).md|Giant Spider Rat]]
 *Source: The Griffon's Saddlebag, Book 2 p. 338*
 
 When Antronec's sewer network was first dug out, the Mercantile Guild made sure that enough space was provided for the city's anticipated growth. The unanticipated consequences of such an elaborate and cavernous network of sewage-filled tunnels, however, were the giant spider rats. Considered by some to be the unofficial mascot of Antronec, this vicious little beast is every bit as dangerous as a giant rat, but with the extra arachnoid horror of additional limbs, poison, and other spider bits. There was one occasion where a merchant tried to market and sell a soft children's toy designed like this creature, but the merchandise was found burnt to miniscule ashes, and the merchant's body was never found.

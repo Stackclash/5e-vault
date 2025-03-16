@@ -13,7 +13,7 @@ tags:
 aliases:
   - Goldbug
 ---
-# [[5. Mechanics\Bestiary\Beast\Goldbug (KPDM).md|Goldbug]]
+# [[5. Mechanics/Bestiary/Beast/Goldbug (KPDM).md|Goldbug]]
 *Source: Deep Magic p. 292*
 
 The goldbug is a strange sort of insect, a creature whose round, flat body resembles a gold coin. This "disguise" helps goldbugs get close to their prized food source: gold. When placed in a pouch or chest along with the gold coins it resembles, a goldbug will happily devour the coins at the rate of one per day.

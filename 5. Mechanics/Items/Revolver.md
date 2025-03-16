@@ -10,7 +10,7 @@ tags:
 aliases:
   - Revolver
 one-hand-damage: 2d8 P
-range: 40\120
+range: 40/120
 ---
 # Revolver
 *Weapon*  

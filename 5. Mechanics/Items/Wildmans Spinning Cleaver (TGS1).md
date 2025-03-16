@@ -11,7 +11,7 @@ tags:
 aliases:
   - Wildman's Spinning Cleaver
 one-hand-damage: 1d6 S
-range: 20\60
+range: 20/60
 ---
 # Wildman's Spinning Cleaver
 *Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, very rare (requires attunement by a barbarian)*  

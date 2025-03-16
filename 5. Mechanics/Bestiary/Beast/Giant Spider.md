@@ -18,7 +18,7 @@ tags:
 aliases:
   - Giant Spider
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Spider.md|Giant Spider]]
+# [[5. Mechanics/Bestiary/Beast/Giant Spider.md|Giant Spider]]
 *Source: Monster Manual p. 328, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims.

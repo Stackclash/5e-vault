@@ -15,7 +15,7 @@ tags:
 aliases:
   - Drow Favored Consort
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Favored Consort (MPMM).md|Drow Favored Consort]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow Favored Consort (MPMM).md|Drow Favored Consort]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 100, Mordenkainen's Tome of Foes p. 183*
 
 Nearly every priestess of Lolth, including the powerful [[5. Mechanics/Bestiary/Humanoid/Drow Matron Mother (MPMM).md|drow matron mother]] in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Homunculus
 ---
-# [[5. Mechanics\Bestiary\Construct\Homuncul(US).md|Homunculus]]
+# [[5. Mechanics/Bestiary/Construct/Homuncul(US).md|Homunculus]]
 *Source: Monster Manual p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Shaping a mixture of clay, ash, mandrake root, and blood, one can channel rare ritual magic to create a faithful, squirrel-sized companion.

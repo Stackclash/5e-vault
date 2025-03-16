@@ -10,7 +10,7 @@ aliases:
   - Javelin
 cost: 50
 one-hand-damage: 1d6 P
-range: 30\120
+range: 30/120
 ---
 # Javelin
 *Weapon*  

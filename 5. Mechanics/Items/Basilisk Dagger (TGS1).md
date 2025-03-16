@@ -10,7 +10,7 @@ tags:
 aliases:
   - Basilisk Dagger
 one-hand-damage: 1d4 P
-range: 40\80
+range: 40/80
 ---
 # Basilisk Dagger
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, rare*  

@@ -17,7 +17,7 @@ tags:
 aliases:
   - Swordbeak
 ---
-# [[5. Mechanics\Bestiary\Beast\Swordbeak (TGS1).md|Swordbeak]]
+# [[5. Mechanics/Bestiary/Beast/Swordbeak (TGS1).md|Swordbeak]]
 *Source: The Griffon's Saddlebag, Book 1 p. 194*
 
 As the name suggests, swordbeaks are huge birds with 10-foot-long razor-sharp beaks. These beaks are capable of punching through stone and steel. Voracious carnivores, they often attack large creatures, and even humanoids, in grasslands, hillsides, coasts, and other open areas.

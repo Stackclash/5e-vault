@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mimic Cart
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Mimic Cart (GRIFFONSSADDLEBAG3).md|Mimic Cart]]
+# [[5. Mechanics/Bestiary/Monstrosity/Mimic Cart (GRIFFONSSADDLEBAG3).md|Mimic Cart]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Mimics that venture outside of their normal dungeon homes sometimes take on the form of abandoned carts, having found that travelers often investigate such objects in search of wealth or, less frequently, to see if someone inside needs help. These mimics employ similar tactics as their dungeon-dwelling relatives, but tend to encounter (and devour) more helpless folk than the average mimic as a result of their size and feeding grounds.

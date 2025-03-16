@@ -10,7 +10,6 @@ aliases:
   - Planar Raider
 ---
 # Planar Raider
-%%-- Embedded content starts on the next line. --%%
 *Source: Mordenkainen's Tome of Foes p. 90*  
 
 The largest of the githyanki ships, the planar raider serves as a mobile headquarters during a major attack on the githyanki's enemies. It needs a crew of ten and can carry more than a hundred passengers. A planar raider can travel up to 12 miles per hour. It is 40 feet wide and 120 feet long, with two levels below decks, and is equipped with three ballistae and a catapult.

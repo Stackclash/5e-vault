@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nightmare Puppeteer
 ---
-# [[5. Mechanics\Bestiary\Undead\Nightmare Puppeteer (GRIFFONSSADDLEBAG3).md|Nightmare Puppeteer]]
+# [[5. Mechanics/Bestiary/Undead/Nightmare Puppeteer (GRIFFONSSADDLEBAG3).md|Nightmare Puppeteer]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The Dream Shaper's will is carried out by the puppeteers: massive, disembodied hands that silently traverse The Grephearon. The puppeteers are largely harmless until threatened or actively engaged. They use body-snatching strings made of the Deep Ethereal's protomatter to bind and control dissidents within The Grephearon. Dream dragons are their sworn enemy and will immediately engage with any they encounter.

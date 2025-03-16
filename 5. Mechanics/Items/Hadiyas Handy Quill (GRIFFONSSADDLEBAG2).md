@@ -11,7 +11,7 @@ tags:
 aliases:
   - Hadiya's Handy Quill
 one-hand-damage: 1d4 P
-range: 20\60
+range: 20/60
 ---
 # Hadiya's Handy Quill
 *Weapon ([[5. Mechanics/Items/Dart.md\|dart]]), minor, uncommon (requires attunement)*  

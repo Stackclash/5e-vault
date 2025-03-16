@@ -14,7 +14,7 @@ tags:
 aliases:
   - Priest
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Priest.md|Priest]]
+# [[5. Mechanics/Bestiary/Humanoid/Priest.md|Priest]]
 *Source: Monster Manual p. 348, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Priests bring the teachings of their gods to the common folk. They are the spiritual leaders of temples and shrines and often hold positions of influence in their communities. Evil priests might work openly under a tyrant, or they might be the leaders of religious sects hidden in the shadows of good society, overseeing depraved rites. A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties.

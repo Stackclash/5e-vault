@@ -13,7 +13,7 @@ tags:
 aliases:
   - Preserver Drone
 ---
-# [[5. Mechanics\Bestiary\Construct\Preserver Drone (GRIFFONSSADDLEBAG3).md|Preserver Drone]]
+# [[5. Mechanics/Bestiary/Construct/Preserver Drone (GRIFFONSSADDLEBAG3).md|Preserver Drone]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Preserver drones are smaller than their other constructed counterparts. These automotons fly through the air, suspended by something between magic and technology, and emit guiding beams of light that assist their larger construct brethren.

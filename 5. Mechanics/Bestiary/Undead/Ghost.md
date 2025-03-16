@@ -15,7 +15,7 @@ tags:
 aliases:
   - Ghost
 ---
-# [[5. Mechanics\Bestiary\Undead\Ghost.md|Ghost]]
+# [[5. Mechanics/Bestiary/Undead/Ghost.md|Ghost]]
 *Source: Monster Manual p. 147, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A ghost is the soul of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.

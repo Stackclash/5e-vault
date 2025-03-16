@@ -14,7 +14,7 @@ tags:
 aliases:
   - Mindwitness
 ---
-# [[5. Mechanics\Bestiary\Aberration\Mindwitness (MPMM).md|Mindwitness]]
+# [[5. Mechanics/Bestiary/Aberration/Mindwitness (MPMM).md|Mindwitness]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 181, Volo's Guide to Monsters p. 176*
 
 If a beholder is [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] and brought to the brine pool of an elder brain, the beholder can be converted into a mindwitness. This alters some of its eye rays and transforms four of its eyestalks into tentacles similar to a mind flayer's. The mindwitness is psychically imprinted with devotion to the elder brain and submission to illithid commands.

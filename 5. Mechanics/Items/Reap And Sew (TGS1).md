@@ -11,7 +11,7 @@ tags:
 aliases:
   - Reap and Sew
 one-hand-damage: 1d8 O
-range: 80\320
+range: 80/320
 ---
 # Reap and Sew
 *Weapon ([[5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), cursed item, major, rare (requires attunement)*  

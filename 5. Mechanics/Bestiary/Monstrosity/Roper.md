@@ -14,7 +14,7 @@ tags:
 aliases:
   - Roper
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Roper.md|Roper]]
+# [[5. Mechanics/Bestiary/Monstrosity/Roper.md|Roper]]
 *Source: Monster Manual p. 261. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Living in caves and caverns throughout the Underdark, voracious ropers feast on whatever they can catch and seize. A roper eats any creature, from Underdark beasts to adventurers and their gear.

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: grassland
 size: Large
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Cow
 ---
-# [[5. Mechanics\Bestiary\Beast\Cow (VGM).md|Cow]]
+# [[5. Mechanics/Bestiary/Beast/Cow (VGM).md|Cow]]
 *Source: Volo's Guide to Monsters p. 207*
 
 There are many kinds of cattle, from common oxen to more unusual, magical variants.

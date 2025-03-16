@@ -20,7 +20,7 @@ tags:
 aliases:
   - Guard Drake (Green)
 ---
-# [[5. Mechanics\Bestiary\Dragon\Guard Drake Green (MPMM).md|Guard Drake (Green)]]
+# [[5. Mechanics/Bestiary/Dragon/Guard Drake Green (MPMM).md|Guard Drake (Green)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*
 
 ```statblock

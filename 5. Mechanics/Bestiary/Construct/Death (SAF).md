@@ -13,7 +13,7 @@ tags:
 aliases:
   - Death
 ---
-# [[5. Mechanics\Bestiary\Construct\Death (SAF).md|Death]]
+# [[5. Mechanics/Bestiary/Construct/Death (SAF).md|Death]]
 *Source: Strongholds and Followers p. 228*
 
 > [!quote]  

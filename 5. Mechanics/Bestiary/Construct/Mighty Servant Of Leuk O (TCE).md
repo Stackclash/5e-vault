@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mighty Servant of Leuk-o
 ---
-# [[5. Mechanics\Bestiary\Construct\Mighty Servant Of Leuk O (TCE).md|Mighty Servant of Leuk-o]]
+# [[5. Mechanics/Bestiary/Construct/Mighty Servant Of Leuk O (TCE).md|Mighty Servant of Leuk-o]]
 *Source: Tasha's Cauldron of Everything p. 131*
 
 ```statblock

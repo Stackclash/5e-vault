@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\Strahds Animated Armor.webp
+  - 4. World Almanac/NPCs/img/Strahds Animated Armor.webp
 relationships: []
 aliases:
   - Strahd's Animated Armor

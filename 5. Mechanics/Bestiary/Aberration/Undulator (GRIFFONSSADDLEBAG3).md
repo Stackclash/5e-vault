@@ -13,7 +13,7 @@ tags:
 aliases:
   - Undulator
 ---
-# [[5. Mechanics\Bestiary\Aberration\Undulator (GRIFFONSSADDLEBAG3).md|Undulator]]
+# [[5. Mechanics/Bestiary/Aberration/Undulator (GRIFFONSSADDLEBAG3).md|Undulator]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The Terror of the Deep, the Shadow's Tentacles, the Droning Kraken—all of these are names used to describe the horrific undulator. Eyeless yet ever-watching, this inscrutable, aberrant entity of unknown origins lurks within the deepest shadowy recesses of the earth. Just to be near the monstrous thing is to risk shattering the psyche, as its suckered physical and shadowy magical tendrils lash out indiscriminately. To make matters worse, it even possesses potent, mind-altering magic that imposes its own will over its prey, charming them into submission and obedience. In some parts of Ilridun, even speaking its name is taboo, seen as a potential invitation of its presence.

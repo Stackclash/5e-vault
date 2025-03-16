@@ -11,7 +11,7 @@ tags:
 aliases:
   - Ballista Prosthesis
 one-hand-damage: 1d6 P
-range: 30\120
+range: 30/120
 ---
 # Ballista Prosthesis
 *Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, uncommon (requires attunement by a creature missing an arm, forearm, or hand)*  

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Air Elemental
 ---
-# [[5. Mechanics\Bestiary\Elemental\Air Element(AL).md|Air Elemental]]
+# [[5. Mechanics/Bestiary/Elemental/Air Element(AL).md|Air Elemental]]
 *Source: Monster Manual p. 124, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.

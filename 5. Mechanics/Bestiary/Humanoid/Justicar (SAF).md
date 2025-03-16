@@ -13,7 +13,7 @@ tags:
 aliases:
   - Justicar
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Justicar (SAF).md|Justicar]]
+# [[5. Mechanics/Bestiary/Humanoid/Justicar (SAF).md|Justicar]]
 *Source: Strongholds and Followers p. 77*
 
 ```statblock

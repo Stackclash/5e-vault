@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: underdark
 size: Large
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Gas Spore
 ---
-# [[5. Mechanics\Bestiary\Plant\Gas Spore.md|Gas Spore]]
+# [[5. Mechanics/Bestiary/Plant/Gas Spore.md|Gas Spore]]
 *Source: Monster Manual p. 138*
 
 The first gas spores are thought to have been spawned from dead beholders, whose moldering corpses fed a parasitic fungus with aberrant magic. Having long since adapted into a unique plant creature, a gas spore grows quickly and purposefully out of any corpse, creating a malevolent-looking mockery of the most feared denizen of the Underdark.

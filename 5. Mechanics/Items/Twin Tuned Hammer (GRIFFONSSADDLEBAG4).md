@@ -11,7 +11,7 @@ tags:
 aliases:
   - Twin-Tuned Hammer
 one-hand-damage: 1d4 B
-range: 20\60
+range: 20/60
 ---
 # Twin-Tuned Hammer
 *Weapon ([[5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, very rare (requires attunement)*  

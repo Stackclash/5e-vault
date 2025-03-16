@@ -14,7 +14,7 @@ tags:
 aliases:
   - Grung Elite Warrior (Red)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grung Elite Warrior Red (MPMM).md|Grung Elite Warrior (Red)]]
+# [[5. Mechanics/Bestiary/Humanoid/Grung Elite Warrior Red (MPMM).md|Grung Elite Warrior (Red)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*
 
 ```statblock

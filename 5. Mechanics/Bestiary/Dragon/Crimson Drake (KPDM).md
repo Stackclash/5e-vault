@@ -13,7 +13,7 @@ tags:
 aliases:
   - Crimson Drake
 ---
-# [[5. Mechanics\Bestiary\Dragon\Crimson Drake (KPDM).md|Crimson Drake]]
+# [[5. Mechanics/Bestiary/Dragon/Crimson Drake (KPDM).md|Crimson Drake]]
 *Source: Deep Magic p. 296*
 
 An evil drake that resembles a pseudodragon, the crimson drake is a popular familiar among evil [[5. Mechanics/Classes/Wizard School Of Evocation.md|evokers]], particularly those who favor fire magic. An evil [[5. Mechanics/Classes/Warlock.md|warlock]] who has the [[5. Mechanics/Optional Features/Pact Of The Chain.md|Pact of the Chain]] can acquire a crimson drake companion in place of a [[5. Mechanics/Bestiary/Fiend/Quasit.md|quasit]], while an evil [[5. Mechanics/Classes/Wizard.md|wizard]] can procure the services of one through treats and sacrifices worth at least 150 gp.

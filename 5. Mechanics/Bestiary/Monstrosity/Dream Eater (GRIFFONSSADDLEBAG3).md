@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dream Eater
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Dream Eater (GRIFFONSSADDLEBAG3).md|Dream Eater]]
+# [[5. Mechanics/Bestiary/Monstrosity/Dream Eater (GRIFFONSSADDLEBAG3).md|Dream Eater]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Dream eaters are headless, lumbering giantfolk with taut mouths stretched across their midsections. They patrol the hallways of the Dream Gallery in search of ne'er-do-well dreamwalkers. Dream eaters can smell the magical residue of the dreamwalk spell (as described on page 7, hunting down the source of the spell over time. Once found, the dream eaters either attack the caster or consume the painting the caster is currently inside. The dream then collapses and shunts the caster out into the dream eater's stomach.

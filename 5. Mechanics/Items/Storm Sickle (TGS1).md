@@ -10,7 +10,7 @@ tags:
 aliases:
   - Storm Sickle
 one-hand-damage: 1d4 S
-range: 20\60
+range: 20/60
 ---
 # Storm Sickle
 *Weapon ([[5. Mechanics/Items/Sickle.md\|sickle]]), major, rare*  

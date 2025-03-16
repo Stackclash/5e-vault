@@ -15,7 +15,7 @@ tags:
 aliases:
   - Babau
 ---
-# [[5. Mechanics\Bestiary\Fiend\Babau (MPMM).md|Babau]]
+# [[5. Mechanics/Bestiary/Fiend/Babau (MPMM).md|Babau]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136*
 
 > [!quote] A quote from Mordenkainen  

@@ -10,7 +10,7 @@ tags:
 aliases:
   - Medzo's Crossbow
 one-hand-damage: 3d4 P
-range: 30\120
+range: 30/120
 ---
 # Medzo's Crossbow
 *Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare*  

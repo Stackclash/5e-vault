@@ -13,7 +13,7 @@ tags:
 aliases:
   - Construct Spirit (Clay)
 ---
-# [[5. Mechanics\Bestiary\Construct\Construct Spirit Clay (TCE).md|Construct Spirit (Clay)]]
+# [[5. Mechanics/Bestiary/Construct/Construct Spirit Clay (TCE).md|Construct Spirit (Clay)]]
 *Source: Tasha's Cauldron of Everything p. 111*
 
 ```statblock

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Stryx
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Stryx (KPDM).md|Stryx]]
+# [[5. Mechanics/Bestiary/Monstrosity/Stryx (KPDM).md|Stryx]]
 *Source: Deep Magic p. 299*
 
 Owl-like monstrosities with vaguely human-like heads, stryx sometimes serve mortal spellcasters, particularly one of elven blood or one who has some tie to the fey, such as a half-elf [[5. Mechanics/Classes/Wizard School Of Enchantment.md|enchanter]] or a [[5. Mechanics/Classes/Warlock.md|warlock]] whose patron is the [[5. Mechanics/Classes/Warlock The Archfey.md|Archfey]].

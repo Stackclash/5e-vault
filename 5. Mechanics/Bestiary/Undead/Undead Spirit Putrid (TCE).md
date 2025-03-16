@@ -13,7 +13,7 @@ tags:
 aliases:
   - Undead Spirit (Putrid)
 ---
-# [[5. Mechanics\Bestiary\Undead\Undead Spirit Putrid (TCE).md|Undead Spirit (Putrid)]]
+# [[5. Mechanics/Bestiary/Undead/Undead Spirit Putrid (TCE).md|Undead Spirit (Putrid)]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock

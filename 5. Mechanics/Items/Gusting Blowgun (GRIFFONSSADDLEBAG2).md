@@ -11,7 +11,7 @@ tags:
 aliases:
   - Gusting Blowgun
 one-hand-damage: 1 P
-range: 25\100
+range: 25/100
 ---
 # Gusting Blowgun
 *Weapon ([[5. Mechanics/Items/Blowgun.md\|blowgun]]), major, uncommon (requires attunement)*  

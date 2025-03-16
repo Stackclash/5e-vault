@@ -13,7 +13,7 @@ tags:
 aliases:
   - Kakkuu Spyder-Fiend
 ---
-# [[5. Mechanics\Bestiary\Fiend\Kakkuu Spyder Fiend (VEOR).md|Kakkuu Spyder-Fiend]]
+# [[5. Mechanics/Bestiary/Fiend/Kakkuu Spyder Fiend (VEOR).md|Kakkuu Spyder-Fiend]]
 *Source: Vecna: Eve of Ruin p. 234*
 
 Resembling enormous spiders, kakkuus are the most numerous and least intelligent spyder-fiends. In large conflicts, they serve as foot soldiers, but they prefer to avoid more powerful Fiends, who boss them around. Left on their own, kakkuus lurk in ambush and use their webs to snare prey.

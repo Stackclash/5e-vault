@@ -13,7 +13,7 @@ tags:
 aliases:
   - Celestial Spirit (Defender)
 ---
-# [[5. Mechanics\Bestiary\Celestial\Celestial Spirit Defender (TCE).md|Celestial Spirit (Defender)]]
+# [[5. Mechanics/Bestiary/Celestial/Celestial Spirit Defender (TCE).md|Celestial Spirit (Defender)]]
 *Source: Tasha's Cauldron of Everything p. 110*
 
 ```statblock

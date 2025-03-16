@@ -18,7 +18,7 @@ tags:
 aliases:
   - Orc Blade of Ilneval
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Blade Of Ilneval (VGM).md|Orc Blade of Ilneval]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Blade Of Ilneval (VGM).md|Orc Blade of Ilneval]]
 *Source: Volo's Guide to Monsters p. 183*
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.

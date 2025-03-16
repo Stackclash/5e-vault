@@ -14,7 +14,7 @@ tags:
 aliases:
   - Succubus
 ---
-# [[5. Mechanics\Bestiary\Fiend\Succub(US).md|Succubus]]
+# [[5. Mechanics/Bestiary/Fiend/Succub(US).md|Succubus]]
 *Source: Monster Manual p. 285, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Succubi and incubi inhabit all of the Lower Planes, and the lascivious dark-winged fiends can be found in service to devils, demons, night hags, rakshasas, and yugoloths. Asmodeus, ruler of the Nine Hells, uses these fiends to tempt mortals to perform evil acts. The demon lord Graz'zt keeps succubi and incubi as advisers and consorts.

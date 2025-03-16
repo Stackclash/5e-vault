@@ -13,7 +13,7 @@ tags:
 aliases:
   - Tree Blight
 ---
-# [[5. Mechanics\Bestiary\Plant\Tree Blight (COS).md|Tree Blight]]
+# [[5. Mechanics/Bestiary/Plant/Tree Blight (COS).md|Tree Blight]]
 *Source: Curse of Strahd p. 230*
 
 Blights (as described in the Monster Manual) are evil, ambulatory plant creatures, and a tree blight is a particularly enormous variety. It looks like a dead tree or treant, 30 feet tall, with spongy wooden flesh, thorny branches, and rubbery roots that trail behind it. It has blood for sap and is so saturated with blood that it doesn't catch fire easily.

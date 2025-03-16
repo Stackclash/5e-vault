@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hertilod
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Hertilod (VEOR).md|Hertilod]]
+# [[5. Mechanics/Bestiary/Monstrosity/Hertilod (VEOR).md|Hertilod]]
 *Source: Vecna: Eve of Ruin p. 223*
 
 > [!quote] A quote from Melthena Vellaine, Wizard and Spelljammer  

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Handler
 ---
-# [[5. Mechanics\Bestiary\Fiend\Handler Da Gic.md|Handler]]
+# [[5. Mechanics/Bestiary/Fiend/Handler Da Gic.md|Handler]]
 *Source: Devil's Advocate: A Guide to Infernal Contracts p. 21*
 
 While some high-profile collection efforts are led by an ice devil, amnizu, or even a pit fiend, the quintessential picture of a collection agent is the handler. A handler's appearance varies throughout its existence, taking on a form pleasing to the entity that hires it. Despite these changes, every handler features exaggerated forearms with claws that inflict infernal wounds. Most of the time, however, a handler never has to lay a finger on the signee thanks to their manipulative magic.

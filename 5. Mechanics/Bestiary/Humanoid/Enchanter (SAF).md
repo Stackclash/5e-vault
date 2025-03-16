@@ -13,7 +13,7 @@ tags:
 aliases:
   - Enchanter
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Enchanter (SAF).md|Enchanter]]
+# [[5. Mechanics/Bestiary/Humanoid/Enchanter (SAF).md|Enchanter]]
 *Source: Strongholds and Followers p. 80*
 
 ```statblock

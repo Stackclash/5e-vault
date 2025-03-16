@@ -13,7 +13,7 @@ tags:
 aliases:
   - Staver Phenomena
 ---
-# [[5. Mechanics\Bestiary\Aberration\Staver Phenomena (GRIFFONSSADDLEBAG3).md|Staver Phenomena]]
+# [[5. Mechanics/Bestiary/Aberration/Staver Phenomena (GRIFFONSSADDLEBAG3).md|Staver Phenomena]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 These strange, trans-dimensional beings of pure force are from another reality where starmetal can still be found. Named after the late Conjuration Magistrate who discovered them, Julius Staver, the Polaris Magistrates are in constant opposition with these alien creatures as they desperately seeks to reach and harvest more starmetal from their dimension. Other than in defense of themselves or their home, the Staver Phenomena don't actively seek conquest or violence.

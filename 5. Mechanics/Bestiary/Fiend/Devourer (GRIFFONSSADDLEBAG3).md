@@ -13,7 +13,7 @@ tags:
 aliases:
   - Devourer
 ---
-# [[5. Mechanics\Bestiary\Fiend\Devourer (GRIFFONSSADDLEBAG3).md|Devourer]]
+# [[5. Mechanics/Bestiary/Fiend/Devourer (GRIFFONSSADDLEBAG3).md|Devourer]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The wretched, imp-like thralls of Azgoreoth that infest the Dreamlands in which he feasts. Devourers are virtually invisible in darkness, and look like demons of lightless smoke. They silently harvest the conscious energy of living creatures that become caught in their dreamy demiplane, siphoning away their life and the tethers that bind their body and soul together.

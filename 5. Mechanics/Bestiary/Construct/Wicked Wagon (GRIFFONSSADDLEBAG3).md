@@ -13,7 +13,7 @@ tags:
 aliases:
   - Wicked Wagon
 ---
-# [[5. Mechanics\Bestiary\Construct\Wicked Wagon (GRIFFONSSADDLEBAG3).md|Wicked Wagon]]
+# [[5. Mechanics/Bestiary/Construct/Wicked Wagon (GRIFFONSSADDLEBAG3).md|Wicked Wagon]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A favored and bewitched ally of hags, wicked wagons are animated carts with sickly demiplanes inside that hold captured souls. These souls can then be used by its hag allies to transform their appearances, taking on the forms and basic knowledge of the souls captured within.

@@ -16,7 +16,7 @@ tags:
 aliases:
   - Firenewt Warlock of Imix
 ---
-# [[5. Mechanics\Bestiary\Elemental\Firenewt Warlock Of Imix (MPMM).md|Firenewt Warlock of Imix]]
+# [[5. Mechanics/Bestiary/Elemental/Firenewt Warlock Of Imix (MPMM).md|Firenewt Warlock of Imix]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143*
 
 Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.

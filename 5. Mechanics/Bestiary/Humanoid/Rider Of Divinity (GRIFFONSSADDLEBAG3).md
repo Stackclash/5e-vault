@@ -13,7 +13,7 @@ tags:
 aliases:
   - Rider of Divinity
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Rider Of Divinity (GRIFFONSSADDLEBAG3).md|Rider of Divinity]]
+# [[5. Mechanics/Bestiary/Humanoid/Rider Of Divinity (GRIFFONSSADDLEBAG3).md|Rider of Divinity]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Paladins of Val Linsin that are trained in the bow. Often mounted on horseback, these defenders seek out evil and smite it from afar, protecting those in harm's way with a magical aura.

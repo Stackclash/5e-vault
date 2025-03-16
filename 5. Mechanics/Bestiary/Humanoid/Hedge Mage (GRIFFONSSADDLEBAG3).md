@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hedge Mage
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Hedge Mage (GRIFFONSSADDLEBAG3).md|Hedge Mage]]
+# [[5. Mechanics/Bestiary/Humanoid/Hedge Mage (GRIFFONSSADDLEBAG3).md|Hedge Mage]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A hedge mage practices a curious mixture of arcana and herbalism to produce potent brews and remedies. Societies might view a hedge mage's magic as occult or accuse them of being a hag, especially during times of scarcity when they want a scapegoat to blame. Even when faced with such vitriol, hedge mages devote themselves to the healing arts andthe growth of nature's bounties.

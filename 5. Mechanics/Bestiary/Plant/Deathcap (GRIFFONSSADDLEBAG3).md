@@ -13,7 +13,7 @@ tags:
 aliases:
   - Deathcap
 ---
-# [[5. Mechanics\Bestiary\Plant\Deathcap (GRIFFONSSADDLEBAG3).md|Deathcap]]
+# [[5. Mechanics/Bestiary/Plant/Deathcap (GRIFFONSSADDLEBAG3).md|Deathcap]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Found primarily in the Gilded Glade, deathcaps are walking fungal nightmares. These carnivorous and ambulatory mushrooms are apex predators in the Safire Wood. Like most creatures in such a position on the food chain, however, they hunt rarely and hibernate for long periods of time. Some folktales claim that the first deathcap was created when a long-forgotten elf became cursed by one of the [[5. Mechanics/Bestiary/Fey/Safire Hag (GRIFFONSSADDLEBAG3).md|Safire hags]]. Unfortunately, the only proven strategy to escape the spores and tendrils of a deathcap is to avoid catching their interest in the first place.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hound of Ill Omen
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Hound Of Ill Omen (XGE).md|Hound of Ill Omen]]
+# [[5. Mechanics/Bestiary/Monstrosity/Hound Of Ill Omen (XGE).md|Hound of Ill Omen]]
 *Source: Xanathar's Guide to Everything p. 50*
 
 ```statblock

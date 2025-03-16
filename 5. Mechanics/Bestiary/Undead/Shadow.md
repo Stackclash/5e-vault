@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'underdark, urban'
 size: Medium
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Shadow
 ---
-# [[5. Mechanics\Bestiary\Undead\Shadow.md|Shadow]]
+# [[5. Mechanics/Bestiary/Undead/Shadow.md|Shadow]]
 *Source: Monster Manual p. 269, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Shadows are undead that resemble dark exaggerations of humanoid shadows.

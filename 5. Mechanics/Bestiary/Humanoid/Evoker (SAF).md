@@ -13,7 +13,7 @@ tags:
 aliases:
   - Evoker
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Evoker (SAF).md|Evoker]]
+# [[5. Mechanics/Bestiary/Humanoid/Evoker (SAF).md|Evoker]]
 *Source: Strongholds and Followers p. 80*
 
 ```statblock

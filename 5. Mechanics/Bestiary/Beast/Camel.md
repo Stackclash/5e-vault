@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: desert
 size: Large
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Camel
 ---
-# [[5. Mechanics\Bestiary\Beast\Camel.md|Camel]]
+# [[5. Mechanics/Bestiary/Beast/Camel.md|Camel]]
 *Source: Monster Manual p. 320. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

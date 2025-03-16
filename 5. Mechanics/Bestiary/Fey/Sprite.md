@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: forest
 size: Tiny
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Sprite
 ---
-# [[5. Mechanics\Bestiary\Fey\Sprite.md|Sprite]]
+# [[5. Mechanics/Bestiary/Fey/Sprite.md|Sprite]]
 *Source: Monster Manual p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 In secret groves and shaded glens, tiny sprites with dragonfly wings flutter. For all their fey splendor, however, sprites lack warmth and compassion. They are aggressive and hardy warriors, taking severe measures to ward strangers away from their homes. Interlopers that come too close have their moral character judged, then are put to sleep or frightened off.

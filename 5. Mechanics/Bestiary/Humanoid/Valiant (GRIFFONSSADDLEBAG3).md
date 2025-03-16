@@ -13,7 +13,7 @@ tags:
 aliases:
   - Valiant
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Valiant (GRIFFONSSADDLEBAG3).md|Valiant]]
+# [[5. Mechanics/Bestiary/Humanoid/Valiant (GRIFFONSSADDLEBAG3).md|Valiant]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Valiants are stoic warlocks that form a pact with creatures like Fey Knights, righteous spirits, or other famed warriors of ages long past and ageless power. Sometimes, valiants find themselves confused or conflated with paladins or clerics, but these warriors draw their magic through an arcane pact with an entity of great renown, rather than via divine methods. Warriors of truth, justice, and other similar heroic ideals, valiants make stalwart and trustworthy companions.

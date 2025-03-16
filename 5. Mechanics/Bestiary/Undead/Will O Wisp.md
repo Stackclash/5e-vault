@@ -16,7 +16,7 @@ tags:
 aliases:
   - Will-o'-Wisp
 ---
-# [[5. Mechanics\Bestiary\Undead\Will O Wisp.md|Will-o'-Wisp]]
+# [[5. Mechanics/Bestiary/Undead/Will O Wisp.md|Will-o'-Wisp]]
 *Source: Monster Manual p. 301, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Vistana Spy
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Vistana Spy (COS).md|Vistana Spy]]
+# [[5. Mechanics/Bestiary/Humanoid/Vistana Spy (COS).md|Vistana Spy]]
 *Source: Curse of Strahd p. 28*
 
 ```statblock

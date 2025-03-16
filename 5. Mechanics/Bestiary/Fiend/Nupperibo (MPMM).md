@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nupperibo
 ---
-# [[5. Mechanics\Bestiary\Fiend\Nupperibo (MPMM).md|Nupperibo]]
+# [[5. Mechanics/Bestiary/Fiend/Nupperibo (MPMM).md|Nupperibo]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168*
 
 > [!quote] A quote from Mordenkainen  

@@ -12,7 +12,7 @@ aliases:
   - Frost Giant Fork
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 20\60
+range: 20/60
 ---
 # Frost Giant Fork
 *Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), cursed item, major, rare (requires attunement)*  

@@ -10,7 +10,7 @@ tags:
 aliases:
   - Compass Blowgun
 one-hand-damage: 1 P
-range: 25\100
+range: 25/100
 ---
 # Compass Blowgun
 *Weapon ([[5. Mechanics/Items/Blowgun.md\|blowgun]]), uncommon (requires attunement)*  

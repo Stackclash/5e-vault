@@ -14,7 +14,7 @@ tags:
 aliases:
   - Faerie Dragon (Green)
 ---
-# [[5. Mechanics\Bestiary\Dragon\Faerie Dragon Green.md|Faerie Dragon (Green)]]
+# [[5. Mechanics/Bestiary/Dragon/Faerie Dragon Green.md|Faerie Dragon (Green)]]
 *Source: Monster Manual p. 133*
 
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.

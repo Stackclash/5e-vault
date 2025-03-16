@@ -15,7 +15,7 @@ tags:
 aliases:
   - Rat
 ---
-# [[5. Mechanics\Bestiary\Beast\Rat.md|Rat]]
+# [[5. Mechanics/Bestiary/Beast/Rat.md|Rat]]
 *Source: Monster Manual p. 335. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

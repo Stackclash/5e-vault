@@ -10,7 +10,7 @@ tags:
 aliases:
   - Whirlpool Dart
 one-hand-damage: 1d4 P
-range: 20\60
+range: 20/60
 ---
 # Whirlpool Dart
 *Weapon ([[5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  

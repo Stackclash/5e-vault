@@ -8,30 +8,29 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 images: []
-relationships:
-  - Danika Dorakova (COS)|wife
+relationships: []
 aliases:
   - Urwin Martikov
-pronounced: 
-race: 
+pronounced: null
+race: null
 gender: male
-age: 
+age: null
 alignment: Lawful Good
 occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 partyRelationships: {}
-image: 
+image: null
 ---
 
 > [!infobox]

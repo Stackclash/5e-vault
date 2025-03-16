@@ -11,7 +11,7 @@ tags:
 aliases:
   - Redeemer's Regards
 one-hand-damage: 1d8 P
-range: 150\600
+range: 150/600
 ---
 # Redeemer's Regards
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, rare (requires attunement by a paladin)*  

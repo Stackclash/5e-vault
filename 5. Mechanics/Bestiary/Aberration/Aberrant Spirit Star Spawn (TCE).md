@@ -13,7 +13,7 @@ tags:
 aliases:
   - Aberrant Spirit (Star Spawn)
 ---
-# [[5. Mechanics\Bestiary\Aberration\Aberrant Spirit Star Spawn (TCE).md|Aberrant Spirit (Star Spawn)]]
+# [[5. Mechanics/Bestiary/Aberration/Aberrant Spirit Star Spawn (TCE).md|Aberrant Spirit (Star Spawn)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock

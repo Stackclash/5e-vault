@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mirror Shade
 ---
-# [[5. Mechanics\Bestiary\Undead\Mirror Shade (VEOR).md|Mirror Shade]]
+# [[5. Mechanics/Bestiary/Undead/Mirror Shade (VEOR).md|Mirror Shade]]
 *Source: Vecna: Eve of Ruin p. 226*
 
 > [!quote] A quote from Hopewell Lightfinger, Sword Coast Adventurer  

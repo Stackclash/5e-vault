@@ -13,7 +13,7 @@ tags:
 aliases:
   - Quavilithku Spyder-Fiend
 ---
-# [[5. Mechanics\Bestiary\Fiend\Quavilithku Spyder Fiend (VEOR).md|Quavilithku Spyder-Fiend]]
+# [[5. Mechanics/Bestiary/Fiend/Quavilithku Spyder Fiend (VEOR).md|Quavilithku Spyder-Fiend]]
 *Source: Vecna: Eve of Ruin p. 236*
 
 Quavilithku spyder-fiends revel in destruction. Although they like to savage prey with their mangy wolf heads, they delight in destroying structures and art objects—the more beautiful, the better. The arms hanging below their wolf heads are physically frail but useful for employing tools of destruction or sabotage.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cutpurse
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Cutpurse (SAF).md|Cutpurse]]
+# [[5. Mechanics/Bestiary/Humanoid/Cutpurse (SAF).md|Cutpurse]]
 *Source: Strongholds and Followers p. 79*
 
 ```statblock

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Second Soul Sorcerer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Second Soul Sorcerer (GRIFFONSSADDLEBAG3).md|Second Soul Sorcerer]]
+# [[5. Mechanics/Bestiary/Humanoid/Second Soul Sorcerer (GRIFFONSSADDLEBAG3).md|Second Soul Sorcerer]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A spellcaster with twin souls inside it. Sparks of necrotic magic fly between these souls as each one vies for dominance. The most powerful of these sorcerers are the ones who learn to work in tandem with their additional soul, which may have come to them as a result of a revivify spell gone awry, or the strange posession by a ghost or similar undead creature.

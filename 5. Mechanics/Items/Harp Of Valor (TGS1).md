@@ -11,7 +11,7 @@ tags:
 aliases:
   - Harp of Valor
 one-hand-damage: 1d6 T
-range: 80\320
+range: 80/320
 ---
 # Harp of Valor
 *Weapon ([[5. Mechanics/Items/Shortbow.md\|shortbow]]), major, very rare (requires attunement by a bard)*  

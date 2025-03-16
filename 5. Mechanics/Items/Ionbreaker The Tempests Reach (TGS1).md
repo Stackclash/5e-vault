@@ -11,7 +11,7 @@ tags:
 aliases:
   - 'Ionbreaker, the Tempest''s Reach'
 one-hand-damage: 1d8 P
-range: 150\600
+range: 150/600
 ---
 # Ionbreaker, the Tempest's Reach
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, artifact (requires attunement)*  

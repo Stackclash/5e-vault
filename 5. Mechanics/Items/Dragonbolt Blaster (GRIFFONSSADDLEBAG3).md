@@ -10,7 +10,7 @@ tags:
 aliases:
   - Dragonbolt Blaster
 one-hand-damage: 2d10 L
-range: 150\600
+range: 150/600
 ---
 # Dragonbolt Blaster
 *Weapon ([[5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), major, rare*  

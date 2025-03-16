@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: underdark
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Violet Fungus
 ---
-# [[5. Mechanics\Bestiary\Plant\Violet Fung(US).md|Violet Fungus]]
+# [[5. Mechanics/Bestiary/Plant/Violet Fung(US).md|Violet Fungus]]
 *Source: Monster Manual p. 138. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in `dice:2d6|noform|avg` (`2d6`) days.

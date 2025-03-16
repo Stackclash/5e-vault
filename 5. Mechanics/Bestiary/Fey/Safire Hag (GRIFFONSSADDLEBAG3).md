@@ -13,7 +13,7 @@ tags:
 aliases:
   - Safire Hag
 ---
-# [[5. Mechanics\Bestiary\Fey\Safire Hag (GRIFFONSSADDLEBAG3).md|Safire Hag]]
+# [[5. Mechanics/Bestiary/Fey/Safire Hag (GRIFFONSSADDLEBAG3).md|Safire Hag]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The vile hags that call this forest home are excellent reflections of it's deadly allure. With skillful illusions and superb control over plants, these witches work individually and in covens to exert influence over the region. They thrive by harvesting the wood's plentiful herbs for their craft, but have a special affinity for the acidic mucus produced by their domesticated [[5. Mechanics/Bestiary/Monstrosity/Spider Newt (GRIFFONSSADDLEBAG3).md|spider-newt]] mounts.

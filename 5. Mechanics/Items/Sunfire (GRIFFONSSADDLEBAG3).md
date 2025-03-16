@@ -11,7 +11,7 @@ tags:
 aliases:
   - Sunfire
 one-hand-damage: 2d8 R
-range: 100\400
+range: 100/400
 ---
 # Sunfire
 *Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare (requires attunement by a cleric or paladin)*  

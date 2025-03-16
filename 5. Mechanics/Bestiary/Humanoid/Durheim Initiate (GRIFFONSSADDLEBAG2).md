@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Durheim Initiate
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Durheim Initiate (GRIFFONSSADDLEBAG2).md|Durheim Initiate]]
+# [[5. Mechanics/Bestiary/Humanoid/Durheim Initiate (GRIFFONSSADDLEBAG2).md|Durheim Initiate]]
 *Source: The Griffon's Saddlebag, Book 2 p. 353*
 
 Those who have only recently begun to follow the teachings of Attiskin are referred to as initiates. These individuals have begun to open their eyes to the wonders and dangers of the Ethereal, but they are only fledglings. Some of these inexperienced monks feel the call to Walk the Liminal Path earlier than is typical—these brave souls are destined to accomplish greatness or fall to tragedy.

@@ -11,7 +11,7 @@ tags:
 aliases:
   - Bloodmage Dagger
 one-hand-damage: 1d4 P
-range: 40\80
+range: 40/80
 ---
 # Bloodmage Dagger
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement by a spellcaster)*  

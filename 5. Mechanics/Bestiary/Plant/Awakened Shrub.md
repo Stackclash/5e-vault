@@ -14,7 +14,7 @@ tags:
 aliases:
   - Awakened Shrub
 ---
-# [[5. Mechanics\Bestiary\Plant\Awakened Shrub.md|Awakened Shrub]]
+# [[5. Mechanics/Bestiary/Plant/Awakened Shrub.md|Awakened Shrub]]
 *Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 An awakened shrub is an ordinary shrub given sentience and mobility by the [[5. Mechanics/Spells/Awaken.md|awaken]] spell or similar magic.

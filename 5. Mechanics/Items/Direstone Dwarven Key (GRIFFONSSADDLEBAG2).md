@@ -11,7 +11,7 @@ tags:
 aliases:
   - Direstone Dwarven Key
 one-hand-damage: 1d6 S
-range: 20\60
+range: 20/60
 ---
 # Direstone Dwarven Key
 *Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon (requires attunement by a dwarf)*  

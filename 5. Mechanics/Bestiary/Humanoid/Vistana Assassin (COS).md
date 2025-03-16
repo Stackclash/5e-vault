@@ -13,7 +13,7 @@ tags:
 aliases:
   - Vistana Assassin
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Vistana Assassin (COS).md|Vistana Assassin]]
+# [[5. Mechanics/Bestiary/Humanoid/Vistana Assassin (COS).md|Vistana Assassin]]
 *Source: Curse of Strahd p. 28*
 
 ```statblock

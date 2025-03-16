@@ -11,7 +11,7 @@ tags:
 aliases:
   - Grass Whistle Blade
 one-hand-damage: 1d4 P
-range: 40\80
+range: 40/80
 ---
 # Grass Whistle Blade
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement)*  

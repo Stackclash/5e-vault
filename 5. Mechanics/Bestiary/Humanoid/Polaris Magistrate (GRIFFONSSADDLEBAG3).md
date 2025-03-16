@@ -13,7 +13,7 @@ tags:
 aliases:
   - Polaris Magistrate
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Polaris Magistrate (GRIFFONSSADDLEBAG3).md|Polaris Magistrate]]
+# [[5. Mechanics/Bestiary/Humanoid/Polaris Magistrate (GRIFFONSSADDLEBAG3).md|Polaris Magistrate]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Powerful archmages in their own right, the Magistrates of Polaris are long-lived and exceedingly wealthy leaders of the floating city. Almost uniformly lawful in nature and ideology, Magistrates are renowned across the multiverse for their influential standing in cross-planar trade and mediation. Those who attempt to assassinate or otherwise overthrow a Magistrate are universally met with a terrifying, and certainly life-ending, display of arcane skill.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Construct Spirit (Metal)
 ---
-# [[5. Mechanics\Bestiary\Construct\Construct Spirit Metal (TCE).md|Construct Spirit (Metal)]]
+# [[5. Mechanics/Bestiary/Construct/Construct Spirit Metal (TCE).md|Construct Spirit (Metal)]]
 *Source: Tasha's Cauldron of Everything p. 111*
 
 ```statblock

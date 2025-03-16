@@ -13,7 +13,7 @@ tags:
 aliases:
   - Rot Monster
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Rot Monster (GRIFFONSSADDLEBAG2).md|Rot Monster]]
+# [[5. Mechanics/Bestiary/Monstrosity/Rot Monster (GRIFFONSSADDLEBAG2).md|Rot Monster]]
 *Source: The Griffon's Saddlebag, Book 2 p. 362*
 
 Considered a cousin to rust monsters in behavior if not biology, the rot monster thrives on spoiled, contaminated, or rotting food and drinks—consuming them without suffering any ill effects. Its appearance is not unlike a featherless, scaly-skinned vulture, though its wings are almost vestigial. A vicious scavenger, it is willing to stalk living prey when the pickings are slim. In this instance, it shows a terrifying ability to rapidly putrefy organic material with its talons.

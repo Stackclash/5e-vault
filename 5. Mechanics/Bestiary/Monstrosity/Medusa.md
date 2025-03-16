@@ -14,7 +14,7 @@ tags:
 aliases:
   - Medusa
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Medusa.md|Medusa]]
+# [[5. Mechanics/Bestiary/Monstrosity/Medusa.md|Medusa]]
 *Source: Monster Manual p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 As deadly as they are ravishing, the serpent-haired medusas suffer an immortal curse brought on by their vanity. They lurk in quiet exile among the tumbled ruins of their former lives, surrounded by the petrified remains of past admirers and would-be heroes.

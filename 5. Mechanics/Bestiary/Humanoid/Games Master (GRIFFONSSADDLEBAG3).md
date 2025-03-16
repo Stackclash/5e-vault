@@ -13,7 +13,7 @@ tags:
 aliases:
   - Games Master
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Games Master (GRIFFONSSADDLEBAG3).md|Games Master]]
+# [[5. Mechanics/Bestiary/Humanoid/Games Master (GRIFFONSSADDLEBAG3).md|Games Master]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Creatures that spend enough time playing games eventually come to understand them in strange and powerful ways, seeing them in a way unlike their fellow players. These masters can easily win at cards, chess, or dice because of their staggering experience and uncanny luck, but can also bring out the bizarre magical powers hidden within such trinkets.

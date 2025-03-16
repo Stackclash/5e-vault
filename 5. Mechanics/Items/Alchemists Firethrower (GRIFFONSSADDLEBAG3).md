@@ -10,7 +10,7 @@ tags:
 aliases:
   - Alchemist's Firethrower
 one-hand-damage: 1d6 F
-range: 30\90
+range: 30/90
 ---
 # Alchemist's Firethrower
 *Weapon ([[5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), major, rare*  

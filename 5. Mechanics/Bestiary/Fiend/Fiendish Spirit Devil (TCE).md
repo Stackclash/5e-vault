@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fiendish Spirit (Devil)
 ---
-# [[5. Mechanics\Bestiary\Fiend\Fiendish Spirit Devil (TCE).md|Fiendish Spirit (Devil)]]
+# [[5. Mechanics/Bestiary/Fiend/Fiendish Spirit Devil (TCE).md|Fiendish Spirit (Devil)]]
 *Source: Tasha's Cauldron of Everything p. 112*
 
 ```statblock

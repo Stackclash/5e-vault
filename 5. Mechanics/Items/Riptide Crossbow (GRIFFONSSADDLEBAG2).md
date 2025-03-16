@@ -11,7 +11,7 @@ tags:
 aliases:
   - Riptide Crossbow
 one-hand-damage: 1d10 P
-range: 100\400
+range: 100/400
 ---
 # Riptide Crossbow
 *Weapon ([[5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, rare (requires attunement)*  

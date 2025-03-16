@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'forest, grassland'
 size: Tiny
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Velociraptor
 ---
-# [[5. Mechanics\Bestiary\Beast\Velociraptor (MPMM).md|Velociraptor]]
+# [[5. Mechanics/Bestiary/Beast/Velociraptor (MPMM).md|Velociraptor]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*
 
 This feathered dinosaur is about the size of a large turkey. It is an aggressive predator and often hunts in packs to bring down larger prey.

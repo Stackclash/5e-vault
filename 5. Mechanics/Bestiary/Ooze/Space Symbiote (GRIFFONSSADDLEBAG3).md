@@ -13,7 +13,7 @@ tags:
 aliases:
   - Space Symbiote
 ---
-# [[5. Mechanics\Bestiary\Ooze\Space Symbiote (GRIFFONSSADDLEBAG3).md|Space Symbiote]]
+# [[5. Mechanics/Bestiary/Ooze/Space Symbiote (GRIFFONSSADDLEBAG3).md|Space Symbiote]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A space symbiote is a pitch-dark ooze that travels through the Astral Plane and Cosmos in seach of living, or even once-living, matter. Cosmos-faring humanoids consumed by it are posthumously reanimated, becoming mindless thralls of the otherwise aimless ooze as it travels the universe in search of its next meal.

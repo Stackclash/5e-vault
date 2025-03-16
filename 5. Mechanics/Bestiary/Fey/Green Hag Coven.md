@@ -16,7 +16,7 @@ tags:
 aliases:
   - Green Hag (Coven)
 ---
-# [[5. Mechanics\Bestiary\Fey\Green Hag Coven.md|Green Hag (Coven)]]
+# [[5. Mechanics/Bestiary/Fey/Green Hag Coven.md|Green Hag (Coven)]]
 *Source: Monster Manual p. 177, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock

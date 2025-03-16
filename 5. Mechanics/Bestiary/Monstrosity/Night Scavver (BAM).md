@@ -13,7 +13,7 @@ tags:
 aliases:
   - Night Scavver
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Night Scavver (BAM).md|Night Scavver]]
+# [[5. Mechanics/Bestiary/Monstrosity/Night Scavver (BAM).md|Night Scavver]]
 *Source: Boo's Astral Menagerie p. 49, Vecna: Eve of Ruin*
 
 Night scavvers are 15 feet long. Their coloration resembles that of Wildspace itself: white spots (representing stars) sprinkled amid dark patches and patterns of color. They fearlessly invade the air envelopes of spelljamming ships and attack crew members on deck.

@@ -16,7 +16,7 @@ tags:
 aliases:
   - Raven
 ---
-# [[5. Mechanics\Bestiary\Beast\Raven.md|Raven]]
+# [[5. Mechanics/Bestiary/Beast/Raven.md|Raven]]
 *Source: Monster Manual p. 335, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

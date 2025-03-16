@@ -13,7 +13,7 @@ tags:
 aliases:
   - Priest of Osybus (Blazing Boon)
 ---
-# [[5. Mechanics\Bestiary\Undead\Priest Of Osybus Blazing Boon (VRGR).md|Priest of Osybus (Blazing Boon)]]
+# [[5. Mechanics/Bestiary/Undead/Priest Of Osybus Blazing Boon (VRGR).md|Priest of Osybus (Blazing Boon)]]
 *Source: Van Richten's Guide to Ravenloft p. 241, Vecna: Eve of Ruin*
 
 ```statblock

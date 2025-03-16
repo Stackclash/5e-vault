@@ -14,7 +14,7 @@ tags:
 aliases:
   - Behir
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Behir.md|Behir]]
+# [[5. Mechanics/Bestiary/Monstrosity/Behir.md|Behir]]
 *Source: Monster Manual p. 25, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The serpentine behir crawls along floors and clambers up walls to reach its prey. Its lightning breath can incinerate most creatures, even as more powerful foes are constricted in its coils and eaten alive.

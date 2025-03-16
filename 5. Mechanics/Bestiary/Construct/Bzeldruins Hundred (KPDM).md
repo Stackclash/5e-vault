@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bzeldruin's Hundred
 ---
-# [[5. Mechanics\Bestiary\Construct\Bzeldruins Hundred (KPDM).md|Bzeldruin's Hundred]]
+# [[5. Mechanics/Bestiary/Construct/Bzeldruins Hundred (KPDM).md|Bzeldruin's Hundred]]
 *Source: Deep Magic p. 286*
 
 *Spread out across the ground before you is an impressive collection of close to a hundred wooden miniatures. Each figure resembles an adult male, an adult female, or a child. Most seem to be human, but you can see elves, dwarves, halflings, and even a few centaurs and other creatures scattered among them. As soon as you notice them, the figures begin to mimic your every movement.*

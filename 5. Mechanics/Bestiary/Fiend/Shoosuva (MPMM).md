@@ -17,7 +17,7 @@ tags:
 aliases:
   - Shoosuva
 ---
-# [[5. Mechanics\Bestiary\Fiend\Shoosuva (MPMM).md|Shoosuva]]
+# [[5. Mechanics/Bestiary/Fiend/Shoosuva (MPMM).md|Shoosuva]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137*
 
 > [!quote] A quote from Mordenkainen  

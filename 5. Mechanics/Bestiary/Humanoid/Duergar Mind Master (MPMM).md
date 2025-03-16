@@ -15,7 +15,7 @@ tags:
 aliases:
   - Duergar Mind Master
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar Mind Master (MPMM).md|Duergar Mind Master]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar Mind Master (MPMM).md|Duergar Mind Master]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 108, Mordenkainen's Tome of Foes p. 189*
 
 Wearing fearsome masks, duergar mind masters usually operate as spies, both inside and beyond a duergar stronghold. Their psionically augmented abilities enable them to see through illusions with ease and shrink down to miniature size to spy on their targets.

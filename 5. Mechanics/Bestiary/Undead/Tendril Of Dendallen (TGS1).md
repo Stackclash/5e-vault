@@ -13,7 +13,7 @@ tags:
 aliases:
   - Tendril of Dendallen
 ---
-# [[5. Mechanics\Bestiary\Undead\Tendril Of Dendallen (TGS1).md|Tendril of Dendallen]]
+# [[5. Mechanics/Bestiary/Undead/Tendril Of Dendallen (TGS1).md|Tendril of Dendallen]]
 *Source: The Griffon's Saddlebag, Book 1 p. 201*
 
 ```statblock

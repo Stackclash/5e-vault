@@ -13,7 +13,7 @@ tags:
 aliases:
   - Curate
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Curate (SAF).md|Curate]]
+# [[5. Mechanics/Bestiary/Humanoid/Curate (SAF).md|Curate]]
 *Source: Strongholds and Followers p. 73*
 
 ```statblock

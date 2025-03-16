@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'underdark, mountain, grassland, forest, hill'
 size: Medium
 tags:
@@ -18,7 +18,7 @@ tags:
 aliases:
   - Orc Nurtured One of Yurtrus
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Nurtured One Of Yurtrus (VGM).md|Orc Nurtured One of Yurtrus]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Nurtured One Of Yurtrus (VGM).md|Orc Nurtured One of Yurtrus]]
 *Source: Volo's Guide to Monsters p. 184*
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.

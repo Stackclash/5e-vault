@@ -13,7 +13,7 @@ tags:
 aliases:
   - Heretic
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Heretic (GRIFFONSSADDLEBAG3).md|Heretic]]
+# [[5. Mechanics/Bestiary/Humanoid/Heretic (GRIFFONSSADDLEBAG3).md|Heretic]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Heretics are tricksters that interface with deities but aren't called to serve a single one. These rogues are able to broker tenuous, temporary accords with them to cast a limited spectrum of magic. These Hereteics often play as pivotal roles in the Upper Planes' greater machinations as the clerics and paladins that devoutly serve them.

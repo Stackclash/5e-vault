@@ -11,7 +11,7 @@ tags:
 aliases:
   - Arkanobow
 one-hand-damage: 1d8 L
-range: 150\600
+range: 150/600
 ---
 # Arkanobow
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  

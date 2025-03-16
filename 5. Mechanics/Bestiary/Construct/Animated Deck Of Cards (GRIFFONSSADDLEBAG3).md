@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Animated Deck of Cards
 ---
-# [[5. Mechanics\Bestiary\Construct\Animated Deck Of Cards (GRIFFONSSADDLEBAG3).md|Animated Deck of Cards]]
+# [[5. Mechanics/Bestiary/Construct/Animated Deck Of Cards (GRIFFONSSADDLEBAG3).md|Animated Deck of Cards]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Like other animated constructs, the animated deck of cards exists seemingly only to surprise unknowing creatures. Swirling around a central deck of cards, these sharp, flying cards fling themselves haphazardly toward targets to inflict wicked paper cuts and ruin game nights.

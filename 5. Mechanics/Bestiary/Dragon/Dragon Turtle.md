@@ -15,7 +15,7 @@ tags:
 aliases:
   - Dragon Turtle
 ---
-# [[5. Mechanics\Bestiary\Dragon\Dragon Turtle.md|Dragon Turtle]]
+# [[5. Mechanics/Bestiary/Dragon/Dragon Turtle.md|Dragon Turtle]]
 *Source: Monster Manual p. 119. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Dragon turtles are among the most fearsome creatures of the oceans. As large and voracious as the oldest of its land-based dragon kin, a dragon turtle strikes with its deadly jaws, steaming breath, and crushing tail.

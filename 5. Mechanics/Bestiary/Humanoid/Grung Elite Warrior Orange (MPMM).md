@@ -14,7 +14,7 @@ tags:
 aliases:
   - Grung Elite Warrior (Orange)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grung Elite Warrior Orange (MPMM).md|Grung Elite Warrior (Orange)]]
+# [[5. Mechanics/Bestiary/Humanoid/Grung Elite Warrior Orange (MPMM).md|Grung Elite Warrior (Orange)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*
 
 ```statblock

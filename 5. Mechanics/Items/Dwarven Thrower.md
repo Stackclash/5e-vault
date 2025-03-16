@@ -12,7 +12,7 @@ aliases:
   - Dwarven Thrower
 one-hand-damage: 1d8 B
 two-hand-damage: 1d10 B
-range: 20\60
+range: 20/60
 ---
 # Dwarven Thrower
 *Weapon ([[5. Mechanics/Items/Warhammer.md\|warhammer]]), major, very rare (requires attunement by a dwarf)*  

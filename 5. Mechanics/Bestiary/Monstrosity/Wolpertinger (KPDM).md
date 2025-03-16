@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Wolpertinger
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Wolpertinger (KPDM).md|Wolpertinger]]
+# [[5. Mechanics/Bestiary/Monstrosity/Wolpertinger (KPDM).md|Wolpertinger]]
 *Source: Deep Magic p. 300*
 
 Woodland-dwelling monstrosities, wolpertingers are popular familiars among gnomish wizards but will serve just about any spellcaster if they are treated with care and respect. Since these creatures are more powerful than a standard familiar, 25 gp worth of holly berries must also be expended as part of the casting of the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] spell.

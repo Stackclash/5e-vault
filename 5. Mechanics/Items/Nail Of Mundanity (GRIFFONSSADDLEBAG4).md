@@ -9,7 +9,7 @@ tags:
 aliases:
   - Nail of Mundanity
 one-hand-damage: 1d4 P
-range: 20\60
+range: 20/60
 ---
 # Nail of Mundanity
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), rare*  

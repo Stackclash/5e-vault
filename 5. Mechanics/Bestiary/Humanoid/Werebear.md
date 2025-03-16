@@ -17,7 +17,7 @@ tags:
 aliases:
   - Werebear
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Werebear.md|Werebear]]
+# [[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]]
 *Source: Monster Manual p. 208. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Werebears are powerful lycanthropes with the ability to temper their monstrous natures and reject their violent impulses. In humanoid form, they are large, muscular, and covered in hair matching the color of their ursine form's fur. A werebear is a loner by nature, fearing what might happen to innocent creatures around it when its bestial nature takes over.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bog Troll
 ---
-# [[5. Mechanics\Bestiary\Giant\Bog Troll (GRIFFONSSADDLEBAG3).md|Bog Troll]]
+# [[5. Mechanics/Bestiary/Giant/Bog Troll (GRIFFONSSADDLEBAG3).md|Bog Troll]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 ```statblock

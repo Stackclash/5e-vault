@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Alkonost
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Alkonost (KPDM).md|Alkonost]]
+# [[5. Mechanics/Bestiary/Monstrosity/Alkonost (KPDM).md|Alkonost]]
 *Source: Deep Magic p. 296*
 
 The alkonost is a graceful bird that has the face of a beautiful man or woman. Flocks of these creatures lurk on the edges of dark clouds. Their plumage is the color of storms, ranging from light gray to dark slate with a shimmer of green or violet hue on the eldest.

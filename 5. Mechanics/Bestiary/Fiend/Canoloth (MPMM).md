@@ -16,7 +16,7 @@ tags:
 aliases:
   - Canoloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Canoloth (MPMM).md|Canoloth]]
+# [[5. Mechanics/Bestiary/Fiend/Canoloth (MPMM).md|Canoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 69, Mordenkainen's Tome of Foes p. 247*
 
 > [!quote] A quote from Mordenkainen  

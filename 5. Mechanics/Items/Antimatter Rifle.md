@@ -10,7 +10,7 @@ tags:
 aliases:
   - Antimatter Rifle
 one-hand-damage: 6d8 N
-range: 120\360
+range: 120/360
 ---
 # Antimatter Rifle
 *Weapon*  

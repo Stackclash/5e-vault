@@ -13,7 +13,7 @@ tags:
 aliases:
   - Marshwarden
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Marshwarden (GRIFFONSSADDLEBAG3).md|Marshwarden]]
+# [[5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md|Marshwarden]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 ```statblock

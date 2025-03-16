@@ -13,7 +13,7 @@ tags:
 aliases:
   - Undead Spirit (Ghostly)
 ---
-# [[5. Mechanics\Bestiary\Undead\Undead Spirit Ghostly (TCE).md|Undead Spirit (Ghostly)]]
+# [[5. Mechanics/Bestiary/Undead/Undead Spirit Ghostly (TCE).md|Undead Spirit (Ghostly)]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock

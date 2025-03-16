@@ -13,7 +13,7 @@ tags:
 aliases:
   - Beast of the Land
 ---
-# [[5. Mechanics\Bestiary\Beast\Beast Of The Land (TCE).md|Beast of the Land]]
+# [[5. Mechanics/Bestiary/Beast/Beast Of The Land (TCE).md|Beast of the Land]]
 *Source: Tasha's Cauldron of Everything p. 61*
 
 ```statblock

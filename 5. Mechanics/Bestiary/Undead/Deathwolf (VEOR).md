@@ -13,7 +13,7 @@ tags:
 aliases:
   - Deathwolf
 ---
-# [[5. Mechanics\Bestiary\Undead\Deathwolf (VEOR).md|Deathwolf]]
+# [[5. Mechanics/Bestiary/Undead/Deathwolf (VEOR).md|Deathwolf]]
 *Source: Vecna: Eve of Ruin p. 217*
 
 A deathwolf combines the might of a werewolf, the unholy powers of undeath, and the magic of the full moon. Deathwolves are most common on Krynn but occasionally are found in other locations where lycanthropy and necromancy are prevalent.

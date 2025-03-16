@@ -13,7 +13,7 @@ tags:
 aliases:
   - Weasel
 ---
-# [[5. Mechanics\Bestiary\Beast\Weasel.md|Weasel]]
+# [[5. Mechanics/Bestiary/Beast/Weasel.md|Weasel]]
 *Source: Monster Manual p. 340. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

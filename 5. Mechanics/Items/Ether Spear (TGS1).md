@@ -12,7 +12,7 @@ aliases:
   - Ether Spear
 one-hand-damage: 1d6 O
 two-hand-damage: 1d8 O
-range: 20\60
+range: 20/60
 ---
 # Ether Spear
 *Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), major, very rare (requires attunement)*  

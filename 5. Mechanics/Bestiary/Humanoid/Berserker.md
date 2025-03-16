@@ -19,7 +19,7 @@ tags:
 aliases:
   - Berserker
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Berserker.md|Berserker]]
+# [[5. Mechanics/Bestiary/Humanoid/Berserker.md|Berserker]]
 *Source: Monster Manual p. 344, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it.

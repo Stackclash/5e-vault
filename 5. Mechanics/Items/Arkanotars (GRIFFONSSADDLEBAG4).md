@@ -9,7 +9,7 @@ tags:
 aliases:
   - Arkanotars
 one-hand-damage: 1d4 L
-range: 20\60
+range: 20/60
 ---
 # Arkanotars
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), very rare*  

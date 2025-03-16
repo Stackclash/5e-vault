@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dullahan
 ---
-# [[5. Mechanics\Bestiary\Undead\Dullahan (VRGR).md|Dullahan]]
+# [[5. Mechanics/Bestiary/Undead/Dullahan (VRGR).md|Dullahan]]
 *Source: Van Richten's Guide to Ravenloft p. 233*
 
 Dullahans are headless undead warriors—the remains of villains who let vengeance consume them. These decapitated hunters haunt the areas where they were slain, butchering innocents in search of their severed heads or to quench their thirst for revenge.

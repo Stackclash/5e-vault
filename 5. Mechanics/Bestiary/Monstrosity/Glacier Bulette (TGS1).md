@@ -15,7 +15,7 @@ tags:
 aliases:
   - Glacier Bulette
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Glacier Bulette (TGS1).md|Glacier Bulette]]
+# [[5. Mechanics/Bestiary/Monstrosity/Glacier Bulette (TGS1).md|Glacier Bulette]]
 *Source: The Griffon's Saddlebag, Book 1 p. 175*
 
 ```statblock

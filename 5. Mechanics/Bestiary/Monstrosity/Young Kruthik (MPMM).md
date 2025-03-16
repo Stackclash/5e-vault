@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: 'desert, mountain, underdark'
 size: Small
 tags:
@@ -16,7 +16,7 @@ tags:
 aliases:
   - Young Kruthik
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Young Kruthik (MPMM).md|Young Kruthik]]
+# [[5. Mechanics/Bestiary/Monstrosity/Young Kruthik (MPMM).md|Young Kruthik]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 168, Mordenkainen's Tome of Foes p. 211*
 
 Kruthiks hatch from eggs laid by female adults. Each egg is about the size of an adult human's head and hatches within a month. Tiny kruthik hatchlings are harmless and rarely stray far from the nest. They feed primarily on offal and one another. Within a month, the survivors become young kruthiks large enough to hunt and defend themselves.

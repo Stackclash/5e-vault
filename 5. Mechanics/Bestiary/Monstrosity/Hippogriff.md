@@ -16,7 +16,7 @@ tags:
 aliases:
   - Hippogriff
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Hippogriff.md|Hippogriff]]
+# [[5. Mechanics/Bestiary/Monstrosity/Hippogriff.md|Hippogriff]]
 *Source: Monster Manual p. 184. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A beast whose magical origins are lost to history, a hippogriff possesses the wings and forelimbs of an eagle, the hindquarters of a horse, and a head that combines the features of both animals.

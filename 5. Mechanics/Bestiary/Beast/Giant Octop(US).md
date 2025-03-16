@@ -14,7 +14,7 @@ tags:
 aliases:
   - Giant Octopus
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Octop(US).md|Giant Octopus]]
+# [[5. Mechanics/Bestiary/Beast/Giant Octop(US).md|Giant Octopus]]
 *Source: Monster Manual p. 326, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

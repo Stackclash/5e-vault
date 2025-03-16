@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bestial Spirit
 ---
-# [[5. Mechanics\Bestiary\Beast\Bestial Spirit (TCE).md|Bestial Spirit]]
+# [[5. Mechanics/Bestiary/Beast/Bestial Spirit (TCE).md|Bestial Spirit]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock

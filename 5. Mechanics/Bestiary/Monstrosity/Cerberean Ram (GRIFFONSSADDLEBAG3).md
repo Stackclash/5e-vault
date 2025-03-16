@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cerberean Ram
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Cerberean Ram (GRIFFONSSADDLEBAG3).md|Cerberean Ram]]
+# [[5. Mechanics/Bestiary/Monstrosity/Cerberean Ram (GRIFFONSSADDLEBAG3).md|Cerberean Ram]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Ridden by the dwarven Bim Thorum that patrol the wild mountains, these rams have three heads that, for the most part, get along with each other. These massive mounts can easily navigate the terrain and cliff faces of the mountains.

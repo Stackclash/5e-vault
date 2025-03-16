@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nicrone Dendallen
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Nicrone Dendallen (TGS1).md|Nicrone Dendallen]]
+# [[5. Mechanics/Bestiary/Humanoid/Nicrone Dendallen (TGS1).md|Nicrone Dendallen]]
 *Source: The Griffon's Saddlebag, Book 1*
 
 Nicrone Dendallen is a human wizard whose passion for self-improvement has become an obsession, focused on removing the inherent limits of his own mortality. His focus on gaining power through sacrifice at any cost attracts dedicated sycophants. Their beliefs make them eager to recklessly endanger their lives for the chance to earn powerful rewards from his hand.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dighrogh
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Dighrogh (GRIFFONSSADDLEBAG3).md|Dighrogh]]
+# [[5. Mechanics/Bestiary/Humanoid/Dighrogh (GRIFFONSSADDLEBAG3).md|Dighrogh]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Dighrogh are repulsive, frog-faced humanoids that reek of muck and acrid mineral deposits, and lurk in the abandoned or disused tunnels beneath Ilridun. Many stories tell of entrepreneurial miners losing their lives to dighrogh, who are capable of swallowing entire dwarves whole. Dighrogh were once a massive threat to the city in its early years of expansion and are universally despised throughout Ilridun and its populace. Despite the efforts of the Order of the Enlightened Matrons, these creatures continue to survive and threaten miners beneath the city. Clever enough to be dangerous on their own, some dighrogh have also been known to serve powerful, aberrant forces from the Realm Below.

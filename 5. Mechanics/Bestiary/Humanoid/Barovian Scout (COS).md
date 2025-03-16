@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Barovian Scout
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Barovian Scout (COS).md|Barovian Scout]]
+# [[5. Mechanics/Bestiary/Humanoid/Barovian Scout (COS).md|Barovian Scout]]
 *Source: Curse of Strahd p. 29*
 
 ```statblock

@@ -16,7 +16,7 @@ tags:
 aliases:
   - Weremammoth
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Weremammoth (TGS1).md|Weremammoth]]
+# [[5. Mechanics/Bestiary/Humanoid/Weremammoth (TGS1).md|Weremammoth]]
 *Source: The Griffon's Saddlebag, Book 1 p. 176*
 
 ```statblock

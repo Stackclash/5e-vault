@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: forest
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Black Bear
 ---
-# [[5. Mechanics\Bestiary\Beast\Black Bear.md|Black Bear]]
+# [[5. Mechanics/Bestiary/Beast/Black Bear.md|Black Bear]]
 *Source: Monster Manual p. 318. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

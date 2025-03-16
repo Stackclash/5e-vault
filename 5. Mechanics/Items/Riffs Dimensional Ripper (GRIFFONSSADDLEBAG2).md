@@ -10,7 +10,7 @@ tags:
 aliases:
   - Riff's Dimensional Ripper
 one-hand-damage: 1d4 P
-range: 20\60
+range: 20/60
 ---
 # Riff's Dimensional Ripper
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon*  

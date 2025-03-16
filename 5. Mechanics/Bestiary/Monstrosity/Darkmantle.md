@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: underdark
 size: Small
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Darkmantle
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Darkmantle.md|Darkmantle]]
+# [[5. Mechanics/Bestiary/Monstrosity/Darkmantle.md|Darkmantle]]
 *Source: Monster Manual p. 46. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A darkmantle clings to cavern ceilings, remaining perfectly still as it waits for creatures to pass beneath it. From a distance, it can pass itself off as a stalactite or a lump of stone. Then it drops from the ceiling and unfurls, surrounding itself with magical darkness as it engulfs and crushes its prey.

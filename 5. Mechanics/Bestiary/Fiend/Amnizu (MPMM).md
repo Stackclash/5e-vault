@@ -13,7 +13,7 @@ tags:
 aliases:
   - Amnizu
 ---
-# [[5. Mechanics\Bestiary\Fiend\Amnizu (MPMM).md|Amnizu]]
+# [[5. Mechanics/Bestiary/Fiend/Amnizu (MPMM).md|Amnizu]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 46, Mordenkainen's Tome of Foes p. 164*
 
 Amnizus lead infernal legions into battle and command guardians at the gateways to the Hells. Amnizus are arrogant, bullying, and ruthless, but they're also highly intelligent tacticians and unfailingly loyal—qualities the hellish archdukes value.

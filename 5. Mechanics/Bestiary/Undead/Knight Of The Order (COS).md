@@ -13,7 +13,7 @@ tags:
 aliases:
   - Knight of the Order
 ---
-# [[5. Mechanics\Bestiary\Undead\Knight Of The Order (COS).md|Knight of the Order]]
+# [[5. Mechanics/Bestiary/Undead/Knight Of The Order (COS).md|Knight of the Order]]
 *Source: Curse of Strahd p. 139*
 
 ```statblock

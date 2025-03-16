@@ -13,7 +13,7 @@ tags:
 aliases:
   - Steel Defender
 ---
-# [[5. Mechanics\Bestiary\Construct\Steel Defender (TCE).md|Steel Defender]]
+# [[5. Mechanics/Bestiary/Construct/Steel Defender (TCE).md|Steel Defender]]
 *Source: Tasha's Cauldron of Everything p. 19*
 
 ```statblock

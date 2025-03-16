@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Jackalope
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Jackalope (GRIFFONSSADDLEBAG3).md|Jackalope]]
+# [[5. Mechanics/Bestiary/Monstrosity/Jackalope (GRIFFONSSADDLEBAG3).md|Jackalope]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 These antlered rabbits appear often in folktales and storybooks, but the reality is much more grim than those stories. As prey animals, jackalopes normally survive by hiding and running from predators. But in the Safire Wood, these cunning creatures have learned to keep larger predators at bay by leading naive travelers into their paths, to be eaten in their stead. As such, the jackalopes in this region know the safest and most dangerous areas and routes—but they are far more likely to lead to death unless their trust can be assured.

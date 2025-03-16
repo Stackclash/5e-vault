@@ -13,7 +13,7 @@ tags:
 aliases:
   - Beast of the Sea
 ---
-# [[5. Mechanics\Bestiary\Beast\Beast Of The Sea (TCE).md|Beast of the Sea]]
+# [[5. Mechanics/Bestiary/Beast/Beast Of The Sea (TCE).md|Beast of the Sea]]
 *Source: Tasha's Cauldron of Everything p. 61*
 
 ```statblock

@@ -13,7 +13,7 @@ tags:
 aliases:
   - 'Lux Moth, Giant'
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Lux Moth Giant (GRIFFONSSADDLEBAG3).md|Lux Moth, Giant]]
+# [[5. Mechanics/Bestiary/Monstrosity/Lux Moth Giant (GRIFFONSSADDLEBAG3).md|Lux Moth, Giant]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 This mighty insect is the amalgamation of bioluminescence, hypnotic illusions, and mesmerizing spores and pheromones. Most sightings are from afar given the protective nature of the other lux moths near their queen, but by all accounts this large specimen has adapted marvelously in proximity to mirrorlight. They primarily use their abilities for defense from would-be predators, but have also been observed protecting mirrorlight deposits.

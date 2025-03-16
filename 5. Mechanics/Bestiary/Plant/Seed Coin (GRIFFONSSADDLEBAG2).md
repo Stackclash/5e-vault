@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Seed Coin
 ---
-# [[5. Mechanics\Bestiary\Plant\Seed Coin (GRIFFONSSADDLEBAG2).md|Seed Coin]]
+# [[5. Mechanics/Bestiary/Plant/Seed Coin (GRIFFONSSADDLEBAG2).md|Seed Coin]]
 *Source: The Griffon's Saddlebag, Book 2 p. 340*
 
 Besides the occasional silver, most seed coins grow to closely mimic the appearance of the local copper coin, using its limited psychic abilities to match its shape to the bearer's perception. This same psychic connection is also the coin's means for beginning its infestation of a creature's body. Grim speculations suggest that it purposefully takes the form of a copper piece to increase the likelihood of ending up in the possession of prey that can more easily disappear, such as common laborers or beggars.

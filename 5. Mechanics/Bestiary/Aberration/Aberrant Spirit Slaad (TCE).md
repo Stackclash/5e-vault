@@ -13,7 +13,7 @@ tags:
 aliases:
   - Aberrant Spirit (Slaad)
 ---
-# [[5. Mechanics\Bestiary\Aberration\Aberrant Spirit Slaad (TCE).md|Aberrant Spirit (Slaad)]]
+# [[5. Mechanics/Bestiary/Aberration/Aberrant Spirit Slaad (TCE).md|Aberrant Spirit (Slaad)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock

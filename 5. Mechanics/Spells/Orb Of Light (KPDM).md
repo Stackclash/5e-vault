@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - spell
   - compendium/src/5e/kpdm
   - spell/class/bard
   - spell/class/warlock

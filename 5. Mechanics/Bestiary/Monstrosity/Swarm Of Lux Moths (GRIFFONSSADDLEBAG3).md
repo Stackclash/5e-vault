@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Swarm of Lux Moths
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Swarm Of Lux Moths (GRIFFONSSADDLEBAG3).md|Swarm of Lux Moths]]
+# [[5. Mechanics/Bestiary/Monstrosity/Swarm Of Lux Moths (GRIFFONSSADDLEBAG3).md|Swarm of Lux Moths]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Having absorbed a portion of energy from the region's crystals, these moths exhibit an increased sense of awareness and group cohesion, acting more like drones of a beehive to protect and supply their queen. They seem to prefer utilizing their silhouette to deter threats from afar, but can also charm or blind foes in closer quarters. Some cavern denizens even use the phrase "beware the beauties" as both literal warning of these creatures, and as metaphorical advice against similarly dangerous illusory threats.

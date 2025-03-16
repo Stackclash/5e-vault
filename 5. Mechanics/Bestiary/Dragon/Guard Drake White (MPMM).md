@@ -20,7 +20,7 @@ tags:
 aliases:
   - Guard Drake (White)
 ---
-# [[5. Mechanics\Bestiary\Dragon\Guard Drake White (MPMM).md|Guard Drake (White)]]
+# [[5. Mechanics/Bestiary/Dragon/Guard Drake White (MPMM).md|Guard Drake (White)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*
 
 ```statblock

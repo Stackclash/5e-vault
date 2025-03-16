@@ -17,7 +17,7 @@ tags:
 aliases:
   - Wereboar
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Wereboar.md|Wereboar]]
+# [[5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]]
 *Source: Monster Manual p. 209, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Wereboars are ill-tempered and vulgar brutes. As humanoids, they are stocky and muscular, with short, stiff hair. In their humanoid and hybrid forms, they use heavy weapons, while in hybrid or animal form, they gain a devastating goring attack through which their curse is spread. A wereboar infects other creatures indiscriminately, relishing the fact that the more its victims resist the curse, the more savage and bestial they become.

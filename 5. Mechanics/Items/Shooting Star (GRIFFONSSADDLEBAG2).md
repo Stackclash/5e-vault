@@ -11,7 +11,7 @@ tags:
 aliases:
   - Shooting Star
 one-hand-damage: 1d8 R
-range: 150\600
+range: 150/600
 ---
 # Shooting Star
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  

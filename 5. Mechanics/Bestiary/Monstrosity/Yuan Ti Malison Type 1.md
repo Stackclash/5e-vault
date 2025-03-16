@@ -17,7 +17,7 @@ tags:
 aliases:
   - Yuan-ti Malison (Type 1)
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Malison Type 1.md|Yuan-ti Malison (Type 1)]]
+# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Malison Type 1.md|Yuan-ti Malison (Type 1)]]
 *Source: Monster Manual p. 309*
 
 A malison is a hideous blend of human and serpentine features. Three different types of malisons are known to exist, and other types are possible. Malisons form the middle caste of yuan-ti society and hunt with arrows tipped with their own venom. They use their magical powers of suggestion to force their enemies' surrender.

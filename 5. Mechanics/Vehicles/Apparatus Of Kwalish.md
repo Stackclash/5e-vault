@@ -10,7 +10,6 @@ aliases:
   - Apparatus of Kwalish
 ---
 # Apparatus of Kwalish
-%%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Apparatus of the Crab")*  
 
 ![[5. Mechanics/Vehicles/img/apparatus-of-kwalish.webp#center]] 

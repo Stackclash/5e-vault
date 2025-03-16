@@ -19,7 +19,7 @@ tags:
 aliases:
   - Troll (Loathsome Limb; Severed Arm)
 ---
-# [[5. Mechanics\Bestiary\Giant\Troll Loathsome Limb Severed Arm.md|Troll (Loathsome Limb; Severed Arm)]]
+# [[5. Mechanics/Bestiary/Giant/Troll Loathsome Limb Severed Arm.md|Troll (Loathsome Limb; Severed Arm)]]
 *Source: Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Card Shark
 ---
-# [[5. Mechanics\Bestiary\Construct\Card Shark (GRIFFONSSADDLEBAG3).md|Card Shark]]
+# [[5. Mechanics/Bestiary/Construct/Card Shark (GRIFFONSSADDLEBAG3).md|Card Shark]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 When animated decks of cards collect in large enough groups, they sometimes form an even larger, shark-like form. These cards fly in tandem and work together under a shared consciousness like a school of fish. In this form, the card shark can fling cards like a normal animated deck, but also bite down and viciously slice its prey with its hundreds of blade-like cards.

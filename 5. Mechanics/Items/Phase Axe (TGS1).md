@@ -12,7 +12,7 @@ aliases:
   - Phase Axe
 one-hand-damage: 1d8 S
 two-hand-damage: 1d10 S
-range: 20\60
+range: 20/60
 ---
 # Phase Axe
 *Weapon ([[5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, rare (requires attunement)*  

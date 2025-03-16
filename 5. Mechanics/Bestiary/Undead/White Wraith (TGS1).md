@@ -15,7 +15,7 @@ tags:
 aliases:
   - White Wraith
 ---
-# [[5. Mechanics\Bestiary\Undead\White Wraith (TGS1).md|White Wraith]]
+# [[5. Mechanics/Bestiary/Undead/White Wraith (TGS1).md|White Wraith]]
 *Source: The Griffon's Saddlebag, Book 1 p. 177*
 
 ```statblock

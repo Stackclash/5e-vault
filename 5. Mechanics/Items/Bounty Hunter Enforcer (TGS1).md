@@ -11,7 +11,7 @@ aliases:
   - Bounty Hunter Enforcer
 one-hand-damage: 1d6 B
 two-hand-damage: 1d8 B
-range: 20\60
+range: 20/60
 ---
 # Bounty Hunter Enforcer
 *Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), major, uncommon*  

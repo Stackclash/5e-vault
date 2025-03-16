@@ -16,7 +16,7 @@ tags:
 aliases:
   - Giant Strider
 ---
-# [[5. Mechanics\Bestiary\Elemental\Giant Strider (MPMM).md|Giant Strider]]
+# [[5. Mechanics/Bestiary/Elemental/Giant Strider (MPMM).md|Giant Strider]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 137, Volo's Guide to Monsters p. 143*
 
 > [!quote] A quote from Mordenkainen  

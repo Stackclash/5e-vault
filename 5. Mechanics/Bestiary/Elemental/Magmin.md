@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Magmin
 ---
-# [[5. Mechanics\Bestiary\Elemental\Magmin.md|Magmin]]
+# [[5. Mechanics/Bestiary/Elemental/Magmin.md|Magmin]]
 *Source: Monster Manual p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A grinning, mischievous magmin resembles a stumpy humanoid sculpted from a black shell of magma. Even when it isn't ablaze and radiating heat like a bonfire, small jets of flame erupt from its porous skin.

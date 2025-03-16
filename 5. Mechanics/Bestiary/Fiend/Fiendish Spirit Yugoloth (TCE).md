@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fiendish Spirit (Yugoloth)
 ---
-# [[5. Mechanics\Bestiary\Fiend\Fiendish Spirit Yugoloth (TCE).md|Fiendish Spirit (Yugoloth)]]
+# [[5. Mechanics/Bestiary/Fiend/Fiendish Spirit Yugoloth (TCE).md|Fiendish Spirit (Yugoloth)]]
 *Source: Tasha's Cauldron of Everything p. 112*
 
 ```statblock

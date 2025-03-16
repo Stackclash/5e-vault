@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'underdark, grassland, forest, hill, desert'
 size: Medium
 tags:
@@ -18,7 +18,7 @@ tags:
 aliases:
   - Hobgoblin
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Hobgoblin.md|Hobgoblin]]
+# [[5. Mechanics/Bestiary/Humanoid/Hobgoblin.md|Hobgoblin]]
 *Source: Monster Manual p. 186. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.

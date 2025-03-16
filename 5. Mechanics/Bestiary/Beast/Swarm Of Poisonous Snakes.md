@@ -15,7 +15,7 @@ tags:
 aliases:
   - Swarm of Poisonous Snakes
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Poisonous Snakes.md|Swarm of Poisonous Snakes]]
+# [[5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md|Swarm of Poisonous Snakes]]
 *Source: Monster Manual p. 338, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 > [!note] The Nature of Swarms

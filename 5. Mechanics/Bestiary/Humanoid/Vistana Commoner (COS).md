@@ -13,7 +13,7 @@ tags:
 aliases:
   - Vistana Commoner
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Vistana Commoner (COS).md|Vistana Commoner]]
+# [[5. Mechanics/Bestiary/Humanoid/Vistana Commoner (COS).md|Vistana Commoner]]
 *Source: Curse of Strahd p. 28*
 
 ```statblock

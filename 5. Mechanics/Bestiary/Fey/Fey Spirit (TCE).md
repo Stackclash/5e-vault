@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fey Spirit
 ---
-# [[5. Mechanics\Bestiary\Fey\Fey Spirit (TCE).md|Fey Spirit]]
+# [[5. Mechanics/Bestiary/Fey/Fey Spirit (TCE).md|Fey Spirit]]
 *Source: Tasha's Cauldron of Everything p. 112*
 
 ```statblock

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'mountain, grassland, coastal'
 size: Medium
 tags:
@@ -16,7 +16,7 @@ tags:
 aliases:
   - Pteranodon
 ---
-# [[5. Mechanics\Bestiary\Beast\Pteranodon.md|Pteranodon]]
+# [[5. Mechanics/Bestiary/Beast/Pteranodon.md|Pteranodon]]
 *Source: Monster Manual p. 80. Available in the Basic Rules (2014)*
 
 These flying reptiles have wingspans of 15 to 20 feet and typically dive for small marine prey, though they are opportunists and will attack any creature that appears edible. A pteranodon has no teeth, instead using its sharp beak to stab prey too large to swallow with one gulp.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Polaris Elite Knight
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Polaris Elite Knight (GRIFFONSSADDLEBAG3).md|Polaris Elite Knight]]
+# [[5. Mechanics/Bestiary/Humanoid/Polaris Elite Knight (GRIFFONSSADDLEBAG3).md|Polaris Elite Knight]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The knights of Polaris are qualified enforcement agents in their own right, but the elite knights of the city stand head and shoulders above the rest in terms of raw strength and tactical know-how. Polaris elite knights are usually left to manage groups of other knights or mind the wellfare and daily tasks of the Magistrates.

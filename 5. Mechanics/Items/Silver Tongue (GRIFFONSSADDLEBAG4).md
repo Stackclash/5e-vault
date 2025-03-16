@@ -10,7 +10,7 @@ tags:
 aliases:
   - Silver Tongue
 one-hand-damage: 1d4 P
-range: 20\60
+range: 20/60
 ---
 # Silver Tongue
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), rare (requires attunement)*  

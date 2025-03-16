@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\153 636988936829621698.webp
+  - 4. World Almanac/NPCs/img/153 636988936829621698.webp
 relationships: []
 aliases:
   - Strahd von Zarovich

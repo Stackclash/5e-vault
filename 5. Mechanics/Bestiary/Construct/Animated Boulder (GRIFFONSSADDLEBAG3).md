@@ -13,7 +13,7 @@ tags:
 aliases:
   - Animated Boulder
 ---
-# [[5. Mechanics\Bestiary\Construct\Animated Boulder (GRIFFONSSADDLEBAG3).md|Animated Boulder]]
+# [[5. Mechanics/Bestiary/Construct/Animated Boulder (GRIFFONSSADDLEBAG3).md|Animated Boulder]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Animated constructs created by the archmage Oglexarth. These boulders remain motionless when not defending the city from attack. While active, they use their considerable weight to crash through and crush enemy lines.

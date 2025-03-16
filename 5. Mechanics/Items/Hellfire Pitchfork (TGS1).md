@@ -12,7 +12,7 @@ aliases:
   - Hellfire Pitchfork
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 15\45
+range: 15/45
 ---
 # Hellfire Pitchfork
 *Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), major, very rare (requires attunement)*  

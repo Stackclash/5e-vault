@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Tipsy
 ---
-# [[5. Mechanics\Bestiary\Fey\Tipsy (GRIFFONSSADDLEBAG2).md|Tipsy]]
+# [[5. Mechanics/Bestiary/Fey/Tipsy (GRIFFONSSADDLEBAG2).md|Tipsy]]
 *Source: The Griffon's Saddlebag, Book 2 p. 362*
 
 Most fey on the Material Plane take abundant joy in the manipulation of mortals and instigation of drama, but the tipsy in particular delights in the chaos of drunken romance. These small, pastel-colored fey flutter around bars to cause mischief. The tipsy can use its subtle magic to encourage confession of true feelings and impulsive action, whether they are long-repressed or new temptations. Invisible to sober patrons, they whisper sweet nothings and bold encouragement as necessary, then watch the scene unfold. Softened by inebriation, individuals find themselves unwitting participants, unable to smother the truth any longer.

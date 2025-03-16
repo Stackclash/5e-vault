@@ -25,6 +25,6 @@ You magically move up to 30 gallons of water that you can see within 30 feet of 
 
 You extinguish all exposed, nonmagical flames of your choice that you can see within 30 feet of you.
 
-Once a patch has been removed from a piece of clothing it's attached to, the patch loses its magic and becomes a mundane patch. If the magic patch is removed from a [[5. Mechanics/Items/ Items.md\|robe of useful items]], the patch has a 50 percent chance to keep its magical properties and can be reattached to a piece of clothing again.
+Once a patch has been removed from a piece of clothing it's attached to, the patch loses its magic and becomes a mundane patch. If the magic patch is removed from a [[5. Mechanics/Items/Robe Of Useful Items.md\|robe of useful items]], the patch has a 50 percent chance to keep its magical properties and can be reattached to a piece of clothing again.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

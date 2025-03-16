@@ -17,7 +17,7 @@ tags:
 aliases:
   - Clockwork Stone Defender
 ---
-# [[5. Mechanics\Bestiary\Construct\Clockwork Stone Defender (MPMM).md|Clockwork Stone Defender]]
+# [[5. Mechanics/Bestiary/Construct/Clockwork Stone Defender (MPMM).md|Clockwork Stone Defender]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*
 
 The thick plates of stone riveted onto a stone [[5. Mechanics/Items/Defender.md|defender]] give it substantial protection. Its chief role is as a bodyguard.

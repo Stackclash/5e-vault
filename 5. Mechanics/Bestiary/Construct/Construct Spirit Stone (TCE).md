@@ -13,7 +13,7 @@ tags:
 aliases:
   - Construct Spirit (Stone)
 ---
-# [[5. Mechanics\Bestiary\Construct\Construct Spirit Stone (TCE).md|Construct Spirit (Stone)]]
+# [[5. Mechanics/Bestiary/Construct/Construct Spirit Stone (TCE).md|Construct Spirit (Stone)]]
 *Source: Tasha's Cauldron of Everything p. 111*
 
 ```statblock

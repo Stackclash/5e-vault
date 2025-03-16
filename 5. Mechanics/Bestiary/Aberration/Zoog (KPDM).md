@@ -13,7 +13,7 @@ tags:
 aliases:
   - Zoog
 ---
-# [[5. Mechanics\Bestiary\Aberration\Zoog (KPDM).md|Zoog]]
+# [[5. Mechanics/Bestiary/Aberration/Zoog (KPDM).md|Zoog]]
 *Source: Deep Magic p. 300*
 
 Alien-looking creatures, zoogs are intelligent and will serve an evil-aligned spellcaster as a familiar with the correct sort of inducement (normally the sacrifice of a cat or other feline creature).

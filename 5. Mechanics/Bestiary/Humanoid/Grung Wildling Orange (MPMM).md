@@ -14,7 +14,7 @@ tags:
 aliases:
   - Grung Wildling (Orange)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grung Wildling Orange (MPMM).md|Grung Wildling (Orange)]]
+# [[5. Mechanics/Bestiary/Humanoid/Grung Wildling Orange (MPMM).md|Grung Wildling (Orange)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*
 
 ```statblock

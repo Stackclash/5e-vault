@@ -13,7 +13,7 @@ tags:
 aliases:
   - Elemental Spirit (Air)
 ---
-# [[5. Mechanics\Bestiary\Elemental\Elemental Spirit Air (TCE).md|Elemental Spirit (Air)]]
+# [[5. Mechanics/Bestiary/Elemental/Elemental Spirit Air (TCE).md|Elemental Spirit (Air)]]
 *Source: Tasha's Cauldron of Everything p. 111*
 
 ```statblock

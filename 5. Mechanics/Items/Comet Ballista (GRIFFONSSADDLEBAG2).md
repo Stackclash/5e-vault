@@ -11,7 +11,7 @@ tags:
 aliases:
   - Comet Ballista
 one-hand-damage: 1d10 B
-range: 100\400
+range: 100/400
 ---
 # Comet Ballista
 *Weapon ([[5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, rare (requires attunement)*  

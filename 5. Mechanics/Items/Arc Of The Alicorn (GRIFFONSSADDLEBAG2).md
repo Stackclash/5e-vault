@@ -11,7 +11,7 @@ tags:
 aliases:
   - Arc of the Alicorn
 one-hand-damage: 1d10 P
-range: 150\600
+range: 150/600
 ---
 # Arc of the Alicorn
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  

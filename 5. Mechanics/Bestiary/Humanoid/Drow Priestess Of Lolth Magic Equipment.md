@@ -14,7 +14,7 @@ tags:
 aliases:
   - Drow Priestess of Lolth (Magic Equipment)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Priestess Of Lolth Magic Equipment.md|Drow Priestess of Lolth (Magic Equipment)]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow Priestess Of Lolth Magic Equipment.md|Drow Priestess of Lolth (Magic Equipment)]]
 *Source: Monster Manual p. 129*
 
 ```statblock

@@ -10,7 +10,7 @@ tags:
 aliases:
   - Automatic Pistol
 one-hand-damage: 2d6 P
-range: 50\150
+range: 50/150
 ---
 # Automatic Pistol
 *Weapon*  

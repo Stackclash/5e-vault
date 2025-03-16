@@ -13,7 +13,7 @@ tags:
 aliases:
   - Granite Juggernaut
 ---
-# [[5. Mechanics\Bestiary\Construct\Granite Juggernaut (VEOR).md|Granite Juggernaut]]
+# [[5. Mechanics/Bestiary/Construct/Granite Juggernaut (VEOR).md|Granite Juggernaut]]
 *Source: Vecna: Eve of Ruin p. 221*
 
 > [!quote] A quote from Teythorn, Oerthian Adventurer  

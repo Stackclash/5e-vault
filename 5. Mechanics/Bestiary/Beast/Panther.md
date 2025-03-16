@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'grassland, forest, hill'
 size: Medium
 tags:
@@ -16,7 +16,7 @@ tags:
 aliases:
   - Panther
 ---
-# [[5. Mechanics\Bestiary\Beast\Panther.md|Panther]]
+# [[5. Mechanics/Bestiary/Beast/Panther.md|Panther]]
 *Source: Monster Manual p. 333. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

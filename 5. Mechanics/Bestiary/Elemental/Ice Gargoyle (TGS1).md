@@ -15,7 +15,7 @@ tags:
 aliases:
   - Ice Gargoyle
 ---
-# [[5. Mechanics\Bestiary\Elemental\Ice Gargoyle (TGS1).md|Ice Gargoyle]]
+# [[5. Mechanics/Bestiary/Elemental/Ice Gargoyle (TGS1).md|Ice Gargoyle]]
 *Source: The Griffon's Saddlebag, Book 1 p. 176*
 
 ```statblock

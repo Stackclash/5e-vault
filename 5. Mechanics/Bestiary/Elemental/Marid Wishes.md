@@ -15,7 +15,7 @@ tags:
 aliases:
   - Marid (Wishes)
 ---
-# [[5. Mechanics\Bestiary\Elemental\Marid Wishes.md|Marid (Wishes)]]
+# [[5. Mechanics/Bestiary/Elemental/Marid Wishes.md|Marid (Wishes)]]
 *Source: Monster Manual p. 146, Tasha's Cauldron of Everything, Vecna: Eve of Ruin*
 
 ```statblock

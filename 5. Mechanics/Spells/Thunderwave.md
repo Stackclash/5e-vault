@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - spell
   - compendium/src/5e/phb
   - spell/class/bard
   - spell/class/druid
@@ -11,6 +10,7 @@ tags:
   - spell/feat/magic-initiate
   - spell/level/1st-level
   - spell/optfeature/fist-of-four-thunders
+  - spell/reward/boon-of-the-stormborn
   - spell/school/evocation
   - spell/subclass/arcane-trickster
   - spell/subclass/armorer

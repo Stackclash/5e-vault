@@ -13,7 +13,7 @@ tags:
 aliases:
   - Duvran Fanaticist
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duvran Fanaticist (GRIFFONSSADDLEBAG3).md|Duvran Fanaticist]]
+# [[5. Mechanics/Bestiary/Humanoid/Duvran Fanaticist (GRIFFONSSADDLEBAG3).md|Duvran Fanaticist]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Covetous cultists devoted to praising Duvra's trickery—and matching it in kind with their own. Duvran fanatacists range from seemingly deranged swindlers to master cutpurses.

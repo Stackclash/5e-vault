@@ -11,7 +11,7 @@ tags:
 aliases:
   - Screaming Longbow
 one-hand-damage: 1d8 P
-range: 150\600
+range: 150/600
 ---
 # Screaming Longbow
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, rare (requires attunement)*  

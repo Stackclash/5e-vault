@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nalfeshnee
 ---
-# [[5. Mechanics\Bestiary\Fiend\Nalfeshnee.md|Nalfeshnee]]
+# [[5. Mechanics/Bestiary/Fiend/Nalfeshnee.md|Nalfeshnee]]
 *Source: Monster Manual p. 62, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The nalfeshnee is one of the most grotesque demons-a corpulent mockery of ape and boar standing twice the height of a human, with feathered wings that seem too small for its bloated body. These brutish features conceal a remarkable intelligence and cunning.

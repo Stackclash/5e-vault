@@ -14,7 +14,7 @@ tags:
 aliases:
   - Mage
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Mage.md|Mage]]
+# [[5. Mechanics/Bestiary/Humanoid/Mage.md|Mage]]
 *Source: Monster Manual p. 347, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.

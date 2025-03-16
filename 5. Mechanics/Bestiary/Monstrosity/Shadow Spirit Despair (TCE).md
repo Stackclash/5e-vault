@@ -13,7 +13,7 @@ tags:
 aliases:
   - Shadow Spirit (Despair)
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit Despair (TCE).md|Shadow Spirit (Despair)]]
+# [[5. Mechanics/Bestiary/Monstrosity/Shadow Spirit Despair (TCE).md|Shadow Spirit (Despair)]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock

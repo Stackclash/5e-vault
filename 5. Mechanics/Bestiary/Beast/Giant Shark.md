@@ -14,7 +14,7 @@ tags:
 aliases:
   - Giant Shark
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Shark.md|Giant Shark]]
+# [[5. Mechanics/Bestiary/Beast/Giant Shark.md|Giant Shark]]
 *Source: Monster Manual p. 328, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.

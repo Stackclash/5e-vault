@@ -15,7 +15,7 @@ tags:
 aliases:
   - Grick
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Grick.md|Grick]]
+# [[5. Mechanics/Bestiary/Monstrosity/Grick.md|Grick]]
 *Source: Monster Manual p. 173, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cave Wurm
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Cave Wurm (GRIFFONSSADDLEBAG3).md|Cave Wurm]]
+# [[5. Mechanics/Bestiary/Monstrosity/Cave Wurm (GRIFFONSSADDLEBAG3).md|Cave Wurm]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Viewed by most Ilridunians as the reason to respect the bravery of the city's miners, cave wurms are living traps in the tunnels below. Their open maw can almost perfectly imitate a normal cave or tunnel so that its prey can begin the process of digestion for it. Even when closed, the wurm's mouth so closely resembles a typical cavern wall that there are almost no records of anyone surviving an encounter once they've been swallowed. Many mining foremen lament the losses caused by cave wurms. Their rapid burrowing makes mapping their movements virtually impossible, and also contributes to earthquakes, floods, and tunnel collapses.

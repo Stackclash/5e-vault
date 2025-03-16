@@ -15,7 +15,7 @@ tags:
 aliases:
   - Sword Wraith Commander
 ---
-# [[5. Mechanics\Bestiary\Undead\Sword Wraith Commander (MPMM).md|Sword Wraith Commander]]
+# [[5. Mechanics/Bestiary/Undead/Sword Wraith Commander (MPMM).md|Sword Wraith Commander]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*
 
 Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.

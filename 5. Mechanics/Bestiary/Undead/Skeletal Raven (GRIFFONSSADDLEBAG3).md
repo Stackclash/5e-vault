@@ -13,7 +13,7 @@ tags:
 aliases:
   - Skeletal Raven
 ---
-# [[5. Mechanics\Bestiary\Undead\Skeletal Raven (GRIFFONSSADDLEBAG3).md|Skeletal Raven]]
+# [[5. Mechanics/Bestiary/Undead/Skeletal Raven (GRIFFONSSADDLEBAG3).md|Skeletal Raven]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Ravens transformed by necromancy to exist perpetually in life-defying undeath. Often found in places of relentless decay or in the realms and lairs of powerful necromancers and liches.

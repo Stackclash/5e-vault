@@ -13,7 +13,7 @@ tags:
 aliases:
   - Undead Spirit (Skeletal)
 ---
-# [[5. Mechanics\Bestiary\Undead\Undead Spirit Skeletal (TCE).md|Undead Spirit (Skeletal)]]
+# [[5. Mechanics/Bestiary/Undead/Undead Spirit Skeletal (TCE).md|Undead Spirit (Skeletal)]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock

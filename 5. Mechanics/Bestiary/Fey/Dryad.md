@@ -14,7 +14,7 @@ tags:
 aliases:
   - Dryad
 ---
-# [[5. Mechanics\Bestiary\Fey\Dryad.md|Dryad]]
+# [[5. Mechanics/Bestiary/Fey/Dryad.md|Dryad]]
 *Source: Monster Manual p. 121, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Travelers entering a forest might catch a glimpse of a feminine form flitting through the trees. Warm laughter hangs on the air, drawing those who hear it deeper into the emerald shadows.

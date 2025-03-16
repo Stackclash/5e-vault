@@ -14,7 +14,7 @@ tags:
 aliases:
   - Badger
 ---
-# [[5. Mechanics\Bestiary\Beast\Badger.md|Badger]]
+# [[5. Mechanics/Bestiary/Beast/Badger.md|Badger]]
 *Source: Monster Manual p. 318. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

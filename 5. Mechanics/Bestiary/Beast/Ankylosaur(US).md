@@ -14,7 +14,7 @@ tags:
 aliases:
   - Ankylosaurus
 ---
-# [[5. Mechanics\Bestiary\Beast\Ankylosaur(US).md|Ankylosaurus]]
+# [[5. Mechanics/Bestiary/Beast/Ankylosaur(US).md|Ankylosaurus]]
 *Source: Monster Manual p. 79. Available in the Basic Rules (2014)*
 
 Thick armor plating covers the body of the plant-eating ankylosaurus, which defends itself against predators with a knobbed tail that delivers a devastating strike. Some varieties of ankylosaurus have spiked tails that deal piercing damage instead of bludgeoning damage.

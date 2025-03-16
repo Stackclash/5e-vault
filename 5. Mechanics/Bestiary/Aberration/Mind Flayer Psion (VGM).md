@@ -14,7 +14,7 @@ tags:
 aliases:
   - Mind Flayer Psion
 ---
-# [[5. Mechanics\Bestiary\Aberration\Mind Flayer Psion (VGM).md|Mind Flayer Psion]]
+# [[5. Mechanics/Bestiary/Aberration/Mind Flayer Psion (VGM).md|Mind Flayer Psion]]
 *Source: Volo's Guide to Monsters p. 71*
 
 Mind flayers sometimes devote themselves to deeper study of psionic power, and many excel at using their innate psionic energy to duplicate the casting of spells.

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Ancient Bronze Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Ancient Bronze Dragon.md|Ancient Bronze Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Ancient Bronze Dragon.md|Ancient Bronze Dragon]]
 *Source: Monster Manual p. 107. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.

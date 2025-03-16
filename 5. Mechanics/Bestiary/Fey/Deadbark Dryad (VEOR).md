@@ -13,7 +13,7 @@ tags:
 aliases:
   - Deadbark Dryad
 ---
-# [[5. Mechanics\Bestiary\Fey\Deadbark Dryad (VEOR).md|Deadbark Dryad]]
+# [[5. Mechanics/Bestiary/Fey/Deadbark Dryad (VEOR).md|Deadbark Dryad]]
 *Source: Vecna: Eve of Ruin p. 216*
 
 When a dryad fails to protect its wilderness home from a great evil and is unable to forgive itself, the dryad might transform into a wicked Fey monster called a deadbark dryad. Such dryads relinquish any compassion they once felt for living beings and instead harbor hatred for anyone who dares to invade their rotted demesne.

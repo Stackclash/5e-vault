@@ -11,7 +11,7 @@ tags:
 aliases:
   - Frozen Dagger
 one-hand-damage: 1d4 C
-range: 40\80
+range: 40/80
 ---
 # Frozen Dagger
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon (requires attunement)*  

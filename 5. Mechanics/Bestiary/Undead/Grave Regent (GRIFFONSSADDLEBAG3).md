@@ -13,7 +13,7 @@ tags:
 aliases:
   - Grave Regent
 ---
-# [[5. Mechanics\Bestiary\Undead\Grave Regent (GRIFFONSSADDLEBAG3).md|Grave Regent]]
+# [[5. Mechanics/Bestiary/Undead/Grave Regent (GRIFFONSSADDLEBAG3).md|Grave Regent]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The timeless guardian of the Graveyard in charge of shepherding resilient creatures from the edges of death into eternal slumber. When a creature recovers from a near-death experience having "seen the light" or similar, it's often an indicator of having visited and escaped the Regent's clutches in their own personal Graveyard.

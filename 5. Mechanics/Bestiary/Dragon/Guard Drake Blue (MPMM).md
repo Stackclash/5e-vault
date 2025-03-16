@@ -20,7 +20,7 @@ tags:
 aliases:
   - Guard Drake (Blue)
 ---
-# [[5. Mechanics\Bestiary\Dragon\Guard Drake Blue (MPMM).md|Guard Drake (Blue)]]
+# [[5. Mechanics/Bestiary/Dragon/Guard Drake Blue (MPMM).md|Guard Drake (Blue)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*
 
 ```statblock

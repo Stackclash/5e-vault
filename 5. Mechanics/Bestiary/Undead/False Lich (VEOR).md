@@ -13,7 +13,7 @@ tags:
 aliases:
   - False Lich
 ---
-# [[5. Mechanics\Bestiary\Undead\False Lich (VEOR).md|False Lich]]
+# [[5. Mechanics/Bestiary/Undead/False Lich (VEOR).md|False Lich]]
 *Source: Vecna: Eve of Ruin p. 220*
 
 Occasionally, liches create nefarious magical copies of themselves to fool enemies, to guard treasure, or for other inscrutable reasons.

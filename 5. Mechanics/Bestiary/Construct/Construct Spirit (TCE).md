@@ -13,7 +13,7 @@ tags:
 aliases:
   - Construct Spirit
 ---
-# [[5. Mechanics\Bestiary\Construct\Construct Spirit (TCE).md|Construct Spirit]]
+# [[5. Mechanics/Bestiary/Construct/Construct Spirit (TCE).md|Construct Spirit]]
 *Source: Tasha's Cauldron of Everything p. 111*
 
 ```statblock

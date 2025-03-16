@@ -13,7 +13,7 @@ tags:
 aliases:
   - Elder Darkmantle
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Elder Darkmantle (GRIFFONSSADDLEBAG3).md|Elder Darkmantle]]
+# [[5. Mechanics/Bestiary/Monstrosity/Elder Darkmantle (GRIFFONSSADDLEBAG3).md|Elder Darkmantle]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Like their smaller relatives, elder darkmantles thrive in darkness. However, elder darkmantles are massive by comparison, and exude an psionic aura from them that controls nearby darkmantles and enhances their natural abilities.

@@ -12,7 +12,7 @@ aliases:
   - Mirrorlight Piercer
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 20\60
+range: 20/60
 ---
 # Mirrorlight Piercer
 *Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), major, very rare (requires attunement)*  

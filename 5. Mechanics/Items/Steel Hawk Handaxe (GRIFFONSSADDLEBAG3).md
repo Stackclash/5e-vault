@@ -10,7 +10,7 @@ tags:
 aliases:
   - Steel Hawk Handaxe
 one-hand-damage: 1d6 S
-range: 20\60
+range: 20/60
 ---
 # Steel Hawk Handaxe
 *Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon*  

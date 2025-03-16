@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mirrorlight Thief
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Mirrorlight Thief (GRIFFONSSADDLEBAG3).md|Mirrorlight Thief]]
+# [[5. Mechanics/Bestiary/Humanoid/Mirrorlight Thief (GRIFFONSSADDLEBAG3).md|Mirrorlight Thief]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Mirrorlight thieves are capable rogues that specialize in evasive maneuvers and skulduggery of both hands and mind using illusions. Whether gained from exposure to mirrorlight crystals, training with them, or other sources of powerful illusory magic, these ne'er-do-wells can manifest illusory clones of themselves that can even turn corporeal temporarily—just long enough to stab you in the back.

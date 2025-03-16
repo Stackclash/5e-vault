@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'forest, swamp, underdark, urban'
 size: Small
 tags:
@@ -17,7 +17,7 @@ tags:
 aliases:
   - Darkling
 ---
-# [[5. Mechanics\Bestiary\Fey\Darkling (MPMM).md|Darkling]]
+# [[5. Mechanics/Bestiary/Fey/Darkling (MPMM).md|Darkling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*
 
 The Summer Queen's curse causes a darkling's body to absorb light, which wizens the creature, much like the effect of rapid aging. For this reason, darklings cover their entire bodies with clothing when exposure to light is a risk. The light darklings absorb over the course of their lives explodes outward when they die, incinerating the creatures and much of their possessions.

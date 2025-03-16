@@ -13,7 +13,7 @@ tags:
 aliases:
   - Loremaster
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Loremaster (SAF).md|Loremaster]]
+# [[5. Mechanics/Bestiary/Humanoid/Loremaster (SAF).md|Loremaster]]
 *Source: Strongholds and Followers p. 73*
 
 ```statblock

@@ -11,7 +11,7 @@ tags:
 aliases:
   - Spellfire Bow
 one-hand-damage: 1d8 O
-range: 150\600
+range: 150/600
 ---
 # Spellfire Bow
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, legendary (requires attunement by a spellcaster)*  

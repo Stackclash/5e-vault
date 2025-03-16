@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - spell
   - compendium/src/5e/phb
   - spell/class/bard
   - spell/class/druid
@@ -18,7 +17,7 @@ components: >-
   V, S, either a lump of alum soaked in vinegar for the antipathy effect or a
   drop of honey for the sympathy effect
 aliases:
-  - Antipathy\Sympathy
+  - Antipathy/Sympathy
 ---
 # Antipathy/Sympathy
 *8th-level, Enchantment*  

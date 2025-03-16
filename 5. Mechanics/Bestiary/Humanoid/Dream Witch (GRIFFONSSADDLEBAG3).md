@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dream Witch
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Dream Witch (GRIFFONSSADDLEBAG3).md|Dream Witch]]
+# [[5. Mechanics/Bestiary/Humanoid/Dream Witch (GRIFFONSSADDLEBAG3).md|Dream Witch]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Goblinoid spellcasters that dabble in the magic surrounding dreams are sometimes given titles of soothsayer or prophet among goblin society. Their magic grows more powerful when among their spellcasting peers, approaching the likes of even hags.

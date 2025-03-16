@@ -10,7 +10,7 @@ tags:
 aliases:
   - Dusk Cleaver
 one-hand-damage: 1d6 S
-range: 20\60
+range: 20/60
 ---
 # Dusk Cleaver
 *Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, rare*  

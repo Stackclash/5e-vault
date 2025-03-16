@@ -13,7 +13,7 @@ tags:
 aliases:
   - Source of Earth
 ---
-# [[5. Mechanics\Bestiary\Elemental\Source Of Earth (SAF).md|Source of Earth]]
+# [[5. Mechanics/Bestiary/Elemental/Source Of Earth (SAF).md|Source of Earth]]
 *Source: Strongholds and Followers p. 187*
 
 The Sources hover at the crossroads of Alloy pronouncing the Lady's law and reminding citizens of important dates. They can also be depended upon to grant aid to newcomers, including help as mundane as directions. The Sources of Earth seem most to enjoy helping visitors, and while their pronouncements are booming and melodramatic, they are enthusiastic about their task.

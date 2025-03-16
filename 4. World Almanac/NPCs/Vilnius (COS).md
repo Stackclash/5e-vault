@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\Vilni(US).webp
+  - 4. World Almanac/NPCs/img/Vilni(US).webp
 relationships: []
 aliases:
   - Vilnius

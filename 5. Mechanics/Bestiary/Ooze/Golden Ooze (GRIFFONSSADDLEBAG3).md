@@ -13,7 +13,7 @@ tags:
 aliases:
   - Golden Ooze
 ---
-# [[5. Mechanics\Bestiary\Ooze\Golden Ooze (GRIFFONSSADDLEBAG3).md|Golden Ooze]]
+# [[5. Mechanics/Bestiary/Ooze/Golden Ooze (GRIFFONSSADDLEBAG3).md|Golden Ooze]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A golden ooze is a sparkling golden ooze. It devours gold and similar valuables more often than it does people, and uses its stock of treasure as added weight behind its pseudopod strikes.

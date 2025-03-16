@@ -19,7 +19,7 @@ tags:
 aliases:
   - Bandit Captain
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Bandit Captain.md|Bandit Captain]]
+# [[5. Mechanics/Bestiary/Humanoid/Bandit Captain.md|Bandit Captain]]
 *Source: Monster Manual p. 344, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit captain has these qualities in spades.

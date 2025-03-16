@@ -14,7 +14,7 @@ tags:
 aliases:
   - Drow House Captain
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow House Captain (MPMM).md|Drow House Captain]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow House Captain (MPMM).md|Drow House Captain]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 101, Mordenkainen's Tome of Foes p. 184*
 
 > [!quote] A quote from Tasha  

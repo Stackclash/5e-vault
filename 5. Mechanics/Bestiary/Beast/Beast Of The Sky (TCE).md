@@ -13,7 +13,7 @@ tags:
 aliases:
   - Beast of the Sky
 ---
-# [[5. Mechanics\Bestiary\Beast\Beast Of The Sky (TCE).md|Beast of the Sky]]
+# [[5. Mechanics/Bestiary/Beast/Beast Of The Sky (TCE).md|Beast of the Sky]]
 *Source: Tasha's Cauldron of Everything p. 61*
 
 ```statblock

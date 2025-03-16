@@ -21,7 +21,7 @@ tags:
 aliases:
   - Veteran
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Veteran.md|Veteran]]
+# [[5. Mechanics/Bestiary/Humanoid/Veteran.md|Veteran]]
 *Source: Monster Manual p. 350, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.

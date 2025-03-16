@@ -14,7 +14,7 @@ tags:
 aliases:
   - Mammoth
 ---
-# [[5. Mechanics\Bestiary\Beast\Mammoth.md|Mammoth]]
+# [[5. Mechanics/Bestiary/Beast/Mammoth.md|Mammoth]]
 *Source: Monster Manual p. 332. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.

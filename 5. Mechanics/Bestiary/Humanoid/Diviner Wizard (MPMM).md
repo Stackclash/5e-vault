@@ -14,7 +14,7 @@ tags:
 aliases:
   - Diviner Wizard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Diviner Wizard (MPMM).md|Diviner Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Diviner Wizard (MPMM).md|Diviner Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213*
 
 Diviners peer into the future and know that knowledge is power. They might act aloof and mysterious, hinting at omens and secrets, or they might be know-it-alls, spilling insights to advance their own status.

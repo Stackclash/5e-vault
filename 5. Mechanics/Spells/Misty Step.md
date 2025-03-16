@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - spell
   - compendium/src/5e/phb
   - spell/class/bard
   - spell/class/sorcerer
@@ -12,6 +11,7 @@ tags:
   - spell/feat/fey-touched
   - spell/level/2nd-level
   - spell/race/githyanki
+  - spell/reward/boon-of-dimensional-travel
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/circle-of-the-land

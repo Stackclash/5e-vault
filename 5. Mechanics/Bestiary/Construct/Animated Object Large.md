@@ -13,7 +13,7 @@ tags:
 aliases:
   - Animated Object (Large)
 ---
-# [[5. Mechanics\Bestiary\Construct\Animated Object Large.md|Animated Object (Large)]]
+# [[5. Mechanics/Bestiary/Construct/Animated Object Large.md|Animated Object (Large)]]
 *Source: Player's Handbook p. 213*
 
 ```statblock

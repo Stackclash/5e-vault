@@ -13,7 +13,7 @@ tags:
 aliases:
   - Demilich (Trap Soul)
 ---
-# [[5. Mechanics\Bestiary\Undead\Demilich Trap Soul.md|Demilich (Trap Soul)]]
+# [[5. Mechanics/Bestiary/Undead/Demilich Trap Soul.md|Demilich (Trap Soul)]]
 *Source: Monster Manual p. 48*
 
 ```statblock

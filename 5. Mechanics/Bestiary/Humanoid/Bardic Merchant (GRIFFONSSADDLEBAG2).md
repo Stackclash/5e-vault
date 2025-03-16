@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bardic Merchant
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Bardic Merchant (GRIFFONSSADDLEBAG2).md|Bardic Merchant]]
+# [[5. Mechanics/Bestiary/Humanoid/Bardic Merchant (GRIFFONSSADDLEBAG2).md|Bardic Merchant]]
 *Source: The Griffon's Saddlebag, Book 2 p. 336. Available in the Basic Rules (2014)*
 
 Individuals that practice the bardic art of mercantile magic can be found across the land with independent goals and occupations.The various departments of Antronec's Mercantile Guild government are composed of many such individuals, but most of them are completely unaware of the guild's larger machinations. Regardless, the core leadership of the Mercantile Guild is composed of charismatic and manipulative merchants such as this. Eminent storytellers, arcanists, and economists, these capable bards administrate the bureaucratic spiderweb of the city and tug the puppet strings necessary to ensure their success. For them, wealth is power rightfully earned—making them both deserving and rightful custodians of Antronec.

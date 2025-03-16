@@ -14,7 +14,7 @@ tags:
 aliases:
   - Ancient White Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Ancient White Dragon.md|Ancient White Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Ancient White Dragon.md|Ancient White Dragon]]
 *Source: Monster Manual p. 100. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.

@@ -11,7 +11,7 @@ tags:
 aliases:
   - Rocborne Hand Ballista
 one-hand-damage: 1d12 P
-range: 100\400
+range: 100/400
 ---
 # Rocborne Hand Ballista
 *Weapon ([[5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, very rare (requires attunement)*  

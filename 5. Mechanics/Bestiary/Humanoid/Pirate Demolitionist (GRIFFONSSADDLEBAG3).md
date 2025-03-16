@@ -13,7 +13,7 @@ tags:
 aliases:
   - Pirate Demolitionist
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Pirate Demolitionist (GRIFFONSSADDLEBAG3).md|Pirate Demolitionist]]
+# [[5. Mechanics/Bestiary/Humanoid/Pirate Demolitionist (GRIFFONSSADDLEBAG3).md|Pirate Demolitionist]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Sailors with a penchant for the explosive are demoltionists. On vessels with cannonry, these characters often serve as their munitions experts and fire mitigation experts. On vessels without, demoltionists find satisfying work with makeshift bombs using small explosives and alchemical know-how.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cosmos-Kraken
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Cosmos Kraken (GRIFFONSSADDLEBAG3).md|Cosmos-Kraken]]
+# [[5. Mechanics/Bestiary/Monstrosity/Cosmos Kraken (GRIFFONSSADDLEBAG3).md|Cosmos-Kraken]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A space-faring kraken of scarcely-imaginable proportions. Few things have been known to stand, swim, or float in its way throughout known time. Fleets of cosmos-ready ships have crumbled under their might.

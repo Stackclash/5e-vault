@@ -10,7 +10,7 @@ tags:
 aliases:
   - Pennypuncher Slingshot
 one-hand-damage: 1d4 B
-range: 30\120
+range: 30/120
 ---
 # Pennypuncher Slingshot
 *Weapon ([[5. Mechanics/Items/Sling.md\|sling]]), major, rare*  

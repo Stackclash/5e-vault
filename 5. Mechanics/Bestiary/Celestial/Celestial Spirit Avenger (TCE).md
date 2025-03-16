@@ -13,7 +13,7 @@ tags:
 aliases:
   - Celestial Spirit (Avenger)
 ---
-# [[5. Mechanics\Bestiary\Celestial\Celestial Spirit Avenger (TCE).md|Celestial Spirit (Avenger)]]
+# [[5. Mechanics/Bestiary/Celestial/Celestial Spirit Avenger (TCE).md|Celestial Spirit (Avenger)]]
 *Source: Tasha's Cauldron of Everything p. 110*
 
 ```statblock

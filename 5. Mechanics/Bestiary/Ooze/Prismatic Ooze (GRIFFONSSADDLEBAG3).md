@@ -13,7 +13,7 @@ tags:
 aliases:
   - Prismatic Ooze
 ---
-# [[5. Mechanics\Bestiary\Ooze\Prismatic Ooze (GRIFFONSSADDLEBAG3).md|Prismatic Ooze]]
+# [[5. Mechanics/Bestiary/Ooze/Prismatic Ooze (GRIFFONSSADDLEBAG3).md|Prismatic Ooze]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The prismatic ooze is particularly in tune with so-called prismatic energies like acid, cold, fire, lightning, necrotic, poison, and radiant damage; it gains additional defenses of that type when attacked, thus requiring other methods or a rotation cycle of elemental attacks. Such oozes have a small mirrorlight crystal at their center, and are usually found in close proximity or in contact with mirrorlight crystal formations. Proximity to the ooze can even activate mirrorlight illusions just like the crystals themselves (See the Example Mirrorlight Illusions table in this document). This also allows them to manipulate and reflect light in such a way that they can become invisible. Combined, these abilities heighten its threat as an ambush predator, making it lethal for the unwary or unprepared.

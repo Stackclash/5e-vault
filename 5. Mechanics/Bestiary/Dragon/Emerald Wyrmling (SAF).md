@@ -13,7 +13,7 @@ tags:
 aliases:
   - Emerald Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Emerald Wyrmling (SAF).md|Emerald Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Emerald Wyrmling (SAF).md|Emerald Wyrmling]]
 *Source: Strongholds and Followers p. 201*
 
 One of the oldest species of gemstone dragons, the emeralds studied the lore of the sea and the unique, chaotic boundary between sea and land. It was the tide pools and estuaries that fascinated them, and they developed a theory of the timescape based on this intermingling. The Estuarial Hypothesis holds that the Mundane World lies on an interspace boundary between the worlds, and for this reason good, evil, chaos, and law all intermingle here.

@@ -11,7 +11,7 @@ tags:
 aliases:
   - Timber
 one-hand-damage: 1d6 S
-range: 20\60
+range: 20/60
 ---
 # Timber
 *Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, very rare (requires attunement)*  

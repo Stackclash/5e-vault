@@ -12,7 +12,7 @@ aliases:
   - Spirit Cleaver
 cost: 200
 one-hand-damage: 1d4 S
-range: 20\60
+range: 20/60
 ---
 # Spirit Cleaver
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, legendary (requires attunement by a rogue)*  

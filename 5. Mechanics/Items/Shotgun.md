@@ -10,7 +10,7 @@ tags:
 aliases:
   - Shotgun
 one-hand-damage: 2d8 P
-range: 30\90
+range: 30/90
 ---
 # Shotgun
 *Weapon*  

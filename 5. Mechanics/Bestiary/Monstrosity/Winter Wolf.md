@@ -14,7 +14,7 @@ tags:
 aliases:
   - Winter Wolf
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Winter Wolf.md|Winter Wolf]]
+# [[5. Mechanics/Bestiary/Monstrosity/Winter Wolf.md|Winter Wolf]]
 *Source: Monster Manual p. 340. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves' deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.

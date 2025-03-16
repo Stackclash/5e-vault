@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Twigling
 ---
-# [[5. Mechanics\Bestiary\Plant\Twigling (GRIFFONSSADDLEBAG3).md|Twigling]]
+# [[5. Mechanics/Bestiary/Plant/Twigling (GRIFFONSSADDLEBAG3).md|Twigling]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Even less aware and considerably smaller than [[5. Mechanics/Bestiary/Plant/Branchling (GRIFFONSSADDLEBAG3).md|branchlings]], twiglings resemble the small stick-figures that a child might draw. These devious little pranksters have very little perception of their fragile mortality. As a result, they tend to draw the ire of larger creatures and meet an early end. If they persist long enough by chance or other factors, they can undergo a metamorphosis. In this process, they bond with several other twiglings to form a [[5. Mechanics/Bestiary/Plant/Branchling (GRIFFONSSADDLEBAG3).md|branchling]]: the next stage in their life cycle.

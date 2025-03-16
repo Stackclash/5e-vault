@@ -13,7 +13,7 @@ tags:
 aliases:
   - Germination Stall
 ---
-# [[5. Mechanics\Bestiary\Plant\Germination Stall (GRIFFONSSADDLEBAG2).md|Germination Stall]]
+# [[5. Mechanics/Bestiary/Plant/Germination Stall (GRIFFONSSADDLEBAG2).md|Germination Stall]]
 *Source: The Griffon's Saddlebag, Book 2 p. 342*
 
 It's not entirely clear how seed coin pollinators manage to coalesce and combine into a germination stall, as it's never been witnessed directly. What has been recorded is that by all indications, a germination stall looks like almost every other merchant stall around it. They often have their own quirks, based on the appearance of their staff members, which are their pollinators. They rarely make any sales, as their inventory seems deliberately unappealing. Instead, the pollinators channel energy from the stall to produce seed coins which can be slipped into pockets, left on the street, or offered as alms to the poor.

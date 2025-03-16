@@ -11,7 +11,7 @@ tags:
 aliases:
   - Centaur's Hunting Bow
 one-hand-damage: 1d6 P
-range: 80\320
+range: 80/320
 ---
 # Centaur's Hunting Bow
 *Weapon ([[5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  

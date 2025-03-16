@@ -13,7 +13,7 @@ tags:
 aliases:
   - Lesser Balor
 ---
-# [[5. Mechanics\Bestiary\Fiend\Lesser Balor (SAF).md|Lesser Balor]]
+# [[5. Mechanics/Bestiary/Fiend/Lesser Balor (SAF).md|Lesser Balor]]
 *Source: Strongholds and Followers p. 153*
 
 ```statblock

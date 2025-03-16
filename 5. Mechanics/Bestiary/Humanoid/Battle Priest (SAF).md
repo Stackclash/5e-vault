@@ -13,7 +13,7 @@ tags:
 aliases:
   - Battle Priest
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Battle Priest (SAF).md|Battle Priest]]
+# [[5. Mechanics/Bestiary/Humanoid/Battle Priest (SAF).md|Battle Priest]]
 *Source: Strongholds and Followers p. 74*
 
 ```statblock

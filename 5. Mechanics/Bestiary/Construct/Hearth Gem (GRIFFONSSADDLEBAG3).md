@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hearth Gem
 ---
-# [[5. Mechanics\Bestiary\Construct\Hearth Gem (GRIFFONSSADDLEBAG3).md|Hearth Gem]]
+# [[5. Mechanics/Bestiary/Construct/Hearth Gem (GRIFFONSSADDLEBAG3).md|Hearth Gem]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Hearth gems are exceptionally rare gemstones that have been granted sentience by magic, divine intervention, or an unusual proximity to the Elemental Plane of Earth. Hearth gems grow over millenia, and only rarely speak to creatures—thereby masking their true nature. Renowned hearth gems include the one at the center of the Emberheart forge, as well as the one at the center of the H'rethi desert.

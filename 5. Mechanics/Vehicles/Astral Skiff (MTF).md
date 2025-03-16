@@ -10,7 +10,6 @@ aliases:
   - Astral Skiff
 ---
 # Astral Skiff
-%%-- Embedded content starts on the next line. --%%
 *Source: Mordenkainen's Tome of Foes p. 90*  
 
 An astral skiff is operated by a crew of three and carries up to a dozen passengers. The githyanki employ this small vessel, 30 feet long and 10 feet wide, for patrols in the Astral Plane and for quick raids in pursuit of specific objects on the Material Plane. A skiff has a top speed of 15 miles per hour. It lacks weapons aside from those carried by its passengers and has a limited amount of storage space.

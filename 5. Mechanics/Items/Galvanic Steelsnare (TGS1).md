@@ -9,7 +9,7 @@ tags:
   - item/weapon/ranged
 aliases:
   - Galvanic Steelsnare
-range: 5\15
+range: 5/15
 ---
 # Galvanic Steelsnare
 *Weapon ([[5. Mechanics/Items/Net.md\|net]]), major, rare*  

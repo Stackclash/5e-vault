@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'grassland, forest, hill'
 size: Medium
 tags:
@@ -16,7 +16,7 @@ tags:
 aliases:
   - Boar
 ---
-# [[5. Mechanics\Bestiary\Beast\Boar.md|Boar]]
+# [[5. Mechanics/Bestiary/Beast/Boar.md|Boar]]
 *Source: Monster Manual p. 319. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock

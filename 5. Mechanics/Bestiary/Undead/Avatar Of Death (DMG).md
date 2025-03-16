@@ -13,7 +13,7 @@ tags:
 aliases:
   - Avatar of Death (DMG)
 ---
-# [[5. Mechanics\Bestiary\Undead\Avatar Of Death (DMG).md|Avatar of Death (DMG)]]
+# [[5. Mechanics/Bestiary/Undead/Avatar Of Death (DMG).md|Avatar of Death (DMG)]]
 *Source: Dungeon Master's Guide p. 164, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Summoned by the "Skull" card from the [[5. Mechanics/Items/Deck Of Many Things.md|Deck of Many Things]].

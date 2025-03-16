@@ -13,7 +13,7 @@ tags:
 aliases:
   - Degloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Degloth (VEOR).md|Degloth]]
+# [[5. Mechanics/Bestiary/Fiend/Degloth (VEOR).md|Degloth]]
 *Source: Vecna: Eve of Ruin p. 218*
 
 Degloths are massive, blue, bipedal demons with razor-studded fists. They are commonly used as shock troops on the front lines of wars waged in the Abyss and other Outer Planes. Degloths gravitate toward violence and mayhem without caring about the reasons behind the bloodshed. They enjoy ripping their enemies limb from limb using their razor-studded fists, which are equally adept at slashing foes and crushing the life from them.

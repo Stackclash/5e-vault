@@ -11,7 +11,7 @@ tags:
 aliases:
   - Fife of Dragonsong
 one-hand-damage: 1 P
-range: 25\100
+range: 25/100
 ---
 # Fife of Dragonsong
 *Weapon ([[5. Mechanics/Items/Blowgun.md\|blowgun]]), major, rare (requires attunement by a bard)*  

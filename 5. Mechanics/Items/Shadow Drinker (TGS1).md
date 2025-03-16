@@ -11,7 +11,7 @@ tags:
 aliases:
   - Shadow Drinker
 one-hand-damage: 1d4 P
-range: 40\80
+range: 40/80
 ---
 # Shadow Drinker
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), cursed item, major, very rare (requires attunement)*  

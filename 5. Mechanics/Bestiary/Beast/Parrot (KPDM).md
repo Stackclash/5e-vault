@@ -13,7 +13,7 @@ tags:
 aliases:
   - Parrot
 ---
-# [[5. Mechanics\Bestiary\Beast\Parrot (KPDM).md|Parrot]]
+# [[5. Mechanics/Bestiary/Beast/Parrot (KPDM).md|Parrot]]
 *Source: Deep Magic p. 293*
 
 This bird is noted for its colorful plumage and boisterous disposition. Parrots are favored as familiars by spellcasters who like bright and flashy magic.

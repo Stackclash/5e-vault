@@ -15,7 +15,7 @@ tags:
 aliases:
   - Phoenix
 ---
-# [[5. Mechanics\Bestiary\Elemental\Phoenix (MPMM).md|Phoenix]]
+# [[5. Mechanics/Bestiary/Elemental/Phoenix (MPMM).md|Phoenix]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206, Mordenkainen's Tome of Foes p. 199*
 
 > [!quote] A quote from Mordenkainen  

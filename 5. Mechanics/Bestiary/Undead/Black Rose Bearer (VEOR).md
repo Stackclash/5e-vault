@@ -13,7 +13,7 @@ tags:
 aliases:
   - Black Rose Bearer
 ---
-# [[5. Mechanics\Bestiary\Undead\Black Rose Bearer (VEOR).md|Black Rose Bearer]]
+# [[5. Mechanics/Bestiary/Undead/Black Rose Bearer (VEOR).md|Black Rose Bearer]]
 *Source: Vecna: Eve of Ruin p. 208*
 
 > [!quote] A quote from Common saying among the Knights of Solamnia  

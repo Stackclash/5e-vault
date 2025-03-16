@@ -11,7 +11,7 @@ tags:
 aliases:
   - Seraphim's Stiletto
 one-hand-damage: 1d4 P
-range: 20\60
+range: 20/60
 ---
 # Seraphim's Stiletto
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement by a creature of good alignment)*  

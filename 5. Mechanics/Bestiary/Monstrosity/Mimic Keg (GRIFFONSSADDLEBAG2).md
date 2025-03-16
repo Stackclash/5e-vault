@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mimic Keg
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Mimic Keg (GRIFFONSSADDLEBAG2).md|Mimic Keg]]
+# [[5. Mechanics/Bestiary/Monstrosity/Mimic Keg (GRIFFONSSADDLEBAG2).md|Mimic Keg]]
 *Source: The Griffon's Saddlebag, Book 2 p. 361*
 
 Although most mimics are known for their ability to transform into innocuous items, mimic kegs are a particular cousin that transform solely into alcoholrelated objects. Scholars believe that long-term exposure to alcoholic drinks gradually morphed a number of ancient mimics into this unique breed. Most mimics are ambush predators, but mimic kegs are particularly patient hunters. When plagued by these monsters, some taverns develop an almost religious inventory system to ensure their mugs, jugs, and kegs are safe for customers.

@@ -10,7 +10,7 @@ tags:
 aliases:
   - Dagger of First Light
 one-hand-damage: 1d4 P
-range: 20\60
+range: 20/60
 ---
 # Dagger of First Light
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon*  

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bell Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Bell Golem (GRIFFONSSADDLEBAG3).md|Bell Golem]]
+# [[5. Mechanics/Bestiary/Construct/Bell Golem (GRIFFONSSADDLEBAG3).md|Bell Golem]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A bell golem is an enormous, four-legged golem in the form of a temple or similar sort of belltower. These golems often lie dormant until needed, typically at the behest of their creators or some other means of activation. Bell golems are frequently used as meeting places for cults, often without the cultists even knowing of the golem's existence.

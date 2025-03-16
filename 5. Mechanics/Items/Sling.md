@@ -10,7 +10,7 @@ aliases:
   - Sling
 cost: 10
 one-hand-damage: 1d4 B
-range: 30\120
+range: 30/120
 ---
 # Sling
 *Weapon*  

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Physiker
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Physiker (GRIFFONSSADDLEBAG3).md|Physiker]]
+# [[5. Mechanics/Bestiary/Humanoid/Physiker (GRIFFONSSADDLEBAG3).md|Physiker]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Although primarily found in the Medica Meridia, anyone can become a physiker with the proper training—typically through years of apprenticeship. These skilled martial artists utilize their abundant knowledge of the body's "fresh" and "saltwater" energy meridians to heal with acupuncture and tattoos, but also to precisely debilitate their foes. In Ilridun, any ship or group with a physiker, especially one sponsored by the Medica Meridia, is afforded additional respect and deference by Ilridun's citizens. Given the city's position as a bustling naval hub, physikers can often be found on land and sea across the world, carried by the tides of fate towards their inevitable destinies.

@@ -16,7 +16,7 @@ tags:
 aliases:
   - Deinonychus
 ---
-# [[5. Mechanics\Bestiary\Beast\Deinonychus (MPMM).md|Deinonychus]]
+# [[5. Mechanics/Bestiary/Beast/Deinonychus (MPMM).md|Deinonychus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*
 
 This larger cousin of the velociraptor kills by gripping its target with its claws and feeding.

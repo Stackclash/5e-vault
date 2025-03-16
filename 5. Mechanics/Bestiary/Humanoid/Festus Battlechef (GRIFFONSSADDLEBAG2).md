@@ -13,7 +13,7 @@ tags:
 aliases:
   - Festus Battlechef
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Festus Battlechef (GRIFFONSSADDLEBAG2).md|Festus Battlechef]]
+# [[5. Mechanics/Bestiary/Humanoid/Festus Battlechef (GRIFFONSSADDLEBAG2).md|Festus Battlechef]]
 *Source: The Griffon's Saddlebag, Book 2 p. 359*
 
 A veteran of both cuisine and combat, the battlechef is a devout warrior and an exemplary cook. Renowned for their magical prowess and strength of will, a battlechef goes where their deity and culinary sense of purpose lead. They are found most often behind the bar, within the bustling kitchen, slicing through enemies, or providing much-needed succor to those in need.

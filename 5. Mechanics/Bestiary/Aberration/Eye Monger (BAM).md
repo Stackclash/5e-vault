@@ -13,7 +13,7 @@ tags:
 aliases:
   - Eye Monger
 ---
-# [[5. Mechanics\Bestiary\Aberration\Eye Monger (BAM).md|Eye Monger]]
+# [[5. Mechanics/Bestiary/Aberration/Eye Monger (BAM).md|Eye Monger]]
 *Source: Boo's Astral Menagerie p. 21, Vecna: Eve of Ruin*
 
 When its large eye and mouth are closed, an eye monger looks like nothing more than a 12-foot-diameter asteroid. When it senses vibrations in the space around it, the eye monger opens its eye and reveals its true, menacing nature.

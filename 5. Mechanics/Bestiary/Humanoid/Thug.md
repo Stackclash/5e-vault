@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: urban
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Thug
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Thug.md|Thug]]
+# [[5. Mechanics/Bestiary/Humanoid/Thug.md|Thug]]
 *Source: Monster Manual p. 350, Tasha's Cauldron of Everything, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.

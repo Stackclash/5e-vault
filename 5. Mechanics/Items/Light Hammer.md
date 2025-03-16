@@ -10,7 +10,7 @@ aliases:
   - Light Hammer
 cost: 200
 one-hand-damage: 1d4 B
-range: 20\60
+range: 20/60
 ---
 # Light Hammer
 *Weapon*  

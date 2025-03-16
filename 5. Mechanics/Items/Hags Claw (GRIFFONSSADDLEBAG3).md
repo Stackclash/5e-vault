@@ -11,7 +11,7 @@ tags:
 aliases:
   - Hag's Claw
 one-hand-damage: 1d4 P
-range: 20\60
+range: 20/60
 ---
 # Hag's Claw
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), cursed item, major, legendary (requires attunement)*  

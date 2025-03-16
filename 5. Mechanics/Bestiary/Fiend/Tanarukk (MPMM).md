@@ -16,7 +16,7 @@ tags:
 aliases:
   - Tanarukk
 ---
-# [[5. Mechanics\Bestiary\Fiend\Tanarukk (MPMM).md|Tanarukk]]
+# [[5. Mechanics/Bestiary/Fiend/Tanarukk (MPMM).md|Tanarukk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186*
 
 > [!quote] A quote from Tasha  

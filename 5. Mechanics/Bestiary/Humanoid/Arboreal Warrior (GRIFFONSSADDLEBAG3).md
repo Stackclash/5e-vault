@@ -13,7 +13,7 @@ tags:
 aliases:
   - Arboreal Warrior
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Arboreal Warrior (GRIFFONSSADDLEBAG3).md|Arboreal Warrior]]
+# [[5. Mechanics/Bestiary/Humanoid/Arboreal Warrior (GRIFFONSSADDLEBAG3).md|Arboreal Warrior]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Arboreal warriors are fey soldiers of dryad descent that are typically responsible for defending the same forests as their ancestors. They often carry deep-seated grudges against one or more powerful archfey, who they consider to be responsible for their dryad mothers' circumstances.

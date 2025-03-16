@@ -12,7 +12,7 @@ aliases:
   - Eldritch Bident
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 20\60
+range: 20/60
 ---
 # Eldritch Bident
 *Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), major, rare (requires attunement)*  

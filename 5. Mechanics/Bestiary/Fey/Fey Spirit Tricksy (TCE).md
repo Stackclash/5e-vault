@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fey Spirit (Tricksy)
 ---
-# [[5. Mechanics\Bestiary\Fey\Fey Spirit Tricksy (TCE).md|Fey Spirit (Tricksy)]]
+# [[5. Mechanics/Bestiary/Fey/Fey Spirit Tricksy (TCE).md|Fey Spirit (Tricksy)]]
 *Source: Tasha's Cauldron of Everything p. 112*
 
 ```statblock

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Shadow Spirit
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit (TCE).md|Shadow Spirit]]
+# [[5. Mechanics/Bestiary/Monstrosity/Shadow Spirit (TCE).md|Shadow Spirit]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock

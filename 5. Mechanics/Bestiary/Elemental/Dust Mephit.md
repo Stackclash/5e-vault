@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: desert
 size: Small
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Dust Mephit
 ---
-# [[5. Mechanics\Bestiary\Elemental\Dust Mephit.md|Dust Mephit]]
+# [[5. Mechanics/Bestiary/Elemental/Dust Mephit.md|Dust Mephit]]
 *Source: Monster Manual p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ## Mephits

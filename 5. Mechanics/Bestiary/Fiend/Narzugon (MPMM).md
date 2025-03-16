@@ -13,7 +13,7 @@ tags:
 aliases:
   - Narzugon
 ---
-# [[5. Mechanics\Bestiary\Fiend\Narzugon (MPMM).md|Narzugon]]
+# [[5. Mechanics/Bestiary/Fiend/Narzugon (MPMM).md|Narzugon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 190, Mordenkainen's Tome of Foes p. 167*
 
 Paladins who make deals with devils and carry their twisted sense of honor into the afterlife are especially valuable to the archdukes of the Nine Hells. These narzugons act as horrific perversions of knights errant, carrying out their masters' will.

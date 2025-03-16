@@ -11,7 +11,7 @@ tags:
 aliases:
   - Slaying Longbow
 one-hand-damage: 1d8 P
-range: 150\600
+range: 150/600
 ---
 # Slaying Longbow
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, legendary (requires attunement by a good-aligned creature)*  

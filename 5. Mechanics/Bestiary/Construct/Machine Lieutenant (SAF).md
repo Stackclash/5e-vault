@@ -13,7 +13,7 @@ tags:
 aliases:
   - Machine Lieutenant
 ---
-# [[5. Mechanics\Bestiary\Construct\Machine Lieutenant (SAF).md|Machine Lieutenant]]
+# [[5. Mechanics/Bestiary/Construct/Machine Lieutenant (SAF).md|Machine Lieutenant]]
 *Source: Strongholds and Followers p. 252*
 
 ```statblock

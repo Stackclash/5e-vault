@@ -11,7 +11,7 @@ tags:
 aliases:
   - Vigilus
 one-hand-damage: 1d6 P
-range: 30\120
+range: 30/120
 ---
 # Vigilus
 *Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare (requires attunement)*  

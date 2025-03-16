@@ -13,7 +13,7 @@ tags:
 aliases:
   - Pirate Bruiser
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Pirate Bruiser (GRIFFONSSADDLEBAG3).md|Pirate Bruiser]]
+# [[5. Mechanics/Bestiary/Humanoid/Pirate Bruiser (GRIFFONSSADDLEBAG3).md|Pirate Bruiser]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Musclemen and women working for illicit seafaring privateers—pirates—can also find work in taverns as guards and other means of intimidation. Bruisers typically prefer to use their fists before other weapons, and can pummel targets and grapple them into submission with ease.

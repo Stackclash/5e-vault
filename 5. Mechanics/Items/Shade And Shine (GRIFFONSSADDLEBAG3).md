@@ -11,7 +11,7 @@ tags:
 aliases:
   - Shade and Shine
 one-hand-damage: 1d6 S
-range: 20\60
+range: 20/60
 ---
 # Shade and Shine
 *Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, legendary (requires attunement)*  

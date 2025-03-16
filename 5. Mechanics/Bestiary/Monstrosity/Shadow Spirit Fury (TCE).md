@@ -13,7 +13,7 @@ tags:
 aliases:
   - Shadow Spirit (Fury)
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit Fury (TCE).md|Shadow Spirit (Fury)]]
+# [[5. Mechanics/Bestiary/Monstrosity/Shadow Spirit Fury (TCE).md|Shadow Spirit (Fury)]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock

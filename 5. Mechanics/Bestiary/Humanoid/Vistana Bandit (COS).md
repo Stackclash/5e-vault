@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Vistana Bandit
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Vistana Bandit (COS).md|Vistana Bandit]]
+# [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md|Vistana Bandit]]
 *Source: Curse of Strahd p. 28*
 
 ```statblock

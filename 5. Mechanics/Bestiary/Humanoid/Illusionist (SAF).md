@@ -13,7 +13,7 @@ tags:
 aliases:
   - Illusionist
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Illusionist (SAF).md|Illusionist]]
+# [[5. Mechanics/Bestiary/Humanoid/Illusionist (SAF).md|Illusionist]]
 *Source: Strongholds and Followers p. 81*
 
 ```statblock

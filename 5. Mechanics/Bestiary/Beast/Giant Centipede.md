@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'underdark, urban'
 size: Small
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Giant Centipede
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Centipede.md|Giant Centipede]]
+# [[5. Mechanics/Bestiary/Beast/Giant Centipede.md|Giant Centipede]]
 *Source: Monster Manual p. 323, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

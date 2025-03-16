@@ -10,7 +10,7 @@ tags:
 aliases:
   - Quillgun
 one-hand-damage: 1 P
-range: 25\100
+range: 25/100
 ---
 # Quillgun
 *Weapon ([[5. Mechanics/Items/Blowgun.md\|blowgun]]), major, uncommon*  

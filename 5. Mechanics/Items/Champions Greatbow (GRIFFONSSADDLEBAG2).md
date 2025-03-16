@@ -10,7 +10,7 @@ tags:
 aliases:
   - Champion's Greatbow
 one-hand-damage: 1d10 P
-range: 150\600
+range: 150/600
 ---
 # Champion's Greatbow
 *Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, rare*  

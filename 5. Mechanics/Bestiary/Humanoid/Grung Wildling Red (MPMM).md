@@ -14,7 +14,7 @@ tags:
 aliases:
   - Grung Wildling (Red)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grung Wildling Red (MPMM).md|Grung Wildling (Red)]]
+# [[5. Mechanics/Bestiary/Humanoid/Grung Wildling Red (MPMM).md|Grung Wildling (Red)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*
 
 ```statblock

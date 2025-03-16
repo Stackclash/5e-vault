@@ -10,7 +10,7 @@ tags:
   - item/weapon/ranged
 aliases:
   - Sundersludge Net
-range: 5\15
+range: 5/15
 ---
 # Sundersludge Net
 *Weapon ([[5. Mechanics/Items/Net.md\|net]]), major, uncommon (requires attunement)*  

@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - spell
   - compendium/src/5e/phb
   - spell/class/bard
   - spell/class/sorcerer
@@ -10,6 +9,7 @@ tags:
   - spell/feat/magic-initiate
   - spell/level/1st-level
   - spell/optfeature/sweeping-cinder-strike
+  - spell/reward/boon-of-the-fire-soul
   - spell/school/evocation
   - spell/subclass/arcane-trickster
   - spell/subclass/circle-of-wildfire

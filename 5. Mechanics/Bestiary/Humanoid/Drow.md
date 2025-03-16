@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: underdark
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Drow
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow.md|Drow]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow.md|Drow]]
 *Source: Monster Manual p. 128. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ## Drow

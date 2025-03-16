@@ -10,7 +10,7 @@ tags:
 aliases:
   - Weaving Wasp Needles
 one-hand-damage: 1d4 P
-range: 20\60
+range: 20/60
 ---
 # Weaving Wasp Needles
 *Weapon ([[5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  

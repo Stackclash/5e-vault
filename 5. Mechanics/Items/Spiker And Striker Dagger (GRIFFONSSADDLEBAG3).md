@@ -11,7 +11,7 @@ tags:
 aliases:
   - Spiker and Striker (dagger)
 one-hand-damage: 1d4 P
-range: 20\60
+range: 20/60
 ---
 # Spiker and Striker (dagger)
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement)*  

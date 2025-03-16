@@ -14,7 +14,7 @@ tags:
 aliases:
   - Drider Spellcaster
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Drider Spellcaster.md|Drider Spellcaster]]
+# [[5. Mechanics/Bestiary/Monstrosity/Drider Spellcaster.md|Drider Spellcaster]]
 *Source: Monster Manual p. 120, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock

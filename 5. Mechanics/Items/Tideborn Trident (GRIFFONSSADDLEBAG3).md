@@ -12,7 +12,7 @@ aliases:
   - Tideborn Trident
 one-hand-damage: 1d6 P
 two-hand-damage: 1d8 P
-range: 20\60
+range: 20/60
 ---
 # Tideborn Trident
 *Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), major, legendary (requires attunement)*  

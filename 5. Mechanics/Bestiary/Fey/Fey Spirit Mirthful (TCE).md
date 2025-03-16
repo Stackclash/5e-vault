@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fey Spirit (Mirthful)
 ---
-# [[5. Mechanics\Bestiary\Fey\Fey Spirit Mirthful (TCE).md|Fey Spirit (Mirthful)]]
+# [[5. Mechanics/Bestiary/Fey/Fey Spirit Mirthful (TCE).md|Fey Spirit (Mirthful)]]
 *Source: Tasha's Cauldron of Everything p. 112*
 
 ```statblock

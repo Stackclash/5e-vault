@@ -13,7 +13,7 @@ tags:
 aliases:
   - Aberrant Spirit (Beholderkin)
 ---
-# [[5. Mechanics\Bestiary\Aberration\Aberrant Spirit Beholderkin (TCE).md|Aberrant Spirit (Beholderkin)]]
+# [[5. Mechanics/Bestiary/Aberration/Aberrant Spirit Beholderkin (TCE).md|Aberrant Spirit (Beholderkin)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Catfish Shark
 ---
-# [[5. Mechanics\Bestiary\Beast\Catfish Shark (KPDM).md|Catfish Shark]]
+# [[5. Mechanics/Bestiary/Beast/Catfish Shark (KPDM).md|Catfish Shark]]
 *Source: Deep Magic p. 292*
 
 The catfish shark lives in deep water. Most species are less than 1 foot long and range from pale orange to silvery white in color. Some are also bioluminescent. The catfish shark is an ideal familiar for a spellcaster who operates underwater.

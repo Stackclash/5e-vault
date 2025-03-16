@@ -13,7 +13,7 @@ tags:
 aliases:
   - Refuse Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Refuse Golem (GRIFFONSSADDLEBAG2).md|Refuse Golem]]
+# [[5. Mechanics/Bestiary/Construct/Refuse Golem (GRIFFONSSADDLEBAG2).md|Refuse Golem]]
 *Source: The Griffon's Saddlebag, Book 2 p. 361*
 
 Many speak of trash becoming treasure, but trash is lifeblood for the refuse golem. Most common in areas with large amounts of magical food and drink, these beasts form when mounds of partially consumed waste are not disposed of properly. The resulting magical landfill develops an aggressive, sentient construct that is formidable in battle, most known for their poisonous stench and amorphous defenses.

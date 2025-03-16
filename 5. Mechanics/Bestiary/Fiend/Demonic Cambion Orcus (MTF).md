@@ -14,7 +14,7 @@ tags:
 aliases:
   - Demonic Cambion (Orcus)
 ---
-# [[5. Mechanics\Bestiary\Fiend\Demonic Cambion Orcus (MTF).md|Demonic Cambion (Orcus)]]
+# [[5. Mechanics/Bestiary/Fiend/Demonic Cambion Orcus (MTF).md|Demonic Cambion (Orcus)]]
 *Source: Mordenkainen's Tome of Foes p. 36*
 
 ```statblock

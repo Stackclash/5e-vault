@@ -13,7 +13,7 @@ tags:
 aliases:
   - Sea Navigator
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Sea Navigator (GRIFFONSSADDLEBAG3).md|Sea Navigator]]
+# [[5. Mechanics/Bestiary/Humanoid/Sea Navigator (GRIFFONSSADDLEBAG3).md|Sea Navigator]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Ships need navigators to direct them through dangerous weather conditions. Sea navigators that rise to the top will often be capable of exercising a degree of control over such weather, allowing them to either avoid, dismiss, or create such hazards to the ship's benefit.

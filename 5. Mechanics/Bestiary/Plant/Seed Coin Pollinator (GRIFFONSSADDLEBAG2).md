@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Seed Coin Pollinator
 ---
-# [[5. Mechanics\Bestiary\Plant\Seed Coin Pollinator (GRIFFONSSADDLEBAG2).md|Seed Coin Pollinator]]
+# [[5. Mechanics/Bestiary/Plant/Seed Coin Pollinator (GRIFFONSSADDLEBAG2).md|Seed Coin Pollinator]]
 *Source: The Griffon's Saddlebag, Book 2 p. 341*
 
 Once a seed coin has fully taken root in its host's mind, it begins to burrow into their flesh. From there, it begins to expand its vines through the veins of the deceased creature, utilizing the abundant moisture, nutrients, and direct access to the body's brain and lungs. Once it has spread, it puppets the form with these vines, though the bulk of it resides in the unmoving lungs and skull cavity. This rapid growth strengthens the body's cell walls, making them heardier and more plant-like below the skin's surface. The appearance changes little, but the pollinator is most certainly a plant and not a humanoid.

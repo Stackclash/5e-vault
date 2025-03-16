@@ -10,7 +10,7 @@ tags:
 aliases:
   - Spitfire
 one-hand-damage: 1d10 P
-range: 100\400
+range: 100/400
 ---
 # Spitfire
 *Weapon ([[5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), rare (requires attunement)*  

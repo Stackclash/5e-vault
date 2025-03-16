@@ -10,7 +10,7 @@ tags:
 aliases:
   - Trampling Crossbow
 one-hand-damage: 1d10 P
-range: 100\400
+range: 100/400
 ---
 # Trampling Crossbow
 *Weapon ([[5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, uncommon*  

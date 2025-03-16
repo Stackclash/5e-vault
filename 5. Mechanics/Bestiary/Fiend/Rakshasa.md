@@ -14,7 +14,7 @@ tags:
 aliases:
   - Rakshasa
 ---
-# [[5. Mechanics\Bestiary\Fiend\Rakshasa.md|Rakshasa]]
+# [[5. Mechanics/Bestiary/Fiend/Rakshasa.md|Rakshasa]]
 *Source: Monster Manual p. 257, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The rakshasa employs delicacy and misdirection in its pursuit of dominion over others. Few creatures ever see the fiend in its true form, for it can take on any guise it wants, although it prefers to masquerade as someone powerful or influential: a noble, cardinal, or rich merchant, for example. A rakshasa's true form combines the features of a human and a tiger, with one noteworthy deformity: its palms are where the backs of the hands would be on a human.

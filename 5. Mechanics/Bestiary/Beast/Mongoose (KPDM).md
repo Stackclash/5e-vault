@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mongoose
 ---
-# [[5. Mechanics\Bestiary\Beast\Mongoose (KPDM).md|Mongoose]]
+# [[5. Mechanics/Bestiary/Beast/Mongoose (KPDM).md|Mongoose]]
 *Source: Deep Magic p. 293*
 
 The mongoose is a sleek mammal with tiny, sharp teeth that lives in forests and deserts and eats insects, eggs, and small lizards. The mongoose is a fierce familiar and has even been known to kill snakes.

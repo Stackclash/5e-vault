@@ -11,7 +11,7 @@ tags:
 aliases:
   - Crossbow of the Flying Fist
 one-hand-damage: 1d6 P
-range: 30\120
+range: 30/120
 ---
 # Crossbow of the Flying Fist
 *Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, uncommon (requires attunement)*  

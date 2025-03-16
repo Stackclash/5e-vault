@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: underdark
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Male Steeder
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Male Steeder (MPMM).md|Male Steeder]]
+# [[5. Mechanics/Bestiary/Monstrosity/Male Steeder (MPMM).md|Male Steeder]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*
 
 ## Steeders

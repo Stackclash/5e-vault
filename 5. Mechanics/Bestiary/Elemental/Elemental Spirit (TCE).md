@@ -13,7 +13,7 @@ tags:
 aliases:
   - Elemental Spirit
 ---
-# [[5. Mechanics\Bestiary\Elemental\Elemental Spirit (TCE).md|Elemental Spirit]]
+# [[5. Mechanics/Bestiary/Elemental/Elemental Spirit (TCE).md|Elemental Spirit]]
 *Source: Tasha's Cauldron of Everything p. 111*
 
 ```statblock

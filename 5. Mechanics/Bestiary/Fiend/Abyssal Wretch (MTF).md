@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Abyssal Wretch
 ---
-# [[5. Mechanics\Bestiary\Fiend\Abyssal Wretch (MTF).md|Abyssal Wretch]]
+# [[5. Mechanics/Bestiary/Fiend/Abyssal Wretch (MTF).md|Abyssal Wretch]]
 *Source: Mordenkainen's Tome of Foes p. 136*
 
 ```statblock

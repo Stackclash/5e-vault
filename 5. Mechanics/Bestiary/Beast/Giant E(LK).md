@@ -17,7 +17,7 @@ tags:
 aliases:
   - Giant Elk
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant E(LK).md|Giant Elk]]
+# [[5. Mechanics/Bestiary/Beast/Giant E(LK).md|Giant Elk]]
 *Source: Monster Manual p. 325. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath.

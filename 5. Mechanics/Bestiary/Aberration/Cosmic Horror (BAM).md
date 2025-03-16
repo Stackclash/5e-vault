@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cosmic Horror
 ---
-# [[5. Mechanics\Bestiary\Aberration\Cosmic Horror (BAM).md|Cosmic Horror]]
+# [[5. Mechanics/Bestiary/Aberration/Cosmic Horror (BAM).md|Cosmic Horror]]
 *Source: Boo's Astral Menagerie p. 18, Vecna: Eve of Ruin*
 
 Cosmic horrors are colossal, malevolent entities that occasionally slip the bonds of the Far Realm and find themselves adrift on the Astral Plane. Drawn to the light of distant stars, these creatures invade Wildspace systems and lay waste to worlds. After feeding on the minds and bodies of a world's inhabitants until it is sated, a cosmic horror usually returns to the void, where it falls into a deep sleep, drifting aimlessly until hunger or some other stimulus awakens it.

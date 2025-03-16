@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'forest, urban'
 size: Medium
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Kenku
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kenku.md|Kenku]]
+# [[5. Mechanics/Bestiary/Humanoid/Kenku.md|Kenku]]
 *Source: Monster Manual p. 194*
 
 Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.

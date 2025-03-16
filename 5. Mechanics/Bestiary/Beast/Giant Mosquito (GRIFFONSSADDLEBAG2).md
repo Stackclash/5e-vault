@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Giant Mosquito
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Mosquito (GRIFFONSSADDLEBAG2).md|Giant Mosquito]]
+# [[5. Mechanics/Bestiary/Beast/Giant Mosquito (GRIFFONSSADDLEBAG2).md|Giant Mosquito]]
 *Source: The Griffon's Saddlebag, Book 2 p. 345*
 
 Empowered by the sheer volume of slow-moving blood present in the swampland formerly known as the Syre Wood, giant mosquitoes are a constant threat to travelers and denizens alike. The mosquitoes are one of the most frequent carriers of disease and with their size and numbers are capable of tremendous damage.

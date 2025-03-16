@@ -13,7 +13,7 @@ tags:
 aliases:
   - Death Coach
 ---
-# [[5. Mechanics\Bestiary\Undead\Death Coach (GRIFFONSSADDLEBAG2).md|Death Coach]]
+# [[5. Mechanics/Bestiary/Undead/Death Coach (GRIFFONSSADDLEBAG2).md|Death Coach]]
 *Source: The Griffon's Saddlebag, Book 2 p. 352*
 
 Known across the land in myth and song as a specter of terror, the death coach is a manifestation of death and harbinger of woe. This smoky black carriage pulled by horses dark as midnight is one with its headless driver. Within the carriage are countless wailing souls, but their screams go unheard. The legends claim that seeing the coach is to court misfortune, and hearing your name uttered by the coachman is an instant death sentence, as he instructs you to board the carriage with the other damned passengers.

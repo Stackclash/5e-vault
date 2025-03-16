@@ -13,7 +13,7 @@ tags:
 aliases:
   - Night Terror
 ---
-# [[5. Mechanics\Bestiary\Undead\Night Terror (GRIFFONSSADDLEBAG3).md|Night Terror]]
+# [[5. Mechanics/Bestiary/Undead/Night Terror (GRIFFONSSADDLEBAG3).md|Night Terror]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Shapeshifting specters made of protomatter themselves, night terrors are aptly named. These undead harbingers of misery emanate fear wherever they go and cause their prey to wither and lose all sense of hope in their wake. When invading the dreams of creatures, a terror transforms any dream into a horrifying experience.

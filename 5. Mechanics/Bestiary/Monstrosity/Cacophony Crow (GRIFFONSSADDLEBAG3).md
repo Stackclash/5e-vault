@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cacophony Crow
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Cacophony Crow (GRIFFONSSADDLEBAG3).md|Cacophony Crow]]
+# [[5. Mechanics/Bestiary/Monstrosity/Cacophony Crow (GRIFFONSSADDLEBAG3).md|Cacophony Crow]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Cacophony crows are dark, but brassy in color and can imitate the sound and even resonance of temple bells. Some crows are trained to take the place of bells in buildings with limited space or resources, and can even be used to tell time, with enough patience, in much the same way that a belltower chimes throughout the day.

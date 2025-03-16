@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fey Spirit (Fuming)
 ---
-# [[5. Mechanics\Bestiary\Fey\Fey Spirit Fuming (TCE).md|Fey Spirit (Fuming)]]
+# [[5. Mechanics/Bestiary/Fey/Fey Spirit Fuming (TCE).md|Fey Spirit (Fuming)]]
 *Source: Tasha's Cauldron of Everything p. 112*
 
 ```statblock

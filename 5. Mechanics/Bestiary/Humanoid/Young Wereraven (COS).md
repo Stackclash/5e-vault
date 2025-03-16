@@ -14,7 +14,7 @@ tags:
 aliases:
   - Young Wereraven
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Young Wereraven (COS).md|Young Wereraven]]
+# [[5. Mechanics/Bestiary/Humanoid/Young Wereraven (COS).md|Young Wereraven]]
 *Source: Curse of Strahd p. 98*
 
 ```statblock

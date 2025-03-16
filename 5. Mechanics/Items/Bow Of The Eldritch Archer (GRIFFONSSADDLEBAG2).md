@@ -11,7 +11,7 @@ tags:
 aliases:
   - Bow of the Eldritch Archer
 one-hand-damage: 1d6 P
-range: 80\320
+range: 80/320
 ---
 # Bow of the Eldritch Archer
 *Weapon ([[5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  

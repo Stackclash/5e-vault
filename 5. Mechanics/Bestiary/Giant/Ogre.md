@@ -22,7 +22,7 @@ tags:
 aliases:
   - Ogre
 ---
-# [[5. Mechanics\Bestiary\Giant\Ogre.md|Ogre]]
+# [[5. Mechanics/Bestiary/Giant/Ogre.md|Ogre]]
 *Source: Monster Manual p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.

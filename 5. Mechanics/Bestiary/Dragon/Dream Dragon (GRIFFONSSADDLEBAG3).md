@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dream Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Dream Dragon (GRIFFONSSADDLEBAG3).md|Dream Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Dream Dragon (GRIFFONSSADDLEBAG3).md|Dream Dragon]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Dream dragons lord over their lairs in The Grephearon's Dream Gallery, enjoying the unique magics that radiate off of their collected gallery paintings. They magically turn invisible when exploring the gallery's labyrinth in search of new treasures, interesting dreams, or visiting humanoids. When within a dream, a dragon attempts to devour other outsider creatures—those not belonging to the dream. To the dragon, these morsels, while not truly necessary for their survival, are nevertheless a delicious treat.

@@ -20,7 +20,7 @@ tags:
 aliases:
   - Guard Drake (Black)
 ---
-# [[5. Mechanics\Bestiary\Dragon\Guard Drake Black (MPMM).md|Guard Drake (Black)]]
+# [[5. Mechanics/Bestiary/Dragon/Guard Drake Black (MPMM).md|Guard Drake (Black)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*
 
 ```statblock

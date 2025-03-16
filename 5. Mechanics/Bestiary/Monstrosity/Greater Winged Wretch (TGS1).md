@@ -16,7 +16,7 @@ tags:
 aliases:
   - Greater Winged Wretch
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Greater Winged Wretch (TGS1).md|Greater Winged Wretch]]
+# [[5. Mechanics/Bestiary/Monstrosity/Greater Winged Wretch (TGS1).md|Greater Winged Wretch]]
 *Source: The Griffon's Saddlebag, Book 1 p. 195*
 
 Winged wretches are swarming bat-humanoid hybrids native to subterranean realms and tropical jungles. Although they resemble certain shapechangers and vampires, they are not blood-drinkers. Regardless, they are cruel creatures who delight in the torture of weaker prey.

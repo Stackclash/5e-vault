@@ -11,7 +11,7 @@ tags:
 aliases:
   - Bow of Mind Thievery
 one-hand-damage: 1d6 P
-range: 80\320
+range: 80/320
 ---
 # Bow of Mind Thievery
 *Weapon ([[5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  

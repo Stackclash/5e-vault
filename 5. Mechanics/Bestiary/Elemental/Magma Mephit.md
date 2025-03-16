@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: underdark
 size: Small
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Magma Mephit
 ---
-# [[5. Mechanics\Bestiary\Elemental\Magma Mephit.md|Magma Mephit]]
+# [[5. Mechanics/Bestiary/Elemental/Magma Mephit.md|Magma Mephit]]
 *Source: Monster Manual p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ## Mephits

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Geode Wurm
 ---
-# [[5. Mechanics\Bestiary\Elemental\Geode Wurm (GRIFFONSSADDLEBAG3).md|Geode Wurm]]
+# [[5. Mechanics/Bestiary/Elemental/Geode Wurm (GRIFFONSSADDLEBAG3).md|Geode Wurm]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 This curious specimen, while similar in shape to creatures like the purple worm, is in fact an elemental. With hundreds of crystal formations grown from its core, the geode wurm shreds most creatures it manages to constrict. Those unlucky few that survive the shredding are conscious as the wurm begins grinding its flesh into giblets with the immense crushing force of its geode-like maw. Given their diet of precious gems and minerals, creatures in possession of mirrorlight crystals are often targets of geode wurm attack

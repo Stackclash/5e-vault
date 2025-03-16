@@ -9,7 +9,7 @@ tags:
 aliases:
   - Frost Dagger
 one-hand-damage: 1d4 C
-range: 20\60
+range: 20/60
 ---
 # Frost Dagger
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), rare*  

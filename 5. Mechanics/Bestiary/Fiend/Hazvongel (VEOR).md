@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hazvongel
 ---
-# [[5. Mechanics\Bestiary\Fiend\Hazvongel (VEOR).md|Hazvongel]]
+# [[5. Mechanics/Bestiary/Fiend/Hazvongel (VEOR).md|Hazvongel]]
 *Source: Vecna: Eve of Ruin p. 222*
 
 > [!quote] A quote from The Demon Lord Pazuzu  

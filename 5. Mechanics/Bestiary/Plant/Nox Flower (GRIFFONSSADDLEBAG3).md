@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nox Flower
 ---
-# [[5. Mechanics\Bestiary\Plant\Nox Flower (GRIFFONSSADDLEBAG3).md|Nox Flower]]
+# [[5. Mechanics/Bestiary/Plant/Nox Flower (GRIFFONSSADDLEBAG3).md|Nox Flower]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The nox flower was originally created in the Safire Wood as a misguided attempt to stem the tide of the Midas Tree's expansion on the fey plane.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Sentry Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Sentry Golem (GRIFFONSSADDLEBAG3).md|Sentry Golem]]
+# [[5. Mechanics/Bestiary/Construct/Sentry Golem (GRIFFONSSADDLEBAG3).md|Sentry Golem]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The sentry golems of Polaris are smaller and more easily produced than their larger constructed brethren, such as the iron golem or shield guardian. These city defenders and riot-controlling arcane machines are capable of limited flight, and can launch a salvo of flames or sleeping gas from its arm-mounted canister attachment.

@@ -17,7 +17,7 @@ tags:
 aliases:
   - Harpy
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Harpy.md|Harpy]]
+# [[5. Mechanics/Bestiary/Monstrosity/Harpy.md|Harpy]]
 *Source: Monster Manual p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.

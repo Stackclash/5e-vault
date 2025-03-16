@@ -14,7 +14,7 @@ tags:
 aliases:
   - Derro Savant
 ---
-# [[5. Mechanics\Bestiary\Aberration\Derro Savant (MPMM).md|Derro Savant]]
+# [[5. Mechanics/Bestiary/Aberration/Derro Savant (MPMM).md|Derro Savant]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*
 
 > [!quote] A quote from Mordenkainen  

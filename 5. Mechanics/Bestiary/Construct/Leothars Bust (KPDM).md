@@ -13,7 +13,7 @@ tags:
 aliases:
   - Leothar's Bust
 ---
-# [[5. Mechanics\Bestiary\Construct\Leothars Bust (KPDM).md|Leothar's Bust]]
+# [[5. Mechanics/Bestiary/Construct/Leothars Bust (KPDM).md|Leothar's Bust]]
 *Source: Deep Magic p. 286*
 
 *Floating before you is an exquisitely-crafted bust of a middle-aged man with a balding pate and a well-cropped beard. The bust appears to be constructed out of white marble. Its features are animated, and the entity is watching you with an expectant expression. Close behind the bust are two maids' uniforms, suspended in the air as though being worn by unseen creatures.*

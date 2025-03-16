@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Wharfling
 ---
-# [[5. Mechanics\Bestiary\Beast\Wharfling (KPDM).md|Wharfling]]
+# [[5. Mechanics/Bestiary/Beast/Wharfling (KPDM).md|Wharfling]]
 *Source: Deep Magic p. 294*
 
 Tiny, doglike creatures with slippery, hairless skin and webbed claws, wharflings are occasionally chosen as familiars by spellcasters who are unconcerned about their personal appearance, who frequently engage in acts of larceny, or who dwell in watery conditions.

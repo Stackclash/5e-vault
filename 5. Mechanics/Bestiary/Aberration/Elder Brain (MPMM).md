@@ -14,7 +14,7 @@ tags:
 aliases:
   - Elder Brain
 ---
-# [[5. Mechanics\Bestiary\Aberration\Elder Brain (MPMM).md|Elder Brain]]
+# [[5. Mechanics/Bestiary/Aberration/Elder Brain (MPMM).md|Elder Brain]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 120, Volo's Guide to Monsters p. 173*
 
 The ultimate expression of mind flayer domination, an elder brain sprawls within a vat of viscous brine, cared for by mind flayer minions as it touches the thoughts of creatures near and far. It scrawls upon the canvas of the creatures' minds, rewriting their thoughts and authoring their dreams.

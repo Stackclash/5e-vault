@@ -13,7 +13,7 @@ tags:
 aliases:
   - Blade Lieutenant
 ---
-# [[5. Mechanics\Bestiary\Construct\Blade Lieutenant (VEOR).md|Blade Lieutenant]]
+# [[5. Mechanics/Bestiary/Construct/Blade Lieutenant (VEOR).md|Blade Lieutenant]]
 *Source: Vecna: Eve of Ruin p. 209*
 
 Blade lieutenants lead subordinates on raids on behalf of the Lord of Blades. Soldiers who fail to meet a lieutenant's demands are harshly disciplined.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Raklupis Spyder-Fiend
 ---
-# [[5. Mechanics\Bestiary\Fiend\Raklupis Spyder Fiend (VEOR).md|Raklupis Spyder-Fiend]]
+# [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend (VEOR).md|Raklupis Spyder-Fiend]]
 *Source: Vecna: Eve of Ruin p. 236*
 
 Raklupis spyder-fiends have hard, smooth shells and gleaming spines. With luxuriantly furry wolf heads, powerful arms, and alluring voices, raklupises are the only spyder-fiends that might be called majestic. They create delicate web globes, which they fill with their venom and hurl at foes. Raklupises are keen strategists, and most of them command legions of lesser spyder-fiends.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Preserver Hulk
 ---
-# [[5. Mechanics\Bestiary\Construct\Preserver Hulk (GRIFFONSSADDLEBAG3).md|Preserver Hulk]]
+# [[5. Mechanics/Bestiary/Construct/Preserver Hulk (GRIFFONSSADDLEBAG3).md|Preserver Hulk]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A lumbering construct of pure strength and built for the Hollow Moon's most demanding tasks.

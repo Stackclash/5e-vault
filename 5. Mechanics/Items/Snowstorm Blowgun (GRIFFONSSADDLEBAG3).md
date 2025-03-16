@@ -10,7 +10,7 @@ tags:
 aliases:
   - Snowstorm Blowgun
 one-hand-damage: 1 P
-range: 25\100
+range: 25/100
 ---
 # Snowstorm Blowgun
 *Weapon ([[5. Mechanics/Items/Blowgun.md\|blowgun]]), major, rare*  

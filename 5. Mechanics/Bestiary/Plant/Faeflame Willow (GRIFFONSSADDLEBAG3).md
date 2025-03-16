@@ -13,7 +13,7 @@ tags:
 aliases:
   - Faeflame Willow
 ---
-# [[5. Mechanics\Bestiary\Plant\Faeflame Willow (GRIFFONSSADDLEBAG3).md|Faeflame Willow]]
+# [[5. Mechanics/Bestiary/Plant/Faeflame Willow (GRIFFONSSADDLEBAG3).md|Faeflame Willow]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Known in some circles as hanging trees, faeflame willows have developed a potent symbiosis with the forest's [[5. Mechanics/Bestiary/Undead/Will O Wisp.md|will-o'-wisps]]. The stationary nature of the willow, which would normally restrict its reach, is compensated by the wisps' maneuverability. Meanwhile, the willow helps ensure that wayward travelers following the wisps are prevented from escaping before their life force can be drained. Faeflame willows are also highly intelligent, and they can utilize potent magic to make their prey believe the tree is a safe haven from the forest's other dangers.

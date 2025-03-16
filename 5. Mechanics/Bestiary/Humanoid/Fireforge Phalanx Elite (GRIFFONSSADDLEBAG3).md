@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fireforge Phalanx Elite
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Fireforge Phalanx Elite (GRIFFONSSADDLEBAG3).md|Fireforge Phalanx Elite]]
+# [[5. Mechanics/Bestiary/Humanoid/Fireforge Phalanx Elite (GRIFFONSSADDLEBAG3).md|Fireforge Phalanx Elite]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The dwarves of the Fireforge Phalanx are extremely militant and unwaveringly committed to Direstone's safety. They march in heavy armor and tall shields emblazoned with the gilded mark of Direstone.

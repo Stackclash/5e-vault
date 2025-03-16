@@ -17,7 +17,7 @@ tags:
 aliases:
   - Eagle
 ---
-# [[5. Mechanics\Bestiary\Beast\Eagle.md|Eagle]]
+# [[5. Mechanics/Bestiary/Beast/Eagle.md|Eagle]]
 *Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

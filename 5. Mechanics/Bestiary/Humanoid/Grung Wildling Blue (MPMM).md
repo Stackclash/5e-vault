@@ -14,7 +14,7 @@ tags:
 aliases:
   - Grung Wildling (Blue)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grung Wildling Blue (MPMM).md|Grung Wildling (Blue)]]
+# [[5. Mechanics/Bestiary/Humanoid/Grung Wildling Blue (MPMM).md|Grung Wildling (Blue)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*
 
 ```statblock

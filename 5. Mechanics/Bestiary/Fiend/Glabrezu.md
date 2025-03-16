@@ -13,7 +13,7 @@ tags:
 aliases:
   - Glabrezu
 ---
-# [[5. Mechanics\Bestiary\Fiend\Glabrezu.md|Glabrezu]]
+# [[5. Mechanics/Bestiary/Fiend/Glabrezu.md|Glabrezu]]
 *Source: Monster Manual p. 58, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A glabrezu takes great pleasure in destroying mortals through temptation, and these creatures are among the few demons to offer their service to creatures foolish enough to summon them.

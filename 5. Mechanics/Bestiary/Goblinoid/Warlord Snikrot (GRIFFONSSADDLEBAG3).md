@@ -13,7 +13,7 @@ tags:
 aliases:
   - Warlord Snikrot
 ---
-# [[5. Mechanics\Bestiary\Goblinoid\Warlord Snikrot (GRIFFONSSADDLEBAG3).md|Warlord Snikrot]]
+# [[5. Mechanics/Bestiary/Goblinoid/Warlord Snikrot (GRIFFONSSADDLEBAG3).md|Warlord Snikrot]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A colossal brute of a goblin, Snikrot is the imposing leader of the goblin horde beneath Direstone and the secret sworn enemy of Bressir Emberheart. His unwavering conviction and hatred of Direstone, coupled with his incredible military prowess, makes him a deadly adversary.

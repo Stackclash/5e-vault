@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fiendish Spirit
 ---
-# [[5. Mechanics\Bestiary\Fiend\Fiendish Spirit (TCE).md|Fiendish Spirit]]
+# [[5. Mechanics/Bestiary/Fiend/Fiendish Spirit (TCE).md|Fiendish Spirit]]
 *Source: Tasha's Cauldron of Everything p. 112*
 
 ```statblock

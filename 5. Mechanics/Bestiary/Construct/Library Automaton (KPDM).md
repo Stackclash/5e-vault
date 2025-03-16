@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Library Automaton
 ---
-# [[5. Mechanics\Bestiary\Construct\Library Automaton (KPDM).md|Library Automaton]]
+# [[5. Mechanics/Bestiary/Construct/Library Automaton (KPDM).md|Library Automaton]]
 *Source: Deep Magic p. 298*
 
 These strange-looking constructs are unusually intelligent for creatures of their type and will sometimes serve a lawful or neutral spellcaster (though never a chaotic one) as a familiar.

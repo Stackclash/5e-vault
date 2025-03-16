@@ -14,7 +14,7 @@ tags:
 aliases:
   - Infernal Cambion
 ---
-# [[5. Mechanics\Bestiary\Fiend\Infernal Cambion (MTF).md|Infernal Cambion]]
+# [[5. Mechanics/Bestiary/Fiend/Infernal Cambion (MTF).md|Infernal Cambion]]
 *Source: Mordenkainen's Tome of Foes p. 36*
 
 ```statblock

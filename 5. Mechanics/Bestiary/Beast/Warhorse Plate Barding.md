@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: urban
 size: Large
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Warhorse (Plate Barding)
 ---
-# [[5. Mechanics\Bestiary\Beast\Warhorse Plate Barding.md|Warhorse (Plate Barding)]]
+# [[5. Mechanics/Bestiary/Beast/Warhorse Plate Barding.md|Warhorse (Plate Barding)]]
 *Source: Monster Manual p. 340, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

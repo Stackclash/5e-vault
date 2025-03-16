@@ -14,7 +14,7 @@ tags:
 aliases:
   - Hydra
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Hydra.md|Hydra]]
+# [[5. Mechanics/Bestiary/Monstrosity/Hydra.md|Hydra]]
 *Source: Monster Manual p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The hydra is a reptilian horror with a crocodilian body and multiple heads on long, serpentine necks. Although its heads can be severed, the hydra magically regrows them in short order. A typical specimen has five heads. At the dawn of time, Tiamat, the Queen of Evil Dragons, slew a rival dragon god named Lernaea and cast her blood across the multiverse. Each drop that fell upon a world spawned a multi-headed hydra consumed by a hunger as great as the fallen god's hatred. Great champions are known to test their mettle against these fearsome creatures.

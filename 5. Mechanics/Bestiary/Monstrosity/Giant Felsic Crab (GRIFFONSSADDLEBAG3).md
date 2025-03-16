@@ -13,7 +13,7 @@ tags:
 aliases:
   - Giant Felsic Crab
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Giant Felsic Crab (GRIFFONSSADDLEBAG3).md|Giant Felsic Crab]]
+# [[5. Mechanics/Bestiary/Monstrosity/Giant Felsic Crab (GRIFFONSSADDLEBAG3).md|Giant Felsic Crab]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Unlike many of the deep-dwelling creatures of the world that rely on poison, the giant felsic crab utilizes intensely caustic acid to ensnare its prey. This is particularly effective against dwarves and other underground creatures that are often naturally resistant to such poisons. Crafty ambush predators, the felsic crab preys primarily on miners foolhardy enough to venture too far on their own. Stories about miners' narrow escapes from these monstrous crustaceans are pervasive in Ilridun's oral culture, but the rarity of felsic crab carapaces would seem to indicate that most, if not all, such tales are fabricated.

@@ -10,7 +10,7 @@ tags:
 aliases:
   - Splintershot
 one-hand-damage: 1d6 T
-range: 80\320
+range: 80/320
 ---
 # Splintershot
 *Weapon ([[5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare*  

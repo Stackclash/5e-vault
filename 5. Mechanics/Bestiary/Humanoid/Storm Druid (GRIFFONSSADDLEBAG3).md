@@ -13,7 +13,7 @@ tags:
 aliases:
   - Storm Druid
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Storm Druid (GRIFFONSSADDLEBAG3).md|Storm Druid]]
+# [[5. Mechanics/Bestiary/Humanoid/Storm Druid (GRIFFONSSADDLEBAG3).md|Storm Druid]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Members of a circle of druids that revere the might of the world's tempests, storm druids sometimes find passage on ships around as navigators themselves. Druids of this circle can transform their bodies into streaking bolts of lightning, allowing them to reach far-flung locations in a single (dangerous) bound.

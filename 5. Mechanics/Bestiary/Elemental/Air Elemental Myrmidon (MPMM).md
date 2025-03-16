@@ -13,7 +13,7 @@ tags:
 aliases:
   - Air Elemental Myrmidon
 ---
-# [[5. Mechanics\Bestiary\Elemental\Air Elemental Myrmidon (MPMM).md|Air Elemental Myrmidon]]
+# [[5. Mechanics/Bestiary/Elemental/Air Elemental Myrmidon (MPMM).md|Air Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*
 
 ## Elemental Myrmidons
