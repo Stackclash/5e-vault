@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2025-03-15
-summary:
+summary: 
 fc-date: 973-2-23
 fc-end: 
 timelines:
@@ -12,6 +12,8 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2025-03-15.md|2025-03-15]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
 ---
 > [!infobox]
 > ## Info
