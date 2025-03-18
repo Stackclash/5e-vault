@@ -248,6 +248,36 @@
           }
         }
       ]
+    },
+    {
+      "title": "Session Setup",
+      "name": "Session Setup",
+      "version": "1",
+      "fields": [
+        {
+          "name": "party",
+          "label": "Party",
+          "description": "Campaign Party",
+          "input": {
+            "type": "dataview",
+            "allowUnknownValues": false,
+            "hidden": false,
+            "query": "dv.pages('#party').file.name"
+          },
+          "isRequired": true
+        },
+        {
+          "name": "date",
+          "label": "Date",
+          "description": "Date of Session",
+          "input": {
+            "type": "date",
+            "allowUnknownValues": false,
+            "hidden": false
+          },
+          "isRequired": false
+        }
+      ]
     }
   ]
 }
