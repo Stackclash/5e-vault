@@ -1,7 +1,11 @@
 <%*
 const path = require('path')
 const dv = app.plugins.getPlugin("dataview").api
+const modalForm = app.plugins.getPlugin('modalforms').api
 const locationConfig = dv.page('Configuration').locations
+
+const result = await modalForm.openForm('session-setup')
+console.log(result, result.getData())
 
 let date = await tp.system.prompt("What date is this session supposed to happen? (MM-DD-YYYY)")
 let formattedDate = moment(date).format("YYYY-MM-DD")

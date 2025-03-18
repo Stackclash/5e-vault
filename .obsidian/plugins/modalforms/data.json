@@ -5,7 +5,7 @@
   "formDefinitions": [
     {
       "title": "Session Setup",
-      "name": "Session Setup",
+      "name": "session-setup",
       "fields": [
         {
           "name": "party",
@@ -14,18 +14,7 @@
           "isRequired": true,
           "input": {
             "type": "dataview",
-            "query": "dv.pages('#party').file.name",
-            "options": [
-              {
-                "value": "",
-                "label": ""
-              },
-              {
-                "value": "",
-                "label": ""
-              }
-            ],
-            "source": "notes"
+            "query": "dv.pages('#party').file.name"
           }
         },
         {
