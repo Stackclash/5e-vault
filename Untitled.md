@@ -1,3 +1,3 @@
 ```dataviewjs
-console.log(app.plugins.getPlugin('modalforms'))
+console.log(dv.page())
 ```
