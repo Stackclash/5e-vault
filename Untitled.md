@@ -1,3 +1,3 @@
 ```dataviewjs
-console.log(dv.page())
+dv.span(dv.fileLink(dv.page('Curse of Strahd').file.path))
 ```

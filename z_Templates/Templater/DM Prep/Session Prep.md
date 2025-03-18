@@ -5,15 +5,16 @@ const modalForm = app.plugins.getPlugin('modalforms').api
 const locationConfig = dv.page('Configuration').locations
 
 const result = await modalForm.openForm('session-setup')
-console.log(result, result.getData())
+const data = result.getData()
 
-let date = await tp.system.prompt("What date is this session supposed to happen? (MM-DD-YYYY)")
-let formattedDate = moment(date).format("YYYY-MM-DD")
+if (!data) {
+  throw new Error('Modal was Cancelled')
+}
 
-let parties = dv.pages("#party")
-let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => p.file.name), false, "What party is this Session for?")
+const formattedDate = moment(data.date).format("YYYY-MM-DD")
+const selectedParty = dv.page(data.party)
 
-await tp.file.move(path.join(locationConfig.preps, selectedParty, formattedDate))
+await tp.file.move(path.join(locationConfig.preps, selectedParty.file.name, formattedDate))
 -%>
 ---
 date: <% formattedDate %>

@@ -3,11 +3,15 @@ const path = require('path')
 const dv = app.plugins.getPlugin("dataview").api
 const locationConfig = dv.page('Configuration').locations
 
-let date = await tp.system.prompt("What date is this session supposed to happen? (MM-DD-YYYY)")
-let formattedDate = moment(date).format("YYYY-MM-DD")
+const result = await modalForm.openForm('session-setup')
+const data = result.getData()
 
-let parties = dv.pages("#party")
-let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties, false, "What party is this Session for?")
+if (!data) {
+  throw new Error('Modal was Cancelled')
+}
+
+const formattedDate = moment(data.date).format("YYYY-MM-DD")
+const selectedParty = dv.page(data.party)
 
 let latestJournal = dv.pages("#session-journal").filter(p => p.party && p.party.path === selectedParty.file.path).sort(p => p.date, 'desc')[0]
 const newSessionNumber = parseInt(latestJournal.file.name.match(/^S(\d{1,})/)[1])+1
