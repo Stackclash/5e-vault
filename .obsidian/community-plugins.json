@@ -9,5 +9,6 @@
   "modules",
   "obsidian-style-settings",
   "obsidian-meta-bind-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "modalforms"
 ]
