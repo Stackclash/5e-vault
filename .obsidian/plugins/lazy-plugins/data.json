@@ -103,6 +103,9 @@
       },
       "various-complements": {
         "startupType": "long"
+      },
+      "modalforms": {
+        "startupType": "instant"
       }
     }
   }
