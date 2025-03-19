@@ -1,3 +1,3 @@
 ```dataviewjs
-dv.span(dv.fileLink(dv.page('Curse of Strahd').file.path))
+dv.list(dv.pages('#hazard').file.link)
 ```
