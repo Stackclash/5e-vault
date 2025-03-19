@@ -8,10 +8,6 @@ if (Array.isArray(images)) {
   carouselImageString = images
 }
 
-console.log(`${backticks}carousel
-images: ${carouselImageString}
-${backticks}`)
-
 dv.paragraph(`${backticks}carousel
 images: ${carouselImageString}
 ${backticks}`)

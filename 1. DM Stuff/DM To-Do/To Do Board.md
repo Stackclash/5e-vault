@@ -28,11 +28,6 @@ months:
 - [ ] [[Create flowchart of campaign]]
 - [ ] [[Insert travel times into Settlements template]]
 - [ ] [[AI templates for notes]]
-- [ ] Fill out info for CoS Region
-- [ ] Fill out info for CoS PoI
-- [ ] Fill out info for Cos Shops
-- [ ] Fill out info for CoS NPCs
-- [ ] Fill out info for CoS Groups
 - [ ] [[Create Groups Template]]
 - [ ] [[Create Event Template]]
 - [ ] Update PoI template to not include Ruler and other unrelated data
@@ -46,7 +41,6 @@ months:
 - [ ] Update NPC to get lines and fantasy dates from Session Logs where they were mentioned
 - [ ] [[Plan what info needs to be shown in built website.]]
 - [ ] [[Update proccess_5etools_files to handle decks]]
-- [ ] Replace Templater Suggesters with Forms
 
 
 ## Research
@@ -57,6 +51,7 @@ months:
 ## In Progress
 
 - [ ] [[Weather Generation]]
+- [ ] Replace Templater Suggesters with Forms
 
 
 ## Done
