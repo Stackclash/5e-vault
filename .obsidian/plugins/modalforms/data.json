@@ -29,6 +29,35 @@
         }
       ],
       "version": "1"
+    },
+    {
+      "title": "Test",
+      "name": "test",
+      "version": "1",
+      "fields": [
+        {
+          "name": "test",
+          "label": "zTest",
+          "description": "",
+          "input": {
+            "type": "select",
+            "allowUnknownValues": false,
+            "hidden": false,
+            "options": [
+              {
+                "value": "1",
+                "label": "1"
+              },
+              {
+                "value": "2",
+                "label": "2"
+              }
+            ],
+            "source": "fixed"
+          },
+          "isRequired": false
+        }
+      ]
     }
   ]
 }
