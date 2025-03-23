@@ -29,10 +29,6 @@ if (tp.config.run_mode !== 1) {
 
     // UPDATE THE PATH TO YOUR NPCs HERE!!!
     npcs = dv.pages('"4. World Almanac/NPCs"').filter(n => !currentNpcs.includes(n.file.name))
-    console.log(npcs.map(n => ({
-                        value: n.file.name,
-                        label: n.file.name
-                    })))
 
     const result = await modalForm.openForm({
         title: 'Add Relationship',
@@ -46,11 +42,11 @@ if (tp.config.run_mode !== 1) {
                     type: 'select',
                     allowUnknownValues: false,
                     hidden: false,
-                    source: 'fixed'
                     options: npcs.map(n => ({
                         value: n.file.name,
                         label: n.file.name
-                    }))
+                    })),
+                    source: 'fixed'
                 }
             },
             {
@@ -62,11 +58,11 @@ if (tp.config.run_mode !== 1) {
                     type: 'select',
                     allowUnknownValues: false,
                     hidden: false,
-                    source: 'fixed'
                     options: relationshipMapping.map(r => ({
                         value: r,
                         label: r.to
-                    }))
+                    })),
+                    source: 'fixed'
                 }
             }
         ]
