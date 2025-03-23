@@ -68,6 +68,7 @@ TBD
 > recenter: true  
 > ### If true, disables mouse scroll for zomming in and out of a map. Button controls still work.  
 > noScrollZoom: true  
+> draw: true
 > image:
 >   - [[Locations/Maps/Amber Temple 1.webp|Level 2]]
 >   - [[Locations/Maps/Amber Temple 2.webp|Level 1]]
