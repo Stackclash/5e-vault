@@ -3,7 +3,7 @@
     {
       "id": "AmberTemple",
       "locked": false,
-      "lastAccessed": 1742757314864,
+      "lastAccessed": 1742757428373,
       "markers": [
         {
           "id": "ID_fa6abafa383a",
@@ -200,40 +200,7 @@
         }
       ],
       "overlays": [],
-      "shapes": [
-        {
-          "type": "polyline",
-          "color": "#d61f1f",
-          "vertices": [
-            {
-              "lat": 53.72260512157677,
-              "lng": 109.14698098122825,
-              "id": "ID_8a0ac8f80849",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 70.42643826780214,
-              "lng": 86.14531240125527,
-              "id": "ID_4bd87a1aa8e8",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 62.636316810052804,
-              "lng": 72.4479905627842,
-              "id": "ID_280839cb18ba",
-              "targets": {
-                "vertexIds": []
-              }
-            }
-          ],
-          "arrows": false,
-          "reversed": false
-        }
-      ],
+      "shapes": [],
       "files": [
         "4. World Almanac/Places of Interest/The Amber Temple.md"
       ]
