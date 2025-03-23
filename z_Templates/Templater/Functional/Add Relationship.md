@@ -67,9 +67,7 @@ if (tp.config.run_mode !== 1) {
             }
         ]
     })
-    // const selectedNpc = await tp.system.suggester(npcs.map(n => n.file.name), npcs.map(p => p.file.name), false, "What NPC should be used for the relationship?")
-
-    // const selectedRelationship = await tp.system.suggester(relationshipMapping.map(r => r.to), relationshipMapping, false, `What relationship does ${selectedNpc} have to ${tp.config.active_file.basename}?`)
+    console.log(result)
 
     const { npc: selectedNpc, relationship: selectedRelationship } = result
 
