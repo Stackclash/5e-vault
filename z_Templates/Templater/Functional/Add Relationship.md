@@ -1,5 +1,6 @@
 <%*
 const dv = app.plugins.getPlugin("dataview").api
+const modalForm = app.plugins.getPlugin('modalforms').api
 
 // This is the mapping of relationships
 // The "to" key is used for the currently selected NPC
@@ -27,9 +28,52 @@ if (tp.config.run_mode !== 1) {
     const currentNpcs = tp.frontmatter.relationships && tp.frontmatter.relationships.map(r => r.split('|')[0]),
 
     // UPDATE THE PATH TO YOUR NPCs HERE!!!
-    npcs = dv.pages('"4. World Almanac/NPCs"').filter(n => !currentNpcs.includes(n.file.name)),
-    selectedNpc = await tp.system.suggester(npcs.map(n => n.file.name), npcs.map(p => p.file.name), false, "What NPC should be used for the relationship?"),
-    selectedRelationship = await tp.system.suggester(relationshipMapping.map(r => r.to), relationshipMapping, false, `What relationship does ${selectedNpc} have to ${tp.config.active_file.basename}?`)
+    npcs = dv.pages('"4. World Almanac/NPCs"').filter(n => !currentNpcs.includes(n.file.name))
+    console.log(npcs.map(n => ({
+                        value: n.file.name,
+                        label: n.file.name
+                    })))
+
+    const { npc: selectedNpc, relationship: selectedRelationship } = await modalForm.openForm({
+        title: 'Add Relationship',
+        fields: [
+            {
+                name: 'npc',
+                label: 'NPC',
+                description: 'What NPC should be used for the relationship?',
+                isRequired: true,
+                input: {
+                    type: 'select',
+                    allowUnknownValues: false,
+                    hidden: false,
+                    source: 'fixed'
+                    options: npcs.map(n => ({
+                        value: n.file.name,
+                        label: n.file.name
+                    }))
+                }
+            },
+            {
+                name: 'relationship',
+                label: 'Relationship',
+                description: `What relationship does the selected NPC have to ${tp.config.active_file.basename}?`,
+                isRequired: true,
+                input: {
+                    type: 'select',
+                    allowUnknownValues: false,
+                    hidden: false,
+                    source: 'fixed'
+                    options: relationshipMapping.map(r => ({
+                        value: r,
+                        label: r.to
+                    }))
+                }
+            }
+        ]
+    })
+    // const selectedNpc = await tp.system.suggester(npcs.map(n => n.file.name), npcs.map(p => p.file.name), false, "What NPC should be used for the relationship?")
+
+    // const selectedRelationship = await tp.system.suggester(relationshipMapping.map(r => r.to), relationshipMapping, false, `What relationship does ${selectedNpc} have to ${tp.config.active_file.basename}?`)
 
     // Get relationship for related NPC
     let otherSelectedRelationship
