@@ -2,8 +2,8 @@
   "mapMarkers": [
     {
       "id": "AmberTemple",
-      "locked": true,
-      "lastAccessed": 1720904171715,
+      "locked": false,
+      "lastAccessed": 1742756720514,
       "markers": [
         {
           "id": "ID_fa6abafa383a",
