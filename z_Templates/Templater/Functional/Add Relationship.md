@@ -53,7 +53,6 @@ if (tp.config.run_mode !== 1) {
                 name: 'relationship',
                 label: 'Relationship',
                 description: `What relationship does the selected NPC have to ${tp.config.active_file.basename}?`,
-                isRequired: true,
                 input: {
                     type: 'select',
                     allowUnknownValues: false,
@@ -67,9 +66,9 @@ if (tp.config.run_mode !== 1) {
             }
         ]
     })
-    console.log(result)
+    console.log(result.getData())
 
-    const { npc: selectedNpc, relationship: selectedRelationship } = result
+    const { npc: selectedNpc, relationship: selectedRelationship } = result.getData()
 
     // Get relationship for related NPC
     let otherSelectedRelationship
