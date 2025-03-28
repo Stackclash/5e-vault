@@ -112,6 +112,7 @@ function buildRelationshipArray(page, keys, relationships=[]) {
 }
 
 let keys = buildRelationshipKeys(input.current)[0]
+console.log('HERE', keys)
 // removes duplicates that may happen
 keys = keys.filter((key, i) => keys.findIndex(k => k.name === key.name) === i)
 
