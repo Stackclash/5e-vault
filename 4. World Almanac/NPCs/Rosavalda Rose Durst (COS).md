@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/rosavalda-rose-durst.webp
+  - 4. World Almanac/NPCs/img/Rosavalda Rose Durst.webp
 relationships: []
 aliases:
   - Rosavalda "Rose" Durst

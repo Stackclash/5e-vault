@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/rictavio.webp
+  - 4. World Almanac/NPCs/img/Rictavio.webp
 relationships: []
 aliases:
   - Rictavio

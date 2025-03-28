@@ -11,7 +11,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/emil-toranescu.webp
+  - 4. World Almanac/NPCs/img/Emil Toranescu.webp
 relationships: []
 aliases:
   - Emil Toranescu

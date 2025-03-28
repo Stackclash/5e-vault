@@ -11,7 +11,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/davian-martikov.webp
+  - 4. World Almanac/NPCs/img/Davian Martikov.webp
 relationships: []
 aliases:
   - Davian Martikov

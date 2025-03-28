@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/thornboldt-thorn-durst.webp
+  - 4. World Almanac/NPCs/img/Thornboldt Thorn Durst.webp
 relationships: []
 aliases:
   - Thornboldt "Thorn" Durst

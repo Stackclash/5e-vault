@@ -11,7 +11,7 @@ tags:
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/danika-dorakova.webp
+  - 4. World Almanac/NPCs/img/Danika Dorakova.webp
 relationships: []
 aliases:
   - Danika Dorakova

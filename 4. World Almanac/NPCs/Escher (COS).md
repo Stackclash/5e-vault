@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/escher.webp
+  - 4. World Almanac/NPCs/img/Escher.webp
 relationships: []
 aliases:
   - Escher

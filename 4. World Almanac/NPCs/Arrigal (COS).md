@@ -10,7 +10,7 @@ tags:
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/arrigal.webp
+  - 4. World Almanac/NPCs/img/Arrig(AL).webp
 relationships: []
 aliases:
   - Arrigal

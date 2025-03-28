@@ -164,12 +164,15 @@ const config = {
                 
                 for(const key of Object.keys(frontMatter)) {
 
-                    if (!['images', 'tags'].includes(key)) {
+                    if (!['tags'].includes(key)) {
                         if (typeof frontMatter[key] === 'string') {
                             if (regex.test(frontMatter[key])) {
                                 const extension = path.extname(frontMatter[key])
                                 const filePath = updateFilePath.process({relativePath: path.parse(path.relative(config.rootVaultPath, frontMatter[key])).dir})
-                                const fileName = updateFileName.process({fileName: path.parse(frontMatter[key]).name})
+                                let fileName = path.parse(frontMatter[key]).name
+                                if (!['.jpg', '.jpeg', '.png', '.webp'].includes(file.extension)) {
+                                    fileName = updateFileName.process({fileName})
+                                }
     
                                 frontMatter[key] = path.join(filePath, `${fileName}${extension}`)
                             }
@@ -178,7 +181,10 @@ const config = {
                                 if (regex.test(frontMatter[key][i])) {
                                     const extension = path.extname(frontMatter[key][i])
                                     const filePath = updateFilePath.process({relativePath: path.parse(path.relative(config.rootVaultPath, frontMatter[key][i])).dir})
-                                    const fileName = updateFileName.process({fileName: path.parse(frontMatter[key][i]).name})
+                                    let fileName = path.parse(frontMatter[key][i]).name
+                                    if (!['.jpg', '.jpeg', '.png', '.webp'].includes(file.extension)) {
+                                        fileName = updateFileName.process({fileName})
+                                    }
     
                                     frontMatter[key][i] = path.join(filePath, `${fileName}${extension}`)
                                 }

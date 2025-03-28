@@ -11,7 +11,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/zuleika-toranescu.webp
+  - 4. World Almanac/NPCs/img/Zuleika Toranescu.webp
 relationships: []
 aliases:
   - Zuleika Toranescu

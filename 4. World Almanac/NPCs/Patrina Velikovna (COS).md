@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/patrina-velikovna.webp
+  - 4. World Almanac/NPCs/img/Patrina Velikovna.webp
 relationships: []
 aliases:
   - Patrina Velikovna

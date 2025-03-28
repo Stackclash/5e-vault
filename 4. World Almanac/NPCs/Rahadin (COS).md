@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/rahadin.webp
+  - 4. World Almanac/NPCs/img/Rahadin.webp
 relationships: []
 aliases:
   - Rahadin

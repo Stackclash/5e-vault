@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/beucephalus.webp
+  - 4. World Almanac/NPCs/img/Beucephal(US).webp
 relationships: []
 aliases:
   - Beucephalus

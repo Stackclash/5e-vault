@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/luvash.webp
+  - 4. World Almanac/NPCs/img/Luvash.webp
 relationships: []
 aliases:
   - Luvash

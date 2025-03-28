@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/piccolo.webp
+  - 4. World Almanac/NPCs/img/Piccolo.webp
 relationships: []
 aliases:
   - Piccolo

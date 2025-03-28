@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/ireena-kolyana.webp
+  - 4. World Almanac/NPCs/img/Ireena Kolyana.webp
 relationships: []
 aliases:
   - Ireena Kolyana

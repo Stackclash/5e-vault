@@ -10,7 +10,7 @@ tags:
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/donavich.webp
+  - 4. World Almanac/NPCs/img/Donavich.webp
 relationships: []
 aliases:
   - Donavich

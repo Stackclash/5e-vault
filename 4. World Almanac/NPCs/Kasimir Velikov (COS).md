@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/kasimir-velikov.webp
+  - 4. World Almanac/NPCs/img/Kasimir Velikov.webp
 relationships: []
 aliases:
   - Kasimir Velikov

@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/005-cos02-02.webp
+  - 4. World Almanac/NPCs/img/005 Cos02 02.webp
 relationships: []
 aliases:
   - Victor Vallakovich

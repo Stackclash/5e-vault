@@ -11,7 +11,7 @@ tags:
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 images:
-  - compendium/bestiary/npc/img/brom-martikov.webp
+  - 4. World Almanac/NPCs/img/Brom Martikov.webp
 relationships: []
 aliases:
   - Brom Martikov
