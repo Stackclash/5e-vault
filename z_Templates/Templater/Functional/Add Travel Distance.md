@@ -23,11 +23,19 @@ if (tp.config.run_mode !== 1) {
                     })),
                     source: 'fixed'
                 }
+            },
+            {
+                name: 'distance',
+                label: 'Distance'
+                description: 'How far is the location in miles?',
+                isRequired: true,
+                input: {
+                    type: 'number'
+                }
             }
         ]
     })
-    const { location: selectedLocation } = result.getData()
-    const inputtedDistance = await tp.system.prompt('How far is the location in miles?',null,true)
+    const { location: selectedLocation, distance: inputtedDistance } = result.getData()
     app.fileManager.processFrontMatter(tp.config.active_file, (fm) => {
         const currentTravel = fm.travel
         fm.travel = [

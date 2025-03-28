@@ -33,16 +33,15 @@
     {
       "title": "Test",
       "name": "test",
-      "version": "1",
       "fields": [
         {
           "name": "test",
           "label": "zTest",
           "description": "",
+          "isRequired": true,
           "input": {
-            "type": "select",
-            "allowUnknownValues": false,
-            "hidden": false,
+            "type": "number",
+            "source": "fixed",
             "options": [
               {
                 "value": "1",
@@ -53,11 +52,11 @@
                 "label": "2"
               }
             ],
-            "source": "fixed"
-          },
-          "isRequired": false
+            "hidden": false
+          }
         }
-      ]
+      ],
+      "version": "1"
     }
   ]
 }
