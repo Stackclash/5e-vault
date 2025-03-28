@@ -41,17 +41,6 @@
           "isRequired": true,
           "input": {
             "type": "number",
-            "source": "fixed",
-            "options": [
-              {
-                "value": "1",
-                "label": "1"
-              },
-              {
-                "value": "2",
-                "label": "2"
-              }
-            ],
             "hidden": false
           }
         }

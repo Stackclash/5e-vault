@@ -4,7 +4,28 @@ const dv = app.plugins.getPlugin("dataview").api
 const locationConfig = dv.page('Configuration').locations
 
 let parties = dv.pages('#party')
-selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => `[[${p.file.path}|${p.file.name}]]`), false, "What party is the character a part of?")
+const result = await modalForm.openForm({
+    title: 'Add Travel Distance',
+    fields: [
+        {
+            name: 'party',
+            label: 'Party',
+            description: 'What party is the character a part of?',
+            isRequired: true,
+            input: {
+                type: 'select',
+                allowUnknownValues: false,
+                hidden: false,
+                options: parties.map(p => ({
+                    label: p.file.name
+                    value: `[[${p.file.path}|${p.file.name}]]`
+                })),
+                source: 'fixed'
+            }
+        }
+    ]
+})
+const { party: selectedParty } = result.getData()
 
 dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
 
