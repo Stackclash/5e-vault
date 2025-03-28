@@ -1,14 +1,12 @@
 <%*
 const path = require('path')
+const dv = app.plugins.getPlugin('dataview').api
 const locationConfig = dv.page('Configuration').locations
 
 if (tp.config.run_mode === 0) {
     let title = await tp.system.prompt("What is the name of the party?")
     await tp.file.rename(title)
 }
-
-let images = tp.user.get_all_files(path.join(app.vault.adapter.getBasePath(), "z_Assets"))
-let selectedImage = await tp.system.suggester(images, images, false, "PlaceholderImage.png")
 await tp.file.move(path.join(locationConfig.parties, tp.file.title))
 -%>
 ---
