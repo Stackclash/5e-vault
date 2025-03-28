@@ -8,29 +8,29 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
-images: 
+images: []
 relationships: []
 aliases:
   - Urwin Martikov
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Good
-occupation: 
-groups: 
-religions: 
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+occupation: null
+groups: []
+religions: []
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 partyRelationships: {}
-image:
+image: null
 ---
 
 > [!infobox]

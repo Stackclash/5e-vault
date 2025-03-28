@@ -11,7 +11,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Kiril Stoyanovich.webp
+  - compendium/bestiary/npc/img/kiril-stoyanovich.webp
 relationships: []
 aliases:
   - Kiril Stoyanovich

@@ -12,7 +12,7 @@ location: >-
   Saint Markovia]]
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Clovin Belview.webp
+  - compendium/bestiary/npc/img/clovin-belview.webp
 relationships: []
 aliases:
   - Clovin Belview

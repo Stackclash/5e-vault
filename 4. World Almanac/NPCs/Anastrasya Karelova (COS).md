@@ -10,7 +10,7 @@ tags:
 location: '[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]'
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Anastrasya Karelova.webp
+  - compendium/bestiary/npc/img/anastrasya-karelova.webp
 relationships: []
 aliases:
   - Anastrasya Karelova

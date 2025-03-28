@@ -8,28 +8,28 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Danika Dorakova.webp
+  - compendium/bestiary/npc/img/danika-dorakova.webp
 relationships: []
 aliases:
   - Danika Dorakova
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Good
 occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 partyRelationships: {}
 ---
 

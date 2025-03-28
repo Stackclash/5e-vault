@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Milivoj.webp
+  - compendium/bestiary/npc/img/milivoj.webp
 relationships: []
 aliases:
   - Milivoj

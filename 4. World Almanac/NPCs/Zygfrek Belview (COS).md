@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Zygfrek Belview.webp
+  - compendium/bestiary/npc/img/zygfrek-belview.webp
 relationships: []
 aliases:
   - Zygfrek Belview

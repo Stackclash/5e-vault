@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Baba Lysagas Creeping Hut.webp
+  - compendium/bestiary/npc/img/baba-lysagas-creeping-hut.webp
 relationships: []
 aliases:
   - Baba Lysaga's Creeping Hut

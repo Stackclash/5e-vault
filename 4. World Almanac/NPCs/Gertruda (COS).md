@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Gertruda.webp
+  - compendium/bestiary/npc/img/gertruda.webp
 relationships: []
 aliases:
   - Gertruda

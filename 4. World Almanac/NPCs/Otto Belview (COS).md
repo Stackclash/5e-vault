@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Otto Belview.webp
+  - compendium/bestiary/npc/img/otto-belview.webp
 relationships: []
 aliases:
   - Otto Belview

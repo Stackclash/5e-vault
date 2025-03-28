@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Doru.webp
+  - compendium/bestiary/npc/img/doru.webp
 relationships: []
 aliases:
   - Doru

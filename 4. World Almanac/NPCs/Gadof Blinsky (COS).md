@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Gadof Blinsky.webp
+  - compendium/bestiary/npc/img/gadof-blinsky.webp
 relationships: []
 aliases:
   - Gadof Blinsky

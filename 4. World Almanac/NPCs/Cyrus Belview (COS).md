@@ -12,7 +12,7 @@ location: >-
   Saint Markovia]]
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Cyrus Belview.webp
+  - compendium/bestiary/npc/img/cyrus-belview.webp
 relationships: []
 aliases:
   - Cyrus Belview

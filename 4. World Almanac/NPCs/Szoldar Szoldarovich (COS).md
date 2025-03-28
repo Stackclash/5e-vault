@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/052 Cos05 05.webp
+  - compendium/bestiary/npc/img/052-cos05-05.webp
 relationships: []
 aliases:
   - Szoldar Szoldarovich
