@@ -11,8 +11,8 @@ tags:
 location: "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Baba Lysaga.webp
-relationships: []
+  - 4. World Almanac/NPCs/img/baba-lysaga.webp
+relationships: 
 aliases:
   - Baba Lysaga
 pronounced: BAH-bah LEE-sah-gah
@@ -21,8 +21,8 @@ gender: female
 age: 532
 alignment: Chaotic Evil
 occupation: 
-groups: []
-religions: []
+groups: 
+religions: 
 personality: Mad, obsessed, powerful
 ideal: No love is greater than a mother's love for her son.
 bond: I am the mother of Strahd. Anyone who disputes this fact can rot.
@@ -229,7 +229,3 @@ TBD
 
 
 ### General Notes
-
-```carousel
-image
-```
