@@ -10,18 +10,18 @@ tags:
   - monster/type/humanoid/shapechanger
 location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 condition: healthy
-images: []
-relationships: []
+images: 
+relationships: 
 aliases:
   - Urwin Martikov
 pronounced: 
 race: 
-gender: male
+gender: 
 age: 
 alignment: Lawful Good
-occupation: []
-groups: []
-religions: []
+occupation: 
+groups: 
+religions: 
 personality: 
 ideal: 
 bond: 
@@ -30,7 +30,7 @@ goals:
 likes: 
 dislikes: 
 partyRelationships: {}
-image: 
+image:
 ---
 
 > [!infobox]

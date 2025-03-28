@@ -96,10 +96,8 @@ label: Add Relationship
 id: add-relationship
 hidden: true
 actions:
-  - type: command
-    command: templater-obsidian:insert-templater
-  - type: input
-    str: "Add Relationship"
+  - type: runTemplaterFile
+    templateFile: "z_Templates/Templater/Functional/Add Relationship.md"
 ```
 ```meta-bind-button
 style: destructive
@@ -107,10 +105,8 @@ label: Remove Relationship
 id: remove-relationship
 hidden: true
 actions:
-  - type: command
-    command: templater-obsidian:insert-templater
-  - type: input
-    str: "Remove Relationship"
+  - type: runTemplaterFile
+    templateFile: "z_Templates/Templater/Functional/Remove Relationship.md"
 ```
 > [!div | no-t clean txt-c]
 > `$=await dv.view("npcRelationships", { current: dv.current() })`
