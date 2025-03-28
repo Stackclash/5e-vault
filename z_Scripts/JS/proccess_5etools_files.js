@@ -164,7 +164,7 @@ const config = {
                 
                 for(const key of Object.keys(frontMatter)) {
 
-                    if (key !== 'tags') {
+                    if (['tags'].includes(key)) {
                         if (typeof frontMatter[key] === 'string') {
                             if (regex.test(frontMatter[key])) {
                                 const extension = path.extname(frontMatter[key])
