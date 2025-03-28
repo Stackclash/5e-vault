@@ -72,7 +72,28 @@ if (typeof selectedRelationship.from === 'object' && !Array.isArray(selectedRela
     if (tp.frontmatter.gender) {
         otherSelectedRelationship = selectedRelationship.from[tp.frontmatter.gender]
     } else {
-        otherSelectedRelationship = await tp.system.suggester(Object.values(selectedRelationship.from), Object.values(selectedRelationship.from), false, `What relationship does ${tp.config.active_file.basename} have to ${selectedNpc}?`)
+        const result = await modalForm.openForm({
+            title: 'Add Relationship',
+            fields: [
+                {
+                    name: 'relationship',
+                    label: 'Relationship',
+                    description: `What relationship does ${tp.config.active_file.basename} have to ${selectedNpc}?`,
+                    isRequired: true,
+                    input: {
+                        type: 'select',
+                        allowUnknownValues: false,
+                        hidden: false,
+                        options: Object.values(selectedRelationship.from).map(v => ({
+                            value: v,
+                            label: v
+                        })),
+                        source: 'fixed'
+                    }
+                }
+            ]
+        })
+        const { relationship: otherSelectedRelationship } = result.getData()
     }
 } else {
     otherSelectedRelationship = selectedRelationship.from
