@@ -4,7 +4,21 @@ const dv = app.plugins.getPlugin('dataview').api
 const locationConfig = dv.page('Configuration').locations
 
 if (tp.config.run_mode === 0) {
-    let title = await tp.system.prompt("What is the name of the party?")
+    const result = await modalForm.openForm({
+        title: 'Adventuring Party',
+        fields: [
+            {
+                name: 'party',
+                label: 'Party Name',
+                description: 'What is the name of the party?',
+                isRequired: true,
+                input: {
+                    type: 'text'
+                }
+            }
+        ]
+    })
+    const { party: title } = result.getData()
     await tp.file.rename(title)
 }
 await tp.file.move(path.join(locationConfig.parties, tp.file.title))

@@ -11,7 +11,7 @@ if (tp.config.run_mode !== 1) {
             {
                 name: 'location',
                 label: 'Location',
-                description: 'What location would you like to remove?,
+                description: 'What location would you like to remove?',
                 isRequired: true,
                 input: {
                     type: 'select',
