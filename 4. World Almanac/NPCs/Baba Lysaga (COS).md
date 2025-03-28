@@ -8,7 +8,7 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
+location: "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/Baba Lysaga.webp
@@ -16,23 +16,21 @@ relationships: []
 aliases:
   - Baba Lysaga
 pronounced: BAH-bah LEE-sah-gah
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: female
 age: 532
 alignment: Chaotic Evil
-occupation: null
+occupation: 
 groups: []
 religions: []
-personality: 'Mad, obsessed, powerful'
+personality: Mad, obsessed, powerful
 ideal: No love is greater than a mother's love for her son.
 bond: I am the mother of Strahd. Anyone who disputes this fact can rot.
-flaw: >-
-  I will not rest until the last of my son's enemies are destroyed. Her
-  obsession with Strahd blinds her to other threats
+flaw: I will not rest until the last of my son's enemies are destroyed. Her obsession with Strahd blinds her to other threats
 goals:
-  - ' To aid Strahd, to destroy his enemies, to gain more arcane power'
-likes: 'Magic, Strahd, her creeping hut'
-dislikes: 'Intruders in Berez, those who oppose Strahd, the light'
+  - " To aid Strahd, to destroy his enemies, to gain more arcane power"
+likes: Magic, Strahd, her creeping hut
+dislikes: Intruders in Berez, those who oppose Strahd, the light
 partyRelationships: {}
 ---
 

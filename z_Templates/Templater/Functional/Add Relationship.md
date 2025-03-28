@@ -66,7 +66,6 @@ if (tp.config.run_mode !== 1) {
             }
         ]
     })
-    console.log(result.getData())
 
     const { npc: selectedNpc, relationship: selectedRelationship } = result.getData()
 

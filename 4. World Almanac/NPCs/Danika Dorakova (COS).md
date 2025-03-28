@@ -12,8 +12,7 @@ location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/Danika Dorakova.webp
-relationships:
-  - Urwin Martikov (COS)|husband
+relationships: []
 aliases:
   - Danika Dorakova
 pronounced: 
