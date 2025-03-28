@@ -8,8 +8,6 @@ if (Array.isArray(images)) {
   carouselImageString = images
 }
 
-if (carouselImageString.length > 0) {
-  dv.paragraph(`${backticks}carousel
-  images: ${carouselImageString}
-  ${backticks}`)
-}
+dv.paragraph(`${backticks}carousel
+images: ${carouselImageString}
+${backticks}`)
