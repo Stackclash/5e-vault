@@ -13,7 +13,7 @@ const getConfig = () => {
 
 export const getActiveParty = () => {
     const config = getConfig()
-    return dv.page(config.active_party)
+    return dv.page(`"${config.active_party}"`)
 }
 
 export const getActiveWorld = () => {
