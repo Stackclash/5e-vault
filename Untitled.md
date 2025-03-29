@@ -1,5 +1,7 @@
 ```dataviewjs
-const {getActiveParty} = await self.require.import('z_Scripts/Common/getConfig.ts')
+const {getActiveParty, getActiveWorld, getFileLocations} = await self.require.import('z_Scripts/Common/getConfig.ts')
 const activeParty = getActiveParty()
-console.log(activeParty)
+const activeWorld = getActiveWorld()
+const fileLocations = getFileLocations()
+console.log(activeParty, activeWorld, fileLocations)
 ```

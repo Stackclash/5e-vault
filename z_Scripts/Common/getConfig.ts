@@ -2,6 +2,7 @@
 const path = await self.require.import('path')
 const fs = await self.require.import('fs')
 const matter = await self.require.import('https://esm.sh/gray-matter')
+const { getNameFromWikiLink } = await self.require('./utils.ts')
 
 const dv = app.plugins.getPlugin('dataview').api
 
@@ -13,10 +14,15 @@ const getConfig = () => {
 
 export const getActiveParty = () => {
     const config = getConfig()
-    return dv.page(`"${config.active_party}"`)
+    return dv.page(`${getNameFromWikiLink(config.active_party)}`)
 }
 
 export const getActiveWorld = () => {
     const config = getConfig()
-    return config.active_world
+    return dv.page(`${getNameFromWikiLink(config.active_world)}`)
+}
+
+export const getFileLocations = () => {
+    const config = getConfig()
+    return config.locations
 }
