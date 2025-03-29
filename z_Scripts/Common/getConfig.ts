@@ -1,3 +1,8 @@
 // { "language": "TypeScript" }
 
-console.log(app)
+const main = () => {
+    console.log(app)
+    return 1
+}
+
+export default main
