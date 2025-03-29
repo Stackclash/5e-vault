@@ -14,12 +14,12 @@ const getConfig = () => {
 
 export const getActiveParty = () => {
     const config = getConfig()
-    return dv.page(`${getNameFromWikiLink(config.active_party)}`)
+    return dv.page(getNameFromWikiLink(config.active_party))
 }
 
 export const getActiveWorld = () => {
     const config = getConfig()
-    return dv.page(`${getNameFromWikiLink(config.active_world)}`)
+    return dv.page(getNameFromWikiLink(config.active_world))
 }
 
 export const getFileLocations = () => {
