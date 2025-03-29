@@ -41,6 +41,7 @@ months:
 - [ ] Update NPC to get lines and fantasy dates from Session Logs where they were mentioned
 - [ ] [[Plan what info needs to be shown in built website.]]
 - [ ] [[Update proccess_5etools_files to handle decks]]
+- [ ] [[Refactor vault code]]
 
 
 ## Research
