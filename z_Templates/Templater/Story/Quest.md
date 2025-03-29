@@ -1,12 +1,40 @@
 <%*
-let parties = dv.pages("#party")
-let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties, false, "What party is this Session for?")
+const modalForm = app.plugins.getPlugin('modalforms').api
 
-await tp.file.move(`4. World Almanac/Quests/` + tp.file.title)
-if (tp.config.run_mode === 0) {
-    let title = await tp.system.prompt("What is the name of the quest?")
-    await tp.file.rename(title)
-}
+let parties = dv.pages("#party")
+const result = await modalForm.openForm({
+    title: 'Quest',
+    fields: [
+        {
+          name: 'name',
+          label: 'Quest Name',
+          description: 'What is the name of the Quest?',
+          isRequired: true,
+          input: {
+            type: 'text'
+          }
+        },
+        {
+            name: 'party',
+            label: 'Party',
+            description: 'What party is this Session for?',
+            isRequired: true,
+            input: {
+                type: 'select',
+                allowUnknownValues: false,
+                hidden: false,
+                options: parties.map(p => ({
+                  label: p.file.name,
+                  value: p
+                })),
+                source: 'fixed'
+            }
+        }
+    ]
+})
+const { name: title, party: selectedParty } = result.getData()
+
+await tp.file.move(`4. World Almanac/Quests/` + title)
 -%>
 ---
 obsidianUIMode: preview
