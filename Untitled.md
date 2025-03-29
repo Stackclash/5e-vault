@@ -1,4 +1,5 @@
 ```dataviewjs
-const main = await self.require.import('z_Scripts/Common/getConfig.ts')
-main.default()
+const {getActiveParty} = await self.require.import('z_Scripts/Common/getConfig.ts')
+const activeParty = getActiveParty()
+console.log(activeParty)
 ```
