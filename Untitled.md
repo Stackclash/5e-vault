@@ -1,3 +1,3 @@
 ```dataviewjs
-dv.list(dv.pages('#hazard').file.link)
+self.require('z_Scripts/getConfig.ts')
 ```
