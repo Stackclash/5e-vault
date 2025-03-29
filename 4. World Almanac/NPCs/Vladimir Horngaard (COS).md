@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Vladimir Horngaard.webp
+  - 4. World Almanac/NPCs/img/vladimir-horngaard.webp
 relationships: []
 aliases:
   - Vladimir Horngaard

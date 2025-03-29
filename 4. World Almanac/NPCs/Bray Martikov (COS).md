@@ -11,7 +11,7 @@ tags:
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Bray Martikov.webp
+  - 4. World Almanac/NPCs/img/bray-martikov.webp
 relationships: []
 aliases:
   - Bray Martikov

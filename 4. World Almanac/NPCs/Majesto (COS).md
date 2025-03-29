@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/060 Cos05 11.webp
+  - 4. World Almanac/NPCs/img/060-cos05-11.webp
 relationships: []
 aliases:
   - Majesto

@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/016 Cos03 04.webp
+  - 4. World Almanac/NPCs/img/016-cos03-04.webp
 relationships: []
 aliases:
   - Mad Mary

@@ -11,7 +11,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Zuleika Toranescu.webp
+  - 4. World Almanac/NPCs/img/zuleika-toranescu.webp
 relationships: []
 aliases:
   - Zuleika Toranescu

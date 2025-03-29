@@ -12,7 +12,7 @@ location: >-
   Tower]]
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/Ezmerelda Davenir.webp
+  - 4. World Almanac/NPCs/img/ezmerelda-davenir.webp
 relationships: []
 aliases:
   - Ezmerelda d'Avenir
