@@ -161,7 +161,6 @@ const config = {
 
                 const frontMatter = file.frontMatter
                 const regex = /[\w\s\d\/\\\.\-%\d]+[\/\\]+[\w\s\d\/\\\.\-%\d]+#{0,1}\^{0,1}[\-\w%]*\s{0,1}"{0,1}[A-zÀ-ú\w\d\s:&,'\.\(\)\-]*?"{0,1}/
-                
                 for(const key of Object.keys(frontMatter)) {
 
                     if (!['tags'].includes(key)) {
@@ -170,7 +169,8 @@ const config = {
                                 const extension = path.extname(frontMatter[key])
                                 const filePath = updateFilePath.process({relativePath: path.parse(path.relative(config.rootVaultPath, frontMatter[key])).dir})
                                 let fileName = path.parse(frontMatter[key]).name
-                                if (!['.jpg', '.jpeg', '.png', '.webp'].includes(file.extension)) {
+
+                                if (!['.jpg', '.jpeg', '.png', '.webp'].includes(extension)) {
                                     fileName = updateFileName.process({fileName})
                                 }
     
@@ -182,7 +182,8 @@ const config = {
                                     const extension = path.extname(frontMatter[key][i])
                                     const filePath = updateFilePath.process({relativePath: path.parse(path.relative(config.rootVaultPath, frontMatter[key][i])).dir})
                                     let fileName = path.parse(frontMatter[key][i]).name
-                                    if (!['.jpg', '.jpeg', '.png', '.webp'].includes(file.extension)) {
+                                    
+                                    if (!['.jpg', '.jpeg', '.png', '.webp'].includes(extension)) {
                                         fileName = updateFileName.process({fileName})
                                     }
     
@@ -343,7 +344,6 @@ function processAllRules(file, index) {
             }
         }
     })
-
     return
 }
 
