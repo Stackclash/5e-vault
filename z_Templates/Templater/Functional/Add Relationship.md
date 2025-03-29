@@ -1,7 +1,6 @@
 <%*
 const dv = app.plugins.getPlugin("dataview").api
 const modalForm = app.plugins.getPlugin('modalforms').api
-console.log('HELLO', tp.config.run_mode)
 
 // This is the mapping of relationships
 // The "to" key is used for the currently selected NPC
