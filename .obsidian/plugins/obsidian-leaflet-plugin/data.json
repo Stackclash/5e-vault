@@ -240,7 +240,7 @@
     },
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1743454168537,
+      "lastAccessed": 1743454456287,
       "markers": [],
       "overlays": [],
       "shapes": [
@@ -260,30 +260,6 @@
               "lat": 1594.1943352719836,
               "lng": 1837.054665719704,
               "id": "ID_882a88e86848",
-              "targets": {
-                "vertexIds": []
-              }
-            }
-          ],
-          "arrows": false,
-          "reversed": false
-        },
-        {
-          "type": "polyline",
-          "color": "#3388FF",
-          "vertices": [
-            {
-              "lat": 2294.96875,
-              "lng": 1049.4603304790962,
-              "id": "ID_5bdadaab4b29",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 2208.96875,
-              "lng": 1131.4719880143916,
-              "id": "ID_9bebda2b0b3b",
               "targets": {
                 "vertexIds": []
               }
@@ -533,57 +509,55 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": "false",
-    "defaultZoom": 6,
+    "defaultZoom": -1,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
     "geojsonColor": "#3388ff",
     "gpx": [],
     "gpxColor": "#3388ff",
-    "height": "700px",
-    "image": "[[Barovia.jpg]]",
+    "height": "750px",
+    "image": "[[z_Assets/Locations/Maps/Castle Ravenloft Courtyard.webp]]",
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "[[Barovia.jpg]]"
+      "[[z_Assets/Locations/Maps/Castle Ravenloft Courtyard.webp]]"
     ],
     "linksFrom": [],
     "linksTo": [],
-    "marker": [
-      "village, -10.94, 21.83, [[Village of Barovia]]"
-    ],
+    "marker": [],
     "commandMarker": [],
     "markerFile": [],
     "markerFolder": [],
     "markerTag": [],
-    "maxZoom": 8.5,
-    "minZoom": 6,
+    "maxZoom": 1.5,
+    "minZoom": -2.5,
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
-    "scale": 1,
+    "scale": 0.22903019978834843,
     "showAllMarkers": false,
     "tileServer": [],
     "verbose": false,
     "zoomDelta": 0.5,
     "zoomFeatures": false,
-    "id": "Barovia",
-    "lock": true,
-    "recenter": true,
-    "width": "95%",
+    "id": "MapCalcExample",
     "bounds": [
       [
         0,
         0
       ],
       [
-        11.68,
-        18.21
+        5211,
+        3840
       ]
     ],
-    "lat": 5.84,
-    "long": 9.1,
-    "unit": "miles",
+    "width": "95%",
+    "lat": 2605.5,
+    "long": 1920,
+    "unit": "ft",
+    "recenter": false,
+    "darkmode": false,
     "filterTag": []
   },
   "enableDraw": true,

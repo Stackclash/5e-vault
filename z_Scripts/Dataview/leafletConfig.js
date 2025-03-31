@@ -15,6 +15,7 @@ const readStream = createReadStream(path.join(app.vault.adapter.getBasePath(), c
 const { height: imageHeight, width: imageWidth } = await imageDimensionsFromStream(readStream)
 
 const mapShapes = leafletConfig.mapMarkers.find(m => m.id === 'MapCalcExample').shapes
+console.log(mapShapes)
 if (mapShapes.length === 0 || mapShapes.length > 1) {
     error = 'Multiple or no map shapes found'
 }
@@ -52,6 +53,7 @@ dv.paragraph(`${backticks}leaflet
 ${leafletMapConfig}
 ${backticks}`)
 
+console.log(error)
 if (error) dv.span('**ERROR:** ' + error)
 
 dv.paragraph(`${backticks}
