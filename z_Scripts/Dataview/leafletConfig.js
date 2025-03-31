@@ -26,9 +26,11 @@ if (point1 && point2) {
     const distance = calcDistance(point1.lng, point1.lat, point2.lng, point2.lat)
     scale = 1/(distance/currentPage.unitCount)
 }
-console.log(imageWidth, imageHeight)
 
 console.log('Distance:', calcDistance(point1.lng, point1.lat, point2.lng, point2.lat))
+console.log(currentPage.unitCount)
+console.log(calcDistance(point1.lng, point1.lat, point2.lng, point2.lat)/currentPage.unitCount)
+console.log(1/(calcDistance(point1.lng, point1.lat, point2.lng, point2.lat)/currentPage.unitCount))
 
 const leafletMapConfig = `id: MapCalcExample ### Must be unique with no spaces  
 image: [[${currentPage.image}]] ### Link to the map image file. Do not add a ! in front of the image  
@@ -42,7 +44,7 @@ maxZoom: ${currentPage.maxZoom} ### Controls how far towards the map you can zoo
 defaultZoom: ${currentPage.defaultZoom} ### Sets the default zoom level when the map loads. Hover over the target icon to see the current level.  
 zoomDelta: ${currentPage.zoomDelta} ### Adjust how much the zoom changes when you zoom in or out.  
 unit: ${currentPage.unit} ### The value displayed when measuring so you know what type of unit is being measure.  
-scale: ${scale+50} ### Real units/px (resolution) of your map  
+scale: ${scale} ### Real units/px (resolution) of your map  
 recenter: false  
 darkmode: false ### marker`
 
