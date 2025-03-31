@@ -1,4 +1,111 @@
 /**
+ * @public
+ */
+export interface DataWriteOptions {
+    /**
+     * Time of creation, represented as a unix timestamp, in milliseconds.
+     * Omit this if you want to keep the default behaviour.
+     * @public
+     * */
+    ctime?: number;
+    /**
+     * Time of last modification, represented as a unix timestamp, in milliseconds.
+     * Omit this if you want to keep the default behaviour.
+     * @public
+     */
+    mtime?: number;
+
+}
+
+/**
+ * Manage the creation, deletion and renaming of files from the UI.
+ * @public
+ */
+export class FileManager {
+
+    /**
+     * Gets the folder that new files should be saved to, given the user's preferences.
+     * @param sourcePath - The path to the current open/focused file,
+     * used when the user wants new files to be created 'in the same folder'.
+     * Use an empty string if there is no active file.
+     * @param newFilePath - The path to the file that will be newly created,
+     * used to infer what settings to use based on the path's extension.
+     * @public
+     */
+    getNewFileParent(sourcePath: string, newFilePath?: string): TFolder;
+
+    /**
+     * Rename or move a file safely, and update all links to it depending on the user's preferences.
+     * @param file - the file to rename
+     * @param newPath - the new path for the file
+     * @public
+     */
+    renameFile(file: TAbstractFile, newPath: string): Promise<void>;
+
+    /**
+     * Remove a file or a folder from the vault according the user's preferred 'trash'
+     * options (either moving the file to .trash/ or the OS trash bin).
+     * @param file
+     * @public
+     */
+    trashFile(file: TAbstractFile): Promise<void>;
+
+    /**
+     * Generate a Markdown link based on the user's preferences.
+     * @param file - the file to link to.
+     * @param sourcePath - where the link is stored in, used to compute relative links.
+     * @param subpath - A subpath, starting with `#`, used for linking to headings or blocks.
+     * @param alias - The display text if it's to be different than the file name. Pass empty string to use file name.
+     * @public
+     */
+    generateMarkdownLink(file: TFile, sourcePath: string, subpath?: string, alias?: string): string;
+
+    /**
+     * Atomically read, modify, and save the frontmatter of a note.
+     * The frontmatter is passed in as a JS object, and should be mutated directly to achieve the desired result.
+     *
+     * Remember to handle errors thrown by this method.
+     *
+     * @param file - the file to be modified. Must be a Markdown file.
+     * @param fn - a callback function which mutates the frontmatter object synchronously.
+     * @param options - write options.
+     * @throws YAMLParseError if the YAML parsing fails
+     * @throws any errors that your callback function throws
+     * @example
+     * ```ts
+     * app.fileManager.processFrontMatter(file, (frontmatter) => {
+     *     frontmatter['key1'] = value;
+     *     delete frontmatter['key2'];
+     * });
+     * ```
+     * @public
+     */
+    processFrontMatter(file: TFile, fn: (frontmatter: any) => void, options?: DataWriteOptions): Promise<void>;
+
+    /**
+     * Resolves a unique path for the attachment file being saved.
+     * Ensures that the parent directory exists and dedupes the
+     * filename if the destination filename already exists.
+     *
+     * @param filename Name of the attachment being saved
+     * @param sourcePath The path to the note associated with this attachment, defaults to the workspace's active file.
+     * @returns Full path for where the attachment should be saved, according to the user's settings
+     * @public
+     */
+    getAvailablePathForAttachment(filename: string, sourcePath?: string): Promise<string>;
+}
+
+/**
+ * @public
+ */
+export interface ListedFiles {
+    /** @public */
+    files: string[];
+    /** @public */
+    folders: string[];
+}
+
+/**
  * Work directly with files and folders inside a vault.
  * If possible prefer using the {@link Vault} API over this.
  * @public
@@ -19,12 +126,6 @@ export interface DataAdapter {
      */
     exists(normalizedPath: string, sensitive?: boolean): Promise<boolean>;
     /**
-     * Retrieve metadata about the given file/folder.
-     * @param normalizedPath - path to file/folder, use {@link normalizePath} to normalize beforehand.
-     * @public
-     */
-    stat(normalizedPath: string): Promise<Stat | null>;
-    /**
      * Retrieve a list of all files and folders inside the given folder, non-recursive.
      * @param normalizedPath - path to folder, use {@link normalizePath} to normalize beforehand.
      * @public
@@ -40,41 +141,6 @@ export interface DataAdapter {
      * @public
      */
     readBinary(normalizedPath: string): Promise<ArrayBuffer>;
-    /**
-     * Write to a plaintext file.
-     * If the file exists its content will be overwritten, otherwise the file will be created.
-     * @param normalizedPath - path to file, use {@link normalizePath} to normalize beforehand.
-     * @param data - new file content
-     * @param options - (Optional)
-     * @public
-     */
-    write(normalizedPath: string, data: string, options?: DataWriteOptions): Promise<void>;
-    /**
-     * Write to a binary file.
-     * If the file exists its content will be overwritten, otherwise the file will be created.
-     * @param normalizedPath - path to file, use {@link normalizePath} to normalize beforehand.
-     * @param data - the new file content
-     * @param options - (Optional)
-     * @public
-     */
-    writeBinary(normalizedPath: string, data: ArrayBuffer, options?: DataWriteOptions): Promise<void>;
-    /**
-     * Add text to the end of a plaintext file.
-     * @param normalizedPath - path to file, use {@link normalizePath} to normalize beforehand.
-     * @param data - the text to append.
-     * @param options - (Optional)
-     * @public
-     */
-    append(normalizedPath: string, data: string, options?: DataWriteOptions): Promise<void>;
-    /**
-     * Atomically read, modify, and save the contents of a plaintext file.
-     * @param normalizedPath - path to file/folder, use {@link normalizePath} to normalize beforehand.
-     * @param fn - a callback function which returns the new content of the file synchronously.
-     * @param options - write options.
-     * @returns string - the text value of the file that was written.
-     * @public
-     */
-    process(normalizedPath: string, fn: (data: string) => string, options?: DataWriteOptions): Promise<string>;
     /**
      * Returns an URI for the browser engine to use, for example to embed an image.
      * @param normalizedPath - path to file/folder, use {@link normalizePath} to normalize beforehand.
@@ -188,23 +254,6 @@ export class Vault {
     getRoot(): TFolder;
 
     /**
-     * Create a new plaintext file inside the vault.
-     * @param path - Vault absolute path for the new file, with extension.
-     * @param data - text content for the new file.
-     * @param options - (Optional)
-     * @public
-     */
-    create(path: string, data: string, options?: DataWriteOptions): Promise<TFile>;
-    /**
-     * Create a new binary file inside the vault.
-     * @param path - Vault absolute path for the new file, with extension.
-     * @param data - content for the new file.
-     * @param options - (Optional)
-     * @throws Error if file already exists
-     * @public
-     */
-    createBinary(path: string, data: ArrayBuffer, options?: DataWriteOptions): Promise<TFile>;
-    /**
      * Create a new folder inside the vault.
      * @param path - Vault absolute path for the new folder.
      * @throws Error if folder already exists
@@ -259,45 +308,6 @@ export class Vault {
      */
     rename(file: TAbstractFile, newPath: string): Promise<void>;
     /**
-     * Modify the contents of a plaintext file.
-     * @param file - The file
-     * @param data - The new file content
-     * @param options - (Optional)
-     * @public
-     */
-    modify(file: TFile, data: string, options?: DataWriteOptions): Promise<void>;
-    /**
-     * Modify the contents of a binary file.
-     * @param file - The file
-     * @param data - The new file content
-     * @param options - (Optional)
-     * @public
-     */
-    modifyBinary(file: TFile, data: ArrayBuffer, options?: DataWriteOptions): Promise<void>;
-    /**
-     * Add text to the end of a plaintext file inside the vault.
-     * @param file - The file
-     * @param data - the text to add
-     * @param options - (Optional)
-     * @public
-     */
-    append(file: TFile, data: string, options?: DataWriteOptions): Promise<void>;
-    /**
-     * Atomically read, modify, and save the contents of a note.
-     * @param file - the file to be read and modified.
-     * @param fn - a callback function which returns the new content of the note synchronously.
-     * @param options - write options.
-     * @returns string - the text value of the note that was written.
-     * @example
-     * ```ts
-     * app.vault.process(file, (data) => {
-     *  return data.replace('Hello', 'World');
-     * });
-     * ```
-     * @public
-     */
-    process(file: TFile, fn: (data: string) => string, options?: DataWriteOptions): Promise<string>;
-    /**
      * Create a copy of a file or folder.
      * @param file - The file or folder.
      * @param newPath - Vault absolute path for the new copy.
@@ -330,30 +340,6 @@ export class Vault {
      * @public
      */
     getFiles(): TFile[];
-
-    /**
-     * Called when a file is created.
-     * This is also called when the vault is first loaded for each existing file
-     * If you do not wish to receive create events on vault load, register your event handler inside {@link Workspace.onLayoutReady}.
-     * @public
-     */
-    on(name: 'create', callback: (file: TAbstractFile) => any, ctx?: any): EventRef;
-    /**
-     * Called when a file is modified.
-     * @public
-     */
-    on(name: 'modify', callback: (file: TAbstractFile) => any, ctx?: any): EventRef;
-    /**
-     * Called when a file is deleted.
-     * @public
-     */
-    on(name: 'delete', callback: (file: TAbstractFile) => any, ctx?: any): EventRef;
-    /**
-     * Called when a file is renamed.
-     * @public
-     */
-    on(name: 'rename', callback: (file: TAbstractFile, oldPath: string) => any, ctx?: any): EventRef;
-
 }
 
 /**
@@ -462,3 +448,15 @@ export class App {
     /** @public */
     fileManager: FileManager;
 }
+
+type Require = (path: string) => any
+
+type Import = (path: string) => Promise<any>
+
+export class Self {
+    require: Require & { import: Import }
+}
+
+declare var self: Self;
+
+declare var app: App;
