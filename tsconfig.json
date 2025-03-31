@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "target": "ES5",
+    "module": "CommonJS",
+    "sourceMap": true,
+    "allowJs": true
+  },
+  "files": ["global.d.ts"]
+}
