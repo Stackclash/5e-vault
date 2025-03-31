@@ -67,8 +67,13 @@ TBD
 > ### If true, disables mouse scroll for zomming in and out of a map. Button controls still work.  
 > noScrollZoom: true  
 > image:
->   - [[Castle Ravenloft Courtyard.webp]]
->   - 
+>   - [[Caste Ravenloft Main Floor.webp|Main Floor]]
+>   - [[Castle Ravenloft Courtyard.webp|Courtyard]]
+>   - [[Castle Ravenloft 2nd Floor.webp|2nd Floor]]
+>   - [[Castle Raventloft 3rd Floor.webp|3rd Floor]]
+>   - [[Castle Ravenloft 4th Floor.webp|4th Floor]]
+>   - [[Castle Ravenloft Basement 1.webp|Basement 1]]
+>   - [[Castle Ravenloft Basement 2.webp|Basement 2]]
 > ### Map Pixel Height x 1 / (Pixels between Bar Scale / 100)  
 > ### Map Pixel Width x 1 / (Pixels between Bar Scale / 100)  
 > ### Note that this formula requires adjustments depending on your map. The idea is to determine the number of units between your bar scale. We divide by 100 here because my bar scale measures in 100 units. If your maps scale bar measures in units of 50 them you should divide by 50 instead. The idea is to calculate how many pixels are equal to 1 unit.  
