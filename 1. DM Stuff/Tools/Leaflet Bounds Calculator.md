@@ -1,5 +1,5 @@
 ---
-image: z_Assets/Locations/Maps/Tsolenka Pass.webp
+image: z_Assets/Locations/Maps/Castle Ravenloft Courtyard.webp
 distance_measure: 69
 units: 100
 actual_units_distance: 0
