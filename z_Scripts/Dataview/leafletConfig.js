@@ -14,7 +14,8 @@ let scale = .1
 if (mapShape) {
     scale = 1/(Math.abs(mapShape.vertices[1].lng - mapShape.vertices[0].lng)/currentPage.unitCount)
 }
-console.log(scale)
+console.log(Math.abs(mapShape.vertices[1].lng - mapShape.vertices[0].lng))
+console.log(currentPage.unitCount)
 
 
 const leafletMapConfig = `id: MapCalcExample ### Must be unique with no spaces  

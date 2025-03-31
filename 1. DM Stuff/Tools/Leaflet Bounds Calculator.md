@@ -4,7 +4,7 @@ defaultZoom: -1
 minZoom: -2.5
 maxZoom: 1.5
 unit: ft
-unitCount: 10
+unitCount: 20
 ---
 
 > [!infobox|right]
