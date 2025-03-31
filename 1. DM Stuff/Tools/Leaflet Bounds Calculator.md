@@ -8,5 +8,5 @@ image: z_Assets/Locations/Maps/Castle Ravenloft Courtyard.webp
 > ```
 
 ```dataviewjs
-await dv.view('leafletGenerator', {current:dv.current()})
+await dv.view('leafletConfig', {current:dv.current()})
 ```
