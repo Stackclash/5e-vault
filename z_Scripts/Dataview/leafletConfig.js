@@ -33,7 +33,7 @@ console.log(currentPage.unitCount)
 console.log(calcDistance(point1.lng, point1.lat, point2.lng, point2.lat)/currentPage.unitCount)
 console.log(1/(calcDistance(point1.lng, point1.lat, point2.lng, point2.lat)/currentPage.unitCount))
 
-const leafletMapConfig = `id: MapCalcExample ### Must be unique with no spaces  
+const leafletMapConfig = `id: MapCalcExample ### Must be unique with no spaces
 image: [[${currentPage.image}]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [${imageHeight}, ${imageWidth}]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 750px ### Size of the leaflet embed in px on your screen  
@@ -46,7 +46,9 @@ defaultZoom: ${currentPage.defaultZoom} ### Sets the default zoom level when the
 zoomDelta: ${currentPage.zoomDelta} ### Adjust how much the zoom changes when you zoom in or out.  
 unit: ${currentPage.unit} ### The value displayed when measuring so you know what type of unit is being measure.  
 scale: ${scale} ### Real units/px (resolution) of your map  
-recenter: false  
+lock: true
+noScrollZoom: true
+recenter: true  
 darkmode: false ### marker`
 
 dv.paragraph(`${backticks}leaflet  
