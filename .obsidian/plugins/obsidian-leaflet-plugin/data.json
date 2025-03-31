@@ -3,7 +3,7 @@
     {
       "id": "AmberTemple",
       "locked": false,
-      "lastAccessed": 1743443093677,
+      "lastAccessed": 1743443438121,
       "markers": [
         {
           "id": "ID_fa6abafa383a",
@@ -204,6 +204,39 @@
       "files": [
         "4. World Almanac/Places of Interest/The Amber Temple.md"
       ]
+    },
+    {
+      "id": "MapCalcExample1",
+      "lastAccessed": 1743443438121,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 620.5,
+              "lng": 673.5009901534738,
+              "id": "ID_dad969fb1b1a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 620.28125,
+              "lng": 711.0550360305848,
+              "id": "ID_aae97ba83b18",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": []
     }
   ],
   "defaultMarker": {
