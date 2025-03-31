@@ -3,7 +3,7 @@
     {
       "id": "AmberTemple",
       "locked": false,
-      "lastAccessed": 1743443438121,
+      "lastAccessed": 1743443591701,
       "markers": [
         {
           "id": "ID_fa6abafa383a",
@@ -207,7 +207,7 @@
     },
     {
       "id": "MapCalcExample1",
-      "lastAccessed": 1743443438121,
+      "lastAccessed": 1743443591701,
       "markers": [],
       "overlays": [],
       "shapes": [
@@ -237,6 +237,41 @@
         }
       ],
       "files": []
+    },
+    {
+      "id": "MapCalcExample",
+      "lastAccessed": 1743443591701,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 660.734375,
+              "lng": 785.7178679614624,
+              "id": "ID_db39f998e88b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 660.734375,
+              "lng": 822.7231280688516,
+              "id": "ID_e8f90b5adbe9",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "1. DM Stuff/Tools/Leaflet Bounds Calculator.md"
+      ]
     }
   ],
   "defaultMarker": {

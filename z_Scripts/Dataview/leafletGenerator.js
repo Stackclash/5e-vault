@@ -4,7 +4,7 @@ const {createReadStream} = await self.require.import('fs')
 const path = await self.require.import('path')
 const leafletConfig = app.plugins.getPlugin('obsidian-leaflet-plugin').data
 
-console.log(leafletConfig)
+const mapMarkers = leafletConfig.mapMarkers.find(m => m.id === 'MapCalcExample')
 
 const backticks = "```"
 const readStream = createReadStream(path.join(app.vault.adapter.getBasePath(), currentPage.image))
