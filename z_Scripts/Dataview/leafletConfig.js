@@ -3,20 +3,32 @@ const {imageDimensionsFromStream} = await self.require.import('https://esm.sh/im
 const {createReadStream} = await self.require.import('fs')
 const path = await self.require.import('path')
 const leafletConfig = app.plugins.getPlugin('obsidian-leaflet-plugin').data
+let error = null
+
+function calcDistance(x1, y1, x2, y2) {
+    return Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2))
+}
 
 const backticks = "```"
 
 const readStream = createReadStream(path.join(app.vault.adapter.getBasePath(), currentPage.image))
 const { height: imageHeight, width: imageWidth } = await imageDimensionsFromStream(readStream)
 
-const mapShape = leafletConfig.mapMarkers.find(m => m.id === 'MapCalcExample').shapes[0]
+const mapShapes = leafletConfig.mapMarkers.find(m => m.id === 'MapCalcExample').shapes
+if (mapShapes.length === 0 || mapShapes.length > 1) {
+    error = 'Multiple or no map shapes found'
+}
+const point1 = mapShapes[0].vertices[0]
+const point2 = mapShapes[0].vertices[1]
+
 let scale = .1
-if (mapShape) {
-    scale = 1/(Math.abs(mapShape.vertices[1].lng - mapShape.vertices[0].lng)/currentPage.unitCount)
+if (point1 && point2) {
+    const distance = calcDistance(point1.lng, point1.lat, point2.lng, point2.lat)
+    scale = 1/(distance/currentPage.unitCount)
 }
 console.log(imageWidth, imageHeight)
 
-console.log('Distance:', Math.abs(mapShape.vertices[1].lng - mapShape.vertices[0].lng))
+console.log('Distance:', calcDistance(point1.lng, point1.lat, point2.lng, point2.lat))
 
 const leafletMapConfig = `id: MapCalcExample ### Must be unique with no spaces  
 image: [[${currentPage.image}]] ### Link to the map image file. Do not add a ! in front of the image  
@@ -37,6 +49,8 @@ darkmode: false ### marker`
 dv.paragraph(`${backticks}leaflet  
 ${leafletMapConfig}
 ${backticks}`)
+
+if (error) dv.span('**ERROR:** ' + error)
 
 dv.paragraph(`${backticks}
 ${leafletMapConfig}
