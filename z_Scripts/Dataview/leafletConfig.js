@@ -28,28 +28,23 @@ if (point1 && point2) {
     scale = 1/(distance/currentPage.unitCount)
 }
 
-console.log('Distance:', calcDistance(point1.lng, point1.lat, point2.lng, point2.lat))
-console.log(currentPage.unitCount)
-console.log(calcDistance(point1.lng, point1.lat, point2.lng, point2.lat)/currentPage.unitCount)
-console.log(1/(calcDistance(point1.lng, point1.lat, point2.lng, point2.lat)/currentPage.unitCount))
-
 const leafletMapConfig = `id: MapCalcExample ### Must be unique with no spaces
-image: [[${currentPage.image}]] ### Link to the map image file. Do not add a ! in front of the image  
-bounds: [[0,0], [${imageHeight}, ${imageWidth}]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
-height: 750px ### Size of the leaflet embed in px on your screen  
-width: 95% ### Size of the leaflet embed in your note  
-lat: ${imageHeight/2} ### To center the map, make this half of the map height.  
-long: ${imageWidth/2} ### To center the map, make this half of the map width.  
-minZoom: ${currentPage.minZoom} ### Controls how far away from the map you can zoom out. Hover over the target icon to see the current level.  
-maxZoom: ${currentPage.maxZoom} ### Controls how far towards the map you can zoom in. Hover over the target icon to see the current level.  
-defaultZoom: ${currentPage.defaultZoom} ### Sets the default zoom level when the map loads. Hover over the target icon to see the current level.  
-zoomDelta: ${currentPage.zoomDelta} ### Adjust how much the zoom changes when you zoom in or out.  
-unit: ${currentPage.unit} ### The value displayed when measuring so you know what type of unit is being measure.  
-scale: ${scale} ### Real units/px (resolution) of your map  
+image: [[${currentPage.image}]] 
+bounds: [[0,0], [${imageHeight}, ${imageWidth}]]  
+height: 900px  
+width: 95% 
+lat: ${imageHeight/2}  
+long: ${imageWidth/2} 
+minZoom: ${currentPage.minZoom}  
+maxZoom: ${currentPage.maxZoom} 
+defaultZoom: ${currentPage.defaultZoom} 
+zoomDelta: ${currentPage.zoomDelta}
+unit: ${currentPage.unit}
+scale: ${scale} 
 lock: true
 noScrollZoom: true
 recenter: true  
-darkmode: false ### marker`
+darkmode: false`
 
 dv.paragraph(`${backticks}leaflet  
 ${leafletMapConfig}
@@ -58,6 +53,8 @@ ${backticks}`)
 console.log(error)
 if (error) dv.span('**ERROR:** ' + error)
 
+console.log(leafletMapConfig.replace('MapCalcExample', currentPage.id))
+
 dv.paragraph(`${backticks}
-${leafletMapConfig}
+${leafletMapConfig.replace('MapCalcExample', currentPage.id)}
 ${backticks}`)

@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 image: z_Assets/Locations/Maps/Castle Ravenloft Courtyard.webp
 defaultZoom: -1
 minZoom: -2.5
@@ -6,7 +7,7 @@ maxZoom: 1.5
 unit: ft
 unitCount: 20
 zoomDelta: 0.5
-id: Cast
+id: CastleRavenloft
 ---
 
 > [!infobox|right]
