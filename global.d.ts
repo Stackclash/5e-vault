@@ -457,6 +457,7 @@ export class Self {
     require: Require & { import: Import }
 }
 
-declare var self: Self;
+declare global {
 
-declare var app: App;
+    var app: App;
+}
