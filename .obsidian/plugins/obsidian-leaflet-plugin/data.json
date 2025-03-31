@@ -240,7 +240,7 @@
     },
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1743454933744,
+      "lastAccessed": 1743455395654,
       "markers": [],
       "overlays": [],
       "shapes": [
@@ -516,12 +516,12 @@
     "geojsonColor": "#3388ff",
     "gpx": [],
     "gpxColor": "#3388ff",
-    "height": "750px",
-    "image": "[[z_Assets/Locations/Maps/Castle Ravenloft Courtyard.webp]]",
+    "height": "900px",
+    "image": "[[z_Assets/Locations/Maps/Caste Ravenloft Main Floor.webp]]",
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "[[z_Assets/Locations/Maps/Castle Ravenloft Courtyard.webp]]"
+      "[[z_Assets/Locations/Maps/Caste Ravenloft Main Floor.webp]]"
     ],
     "linksFrom": [],
     "linksTo": [],
@@ -548,15 +548,17 @@
         0
       ],
       [
-        5211,
-        3840
+        2072,
+        3000
       ]
     ],
     "width": "95%",
-    "lat": 2605.5,
-    "long": 1920,
+    "lat": 1036,
+    "long": 1500,
     "unit": "ft",
-    "recenter": false,
+    "lock": true,
+    "noScrollZoom": true,
+    "recenter": true,
     "darkmode": false,
     "filterTag": []
   },

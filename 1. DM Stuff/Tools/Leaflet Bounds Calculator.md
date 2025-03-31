@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-image: z_Assets/Locations/Maps/Castle Ravenloft Courtyard.webp
+image: z_Assets/Locations/Maps/Caste Ravenloft Main Floor.webp
 defaultZoom: -1
 minZoom: -2.5
 maxZoom: 1.5
