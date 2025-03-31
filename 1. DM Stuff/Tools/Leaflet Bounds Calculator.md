@@ -5,6 +5,7 @@ minZoom: -2.5
 maxZoom: 1.5
 unit: ft
 unitCount: 20
+zoomDelta: 0.5
 ---
 
 > [!infobox|right]
@@ -17,6 +18,8 @@ unitCount: 20
 > `INPUT[number:minZoom]`
 > **Max Zoom:**
 > `INPUT[number:maxZoom]`
+> **Zoom Delta**
+> `INPUT[number:zoomDelta]`
 > **Unit:**
 > `INPUT[text:unit]`
 > **Unit Count:**

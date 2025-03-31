@@ -28,9 +28,9 @@ long: ${imageWidth/2} ### To center the map, make this half of the map width.
 minZoom: ${currentPage.minZoom} ### Controls how far away from the map you can zoom out. Hover over the target icon to see the current level.  
 maxZoom: ${currentPage.maxZoom} ### Controls how far towards the map you can zoom in. Hover over the target icon to see the current level.  
 defaultZoom: ${currentPage.defaultZoom} ### Sets the default zoom level when the map loads. Hover over the target icon to see the current level.  
-zoomDelta: 0.5 ### Adjust how much the zoom changes when you zoom in or out.  
+zoomDelta: ${currentPage.zoomDelta} ### Adjust how much the zoom changes when you zoom in or out.  
 unit: ${currentPage.unit} ### The value displayed when measuring so you know what type of unit is being measure.  
-scale: ${scale} ### Real units/px (resolution) of your map  
+scale: ${scale+50} ### Real units/px (resolution) of your map  
 recenter: false  
 darkmode: false ### marker`
 
