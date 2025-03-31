@@ -9,10 +9,13 @@ const backticks = "```"
 const readStream = createReadStream(path.join(app.vault.adapter.getBasePath(), currentPage.image))
 const { height: imageHeight, width: imageWidth } = await imageDimensionsFromStream(readStream)
 
-const mapMarker = leafletConfig.mapMarkers.find(m => m.id === 'MapCalcExample')[0]
-const scale = 1/(Math.abs(mapMarker.vertices[1].lng - mapMarker.vertices[0].lng)/currentPage.unitCount)
-
+const mapShape = leafletConfig.mapMarkers.find(m => m.id === 'MapCalcExample').shapes[0]
+let scale = .1
+if (mapShape) {
+    scale = 1/(Math.abs(mapShape.vertices[1].lng - mapShape.vertices[0].lng)/currentPage.unitCount)
+}
 console.log(scale)
+
 
 const leafletMapConfig = `id: MapCalcExample ### Must be unique with no spaces  
 image: [[${currentPage.image}]] ### Link to the map image file. Do not add a ! in front of the image  
