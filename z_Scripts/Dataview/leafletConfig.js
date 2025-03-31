@@ -10,6 +10,9 @@ const readStream = createReadStream(path.join(app.vault.adapter.getBasePath(), c
 const { height: imageHeight, width: imageWidth } = await imageDimensionsFromStream(readStream)
 
 const mapMarker = leafletConfig.mapMarkers.find(m => m.id === 'MapCalcExample')[0]
+const scale = 1/(Math.abs(mapMarker.vertices[1].lng - mapMarker.vertices[0].lng)/currentPage.unitCount)
+
+console.log(scale)
 
 const leafletMapConfig = `id: MapCalcExample ### Must be unique with no spaces  
 image: [[${currentPage.image}]] ### Link to the map image file. Do not add a ! in front of the image  
@@ -23,7 +26,7 @@ maxZoom: ${currentPage.maxZoom} ### Controls how far towards the map you can zoo
 defaultZoom: ${currentPage.defaultZoom} ### Sets the default zoom level when the map loads. Hover over the target icon to see the current level.  
 zoomDelta: 0.5 ### Adjust how much the zoom changes when you zoom in or out.  
 unit: ${currentPage.unit} ### The value displayed when measuring so you know what type of unit is being measure.  
-scale: 0.09328358208955223 ### Real units/px (resolution) of your map  
+scale: ${scale || .1} ### Real units/px (resolution) of your map  
 recenter: false  
 darkmode: false ### marker`
 

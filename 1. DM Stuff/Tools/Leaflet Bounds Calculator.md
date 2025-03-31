@@ -4,6 +4,7 @@ defaultZoom: -1
 minZoom: -2.5
 maxZoom: 1.5
 unit: ft
+unitCount: 10
 ---
 
 > [!infobox|right]
@@ -18,6 +19,8 @@ unit: ft
 > `INPUT[number:maxZoom]`
 > **Unit:**
 > `INPUT[text:unit]`
+> **Unit Count:**
+> `INPUT[number:unitCount]`
 
 ```dataviewjs
 await dv.view('leafletConfig', {current:dv.current()})
