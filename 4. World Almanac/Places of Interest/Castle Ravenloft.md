@@ -71,8 +71,8 @@ TBD
 >  - [[0,0], [5211, 3840]]  
 > height: 750px  
 > width: 95% 
-> lat: 1036  
-> long: 1500 
+> lat: 2605.5  
+> long: 1920 
 > minZoom: -2.5  
 > maxZoom: 1.5 
 > defaultZoom: -1 
