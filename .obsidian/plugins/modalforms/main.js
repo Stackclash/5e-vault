@@ -15535,21 +15535,32 @@ var FormModal2 = class extends import_obsidian13.Modal {
     this.onSubmit = onSubmit;
     this.svelteComponents = [];
     this.subscriptions = [];
+    this.hasBeenHandled = false;
     this.initialFormValues = formDataFromFormDefaults(
       modalDefinition.fields,
       (_a = options == null ? void 0 : options.values) != null ? _a : {}
     );
     this.formEngine = makeFormEngine({
       onSubmit: (result2) => {
+        this.hasBeenHandled = true;
         this.onSubmit(FormResult.make(result2, "ok"));
-        this.close();
+        super.close();
       },
       onCancel: () => {
+        this.hasBeenHandled = true;
         this.onSubmit(FormResult.make({}, "cancelled"));
-        this.close();
+        super.close();
       },
       defaultValues: this.initialFormValues
     });
+  }
+  // Override the close method to handle X button and outside clicks
+  close() {
+    if (!this.hasBeenHandled) {
+      this.hasBeenHandled = true;
+      this.onSubmit(FormResult.make({}, "cancelled"));
+    }
+    super.close();
   }
   onOpen() {
     const { contentEl } = this;
