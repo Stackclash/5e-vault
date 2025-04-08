@@ -240,7 +240,7 @@
     },
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1744148378248,
+      "lastAccessed": 1744148757590,
       "markers": [],
       "overlays": [],
       "shapes": [
@@ -272,6 +272,32 @@
       "files": [
         "1. DM Stuff/Tools/Leaflet Bounds Calculator.md"
       ]
+    },
+    {
+      "id": "CastleRavenloft",
+      "locked": true,
+      "lastAccessed": 1744148757590,
+      "markers": [
+        {
+          "id": "ID_6bc8fa18382a",
+          "type": "default",
+          "loc": [
+            2606.837537191856,
+            2615.2375435882823
+          ],
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K12",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
     }
   ],
   "defaultMarker": {
