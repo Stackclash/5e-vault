@@ -77,7 +77,7 @@ TBD
 > defaultZoom: -1.5 
 > zoomDelta: 0.5
 > unit: ft
-> scale: 0.22903019978834843 
+> scale: 0.11451509989417422
 > lock: true
 > noScrollZoom: true
 > recenter: true  

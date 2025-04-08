@@ -5,7 +5,7 @@ defaultZoom: -1
 minZoom: -2.5
 maxZoom: 1.5
 unit: ft
-unitCount: 20
+unitCount: 10
 zoomDelta: 0.5
 id: CastleRavenloft
 ---
