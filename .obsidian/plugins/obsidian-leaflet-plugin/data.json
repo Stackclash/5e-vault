@@ -240,7 +240,7 @@
     },
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1744149063646,
+      "lastAccessed": 1744149227000,
       "markers": [],
       "overlays": [],
       "shapes": [
@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": true,
-      "lastAccessed": 1744149063646,
+      "lastAccessed": 1744149227000,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -294,13 +294,113 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_79891ab838e8",
+          "type": "default",
+          "loc": [
+            1633.8586062791665,
+            2782.0440188410234
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K1. Front Courtyard",
+          "layer": "%5B%5BCastle%20Ravenloft%20Courtyard.webp%7CCourtyard%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K1",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98fb9a3b3859",
+          "type": "default",
+          "loc": [
+            2725.631476431196,
+            3788.5373271457015
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K2. Center Court Gate",
+          "layer": "%5B%5BCastle%20Ravenloft%20Courtyard.webp%7CCourtyard%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K2",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a809fa692b39",
+          "type": "default",
+          "loc": [
+            3817.4043465832256,
+            1687.8418988646797
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K4. Carriage House",
+          "layer": "%5B%5BCastle%20Ravenloft%20Courtyard.webp%7CCourtyard%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K4",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8c949dbfb99",
+          "type": "default",
+          "loc": [
+            3446.8803932414744,
+            2278.7326332345606
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K3. Servants' Courtyard",
+          "layer": "%5B%5BCastle%20Ravenloft%20Courtyard.webp%7CCourtyard%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K3",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db9a98281bdb",
+          "type": "default",
+          "loc": [
+            4074.7912149351287,
+            2784.806515781014
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K5. Chapel Garden",
+          "layer": "%5B%5BCastle%20Ravenloft%20Courtyard.webp%7CCourtyard%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K5",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7aaa7a481be9",
+          "type": "default",
+          "loc": [
+            4756.442151998961,
+            2790.4609725692426
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K6. Overlook",
+          "layer": "%5B%5BCastle%20Ravenloft%20Courtyard.webp%7CCourtyard%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K6",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "4. World Almanac/Places of Interest/Castle Ravenloft.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {
