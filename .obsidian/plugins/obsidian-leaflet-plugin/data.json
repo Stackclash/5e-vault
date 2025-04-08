@@ -240,7 +240,7 @@
     },
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1744148757590,
+      "lastAccessed": 1744149063646,
       "markers": [],
       "overlays": [],
       "shapes": [
@@ -276,28 +276,31 @@
     {
       "id": "CastleRavenloft",
       "locked": true,
-      "lastAccessed": 1744148757590,
+      "lastAccessed": 1744149063646,
       "markers": [
         {
-          "id": "ID_6bc8fa18382a",
+          "id": "ID_cb39cbda4a09",
           "type": "default",
           "loc": [
-            2606.837537191856,
-            2615.2375435882823
+            2725.631476431196,
+            1786.8596241128027
           ],
-          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "link": "06 Chapter 4 Castle Ravenloft#K2. Center Court Gate",
+          "layer": "%5B%5BCastle%20Ravenloft%20Courtyard.webp%7CCourtyard%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "K12",
+          "description": "K2",
           "minZoom": null,
           "maxZoom": null,
-          "tooltip": "always"
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "4. World Almanac/Places of Interest/Castle Ravenloft.md"
+      ]
     }
   ],
   "defaultMarker": {
