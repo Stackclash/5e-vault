@@ -42,6 +42,7 @@ months:
 - [ ] [[Plan what info needs to be shown in built website.]]
 - [ ] [[Update proccess_5etools_files to handle decks]]
 - [ ] [[Refactor vault code]]
+- [ ] [[Create Tactic pages tables for reference]]
 
 
 ## Research

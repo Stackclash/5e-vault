@@ -1,0 +1,3 @@
+- Create dynamic tables for tactics by ability score and monster type. The values of which will save into frontmatter
+- Update Monster templates to include frontmatter for monster type and ability scores
+- Create dataview view to query tactic page for relevant tactics
