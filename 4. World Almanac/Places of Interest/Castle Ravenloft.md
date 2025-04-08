@@ -67,15 +67,14 @@ TBD
 >   - [[Castle Ravenloft Basement 1.webp|Basement 1]]
 >   - [[Castle Ravenloft Basement 2.webp|Basement 2]]
 > bounds: 
->  - [[0,0], [2072, 3000]]
->  - [[0,0], [5211, 3840]]  
+>  - [[0,0], [5211,5560]]  
 > height: 750px  
 > width: 95% 
-> lat: 2605.5  
-> long: 1920 
-> minZoom: -2.5  
-> maxZoom: 1.5 
-> defaultZoom: -1 
+> lat: 2605.5 
+> long: 2780
+> minZoom: -2  
+> maxZoom: -0.5
+> defaultZoom: -1.5 
 > zoomDelta: 0.5
 > unit: ft
 > scale: 0.22903019978834843 
