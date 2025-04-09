@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": true,
-      "lastAccessed": 1744216171750,
+      "lastAccessed": 1744216517698,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -410,6 +410,90 @@
           "command": false,
           "percent": null,
           "description": "K7",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_088ad8d89a0b",
+          "type": "default",
+          "loc": [
+            2598.3522558176173,
+            2609.5830868000535
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K8. Great Entry",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K8",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89b83a293aeb",
+          "type": "default",
+          "loc": [
+            2298.538980594521,
+            2606.7558584059393
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K9. Guests' Hall",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K9",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bfa48aa1bf9",
+          "type": "default",
+          "loc": [
+            2256.1125737233283,
+            2352.3053029356556
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K10. Dining Hall",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K10",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98790bc84949",
+          "type": "default",
+          "loc": [
+            2250.455719473836,
+            2100.6819758594856
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K11. South Archers' Post",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K11",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab38d9c8e97a",
+          "type": "default",
+          "loc": [
+            2038.3236851178717,
+            1956.4933277596585
+          ],
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
