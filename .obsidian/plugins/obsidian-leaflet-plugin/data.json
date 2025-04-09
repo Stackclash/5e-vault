@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": true,
-      "lastAccessed": 1744215877883,
+      "lastAccessed": 1744216171750,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -393,6 +393,23 @@
           "command": false,
           "percent": null,
           "description": "K6",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a1938099a48",
+          "type": "default",
+          "loc": [
+            2589.8669744433787,
+            2349.4780745415414
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K7. Entry",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K7",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
