@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": true,
-      "lastAccessed": 1744216517698,
+      "lastAccessed": 1744902737144,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -489,11 +489,131 @@
             2038.3236851178717,
             1956.4933277596585
           ],
+          "link": "06 Chapter 4 Castle Ravenloft#K12. Turret Post",
           "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": null,
+          "description": "K12",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4af95a2af82a",
+          "type": "default",
+          "loc": [
+            2048.46875,
+            2374.1003113541674
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K13. Turret Post Access Hall",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K13",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69194ab83888",
+          "type": "default",
+          "loc": [
+            2600.46875,
+            3074.33137361608
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K14. Hall of Faith",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K14",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a087bd8eb5b",
+          "type": "default",
+          "loc": [
+            2596.265625,
+            3566.9783122641425
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K15. Chapel",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K15",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_791a4868ea69",
+          "type": "default",
+          "loc": [
+            2816.265625,
+            3340.9037121624397
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K16. North Chapel Access",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K16",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a8acb4a5bfa",
+          "type": "default",
+          "loc": [
+            2400.265625,
+            3340.9037121624397
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K17. South Chapel Access",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K17",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c88bfa996a49",
+          "type": "default",
+          "loc": [
+            2418.265625,
+            3222.86476166686
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K18. High Tower Staircase",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K18",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e81a5a2b0a9b",
+          "type": "default",
+          "loc": [
+            2338.265625,
+            3126.8330731280835
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K18a. High Tower Shaft",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K18a",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
