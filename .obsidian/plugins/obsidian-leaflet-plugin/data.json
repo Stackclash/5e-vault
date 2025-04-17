@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": true,
-      "lastAccessed": 1744902737144,
+      "lastAccessed": 1744902870813,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -614,6 +614,57 @@
           "command": false,
           "percent": null,
           "description": "K18a",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b798a79d988",
+          "type": "default",
+          "loc": [
+            3029.5078125,
+            2353.374722323826
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K19. Grand Landing",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K19",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f999badbb899",
+          "type": "default",
+          "loc": [
+            2843.5078125,
+            2789.518641104103
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K20. Heart of Sorrow",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K20",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39b9b809eba9",
+          "type": "default",
+          "loc": [
+            2975.5078125,
+            2991.585319071112
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K20a. Tower Hall Stair",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K20a",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
