@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": false,
-      "lastAccessed": 1744997689337,
+      "lastAccessed": 1744997868153,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -2184,6 +2184,108 @@
           "command": false,
           "percent": null,
           "description": "K21",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09a87b1ac989",
+          "type": "default",
+          "loc": [
+            2640.77866268881,
+            3771.5739567810165
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K87. Guardians",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K87",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b5b98ca1a58",
+          "type": "default",
+          "loc": [
+            2671.8913610610184,
+            4113.668592468842
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K88. Tomb of King Barov and Queen Ravenovia",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K88",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_796b1968eb28",
+          "type": "default",
+          "loc": [
+            1639.5154605286589,
+            3211.7827347463917
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K86. Strahd's Tomb",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K86",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8d9787a1bc8",
+          "type": "default",
+          "loc": [
+            3670.3261360964234,
+            3214.6099631405064
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K85. Sergei's Tomb",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K85",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d849b8abc868",
+          "type": "default",
+          "loc": [
+            2530.4700048237087,
+            2688.7466805658846
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K18a. High Tower Shaft",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K18a",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_897b4b2a4899",
+          "type": "default",
+          "loc": [
+            2677.548215310511,
+            2694.4011373541134
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K18. High Tower Staircase",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K18",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
