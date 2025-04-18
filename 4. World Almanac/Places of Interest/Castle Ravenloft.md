@@ -1,12 +1,10 @@
 ---
 obsidianUIMode: preview
-location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
+location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
 images:
   - z_Assets/PlaceholderImage.png
 pronounced: 
-resources:
-  - '[[06 Chapter-4 Castle Ravenloft|Castle Ravenloft]]'
-  - '[[Curse of Strahd Companion.pdf#page=82|To Dine at Castle Ravenloft]]'
+resources: []
 population: 
 terrain: 
 rulers: 
