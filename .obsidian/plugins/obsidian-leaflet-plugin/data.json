@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": false,
-      "lastAccessed": 1744997381384,
+      "lastAccessed": 1744997689337,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -1858,6 +1858,332 @@
           "command": false,
           "percent": null,
           "description": "K61",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0898eabb1a08",
+          "type": "default",
+          "loc": [
+            1820.5347965124151,
+            2157.227742472403
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K68. Guards' Run",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K68",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a92909ea6b9a",
+          "type": "default",
+          "loc": [
+            1681.9418673998518,
+            2329.6886745133734
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K64. Guards' Stair",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K64",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_daea38d9e9d8",
+          "type": "default",
+          "loc": [
+            1953.470871375486,
+            1809.4786499963486
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K69. Guards' Quarters",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K69",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b4a2b7a990a",
+          "type": "default",
+          "loc": [
+            3032.073877727916,
+            2177.898475899622
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K70. Kingsmen Hall",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.13848981843925084,
+            -0.20571867203991556
+          ],
+          "description": "K70",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18c8280bdb78",
+          "type": "default",
+          "loc": [
+            3042.415314402769,
+            2538.9035756778285
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K71. Kingsmen Quarters",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K71",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b48683ab998",
+          "type": "default",
+          "loc": [
+            3299.8021827546727,
+            2259.007964660517
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K72. Chamberlain's Office",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K72",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_488b3b786a2b",
+          "type": "default",
+          "loc": [
+            3401.6255592455354,
+            1563.5097797084077
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K79. Western Stair",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K79",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbc82bc90868",
+          "type": "default",
+          "loc": [
+            2787.8568731756122,
+            1928.2222425491477
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K83a. Spiral Stair Landing",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K83a",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69d84a9898b9",
+          "type": "default",
+          "loc": [
+            2397.533929960638,
+            1685.0794019246891
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K76. Torture Chamber",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K76",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4919ea59587a",
+          "type": "default",
+          "loc": [
+            2773.714737551881,
+            1690.7338587129177
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K77. Observation Balcony",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K77",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d92aa98bcaf9",
+          "type": "default",
+          "loc": [
+            3053.729022901754,
+            1690.7338587129177
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K78. Brazier Room",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K78",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb68c8d88aa9",
+          "type": "default",
+          "loc": [
+            3345.0570167506116,
+            1707.6972290776034
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K80. Center Stair",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K80",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cafbbab9b898",
+          "type": "default",
+          "loc": [
+            3526.076352734368,
+            1600.2625501012612
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K79. Western Stair",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K79",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b4879381b08",
+          "type": "default",
+          "loc": [
+            3347.885443875358,
+            2338.1691609650843
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K81. Tunnel",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K81",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28e94bfb9baa",
+          "type": "default",
+          "loc": [
+            3110.297565396678,
+            2253.3523091416564
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K82. Marble Slide",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K82",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbba29f8cbd9",
+          "type": "default",
+          "loc": [
+            2742.6020391796733,
+            2160.0537721358855
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K74. North Dungeon",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K74",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_594b3a7b1bc9",
+          "type": "default",
+          "loc": [
+            2077.9216648643182,
+            2151.572086953543
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K75. South Dungeon",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K75",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a188b49c968",
+          "type": "default",
+          "loc": [
+            2408.847638459623,
+            2160.0537721358855
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K73. Dungeon Hall",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K73",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_daf87b98caa9",
+          "type": "default",
+          "loc": [
+            2355.107523089445,
+            2454.085525123769
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K21. South Tower Stair",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K21",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
