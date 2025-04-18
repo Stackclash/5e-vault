@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": false,
-      "lastAccessed": 1744996763732,
+      "lastAccessed": 1744997072705,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -1512,11 +1512,46 @@
             2454.102472455562,
             3191.929801994732
           ],
+          "link": "06 Chapter 4 Castle Ravenloft#K18. High Tower Staircase",
           "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": null,
+          "description": "K18",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68481bfb5a3b",
+          "type": "default",
+          "loc": [
+            2326.823251841983,
+            3141.039690900675
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K18a. High Tower Shaft",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K18a",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3918ea0b1b98",
+          "type": "default",
+          "loc": [
+            3444.051966116728,
+            3644.3498777765058
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K20. Heart of Sorrow",
+          "layer": "%5B%5BCastle%20Ravenloft%204th%20Floor.webp%7C4th%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K20",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

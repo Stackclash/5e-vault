@@ -1210,8 +1210,8 @@ Refer to maps 6 through 10 of Castle Ravenloft for areas K47 through K60.
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/033-009-player.webp#gallery\|Player Version]]
 
 > [!gallery]
-> ![Spires and Tower of Ravenl...](compendium/adventures/curse-of-strahd/img/map-4-06-spires12.webp#gallery "Spires and Tower of Ravenloft (Battlemap; DM Version)")
-> ![Spires and Tower of Ravenl...](compendium/adventures/curse-of-strahd/img/map-4-06-spires12-player.webp#gallery "Spires and Tower of Ravenloft (Battlemap; Player Version)")
+> ![[6. Resources/5e Modules/Curse of Strahd/img/map-4-06-spires12.webp#gallery|Spires and Tower of Ravenloft (Battlemap; DM Version)]]
+> ![[6. Resources/5e Modules/Curse of Strahd/img/map-4-06-spires12-player.webp#gallery|Spires and Tower of Ravenloft (Battlemap; Player Version)]]
 
 ### K47. Portrait of Strahd
 
