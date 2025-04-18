@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": false,
-      "lastAccessed": 1744995842742,
+      "lastAccessed": 1744996156832,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -679,7 +679,245 @@
             3029.3125,
             2345.3929081576593
           ],
+          "link": "06 Chapter 4 Castle Ravenloft#K19. Grand Landing",
           "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K19",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2bfa39f8481b",
+          "type": "default",
+          "loc": [
+            3149.3125,
+            1961.5556532249202
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K12. Turret Post",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K12",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb2be87b49bb",
+          "type": "default",
+          "loc": [
+            2955.3125,
+            2091.500557238608
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K22. North Archers' Post",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K22",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38b8e9ba4848",
+          "type": "default",
+          "loc": [
+            3157.3125,
+            2407.366631610341
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K13. Turret Post Access Hall",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K13",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f968d83a08eb",
+          "type": "default",
+          "loc": [
+            2039.3125,
+            2655.2615254210687
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K64. Guards' Stair",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K64",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_291b9bba6a38",
+          "type": "default",
+          "loc": [
+            2173.3125,
+            2945.138618990064
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K21. South Tower Stair",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K21",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8cbf91aa8ca",
+          "type": "default",
+          "loc": [
+            2337.3125,
+            3123.063179870344
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K18a. High Tower Shaft",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K18a",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9b80999f919",
+          "type": "default",
+          "loc": [
+            2385.3125,
+            3245.011474406266
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K18. High Tower Staircase",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K18",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_890bc80baa4b",
+          "type": "default",
+          "loc": [
+            2387.3125,
+            2875.1682860596165
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K31a. Elevator Shaft",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K31a",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb099a6b6a08",
+          "type": "default",
+          "loc": [
+            2414.625,
+            1990.6468049036998
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K25. Audience Hall",
+          "layer": "%5B%5BCastle%20Ravenloft%202nd%20Floor.webp%7C2nd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K25",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb8a79286b6a",
+          "type": "default",
+          "loc": [
+            1554.625,
+            2070.612899681354
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K13. Turret Post Access Hall",
+          "layer": "%5B%5BCastle%20Ravenloft%202nd%20Floor.webp%7C2nd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K13",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89fbd8cb490a",
+          "type": "default",
+          "loc": [
+            1554.625,
+            1274.950256643697
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K12. Turret Post",
+          "layer": "%5B%5BCastle%20Ravenloft%202nd%20Floor.webp%7C2nd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K12",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59ca0a69299a",
+          "type": "default",
+          "loc": [
+            1554.625,
+            2558.4060778250428
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K64. Guards' Stair",
+          "layer": "%5B%5BCastle%20Ravenloft%202nd%20Floor.webp%7C2nd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K64",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58f8cb6baafb",
+          "type": "default",
+          "loc": [
+            1966.625,
+            2542.412858869512
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K30. King's Accountant",
+          "layer": "%5B%5BCastle%20Ravenloft%202nd%20Floor.webp%7C2nd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K30",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbbb5bf9d8d9",
+          "type": "default",
+          "loc": [
+            1794.625,
+            3086.182303357559
+          ],
+          "layer": "%5B%5BCastle%20Ravenloft%202nd%20Floor.webp%7C2nd%20Floor%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
