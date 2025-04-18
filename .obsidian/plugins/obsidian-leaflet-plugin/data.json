@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": false,
-      "lastAccessed": 1744996454745,
+      "lastAccessed": 1744996763732,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -1212,6 +1212,311 @@
           "command": false,
           "percent": null,
           "description": "K31a",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa5ba9db699a",
+          "type": "default",
+          "loc": [
+            2595.523828692871,
+            2069.5201295313686
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K42. King's Bedchamber",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K42",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8bd96b3988bb",
+          "type": "default",
+          "loc": [
+            2991.5036261573377,
+            2315.48899981931
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K45. Hall of Heroes",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K45",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9948faa91969",
+          "type": "default",
+          "loc": [
+            2841.59698854579,
+            2273.0805739075954
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K83. Spiral Stair",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K83",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88392b88380b",
+          "type": "default",
+          "loc": [
+            2601.1806829423635,
+            2620.8296663836504
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K37. Study",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K37",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4849e91b1a19",
+          "type": "default",
+          "loc": [
+            2604.0091100671098,
+            2830.0445675481055
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K38. False Treasury",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K38",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_285b6869695a",
+          "type": "default",
+          "loc": [
+            2587.0385473186325,
+            3101.4584933830747
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K39. Hall of Webs",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K39",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2bd8abb99b18",
+          "type": "default",
+          "loc": [
+            2468.2446080792924,
+            2920.5158761597622
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K31b. Shaft Access",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K31b",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b0b3a184a1b",
+          "type": "default",
+          "loc": [
+            2587.0385473186325,
+            3355.909048853359
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K40. Belfry",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K40",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78fb3aebaafb",
+          "type": "default",
+          "loc": [
+            2813.3127172983277,
+            3276.7466538181598
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K41. Treasury",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K41",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b6a9b598989",
+          "type": "default",
+          "loc": [
+            2991.5036261573377,
+            3268.264968635817
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K46. Parapets",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K46",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_195b8a4b5829",
+          "type": "default",
+          "loc": [
+            2052.465820741603,
+            2657.5836355071356
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K64. Guards' Stair",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K64",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48895aabd9ca",
+          "type": "default",
+          "loc": [
+            2372.078085837922,
+            2869.6257650657053
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K31a. Elevator Shaft",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K31a",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a78ba38a99a",
+          "type": "default",
+          "loc": [
+            2168.4313328561966,
+            2943.1337033126765
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K21. South Tower Stair",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K21",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bf97be99aab",
+          "type": "default",
+          "loc": [
+            2298.538980594521,
+            2674.547005871821
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K35. Guardian Vermin",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K35",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_795bab392948",
+          "type": "default",
+          "loc": [
+            2131.661780234496,
+            2487.94993186028
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K36. Dining Hall of the Count",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K36",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba1b99c91b0a",
+          "type": "default",
+          "loc": [
+            2343.7938145904604,
+            2134.5463825959964
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K43. Bath Chamber",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K43",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78e8cb2bda68",
+          "type": "default",
+          "loc": [
+            2123.1764988602577,
+            2143.0280677783394
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K44. Closet",
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K44",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a839986a8ad8",
+          "type": "default",
+          "loc": [
+            2454.102472455562,
+            3191.929801994732
+          ],
+          "layer": "%5B%5BCastle%20Raventloft%203rd%20Floor.webp%7C3rd%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
