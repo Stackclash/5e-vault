@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": true,
-      "lastAccessed": 1744216517698,
+      "lastAccessed": 1744216710719,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -489,11 +489,97 @@
             2038.3236851178717,
             1956.4933277596585
           ],
+          "link": "06 Chapter 4 Castle Ravenloft#K12. Turret Post",
           "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": null,
+          "description": "K12",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b1808dbba79",
+          "type": "default",
+          "loc": [
+            2035.4952579931255,
+            2355.13253132977
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K13. Turret Post Access Hall",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K13",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb8b68fa3a1a",
+          "type": "default",
+          "loc": [
+            2601.1806829423635,
+            3033.6673459171934
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K14. Hall of Faith",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K14",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1878089ada3a",
+          "type": "default",
+          "loc": [
+            2601.1806829423635,
+            3553.877370434218
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K15. Chapel",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K15",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0988c8a8f918",
+          "type": "default",
+          "loc": [
+            2810.4842901735815,
+            3339.0080124815336
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K16. North Chapel Access",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K16",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba4bd9caf978",
+          "type": "default",
+          "loc": [
+            2377.7349400874145,
+            3341.8352408756477
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K17. South Chapel Access",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K17",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -501,7 +587,9 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "4. World Almanac/Places of Interest/Castle Ravenloft.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -739,19 +827,25 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": "false",
-    "defaultZoom": -1,
+    "defaultZoom": -1.5,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
     "geojsonColor": "#3388ff",
     "gpx": [],
     "gpxColor": "#3388ff",
-    "height": "900px",
-    "image": "[[z_Assets/Locations/Maps/Caste Ravenloft Main Floor.webp]]",
+    "height": "750px",
+    "image": "[[Caste Ravenloft Main Floor.webp|Main Floor]]",
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "[[z_Assets/Locations/Maps/Caste Ravenloft Main Floor.webp]]"
+      "[[Caste Ravenloft Main Floor.webp|Main Floor]]",
+      "[[Castle Ravenloft Courtyard.webp|Courtyard]]",
+      "[[Castle Ravenloft 2nd Floor.webp|2nd Floor]]",
+      "[[Castle Raventloft 3rd Floor.webp|3rd Floor]]",
+      "[[Castle Ravenloft 4th Floor.webp|4th Floor]]",
+      "[[Castle Ravenloft Basement 1.webp|Basement 1]]",
+      "[[Castle Ravenloft Basement 2.webp|Basement 2]]"
     ],
     "linksFrom": [],
     "linksTo": [],
@@ -760,26 +854,28 @@
     "markerFile": [],
     "markerFolder": [],
     "markerTag": [],
-    "maxZoom": 1.5,
-    "minZoom": -2.5,
+    "maxZoom": -0.5,
+    "minZoom": -2,
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
-    "scale": 0.22903019978834843,
+    "scale": 0.11451509989417422,
     "showAllMarkers": false,
     "tileServer": [],
     "verbose": false,
     "zoomDelta": 0.5,
     "zoomFeatures": false,
-    "id": "MapCalcExample",
+    "id": "CastleRavenloft",
     "bounds": [
       [
-        0,
-        0
-      ],
-      [
-        5211,
-        5560
+        [
+          0,
+          0
+        ],
+        [
+          5211,
+          5560
+        ]
       ]
     ],
     "width": "95%",
