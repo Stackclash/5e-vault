@@ -28,6 +28,14 @@
           "height": 1080,
           "fullscreen": true,
           "maximized": false
+        },
+        "office-pc": {
+          "x": -1124,
+          "y": 17,
+          "width": 1024,
+          "height": 800,
+          "fullscreen": false,
+          "maximized": false
         }
       }
     },

@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": false,
-      "lastAccessed": 1744992164704,
+      "lastAccessed": 1744995842742,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -591,6 +591,7 @@
             2814.2849891224596,
             2817.1170124391015
           ],
+          "link": "06 Chapter 4 Castle Ravenloft#K20. Heart of Sorrow",
           "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
           "mutable": true,
           "command": false,
@@ -598,6 +599,90 @@
             0.179136919324791,
             -0.19094223757436196
           ],
+          "description": "K20",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da895a8ad8b8",
+          "type": "default",
+          "loc": [
+            2943.3125,
+            2989.1199711177733
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K20a. Tower Hall Stair",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K20a",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99494b28fa89",
+          "type": "default",
+          "loc": [
+            2781.3125,
+            3175.041141475819
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K29. Creaky Landing",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K29",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a6b0baa3aca",
+          "type": "default",
+          "loc": [
+            3121.3125,
+            3243.012322036825
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K23. Servants' Entrance",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K23",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb491809783a",
+          "type": "default",
+          "loc": [
+            3281.3125,
+            3153.050465411964
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K24. Servants' Quarters",
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K24",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_084a88da496a",
+          "type": "default",
+          "loc": [
+            3029.3125,
+            2345.3929081576593
+          ],
+          "layer": "%5B%5BCaste%20Ravenloft%20Main%20Floor.webp%7CMain%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
