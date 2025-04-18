@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": false,
-      "lastAccessed": 1744997072705,
+      "lastAccessed": 1744997381384,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -1552,6 +1552,312 @@
           "command": false,
           "percent": null,
           "description": "K20",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b2b2a7b5b2a",
+          "type": "default",
+          "loc": [
+            2912.3076666644447,
+            3635.8681925941632
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K48. Offstair",
+          "layer": "%5B%5BCastle%20Ravenloft%204th%20Floor.webp%7C4th%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K48",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b79299b9a09",
+          "type": "default",
+          "loc": [
+            2895.3371039159674,
+            3952.5177727349605
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K18. High Tower Staircase",
+          "layer": "%5B%5BCastle%20Ravenloft%204th%20Floor.webp%7C4th%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K18",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d88a483928db",
+          "type": "default",
+          "loc": [
+            2592.695401568125,
+            3644.3498777765058
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K21. South Tower Stair",
+          "layer": "%5B%5BCastle%20Ravenloft%204th%20Floor.webp%7C4th%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K21",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_591bdbe8f87b",
+          "type": "default",
+          "loc": [
+            2488.043597952516,
+            3785.7112974822194
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K51. Closet",
+          "layer": "%5B%5BCastle%20Ravenloft%204th%20Floor.webp%7C4th%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K51",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8eb39cb9829",
+          "type": "default",
+          "loc": [
+            2431.475055457592,
+            3593.4597666824493
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K50. Guest Room",
+          "layer": "%5B%5BCastle%20Ravenloft%204th%20Floor.webp%7C4th%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K50",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa7a7a28182a",
+          "type": "default",
+          "loc": [
+            2700.17563230848,
+            3570.841939529535
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K47. Portrait of Strahd",
+          "layer": "%5B%5BCastle%20Ravenloft%204th%20Floor.webp%7C4th%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K47",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ba9da9b8abb",
+          "type": "default",
+          "loc": [
+            2643.6070898135563,
+            3381.41763712388
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K49. Lounge",
+          "layer": "%5B%5BCastle%20Ravenloft%204th%20Floor.webp%7C4th%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K49",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb697b983a08",
+          "type": "default",
+          "loc": [
+            3127.268128145155,
+            2866.8620693950834
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K53. Rooftop",
+          "layer": "%5B%5BCastle%20Ravenloft%204th%20Floor.webp%7C4th%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K53",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b180bd8eba9",
+          "type": "default",
+          "loc": [
+            3115.95441964617,
+            3460.580032159079
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K52. Smokestack",
+          "layer": "%5B%5BCastle%20Ravenloft%204th%20Floor.webp%7C4th%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K52",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e91a49fac9aa",
+          "type": "default",
+          "loc": [
+            2355.107523089445,
+            4376.6020318521005
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K18a. High Tower Shaft",
+          "layer": "%5B%5BCastle%20Ravenloft%204th%20Floor.webp%7C4th%20Floor%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K18a",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49fab8197af9",
+          "type": "default",
+          "loc": [
+            2439.960336831831,
+            2267.4896498428593
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K67. Hall of Bones",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K67",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9b98a391bc8",
+          "type": "default",
+          "loc": [
+            2705.8324865579725,
+            2482.359007795543
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K66. Butler's Quarters",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K66",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9bb289afbab",
+          "type": "default",
+          "loc": [
+            2736.945184930181,
+            2994.087347130225
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K65. Kitchen",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K65",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58b9d8e9c978",
+          "type": "default",
+          "loc": [
+            2490.872025077262,
+            2787.699674359884
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K62. Servants' Hall",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K62",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19c9e8dbd848",
+          "type": "default",
+          "loc": [
+            2488.043597952516,
+            3290.946328512223
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K63. Wine Cellar",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K63",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9a9f9bac80a",
+          "type": "default",
+          "loc": [
+            2287.2252720955366,
+            2962.9878347949684
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K18. High Tower Staircase",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K18",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b4ac93b7b78",
+          "type": "default",
+          "loc": [
+            2114.691217486019,
+            2962.9878347949684
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K18a. High Tower Shaft",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K18a",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8697a6a7918",
+          "type": "default",
+          "loc": [
+            2307.0242619687597,
+            2541.730804071943
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#K61. Elevator Trap",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%201.webp%7CBasement%201%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "K61",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
