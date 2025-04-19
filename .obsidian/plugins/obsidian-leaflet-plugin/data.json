@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": false,
-      "lastAccessed": 1745042655272,
+      "lastAccessed": 1745079149793,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -2428,6 +2428,125 @@
           "command": false,
           "percent": null,
           "description": "Crypt 8",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b7b580b89aa",
+          "type": "default",
+          "loc": [
+            3163.452107963685,
+            3201.4968542733804
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#Crypt 9",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Crypt 9",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_497a18cb3a9a",
+          "type": "default",
+          "loc": [
+            3169.1089622131776,
+            3389.6493446320665
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#Crypt 10",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Crypt 10",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_081b4b394bfa",
+          "type": "default",
+          "loc": [
+            3170.523175775551,
+            3591.9486387771194
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#Crypt 11",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Crypt 11",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9ae9696a4898",
+          "type": "default",
+          "loc": [
+            2976.775917730437,
+            2631.380661682776
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#Crypt 12",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Crypt 12",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9ca2a4ad9c8",
+          "type": "default",
+          "loc": [
+            2983.8469855423023,
+            2915.73141778876
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#Crypt 13",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Crypt 13",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db897898c989",
+          "type": "default",
+          "loc": [
+            2986.6754126670485,
+            3106.7132689047194
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#Crypt 14",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Crypt 14",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9f8dae82bea",
+          "type": "default",
+          "loc": [
+            2983.8469855423023,
+            3296.2804396420415
+          ],
+          "link": "06 Chapter 4 Castle Ravenloft#Crypt 15",
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Crypt 15",
           "minZoom": -0.5,
           "maxZoom": null,
           "tooltip": "hover"
