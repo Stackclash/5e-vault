@@ -1,5 +1,16 @@
 {
-  "players": [],
+  "players": [
+    {
+      "note": "Marin",
+      "path": "3. The Party/Players/Marin.md",
+      "name": "Marin",
+      "ac": 19,
+      "hp": 67,
+      "level": 8,
+      "modifier": 3,
+      "player": true
+    }
+  ],
   "parties": [],
   "defaultParty": null,
   "statuses": [
@@ -130,9 +141,148 @@
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": true,
-    "showXP": true,
-    "sidebarIcon": true
+    "showParty": false,
+    "showXP": false,
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "cr",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [
+            0,
+            30
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "large",
+            "medium",
+            "huge",
+            "gargantuan",
+            "small",
+            "tiny"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "aberration",
+            "humanoid",
+            "dragon",
+            "undead",
+            "elemental",
+            "monstrosity",
+            "construct",
+            "beast",
+            "plant",
+            "fiend",
+            "ooze",
+            "fey",
+            "giant",
+            "celestial",
+            "swarm of tiny beasts"
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "lawful evil",
+            "any alignment",
+            "chaotic evil",
+            "chaotic good",
+            "lawful good",
+            "neutral",
+            "lawful neutral",
+            "unaligned",
+            "any non-good alignment",
+            "any non-lawful alignment",
+            "neutral evil",
+            "any chaotic alignment",
+            "neutral good",
+            "chaotic neutral",
+            "neutral good (50%) or neutral evil (50%)",
+            "any evil alignment"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   },
   "rollPlayerInitiatives": 0
 }
