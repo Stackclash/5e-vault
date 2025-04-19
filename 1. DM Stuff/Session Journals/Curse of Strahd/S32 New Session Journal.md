@@ -42,4 +42,6 @@ Who Did They Meet?
 Description
 
 ## What Happened
-Small description.
+- The party teleports to [[Castle Ravenloft]]
+- When going through a secret door they came across [[Rahadin (COS)]] who brings them to the gathering
+- They meeting  [[Rictavio (COS)]] who unknown to the party is there to 
