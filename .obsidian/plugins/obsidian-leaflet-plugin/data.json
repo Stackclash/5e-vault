@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": false,
-      "lastAccessed": 1745700253805,
+      "lastAccessed": 1745726241939,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -2550,11 +2550,29 @@
           "minZoom": -0.5,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_491b381b2929",
+          "type": "default",
+          "loc": [
+            2225.220846220241,
+            2542.953864775986
+          ],
+          "layer": "%5B%5BCastle%20Ravenloft%20Basement%202.webp%7CBasement%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "4. World Almanac/Places of Interest/Castle Ravenloft.md"
+      ]
     }
   ],
   "defaultMarker": {
