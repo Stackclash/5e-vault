@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": false,
-      "lastAccessed": 1745726241939,
+      "lastAccessed": 1745730379773,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -1560,14 +1560,17 @@
           "id": "ID_0b2b2a7b5b2a",
           "type": "default",
           "loc": [
-            2912.3076666644447,
-            3635.8681925941632
+            2908.263899759534,
+            3638.4641668679724
           ],
           "link": "06 Chapter 4 Castle Ravenloft#K48. Offstair",
           "layer": "%5B%5BCastle%20Ravenloft%204th%20Floor.webp%7C4th%20Floor%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.23136534941516235,
+            -0.19731847294185378
+          ],
           "description": "K48",
           "minZoom": null,
           "maxZoom": null,
