@@ -276,7 +276,7 @@
     {
       "id": "CastleRavenloft",
       "locked": false,
-      "lastAccessed": 1745730379773,
+      "lastAccessed": 1747459703556,
       "markers": [
         {
           "id": "ID_cb39cbda4a09",
@@ -2573,9 +2573,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "4. World Almanac/Places of Interest/Castle Ravenloft.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {
