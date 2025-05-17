@@ -1,9 +1,14 @@
 {
   "pluginList": [
+    "hay-kot/obsidian-dnd-ui-toolkit",
     "xhuajin/obsidian-carousel",
     "javalent/calendarium"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "hay-kot/obsidian-dnd-ui-toolkit",
+      "version": "v0.2.0"
+    },
     {
       "repo": "javalent/calendarium",
       "version": "2.0.0-beta.3"
