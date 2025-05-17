@@ -4,7 +4,7 @@ statblock: true
 name: Faerah Duskrane
 level: 9
 ac: 17
-hp: 66
+hp: 63
 modifier: 7
 proficiency: 4
 url: https://dndbeyond.com/characters/105635812

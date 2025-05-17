@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 statblock: true
 name: Marin
-level: 8
+level: 9
 ac: 19
 hp: 67
 modifier: 3
-proficiency: 3
+proficiency: 4
 url: https://dndbeyond.com/characters/103873194
 image: https://www.dndbeyond.com/avatars/17/209/636377840545349096.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: "[[5. Mechanics/Races/Half Elf.md|Half Elf]]"

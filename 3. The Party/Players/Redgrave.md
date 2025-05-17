@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 statblock: true
 name: Redgrave
-level: 7
-ac: 23
-hp: 52
+level: 9
+ac: 24
+hp: 48
 modifier: -1
-proficiency: 3
+proficiency: 4
 url: https://dndbeyond.com/characters/29682199
 image: https://www.dndbeyond.com/avatars/10846/680/1581111423-29682199.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: "[[5. Mechanics/Races/Warforged.md|Warforged]]"
