@@ -34,211 +34,6 @@
       "files": []
     },
     {
-      "id": "AmberTemple",
-      "locked": false,
-      "lastAccessed": 1744146726915,
-      "markers": [
-        {
-          "id": "ID_fa6abafa383a",
-          "type": "default",
-          "loc": [
-            78.10279868981027,
-            49.88399850701589
-          ],
-          "link": "The Amber Temple#X17",
-          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_69a91969cb1a",
-          "type": "default",
-          "loc": [
-            83.22105347001505,
-            37.88248961388828
-          ],
-          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d8ba88e9a81a",
-          "type": "default",
-          "loc": [
-            71.09596959695766,
-            36.38229901686164
-          ],
-          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3be9fb5949eb",
-          "type": "default",
-          "loc": [
-            78.09601801851656,
-            38.25753726314495
-          ],
-          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_a9ea39ba0ae8",
-          "type": "default",
-          "loc": [
-            77.59601455983379,
-            23.255631292878498
-          ],
-          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_b8ab89c8fb58",
-          "type": "default",
-          "loc": [
-            95.09613561373105,
-            43.38318846965265
-          ],
-          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_09e8dbe81b2b",
-          "type": "default",
-          "loc": [
-            99.09616328319328,
-            59.885285036945746
-          ],
-          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_b97b99a9da1b",
-          "type": "default",
-          "loc": [
-            105.8462099754108,
-            57.63499914140578
-          ],
-          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_db1b99fb7bfb",
-          "type": "default",
-          "loc": [
-            111.09624629157997,
-            52.75937970106918
-          ],
-          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_194bfb698999",
-          "type": "default",
-          "loc": [
-            118.84629990116305,
-            47.50871261147592
-          ],
-          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7a7898697a3b",
-          "type": "default",
-          "loc": [
-            120.59631200655278,
-            62.13557093248571
-          ],
-          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3bbb6bfb6898",
-          "type": "default",
-          "loc": [
-            125.72134745805127,
-            58.88515797226131
-          ],
-          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "4. World Almanac/Places of Interest/The Amber Temple.md"
-      ]
-    },
-    {
       "id": "MapCalcExample",
       "lastAccessed": 1744149227000,
       "markers": [],
@@ -2574,6 +2369,211 @@
       "overlays": [],
       "shapes": [],
       "files": []
+    },
+    {
+      "id": "AmberTemple",
+      "locked": false,
+      "lastAccessed": 1747490066774,
+      "markers": [
+        {
+          "id": "ID_fa6abafa383a",
+          "type": "default",
+          "loc": [
+            78.10279868981027,
+            49.88399850701589
+          ],
+          "link": "The Amber Temple#X17",
+          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69a91969cb1a",
+          "type": "default",
+          "loc": [
+            83.22105347001505,
+            37.88248961388828
+          ],
+          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8ba88e9a81a",
+          "type": "default",
+          "loc": [
+            71.09596959695766,
+            36.38229901686164
+          ],
+          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3be9fb5949eb",
+          "type": "default",
+          "loc": [
+            78.09601801851656,
+            38.25753726314495
+          ],
+          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9ea39ba0ae8",
+          "type": "default",
+          "loc": [
+            77.59601455983379,
+            23.255631292878498
+          ],
+          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8ab89c8fb58",
+          "type": "default",
+          "loc": [
+            95.09613561373105,
+            43.38318846965265
+          ],
+          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09e8dbe81b2b",
+          "type": "default",
+          "loc": [
+            99.09616328319328,
+            59.885285036945746
+          ],
+          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b97b99a9da1b",
+          "type": "default",
+          "loc": [
+            105.8462099754108,
+            57.63499914140578
+          ],
+          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db1b99fb7bfb",
+          "type": "default",
+          "loc": [
+            111.09624629157997,
+            52.75937970106918
+          ],
+          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_194bfb698999",
+          "type": "default",
+          "loc": [
+            118.84629990116305,
+            47.50871261147592
+          ],
+          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a7898697a3b",
+          "type": "default",
+          "loc": [
+            120.59631200655278,
+            62.13557093248571
+          ],
+          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bbb6bfb6898",
+          "type": "default",
+          "loc": [
+            125.72134745805127,
+            58.88515797226131
+          ],
+          "layer": "%5B%5BAmber%20Temple%201.webp%7CLevel%202%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4. World Almanac/Places of Interest/The Amber Temple.md"
+      ]
     }
   ],
   "defaultMarker": {
