@@ -59,14 +59,16 @@ This is my Obsidian Vault I use to plan and run D&D sessions. I use many differe
 - [Dice Roller](https://github.com/javalent/dice-roller)
 - DnD UI Toolkit
 - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
-- Fantasy Content Generator
-- Folder Note Plugin
-- Git
-- Icon Folder
-- Image Toolkit
+- [Fantasy Content Generator](https://github.com/Gregory-Jagermeister/Fantasy-Content-Generator)
+- [Fantasy Statblocks](https://plugins.javalent.com/statblocks)
+- [Folder Note Plugin](https://github.com/xpgo/obsidian-folder-note-plugin)
+- [Force note view mode](https://github.com/bwydoogh/obsidian-force-view-mode-of-note)
+- [Git](https://github.com/Vinzent03/obsidian-git)
+- [Iconize](https://github.com/FlorianWoelki/obsidian-iconize)
+- [Image Toolkit](https://github.com/sissilab/obsidian-image-toolkit)
 - Image Window
 - Import JSON
-- Initiative Tracker
+- [Initiative Tracker](https://plugins.javalent.com/it)
 - JS Engine
 - Kanban
 - Leaflet
@@ -75,10 +77,8 @@ This is my Obsidian Vault I use to plan and run D&D sessions. I use many differe
 - Modal Forms
 - Modules
 - [New Tab Default Page](https://github.com/chrisgrieser/new-tab-default-page)
-- Obsidian 5e Statblocks
 - Remotely Save
 - Style Settings
 - Templater
 - Text Generator
 - Various Complements
-- View Mode By Frontmatter
