@@ -49,6 +49,10 @@
   display: none;
 }
 
+.tree-item:has(> div[data-path*="README"]) {
+  display: none;
+}
+
 /* Displays gallery callout images */
 .json5e-background .callout[data-callout=gallery] .callout-content p,
 .json5e-class .callout[data-callout=gallery] .callout-content p,
