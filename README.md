@@ -11,39 +11,39 @@ This is my Obsidian Vault I use to plan and run D&D sessions. I use many differe
 
 ## D&D Parties
 
-### [Party Dashboard](z_Templates\Templater\Party\Party%20Dashboard.md)
+### [Party Dashboard](z_Templates/Templater/Party/Party%20Dashboard.md)
 
-### [Player Character](z_Templates\Templater\Party\Player%20Character.md)
+### [Player Character](z_Templates/Templater/Party/Player%20Character.md)
 
 ## Story
 
-### [Quest](z_Templates\Templater\Story\Quest.md)
+### [Quest](z_Templates/Templater/Story/Quest.md)
 
 ## World Building
 
-### [Leaflet Map](z_Templates\Templater\World%20Building\Leaflet%20Map.md)
+### [Leaflet Map](z_Templates/Templater/World%20Building/Leaflet%20Map.md)
 
-### [Location](z_Templates\Templater\World%20Building\Location.md)
+### [Location](z_Templates/Templater/World%20Building/Location.md)
 
-### [NPC](z_Templates\Templater\World%20Building\NPC.md)
+### [NPC](z_Templates/Templater/World%20Building/NPC.md)
 
-### [Shop](z_Templates\Templater\World%20Building\Shop.md)
+### [Shop](z_Templates/Templater/World%20Building/Shop.md)
 
 ## Functional
 
-### [Add Relationship](z_Templates\Templater\Functional\Add%20Relationship.md)
+### [Add Relationship](z_Templates/Templater/Functional/Add%20Relationship.md)
 
-### [Remove Relationship](z_Templates\Templater\Functional\Remove%20Relationship.md)
+### [Remove Relationship](z_Templates/Templater/Functional/Remove%20Relationship.md)
 
-### [Add Travel Distance](z_Templates\Templater\Functional\Add%20Travel%20Distance.md)
+### [Add Travel Distance](z_Templates/Templater/Functional/Add%20Travel%20Distance.md)
 
-### [Remove Travel Distance](z_Templates\Templater\Functional\Remove%20Travel%20Distance.md)
+### [Remove Travel Distance](z_Templates/Templater/Functional/Remove%20Travel%20Distance.md)
 
-### [Startup](z_Templates\Templater\Functional\Startup.md)
+### [Startup](z_Templates/Templater/Functional/Startup.md)
 
 ## Extra
 
-### [Sound Board](z_Templates\Templater\Extra\Sound%20Board.md)
+### [Sound Board](z_Templates/Templater/Extra/Sound%20Board.md)
 
 
 # CSS Snipets
