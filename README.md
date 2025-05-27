@@ -7,11 +7,11 @@ This is my Obsidian Vault I use to plan and run D&D sessions. I use many differe
 
 ### [Session Journal](z_Templates/Templater/DM%20Prep/Session%20Journal.md)
 
-### Session Prep
+### [Session Prep](z_Templates/Templater/DM%20Prep/Session%20Prep.md)
 
 ## D&D Parties
 
-### Party Dashboard
+### [Party Dashboard](z_Templates\Templater\Party\Party%20Dashboard.md)
 
 ### Player Character
 
