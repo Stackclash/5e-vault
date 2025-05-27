@@ -5,11 +5,9 @@
   "folder-note-plugin",
   "obsidian-view-mode-by-frontmatter",
   "obsidian-git",
-  "lazy-plugins",
   "modules",
   "obsidian-style-settings",
   "obsidian-meta-bind-plugin",
   "templater-obsidian",
-  "modalforms",
-  "dnd-ui-toolkit"
+  "modalforms"
 ]
