@@ -49,36 +49,36 @@ This is my Obsidian Vault I use to plan and run D&D sessions. I use many differe
 # CSS Snipets
 
 # Plugins Used
+- [Admonitions](https://plugins.javalent.com/admonitions)
 - April's Automatic Timelines
+- Banners
+- BRAT
 - Calendarium
 - Carousel
 - Dataview
+- Dice Roller
 - DnD UI Toolkit
+- Excalidraw
 - Fantasy Content Generator
 - Folder Note Plugin
+- Git
+- Icon Folder
+- Image Toolkit
 - Image Window
+- Import JSON
 - Initiative Tracker
 - JS Engine
+- Kanban
+- Leaflet
 - Media Extended
+- Meta Bind
 - Modal Forms
 - Modules
 - New Tab Default Page
 - Obsidian 5e Statblocks
-- Admonition
-- Banners
-- Dice Roller
-- Excalidraw
-- Git
-- Icon Folder
-- Image Toolkit
-- Import JSON
-- Kanban
-- Leaflet
-- Meta Bind
-- Style Settings
-- Text Generator
-- View Mode By Frontmatter
-- BRAT
 - Remotely Save
+- Style Settings
 - Templater
+- Text Generator
 - Various Complements
+- View Mode By Frontmatter
