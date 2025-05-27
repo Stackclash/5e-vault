@@ -2,12 +2,49 @@
 This is my Obsidian Vault I use to plan and run D&D sessions. I use many different plugins, templates, and custom code to create a management system for D&D. This documentation is my attempt to fully document the vault as it grows in complexity.
 
 # Templates
+
 ## Dungeon Master Prep
+
+### Session Journal
+
+### Session Prep
+
 ## D&D Parties
+
+### Party Dashboard
+
+### Player Character
+
 ## Story
+
+### Quest
+
 ## World Building
+
+### Leaflet Map
+
+### Location
+
+### NPC
+
+### Shop
+
 ## Functional
+
+### Add Relationship
+
+### Remove Relationship
+
+### Add Travel Distance
+
+### Remove Travel Distance
+
+### Startup
+
 ## Extra
+
+### Sound Board
+
 
 # CSS Snipets
 
