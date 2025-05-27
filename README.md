@@ -50,15 +50,15 @@ This is my Obsidian Vault I use to plan and run D&D sessions. I use many differe
 
 # Plugins Used
 - [Admonitions](https://plugins.javalent.com/admonitions)
-- April's Automatic Timelines
-- Banners
-- BRAT
-- Calendarium
+- [April's Automatic Timelines](https://github.com/April-Gras/obsidian-auto-timelines)
+- [Banners](https://github.com/noatpad/obsidian-banners)
+- [BRAT](https://github.com/TfTHacker/obsidian42-brat)
+- [Calendarium](https://github.com/javalent/calendarium)
 - Carousel
-- Dataview
-- Dice Roller
+- [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
+- [Dice Roller](https://github.com/javalent/dice-roller)
 - DnD UI Toolkit
-- Excalidraw
+- [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 - Fantasy Content Generator
 - Folder Note Plugin
 - Git
@@ -74,7 +74,7 @@ This is my Obsidian Vault I use to plan and run D&D sessions. I use many differe
 - Meta Bind
 - Modal Forms
 - Modules
-- New Tab Default Page
+- [New Tab Default Page](https://github.com/chrisgrieser/new-tab-default-page)
 - Obsidian 5e Statblocks
 - Remotely Save
 - Style Settings
