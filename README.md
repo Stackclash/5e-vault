@@ -13,37 +13,37 @@ This is my Obsidian Vault I use to plan and run D&D sessions. I use many differe
 
 ### [Party Dashboard](z_Templates\Templater\Party\Party%20Dashboard.md)
 
-### Player Character
+### [Player Character](z_Templates\Templater\Party\Player%20Character.md)
 
 ## Story
 
-### Quest
+### [Quest](z_Templates\Templater\Story\Quest.md)
 
 ## World Building
 
-### Leaflet Map
+### [Leaflet Map](z_Templates\Templater\World%20Building\Leaflet%20Map.md)
 
-### Location
+### [Location](z_Templates\Templater\World%20Building\Location.md)
 
-### NPC
+### [NPC](z_Templates\Templater\World%20Building\NPC.md)
 
-### Shop
+### [Shop](z_Templates\Templater\World%20Building\Shop.md)
 
 ## Functional
 
-### Add Relationship
+### [Add Relationship](z_Templates\Templater\Functional\Add%20Relationship.md)
 
-### Remove Relationship
+### [Remove Relationship](z_Templates\Templater\Functional\Remove%20Relationship.md)
 
-### Add Travel Distance
+### [Add Travel Distance](z_Templates\Templater\Functional\Add%20Travel%20Distance.md)
 
-### Remove Travel Distance
+### [Remove Travel Distance](z_Templates\Templater\Functional\Remove%20Travel%20Distance.md)
 
-### Startup
+### [Startup](z_Templates\Templater\Functional\Startup.md)
 
 ## Extra
 
-### Sound Board
+### [Sound Board](z_Templates\Templater\Extra\Sound%20Board.md)
 
 
 # CSS Snipets
