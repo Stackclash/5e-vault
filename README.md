@@ -5,7 +5,7 @@ This is my Obsidian Vault I use to plan and run D&D sessions. I use many differe
 
 ## Dungeon Master Prep
 
-### [Session Journal](z_Templates/Templater/DM Prep/Session Journal.md)
+### [Session Journal](z_Templates/Templater/DM%20Prep/Session%20Journal.md)
 
 ### Session Prep
 
