@@ -1,4 +1,17 @@
-`BUTTON[NPC_Generate]`
+```meta-bind-button
+label: NPC Generator
+icon: user-pen
+style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: NPC_Generate
+hidden: false
+actions:
+- type: runTemplaterFile
+  templateFile: z_Templates/Templater/NPC Generator.md
+```
 
 ```dataview
 TABLE Relevant, Gender, Race, Class, Occupation, Alignment
