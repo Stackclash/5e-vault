@@ -1,0 +1,41 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": 200
+  },
+  "smart_sources": {
+    "single_file_data_path": ".smart-env/smart_sources.json",
+    "min_chars": 200,
+    "embed_model": {
+      "adapter": "transformers",
+      "transformers": {
+        "legacy_transformers": false,
+        "model_key": "TaylorAI/bge-micro-v2"
+      },
+      "TaylorAI/bge-micro-v2": {}
+    }
+  },
+  "file_exclusions": "Untitled,6. Resources/Resources/The Game Master's Book of More Random Encounters -- Jeff Ashworth, Tim Baker -- 1, 1, 2024 -- Media Lab Books -- 9781956403732 -- 61650184dafbf3ec9e99521581f27e0b -- Anna’s Archive.pdf,6. Resources/Resources/The Game Master's Book of Legendary Dragons; Epic New -- Jeff Ashworth -- The Game Master's Books, 1, 1, 2022 -- Game Master Series -- 9781956403053 -- 82309935168df8cca6bca79b7aa83d36 -- Anna’s Archive.pdf,6. Resources/Resources/The Game Master's Book of Non-Player Characters; 500+ Unique -- Jeff Ashworth -- The Game Master's Books, 1, 1, 2021 -- Media Lab Books -- 9781948174800 -- 70a0e890d611ac9553bd8b74bbdedcfa -- Anna’s Archive.pdf,6. Resources/Resources/The Game Master's Book of Random Encounters; 500+ -- Jeff Ashworth -- The Game Master's Books, 1, 1, 2020 -- Media Lab Books -- 9781948174374 -- d865411cbfd30701564a181cf27b26fc -- Anna’s Archive.pdf,6. Resources/Resources/The Game Master's Book of Traps, Puzzles and Dungeons -- Jeff Ashworth -- New York, NY, 2022 -- Topix Media Lab -- 9781948174985 -- 4b650b0c6fd655ba024ecacd493a7274 -- Anna’s Archive.pdf,6. Resources/Resources/The Malady Codex IV; Diseases of Icewind Dale 4 -- Jason Bakos, Themis Paraskevas -- The Malady Codex, 4, 2020 -- Dungeon Masters Guild -- f57dd707cfc4399d37181436c2728b26 -- Anna’s Archive.pdf,6. Resources/Resources/Curse of Strahd Companion_ The Complete Edition/1643747-CoS_Companion_Complete_ZIP/CoS Companion Complete ZIP/Handouts/Wedding at Ravenloft/Wedding at Ravenloft/Wedding Cereomony Seating Chart.png,6. Resources/Resources/Curse of Strahd Companion_ The Complete Edition/1643747-CoS_Companion_Complete_ZIP/CoS Companion Complete ZIP/Handouts/Wedding at Ravenloft/Wedding at Ravenloft/Wedding Invitation.png",
+  "folder_exclusions": "",
+  "smart_view_filter": {
+    "render_markdown": true,
+    "show_full_path": false
+  },
+  "smart_notices": {
+    "muted": {}
+  },
+  "smart_chat_threads": {
+    "active_thread_key": "",
+    "chat_model": {
+      "platform_key": "openai"
+    },
+    "system_prompt": "",
+    "detect_self_referential": true,
+    "review_context": true,
+    "stream": true,
+    "language": "en",
+    "modifier_key_to_send": "shift",
+    "use_tool_calls": true
+  }
+}
