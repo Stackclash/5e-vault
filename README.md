@@ -67,7 +67,6 @@ This is my Obsidian Vault I use to plan and run D&D sessions. I use many differe
 - [Iconize](https://github.com/FlorianWoelki/obsidian-iconize)
 - [Image Toolkit](https://github.com/sissilab/obsidian-image-toolkit)
 - [Second Window](https://plugins.javalent.com/second-window)
-- [JSON/CSV Importer](https://github.com/farling42/obsidian-import-json)
 - [Initiative Tracker](https://plugins.javalent.com/it)
 - [JS Engine](https://www.moritzjung.dev/obsidian-js-engine-plugin-docs/)
 - [Kanban](https://github.com/mgmeyers/obsidian-kanban)
