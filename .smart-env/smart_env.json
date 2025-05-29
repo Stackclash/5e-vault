@@ -27,7 +27,7 @@
     "muted": {}
   },
   "smart_chat_threads": {
-    "active_thread_key": "Untitled Chat 1748450246149",
+    "active_thread_key": "Untitled Chat 1748539444375",
     "chat_model": {
       "platform_key": "openai",
       "adapter": "ollama",
