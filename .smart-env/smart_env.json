@@ -17422,5 +17422,25 @@
     "use_tool_calls": true
   },
   "version": "3.0.5",
-  "excluded_headings": ""
+  "excluded_headings": "",
+  "smart_contexts": {
+    "link_depth": 0,
+    "inlinks": false,
+    "follow_links_in_excluded": true,
+    "excluded_headings": [],
+    "max_len": 0,
+    "templates": {
+      "0": {
+        "before": "{{ITEM_PATH}}\n```{{ITEM_EXT}}",
+        "after": "```"
+      },
+      "1": {
+        "before": "REF: {{ITEM_NAME}}\n```{{ITEM_EXT}}",
+        "after": "```"
+      },
+      "-1": {
+        "before": "{{FILE_TREE}}"
+      }
+    }
+  }
 }
