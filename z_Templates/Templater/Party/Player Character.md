@@ -6,24 +6,24 @@ const locationConfig = dv.page('Configuration').locations
 
 let parties = dv.pages('#party')
 const result = await modalForm.openForm({
-    title: 'Add Travel Distance',
+    title: 'Choose Party',
     fields: [
-        {
-            name: 'party',
-            label: 'Party',
-            description: 'What party is the character a part of?',
-            isRequired: true,
-            input: {
-                type: 'select',
-                allowUnknownValues: false,
-                hidden: false,
-                options: parties.map(p => ({
-                    label: p.file.name
-                    value: `[[${p.file.path}|${p.file.name}]]`
-                })),
-                source: 'fixed'
-            }
+      {
+        name: 'party',
+        label: 'Party',
+        description: 'What party is the character a part of?',
+        input: {
+          type: 'select',
+          allowUnknownValues: false,
+          hidden: false,
+          options: parties.map(p => ({
+            label: p.file.name
+            value: `[[${p.file.path}|${p.file.name}]]`
+          })),
+          source: 'fixed'
         }
+        isRequired: true,
+      }
     ]
 })
 const { party: selectedParty } = result.getData()

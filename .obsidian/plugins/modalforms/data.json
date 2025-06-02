@@ -54,6 +54,28 @@
         }
       ],
       "version": "1"
+    },
+    {
+      "title": "Character Party",
+      "name": "Character Party",
+      "version": "1",
+      "fields": [
+        {
+          "name": "party",
+          "label": "Party",
+          "description": "What party is the character a part of?",
+          "input": {
+            "type": "select",
+            "allowUnknownValues": false,
+            "hidden": false,
+            "query": "",
+            "options": [],
+            "source": "notes",
+            "folder": "3. The Party/Parties"
+          },
+          "isRequired": false
+        }
+      ]
     }
   ]
 }
