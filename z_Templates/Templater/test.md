@@ -1,36 +1,31 @@
 <%*
-try {
-  const path = require('path')
-  const dv = app.plugins.getPlugin("dataview").api
-  const modalForm = app.plugins.getPlugin('modalforms').api
-  const locationConfig = dv.page('Configuration').locations
+const path = require('path')
+const dv = app.plugins.getPlugin("dataview").api
+const modalForm = app.plugins.getPlugin('modalforms').api
+const locationConfig = dv.page('Configuration').locations
 
-  let parties = dv.pages('#party')
-  const result = await modalForm.openForm({
-    title: 'Character Party',
-    name: 'Character Party',
-    fields: [
-      {
-        name: 'party',
-        label: 'Party',
-        description: 'What party is the character a part of?',
-        input: {
-          type: 'select',
-          allowUnknownValues: false,
-          hidden: false,
-          options: parties.map(p => ({
-            label: p.file.name,
-            value: `[[${p.file.path}|${p.file.name}]]`
-          })),
-          source: 'static'
-        },
-        isRequired: false
-      }
-    ]
-  })
-  console.log(result.getData())
-} catch (error) {
-  tp.obsidian.Notice(`Error with Template: ${error.message}`)
-}
+let parties = dv.pages('#party')
+console.log(parties.array())
+const result = await modalForm.openForm({
+  title: 'Character Party',
+  name: 'Character Party',
+  fields: [
+    {
+      name: 'party',
+      label: 'Party',
+      description: 'What party is the character a part of?',
+      input: {
+        type: 'select',
+        allowUnknownValues: false,
+        hidden: false,
+        options: parties.map(p => ({
+          value: `[[${p.file.path}|${p.file.name}]]`,
+          label: p.file.name
+        })).array(),
+        source: 'static'
+      },
+      isRequired: false
+    }
+  ]
+})
 -%>
-<% result.party %>
