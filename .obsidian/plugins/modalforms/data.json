@@ -35,14 +35,22 @@
       "name": "test",
       "fields": [
         {
-          "name": "test",
-          "label": "zTest",
-          "description": "",
-          "isRequired": true,
+          "name": "Select Field",
+          "label": "Test Field",
+          "description": "Hello World",
           "input": {
-            "type": "number",
-            "hidden": false
-          }
+            "type": "select",
+            "allowUnknownValues": false,
+            "hidden": false,
+            "options": [
+              {
+                "value": "Value 1",
+                "label": "Option 1"
+              }
+            ],
+            "source": "fixed"
+          },
+          "isRequired": false
         }
       ],
       "version": "1"
