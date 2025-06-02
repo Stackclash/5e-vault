@@ -5,27 +5,7 @@ const modalForm = app.plugins.getPlugin('modalforms').api
 const locationConfig = dv.page('Configuration').locations
 
 let parties = dv.pages('#party')
-const result = await modalForm.openForm({
-    title: 'Choose Party',
-    fields: [
-      {
-        name: 'party',
-        label: 'Party',
-        description: 'What party is the character a part of?',
-        input: {
-          type: 'select',
-          allowUnknownValues: false,
-          hidden: false,
-          options: parties.map(p => ({
-            label: p.file.name
-            value: `[[${p.file.path}|${p.file.name}]]`
-          })),
-          source: 'fixed'
-        }
-        isRequired: true,
-      }
-    ]
-})
+const result = await modalForm.openForm('Character Party')
 const { party: selectedParty } = result.getData()
 
 dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
