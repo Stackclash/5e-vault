@@ -82,13 +82,7 @@ const properties = {
 }
 
 properties.race = await tp.user.find_file(character.race.fullName, '5. Mechanics/Races')
-properties.classes = await character.classes.map(async function(characterClass) {
-  return {
-    ...characterClass,
-    name: await tp.user.find_file(characterClass.name, '5. Mechanics/Classes'),
-    subClass: await tp.user.find_file(characterClass.subClass, '5. Mechanics/Classes')
-  }
-})
+
 properties.classSpells = await character.spells.class.map(async function(classSpell) {
   return {
     ...classSpell,
