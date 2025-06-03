@@ -61,6 +61,7 @@ const properties = {
   proficiency: character.proficiencyBonus,
   url: character.url,
   image: character.image,
+  race: await tp.user.find_file(character.race.fullName, '5. Mechanics/Races'),
   alignment: "character.alignment",
   description: character.description,
   passives: character.passives,
@@ -68,6 +69,13 @@ const properties = {
   speed: character.speeds.walk,
   defences: character.defences,
   background: character.background,
+  classes: character.classes.map(function(characterClass) {
+    return {
+      ...characterClass,
+      name: await tp.user.find_file(characterClass.name, '5. Mechanics/Classes'),
+      subClass: await tp.user.find_file(characterClass.subClass, '5. Mechanics/Classes')
+    }
+  }),
   abilityScores: character.abilityScores,
   savingThrows: character.savingThrows,
   skills: character.skills,
@@ -75,27 +83,23 @@ const properties = {
   classFeatures: character.classFeatures,
   feats: character.feats,
   raceSpells: character.spells.race,
+  classSpells: character.spells.class.map(function(classSpell) {
+    return {
+      ...classSpell,
+      name: await tp.user.find_file(classSpell.name, '5. Mechanics/Spells')
+    }
+  }),
   currencies: character.currencies,
+  inventory: character.inventory.map(function(inv) {
+    return {
+      ...inv,
+      name: await tp.user.find_file(inv.name, '5. Mechanics/Items')
+    }
+  }),
   party: selectedParty,
   condition: 'healthy',
   tags: ['player'],
 }
-
-properties.race = await tp.user.find_file(character.race.fullName, '5. Mechanics/Races')
-
-properties.classSpells = await character.spells.class.map(async function(classSpell) {
-  return {
-    ...classSpell,
-    name: await tp.user.find_file(classSpell.name, '5. Mechanics/Spells')
-  }
-})
-properties.inventory = await character.inventory.map(async function(inv) {
-  return {
-    ...inv,
-    name: await tp.user.find_file(inv.name, '5. Mechanics/Items')
-  }
-})
-console.log(properties)
 -%>
 ---
 <% dump(properties) %>
