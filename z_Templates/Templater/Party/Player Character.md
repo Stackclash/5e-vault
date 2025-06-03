@@ -5,7 +5,7 @@ const modalForm = app.plugins.getPlugin('modalforms').api
 const locationConfig = dv.page('Configuration').locations
 
 let parties = dv.pages('#party')
-const result = await modalForm.openForm('{
+const result = await modalForm.openForm({
   title: 'Choose Party',
   fields: [
     {
@@ -25,7 +25,7 @@ const result = await modalForm.openForm('{
       isRequired: true,
     }
   ]
-}')
+})
 const { party: selectedParty } = result.getData()
 
 dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
