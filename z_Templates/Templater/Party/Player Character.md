@@ -69,7 +69,7 @@ const properties = {
   speed: character.speeds.walk,
   defences: character.defences,
   background: character.background,
-  classes: character.classes.map(function(characterClass) {
+  classes: await character.classes.map(async function(characterClass) {
     return {
       ...characterClass,
       name: await tp.user.find_file(characterClass.name, '5. Mechanics/Classes'),
@@ -83,14 +83,14 @@ const properties = {
   classFeatures: character.classFeatures,
   feats: character.feats,
   raceSpells: character.spells.race,
-  classSpells: character.spells.class.map(function(classSpell) {
+  classSpells: await character.spells.class.map(async function(classSpell) {
     return {
       ...classSpell,
       name: await tp.user.find_file(classSpell.name, '5. Mechanics/Spells')
     }
   }),
   currencies: character.currencies,
-  inventory: character.inventory.map(function(inv) {
+  inventory: await character.inventory.map(async function(inv) {
     return {
       ...inv,
       name: await tp.user.find_file(inv.name, '5. Mechanics/Items')
