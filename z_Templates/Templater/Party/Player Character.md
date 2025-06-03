@@ -6,30 +6,37 @@ const locationConfig = dv.page('Configuration').locations
 
 let parties = dv.pages('#party')
 const result = await modalForm.openForm({
-  title: "Character Party",
-  name: "character-party",
+  title: "Character Setup",
+  name: "character-setup",
   fields: [
     {
-      name: "party",
-      label: "Party",
-      description: "What party is this character a part of?",
+      name: 'party',
+      label: 'Party',
+      description: 'What party is this character a part of?',
       input: {
-        type: "select",
+        type: 'select',
         allowUnknownValues: false,
         hidden: false,
         options: parties.map(p => ({
           value: `[[${p.file.path}|${p.file.name}]]`,
           label: p.file.name
         })),
-        source: "fixed"
+        source: 'fixed'
       },
       isRequired: false
+    },
+    {
+      name: 'dndbeyond',
+      label: 'DnD Beyond',
+      description: 'Paste D&D Beyond character url or id here',
+      input: {
+        type: 'text',
+        hiddent: false
+      }
     }
   ]
 })
-const { party: selectedParty } = result.getData()
-
-dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
+const { party: selectedParty, dndbeyond: dndBeyondInfo } = result.getData()
 
 let dndBeyondId
 if (isNaN(dndBeyondInfo)) {
