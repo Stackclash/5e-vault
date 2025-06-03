@@ -13,7 +13,6 @@ const options = parties.map(p => ({
 const result = await modalForm.openForm({
       title: "Character Party",
       name: "character-party",
-      version: "1",
       fields: [
         {
           name: "party",
