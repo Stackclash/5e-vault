@@ -1,6 +1,6 @@
 <%*
 const path = require('path')
-const { dump } = require('js-yaml')
+const { dump } = await self.require('https://esm.sh/gray-matter')
 const dv = app.plugins.getPlugin("dataview").api
 const modalForm = app.plugins.getPlugin('modalforms').api
 const locationConfig = dv.page('Configuration').locations
@@ -69,11 +69,11 @@ const properties = {
   speed: character.speeds.walk,
   defences: character.defences,
   background: character.background,
-  classes: character.classes.map(function(class) {
+  classes: character.classes.map(function(characterClass) {
     return {
-      ...class,
-      name: tp.user.find_file(class.name, '5. Mechanics/Classes'),
-      subClass: tp.user.find_file(class.subClass, '5. Mechanics/Classes')
+      ...characterClass,
+      name: tp.user.find_file(characterClass.name, '5. Mechanics/Classes'),
+      subClass: tp.user.find_file(characterClass.subClass, '5. Mechanics/Classes')
     }
   }),
   abilityScores: character.abilityScores,
