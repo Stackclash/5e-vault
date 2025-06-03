@@ -29,6 +29,31 @@
         }
       ],
       "version": "1"
+    },
+    {
+      "title": "Character Party",
+      "name": "character-party",
+      "version": "1",
+      "fields": [
+        {
+          "name": "party",
+          "label": "Party",
+          "description": "What party is this character a part of?",
+          "input": {
+            "type": "select",
+            "allowUnknownValues": false,
+            "hidden": false,
+            "options": [
+              {
+                "value": "World",
+                "label": "This"
+              }
+            ],
+            "source": "fixed"
+          },
+          "isRequired": false
+        }
+      ]
     }
   ]
 }
