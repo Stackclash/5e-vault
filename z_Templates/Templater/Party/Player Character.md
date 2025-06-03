@@ -1,5 +1,6 @@
 <%*
 const path = require('path')
+const { dump } = require('js-yaml')
 const dv = app.plugins.getPlugin("dataview").api
 const modalForm = app.plugins.getPlugin('modalforms').api
 const locationConfig = dv.page('Configuration').locations
@@ -48,42 +49,61 @@ const character = new tp.user.dndBeyondCharacter(dndBeyondId)
 await character.initialize()
 
 await tp.file.move(path.join(locationConfig.players, character.name))
+
+const properties = {
+  obsidianUIMode: 'preview',
+  statblock: true,
+  name: character.name,
+  level: character.level,
+  ac: character.armorClass,
+  hp: character.healthPoints.current,
+  modifier: character.initiative,
+  proficiency: character.proficiencyBonus,
+  url: character.url,
+  image: character.image,
+  race: tp.user.find_file(character.race.fullName, '5. Mechanics/Races'),
+  alignment: "character.alignment",
+  description: character.description,
+  passives: character.passives,
+  proficiencies: character.proficiencies,
+  speed: character.speeds.walk,
+  defences: character.defences,
+  background: character.background,
+  classes: character.classes.map(function(class) {
+    return {
+      ...class,
+      name: tp.user.find_file(class.name, '5. Mechanics/Classes'),
+      subClass: tp.user.find_file(class.subClass, '5. Mechanics/Classes')
+    }
+  }),
+  abilityScores: character.abilityScores,
+  savingThrows: character.savingThrows,
+  skills: character.skills,
+  racialTraits: character.racialTraits,
+  classFeatures: character.classFeatures,
+  feats: character.feats,
+  raceSpells: character.spells.race,
+  classSpells: character.spells.class.map(function(classSpell) {
+    return {
+      ...classSpell,
+      name: tp.user.find_file(classSpell.name, '5. Mechanics/Spells')
+    }
+  }),
+  currencies: character.currencies,
+  inventory: character.inventory.map(function(inv) {
+    return {
+      ...inv,
+      name: tp.user.find_file(inv.name, '5. Mechanics/Items')
+    }
+  }),
+  party: selectedParty,
+  condition: condition,
+  location: location,
+  tags: ['player'],
+}
 -%>
 ---
-obsidianUIMode: preview
-statblock: true
-name: <% character.name %>
-level: <% character.level %>
-ac: <% character.armorClass %>
-hp: <% character.healthPoints.current %>
-modifier: <% character.initiative %>
-proficiency: <% character.proficiencyBonus %>
-url: <% character.url %>
-image: <% character.image %>
-race: "<% tp.user.find_file(character.race.fullName, '5. Mechanics/Races') %>"
-alignment: "<% character.alignment %>"
-description: <% tp.user.build_yaml(character.description, 2) %>
-passives: <% tp.user.build_yaml(character.passives, 2) %>
-proficiencies: <% tp.user.build_yaml(character.proficiencies, 2) %>
-speed: <% character.speeds.walk %>
-defences: <% tp.user.build_yaml(character.defences, 2) %>
-background: <% tp.user.build_yaml(character.background, 2) %>
-classes: <% tp.user.build_yaml(character.classes, 2, {name: '5. Mechanics/Classes', subClass: '5. Mechanics/Classes'}) %>
-abilityScores: <% tp.user.build_yaml(character.abilityScores, 2) %>
-savingThrows: <% tp.user.build_yaml(character.savingThrows, 2) %>
-skills: <% tp.user.build_yaml(character.skills, 2) %>
-racialTraits: <% tp.user.build_yaml(character.racialTraits, 2) %>
-classFeatures: <% tp.user.build_yaml(character.classFeatures, 2) %>
-feats: <% tp.user.build_yaml(character.feats, 2) %>
-raceSpells: <% tp.user.build_yaml(character.spells.race, 2) %>
-classSpells: <% tp.user.build_yaml(character.spells.class, 2, {name: '5. Mechanics/Spells'}) %>
-currencies: <% tp.user.build_yaml(character.currencies, 2) %>
-inventory: <% tp.user.build_yaml(character.inventory, 2, {name: '5. Mechanics/Items'}) %>
-party: "<% selectedParty%>"
-condition: <% condition %>
-location: "<% location %>"
-tags:
-  - player
+<% dump(properties) %>
 ---
 `$="[![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")](" + dv.current().url + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
