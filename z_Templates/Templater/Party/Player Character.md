@@ -61,7 +61,7 @@ const properties = {
   proficiency: character.proficiencyBonus,
   url: character.url,
   image: character.image,
-  race: tp.user.find_file(character.race.fullName, '5. Mechanics/Races'),
+  race: await tp.user.find_file(character.race.fullName, '5. Mechanics/Races'),
   alignment: "character.alignment",
   description: character.description,
   passives: character.passives,
@@ -72,8 +72,8 @@ const properties = {
   classes: character.classes.map(function(characterClass) {
     return {
       ...characterClass,
-      name: tp.user.find_file(characterClass.name, '5. Mechanics/Classes'),
-      subClass: tp.user.find_file(characterClass.subClass, '5. Mechanics/Classes')
+      name: await tp.user.find_file(characterClass.name, '5. Mechanics/Classes'),
+      subClass: await tp.user.find_file(characterClass.subClass, '5. Mechanics/Classes')
     }
   }),
   abilityScores: character.abilityScores,
@@ -86,19 +86,18 @@ const properties = {
   classSpells: character.spells.class.map(function(classSpell) {
     return {
       ...classSpell,
-      name: tp.user.find_file(classSpell.name, '5. Mechanics/Spells')
+      name: await tp.user.find_file(classSpell.name, '5. Mechanics/Spells')
     }
   }),
   currencies: character.currencies,
   inventory: character.inventory.map(function(inv) {
     return {
       ...inv,
-      name: tp.user.find_file(inv.name, '5. Mechanics/Items')
+      name: await tp.user.find_file(inv.name, '5. Mechanics/Items')
     }
   }),
   party: selectedParty,
-  condition: condition,
-  location: location,
+  condition: 'healthy',
   tags: ['player'],
 }
 -%>
