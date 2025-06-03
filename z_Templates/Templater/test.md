@@ -11,21 +11,23 @@ const options = parties.map(p => ({
 }))
 
 const result = await modalForm.openForm({
-  title: 'Character Party',
-  fields: [
-    {
-      name: 'party',
-      label: 'Party',
-      description: 'What party is the character a part of?',
-      input: {
-        type: 'select',
-        allowUnknownValues: false,
-        hidden: false,
-        options,
-        source: 'static'
-      },
-      isRequired: false
-    }
-  ]
-})
+      title: "Character Party",
+      name: "character-party",
+      version: "1",
+      fields: [
+        {
+          name: "party",
+          label: "Party",
+          description: "What party is this character a part of?",
+          input: {
+            type: "select",
+            allowUnknownValues: false,
+            hidden: false,
+            options,
+            source: "fixed"
+          },
+          isRequired: false
+        }
+      ]
+    })
 -%>
