@@ -1,6 +1,6 @@
 <%*
 const path = require('path')
-const { dump } = await self.require('https://esm.sh/gray-matter')
+const { dump } = await self.require.import('https://esm.sh/js-yaml')
 const dv = app.plugins.getPlugin("dataview").api
 const modalForm = app.plugins.getPlugin('modalforms').api
 const locationConfig = dv.page('Configuration').locations
