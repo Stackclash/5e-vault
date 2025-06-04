@@ -8,7 +8,7 @@ tags:
 {/for}
 {/if}
 level: {resource.level}
-range: {resource.ritual}
+ritual: {resource.ritual}
 school: {resource.school}
 time: {resource.time}
 duration: {resource.duration}
