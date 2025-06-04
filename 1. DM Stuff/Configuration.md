@@ -145,8 +145,11 @@ dv.table(['Type', 'Count'],
 ```datacorejsx
 return function View() {
   const pages = dc.useQuery(`@page and path("4. World Almanac")`)
-  const pagesByGroup = dc.useArray(pages, array => array.groupBy(page => page.$path.substring(0, page.$path.lastIndexOf('/'))))
-  console.log(pagesByGroup)
+  const pagesByGroup = dc.useArray(pages, array => array.groupBy(page => {
+    const parentFolderPath = page.$path.substring(0, page.$path.lastIndexOf('/'))
+    const parentFolderName = parentFolderPath.substring(parentFolderPath.lastIndexOf("/") + 1)
+    return parentFolderName
+  }))
   const columns = [
     {
       id: "Name",
