@@ -154,22 +154,13 @@ return function View() {
 
 # Fix Notes
 ## NPCs
-```dataview
-TABLE WITHOUT ID
-	file.link as "NPC",
-  choice(!!race, "✅", "✘") as race,
-	choice(!!gender, "✅", "✘") as gender,
-	choice(!!age, "✅", "✘") as age,
-	choice(!!alignment, "✅", "✘") as alignment,
-	choice(!!location, "✅", "✘") as location
-FROM #npc
-WHERE (!gender or !alignment or !location or !age)
-and file.name != "Npc"
-SORT file.name
-```
 ```datacorejsx
 return function View() {
-  const npcs = dc.useQuery(`#npc and $name != "Npc" and (!gender or !alignment or !location or !age)`)
+  const npcs = dc.useQuery(`
+    #npc and
+    $name != "Npc" and
+    (!gender or !alignment or !location or !age)
+  `)
   const columns = [
     {
       id: 'NPC',
@@ -219,3 +210,6 @@ WHERE (!location or (contains(file.path, "Shops") and length(items) = 0))
 and (!image or image = "z_Assets/PlaceholderImage.png")
 and !contains(list("Places of Interest", "Regions", "Settlements", "Shops"), file.name)
 ```
+```datacorejsx
+return function View() {
+  const locations = dc.useQuery(`#location and (!location or (#shop and length(items) = 0) or )`)
