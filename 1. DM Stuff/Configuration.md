@@ -35,8 +35,16 @@ dv.paragraph(`Current Date: ${currentDate.prettyPrint.month} ${currentDate.origi
 # DM Tools/Calculators
 ```dataview
 LIST WITHOUT ID file.link
-FROM "1. DM Stuff/Lookup Tables"
+FROM "1. DM Stuff/Tools"
 ```
+```datacorejsx
+return function View() {
+  const tools = dc.useQuery(`path("1. DM Stuff/Tools")`)
+
+  return <dc.List rows={tools} renderer={tool => tool.$link}>
+}
+```
+
 # Templates
 | World Building            | Party                             |
 | ------------------------- | --------------------------------- |
@@ -198,42 +206,42 @@ return function View() {
 >>   return <dc.Table rows={npcs} columns={columns} />
 >> }
 >> ```
-
-## Locations
-```datacorejsx
-return function View() {
-  const locations = dc.useQuery(`
-    #location and
-    (
-      !location or
-      (#shop and length(items) = 0) or
-      (!image or image = "z_Assets/PlaceholderImage.png") or
-      (!["Places of Interest", "Regions", "Settlements", "Shops"].contains($name))
-    )
-  `)
-  const columns = [
-    {
-      id: 'Location',
-      value: (row) => row.$path,
-      render: (value, row) => dc.fileLink(value)
-    },
-    {
-      id: 'Parent Location',
-      value: (row) => row.value("location"),
-      render: (value, row) => !!value ? "✅" : "✘"
-    },
-    {
-      id: 'Items',
-      value: (row) => row.value("items") ? row.value("items").length : undefined,
-      render: (value, row) => typeof value === undefined ? "-" : (!!value ? "✅" : "✘")
-    },
-    {
-      id: 'Image',
-      value: (row) => !!row.value("image") || row.value("image") !== "z_Assets/PlaceholderImage.png",
-      render: (value, row) => value ? "✅" : "✘"
-    }
-  ]
-
-  return <dc.Table rows={locations} columns={columns} />
-}
-```
+>
+>> ## Locations
+>> ```datacorejsx
+>> return function View() {
+>>   const locations = dc.useQuery(`
+>>     #location and
+>>     (
+>>       !location or
+>>       (#shop and length(items) = 0) or
+>>       (!image or image = "z_Assets/PlaceholderImage.png") or
+>>       (!["Places of Interest", "Regions", "Settlements", "Shops"].contains($name))
+>>     )
+>>   `)
+>>   const columns = [
+>>     {
+>>       id: 'Location',
+>>       value: (row) => row.$path,
+>>       render: (value, row) => dc.fileLink(value)
+>>     },
+>>     {
+>>       id: 'Parent Location',
+>>       value: (row) => row.value("location"),
+>>       render: (value, row) => !!value ? "✅" : "✘"
+>>     },
+>>     {
+>>       id: 'Items',
+>>       value: (row) => row.value("items") ? row.value("items").length : undefined,
+>>       render: (value, row) => typeof value === undefined ? "-" : (!!value ? "✅" : "✘")
+>>     },
+>>     {
+>>       id: 'Image',
+>>       value: (row) => !!row.value("image") || row.value("image") !== "z_Assets/PlaceholderImage.png",
+>>       render: (value, row) => value ? "✅" : "✘"
+>>     }
+>>   ]
+>> 
+>>   return <dc.Table rows={locations} columns={columns} />
+>> }
+>> ```
