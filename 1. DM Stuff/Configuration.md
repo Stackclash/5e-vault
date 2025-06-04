@@ -144,7 +144,7 @@ dv.table(['Type', 'Count'],
 
 ```datacorejsx
 return function View() {
-  const pages = dc.useQuery(`@page and path("4. World Almanac\Shops")`)
+  const pages = dc.useQuery(`@page and (path("4. World Almanac/Shops") or path("4. World Almanac/Settlements"))`)
   const columns = [
     {
       id: "name",
