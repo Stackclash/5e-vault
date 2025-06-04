@@ -1,9 +1,14 @@
 {
   "pluginList": [
+    "blacksmithgu/datacore",
     "hay-kot/obsidian-dnd-ui-toolkit",
     "xhuajin/obsidian-carousel"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "blacksmithgu/datacore",
+      "version": "latest"
+    },
     {
       "repo": "hay-kot/obsidian-dnd-ui-toolkit",
       "version": "v0.2.0"
