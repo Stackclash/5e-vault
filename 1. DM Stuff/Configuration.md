@@ -167,6 +167,40 @@ WHERE (!gender or !alignment or !location or !age)
 and file.name != "Npc"
 SORT file.name
 ```
+```datacorejsx
+return function View() {
+  const npcs = dc.useQuery(`#npc and $name != "Npc" and (!gender or !alignment or !location or !age)`)
+  const columns = [
+    {
+      id: 'NPC',
+      value: (row) => row.$path,
+      render: (value, row) => dc.fileLink(value)
+    },
+    {
+      id: 'Race',
+      value: (row) => row.value("race")
+    },
+    {
+      id: 'Gender',
+      value: (row) => row.value("gender")
+    },
+    {
+      id: 'Age',
+      value: (row) => row.value("age")
+    },
+    {
+      id: 'Alignment',
+      value: (row) => row.value("alignment")
+    },
+    {
+      id: 'Location',
+      value: (row) => row.value("location")
+    }
+  ]
+
+  return <dc.Table rows={npcs} columns={columns} />
+}
+```
 
 ## Locations
 ```dataview
