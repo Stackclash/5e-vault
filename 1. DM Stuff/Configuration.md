@@ -142,6 +142,26 @@ dv.table(['Type', 'Count'],
   groups.map(g => [g.key, g.rows.length]))
 ```
 
+```datacorejsx
+return function View() {
+  const pages = dc.useQuery("path(\"4. World Almanac\Shops\")")
+  const columns = [
+    {
+      id: "name",
+      value: (row) => row.$name
+    },
+    {
+      id: "path",
+      value: (row) => row.$path
+    }
+  ]
+
+  console.log(pages)
+
+  return <dc.Table rows={pages} columns={columns} />
+}
+```
+
 # Fix Notes
 ## NPCs
 ```dataview
