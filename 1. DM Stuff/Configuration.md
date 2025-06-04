@@ -144,21 +144,21 @@ dv.table(['Type', 'Count'],
 
 ```datacorejsx
 return function View() {
-  const pages = dc.useQuery(`@page and (path("4. World Almanac/Shops") or path("4. World Almanac/Settlements"))`)
+  const pages = dc.useQuery(`@page and path("4. World Almanac")`)
+  const pagesByGroup = dc.useArray(pages, array => array.groupBy(page => page.$path.substring(0, page.$path.lastIndexOf('/'))))
+  console.log(pagesByGroup)
   const columns = [
     {
-      id: "name",
+      id: "Name",
       value: (row) => row.$name
     },
     {
-      id: "path",
+      id: "Path",
       value: (row) => row.$path
     }
   ]
 
-  console.log(pages)
-
-  return <dc.Table rows={pages} columns={columns} />
+  return <dc.Table rows={pagesByGroup} columns={columns} />
 }
 ```
 
