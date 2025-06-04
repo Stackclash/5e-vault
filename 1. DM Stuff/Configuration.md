@@ -153,63 +153,87 @@ return function View() {
 ```
 
 # Fix Notes
-## NPCs
+> [!column| no-t clean]
+>> ## NPCs
+>> ```datacorejsx
+>> return function View() {
+>>   const npcs = dc.useQuery(`
+>>     #npc and
+>>     $name != "Npc" and
+>>     (!gender or !alignment or !location or !age)
+>>   `)
+>>   const columns = [
+>>     {
+>>       id: 'NPC',
+>>       value: (row) => row.$path,
+>>       render: (value, row) => dc.fileLink(value)
+>>     },
+>>     {
+>>       id: 'Race',
+>>       value: (row) => row.value("race"),
+>>       render: (value, row) => !!value ? "✅" : "✘"
+>>     },
+>>     {
+>>       id: 'Gender',
+>>       value: (row) => row.value("gender"),
+>>       render: (value, row) => !!value ? "✅" : "✘"
+>>     },
+>>     {
+>>       id: 'Age',
+>>       value: (row) => row.value("age"),
+>>       render: (value, row) => !!value ? "✅" : "✘"
+>>     },
+>>     {
+>>       id: 'Alignment',
+>>       value: (row) => row.value("alignment"),
+>>       render: (value, row) => !!value ? "✅" : "✘"
+>>     },
+>>     {
+>>       id: 'Location',
+>>       value: (row) => row.value("location"),
+>>       render: (value, row) => !!value ? "✅" : "✘"
+>>     }
+>>   ]
+>> 
+>>   return <dc.Table rows={npcs} columns={columns} />
+>> }
+>> ```
+
+## Locations
 ```datacorejsx
 return function View() {
-  const npcs = dc.useQuery(`
-    #npc and
-    $name != "Npc" and
-    (!gender or !alignment or !location or !age)
+  const locations = dc.useQuery(`
+    #location and
+    (
+      !location or
+      (#shop and length(items) = 0) or
+      (!image or image = "z_Assets/PlaceholderImage.png") or
+      (!["Places of Interest", "Regions", "Settlements", "Shops"].contains($name))
+    )
   `)
   const columns = [
     {
-      id: 'NPC',
+      id: 'Location',
       value: (row) => row.$path,
       render: (value, row) => dc.fileLink(value)
     },
     {
-      id: 'Race',
-      value: (row) => row.value("race"),
-      render: (value, row) => !!value ? "✅" : "✘"
-    },
-    {
-      id: 'Gender',
-      value: (row) => row.value("gender"),
-      render: (value, row) => !!value ? "✅" : "✘"
-    },
-    {
-      id: 'Age',
-      value: (row) => row.value("age"),
-      render: (value, row) => !!value ? "✅" : "✘"
-    },
-    {
-      id: 'Alignment',
-      value: (row) => row.value("alignment"),
-      render: (value, row) => !!value ? "✅" : "✘"
-    },
-    {
-      id: 'Location',
+      id: 'Parent Location',
       value: (row) => row.value("location"),
       render: (value, row) => !!value ? "✅" : "✘"
+    },
+    {
+      id: 'Items',
+      value: (row) => row.value("items") ? row.value("items").length : undefined,
+      render: (value, row) => typeof value === undefined ? "-" : (!!value ? "✅" : "✘")
+    },
+    {
+      id: 'Image',
+      value: (row) => !!row.value("image") || row.value("image") !== "z_Assets/PlaceholderImage.png",
+      render: (value, row) => value ? "✅" : "✘"
     }
   ]
 
-  return <dc.Table rows={npcs} columns={columns} />
+  return <dc.Table rows={locations} columns={columns} />
 }
 ```
-
-## Locations
-```dataview
-TABLE WITHOUT ID
-  file.link as "Location",
-  choice(!!location, "✅", "✘") as location,
-  choice(!contains(file.path, "Shops") or length(items) > 0, "✅", "✘") as items,
-  choice(!!image or image != "z_Assets/PlaceholderImage.png", "✅", "✘") as image
-FROM #location
-WHERE (!location or (contains(file.path, "Shops") and length(items) = 0))
-and (!image or image = "z_Assets/PlaceholderImage.png")
-and !contains(list("Places of Interest", "Regions", "Settlements", "Shops"), file.name)
-```
-```datacorejsx
-return function View() {
-  const locations = dc.useQuery(`#location and (!location or (#shop and length(items) = 0) or )`)
