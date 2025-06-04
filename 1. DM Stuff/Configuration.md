@@ -33,15 +33,11 @@ dv.paragraph(`Current Date: ${currentDate.prettyPrint.month} ${currentDate.origi
 ```
 
 # DM Tools/Calculators
-```dataview
-LIST WITHOUT ID file.link
-FROM "1. DM Stuff/Tools"
-```
 ```datacorejsx
 return function View() {
-  const tools = dc.useQuery(`path("1. DM Stuff/Tools")`)
+  const tools = dc.useQuery(`@page and path("1. DM Stuff/Tools")`)
 
-  return <dc.List rows={tools} renderer={tool => tool.$link}>
+  return <dc.List rows={tools} renderer={tool => dc.fileLink(tool.$path)} />
 }
 ```
 
