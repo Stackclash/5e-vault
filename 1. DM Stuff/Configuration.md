@@ -126,22 +126,6 @@ actions:
 >> | Monsters | `INPUT[text:locations.monsters]` |
 
 # Stats
-```dataviewjs
-let finalGroups = []
-let groups = dv.pages().filter(p => {
-    return (p.file.folder.includes('Shops') ||
-        p.file.folder.includes('Settlements') ||
-        p.file.folder.includes('Regions') ||
-        p.file.folder.includes('Worlds') ||
-        p.file.folder.includes('Bestiary') ||
-        p.file.folder.includes('Places of Interest') ||
-        p.file.folder.includes('NPCs')) && !['Shops', 'Bestiary', 'Worlds', 'Regions', 'Settlements', 'Places of Interest'].includes(p.file.name)
-}).groupBy(p => p.file.folder.split('/')[1]).sort(g => g.key[0])
-
-dv.table(['Type', 'Count'],
-  groups.map(g => [g.key, g.rows.length]))
-```
-
 ```datacorejsx
 return function View() {
   const pages = dc.useQuery(`@page and path("4. World Almanac")`)
@@ -149,15 +133,18 @@ return function View() {
     const parentFolderPath = page.$path.substring(0, page.$path.lastIndexOf('/'))
     const parentFolderName = parentFolderPath.substring(parentFolderPath.lastIndexOf("/") + 1)
     return parentFolderName
+  })).map(({key: dataKey, rows: dataRows}) => ({
+    type: dataKey,
+    count: dataRows.length
   }))
   const columns = [
     {
-      id: "Name",
-      value: (row) => row.$name
+      id: "Type",
+      value: (row) => row.type
     },
     {
-      id: "Path",
-      value: (row) => row.$path
+      id: "Count",
+      value: (row) => row.count
     }
   ]
 
