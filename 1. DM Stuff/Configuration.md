@@ -178,23 +178,28 @@ return function View() {
     },
     {
       id: 'Race',
-      value: (row) => row.value("race")
+      value: (row) => row.value("race"),
+      render: (value, row) => !!value ? "✅" : "✘"
     },
     {
       id: 'Gender',
-      value: (row) => row.value("gender")
+      value: (row) => row.value("gender"),
+      render: (value, row) => !!value ? "✅" : "✘"
     },
     {
       id: 'Age',
-      value: (row) => row.value("age")
+      value: (row) => row.value("age"),
+      render: (value, row) => !!value ? "✅" : "✘"
     },
     {
       id: 'Alignment',
-      value: (row) => row.value("alignment")
+      value: (row) => row.value("alignment"),
+      render: (value, row) => !!value ? "✅" : "✘"
     },
     {
       id: 'Location',
-      value: (row) => row.value("location")
+      value: (row) => row.value("location"),
+      render: (value, row) => !!value ? "✅" : "✘"
     }
   ]
 
