@@ -9,13 +9,14 @@ tags:
   - item/weapon/simple
 aliases:
   - Mace of Vampire Slaying
-one-hand-damage: 1d6 B
+one-hand-damage: 1d6 bludgeoning
+weight: 4
 ---
 # Mace of Vampire Slaying
 *Weapon ([[5. Mechanics/Items/Mace.md\|mace]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mace-of-Vampire-Slaying.webp#right)  
 
-- **Damage**: 1d6 B
+- **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
 
 This weapon is made from a vampire's skull and impaled with various wooden stakes. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus increases to +3 when you use the mace to attack a vampire.

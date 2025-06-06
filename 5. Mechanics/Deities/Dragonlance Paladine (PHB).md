@@ -6,6 +6,11 @@ tags:
   - deity/dragonlance
   - domain/peace
   - domain/war
+alignment: Lawful Good
+category: The Gods of Good
+domains: 'War, Peace'
+pantheon: Dragonlance
+symbol: Silver triangle
 aliases:
   - Paladine
 ---

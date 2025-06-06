@@ -16,7 +16,7 @@ tags:
 aliases:
   - Green Hag
 ---
-# [[5. Mechanics/Bestiary/Fey/Green Hag.md|Green Hag]]
+# [[5. Mechanics\Bestiary\Fey\Green Hag.md|Green Hag]]
 *Source: Monster Manual p. 177, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The wretched and hateful green hags dwell in dying forests, lonely swamps, and misty moors, making their homes in caves. Green hags love to manipulate other creatures into doing their bidding, masking their intentions behind layers of deception. They lure victims to them by mimicking voices calling out for help, or drive unwanted visitors away by imitating the cries of fierce beasts.
@@ -86,7 +86,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice:3d10|noform|avg` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice:3d10|noform|noparens|avg` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] for 24 hours.
 > 
 > A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
@@ -100,120 +100,128 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 "ac_class": "natural armor"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
+"modifier": !!int "1"
 "stats":
-- !!int "18"
-- !!int "12"
-- !!int "16"
-- !!int "13"
-- !!int "14"
-- !!int "14"
+  - !!int "18"
+  - !!int "12"
+  - !!int "16"
+  - !!int "13"
+  - !!int "14"
+  - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "4"
-  "Stealth": !!int "3"
-  "Perception": !!int "4"
-  "Arcana": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common, Draconic, Sylvan"
 "cr": "3"
 "traits":
-- "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 12). She\
-    \ can innately cast the following spells, requiring no material components:\n\n\
-    At will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-    \ [[5. Mechanics/Spells/Vicious Mockery.md|vicious mockery]]"
-  "name": "Innate Spellcasting"
-- "desc": "The hag can breathe air and water."
-  "name": "Amphibious"
-- "desc": "The hag can mimic animal sounds and humanoid voices. A creature that hears\
-    \ the sounds can tell they are imitations with a successful DC 14 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
-    \ check."
-  "name": "Mimicry"
+  - "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 12).\
+      \ She can innately cast the following spells, requiring no material components:\n\
+      \nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Minor Illusion.md|minor\
+      \ illusion]], [[5. Mechanics/Spells/Vicious Mockery.md|vicious mockery]]"
+    "name": "Innate Spellcasting"
+  - "desc": "The hag can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "The hag can mimic animal sounds and humanoid voices. A creature that\
+      \ hears the sounds can tell they are imitations with a successful DC 14 Wisdom\
+      \ ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]]) check."
+    "name": "Mimicry"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8\
-    \ + 4) slashing damage."
-  "name": "Claws"
-- "desc": "The hag covers herself and anything she is wearing or carrying with a magical\
-    \ illusion that makes her look like another creature of her general size and humanoid\
-    \ shape. The illusion ends if the hag takes a bonus action to end it or if she\
-    \ dies.\n\nThe changes wrought by this effect fail to hold up to physical inspection.\
-    \ For example, the hag could appear to have smooth skin, but someone touching\
-    \ her would feel her rough flesh. Otherwise, a creature must take an action to\
-    \ visually inspect the illusion and succeed on a DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]])\
-    \ check to discern that the hag is disguised."
-  "name": "Illusory Appearance"
-- "desc": "The hag magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ until she attacks or casts a spell, or until her [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
-    \ ends (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on\
-    \ a spell). While [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]], she\
-    \ leaves no physical evidence of her passage, so she can be tracked only by magic.\
-    \ Any equipment she wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ with her."
-  "name": "Invisible Passage"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+      \ (2d8 + 4) slashing damage."
+    "name": "Claws"
+  - "desc": "The hag covers herself and anything she is wearing or carrying with a\
+      \ magical illusion that makes her look like another creature of her general\
+      \ size and humanoid shape. The illusion ends if the hag takes a bonus action\
+      \ to end it or if she dies.\n\nThe changes wrought by this effect fail to hold\
+      \ up to physical inspection. For example, the hag could appear to have smooth\
+      \ skin, but someone touching her would feel her rough flesh. Otherwise, a creature\
+      \ must take an action to visually inspect the illusion and succeed on a DC 20\
+      \ Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]])\
+      \ check to discern that the hag is disguised."
+    "name": "Illusory Appearance"
+  - "desc": "The hag magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ until she attacks or casts a spell, or until her [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
+      \ ends (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
+      \ on a spell). While [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]],\
+      \ she leaves no physical evidence of her passage, so she can be tracked only\
+      \ by magic. Any equipment she wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ with her."
+    "name": "Invisible Passage"
 "lair_actions":
-- "desc": "The following lair actions are options for grandmothers and powerful aunties.\
-    \ Grandmothers usually have three to five lair actions, aunties usually only one\
-    \ (if they have any at all). Unless otherwise noted, any lair action that requires\
-    \ a creature to make a saving throw uses the save DC of the hag's most powerful\
-    \ ability."
-  "name": ""
-- "desc": "On initiative count 20 (losing initiative ties), the hag can take a lair\
-    \ action to cause one of the following effects, but can't use the same effect\
-    \ two rounds in a row:"
-  "name": ""
-- "desc": "- Until initiative count 20 on the next round, the hag can pass through\
-    \ solid walls, doors, ceilings, and floors as if the surfaces weren't there. \
-    \ \n- The hag targets any number of doors and windows that she can see, causing\
-    \ each one to either open or close as she wishes. Closed doors can be magically\
-    \ locked (requiring a successful DC 20 Strength check to force open) until she\
-    \ chooses to make them unlocked, or until she uses this lair action again to open\
-    \ them.  "
-  "name": ""
-- "desc": "A powerful green hag might have the following additional lair action:"
-  "name": ""
-- "desc": "- The hag creates an illusory duplicate of herself, which appears in its\
-    \ own space. As long as she can see her duplicate, the hag can move it a distance\
-    \ equal to her walking speed as well as make the illusion speak on her turn (no\
-    \ action required). The illusion has the same statistics as the hag but can't\
-    \ take actions or reactions. It can interact with its environment and even pick\
-    \ up and hold real objects. The illusion seems real in every way but disappears\
-    \ if it takes any amount of damage. Otherwise, it lasts until the hag dismisses\
-    \ it (no action required) or can no longer see it. If the hag uses this lair action\
-    \ to create a new duplicate, the previous one vanishes, dropping any real objects\
-    \ in its possession.  "
-  "name": ""
+  - "desc": "The following lair actions are options for grandmothers and powerful\
+      \ aunties. Grandmothers usually have three to five lair actions, aunties usually\
+      \ only one (if they have any at all). Unless otherwise noted, any lair action\
+      \ that requires a creature to make a saving throw uses the save DC of the hag's\
+      \ most powerful ability."
+    "name": ""
+  - "desc": "On initiative count 20 (losing initiative ties), the hag can take a lair\
+      \ action to cause one of the following effects, but can't use the same effect\
+      \ two rounds in a row:"
+    "name": ""
+  - "desc": "- Until initiative count 20 on the next round, the hag can pass through\
+      \ solid walls, doors, ceilings, and floors as if the surfaces weren't there.\
+      \  \n- The hag targets any number of doors and windows that she can see, causing\
+      \ each one to either open or close as she wishes. Closed doors can be magically\
+      \ locked (requiring a successful DC 20 Strength check to force open) until she\
+      \ chooses to make them unlocked, or until she uses this lair action again to\
+      \ open them.  "
+    "name": ""
+  - "desc": "A powerful green hag might have the following additional lair action:"
+    "name": ""
+  - "desc": "- The hag creates an illusory duplicate of herself, which appears in\
+      \ its own space. As long as she can see her duplicate, the hag can move it a\
+      \ distance equal to her walking speed as well as make the illusion speak on\
+      \ her turn (no action required). The illusion has the same statistics as the\
+      \ hag but can't take actions or reactions. It can interact with its environment\
+      \ and even pick up and hold real objects. The illusion seems real in every way\
+      \ but disappears if it takes any amount of damage. Otherwise, it lasts until\
+      \ the hag dismisses it (no action required) or can no longer see it. If the\
+      \ hag uses this lair action to create a new duplicate, the previous one vanishes,\
+      \ dropping any real objects in its possession.  "
+    "name": ""
 "regional_effects":
-- "desc": "Each hag's lair is the source of three to five regional effects; the home\
-    \ of a grandmother, an auntie, or a coven has more effects than the lair of a\
-    \ single hag, including some that can directly harm intruders. Any regional effect\
-    \ that requires a creature to make a saving throw uses the save DC of the hag's\
-    \ most powerful ability. These effects either end immediately if the hag dies\
-    \ or abandons the lair, or take up to 2d10 days to fade away."
-  "name": ""
-- "desc": "The region within 1 mile of a grandmother hag's lair is warped by the creature's\
-    \ fell magic, which creates one or more of the following effects:"
-  "name": ""
-- "desc": "- Birds, rodents, snakes, spiders, or toads (or some other creatures appropriate\
-    \ to the hag) are found in great profusion.  \n- Beasts that have an Intelligence\
-    \ score of 2 or lower are [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] by\
-    \ the hag and directed to be aggressive toward intruders in the area.  \n- Strange\
-    \ carved figurines, twig fetishes, or rag dolls magically appear in trees.  "
-  "name": ""
-- "desc": "A powerful green hag creates one or more of the following additional regional\
-    \ effects within 1 mile of her lair:"
-  "name": ""
-- "desc": "- Illusory duplicates of the hag appear in random places at random times\
-    \ (but never more than one in any given location). An illusory duplicate has no\
-    \ substance, but it looks, sounds, and moves like the hag. The hag can sense when\
-    \ one or more creatures are within 60 feet of her duplicate and can interact with\
-    \ them as if she were present and standing in the duplicate's space. If the illusory\
-    \ duplicate takes any damage, it disappears.  \n- The region takes twice as long\
-    \ as normal to traverse, since the plants grow thick and twisted, and the swamps\
-    \ are thick with reeking mud.  \n- Trees transform into [[5. Mechanics/Bestiary/Plant/Awakened Tree.md|awakened trees]]\
-    \ and attack when hostile intruders are near.  "
-  "name": ""
+  - "desc": "Each hag's lair is the source of three to five regional effects; the\
+      \ home of a grandmother, an auntie, or a coven has more effects than the lair\
+      \ of a single hag, including some that can directly harm intruders. Any regional\
+      \ effect that requires a creature to make a saving throw uses the save DC of\
+      \ the hag's most powerful ability. These effects either end immediately if the\
+      \ hag dies or abandons the lair, or take up to 2d10 days to fade away."
+    "name": ""
+  - "desc": "The region within 1 mile of a grandmother hag's lair is warped by the\
+      \ creature's fell magic, which creates one or more of the following effects:"
+    "name": ""
+  - "desc": "- Birds, rodents, snakes, spiders, or toads (or some other creatures\
+      \ appropriate to the hag) are found in great profusion.  \n- Beasts that have\
+      \ an Intelligence score of 2 or lower are [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+      \ by the hag and directed to be aggressive toward intruders in the area.  \n\
+      - Strange carved figurines, twig fetishes, or rag dolls magically appear in\
+      \ trees.  "
+    "name": ""
+  - "desc": "A powerful green hag creates one or more of the following additional\
+      \ regional effects within 1 mile of her lair:"
+    "name": ""
+  - "desc": "- Illusory duplicates of the hag appear in random places at random times\
+      \ (but never more than one in any given location). An illusory duplicate has\
+      \ no substance, but it looks, sounds, and moves like the hag. The hag can sense\
+      \ when one or more creatures are within 60 feet of her duplicate and can interact\
+      \ with them as if she were present and standing in the duplicate's space. If\
+      \ the illusory duplicate takes any damage, it disappears.  \n- The region takes\
+      \ twice as long as normal to traverse, since the plants grow thick and twisted,\
+      \ and the swamps are thick with reeking mud.  \n- Trees transform into [[5. Mechanics/Bestiary/Plant/Awakened Tree.md|awakened\
+      \ trees]] and attack when hostile\
+      \ intruders are near.  "
+    "name": ""
 "source":
-- "MM"
-- "TCE"
+  - "MM"
+  - "TCE"
 "image": "5. Mechanics/Bestiary/Fey/token/green-hag.webp"
 ```
 ^statblock

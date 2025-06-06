@@ -8,6 +8,7 @@ tags:
 aliases:
   - Entertainer's Pack
 cost: 4000
+weight: 38
 ---
 # Entertainer's Pack
 *Adventuring gear*  

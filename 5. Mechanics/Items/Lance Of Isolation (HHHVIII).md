@@ -8,12 +8,13 @@ tags:
   - item/weapon/melee
 aliases:
   - Lance of Isolation
-one-hand-damage: 1d12 P
+one-hand-damage: 1d12 piercing
+weight: 6
 ---
 # Lance of Isolation
 *Weapon ([[5. Mechanics/Items/Lance.md\|lance]]), rare*  
 
-- **Damage**: 1d12 P
+- **Damage**: 1d12 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
 

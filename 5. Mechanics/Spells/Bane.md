@@ -19,27 +19,48 @@ tags:
   - spell/subclass/oath-of-vengeance
   - spell/subclass/the-undead
   - spell/subclass/void-domain
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Apocalypse Domain)
+  - Cleric (Grave Domain)
+  - Cleric (Void Domain)
+  - Druid (Circle of the Eclipse)
+  - Paladin (Oath of Vengeance)
+  - Paladin (Oath of the Spelldrinker)
+  - Ranger (Gravetender)
+  - Sorcerer (Divine Soul)
+  - Warlock (The Undead)
 school: Enchantment
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S, a drop of blood'
+level: 1
+ritual: false
+time: 1 Action
+duration: Up to 1 minute
+components:
+  - V
+  - S
+  - M
 aliases:
   - Bane
+range: 30 feet
+material: A drop of blood.
+save:
+  type: CHA
+  success: none
+concentration: true
 ---
 # Bane
 *1st-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
-- **Components:** V, S, a drop of blood
+- **Components:** V, S, M (a drop of blood)
 - **Duration:** Concentration, up to 1 minute
 
-Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a `dice:d4|noform|avg` (`d4`) and subtract the number rolled from the attack roll or saving throw.
+Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a `dice:d4|noform|noparens|avg` (`d4`) and subtract the number rolled from the attack roll or saving throw.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Cleric Apocalypse Domain (KPDM)\|Cleric (Apocalypse Domain)]]; [[List Spells Classes Druid Circle Of The Eclipse (GRIFFONSSADDLEBAG4)\|Druid (Circle of the Eclipse)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Cleric Grave Domain (XGE)\|Cleric (Grave Domain)]]; [[List Spells Classes Ranger Gravetender (GRIFFONSSADDLEBAG4)\|Ranger (Gravetender)]]; [[List Spells Classes Paladin Oath Of The Spelldrinker (GRIFFONSSADDLEBAG2)\|Paladin (Oath of the Spelldrinker)]]; [[List Spells Classes Paladin Oath Of Vengeance\|Paladin (Oath of Vengeance)]]; [[List Spells Classes Warlock The Undead (VRGR)\|Warlock (The Undead)]]; [[List Spells Classes Cleric Void Domain (KPDM)\|Cleric (Void Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Ranger (Gravetender)](compendium/lists/list-spells-classes-gravetender-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Cleric (Grave Domain)](compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Paladin (Oath of the Spelldrinker)](compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Warlock (The Undead)](compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR"); [Druid (Circle of the Eclipse)](compendium/lists/list-spells-classes-circle-of-the-eclipse-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Cleric (Void Domain)](compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Cleric (Apocalypse Domain)](compendium/lists/list-spells-classes-apocalypse-domain-kpdm.md "subclass=KPDM"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -6,6 +6,11 @@ tags:
   - deity/duergar
   - domain/knowledge
   - domain/war
+alignment: Lawful Evil
+domains: 'Knowledge, War'
+pantheon: Duergar
+province: 'Conquest, psionics'
+symbol: Mind flayer skull
 aliases:
   - Deep Duerra
 ---

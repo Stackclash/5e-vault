@@ -21,6 +21,6 @@ Despite its name, this herb is not actually a rose, nor does it even resemble on
 
 ## Effect:
 
-This leafy herb has `dice:1d6|noform|avg` (`1d6`) charges. As an action, you may hold this herb flat on your palm. If you do so, the herb will lose one charge and release a puff of visible spores that travel along the path of the wind. This ability functions even in a walled space like a building or deep cave so long as there is a single open passage connected to the area you are in that leads to the outside.
+This leafy herb has `dice:1d6|noform|noparens|avg` (`d6`) charges. As an action, you may hold this herb flat on your palm. If you do so, the herb will lose one charge and release a puff of visible spores that travel along the path of the wind. This ability functions even in a walled space like a building or deep cave so long as there is a single open passage connected to the area you are in that leads to the outside.
 
 *Source: Hamund's Herbalism Handbook p. 10*

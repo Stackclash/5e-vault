@@ -23,6 +23,6 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Solacesteel-Mitigator.webp#right)  
 
 
-This weapon is made of sanctified mourningsteel. When you hit with an attack using this magic sword, the target takes an extra `dice:1d8|noform|avg` (`1d8`) radiant damage. If the target is undead, the extra radiant damage increases to `dice:2d8|noform|avg` (`2d8`). In addition, while the blade is sheathed on your person, you have advantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) checks made to deescalate or avoid initiating combat.
+This weapon is made of sanctified mourningsteel. When you hit with an attack using this magic sword, the target takes an extra `dice:1d8|noform|noparens|avg` (`d8`) radiant damage. If the target is undead, the extra radiant damage increases to `dice:2d8|noform|noparens|avg` (`2d8`). In addition, while the blade is sheathed on your person, you have advantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) checks made to deescalate or avoid initiating combat.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

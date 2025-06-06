@@ -16,7 +16,7 @@ aliases:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 
-This wand has 7 charges for the following properties. It regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the wand dissolves into a fetid slime that sizzles and evaporates, destroying the wand and leaving behind a stain that can never be cleaned.
+This wand has 7 charges for the following properties. It regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand dissolves into a fetid slime that sizzles and evaporates, destroying the wand and leaving behind a stain that can never be cleaned.
 
 ## Spells
 

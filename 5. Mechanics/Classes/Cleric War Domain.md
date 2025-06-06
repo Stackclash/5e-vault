@@ -9,7 +9,7 @@ aliases:
   - War Domain
 ---
 # War Domain
-*[[Cleric.md\|Cleric]]: Divine Domain*  
+*[[.nullCleric.md\|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 63*  
 
 > [!tldr] Class and Feature Progression
@@ -19,14 +19,14 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#War%20Domain%20(Level%201)'>War Domain</a></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel%20Divinity%20Guided%20Strike%20(Level%202)'>Channel Divinity: Guided Strike</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#War Domain (Level 1)' class='internal-link'>War Domain</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel Divinity: Guided Strike (Level 2)' class='internal-link'>Channel Divinity: Guided Strike</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Channel%20Divinity%20War%20God's%20Blessing%20(Level%206)'>Channel Divinity: War God's Blessing</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Channel Divinity: War God's Blessing (Level 6)' class='internal-link'>Channel Divinity: War God's Blessing</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Divine%20Strike%20(Level%208)'>Divine Strike</a>, <a href='#Blessed%20Strikes%20(Level%208)'>Blessed Strikes</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Divine Strike (Level 8)' class='internal-link'>Divine Strike</a>, <a href='#Blessed Strikes (Level 8)' class='internal-link'>Blessed Strikes</a></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -35,19 +35,20 @@ aliases:
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Avatar%20of%20Battle%20(Level%2017)'>Avatar of Battle</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Avatar of Battle (Level 17)' class='internal-link'>Avatar of Battle</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
 
 ### War Domain (Level 1)
 
-War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry (such as Torm, Heironeous, and Kiri-Jolith) as well as gods of destruction and pillage (such as Erythnul, the Fury, Gruumsh, and Ares) and gods of conquest and domination (such as Bane, Hextor, and Maglubiyet). Other war gods (such as Tempus, Nike, and Nuada) take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.
+War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry (such as Torm, [[5. Mechanics/Deities/Greyhawk Heironeo(US).md\|Heironeous]], and [[5. Mechanics/Deities/Dragonlance Kiri Jolith (PHB).md\|Kiri-Jolith]]) as well as gods of destruction and pillage (such as [[5. Mechanics/Deities/Greyhawk Erythnul.md\|Erythnul]], [[5. Mechanics/Deities/Eberron The Fury.md\|the Fury]], [[5. Mechanics/Deities/Nonhuman Gruumsh.md\|Gruumsh]], and [[5. Mechanics/Deities/Greek Ares.md\|Ares]]) and gods of conquest and domination (such as Bane, [[5. Mechanics/Deities/Greyhawk Hex(TOR).md\|Hextor]], and [[5. Mechanics/Deities/Nonhuman Maglubiyet.md\|Maglubiyet]]). Other war gods (such as Tempus, [[5. Mechanics/Deities/Greek Nike.md\|Nike]], and [[5. Mechanics/Deities/Celtic Nuada.md\|Nuada]]) take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.
 
 At each indicated cleric level, add the listed spells to your spells prepared.
 
@@ -80,14 +81,14 @@ At 6th level, when a creature within 30 feet of you makes an attack roll, you ca
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|avg` (`1d8`) damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]], which replaces the Divine Strike feature*
+*8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Divine Strike feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Avatar of Battle (Level 17)
 

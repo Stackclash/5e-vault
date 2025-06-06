@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhhvi
 aliases:
-  - 'Optional Rule: Crafter Skill'
+  - Optional Rule: Crafter Skill
 ---
 # Optional Rule: Crafter Skill
 *Source: Hamund's Harvesting Handbook: Volume I p. 113, Hamund's Harvesting Handbook: Volume II p. 49, Hamund's Harvesting Handbook: Volume III p. 76* 

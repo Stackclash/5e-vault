@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Alchemy Jug
+weight: 12
 ---
 # Alchemy Jug
 *Wondrous item, minor, uncommon*  

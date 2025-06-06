@@ -10,4 +10,4 @@ aliases:
 
 ## 2nd Level
 
-- [[Detect Thoughts \|"PHB"]]
+- [[5. Mechanics/Spells/Detect Thoughts.md \|"PHB"]]

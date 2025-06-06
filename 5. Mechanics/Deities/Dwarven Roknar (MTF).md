@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/dwarven
   - domain/trickery
+alignment: Neutral Evil
+category: The Mordinsamman
+domains: Trickery
+pantheon: Dwarven
+province: 'Lies, intrigue'
+symbol: Hands filled with coins
 aliases:
   - Roknar
 ---

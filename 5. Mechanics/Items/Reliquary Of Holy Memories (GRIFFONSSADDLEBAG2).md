@@ -10,13 +10,13 @@ tags:
   - item/wondrous/rod
 aliases:
   - Reliquary of Holy Memories
-one-hand-damage: 1d6 B
+one-hand-damage: 1d6 bludgeoning
 ---
 # Reliquary of Holy Memories
 *Weapon ([[5. Mechanics/Items/Mace.md\|mace]]), rod, major (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Reliquary-of-Holy-Memories.webp#right)  
 
-- **Damage**: 1d6 B
+- **Damage**: 1d6 bludgeoning
 
 Multiple variations of this item exist, as listed below:
 

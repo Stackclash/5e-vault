@@ -8,6 +8,7 @@ tags:
 aliases:
   - Viol
 cost: 3000
+weight: 1
 ---
 # Viol
 *Instrument*  

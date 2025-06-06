@@ -6,6 +6,12 @@ tags:
   - deity/elven
   - domain/knowledge
   - domain/trickery
+alignment: Neutral Good
+category: The Seldarine
+domains: 'Knowledge, Trickery'
+pantheon: Elven
+province: 'Divination, illusion'
+symbol: Rainbow sphere
 aliases:
   - Kirith Sotheril
 ---

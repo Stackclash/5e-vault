@@ -13,27 +13,39 @@ tags:
   - spell/school/evocation
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 1st-level
-range: false
+classes:
+  - Artificer
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Evocation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S, a bit of rotten food'
+level: 1
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
+  - M
 aliases:
   - Tasha's Caustic Brew
+concentration: true
+material: a bit of rotten food
 ---
 # Tasha's Caustic Brew
 *1st-level, Evocation*  
 
-- **Casting time:** 1 action
-- **Range:** Self (30-feet line)
-- **Components:** V, S, a bit of rotten food
+- **Casting time:** 1 Action
+- **Range:** Self (30-foot Line)
+- **Components:** V, S, M (a bit of rotten food)
 - **Duration:** Concentration, up to 1 minute
 
-A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a direction you choose. Each creature in the line must succeed on a Dexterity saving throw or be covered in acid for the spell's duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes `dice:2d4|noform|avg` (`2d4`) acid damage at start of each of its turns.
+A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a direction you choose. Each creature in the line must succeed on a Dexterity saving throw or be covered in acid for the spell's duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes `dice:2d4|noform|noparens|avg` (`2d4`) acid damage at start of each of its turns.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:2d4|noform|avg|text(2d4)` for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:2d4|noform|noparens|avg|text(2d4)` for each slot level above 1st.
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Tasha's Cauldron of Everything p. 115*

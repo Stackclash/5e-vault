@@ -6,6 +6,10 @@ tags:
   - deity/orc
   - domain/life
   - domain/nature
+alignment: Lawful Evil
+domains: 'Life, Nature'
+pantheon: Orc
+symbol: Orcish rune meaning "cave entrance"
 aliases:
   - Luthic
 ---

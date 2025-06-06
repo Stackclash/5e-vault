@@ -13,7 +13,7 @@ tags:
 aliases:
   - Monarchon
 ---
-# [[5. Mechanics/Bestiary/Fey/Monarchon (SAF).md|Monarchon]]
+# [[5. Mechanics\Bestiary\Fey\Monarchon (SAF).md|Monarchon]]
 *Source: Strongholds and Followers p. 179*
 
 The Monarchon is the embodiment of youth and death, spring and fall. It is gay and sprightly and a harbinger of doom. Once, mortals knew that to gaze upon the death's-head skull of the Monarchon spelled the end. Now, it's been so long since last the Arcadians lived in the Mundane World that mortals must learn these lessons all over again.
@@ -51,66 +51,74 @@ Finally, if she is attacked or otherwise there is great need, she will land and 
 "ac_class": "natural armor"
 "hp": !!int "110"
 "hit_dice": "13d10 + 39"
+"modifier": !!int "2"
 "stats":
-- !!int "11"
-- !!int "15"
-- !!int "16"
-- !!int "12"
-- !!int "19"
-- !!int "14"
+  - !!int "11"
+  - !!int "15"
+  - !!int "16"
+  - !!int "12"
+  - !!int "19"
+  - !!int "14"
 "speed": "30 ft., fly 30 ft. (hover)"
 "saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "7"
+  - "wisdom": "+7"
+  - "charisma": "+5"
 "skillsaves":
-  "Medicine": !!int "7"
-  "Nature": !!int "4"
-  "Religion": !!int "4"
-  "Insight": !!int "7"
-  "Perception": !!int "6"
-  "History": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Nature|Nature]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
+    "desc": "+4"
 "senses": "passive Perception 20"
 "languages": "Common, Elvish, Sylvan"
 "cr": "7"
 "traits":
-- "desc": "The monarchon's innate spellcasting ability is Wisdom (spell save DC 15).\
-    \ The monarchon can innately cast the following spells, requiring no material\
-    \ components:\n\nAt will: [[5. Mechanics/Spells/Enthrall.md|enthrall]], [[5. Mechanics/Spells/Sleep.md|sleep]]"
-  "name": "Innate Spellcasting"
-- "desc": "The Monarchon is a 7th-level spellcaster. Her spellcasting ability is Wisdom\
-    \ (spell save DC 15, +7 to hit with spell attacks). The Monarchon has the following\
-    \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]]\n\n1st level (4 slots):\
-    \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Command.md|command]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Zone Of Truth.md|zone\
-    \ of truth]]\n\n3rd level (3 slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel\
-    \ magic]], [[5. Mechanics/Spells/Revivify.md|revivify]]\n\
-    \n4th level (1 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Death Ward.md|death\
-    \ ward]]"
-  "name": "Spellcasting"
-- "desc": "Magic cannot put the Monarchon to sleep."
-  "name": "Fey Ancestry"
-- "desc": "The Monarchon has advantage on saving throws against magic and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- "desc": "As a member of the Court of Arcadia, the Monarchon can cast [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]]\
-    \ (DC 15) at will on any fey creature or elf."
-  "name": "Command Fey"
+  - "desc": "The Monarchon is a 7th-level spellcaster. Her spellcasting ability is\
+      \ Wisdom (spell save DC 15, +7 to hit with spell attacks). The Monarchon has\
+      \ the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
+      \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]]\n\n1st level (4 slots):\
+      \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Command.md|command]]\n\
+      \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]],\
+      \ [[5. Mechanics/Spells/Zone Of Truth.md|zone of truth]]\n\n3rd level (3 slots):\
+      \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Revivify.md|revivify]]\n\
+      \n4th level (1 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Death Ward.md|death\
+      \ ward]]"
+    "name": "Spellcasting"
+  - "desc": "The monarchon's innate spellcasting ability is Wisdom (spell save DC\
+      \ 15). The monarchon can innately cast the following spells, requiring no material\
+      \ components:\n\nAt will: [[5. Mechanics/Spells/Enthrall.md|enthrall]], [[5. Mechanics/Spells/Sleep.md|sleep]]"
+    "name": "Innate Spellcasting"
+  - "desc": "Magic cannot put the Monarchon to sleep."
+    "name": "Fey Ancestry"
+  - "desc": "The Monarchon has advantage on saving throws against magic and other\
+      \ magical effects."
+    "name": "Magic Resistance"
+  - "desc": "As a member of the Court of Arcadia, the Monarchon can cast [[5. Mechanics/Spells/Dominate Monster.md|dominate\
+      \ monster]] (DC 15) at will on any fey\
+      \ creature or elf."
+    "name": "Command Fey"
 "actions":
-- "desc": "Melee Spell Attack: +7 to hit, reach 5 ft., one creature. Hit: 15 (2d10\
-    \ + 4) necrotic damage."
-  "name": "Withering Touch"
-- "desc": "The Monarchon spreads her wings and their false eyes pulsate with a rainbow\
-    \ of colors, targeting one creature she can see within 30 feet. If the target\
-    \ can see the Monarchon, the target must succeed on a DC 15 Wisdom saving throw\
-    \ against this magic or be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
-    \ until the end of the Monarchon's next turn. The [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
-    \ target is [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]. If the target's\
-    \ saving throw is successful, the target is immune to the Monarchon's gaze for\
-    \ 24 hours."
-  "name": "Hypnotic Display"
+  - "desc": "Melee Spell Attack: +7 to hit, reach 5 ft., one creature. Hit: 15\
+      \ (2d10 + 4) necrotic damage."
+    "name": "Withering Touch"
+  - "desc": "The Monarchon spreads her wings and their false eyes pulsate with a rainbow\
+      \ of colors, targeting one creature she can see within 30 feet. If the target\
+      \ can see the Monarchon, the target must succeed on a DC 15 Wisdom saving throw\
+      \ against this magic or be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+      \ until the end of the Monarchon's next turn. The [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+      \ target is [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]. If the target's\
+      \ saving throw is successful, the target is immune to the Monarchon's gaze for\
+      \ 24 hours."
+    "name": "Hypnotic Display"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Monarchon.png"
 ```
 ^statblock

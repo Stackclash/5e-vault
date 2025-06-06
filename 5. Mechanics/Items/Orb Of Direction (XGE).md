@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Orb of Direction
+weight: 3
 ---
 # Orb of Direction
 *Wondrous item, minor, common*  

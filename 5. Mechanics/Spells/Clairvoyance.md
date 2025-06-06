@@ -15,24 +15,41 @@ tags:
   - spell/subclass/path-of-the-ancestral-guardian
   - spell/subclass/the-great-old-one
   - spell/subclass/the-sibyl
-level: 3rd-level
-range: false
+classes:
+  - Barbarian (Path of the Ancestral Guardian)
+  - Bard
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul)
+  - Warlock (The Great Old One)
+  - Warlock (The Sibyl)
+  - Wizard
 school: Divination
-time: 10 minute
-duration: 'Concentration, up to 10 minute'
-components: >-
-  V, S, a focus worth at least 100 gp, either a jeweled horn for hearing or a
-  glass eye for seeing
+level: 3
+ritual: false
+time: 10 minutes
+duration: Up to 10 minutes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Clairvoyance
+range: 1 mile
+material: >-
+  A focus worth at least 100gp, either a jeweled horn for hearing or a glass eye
+  for seeing.
+concentration: true
 ---
 # Clairvoyance
 *3rd-level, Divination*  
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** 1 miles
-- **Components:** V, S, a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)
+- **Duration:** Concentration, up to 10 minutes
 
 You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can't be attacked or otherwise interacted with.
 
@@ -40,6 +57,6 @@ When you cast the spell, you choose seeing or hearing. You can use the chosen se
 
 A creature that can see the sensor (such as a creature benefiting from [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] or [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]]) sees a luminous, intangible orb about the size of your fist.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Barbarian Path Of The Ancestral Guardian (XGE)\|Barbarian (Path of the Ancestral Guardian)]]; [[List Spells Classes Warlock The Great Old One\|Warlock (The Great Old One)]]; [[List Spells Classes Warlock The Sibyl (KPDM)\|Warlock (The Sibyl)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Barbarian (Path of the Ancestral Guardian)](compendium/lists/list-spells-classes-path-of-the-ancestral-guardian-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Warlock (The Sibyl)](compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 222. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

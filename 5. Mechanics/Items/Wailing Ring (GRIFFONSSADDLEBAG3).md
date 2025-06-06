@@ -19,6 +19,6 @@ This tarnished ring is thick and has the texture of over-taut skin. Whenever you
 
 If you charm multiple creatures while wearing the ring, you choose which face appears on the ring each time you charm a new creature. You can change this choice as a bonus action, thereby allowing you to speak telepathically to a different [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] creature.
 
-Alternatively, you can use an action to pinch the face on the ring, causing it to disappear. When you do, that creature takes `dice:1d10|noform|avg` (`1d10`) psychic damage and is no longer [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]].
+Alternatively, you can use an action to pinch the face on the ring, causing it to disappear. When you do, that creature takes `dice:1d10|noform|noparens|avg` (`d10`) psychic damage and is no longer [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]].
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

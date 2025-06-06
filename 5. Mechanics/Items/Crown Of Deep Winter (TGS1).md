@@ -18,6 +18,6 @@ This icy crown is made using ice from the Everglacier. While wearing the crown, 
 
 ## Frozen Burst
 
-While wearing this crown, you can use your reaction when a creature within 5 feet of you that you can see hits you with an attack to cause the area around you to explode in a burst of razor-sharp icicles. When you do, all creatures within 5 feet of you must make a DC 16 Dexterity saving throw. On a failure, a creature takes `dice:2d8|noform|avg` (`2d8`) cold damage, or half as much on a success. This property of the crown can't be used again until you finish a short or long rest.
+While wearing this crown, you can use your reaction when a creature within 5 feet of you that you can see hits you with an attack to cause the area around you to explode in a burst of razor-sharp icicles. When you do, all creatures within 5 feet of you must make a DC 16 Dexterity saving throw. On a failure, a creature takes `dice:2d8|noform|noparens|avg` (`2d8`) cold damage, or half as much on a success. This property of the crown can't be used again until you finish a short or long rest.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 50*

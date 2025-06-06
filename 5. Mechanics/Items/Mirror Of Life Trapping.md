@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Mirror of Life Trapping
+weight: 50
 ---
 # Mirror of Life Trapping
 *Wondrous item, major, very rare*  

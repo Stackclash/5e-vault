@@ -9,19 +9,27 @@ tags:
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/enchantment
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Warlock
+  - Wizard
 school: Enchantment
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 5
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Tongue Tied
+concentration: true
 ---
 # Tongue Tied
 *5th-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -30,6 +38,6 @@ You make a choking motion while pointing at a target, which must make a successf
 
 On a failed check, the creature's action is used but the spell slot isn't expended.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 115*

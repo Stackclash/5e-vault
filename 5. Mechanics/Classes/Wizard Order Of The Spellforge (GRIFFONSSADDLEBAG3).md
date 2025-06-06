@@ -8,7 +8,7 @@ aliases:
   - Order of the Spellforge
 ---
 # Order of the Spellforge
-*[[Wizard.md\|Wizard]]: Arcane Tradition*  
+*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
 *Source: The Griffon's Saddlebag, Book 3*  
 
 > [!tldr] Class and Feature Progression
@@ -19,19 +19,19 @@ aliases:
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Order%20of%20the%20Spellforge%20(Level%202)'>Order of the Spellforge</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Order of the Spellforge (Level 2)' class='internal-link'>Order of the Spellforge</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Faraway%20Blade%20(Level%206)'>Faraway Blade</a>, <a href='#Razor%20Wit%20(Level%206)'>Razor Wit</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Faraway Blade (Level 6)' class='internal-link'>Faraway Blade</a>, <a href='#Razor Wit (Level 6)' class='internal-link'>Razor Wit</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Guardian%20Amulet%20(Level%2010)'>Guardian Amulet</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Guardian Amulet (Level 10)' class='internal-link'>Guardian Amulet</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Spell%20Storing%20(Level%2014)'>Spell Storing</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Spell Storing (Level 14)' class='internal-link'>Spell Storing</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features

@@ -16,25 +16,36 @@ tags:
   - spell/subclass/divine-soul
   - spell/subclass/eldritch-knight
   - spell/subrace/elf-high
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul)
+  - Warlock
+  - Wizard
 school: Divination
-time: 1 action
+level: cantrip
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
-  - Encrypt / Decrypt
+  - Encrypt \ Decrypt
 ---
 # Encrypt / Decrypt
 *cantrip, Divination*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Instantaneous
 
 By touching a page of written information, you can encode its contents. All creatures that try to read the information when its contents are encoded see the markings on the page as nothing but gibberish. The effect ends when either this very spell or [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] is cast on the encoded writing, which turns it back into its normal state.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 66*

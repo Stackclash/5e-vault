@@ -6,6 +6,12 @@ tags:
   - deity/elven
   - domain/forge
   - domain/light
+alignment: Lawful Neutral
+category: The Seldarine
+domains: 'Forge, Light'
+pantheon: Elven
+province: 'Fire, earth, metalwork'
+symbol: Flame between hands
 aliases:
   - Darahl Tilvenar
 ---

@@ -6,6 +6,11 @@ tags:
   - deity/halfling
   - domain/life
   - domain/peace
+alignment: Lawful Good
+domains: 'Life, Peace'
+pantheon: Halfling
+province: 'Hearth, home'
+symbol: An open door
 aliases:
   - Cyrrollalee
 ---

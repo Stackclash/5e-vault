@@ -8,14 +8,22 @@ tags:
   - spell/level/7th-level
   - spell/school/conjuration
   - spell/subclass/divine-soul
-level: 7th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul)
 school: Conjuration
+level: 7
+ritual: false
 time: 1 minute
-duration: 'Concentration, up to 1 hour'
-components: 'V, S'
+duration: Up to 1 hour
+components:
+  - V
+  - S
 aliases:
   - Conjure Celestial
+range: 90 feet
+concentration: true
 ---
 # Conjure Celestial
 *7th-level, Conjuration*  
@@ -33,6 +41,6 @@ The DM has [[5. Mechanics/Bestiary/Celestial/Couatl.md\|the celestial]]'s statis
 
 **At Higher Levels.** When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 225. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

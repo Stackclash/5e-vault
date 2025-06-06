@@ -9,16 +9,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of the Eclipse
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Staff of the Eclipse
 *Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Staff-of-the-Eclipse.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
@@ -26,7 +27,7 @@ This staff has a crescent-shaped head made of pockmarked lunar stone. Floating w
 
 While holding the staff, you have [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to a range of 60 feet. If you already have [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]], holding the staff increases its range by 60 feet.
 
-The staff has 10 charges. It regains `dice:1d6+4|noform|avg` (`1d6 + 4`) expended charges daily at dusk. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the staff crumbles into dust and is destroyed.
+The staff has 10 charges. It regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dusk. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff crumbles into dust and is destroyed.
 
 ## Spells
 
@@ -42,6 +43,6 @@ When you cast wall of fire from the staff, you can choose to cause it to embody 
 
 ## Darken
 
-You can use a bonus action while holding the staff to expend 1 charge from it to target a 15-foot cube you can see within 60 feet of you. Any nonmagical flames within the cube are extinguished, and any spell of 2nd level or lower creating an area of light that overlaps with the cube is dispelled. As long as you extinguish or dispel at least one source of light, you then gain `dice:1d6+4|noform|avg` (`1d6 + 4`) temporary hit points.
+You can use a bonus action while holding the staff to expend 1 charge from it to target a 15-foot cube you can see within 60 feet of you. Any nonmagical flames within the cube are extinguished, and any spell of 2nd level or lower creating an area of light that overlaps with the cube is dispelled. As long as you extinguish or dispel at least one source of light, you then gain `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) temporary hit points.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*

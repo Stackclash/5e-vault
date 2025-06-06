@@ -9,17 +9,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Wave
-one-hand-damage: 1d6 P
-two-hand-damage: 1d8 P
-range: 20/60
+one-hand-damage: 1d6 piercing
+two-hand-damage: 1d8 piercing
+range: 20\60
+weight: 4
 ---
 # Wave
 *Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), legendary (requires attunement by a creature that worships a god of the sea)*  
 ![[5. Mechanics/Items/img/wave.webp#right]]  
 
 - **Damage**:
-  - One-handed: 1d6 P
-  - Two-handed: 1d8 P
+  - One-handed: 1d6 piercing
+  - Two-handed: 1d8 piercing
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.

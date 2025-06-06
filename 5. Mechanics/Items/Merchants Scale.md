@@ -8,6 +8,7 @@ tags:
 aliases:
   - Merchant's Scale
 cost: 500
+weight: 3
 ---
 # Merchant's Scale
 *Adventuring gear*  

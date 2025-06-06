@@ -4,6 +4,8 @@ cssclasses: json5e-deity
 tags:
   - compendium/src/5e/vgm
   - deity/yuan-ti
+alignment: Unaligned
+pantheon: Yuan-ti
 aliases:
   - Sseth
 ---

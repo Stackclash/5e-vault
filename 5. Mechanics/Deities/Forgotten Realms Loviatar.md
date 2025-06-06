@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/death
+alignment: Lawful Evil
+domains: Death
+pantheon: Forgotten Realms
+symbol: Nine-tailed barbed scourge
 aliases:
   - Loviatar
 ---

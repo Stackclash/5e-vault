@@ -10,6 +10,7 @@ tags:
 aliases:
   - Shadowscale Shroud
 armorClass: 14 + Dex modifier (max of +2)
+weight: 45
 ---
 # Shadowscale Shroud
 *Medium armor ([[5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, legendary (requires attunement)*  

@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[Thaumaturgy \|"PHB"]] at class level 5
+- [[5. Mechanics/Spells/Thaumaturgy.md \|"PHB"]] at class level 5
 
 ## 1st Level
 
-- [[Searing Smite \|"PHB"]] at class level 5
+- [[5. Mechanics/Spells/Searing Smite.md \|"PHB"]] at class level 5
 
 ## 2nd Level
 
-- [[Branding Smite \|"PHB"]] at class level 5
+- [[5. Mechanics/Spells/Branding Smite.md \|"PHB"]] at class level 5

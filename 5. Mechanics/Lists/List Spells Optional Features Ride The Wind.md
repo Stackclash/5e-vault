@@ -10,4 +10,4 @@ aliases:
 
 ## 3rd Level
 
-- [[Fly \|"PHB"]]
+- [[5. Mechanics/Spells/Fly.md \|"PHB"]]

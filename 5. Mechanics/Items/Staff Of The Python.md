@@ -9,16 +9,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of the Python
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Staff of the Python
 *Staff, weapon, major, uncommon (requires attunement by a cleric, druid, or warlock)*  
 ![[5. Mechanics/Items/img/staff-of-the-python.webp#right]]  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 

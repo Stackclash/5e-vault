@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/dwarven
   - domain/war
+alignment: Chaotic Good
+category: The Mordinsamman
+domains: War
+pantheon: Dwarven
+province: 'Combat prowess, luck in battle'
+symbol: Upright sword with blade sheathed in flame
 aliases:
   - Haela Brightaxe
 ---

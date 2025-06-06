@@ -8,19 +8,25 @@ tags:
   - spell/level/5th-level
   - spell/school/enchantment
   - spell/subclass/void-domain
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Cleric (Void Domain)
+  - Wizard
 school: Enchantment
-time: 1 action
+level: 5
+ritual: false
+time: 1 Action
 duration: 1 minute
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Living Shadows
 ---
 # Living Shadows
 *5th-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** 1 minute
@@ -29,6 +35,6 @@ You whisper sibilant words of Void Speech that cause shadows to writhe with unho
 
 A [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Cleric Void Domain (KPDM)\|Cleric (Void Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Void Domain)](compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 332*

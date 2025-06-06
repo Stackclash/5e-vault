@@ -118,7 +118,7 @@ A monster's statistics, sometimes referred to as its stat block, provide the ess
 
 A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categories table shows how much space a creature of a particular size controls in combat. See the 6 for more information on creature size and space.
 
-![[5. Mechanics/Tables/Size Categories.md\|Size Categories]]
+![[5. Mechanics/Tables/Size Categories (MM).md\|Size Categories]]
 
 ### Type
 
@@ -176,13 +176,13 @@ A monster that wears armor or carries a shield has an Armor Class (AC) that take
 
 A monster usually dies or is destroyed when it drops to 0 hit points. For more on hit points, see the *Player's Handbook.*
 
-A monster's hit points are presented both as a die expression and as an average number. For example, a monster with `dice:2d8|noform|avg` (`2d8`) hit points has 9 hit points on average (2 × 4½).
+A monster's hit points are presented both as a die expression and as an average number. For example, a monster with `dice:2d8|noform|noparens|avg` (`2d8`) hit points has 9 hit points on average (2 × 4½).
 
 A monster's size determines the die used to calculate its hit points, as shown in the Hit Dice by Size table.
 
-A monster's Constitution modifier also affects the number of hit points it has. Its Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its hit points. For example, if a monster has a Constitution of 12 (+1 modifier) and `dice:2d8|noform|avg` (`2d8`) Hit Dice, it has `dice:2d8+2|noform|avg` (`2d8 + 2`) hit points (average 11).
+A monster's Constitution modifier also affects the number of hit points it has. Its Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its hit points. For example, if a monster has a Constitution of 12 (+1 modifier) and `dice:2d8|noform|noparens|avg` (`2d8`) Hit Dice, it has `dice:2d8+2|noform|noparens|avg` (`2d8 + 2`) hit points (average 11).
 
-![[5. Mechanics/Tables/Hit Points Hit Dice By Size.md\|Hit Points; Hit Dice by Size]]
+![[5. Mechanics/Tables/Hit Points Hit Dice By Size (MM).md\|Hit Points; Hit Dice by Size]]
 
 ### Speed
 
@@ -218,7 +218,7 @@ The Saving Throws entry is reserved for creatures that are adept at resisting ce
 
 A saving throw bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
 
-![[5. Mechanics/Tables/Saving Throws Proficiency Bonus By Challenge Rating.md\|Saving Throws; Proficiency Bonus by Challenge Rating]]
+![[5. Mechanics/Tables/Saving Throws Proficiency Bonus By Challenge Rating (MM).md\|Saving Throws; Proficiency Bonus by Challenge Rating]]
 
 ### Skills
 
@@ -291,7 +291,7 @@ Unless something tells you otherwise, a monster summoned by a spell or other mag
 
 The *Dungeon Master's Guide* explains how to create encounters using XP budgets, as well as how to adjust an encounter's difficulty.
 
-![[5. Mechanics/Tables/Experience Points By Challenge Rating.md\|Experience Points by Challenge Rating]]
+![[5. Mechanics/Tables/Experience Points By Challenge Rating (MM).md\|Experience Points by Challenge Rating]]
 
 ### Special Traits
 
@@ -345,7 +345,7 @@ A creature that can make multiple attacks on its turn has the Multiattack abilit
 
 #### Ammunition
 
-A monster carries enough ammunition to make its ranged attacks. You can assume that a monster has `dice:2d4|noform|avg` (`2d4`) pieces of ammunition for a thrown weapon attack, and `dice:2d10|noform|avg` (`2d10`) pieces of ammunition for a projectile weapon such as a bow or crossbow.
+A monster carries enough ammunition to make its ranged attacks. You can assume that a monster has `dice:2d4|noform|noparens|avg` (`2d4`) pieces of ammunition for a thrown weapon attack, and `dice:2d10|noform|noparens|avg` (`2d10`) pieces of ammunition for a projectile weapon such as a bow or crossbow.
 
 ### Reactions
 
@@ -361,7 +361,7 @@ The notation "X/Day" means a special ability can be used X number of times and t
 
 #### Recharge X-Y
 
-The notation "Recharge X-Y" means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster's turns, roll a `dice:d6|noform|avg` (`d6`). If the roll is one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short or long rest. For example, "Recharge 5-6" means a monster can use the special ability once. Then, at the start of the monster's turn, it regains the use of that ability if it rolls a 5 or 6 on a `dice:d6|noform|avg` (`d6`).
+The notation "Recharge X-Y" means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster's turns, roll a `dice:d6|noform|noparens|avg` (`d6`). If the roll is one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short or long rest. For example, "Recharge 5-6" means a monster can use the special ability once. Then, at the start of the monster's turn, it regains the use of that ability if it rolls a 5 or 6 on a `dice:d6|noform|noparens|avg` (`d6`).
 
 #### Recharge after a Short or Long Rest
 
@@ -789,7 +789,7 @@ The half-dragon gains [[/5. Mechanics/Rules/Senses.md#Blindsight\|blindsight]] w
 
 The half-dragon gains resistance to a type of damage based on its color.
 
-![[5. Mechanics/Tables/Resistances.md\|Resistances]]
+![[5. Mechanics/Tables/Resistances (MM).md\|Resistances]]
 
 ### Languages
 
@@ -799,7 +799,7 @@ The half-dragon speaks Draconic in addition to any other languages it knows.
 
 The half-dragon has the breath weapon of its dragon half. The half-dragon's size determines how this action functions.
 
-![[5. Mechanics/Tables/New Action Breath Weapon.md\|New Action: Breath Weapon]]
+![[5. Mechanics/Tables/New Action Breath Weapon (MM).md\|New Action: Breath Weapon]]
 
 ## Spore Servant Template
 
@@ -843,4 +843,4 @@ The servant loses all known languages, but it responds to orders given to it by 
 
 ### Attacks
 
-If the servant has no other means of dealing damage, it can use its fists or limbs to make unarmed strikes. On a hit, an unarmed strike deals bludgeoning damage equal to `dice:1d4|noform|avg` (`1d4`) + the servant's Strength modifier, or, if the servant is Large, `dice:2d4|noform|avg` (`2d4`) + its Strength modifier.
+If the servant has no other means of dealing damage, it can use its fists or limbs to make unarmed strikes. On a hit, an unarmed strike deals bludgeoning damage equal to `dice:1d4|noform|noparens|avg` (`d4`) + the servant's Strength modifier, or, if the servant is Large, `dice:2d4|noform|noparens|avg` (`2d4`) + its Strength modifier.

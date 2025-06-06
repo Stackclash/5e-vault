@@ -13,7 +13,7 @@ tags:
 aliases:
   - Star Spawn Mangler
 ---
-# [[5. Mechanics/Bestiary/Aberration/Star Spawn Mangler (MPMM).md|Star Spawn Mangler]]
+# [[5. Mechanics\Bestiary\Aberration\Star Spawn Mangler (MPMM).md|Star Spawn Mangler]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*
 
 > [!quote] A quote from Mordenkainen  
@@ -56,19 +56,21 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "ac": !!int "14"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
+"modifier": !!int "4"
 "stats":
-- !!int "8"
-- !!int "18"
-- !!int "12"
-- !!int "11"
-- !!int "12"
-- !!int "7"
+  - !!int "8"
+  - !!int "18"
+  - !!int "12"
+  - !!int "11"
+  - !!int "12"
+  - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  "Dexterity": !!int "7"
-  "Constitution": !!int "4"
+  - "dexterity": "+7"
+  - "constitution": "+4"
 "skillsaves":
-  "Stealth": !!int "7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+7"
 "damage_resistances": "cold"
 "damage_immunities": "psychic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
@@ -77,25 +79,25 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "languages": "Deep Speech"
 "cr": "5"
 "traits":
-- "desc": "The mangler has advantage on initiative rolls."
-  "name": "Ambusher"
+  - "desc": "The mangler has advantage on initiative rolls."
+    "name": "Ambusher"
 "actions":
-- "desc": "The mangler makes two Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
-    \ + 4) slashing damage. If the attack roll has advantage, the target also takes\
-    \ 7 (2d6) psychic damage."
-  "name": "Claw"
-- "desc": "The mangler makes six Claw attacks. Either before or after these attacks,\
-    \ it can move up to its speed without provoking [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack|opportunity attacks]]."
-  "name": "Flurry of Claws (Recharge 5-6)"
+  - "desc": "The mangler makes two Claw attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+      \ + 4) slashing damage. If the attack roll has advantage, the target also takes\
+      \ 7 (2d6) psychic damage."
+    "name": "Claw"
+  - "desc": "The mangler makes six Claw attacks. Either before or after these attacks,\
+      \ it can move up to its speed without provoking [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack|opportunity attacks]]."
+    "name": "Flurry of Claws (Recharge 5-6)"
 "bonus_actions":
-- "desc": "While in dim light or darkness, the mangler takes the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
-    \ action."
-  "name": "Shadow Stealth"
+  - "desc": "While in dim light or darkness, the mangler takes the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
+      \ action."
+    "name": "Shadow Stealth"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Aberration/token/star-spawn-mangler-mpmm.webp"
 ```
 ^statblock

@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Glaive of the Revenant King
-one-hand-damage: 1d10 S
+one-hand-damage: 1d10 slashing
+weight: 6
 ---
 # Glaive of the Revenant King
 *Weapon ([[5. Mechanics/Items/Glaive.md\|glaive]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Glaive-of-the-Revenant-King.webp#right)  
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
 

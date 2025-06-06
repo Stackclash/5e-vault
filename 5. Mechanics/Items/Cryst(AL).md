@@ -8,6 +8,7 @@ tags:
 aliases:
   - Crystal
 cost: 1000
+weight: 1
 ---
 # Crystal
 *Spellcasting focus*  

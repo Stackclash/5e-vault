@@ -8,26 +8,35 @@ tags:
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/conjuration
-level: 7th-level
-range: false
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 school: Conjuration
-time: 1 action
+level: 7
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: V
+components:
+  - V
 aliases:
   - Teleport
+range: 10 feet
+area:
+  type: cube
+  size: 10
 ---
 # Teleport
 *7th-level, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 10 feet
 - **Components:** V
 - **Duration:** Instantaneous
 
 This spell instantly transports you and up to eight willing creatures of your choice that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be able to fit entirely inside a 10-foot cube, and it can't be held or carried by an unwilling creature.
 
-The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls `dice:d100|noform|avg` (`d100`) and consults the table.
+The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls `dice:d100|noform|noparens|avg` (`d100`) and consults the table.
 
 **Teleportation**
 
@@ -56,7 +65,7 @@ You and your group (or the target object) appear where you want to.
 
 ## Off Target
 
-You and your group (or the target object) appear a random distance away from the destination in a random direction. Distance off target is `1d10 × 1d10` percent of the distance that was to be traveled. For example, if you tried to travel 120 miles, landed off target, and rolled a 5 and 3 on the two `dice:d10|noform|avg` (`d10`)s, then you would be off target by 15 percent, or 18 miles. The DM determines the direction off target randomly by rolling a `dice:d8|noform|avg` (`d8`) and designating 1 as north, 2 as northeast, 3 as east, and so on around the points of the compass. If you were teleporting to a coastal city and wound up 18 miles out at sea, you could be in trouble.
+You and your group (or the target object) appear a random distance away from the destination in a random direction. Distance off target is `1d10 × 1d10` percent of the distance that was to be traveled. For example, if you tried to travel 120 miles, landed off target, and rolled a 5 and 3 on the two `dice:d10|noform|noparens|avg` (`d10`)s, then you would be off target by 15 percent, or 18 miles. The DM determines the direction off target randomly by rolling a `dice:d8|noform|noparens|avg` (`d8`) and designating 1 as north, 2 as northeast, 3 as east, and so on around the points of the compass. If you were teleporting to a coastal city and wound up 18 miles out at sea, you could be in trouble.
 
 ## Similar Area
 
@@ -64,10 +73,10 @@ You and your group (or the target object) wind up in a different area that's vis
 
 ## Mishap
 
-The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes `dice:3d10|noform|avg` (`3d10`) force damage, and the DM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
+The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes `dice:3d10|noform|noparens|avg` (`3d10`) force damage, and the DM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 281. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

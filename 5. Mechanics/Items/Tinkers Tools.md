@@ -8,6 +8,7 @@ tags:
 aliases:
   - Tinker's Tools
 cost: 5000
+weight: 10
 ---
 # Tinker's Tools
 *Artisan's tools*  

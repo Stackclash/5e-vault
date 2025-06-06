@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/griffonssaddlebag2
 aliases:
-  - 'Part II: Character Options'
+  - Part II: Character Options
 ---
 # Part II: Character Options
 *Source: Griffon's Saddlebag Book 2, p. 203* 

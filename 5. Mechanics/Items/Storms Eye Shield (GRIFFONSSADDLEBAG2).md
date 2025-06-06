@@ -10,6 +10,7 @@ tags:
 aliases:
   - Storm's Eye Shield
 armorClass: 2
+weight: 6
 ---
 # Storm's Eye Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  

@@ -7,6 +7,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Astral Shard
+weight: 1
 ---
 # Astral Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  

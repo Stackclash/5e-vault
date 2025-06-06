@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: underdark
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Troglodyte
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Troglodyte.md|Troglodyte]]
+# [[5. Mechanics\Bestiary\Humanoid\Troglodyte.md|Troglodyte]]
 *Source: Monster Manual p. 290*
 
 The savage, degenerate troglodytes squat in the shallow depths of the Underdark in a constant state of war against their neighbors and one another. They mark the borders of their territories with cracked bones and skulls, or with pictographs painted in blood or dung.
@@ -46,44 +46,47 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 "ac_class": "natural armor"
 "hp": !!int "13"
 "hit_dice": "2d8 + 4"
+"modifier": !!int "0"
 "stats":
-- !!int "14"
-- !!int "10"
-- !!int "14"
-- !!int "6"
-- !!int "10"
-- !!int "6"
+  - !!int "14"
+  - !!int "10"
+  - !!int "14"
+  - !!int "6"
+  - !!int "10"
+  - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Troglodyte"
 "cr": "1/4"
 "traits":
-- "desc": "The troglodyte has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
-    \ checks made to hide."
-  "name": "Chameleon Skin"
-- "desc": "Any creature other than a troglodyte that starts its turn within 5 feet\
-    \ of the troglodyte must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ until the start of the creature's next turn. On a successful saving throw, the\
-    \ creature is immune to the stench of all troglodytes for 1 hour."
-  "name": "Stench"
-- "desc": "While in sunlight, the troglodyte has disadvantage on attack rolls, as\
-    \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
-    \ that rely on sight."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The troglodyte has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+      \ checks made to hide."
+    "name": "Chameleon Skin"
+  - "desc": "Any creature other than a troglodyte that starts its turn within 5 feet\
+      \ of the troglodyte must succeed on a DC 12 Constitution saving throw or be\
+      \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] until the start of the\
+      \ creature's next turn. On a successful saving throw, the creature is immune\
+      \ to the stench of all troglodytes for 1 hour."
+    "name": "Stench"
+  - "desc": "While in sunlight, the troglodyte has disadvantage on attack rolls, as\
+      \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
+      \ that rely on sight."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "The troglodyte makes three attacks: one with its bite and two with its\
-    \ claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
-    \ + 2) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
-    \ + 2) slashing damage."
-  "name": "Claw"
+  - "desc": "The troglodyte makes three attacks: one with its bite and two with its\
+      \ claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+      \ + 2) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+      \ + 2) slashing damage."
+    "name": "Claw"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/troglodyte.webp"
 ```
 ^statblock

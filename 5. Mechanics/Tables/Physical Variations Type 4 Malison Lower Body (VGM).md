@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/vgm
 aliases:
-  - 'Physical Variations; Type 4 Malison: Lower Body'
+  - Physical Variations; Type 4 Malison: Lower Body
 ---
 # Physical Variations; Type 4 Malison: Lower Body
 *Source: Volo's Guide to Monsters p. 97* 

@@ -10,4 +10,4 @@ aliases:
 
 ## 1st Level
 
-- [[Bane \|"PHB"]]
+- [[5. Mechanics/Spells/Bane.md \|"PHB"]]

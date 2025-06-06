@@ -15,7 +15,7 @@ tags:
 aliases:
   - Galeb Duhr
 ---
-# [[5. Mechanics/Bestiary/Elemental/Galeb Duhr.md|Galeb Duhr]]
+# [[5. Mechanics\Bestiary\Elemental\Galeb Duhr.md|Galeb Duhr]]
 *Source: Monster Manual p. 139, Tasha's Cauldron of Everything*
 
 The galeb duhr is a boulder-like creature with stumpy appendages that act as arms and legs. It has the ability to animate the rocks and boulders around it, and is thus usually encountered in rocky terrain.
@@ -41,13 +41,14 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
 "ac_class": "natural armor"
 "hp": !!int "85"
 "hit_dice": "9d8 + 45"
+"modifier": !!int "2"
 "stats":
-- !!int "20"
-- !!int "14"
-- !!int "20"
-- !!int "11"
-- !!int "12"
-- !!int "11"
+  - !!int "20"
+  - !!int "14"
+  - !!int "20"
+  - !!int "11"
+  - !!int "12"
+  - !!int "11"
 "speed": "15 ft. (30 ft. when rolling, 60 ft. rolling downhill)"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
@@ -58,29 +59,30 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
 "languages": "Terran"
 "cr": "6"
 "traits":
-- "desc": "While the galeb duhr remains motionless, it is indistinguishable from a\
-    \ normal boulder."
-  "name": "False Appearance"
-- "desc": "If the galeb duhr rolls at least 20 feet straight toward a target and then\
-    \ hits it with a slam attack on the same turn, the target takes an extra 7 (2d6)\
-    \ bludgeoning damage. If the target is a creature, it must succeed on a DC 16\
-    \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
-  "name": "Rolling Charge"
+  - "desc": "While the galeb duhr remains motionless, it is indistinguishable from\
+      \ a normal boulder."
+    "name": "False Appearance"
+  - "desc": "If the galeb duhr rolls at least 20 feet straight toward a target and\
+      \ then hits it with a slam attack on the same turn, the target takes an extra\
+      \ 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on\
+      \ a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+    "name": "Rolling Charge"
 "actions":
-- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6\
-    \ + 5) bludgeoning damage."
-  "name": "Slam"
-- "desc": "The galeb duhr magically animates up to two boulders it can see within\
-    \ 60 feet of it. A boulder has statistics like those of a galeb duhr, except it\
-    \ has Intelligence 1 and Charisma 1, it can't be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], and it lacks this\
-    \ action option. A boulder remains animated as long as the galeb duhr maintains\
-    \ [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]], up to 1 minute\
-    \ (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on a spell)."
-  "name": "Animate Boulders (1/Day)"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12\
+      \ (2d6 + 5) bludgeoning damage."
+    "name": "Slam"
+  - "desc": "The galeb duhr magically animates up to two boulders it can see within\
+      \ 60 feet of it. A boulder has statistics like those of a galeb duhr, except\
+      \ it has Intelligence 1 and Charisma 1, it can't be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+      \ or [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], and it lacks\
+      \ this action option. A boulder remains animated as long as the galeb duhr maintains\
+      \ [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]], up to 1 minute\
+      \ (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on a\
+      \ spell)."
+    "name": "Animate Boulders (1/Day)"
 "source":
-- "MM"
-- "TCE"
+  - "MM"
+  - "TCE"
 "image": "5. Mechanics/Bestiary/Elemental/token/galeb-duhr.webp"
 ```
 ^statblock

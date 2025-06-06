@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/elven
   - domain/tempest
+alignment: Neutral Good
+category: The Seldarine
+domains: Tempest
+pantheon: Elven
+province: 'Winter, harsh weather'
+symbol: Spear between two circles
 aliases:
   - Rellavar Danuvien
 ---

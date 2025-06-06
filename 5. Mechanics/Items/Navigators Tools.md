@@ -8,6 +8,7 @@ tags:
 aliases:
   - Navigator's Tools
 cost: 2500
+weight: 2
 ---
 # Navigator's Tools
 *Tool*  

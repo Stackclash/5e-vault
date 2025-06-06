@@ -7,14 +7,21 @@ tags:
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/conjuration
-level: 8th-level
-range: false
+classes:
+  - Bard
+  - Wizard
 school: Conjuration
+level: 8
+ritual: false
 time: 1 minute
 duration: Instantaneous
-components: 'V, S, a diamond worth at least 500 gp, which the spell consumes'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Mighty Fortress
+material: 'a diamond worth at least 500 gp, which the spell consumes'
 ---
 # Mighty Fortress
 *8th-level, Conjuration*  
@@ -22,7 +29,7 @@ aliases:
 
 - **Casting time:** 1 minute
 - **Range:** 1 miles
-- **Components:** V, S, a diamond worth at least 500 gp, which the spell consumes
+- **Components:** V, S, M (a diamond worth at least 500 gp, which the spell consumes)
 - **Duration:** Instantaneous
 
 A fortress of stone erupts from a square area of ground of your choice that you can see within range. The area is 120 feet on each side, and it must not have any buildings or other structures on it. Any creatures in the area are harmlessly lifted up as the fortress rises.
@@ -39,6 +46,6 @@ After 7 days or when you cast this spell somewhere else, the fortress harmlessly
 
 Casting this spell on the same spot once every 7 days for a year makes the fortress permanent.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Xanathar's Guide to Everything p. 161*

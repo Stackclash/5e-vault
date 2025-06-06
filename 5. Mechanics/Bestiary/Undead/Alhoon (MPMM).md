@@ -15,7 +15,7 @@ tags:
 aliases:
   - Alhoon
 ---
-# [[5. Mechanics/Bestiary/Undead/Alhoon (MPMM).md|Alhoon]]
+# [[5. Mechanics\Bestiary\Undead\Alhoon (MPMM).md|Alhoon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172*
 
 > [!quote] A quote from Mordenkainen  
@@ -54,26 +54,33 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 "ac_class": "natural armor"
 "hp": !!int "150"
 "hit_dice": "20d8 + 60"
+"modifier": !!int "1"
 "stats":
-- !!int "11"
-- !!int "12"
-- !!int "16"
-- !!int "19"
-- !!int "17"
-- !!int "17"
+  - !!int "11"
+  - !!int "12"
+  - !!int "16"
+  - !!int "19"
+  - !!int "17"
+  - !!int "17"
 "speed": "30 ft., fly 15 ft. (hover)"
 "saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "7"
-  "Intelligence": !!int "8"
-  "Constitution": !!int "7"
+  - "constitution": "+7"
+  - "intelligence": "+8"
+  - "wisdom": "+7"
+  - "charisma": "+7"
 "skillsaves":
-  "Deception": !!int "7"
-  "Stealth": !!int "5"
-  "Insight": !!int "7"
-  "Perception": !!int "7"
-  "History": !!int "8"
-  "Arcana": !!int "8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
+    "desc": "+8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+5"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -83,45 +90,45 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "10"
 "traits":
-- "desc": "The alhoon casts one of the following spells, requiring no material components\
-    \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\nAt\
-    \ will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe\
-    \ of invulnerability]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-    \ [[5. Mechanics/Spells/Modify Memory.md|modify memory]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
-    \ (self only), [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
-  "name": "Spellcasting"
-- "desc": "The alhoon has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- "desc": "The alhoon has advantage on saving throws against any effect that turns\
-    \ Undead."
-  "name": "Turn Resistance"
+  - "desc": "The alhoon has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
+  - "desc": "The alhoon has advantage on saving throws against any effect that turns\
+      \ Undead."
+    "name": "Turn Resistance"
 "actions":
-- "desc": "The alhoon makes two Chilling Grasp or Arcane Bolt attacks."
-  "name": "Multiattack"
-- "desc": "Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (4d6)\
-    \ cold damage, and the alhoon regains 14 hit points."
-  "name": "Chilling Grasp"
-- "desc": "Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 28\
-    \ (8d6) force damage."
-  "name": "Arcane Bolt"
-- "desc": "The alhoon magically emits psychic energy in a 60-foot cone. Each creature\
-    \ in that area must succeed on a DC 16 Intelligence saving throw or take 22 (4d8\
-    \ + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
-    \ for 1 minute. A target can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success."
-  "name": "Mind Blast (Recharge 5-6)"
+  - "desc": "The alhoon makes two Chilling Grasp or Arcane Bolt attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (4d6)\
+      \ cold damage, and the alhoon regains 14 hit points."
+    "name": "Chilling Grasp"
+  - "desc": "Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 28\
+      \ (8d6) force damage."
+    "name": "Arcane Bolt"
+  - "desc": "The alhoon magically emits psychic energy in a 60-foot cone. Each creature\
+      \ in that area must succeed on a DC 16 Intelligence saving throw or take 22\
+      \ (4d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
+      \ for 1 minute. A target can repeat the saving throw at the end of each of its\
+      \ turns, ending the effect on itself on a success."
+    "name": "Mind Blast (Recharge 5-6)"
+  - "desc": "The alhoon casts one of the following spells, requiring no material components\
+      \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
+      At will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Detect Magic.md|detect\
+      \ magic]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+      \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
+      \ [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]],\
+      \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Modify Memory.md|modify memory]],\
+      \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only), [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
+    "name": "Spellcasting"
 "reactions":
-- "desc": "The alhoon targets one creature it can see within 60 feet of it that is\
-    \ casting a spell. If the spell is 3rd level or lower, the spell fails, but any\
-    \ spell slots or charges are not wasted."
-  "name": "Negate Spell (3/Day)"
+  - "desc": "The alhoon targets one creature it can see within 60 feet of it that\
+      \ is casting a spell. If the spell is 3rd level or lower, the spell fails, but\
+      \ any spell slots or charges are not wasted."
+    "name": "Negate Spell (3/Day)"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Undead/token/alhoon-mpmm.webp"
 ```
 ^statblock

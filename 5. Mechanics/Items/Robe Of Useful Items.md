@@ -24,7 +24,7 @@ The robe has two of each of the following patches:
 - Hempen rope (50 feet, coiled)  
 - Sack  
 
-In addition, the robe has `dice:4d4|noform|avg` (`4d4`) other patches. The DM chooses the patches or determines them randomly.
+In addition, the robe has `dice:4d4|noform|noparens|avg` (`4d4`) other patches. The DM chooses the patches or determines them randomly.
 
 `dice: [[Robe Of Useful Items.md#^patch]]`
 

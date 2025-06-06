@@ -21,6 +21,6 @@ This item has 9 charges. While wearing this amulet you may spend an action and 1
 
 If you die while wearing this amulet, and if this amulet has at least 7 charges in it, the amulet will automatically expend 7 charges to create a new body for your soul to inhabit. This body is formed from dust in a space within 5 feet of the amulet over the course of 24 hours, upon which the amulet can be placed on the new body, allowing your soul to enter it and return to life. This new body is a duplicate of your original one at the moment of its death but with all wounds healed and all hit points restored. This ability fails if the amulet is destroyed or removed from your body during the 24 hours it is creating a new body.
 
-This item regains `dice:1d8+1|noform|avg` (`1d8 + 1`) charges daily at dawn.
+This item regains `dice:1d8+1|noform|noparens|avg` (`1d8 + 1`) charges daily at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 118*

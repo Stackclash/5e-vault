@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhhvii
 aliases:
-  - 'Chapter 1: Introduction'
+  - Chapter 1: Introduction
 ---
 # Chapter 1: Introduction
 *Source: Hamund's Harvesting Handbook: Volume II, p. 3* 

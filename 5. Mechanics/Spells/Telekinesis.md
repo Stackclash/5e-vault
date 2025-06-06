@@ -11,22 +11,36 @@ tags:
   - spell/subclass/aberrant-mind
   - spell/subclass/psi-warrior
   - spell/subclass/the-great-old-one
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Fighter (Psi Warrior)
+  - Sorcerer
+  - Sorcerer (Aberrant Mind)
+  - Warlock (The Great Old One)
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 10 minute'
-components: 'V, S'
+level: 5
+ritual: false
+time: 1 Action
+duration: Up to 10 minutes
+components:
+  - V
+  - S
 aliases:
   - Telekinesis
+range: 60 feet
+area:
+  type: sphere
+  size: 30
+concentration: true
 ---
 # Telekinesis
 *5th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
-- **Duration:** Concentration, up to 10 minute
+- **Duration:** Concentration, up to 10 minutes
 
 You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell, and as your action each round for the duration, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
 
@@ -46,6 +60,6 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Aberrant Mind (TCE)\|Sorcerer (Aberrant Mind)]]; [[List Spells Classes Fighter Psi Warrior (TCE)\|Fighter (Psi Warrior)]]; [[List Spells Classes Warlock The Great Old One\|Warlock (The Great Old One)]]
+**Classes**: [Sorcerer (Aberrant Mind)](compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Fighter (Psi Warrior)](compendium/lists/list-spells-classes-psi-warrior-tce.md "subclass=TCE")
 
 *Source: Player's Handbook p. 280. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

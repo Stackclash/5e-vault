@@ -32,7 +32,7 @@ Alternatively, if a hostile creature ends its turn within 5 feet of you, you can
 
 ## "From Sky to Earth!"
 
-As an action, you can expend 4 charges from the armor to summon a volley of spectral arrows from the sky, choosing a point that you can see within 120 feet of you when you do. The arrows fall in a 30-foot radius, 60-foot high cylinder centered on that point and then disappear. Each creature in the area must make a DC 16 Dexterity saving throw, taking `dice:6d8|noform|avg` (`6d8`) force damage on a failed save, or half as much damage on a successful one.
+As an action, you can expend 4 charges from the armor to summon a volley of spectral arrows from the sky, choosing a point that you can see within 120 feet of you when you do. The arrows fall in a 30-foot radius, 60-foot high cylinder centered on that point and then disappear. Each creature in the area must make a DC 16 Dexterity saving throw, taking `dice:6d8|noform|noparens|avg` (`6d8`) force damage on a failed save, or half as much damage on a successful one.
 
 ## "There Is No Escape!"
 

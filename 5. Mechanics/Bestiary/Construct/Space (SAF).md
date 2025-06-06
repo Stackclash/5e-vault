@@ -13,7 +13,7 @@ tags:
 aliases:
   - Space
 ---
-# [[5. Mechanics/Bestiary/Construct/Space (SAF).md|Space]]
+# [[5. Mechanics\Bestiary\Construct\Space (SAF).md|Space]]
 *Source: Strongholds and Followers p. 227*
 
 The Inexorable limitations of Space forbid anyone from moving from point A to point Z without passing through the rest of the alphabet. Certainly nothing as vulgar as teleportation is allowed on Axiom.
@@ -35,13 +35,14 @@ Space is the light infantry of the Inexorables, and pretty easy to use in combat
 "ac_class": "natural armor"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
+"modifier": !!int "2"
 "stats":
-- !!int "16"
-- !!int "14"
-- !!int "16"
-- !!int "13"
-- !!int "16"
-- !!int "14"
+  - !!int "16"
+  - !!int "14"
+  - !!int "16"
+  - !!int "13"
+  - !!int "16"
+  - !!int "14"
 "speed": "40 ft."
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
@@ -50,21 +51,21 @@ Space is the light infantry of the Inexorables, and pretty easy to use in combat
 "languages": "all those of the creature who summoned it"
 "cr": "5"
 "traits":
-- "desc": "No enemies within 60 feet can gain the benefit of magical movement."
-  "name": "The Law of Motion"
-- "desc": "The Inexorables have disadvantage on all saving throws against spells."
-  "name": "Chaos Vulnerability"
-- "desc": "The Inexorables are immune to any effects that would slow them or deny\
-    \ them actions or movement."
-  "name": "Inexorable"
+  - "desc": "No enemies within 60 feet can gain the benefit of magical movement."
+    "name": "The Law of Motion"
+  - "desc": "The Inexorables have disadvantage on all saving throws against spells."
+    "name": "Chaos Vulnerability"
+  - "desc": "The Inexorables are immune to any effects that would slow them or deny\
+      \ them actions or movement."
+    "name": "Inexorable"
 "actions":
-- "desc": "Space makes three slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8\
-    \ + 3) bludgeoning damage."
-  "name": "Slam"
+  - "desc": "Space makes three slam attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
+      \ (2d8 + 3) bludgeoning damage."
+    "name": "Slam"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Space.png"
 ```
 ^statblock

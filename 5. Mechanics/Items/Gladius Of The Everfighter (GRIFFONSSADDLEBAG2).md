@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Gladius of the Everfighter
-one-hand-damage: 1d6 P
+one-hand-damage: 1d6 piercing
+weight: 2
 ---
 # Gladius of the Everfighter
 *Weapon ([[5. Mechanics/Items/Shortsword.md\|shortsword]]), major, legendary (requires attunement by a fighter)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Gladius-of-the-Everfighter.webp#right)  
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
 

@@ -16,15 +16,15 @@ aliases:
 
 This gilded book of law is a rare magic item that's filled with detailed ordinances regarding Polaris, a city held aloft by astral magic. Through the city's dedicated magistrate, this book has been given the following magical properties.
 
-The book can be used as an improvised light hammer, which you are proficient with while attuned to it. On a hit, the target takes an extra `dice:1d6|noform|avg` (`1d6`) psychic damage, or half as much psychic damage if it's lawful.
+The book can be used as an improvised light hammer, which you are proficient with while attuned to it. On a hit, the target takes an extra `dice:1d6|noform|noparens|avg` (`d6`) psychic damage, or half as much psychic damage if it's lawful.
 
-While holding the book, you can use an action to read from it aloud and wrack nearby creatures with guilt for their wrongdoing. When you do, each creature within 15 feet of you must succeed on a DC 15 Wisdom saving throw or take `dice:2d6|noform|avg` (`2d6`) psychic damage. On a success, the creature is immune to this effect for 24 hours. If a creature is lawful, it has a +5 bonus to the saving throw.
+While holding the book, you can use an action to read from it aloud and wrack nearby creatures with guilt for their wrongdoing. When you do, each creature within 15 feet of you must succeed on a DC 15 Wisdom saving throw or take `dice:2d6|noform|noparens|avg` (`2d6`) psychic damage. On a success, the creature is immune to this effect for 24 hours. If a creature is lawful, it has a +5 bonus to the saving throw.
 
 Original copies of a Polaris Magistrate codex are almost unheard of, but the ones that exist have spent centuries steeped in their own powerful scripture intensifying their magic. The following codex variant is a legendary item with additional properties:
 
 ## Amendments
 
-The book deals an extra `dice:2d6|noform|avg` (`2d6`) psychic damage on a hit, instead of `dice:1d6|noform|avg` (`1d6`), and returns to your hand immediately after making a ranged attack with it. In addition, the saving throw DC for when you read from the book increases to 17, and deals `dice:4d6|noform|avg` (`4d6`) psychic damage instead of `dice:2d6|noform|avg` (`2d6`).
+The book deals an extra `dice:2d6|noform|noparens|avg` (`2d6`) psychic damage on a hit, instead of `dice:1d6|noform|noparens|avg` (`d6`), and returns to your hand immediately after making a ranged attack with it. In addition, the saving throw DC for when you read from the book increases to 17, and deals `dice:4d6|noform|noparens|avg` (`4d6`) psychic damage instead of `dice:2d6|noform|noparens|avg` (`2d6`).
 
 ## Bound by Law
 

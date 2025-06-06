@@ -18,4 +18,4 @@ The homunculus is friendly to you and your companions, and it obeys your command
 
 In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]], the homunculus can take any action of its choice, not just [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]].
 
-The homunculus regains `dice:2d6|noform|avg` (`2d6`) hit points if the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
+The homunculus regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points if the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.

@@ -9,13 +9,14 @@ tags:
   - item/weapon/ranged
 aliases:
   - Shotgun
-one-hand-damage: 2d8 P
-range: 30/90
+one-hand-damage: 2d8 piercing
+range: 30\90
+weight: 7
 ---
 # Shotgun
 *Weapon*  
 
-- **Damage**: 2d8 P
+- **Damage**: 2d8 piercing
 - **Range**: 30/90
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Reload\|Reload]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.

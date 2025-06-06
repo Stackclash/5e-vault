@@ -11,21 +11,31 @@ tags:
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 3rd-level
-range: true
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Conjuration
-time: 1 action
+level: 3
+ritual: true
+time: 1 Action
 duration: 1 round
-components: 'V, S, a small brass key'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Portal Jaunt
+material: a small brass key
 ---
 # Portal Jaunt
 *3rd-level, Conjuration (ritual)*  
 
-- **Casting time:** 1 action unless cast as a ritual
+- **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 300 feet
-- **Components:** V, S, a small brass key
+- **Components:** V, S, M (a small brass key)
 - **Duration:** 1 round
 
 You touch a specially prepared key to a door or gate, turning it into a one-way portal to another such door within range. This spell works with any crafted door, doorway, archway, or any other artificial opening, but not natural or accidental openings such as cave entrances or cracks in walls. You must be aware of your destination or be able to see it from where you cast the spell.
@@ -36,6 +46,6 @@ For the purpose of this spell, any locks, bars, or magical effects such as [[5. 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the range increases by 100 feet and the duration increases by 1 round for each slot level above 3rd. Each round added to the duration allows one additional creature to move through the portal before the spell ends.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 99*

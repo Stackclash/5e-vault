@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greek
   - domain/trickery
+alignment: Chaotic Good
+domains: Trickery
+pantheon: Greek
+symbol: Caduceus (winged staff and serpents)
 aliases:
   - Hermes
 ---

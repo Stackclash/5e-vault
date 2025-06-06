@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhhvii
 aliases:
-  - 'Chapter 5: Miscellaneous Additions'
+  - Chapter 5: Miscellaneous Additions
 ---
 # Chapter 5: Miscellaneous Additions
 *Source: Hamund's Harvesting Handbook: Volume II, p. 67* 

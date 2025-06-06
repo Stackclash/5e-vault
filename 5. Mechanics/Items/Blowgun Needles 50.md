@@ -8,6 +8,7 @@ tags:
 aliases:
   - Blowgun Needles (50)
 cost: 100
+weight: 1
 ---
 # Blowgun Needles (50)
 *Ammunition*  

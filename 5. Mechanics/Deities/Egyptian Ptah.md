@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/egyptian
   - domain/knowledge
+alignment: Lawful Neutral
+domains: Knowledge
+pantheon: Egyptian
+symbol: Bull
 aliases:
   - Ptah
 ---

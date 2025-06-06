@@ -116,7 +116,7 @@ Choose one ability score. You gain proficiency in saving throws using the chosen
 
 *Prerequisite: Squire survivor*
 
-When a creature you can see makes an attack against a target you can see within 5 feet of you, you can use your reaction to become the target of the attack instead. If you are wielding a shield, you can reduce the damage by `dice:1d10|noform|avg` (`1d10`). Once you use this talent, you can't do so again until you finish a short or long rest.
+When a creature you can see makes an attack against a target you can see within 5 feet of you, you can use your reaction to become the target of the attack instead. If you are wielding a shield, you can reduce the damage by `dice:1d10|noform|noparens|avg` (`d10`). Once you use this talent, you can't do so again until you finish a short or long rest.
 
 ### Skillful
 

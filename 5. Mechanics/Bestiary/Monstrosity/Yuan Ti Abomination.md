@@ -17,7 +17,7 @@ tags:
 aliases:
   - Yuan-ti Abomination
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Abomination.md|Yuan-ti Abomination]]
+# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Abomination.md|Yuan-ti Abomination]]
 *Source: Monster Manual p. 308*
 
 Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society, and they most closely resemble the race as the serpent gods intended it. They mastermind elaborate schemes and perform dark rites in the hope of one day ruling the world.
@@ -52,11 +52,11 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 > 
 > The yuan-ti revere a number of powerful entities as gods, including the following.
 > 
-> **Dendar, the Night Serpent.** Dendar's followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
+> **Dendar, the Night Serpent.** [[5. Mechanics/Deities/Yuan Ti Dendar (VGM).md|Dendar's]] followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
 > 
-> **Merrshaulk, Master of the Pit.** Merrshaulk is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
+> **Merrshaulk, Master of the Pit.** [[5. Mechanics/Deities/Yuan Ti Merrshaulk (VGM).md|Merrshaulk]] is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
 > 
-> **Sseth, the Sibilant Death.** Sseth appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
+> **Sseth, the Sibilant Death.** [[5. Mechanics/Deities/Yuan Ti Sseth (VGM).md|Sseth]] appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
 ^serpent-gods
 
 > [!quote] A quote from From Masters of the Forbidden City by Codo Vidak  
@@ -74,55 +74,60 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 "ac_class": "natural armor"
 "hp": !!int "127"
 "hit_dice": "15d10 + 45"
+"modifier": !!int "3"
 "stats":
-- !!int "19"
-- !!int "16"
-- !!int "17"
-- !!int "17"
-- !!int "15"
-- !!int "18"
+  - !!int "19"
+  - !!int "16"
+  - !!int "17"
+  - !!int "17"
+  - !!int "15"
+  - !!int "18"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+6"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Draconic"
 "cr": "7"
 "traits":
-- "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC 15).\
-    \ The yuan-ti can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes\
-    \ only)\n\n1/day: [[5. Mechanics/Spells/Fear.md|fear]]\n\n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "Innate Spellcasting (Abomination Form Only)"
-- "desc": "The yuan-ti can use its action to polymorph into a Large snake, or back\
-    \ into its true form. Its statistics are the same in each form. Any equipment\
-    \ it is wearing or carrying isn't transformed. It doesn't change form if it dies."
-  "name": "Shapechanger"
-- "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
+  - "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC\
+      \ 15). The yuan-ti can innately cast the following spells, requiring no material\
+      \ components:\n\nAt will: [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]]\
+      \ (snakes only)\n\n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
+      \n1/day: [[5. Mechanics/Spells/Fear.md|fear]]"
+    "name": "Innate Spellcasting (Abomination Form Only)"
+  - "desc": "The yuan-ti can use its action to polymorph into a Large snake, or back\
+      \ into its true form. Its statistics are the same in each form. Any equipment\
+      \ it is wearing or carrying isn't transformed. It doesn't change form if it\
+      \ dies."
+    "name": "Shapechanger"
+  - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The yuan-ti makes two ranged attacks or three melee attacks, but can use\
-    \ its bite and constrict attacks only once each."
-  "name": "Multiattack (Abomination Form Only)"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 7 (1d6\
-    \ + 4) piercing damage plus 10 (3d6) poison damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6\
-    \ + 4) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
-    \ and the yuan-ti can't constrict another target."
-  "name": "Constrict"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
-    \ + 4) slashing damage."
-  "name": "Scimitar (Abomination Form Only)"
-- "desc": "Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit:\
-    \ 12 (2d8 + 3) piercing damage plus 10 (3d6) poison damage."
-  "name": "Longbow (Abomination Form Only)"
+  - "desc": "The yuan-ti makes two ranged attacks or three melee attacks, but can\
+      \ use its bite and constrict attacks only once each."
+    "name": "Multiattack (Abomination Form Only)"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 7\
+      \ (1d6 + 4) piercing damage plus 10 (3d6) poison damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11\
+      \ (2d6 + 4) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
+      \ and the yuan-ti can't constrict another target."
+    "name": "Constrict"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+      \ (2d6 + 4) slashing damage."
+    "name": "Scimitar (Abomination Form Only)"
+  - "desc": "Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit:\
+      \ 12 (2d8 + 3) piercing damage plus 10 (3d6) poison damage."
+    "name": "Longbow (Abomination Form Only)"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-abomination.webp"
 ```
 ^statblock

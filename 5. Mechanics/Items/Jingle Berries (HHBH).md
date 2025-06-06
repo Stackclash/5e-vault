@@ -21,7 +21,7 @@ Little yellow berries that resemble the chimes of a bell, found on arctic shrubs
 
 ## Effect:
 
-This herb contains `dice:1d4|noform|avg` (`1d4`) charges. As an action, you may expend a charge to eat one of these berries. For the next 10 minutes, you produce a jingling sound whenever you take a step.
+This herb contains `dice:1d4|noform|noparens|avg` (`d4`) charges. As an action, you may expend a charge to eat one of these berries. For the next 10 minutes, you produce a jingling sound whenever you take a step.
 
 > [!quote] A quote from Hamund  
 > 

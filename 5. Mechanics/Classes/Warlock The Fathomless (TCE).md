@@ -8,7 +8,7 @@ aliases:
   - The Fathomless
 ---
 # The Fathomless
-*[[Warlock.md\|Warlock]]: Otherworldly Patron*  
+*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Tasha's Cauldron of Everything p. 72*  
 
 > [!tldr] Class and Feature Progression
@@ -18,20 +18,20 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#The%20Fathomless%20(Level%201)'>The Fathomless</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#The Fathomless (Level 1)' class='internal-link'>The Fathomless</a></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Oceanic%20Soul%20(Level%206)'>Oceanic Soul</a>, <a href='#Guardian%20Coil%20(Level%206)'>Guardian Coil</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Oceanic Soul (Level 6)' class='internal-link'>Oceanic Soul</a>, <a href='#Guardian Coil (Level 6)' class='internal-link'>Guardian Coil</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Grasping%20Tentacles%20(Level%2010)'>Grasping Tentacles</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Grasping Tentacles (Level 10)' class='internal-link'>Grasping Tentacles</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Fathomless%20Plunge%20(Level%2014)'>Fathomless Plunge</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Fathomless Plunge (Level 14)' class='internal-link'>Fathomless Plunge</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -76,7 +77,7 @@ The Fathomless lets you choose from an expanded list of spells when you learn a 
 
 You can magically summon a spectral tentacle that strikes at your foes. As a bonus action, you create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle.
 
-When you create the tentacle, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the target takes `dice:1d8|noform|avg` (`1d8`) cold damage, and its speed is reduced by 10 feet until the start of your next turn. When you reach 10th level in this class, the damage increases to `dice:2d8|noform|avg` (`2d8`).
+When you create the tentacle, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the target takes `dice:1d8|noform|noparens|avg` (`d8`) cold damage, and its speed is reduced by 10 feet until the start of your next turn. When you reach 10th level in this class, the damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 As a bonus action on your turn, you can move the tentacle up to 30 feet and repeat the attack.
 
@@ -98,7 +99,7 @@ You are now even more at home in the depths. You gain resistance to cold damage.
 
 *6th-level Fathomless feature*
 
-Your Tentacle of the Deeps can defend you and others, interposing itself between them and harm. When you or a creature you can see takes damage while within 10 feet of the tentacle, you can use your reaction to choose one of those creatures and reduce the damage to that creature by `dice:1d8|noform|avg` (`1d8`). When you reach 10th level in this class, the damage reduced by the tentacle increases to `dice:2d8|noform|avg` (`2d8`).
+Your Tentacle of the Deeps can defend you and others, interposing itself between them and harm. When you or a creature you can see takes damage while within 10 feet of the tentacle, you can use your reaction to choose one of those creatures and reduce the damage to that creature by `dice:1d8|noform|noparens|avg` (`d8`). When you reach 10th level in this class, the damage reduced by the tentacle increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Grasping Tentacles (Level 10)
 

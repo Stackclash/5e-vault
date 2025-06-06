@@ -8,7 +8,7 @@ aliases:
   - Monster Slayer
 ---
 # Monster Slayer
-*[[Ranger.md\|Ranger]]: Ranger Archetype*  
+*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
 *Source: Xanathar's Guide to Everything p. 43*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Monster%20Slayer%20(Level%203)'>Monster Slayer</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Monster Slayer (Level 3)' class='internal-link'>Monster Slayer</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Supernatural%20Defense%20(Level%207)'>Supernatural Defense</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Supernatural Defense (Level 7)' class='internal-link'>Supernatural Defense</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Magic-User's%20Nemesis%20(Level%2011)'>Magic-User's Nemesis</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Magic-User's Nemesis (Level 11)' class='internal-link'>Magic-User's Nemesis</a></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Slayer's%20Counter%20(Level%2015)'>Slayer's Counter</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Slayer's Counter (Level 15)' class='internal-link'>Slayer's Counter</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -71,13 +72,13 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Slayer's Prey (Level 3)
 
-Starting at 3rd level, you can focus your ire on one foe, increasing the harm you inflict on it. As a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra `dice:1d6|noform|avg` (`1d6`) damage from the weapon.
+Starting at 3rd level, you can focus your ire on one foe, increasing the harm you inflict on it. As a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra `dice:1d6|noform|noparens|avg` (`d6`) damage from the weapon.
 
 This benefit lasts until you finish a short or long rest. It ends early if you designate a different creature.
 
 ### Supernatural Defense (Level 7)
 
-At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Prey forces you to make a saving throw and whenever you make an ability check to escape that target's grapple, add `dice:1d6|noform|avg` (`1d6`) to your roll.
+At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Prey forces you to make a saving throw and whenever you make an ability check to escape that target's grapple, add `dice:1d6|noform|noparens|avg` (`d6`) to your roll.
 
 ### Magic-User's Nemesis (Level 11)
 

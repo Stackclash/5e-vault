@@ -8,6 +8,7 @@ tags:
 aliases:
   - Bagpipes
 cost: 3000
+weight: 6
 ---
 # Bagpipes
 *Instrument*  

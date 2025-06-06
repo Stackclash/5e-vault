@@ -16,7 +16,7 @@ aliases:
 
 An astral bracelet is a powerful magical bangle that allows its wearer to see, commune, or otherwise manifest things using powers beyond the Material Plane. The metal and glyphs of each bracelet are related to the kind of power that it holds. You can pull the bracelet off and hold it in the palm of your hand as an action. When you do, the bracelet unfurls to reveal the four inner rings collapsed within it, transforming the bracelet into an astronomical sphere. While the bracelet is transformed into the astronomical sphere, its inner rings slowly spin on their own.
 
-The bracelet has 10 charges and regains `dice:2d4+2|noform|avg` (`2d4 + 2`) expended charges daily at dawn. If you expend the sphere's last charge, its spinning rings magically fold up again into the wearable bracelet. You can fold the rings back into place early using an action.
+The bracelet has 10 charges and regains `dice:2d4+2|noform|noparens|avg` (`2d4 + 2`) expended charges daily at dawn. If you expend the sphere's last charge, its spinning rings magically fold up again into the wearable bracelet. You can fold the rings back into place early using an action.
 
 ## Spells
 

@@ -6,6 +6,10 @@ tags:
   - deity/nonhuman
   - domain/forge
   - domain/knowledge
+alignment: Lawful Good
+domains: 'Forge, Knowledge'
+pantheon: Nonhuman
+symbol: Hammer and anvil
 aliases:
   - Moradin
 ---

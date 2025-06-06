@@ -15,7 +15,7 @@ tags:
 aliases:
   - Duergar Xarrorn
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Duergar Xarrorn (MPMM).md|Duergar Xarrorn]]
+# [[5. Mechanics\Bestiary\Humanoid\Duergar Xarrorn (MPMM).md|Duergar Xarrorn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 193*
 
 Xarrorn are specialists who construct weapons using a mixture of alchemy and psionics.
@@ -50,55 +50,56 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]]"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
+"modifier": !!int "0"
 "stats":
-- !!int "16"
-- !!int "11"
-- !!int "14"
-- !!int "11"
-- !!int "10"
-- !!int "9"
+  - !!int "16"
+  - !!int "11"
+  - !!int "14"
+  - !!int "11"
+  - !!int "10"
+  - !!int "9"
 "speed": "25 ft."
 "damage_resistances": "poison"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "2"
 "traits":
-- "desc": "The duergar has advantage on saving throws against spells and the [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], and [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ conditions."
-  "name": "Duergar Resilience"
-- "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The duergar has advantage on saving throws against spells and the [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+      \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], and [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+      \ conditions."
+    "name": "Duergar Resilience"
+  - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
+      \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
+      \ that rely on sight."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (1d12\
-    \ + 3) piercing damage, or 16 (2d12 + 3) piercing damage while under the effect\
-    \ of Enlarge, plus 3 (1d6) fire damage."
-  "name": "Fire Lance"
-- "desc": "From its fire lance, the duergar shoots a 15-foot cone of fire or a line\
-    \ of fire 30 feet long and 5 feet wide. Each creature in that area must make a\
-    \ DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save,\
-    \ or half as much damage on a successful one."
-  "name": "Fire Spray (Recharge 5-6)"
-- "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-    \ throw, or its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
-    \ is broken (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
-    \ on a spell). Any equipment the duergar wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ with it."
-  "name": "Invisibility (Recharges after a Short or Long Rest)"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9\
+      \ (1d12 + 3) piercing damage, or 16 (2d12 + 3) piercing damage while under the\
+      \ effect of Enlarge, plus 3 (d6) fire damage."
+    "name": "Fire Lance"
+  - "desc": "From its fire lance, the duergar shoots a 15-foot cone of fire or a line\
+      \ of fire 30 feet long and 5 feet wide. Each creature in that area must make\
+      \ a DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save,\
+      \ or half as much damage on a successful one."
+    "name": "Fire Spray (Recharge 5-6)"
+  - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
+      \ throw, or its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
+      \ is broken (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
+      \ on a spell). Any equipment the duergar wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ with it."
+    "name": "Invisibility (Recharges after a Short or Long Rest)"
 "bonus_actions":
-- "desc": "For 1 minute, the duergar magically increases in size, along with anything\
-    \ it is wearing or carrying. While enlarged, the duergar is Large, doubles its\
-    \ damage dice on Strength-based weapon attacks (included in the attacks), and\
-    \ makes Strength checks and Strength saving throws with advantage. If the duergar\
-    \ lacks the room to become Large, it attains the maximum size possible in the\
-    \ space available."
-  "name": "Enlarge (Recharges after a Short or Long Rest)"
+  - "desc": "For 1 minute, the duergar magically increases in size, along with anything\
+      \ it is wearing or carrying. While enlarged, the duergar is Large, doubles its\
+      \ damage dice on Strength-based weapon attacks (included in the attacks), and\
+      \ makes Strength checks and Strength saving throws with advantage. If the duergar\
+      \ lacks the room to become Large, it attains the maximum size possible in the\
+      \ space available."
+    "name": "Enlarge (Recharges after a Short or Long Rest)"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Humanoid/token/duergar-xarrorn-mpmm.webp"
 ```
 ^statblock

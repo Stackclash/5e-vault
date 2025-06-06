@@ -11,7 +11,7 @@ aliases:
 *Source: The Griffon's Saddlebag, Book 2 p. 204*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Races/Etherean.webp#right)  
 
-- **Ability Scores**: Charisma +2, Apply +1 to one of Strength, Dexterity, Constitution, Intelligence, Wisdom
+- **Ability Scores**: Charisma +2; Apply +1 to one of Strength, Dexterity, Constitution, Intelligence, or Wisdom.
 - **Size**: Medium
 - **Speed**: 30 ft.
 

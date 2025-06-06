@@ -8,6 +8,7 @@ tags:
 aliases:
   - Platinum
 cost: 50000
+weight: 1
 ---
 # Platinum
 *Trade good*  

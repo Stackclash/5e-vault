@@ -148,15 +148,15 @@ As your campaign progresses, your players' characters will not only become more 
 
 Chapter 8, ""Adventuring"," of the *Player's Handbook* describes a few downtime activities to fill the void between adventures. Depending on the style of your campaign and the particular backgrounds and interests of the adventurers, you can make some or all of the following additional activities available as options.
 
-- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Building A Stronghold.md\|Downtime Activity: Building a Stronghold]]  
-- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Carousing.md\|Downtime Activity: Carousing]]  
-- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Crafting A Magic Item.md\|Downtime Activity: Crafting a Magic Item]]  
-- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Gaining Renown.md\|Downtime Activity: Gaining Renown]]  
-- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Performing Sacred Rites.md\|Downtime Activity: Performing Sacred Rites]]  
-- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Running A Business.md\|Downtime Activity: Running a Business]]  
-- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Selling Magic Items.md\|Downtime Activity: Selling Magic Items]]  
-- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Sowing Rumors.md\|Downtime Activity: Sowing Rumors]]  
-- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Training To Gain Levels.md\|Downtime Activity: Training to Gain Levels]]  
+- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Building A Stronghold.md\|Building a Stronghold]]  
+- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Carousing.md\|Carousing]]  
+- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Crafting A Magic Item.md\|Crafting a Magic Item]]  
+- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Gaining Renown.md\|Gaining Renown]]  
+- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Performing Sacred Rites.md\|Performing Sacred Rites]]  
+- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Running A Business.md\|Running a Business]]  
+- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Selling Magic Items.md\|Selling Magic Items]]  
+- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Sowing Rumors.md\|Sowing Rumors]]  
+- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Training To Gain Levels.md\|Training to Gain Levels]]  
 
 ### Creating Downtime Activities
 

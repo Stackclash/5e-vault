@@ -8,19 +8,28 @@ tags:
   - spell/level/6th-level
   - spell/school/conjuration
   - spell/subclass/divine-soul
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul)
 school: Conjuration
-time: 1 action
+level: 6
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: V
+components:
+  - V
 aliases:
   - Word of Recall
+range: 5 feet
+area:
+  type: sphere
+  size: 5
 ---
 # Word of Recall
 *6th-level, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 5 feet
 - **Components:** V
 - **Duration:** Instantaneous
@@ -29,6 +38,6 @@ You and up to five willing creatures within 5 feet of you instantly teleport to 
 
 You must designate a sanctuary by casting this spell within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the spell in this manner in an area that isn't dedicated to your deity, the spell has no effect.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 289. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

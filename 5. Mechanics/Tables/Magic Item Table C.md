@@ -30,8 +30,8 @@ aliases:
 | 73-75 | [[5. Mechanics/Items/Elixir Of Health.md\|Elixir of health]] |
 | 76-78 | [[5. Mechanics/Items/Oil Of Etherealness.md\|Oil of etherealness]] |
 | 79-81 | [[5. Mechanics/Items/Potion Of Fire Giant Strength.md\|Potion of fire giant strength]] |
-| 82-84 | [[5. Mechanics/Items/Quaals Feather Token (DMG).md\|Quaal's feather token]] |
-| 85-87 | [[5. Mechanics/Items/Scroll Of Protection (DMG).md\|Scroll of protection]] |
+| 82-84 | [[5. Mechanics/Items/Quaals Feather Token.md\|Quaal's feather token]] |
+| 85-87 | [[5. Mechanics/Items/Scroll Of Protection.md\|Scroll of protection]] |
 | 88-89 | [[5. Mechanics/Items/Bag Of Beans.md\|Bag of beans]] |
 | 90-91 | [[5. Mechanics/Items/Bead Of Force.md\|Bead of force]] |
 | 92 | [[5. Mechanics/Items/Chime Of Opening.md\|Chime of opening]] |

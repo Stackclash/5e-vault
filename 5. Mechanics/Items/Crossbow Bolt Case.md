@@ -8,6 +8,7 @@ tags:
 aliases:
   - Crossbow Bolt Case
 cost: 100
+weight: 1
 ---
 # Crossbow Bolt Case
 *Adventuring gear*  

@@ -4,6 +4,8 @@ cssclasses: json5e-class
 tags:
   - class/monk
   - compendium/src/5e/phb
+hitdice: 8
+hitRollAverage: 5
 aliases:
   - Monk
 ---
@@ -17,28 +19,29 @@ aliases:
 > <tr><th colspan='6'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Martial Arts</th><th class="value">Ki Points</th><th class="value">Unarmored Movement</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Unarmored%20Defense%20(Level%201)'>Unarmored Defense</a>, <a href='#Martial%20Arts%20(Level%201)'>Martial Arts</a></td><td class="value">1d4</td><td class="value">⏤</td><td class="value">+0</td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Ki%20(Level%202)'>Ki</a>, <a href='#Dedicated%20Weapon%20(Level%202)'>Dedicated Weapon</a>, <a href='#Unarmored%20Movement%20(Level%202)'>Unarmored Movement</a></td><td class="value">1d4</td><td class="value">2</td><td class="value">+10</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Deflect%20Missiles%20(Level%203)'>Deflect Missiles</a>, <a href='#Monastic%20Tradition%20(Level%203)'>Monastic Tradition</a>, <a href='#Ki-Fueled%20Attack%20(Level%203)'>Ki-Fueled Attack</a></td><td class="value">1d4</td><td class="value">3</td><td class="value">+10</td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a>, <a href='#Slow%20Fall%20(Level%204)'>Slow Fall</a>, <a href='#Quickened%20Healing%20(Level%204)'>Quickened Healing</a></td><td class="value">1d4</td><td class="value">4</td><td class="value">+10</td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra%20Attack%20(Level%205)'>Extra Attack</a>, <a href='#Stunning%20Strike%20(Level%205)'>Stunning Strike</a>, <a href='#Focused%20Aim%20(Level%205)'>Focused Aim</a></td><td class="value">1d6</td><td class="value">5</td><td class="value">+10</td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Ki-Empowered%20Strikes%20(Level%206)'>Ki-Empowered Strikes</a>, <a href='#Monastic%20Tradition%20feature%20(Level%206)'>Monastic Tradition feature</a></td><td class="value">1d6</td><td class="value">6</td><td class="value">+15</td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Evasion%20(Level%207)'>Evasion</a>, <a href='#Stillness%20of%20Mind%20(Level%207)'>Stillness of Mind</a></td><td class="value">1d6</td><td class="value">7</td><td class="value">+15</td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td><td class="value">1d6</td><td class="value">8</td><td class="value">+15</td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Unarmored%20Movement%20improvement%20(Level%209)'>Unarmored Movement improvement</a></td><td class="value">1d6</td><td class="value">9</td><td class="value">+15</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Purity%20of%20Body%20(Level%2010)'>Purity of Body</a></td><td class="value">1d6</td><td class="value">10</td><td class="value">+20</td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Monastic%20Tradition%20feature%20(Level%2011)'>Monastic Tradition feature</a></td><td class="value">1d8</td><td class="value">11</td><td class="value">+20</td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td><td class="value">1d8</td><td class="value">12</td><td class="value">+20</td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Tongue%20of%20the%20Sun%20and%20Moon%20(Level%2013)'>Tongue of the Sun and Moon</a></td><td class="value">1d8</td><td class="value">13</td><td class="value">+20</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Diamond%20Soul%20(Level%2014)'>Diamond Soul</a></td><td class="value">1d8</td><td class="value">14</td><td class="value">+25</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Timeless%20Body%20(Level%2015)'>Timeless Body</a></td><td class="value">1d8</td><td class="value">15</td><td class="value">+25</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td><td class="value">1d8</td><td class="value">16</td><td class="value">+25</td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Monastic%20Tradition%20feature%20(Level%2017)'>Monastic Tradition feature</a></td><td class="value">1d10</td><td class="value">17</td><td class="value">+25</td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Empty%20Body%20(Level%2018)'>Empty Body</a></td><td class="value">1d10</td><td class="value">18</td><td class="value">+30</td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2019)'>Ability Score Improvement</a></td><td class="value">1d10</td><td class="value">19</td><td class="value">+30</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Perfect%20Self%20(Level%2020)'>Perfect Self</a></td><td class="value">1d10</td><td class="value">20</td><td class="value">+30</td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Unarmored Defense (Level 1)' class='internal-link'>Unarmored Defense</a>, <a href='#Martial Arts (Level 1)' class='internal-link'>Martial Arts</a></td><td class="value">1d4</td><td class="value">⏤</td><td class="value">+0</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Ki (Level 2)' class='internal-link'>Ki</a>, <a href='#Dedicated Weapon (Level 2)' class='internal-link'>Dedicated Weapon</a>, <a href='#Unarmored Movement (Level 2)' class='internal-link'>Unarmored Movement</a></td><td class="value">1d4</td><td class="value">2</td><td class="value">+10</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Deflect Missiles (Level 3)' class='internal-link'>Deflect Missiles</a>, <a href='#Monastic Tradition (Level 3)' class='internal-link'>Monastic Tradition</a>, <a href='#Ki-Fueled Attack (Level 3)' class='internal-link'>Ki-Fueled Attack</a></td><td class="value">1d4</td><td class="value">3</td><td class="value">+10</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a>, <a href='#Slow Fall (Level 4)' class='internal-link'>Slow Fall</a>, <a href='#Quickened Healing (Level 4)' class='internal-link'>Quickened Healing</a></td><td class="value">1d4</td><td class="value">4</td><td class="value">+10</td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra Attack (Level 5)' class='internal-link'>Extra Attack</a>, <a href='#Stunning Strike (Level 5)' class='internal-link'>Stunning Strike</a>, <a href='#Focused Aim (Level 5)' class='internal-link'>Focused Aim</a></td><td class="value">1d6</td><td class="value">5</td><td class="value">+10</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Ki-Empowered Strikes (Level 6)' class='internal-link'>Ki-Empowered Strikes</a>, <a href='#Monastic Tradition feature (Level 6)' class='internal-link'>Monastic Tradition feature</a></td><td class="value">1d6</td><td class="value">6</td><td class="value">+15</td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Evasion (Level 7)' class='internal-link'>Evasion</a>, <a href='#Stillness of Mind (Level 7)' class='internal-link'>Stillness of Mind</a></td><td class="value">1d6</td><td class="value">7</td><td class="value">+15</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">1d6</td><td class="value">8</td><td class="value">+15</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Unarmored Movement improvement (Level 9)' class='internal-link'>Unarmored Movement improvement</a></td><td class="value">1d6</td><td class="value">9</td><td class="value">+15</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Purity of Body (Level 10)' class='internal-link'>Purity of Body</a></td><td class="value">1d6</td><td class="value">10</td><td class="value">+20</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Monastic Tradition feature (Level 11)' class='internal-link'>Monastic Tradition feature</a></td><td class="value">1d8</td><td class="value">11</td><td class="value">+20</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">1d8</td><td class="value">12</td><td class="value">+20</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Tongue of the Sun and Moon (Level 13)' class='internal-link'>Tongue of the Sun and Moon</a></td><td class="value">1d8</td><td class="value">13</td><td class="value">+20</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Diamond Soul (Level 14)' class='internal-link'>Diamond Soul</a></td><td class="value">1d8</td><td class="value">14</td><td class="value">+25</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Timeless Body (Level 15)' class='internal-link'>Timeless Body</a></td><td class="value">1d8</td><td class="value">15</td><td class="value">+25</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">1d8</td><td class="value">16</td><td class="value">+25</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Monastic Tradition feature (Level 17)' class='internal-link'>Monastic Tradition feature</a></td><td class="value">1d10</td><td class="value">17</td><td class="value">+25</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Empty Body (Level 18)' class='internal-link'>Empty Body</a></td><td class="value">1d10</td><td class="value">18</td><td class="value">+30</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td><td class="value">1d10</td><td class="value">19</td><td class="value">+30</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Perfect Self (Level 20)' class='internal-link'>Perfect Self</a></td><td class="value">1d10</td><td class="value">20</td><td class="value">+30</td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 ## Hit Points
 
@@ -60,11 +63,11 @@ You start with the following items, plus anything provided by your background.
 - (a) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
 - 10 [[5. Mechanics/Items/Dart.md\|darts]]
 
-Alternatively, you may start with `dice:5d4|noform|avg|text(5d4)` (`5d4`) gp to buy your own equipment.
+Alternatively, you may start with `dice:5d4|noform|noparens|avg|text(5d4)` (`5d4`) gp to buy your own equipment.
 
 ## Multiclassing Monk
 
-**Ability Score Minimum:**Dexterity 13, Wisdom 13
+**Ability Score Minimum:** Dexterity 13, Wisdom 13
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
@@ -115,6 +118,12 @@ Monks walk a path of contradiction. They study their art as a wizard does, and l
 A monk's focus on inner mastery leads many such individuals to become detached from society, more concerned with their personal experience than with happenings elsewhere. Adventuring monks are a rare breed of an already rare type of character, taking their quest for perfection beyond the walls of the monastery into the world at large.
 
 Playing a monk character offers many intriguing opportunities to try something different. To distinguish your monk character even further, consider the options in the sections that follow.
+
+> [!quote] A quote from Xanathar  
+> 
+> I bet I could be a monk if I wanted.
+> 
+> What? Why are you laughing?
 
 ## Monastery
 _Source: Xanathar's Guide to Everything_
@@ -190,7 +199,7 @@ Your practice of martial arts gives you mastery of combat styles that use unarme
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a [[5. Mechanics/Items/Shield.md\|shield]].
 
 - You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.  
-- You can roll a `dice:d4|noform|avg` (`d4`) in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.  
+- You can roll a `dice:d4|noform|noparens|avg` (`d4`) in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.  
 - When you use the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.  
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama).
@@ -205,7 +214,7 @@ When you spend a ki point, it is unavailable until you finish a short or long re
 
 Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:
 
-<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Wisdom modifier</span>
+<span class='abilityDc'>**Ki save DC**: your proficiency bonus + your Wisdom</span>
 
 ### Flurry of Blows (Level 2)
 
@@ -222,7 +231,7 @@ You can spend 1 ki point to take the [[/5. Mechanics/Rules/Actions.md#Disengage\
 ### Dedicated Weapon (Level 2)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*2nd-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*2nd-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
 You train yourself to use a variety of weapons as monk weapons, not just simple melee weapons and shortswords. Whenever you finish a short or long rest, you can touch one weapon, focus your ki on it, and then count that weapon as a monk weapon until you use this feature again.
 
@@ -240,7 +249,7 @@ At 9th level, you gain the ability to move along vertical surfaces and across li
 
 ### Deflect Missiles (Level 3)
 
-Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by `dice:1d10|noform|avg` (`1d10`) + your Dexterity modifier + your monk level.
+Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by `dice:1d10|noform|noparens|avg` (`d10`) + your Dexterity modifier + your monk level.
 
 If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack (range 20/60 feet) with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.
 
@@ -251,7 +260,7 @@ When you reach 3rd level, you commit yourself to a monastic tradition, chosen fr
 ### Ki-Fueled Attack (Level 3)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*3rd-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*3rd-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
 If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.
 
@@ -268,7 +277,7 @@ Beginning at 4th level, you can use your reaction when you fall to reduce any fa
 ### Quickened Healing (Level 4)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*4th-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*4th-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
 As an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.
 
@@ -283,7 +292,7 @@ Starting at 5th level, you can interfere with the flow of ki in an opponent's bo
 ### Focused Aim (Level 5)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*5th-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*5th-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
 When you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit.
 

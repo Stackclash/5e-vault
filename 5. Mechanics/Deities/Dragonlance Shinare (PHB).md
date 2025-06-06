@@ -6,6 +6,11 @@ tags:
   - deity/dragonlance
   - domain/knowledge
   - domain/trickery
+alignment: Neutral
+category: The Gods of Neutrality
+domains: 'Knowledge, Trickery'
+pantheon: Dragonlance
+symbol: Griffon's wing
 aliases:
   - Shinare
 ---

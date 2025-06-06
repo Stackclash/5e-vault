@@ -8,7 +8,7 @@ aliases:
   - Entropist
 ---
 # Entropist
-*[[Wizard.md\|Wizard]]: Arcane Tradition*  
+*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 190*  
 
 > [!tldr] Class and Feature Progression
@@ -19,19 +19,19 @@ aliases:
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Entropist%20(Level%202)'>Entropist</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Entropist (Level 2)' class='internal-link'>Entropist</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Twisted%20Arcana%20(Level%206)'>Twisted Arcana</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Twisted Arcana (Level 6)' class='internal-link'>Twisted Arcana</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Shifting%20Resistance%20(Level%2010)'>Shifting Resistance</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Shifting Resistance (Level 10)' class='internal-link'>Shifting Resistance</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Master%20of%20Chaos%20(Level%2014)'>Master of Chaos</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Master of Chaos (Level 14)' class='internal-link'>Master of Chaos</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -54,7 +55,7 @@ What starts as an attempt to analyze the patterns of chaos quickly becomes a tri
 
 ***How to Start:*** If you're a [[5. Mechanics/Classes/Wizard.md\|wizard]] who wants to become an entropist, you make that decision upon reaching 2nd level, when you are also entitled to choose an arcane tradition. If you decide to follow the path of the entropist exclusively, you can forego the selection of an arcane tradition and gain the features of the entropist specialty instead.
 
-You can also pursue the entropist specialty in conjunction with one of the standard arcane traditions. If you choose to do this, you gain the Savant feature of your chosen school in addition to [Chaos Magic Savant](compendium/classes/wizard-entropist-kpdm.md#Chaos%20Magic%20Savant%20(Level%202)). Also at 2nd level, you choose whether to gain [Long Odds](compendium/classes/wizard-entropist-kpdm.md#Long%20Odds%20(Level%202)) or the 2nd-level feature of your chosen school. Thereafter, at 6th, 10th, and 14th level, you choose between the lowest-level features still available. For instance, a [[5. Mechanics/Classes/Wizard School Of Transmutation.md\|transmuter]] might select [Minor Alchemy](compendium/classes/wizard-school-of-transmutation.md#Minor%20Alchemy%20(Level%202)) at 2nd level and [Long Odds](compendium/classes/wizard-entropist-kpdm.md#Long%20Odds%20(Level%202)) at 6th level, followed by either [Transmuter's Stone](compendium/classes/wizard-school-of-transmutation.md#Transmuter's%20Stone%20(Level%206)) or [Twisted Arcana](compendium/classes/wizard-entropist-kpdm.md#Twisted%20Arcana%20(Level%206)) at 10th level.
+You can also pursue the entropist specialty in conjunction with one of the standard arcane traditions. If you choose to do this, you gain the Savant feature of your chosen school in addition to [Chaos Magic Savant](compendium/classes/wizard-entropist-kpdm.md#Chaos%20Magic%20Savant%20(Level%202)). Also at 2nd level, you choose whether to gain [Long Odds](compendium/classes/wizard-entropist-kpdm.md#Long%20Odds%20(Level%202)) or the 2nd-level feature of your chosen school. Thereafter, at 6th, 10th, and 14th level, you choose between the lowest-level features still available. For instance, a [[5. Mechanics/Classes/Wizard.md\|transmuter]] might select [Minor Alchemy](compendium/classes/wizard-school-of-transmutation.md#Minor%20Alchemy%20(Level%202)) at 2nd level and [Long Odds](compendium/classes/wizard-entropist-kpdm.md#Long%20Odds%20(Level%202)) at 6th level, followed by either [Transmuter's Stone](compendium/classes/wizard-school-of-transmutation.md#Transmuter's%20Stone%20(Level%206)) or [Twisted Arcana](compendium/classes/wizard-entropist-kpdm.md#Twisted%20Arcana%20(Level%206)) at 10th level.
 
 ### Chaos Magic Savant (Level 2)
 
@@ -66,7 +67,7 @@ Also starting at 2nd level, you can manipulate the reality-changing forces of ch
 
 ### Twisted Arcana (Level 6)
 
-Starting at 6th level, when you cast a spell that deals damage, you can infuse the effect with greater power by channeling chaos through yourself. You make this choice after determining that the spell has been successfully cast (by making a spell attack roll) but before rolling damage. If you decide to use this feature, roll a `dice:d6+1|noform|avg` (`d6 + 1`); this is the maximum number of your spell's damage dice you can reroll. You can reroll any number of damage dice up to that maximum, and you must use the rerolled results.
+Starting at 6th level, when you cast a spell that deals damage, you can infuse the effect with greater power by channeling chaos through yourself. You make this choice after determining that the spell has been successfully cast (by making a spell attack roll) but before rolling damage. If you decide to use this feature, roll a `dice:d6+1|noform|noparens|avg` (`d6 + 1`); this is the maximum number of your spell's damage dice you can reroll. You can reroll any number of damage dice up to that maximum, and you must use the rerolled results.
 
 In addition, the type of damage your spell deals is replaced randomly. Use the Random Damage Type table to determine the spell's new damage type.
 

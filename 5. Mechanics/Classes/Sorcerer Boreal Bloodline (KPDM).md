@@ -8,7 +8,7 @@ aliases:
   - Boreal Bloodline
 ---
 # Boreal Bloodline
-*[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Deep Magic p. 278*  
 
 > [!tldr] Class and Feature Progression
@@ -18,12 +18,12 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Boreal%20Bloodline%20(Level%201)'>Boreal Bloodline</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Boreal Bloodline (Level 1)' class='internal-link'>Boreal Bloodline</a></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Gelid%20Form%20(Level%206)'>Gelid Form</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Gelid Form (Level 6)' class='internal-link'>Gelid Form</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -31,15 +31,16 @@ aliases:
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Winter'S%20Form%20(Level%2014)'>Winter'S Form</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Winter'S Form (Level 14)' class='internal-link'>Winter'S Form</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Winter's%20Soul%20(Level%2018)'>Winter's Soul</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Winter's Soul (Level 18)' class='internal-link'>Winter's Soul</a></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -69,7 +70,7 @@ At 6th level, you gain resistance to cold damage. Also, when you use Sorcery Poi
 At 14th level, you can give your wintry power physical form. As a bonus action, you can spend 1 sorcery point to transform your body for 1 minute. When you use this feature, you can take one of two forms:
 
 - Your body transforms into a swirling mass of sleet or snow. Your gear transforms with you or falls to the ground in the space you occupy, as you choose. While in this form, you cannot speak, manipulate objects, attack, or cast spells. You gain immunity to cold damage, resistance to nonmagical bludgeoning, piercing, and slashing damage, and vulnerability to fire damage. In this form, your only method of Movement is a flying speed of 60 feet, and you can hover. You can pass through small holes and narrow openings at least 1 inch in width, but you treat liquids as if they were solid surfaces. You cannot fall, and you remain hovering even while [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] or [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. You can enter the space of another creature and remain there. Any creature whose space you occupy takes cold damage equal to your Charisma modifier.  
-- Your body transforms into translucent, blue-white ice, and your hair becomes a crown of snow. You gain immunity to cold damage, resistance to nonmagical bludgeoning damage, and vulnerability to fire damage, and your Armor Class is never lower than 15 + your Dexterity modifier. Any creature within 5 feet of you that hits you with a melee weapon attack or a touch attack takes cold damage equal to your Charisma modifier. While in this form, you gain a slam attack with your icy fists that deals `dice:1d4|noform|avg` (`1d4`) bludgeoning damage plus cold damage equal to your Charisma modifier.  
+- Your body transforms into translucent, blue-white ice, and your hair becomes a crown of snow. You gain immunity to cold damage, resistance to nonmagical bludgeoning damage, and vulnerability to fire damage, and your Armor Class is never lower than 15 + your Dexterity modifier. Any creature within 5 feet of you that hits you with a melee weapon attack or a touch attack takes cold damage equal to your Charisma modifier. While in this form, you gain a slam attack with your icy fists that deals `dice:1d4|noform|noparens|avg` (`d4`) bludgeoning damage plus cold damage equal to your Charisma modifier.  
 
 ### Winter's Soul (Level 18)
 

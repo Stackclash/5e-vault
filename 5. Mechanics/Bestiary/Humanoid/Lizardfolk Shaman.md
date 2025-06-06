@@ -15,7 +15,7 @@ tags:
 aliases:
   - Lizardfolk Shaman
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Lizardfolk Shaman.md|Lizardfolk Shaman]]
+# [[5. Mechanics\Bestiary\Humanoid\Lizardfolk Shaman.md|Lizardfolk Shaman]]
 *Source: Monster Manual p. 205*
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -65,55 +65,60 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 "ac_class": "natural armor"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
+"modifier": !!int "0"
 "stats":
-- !!int "15"
-- !!int "10"
-- !!int "13"
-- !!int "10"
-- !!int "15"
-- !!int "8"
+  - !!int "15"
+  - !!int "10"
+  - !!int "13"
+  - !!int "10"
+  - !!int "15"
+  - !!int "8"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "4"
-  "Survival": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
+    "desc": "+6"
 "senses": "passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
 "traits":
-- "desc": "The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is\
-    \ Wisdom (spell save DC 12, +4 to hit with spell attacks). The lizardfolk has\
-    \ the following druid spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
-    \ [[5. Mechanics/Spells/Produce Flame.md|produce flame]], [[5. Mechanics/Spells/Thorn Whip.md|thorn whip]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Heat Met(AL).md|heat metal]], [[5. Mechanics/Spells/Spike Growth.md|spike\
-    \ growth]]\n\n3rd level (2 slots): [[5. Mechanics/Spells/Conjure Animals.md|conjure\
-    \ animals]] (reptiles only), [[5. Mechanics/Spells/Plant Growth.md|plant growth]]"
-  "name": "Spellcasting (Lizardfolk Form Only)"
-- "desc": "The lizardfolk can hold its breath for 15 minutes."
-  "name": "Hold Breath"
+  - "desc": "The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is\
+      \ Wisdom (spell save DC 12, +4 to hit with spell attacks). The lizardfolk has\
+      \ the following druid spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
+      \ [[5. Mechanics/Spells/Produce Flame.md|produce flame]], [[5. Mechanics/Spells/Thorn Whip.md|thorn whip]]\n\
+      \n1st level (4 slots): [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]]\n\
+      \n2nd level (3 slots): [[5. Mechanics/Spells/Heat Met(AL).md|heat metal]], [[5. Mechanics/Spells/Spike Growth.md|spike\
+      \ growth]]\n\n3rd level (2 slots): [[5. Mechanics/Spells/Conjure Animals.md|conjure\
+      \ animals]] (reptiles only), [[5. Mechanics/Spells/Plant Growth.md|plant growth]]"
+    "name": "Spellcasting (Lizardfolk Form Only)"
+  - "desc": "The lizardfolk can hold its breath for 15 minutes."
+    "name": "Hold Breath"
 "actions":
-- "desc": "The lizardfolk makes two attacks: one with its bite and one with its claws."
-  "name": "Multiattack (Lizardfolk Form Only)"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) piercing damage, or 7 (1d10 + 2) piercing damage in [[5. Mechanics/Bestiary/Beast/Crocodile.md|crocodile]]\
-    \ form. If the lizardfolk is in crocodile form and the target is a Large or smaller\
-    \ creature, the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ (escape DC 12). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
-    \ and the lizardfolk can't bite another target. If the lizardfolk reverts to its\
-    \ true form, the grapple ends."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
-    \ + 2) slashing damage."
-  "name": "Claws (Lizardfolk Form Only)"
-- "desc": "The lizardfolk magically polymorphs into a [[5. Mechanics/Bestiary/Beast/Crocodile.md|crocodile]],\
-    \ remaining in that form for up to 1 hour. It can revert to its true form as a\
-    \ bonus action. Its statistics, other than its size, are the same in each form.\
-    \ Any equipment it is wearing or carrying isn't transformed. It reverts to its\
-    \ true form if it dies."
-  "name": "Change Shape (Recharges after a Short or Long Rest)"
+  - "desc": "The lizardfolk makes two attacks: one with its bite and one with its\
+      \ claws."
+    "name": "Multiattack (Lizardfolk Form Only)"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) piercing damage, or 7 (1d10 + 2) piercing damage in [[5. Mechanics/Bestiary/Beast/Crocodile.md|crocodile]]\
+      \ form. If the lizardfolk is in crocodile form and the target is a Large or\
+      \ smaller creature, the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ (escape DC 12). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
+      \ and the lizardfolk can't bite another target. If the lizardfolk reverts to\
+      \ its true form, the grapple ends."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+      \ + 2) slashing damage."
+    "name": "Claws (Lizardfolk Form Only)"
+  - "desc": "The lizardfolk magically polymorphs into a [[5. Mechanics/Bestiary/Beast/Crocodile.md|crocodile]],\
+      \ remaining in that form for up to 1 hour. It can revert to its true form as\
+      \ a bonus action. Its statistics, other than its size, are the same in each\
+      \ form. Any equipment it is wearing or carrying isn't transformed. It reverts\
+      \ to its true form if it dies."
+    "name": "Change Shape (Recharges after a Short or Long Rest)"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/lizardfolk-shaman.webp"
 ```
 ^statblock

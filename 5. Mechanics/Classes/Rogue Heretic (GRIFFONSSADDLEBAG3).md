@@ -8,7 +8,7 @@ aliases:
   - Heretic
 ---
 # Heretic
-*[[Rogue.md\|Rogue]]: Roguish Archetype*  
+*[[.nullRogue.md\|Rogue]]: Roguish Archetype*  
 *Source: The Griffon's Saddlebag, Book 3*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Heretic%20(Level%203)'>Heretic</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Heretic (Level 3)' class='internal-link'>Heretic</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Conversion%20(Level%209)'>Conversion</a></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Conversion (Level 9)' class='internal-link'>Conversion</a></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Blasphemous%20Senses%20(Level%2013)'>Blasphemous Senses</a></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Blasphemous Senses (Level 13)' class='internal-link'>Blasphemous Senses</a></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Heretic's%20Blessing%20(Level%2017)'>Heretic's Blessing</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Heretic's Blessing (Level 17)' class='internal-link'>Heretic's Blessing</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -82,15 +83,15 @@ For example, when you are 13th level, you have two 3rd-level spell slots. If you
 
 Here is a list of all domains from PHB, SCAG, XGE, & TCE (You are free to use other domains):
 
-Arcana, [Death](compendium/classes/cleric-death-domain.md#Death%20Domain%20(Level%201)), [Forge](compendium/classes/cleric-forge-domain-xge.md#Forge%20Domain%20(Level%201)), [Grave](compendium/classes/cleric-grave-domain-xge.md#Grave%20Domain%20(Level%201)), [Knowledge](compendium/classes/cleric-knowledge-domain.md#Knowledge%20Domain%20(Level%201)), [Life](compendium/classes/cleric-life-domain.md#Life%20Domain%20(Level%201)), [Light](compendium/classes/cleric-light-domain.md#Light%20Domain%20(Level%201)), [Nature](compendium/classes/cleric-nature-domain.md#Nature%20Domain%20(Level%201)), [Order](compendium/classes/cleric-order-domain-tce.md#Order%20Domain%20(Level%201)), [Peace](compendium/classes/cleric-peace-domain-tce.md#Peace%20Domain%20(Level%201)), [Tempest](compendium/classes/cleric-tempest-domain.md#Tempest%20Domain%20(Level%201)), [Trickery](compendium/classes/cleric-trickery-domain.md#Trickery%20Domain%20(Level%201)), [Twilight](compendium/classes/cleric-twilight-domain-tce.md#Twilight%20Domain%20(Level%201)), [War](compendium/classes/cleric-war-domain.md#War%20Domain%20(Level%201))
+Arcana, [Death](compendium/classes/cleric-death-domain-dmg.md#Death%20Domain%20(Level%201)), [Forge](compendium/classes/cleric-forge-domain-xge.md#Forge%20Domain%20(Level%201)), [Grave](compendium/classes/cleric-grave-domain-xge.md#Grave%20Domain%20(Level%201)), [Knowledge](compendium/classes/cleric-knowledge-domain.md#Knowledge%20Domain%20(Level%201)), [Life](compendium/classes/cleric-life-domain.md#Life%20Domain%20(Level%201)), [Light](compendium/classes/cleric-light-domain.md#Light%20Domain%20(Level%201)), [Nature](compendium/classes/cleric-nature-domain.md#Nature%20Domain%20(Level%201)), [Order](compendium/classes/cleric-order-domain-tce.md#Order%20Domain%20(Level%201)), [Peace](compendium/classes/cleric-peace-domain-tce.md#Peace%20Domain%20(Level%201)), [Tempest](compendium/classes/cleric-tempest-domain.md#Tempest%20Domain%20(Level%201)), [Trickery](compendium/classes/cleric-trickery-domain.md#Trickery%20Domain%20(Level%201)), [Twilight](compendium/classes/cleric-twilight-domain-tce.md#Twilight%20Domain%20(Level%201)), [War](compendium/classes/cleric-war-domain.md#War%20Domain%20(Level%201))
 
 #### Spellcasting Ability
 
 Wisdom is your spellcasting ability for your cleric spells, which you gain from a temporary affiliation with a deity associated with the domain you choose. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
-<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Wisdom modifier</span>
+<span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Wisdom</span>
 
-<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Wisdom modifier</span>
+<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Wisdom</span>
 
 | Rogue Level | Cantrips Known | Spell Slots | Slot Level |
 |-------------|----------------|-------------|------------|

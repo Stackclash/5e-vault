@@ -9,13 +9,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Wavebender's Leiomano
-one-hand-damage: 1d10 S
+one-hand-damage: 1d10 slashing
+weight: 6
 ---
 # Wavebender's Leiomano
 *Weapon ([[5. Mechanics/Items/Glaive.md\|glaive]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Wavebenders-Leiomano.webp#right)  
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
 

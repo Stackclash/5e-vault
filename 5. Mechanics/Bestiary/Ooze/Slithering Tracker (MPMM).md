@@ -15,7 +15,7 @@ tags:
 aliases:
   - Slithering Tracker
 ---
-# [[5. Mechanics/Bestiary/Ooze/Slithering Tracker (MPMM).md|Slithering Tracker]]
+# [[5. Mechanics\Bestiary\Ooze\Slithering Tracker (MPMM).md|Slithering Tracker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 221, Volo's Guide to Monsters p. 191*
 
 The quest for revenge sometimes leads those terribly aggrieved to undergo a ritual whereby they transform into bodies of semiliquid sentience known as slithering trackers. Innocuous and insidious at the same time, a slithering tracker flows into places where a normal creature can't go and brings its own brand of watery death down on its quarry.
@@ -34,17 +34,20 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
 "ac": !!int "14"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
+"modifier": !!int "4"
 "stats":
-- !!int "16"
-- !!int "19"
-- !!int "15"
-- !!int "10"
-- !!int "14"
-- !!int "11"
+  - !!int "16"
+  - !!int "19"
+  - !!int "15"
+  - !!int "10"
+  - !!int "14"
+  - !!int "11"
 "speed": "30 ft., climb 30 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": !!int "8"
-  "Survival": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
+    "desc": "+6"
 "damage_vulnerabilities": "cold, fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
@@ -56,39 +59,39 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
 "languages": "understands languages it knew in its previous form but can't speak"
 "cr": "3"
 "traits":
-- "desc": "If the slithering tracker is motionless at the start of combat, it has\
-    \ advantage on its initiative roll. Moreover, if a creature hasn't observed the\
-    \ slithering tracker move or act, that creature must succeed on a DC 18 Intelligence\
-    \ ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check to discern\
-    \ that the slithering tracker isn't a puddle."
-  "name": "False Appearance"
-- "desc": "The slithering tracker can enter an enemy's space and stop there. It can\
-    \ also move through a space as narrow as 1 inch wide without squeezing."
-  "name": "Liquid Form"
-- "desc": "The slithering tracker can climb difficult surfaces, including upside down\
-    \ on ceilings, without needing to make an ability check."
-  "name": "Spider Climb"
+  - "desc": "If the slithering tracker is motionless at the start of combat, it has\
+      \ advantage on its initiative roll. Moreover, if a creature hasn't observed\
+      \ the slithering tracker move or act, that creature must succeed on a DC 18\
+      \ Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]])\
+      \ check to discern that the slithering tracker isn't a puddle."
+    "name": "False Appearance"
+  - "desc": "The slithering tracker can enter an enemy's space and stop there. It\
+      \ can also move through a space as narrow as 1 inch wide without squeezing."
+    "name": "Liquid Form"
+  - "desc": "The slithering tracker can climb difficult surfaces, including upside\
+      \ down on ceilings, without needing to make an ability check."
+    "name": "Spider Climb"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10\
-    \ + 3) bludgeoning damage."
-  "name": "Slam"
-- "desc": "One Large or smaller creature that the slithering tracker can see within\
-    \ 5 feet of it must succeed on a DC 13 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
-    \ and unable to breathe unless it can breathe water. In addition, the [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ target takes 16 (3d10) necrotic damage at the start of each of its turns. The\
-    \ slithering tracker can grapple only one target at a time.\n\nWhile grappling\
-    \ the target, the slithering tracker takes only half any damage dealt to it (rounded\
-    \ down), and the target takes the other half."
-  "name": "Life Leech"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10\
+      \ + 3) bludgeoning damage."
+    "name": "Slam"
+  - "desc": "One Large or smaller creature that the slithering tracker can see within\
+      \ 5 feet of it must succeed on a DC 13 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
+      \ and unable to breathe unless it can breathe water. In addition, the [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ target takes 16 (3d10) necrotic damage at the start of each of its turns.\
+      \ The slithering tracker can grapple only one target at a time.\n\nWhile grappling\
+      \ the target, the slithering tracker takes only half any damage dealt to it\
+      \ (rounded down), and the target takes the other half."
+    "name": "Life Leech"
 "bonus_actions":
-- "desc": "If underwater, the slithering tracker takes the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
-    \ action, and it makes the Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
-    \ check with advantage."
-  "name": "Watery Stealth"
+  - "desc": "If underwater, the slithering tracker takes the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
+      \ action, and it makes the Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+      \ check with advantage."
+    "name": "Watery Stealth"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Ooze/token/slithering-tracker-mpmm.webp"
 ```
 ^statblock

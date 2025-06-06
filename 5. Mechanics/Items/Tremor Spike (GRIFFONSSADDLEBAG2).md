@@ -8,6 +8,7 @@ tags:
   - item/wondrous/rod
 aliases:
   - Tremor Spike
+weight: 15
 ---
 # Tremor Spike
 *Rod, major, rare*  

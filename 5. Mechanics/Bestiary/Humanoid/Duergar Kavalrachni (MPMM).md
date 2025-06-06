@@ -15,7 +15,7 @@ tags:
 aliases:
   - Duergar Kavalrachni
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Duergar Kavalrachni (MPMM).md|Duergar Kavalrachni]]
+# [[5. Mechanics\Bestiary\Humanoid\Duergar Kavalrachni (MPMM).md|Duergar Kavalrachni]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 189*
 
 Kavalrachni are duergar cavalry trained to fight while riding [[5. Mechanics/Bestiary/Monstrosity/Female Steeder (MPMM).md|female steeders]] (in this book) or other Underdark creatures as mounts.
@@ -50,51 +50,52 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "ac_class": "[[5. Mechanics/Items/Scale Mail.md|scale mail]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
+"modifier": !!int "0"
 "stats":
-- !!int "14"
-- !!int "11"
-- !!int "14"
-- !!int "11"
-- !!int "10"
-- !!int "9"
+  - !!int "14"
+  - !!int "11"
+  - !!int "14"
+  - !!int "11"
+  - !!int "10"
+  - !!int "9"
 "speed": "25 ft."
 "damage_resistances": "poison"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "2"
 "traits":
-- "desc": "When the duergar hits a target with a melee attack while mounted, the mount\
-    \ can use its reaction to make one melee attack against the same target."
-  "name": "Cavalry Training"
-- "desc": "The duergar has advantage on saving throws against spells and the [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], and [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ conditions."
-  "name": "Duergar Resilience"
-- "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Sunlight Sensitivity"
+  - "desc": "When the duergar hits a target with a melee attack while mounted, the\
+      \ mount can use its reaction to make one melee attack against the same target."
+    "name": "Cavalry Training"
+  - "desc": "The duergar has advantage on saving throws against spells and the [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+      \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], and [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+      \ conditions."
+    "name": "Duergar Resilience"
+  - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
+      \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
+      \ that rely on sight."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "The duergar makes two War Pick attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
-    \ + 2) piercing damage plus 5 (2d4) poison damage."
-  "name": "War Pick"
-- "desc": "Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit:\
-    \ 5 (1d10) piercing damage."
-  "name": "Heavy Crossbow"
-- "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-    \ throw, or its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
-    \ is broken (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
-    \ on a spell). Any equipment the duergar wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ with it. While the [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]] duergar\
-    \ is mounted, the mount is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ as well. The invisibility ends early on the mount immediately after it attacks."
-  "name": "Shared Invisibility (Recharges after a Short or Long Rest)"
+  - "desc": "The duergar makes two War Pick attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+      \ + 2) piercing damage plus 5 (2d4) poison damage."
+    "name": "War Pick"
+  - "desc": "Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit:\
+      \ 5 (d10) piercing damage."
+    "name": "Heavy Crossbow"
+  - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
+      \ throw, or its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
+      \ is broken (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
+      \ on a spell). Any equipment the duergar wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ with it. While the [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ duergar is mounted, the mount is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ as well. The invisibility ends early on the mount immediately after it attacks."
+    "name": "Shared Invisibility (Recharges after a Short or Long Rest)"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Humanoid/token/duergar-kavalrachni-mpmm.webp"
 ```
 ^statblock

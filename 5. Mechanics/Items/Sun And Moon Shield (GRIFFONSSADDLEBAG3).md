@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sun and Moon Shield
 armorClass: 2
+weight: 6
 ---
 # Sun and Moon Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), minor, common*  

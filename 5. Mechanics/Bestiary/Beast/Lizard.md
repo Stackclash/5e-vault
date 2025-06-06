@@ -13,7 +13,7 @@ tags:
 aliases:
   - Lizard
 ---
-# [[5. Mechanics/Bestiary/Beast/Lizard.md|Lizard]]
+# [[5. Mechanics\Bestiary\Beast\Lizard.md|Lizard]]
 *Source: Monster Manual p. 332. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -24,23 +24,24 @@ aliases:
 "ac": !!int "10"
 "hp": !!int "2"
 "hit_dice": "1d4"
+"modifier": !!int "0"
 "stats":
-- !!int "2"
-- !!int "11"
-- !!int "10"
-- !!int "1"
-- !!int "8"
-- !!int "3"
+  - !!int "2"
+  - !!int "11"
+  - !!int "10"
+  - !!int "1"
+  - !!int "8"
+  - !!int "3"
 "speed": "20 ft., climb 20 ft."
 "senses": "darkvision 30 ft., passive Perception 9"
 "languages": ""
 "cr": "0"
 "actions":
-- "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing\
-    \ damage."
-  "name": "Bite"
+  - "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing\
+      \ damage."
+    "name": "Bite"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Beast/token/lizard.webp"
 ```
 ^statblock

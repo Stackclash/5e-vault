@@ -12,22 +12,34 @@ tags:
   - spell/school/abjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/labyrinth-domain
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Labyrinth Domain)
+  - Druid
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 school: Abjuration
+level: 4
+ritual: false
 time: 1 hour
-duration: 8 hour
-components: 'V, S, powdered silver worth 250 gp'
+duration: 8 hours
+components:
+  - V
+  - S
+  - M
 aliases:
   - Moon Trap
+material: powdered silver worth 250 gp
 ---
 # Moon Trap
 *4th-level, Abjuration*  
 
 - **Casting time:** 1 hour
 - **Range:** Self
-- **Components:** V, S, powdered silver worth 250 gp
-- **Duration:** 8 hour
+- **Components:** V, S, M (powdered silver worth 250 gp)
+- **Duration:** 8 hours
 
 While casting this spell under the light of the moon, you inscribe a glyph that covers a 10-foot-square area on a flat, stationary surface such as a floor or a wall. Once the spell is complete, the glyph is [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] in moonlight but glows with a faint white light in darkness.
 
@@ -35,6 +47,6 @@ Any creature that touches the glyph, except those you designate during the casti
 
 The glyph lasts until the next sunrise, at which time it flares with bright light, and any creature trapped inside returns to the space it last occupied, unharmed. If that space has become occupied or dangerous, the creature appears in the nearest safe unoccupied space.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Cleric Labyrinth Domain (KPDM)\|Cleric (Labyrinth Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [Cleric (Labyrinth Domain)](compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 95*

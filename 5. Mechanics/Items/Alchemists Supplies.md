@@ -8,6 +8,7 @@ tags:
 aliases:
   - Alchemist's Supplies
 cost: 5000
+weight: 8
 ---
 # Alchemist's Supplies
 *Artisan's tools*  

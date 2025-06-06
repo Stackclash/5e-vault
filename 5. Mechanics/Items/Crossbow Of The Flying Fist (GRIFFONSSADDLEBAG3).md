@@ -10,14 +10,15 @@ tags:
   - item/weapon/ranged
 aliases:
   - Crossbow of the Flying Fist
-one-hand-damage: 1d6 P
-range: 30/120
+one-hand-damage: 1d6 piercing
+range: 30\120
+weight: 3
 ---
 # Crossbow of the Flying Fist
 *Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Crossbow-of-the-Flying-Fist.webp#right)  
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Weight**: 3.0 lbs.

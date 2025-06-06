@@ -6,6 +6,10 @@ tags:
   - deity/greyhawk
   - domain/knowledge
   - domain/twilight
+alignment: Neutral
+domains: 'Knowledge, Twilight'
+pantheon: Greyhawk
+symbol: Arc of seven stars inside a circle
 aliases:
   - Celestian
 ---

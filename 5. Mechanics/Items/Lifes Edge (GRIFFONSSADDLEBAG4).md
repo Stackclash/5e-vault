@@ -9,19 +9,20 @@ tags:
   - item/weapon/melee
 aliases:
   - Life's Edge
-one-hand-damage: 2d6 S
+one-hand-damage: 2d6 slashing
+weight: 6
 ---
 # Life's Edge
 *Weapon ([[5. Mechanics/Items/Greatsword.md\|greatsword]]), legendary (requires attunement by a paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Lifes-Edge.webp#right)  
 
-- **Damage**: 2d6 S
+- **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 At the center of this brilliant, silver sword is a deep groove which leads down to an open gap in its hilt. You gain a +2 bonus to attack and damage rolls made with this magic weapon. Whenever you harness the healing power of your Lay on Hands while holding the weapon, a glimmering sphere of holy light radiates from the center of the blade.
 
-While holding this weapon, whenever you spend hit points from your Lay on Hands pool to heal another creature, you also regain `dice:1d6|noform|avg` (`1d6`) hit points for every 10 hit points you restore to the other creature. When you slay a creature with a challenge rating of 5 or higher using this sword, your Lay on Hands pool regains a number of hit points equal to twice the creature's challenge rating.
+While holding this weapon, whenever you spend hit points from your Lay on Hands pool to heal another creature, you also regain `dice:1d6|noform|noparens|avg` (`d6`) hit points for every 10 hit points you restore to the other creature. When you slay a creature with a challenge rating of 5 or higher using this sword, your Lay on Hands pool regains a number of hit points equal to twice the creature's challenge rating.
 
 You can also use the hit points from your Lay on Hands pool in the following ways while holding the blade.
 

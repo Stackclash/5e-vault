@@ -6,6 +6,11 @@ tags:
   - deity/gnome
   - domain/forge
   - domain/knowledge
+alignment: Neutral Good
+domains: 'Forge, Knowledge'
+pantheon: Gnome
+province: Metalwork
+symbol: Flaming hammer
 aliases:
   - Flandal Steelskin
 ---

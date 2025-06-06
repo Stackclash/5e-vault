@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/dragonlance
   - domain/knowledge
+alignment: Neutral
+category: The Gods of Neutrality
+domains: Knowledge
+pantheon: Dragonlance
+symbol: Great green or gold tree
 aliases:
   - Zivilyn
 ---

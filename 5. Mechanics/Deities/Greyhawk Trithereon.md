@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greyhawk
   - domain/war
+alignment: Chaotic Good
+domains: War
+pantheon: Greyhawk
+symbol: Triskelion
 aliases:
   - Trithereon
 ---

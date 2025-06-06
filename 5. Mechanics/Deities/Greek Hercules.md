@@ -6,6 +6,10 @@ tags:
   - deity/greek
   - domain/tempest
   - domain/war
+alignment: Chaotic Good
+domains: 'Tempest, War'
+pantheon: Greek
+symbol: Lion's head
 aliases:
   - Hercules
 ---

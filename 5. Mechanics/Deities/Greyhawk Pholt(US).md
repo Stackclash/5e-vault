@@ -6,6 +6,10 @@ tags:
   - deity/greyhawk
   - domain/light
   - domain/order
+alignment: Lawful Good
+domains: 'Light, Order'
+pantheon: Greyhawk
+symbol: Silver sun or full moon partially eclipsed by a smaller crescent moon
 aliases:
   - Pholtus
 ---

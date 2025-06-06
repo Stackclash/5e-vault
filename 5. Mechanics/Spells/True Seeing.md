@@ -11,27 +11,39 @@ tags:
   - spell/level/6th-level
   - spell/school/divination
   - spell/subclass/divine-soul
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Sorcerer (Divine Soul)
+  - Warlock
+  - Wizard
 school: Divination
-time: 1 action
+level: 6
+ritual: false
+time: 1 Action
 duration: 1 hour
-components: >-
-  V, S, an ointment for the eyes that costs 25 gp; is made from mushroom powder,
-  saffron, and fat; and is consumed by the spell
+components:
+  - V
+  - S
+  - M
 aliases:
   - True Seeing
+range: Touch
+material: >-
+  An ointment for the eyes that costs 25gp; is made from mushroom powder,
+  saffron, and fat; and is consumed by the spell.
 ---
 # True Seeing
 *6th-level, Divination*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell
+- **Components:** V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell)
 - **Duration:** 1 hour
 
 This spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]], notices secret doors hidden by magic, and can see into the Ethereal Plane, all out to a range of 120 feet.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

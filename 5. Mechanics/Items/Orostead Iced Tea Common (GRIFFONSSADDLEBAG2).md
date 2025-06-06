@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Orostead-Iced-Tea.webp#right)  
 
 
-The typical [[5. Mechanics/Items/Orostead Iced Tea (GRIFFONSSADDLEBAG2).md\|Orostead iced tea]], a common potion, is a specialty alcoholic beverage that creates harmless sensory effects with each sip. When made, a tea has enough for `dice:6+1d4|noform|avg` (`6 + 1d4`) sips before it's used up, instead of a single use. You can take a sip as an action. When you drink this potion, roll on the table below to determine which one of the following effects occur:
+The typical [[5. Mechanics/Items/Orostead Iced Tea (GRIFFONSSADDLEBAG2).md\|Orostead iced tea]], a common potion, is a specialty alcoholic beverage that creates harmless sensory effects with each sip. When made, a tea has enough for `dice:6+1d4|noform|noparens|avg` (`6 + 1d4`) sips before it's used up, instead of a single use. You can take a sip as an action. When you drink this potion, roll on the table below to determine which one of the following effects occur:
 
 `dice: [[Orostead Iced Tea Common (GRIFFONSSADDLEBAG2).md#^common-effect]]`
 
@@ -27,7 +27,7 @@ The typical [[5. Mechanics/Items/Orostead Iced Tea (GRIFFONSSADDLEBAG2).md\|Oros
 | 5 | You suddenly teleport 5 feet into an unoccupied space next to you. |
 | 6 | Any clothing you wear becomes various shades of gray for 1 minute. |
 | 7 | Static charge builds up on you. Touching or being touched by anything for the next minute causes a sharp shock of electricity to leap between you. |
-| 8 | Your skin, hair, and eye colors are inverted. In addition, roll a `dice:d12\|noform\|avg` (`d12`). You grow or shrink a number of inches equal to the result of the die, shrinking by odd numbers or growing by even ones. After 1 minute, your appearance returns to normal. |
+| 8 | Your skin, hair, and eye colors are inverted. In addition, roll a `dice:d12\|noform\|noparens\|avg` (`d12`). You grow or shrink a number of inches equal to the result of the die, shrinking by odd numbers or growing by even ones. After 1 minute, your appearance returns to normal. |
 ^common-effect
 
 The drink is incredibly refreshing with notes of lemon, tea, and cherry, and has virtually no alcoholic bite to it. Regardless, due to its magical nature, the alcohol within this potion affects a creature twice as much as the alcohol within a nonmagical beverage.

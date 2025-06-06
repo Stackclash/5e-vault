@@ -9,14 +9,14 @@ tags:
   - item/weapon/simple
 aliases:
   - Pennypuncher Slingshot
-one-hand-damage: 1d4 B
-range: 30/120
+one-hand-damage: 1d4 bludgeoning
+range: 30\120
 ---
 # Pennypuncher Slingshot
 *Weapon ([[5. Mechanics/Items/Sling.md\|sling]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Pennypuncher-Slingshot.webp#right)  
 
-- **Damage**: 1d4 B
+- **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]]
 
@@ -25,10 +25,10 @@ This slingshot requires two hands to attack and is adorned with coin-like design
 | Coin | Damage Bonus |
 |------|--------------|
 | [[5. Mechanics/Items/Copper Cp.md\|1cp]] | +1 |
-| [[5. Mechanics/Items/Silver Sp.md\|1sp]] | +`dice:1d4\|noform\|avg` (`1d4`) |
-| [[5. Mechanics/Items/Electrum Ep.md\|1ep]] | +`dice:1d6\|noform\|avg` (`1d6`) |
-| [[5. Mechanics/Items/Gold Gp.md\|1gp]] | +`dice:1d8\|noform\|avg` (`1d8`) |
-| [[5. Mechanics/Items/Platinum Pp.md\|1pp]] | +`dice:1d12\|noform\|avg` (`1d12`) |
+| [[5. Mechanics/Items/Silver Sp.md\|1sp]] | +`dice:1d4\|noform\|noparens\|avg` (`d4`) |
+| [[5. Mechanics/Items/Electrum Ep.md\|1ep]] | +`dice:1d6\|noform\|noparens\|avg` (`d6`) |
+| [[5. Mechanics/Items/Gold Gp.md\|1gp]] | +`dice:1d8\|noform\|noparens\|avg` (`d8`) |
+| [[5. Mechanics/Items/Platinum Pp.md\|1pp]] | +`dice:1d12\|noform\|noparens\|avg` (`d12`) |
 ^coin-damage-bonus
 
 Recovering coins fired in this way follows the normal rules for recovering ammunition. Depending on the nature of the battlefield, you may recover more or fewer coins than normal as determined by the GM.

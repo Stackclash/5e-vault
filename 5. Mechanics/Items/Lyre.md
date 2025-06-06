@@ -8,6 +8,7 @@ tags:
 aliases:
   - Lyre
 cost: 3000
+weight: 2
 ---
 # Lyre
 *Instrument*  

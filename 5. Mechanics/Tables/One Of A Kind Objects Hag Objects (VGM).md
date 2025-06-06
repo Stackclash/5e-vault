@@ -19,7 +19,7 @@ aliases:
 | 2 | The leathery, preserved head of a dwarf. Anyone who holds its 5-foot-long beard can see through its eyes. |
 | 3 | A perfectly smooth, round stone the size of a human's fist. If placed on the ground, it rolls 20 feet per round toward the nearest source of fresh water. |
 | 4 | A sickly crow with clipped wings. The only sound it can make is to roar like a lion. |
-| 5 | A seemingly empty, sealed jar. If opened, the person standing closest to the jar suddenly recalls `dice:1d6\|noform\|avg` (`1d6`) happy memories from the life of a long dead elf lord. |
+| 5 | A seemingly empty, sealed jar. If opened, the person standing closest to the jar suddenly recalls `dice:1d6\|noform\|noparens\|avg` (`d6`) happy memories from the life of a long dead elf lord. |
 | 6 | A seemingly mundane gold piece. Anyone who touches it gains the unshakable belief that this is the very first gold coin minted by humanity. |
 | 7 | A black box, 3 feet on each side. Anyone who opens it finds a set of three wooden, articulated figures that are modeled after three members of the adventuring party. If the figures are stood on the ground, they act out insulting parodies of their duplicates' recent actions. |
 | 8 | An oval-shaped disc made of an unknown metal. If it is tossed in the air, it flies in circles around the tosser for a minute, tiny lights winking on its surface, before settling to the ground nearby. |

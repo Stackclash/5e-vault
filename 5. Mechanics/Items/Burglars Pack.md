@@ -8,6 +8,7 @@ tags:
 aliases:
   - Burglar's Pack
 cost: 1600
+weight: 44.5
 ---
 # Burglar's Pack
 *Adventuring gear*  

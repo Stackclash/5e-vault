@@ -16,30 +16,44 @@ tags:
   - spell/school/necromancy
   - spell/subclass/arcane-trickster
   - spell/subclass/circle-of-the-land
-  - spell/subclass/death-domain-dmg
+  - spell/subclass/death-domain
   - spell/subclass/divine-soul
   - spell/subclass/eldritch-knight
   - spell/subclass/nature-domain
   - spell/subrace/elf-high
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Death Domain)
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul)
+  - Wizard
 school: Necromancy
-time: 1 action
+level: cantrip
+ritual: false
+time: 1 Action
 duration: 1 minute
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Impotence
 ---
 # Impotence
 *cantrip, Necromancy*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** 1 minute
 
-You temporarily weaken a creature within range. If the target makes a successful Constitution saving throw, the spell is ineffective. On a failed save, the next time the creature makes a Strength check before the spell ends, roll a `dice:d6|noform|avg` (`d6`) and subtract the result from the roll. The spell then ends.
+You temporarily weaken a creature within range. If the target makes a successful Constitution saving throw, the spell is ineffective. On a failed save, the next time the creature makes a Strength check before the spell ends, roll a `dice:d6|noform|noparens|avg` (`d6`) and subtract the result from the roll. The spell then ends.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Cleric Death Domain (DMG)\|Cleric (Death Domain (DMG))]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Death Domain)](compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 84*

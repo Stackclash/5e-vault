@@ -8,6 +8,7 @@ tags:
 aliases:
   - Glassblower's Tools
 cost: 3000
+weight: 5
 ---
 # Glassblower's Tools
 *Artisan's tools*  

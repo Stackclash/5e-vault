@@ -10,23 +10,35 @@ tags:
   - spell/school/transmutation
   - spell/subclass/circle-of-the-cycle
   - spell/subclass/skin-wearer
-level: 9th-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Druid (Circle of the Cycle)
+  - Sorcerer (Skin Wearer)
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: >-
-  V, S, a jade circlet worth at least 1,500 gp, which you must place on your
-  head before you cast the spell
+level: 9
+ritual: false
+time: 1 Action
+duration: Up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Shapechange
+range: Self
+material: >-
+  A jade circlet worth at least 1,500 gp, which you must place on your head
+  before you cast the spell.
+concentration: true
 ---
 # Shapechange
 *9th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
-- **Components:** V, S, a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell
+- **Components:** V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)
 - **Duration:** Concentration, up to 1 hour
 
 You assume the form of a different creature for the duration. The new form can be of any creature with a challenge rating equal to your level or lower. The creature can't be a construct or an undead, and you must have seen the sort of creature at least once. You transform into an average example of that creature, one without any class levels or the Spellcasting trait.
@@ -41,6 +53,6 @@ When you transform, you choose whether your equipment falls to the ground, merge
 
 During this spell's duration, you can use your action to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Druid Circle Of The Cycle (HHHVIII)\|Druid (Circle of the Cycle)]]; [[List Spells Classes Sorcerer Skin Wearer (HHHVIII)\|Sorcerer (Skin Wearer)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Druid (Circle of the Cycle)](compendium/lists/list-spells-classes-circle-of-the-cycle-hhhviii.md "subclass=HHHVIII"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Skin Wearer)](compendium/lists/list-spells-classes-skin-wearer-hhhviii.md "subclass=HHHVIII")
 
 *Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

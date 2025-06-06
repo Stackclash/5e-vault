@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/eberron
   - domain/knowledge
+alignment: Chaotic Evil
+category: The Dark Six
+domains: Knowledge
+pantheon: Eberron
+symbol: Obsidian tower
 aliases:
   - The Shadow
 ---

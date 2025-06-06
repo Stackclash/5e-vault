@@ -13,7 +13,7 @@ tags:
 aliases:
   - Red Dragon Wyrmling
 ---
-# [[5. Mechanics/Bestiary/Dragon/Red Dragon Wyrmling.md|Red Dragon Wyrmling]]
+# [[5. Mechanics\Bestiary\Dragon\Red Dragon Wyrmling.md|Red Dragon Wyrmling]]
 *Source: Monster Manual p. 98, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
@@ -103,37 +103,40 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "ac_class": "natural armor"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
+"modifier": !!int "0"
 "stats":
-- !!int "19"
-- !!int "10"
-- !!int "17"
-- !!int "12"
-- !!int "11"
-- !!int "15"
+  - !!int "19"
+  - !!int "10"
+  - !!int "17"
+  - !!int "12"
+  - !!int "11"
+  - !!int "15"
 "speed": "30 ft., climb 30 ft., fly 60 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "2"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "5"
+  - "dexterity": "+2"
+  - "constitution": "+5"
+  - "wisdom": "+2"
+  - "charisma": "+4"
 "skillsaves":
-  "Stealth": !!int "2"
-  "Perception": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+2"
 "damage_immunities": "fire"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "4"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10\
-    \ + 4) piercing damage plus 3 (1d6) fire damage."
-  "name": "Bite"
-- "desc": "The dragon exhales fire in a 15-foot cone. Each creature in that area must\
-    \ make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed\
-    \ save, or half as much damage on a successful one."
-  "name": "Fire Breath (Recharge 5-6)"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10\
+      \ + 4) piercing damage plus 3 (d6) fire damage."
+    "name": "Bite"
+  - "desc": "The dragon exhales fire in a 15-foot cone. Each creature in that area\
+      \ must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a\
+      \ failed save, or half as much damage on a successful one."
+    "name": "Fire Breath (Recharge 5-6)"
 "source":
-- "MM"
-- "CoS"
+  - "MM"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Dragon/token/red-dragon-wyrmling.webp"
 ```
 ^statblock

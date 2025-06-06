@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Spellforge Scabbard
+weight: 2
 ---
 # Spellforge Scabbard
 *Wondrous item, major, rare (requires attunement)*  
@@ -19,7 +20,7 @@ This teal leather scabbard is decorated with mithral emblems. While wearing it, 
 
 The scabbard can magically hold any one weapon at a time, shunting the weapon into an extradimensional space while leaving its handle or similar end exposed and within your reach. Regardless of the weapon it's holding, the scabbard always weighs 2 pounds. Any sheathed weapon falls to the ground at your feet if your attunement to the scabbard ends or if you sheath a second weapon in it.
 
-The scabbard has 3 charges and regains `dice:1d3|noform|avg` (`1d3`) expended charges daily at dawn. When you use the scabbard to grant a weapon a +1 bonus to its attack and damage rolls, you can choose to expend 1 of its charges to increase that weapon's bonus to +2 for the duration instead.
+The scabbard has 3 charges and regains `dice:1d3|noform|noparens|avg` (`d3`) expended charges daily at dawn. When you use the scabbard to grant a weapon a +1 bonus to its attack and damage rolls, you can choose to expend 1 of its charges to increase that weapon's bonus to +2 for the duration instead.
 
 Alternatively, you can use an action to expend 1 of the scabbard's charges to draw any type of melee weapon out of the scabbard. The drawn weapon is spectral, remains for 1 minute, and has a +1 bonus to its attack and damage rolls. Any attack that hits with it deals force damage, instead of its normal damage type. You can use a bonus action to return the spectral weapon to the scabbard, and if the weapon would normally have the heavy property, it doesn't.
 

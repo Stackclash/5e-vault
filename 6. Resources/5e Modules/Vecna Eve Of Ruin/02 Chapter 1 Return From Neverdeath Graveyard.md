@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/veor
 aliases:
-  - 'Chapter 1: Return from Neverdeath Graveyard'
+  - Chapter 1: Return from Neverdeath Graveyard
 ---
 # Chapter 1: Return from Neverdeath Graveyard
 *Source: Vecna: Eve of Ruin* 
@@ -187,7 +187,7 @@ A cultist of Vecna tried to lever the harp from the pit but fell victim to the t
 
 ##### Grate Trap
 
-A character can detect the grate's trap by examining the grate and succeeding on a DC 14 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. The trap activates when more than 10 pounds of pressure is placed on the grate. Poisoned blades extend from grooves in the grate, dealing `dice:4d6|noform|avg|text(14)` (`4d6`) slashing damage to whatever triggered the trap, and if the target of the trap is a creature, it must succeed on a DC 14 Constitution saving throw or take `dice:4d6|noform|avg|text(14)` (`4d6`) poison damage. The trap resets after 1 minute.
+A character can detect the grate's trap by examining the grate and succeeding on a DC 14 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. The trap activates when more than 10 pounds of pressure is placed on the grate. Poisoned blades extend from grooves in the grate, dealing `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) slashing damage to whatever triggered the trap, and if the target of the trap is a creature, it must succeed on a DC 14 Constitution saving throw or take `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) poison damage. The trap resets after 1 minute.
 
 ##### Notes
 
@@ -435,7 +435,7 @@ One shelf swings back to reveal a secret passage to area C19. A character who se
 
 ##### Treasure
 
-The collection of sinister books, many of which are duplicates, includes a few valuable tomes. A book describing the [[5. Mechanics/Items/Eye Of Vecna.md\|Eye of Vecna]] and [[5. Mechanics/Items/Hand Of Vecna.md\|Hand of Vecna]] is a masterpiece of writing and artistic illumination worth 450 gp. A book of nonsensical poetry titled Quite Good Verse has a gold-plated cover and is worth 200 gp. A book about Neverwinter's history contains a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Greater Invisibility.md\|Greater Invisibility]] and a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Major Image.md\|Major Image]] folded in its pages. The characters can find these treasures with 10 minutes of dedicated searching.
+The collection of sinister books, many of which are duplicates, includes a few valuable tomes. A book describing the [[5. Mechanics/Items/Eye Of Vecna.md\|Eye of Vecna]] and [[5. Mechanics/Items/Hand Of Vecna.md\|Hand of Vecna]] is a masterpiece of writing and artistic illumination worth 450 gp. A book of nonsensical poetry titled Quite Good Verse has a gold-plated cover and is worth 200 gp. A book about Neverwinter's history contains a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Greater Invisibility.md\|Greater Invisibility]] and a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Major Image.md\|Major Image]] folded in its pages. The characters can find these treasures with 10 minutes of dedicated searching.
 
 #### C18: Vacant Cell
 
@@ -823,7 +823,7 @@ The door is sealed with a puzzle that requires pushing the right letter tiles in
 
 **E** in RETURN
 
-If the five words sink into the wall in the wrong order, or if the wrong letters are used to push them in, all five words reset with a wave of painful loneliness. Creatures in the room must make a DC 16 Charisma saving throw, taking `dice:4d10|noform|avg|text(22)` (`4d10`) psychic damage on a failed save or half as much damage on a successful one. If the characters have a hard time figuring out this puzzle, Eldon gives them hints. Eldon stays at a safe distance from the trap and doesn't take damage if it's triggered.
+If the five words sink into the wall in the wrong order, or if the wrong letters are used to push them in, all five words reset with a wave of painful loneliness. Creatures in the room must make a DC 16 Charisma saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage on a failed save or half as much damage on a successful one. If the characters have a hard time figuring out this puzzle, Eldon gives them hints. Eldon stays at a safe distance from the trap and doesn't take damage if it's triggered.
 
 The first time a character pushes the tiles incorrectly, they see a small mechanism below the phrase "NO WORLD TO RETURN." This mechanism is a lock. As an action, a character with thieves' tools can use them to try to pick the lock, doing so with a successful DC 16 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check. Picking the lock has the same effect as solving the puzzle, granting access to area B6.
 
@@ -840,7 +840,7 @@ Isolation warped the matriarch of the Dolindar family, Kevetta, into a [[5. Mech
 
 ##### Blades
 
-The blades on the floor are "difficult terrain". When a creature moves into or through the blades on its turn, it takes `dice:2d4|noform|avg|text(5)` (`2d4`) slashing damage for every 5 feet it travels. A character can use an action to pull a lever behind the stone coffin to cause the blades to retract into the floor or to raise them again.
+The blades on the floor are "difficult terrain". When a creature moves into or through the blades on its turn, it takes `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) slashing damage for every 5 feet it travels. A character can use an action to pull a lever behind the stone coffin to cause the blades to retract into the floor or to raise them again.
 
 ##### In the Coffin
 

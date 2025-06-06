@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/knowledge
+alignment: Neutral
+domains: Knowledge
+pantheon: Forgotten Realms
+symbol: Blank scroll
 aliases:
   - Oghma
 ---

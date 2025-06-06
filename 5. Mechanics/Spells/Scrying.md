@@ -19,24 +19,48 @@ tags:
   - spell/subclass/oath-of-the-spelldrinker
   - spell/subclass/oath-of-the-watchers
   - spell/subclass/oath-of-vengeance
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Knowledge Domain)
+  - Cleric (Light Domain)
+  - Druid
+  - Druid (Circle of Owls)
+  - Druid (Circle of the Land)
+  - Druid (Circle of the Spirits)
+  - Paladin (Oath of Vengeance)
+  - Paladin (Oath of the Spelldrinker)
+  - Paladin (Oath of the Watchers)
+  - Sorcerer (Divine Soul)
+  - Warlock
+  - Wizard
 school: Divination
-time: 10 minute
-duration: 'Concentration, up to 10 minute'
-components: >-
-  V, S, a focus worth at least 1,000 gp, such as a crystal ball, a silver
-  mirror, or a font filled with holy water
+level: 5
+ritual: false
+time: 10 minutes
+duration: Up to 10 minutes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Scrying
+range: Self
+material: >-
+  A focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a
+  font filled with holy water.
+save:
+  type: WIS
+  success: none
+concentration: true
 ---
 # Scrying
 *5th-level, Divination*  
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** Self
-- **Components:** V, S, a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)
+- **Duration:** Concentration, up to 10 minutes
 
 You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
 
@@ -64,6 +88,6 @@ On a failed save, the spell creates an invisible sensor within 10 feet of the ta
 
 Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Druid Circle Of Owls (KPDM)\|Druid (Circle of Owls)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Druid Circle Of The Spirits (KPDM)\|Druid (Circle of the Spirits)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Cleric Knowledge Domain\|Cleric (Knowledge Domain)]]; [[List Spells Classes Cleric Light Domain\|Cleric (Light Domain)]]; [[List Spells Classes Paladin Oath Of The Spelldrinker (GRIFFONSSADDLEBAG2)\|Paladin (Oath of the Spelldrinker)]]; [[List Spells Classes Paladin Oath Of The Watchers (TCE)\|Paladin (Oath of the Watchers)]]; [[List Spells Classes Paladin Oath Of Vengeance\|Paladin (Oath of Vengeance)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [Paladin (Oath of the Watchers)](compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of the Spelldrinker)](compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Druid (Circle of the Spirits)](compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Druid (Circle of Owls)](compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 273. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

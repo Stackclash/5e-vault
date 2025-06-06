@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/egyptian
   - domain/trickery
+alignment: Chaotic Neutral
+domains: Trickery
+pantheon: Egyptian
+symbol: Image of the misshapen deity
 aliases:
   - Bes
 ---

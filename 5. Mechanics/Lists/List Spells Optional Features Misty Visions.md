@@ -10,4 +10,4 @@ aliases:
 
 ## 1st Level
 
-- [[Silent Image \|"PHB"]]
+- [[5. Mechanics/Spells/Silent Image.md \|"PHB"]]

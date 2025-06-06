@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[Poison Spray \|"PHB"]] 
+- [[5. Mechanics/Spells/Poison Spray.md \|"PHB"]] 
 
 ## 1st Level
 
-- [[Animal Friendship \|"PHB"]] 
+- [[5. Mechanics/Spells/Animal Friendship.md \|"PHB"]] 
 
 ## 2nd Level
 
-- [[Suggestion \|"PHB"]]
+- [[5. Mechanics/Spells/Suggestion.md \|"PHB"]]

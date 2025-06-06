@@ -6,6 +6,11 @@ tags:
   - deity/eberron
   - domain/life
   - domain/nature
+alignment: Neutral Good
+category: The Sovereign Host
+domains: 'Life, Nature'
+pantheon: Eberron
+symbol: Sheaf of wheat tied with green ribbon
 aliases:
   - Arawai
 ---

@@ -10,4 +10,4 @@ aliases:
 
 ## 1st Level
 
-- [[Thunderwave \|"PHB"]]
+- [[5. Mechanics/Spells/Thunderwave.md \|"PHB"]]

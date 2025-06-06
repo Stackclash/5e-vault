@@ -23,8 +23,8 @@ While holding the wand, you can use an action to expend 1 or more of its charges
 
 ## Brand
 
-You can use an action to expend 1 of the wand's charges to make a melee spell attack with it, using a spell attack bonus of +7. On a hit, the target takes `dice:3d6|noform|avg` (`3d6`) fire damage and is branded for 1 minute. When a branded target takes fire damage, the creature that dealt the damage can reroll any 1s or 2s on the fire damage dice. It must use the new roll, even if it's a 1 or 2.
+You can use an action to expend 1 of the wand's charges to make a melee spell attack with it, using a spell attack bonus of +7. On a hit, the target takes `dice:3d6|noform|noparens|avg` (`3d6`) fire damage and is branded for 1 minute. When a branded target takes fire damage, the creature that dealt the damage can reroll any 1s or 2s on the fire damage dice. It must use the new roll, even if it's a 1 or 2.
 
-The wand regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the wand becomes a nonmagical branding iron.
+The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand becomes a nonmagical branding iron.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

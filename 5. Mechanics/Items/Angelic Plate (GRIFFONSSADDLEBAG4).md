@@ -9,6 +9,7 @@ tags:
 aliases:
   - Angelic Plate
 armorClass: 18
+weight: 65
 ---
 # Angelic Plate
 *Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), legendary (requires attunement)*  
@@ -32,6 +33,6 @@ While the halo is over a creature's head, the creature gains the following benef
 
 ## Angelic Avatar
 
-While wearing the armor, you can use an action to transform into a hulking, metal angel for 1 minute. Your size becomes Large, gaining the "enlarge" effect of the enlarge/reduce spell when you do (no [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] required). You also grow a pair of metal wings, granting you a flying speed of 30 feet. For the duration, your melee weapon attacks deal an extra `dice:1d4|noform|avg` (`1d4`) radiant damage, in addition to the extra damage from enlarge/reduce, and you can roll a `dice:d4|noform|avg` (`d4`) and add it to the total of any saving throw you make. The effect ends early if you're reduced to 0 hit points or if you use a bonus action to end it early. If you have 17 or more levels in the paladin class, you can use a bonus action to transform into the metal angel, instead of an action. Once this property of the armor has been used, it can't be used again until the next dawn.
+While wearing the armor, you can use an action to transform into a hulking, metal angel for 1 minute. Your size becomes Large, gaining the "enlarge" effect of the enlarge/reduce spell when you do (no [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] required). You also grow a pair of metal wings, granting you a flying speed of 30 feet. For the duration, your melee weapon attacks deal an extra `dice:1d4|noform|noparens|avg` (`d4`) radiant damage, in addition to the extra damage from enlarge/reduce, and you can roll a `dice:d4|noform|noparens|avg` (`d4`) and add it to the total of any saving throw you make. The effect ends early if you're reduced to 0 hit points or if you use a bonus action to end it early. If you have 17 or more levels in the paladin class, you can use a bonus action to transform into the metal angel, instead of an action. Once this property of the armor has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*

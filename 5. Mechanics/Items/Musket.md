@@ -10,13 +10,14 @@ tags:
 aliases:
   - Musket
 cost: 50000
-one-hand-damage: 1d12 P
-range: 40/120
+one-hand-damage: 1d12 piercing
+range: 40\120
+weight: 10
 ---
 # Musket
 *Weapon*  
 
-- **Damage**: 1d12 P
+- **Damage**: 1d12 piercing
 - **Range**: 40/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Cost**: 500 gp

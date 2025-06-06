@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'forest, swamp, hill, urban'
 size: Medium
 tags:
@@ -17,7 +17,7 @@ tags:
 aliases:
   - Swarm of Ravens
 ---
-# [[5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md|Swarm of Ravens]]
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Ravens.md|Swarm of Ravens]]
 *Source: Monster Manual p. 339, Curse of Strahd, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 > [!note] The Nature of Swarms
@@ -33,16 +33,18 @@ aliases:
 "ac": !!int "12"
 "hp": !!int "24"
 "hit_dice": "7d8 - 7"
+"modifier": !!int "2"
 "stats":
-- !!int "6"
-- !!int "14"
-- !!int "8"
-- !!int "3"
-- !!int "12"
-- !!int "6"
+  - !!int "6"
+  - !!int "14"
+  - !!int "8"
+  - !!int "3"
+  - !!int "12"
+  - !!int "6"
 "speed": "10 ft., fly 50 ft."
 "skillsaves":
-  "Perception": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
@@ -52,19 +54,19 @@ aliases:
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
-    \ can move through any opening large enough for a Tiny raven. The swarm can't\
-    \ regain hit points or gain temporary hit points."
-  "name": "Swarm"
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through any opening large enough for a Tiny raven. The swarm\
+      \ can't regain hit points or gain temporary hit points."
+    "name": "Swarm"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's\
-    \ space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm\
-    \ has half of its hit points or fewer."
-  "name": "Beaks"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's\
+      \ space. Hit: 7 (2d6) piercing damage, or 3 (d6) piercing damage if the swarm\
+      \ has half of its hit points or fewer."
+    "name": "Beaks"
 "source":
-- "MM"
-- "CoS"
-- "TCE"
+  - "MM"
+  - "CoS"
+  - "TCE"
 "image": "5. Mechanics/Bestiary/Beast/token/swarm-of-ravens.webp"
 ```
 ^statblock

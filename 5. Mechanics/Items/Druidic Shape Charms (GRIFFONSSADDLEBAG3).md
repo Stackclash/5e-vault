@@ -16,7 +16,7 @@ aliases:
 
 These small wooden charms are carved in the shape of recognizable creatures. Each one is about three inches tall and can fit into the top of the charm below. If you have multiple charms, they collectively count as a single magic item for the purposes of determining how many items you can attune to.
 
-When found, the creature type associated with the charm is random. Roll a `dice:d8|noform|avg` (`d8`) and use the table below to determine what charm you find.
+When found, the creature type associated with the charm is random. Roll a `dice:d8|noform|noparens|avg` (`d8`) and use the table below to determine what charm you find.
 
 While a charm is on your person, you can use an action to expend two uses of your Wild Shape to transform into a creature other than a beast, following the normal rules for Wild Shape with the following changes. The type of creature you can transform into is determined by the charms you have. The challenge rating of the creature must be no more than half your druid level, rounded down, and the maximum amount of time you can remain transformed is 10 minutes.
 

@@ -16,25 +16,36 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
   - spell/subrace/elf-high
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: cantrip
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Brawn Boost
+concentration: true
 ---
 # Brawn Boost
 *cantrip, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You touch a willing creature. Once before the spell ends, the target can roll a `dice:d6|noform|avg` (`d6`) and add the result to one Strength check of its choice. It can roll the die before or after making the check. The spell then ends.
+You touch a willing creature. Once before the spell ends, the target can roll a `dice:d6|noform|noparens|avg` (`d6`) and add the result to one Strength check of its choice. It can roll the die before or after making the check. The spell then ends.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 46*

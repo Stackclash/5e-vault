@@ -4,6 +4,8 @@ cssclasses: json5e-class
 tags:
   - class/warlock
   - compendium/src/5e/phb
+hitdice: 8
+hitRollAverage: 5
 aliases:
   - Warlock
 ---
@@ -17,28 +19,29 @@ aliases:
 > <tr><th colspan='8'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Cantrips Known</th><th class="value">Spells Known</th><th class="value">Spell Slots</th><th class="value">Slot Level</th><th class="value"><a href="compendium/lists/list-optfeaturetype-ei.md">Invocations Known</a></th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Pact%20Magic%20(Level%201)'>Pact Magic</a>, <a href='#Otherworldly%20Patron%20(Level%201)'>Otherworldly Patron</a></td><td class="value">2</td><td class="value">2</td><td class="value">1</td><td class="value">1st</td><td class="value">⏤</td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Eldritch%20Invocations%20(Level%202)'>Eldritch Invocations</a></td><td class="value">2</td><td class="value">3</td><td class="value">2</td><td class="value">1st</td><td class="value">2</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Pact%20Boon%20(Level%203)'>Pact Boon</a></td><td class="value">2</td><td class="value">4</td><td class="value">2</td><td class="value">2nd</td><td class="value">2</td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a>, <a href='#Eldritch%20Versatility%20(Level%204)'>Eldritch Versatility</a></td><td class="value">3</td><td class="value">5</td><td class="value">2</td><td class="value">2nd</td><td class="value">2</td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Pact Magic (Level 1)' class='internal-link'>Pact Magic</a>, <a href='#Otherworldly Patron (Level 1)' class='internal-link'>Otherworldly Patron</a></td><td class="value">2</td><td class="value">2</td><td class="value">1</td><td class="value">1st</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Eldritch Invocations (Level 2)' class='internal-link'>Eldritch Invocations</a></td><td class="value">2</td><td class="value">3</td><td class="value">2</td><td class="value">1st</td><td class="value">2</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Pact Boon (Level 3)' class='internal-link'>Pact Boon</a></td><td class="value">2</td><td class="value">4</td><td class="value">2</td><td class="value">2nd</td><td class="value">2</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a>, <a href='#Eldritch Versatility (Level 4)' class='internal-link'>Eldritch Versatility</a></td><td class="value">3</td><td class="value">5</td><td class="value">2</td><td class="value">2nd</td><td class="value">2</td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td><td class="value">3</td><td class="value">6</td><td class="value">2</td><td class="value">3rd</td><td class="value">3</td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Otherworldly%20Patron%20feature%20(Level%206)'>Otherworldly Patron feature</a></td><td class="value">3</td><td class="value">7</td><td class="value">2</td><td class="value">3rd</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Otherworldly Patron feature (Level 6)' class='internal-link'>Otherworldly Patron feature</a></td><td class="value">3</td><td class="value">7</td><td class="value">2</td><td class="value">3rd</td><td class="value">3</td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td><td class="value">3</td><td class="value">8</td><td class="value">2</td><td class="value">4th</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">9</td><td class="value">2</td><td class="value">4th</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">9</td><td class="value">2</td><td class="value">4th</td><td class="value">4</td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td><td class="value">3</td><td class="value">10</td><td class="value">2</td><td class="value">5th</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Otherworldly%20Patron%20feature%20(Level%2010)'>Otherworldly Patron feature</a></td><td class="value">4</td><td class="value">10</td><td class="value">2</td><td class="value">5th</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Mystic%20Arcanum%20(6th%20level)%20(Level%2011)'>Mystic Arcanum (6th level)</a></td><td class="value">4</td><td class="value">11</td><td class="value">3</td><td class="value">5th</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">11</td><td class="value">3</td><td class="value">5th</td><td class="value">6</td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Mystic%20Arcanum%20(7th%20level)%20(Level%2013)'>Mystic Arcanum (7th level)</a></td><td class="value">4</td><td class="value">12</td><td class="value">3</td><td class="value">5th</td><td class="value">6</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Otherworldly%20Patron%20feature%20(Level%2014)'>Otherworldly Patron feature</a></td><td class="value">4</td><td class="value">12</td><td class="value">3</td><td class="value">5th</td><td class="value">6</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Mystic%20Arcanum%20(8th%20level)%20(Level%2015)'>Mystic Arcanum (8th level)</a></td><td class="value">4</td><td class="value">13</td><td class="value">3</td><td class="value">5th</td><td class="value">7</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">13</td><td class="value">3</td><td class="value">5th</td><td class="value">7</td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Mystic%20Arcanum%20(9th%20level)%20(Level%2017)'>Mystic Arcanum (9th level)</a></td><td class="value">4</td><td class="value">14</td><td class="value">4</td><td class="value">5th</td><td class="value">7</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Otherworldly Patron feature (Level 10)' class='internal-link'>Otherworldly Patron feature</a></td><td class="value">4</td><td class="value">10</td><td class="value">2</td><td class="value">5th</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Mystic Arcanum (6th level) (Level 11)' class='internal-link'>Mystic Arcanum (6th level)</a></td><td class="value">4</td><td class="value">11</td><td class="value">3</td><td class="value">5th</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">11</td><td class="value">3</td><td class="value">5th</td><td class="value">6</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Mystic Arcanum (7th level) (Level 13)' class='internal-link'>Mystic Arcanum (7th level)</a></td><td class="value">4</td><td class="value">12</td><td class="value">3</td><td class="value">5th</td><td class="value">6</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Otherworldly Patron feature (Level 14)' class='internal-link'>Otherworldly Patron feature</a></td><td class="value">4</td><td class="value">12</td><td class="value">3</td><td class="value">5th</td><td class="value">6</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Mystic Arcanum (8th level) (Level 15)' class='internal-link'>Mystic Arcanum (8th level)</a></td><td class="value">4</td><td class="value">13</td><td class="value">3</td><td class="value">5th</td><td class="value">7</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">13</td><td class="value">3</td><td class="value">5th</td><td class="value">7</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Mystic Arcanum (9th level) (Level 17)' class='internal-link'>Mystic Arcanum (9th level)</a></td><td class="value">4</td><td class="value">14</td><td class="value">4</td><td class="value">5th</td><td class="value">7</td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td><td class="value">4</td><td class="value">14</td><td class="value">4</td><td class="value">5th</td><td class="value">8</td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2019)'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">15</td><td class="value">4</td><td class="value">5th</td><td class="value">8</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Eldritch%20Master%20(Level%2020)'>Eldritch Master</a></td><td class="value">4</td><td class="value">15</td><td class="value">4</td><td class="value">5th</td><td class="value">8</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">15</td><td class="value">4</td><td class="value">5th</td><td class="value">8</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Eldritch Master (Level 20)' class='internal-link'>Eldritch Master</a></td><td class="value">4</td><td class="value">15</td><td class="value">4</td><td class="value">5th</td><td class="value">8</td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 ## Hit Points
 
@@ -65,7 +68,7 @@ Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
 ## Multiclassing Warlock
 
-**Ability Score Minimum:**Charisma 13
+**Ability Score Minimum:** Charisma 13
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
@@ -119,6 +122,10 @@ Warlocks are finders and keepers of secrets. They push at the edge of our unders
 Warlocks are defined by two elements that work in concert to forge their path into this class. The first element is the event or circumstances that led to a warlock's entering into a pact with a planar entity. The second one is the nature of the entity a warlock is bound to. Unlike clerics, who typically embrace a deity and that god's ethos, a warlock might have no love for a patron, or vice versa.
 
 The sections that follow provide ways to embellish a warlock character that could generate some intriguing story and roleplaying opportunities.
+
+> [!quote] A quote from Xanathar  
+> 
+> So you got your powers by making a contract with something? Is it in writing, perchance? Well, never mind. Just tell me this: Can I get your powers by eating you?
 
 ## Patron's Attitude
 _Source: Xanathar's Guide to Everything_
@@ -211,9 +218,9 @@ Additionally, when you gain a level in this class, you can choose one of the war
 
 Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
 
-<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Charisma modifier</span>
+<span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Charisma</span>
 
-<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma modifier</span>
+<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma</span>
 
 #### Spellcasting Focus
 
@@ -250,7 +257,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Eldritch Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 70_
 
-*4th-level warlock [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*4th-level warlock [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change of focus in your occult studies:
 

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hezrou
 ---
-# [[5. Mechanics/Bestiary/Fiend/Hezrou.md|Hezrou]]
+# [[5. Mechanics\Bestiary\Fiend\Hezrou.md|Hezrou]]
 *Source: Monster Manual p. 60, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Hezrous serve as foot soldiers in the demonic hordes of the Abyss. Although physically powerful, they are weak-minded and hezrous can easily be duped into sacrificing themselves by more powerful demons. As they press their attacks into the heart of an enemy's forces, their foul stench can sicken even the toughest foes.
@@ -167,14 +167,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50 percent chance of summoning `dice:1d8|noform|avg` (`1d8`) vrocks, `dice:1d6|noform|avg` (`1d6`) hezrous, `dice:1d4|noform|avg` (`1d4`) glabrezus, `dice:1d3|noform|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|avg` (`1d2`) mariliths, or one goristro.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`d8`) vrocks, `dice:1d6|noform|noparens|avg` (`d6`) hezrous, `dice:1d4|noform|noparens|avg` (`d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`d2`) mariliths, or one goristro.  
 > - A barlgura has a 30 percent chance of summoning one barlgura.  
 > - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|avg` (`1d3`) vrocks, `dice:1d2|noform|avg` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|avg` (`1d6`) vrocks, `dice:1d4|noform|avg` (`1d4`) hezrous, `dice:1d3|noform|avg` (`1d3`) glabrezus, `dice:1d2|noform|avg` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|avg` (`1d4`) vrocks, `dice:1d3|noform|avg` (`1d3`) hezrous, `dice:1d2|noform|avg` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|avg` (`2d4`) dretches or one vrock.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`d3`) vrocks, `dice:1d2|noform|noparens|avg` (`d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) vrocks, `dice:1d4|noform|noparens|avg` (`d4`) hezrous, `dice:1d3|noform|noparens|avg` (`d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) vrocks, `dice:1d3|noform|noparens|avg` (`d3`) hezrous, `dice:1d2|noform|noparens|avg` (`d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|noparens|avg` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
@@ -195,18 +195,19 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "ac_class": "natural armor"
 "hp": !!int "136"
 "hit_dice": "13d10 + 65"
+"modifier": !!int "3"
 "stats":
-- !!int "19"
-- !!int "17"
-- !!int "20"
-- !!int "5"
-- !!int "12"
-- !!int "13"
+  - !!int "19"
+  - !!int "17"
+  - !!int "20"
+  - !!int "5"
+  - !!int "12"
+  - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "4"
-  "Strength": !!int "7"
-  "Constitution": !!int "8"
+  - "strength": "+7"
+  - "constitution": "+8"
+  - "wisdom": "+4"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
@@ -215,26 +216,26 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "8"
 "traits":
-- "desc": "The hezrou has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- "desc": "Any creature that starts its turn within 10 feet of the hezrou must succeed\
-    \ on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ until the start of its next turn. On a successful saving throw, the creature\
-    \ is immune to the hezrou's stench for 24 hours."
-  "name": "Stench"
+  - "desc": "The hezrou has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
+  - "desc": "Any creature that starts its turn within 10 feet of the hezrou must succeed\
+      \ on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+      \ until the start of its next turn. On a successful saving throw, the creature\
+      \ is immune to the hezrou's stench for 24 hours."
+    "name": "Stench"
 "actions":
-- "desc": "The hezrou makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10\
-    \ + 4) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
-    \ + 4) slashing damage."
-  "name": "Claws"
+  - "desc": "The hezrou makes three attacks: one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15\
+      \ (2d10 + 4) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+      \ (2d6 + 4) slashing damage."
+    "name": "Claws"
 "source":
-- "MM"
-- "VEoR"
+  - "MM"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/hezrou.webp"
 ```
 ^statblock

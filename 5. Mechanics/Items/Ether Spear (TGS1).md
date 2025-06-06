@@ -10,17 +10,18 @@ tags:
   - item/weapon/simple
 aliases:
   - Ether Spear
-one-hand-damage: 1d6 O
-two-hand-damage: 1d8 O
-range: 20/60
+one-hand-damage: 1d6 force
+two-hand-damage: 1d8 force
+range: 20\60
+weight: 3
 ---
 # Ether Spear
 *Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Ether-Spear.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 O
-  - Two-handed: 1d8 O
+  - One-handed: 1d6 force
+  - Two-handed: 1d8 force
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.

@@ -6,6 +6,10 @@ tags:
   - deity/forgotten-realms
   - domain/life
   - domain/twilight
+alignment: Lawful Good
+domains: 'Life, Twilight'
+pantheon: Forgotten Realms
+symbol: Hands bound at the wrist with red cord
 aliases:
   - Ilmater
 ---

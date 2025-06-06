@@ -7,25 +7,35 @@ tags:
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/abjuration
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Wizard
 school: Abjuration
-time: 10 minute
-duration: 24 hour
-components: >-
-  V, S, burning incense, a small measure of brimstone and oil, a knotted string,
-  a small amount of umber hulk blood, and a small silver rod worth at least 10
-  gp
+level: 6
+ritual: false
+time: 10 minutes
+duration: 24 hours
+components:
+  - V
+  - S
+  - M
 aliases:
   - Guards and Wards
+range: Touch
+material: >-
+  Burning incense, a small measure of brimstone and oil, a knotted string, a
+  small amount of umber hulk blood, and a small silver rod worth at least 10 gp.
+area:
+  type: cube
+  size: 2500
 ---
 # Guards and Wards
 *6th-level, Abjuration*  
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** Touch
-- **Components:** V, S, burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp
-- **Duration:** 24 hour
+- **Components:** V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp)
+- **Duration:** 24 hours
 
 You create a ward that protects up to 2,500 square feet of floor space (an area 50 feet square, or one hundred 5-foot squares or twenty-five 10-foot squares). The warded area can be up to 20 feet tall, and shaped as you desire. You can ward several stories of a stronghold by dividing the area among them, as long as you can walk into each contiguous area while you are casting the spell.
 
@@ -61,6 +71,6 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

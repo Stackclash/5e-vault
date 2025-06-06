@@ -14,7 +14,7 @@ tags:
 aliases:
   - Nothic
 ---
-# [[5. Mechanics/Bestiary/Aberration/Nothic.md|Nothic]]
+# [[5. Mechanics\Bestiary\Aberration\Nothic.md|Nothic]]
 *Source: Monster Manual p. 236, Curse of Strahd, Vecna: Eve of Ruin. Available in the Basic Rules (2014)*
 
 A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
@@ -40,46 +40,51 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
 "ac_class": "natural armor"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
+"modifier": !!int "3"
 "stats":
-- !!int "14"
-- !!int "16"
-- !!int "16"
-- !!int "13"
-- !!int "10"
-- !!int "8"
+  - !!int "14"
+  - !!int "16"
+  - !!int "16"
+  - !!int "13"
+  - !!int "10"
+  - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Insight": !!int "4"
-  "Perception": !!int "2"
-  "Arcana": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+5"
 "senses": "truesight 120 ft., passive Perception 12"
 "languages": "Undercommon"
 "cr": "2"
 "traits":
-- "desc": "The nothic has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on sight."
-  "name": "Keen Sight"
+  - "desc": "The nothic has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on sight."
+    "name": "Keen Sight"
 "actions":
-- "desc": "The nothic makes two claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d6\
-    \ + 3) slashing damage."
-  "name": "Claw"
-- "desc": "The nothic targets one creature it can see within 30 feet of it. The target\
-    \ must succeed on a DC 12 Constitution saving throw against this magic or take\
-    \ 10 (3d6) necrotic damage."
-  "name": "Rotting Gaze"
-- "desc": "The nothic targets one creature it can see within 30 feet of it. The target\
-    \ must contest its Charisma ([[/5. Mechanics/Rules/Skills.md#Deception|Deception]])\
-    \ check against the nothic's Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
-    \ check. If the nothic wins, it magically learns one fact or secret about the\
-    \ target. The target automatically wins if it is immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]."
-  "name": "Weird Insight"
+  - "desc": "The nothic makes two claw attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+      \ + 3) slashing damage."
+    "name": "Claw"
+  - "desc": "The nothic targets one creature it can see within 30 feet of it. The\
+      \ target must succeed on a DC 12 Constitution saving throw against this magic\
+      \ or take 10 (3d6) necrotic damage."
+    "name": "Rotting Gaze"
+  - "desc": "The nothic targets one creature it can see within 30 feet of it. The\
+      \ target must contest its Charisma ([[/5. Mechanics/Rules/Skills.md#Deception|Deception]])\
+      \ check against the nothic's Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
+      \ check. If the nothic wins, it magically learns one fact or secret about the\
+      \ target. The target automatically wins if it is immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]."
+    "name": "Weird Insight"
 "source":
-- "MM"
-- "CoS"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Aberration/token/nothic.webp"
 ```
 ^statblock

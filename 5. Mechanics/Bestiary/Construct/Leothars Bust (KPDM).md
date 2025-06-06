@@ -13,7 +13,7 @@ tags:
 aliases:
   - Leothar's Bust
 ---
-# [[5. Mechanics/Bestiary/Construct/Leothars Bust (KPDM).md|Leothar's Bust]]
+# [[5. Mechanics\Bestiary\Construct\Leothars Bust (KPDM).md|Leothar's Bust]]
 *Source: Deep Magic p. 286*
 
 *Floating before you is an exquisitely-crafted bust of a middle-aged man with a balding pate and a well-cropped beard. The bust appears to be constructed out of white marble. Its features are animated, and the entity is watching you with an expectant expression. Close behind the bust are two maids' uniforms, suspended in the air as though being worn by unseen creatures.*
@@ -31,21 +31,25 @@ Leothar's bust shares many traits with its creator. It has the same haughty and 
 "ac_class": "natural armor"
 "hp": !!int "42"
 "hit_dice": "12d4 + 12"
+"modifier": !!int "3"
 "stats":
-- !!int "8"
-- !!int "16"
-- !!int "12"
-- !!int "18"
-- !!int "10"
-- !!int "8"
+  - !!int "8"
+  - !!int "16"
+  - !!int "12"
+  - !!int "18"
+  - !!int "10"
+  - !!int "8"
 "speed": "5 ft., fly 40 ft. (hover)"
 "saves":
-  "Dexterity": !!int "5"
-  "Intelligence": !!int "6"
+  - "dexterity": "+5"
+  - "intelligence": "+6"
 "skillsaves":
-  "Investigation": !!int "6"
-  "History": !!int "6"
-  "Arcana": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]]"
+    "desc": "+6"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing damage\
   \ from nonmagical attacks"
 "damage_immunities": "poison, psychic"
@@ -57,33 +61,33 @@ Leothar's bust shares many traits with its creator. It has the same haughty and 
 "languages": "Common, Draconic, Elvish"
 "cr": "3"
 "traits":
-- "desc": "The bust's spellcasting ability is Intelligence (spell save DC 14). It\
-    \ can innately cast the following spells, requiring no material components:\n\n\
-    At will: [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mending.md|mending]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Sending.md|sending]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Knock.md|knock]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
-    \nUnknown: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Tensers Floating Disk.md|floating disk]]"
-  "name": "Innate Spellcasting"
-- "desc": "The bust has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
+  - "desc": "The bust's spellcasting ability is Intelligence (spell save DC 14). It\
+      \ can innately cast the following spells, requiring no material components:\n\
+      \nAt will: [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mending.md|mending]],\
+      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n5/day each:\
+      \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Tensers Floating Disk.md|floating disk]]\n\
+      \n3/day each: [[5. Mechanics/Spells/Knock.md|knock]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
+      \n1/day each: [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Sending.md|sending]]"
+    "name": "Innate Spellcasting"
+  - "desc": "The bust has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The bust makes two ray attacks or a single slam attack."
-  "name": "Multiattack"
-- "desc": "Ranged Weapon Attack: +5 to hit, range 120 ft., one target. Hit: 14\
-    \ (4d4 + 4) force damage."
-  "name": "Arcane Ray"
-- "desc": "Ranged Weapon Attack: +5 to hit, range 60 ft., one target. Hit: The\
-    \ target must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
-    \ for 1 minute. A creature can repeat this save at the end of each of its turns,\
-    \ ending the effect on itself on a success."
-  "name": "Paralysis Ray"
-- "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 4 (1d4\
-    \ + 2) bludgeoning damage."
-  "name": "Slam"
+  - "desc": "The bust makes two ray attacks or a single slam attack."
+    "name": "Multiattack"
+  - "desc": "Ranged Weapon Attack: +5 to hit, range 120 ft., one target. Hit:\
+      \ 14 (4d4 + 4) force damage."
+    "name": "Arcane Ray"
+  - "desc": "Ranged Weapon Attack: +5 to hit, range 60 ft., one target. Hit: The\
+      \ target must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
+      \ for 1 minute. A creature can repeat this save at the end of each of its turns,\
+      \ ending the effect on itself on a success."
+    "name": "Paralysis Ray"
+  - "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+      \ + 2) bludgeoning damage."
+    "name": "Slam"
 "source":
-- "KPDM"
+  - "KPDM"
 ```
 ^statblock
 

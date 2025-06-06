@@ -13,7 +13,7 @@ tags:
 aliases:
   - Animated Armor
 ---
-# [[5. Mechanics/Bestiary/Construct/Animated Armor.md|Animated Armor]]
+# [[5. Mechanics\Bestiary\Construct\Animated Armor.md|Animated Armor]]
 *Source: Monster Manual p. 19, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 This empty steel shell clamors as it moves, heavy plates banging and grinding against one another like the vengeful spirit of a fallen knight. Ponderous but persistent, this magical guardian is almost always a suit of plate armor.
@@ -37,13 +37,14 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "ac_class": "natural armor"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
+"modifier": !!int "0"
 "stats":
-- !!int "14"
-- !!int "11"
-- !!int "13"
-- !!int "1"
-- !!int "3"
-- !!int "1"
+  - !!int "14"
+  - !!int "11"
+  - !!int "13"
+  - !!int "1"
+  - !!int "3"
+  - !!int "1"
 "speed": "25 ft."
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
@@ -54,27 +55,27 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "languages": ""
 "cr": "1"
 "traits":
-- "desc": "The armor is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
-    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the armor\
-    \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]] for 1\
-    \ minute."
-  "name": "Antimagic Susceptibility"
-- "desc": "While the armor remains motionless, it is indistinguishable from a normal\
-    \ suit of armor."
-  "name": "False Appearance"
+  - "desc": "The armor is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
+      \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
+      \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the armor\
+      \ must succeed on a Constitution saving throw against the caster's spell save\
+      \ DC or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]] for\
+      \ 1 minute."
+    "name": "Antimagic Susceptibility"
+  - "desc": "While the armor remains motionless, it is indistinguishable from a normal\
+      \ suit of armor."
+    "name": "False Appearance"
 "actions":
-- "desc": "The armor makes two melee attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) bludgeoning damage."
-  "name": "Slam"
+  - "desc": "The armor makes two melee attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) bludgeoning damage."
+    "name": "Slam"
 "source":
-- "MM"
-- "CoS"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Construct/token/animated-armor.webp"
 ```
 ^statblock

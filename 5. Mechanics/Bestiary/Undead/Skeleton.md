@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: urban
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Skeleton
 ---
-# [[5. Mechanics/Bestiary/Undead/Skeleton.md|Skeleton]]
+# [[5. Mechanics\Bestiary\Undead\Skeleton.md|Skeleton]]
 *Source: Monster Manual p. 272, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
@@ -52,13 +52,14 @@ A skeleton doesn't require air, food, drink, or sleep.
 "ac_class": "armor scraps"
 "hp": !!int "13"
 "hit_dice": "2d8 + 4"
+"modifier": !!int "2"
 "stats":
-- !!int "10"
-- !!int "14"
-- !!int "15"
-- !!int "6"
-- !!int "8"
-- !!int "5"
+  - !!int "10"
+  - !!int "14"
+  - !!int "15"
+  - !!int "6"
+  - !!int "8"
+  - !!int "5"
 "speed": "30 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
@@ -68,17 +69,17 @@ A skeleton doesn't require air, food, drink, or sleep.
 "languages": "understands all languages it spoke in life but can't speak"
 "cr": "1/4"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) piercing damage."
-  "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit:\
-    \ 5 (1d6 + 2) piercing damage."
-  "name": "Shortbow"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) piercing damage."
+    "name": "Shortsword"
+  - "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit:\
+      \ 5 (1d6 + 2) piercing damage."
+    "name": "Shortbow"
 "source":
-- "MM"
-- "CoS"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/skeleton.webp"
 ```
 ^statblock

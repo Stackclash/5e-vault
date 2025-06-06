@@ -9,6 +9,7 @@ tags:
 aliases:
   - Feywatch Shield
 armorClass: 2
+weight: 6
 ---
 # Feywatch Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  

@@ -9,22 +9,23 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of the Woodlands
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Staff of the Woodlands
 *Staff, weapon, major, rare (requires attunement by a druid)*  
 ![[5. Mechanics/Items/img/staff-of-the-woodlands.webp#right]]  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls.
 
-The staff has 10 charges for the following properties. It regains `dice:1d6+4|noform|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the staff loses its properties and becomes a nonmagical quarterstaff.
+The staff has 10 charges for the following properties. It regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff loses its properties and becomes a nonmagical quarterstaff.
 
 ## Spells
 

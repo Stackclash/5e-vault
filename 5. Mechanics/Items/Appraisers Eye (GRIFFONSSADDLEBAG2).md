@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Appraisers-Eye.webp#right)  
 
 
-This golden sphere is the size of an eyeball with a bejeweled iris. Its weight is negligible. The sphere has 3 charges and regains `dice:1d3|noform|avg` (`1d3`) expended charges daily at dawn. Even if you aren't attuned to the sphere, you can use it and its charges for the following properties.
+This golden sphere is the size of an eyeball with a bejeweled iris. Its weight is negligible. The sphere has 3 charges and regains `dice:1d3|noform|noparens|avg` (`d3`) expended charges daily at dawn. Even if you aren't attuned to the sphere, you can use it and its charges for the following properties.
 
 While holding the eye, you can use an action to expend 1 of its charges to cast the [[5. Mechanics/Spells/Identify.md\|identify]] spell from it. Alternatively, you can use the eye as the material component required for the [[5. Mechanics/Spells/Legend Lore.md\|legend lore]] spell. When you do, there is only a cumulative 10 percent chance that the sphere is consumed by the spell.
 

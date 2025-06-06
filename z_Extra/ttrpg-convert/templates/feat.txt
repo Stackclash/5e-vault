@@ -7,7 +7,11 @@ tags:
 - {tag}
 {/for}
 {/if}
-aliases: ["{resource.name}"]
+{#if resource.level}
+level: {resource.level}
+{/if}
+aliases:
+- {resource.name}
 ---
 # {resource.name}
 *Source: {resource.source}*  

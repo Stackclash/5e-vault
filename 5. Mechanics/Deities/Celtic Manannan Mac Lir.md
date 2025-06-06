@@ -6,6 +6,10 @@ tags:
   - deity/celtic
   - domain/nature
   - domain/tempest
+alignment: Lawful Neutral
+domains: 'Nature, Tempest'
+pantheon: Celtic
+symbol: Wave of white water on green
 aliases:
   - Manannan mac Lir
 ---

@@ -44,7 +44,7 @@ You are proficient in the [[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]] ski
 
 ### Surprise Attack
 
-If you hit a creature with an attack roll, the creature takes an extra `dice:2d6|noform|avg` (`2d6`) damage if it hasn't taken a turn yet in the current combat.
+If you hit a creature with an attack roll, the creature takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage if it hasn't taken a turn yet in the current combat.
 
 ## Description
 

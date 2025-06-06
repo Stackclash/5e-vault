@@ -17,7 +17,7 @@ tags:
 aliases:
   - Yuan-ti Malison (Type 2)
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Malison Type 2.md|Yuan-ti Malison (Type 2)]]
+# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Malison Type 2.md|Yuan-ti Malison (Type 2)]]
 *Source: Monster Manual p. 309*
 
 A malison is a hideous blend of human and serpentine features. Three different types of malisons are known to exist, and other types are possible. Malisons form the middle caste of yuan-ti society and hunt with arrows tipped with their own venom. They use their magical powers of suggestion to force their enemies' surrender.
@@ -52,11 +52,11 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 > 
 > The yuan-ti revere a number of powerful entities as gods, including the following.
 > 
-> **Dendar, the Night Serpent.** Dendar's followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
+> **Dendar, the Night Serpent.** [[5. Mechanics/Deities/Yuan Ti Dendar (VGM).md|Dendar's]] followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
 > 
-> **Merrshaulk, Master of the Pit.** Merrshaulk is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
+> **Merrshaulk, Master of the Pit.** [[5. Mechanics/Deities/Yuan Ti Merrshaulk (VGM).md|Merrshaulk]] is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
 > 
-> **Sseth, the Sibilant Death.** Sseth appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
+> **Sseth, the Sibilant Death.** [[5. Mechanics/Deities/Yuan Ti Sseth (VGM).md|Sseth]] appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
 ^serpent-gods
 
 > [!quote] A quote from From Masters of the Forbidden City by Codo Vidak  
@@ -73,48 +73,52 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 "ac": !!int "12"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
+"modifier": !!int "2"
 "stats":
-- !!int "16"
-- !!int "14"
-- !!int "13"
-- !!int "14"
-- !!int "12"
-- !!int "16"
+  - !!int "16"
+  - !!int "14"
+  - !!int "13"
+  - !!int "14"
+  - !!int "12"
+  - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Abyssal, Common, Draconic"
 "cr": "3"
 "traits":
-- "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13).\
-    \ The yuan-ti can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes\
-    \ only)\n\n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "Innate Spellcasting (Yuan-ti Form Only)"
-- "desc": "The yuan-ti can use its action to polymorph into a Medium snake, or back\
-    \ into its true form. Its statistics are the same in each form. Any equipment\
-    \ it is wearing or carrying isn't transformed. It doesn't change form if it dies."
-  "name": "Shapechanger"
-- "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- "desc": "The yuan-ti has one of the following types:\n\n- Type 1. Human body\
-    \ with snake head  \n- Type 2. Human head and body with snakes for arms  \n\
-    - Type 3. Human head and upper body with a serpentine lower body instead of\
-    \ legs  "
-  "name": "Malison Type"
+  - "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC\
+      \ 13). The yuan-ti can innately cast the following spells, requiring no material\
+      \ components:\n\nAt will: [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]]\
+      \ (snakes only)\n\n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
+    "name": "Innate Spellcasting (Yuan-ti Form Only)"
+  - "desc": "The yuan-ti can use its action to polymorph into a Medium snake, or back\
+      \ into its true form. Its statistics are the same in each form. Any equipment\
+      \ it is wearing or carrying isn't transformed. It doesn't change form if it\
+      \ dies."
+    "name": "Shapechanger"
+  - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
+  - "desc": "The yuan-ti has one of the following types:\n\n- Type 1. Human body\
+      \ with snake head  \n- Type 2. Human head and body with snakes for arms\
+      \  \n- Type 3. Human head and upper body with a serpentine lower body instead\
+      \ of legs  "
+    "name": "Malison Type"
 "actions":
-- "desc": "The yuan-ti makes two bite attacks using its snake arms."
-  "name": "Multiattack (Yuan-ti Form Only)"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4\
-    \ + 3) piercing damage plus 7 (2d6) poison damage."
-  "name": "Bite"
+  - "desc": "The yuan-ti makes two bite attacks using its snake arms."
+    "name": "Multiattack (Yuan-ti Form Only)"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5\
+      \ (1d4 + 3) piercing damage plus 7 (2d6) poison damage."
+    "name": "Bite"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-malison-type-2.webp"
 ```
 ^statblock

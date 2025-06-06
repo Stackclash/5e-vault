@@ -16,7 +16,7 @@ tags:
 aliases:
   - Bulette
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Bulette.md|Bulette]]
+# [[5. Mechanics\Bestiary\Monstrosity\Bulette.md|Bulette]]
 *Source: Monster Manual p. 34. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A bulette is a massive predator that terrorizes any lands it inhabits. Also called a "land shark," it lives only to feed. Irascible and rapacious, bulettes fear no other creature, and they attack with no regard for superior numbers or strength.
@@ -46,40 +46,42 @@ Some sages believe the bulette is the result of a mad wizard's experiments at cr
 "ac_class": "natural armor"
 "hp": !!int "94"
 "hit_dice": "9d10 + 45"
+"modifier": !!int "0"
 "stats":
-- !!int "19"
-- !!int "11"
-- !!int "21"
-- !!int "2"
-- !!int "10"
-- !!int "5"
+  - !!int "19"
+  - !!int "11"
+  - !!int "21"
+  - !!int "2"
+  - !!int "10"
+  - !!int "5"
 "speed": "40 ft., burrow 40 ft."
 "skillsaves":
-  "Perception": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+6"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 16"
 "languages": ""
 "cr": "5"
 "traits":
-- "desc": "The bulette's long jump is up to 30 feet and its high jump is up to 15\
-    \ feet, with or without a running start."
-  "name": "Standing Leap"
+  - "desc": "The bulette's long jump is up to 30 feet and its high jump is up to 15\
+      \ feet, with or without a running start."
+    "name": "Standing Leap"
 "actions":
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 30 (4d12\
-    \ + 4) piercing damage."
-  "name": "Bite"
-- "desc": "If the bulette jumps at least 15 feet as part of its movement, it can then\
-    \ use this action to land on its feet in a space that contains one or more other\
-    \ creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity\
-    \ saving throw (target's choice) or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
-    \ and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage.\
-    \ On a successful save, the creature takes only half the damage, isn't knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], and is pushed 5 feet out of\
-    \ the bulette's space into an unoccupied space of the creature's choice. If no\
-    \ unoccupied space is within range, the creature instead falls [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
-    \ in the bulette's space."
-  "name": "Deadly Leap"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 30\
+      \ (4d12 + 4) piercing damage."
+    "name": "Bite"
+  - "desc": "If the bulette jumps at least 15 feet as part of its movement, it can\
+      \ then use this action to land on its feet in a space that contains one or more\
+      \ other creatures. Each of those creatures must succeed on a DC 16 Strength\
+      \ or Dexterity saving throw (target's choice) or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+      \ and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage.\
+      \ On a successful save, the creature takes only half the damage, isn't knocked\
+      \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], and is pushed 5 feet out of\
+      \ the bulette's space into an unoccupied space of the creature's choice. If\
+      \ no unoccupied space is within range, the creature instead falls [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+      \ in the bulette's space."
+    "name": "Deadly Leap"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/bulette.webp"
 ```
 ^statblock

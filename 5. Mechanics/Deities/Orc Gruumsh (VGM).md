@@ -6,6 +6,10 @@ tags:
   - deity/orc
   - domain/tempest
   - domain/war
+alignment: Chaotic Evil
+domains: 'Tempest, War'
+pantheon: Orc
+symbol: Unblinking eye
 aliases:
   - Gruumsh
 ---

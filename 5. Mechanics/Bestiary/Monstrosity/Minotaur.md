@@ -14,7 +14,7 @@ tags:
 aliases:
   - Minotaur
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Minotaur.md|Minotaur]]
+# [[5. Mechanics\Bestiary\Monstrosity\Minotaur.md|Minotaur]]
 *Source: Monster Manual p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A minotaur's roar is a savage battle cry that most civilized creatures fear. Born into the mortal realm by demonic rites, minotaurs are savage conquerors and carnivores that live for the hunt. Their brown or black fur is stained with the blood of fallen foes, and they carry the stench of death.
@@ -46,40 +46,42 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
 "ac_class": "natural armor"
 "hp": !!int "76"
 "hit_dice": "9d10 + 27"
+"modifier": !!int "0"
 "stats":
-- !!int "18"
-- !!int "11"
-- !!int "16"
-- !!int "6"
-- !!int "16"
-- !!int "9"
+  - !!int "18"
+  - !!int "11"
+  - !!int "16"
+  - !!int "6"
+  - !!int "16"
+  - !!int "9"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+7"
 "senses": "darkvision 60 ft., passive Perception 17"
 "languages": "Abyssal"
 "cr": "3"
 "traits":
-- "desc": "If the minotaur moves at least 10 feet straight toward a target and then\
-    \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
-    \ piercing damage. If the target is a creature, it must succeed on a DC 14 Strength\
-    \ saving throw or be pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
-  "name": "Charge"
-- "desc": "The minotaur can perfectly recall any path it has traveled."
-  "name": "Labyrinthine Recall"
-- "desc": "At the start of its turn, the minotaur can gain advantage on all melee\
-    \ weapon attack rolls it makes during that turn, but attack rolls against it have\
-    \ advantage until the start of its next turn."
-  "name": "Reckless"
+  - "desc": "If the minotaur moves at least 10 feet straight toward a target and then\
+      \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
+      \ piercing damage. If the target is a creature, it must succeed on a DC 14 Strength\
+      \ saving throw or be pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+    "name": "Charge"
+  - "desc": "The minotaur can perfectly recall any path it has traveled."
+    "name": "Labyrinthine Recall"
+  - "desc": "At the start of its turn, the minotaur can gain advantage on all melee\
+      \ weapon attack rolls it makes during that turn, but attack rolls against it\
+      \ have advantage until the start of its next turn."
+    "name": "Reckless"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (2d12\
-    \ + 4) slashing damage."
-  "name": "Greataxe"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8\
-    \ + 4) piercing damage."
-  "name": "Gore"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17\
+      \ (2d12 + 4) slashing damage."
+    "name": "Greataxe"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+      \ (2d8 + 4) piercing damage."
+    "name": "Gore"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/minotaur.webp"
 ```
 ^statblock

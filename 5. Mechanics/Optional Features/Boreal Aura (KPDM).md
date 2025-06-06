@@ -12,4 +12,4 @@ aliases:
 
 ***Prerequisites*** 3rd, "The Frozen One" Patron
 
-Ice and snow cascade around you. As long as you maintain concentration, your melee attacks do an additional `dice:1d6|noform|avg` (`1d6`) cold damage. Attackers within 5 feet of you who hit you in melee take `dice:1d6|noform|avg` (`1d6`) cold damage.
+Ice and snow cascade around you. As long as you maintain concentration, your melee attacks do an additional `dice:1d6|noform|noparens|avg` (`d6`) cold damage. Attackers within 5 feet of you who hit you in melee take `dice:1d6|noform|noparens|avg` (`d6`) cold damage.

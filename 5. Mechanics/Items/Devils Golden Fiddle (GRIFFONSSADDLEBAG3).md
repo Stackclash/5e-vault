@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Devils-Golden-Fiddle.webp#right)  
 
 
-A devil's golden fiddle is a magical trophy among accomplished musicians. Its gilded exterior is marked by embossed, bat-like wings and a carved devil's head. If you're not attuned to the instrument and attempt to play it, you must succeed on a DC 15 Charisma saving throw or take `dice:1d6|noform|avg` (`1d6`) psychic damage. Regardless, the fiddle remains silent.
+A devil's golden fiddle is a magical trophy among accomplished musicians. Its gilded exterior is marked by embossed, bat-like wings and a carved devil's head. If you're not attuned to the instrument and attempt to play it, you must succeed on a DC 15 Charisma saving throw or take `dice:1d6|noform|noparens|avg` (`d6`) psychic damage. Regardless, the fiddle remains silent.
 
 While holding it, you can use a bonus action to play a magical note on it that causes the fiddle to float in the air beside you. While floating in this way, the fiddle magically plays a soft but jaunty tune. The fiddle's tune can be used in place of the verbal component for any bard spell, even if it's floating and playing itself. A creature benefiting from see invisibility or with [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]] sees a spectral imp playing the fiddle while it floats.
 
@@ -28,7 +28,7 @@ If you're holding the fiddle, or if the fiddle is playing on its own, you can us
 
 ## Play Like Hell
 
-When you make a Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) check using the fiddle, you can expend 1 or more of its charges to add `dice:1d6|noform|avg` (`1d6`) to the check for each expended charge. If you're a bard, this bonus uses your Bardic Inspiration die instead, but doesn't expend any uses of your Bardic Inspiration feature.
+When you make a Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) check using the fiddle, you can expend 1 or more of its charges to add `dice:1d6|noform|noparens|avg` (`d6`) to the check for each expended charge. If you're a bard, this bonus uses your Bardic Inspiration die instead, but doesn't expend any uses of your Bardic Inspiration feature.
 
 ## Dance of the Devil
 

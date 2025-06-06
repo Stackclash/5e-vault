@@ -9,7 +9,7 @@ aliases:
   - Mask of Clouds
 ---
 # Mask of Clouds
-*Wondrous item, very rare (requires attunement by a bard or [[5. Mechanics/Classes/Cleric Trickery Domain.md\|Trickster Domain]] cleric)*  
+*Wondrous item, very rare (requires attunement by a bard or [[5. Mechanics/Classes/Cleric.md\|Trickster Domain]] cleric)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 

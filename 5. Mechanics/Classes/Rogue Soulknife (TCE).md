@@ -8,7 +8,7 @@ aliases:
   - Soulknife
 ---
 # Soulknife
-*[[Rogue.md\|Rogue]]: Roguish Archetype*  
+*[[.nullRogue.md\|Rogue]]: Roguish Archetype*  
 *Source: Tasha's Cauldron of Everything p. 63*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Soulknife%20(Level%203)'>Soulknife</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Soulknife (Level 3)' class='internal-link'>Soulknife</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Soul%20Blades%20(Level%209)'>Soul Blades</a></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Soul Blades (Level 9)' class='internal-link'>Soul Blades</a></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Psychic%20Veil%20(Level%2013)'>Psychic Veil</a></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Psychic Veil (Level 13)' class='internal-link'>Psychic Veil</a></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Rend%20Mind%20(Level%2017)'>Rend Mind</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Rend Mind (Level 17)' class='internal-link'>Rend Mind</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -56,11 +57,11 @@ As a Soulknife, your psionic abilities might have haunted you since you were a c
 
 *3rd-level Soulknife feature*
 
-You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a `dice:d6|noform|avg` (`d6`). You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
+You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a `dice:d6|noform|noparens|avg` (`d6`). You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
 
 Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.
 
-When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (`dice:d8|noform|avg` (`d8`)), 11th level (`dice:d10|noform|avg` (`d10`)), and 17th level (`dice:d12|noform|avg` (`d12`)).
+When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (`dice:d8|noform|noparens|avg` (`d8`)), 11th level (`dice:d10|noform|noparens|avg` (`d10`)), and 17th level (`dice:d12|noform|noparens|avg` (`d12`)).
 
 The powers below use your Psionic Energy dice.
 
@@ -78,9 +79,9 @@ The powers below use your Psionic Energy dice.
 
 *3rd-level Soulknife feature*
 
-You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to `dice:1d6|noform|avg` (`1d6`) plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.
+You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to `dice:1d6|noform|noparens|avg` (`d6`) plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.
 
-After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is `dice:1d4|noform|avg` (`1d4`), instead of `dice:1d6|noform|avg` (`1d6`).
+After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is `dice:1d4|noform|noparens|avg` (`d4`), instead of `dice:1d6|noform|noparens|avg` (`d6`).
 
 ### Soul Blades (Level 9)
 

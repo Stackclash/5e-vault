@@ -9,25 +9,31 @@ tags:
   - spell/level/1st-level
   - spell/school/evocation
   - spell/subclass/arcane-trickster
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Evocation
-time: 1 reaction
+level: 1
+ritual: false
+time: 1 Reaction
 duration: Instantaneous
-components: S
+components:
+  - S
 aliases:
   - Telekinetic Parry
 ---
 # Telekinetic Parry
 *1st-level, Evocation*  
 
-- **Casting time:** 1 reaction
+- **Casting time:** 1 Reaction
 - **Range:** Self
 - **Components:** S
 - **Duration:** Instantaneous
 
 As a reaction, you use a brief burst of kinetic energy to block an attack against you. The attacker has disadvantage on the attack roll. An attack that hits deals damage as normal. This spell works against melee and ranged attacks, as well as spell attacks that have a physical manifestation, including force effects, but not against spells that do not require an attack roll.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 112*

@@ -4,6 +4,7 @@ cssclasses: json5e-hazard
 tags:
   - compendium/src/5e/xge
   - hazard/cmpx
+hazardType: Generic Hazard
 aliases:
   - Poisoned Tempest
 ---

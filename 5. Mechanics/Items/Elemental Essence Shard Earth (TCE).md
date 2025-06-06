@@ -7,6 +7,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Elemental Essence Shard (Earth)
+weight: 1
 ---
 # Elemental Essence Shard (Earth)
 *Wondrous item, rare (requires attunement by a sorcerer)*  

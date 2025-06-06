@@ -8,6 +8,7 @@ tags:
 aliases:
   - Climber's Kit
 cost: 2500
+weight: 12
 ---
 # Climber's Kit
 *Adventuring gear*  

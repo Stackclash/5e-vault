@@ -18,6 +18,6 @@ This tarnished iron ring bears a dark pearl at its center. One side of the ring 
 
 ## Wrathful Ward
 
-As a bonus action, you can use your Channel Divinity to present the ring of retribution and cast the [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] spell from it, targeting yourself only. For the duration, when a creature affected by the spell hits you with an attack, it automatically takes `dice:1d8|noform|avg` (`1d8`) radiant damage.
+As a bonus action, you can use your Channel Divinity to present the ring of retribution and cast the [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] spell from it, targeting yourself only. For the duration, when a creature affected by the spell hits you with an attack, it automatically takes `dice:1d8|noform|noparens|avg` (`d8`) radiant damage.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*

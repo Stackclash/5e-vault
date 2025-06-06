@@ -15,7 +15,7 @@ tags:
 aliases:
   - Sea Spawn
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Sea Spawn (MPMM).md|Sea Spawn]]
+# [[5. Mechanics\Bestiary\Monstrosity\Sea Spawn (MPMM).md|Sea Spawn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 211, Volo's Guide to Monsters p. 189*
 
 Many of the stories sung as sea chanteys and recounted in dockside taverns tell of people lost to the sea—but not merely drowned and gone. Some unfortunates taken by the ocean live on as sea spawn, haunting the waves like tortured reflections of their former selves. Coral encrusts them. Barnacles cling to their cold skin. Lungs that once filled with air can now breathe in water as well.
@@ -41,43 +41,45 @@ Kraken priests (in this book) tend to the kraken's flock. Most of the priests ar
 "ac_class": "natural armor"
 "hp": !!int "32"
 "hit_dice": "5d8 + 10"
+"modifier": !!int "-1"
 "stats":
-- !!int "15"
-- !!int "8"
-- !!int "15"
-- !!int "6"
-- !!int "10"
-- !!int "8"
+  - !!int "15"
+  - !!int "8"
+  - !!int "15"
+  - !!int "6"
+  - !!int "10"
+  - !!int "8"
 "speed": "20 ft., swim 30 ft."
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands Aquan and Common but can't speak"
 "cr": "1"
 "traits":
-- "desc": "The sea spawn can breathe air and water, but it needs to be submerged in\
-    \ the sea at least once a day for 1 minute to avoid suffocating."
-  "name": "Limited Amphibiousness"
+  - "desc": "The sea spawn can breathe air and water, but it needs to be submerged\
+      \ in the sea at least once a day for 1 minute to avoid suffocating."
+    "name": "Limited Amphibiousness"
 "actions":
-- "desc": "The sea spawn makes two Unarmed Strike attacks and one Piscine Anatomy\
-    \ attack."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
-    \ + 2) bludgeoning damage."
-  "name": "Unarmed Strike"
-- "desc": "The sea spawn uses one of the following options (choose one or roll a d6):\n\
-    \n- 1–2 Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit:\
-    \ 4 (1d4 + 2) piercing damage.  \n- 3–4 Poison Quills. Melee Weapon Attack:\
-    \ +4 to hit, reach 5 ft., one creature. Hit: 3 (1d6) poison damage, and the\
-    \ target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success.  \n- 5–6 Tentacle. Melee\
-    \ Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 5 (1d6 + 2) bludgeoning\
-    \ damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ (escape DC 12) if it is a Medium or smaller creature. Until this grapple ends,\
-    \ the sea spawn can't use this tentacle on another target.  "
-  "name": "Piscine Anatomy"
+  - "desc": "The sea spawn makes two Unarmed Strike attacks and one Piscine Anatomy\
+      \ attack."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+      \ + 2) bludgeoning damage."
+    "name": "Unarmed Strike"
+  - "desc": "The sea spawn uses one of the following options (choose one or roll a\
+      \ d6):\n\n- 1–2 Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one\
+      \ target. Hit: 4 (1d4 + 2) piercing damage.  \n- 3–4 Poison Quills. Melee\
+      \ Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 3 (d6) poison\
+      \ damage, and the target must succeed on a DC 12 Constitution saving throw or\
+      \ be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for 1 minute. The\
+      \ target can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success.  \n- 5–6 Tentacle. Melee Weapon Attack:\
+      \ +4 to hit, reach 10 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage,\
+      \ and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape\
+      \ DC 12) if it is a Medium or smaller creature. Until this grapple ends, the\
+      \ sea spawn can't use this tentacle on another target.  "
+    "name": "Piscine Anatomy"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/sea-spawn-mpmm.webp"
 ```
 ^statblock

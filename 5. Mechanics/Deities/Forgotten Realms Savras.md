@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/knowledge
+alignment: Lawful Neutral
+domains: Knowledge
+pantheon: Forgotten Realms
+symbol: Crystal ball containing many kinds of eyes
 aliases:
   - Savras
 ---

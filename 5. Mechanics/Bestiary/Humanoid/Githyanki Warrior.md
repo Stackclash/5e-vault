@@ -13,7 +13,7 @@ tags:
 aliases:
   - Githyanki Warrior
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Githyanki Warrior.md|Githyanki Warrior]]
+# [[5. Mechanics\Bestiary\Humanoid\Githyanki Warrior.md|Githyanki Warrior]]
 *Source: Monster Manual p. 160*
 
 The githyanki plunder countless worlds from the decks of their astral vessels and the backs of red dragons. Feathers, beads, gems, and precious metals decorate their armor and weapons-the legendary silver swords with which they cut through their foes. Since winning their freedom from the mind flayers, the githyanki have become ruthless conquerors under the rulership of their dread lich-queen, Vlaakith.
@@ -38,7 +38,7 @@ In the eyes of the githyanki, each silver sword is a priceless relic and a work 
 
 ## Red Dragon Riders
 
-In the uprising against the illithids, Gith sought allies. Her adviser Vlaakith appealed to Tiamat, the goddess of evil dragonkind, and Gith ventured into the Nine Hells to meet with her. Only Tiamat now knows what passed between them, but Vlaakith returned to the Astral Plane with the Dragon Queen's red dragon consort Ephelomon, who proclaimed that his kind would forever act as allies to the githyanki. Not all red dragons honor the alliance kindled so long ago, but most at least don't consider the githyanki their enemies.
+In the uprising against the illithids, Gith sought allies. Her adviser Vlaakith appealed to [[5. Mechanics/Deities/Dawn War Tiamat (DMG).md|Tiamat]], the goddess of evil dragonkind, and Gith ventured into the Nine Hells to meet with her. Only Tiamat now knows what passed between them, but Vlaakith returned to the Astral Plane with the Dragon Queen's red dragon consort Ephelomon, who proclaimed that his kind would forever act as allies to the githyanki. Not all red dragons honor the alliance kindled so long ago, but most at least don't consider the githyanki their enemies.
 
 ### Outposts in the Mortal Realm
 
@@ -69,36 +69,37 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "ac_class": "[[5. Mechanics/Items/Half Plate Armor.md|half plate armor]]"
 "hp": !!int "49"
 "hit_dice": "9d8 + 9"
+"modifier": !!int "2"
 "stats":
-- !!int "15"
-- !!int "14"
-- !!int "12"
-- !!int "13"
-- !!int "13"
-- !!int "10"
+  - !!int "15"
+  - !!int "14"
+  - !!int "12"
+  - !!int "13"
+  - !!int "13"
+  - !!int "10"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "3"
-  "Intelligence": !!int "3"
-  "Constitution": !!int "3"
+  - "constitution": "+3"
+  - "intelligence": "+3"
+  - "wisdom": "+3"
 "senses": "passive Perception 11"
 "languages": "Gith"
 "cr": "3"
 "traits":
-- "desc": "The githyanki's innate spellcasting ability is Intelligence. It can innately\
-    \ cast the following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
-    \ (the hand is invisible)\n\n3/day each: [[5. Mechanics/Spells/Jump.md|jump]],\
-    \ [[5. Mechanics/Spells/Misty Step.md|misty step]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\
-    \ (self only)"
-  "name": "Innate Spellcasting (Psionics)"
+  - "desc": "The githyanki's innate spellcasting ability is Intelligence. It can innately\
+      \ cast the following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage\
+      \ hand]] (the hand is invisible)\n\n3/day each:\
+      \ [[5. Mechanics/Spells/Jump.md|jump]], [[5. Mechanics/Spells/Misty Step.md|misty step]],\
+      \ [[5. Mechanics/Spells/Nondetection.md|nondetection]] (self only)"
+    "name": "Innate Spellcasting (Psionics)"
 "actions":
-- "desc": "The githyanki makes two greatsword attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6\
-    \ + 2) slashing damage plus 7 (2d6) psychic damage."
-  "name": "Greatsword"
+  - "desc": "The githyanki makes two greatsword attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6\
+      \ + 2) slashing damage plus 7 (2d6) psychic damage."
+    "name": "Greatsword"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/githyanki-warrior.webp"
 ```
 ^statblock

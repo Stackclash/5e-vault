@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/knowledge
+alignment: Neutral Good
+domains: Knowledge
+pantheon: Forgotten Realms
+symbol: Lit candle above an open eye
 aliases:
   - Deneir
 ---

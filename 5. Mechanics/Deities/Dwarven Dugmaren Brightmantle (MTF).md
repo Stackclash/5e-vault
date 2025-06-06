@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/dwarven
   - domain/knowledge
+alignment: Chaotic Good
+category: The Mordinsamman
+domains: Knowledge
+pantheon: Dwarven
+province: Discovery
+symbol: Open book
 aliases:
   - Dugmaren Brightmantle
 ---

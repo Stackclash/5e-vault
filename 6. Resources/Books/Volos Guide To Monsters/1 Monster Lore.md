@@ -231,8 +231,8 @@ Unless otherwise indicated, an alternative ability has the same range as the eye
 
 - **Antimagic Cone.** [[5. Mechanics/Spells/Mirage Arcane.md\|mirage arcane]], [[5. Mechanics/Spells/Power Word Stun.md\|power word stun]] (affecting the weakest non-stunned target in the cone each round)  
 - **Charm Ray.** [[5. Mechanics/Spells/Banishment.md\|banishment]] (1 minute), [[5. Mechanics/Spells/Confusion.md\|confusion]] (1 minute)  
-- **Death Ray.** [[5. Mechanics/Spells/Circle Of Death.md\|circle of death]] (10-foot-radius sphere; `dice:4d6|noform|avg` (`4d6`) necrotic damage to all creatures in the area), [[5. Mechanics/Spells/Feeblemind.md\|feeblemind]]  
-- **Disintegration Ray.** [[5. Mechanics/Spells/Chain Lightning.md\|chain lightning]] (primary target takes `dice:6d8|noform|avg` (`6d8`) lightning damage; two secondary targets within 30 feet of the primary target take `dice:3d8|noform|avg` (`3d8`) lightning damage each), [[5. Mechanics/Spells/Eyebite.md\|eyebite]] (sickened effect; 1 minute)  
+- **Death Ray.** [[5. Mechanics/Spells/Circle Of Death.md\|circle of death]] (10-foot-radius sphere; `dice:4d6|noform|noparens|avg` (`4d6`) necrotic damage to all creatures in the area), [[5. Mechanics/Spells/Feeblemind.md\|feeblemind]]  
+- **Disintegration Ray.** [[5. Mechanics/Spells/Chain Lightning.md\|chain lightning]] (primary target takes `dice:6d8|noform|noparens|avg` (`6d8`) lightning damage; two secondary targets within 30 feet of the primary target take `dice:3d8|noform|noparens|avg` (`3d8`) lightning damage each), [[5. Mechanics/Spells/Eyebite.md\|eyebite]] (sickened effect; 1 minute)  
 - **Enervation Ray.** [[5. Mechanics/Spells/Create Undead.md\|create undead]] (usable regardless of the time of day), [[5. Mechanics/Spells/Polymorph.md\|polymorph]] (1 minute)  
 - **Fear Ray.** [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] (self or willing creature only), [[5. Mechanics/Spells/Moonbeam.md\|moonbeam]]  
 - **Paralyzing Ray.** [[5. Mechanics/Spells/Modify Memory.md\|modify memory]], [[5. Mechanics/Spells/Silence.md\|silence]] (1 minute)  
@@ -1295,7 +1295,7 @@ This goblin found a magic item (a [[5. Mechanics/Items/Necklace Of Fireballs.md\
 
 ##### Booyahg Whip
 
-Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has `dice:1d3|noform|avg` (`1d3`) other goblins that slavishly obey its orders.
+Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has `dice:1d3|noform|noparens|avg` (`d3`) other goblins that slavishly obey its orders.
 
 ##### Booyahg Slave
 
@@ -1303,7 +1303,7 @@ This goblin warlock serves a patron who can extract payment in flesh if the gobl
 
 ##### Booyahg Booyahg Booyahg
 
-This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Use the [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] stat block in the "Monster Manual" to represent this goblin, adding darkvision and the Nimble Escape traits common to all goblins. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [[5. Mechanics/Tables/Wild Magic Surge.md\|Wild Magic Surge]] table in the "Player's Handbook" to determine the wild magic effect.
+This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Use the [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] stat block in the "Monster Manual" to represent this goblin, adding darkvision and the Nimble Escape traits common to all goblins. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [[5. Mechanics/Tables/Wild Magic Surge (PHB).md\|Wild Magic Surge]] table in the "Player's Handbook" to determine the wild magic effect.
 
 > [!note] Who's the Boss?
 > 
@@ -1901,7 +1901,7 @@ On initiative count 20 (losing initiative ties), the hag can take a lair action 
 
 A powerful **annis hag** might have the following additional lair action:
 
-- The hag creates a thick cloud of caustic black smoke that fills a 20-foot-radius sphere centered on a point she can see within 120 feet her. The cloud lasts until initiative count 20 on the next round. Creatures and objects in or behind the smoke are heavily obscured. A creature that enters the cloud for the first time on a turn or starts its turn there takes `dice:3d6|noform|avg|text(10)` (`3d6`) acid damage.  
+- The hag creates a thick cloud of caustic black smoke that fills a 20-foot-radius sphere centered on a point she can see within 120 feet her. The cloud lasts until initiative count 20 on the next round. Creatures and objects in or behind the smoke are heavily obscured. A creature that enters the cloud for the first time on a turn or starts its turn there takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) acid damage.  
 
 A powerful **bheur hag** might have the following additional lair action:
 
@@ -1914,7 +1914,7 @@ A powerful **green hag** might have the following additional lair action:
 A powerful **night hag** might have the following additional lair actions:
 
 - One creature the hag can see within 120 feet of her must succeed on a DC 15 Charisma saving throw or be banished to a prison demiplane. To escape, the creature must use its action to make a Charisma check contested by the hag's. If the creature wins, it escapes the demiplane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied.  
-- The hag targets up to three creatures that she can see within 60 feet of her. Each target must succeed on a DC 15 Constitution saving throw or be flung up to 30 feet through the air. A creature that strikes a solid object or is released in midair takes `dice:1d6|noform|avg` (`1d6`) bludgeoning damage for every 10 feet moved or fallen.  
+- The hag targets up to three creatures that she can see within 60 feet of her. Each target must succeed on a DC 15 Constitution saving throw or be flung up to 30 feet through the air. A creature that strikes a solid object or is released in midair takes `dice:1d6|noform|noparens|avg` (`d6`) bludgeoning damage for every 10 feet moved or fallen.  
 
 A powerful **sea hag** might have the following additional lair actions:
 
@@ -1925,7 +1925,7 @@ A powerful **sea hag** might have the following additional lair actions:
 
 A hag's foul nature slowly suffuses the environment around her lair, twisting it to evil.
 
-Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `dice:2d10|noform|avg` (`2d10`) days to fade away.
+Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `dice:2d10|noform|noparens|avg` (`2d10`) days to fade away.
 
 #### Regional Effects
 
@@ -1946,7 +1946,7 @@ A powerful **bheur hag** creates one or more of the following additional regiona
 
 - Small avalanches of snow intermittently fall, blocking a path or burying intruders. A buried creature is restrained and has to hold its breath until it is dug out.  
 - Human-sized blocks of ice appear, containing frozen corpses. These corpses might break free and attack as zombies, or their spirits might attack as specters.  
-- Blizzards come without warning. A blizzard occurs once every `dice:2d12|noform|avg` (`2d12`) hours and lasts `dice:1d3|noform|avg` (`1d3`) hours. During a storm, creatures moving overland travel at half normal speed, and normal visibility is reduced to 30 feet.  
+- Blizzards come without warning. A blizzard occurs once every `dice:2d12|noform|noparens|avg` (`2d12`) hours and lasts `dice:1d3|noform|noparens|avg` (`d3`) hours. During a storm, creatures moving overland travel at half normal speed, and normal visibility is reduced to 30 feet.  
 - Roads, paths, and trails twist and turn back on themselves, making navigation in the area exceedingly difficult.  
 
 A powerful **green hag** creates one or more of the following additional regional effects within 1 mile of her lair:
@@ -2413,7 +2413,7 @@ The process of transforming a creature into a thrall requires the entire colony'
 
 A thrall-to-be is first rendered docile through psionic means. Using a low-power version of its Mind Blast ability, the mind flayer bombards the victim with energy that washes through its synapses like acid, clearing away its former personality and leaving it a partially empty shell. This step takes 24 hours. Over the next 48 hours, the illithids rebuild the victim's memories and personality, and the victim gains the skills and talents it needs to perform its intended function.
 
-The process that creates a thrall changes almost everything about the victim. The creature retains its Hit Dice, hit points, racial traits (but not proficiencies granted by race), and all of its ability scores except for Intelligence. After the first stage of the process, the creature's Intelligence is halved; when the second stage is over, its Intelligence score increases by `dice:1d6|noform|avg` (`1d6`).
+The process that creates a thrall changes almost everything about the victim. The creature retains its Hit Dice, hit points, racial traits (but not proficiencies granted by race), and all of its ability scores except for Intelligence. After the first stage of the process, the creature's Intelligence is halved; when the second stage is over, its Intelligence score increases by `dice:1d6|noform|noparens|avg` (`d6`).
 
 To complete the process, the thrall receives a new set of proficiencies, a new alignment, and a new personality. Some colonies have learned how to salvage a victim's psionic abilities during the process or how to implant psionic powers into their thralls. Also, some colonies know how to leave a victim's persona intact while infusing it with a fanatical loyalty to the colony's elder brain as well as telepathic power that allows the victim to communicate with its new masters as if it were a mind flayer. This sort of thrall makes a perfect spy, since most would never suspect its true nature.
 
@@ -2491,7 +2491,7 @@ Freshly captured victims are processed in the cleansing chambers. Their gear is 
 
 > [!note] Funerary Brain Jars
 > 
-> When a mind flayer dies, other mind flayers try to salvage the dead illithid's brain and bring it to the colony's brine pool for the elder brain to consume. For this purpose, mind flayers craft funerary brain jars made of stone. Every jar is made for an individual, inscribed with Qualith and artwork that relate the mind flayer's accomplishments. Often a mind flayer's funerary brain jar is created long before the illithid's death and updated as the years pass, with the jar serving as a diary of sorts for the one whose brain will eventually fill it. After it is filled with brine, a funerary brain jar can preserve a brain without spoiling for `dice:1d4+10|noform|avg` (`1d4 + 10`) days.
+> When a mind flayer dies, other mind flayers try to salvage the dead illithid's brain and bring it to the colony's brine pool for the elder brain to consume. For this purpose, mind flayers craft funerary brain jars made of stone. Every jar is made for an individual, inscribed with Qualith and artwork that relate the mind flayer's accomplishments. Often a mind flayer's funerary brain jar is created long before the illithid's death and updated as the years pass, with the jar serving as a diary of sorts for the one whose brain will eventually fill it. After it is filled with brine, a funerary brain jar can preserve a brain without spoiling for `dice:1d4+10|noform|noparens|avg` (`1d4 + 10`) days.
 ^funerary-brain-jars
 
 #### Common Room
@@ -2586,7 +2586,7 @@ Some mind flayer colonies have developed the ability to create or modify certain
 
 *Weapon (any sword), rare (requires attunement by a specific individual)*
 
-Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra `dice:2d6|noform|avg` (`2d6`) psychic damage to any target it hits.
+Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra `dice:2d6|noform|noparens|avg` (`2d6`) psychic damage to any target it hits.
 
 #### Mind Carapace Armor
 
@@ -2598,7 +2598,7 @@ Any nonmagical suit of heavy armor can be turned by mind flayers into mind carap
 
 *Weapon (whip), rare (requires attunement by a mind flayer)*
 
-In the hands of a creature other than a mind flayer, a mind lash functions as a normal whip. In the hands of an illithid, this magic weapon strips away a creature's will to survive as it also strips away flesh, dealing an extra `dice:2d4|noform|avg` (`2d4`) psychic damage to any target it hits. Any creature that takes psychic damage from the mind lash must also succeed on a DC 15 Wisdom saving throw or have disadvantage on Intelligence, Wisdom, and Charisma saving throws for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+In the hands of a creature other than a mind flayer, a mind lash functions as a normal whip. In the hands of an illithid, this magic weapon strips away a creature's will to survive as it also strips away flesh, dealing an extra `dice:2d4|noform|noparens|avg` (`2d4`) psychic damage to any target it hits. Any creature that takes psychic damage from the mind lash must also succeed on a DC 15 Wisdom saving throw or have disadvantage on Intelligence, Wisdom, and Charisma saving throws for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Shield of Far Sight
 
@@ -2606,7 +2606,7 @@ In the hands of a creature other than a mind flayer, a mind lash functions as a 
 
 A mind flayer skilled at crafting magic items creates a shield of far sight by harvesting an eye from an intelligent humanoid and magically implanting it on the outer surface of a nonmagical shield. The shield becomes a magic item once the eye is implanted, whereupon the mind flayer can give the shield to a thrall or hang it on a wall in its lair. As long as the shield is on the same plane of existence as its creator, the mind flayer can see through the shield's eye, which has darkvision out to a range of 60 feet. While peering through this magical eye, the mind flayer can use its Mind Blast action as though it were standing behind the shield.
 
-If a shield of far sight is destroyed, the mind flayer that created it is blinded for `dice:2d12|noform|avg` (`2d12`) hours.
+If a shield of far sight is destroyed, the mind flayer that created it is blinded for `dice:2d12|noform|noparens|avg` (`2d12`) hours.
 
 ### Mind Flayer Augmentations
 
@@ -2616,7 +2616,7 @@ Some mind flayer colonies augment their thralls with nonmagical gear to make the
 
 Illithids don't always provide their thralls with normal weapons, such as swords and axes. Sometimes they improve the natural capabilities of thralls by giving them new anatomy. Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.
 
-Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The claws deal slashing damage based on the creature's size: Small, `dice:1d8|noform|avg` (`1d8`); Medium, `dice:1d10|noform|avg` (`1d10`); Large, `dice:1d12|noform|avg` (`1d12`); or Huge, `dice:2d8|noform|avg` (`2d8`). The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws. Tiny and Gargantuan creatures can't be fitted with flensing claws.
+Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The claws deal slashing damage based on the creature's size: Small, `dice:1d8|noform|noparens|avg` (`d8`); Medium, `dice:1d10|noform|noparens|avg` (`d10`); Large, `dice:1d12|noform|noparens|avg` (`d12`); or Huge, `dice:2d8|noform|noparens|avg` (`2d8`). The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws. Tiny and Gargantuan creatures can't be fitted with flensing claws.
 
 #### Survival Mantle
 
@@ -2654,12 +2654,12 @@ Deep within the den of a tribe, far away from the war-hearth where warriors gath
 
 Serving as the bridge between the two parts of the tribe are the priestesses of Luthic, the orc goddess who represents both life and the grave. It is her worshipers that raise young orcs to be warriors, and then, at the end of their lives, take them to Yurtrus and Shargaas to be carried into death and the great unknown.
 
-- Gruumsh, "He Who Watches"  
-- Ilneval, "the War Maker"  
-- Bahgtru, "the Leg Breaker"  
-- Luthic, "the Cave Mother"  
-- Yurtrus, "the White Hand"  
-- Shargaas, "the Night Lord"  
+- [Gruumsh, "He Who Watches"](compendium/deities/orc-gruumsh-vgm.md)  
+- [Ilneval, "the War Maker"](compendium/deities/orc-ilneval-vgm.md)  
+- [Bahgtru, "the Leg Breaker"](compendium/deities/orc-bahgtru-vgm.md)  
+- [Luthic, "the Cave Mother"](compendium/deities/orc-luthic-vgm.md)  
+- [Yurtrus, "the White Hand"](compendium/deities/orc-yurtrus-vgm.md)  
+- [Shargaas, "the Night Lord"](compendium/deities/orc-shargaas-vgm.md)  
 
 ### Life in the Tribe
 
@@ -3076,7 +3076,7 @@ You can customize a yuan-ti by giving it one or more of the following traits.
 
 ##### Acid Slime (Abomination, Anathema, or Malison Only)
 
-As a bonus action, the yuan-ti can coat its body in a slimy acid that lasts for 1 minute. A creature that touches the yuan-ti, hits it with a melee attack while within 5 feet of it, or is hit by its constrict attack takes `dice:1d10|noform|avg|text(5)` (`1d10`) acid damage.
+As a bonus action, the yuan-ti can coat its body in a slimy acid that lasts for 1 minute. A creature that touches the yuan-ti, hits it with a melee attack while within 5 feet of it, or is hit by its constrict attack takes `dice:1d10|noform|noparens|avg|text(5)` (`d10`) acid damage.
 
 ##### Chameleon Skin
 
@@ -3096,7 +3096,7 @@ The following action options are restricted to certain kinds of yuan-ti.
 
 ##### Bite (Pureblood Only)
 
-Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: `dice:1d4|noform|avg|text(3)` (`1d4`) piercing damage plus `dice:1d6|noform|avg|text(3)` (`1d6`) poison damage. If the pureblood uses Multiattack, it can make two melee attacks, but can use its bite only once.
+Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: `dice:1d4|noform|noparens|avg|text(3)` (`d4`) piercing damage plus `dice:1d6|noform|noparens|avg|text(3)` (`d6`) poison damage. If the pureblood uses Multiattack, it can make two melee attacks, but can use its bite only once.
 
 ##### Polymorph into Snake (Abomination or Malison Only;
 

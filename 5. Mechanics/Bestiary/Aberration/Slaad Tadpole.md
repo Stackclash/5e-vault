@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Slaad Tadpole
 ---
-# [[5. Mechanics/Bestiary/Aberration/Slaad Tadpole.md|Slaad Tadpole]]
+# [[5. Mechanics\Bestiary\Aberration\Slaad Tadpole.md|Slaad Tadpole]]
 *Source: Monster Manual p. 276*
 
 ## Slaadi
@@ -46,7 +46,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|noform|avg|text(22)` (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]  
@@ -62,30 +62,32 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "ac": !!int "12"
 "hp": !!int "10"
 "hit_dice": "4d4"
+"modifier": !!int "2"
 "stats":
-- !!int "7"
-- !!int "15"
-- !!int "10"
-- !!int "3"
-- !!int "5"
-- !!int "3"
+  - !!int "7"
+  - !!int "15"
+  - !!int "10"
+  - !!int "3"
+  - !!int "5"
+  - !!int "3"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "senses": "darkvision 60 ft., passive Perception 7"
 "languages": "understands Slaad but can't speak"
 "cr": "1/8"
 "traits":
-- "desc": "The slaad has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
+  - "desc": "The slaad has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
-    \ + 2) piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+      \ + 2) piercing damage."
+    "name": "Bite"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Aberration/token/slaad-tadpole.webp"
 ```
 ^statblock

@@ -17,19 +17,25 @@ tags:
   - spell/subrace/tiefling-baalzebul
   - spell/subrace/tiefling-dispater
   - spell/subrace/tiefling-zariel
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul)
 school: Transmutation
-time: 1 action
+level: cantrip
+ritual: false
+time: 1 Action
 duration: 1 minute
-components: V
+components:
+  - V
 aliases:
   - Thaumaturgy
+range: 30 feet
 ---
 # Thaumaturgy
 *cantrip, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** 1 minute
@@ -45,6 +51,6 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 
 If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

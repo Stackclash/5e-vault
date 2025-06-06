@@ -18,7 +18,7 @@ These dark ceramic and gold masks are fashioned after animals that are sacred in
 
 While wearing a jackal mask, you have advantage on Wisdom (Perception) checks and immunity to necrotic damage.
 
-In addition, you can use an action to fire a beam of deathly green magic from your forehead at a creature you can see within 60 feet of you. The creature must make a DC 17 Constitution saving throw, taking `dice:7d8+30|noform|avg` (`7d8 + 30`) necrotic damage on a failed save, or half as much damage on a successful one. Once this property of the mask has been used, it can't be used again until the next dusk.
+In addition, you can use an action to fire a beam of deathly green magic from your forehead at a creature you can see within 60 feet of you. The creature must make a DC 17 Constitution saving throw, taking `dice:7d8+30|noform|noparens|avg` (`7d8 + 30`) necrotic damage on a failed save, or half as much damage on a successful one. Once this property of the mask has been used, it can't be used again until the next dusk.
 
 A humanoid killed by this necrotic damage rises at the start of your next turn as a [[5. Mechanics/Bestiary/Undead/Mummy.md\|mummy]] under your control. The mummy acts on its own initiative count. On your turn, you can mentally command the mummy if it is within 120 feet of you and you aren't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] (no action required). You decide what action the mummy takes and where it moves during its next turn, or you can issue it a general command, such as to attack your enemies or guard a location.
 

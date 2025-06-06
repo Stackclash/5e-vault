@@ -10,12 +10,20 @@ tags:
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 3rd-level
-range: false
+classes:
+  - Artificer
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Transmutation
+level: 3
+ritual: false
 time: 1 minute
-duration: 8 hour
-components: 'V, S'
+duration: 8 hours
+components:
+  - V
+  - S
 aliases:
   - Tiny Servant
 ---
@@ -26,7 +34,7 @@ aliases:
 - **Casting time:** 1 minute
 - **Range:** Touch
 - **Components:** V, S
-- **Duration:** 8 hour
+- **Duration:** 8 hours
 
 You touch one Tiny, nonmagical object that isn't attached to another object or a surface and isn't being carried by another creature. The target animates and sprouts little arms and legs, becoming a creature under your control until the spell ends or the creature drops to 0 hit points. See the [[5. Mechanics/Bestiary/Construct/Tiny Servant (XGE).md\|stat block]] for its statistics.
 
@@ -36,6 +44,6 @@ When the creature drops to 0 hit points, it reverts to its original form, and an
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Xanathar's Guide to Everything p. 168*

@@ -8,6 +8,7 @@ tags:
 aliases:
   - Monster Hunter's Pack
 cost: 3300
+weight: 48.5
 ---
 # Monster Hunter's Pack
 *Adventuring gear*  

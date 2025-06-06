@@ -13,7 +13,7 @@ tags:
 aliases:
   - Githyanki Knight
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Githyanki Knight.md|Githyanki Knight]]
+# [[5. Mechanics\Bestiary\Humanoid\Githyanki Knight.md|Githyanki Knight]]
 *Source: Monster Manual p. 160, Vecna: Eve of Ruin*
 
 The githyanki plunder countless worlds from the decks of their astral vessels and the backs of red dragons. Feathers, beads, gems, and precious metals decorate their armor and weapons-the legendary silver swords with which they cut through their foes. Since winning their freedom from the mind flayers, the githyanki have become ruthless conquerors under the rulership of their dread lich-queen, Vlaakith.
@@ -38,7 +38,7 @@ In the eyes of the githyanki, each silver sword is a priceless relic and a work 
 
 ## Red Dragon Riders
 
-In the uprising against the illithids, Gith sought allies. Her adviser Vlaakith appealed to Tiamat, the goddess of evil dragonkind, and Gith ventured into the Nine Hells to meet with her. Only Tiamat now knows what passed between them, but Vlaakith returned to the Astral Plane with the Dragon Queen's red dragon consort Ephelomon, who proclaimed that his kind would forever act as allies to the githyanki. Not all red dragons honor the alliance kindled so long ago, but most at least don't consider the githyanki their enemies.
+In the uprising against the illithids, Gith sought allies. Her adviser Vlaakith appealed to [[5. Mechanics/Deities/Dawn War Tiamat (DMG).md|Tiamat]], the goddess of evil dragonkind, and Gith ventured into the Nine Hells to meet with her. Only Tiamat now knows what passed between them, but Vlaakith returned to the Astral Plane with the Dragon Queen's red dragon consort Ephelomon, who proclaimed that his kind would forever act as allies to the githyanki. Not all red dragons honor the alliance kindled so long ago, but most at least don't consider the githyanki their enemies.
 
 ### Outposts in the Mortal Realm
 
@@ -69,42 +69,44 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]]"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
+"modifier": !!int "2"
 "stats":
-- !!int "16"
-- !!int "14"
-- !!int "15"
-- !!int "14"
-- !!int "14"
-- !!int "15"
+  - !!int "16"
+  - !!int "14"
+  - !!int "15"
+  - !!int "14"
+  - !!int "14"
+  - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "5"
-  "Intelligence": !!int "5"
-  "Constitution": !!int "5"
+  - "constitution": "+5"
+  - "intelligence": "+5"
+  - "wisdom": "+5"
 "senses": "passive Perception 12"
 "languages": "Gith"
 "cr": "8"
 "traits":
-- "desc": "The githyanki's innate spellcasting ability is Intelligence (spell save\
-    \ DC 13, +5 to hit with spell attacks). It can innately cast the following spells,\
-    \ requiring no components:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
-    \ (the hand is invisible)\n\n1/day each: [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
-    \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]\n\n3/day each: [[5. Mechanics/Spells/Jump.md|jump]],\
-    \ [[5. Mechanics/Spells/Misty Step.md|misty step]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\
-    \ (self only), [[5. Mechanics/Spells/Tongues.md|tongues]]"
-  "name": "Innate Spellcasting (Psionics)"
+  - "desc": "The githyanki's innate spellcasting ability is Intelligence (spell save\
+      \ DC 13, +5 to hit with spell attacks). It can innately cast the following spells,\
+      \ requiring no components:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
+      \ (the hand is invisible)\n\n3/day each: [[5. Mechanics/Spells/Jump.md|jump]],\
+      \ [[5. Mechanics/Spells/Misty Step.md|misty step]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\
+      \ (self only), [[5. Mechanics/Spells/Tongues.md|tongues]]\n\n1/day each: [[5. Mechanics/Spells/Plane Shift.md|plane\
+      \ shift]], [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
+    "name": "Innate Spellcasting (Psionics)"
 "actions":
-- "desc": "The githyanki makes two silver greatsword attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d6\
-    \ + 6) slashing damage plus 10 (3d6) psychic damage. This is a magic weapon attack.\
-    \ On a critical hit against a target in an astral body (as with the [[5. Mechanics/Spells/Astral Projection.md|astral projection]]\
-    \ spell), the githyanki can cut the silvery cord that tethers the target to its\
-    \ material body, instead of dealing damage."
-  "name": "Silver Greatsword"
+  - "desc": "The githyanki makes two silver greatsword attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13\
+      \ (2d6 + 6) slashing damage plus 10 (3d6) psychic damage. This is a magic weapon\
+      \ attack. On a critical hit against a target in an astral body (as with the\
+      \ [[5. Mechanics/Spells/Astral Projection.md|astral projection]] spell), the githyanki\
+      \ can cut the silvery cord that tethers the target to its material body, instead\
+      \ of dealing damage."
+    "name": "Silver Greatsword"
 "source":
-- "MM"
-- "VEoR"
+  - "MM"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/githyanki-knight.webp"
 ```
 ^statblock

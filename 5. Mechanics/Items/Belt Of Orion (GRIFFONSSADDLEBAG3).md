@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Belt-of-Orion.webp#right)  
 
 
-While wearing this belt, you have advantage on any ability check made to track a beast or monstrosity. In addition, when you hit a beast or monstrosity with a weapon attack, you deal an extra `dice:1d6|noform|avg` (`1d6`) damage of the weapon's type.
+While wearing this belt, you have advantage on any ability check made to track a beast or monstrosity. In addition, when you hit a beast or monstrosity with a weapon attack, you deal an extra `dice:1d6|noform|noparens|avg` (`d6`) damage of the weapon's type.
 
 ## Summon Hounds
 

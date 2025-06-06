@@ -10,4 +10,4 @@ aliases:
 
 ## 2nd Level
 
-- [[Shatter \|"PHB"]]
+- [[5. Mechanics/Spells/Shatter.md \|"PHB"]]

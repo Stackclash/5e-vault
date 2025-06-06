@@ -8,6 +8,7 @@ tags:
 aliases:
   - Fishing Tackle
 cost: 100
+weight: 4
 ---
 # Fishing Tackle
 *Adventuring gear*  

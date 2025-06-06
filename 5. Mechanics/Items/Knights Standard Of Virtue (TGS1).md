@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Knight's Standard of Virtue
-one-hand-damage: 1d10 S
+one-hand-damage: 1d10 slashing
+weight: 6
 ---
 # Knight's Standard of Virtue
 *Weapon ([[5. Mechanics/Items/Glaive.md\|glaive]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Knights-Standard-of-Virtue.webp#right)  
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
 

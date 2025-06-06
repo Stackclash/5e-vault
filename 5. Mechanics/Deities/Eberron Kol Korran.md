@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/eberron
   - domain/trickery
+alignment: Neutral
+category: The Sovereign Host
+domains: Trickery
+pantheon: Eberron
+symbol: Nine-sided gold coin
 aliases:
   - Kol Korran
 ---

@@ -6,6 +6,11 @@ tags:
   - deity/dragonlance
   - domain/knowledge
   - domain/order
+alignment: Lawful Good
+category: The Gods of Good
+domains: 'Knowledge, Order'
+pantheon: Dragonlance
+symbol: Copper spider
 aliases:
   - Majere
 ---

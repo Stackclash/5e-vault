@@ -9,6 +9,7 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Rulership
+weight: 2
 ---
 # Rod of Rulership
 *Rod, major, rare (requires attunement)*  

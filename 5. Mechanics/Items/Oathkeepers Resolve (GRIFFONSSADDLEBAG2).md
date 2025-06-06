@@ -10,6 +10,7 @@ tags:
 aliases:
   - Oathkeeper's Resolve
 armorClass: 2
+weight: 2
 ---
 # Oathkeeper's Resolve
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement by a paladin)*  

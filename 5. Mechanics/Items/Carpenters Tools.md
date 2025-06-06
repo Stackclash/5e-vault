@@ -8,6 +8,7 @@ tags:
 aliases:
   - Carpenter's Tools
 cost: 800
+weight: 6
 ---
 # Carpenter's Tools
 *Artisan's tools*  

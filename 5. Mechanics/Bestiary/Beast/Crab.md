@@ -14,7 +14,7 @@ tags:
 aliases:
   - Crab
 ---
-# [[5. Mechanics/Bestiary/Beast/Crab.md|Crab]]
+# [[5. Mechanics\Bestiary\Beast\Crab.md|Crab]]
 *Source: Monster Manual p. 320, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -26,29 +26,31 @@ aliases:
 "ac_class": "natural armor"
 "hp": !!int "2"
 "hit_dice": "1d4"
+"modifier": !!int "0"
 "stats":
-- !!int "2"
-- !!int "11"
-- !!int "10"
-- !!int "1"
-- !!int "8"
-- !!int "2"
+  - !!int "2"
+  - !!int "11"
+  - !!int "10"
+  - !!int "1"
+  - !!int "8"
+  - !!int "2"
 "speed": "20 ft., swim 20 ft."
 "skillsaves":
-  "Stealth": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+2"
 "senses": "blindsight 30 ft., passive Perception 9"
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The crab can breathe air and water."
-  "name": "Amphibious"
+  - "desc": "The crab can breathe air and water."
+    "name": "Amphibious"
 "actions":
-- "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 bludgeoning\
-    \ damage."
-  "name": "Claw"
+  - "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 bludgeoning\
+      \ damage."
+    "name": "Claw"
 "source":
-- "MM"
-- "VEoR"
+  - "MM"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Beast/token/crab.webp"
 ```
 ^statblock

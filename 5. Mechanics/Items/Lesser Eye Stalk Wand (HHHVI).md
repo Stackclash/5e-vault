@@ -18,7 +18,7 @@ This wand has 5 charges. While holding this wand, you may spend an action and 1 
 - **1. Confusion Ray.** The target must succeed on a DC 13 Wisdom saving throw or become unable to take reactions until the end of its next turn. On its turn, the target can't move, and it uses its action to make a melee or ranged [[/5. Mechanics/Rules/Actions.md#Attack\|attack]] against a randomly determined creature within range. If the target can't attack, it does nothing on its turn.  
 - **2. Paralyzing Ray.** The target must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - **3. Fear Ray.** The target must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the spectator is visible to the target, ending the effect on itself on a success.  
-- **4. Wounding Ray.** The target must make a DC 13 Constitution saving throw, taking `dice:3d10|noform|avg` (`3d10`) necrotic damage on a failed save, or half as much damage on a successful one.  
+- **4. Wounding Ray.** The target must make a DC 13 Constitution saving throw, taking `dice:3d10|noform|noparens|avg` (`3d10`) necrotic damage on a failed save, or half as much damage on a successful one.  
 
 When the last charge of this wand is used, it crumbles into dust and is destroyed.
 

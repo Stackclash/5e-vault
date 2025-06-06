@@ -14,26 +14,50 @@ tags:
   - spell/subclass/lust-domain
   - spell/subclass/oath-of-conquest
   - spell/subclass/oath-of-the-spelldrinker
-  - spell/subclass/oathbreaker-dmg
+  - spell/subclass/oathbreaker
   - spell/subclass/order-domain
   - spell/subclass/second-soul
   - spell/subclass/the-apex-predator
   - spell/subclass/the-archfey
   - spell/subclass/the-great-old-one
   - spell/subclass/trickery-domain
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Cleric (Chain Domain)
+  - Cleric (Justice Domain)
+  - Cleric (Lust Domain)
+  - Cleric (Order Domain)
+  - Cleric (Trickery Domain)
+  - Druid (Circle of Roses)
+  - Paladin (Oath of Conquest)
+  - Paladin (Oath of the Spelldrinker)
+  - Paladin (Oathbreaker)
+  - Sorcerer
+  - Sorcerer (Second Soul)
+  - Warlock (The Apex Predator)
+  - Warlock (The Archfey)
+  - Warlock (The Great Old One)
+  - Wizard
 school: Enchantment
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 5
+ritual: false
+time: 1 Action
+duration: Up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Dominate Person
+range: 60 feet
+save:
+  type: WIS
+  success: other
+concentration: true
 ---
 # Dominate Person
 *5th-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -48,6 +72,6 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 **At Higher Levels.** When you cast this spell using a 6th-level spell slot, the duration is [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], up to 10 minutes. When you use a 7th-level spell slot, the duration is [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], up to 1 hour. When you use a spell slot of 8th level or higher, the duration is [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], up to 8 hours.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Cleric Chain Domain (GRIFFONSSADDLEBAG4)\|Cleric (Chain Domain)]]; [[List Spells Classes Druid Circle Of Roses (KPDM)\|Druid (Circle of Roses)]]; [[List Spells Classes Cleric Justice Domain (KPDM)\|Cleric (Justice Domain)]]; [[List Spells Classes Cleric Lust Domain (KPDM)\|Cleric (Lust Domain)]]; [[List Spells Classes Paladin Oath Of Conquest (XGE)\|Paladin (Oath of Conquest)]]; [[List Spells Classes Paladin Oath Of The Spelldrinker (GRIFFONSSADDLEBAG2)\|Paladin (Oath of the Spelldrinker)]]; [[List Spells Classes Paladin Oathbreaker (DMG)\|Paladin (Oathbreaker (DMG))]]; [[List Spells Classes Cleric Order Domain (TCE)\|Cleric (Order Domain)]]; [[List Spells Classes Sorcerer Second Soul (GRIFFONSSADDLEBAG3)\|Sorcerer (Second Soul)]]; [[List Spells Classes Warlock The Apex Predator (HHHVIII)\|Warlock (The Apex Predator)]]; [[List Spells Classes Warlock The Archfey\|Warlock (The Archfey)]]; [[List Spells Classes Warlock The Great Old One\|Warlock (The Great Old One)]]; [[List Spells Classes Cleric Trickery Domain\|Cleric (Trickery Domain)]]
+**Classes**: [Druid (Circle of Roses)](compendium/lists/list-spells-classes-circle-of-roses-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Justice Domain)](compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Paladin (Oath of Conquest)](compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Cleric (Order Domain)](compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [Cleric (Lust Domain)](compendium/lists/list-spells-classes-lust-domain-kpdm.md "subclass=KPDM"); [Paladin (Oath of the Spelldrinker)](compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Sorcerer (Second Soul)](compendium/lists/list-spells-classes-second-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Cleric (Chain Domain)](compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Warlock (The Apex Predator)](compendium/lists/list-spells-classes-the-apex-predator-hhhviii.md "subclass=HHHVIII"); [Paladin (Oathbreaker)](compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [[5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [[5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]
 
 *Source: Player's Handbook p. 235. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

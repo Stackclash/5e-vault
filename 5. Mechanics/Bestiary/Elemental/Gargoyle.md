@@ -15,7 +15,7 @@ tags:
 aliases:
   - Gargoyle
 ---
-# [[5. Mechanics/Bestiary/Elemental/Gargoyle.md|Gargoyle]]
+# [[5. Mechanics\Bestiary\Elemental\Gargoyle.md|Gargoyle]]
 *Source: Monster Manual p. 140, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The inanimate gargoyles that perch atop great buildings are inspired by these malevolent creatures of elemental earth that resemble grotesque, fiendish statues. A gargoyle lurks among masonry and ruins, as still as any stone sculpture, and delights in the terror it creates when it breaks from its suspended pose, as well as the pain it inflicts on its victims.
@@ -56,13 +56,14 @@ A gargoyle doesn't require air, food, drink, or sleep.
 "ac_class": "natural armor"
 "hp": !!int "52"
 "hit_dice": "7d8 + 21"
+"modifier": !!int "0"
 "stats":
-- !!int "15"
-- !!int "11"
-- !!int "16"
-- !!int "6"
-- !!int "11"
-- !!int "7"
+  - !!int "15"
+  - !!int "11"
+  - !!int "16"
+  - !!int "6"
+  - !!int "11"
+  - !!int "7"
 "speed": "30 ft., fly 60 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't adamantine"
@@ -73,21 +74,21 @@ A gargoyle doesn't require air, food, drink, or sleep.
 "languages": "Terran"
 "cr": "2"
 "traits":
-- "desc": "While the gargoyle remains motionless, it is indistinguishable from an\
-    \ inanimate statue."
-  "name": "False Appearance"
+  - "desc": "While the gargoyle remains motionless, it is indistinguishable from an\
+      \ inanimate statue."
+    "name": "False Appearance"
 "actions":
-- "desc": "The gargoyle makes two attacks: one with its bite and one with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) slashing damage."
-  "name": "Claws"
+  - "desc": "The gargoyle makes two attacks: one with its bite and one with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) slashing damage."
+    "name": "Claws"
 "source":
-- "MM"
-- "CoS"
+  - "MM"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Elemental/token/gargoyle.webp"
 ```
 ^statblock

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Avatar Form
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Avatar Form (KPDM).md|Avatar Form]]
+# [[5. Mechanics\Bestiary\Humanoid\Avatar Form (KPDM).md|Avatar Form]]
 *Source: Deep Magic p. 72*
 
 ```statblock
@@ -24,13 +24,14 @@ aliases:
 "ac": !!int "17"
 "hp": !!int "189"
 "hit_dice": "18d10 + 90"
+"modifier": !!int "4"
 "stats":
-- !!int "20"
-- !!int "18"
-- !!int "20"
-- !!int "18"
-- !!int "16"
-- !!int "20"
+  - !!int "20"
+  - !!int "18"
+  - !!int "20"
+  - !!int "18"
+  - !!int "16"
+  - !!int "20"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks; plus\
   \ one additional type of your choice"
@@ -38,24 +39,24 @@ aliases:
 "languages": "speaks all languages known in previous form"
 "cr": "18"
 "traits":
-- "desc": "Each creature of your choice within 60 feet of you must succeed on a DC\
-    \ 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-    \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] creature\
-    \ repeats the saving throw at the end of each of its turns, ending the effect\
-    \ on itself on a successful save. Once a creature makes a successful saving throw,\
-    \ that creature is immune to your Awesome Presence for 24 hours."
-  "name": "Awesome Presence"
+  - "desc": "Each creature of your choice within 60 feet of you must succeed on a\
+      \ DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+      \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] creature\
+      \ repeats the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a successful save. Once a creature makes a successful saving\
+      \ throw, that creature is immune to your Awesome Presence for 24 hours."
+    "name": "Awesome Presence"
 "actions":
-- "desc": "You make two slam attacks and one bite attack."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 14 (2d8\
-    \ + 5) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 16 (2d10\
-    \ + 5) bludgeoning damage."
-  "name": "Slam"
+  - "desc": "You make two slam attacks and one bite attack."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 14\
+      \ (2d8 + 5) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 16\
+      \ (2d10 + 5) bludgeoning damage."
+    "name": "Slam"
 "source":
-- "KPDM"
+  - "KPDM"
 ```
 ^statblock
 

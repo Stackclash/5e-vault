@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
   - compendium/src/5e/dmg
-  - race/gnome/deep/dmg
+  - race/gnome/deep
 aliases:
-  - Gnome (Deep) (DMG)
+  - Gnome (Deep)
 ---
-# Gnome (Deep) (DMG)
+# Gnome (Deep)
 *Source: Dungeon Master's Guide p. 282*  
 
-- **Ability Scores**: Strength +1, Dexterity +2
+- **Ability Scores**: Strength +1; Dexterity +2
 - **Size**: Small
 - **Speed**: 20 ft.
 - **Spellcasting**: Intelligence

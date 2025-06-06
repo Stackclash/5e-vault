@@ -19,7 +19,7 @@ When a character mixes two potions together, you can roll on the Potion Miscibil
 
 | dice: d100 | Result |
 |------------|--------|
-| 01 | The mixture creates a magical explosion, dealing `dice:6d10\|noform\|avg` (`6d10`) force damage to the mixer and `dice:1d10\|noform\|avg` (`1d10`) force damage to each creature within 5 feet of the mixer. |
+| 01 | The mixture creates a magical explosion, dealing `dice:6d10\|noform\|noparens\|avg` (`6d10`) force damage to the mixer and `dice:1d10\|noform\|noparens\|avg` (`d10`) force damage to each creature within 5 feet of the mixer. |
 | 02-08 | The mixture becomes an ingested poison of the DM's choice. |
 | 09-15 | Both potions lose their effects. |
 | 16-25 | One potion loses its effect. |

@@ -7,24 +7,31 @@ tags:
   - spell/class/druid
   - spell/level/6th-level
   - spell/school/abjuration
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Druid
 school: Abjuration
-time: 10 minute
-duration: 24 hour
-components: >-
-  V, S, mistletoe, which the spell consumes, that was harvested with a golden
-  sickle under the light of a full moon
+level: 6
+ritual: false
+time: 10 minutes
+duration: 24 hours
+components:
+  - V
+  - S
+  - M
 aliases:
   - Druid Grove
+material: >-
+  mistletoe, which the spell consumes, that was harvested with a golden sickle
+  under the light of a full moon
 ---
 # Druid Grove
 *6th-level, Abjuration*  
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** Touch
-- **Components:** V, S, mistletoe, which the spell consumes, that was harvested with a golden sickle under the light of a full moon
-- **Duration:** 24 hour
+- **Components:** V, S, M (mistletoe, which the spell consumes, that was harvested with a golden sickle under the light of a full moon)
+- **Duration:** 24 hours
 
 You invoke the spirits of nature to protect an area outdoors or underground. The area can be as small as a 30-foot cube or as large as a 90-foot cube. Buildings and other structures are excluded from the affected area. If you cast this spell in the same area every day for a year, the spell lasts until dispelled.
 
@@ -56,6 +63,6 @@ To a creature immune to this effect, the winds are a fragrant, gentle breeze, an
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Xanathar's Guide to Everything p. 154*

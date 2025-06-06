@@ -12,25 +12,35 @@ tags:
   - spell/subclass/battle-smith
   - spell/subclass/divine-soul
   - spell/subclass/twilight-domain
-level: 3rd-level
-range: false
+classes:
+  - Artificer (Battle Smith)
+  - Bard
+  - Cleric
+  - Cleric (Twilight Domain)
+  - Druid
+  - Paladin
+  - Sorcerer (Divine Soul)
 school: Evocation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: V
+level: 3
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
 aliases:
   - Aura of Vitality
+concentration: true
 ---
 # Aura of Vitality
 *3rd-level, Evocation*  
 
-- **Casting time:** 1 action
-- **Range:** Self (30-feet radius)
+- **Casting time:** 1 Action
+- **Range:** Self (30-foot Radius)
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a bonus action to cause one creature in the aura (including you) to regain `dice:2d6|noform|avg` (`2d6`) hit points.
+Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a bonus action to cause one creature in the aura (including you) to regain `dice:2d6|noform|noparens|avg` (`2d6`) hit points.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Artificer Battle Smith (TCE)\|Artificer (Battle Smith)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Cleric Twilight Domain (TCE)\|Cleric (Twilight Domain)]]
+**Classes**: [Artificer (Battle Smith)](compendium/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Cleric (Twilight Domain)](compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 216*

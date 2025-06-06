@@ -8,6 +8,7 @@ tags:
 aliases:
   - Herbalism Kit
 cost: 500
+weight: 3
 ---
 # Herbalism Kit
 *Tool*  

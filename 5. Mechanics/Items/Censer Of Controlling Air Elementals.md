@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Censer of Controlling Air Elementals
+weight: 1
 ---
 # Censer of Controlling Air Elementals
 *Wondrous item, major, rare*  

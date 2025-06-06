@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greek
   - domain/tempest
+alignment: Chaotic Neutral
+domains: Tempest
+pantheon: Greek
+symbol: Trident
 aliases:
   - Poseidon
 ---

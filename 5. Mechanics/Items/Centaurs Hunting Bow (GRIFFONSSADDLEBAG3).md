@@ -10,14 +10,15 @@ tags:
   - item/weapon/simple
 aliases:
   - Centaur's Hunting Bow
-one-hand-damage: 1d6 P
-range: 80/320
+one-hand-damage: 1d6 piercing
+range: 80\320
+weight: 2
 ---
 # Centaur's Hunting Bow
 *Weapon ([[5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Centaurs-Hunting-Bow.webp#right)  
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 80/320
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.

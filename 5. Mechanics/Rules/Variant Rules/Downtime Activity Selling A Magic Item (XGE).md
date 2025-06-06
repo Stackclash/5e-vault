@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/xge
 aliases:
-  - 'Downtime Activity: Selling a Magic Item'
+  - Downtime Activity: Selling a Magic Item
 ---
 # Downtime Activity: Selling a Magic Item
 *Source: Xanathar's Guide to Everything p. 133* 

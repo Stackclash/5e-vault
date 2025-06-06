@@ -6,6 +6,11 @@ tags:
   - deity/eberron
   - domain/knowledge
   - domain/trickery
+alignment: Chaotic Neutral
+category: The Dark Six
+domains: 'Knowledge, Trickery'
+pantheon: Eberron
+symbol: 'Four crossed, rune-inscribed bones'
 aliases:
   - The Traveler
 ---

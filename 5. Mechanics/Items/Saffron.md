@@ -8,6 +8,7 @@ tags:
 aliases:
   - Saffron
 cost: 1500
+weight: 1
 ---
 # Saffron
 *Trade good*  

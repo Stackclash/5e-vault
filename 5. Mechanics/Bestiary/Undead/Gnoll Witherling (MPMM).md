@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'arctic, forest, grassland, hill'
 size: Medium
 tags:
@@ -17,7 +17,7 @@ tags:
 aliases:
   - Gnoll Witherling
 ---
-# [[5. Mechanics/Bestiary/Undead/Gnoll Witherling (MPMM).md|Gnoll Witherling]]
+# [[5. Mechanics\Bestiary\Undead\Gnoll Witherling (MPMM).md|Gnoll Witherling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155*
 
 > [!quote] A quote from Mordenkainen  
@@ -39,13 +39,14 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 "ac_class": "natural armor"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
+"modifier": !!int "-1"
 "stats":
-- !!int "14"
-- !!int "8"
-- !!int "12"
-- !!int "5"
-- !!int "5"
-- !!int "5"
+  - !!int "14"
+  - !!int "8"
+  - !!int "12"
+  - !!int "5"
+  - !!int "5"
+  - !!int "5"
 "speed": "30 ft."
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -54,28 +55,29 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 "languages": "understands Gnoll but can't speak"
 "cr": "1/4"
 "traits":
-- "desc": "The witherling doesn't require air, food, drink, or sleep."
-  "name": "Unusual Nature"
+  - "desc": "The witherling doesn't require air, food, drink, or sleep."
+    "name": "Unusual Nature"
 "actions":
-- "desc": "The witherling makes two Bite or Spiked Club attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
-    \ + 2) necrotic damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
-    \ + 2) piercing damage."
-  "name": "Spiked Club"
+  - "desc": "The witherling makes two Bite or Spiked Club attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+      \ + 2) necrotic damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+      \ + 2) piercing damage."
+    "name": "Spiked Club"
 "bonus_actions":
-- "desc": "After the witherling reduces a creature to 0 hit points with a melee attack\
-    \ on its turn, the gnoll moves up to half its speed and makes one Bite attack."
-  "name": "Rampage"
+  - "desc": "After the witherling reduces a creature to 0 hit points with a melee\
+      \ attack on its turn, the gnoll moves up to half its speed and makes one Bite\
+      \ attack."
+    "name": "Rampage"
 "reactions":
-- "desc": "In response to a gnoll being reduced to 0 hit points within 30 feet of\
-    \ the witherling, the witherling makes one Bite or Spiked Club attack."
-  "name": "Vengeful Strike"
+  - "desc": "In response to a gnoll being reduced to 0 hit points within 30 feet of\
+      \ the witherling, the witherling makes one Bite or Spiked Club attack."
+    "name": "Vengeful Strike"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Undead/token/gnoll-witherling-mpmm.webp"
 ```
 ^statblock

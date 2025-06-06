@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greek
   - domain/trickery
+alignment: Neutral
+domains: Trickery
+pantheon: Greek
+symbol: Red pentagram
 aliases:
   - Tyche
 ---

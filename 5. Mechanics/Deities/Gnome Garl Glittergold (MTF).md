@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/mtf
   - deity/gnome
   - domain/trickery
+alignment: Lawful Good
+domains: Trickery
+pantheon: Gnome
+province: Primary god of gnomes
+symbol: Gold nugget
 aliases:
   - Garl Glittergold
 ---

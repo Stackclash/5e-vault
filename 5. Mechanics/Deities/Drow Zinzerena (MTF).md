@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/drow
   - domain/trickery
+alignment: Chaotic Neutral
+category: The Dark Seldarine
+domains: Trickery
+pantheon: Drow
+province: 'Assassination, illusion, lies'
+symbol: Shortsword draped with cloth
 aliases:
   - Zinzerena
 ---

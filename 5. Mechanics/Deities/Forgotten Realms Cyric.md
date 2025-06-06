@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/trickery
+alignment: Chaotic Evil
+domains: Trickery
+pantheon: Forgotten Realms
+symbol: White jawless skull on black or purple sunburst
 aliases:
   - Cyric
 ---

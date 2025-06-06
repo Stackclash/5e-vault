@@ -8,7 +8,7 @@ aliases:
   - The Unbroken Circle
 ---
 # The Unbroken Circle
-*[[Druid.md\|Druid]]: Druid Circle*  
+*[[.nullDruid.md\|Druid]]: Druid Circle*  
 *Source: The Griffon's Saddlebag, Book 1 p. 159*  
 
 > [!tldr] Class and Feature Progression
@@ -19,19 +19,19 @@ aliases:
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#The%20Unbroken%20Circle%20(Level%202)'>The Unbroken Circle</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#The Unbroken Circle (Level 2)' class='internal-link'>The Unbroken Circle</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Shillelagh%20Mastery%20(Level%206)'>Shillelagh Mastery</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Shillelagh Mastery (Level 6)' class='internal-link'>Shillelagh Mastery</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#War%20Druid%20(Level%2010)'>War Druid</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#War Druid (Level 10)' class='internal-link'>War Druid</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Nature%20Armor%20(Level%2014)'>Nature Armor</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Nature Armor (Level 14)' class='internal-link'>Nature Armor</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -58,7 +59,7 @@ When you cast shillelagh, you can use it to imbue any melee weapon you're holdin
 
 ### Wild Recovery (Level 2)
 
-At 2nd level, you gain the ability to recover using the wild, bestial magic that courses through you. As a bonus action, you can expend a use of your Wild Shape to regain a number of hit points equal to `dice:1d10|noform|avg` (`1d10`) + your Wisdom modifier (minimum of 1). When you reach 10th level in this class, you regain `dice:2d10|noform|avg` (`2d10`) + your Wisdom modifier instead.
+At 2nd level, you gain the ability to recover using the wild, bestial magic that courses through you. As a bonus action, you can expend a use of your Wild Shape to regain a number of hit points equal to `dice:1d10|noform|noparens|avg` (`d10`) + your Wisdom modifier (minimum of 1). When you reach 10th level in this class, you regain `dice:2d10|noform|noparens|avg` (`2d10`) + your Wisdom modifier instead.
 
 ### Shillelagh Mastery (Level 6)
 

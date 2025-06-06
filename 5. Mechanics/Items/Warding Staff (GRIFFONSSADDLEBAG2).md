@@ -9,20 +9,21 @@ tags:
   - item/weapon/simple
 aliases:
   - Warding Staff
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Warding Staff
 *Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Warding-Staff.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
-This platinum staff has a wide brazier on top with a small crystal orb that floats above it. While holding the staff, its brazier is lit with harmless, holy flames that shed bright light in a 20-foot radius and dim light for an additional 20 feet. The staff can be wielded as a magic quarterstaff. On a hit, it deals an extra `dice:1d6|noform|avg` (`1d6`) radiant damage.
+This platinum staff has a wide brazier on top with a small crystal orb that floats above it. While holding the staff, its brazier is lit with harmless, holy flames that shed bright light in a 20-foot radius and dim light for an additional 20 feet. The staff can be wielded as a magic quarterstaff. On a hit, it deals an extra `dice:1d6|noform|noparens|avg` (`d6`) radiant damage.
 
 A friendly creature within reach of the staff can use its bonus action to remove the crystal orb that floats above the brazier. While the orb is on their person, that creature is under the effect of the [[5. Mechanics/Spells/Warding Bond.md\|warding bond]] spell as if you cast it. The spell lasts until the orb is more than 60 feet away from you, until you're no longer holding the staff, or until you die or are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. You can also choose to mentally end the spell at any time (no action required). When the spell ends, the orb teleports back to the head of the staff.
 

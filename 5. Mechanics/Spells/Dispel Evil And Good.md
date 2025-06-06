@@ -10,21 +10,36 @@ tags:
   - spell/school/abjuration
   - spell/subclass/divine-soul
   - spell/subclass/the-valiant
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Paladin
+  - Sorcerer (Divine Soul)
+  - Warlock (The Valiant)
 school: Abjuration
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S, holy water or powdered silver and iron'
+level: 5
+ritual: false
+time: 1 Action
+duration: Up to 1 minute
+components:
+  - V
+  - S
+  - M
 aliases:
   - Dispel Evil and Good
+range: Self
+material: Holy water or powdered silver and iron.
+save:
+  type: CHA
+  success: other
+concentration: true
 ---
 # Dispel Evil and Good
 *5th-level, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
-- **Components:** V, S, holy water or powdered silver and iron
+- **Components:** V, S, M (holy water or powdered silver and iron)
 - **Duration:** Concentration, up to 1 minute
 
 Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane. For the duration, celestials, elementals, fey, fiends, and undead have disadvantage on attack rolls against you.
@@ -41,6 +56,6 @@ As your action, make a melee spell attack against a celestial, an elemental, a f
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Warlock The Valiant (GRIFFONSSADDLEBAG3)\|Warlock (The Valiant)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Warlock (The Valiant)](compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 233. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

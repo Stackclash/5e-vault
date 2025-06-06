@@ -9,6 +9,7 @@ tags:
 aliases:
   - +2 Dusk Armor
 armorClass: 18
+weight: 65
 ---
 # +2 Dusk Armor
 *Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  

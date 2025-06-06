@@ -8,21 +8,30 @@ tags:
   - spell/level/7th-level
   - spell/school/necromancy
   - spell/subclass/divine-soul
-level: 7th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul)
 school: Necromancy
+level: 7
+ritual: false
 time: 1 hour
 duration: Instantaneous
-components: 'V, S, a diamond worth at least 1,000 gp, which the spell consumes'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Resurrection
+range: Touch
+material: 'A diamond worth at least 1,000gp, which the spell consumes.'
 ---
 # Resurrection
 *7th-level, Necromancy*  
 
 - **Casting time:** 1 hour
 - **Range:** Touch
-- **Components:** V, S, a diamond worth at least 1,000 gp, which the spell consumes
+- **Components:** V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)
 - **Duration:** Instantaneous
 
 You touch a dead creature that has been dead for no more than a century, that didn't die of old age, and that isn't undead. If its soul is free and willing, the target returns to life with all its hit points.
@@ -35,6 +44,6 @@ Coming back from the dead is an ordeal. The target takes a −4 penalty to all a
 
 Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

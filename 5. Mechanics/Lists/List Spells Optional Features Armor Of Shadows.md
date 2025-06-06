@@ -10,4 +10,4 @@ aliases:
 
 ## 1st Level
 
-- [[Mage Armor \|"PHB"]]
+- [[5. Mechanics/Spells/Mage Armor.md \|"PHB"]]

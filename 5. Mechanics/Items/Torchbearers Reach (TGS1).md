@@ -9,13 +9,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Torchbearer's Reach
-one-hand-damage: 1d4 F
+one-hand-damage: 1d4 fire
+weight: 3
 ---
 # Torchbearer's Reach
 *Weapon ([[5. Mechanics/Items/Whip.md\|whip]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Torchbearers-Reach.webp#right)  
 
-- **Damage**: 1d4 F
+- **Damage**: 1d4 fire
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
 

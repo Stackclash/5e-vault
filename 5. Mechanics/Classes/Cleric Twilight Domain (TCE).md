@@ -9,7 +9,7 @@ aliases:
   - Twilight Domain
 ---
 # Twilight Domain
-*[[Cleric.md\|Cleric]]: Divine Domain*  
+*[[.nullCleric.md\|Cleric]]: Divine Domain*  
 *Source: Tasha's Cauldron of Everything p. 34*  
 
 > [!tldr] Class and Feature Progression
@@ -19,14 +19,14 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Twilight%20Domain%20(Level%201)'>Twilight Domain</a></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel%20Divinity%20Twilight%20Sanctuary%20(Level%202)'>Channel Divinity: Twilight Sanctuary</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Twilight Domain (Level 1)' class='internal-link'>Twilight Domain</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel Divinity: Twilight Sanctuary (Level 2)' class='internal-link'>Channel Divinity: Twilight Sanctuary</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Steps%20of%20Night%20(Level%206)'>Steps of Night</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Steps of Night (Level 6)' class='internal-link'>Steps of Night</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Divine%20Strike%20(Level%208)'>Divine Strike</a>, <a href='#Blessed%20Strikes%20(Level%208)'>Blessed Strikes</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Divine Strike (Level 8)' class='internal-link'>Divine Strike</a>, <a href='#Blessed Strikes (Level 8)' class='internal-link'>Blessed Strikes</a></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -35,12 +35,13 @@ aliases:
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Twilight%20Shroud%20(Level%2017)'>Twilight Shroud</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Twilight Shroud (Level 17)' class='internal-link'>Twilight Shroud</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -56,13 +57,13 @@ Clerics who serve these deities-examples of which appear on the Twilight Deities
 | Example Deity | Pantheon |
 |---------------|----------|
 | Boldrei | Eberron |
-| Celestian | Greyhawk |
+| [[5. Mechanics/Deities/Greyhawk Celestian.md\|Celestian]] | Greyhawk |
 | Dol Arrah | Eberron |
 | Helm | Forgotten Realms |
 | Ilmater | Forgotten Realms |
-| Mishakal | Dragonlance |
+| [[5. Mechanics/Deities/Dragonlance Mishakal (PHB).md\|Mishakal]] | Dragonlance |
 | Selûne | Forgotten Realms |
-| Yondalla | Halfling |
+| [[5. Mechanics/Deities/Nonhuman Yondalla.md\|Yondalla]] | Halfling |
 ^twilight-deities
 
 #### Domain Spells
@@ -111,7 +112,7 @@ You can use your Channel Divinity to refresh your allies with soothing twilight.
 
 As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
 
-- You grant it temporary hit points equal to `dice:1d6|noform|avg` (`1d6`) plus your cleric level.  
+- You grant it temporary hit points equal to `dice:1d6|noform|noparens|avg` (`d6`) plus your cleric level.  
 - You end one effect on it causing it to be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].  
 
 ### Steps of Night (Level 6)
@@ -124,13 +125,13 @@ You can draw on the mystical power of night to rise into the air. As a bonus act
 
 *8th-level Twilight Domain feature*
 
-You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|avg` (`1d8`) radiant damage. When you reach 14th level, the extra damage increases to `dice:2d8|noform|avg` (`2d8`).
+You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) radiant damage. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 
-*8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]], which replaces the Divine Strike feature*
+*8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Divine Strike feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Twilight Shroud (Level 17)
 

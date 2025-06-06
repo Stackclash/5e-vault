@@ -10,16 +10,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Fyre Shredder
-one-hand-damage: 1d8 S
-two-hand-damage: 1d10 S
+one-hand-damage: 1d8 slashing
+two-hand-damage: 1d10 slashing
+weight: 4
 ---
 # Fyre Shredder
 *Weapon ([[5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, rare (requires attunement by a bard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Fyre-Shredder.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 

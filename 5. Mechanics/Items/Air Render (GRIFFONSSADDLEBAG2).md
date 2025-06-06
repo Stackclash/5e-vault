@@ -10,14 +10,15 @@ tags:
   - item/weapon/simple
 aliases:
   - Air Render
-one-hand-damage: 1d6 P
-range: 80/320
+one-hand-damage: 1d6 piercing
+range: 80\320
+weight: 2
 ---
 # Air Render
 *Weapon ([[5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Air-Render.webp#right)  
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 80/320
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
@@ -34,6 +35,6 @@ If the mote of wind dealt piercing damage, you can immediately make another atta
 
 ## Slashing Tornado
 
-If the mote of wind dealt slashing damage, each other creature within 5 feet of the original target must succeed on a DC 15 Dexterity saving throw or take `dice:2d6|noform|avg` (`2d6`) slashing damage.
+If the mote of wind dealt slashing damage, each other creature within 5 feet of the original target must succeed on a DC 15 Dexterity saving throw or take `dice:2d6|noform|noparens|avg` (`2d6`) slashing damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 33*

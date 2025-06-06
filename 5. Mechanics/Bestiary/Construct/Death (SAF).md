@@ -13,7 +13,7 @@ tags:
 aliases:
   - Death
 ---
-# [[5. Mechanics/Bestiary/Construct/Death (SAF).md|Death]]
+# [[5. Mechanics\Bestiary\Construct\Death (SAF).md|Death]]
 *Source: Strongholds and Followers p. 228*
 
 > [!quote]  
@@ -39,13 +39,14 @@ This thing is powerful, but not hard to run. Its Law of Death radiates damage to
 "ac_class": "natural armor"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
+"modifier": !!int "2"
 "stats":
-- !!int "16"
-- !!int "15"
-- !!int "16"
-- !!int "13"
-- !!int "14"
-- !!int "15"
+  - !!int "16"
+  - !!int "15"
+  - !!int "16"
+  - !!int "13"
+  - !!int "14"
+  - !!int "15"
 "speed": "40 ft."
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
@@ -54,31 +55,31 @@ This thing is powerful, but not hard to run. Its Law of Death radiates damage to
 "languages": "all those of the creature who summoned it"
 "cr": "6"
 "traits":
-- "desc": "Death's innate spellcasting ability is Charisma (spell save DC 13). It\
-    \ can innately cast the following spells, requiring no material components:\n\n\
-    3/day: [[5. Mechanics/Spells/Death Ward.md|death ward]]"
-  "name": "Innate Spellcasting"
-- "desc": "At the start of each of Death's turns, undead within 10 feet of it take\
-    \ 10 force damage."
-  "name": "The Law of Death"
-- "desc": "The Inexorables have disadvantage on all saving throws against spells."
-  "name": "Chaos Vulnerability"
-- "desc": "The Inexorables are immune to any effects that would slow them or deny\
-    \ them actions or movement."
-  "name": "Inexorable"
+  - "desc": "Death's innate spellcasting ability is Charisma (spell save DC 13). It\
+      \ can innately cast the following spells, requiring no material components:\n\
+      \n3/day: [[5. Mechanics/Spells/Death Ward.md|death ward]]"
+    "name": "Innate Spellcasting"
+  - "desc": "At the start of each of Death's turns, undead within 10 feet of it take\
+      \ 10 force damage."
+    "name": "The Law of Death"
+  - "desc": "The Inexorables have disadvantage on all saving throws against spells."
+    "name": "Chaos Vulnerability"
+  - "desc": "The Inexorables are immune to any effects that would slow them or deny\
+      \ them actions or movement."
+    "name": "Inexorable"
 "actions":
-- "desc": "Death makes three slam attacks or makes one slam attack and one Death to\
-    \ Undeath attack."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8\
-    \ + 3) bludgeoning damage."
-  "name": "Slam"
-- "desc": "Death points at an undead creature within 60 feet. The target must make\
-    \ a DC 13 Wisdom saving throw or take 33 (6d10) force damage. On a successful\
-    \ save, the target takes half that damage."
-  "name": "Death to Undeath"
+  - "desc": "Death makes three slam attacks or makes one slam attack and one Death\
+      \ to Undeath attack."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
+      \ (2d8 + 3) bludgeoning damage."
+    "name": "Slam"
+  - "desc": "Death points at an undead creature within 60 feet. The target must make\
+      \ a DC 13 Wisdom saving throw or take 33 (6d10) force damage. On a successful\
+      \ save, the target takes half that damage."
+    "name": "Death to Undeath"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Death.png"
 ```
 ^statblock

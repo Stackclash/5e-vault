@@ -7,6 +7,7 @@ tags:
   - item/wondrous/rod
 aliases:
   - Worker's Wondrous Ladder
+weight: 1
 ---
 # Worker's Wondrous Ladder
 *Rod, common*  

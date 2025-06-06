@@ -6,6 +6,11 @@ tags:
   - deity/eberron
   - domain/life
   - domain/trickery
+alignment: Neutral Good
+category: The Sovereign Host
+domains: 'Life, Trickery'
+pantheon: Eberron
+symbol: Domino
 aliases:
   - Olladra
 ---

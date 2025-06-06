@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Gremishka
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Gremishka (VRGR).md|Gremishka]]
+# [[5. Mechanics\Bestiary\Monstrosity\Gremishka (VRGR).md|Gremishka]]
 *Source: Van Richten's Guide to Ravenloft p. 235*
 
 Gremishkas are the vicious products of mistakes made by novice spellcasters seeking to create life. The results are cat-sized, magically unstable creatures with a taste for the trappings of magic—particularly spellbooks, spell components, familiars, and the like. Gremishkas delight in tormenting magic-users, holding vicious grudges against those who gave them life as they infest the walls of spellcasters' homes or the surrounding lands.
@@ -30,33 +30,34 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
 "ac": !!int "12"
 "hp": !!int "10"
 "hit_dice": "4d4"
+"modifier": !!int "2"
 "stats":
-- !!int "6"
-- !!int "14"
-- !!int "10"
-- !!int "12"
-- !!int "11"
-- !!int "4"
+  - !!int "6"
+  - !!int "14"
+  - !!int "10"
+  - !!int "12"
+  - !!int "11"
+  - !!int "4"
 "speed": "30 ft."
 "senses": "darkvision 30 ft., passive Perception 10"
 "languages": "understands Common but can't speak"
 "cr": "1/8"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 2 (1d4\
-    \ + 2) piercing damage plus 3 (1d6) force damage."
-  "name": "Bite"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 2 (1d4\
+      \ + 2) piercing damage plus 3 (d6) force damage."
+    "name": "Bite"
 "reactions":
-- "desc": "Immediately after a creature within 30 feet of the gremishka casts a spell,\
-    \ the gremishka can spontaneously react to the magic. Roll a d6 to determine the\
-    \ effect:\n\n- 1-2. The gremishka emanates magical energy. Each creature within\
-    \ 30 feet of the gremishka must succeed on a DC 10 Constitution saving throw or\
-    \ take 3 (1d6) force damage.  \n- 3-4. The gremishka surges with magical energy\
-    \ and regains 3 (1d6) hit points.  \n- 5-6. The gremishka explodes and dies,\
-    \ and one swarm of gremishkas instantly appears in the space where this gremishka\
-    \ died. The swarm uses the gremishka's initiative.  "
-  "name": "Magic Allergy (1/Day)"
+  - "desc": "Immediately after a creature within 30 feet of the gremishka casts a\
+      \ spell, the gremishka can spontaneously react to the magic. Roll a d6 to determine\
+      \ the effect:\n\n- 1-2. The gremishka emanates magical energy. Each creature\
+      \ within 30 feet of the gremishka must succeed on a DC 10 Constitution saving\
+      \ throw or take 3 (d6) force damage.  \n- 3-4. The gremishka surges with\
+      \ magical energy and regains 3 (d6) hit points.  \n- 5-6. The gremishka\
+      \ explodes and dies, and one swarm of gremishkas instantly appears in the space\
+      \ where this gremishka died. The swarm uses the gremishka's initiative.  "
+    "name": "Magic Allergy (1/Day)"
 "source":
-- "VRGR"
+  - "VRGR"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/gremishka-vrgr.webp"
 ```
 ^statblock

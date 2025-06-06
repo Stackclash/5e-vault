@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/veor
 aliases:
-  - 'Introduction: Danger to the Multiverse'
+  - Introduction: Danger to the Multiverse
 ---
 # Introduction: Danger to the Multiverse
 *Source: Vecna: Eve of Ruin* 
@@ -49,7 +49,7 @@ By the time Vecna became a lich and the despotic ruler of an empire on the world
 
 Over time, Kas and Vecna began disagreeing about strategies to expand the lich's empire. Convinced Kas was more gullible than Vecna, the sword urged Kas to kill and supplant Vecna. The sword wanted nothing less than full control of Vecna's empire through Kas.
 
-Kas finally betrayed his liege when he confronted Vecna in the lich's tower. Kas killed Vecna, but before Vecna died, Vecna flung Kas across the multiverse. Kas lost the *Sword of Kas* in his flight. All that was left of Vecna after he died was one hand and one eye. These eventually became artifacts known as the [[5. Mechanics/Items/Eye And Hand Of Vecna (DMG).md\|Eye and Hand of Vecna]] (see the "Dungeon Master's Guide").
+Kas finally betrayed his liege when he confronted Vecna in the lich's tower. Kas killed Vecna, but before Vecna died, Vecna flung Kas across the multiverse. Kas lost the *Sword of Kas* in his flight. All that was left of Vecna after he died was one hand and one eye. These eventually became artifacts known as the [[5. Mechanics/Items/Eye And Hand Of Vecna.md\|Eye and Hand of Vecna]] (see the "Dungeon Master's Guide").
 
 In the aftermath of this battle, Kas transformed into a vampire. He became the ruler and prisoner of a Domain of Dread (a mist-bordered realm in the Shadowfell) called Tovag. Eventually, the Dark Powers whispered to Kas that Vecna had risen again, becoming an evil god of secrets and magic on Oerth.
 
@@ -127,7 +127,7 @@ The first part of chapter 2 takes place in a secret sanctum in Sigil, the City o
 
 ### Chapter 3 Summary
 
-Chapter 3 takes place on the Astral Plane. The characters learn that the second rod piece is in the wreckage of a spelljamming ship called the *Lambent Zenith*. The ship was carrying the piece when it crashed into a dying god's body adrift on the Astral Sea. The characters soon discover that a dragonlike creature devoured the piece and retreated into the heart of the god. The characters must confront the creature and retrieve the rod piece.
+Chapter 3 takes place on the Astral Plane. The characters learn that the second rod piece is in the wreckage of a spelljamming ship called the *Lambent Zenith*. The ship was carrying the piece when it crashed into a dying god's body adrift on the Astral Sea. The characters soon discover that a dragon-like creature devoured the piece and retreated into the heart of the god. The characters must confront the creature and retrieve the rod piece.
 
 ### Chapter 4 Summary
 
@@ -258,7 +258,7 @@ Every time the characters learn a powerful secret, note it on the Secrets Tracke
 
 A character can magically spend a secret like currency, revealing it to the multiverse to gain a momentary boon. To do this, the character must use an action to whisper the secret into the wind. The secret is then gone from the minds of every character in the party. There is one exception; if the characters spend the secret they learn from Kas in chapter 10 about Vecna's location, they still know where the lich-god weaves his ritual.
 
-When a character spends a secret, every character in the party gains advantage on `dice:d20|noform|avg` (`d20`) rolls for 1 minute.
+When a character spends a secret, every character in the party gains advantage on `dice:d20|noform|noparens|avg` (`d20`) rolls for 1 minute.
 
 The characters might hear the information from the secret again, but they can't spend a secret more than once. If the characters share a secret with a nonplayer character, that secret immediately loses its power and counts as revealed. It remains in the minds of every character in the party, but the characters gain no benefit from revealing the secret.
 

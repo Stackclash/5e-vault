@@ -13,7 +13,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Tome-of-the-Dragons-Hoard.webp#right)  
 
 
-This gilded tome is bound with a dragon wing's leather. When found, the book has `dice:10d10|noform|avg` (`10d10`) pages in it.
+This gilded tome is bound with a dragon wing's leather. When found, the book has `dice:10d10|noform|noparens|avg` (`10d10`) pages in it.
 
 While holding the open book, you can use an action to speak its command word and press an object weighing no more than 25 pounds into one of its exposed pages. When you do, the object is magically transformed into a two-dimensional illustration of itself on the page. The number of objects you can store on a page in this way depends on its value in gold. A page can hold up to 5 objects on it whose total value is no more than 25 gp, such as an array of trinkets, trophies, or other mundane keepsakes. Alternatively, an object worth more than 25 gp, such as a satchel of coins or magical item, must be stored on its own page.
 

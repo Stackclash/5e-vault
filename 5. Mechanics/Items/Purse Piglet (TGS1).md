@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Purse Piglet
+weight: 1
 ---
 # Purse Piglet
 *Wondrous item, minor, rare*  
@@ -20,7 +21,7 @@ Once alive, the piglet happily eats any coin handed to it: storing it inside. Th
 
 When asking for 10% or more of its total stockpile, the piglet looks disappointed before carrying out the request. The piglet can eject its own stopper and roll over on its back to empty itself of coins when it's asked for a large amount, but will always retain at least one copper coin unless you physically remove it. The figurine returns to its inanimate form when there are no more coins inside of it.
 
-The piglet has 5 hit points, an AC of 10, and a walking speed of 30 feet. It does not need air to breathe. If the piglet is reduced to 0 hit points, it cries out and shatters into hundreds of ceramic pieces. While your coins are not lost, it takes the piglet `dice:1d4|noform|avg` (`1d4`) days to rematerialize again before you.
+The piglet has 5 hit points, an AC of 10, and a walking speed of 30 feet. It does not need air to breathe. If the piglet is reduced to 0 hit points, it cries out and shatters into hundreds of ceramic pieces. While your coins are not lost, it takes the piglet `dice:1d4|noform|noparens|avg` (`d4`) days to rematerialize again before you.
 
 If the pig's owner dies, the distraught pig empties itself of all its coins: returning to its inanimate ceramic form atop of whatever coins were inside of it.
 

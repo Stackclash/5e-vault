@@ -8,6 +8,7 @@ tags:
 aliases:
   - Reliquary
 cost: 500
+weight: 2
 ---
 # Reliquary
 *Spellcasting focus*  

@@ -10,30 +10,37 @@ tags:
   - spell/level/1st-level
   - spell/school/necromancy
   - spell/subclass/divine-soul
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Paladin
+  - Sorcerer (Divine Soul)
 school: Necromancy
-time: 1 action
+level: 1
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Life Transference Arrow
 ---
 # Life Transference Arrow
 *1st-level, Necromancy*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
 
 You create a glowing arrow of necrotic magic and command it to strike a creature you can see within range. The arrow can have one of two effects; you choose which at the moment of casting. If you make a successful ranged spell attack, you and the target experience the desired effect. If the attack misses, the spell fails.
 
-- The arrow deals `dice:2d6|noform|avg` (`2d6`) necrotic damage to the target, and you heal the same amount of hit points.  
-- You take `dice:2d6|noform|avg` (`2d6`) necrotic damage, and the target heals the same amount of hit points.  
+- The arrow deals `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage to the target, and you heal the same amount of hit points.  
+- You take `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage, and the target heals the same amount of hit points.  
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the spell's damage and hit points healed increase by `dice:1d6|noform|avg|text(1d6)` for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the spell's damage and hit points healed increase by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 1st.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 91*

@@ -7,25 +7,33 @@ tags:
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/illusion
-level: 7th-level
-range: false
+classes:
+  - Bard
+  - Wizard
 school: Illusion
-time: 12 hour
+level: 7
+ritual: false
+time: 12 hours
 duration: Until dispelled
-components: >-
-  V, S, snow or ice in quantities sufficient to make a life-size copy of the
-  duplicated creature; some hair, fingernail clippings, or other piece of that
-  creature's body placed inside the snow or ice; and powdered ruby worth 1,500
-  gp, sprinkled over the duplicate and consumed by the spell
+components:
+  - V
+  - S
+  - M
 aliases:
   - Simulacrum
+range: Touch
+material: >-
+  Snow or ice in quantities sufficient to made a life-size copy of the
+  duplicated creature; some hair, fingernail clippings, or other piece of that
+  creature's body placed inside the snow or ice; and powdered ruby worth 1,500
+  gp, sprinkled over the duplicate and consumed by the spell.
 ---
 # Simulacrum
 *7th-level, Illusion*  
 
-- **Casting time:** 12 hour
+- **Casting time:** 12 hours
 - **Range:** Touch
-- **Components:** V, S, snow or ice in quantities sufficient to make a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell
+- **Components:** V, S, M (snow or ice in quantities sufficient to make a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)
 - **Duration:** Until dispelled
 
 You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but it has half the creature's hit point maximum and is formed without any equipment. Otherwise, the illusion uses all the statistics of the creature it duplicates, except that it is a construct.
@@ -36,6 +44,6 @@ If the simulacrum is damaged, you can repair it in an alchemical laboratory, usi
 
 If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 276. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

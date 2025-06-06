@@ -7,6 +7,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Outer Essence Shard (Chaotic)
+weight: 1
 ---
 # Outer Essence Shard (Chaotic)
 *Wondrous item, rare (requires attunement by a sorcerer)*  

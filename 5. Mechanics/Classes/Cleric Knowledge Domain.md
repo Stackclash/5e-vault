@@ -9,7 +9,7 @@ aliases:
   - Knowledge Domain
 ---
 # Knowledge Domain
-*[[Cleric.md\|Cleric]]: Divine Domain*  
+*[[.nullCleric.md\|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 59*  
 
 > [!tldr] Class and Feature Progression
@@ -19,14 +19,14 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Knowledge%20Domain%20(Level%201)'>Knowledge Domain</a></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel%20Divinity%20Knowledge%20of%20the%20Ages%20(Level%202)'>Channel Divinity: Knowledge of the Ages</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Knowledge Domain (Level 1)' class='internal-link'>Knowledge Domain</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel Divinity: Knowledge of the Ages (Level 2)' class='internal-link'>Channel Divinity: Knowledge of the Ages</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Channel%20Divinity%20Read%20Thoughts%20(Level%206)'>Channel Divinity: Read Thoughts</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Channel Divinity: Read Thoughts (Level 6)' class='internal-link'>Channel Divinity: Read Thoughts</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Potent%20Spellcasting%20(Level%208)'>Potent Spellcasting</a>, <a href='#Blessed%20Strikes%20(Level%208)'>Blessed Strikes</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Potent Spellcasting (Level 8)' class='internal-link'>Potent Spellcasting</a>, <a href='#Blessed Strikes (Level 8)' class='internal-link'>Blessed Strikes</a></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -35,19 +35,20 @@ aliases:
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Visions%20of%20the%20Past%20(Level%2017)'>Visions of the Past</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Visions of the Past (Level 17)' class='internal-link'>Visions of the Past</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
 
 ### Knowledge Domain (Level 1)
 
-The gods of knowledge—including Oghma, Boccob, Gilean, Aureon, and Thoth—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, Reorx, Onatar, Moradin, Hephaestus, and Goibhniu.
+The gods of knowledge—including Oghma, [[5. Mechanics/Deities/Greyhawk Boccob.md\|Boccob]], [[5. Mechanics/Deities/Dragonlance Gilean (PHB).md\|Gilean]], [[5. Mechanics/Deities/Eberron Aureon.md\|Aureon]], and [[5. Mechanics/Deities/Egyptian Thoth.md\|Thoth]]—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, [[5. Mechanics/Deities/Dragonlance Reorx (PHB).md\|Reorx]], [[5. Mechanics/Deities/Eberron Onatar.md\|Onatar]], [[5. Mechanics/Deities/Nonhuman Moradin.md\|Moradin]], [[5. Mechanics/Deities/Greek Hephaest(US).md\|Hephaestus]], and [[5. Mechanics/Deities/Celtic Goibhniu.md\|Goibhniu]].
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -89,9 +90,9 @@ Starting at 8th level, you add your Wisdom modifier to the damage you deal with 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]], which replaces the Potent Spellcasting feature*
+*8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Potent Spellcasting feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Visions of the Past (Level 17)
 

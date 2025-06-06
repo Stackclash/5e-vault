@@ -11,31 +11,43 @@ tags:
   - spell/school/evocation
   - spell/subclass/arcane-trickster
   - spell/subclass/justice-domain
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Justice Domain)
+  - Paladin
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Evocation
-time: 1 bonus
-duration: 'Concentration, up to 10 minute'
-components: 'V, S, a rebuke of evil, written in Celestial'
+level: 3
+ritual: false
+time: 1 Bonus Action
+duration: up to 10 minutes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Blade of Wrath
+concentration: true
+material: 'a rebuke of evil, written in Celestial'
 ---
 # Blade of Wrath
 *3rd-level, Evocation*  
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Self
-- **Components:** V, S, a rebuke of evil, written in Celestial
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a rebuke of evil, written in Celestial)
+- **Duration:** Concentration, up to 10 minutes
 
 You create a sword of pure white fire in your free hand. The blade is similar in size and shape to a longsword, and it lasts for the duration. The blade disappears if you let go of it, but you can call it forth again as a bonus action.
 
-You can use your action to make a melee spell attack with the blade. On a hit, the target takes `dice:2d8|noform|avg` (`2d8`) fire damage and `dice:2d8|noform|avg` (`2d8`) radiant damage. An aberration, fey, fiend, or undead creature damaged by the blade must succeed on a Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] until the start of your next turn.
+You can use your action to make a melee spell attack with the blade. On a hit, the target takes `dice:2d8|noform|noparens|avg` (`2d8`) fire damage and `dice:2d8|noform|noparens|avg` (`2d8`) radiant damage. An aberration, fey, fiend, or undead creature damaged by the blade must succeed on a Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] until the start of your next turn.
 
 The blade sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, either the fire damage or the radiant damage (your choice) increases by `dice:1d8|noform|avg|text(1d8)` for each slot level above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, either the fire damage or the radiant damage (your choice) increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 3rd.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Cleric Justice Domain (KPDM)\|Cleric (Justice Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Justice Domain)](compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 175*

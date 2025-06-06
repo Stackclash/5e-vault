@@ -7,6 +7,11 @@ tags:
   - domain/grave
   - domain/knowledge
   - domain/life
+alignment: Neutral Good
+category: Other Faiths of Eberron
+domains: 'Grave, Knowledge, Life'
+pantheon: Eberron
+symbol: Varies
 aliases:
   - The Undying Court
 ---

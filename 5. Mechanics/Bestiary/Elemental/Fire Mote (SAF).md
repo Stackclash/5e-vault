@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fire Mote
 ---
-# [[5. Mechanics/Bestiary/Elemental/Fire Mote (SAF).md|Fire Mote]]
+# [[5. Mechanics\Bestiary\Elemental\Fire Mote (SAF).md|Fire Mote]]
 *Source: Strongholds and Followers p. 186*
 
 The motes are elemental sprites, tricksters, mischievous imps who enjoy sticking their noses into other people's business, harassing anyone who looks suspicious until the more puissant authorities arrive.
@@ -33,16 +33,17 @@ The fire mote has an instinctive awareness of which enemies on the battlefield r
 "ac_class": "natural armor"
 "hp": !!int "49"
 "hit_dice": "11d6 + 11"
+"modifier": !!int "3"
 "stats":
-- !!int "17"
-- !!int "16"
-- !!int "12"
-- !!int "13"
-- !!int "11"
-- !!int "12"
+  - !!int "17"
+  - !!int "16"
+  - !!int "12"
+  - !!int "13"
+  - !!int "11"
+  - !!int "12"
 "speed": "40 ft."
 "saves":
-  "Dexterity": !!int "6"
+  - "dexterity": "+6"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "fire"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -52,21 +53,21 @@ The fire mote has an instinctive awareness of which enemies on the battlefield r
 "languages": "Common, Ignan"
 "cr": "5"
 "traits":
-- "desc": "The mote can enter a hostile creature's space and stop there."
-  "name": "Fire Form"
-- "desc": "An enemy in the same space as a mote must make a DC 14 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]])\
-    \ check when it moves. On a failed save, the mote moves with it. While in the\
-    \ same space as a mote, enemies have disadvantage on Constitution checks to maintain\
-    \ concentration."
-  "name": "Annoying"
+  - "desc": "The mote can enter a hostile creature's space and stop there."
+    "name": "Fire Form"
+  - "desc": "An enemy in the same space as a mote must make a DC 14 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]])\
+      \ check when it moves. On a failed save, the mote moves with it. While in the\
+      \ same space as a mote, enemies have disadvantage on Constitution checks to\
+      \ maintain concentration."
+    "name": "Annoying"
 "actions":
-- "desc": "The mote makes three touch attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
-    \ + 3) fire damage."
-  "name": "Touch"
+  - "desc": "The mote makes three touch attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+      \ + 3) fire damage."
+    "name": "Touch"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Fire%20Mote.png"
 ```
 ^statblock

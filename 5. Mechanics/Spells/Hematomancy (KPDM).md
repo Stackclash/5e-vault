@@ -12,21 +12,33 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/divine-soul
   - spell/subclass/eldritch-knight
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul)
+  - Wizard
 school: Divination
+level: 3
+ritual: false
 time: 1 minute
 duration: Instantaneous
-components: 'V, S, a drop of a creature''s blood'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Hematomancy
+material: a drop of a creature's blood
 ---
 # Hematomancy
 *3rd-level, Divination*  
 
 - **Casting time:** 1 minute
 - **Range:** Touch
-- **Components:** V, S, a drop of a creature's blood
+- **Components:** V, S, M (a drop of a creature's blood)
 - **Duration:** Instantaneous
 
 You can learn information about a creature whose blood you possess. The target must make a Wisdom saving throw. If the target knows you're casting the spell, it can fail the saving throw voluntarily if it wants you to learn the information. On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours. On a failed save, or if the blood belongs to a dead creature, you learn the following information:
@@ -38,6 +50,6 @@ You can learn information about a creature whose blood you possess. The target m
 
 Alternatively, you can forgo all of the above information and instead use the blood as a beacon to track the target. For 1 hour, as long as you are on the same plane of existence as the creature, you know the direction and distance to the target's location at the time you cast this spell. While moving toward the location, if you are presented with a choice of paths, the spell automatically indicates which path provides the shortest and most direct route to the location.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 80*

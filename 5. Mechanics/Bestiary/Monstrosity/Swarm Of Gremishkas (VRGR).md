@@ -13,7 +13,7 @@ tags:
 aliases:
   - Swarm of Gremishkas
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Swarm Of Gremishkas (VRGR).md|Swarm of Gremishkas]]
+# [[5. Mechanics\Bestiary\Monstrosity\Swarm Of Gremishkas (VRGR).md|Swarm of Gremishkas]]
 *Source: Van Richten's Guide to Ravenloft p. 235*
 
 Gremishkas are the vicious products of mistakes made by novice spellcasters seeking to create life. The results are cat-sized, magically unstable creatures with a taste for the trappings of magic—particularly spellbooks, spell components, familiars, and the like. Gremishkas delight in tormenting magic-users, holding vicious grudges against those who gave them life as they infest the walls of spellcasters' homes or the surrounding lands.
@@ -30,16 +30,18 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
 "ac": !!int "12"
 "hp": !!int "24"
 "hit_dice": "7d6"
+"modifier": !!int "2"
 "stats":
-- !!int "12"
-- !!int "14"
-- !!int "10"
-- !!int "12"
-- !!int "14"
-- !!int "4"
+  - !!int "12"
+  - !!int "14"
+  - !!int "10"
+  - !!int "12"
+  - !!int "14"
+  - !!int "4"
 "speed": "25 ft."
 "skillsaves":
-  "Perception": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+4"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
@@ -49,25 +51,25 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
 "languages": "understands Common but can't speak"
 "cr": "2"
 "traits":
-- "desc": "The swarm automatically succeeds on saving throws against spells of 3rd\
-    \ level or lower, and the attack rolls of such spells always miss it."
-  "name": "Limited Spell Immunity"
-- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
-    \ can move through any opening large enough for a Tiny gremishka. The swarm can't\
-    \ regain hit points or gain temporary hit points."
-  "name": "Swarm"
+  - "desc": "The swarm automatically succeeds on saving throws against spells of 3rd\
+      \ level or lower, and the attack rolls of such spells always miss it."
+    "name": "Limited Spell Immunity"
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through any opening large enough for a Tiny gremishka. The\
+      \ swarm can't regain hit points or gain temporary hit points."
+    "name": "Swarm"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm's\
-    \ space. Hit: 12 (3d6 + 2) piercing damage, or 5 (1d6 + 2) piercing damage if\
-    \ the swarm has half of its hit points or fewer, plus 7 (2d6) force damage."
-  "name": "Bites"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm's\
+      \ space. Hit: 12 (3d6 + 2) piercing damage, or 5 (1d6 + 2) piercing damage\
+      \ if the swarm has half of its hit points or fewer, plus 7 (2d6) force damage."
+    "name": "Bites"
 "reactions":
-- "desc": "In response to a spell attack roll missing the swarm, the swarm causes\
-    \ that spell to hit another creature of its choice within 30 feet of it that it\
-    \ can see."
-  "name": "Spell Redirection"
+  - "desc": "In response to a spell attack roll missing the swarm, the swarm causes\
+      \ that spell to hit another creature of its choice within 30 feet of it that\
+      \ it can see."
+    "name": "Spell Redirection"
 "source":
-- "VRGR"
+  - "VRGR"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/swarm-of-gremishkas-vrgr.webp"
 ```
 ^statblock

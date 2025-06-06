@@ -8,7 +8,7 @@ aliases:
   - Way of the Celestial
 ---
 # Way of the Celestial
-*[[Monk.md\|Monk]]: Monastic Tradition*  
+*[[.nullMonk.md\|Monk]]: Monastic Tradition*  
 *Source: The Griffon's Saddlebag, Book 1 p. 161*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Way%20of%20the%20Celestial%20(Level%203)'>Way of the Celestial</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Way of the Celestial (Level 3)' class='internal-link'>Way of the Celestial</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Stabilizing%20Ki%20(Level%206)'>Stabilizing Ki</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Stabilizing Ki (Level 6)' class='internal-link'>Stabilizing Ki</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Celestial%20Emissary%20(Level%2011)'>Celestial Emissary</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Celestial Emissary (Level 11)' class='internal-link'>Celestial Emissary</a></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Heavenborne%20(Level%2017)'>Heavenborne</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Heavenborne (Level 17)' class='internal-link'>Heavenborne</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -74,6 +75,6 @@ In addition, you are immune to scrying and to any effect that would sense your e
 
 ### Heavenborne (Level 17)
 
-At 17th level, your energy is perfectly intertwined with both harmful and healing celestial magic. Your unarmed strikes deal an extra `dice:1d4|noform|avg` (`1d4`) radiant damage, and you can now use your Stabilizing Ki as a bonus action, instead of an action, to heal a creature up to 30 feet away from you.
+At 17th level, your energy is perfectly intertwined with both harmful and healing celestial magic. Your unarmed strikes deal an extra `dice:1d4|noform|noparens|avg` (`d4`) radiant damage, and you can now use your Stabilizing Ki as a bonus action, instead of an action, to heal a creature up to 30 feet away from you.
 
 In addition, you gain a flying speed equal to your current walking speed. This benefit only works in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.

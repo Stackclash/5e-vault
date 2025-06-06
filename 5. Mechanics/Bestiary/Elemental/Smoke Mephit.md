@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: urban
 size: Small
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Smoke Mephit
 ---
-# [[5. Mechanics/Bestiary/Elemental/Smoke Mephit.md|Smoke Mephit]]
+# [[5. Mechanics\Bestiary\Elemental\Smoke Mephit.md|Smoke Mephit]]
 *Source: Monster Manual p. 217, Curse of Strahd*
 
 ## Mephits
@@ -39,42 +39,44 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
 "ac": !!int "12"
 "hp": !!int "22"
 "hit_dice": "5d6 + 5"
+"modifier": !!int "2"
 "stats":
-- !!int "6"
-- !!int "14"
-- !!int "12"
-- !!int "10"
-- !!int "10"
-- !!int "11"
+  - !!int "6"
+  - !!int "14"
+  - !!int "12"
+  - !!int "10"
+  - !!int "10"
+  - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Auran, Ignan"
 "cr": "1/4"
 "traits":
-- "desc": "The mephit can innately cast [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
-    \ requiring no material components. Its innate spellcasting ability is Charisma.\n\
-    \nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]"
-  "name": "Innate Spellcasting (1/Day)"
-- "desc": "When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius\
-    \ sphere centered on its space. The sphere is heavily obscured. Wind disperses\
-    \ the cloud, which otherwise lasts for 1 minute."
-  "name": "Death Burst"
+  - "desc": "The mephit can innately cast [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+      \ requiring no material components. Its innate spellcasting ability is Charisma.\n"
+    "name": "Innate Spellcasting (1/Day)"
+  - "desc": "When the mephit dies, it leaves behind a cloud of smoke that fills a\
+      \ 5-foot-radius sphere centered on its space. The sphere is heavily obscured.\
+      \ Wind disperses the cloud, which otherwise lasts for 1 minute."
+    "name": "Death Burst"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4\
-    \ + 2) slashing damage."
-  "name": "Claws"
-- "desc": "The mephit exhales a 15-foot cone of smoldering ash. Each creature in that\
-    \ area must succeed on a DC 10 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
-    \ until the end of the mephit's next turn."
-  "name": "Cinder Breath (Recharge 6)"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4\
+      \ (1d4 + 2) slashing damage."
+    "name": "Claws"
+  - "desc": "The mephit exhales a 15-foot cone of smoldering ash. Each creature in\
+      \ that area must succeed on a DC 10 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
+      \ until the end of the mephit's next turn."
+    "name": "Cinder Breath (Recharge 6)"
 "source":
-- "MM"
-- "CoS"
+  - "MM"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Elemental/token/smoke-mephit.webp"
 ```
 ^statblock

@@ -16,7 +16,7 @@ The sound of sloshing liquid can be heard from this flask whenever you swish it 
 
 ## Create Potion
 
-Alternatively, you can use an action to name one of the magical potions below while holding the empty flask. When you do, roll a `dice:d100|noform|avg` (`d100`); if the result is equal to or less than that potion's success threshold, the flask then fills with 1 ounce of the named potion (enough for one use). Otherwise, the flask fills with 1 ounce of water.
+Alternatively, you can use an action to name one of the magical potions below while holding the empty flask. When you do, roll a `dice:d100|noform|noparens|avg` (`d100`); if the result is equal to or less than that potion's success threshold, the flask then fills with 1 ounce of the named potion (enough for one use). Otherwise, the flask fills with 1 ounce of water.
 
 | Potion Name | Success Threshold |
 |-------------|-------------------|

@@ -10,14 +10,15 @@ tags:
   - item/weapon/ranged
 aliases:
   - Vigilus
-one-hand-damage: 1d6 P
-range: 30/120
+one-hand-damage: 1d6 piercing
+range: 30\120
+weight: 3
 ---
 # Vigilus
 *Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Vigilus.webp#right)  
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Weight**: 3.0 lbs.

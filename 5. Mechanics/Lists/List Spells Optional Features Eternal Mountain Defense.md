@@ -10,4 +10,4 @@ aliases:
 
 ## 4th Level
 
-- [[Stoneskin \|"PHB"]]
+- [[5. Mechanics/Spells/Stoneskin.md \|"PHB"]]

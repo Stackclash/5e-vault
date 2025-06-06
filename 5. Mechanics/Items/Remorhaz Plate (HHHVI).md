@@ -9,6 +9,7 @@ tags:
 aliases:
   - Remorhaz Plate
 armorClass: 18
+weight: 65
 ---
 # Remorhaz Plate
 *Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  

@@ -9,13 +9,14 @@ tags:
 aliases:
   - Blowgun
 cost: 1000
-one-hand-damage: 1 P
-range: 25/100
+one-hand-damage: 1 piercing
+range: 25\100
+weight: 1
 ---
 # Blowgun
 *Weapon*  
 
-- **Damage**: 1 P
+- **Damage**: 1 piercing
 - **Range**: 25/100
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Cost**: 10 gp

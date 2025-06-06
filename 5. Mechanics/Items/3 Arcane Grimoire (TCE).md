@@ -7,6 +7,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - +3 Arcane Grimoire
+weight: 3
 ---
 # +3 Arcane Grimoire
 *Wondrous item, very rare (requires attunement by a wizard)*  

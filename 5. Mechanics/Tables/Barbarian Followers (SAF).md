@@ -15,9 +15,9 @@ aliases:
 
 | dice: d100 | Follower |
 |------------|----------|
-| 01–06 | Elite Light Infantry (Size `dice:1d8\|noform\|avg` (`1d8`)), Unit |
-| 07–12 | Veteran Medium Cavalry (Size `dice:1d4\|noform\|avg` (`1d4`)), Unit |
-| 13–15 | Regular Light Airborne (size `dice:1d4\|noform\|avg` (`1d4`)), Unit |
+| 01–06 | Elite Light Infantry (Size `dice:1d8\|noform\|noparens\|avg` (`d8`)), Unit |
+| 07–12 | Veteran Medium Cavalry (Size `dice:1d4\|noform\|noparens\|avg` (`d4`)), Unit |
+| 13–15 | Regular Light Airborne (size `dice:1d4\|noform\|noparens\|avg` (`d4`)), Unit |
 | 16–17 | [[5. Mechanics/Bestiary/Humanoid/Exarch (SAF).md\|Exarch]] (3th level), Retainer |
 | 18–24 | [[5. Mechanics/Bestiary/Humanoid/Warlord (SAF).md\|Warlord]] (3rd level), Retainer |
 | 25–29 | [[5. Mechanics/Bestiary/Humanoid/Skinwalker (SAF).md\|Skinwalker]] (3rd level), Retainer |

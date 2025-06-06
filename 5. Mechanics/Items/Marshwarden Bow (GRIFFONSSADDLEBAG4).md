@@ -19,7 +19,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Marshwarden-bow.webp#right)  
 
 
-This bow is made of twisted cypress roots and covered in long, stringy moss. The bowstring is always slick with water. Nonmagical arrows fired from this bow deal an extra `dice:1d6|noform|avg` (`1d6`) acid or poison damage on a hit (your choice each time). When you're in a forest or swamp and are hidden from a creature, missing with an attack against it doesn't reveal your position.
+This bow is made of twisted cypress roots and covered in long, stringy moss. The bowstring is always slick with water. Nonmagical arrows fired from this bow deal an extra `dice:1d6|noform|noparens|avg` (`d6`) acid or poison damage on a hit (your choice each time). When you're in a forest or swamp and are hidden from a creature, missing with an attack against it doesn't reveal your position.
 
 ## Wretched Burst
 

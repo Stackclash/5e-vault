@@ -17,7 +17,7 @@ aliases:
         - **Cultural Consultancy.** Adam Lee, Tim Stone, Ivan Wong    
         - **Graphic Design.** Trystan Falcone, Emi Tanji, Trish Yochum    
         - **Cover Illustrators.** Scott M. Fischer, Anna Podedworna    
-        - **Interior Illustrators.** Helder Almeida, Mark Behm, Eric Belisle, Zoltan Boros, Christopher Burdett, Dawn Carlos, Paul Scott Canavan, Kai Carpenter, Sidharth Chaturvedi, David René Christensen, CoupleOfKooks, Nikki Dawes, Olga Drebas, Wayne England, Caroline Gariba, Lake Hurwitz, Sam Keiser, Julian Kok, Katerina Ladon, Olly Lawson, Titus Lunter, Andrew Mar, Scott Murphy, Irina Nordsol, Stephen Oakley, Robin Olausson, Livia Prima, April Prime, David Sladek, Anna Steinbauer, Shawn Wood, Zuzanna Wuzyk    
+        - **Interior Illustrators.** Helder Almeida, Mark Behm, Eric Belisle, Zoltan Boros, Christopher Burdett, Dawn Carlos, Paul Scott Canavan, Kai Carpenter, Sidharth Chaturvedi, David René Christensen, CoupleOfKooks, Nikki Dawes, Olga Drebas, Wayne England, Caroline Gariba, Lake Hurwitz, Sam Keiser, Julian Kok, Katerina Ladon, Olly Lawson, Titus Lunter, Andrew Mar, Scott Murphy, Irina Nordsol, Stephen Oakley, Robin Olausson, Livia Prima, April Prime, David Sladek, Anna Steinbauer, Shawn Wood, Zuzanna Wužyk    
         - **Cartographers.** Francesca Baerald, Jared Blando, Dyson Logos, Mike Schley    
         - **Concept Illustrators.** Shawn Wood, Titus Lunter, Kieran Yanner, Richard Whitters    
         - **Project Engineer.** Cynda Callaway    

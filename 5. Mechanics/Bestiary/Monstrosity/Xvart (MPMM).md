@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: 'hill, underdark'
 size: Small
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Xvart
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Xvart (MPMM).md|Xvart]]
+# [[5. Mechanics\Bestiary\Monstrosity\Xvart (MPMM).md|Xvart]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*
 
 Fleeing his pursuers, Raxivort wandered across the multiverse and spawned xvarts, who not only look like him but also cause any magic that could reveal his location to point to the nearest xvart instead.
@@ -35,40 +35,42 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "7"
 "hit_dice": "2d6"
+"modifier": !!int "2"
 "stats":
-- !!int "8"
-- !!int "14"
-- !!int "10"
-- !!int "8"
-- !!int "7"
-- !!int "7"
+  - !!int "8"
+  - !!int "14"
+  - !!int "10"
+  - !!int "8"
+  - !!int "7"
+  - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "senses": "darkvision 30 ft., passive Perception 8"
 "languages": "Abyssal"
 "cr": "1/8"
 "traits":
-- "desc": "The xvart can communicate with ordinary [[5. Mechanics/Bestiary/Beast/Bat.md|bats]]\
-    \ and [[5. Mechanics/Bestiary/Beast/Rat.md|rats]], as well as [[5. Mechanics/Bestiary/Beast/Giant Bat.md|giant bats]]\
-    \ and [[5. Mechanics/Bestiary/Beast/Giant Rat.md|giant rats]]."
-  "name": "Raxivort's Tongue"
+  - "desc": "The xvart can communicate with ordinary [[5. Mechanics/Bestiary/Beast/Bat.md|bats]]\
+      \ and [[5. Mechanics/Bestiary/Beast/Rat.md|rats]], as well as [[5. Mechanics/Bestiary/Beast/Giant Bat.md|giant bats]]\
+      \ and [[5. Mechanics/Bestiary/Beast/Giant Rat.md|giant rats]]."
+    "name": "Raxivort's Tongue"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) piercing damage. If at least one of the xvart's allies is within 5 feet\
-    \ of the target, the xvart can push the target 5 feet if the target is a Medium\
-    \ or smaller creature."
-  "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
-    \ 4 (1d4 + 2) bludgeoning damage."
-  "name": "Sling"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) piercing damage. If at least one of the xvart's allies is within 5 feet\
+      \ of the target, the xvart can push the target 5 feet if the target is a Medium\
+      \ or smaller creature."
+    "name": "Shortsword"
+  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+      \ 4 (1d4 + 2) bludgeoning damage."
+    "name": "Sling"
 "bonus_actions":
-- "desc": "The xvart takes the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\
-    \ action."
-  "name": "Low Cunning"
+  - "desc": "The xvart takes the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\
+      \ action."
+    "name": "Low Cunning"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/xvart-mpmm.webp"
 ```
 ^statblock

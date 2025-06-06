@@ -7,6 +7,11 @@ tags:
   - domain/knowledge
   - domain/life
   - domain/twilight
+alignment: Lawful Good
+category: The Gods of Good
+domains: 'Knowledge, Life, Twilight'
+pantheon: Dragonlance
+symbol: Blue infinity sign
 aliases:
   - Mishakal
 ---

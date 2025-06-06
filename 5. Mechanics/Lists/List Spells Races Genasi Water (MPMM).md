@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[Acid Splash \|"PHB"]] as cantrip
+- [[5. Mechanics/Spells/Acid Splash.md \|"PHB"]] as cantrip
 
 ## 1st Level
 
-- [[Create Or Destroy Water \|"PHB"]] as cantrip
+- [[5. Mechanics/Spells/Create Or Destroy Water.md \|"PHB"]] as cantrip
 
 ## 3rd Level
 
-- [[Water Walk \|"PHB"]] as cantrip
+- [[5. Mechanics/Spells/Water Wa(LK).md \|"PHB"]] as cantrip

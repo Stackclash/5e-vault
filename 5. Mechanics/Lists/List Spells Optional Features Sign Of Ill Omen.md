@@ -10,4 +10,4 @@ aliases:
 
 ## 3rd Level
 
-- [[Bestow Curse \|"PHB"]]
+- [[5. Mechanics/Spells/Bestow Curse.md \|"PHB"]]

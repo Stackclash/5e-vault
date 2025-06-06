@@ -32,7 +32,7 @@ aliases:
 - **Graphic Designer.** Debra Stubbe  
 - **Illustrator.** Clyde Caldwell  
 - **Cartographer.** David C. Sutherland III  
-- **Playtesters.** Robert Alaniz,* Mal A'menz,* Glen Ausse, Jerry Behrendt, Teddy Benson, Anthony Caroselli,* Christopher D'Andrea,* Jason Fransella,* Jeff Galper, Elyssa Grant, Steve Heitke, Mary Hershey, Sterling Hershey, Justin Hicks, Shaun Horner, Donald Jacobs, James Krot, Yan Lacharité,* Jonathan Longstaff,* Michael LeClair, Ray Lillard, Eric Lopez, J.M., Matt Maranda,* Cris McDaniel, Randy Merkel, Lou Michelli,* Mike Mihalas,* Daniel Norton,* Lucas Pierce, Claudio Pozas,* John Proudfoot,* Rob Quillen II, Karl Resch,* Jason Riley, Sarah Riley, Arthur Severance,* Sam Sherry,* Zach Sielaff, David "Oak" Stark,* Jayson Thiry, Steve Townshend,* Kyle Turner,* Will Vaughn, Peter Youngs  
+- **Playtesters.** Robert Alaniz,* Mal A'menz,* Glen Ausse, Jerry Behrendt, Teddy Benson, Anthony Caroselli,* Christopher D'Andrea,* Jason Fransella,* Jeff Galper, Elyssa Grant, Steve Heitke, Mary Hershey, Sterling Hershey, Justin Hicks, Shaun Horner, Donald Jacobs, James Krot, Yan Lacharité,* Jonathan Longstaff,* Michael LeClair, Ray Lillard, Eric Lopez, J.M., Matt Maranda,* Chris McDaniel, Randy Merkel, Lou Michelli,* Mike Mihalas,* Daniel Norton,* Lucas Pierce, Claudio Pozas,* John Proudfoot,* Rob Quillen II, Karl Resch,* Jason Riley, Sarah Riley, Arthur Severance,* Sam Sherry,* Zach Sielaff, David "Oak" Stark,* Jayson Thiry, Steve Townshend,* Kyle Turner,* Will Vaughn, Peter Youngs  
 - **This playtester provided feedback for a group.*  
 
 > [!note] 

@@ -8,6 +8,7 @@ tags:
 aliases:
   - Disguise Kit
 cost: 2500
+weight: 3
 ---
 # Disguise Kit
 *Tool*  

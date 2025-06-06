@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/nonhuman
   - domain/knowledge
+alignment: Neutral
+domains: Knowledge
+pantheon: Nonhuman
+symbol: Stalactite
 aliases:
   - Skoraeus Stonebones
 ---

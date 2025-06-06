@@ -16,19 +16,29 @@ tags:
   - spell/subclass/circle-of-the-land
   - spell/subclass/hedge-mage
   - spell/subclass/nature-domain
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land)
+  - Fighter (Arcane Archer)
+  - Wizard (Hedge Mage)
 school: Transmutation
-time: 1 action
+level: cantrip
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Druidcraft
+range: 30 feet
 ---
 # Druidcraft
 *cantrip, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
@@ -40,6 +50,6 @@ Whispering to the spirits of nature, you create one of the following effects wit
 - You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.  
 - You instantly light or snuff out a candle, a torch, or a small campfire.  
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Fighter Arcane Archer (XGE)\|Fighter (Arcane Archer)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [Fighter (Arcane Archer)](compendium/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Wizard (Hedge Mage)](compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

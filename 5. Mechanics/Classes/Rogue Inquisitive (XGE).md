@@ -8,7 +8,7 @@ aliases:
   - Inquisitive
 ---
 # Inquisitive
-*[[Rogue.md\|Rogue]]: Roguish Archetype*  
+*[[.nullRogue.md\|Rogue]]: Roguish Archetype*  
 *Source: Xanathar's Guide to Everything p. 45*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Inquisitive%20(Level%203)'>Inquisitive</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Inquisitive (Level 3)' class='internal-link'>Inquisitive</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Steady%20Eye%20(Level%209)'>Steady Eye</a></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Steady Eye (Level 9)' class='internal-link'>Steady Eye</a></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Unerring%20Eye%20(Level%2013)'>Unerring Eye</a></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Unerring Eye (Level 13)' class='internal-link'>Unerring Eye</a></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Eye%20for%20Weakness%20(Level%2017)'>Eye for Weakness</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Eye for Weakness (Level 17)' class='internal-link'>Eye for Weakness</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -50,7 +51,7 @@ As an archetypal Inquisitive, you excel at rooting out secrets and unraveling my
 
 ### Ear for Deceit (Level 3)
 
-When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check to determine whether a creature is lying, treat a roll of 7 or lower on the `dice:d20|noform|avg` (`d20`) as an 8.
+When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check to determine whether a creature is lying, treat a roll of 7 or lower on the `dice:d20|noform|noparens|avg` (`d20`) as an 8.
 
 ### Eye for Detail (Level 3)
 
@@ -74,4 +75,4 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Eye for Weakness (Level 17)
 
-At 17th level, you learn to exploit a creature's weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by `dice:3d6|noform|avg` (`3d6`).
+At 17th level, you learn to exploit a creature's weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by `dice:3d6|noform|noparens|avg` (`3d6`).

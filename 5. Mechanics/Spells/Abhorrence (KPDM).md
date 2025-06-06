@@ -13,25 +13,34 @@ tags:
   - spell/optfeature/pact-of-the-tome
   - spell/school/enchantment
   - spell/subclass/arcane-trickster
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Enchantment
-time: 1 action
+level: cantrip
+ritual: false
+time: 1 Action
 duration: 1 minute
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Abhorrence
 ---
 # Abhorrence
 *cantrip, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** 1 minute
 
-You temporarily make a creature within range less appealing to others. The target makes a Wisdom saving throw against your spell. On a successful save, the spell is ineffective. On a failed save, the next time the creature makes a Charisma check before the spell ends, roll a `dice:d6|noform|avg` (`d6`) and subtract the result from the roll. The spell then ends.
+You temporarily make a creature within range less appealing to others. The target makes a Wisdom saving throw against your spell. On a successful save, the spell is ineffective. On a failed save, the next time the creature makes a Charisma check before the spell ends, roll a `dice:d6|noform|noparens|avg` (`d6`) and subtract the result from the roll. The spell then ends.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 33*

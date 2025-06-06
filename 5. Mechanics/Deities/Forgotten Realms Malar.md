@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/nature
+alignment: Chaotic Evil
+domains: Nature
+pantheon: Forgotten Realms
+symbol: Clawed paw
 aliases:
   - Malar
 ---

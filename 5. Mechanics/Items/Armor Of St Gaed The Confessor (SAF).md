@@ -8,6 +8,7 @@ tags:
 aliases:
   - Armor of St. Gaed the Confessor
 armorClass: 18
+weight: 65
 ---
 # Armor of St. Gaed the Confessor
 *Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]])*  

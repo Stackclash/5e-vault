@@ -14,7 +14,7 @@ tags:
 aliases:
   - Minotaur Skeleton
 ---
-# [[5. Mechanics/Bestiary/Undead/Minotaur Skeleton.md|Minotaur Skeleton]]
+# [[5. Mechanics\Bestiary\Undead\Minotaur Skeleton.md|Minotaur Skeleton]]
 *Source: Monster Manual p. 273, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
@@ -52,13 +52,14 @@ A skeleton doesn't require air, food, drink, or sleep.
 "ac_class": "natural armor"
 "hp": !!int "67"
 "hit_dice": "9d10 + 18"
+"modifier": !!int "0"
 "stats":
-- !!int "18"
-- !!int "11"
-- !!int "15"
-- !!int "6"
-- !!int "8"
-- !!int "5"
+  - !!int "18"
+  - !!int "11"
+  - !!int "15"
+  - !!int "6"
+  - !!int "8"
+  - !!int "5"
 "speed": "40 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
@@ -68,21 +69,21 @@ A skeleton doesn't require air, food, drink, or sleep.
 "languages": "understands Abyssal but can't speak"
 "cr": "2"
 "traits":
-- "desc": "If the skeleton moves at least 10 feet straight toward a target and then\
-    \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
-    \ piercing damage. If the target is a creature, it must succeed on a DC 14 Strength\
-    \ saving throw or be pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
-  "name": "Charge"
+  - "desc": "If the skeleton moves at least 10 feet straight toward a target and then\
+      \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
+      \ piercing damage. If the target is a creature, it must succeed on a DC 14 Strength\
+      \ saving throw or be pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+    "name": "Charge"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (2d12\
-    \ + 4) slashing damage."
-  "name": "Greataxe"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8\
-    \ + 4) piercing damage."
-  "name": "Gore"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17\
+      \ (2d12 + 4) slashing damage."
+    "name": "Greataxe"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+      \ (2d8 + 4) piercing damage."
+    "name": "Gore"
 "source":
-- "MM"
-- "VEoR"
+  - "MM"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/minotaur-skeleton.webp"
 ```
 ^statblock

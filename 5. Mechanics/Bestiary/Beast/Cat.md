@@ -17,7 +17,7 @@ tags:
 aliases:
   - Cat
 ---
-# [[5. Mechanics/Bestiary/Beast/Cat.md|Cat]]
+# [[5. Mechanics\Bestiary\Beast\Cat.md|Cat]]
 *Source: Monster Manual p. 320, Curse of Strahd, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -28,32 +28,35 @@ aliases:
 "ac": !!int "12"
 "hp": !!int "2"
 "hit_dice": "1d4"
+"modifier": !!int "2"
 "stats":
-- !!int "3"
-- !!int "15"
-- !!int "10"
-- !!int "3"
-- !!int "12"
-- !!int "7"
+  - !!int "3"
+  - !!int "15"
+  - !!int "10"
+  - !!int "3"
+  - !!int "12"
+  - !!int "7"
 "speed": "40 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The cat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on smell."
-  "name": "Keen Smell"
+  - "desc": "The cat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on smell."
+    "name": "Keen Smell"
 "actions":
-- "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing\
-    \ damage."
-  "name": "Claws"
+  - "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing\
+      \ damage."
+    "name": "Claws"
 "source":
-- "MM"
-- "CoS"
-- "TCE"
+  - "MM"
+  - "CoS"
+  - "TCE"
 "image": "5. Mechanics/Bestiary/Beast/token/cat.webp"
 ```
 ^statblock

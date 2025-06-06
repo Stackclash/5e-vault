@@ -8,7 +8,7 @@ aliases:
   - Path of Nightmares
 ---
 # Path of Nightmares
-*[[Barbarian.md\|Barbarian]]: Primal Path*  
+*[[.nullBarbarian.md\|Barbarian]]: Primal Path*  
 *Source: The Griffon's Saddlebag, Book 3*  
 
 > [!tldr] Class and Feature Progression
@@ -20,18 +20,18 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path%20of%20Nightmares%20(Level%203)'>Path of Nightmares</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path of Nightmares (Level 3)' class='internal-link'>Path of Nightmares</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Waking%20Nightmare%20(Level%206)'>Waking Nightmare</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Waking Nightmare (Level 6)' class='internal-link'>Waking Nightmare</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Dreamseeker%20(Level%2010)'>Dreamseeker</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Dreamseeker (Level 10)' class='internal-link'>Dreamseeker</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Improved%20Apparition%20(Level%2014)'>Improved Apparition</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Improved Apparition (Level 14)' class='internal-link'>Improved Apparition</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -70,7 +71,7 @@ Starting when you choose this path at 3rd level, you harness your own fears to e
 
 Some of your features for this path use a special save DC, called your Nightmare save DC. The saving throw DC is calculated as follows:
 
-<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Strength or Dexterity modifier</span>
+<span class='abilityDc'>**Nightmare save DC**: your proficiency bonus + your Strength or Dexterity</span>
 
 ### Terrifying Fury (Level 3)
 

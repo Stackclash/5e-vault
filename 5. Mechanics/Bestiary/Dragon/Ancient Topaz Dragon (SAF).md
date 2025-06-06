@@ -13,7 +13,7 @@ tags:
 aliases:
   - Ancient Topaz Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Ancient Topaz Dragon (SAF).md|Ancient Topaz Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Ancient Topaz Dragon (SAF).md|Ancient Topaz Dragon]]
 *Source: Strongholds and Followers p. 217*
 
 The youngest species, the most enthusiastic about the world, the one you're most likely to meet, topaz dragons study magic obsessively, and their older kin consider this juvenile. When you're older you'll realize magic is just ambient interference from overlapping manifolds constrained by oblique functions. Well, poo on that, look, I made a fireball!
@@ -33,24 +33,29 @@ They're approachable and easy to talk to as long as you don't mind never getting
 "ac_class": "natural armor"
 "hp": !!int "231"
 "hit_dice": "22d20 + 0"
+"modifier": !!int "7"
 "stats":
-- !!int "20"
-- !!int "24"
-- !!int "10"
-- !!int "22"
-- !!int "16"
-- !!int "20"
+  - !!int "20"
+  - !!int "24"
+  - !!int "10"
+  - !!int "22"
+  - !!int "16"
+  - !!int "20"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  "Charisma": !!int "11"
-  "Dexterity": !!int "13"
-  "Wisdom": !!int "9"
-  "Intelligence": !!int "12"
+  - "dexterity": "+13"
+  - "intelligence": "+12"
+  - "wisdom": "+9"
+  - "charisma": "+11"
 "skillsaves":
-  "Religion": !!int "12"
-  "Insight": !!int "9"
-  "Perception": !!int "9"
-  "Arcana": !!int "12"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+12"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+9"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+9"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
+    "desc": "+12"
 "damage_vulnerabilities": "psychic"
 "damage_resistances": "bludgeoning, slashing, piercing from nonmagical weapons"
 "damage_immunities": "fire, lightning"
@@ -58,56 +63,56 @@ They're approachable and easy to talk to as long as you don't mind never getting
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "20"
 "traits":
-- "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Gemstone Dragon Psionics]].\
-    \ Charges: 22 • Recharge: 1d10 • Fracture: 23"
-  "name": ""
-- "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
-- "desc": "All allies within 30 feet gain +6 on Intelligence checks and saving throws."
-  "name": "Uplift Aura"
+  - "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].\
+      \ Charges: 22 • Recharge: d10 • Fracture: 23"
+    "name": ""
+  - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (3/Day)"
+  - "desc": "All allies within 30 feet gain +6 on Intelligence checks and saving throws."
+    "name": "Uplift Aura"
 "actions":
-- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 16\
-    \ (2d10 + 5) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 12\
-    \ (2d6 + 5) slashing damage."
-  "name": "Claw"
-- "desc": "Melee Weapon Attack: +11 to hit; reach 20 ft., one target. Hit: 14\
-    \ (2d8 + 5) bludgeoning damage."
-  "name": "Tail"
+  - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 16\
+      \ (2d10 + 5) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 12\
+      \ (2d6 + 5) slashing damage."
+    "name": "Claw"
+  - "desc": "Melee Weapon Attack: +11 to hit; reach 20 ft., one target. Hit: 14\
+      \ (2d8 + 5) bludgeoning damage."
+    "name": "Tail"
 "legendary_actions":
-- "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ Check."
-  "name": "Detect"
-- "desc": "The dragon uses a [[5. Mechanics/Lists/List Optfeaturetype Psi Man.md|psionic ability]]."
-  "name": "Psionics"
-- "desc": "The dragon releases a wave of telekinetic energy from its mind. Every creature\
-    \ within 15 feet must make a DC 24 Intelligence saving throw or take 13 (2d6 +\
-    \ 6) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
-    \ The dragon then can move up to half its movement speed."
-  "name": "Psionic Shift (Costs 2 Actions)"
+  - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ Check."
+    "name": "Detect"
+  - "desc": "The dragon uses a [[5. Mechanics/Lists/List Optfeaturetype Psi Man.md|psionic ability]]."
+    "name": "Psionics"
+  - "desc": "The dragon releases a wave of telekinetic energy from its mind. Every\
+      \ creature within 15 feet must make a DC 24 Intelligence saving throw or take\
+      \ 13 (2d6 + 6) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+      \ The dragon then can move up to half its movement speed."
+    "name": "Psionic Shift (Costs 2 Actions)"
 "lair_actions":
-- "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
-    \ action to cause one of the following effects. The dragon can't use the same\
-    \ effect two rounds in a row."
-  "name": ""
-- "desc": "- The dragon manifests [[5. Mechanics/Optional Features/Another World (SAF).md|another world]]\
-    \ at no cost. It affects up to four creatures.  \n- The dragon remembers a 5th-level\
-    \ spell it once researched, and casts it. Its spellcasting ability is Intelligence,\
-    \ and the save DC to resist its spells is 21.  \n- The dragon remembers [[5. Mechanics/Spells/Counterspell.md|counterspell]]\
-    \ and can cast it as a reaction within the next minute. The dragon's spellcasting\
-    \ ability is Intelligence.  "
-  "name": ""
+  - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
+      \ action to cause one of the following effects. The dragon can't use the same\
+      \ effect two rounds in a row."
+    "name": ""
+  - "desc": "- The dragon manifests [[5. Mechanics/Optional Features/Another World (SAF).md|another world]]\
+      \ at no cost. It affects up to four creatures.  \n- The dragon remembers a 5th-level\
+      \ spell it once researched, and casts it. Its spellcasting ability is Intelligence,\
+      \ and the save DC to resist its spells is 21.  \n- The dragon remembers [[5. Mechanics/Spells/Counterspell.md|counterspell]]\
+      \ and can cast it as a reaction within the next minute. The dragon's spellcasting\
+      \ ability is Intelligence.  "
+    "name": ""
 "regional_effects":
-- "desc": "Intelligent creatures who sleep within 12 miles of a topaz dragon's lair\
-    \ dream of ancient lore they never studied, and in these dreams they hold conversations\
-    \ with sages speaking languages the dreamer does not know, but in the dream can\
-    \ speak and understand."
-  "name": ""
+  - "desc": "Intelligent creatures who sleep within 12 miles of a topaz dragon's lair\
+      \ dream of ancient lore they never studied, and in these dreams they hold conversations\
+      \ with sages speaking languages the dreamer does not know, but in the dream\
+      \ can speak and understand."
+    "name": ""
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large%20Topaz%20Dragon.png"
 ```
 ^statblock

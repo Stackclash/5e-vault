@@ -22,7 +22,7 @@ tags:
 aliases:
   - Druid
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Druid.md|Druid]]
+# [[5. Mechanics\Bestiary\Humanoid\Druid.md|Druid]]
 *Source: Monster Manual p. 346, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.
@@ -37,40 +37,44 @@ Druids dwell in forests and other secluded wilderness locations, where they prot
 "ac_class": "16 with [[5. Mechanics/Spells/Barkskin.md|barkskin]]"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
+"modifier": !!int "1"
 "stats":
-- !!int "10"
-- !!int "12"
-- !!int "13"
-- !!int "12"
-- !!int "15"
-- !!int "11"
+  - !!int "10"
+  - !!int "12"
+  - !!int "13"
+  - !!int "12"
+  - !!int "15"
+  - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Medicine": !!int "4"
-  "Nature": !!int "3"
-  "Perception": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Nature|Nature]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+4"
 "senses": "passive Perception 14"
 "languages": "Druidic plus any two languages"
 "cr": "2"
 "traits":
-- "desc": "The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 12, +4 to hit with spell attacks). It has the following druid\
-    \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
-    \ [[5. Mechanics/Spells/Produce Flame.md|produce flame]], [[5. Mechanics/Spells/Shillelagh.md|shillelagh]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Longstrider.md|longstrider]],\
-    \ [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]], [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Animal Messenger.md|animal messenger]],\
-    \ [[5. Mechanics/Spells/Barkskin.md|barkskin]]"
-  "name": "Spellcasting"
+  - "desc": "The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
+      \ (spell save DC 12, +4 to hit with spell attacks). It has the following druid\
+      \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
+      \ [[5. Mechanics/Spells/Produce Flame.md|produce flame]], [[5. Mechanics/Spells/Shillelagh.md|shillelagh]]\n\
+      \n1st level (4 slots): [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Longstrider.md|longstrider]],\
+      \ [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]], [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\
+      \n2nd level (3 slots): [[5. Mechanics/Spells/Animal Messenger.md|animal messenger]],\
+      \ [[5. Mechanics/Spells/Barkskin.md|barkskin]]"
+    "name": "Spellcasting"
 "actions":
-- "desc": "Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 ft.,\
-    \ one target. Hit: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if\
-    \ wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with [[5. Mechanics/Spells/Shillelagh.md|shillelagh]]."
-  "name": "Quarterstaff"
+  - "desc": "Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5\
+      \ ft., one target. Hit: 3 (d6) bludgeoning damage, 4 (d8) bludgeoning damage\
+      \ if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with [[5. Mechanics/Spells/Shillelagh.md|shillelagh]]."
+    "name": "Quarterstaff"
 "source":
-- "MM"
-- "CoS"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/druid.webp"
 ```
 ^statblock

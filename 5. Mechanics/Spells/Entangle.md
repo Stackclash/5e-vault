@@ -14,19 +14,38 @@ tags:
   - spell/subclass/greenleaf-college
   - spell/subclass/hedge-mage
   - spell/subclass/the-many
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Bard (Greenleaf College)
+  - Druid
+  - Druid (Circle of the Grove)
+  - Ranger
+  - Ranger (Angler)
+  - Warlock (The Many)
+  - Wizard (Hedge Mage)
 school: Conjuration
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 1
+ritual: false
+time: 1 Action
+duration: Up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Entangle
+range: 90 feet
+save:
+  type: STR
+  success: none
+area:
+  type: cube
+  size: 20
+concentration: true
 ---
 # Entangle
 *1st-level, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 90 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -37,6 +56,6 @@ A creature in the area when you cast the spell must succeed on a Strength saving
 
 When the spell ends, the conjured plants wilt away.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Ranger Angler (GRIFFONSSADDLEBAG3)\|Ranger (Angler)]]; [[List Spells Classes Druid Circle Of The Grove (GRIFFONSSADDLEBAG3)\|Druid (Circle of the Grove)]]; [[List Spells Classes Bard Greenleaf College (KPDM)\|Bard (Greenleaf College)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]; [[List Spells Classes Warlock The Many (GRIFFONSSADDLEBAG2)\|Warlock (The Many)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Bard (Greenleaf College)](compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Warlock (The Many)](compendium/lists/list-spells-classes-the-many-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Druid (Circle of the Grove)](compendium/lists/list-spells-classes-circle-of-the-grove-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Ranger (Angler)](compendium/lists/list-spells-classes-angler-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Wizard (Hedge Mage)](compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 238. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

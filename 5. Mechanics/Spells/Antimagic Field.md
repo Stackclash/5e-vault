@@ -9,21 +9,35 @@ tags:
   - spell/level/8th-level
   - spell/school/abjuration
   - spell/subclass/divine-soul
-level: 8th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul)
+  - Wizard
 school: Abjuration
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, a pinch of powdered iron or iron filings'
+level: 8
+ritual: false
+time: 1 Action
+duration: Up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Antimagic Field
+range: Self
+material: A pinch of powdered iron or iron filings.
+area:
+  type: sphere
+  size: 10
+concentration: true
 ---
 # Antimagic Field
 *8th-level, Abjuration*  
 
-- **Casting time:** 1 action
-- **Range:** Self (10-feet sphere)
-- **Components:** V, S, a pinch of powdered iron or iron filings
+- **Casting time:** 1 Action
+- **Range:** Self (10-foot Sphere)
+- **Components:** V, S, M (a pinch of powdered iron or iron filings)
 - **Duration:** Concentration, up to 1 hour
 
 A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can't be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.
@@ -62,6 +76,6 @@ Spells and magical effects such as [[5. Mechanics/Spells/Dispel Magic.md\|dispel
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

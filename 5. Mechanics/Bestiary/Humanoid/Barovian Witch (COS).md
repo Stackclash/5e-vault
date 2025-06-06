@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Barovian Witch
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md|Barovian Witch]]
+# [[5. Mechanics\Bestiary\Humanoid\Barovian Witch (COS).md|Barovian Witch]]
 *Source: Curse of Strahd p. 229*
 
 The mad women and men known as Barovian witches forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use [[5. Mechanics/Spells/Alter Self.md|alter self]] spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
@@ -37,38 +37,41 @@ Barovian witches use the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] 
 "ac": !!int "10"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
+"modifier": !!int "0"
 "stats":
-- !!int "7"
-- !!int "11"
-- !!int "13"
-- !!int "14"
-- !!int "11"
-- !!int "12"
+  - !!int "7"
+  - !!int "11"
+  - !!int "13"
+  - !!int "14"
+  - !!int "11"
+  - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "2"
-  "Arcana": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common"
 "cr": "1/2"
 "traits":
-- "desc": "The witch is a 3rd-level spellcaster. Its spellcasting ability is Intelligence\
-    \ (spell save DC 12, +4 to hit with spell attacks). The witch has the following\
-    \ wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]],\
-    \ [[5. Mechanics/Spells/Sleep.md|sleep]], [[5. Mechanics/Spells/Tashas Hideous Laughter.md|Tasha's hideous laughter]]\n\
-    \n2nd level (2 slots): [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
-  "name": "Spellcasting"
+  - "desc": "The witch is a 3rd-level spellcaster. Its spellcasting ability is Intelligence\
+      \ (spell save DC 12, +4 to hit with spell attacks). The witch has the following\
+      \ wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
+      \n1st level (4 slots): [[5. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]],\
+      \ [[5. Mechanics/Spells/Sleep.md|sleep]], [[5. Mechanics/Spells/Tashas Hideous Laughter.md|Tasha's hideous laughter]]\n\
+      \n2nd level (2 slots): [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
+    "name": "Spellcasting"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
-    \ + 1) slashing damage. This attack is magical."
-  "name": "Claws (Requires Alter Self)"
-- "desc": "Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60\
-    \ ft., one target. Hit: 2 (1d4) piercing damage."
-  "name": "Dagger"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+      \ + 1) slashing damage. This attack is magical."
+    "name": "Claws (Requires Alter Self)"
+  - "desc": "Melee  or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. Hit: 2 (d4) piercing damage."
+    "name": "Dagger"
 "source":
-- "CoS"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Humanoid/token/barovian-witch-cos.webp"
 ```
 ^statblock

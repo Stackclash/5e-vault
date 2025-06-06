@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/cos
 aliases:
-  - 'Chapter 3: The Village of Barovia'
+  - Chapter 3: The Village of Barovia
 ---
 # Chapter 3: The Village of Barovia
 *Source: Curse of Strahd, p. 41* 
@@ -34,7 +34,7 @@ When the fog eventually burns off, Castle Ravenloft looms over the village, like
 
 ### House Occupants
 
-If the characters explore a residence other than [[4. World Almanac/NPCs/Mad Mary (COS).md\|Mad Mary]]'s townhouse (area E3) or the burgomaster's mansion (area E4), roll a `dice:d20|noform|avg` (`d20`) and consult the following table to determine the house's occupants.
+If the characters explore a residence other than [[4. World Almanac/NPCs/Mad Mary (COS).md\|Mad Mary]]'s townhouse (area E3) or the burgomaster's mansion (area E4), roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the following table to determine the house's occupants.
 
 **Occupants of Houses in Barovia**
 
@@ -43,9 +43,9 @@ If the characters explore a residence other than [[4. World Almanac/NPCs/Mad Mar
 | dice: d20 | Occupants |
 |-----------|-----------|
 | 1–3 | None |
-| 4–8 | `dice:2d4\|noform\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarms of rats]] |
+| 4–8 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarms of rats]] |
 | 9–16 | Barovian villagers |
-| 17–20 | `dice:2d4\|noform\|avg` (`2d4`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md\|Strahd zombies]] (see appendix D) |
+| 17–20 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md\|Strahd zombies]] (see appendix D) |
 ^occupants-of-houses-in-barovia
 
 #### Rats
@@ -54,7 +54,7 @@ A house infested with rats looks abandoned. The rats are servants of Strahd and 
 
 #### Barovian Villagers
 
-A house of Barovian villagers is home to `dice:1d4|noform|avg` (`1d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]) and `dice:1d8|noform|avg` (`1d8`)−1 children (male and female noncombatants). Characters who listen at the door hear low, muffled whispers from within. These villagers aren't interested in speaking with strangers and never attack first, always fleeing from danger if possible. At night they cower by candlelight and keep makeshift holy symbols close at hand.
+A house of Barovian villagers is home to `dice:1d4|noform|noparens|avg` (`d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]) and `dice:1d8|noform|noparens|avg` (`d8`)−1 children (male and female noncombatants). Characters who listen at the door hear low, muffled whispers from within. These villagers aren't interested in speaking with strangers and never attack first, always fleeing from danger if possible. At night they cower by candlelight and keep makeshift holy symbols close at hand.
 
 #### Strahd Zombies
 

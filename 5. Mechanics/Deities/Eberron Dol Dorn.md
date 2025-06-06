@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/eberron
   - domain/war
+alignment: Chaotic Good
+category: The Sovereign Host
+domains: War
+pantheon: Eberron
+symbol: Longsword crossed over a shield
 aliases:
   - Dol Dorn
 ---

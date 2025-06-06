@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/vgm
   - deity/orc
   - domain/war
+alignment: Lawful Evil
+domains: War
+pantheon: Orc
+symbol: Upright blood-spattered sword
 aliases:
   - Ilneval
 ---

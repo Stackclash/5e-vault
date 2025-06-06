@@ -13,13 +13,13 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ashen-Bloom.webp#right)  
 
 
-An ashen bloom is a rare flower that grows in earth that's been charred by a phoenix's fire. Once it blooms, it continues to live indefinitely until all of its petals are removed, even if it's plucked from the soil. When found, an ashen bloom has `dice:2d4+2|noform|avg` (`2d4 + 2`) petals remaining. The flower crumbles to ash once its last petal is removed.
+An ashen bloom is a rare flower that grows in earth that's been charred by a phoenix's fire. Once it blooms, it continues to live indefinitely until all of its petals are removed, even if it's plucked from the soil. When found, an ashen bloom has `dice:2d4+2|noform|noparens|avg` (`2d4 + 2`) petals remaining. The flower crumbles to ash once its last petal is removed.
 
 Its petals have a variety of uses. You can pluck one of its petals as part of the options below. Once a petal has been used, it loses its magic.
 
 ## Component
 
-You can use one petal as part of casting a spell that deals fire damage. When you do, choose one creature that takes damage from the spell. That target takes an extra `dice:2d6|noform|avg` (`2d6`) fire damage.
+You can use one petal as part of casting a spell that deals fire damage. When you do, choose one creature that takes damage from the spell. That target takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) fire damage.
 
 ## Eaten
 
@@ -27,7 +27,7 @@ You can eat one petal using an action. When you do, you're cured of either one d
 
 ## Smoked
 
-You can smoke one petal in a pipe or similar object over the course of 1 minute, at which time you gain resistance to fire damage for `dice:1d4|noform|avg` (`1d4`) hours. The exhaled smoke is red.
+You can smoke one petal in a pipe or similar object over the course of 1 minute, at which time you gain resistance to fire damage for `dice:1d4|noform|noparens|avg` (`d4`) hours. The exhaled smoke is red.
 
 ## Steeped
 

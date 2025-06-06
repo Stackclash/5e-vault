@@ -24,7 +24,7 @@ Inside the tree are 10 floors. You choose how to distribute the floors throughou
 
 The canopy of the tree extends 30 feet beyond the base of the tree. Soil beneath the tree's canopy is exceptionally rich and fertile.
 
-The tree has 500 hit points, immunity to damage from nonmagical weapons that aren't siege weapons, and resistance to siege weapons and all other damage. The door has 100 hit points. The tree regains `dice:1d6|noform|avg` (`1d6`) lost hit points every day after taking damage. If a part of the tree, such as the door, is destroyed, a new one regrows after 7 days.
+The tree has 500 hit points, immunity to damage from nonmagical weapons that aren't siege weapons, and resistance to siege weapons and all other damage. The door has 100 hit points. The tree regains `dice:1d6|noform|noparens|avg` (`d6`) lost hit points every day after taking damage. If a part of the tree, such as the door, is destroyed, a new one regrows after 7 days.
 
 If the tree is attacked, it immediately creates a [[5. Mechanics/Bestiary/Plant/Treant.md\|treant]] at its base to defend it. Roll initiative for the treant, which has its own turns and does its best to defend the tree. Once a treant is created in this way, a new one can't be created until the next dawn. A treant disappears after 24 hours, and there can only be one summoned treant at a time. Neither the treant nor the dryad can move farther than 1 mile from the tree. If the dryad is slain, it reappears the following dawn at the base of the tree. If you kill the dryad, the tree becomes a nonmagical tree that is still hollow inside with the floors you'd chosen, but its windows are lost.
 

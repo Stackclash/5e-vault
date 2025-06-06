@@ -8,6 +8,7 @@ tags:
 aliases:
   - Traveler's Clothes
 cost: 200
+weight: 4
 ---
 # Traveler's Clothes
 *Adventuring gear*  

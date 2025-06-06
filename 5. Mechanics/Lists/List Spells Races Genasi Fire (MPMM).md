@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[Produce Flame \|"PHB"]] at class level 3
+- [[5. Mechanics/Spells/Produce Flame.md \|"PHB"]] at class level 3
 
 ## 1st Level
 
-- [[Burning Hands \|"PHB"]] at class level 3
+- [[5. Mechanics/Spells/Burning Hands.md \|"PHB"]] at class level 3
 
 ## 2nd Level
 
-- [[Flame Blade \|"PHB"]] at class level 3
+- [[5. Mechanics/Spells/Flame Blade.md \|"PHB"]] at class level 3

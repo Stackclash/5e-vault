@@ -16,7 +16,7 @@ tags:
 aliases:
   - Shadar-kai Shadow Dancer
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Shadar Kai Shadow Dancer (MPMM).md|Shadar-kai Shadow Dancer]]
+# [[5. Mechanics\Bestiary\Humanoid\Shadar Kai Shadow Dancer (MPMM).md|Shadar-kai Shadow Dancer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 225*
 
 Those who have fought shadow dancers describe the experience as similar to fighting a living darkness. Every dim alcove and darkened nook is a place the lithe and acrobatic shadow dancers can emerge from to ambush their prey. Using this tactic, they attack their enemies from all angles with a flurry of entangling chains that hold fast and corrupt the flesh. When their quarry is helpless, they dispatch it and then loot the corpse for trinkets, particularly anything colorful and lively to gaze at after they return to the gloom of the Shadowfell.
@@ -47,50 +47,52 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
+"modifier": !!int "3"
 "stats":
-- !!int "12"
-- !!int "16"
-- !!int "13"
-- !!int "11"
-- !!int "12"
-- !!int "12"
+  - !!int "12"
+  - !!int "16"
+  - !!int "13"
+  - !!int "11"
+  - !!int "12"
+  - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "6"
+  - "dexterity": "+6"
+  - "charisma": "+4"
 "skillsaves":
-  "Stealth": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+6"
 "damage_resistances": "necrotic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Elvish"
 "cr": "7"
 "traits":
-- "desc": "The shadar-kai has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
-    \ and magic can't put it to sleep."
-  "name": "Fey Ancestry"
+  - "desc": "The shadar-kai has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+      \ and magic can't put it to sleep."
+    "name": "Fey Ancestry"
 "actions":
-- "desc": "The shadar-kai makes three Spiked Chain attacks.\n\nIt can use Shadow Jump\
-    \ after one of these attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6\
-    \ + 3) piercing damage. The target must succeed on a DC 14 Dexterity saving throw\
-    \ or suffer one of the following effects (choose one or roll a d6):\n\n- 1–\
-    2 Decay. The target takes 22 (4d10) necrotic damage.  \n- 3–4 Grapple. The\
-    \ target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 14)\
-    \ if it is a Medium or smaller creature. Until the grapple ends, the target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], and the shadar-kai\
-    \ can't grapple another target.  \n- 5–6 Topple. The target is knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
-    \  "
-  "name": "Spiked Chain"
+  - "desc": "The shadar-kai makes three Spiked Chain attacks.\n\nIt can use Shadow\
+      \ Jump after one of these attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10\
+      \ (2d6 + 3) piercing damage. The target must succeed on a DC 14 Dexterity saving\
+      \ throw or suffer one of the following effects (choose one or roll a d6):\n\n\
+      - 1–2 Decay. The target takes 22 (4d10) necrotic damage.  \n- 3–4 Grapple.\
+      \ The target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape\
+      \ DC 14) if it is a Medium or smaller creature. Until the grapple ends, the\
+      \ target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], and the\
+      \ shadar-kai can't grapple another target.  \n- 5–6 Topple. The target is\
+      \ knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].  "
+    "name": "Spiked Chain"
 "bonus_actions":
-- "desc": "The shadar-kai teleports, along with any equipment is it wearing or carrying,\
-    \ up to 30 feet to an unoccupied space it can see. Both the space it teleports\
-    \ from and the space it teleports to must be in dim light or darkness."
-  "name": "Shadow Jump"
+  - "desc": "The shadar-kai teleports, along with any equipment is it wearing or carrying,\
+      \ up to 30 feet to an unoccupied space it can see. Both the space it teleports\
+      \ from and the space it teleports to must be in dim light or darkness."
+    "name": "Shadow Jump"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Humanoid/token/shadar-kai-shadow-dancer-mpmm.webp"
 ```
 ^statblock

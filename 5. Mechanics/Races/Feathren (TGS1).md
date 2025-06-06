@@ -11,7 +11,7 @@ aliases:
 *Source: The Griffon's Saddlebag, Book 1 p. 154*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Feathren.webp#right)  
 
-- **Ability Scores**: Apply +2 to one of Intelligence, Wisdom, Charisma
+- **Ability Scores**: Apply +1 to one of Intelligence, Wisdom, or Charisma.
 - **Size**: Medium
 - **Speed**: walk: 30 ft.
 

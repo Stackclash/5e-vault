@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Periapt of Health
+weight: 1
 ---
 # Periapt of Health
 *Wondrous item, minor, uncommon*  

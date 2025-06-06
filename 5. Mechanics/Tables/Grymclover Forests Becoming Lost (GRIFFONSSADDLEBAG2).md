@@ -16,6 +16,6 @@ Finding your way through a forest that's been mutated like this is exceptionally
 | dice: d8 | Setback |
 |----------|---------|
 | 1 | Completely lost, the party gets turned around and ends the day at the edge of the forest where they initially entered. |
-| 2–7 | Confused and wandering, the party ends the day up to `dice:2d4\|noform\|avg` (`2d4`) miles in a random direction away from their intended destination for that day. |
-| 8 | Despite getting lost, the party recovers and ends the day only `dice:1d4\|noform\|avg` (`1d4`) miles away from their intended destination for that day. |
+| 2–7 | Confused and wandering, the party ends the day up to `dice:2d4\|noform\|noparens\|avg` (`2d4`) miles in a random direction away from their intended destination for that day. |
+| 8 | Despite getting lost, the party recovers and ends the day only `dice:1d4\|noform\|noparens\|avg` (`d4`) miles away from their intended destination for that day. |
 ^setback

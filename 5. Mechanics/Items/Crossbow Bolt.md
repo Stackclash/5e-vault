@@ -8,6 +8,7 @@ tags:
 aliases:
   - Crossbow Bolt
 cost: 5
+weight: 0.075
 ---
 # Crossbow Bolt
 *Ammunition*  

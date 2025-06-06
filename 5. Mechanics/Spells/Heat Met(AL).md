@@ -10,29 +10,45 @@ tags:
   - spell/school/transmutation
   - spell/subclass/festus-domain
   - spell/subclass/forge-domain
-level: 2nd-level
-range: false
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Festus Domain)
+  - Cleric (Forge Domain)
+  - Druid
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S, a piece of iron and a flame'
+level: 2
+ritual: false
+time: 1 Action
+duration: Up to 1 minute
+components:
+  - V
+  - S
+  - M
 aliases:
   - Heat Metal
+range: 60 feet
+material: A piece of iron and a flame.
+damageType: Fire
+save:
+  type: CON
+  success: other
+concentration: true
 ---
 # Heat Metal
 *2nd-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
-- **Components:** V, S, a piece of iron and a flame
+- **Components:** V, S, M (a piece of iron and a flame)
 - **Duration:** Concentration, up to 1 minute
 
-Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes `dice:2d8|noform|avg` (`2d8`) fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.
+Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes `dice:2d8|noform|noparens|avg` (`2d8`) fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.
 
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|avg|text(1d8)` for each slot level above 2nd.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 2nd.
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Cleric Festus Domain (GRIFFONSSADDLEBAG2)\|Cleric (Festus Domain)]]; [[List Spells Classes Cleric Forge Domain (XGE)\|Cleric (Forge Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [Cleric (Festus Domain)](compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Cleric (Forge Domain)](compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

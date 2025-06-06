@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/norse
   - domain/war
+alignment: Lawful Evil
+domains: War
+pantheon: Norse
+symbol: Flaming sword
 aliases:
   - Surtur
 ---

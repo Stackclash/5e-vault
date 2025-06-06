@@ -10,25 +10,34 @@ tags:
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/abjuration
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Abjuration
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 5
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Energy Absorption
+concentration: true
 ---
 # Energy Absorption
 *5th-level, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
 A creature you touch has resistance to acid, cold, fire, force, lightning, and thunder damage until the spell ends. If the spell is used against an unwilling creature, you must make a melee spell attack with a reach of 5 feet. If the attack hits, for the duration of the spell the affected creature must make a saving throw using its spellcasting ability whenever it casts a spell that deals one of the given damage types. On a failed save, the spell is not cast but its slot is expended; on a successful save, the spell is cast but its damage is halved before applying the effects of saving throws, resistance, and other factors.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 67*

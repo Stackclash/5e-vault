@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greek
   - domain/tempest
+alignment: Neutral
+domains: Tempest
+pantheon: Greek
+symbol: Fist full of lightning bolts
 aliases:
   - Zeus
 ---

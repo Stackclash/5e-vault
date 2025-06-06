@@ -18,21 +18,44 @@ tags:
   - spell/subclass/monster-slayer
   - spell/subclass/oath-of-the-watchers
   - spell/subclass/oath-of-vengeance
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Paladin (Oath of Vengeance)
+  - Paladin (Oath of the Watchers)
+  - Ranger (Horizon Walker)
+  - Ranger (Monster Slayer)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul)
+  - Warlock
+  - Wizard
 school: Abjuration
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S, an item distasteful to the target'
+level: 4
+ritual: false
+time: 1 Action
+duration: Up to 1 minute
+components:
+  - V
+  - S
+  - M
 aliases:
   - Banishment
+range: 60 feet
+material: An item distasteful to the target.
+save:
+  type: CHA
+  success: none
+concentration: true
 ---
 # Banishment
 *4th-level, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
-- **Components:** V, S, an item distasteful to the target
+- **Components:** V, S, M (an item distasteful to the target)
 - **Duration:** Concentration, up to 1 minute
 
 You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished.
@@ -43,6 +66,6 @@ If the target is native to a different plane of existence than the one you're on
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Horizon Walker (XGE)\|Ranger (Horizon Walker)]]; [[List Spells Classes Ranger Monster Slayer (XGE)\|Ranger (Monster Slayer)]]; [[List Spells Classes Paladin Oath Of The Watchers (TCE)\|Paladin (Oath of the Watchers)]]; [[List Spells Classes Paladin Oath Of Vengeance\|Paladin (Oath of Vengeance)]]
+**Classes**: [Paladin (Oath of the Watchers)](compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Ranger (Monster Slayer)](compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Ranger (Horizon Walker)](compendium/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 217. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

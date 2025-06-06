@@ -10,4 +10,4 @@ aliases:
 
 ## 1st Level
 
-- [[Find Familiar \|"PHB"]]
+- [[5. Mechanics/Spells/Find Familiar.md \|"PHB"]]

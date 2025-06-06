@@ -8,6 +8,7 @@ tags:
   - item/wondrous/rod
 aliases:
   - Camper's Respite
+weight: 3
 ---
 # Camper's Respite
 *Rod, minor, uncommon*  

@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/elven
   - domain/life
+alignment: Chaotic Neutral
+category: The Seldarine
+domains: Life
+pantheon: Elven
+province: 'Romance, lust, dance'
+symbol: Lips
 aliases:
   - Zandilar
 ---

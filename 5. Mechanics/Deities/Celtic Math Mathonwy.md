@@ -6,6 +6,10 @@ tags:
   - deity/celtic
   - domain/arcana
   - domain/knowledge
+alignment: Neutral Evil
+domains: 'Knowledge, Arcana'
+pantheon: Celtic
+symbol: Staff
 aliases:
   - Math Mathonwy
 ---

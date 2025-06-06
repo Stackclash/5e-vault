@@ -14,7 +14,7 @@ tags:
 aliases:
   - Fomorian
 ---
-# [[5. Mechanics/Bestiary/Giant/Fomorian.md|Fomorian]]
+# [[5. Mechanics\Bestiary\Giant\Fomorian.md|Fomorian]]
 *Source: Monster Manual p. 136, Vecna: Eve of Ruin*
 
 The most hideous and wicked of all giantkind are the godless fomorians, whose deformed bodies reflect their vile demeanors. Some have facial features randomly distributed around their misshapen, warty heads. Others have limbs of grossly different sizes and shapes, or emit terrible howls each time they draw breath through misshapen mouths. Their wretched appearance rarely evokes sympathy, however, for the fomorians brought their doom upon themselves with the evil that rules their hearts and minds.
@@ -46,40 +46,44 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
 "ac_class": "natural armor"
 "hp": !!int "149"
 "hit_dice": "13d12 + 65"
+"modifier": !!int "0"
 "stats":
-- !!int "23"
-- !!int "10"
-- !!int "20"
-- !!int "9"
-- !!int "14"
-- !!int "6"
+  - !!int "23"
+  - !!int "10"
+  - !!int "20"
+  - !!int "9"
+  - !!int "14"
+  - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "3"
-  "Perception": !!int "8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+3"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Giant, Undercommon"
 "cr": "8"
 "actions":
-- "desc": "The fomorian attacks twice with its greatclub or makes one greatclub attack\
-    \ and uses Evil Eye once."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 19 (3d8\
-    \ + 6) bludgeoning damage."
-  "name": "Greatclub"
-- "desc": "The fomorian magically forces a creature it can see within 60 feet of it\
-    \ to make a DC 14 Charisma saving throw. The creature takes 27 (6d8) psychic damage\
-    \ on a failed save, or half as much damage on a successful one."
-  "name": "Evil Eye"
-- "desc": "With a stare, the fomorian uses Evil Eye, but on a failed save, the creature\
-    \ is also cursed with magical deformities. While deformed, the creature has its\
-    \ speed halved and has disadvantage on ability checks, saving throws, and attacks\
-    \ based on Strength or Dexterity.\n\nThe transformed creature can repeat the saving\
-    \ throw whenever it finishes a long rest, ending the effect on a success."
-  "name": "Curse of the Evil Eye (Recharges after a Short or Long Rest)"
+  - "desc": "The fomorian attacks twice with its greatclub or makes one greatclub\
+      \ attack and uses Evil Eye once."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 19\
+      \ (3d8 + 6) bludgeoning damage."
+    "name": "Greatclub"
+  - "desc": "The fomorian magically forces a creature it can see within 60 feet of\
+      \ it to make a DC 14 Charisma saving throw. The creature takes 27 (6d8) psychic\
+      \ damage on a failed save, or half as much damage on a successful one."
+    "name": "Evil Eye"
+  - "desc": "With a stare, the fomorian uses Evil Eye, but on a failed save, the creature\
+      \ is also cursed with magical deformities. While deformed, the creature has\
+      \ its speed halved and has disadvantage on ability checks, saving throws, and\
+      \ attacks based on Strength or Dexterity.\n\nThe transformed creature can repeat\
+      \ the saving throw whenever it finishes a long rest, ending the effect on a\
+      \ success."
+    "name": "Curse of the Evil Eye (Recharges after a Short or Long Rest)"
 "source":
-- "MM"
-- "VEoR"
+  - "MM"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Giant/token/fomorian.webp"
 ```
 ^statblock

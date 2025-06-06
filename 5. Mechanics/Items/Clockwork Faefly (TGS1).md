@@ -17,6 +17,6 @@ This brass clockwork mechanism is 2 inches long and whirs with the hum of tiny g
 
 If you are within 60 feet of the faefly, you can speak another command word as an action to cause it to emit the [[5. Mechanics/Spells/Light.md\|light]] spell or cast [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] (save DC 13), affecting a 20-foot cube originating from itself. *Faerie fire* does not require concentration when cast in this way, but ends early if the faefly falls to 0 hit points. Once the faefly casts the *faerie fire* spell, it can't cast it again until the next dawn.
 
-The faefly is considered a magical object and is not a creature. If the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on it while it has at least 1 hit point, it regains `dice:2d6|noform|avg` (`2d6`) hit points. If the faefly falls to 0 hit points, it can't be used again until 2 days have passed, at which point it regains all its hit points.
+The faefly is considered a magical object and is not a creature. If the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on it while it has at least 1 hit point, it regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points. If the faefly falls to 0 hit points, it can't be used again until 2 days have passed, at which point it regains all its hit points.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 44*

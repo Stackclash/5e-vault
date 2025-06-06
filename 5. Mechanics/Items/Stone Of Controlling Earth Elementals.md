@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Stone of Controlling Earth Elementals
+weight: 5
 ---
 # Stone of Controlling Earth Elementals
 *Wondrous item, major, rare*  

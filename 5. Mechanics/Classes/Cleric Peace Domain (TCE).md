@@ -9,7 +9,7 @@ aliases:
   - Peace Domain
 ---
 # Peace Domain
-*[[Cleric.md\|Cleric]]: Divine Domain*  
+*[[.nullCleric.md\|Cleric]]: Divine Domain*  
 *Source: Tasha's Cauldron of Everything p. 32*  
 
 > [!tldr] Class and Feature Progression
@@ -19,14 +19,14 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Peace%20Domain%20(Level%201)'>Peace Domain</a></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel%20Divinity%20Balm%20of%20Peace%20(Level%202)'>Channel Divinity: Balm of Peace</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Peace Domain (Level 1)' class='internal-link'>Peace Domain</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel Divinity: Balm of Peace (Level 2)' class='internal-link'>Channel Divinity: Balm of Peace</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Protective%20Bond%20(Level%206)'>Protective Bond</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Protective Bond (Level 6)' class='internal-link'>Protective Bond</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Potent%20Spellcasting%20(Level%208)'>Potent Spellcasting</a>, <a href='#Blessed%20Strikes%20(Level%208)'>Blessed Strikes</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Potent Spellcasting (Level 8)' class='internal-link'>Potent Spellcasting</a>, <a href='#Blessed Strikes (Level 8)' class='internal-link'>Blessed Strikes</a></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -35,12 +35,13 @@ aliases:
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Expansive%20Bond%20(Level%2017)'>Expansive Bond</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Expansive Bond (Level 17)' class='internal-link'>Expansive Bond</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -60,9 +61,9 @@ Clerics of the Peace Domain preside over the signing of treaties, and they are o
 | Boldrei | Eberron |
 | Cyrrollalee | Halfling |
 | Eldath | Forgotten Realms |
-| Gaerdal Ironhand | Gnomish |
-| Paladine | Dragonlance |
-| Rao | Greyhawk |
+| [[5. Mechanics/Deities/Gnomish Gaerdal Ironhand (SCAG).md\|Gaerdal Ironhand]] | Gnomish |
+| [[5. Mechanics/Deities/Dragonlance Paladine (PHB).md\|Paladine]] | Dragonlance |
+| [[5. Mechanics/Deities/Greyhawk Rao.md\|Rao]] | Greyhawk |
 ^peace-deities
 
 #### Domain Spells
@@ -93,7 +94,7 @@ You gain proficiency in the [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], 
 
 *1st-level Peace Domain feature*
 
-You can forge an empowering bond among people who are at peace with one another. As an action, you choose a number of willing creatures within 30 feet of you (this can include yourself) equal to your proficiency bonus. You create a magical bond among them for 10 minutes or until you use this feature again. While any bonded creature is within 30 feet of another, the creature can roll a `dice:d4|noform|avg` (`d4`) and add the number rolled to an attack roll, an ability check, or a saving throw it makes. Each creature can add the `dice:d4|noform|avg` (`d4`) no more than once per turn.
+You can forge an empowering bond among people who are at peace with one another. As an action, you choose a number of willing creatures within 30 feet of you (this can include yourself) equal to your proficiency bonus. You create a magical bond among them for 10 minutes or until you use this feature again. While any bonded creature is within 30 feet of another, the creature can roll a `dice:d4|noform|noparens|avg` (`d4`) and add the number rolled to an attack roll, an ability check, or a saving throw it makes. Each creature can add the `dice:d4|noform|noparens|avg` (`d4`) no more than once per turn.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -101,7 +102,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 *2nd-level Peace Domain feature*
 
-You can use your Channel Divinity to make your very presence a soothing balm. As an action, you can move up to your speed, without provoking opportunity attacks, and when you move within 5 feet of any other creature during this action, you can restore a number of hit points to that creature equal to `dice:2d6|noform|avg` (`2d6`) + your Wisdom modifier (minimum of 1 hit point). A creature can receive this healing only once whenever you take this action.
+You can use your Channel Divinity to make your very presence a soothing balm. As an action, you can move up to your speed, without provoking opportunity attacks, and when you move within 5 feet of any other creature during this action, you can restore a number of hit points to that creature equal to `dice:2d6|noform|noparens|avg` (`2d6`) + your Wisdom modifier (minimum of 1 hit point). A creature can receive this healing only once whenever you take this action.
 
 ### Protective Bond (Level 6)
 
@@ -117,9 +118,9 @@ You add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 ### Blessed Strikes (Level 8)
 
-*8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]], which replaces the Potent Spellcasting feature*
+*8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Potent Spellcasting feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Expansive Bond (Level 17)
 

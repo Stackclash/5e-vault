@@ -10,4 +10,4 @@ aliases:
 
 ## 5th Level
 
-- [[Cone Of Cold \|"PHB"]]
+- [[5. Mechanics/Spells/Cone Of Cold.md \|"PHB"]]

@@ -11,19 +11,27 @@ tags:
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Conjuration
-time: 1 bonus
+level: 4
+ritual: false
+time: 1 Bonus Action
 duration: Instantaneous
-components: V
+components:
+  - V
 aliases:
   - Reposition
 ---
 # Reposition
 *4th-level, Conjuration*  
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** Instantaneous
@@ -32,6 +40,6 @@ You designate up to three friendly creatures (one of which can be yourself) with
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the spell targets one additional friendly creature for each slot level above 4th.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 103*

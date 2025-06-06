@@ -9,13 +9,14 @@ tags:
   - item/weapon/ranged
 aliases:
   - Laser Rifle
-one-hand-damage: 3d8 R
-range: 100/300
+one-hand-damage: 3d8 radiant
+range: 100\300
+weight: 7
 ---
 # Laser Rifle
 *Weapon*  
 
-- **Damage**: 3d8 R
+- **Damage**: 3d8 radiant
 - **Range**: 100/300
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Reload\|Reload]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.

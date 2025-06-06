@@ -7,6 +7,10 @@ tags:
   - domain/arcana
   - domain/knowledge
   - domain/life
+alignment: Neutral Good
+domains: 'Knowledge, Life, Arcana'
+pantheon: Egyptian
+symbol: Ankh and star
 aliases:
   - Isis
 ---

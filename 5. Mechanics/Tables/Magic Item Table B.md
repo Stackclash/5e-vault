@@ -17,7 +17,7 @@ aliases:
 |------------|------------|
 | 01-15 | [[5. Mechanics/Items/Potion Of Greater Healing.md\|Potion of greater healing]] |
 | 16-22 | [[5. Mechanics/Items/Potion Of Fire Breath.md\|Potion of fire breath]] |
-| 23-29 | [[5. Mechanics/Items/Potion Of Resistance (DMG).md\|Potion of resistance]] |
+| 23-29 | [[5. Mechanics/Items/Potion Of Resistance.md\|Potion of resistance]] |
 | 30-34 | [[5. Mechanics/Items/1 Ammunition.md\|+1 ammunition]] |
 | 35-39 | [[5. Mechanics/Items/Potion Of Animal Friendship.md\|Potion of animal friendship]] |
 | 40-44 | [[5. Mechanics/Items/Potion Of Hill Giant Strength.md\|Potion of hill giant strength]] |
@@ -31,7 +31,7 @@ aliases:
 | 74-75 | [[5. Mechanics/Items/Dust Of Disappearance.md\|Dust of disappearance]] |
 | 76-77 | [[5. Mechanics/Items/Dust Of Dryness.md\|Dust of dryness]] |
 | 78-79 | [[5. Mechanics/Items/Dust Of Sneezing And Choking.md\|Dust of sneezing and choking]] |
-| 80-81 | [[5. Mechanics/Items/Elemental Gem (DMG).md\|Elemental gem]] |
+| 80-81 | [[5. Mechanics/Items/Elemental Gem.md\|Elemental gem]] |
 | 82-83 | [[5. Mechanics/Items/Philter Of Love.md\|Philter of love]] |
 | 84 | [[5. Mechanics/Items/Alchemy Jug.md\|Alchemy jug]] |
 | 85 | [[5. Mechanics/Items/Cap Of Water Breathing.md\|Cap of water breathing]] |

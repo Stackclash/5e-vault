@@ -12,6 +12,6 @@ aliases:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 
-While wearing these gauntlets, your unarmed strikes deal `dice:1d6|noform|avg` (`1d6`) necrotic damage instead of the damage normal for an unarmed strike and they count as magical for the purposes of overcoming magic resistance.
+While wearing these gauntlets, your unarmed strikes deal `dice:1d6|noform|noparens|avg` (`d6`) necrotic damage instead of the damage normal for an unarmed strike and they count as magical for the purposes of overcoming magic resistance.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 92*

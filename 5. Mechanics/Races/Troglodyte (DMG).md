@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
   - compendium/src/5e/dmg
-  - race/troglodyte/dmg
+  - race/troglodyte
 aliases:
-  - Troglodyte (DMG)
+  - Troglodyte
 ---
-# Troglodyte (DMG)
+# Troglodyte
 *Source: Dungeon Master's Guide p. 282*  
 
-- **Ability Scores**: Strength +2, Constitution +2, Intelligence -4, Charisma -4
+- **Ability Scores**: Strength +2; Constitution +2; Intelligence -4; Charisma -4
 - **Size**: Medium
 - **Speed**: 30 ft.
 

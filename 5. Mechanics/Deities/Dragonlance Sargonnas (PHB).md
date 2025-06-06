@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/dragonlance
   - domain/war
+alignment: Lawful Evil
+category: The Gods of Evil
+domains: War
+pantheon: Dragonlance
+symbol: Stylized red condor
 aliases:
   - Sargonnas
 ---

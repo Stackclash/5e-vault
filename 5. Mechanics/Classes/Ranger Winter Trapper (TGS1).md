@@ -8,7 +8,7 @@ aliases:
   - Winter Trapper
 ---
 # Winter Trapper
-*[[Ranger.md\|Ranger]]: Ranger Archetype*  
+*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
 *Source: The Griffon's Saddlebag, Book 1 p. 164*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Winter%20Trapper%20(Level%203)'>Winter Trapper</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Winter Trapper (Level 3)' class='internal-link'>Winter Trapper</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Sure-Footed%20(Level%207)'>Sure-Footed</a>, <a href='#Helpless%20Prey%20(Level%207)'>Helpless Prey</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Sure-Footed (Level 7)' class='internal-link'>Sure-Footed</a>, <a href='#Helpless Prey (Level 7)' class='internal-link'>Helpless Prey</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Magic%20Snare%20(Level%2011)'>Magic Snare</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Magic Snare (Level 11)' class='internal-link'>Magic Snare</a></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Tripped%20Defenses%20(Level%2015)'>Tripped Defenses</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Tripped Defenses (Level 15)' class='internal-link'>Tripped Defenses</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -65,9 +66,9 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 ### Pin Down (Level 3)
 
-At 3rd level, you learn how to keep your prey exactly where you want them. Once on each of your turns when you make a weapon attack, you can attempt to pin down that target. You make this choice before rolling the attack. If it hits, the target takes an extra `dice:1d8|noform|avg` (`1d8`) damage of the weapon's type and its speed is reduced by 10 feet until the start of your next turn.
+At 3rd level, you learn how to keep your prey exactly where you want them. Once on each of your turns when you make a weapon attack, you can attempt to pin down that target. You make this choice before rolling the attack. If it hits, the target takes an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the weapon's type and its speed is reduced by 10 feet until the start of your next turn.
 
-When you reach 11th level in this class, the extra damage increases to `dice:2d8|noform|avg` (`2d8`), and if the attack hits, the target also can't take reactions until the start of your next turn.
+When you reach 11th level in this class, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`), and if the attack hits, the target also can't take reactions until the start of your next turn.
 
 ### Sure-Footed (Level 7)
 
@@ -81,7 +82,7 @@ Also at 7th level, attacking a prone creature doesn't impose disadvantage on you
 
 ### Magic Snare (Level 11)
 
-At 11th level, you've learned how to quickly set undetectable magical traps. You can imperceptibly create one of these magical snares in the ground at your feet as a bonus action on your turn. The first Large or smaller creature other than you that steps in that space within 1 minute must make a Dexterity saving throw against your spell save DC. On a failed save, a creature takes `dice:2d8|noform|avg` (`2d8`) piercing damage and has its speed reduced to 0 until the end of its current turn, as the ground opens up and clamps down on it. On a successful save, a creature takes half as much piercing damage, and its speed is unaffected.
+At 11th level, you've learned how to quickly set undetectable magical traps. You can imperceptibly create one of these magical snares in the ground at your feet as a bonus action on your turn. The first Large or smaller creature other than you that steps in that space within 1 minute must make a Dexterity saving throw against your spell save DC. On a failed save, a creature takes `dice:2d8|noform|noparens|avg` (`2d8`) piercing damage and has its speed reduced to 0 until the end of its current turn, as the ground opens up and clamps down on it. On a successful save, a creature takes half as much piercing damage, and its speed is unaffected.
 
 When you create a snare, you can designate any creatures you choose, and the trap ignores them. A creature that can see invisible creatures and objects (such as one benefiting from [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] or [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]]) can see these traps. You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
 

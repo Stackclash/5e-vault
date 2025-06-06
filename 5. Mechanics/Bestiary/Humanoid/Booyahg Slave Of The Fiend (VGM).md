@@ -13,7 +13,7 @@ tags:
 aliases:
   - Booyahg Slave of the Fiend
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Booyahg Slave Of The Fiend (VGM).md|Booyahg Slave of the Fiend]]
+# [[5. Mechanics\Bestiary\Humanoid\Booyahg Slave Of The Fiend (VGM).md|Booyahg Slave of the Fiend]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
@@ -36,61 +36,66 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
+"modifier": !!int "2"
 "stats":
-- !!int "10"
-- !!int "14"
-- !!int "15"
-- !!int "12"
-- !!int "12"
-- !!int "18"
+  - !!int "10"
+  - !!int "14"
+  - !!int "15"
+  - !!int "12"
+  - !!int "12"
+  - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "4"
+  - "wisdom": "+4"
+  - "charisma": "+7"
 "skillsaves":
-  "Deception": !!int "7"
-  "Religion": !!int "4"
-  "Arcana": !!int "4"
-  "Persuasion": !!int "7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
+    "desc": "+4"
 "damage_resistances": "slashing from nonmagical attacks not made with silvered weapons"
 "senses": "darkvision 60 ft., darkvision 60 ft., passive Perception 11"
 "languages": "any two languages (usually Abyssal or Infernal), Goblin"
 "cr": "7"
 "traits":
-- "desc": "The goblin's innate spellcasting ability is Charisma. It can innately cast\
-    \ the following spells (spell save DC 15), requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/False Life.md|false life]],\
-    \ [[5. Mechanics/Spells/Levitate.md|levitate]] (self only), [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\
-    \ (self only), [[5. Mechanics/Spells/Silent Image.md|silent image]]\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Feeblemind.md|feeblemind]], [[5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
-    \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
-  "name": "Innate Spellcasting"
-- "desc": "The goblin is a 17th-level spellcaster. Its spellcasting ability is Charisma\
-    \ (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell\
-    \ slots when it finishes a short or long rest. It knows the following warlock\
-    \ spells:\n\nCantrips (at will): [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]],\
-    \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Friends.md|friends]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\n\
-    \n1st-5th level (4 slots): [[5. Mechanics/Spells/Banishment.md|banishment]],\
-    \ [[5. Mechanics/Spells/Burning Hands.md|burning hands]], [[5. Mechanics/Spells/Flame Strike.md|flame strike]],\
-    \ [[5. Mechanics/Spells/Hellish Rebuke.md|hellish rebuke]], [[5. Mechanics/Spells/Magic Circle.md|magic circle]],\
-    \ [[5. Mechanics/Spells/Scorching Ray.md|scorching ray]], [[5. Mechanics/Spells/Scrying.md|scrying]],\
-    \ [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]], [[5. Mechanics/Spells/Suggestion.md|suggestion]],\
-    \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
-  "name": "Spellcasting"
-- "desc": "When the goblin makes an ability check or saving throw, it can add a d10\
-    \ to the roll. It can do this after the roll is made but before any of the roll's\
-    \ effects occur."
-  "name": "Dark One's Own Luck (Recharges after a Short or Long Rest)"
-- "desc": "The goblin"
-  "name": "Nimble Escape"
+  - "desc": "The goblin is a 17th-level spellcaster. Its spellcasting ability is Charisma\
+      \ (spell save DC 15, +7 to hit with spell attacks). It regains its expended\
+      \ spell slots when it finishes a short or long rest. It knows the following\
+      \ warlock spells:\n\nCantrips (at will): [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]],\
+      \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Friends.md|friends]],\
+      \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\n\
+      \n1st-5th level (4 slots): [[5. Mechanics/Spells/Banishment.md|banishment]],\
+      \ [[5. Mechanics/Spells/Burning Hands.md|burning hands]], [[5. Mechanics/Spells/Flame Strike.md|flame strike]],\
+      \ [[5. Mechanics/Spells/Hellish Rebuke.md|hellish rebuke]], [[5. Mechanics/Spells/Magic Circle.md|magic circle]],\
+      \ [[5. Mechanics/Spells/Scorching Ray.md|scorching ray]], [[5. Mechanics/Spells/Scrying.md|scrying]],\
+      \ [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]], [[5. Mechanics/Spells/Suggestion.md|suggestion]],\
+      \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
+    "name": "Spellcasting"
+  - "desc": "The goblin's innate spellcasting ability is Charisma. It can innately\
+      \ cast the following spells (spell save DC 15), requiring no material components:\n\
+      \nAt will: [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/False Life.md|false life]],\
+      \ [[5. Mechanics/Spells/Levitate.md|levitate]] (self only), [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\
+      \ (self only), [[5. Mechanics/Spells/Silent Image.md|silent image]]\n\n1/day\
+      \ each: [[5. Mechanics/Spells/Feeblemind.md|feeblemind]], [[5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
+      \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
+    "name": "Innate Spellcasting"
+  - "desc": "When the goblin makes an ability check or saving throw, it can add a\
+      \ d10 to the roll. It can do this after the roll is made but before any of the\
+      \ roll's effects occur."
+    "name": "Dark One's Own Luck (Recharges after a Short or Long Rest)"
+  - "desc": "The goblin"
+    "name": "Nimble Escape"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d6)\
-    \ bludgeoning damage plus 10 (3d6) fire damage."
-  "name": "Mace"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (d6)\
+      \ bludgeoning damage plus 10 (3d6) fire damage."
+    "name": "Mace"
 "source":
-- "VGM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/booyahg-slave-of-the-fiend-vgm.webp"
 ```
 ^statblock

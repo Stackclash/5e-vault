@@ -9,6 +9,7 @@ aliases:
   - Bone Plate Armor
 cost: 150000
 armorClass: 18
+weight: 65
 ---
 # Bone Plate Armor
 *Heavy armor*  

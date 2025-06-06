@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/nonhuman
   - domain/death
+alignment: Neutral Evil
+domains: Death
+pantheon: Nonhuman
+symbol: Lobster head or black pearl
 aliases:
   - Blibdoolpoolp
 ---

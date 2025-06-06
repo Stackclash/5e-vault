@@ -15,7 +15,7 @@ aliases:
 
 This wand functions as a [[5. Mechanics/Items/Wand Of Fireballs.md\|wand of fireballs]]. However, during the wand's creation, the spell's transcription was riddled with arcane mistakes. As a result, using an action to cast [[5. Mechanics/Spells/Fireball.md\|fireball]] from the wand can lead to unpredictable outcomes.
 
-Whenever you cast the [[5. Mechanics/Spells/Fireball.md\|fireball]] spell from the wand, roll a `dice:d20|noform|avg` (`d20`) and use the table below to determine the spell's effect. Regardless of the outcome, the spell's effect is centered on the point you target with the wand and uses a save DC of 15. If the wand casts a different spell, any extra charges spent as part of using the wand increase the spell slot level of the new spell as well.
+Whenever you cast the [[5. Mechanics/Spells/Fireball.md\|fireball]] spell from the wand, roll a `dice:d20|noform|noparens|avg` (`d20`) and use the table below to determine the spell's effect. Regardless of the outcome, the spell's effect is centered on the point you target with the wand and uses a save DC of 15. If the wand casts a different spell, any extra charges spent as part of using the wand increase the spell slot level of the new spell as well.
 
 `dice: [[Wond Of Fireballs (GRIFFONSSADDLEBAG4).md#^effect]]`
 
@@ -28,6 +28,6 @@ Whenever you cast the [[5. Mechanics/Spells/Fireball.md\|fireball]] spell from t
 | 17–20 | You cast the fireball spell as normal. |
 ^effect
 
-The wand has 7 charges. It regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the wand casts [[5. Mechanics/Spells/Fireball.md\|fireball]], centered on you, and is destroyed.
+The wand has 7 charges. It regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand casts [[5. Mechanics/Spells/Fireball.md\|fireball]], centered on you, and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*

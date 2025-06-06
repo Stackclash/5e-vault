@@ -9,6 +9,7 @@ tags:
   - item/wondrous/wand
 aliases:
   - Direstone Runic Wand
+weight: 1
 ---
 # Direstone Runic Wand
 *Wand, major, rare (requires attunement by a spellcaster)*  
@@ -40,6 +41,6 @@ You can expend 4 charges to cast the [[5. Mechanics/Spells/Stone Shape.md\|stone
 
 Alternatively, you can use the wand to cast the [[5. Mechanics/Spells/Illusory Script.md\|illusory script]] spell over the course of 1 minute by expending 1 of its charges, but can only use it to write on stone or metal surfaces.
 
-The wand regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the wand crumbles into stone dust. If you are not a [[5. Mechanics/Races/Dwarf.md\|dwarf]] when this happens, you must also succeed on a DC 20 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] until freed by the [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic.
+The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand crumbles into stone dust. If you are not a [[5. Mechanics/Races/Dwarf.md\|dwarf]] when this happens, you must also succeed on a DC 20 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] until freed by the [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 71*

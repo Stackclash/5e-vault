@@ -13,7 +13,7 @@ tags:
 aliases:
   - Seraph
 ---
-# [[5. Mechanics/Bestiary/Celestial/Seraph (SAF).md|Seraph]]
+# [[5. Mechanics\Bestiary\Celestial\Seraph (SAF).md|Seraph]]
 *Source: Strongholds and Followers p. 165*
 
 And you thought the Throne was weird! You were right about that, by the way.
@@ -35,19 +35,20 @@ In spite of not having like...a face, or eyes, the Seraph cannot be flanked or s
 "ac_class": "natural armor"
 "hp": !!int "189"
 "hit_dice": "18d10 + 90"
+"modifier": !!int "4"
 "stats":
-- !!int "18"
-- !!int "18"
-- !!int "20"
-- !!int "18"
-- !!int "20"
-- !!int "20"
+  - !!int "18"
+  - !!int "18"
+  - !!int "20"
+  - !!int "18"
+  - !!int "20"
+  - !!int "20"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "9"
-  "Wisdom": !!int "9"
-  "Strength": !!int "8"
-  "Constitution": !!int "9"
+  - "strength": "+8"
+  - "constitution": "+9"
+  - "wisdom": "+9"
+  - "charisma": "+9"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -56,50 +57,52 @@ In spite of not having like...a face, or eyes, the Seraph cannot be flanked or s
 "languages": "all, telepathy 60 ft."
 "cr": "10"
 "traits":
-- "desc": "The seraph's weapon attacks are magical. When the seraph hits with any\
-    \ weapon, the weapon deals an extra 9 (2d8) radiant damage (included in the attack)."
-  "name": "Angelic Weapons"
-- "desc": "The seraph has advantage on saving throws against spells and other magical\
-    \ effects from evil characters and sources."
-  "name": "Magic Resistance"
-- "desc": "Evil creatures have disadvantage on attack rolls against all allies within\
-    \ 5 feet of the seraph. Allies in this area can't be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], or possessed by evil\
-    \ creatures. If an ally is already [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], or possessed by evil\
-    \ magic, the ally has advantage on any new saving throw against the relevant effect."
-  "name": "Aura of Protection Against Evil"
-- "desc": "The Seraph cannot be flanked or surprised."
-  "name": "Vigilant"
+  - "desc": "The seraph's weapon attacks are magical. When the seraph hits with any\
+      \ weapon, the weapon deals an extra 9 (2d8) radiant damage (included in the\
+      \ attack)."
+    "name": "Angelic Weapons"
+  - "desc": "The seraph has advantage on saving throws against spells and other magical\
+      \ effects from evil characters and sources."
+    "name": "Magic Resistance"
+  - "desc": "Evil creatures have disadvantage on attack rolls against all allies within\
+      \ 5 feet of the seraph. Allies in this area can't be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+      \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], or possessed by\
+      \ evil creatures. If an ally is already [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+      \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], or possessed by\
+      \ evil magic, the ally has advantage on any new saving throw against the relevant\
+      \ effect."
+    "name": "Aura of Protection Against Evil"
+  - "desc": "The Seraph cannot be flanked or surprised."
+    "name": "Vigilant"
 "actions":
-- "desc": "The Seraph makes four attacks with any combination of Good, Law, Alpha,\
-    \ and Omega, but no more than two with the same weapon."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6\
-    \ + 4) bludgeoning damage plus 9 (2d8) radiant damage. If the target is evil and\
-    \ has 25 hit points or fewer after taking this damage, it must succeed on a DC\
-    \ 17 Wisdom saving throw or be destroyed. On a successful save, the creature becomes\
-    \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] of the seraph until\
-    \ the end of the seraph's next turn."
-  "name": "Good"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6\
-    \ + 4) bludgeoning damage plus 9 (2d8) radiant damage. If the target is chaotic\
-    \ and has 25 hit points or fewer after taking this damage, it must succeed on\
-    \ a DC 17 Wisdom saving throw or be destroyed. On a successful save, the creature\
-    \ becomes [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] of the seraph\
-    \ until the end of the seraph's turn."
-  "name": "Law"
-- "desc": "Ranged Weapon Attack: +8 to hit, range 150/600 ft., one target. Hit:\
-    \ 13 (2d8 + 4) piercing damage plus 9 (2d8) radiant damage. On a hit, all allies\
-    \ adjacent to the target restore 1d8 + 5 hit points."
-  "name": "Alpha"
-- "desc": "Ranged Weapon Attack: +8 to hit, range 150/600 ft., one target. Hit:\
-    \ 13 (2d8 + 4) piercing damage plus 9 (2d8) radiant damage. If the target is chaotic\
-    \ or evil, it suffers the effects of a [[5. Mechanics/Spells/Bane.md|bane]] spell\
-    \ until the end of its next turn."
-  "name": "Omega"
+  - "desc": "The Seraph makes four attacks with any combination of Good, Law, Alpha,\
+      \ and Omega, but no more than two with the same weapon."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+      \ + 4) bludgeoning damage plus 9 (2d8) radiant damage. If the target is evil\
+      \ and has 25 hit points or fewer after taking this damage, it must succeed on\
+      \ a DC 17 Wisdom saving throw or be destroyed. On a successful save, the creature\
+      \ becomes [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] of the seraph\
+      \ until the end of the seraph's next turn."
+    "name": "Good"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+      \ + 4) bludgeoning damage plus 9 (2d8) radiant damage. If the target is chaotic\
+      \ and has 25 hit points or fewer after taking this damage, it must succeed on\
+      \ a DC 17 Wisdom saving throw or be destroyed. On a successful save, the creature\
+      \ becomes [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] of the seraph\
+      \ until the end of the seraph's turn."
+    "name": "Law"
+  - "desc": "Ranged Weapon Attack: +8 to hit, range 150/600 ft., one target. Hit:\
+      \ 13 (2d8 + 4) piercing damage plus 9 (2d8) radiant damage. On a hit, all allies\
+      \ adjacent to the target restore 1d8 + 5 hit points."
+    "name": "Alpha"
+  - "desc": "Ranged Weapon Attack: +8 to hit, range 150/600 ft., one target. Hit:\
+      \ 13 (2d8 + 4) piercing damage plus 9 (2d8) radiant damage. If the target is\
+      \ chaotic or evil, it suffers the effects of a [[5. Mechanics/Spells/Bane.md|bane]]\
+      \ spell until the end of its next turn."
+    "name": "Omega"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Seraph.png"
 ```
 ^statblock

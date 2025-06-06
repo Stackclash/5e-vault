@@ -10,6 +10,7 @@ tags:
 aliases:
   - Shield of Missile Attraction
 armorClass: 2
+weight: 6
 ---
 # Shield of Missile Attraction
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), cursed item, major, rare (requires attunement)*  

@@ -18,27 +18,45 @@ tags:
   - spell/subclass/oath-of-the-watchtower
   - spell/subclass/peace-domain
   - spell/subclass/the-great-old-one
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Carillon Domain)
+  - Cleric (Peace Domain)
+  - Druid (Circle of Owls)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of the Watchtower)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Aberrant Mind)
+  - Sorcerer (Divine Soul)
+  - Warlock (The Great Old One)
+  - Wizard
 school: Evocation
-time: 1 action
+level: 3
+ritual: false
+time: 1 Action
 duration: 1 round
-components: 'V, S, a short piece of fine copper wire'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Sending
+range: Unlimited
+material: A short piece of fine copper wire.
 ---
 # Sending
 *3rd-level, Evocation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Unlimited
-- **Components:** V, S, a short piece of fine copper wire
+- **Components:** V, S, M (a short piece of fine copper wire)
 - **Duration:** 1 round
 
 You send a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables creatures with Intelligence scores of at least 1 to understand the meaning of your message.
 
 You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a  chance that the message doesn't arrive.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Aberrant Mind (TCE)\|Sorcerer (Aberrant Mind)]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Cleric Carillon Domain (GRIFFONSSADDLEBAG3)\|Cleric (Carillon Domain)]]; [[List Spells Classes Druid Circle Of Owls (KPDM)\|Druid (Circle of Owls)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Paladin Oath Of The Watchtower (GRIFFONSSADDLEBAG3)\|Paladin (Oath of the Watchtower)]]; [[List Spells Classes Cleric Peace Domain (TCE)\|Cleric (Peace Domain)]]; [[List Spells Classes Warlock The Great Old One\|Warlock (The Great Old One)]]
+**Classes**: [Sorcerer (Aberrant Mind)](compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Paladin (Oath of the Watchtower)](compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Peace Domain)](compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Druid (Circle of Owls)](compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

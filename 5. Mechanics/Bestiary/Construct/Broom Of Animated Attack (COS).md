@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Broom of Animated Attack
 ---
-# [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md|Broom of Animated Attack]]
+# [[5. Mechanics\Bestiary\Construct\Broom Of Animated Attack (COS).md|Broom of Animated Attack]]
 *Source: Curse of Strahd p. 226*
 
 A broom of animated attack is easily mistaken for a broom of flying. It attacks any creature that grabs it or tries to ride it.
@@ -31,13 +31,14 @@ Some brooms of animated attack allow their creators to ride them, in which case 
 "ac_class": "natural armor"
 "hp": !!int "17"
 "hit_dice": "5d6"
+"modifier": !!int "3"
 "stats":
-- !!int "10"
-- !!int "17"
-- !!int "10"
-- !!int "1"
-- !!int "5"
-- !!int "1"
+  - !!int "10"
+  - !!int "17"
+  - !!int "10"
+  - !!int "1"
+  - !!int "5"
+  - !!int "1"
 "speed": "0 ft., fly 50 ft. (hover)"
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
@@ -49,35 +50,35 @@ Some brooms of animated attack allow their creators to ride them, in which case 
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe magic\
-    \ that animates an object is dispelled when the construct drops to 0 hit points.\
-    \ An animated object reduced to 0 hit points becomes inanimate and is too damaged\
-    \ to be of much use or value to anyone."
-  "name": "Constructed Nature"
-- "desc": "The broom is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
-    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the broom\
-    \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]] for 1\
-    \ minute."
-  "name": "Antimagic Susceptibility"
-- "desc": "While the broom remains motionless and isn't flying, it is indistinguishable\
-    \ from a normal broom."
-  "name": "False Appearance"
+  - "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe\
+      \ magic that animates an object is dispelled when the construct drops to 0 hit\
+      \ points. An animated object reduced to 0 hit points becomes inanimate and is\
+      \ too damaged to be of much use or value to anyone."
+    "name": "Constructed Nature"
+  - "desc": "The broom is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
+      \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
+      \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the broom\
+      \ must succeed on a Constitution saving throw against the caster's spell save\
+      \ DC or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]] for\
+      \ 1 minute."
+    "name": "Antimagic Susceptibility"
+  - "desc": "While the broom remains motionless and isn't flying, it is indistinguishable\
+      \ from a normal broom."
+    "name": "False Appearance"
 "actions":
-- "desc": "The broom makes two melee attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
-    \ + 3) bludgeoning damage."
-  "name": "Broomstick"
+  - "desc": "The broom makes two melee attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+      \ + 3) bludgeoning damage."
+    "name": "Broomstick"
 "reactions":
-- "desc": "If the broom is motionless and a creature grabs hold of it, the broom makes\
-    \ a Dexterity check contested by the creature's Strength check. If the broom wins\
-    \ the contest, it flies out of the creature's grasp and makes a melee attack against\
-    \ it with advantage on the attack roll."
-  "name": "Animated Attack"
+  - "desc": "If the broom is motionless and a creature grabs hold of it, the broom\
+      \ makes a Dexterity check contested by the creature's Strength check. If the\
+      \ broom wins the contest, it flies out of the creature's grasp and makes a melee\
+      \ attack against it with advantage on the attack roll."
+    "name": "Animated Attack"
 "source":
-- "CoS"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Construct/token/broom-of-animated-attack-cos.webp"
 ```
 ^statblock

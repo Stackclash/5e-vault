@@ -10,6 +10,7 @@ tags:
 aliases:
   - Spellguard Shield
 armorClass: 2
+weight: 6
 ---
 # Spellguard Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  

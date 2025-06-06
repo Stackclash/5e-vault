@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
   - compendium/src/5e/dmg
-  - race/kuo-toa/dmg
+  - race/kuo-toa
 aliases:
-  - Kuo-Toa (DMG)
+  - Kuo-Toa
 ---
-# Kuo-Toa (DMG)
+# Kuo-Toa
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: None

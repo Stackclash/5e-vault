@@ -16,21 +16,41 @@ tags:
   - spell/subclass/prophecy-domain
   - spell/subclass/swarmkeeper
   - spell/subclass/the-many
-level: 4th-level
-range: false
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Knowledge Domain)
+  - Cleric (Prophecy Domain)
+  - Druid (Circle of Owls)
+  - Fighter (Eldritch Knight)
+  - Ranger (Swarmkeeper)
+  - Rogue (Arcane Trickster)
+  - Warlock (The Many)
+  - Wizard
 school: Divination
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, a bit of bat fur'
+level: 4
+ritual: false
+time: 1 Action
+duration: Up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Arcane Eye
+range: 30 feet
+material: A bit of bat fur.
+area:
+  type: sphere
+  size: 30
+concentration: true
 ---
 # Arcane Eye
 *4th-level, Divination*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
-- **Components:** V, S, a bit of bat fur
+- **Components:** V, S, M (a bit of bat fur)
 - **Duration:** Concentration, up to 1 hour
 
 You create an invisible, magical eye within range that hovers in the air for the duration.
@@ -39,6 +59,6 @@ You mentally receive visual information from the eye, which has normal vision an
 
 As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can't enter another plane of existence. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of Owls (KPDM)\|Druid (Circle of Owls)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Knowledge Domain\|Cleric (Knowledge Domain)]]; [[List Spells Classes Cleric Prophecy Domain (KPDM)\|Cleric (Prophecy Domain)]]; [[List Spells Classes Ranger Swarmkeeper (TCE)\|Ranger (Swarmkeeper)]]; [[List Spells Classes Warlock The Many (GRIFFONSSADDLEBAG2)\|Warlock (The Many)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Ranger (Swarmkeeper)](compendium/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Prophecy Domain)](compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of Owls)](compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Warlock (The Many)](compendium/lists/list-spells-classes-the-many-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2")
 
 *Source: Player's Handbook p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

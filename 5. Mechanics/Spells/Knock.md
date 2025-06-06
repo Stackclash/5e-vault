@@ -12,19 +12,29 @@ tags:
   - spell/subclass/carillon-domain
   - spell/subclass/eldritch-knight
   - spell/subclass/wealth-domain
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Cleric (Carillon Domain)
+  - Cleric (Wealth Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Transmutation
-time: 1 action
+level: 2
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: V
+components:
+  - V
 aliases:
   - Knock
+range: 60 feet
 ---
 # Knock
 *2nd-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V
 - **Duration:** Instantaneous
@@ -37,6 +47,6 @@ If you choose a target that is held shut with [[5. Mechanics/Spells/Arcane Lock.
 
 When you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Cleric Carillon Domain (GRIFFONSSADDLEBAG3)\|Cleric (Carillon Domain)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Wealth Domain (GRIFFONSSADDLEBAG3)\|Cleric (Wealth Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Wealth Domain)](compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Player's Handbook p. 254. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

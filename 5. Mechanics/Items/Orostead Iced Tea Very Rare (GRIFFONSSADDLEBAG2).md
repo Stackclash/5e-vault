@@ -14,9 +14,9 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Orostead-Iced-Tea.webp#right)  
 
 
-The following [[5. Mechanics/Items/Orostead Iced Tea (GRIFFONSSADDLEBAG2).md\|Orostead iced tea]] is a very rare variant with additional properties. It also tastes better. When made, a tea has enough for `dice:6+1d4|noform|avg` (`6 + 1d4`) sips before it's used up, instead of a single use. You can take a sip as an action.
+The following [[5. Mechanics/Items/Orostead Iced Tea (GRIFFONSSADDLEBAG2).md\|Orostead iced tea]] is a very rare variant with additional properties. It also tastes better. When made, a tea has enough for `dice:6+1d4|noform|noparens|avg` (`6 + 1d4`) sips before it's used up, instead of a single use. You can take a sip as an action.
 
-When you take a sip of this potion, roll a `dice:d8|noform|avg` (`d8`) and consult the table below instead to determine which one of the following benefits you gain. Once you've gained a benefit from the table, you can't gain that same benefit again until you finish a long rest.
+When you take a sip of this potion, roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the table below instead to determine which one of the following benefits you gain. Once you've gained a benefit from the table, you can't gain that same benefit again until you finish a long rest.
 
 `dice: [[Orostead Iced Tea Very Rare (GRIFFONSSADDLEBAG2).md#^very-rare-effect]]`
 
@@ -24,7 +24,7 @@ When you take a sip of this potion, roll a `dice:d8|noform|avg` (`d8`) and consu
 |----------|------------------|
 | 1 | For 1 hour, you gain a +2 bonus to Strength ability checks and saving throws, as well as attack and damage rolls for weapons that use Strength. |
 | 2 | For 1 hour, you gain a +2 bonus to Dexterity ability checks and saving throws, as well as attack and damage rolls for weapons that use Dexterity. |
-| 3 | You gain `dice:2d10+20\|noform\|avg` (`2d10 + 20`) temporary hit points. |
+| 3 | You gain `dice:2d10+20\|noform\|noparens\|avg` (`2d10 + 20`) temporary hit points. |
 | 4 | For 1 hour, you gain a +2 bonus to Intelligence ability checks and saving throws. If Intelligence is your spellcasting ability, you also gain a +2 bonus to your spell attack rolls and spell save DC for the duration. |
 | 5 | For 1 hour, you gain a +2 bonus to Wisdom ability checks and saving throws. If Wisdom is your spellcasting ability, you also gain a +2 bonus to your spell attack rolls and spell save DC for the duration. |
 | 6 | For 1 hour, you gain a +2 bonus to Charisma ability checks and saving throws. If Charisma is your spellcasting ability, you also gain a +2 bonus to your spell attack rolls and spell save DC for the duration. |

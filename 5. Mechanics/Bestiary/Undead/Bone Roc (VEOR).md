@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bone Roc
 ---
-# [[5. Mechanics/Bestiary/Undead/Bone Roc (VEOR).md|Bone Roc]]
+# [[5. Mechanics\Bestiary\Undead\Bone Roc (VEOR).md|Bone Roc]]
 *Source: Vecna: Eve of Ruin p. 211*
 
 A bone roc is a birdlike Undead that can incorporate the bones of multiple flying creatures. Despite their name, bone rocs aren't always reanimated skeletons of rocs. You may customize a bone roc by rolling on the Bone Roc Sources table to determine the type of bones used and how that affects its stat block.
@@ -38,19 +38,21 @@ A bone roc is a birdlike Undead that can incorporate the bones of multiple flyin
 "ac": !!int "15"
 "hp": !!int "133"
 "hit_dice": "14d12 + 42"
+"modifier": !!int "5"
 "stats":
-- !!int "18"
-- !!int "20"
-- !!int "16"
-- !!int "2"
-- !!int "17"
-- !!int "10"
+  - !!int "18"
+  - !!int "20"
+  - !!int "16"
+  - !!int "2"
+  - !!int "17"
+  - !!int "10"
 "speed": "15 ft., fly 90 ft."
 "saves":
-  "Dexterity": !!int "8"
-  "Wisdom": !!int "6"
+  - "dexterity": "+8"
+  - "wisdom": "+6"
 "skillsaves":
-  "Perception": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+6"
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -59,16 +61,16 @@ A bone roc is a birdlike Undead that can incorporate the bones of multiple flyin
 "languages": ""
 "cr": "8"
 "actions":
-- "desc": "The bone roc makes one Beak attack and two Talons attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8\
-    \ + 5) piercing damage."
-  "name": "Beak"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6\
-    \ + 5) slashing damage plus 10 (3d6) necrotic damage."
-  "name": "Talons"
+  - "desc": "The bone roc makes one Beak attack and two Talons attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14\
+      \ (2d8 + 5) piercing damage."
+    "name": "Beak"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12\
+      \ (2d6 + 5) slashing damage plus 10 (3d6) necrotic damage."
+    "name": "Talons"
 "source":
-- "VEoR"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/bone-roc-veor.webp"
 ```
 ^statblock

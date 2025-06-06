@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Visage-of-Delight-and-Disaster.webp#right)  
 
 
-While wearing this mask, you gain 2 [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) dice, which are `dice:d10|noform|avg` (`d10`)s. These dice are separate from any Bardic Inspiration dice you have from another source. You can use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die. These dice are the same as normal Bardic Inspiration dice, but carry with them additional benefits based on the mood of your performance:
+While wearing this mask, you gain 2 [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) dice, which are `dice:d10|noform|noparens|avg` (`d10`)s. These dice are separate from any Bardic Inspiration dice you have from another source. You can use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die. These dice are the same as normal Bardic Inspiration dice, but carry with them additional benefits based on the mood of your performance:
 
 ## Delight
 

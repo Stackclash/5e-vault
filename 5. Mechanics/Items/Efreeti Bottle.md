@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Efreeti Bottle
+weight: 1
 ---
 # Efreeti Bottle
 *Wondrous item, major, very rare*  

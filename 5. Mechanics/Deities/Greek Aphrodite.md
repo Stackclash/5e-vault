@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greek
   - domain/light
+alignment: Chaotic Good
+domains: Light
+pantheon: Greek
+symbol: Sea shell
 aliases:
   - Aphrodite
 ---

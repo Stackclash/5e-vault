@@ -30,23 +30,23 @@ Each world in the D&D multiverse has its own pantheons of deities, ranging in si
 
 Dozens of deities are revered, worshiped, and feared throughout the world of the Forgotten Realms. At least thirty deities are widely known across the Realms, and many more are worshiped locally, by individual tribes, small cults, or certain sects of larger religious temples.
 
-![[5. Mechanics/Tables/Deities Of The Forgotten Realms.md\|Deities of the Forgotten Realms]]
+![[5. Mechanics/Tables/Deities Of The Forgotten Realms (PHB).md\|Deities of the Forgotten Realms]]
 
 ### Greyhawk
 
 The gods of Greyhawk come from at least four different pantheons, representing the faiths of the various ethnic groups that populated the continent of Oerik over the ages. As a result, there's a great deal of overlap in their portfolios: Pelor is the Flan god of the sun and Pholtus is the Oeridian sun god, for example.
 
-![[5. Mechanics/Tables/Deities Of Greyhawk.md\|Deities of Greyhawk]]
+![[5. Mechanics/Tables/Deities Of Greyhawk (PHB).md\|Deities of Greyhawk]]
 
 ### Dragonlance
 
 The gods of the world of Krynn are three families: seven gods of good headed by Paladine and Mishakal, seven of neutrality headed by Gilean, and seven of evil headed by Takhisis and Sargonnas. These deities have been called by many different names and held in varying levels of esteem by different peoples and cultures through the world's history, but they are the only gods of this world—their place fixed in the stars as constellations.
 
-![[5. Mechanics/Tables/Deities Of Dragonlance Good.md\|Deities of Dragonlance: Good]]
+![[5. Mechanics/Tables/Deities Of Dragonlance Good (PHB).md\|Deities of Dragonlance: Good]]
 
-![[5. Mechanics/Tables/Deities Of Dragonlance Neutr(AL).md\|Deities of Dragonlance: Neutral]]
+![[5. Mechanics/Tables/Deities Of Dragonlance Neutral (PHB).md\|Deities of Dragonlance: Neutral]]
 
-![[5. Mechanics/Tables/Deities Of Dragonlance Evil.md\|Deities of Dragonlance: Evil]]
+![[5. Mechanics/Tables/Deities Of Dragonlance Evil (PHB).md\|Deities of Dragonlance: Evil]]
 
 ### Eberron
 
@@ -62,7 +62,7 @@ Certain gods closely associated with nonhuman races are revered on many differen
 
 Nonhuman races often have whole pantheons of their own. Besides Moradin, for example, the dwarf gods include Moradin's wife, Berronar Truesilver, and a number of other gods thought to be their children and grandchildren: Abbathor, Clangeddin Silverbeard, Dugmaren Brightmantle, Dumathoin, Gorm Gulthyn, Haela Brightaxe, Marthammor Duin, Sharindlar, Thard Harr, and Vergadain. Individual clans and kingdoms of dwarves might revere some, all, or none of these deities, and some have other gods unknown (or known by other names) to outsiders.
 
-![[5. Mechanics/Tables/Nonhuman Deities.md\|Nonhuman Deities]]
+![[5. Mechanics/Tables/Nonhuman Deities (PHB).md\|Nonhuman Deities]]
 
 ## Fantasy-Historical Pantheons
 
@@ -72,13 +72,13 @@ The Celtic, Egyptian, Greek, and Norse pantheons are fantasy interpretations of 
 
 It's said that something wild lurks in the heart of every soul, a space that thrills to the sound of geese calling at night, to the whispering wind through the pines, to the unexpected red of mistletoe on an oak—and it is in this space that the Celtic gods dwell. They sprang from the brook and stream, their might heightened by the strength of the oak and the beauty of the woodlands and open moor. When the first forester dared put a name to the face seen in the bole of a tree or the voice babbling in a brook, these gods forced themselves into being. The Celtic gods are as often served by druids as by clerics, for they are closely aligned with the forces of nature that druids revere.
 
-![[5. Mechanics/Tables/The Celtic Pantheon Celtic Deities.md\|The Celtic Pantheon; Celtic Deities]]
+![[5. Mechanics/Tables/The Celtic Pantheon Celtic Deities (PHB).md\|The Celtic Pantheon; Celtic Deities]]
 
 ### The Greek Pantheon
 
 The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud—enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they've made a place for themselves inside the human heart, too.
 
-![[5. Mechanics/Tables/The Greek Pantheon Greek Deities.md\|The Greek Pantheon; Greek Deities]]
+![[5. Mechanics/Tables/The Greek Pantheon Greek Deities (PHB).md\|The Greek Pantheon; Greek Deities]]
 
 ### The Egyptian Pantheon
 
@@ -88,7 +88,7 @@ The Egyptian pantheon is unusual in having three gods with the Death domain of d
 
 Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning. Thus, although most clerics of the Death domain (found in the Dungeon Master's Guide) are villainous characters, clerics who serve Anubis or Nephthys need not be.
 
-![[5. Mechanics/Tables/The Egyptian Pantheon Egyptian Deities.md\|The Egyptian Pantheon; Egyptian Deities]]
+![[5. Mechanics/Tables/The Egyptian Pantheon Egyptian Deities (PHB).md\|The Egyptian Pantheon; Egyptian Deities]]
 
 ### The Norse Pantheon
 
@@ -96,4 +96,4 @@ Where the land plummets from the snowy hills into the icy fjords below, where th
 
 The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym). Like the gods of Greyhawk, gods in different families sometimes have overlap in their spheres of influence: Frey (of the Vanir) and Odur (of the Aesir) are both associated with the sun, for example.
 
-![[5. Mechanics/Tables/The Norse Pantheon Norse Deities.md\|The Norse Pantheon; Norse Deities]]
+![[5. Mechanics/Tables/The Norse Pantheon Norse Deities (PHB).md\|The Norse Pantheon; Norse Deities]]

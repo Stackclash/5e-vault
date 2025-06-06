@@ -9,19 +9,20 @@ tags:
   - item/weapon/simple
 aliases:
   - Whirlpool Dart
-one-hand-damage: 1d4 P
-range: 20/60
+one-hand-damage: 1d4 piercing
+range: 20\60
+weight: 0.25
 ---
 # Whirlpool Dart
 *Weapon ([[5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Whirlpool-Dart.webp#right)  
 
-- **Damage**: 1d4 P
+- **Damage**: 1d4 piercing
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 0.25 lbs.
 
-This dart feels cold and hefty in the hand, but flies effortlessly when thrown. As an action, you can throw this dart at a point within 20 feet of you and speak its command word to cause it to create a wild, spiraling whirlpool in a 15-foot-radius, 10-foot-high cylinder centered on that point. Each creature in the area excluding you must make a DC 13 Strength saving throw. On a failed save, a creature takes `dice:4d4|noform|avg` (`4d4`) bludgeoning damage and is pulled up to 15 feet toward the center of the cylinder. On a successful save, a creature takes half as much damage and isn't pulled.
+This dart feels cold and hefty in the hand, but flies effortlessly when thrown. As an action, you can throw this dart at a point within 20 feet of you and speak its command word to cause it to create a wild, spiraling whirlpool in a 15-foot-radius, 10-foot-high cylinder centered on that point. Each creature in the area excluding you must make a DC 13 Strength saving throw. On a failed save, a creature takes `dice:4d4|noform|noparens|avg` (`4d4`) bludgeoning damage and is pulled up to 15 feet toward the center of the cylinder. On a successful save, a creature takes half as much damage and isn't pulled.
 
 In addition, unsecured objects that are completely within the cylinder are automatically pulled 15 feet toward the center by this effect, and all nonmagical flames within the cylinder are extinguished.
 

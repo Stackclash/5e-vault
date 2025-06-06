@@ -9,13 +9,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Claymore of the Great Badger
-one-hand-damage: 2d6 S
+one-hand-damage: 2d6 slashing
+weight: 6
 ---
 # Claymore of the Great Badger
 *Weapon ([[5. Mechanics/Items/Greatsword.md\|greatsword]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Claymore-of-the--Great-Badger.webp#right)  
 
-- **Damage**: 2d6 S
+- **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
 

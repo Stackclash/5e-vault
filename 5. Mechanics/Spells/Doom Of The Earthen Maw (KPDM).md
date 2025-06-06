@@ -8,19 +8,25 @@ tags:
   - spell/class/druid
   - spell/level/4th-level
   - spell/school/evocation
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Druid
 school: Evocation
-time: 1 action
+level: 4
+ritual: false
+time: 1 Action
 duration: 1 minute
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Doom of the Earthen Maw
 ---
 # Doom of the Earthen Maw
 *4th-level, Evocation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** 1 minute
@@ -29,6 +35,6 @@ The ground within 30 feet of a point you designate turns into filthy and slipper
 
 Each round, a [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature sinks deeper into the muck. A Medium or smaller creature that is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] for 3 rounds becomes submerged at the end of its third turn. A Large creature becomes submerged after 4 rounds. Submerged creatures begin suffocating if they aren't holding their breath. A creature that is still submerged when the spell ends is sealed beneath the newly solidified ground. The creature can escape only if someone else digs it out or it has a burrowing speed.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 63*

@@ -8,6 +8,7 @@ tags:
 aliases:
   - Thieves' Tools
 cost: 2500
+weight: 1
 ---
 # Thieves' Tools
 *Tool*  

@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/egyptian
   - domain/knowledge
+alignment: Neutral
+domains: Knowledge
+pantheon: Egyptian
+symbol: Ibis
 aliases:
   - Thoth
 ---

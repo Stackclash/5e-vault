@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/cos
 aliases:
-  - 'Chapter 1: Into the Mists'
+  - Chapter 1: Into the Mists
 ---
 # Chapter 1: Into the Mists
 *Source: Curse of Strahd, p. 9* 
@@ -687,7 +687,7 @@ This card refers to [[4. World Almanac/NPCs/Ismark Kolyanovich (COS).md\|Ismark 
 
 This card refers to [[4. World Almanac/NPCs/Nikolai Wachter (COS).md\|Nikolai Wachter]] the elder, who is dead (see chapter 5, area N4o). If the characters cast a [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] spell or a [[5. Mechanics/Spells/Resurrection.md\|resurrection]] spell on his preserved corpse, Nikolai (LN male human [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]]) agrees to help the characters once he feels well enough, despite his wife's protests. Although his family has long supported Strahd, Nikolai came to realize toward the end of his life that Strahd must be destroyed to save Barovia.
 
-If the characters don't have the means to raise Nikolai from the dead, [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] (see appendix D) gives them a [[5. Mechanics/Items/Spell Scroll (DMG).md\|spell scroll]] of [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] if he learns of their need. If they're staying at the Blue Water Inn, he leaves the scroll in one of their rooms.
+If the characters don't have the means to raise Nikolai from the dead, [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] (see appendix D) gives them a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] if he learns of their need. If they're staying at the Blue Water Inn, he leaves the scroll in one of their rooms.
 
 > [!readaloud] 
 > 
@@ -1045,7 +1045,7 @@ The Misty Forest lies thirty miles east of Daggerford. Before the characters emb
 
 Zelraun Roaringhorn (LN male human [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) has come to Daggerford to meet with its ruler, Duchess Morwen, and offer the Harpers' support.
 
-Zelraun gives each Harper character a [[5. Mechanics/Items/Spell Scroll (DMG).md\|spell scroll]] of [[5. Mechanics/Spells/Remove Curse.md\|remove curse]]. He has also made arrangements with a metalsmith in Waterdeep to sheathe the characters' weapons in silver. The party can have up to six weapons silvered in this manner. Twenty pieces of ammunition count as one weapon for this purpose.
+Zelraun gives each Harper character a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Remove Curse.md\|remove curse]]. He has also made arrangements with a metalsmith in Waterdeep to sheathe the characters' weapons in silver. The party can have up to six weapons silvered in this manner. Twenty pieces of ammunition count as one weapon for this purpose.
 
 ##### About the Harpers
 
@@ -1093,7 +1093,7 @@ Eravien Haund (LN male half-elf [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble
 - The werewolves worship a deity called Mother Night.  
 - The werewolves leave and return to Barovia through some kind of ancient portal. (This is a deduction on Eravien's part, based on the werewolf prisoner's vague description of how the pack gets to and from Barovia.)  
 
-Eravien believes that he can gain prestige within the Lords' Alliance if he learns the whereabouts of the "ancient portal" that the werewolves are using and destroys it. He is convinced that the portal represents a danger not only to Daggerford but also to Waterdeep. Any Lords' Alliance character who agrees to destroy it is given a [[5. Mechanics/Items/Spell Scroll (DMG).md\|spell scroll]] of [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]]. Eravien also promises to furnish the character with a letter of recommendation (see ""Marks of Prestige"" in chapter 7 of the "Dungeon Master's Guide") once the portal is destroyed.
+Eravien believes that he can gain prestige within the Lords' Alliance if he learns the whereabouts of the "ancient portal" that the werewolves are using and destroys it. He is convinced that the portal represents a danger not only to Daggerford but also to Waterdeep. Any Lords' Alliance character who agrees to destroy it is given a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]]. Eravien also promises to furnish the character with a letter of recommendation (see ""Marks of Prestige"" in chapter 7 of the "Dungeon Master's Guide") once the portal is destroyed.
 
 ##### About the Lords' Alliance
 

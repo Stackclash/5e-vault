@@ -8,6 +8,7 @@ tags:
 aliases:
   - Grappling Hook
 cost: 200
+weight: 4
 ---
 # Grappling Hook
 *Adventuring gear*  

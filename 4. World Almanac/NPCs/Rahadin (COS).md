@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/rahadin.webp
+  - 4. World Almanac\NPCs\img\rahadin.webp
 relationships: []
 aliases:
   - Rahadin
@@ -160,57 +160,63 @@ actions:
 "ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "135"
 "hit_dice": "18d8 + 54"
+"modifier": !!int "6"
 "stats":
-- !!int "14"
-- !!int "22"
-- !!int "17"
-- !!int "15"
-- !!int "16"
-- !!int "18"
+  - !!int "14"
+  - !!int "22"
+  - !!int "17"
+  - !!int "15"
+  - !!int "16"
+  - !!int "18"
 "speed": "35 ft."
 "saves":
-  "Wisdom": !!int "7"
-  "Constitution": !!int "7"
+  - "constitution": "+7"
+  - "wisdom": "+7"
 "skillsaves":
-  "Intimidation": !!int "12"
-  "Deception": !!int "8"
-  "Stealth": !!int "14"
-  "Insight": !!int "7"
-  "Perception": !!int "11"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
+    "desc": "+12"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+11"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+14"
 "senses": "darkvision 60 ft., passive Perception 21"
 "languages": "Common, Elvish"
 "cr": "10"
 "traits":
-- "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately\
-    \ cast the following spells, requiring no components:\n\n1/day: [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]],\
-    \ [[5. Mechanics/Spells/Nondetection.md|nondetection]]\n\n3/day: [[5. Mechanics/Spells/Misty Step.md|misty step]],\
-    \ [[5. Mechanics/Spells/Phantom Steed.md|phantom steed]]"
-  "name": "Innate Spellcasting"
-- "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [[5. Mechanics/Spells/Mind Blank.md|mind\
-    \ blank]] spell hears in its mind the screams\
-    \ of the thousands of people Rahadin has killed. As a bonus action, Rahadin can\
-    \ force all creatures that can hear the screams to make a DC 16 Wisdom saving\
-    \ throw. Each creature takes 16 (3d10) psychic damage on a failed save, or half\
-    \ as much damage on a successful one."
-  "name": "Deathly Choir"
-- "desc": "Rahadin has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
-    \ and magic can't put him to sleep."
-  "name": "Fey Ancestry"
-- "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage,\
-    \ heavy rain, falling snow, mist, and other natural phenomena."
-  "name": "Mask of the Wild"
+  - "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately\
+      \ cast the following spells, requiring no components:\n\n3/day: [[5. Mechanics/Spells/Misty Step.md|misty step]],\
+      \ [[5. Mechanics/Spells/Phantom Steed.md|phantom steed]]\n\n1/day: [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]],\
+      \ [[5. Mechanics/Spells/Nondetection.md|nondetection]]"
+    "name": "Innate Spellcasting"
+  - "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [[5. Mechanics/Spells/Mind Blank.md|mind\
+      \ blank]] spell hears in its mind the screams\
+      \ of the thousands of people Rahadin has killed. As a bonus action, Rahadin\
+      \ can force all creatures that can hear the screams to make a DC 16 Wisdom saving\
+      \ throw. Each creature takes 16 (3d10) psychic damage on a failed save, or half\
+      \ as much damage on a successful one."
+    "name": "Deathly Choir"
+  - "desc": "Rahadin has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+      \ and magic can't put him to sleep."
+    "name": "Fey Ancestry"
+  - "desc": "Rahadin can attempt to hide even when he is only lightly obscured by\
+      \ foliage, heavy rain, falling snow, mist, and other natural phenomena."
+    "name": "Mask of the Wild"
 "actions":
-- "desc": "Rahadin attacks three times with his scimitar, or twice with his [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ darts."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9 (1d6\
-    \ + 6) slashing damage."
-  "name": "Scimitar"
-- "desc": "Ranged Weapon Attack: +10 to hit, range 20/60 ft., one target. Hit:\
-    \ 8 (1d4 + 6) piercing damage plus 5 (2d4) poison damage."
-  "name": "Poisoned Dart"
+  - "desc": "Rahadin attacks three times with his scimitar, or twice with his [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+      \ darts."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9\
+      \ (1d6 + 6) slashing damage."
+    "name": "Scimitar"
+  - "desc": "Ranged Weapon Attack: +10 to hit, range 20/60 ft., one target. Hit:\
+      \ 8 (1d4 + 6) piercing damage plus 5 (2d4) poison damage."
+    "name": "Poisoned Dart"
 "source":
-- "CoS"
+  - "CoS"
 "image": "4. World Almanac/NPCs/token/rahadin-cos.webp"
 ```
 ^statblock

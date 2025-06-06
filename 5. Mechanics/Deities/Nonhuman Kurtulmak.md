@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/nonhuman
   - domain/war
+alignment: Lawful Evil
+domains: War
+pantheon: Nonhuman
+symbol: Gnome skull
 aliases:
   - Kurtulmak
 ---

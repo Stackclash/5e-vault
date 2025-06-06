@@ -10,13 +10,13 @@ aliases:
 
 ## 1st Level
 
-- [[Disguise Self \|"PHB"]] 
+- [[5. Mechanics/Spells/Disguise Self.md \|"PHB"]] 
 
 ## 2nd Level
 
-- [[Blindness Deafness \|"PHB"]] 
-- [[Blur \|"PHB"]] 
+- [[5. Mechanics/Spells/Blindness Deafness.md \|"PHB"]] 
+- [[5. Mechanics/Spells/Blur.md \|"PHB"]] 
 
 ## 3rd Level
 
-- [[Nondetection \|"PHB"]]
+- [[5. Mechanics/Spells/Nondetection.md \|"PHB"]]

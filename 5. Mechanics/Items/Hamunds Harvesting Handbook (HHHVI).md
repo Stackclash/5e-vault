@@ -8,6 +8,7 @@ tags:
 aliases:
   - Hamund's Harvesting Handbook
 cost: 5000
+weight: 5
 ---
 # Hamund's Harvesting Handbook
 *Adventuring gear*  

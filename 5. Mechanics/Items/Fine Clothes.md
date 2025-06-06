@@ -8,6 +8,7 @@ tags:
 aliases:
   - Fine Clothes
 cost: 1500
+weight: 6
 ---
 # Fine Clothes
 *Adventuring gear*  

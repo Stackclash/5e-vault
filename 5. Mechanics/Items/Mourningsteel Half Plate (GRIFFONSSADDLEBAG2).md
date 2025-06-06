@@ -10,6 +10,7 @@ tags:
 aliases:
   - Mourningsteel Half Plate
 armorClass: 15 + Dex modifier (max of +2)
+weight: 40
 ---
 # Mourningsteel Half Plate
 *Medium armor ([[5. Mechanics/Items/Half Plate Armor.md\|half plate armor]]), major, legendary (requires attunement)*  
@@ -35,6 +36,6 @@ You can use an action to touch a weapon, piece of armor, or similar object that'
 
 ## Unholy Aura
 
-As a bonus action, you can speak the armor's command word to surround yourself with an aura of grim blasphemy. The aura remains for 1 minute or until you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or die. For the duration, celestials have disadvantage on attack rolls against you, and the first time that a celestial moves within 5 feet of you on its turn or starts its turn there, that creature takes `dice:1d10|noform|avg` (`1d10`) necrotic damage. This damage ignores resistance and immunity. In addition, once before the aura ends, if you fail a saving throw against an effect from a celestial (such as a [[5. Mechanics/Bestiary/Celestial/Solar.md\|solar]]'s Slaying Longbow), you can choose to succeed instead. Once the aura ends, it can't be used again until the next dusk.
+As a bonus action, you can speak the armor's command word to surround yourself with an aura of grim blasphemy. The aura remains for 1 minute or until you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or die. For the duration, celestials have disadvantage on attack rolls against you, and the first time that a celestial moves within 5 feet of you on its turn or starts its turn there, that creature takes `dice:1d10|noform|noparens|avg` (`d10`) necrotic damage. This damage ignores resistance and immunity. In addition, once before the aura ends, if you fail a saving throw against an effect from a celestial (such as a [[5. Mechanics/Bestiary/Celestial/Solar.md\|solar]]'s Slaying Longbow), you can choose to succeed instead. Once the aura ends, it can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 127*

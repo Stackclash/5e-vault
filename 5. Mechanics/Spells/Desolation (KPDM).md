@@ -11,21 +11,31 @@ tags:
   - spell/ritual
   - spell/school/necromancy
   - spell/subclass/divine-soul
-level: 8th-level
-range: true
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul)
+  - Wizard
 school: Necromancy
+level: 8
+ritual: true
 time: 1 hour
 duration: 1 year
-components: 'V, S, an obsidian acorn worth 500 gp, which is consumed in the casting'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Desolation
+material: 'an obsidian acorn worth 500 gp, which is consumed in the casting'
 ---
 # Desolation
 *8th-level, Necromancy (ritual)*  
 
 - **Casting time:** 1 hour unless cast as a ritual
 - **Range:** Self
-- **Components:** V, S, an obsidian acorn worth 500 gp, which is consumed in the casting
+- **Components:** V, S, M (an obsidian acorn worth 500 gp, which is consumed in the casting)
 - **Duration:** 1 year
 
 > [!note]
@@ -43,6 +53,6 @@ If you expend your ritual focus, the duration becomes permanent.
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 211*

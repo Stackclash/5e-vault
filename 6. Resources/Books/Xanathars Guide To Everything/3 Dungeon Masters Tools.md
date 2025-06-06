@@ -21,7 +21,7 @@ Most effects in the game happen in succession, following an order set by the rul
 
 ## Falling
 
-Falling from a great height is a significant risk for adventurers and their foes. The rule given in the player's handbook is simple: at the end of a fall, you take `dice:1d6|noform|avg` (`1d6`) bludgeoning damage for every 10 feet you fell, to a maximum of `dice:20d6|noform|avg` (`20d6`). You also land [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
+Falling from a great height is a significant risk for adventurers and their foes. The rule given in the player's handbook is simple: at the end of a fall, you take `dice:1d6|noform|noparens|avg` (`d6`) bludgeoning damage for every 10 feet you fell, to a maximum of `dice:20d6|noform|noparens|avg` (`20d6`). You also land [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
 
 ### Rate of Falling
 
@@ -75,7 +75,7 @@ The rules are purposely open-ended concerning mundane tasks like tying knots, bu
 
 The creature who ties the knot makes an Intelligence ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check when doing so. The total of the check becomes the DC for an attempt to untie the knot with an Intelligence ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check or to slip out of it with a Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check.
 
-This rule intentionally links [[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]] with Intelligence, rather than Dexterity. This is an example of how to apply the rule in the [[/5. Mechanics/Rules/Variant Rules/Skills With Different Abilities.md\|Skills with Different Abilities]] section in chapter 7 of the player's handbook.
+This rule intentionally links [[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]] with Intelligence, rather than Dexterity. This is an example of how to apply the rule in the ["Variant: Skills with Different Abilities"](/compendium/rules/variant-rules/skills-with-different-abilities-phb.md) section in chapter 7 of the player's handbook.
 
 ## Tool Proficiencies
 
@@ -309,6 +309,10 @@ This table gives you a way to match a character of a certain level with a number
 
 ## Random Encounters: A World of Possibilities
 
+> [!quote] A quote from Xanathar  
+> 
+> Crazy things happen all the time. You never know what's just around the corner or behind that door or down in that pit where I threw all those dwarves. Dwarves might be down there still. They're hardy. They bounce. Sometimes.
+
 Chapter 3 of the Dungeon Master's Guide provides guidance on using random encounters in your game. This section builds on that guidance, offering a host of random encounter tables for you to use when you determine that a random encounter is going to take place.
 
 Using the monster lists in appendix B of that book as a basis, we've built a set of tables for each environment category: arctic, coastal, desert, forest, grassland, hill, mountain, swamp, Underdark, underwater, and urban. Within each category, separate tables are provided for each of the four tiers of play: levels 1-4, 5-10, 11-16, and 17-20.
@@ -326,6 +330,12 @@ Of course, you also have the freedom to adjust the numbers, but it's important t
 The tables also include entries for what the dungeon master's guide calls "encounters of a less monstrous nature." Many of these results cry out to be customized or detailed, which offers you an opportunity to connect them to the story of your campaign. And in so doing, you've taken a step toward making your own personalized encounter table. Now, keep going!
 
 See the Encounter Generator for a complete list of all the tables available.
+
+> [!quote] A quote from Xanathar  
+> 
+> Danger is everywhere. Always keep one eye open.
+> 
+> That's much easier for me than it is for you.
 
 ## Traps Revisited
 
@@ -392,6 +402,12 @@ The following simple traps can be used to populate your adventures or as models 
 - [[5. Mechanics/Traps Hazards/Scything Blade Trap (XGE).md\|Scything Blade Trap]]  
 - [[5. Mechanics/Traps Hazards/Sleep Of Ages Trap (XGE).md\|Sleep of Ages Trap]]  
 
+> [!quote] A quote from Xanathar  
+> 
+> Pit traps are hilarious! Because when one of you walking things steps on one, you fall down!
+> 
+> And you get hurt! That's the best part.
+
 ![[6. Resources/Books/Xanathars Guide To Everything/img/c2022.webp#center]]
 
 ### Designing Simple Traps
@@ -438,7 +454,7 @@ The Damage Severity by Level table lists the typical damage a trap deals at cert
 
 The Spell Equivalent by Level table shows the spell slot level that is appropriate for a given character level and the severity of danger posed by the trap. A spell is a great foundation to use as the design of a trap, whether the trap duplicates the spell (a mirror that casts charm person on whoever looks into it) or uses its effects (an alchemical device that explodes like a fireball).
 
-The Deadly entry for characters of 17th level or higher suggests combining a 9th-level and a 5th-level spell into one effect. In this case, pick two spells, or combine the effects of a spell cast using a 9th-level and a 5th-level slot. For instance, a fireball spell of this sort would deal `dice:24d6|noform|avg` (`24d6`) fire damage on a failed saving throw.
+The Deadly entry for characters of 17th level or higher suggests combining a 9th-level and a 5th-level spell into one effect. In this case, pick two spells, or combine the effects of a spell cast using a 9th-level and a 5th-level slot. For instance, a fireball spell of this sort would deal `dice:24d6|noform|noparens|avg` (`24d6`) fire damage on a failed saving throw.
 
 ![[5. Mechanics/Tables/Level And Lethality Trap Save Dcs And Attack Bonuses (XGE).md\|Level and Lethality; Trap Save DCs and Attack Bonuses]]
 
@@ -678,6 +694,14 @@ Downtime rules also provide ways for characters to spend—or be relieved of—t
 
 The system presented here consists of two elements. First, it introduces the concept of rivals. Second, it details a number of downtime activities that characters can undertake.
 
+> [!quote] A quote from Xanathar  
+> 
+> When minions come back from a mission, sometimes I send them shopping.
+> 
+> Shopping is this thing where minions give away their stuff to other people, and other people give them different stuff.
+> 
+> It's so strange.
+
 ### Rivals
 
 Rivals are NPCs who oppose the characters and make their presence felt whenever the characters are engaging in downtime. A rival might be a villain you have featured in past adventures or plan to use in the future. Rivals can also include good or neutral folk who are at odds with the characters, whether because they have opposing goals or they simply dislike one another. The cultist of Orcus whose plans the characters have foiled, the ambitious merchant prince who wants to rule the city with an iron fist, and the nosy high priest of Helm who is convinced the characters are up to no good are all examples of rivals.
@@ -914,7 +938,7 @@ This activity requires one workweek of effort plus a stake of at least 10 gp, to
 
 The character must make a series of checks, with a DC determined at random based on the quality of the competition that the character runs into. Part of the risk of gambling is that one never knows who might end up sitting across the table.
 
-The character makes three checks: Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]), Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]), and Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]). If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is `dice:5+2d10|noform|avg` (`5 + 2d10`); generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
+The character makes three checks: Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]), Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]), and Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]). If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is `dice:5+2d10|noform|noparens|avg` (`5 + 2d10`); generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
 
 ![[5. Mechanics/Tables/Gambling Results (XGE).md\|Gambling Results]]
 
@@ -936,7 +960,7 @@ Engaging in this activity requires one workweek of effort from a character.
 
 The character must make a series of checks, with a DC determined at random based on the quality of the opposition that the character runs into. A big part of the challenge in pit fighting lies in the unknown nature of a character's opponents.
 
-The character makes three checks: Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]), Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]), and a special Constitution check that has a bonus equal to a roll of the character's largest Hit Die (this roll doesn't spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character's weapons. The DC for each of the checks is `dice:5+2d10|noform|avg` (`5 + 2d10`); generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
+The character makes three checks: Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]), Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]), and a special Constitution check that has a bonus equal to a roll of the character's largest Hit Die (this roll doesn't spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character's weapons. The DC for each of the checks is `dice:5+2d10|noform|noparens|avg` (`5 + 2d10`); generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
 
 ![[5. Mechanics/Tables/Pit Fighting Results (XGE).md\|Pit Fighting Results]]
 
@@ -1178,3 +1202,9 @@ The magic items are presented in alphabetical order.
 > 
 > Even on a world that experiences dawn each day, the DM is free to choose a different time-perhaps noon, sunset, or midnight-when certain magic items recharge.
 ^recharging-without-a-dawn
+
+> [!quote] A quote from Xanathar  
+> 
+> So why can't people who use magic do it all the time?
+> 
+> I can disintegrate things whenever I want. Like now. And now. And now. And now... Hey, where'd everybody go?

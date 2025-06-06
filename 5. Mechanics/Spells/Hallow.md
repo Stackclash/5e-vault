@@ -12,23 +12,40 @@ tags:
   - spell/subclass/oath-of-the-annihilator
   - spell/subclass/oath-of-the-watchtower
   - spell/subclass/the-fiend
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Paladin (Oath of the Annihilator)
+  - Paladin (Oath of the Watchtower)
+  - Ranger (Gravetender)
+  - Sorcerer (Divine Soul)
+  - Warlock (The Fiend)
 school: Evocation
-time: 24 hour
+level: 5
+ritual: false
+time: 24 hours
 duration: Until dispelled
-components: >-
-  V, S, herbs, oils, and incense worth at least 1,000 gp, which the spell
-  consumes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Hallow
+range: Touch
+material: 'Herbs, oils, and incense worth at least 1,000 gp, which the spell consumes.'
+save:
+  type: CHA
+  success: none
+area:
+  type: sphere
+  size: 60
 ---
 # Hallow
 *5th-level, Evocation*  
 
-- **Casting time:** 24 hour
+- **Casting time:** 24 hours
 - **Range:** Touch
-- **Components:** V, S, herbs, oils, and incense worth at least 1,000 gp, which the spell consumes
+- **Components:** V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)
 - **Duration:** Until dispelled
 
 You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect a hallow spell. The affected area is subject to the following effects.
@@ -79,6 +96,6 @@ Affected creatures can communicate with any other creature in the area, even if 
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Ranger Gravetender (GRIFFONSSADDLEBAG4)\|Ranger (Gravetender)]]; [[List Spells Classes Paladin Oath Of The Annihilator (KPDM)\|Paladin (Oath of the Annihilator)]]; [[List Spells Classes Paladin Oath Of The Watchtower (GRIFFONSSADDLEBAG3)\|Paladin (Oath of the Watchtower)]]; [[List Spells Classes Warlock The Fiend\|Warlock (The Fiend)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]; [Paladin (Oath of the Annihilator)](compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Paladin (Oath of the Watchtower)](compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Ranger (Gravetender)](compendium/lists/list-spells-classes-gravetender-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 249. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

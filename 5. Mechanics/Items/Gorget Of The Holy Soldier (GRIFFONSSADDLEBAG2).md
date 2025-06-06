@@ -18,7 +18,7 @@ This magical gorget is imbued with the divine power of a planetar and has been p
 
 ## Investiture of the Planetar
 
-If you have 10 or more levels in the barbarian class, your Strength score increases by 2, to a maximum of 26, and while you're raging, any creature you hit with a melee weapon attack takes an extra `dice:1d6|noform|avg` (`1d6`) radiant damage.
+If you have 10 or more levels in the barbarian class, your Strength score increases by 2, to a maximum of 26, and while you're raging, any creature you hit with a melee weapon attack takes an extra `dice:1d6|noform|noparens|avg` (`d6`) radiant damage.
 
 ## Litany of Heaven
 

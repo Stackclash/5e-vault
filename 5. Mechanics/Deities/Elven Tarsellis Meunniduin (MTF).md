@@ -6,6 +6,12 @@ tags:
   - deity/elven
   - domain/nature
   - domain/tempest
+alignment: Chaotic Neutral
+category: The Seldarine
+domains: 'Nature, Tempest'
+pantheon: Elven
+province: 'Mountains, rivers, wild places'
+symbol: Mountain with a river
 aliases:
   - Tarsellis Meunniduin
 ---

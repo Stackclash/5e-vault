@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhhvii
 aliases:
-  - 'Chapter 6: Hamund''s Have-Nots'
+  - Chapter 6: Hamund's Have-Nots
 ---
 # Chapter 6: Hamund's Have-Nots
 *Source: Hamund's Harvesting Handbook: Volume II, p. 72* 
@@ -3801,7 +3801,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > > [!quote]  
 > > 
-> > The highest members of drow society are known to have blessings of Lolth that they carry in their hearts. The best thing is, these hearts can be used by anyone once removed from their bodies. What better way to eradicate the drow, than to use their goddess and the organs of their fallen comrades against them?
+> > The highest members of drow society are known to have blessings of [[5. Mechanics/Deities/Drow Lolth (MTF).md\|Lolth]] that they carry in their hearts. The best thing is, these hearts can be used by anyone once removed from their bodies. What better way to eradicate the drow, than to use their goddess and the organs of their fallen comrades against them?
 > 
 
 > **Target.** Grick Alpha  
@@ -3945,7 +3945,7 @@ However, many quests offer the option for the players to submit the request more
 > 
 > > [!quote]  
 > > 
-> > The highest members of drow society are known to have blessings of Lolth that they carry in their hearts. The best thing is, these hearts can be used by anyone once removed from their bodies. What better way to eradicate the drow, than to use their goddess and the organs of their fallen comrades against them?
+> > The highest members of drow society are known to have blessings of [[5. Mechanics/Deities/Drow Lolth (MTF).md\|Lolth]] that they carry in their hearts. The best thing is, these hearts can be used by anyone once removed from their bodies. What better way to eradicate the drow, than to use their goddess and the organs of their fallen comrades against them?
 > 
 
 > **Target.** Fomorian  

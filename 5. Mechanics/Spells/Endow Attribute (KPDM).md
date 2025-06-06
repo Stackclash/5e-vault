@@ -10,21 +10,32 @@ tags:
   - spell/level/4th-level
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, a ring worth at least 200 gp'
+level: 4
+ritual: false
+time: 1 Action
+duration: up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Endow Attribute
+concentration: true
+material: a ring worth at least 200 gp
 ---
 # Endow Attribute
 *4th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, a ring worth at least 200 gp
+- **Components:** V, S, M (a ring worth at least 200 gp)
 - **Duration:** Concentration, up to 1 hour
 
 You touch a creature with a ring that has been etched with symbols representing a particular ability (Strength, Dexterity, and so forth). The creature must make a successful Constitution saving throw or lose one-fifth (rounded down) of its points from that ability score.
@@ -35,6 +46,6 @@ The spell ends if you lose concentration before the transfer takes place, if eit
 
 **At Higher Levels.** If you cast this spell using a spell slot of 7th or 8th level, the duration is 8 hours. If you use a 9th-level spell slot, the duration is 24 hours.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 67*

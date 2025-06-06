@@ -8,6 +8,7 @@ tags:
 aliases:
   - Weaver's Tools
 cost: 100
+weight: 5
 ---
 # Weaver's Tools
 *Artisan's tools*  

@@ -15,22 +15,39 @@ tags:
   - spell/subclass/divine-soul
   - spell/subclass/eldritch-knight
   - spell/subclass/wealth-domain
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Wealth Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul)
+  - Wizard
 school: Divination
-time: 1 action
-duration: 'Concentration, up to 10 minute'
-components: 'V, S, a forked twig'
+level: 2
+ritual: false
+time: 1 Action
+duration: Up to 10 minutes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Locate Object
+range: Self
+material: A forked twig.
+concentration: true
 ---
 # Locate Object
 *2nd-level, Divination*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
-- **Components:** V, S, a forked twig
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a forked twig)
+- **Duration:** Concentration, up to 10 minutes
 
 Describe or name an object that is familiar to you. You sense the direction to the object's location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
 
@@ -38,6 +55,6 @@ The spell can locate a specific object known to you, as long as you have seen it
 
 This spell can't locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Wealth Domain (GRIFFONSSADDLEBAG3)\|Cleric (Wealth Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Wealth Domain)](compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 256. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

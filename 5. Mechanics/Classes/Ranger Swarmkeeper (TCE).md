@@ -8,7 +8,7 @@ aliases:
   - Swarmkeeper
 ---
 # Swarmkeeper
-*[[Ranger.md\|Ranger]]: Ranger Archetype*  
+*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
 *Source: Tasha's Cauldron of Everything p. 59*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Swarmkeeper%20(Level%203)'>Swarmkeeper</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Swarmkeeper (Level 3)' class='internal-link'>Swarmkeeper</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Writhing%20Tide%20(Level%207)'>Writhing Tide</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Writhing Tide (Level 7)' class='internal-link'>Writhing Tide</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Mighty%20Swarm%20(Level%2011)'>Mighty Swarm</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Mighty Swarm (Level 11)' class='internal-link'>Mighty Swarm</a></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Swarming%20Dispersal%20(Level%2015)'>Swarming Dispersal</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Swarming Dispersal (Level 15)' class='internal-link'>Swarming Dispersal</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -68,7 +69,7 @@ A swarm of intangible nature spirits has bonded itself to you and can assist you
 
 Once on each of your turns, you can cause the swarm to assist you in one of the following ways, immediately after you hit a creature with an attack:
 
-- The attack's target takes `dice:1d6|noform|avg` (`1d6`) piercing damage from the swarm.  
+- The attack's target takes `dice:1d6|noform|noparens|avg` (`d6`) piercing damage from the swarm.  
 - The attack's target must succeed on a Strength saving throw against your spell save DC or be moved by the swarm up to 15 feet horizontally in a direction of your choice.  
 - You are moved by the swarm 5 feet horizontally in a direction of your choice.  
 
@@ -112,7 +113,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 Your Gathered Swarm grows mightier in the following ways:
 
-- The damage of Gathered Swarm increases to `dice:1d8|noform|avg` (`1d8`).  
+- The damage of Gathered Swarm increases to `dice:1d8|noform|noparens|avg` (`d8`).  
 - If a creature fails its saving throw against being moved by Gathered Swarm, you can also cause the swarm to knock the creature [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].  
 - When you are moved by Gathered Swarm, it gives you half cover until the start of your next turn.  
 

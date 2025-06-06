@@ -15,27 +15,41 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/divine-soul
   - spell/subclass/eldritch-knight
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul)
+  - Warlock
+  - Wizard
 school: Necromancy
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S'
+level: 3
+ritual: false
+time: 1 Action
+duration: up to 1 hour
+components:
+  - V
+  - S
 aliases:
   - Mass Hobble Mount
+concentration: true
 ---
 # Mass Hobble Mount
 *3rd-level, Necromancy*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
 
 When you cast this spell, you make separate ranged spell attacks against up to six horses, wolves, or other four-legged or two-legged beasts being ridden as mounts within 60 feet of you. The targets can be different types of beasts and can have different numbers of legs.
 
-Each beast hit by your spell is disabled so that it can't move at its normal speed without incurring injury. An affected creature that moves more than half its base speed in a turn takes `dice:4d6|noform|avg` (`4d6`) bludgeoning damage.
+Each beast hit by your spell is disabled so that it can't move at its normal speed without incurring injury. An affected creature that moves more than half its base speed in a turn takes `dice:4d6|noform|noparens|avg` (`4d6`) bludgeoning damage.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 94*

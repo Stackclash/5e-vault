@@ -13,23 +13,39 @@ tags:
   - spell/subclass/festus-domain
   - spell/subclass/hedge-mage
   - spell/subclass/oath-of-the-annihilator
-  - spell/subclass/oathbreaker-dmg
-level: 5th-level
-range: false
+  - spell/subclass/oathbreaker
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Festus Domain)
+  - Druid
+  - Druid (Circle of Spores)
+  - Paladin (Oath of the Annihilator)
+  - Paladin (Oathbreaker)
+  - Sorcerer (Divine Soul)
+  - Wizard (Hedge Mage)
 school: Necromancy
-time: 1 action
-duration: 7 day
-components: 'V, S'
+level: 5
+ritual: false
+time: 1 Action
+duration: 7 days
+components:
+  - V
+  - S
 aliases:
   - Contagion
+range: Touch
+save:
+  type: CON
+  success: other
 ---
 # Contagion
 *5th-level, Necromancy*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
-- **Duration:** 7 day
+- **Duration:** 7 days
 
 Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, the target is [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]].
 
@@ -63,6 +79,6 @@ The creature begins to bleed uncontrollably. The creature has disadvantage on Co
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Druid Circle Of Spores (TCE)\|Druid (Circle of Spores)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Cleric Festus Domain (GRIFFONSSADDLEBAG2)\|Cleric (Festus Domain)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]; [[List Spells Classes Paladin Oath Of The Annihilator (KPDM)\|Paladin (Oath of the Annihilator)]]; [[List Spells Classes Paladin Oathbreaker (DMG)\|Paladin (Oathbreaker (DMG))]]
+**Classes**: [Paladin (Oath of the Annihilator)](compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [Cleric (Festus Domain)](compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oathbreaker)](compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Spores)](compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard (Hedge Mage)](compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 227. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

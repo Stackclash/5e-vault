@@ -6,6 +6,10 @@ tags:
   - deity/norse
   - domain/light
   - domain/order
+alignment: Neutral
+domains: 'Light, Order'
+pantheon: Norse
+symbol: Head of a bearded man
 aliases:
   - Forseti
 ---

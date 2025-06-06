@@ -10,7 +10,7 @@ aliases:
 # Jera
 *Source: Deep Magic p. 240*  
 
-*Abundant harvest; the gods Frey and Freya*
+*Abundant harvest; the gods [[5. Mechanics/Deities/Norse Frey.md\|Frey]] and [[5. Mechanics/Deities/Norse Freya.md\|Freya]]*
 
 - **Benefit.** You have proficiency on Intelligence ([[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) checks.  
 - **Power (4th level).** When jera is traced on the belly of a living creature, the rune guarantees that any sexual union involving that creature in the next 24 hours proves fruitful. If the rune is traced on a pregnant creature at least once per month during its pregnancy, the act guarantees a successful birth and healthy offspring. Tracing the rune takes an action.  

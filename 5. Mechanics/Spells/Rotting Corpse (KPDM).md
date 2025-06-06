@@ -10,22 +10,31 @@ tags:
   - spell/level/2nd-level
   - spell/school/necromancy
   - spell/subclass/arcane-trickster
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 school: Necromancy
-time: 10 minute
-duration: 3 day
-components: 'V, a rotting piece of flesh from an undead creature'
+level: 2
+ritual: false
+time: 10 minutes
+duration: 3 days
+components:
+  - V
+  - M
 aliases:
   - Rotting Corpse
+material: a rotting piece of flesh from an undead creature
 ---
 # Rotting Corpse
 *2nd-level, Necromancy*  
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** Touch
-- **Components:** V, a rotting piece of flesh from an undead creature
-- **Duration:** 3 day
+- **Components:** V, M (a rotting piece of flesh from an undead creature)
+- **Duration:** 3 days
 
 Your familiarity with the foul effects of death allows you to prevent a dead body from being returned to life using anything but the most powerful forms of magic.
 
@@ -33,6 +42,6 @@ You cast this spell by touching a creature that died within the last 24 hours. T
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can affect one additional corpse for each slot level above 2nd.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 103*

@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/veor
 aliases:
-  - 'Appendix C: Secrets Tracker'
+  - Appendix C: Secrets Tracker
 ---
 # Appendix C: Secrets Tracker
 *Source: Vecna: Eve of Ruin* 

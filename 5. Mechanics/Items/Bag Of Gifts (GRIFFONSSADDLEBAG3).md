@@ -15,7 +15,7 @@ aliases:
 
 This soft bag is decorated with tiny illustrations of small trinkets and gifts. Striped ribbons line its side and an empty paper tag hangs from its drawstring. The bag is 6 inches across but weighs just over 12 pounds, even if nothing is kept inside it.
 
-While holding the empty bag, you can use an action to cinch its top closed and lightly shake it. When you do, the bag magically feels full. When a creature other than you opens the bag, roll a `dice:d12|noform|avg` (`d12`) and use the table below to determine what the gift is inside.
+While holding the empty bag, you can use an action to cinch its top closed and lightly shake it. When you do, the bag magically feels full. When a creature other than you opens the bag, roll a `dice:d12|noform|noparens|avg` (`d12`) and use the table below to determine what the gift is inside.
 
 `dice: [[Bag Of Gifts (GRIFFONSSADDLEBAG3).md#^gift]]`
 

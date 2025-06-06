@@ -13,7 +13,7 @@ tags:
 aliases:
   - Swarm of Cacophony Crows
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Swarm Of Cacophony Crows (GRIFFONSSADDLEBAG3).md|Swarm of Cacophony Crows]]
+# [[5. Mechanics\Bestiary\Monstrosity\Swarm Of Cacophony Crows (GRIFFONSSADDLEBAG3).md|Swarm of Cacophony Crows]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Cacophony crows are dark, but brassy in color and can imitate the sound and even resonance of temple bells. Some crows are trained to take the place of bells in buildings with limited space or resources, and can even be used to tell time, with enough patience, in much the same way that a belltower chimes throughout the day.
@@ -29,16 +29,18 @@ In the wild, the crows use their raucous calls to startle and disarm potential p
 "ac_class": "natural armor"
 "hp": !!int "76"
 "hit_dice": "8d12 + 24"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "14"
-- !!int "17"
-- !!int "3"
-- !!int "14"
-- !!int "7"
+  - !!int "18"
+  - !!int "14"
+  - !!int "17"
+  - !!int "3"
+  - !!int "14"
+  - !!int "7"
 "speed": "20 ft., fly 60 ft."
 "skillsaves":
-  "Perception": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, thunder, slashing"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]],\
@@ -49,35 +51,35 @@ In the wild, the crows use their raucous calls to startle and disarm potential p
 "languages": ""
 "cr": "6"
 "traits":
-- "desc": "The swarm doesn't provoke opportunity attacks when it flies out of an enemy's\
-    \ reach."
-  "name": "Flyby"
-- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
-    \ can move through any opening large enough for a Medium cacophony crow. The swarm\
-    \ can't regain hit points or gain temporary hit points."
-  "name": "Swarm"
+  - "desc": "The swarm doesn't provoke opportunity attacks when it flies out of an\
+      \ enemy's reach."
+    "name": "Flyby"
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through any opening large enough for a Medium cacophony crow.\
+      \ The swarm can't regain hit points or gain temporary hit points."
+    "name": "Swarm"
 "actions":
-- "desc": "Melee Weapon Attack: +7 to hit, reach 0 ft., one target. Hit: 25 (6d6\
-    \ + 4) piercing damage, or 18 (4d6 + 4) piercing damage if the swarm has half\
-    \ of its hit points or fewer."
-  "name": "Beaks"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 0 ft., one target. Hit: 19 (6d4\
-    \ + 4) piercing damage, or 14 (4d4 + 4) piercing damage if the swarm has half\
-    \ of its hit points or fewer. If the target is a Large or smaller creature, it\
-    \ is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 17). Until\
-    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
-    \ and the swarm can't use its talons on another target."
-  "name": "Talons"
-- "desc": "The swarm emits a thunderous screech. Each creature within 90 feet of the\
-    \ swarm must make a DC 15 Constitution saving throw. On a failed save, a creature\
-    \ takes 27 (5d10) thunder damage and is [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
-    \ for 1 minute; a [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] creature\
-    \ can repeat the saving throw at the end of each of its turns, ending the effect\
-    \ on itself on a success. On a successful save, a creature takes half as much\
-    \ damage and isn't [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]."
-  "name": "Screech (Recharge 4-6)"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 0 ft., one target. Hit: 25\
+      \ (6d6 + 4) piercing damage, or 18 (4d6 + 4) piercing damage if the swarm has\
+      \ half of its hit points or fewer."
+    "name": "Beaks"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 0 ft., one target. Hit: 19\
+      \ (6d4 + 4) piercing damage, or 14 (4d4 + 4) piercing damage if the swarm has\
+      \ half of its hit points or fewer. If the target is a Large or smaller creature,\
+      \ it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 17).\
+      \ Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
+      \ and the swarm can't use its talons on another target."
+    "name": "Talons"
+  - "desc": "The swarm emits a thunderous screech. Each creature within 90 feet of\
+      \ the swarm must make a DC 15 Constitution saving throw. On a failed save, a\
+      \ creature takes 27 (5d10) thunder damage and is [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
+      \ for 1 minute; a [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] creature\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success. On a successful save, a creature takes half as much\
+      \ damage and isn't [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]."
+    "name": "Screech (Recharge 4-6)"
 "source":
-- "GriffonsSaddlebag3"
+  - "GriffonsSaddlebag3"
 ```
 ^statblock
 

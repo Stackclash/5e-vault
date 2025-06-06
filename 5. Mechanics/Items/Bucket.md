@@ -8,6 +8,7 @@ tags:
 aliases:
   - Bucket
 cost: 5
+weight: 2
 ---
 # Bucket
 *Adventuring gear*  

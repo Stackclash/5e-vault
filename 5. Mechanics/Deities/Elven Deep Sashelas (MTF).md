@@ -7,6 +7,12 @@ tags:
   - domain/knowledge
   - domain/nature
   - domain/tempest
+alignment: Chaotic Good
+category: The Seldarine
+domains: 'Knowledge, Nature, Tempest'
+pantheon: Elven
+province: 'Creativity, knowledge, sea'
+symbol: Dolphin
 aliases:
   - Deep Sashelas
 ---

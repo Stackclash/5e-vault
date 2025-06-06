@@ -11,23 +11,32 @@ tags:
   - spell/school/illusion
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 2nd-level
-range: true
+classes:
+  - Artificer
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Illusion
+level: 2
+ritual: true
 time: 1 minute
 duration: Until dispelled
-components: >-
-  V, S, a small bit of honeycomb and jade dust worth at least 10 gp, which the
-  spell consumes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Magic Mouth
+range: 30 feet
+material: 'A honeycomb and jade dust of at least 10 inches, the spell consumes.'
 ---
 # Magic Mouth
 *2nd-level, Illusion (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** 30 feet
-- **Components:** V, S, a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes
+- **Components:** V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)
 - **Duration:** Until dispelled
 
 You implant a message within an object in range, a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn't being worn or carried by another creature. Then speak the message, which must be 25 words or less, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.
@@ -36,6 +45,6 @@ When that circumstance occurs, a magical mouth appears on the object and recites
 
 The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Player's Handbook p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

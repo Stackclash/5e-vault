@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Chime of Opening
+weight: 1
 ---
 # Chime of Opening
 *Wondrous item, minor, rare*  

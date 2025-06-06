@@ -10,14 +10,23 @@ tags:
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 school: Conjuration
+level: 4
+ritual: false
 time: 1 minute
-duration: 'Concentration, up to 1 hour'
-components: 'V, S'
+duration: up to 1 hour
+components:
+  - V
+  - S
 aliases:
   - Conjure Fiends
+concentration: true
 ---
 # Conjure Fiends
 *4th-level, Conjuration*  
@@ -42,6 +51,6 @@ The GM has the creatures' statistics.
 
 **At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level spell slot and three times as many with an 8th-level spell slot.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 326*

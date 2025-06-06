@@ -11,27 +11,37 @@ tags:
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 3
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Freeze Blood
+concentration: true
 ---
 # Freeze Blood
 *3rd-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-When you cast this spell, you must make a melee spell attack against a living creature with a circulatory system. On a hit, the creature's blood freezes. For the spell's duration, the affected creature's speed is halved and it takes `dice:2d6|noform|avg` (`2d6`) cold damage at the start of each of its turns. If the creature takes bludgeoning damage from a critical hit, the attack's damage dice are rolled three times instead of twice.
+When you cast this spell, you must make a melee spell attack against a living creature with a circulatory system. On a hit, the creature's blood freezes. For the spell's duration, the affected creature's speed is halved and it takes `dice:2d6|noform|noparens|avg` (`2d6`) cold damage at the start of each of its turns. If the creature takes bludgeoning damage from a critical hit, the attack's damage dice are rolled three times instead of twice.
 
 At the end of each of its turns, the creature can make a Constitution saving throw, ending the effect on a success.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 271*

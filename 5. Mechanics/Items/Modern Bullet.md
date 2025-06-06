@@ -8,6 +8,7 @@ tags:
   - item/rarity/none
 aliases:
   - Modern Bullet
+weight: 0.1
 ---
 # Modern Bullet
 *Ammunition (firearm)*  

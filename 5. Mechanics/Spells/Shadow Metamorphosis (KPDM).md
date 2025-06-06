@@ -8,19 +8,26 @@ tags:
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/transmutation
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 6
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Shadow Metamorphosis
+concentration: true
 ---
 # Shadow Metamorphosis
 *6th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -29,6 +36,6 @@ You touch a creature of Huge size or smaller, or a single object no more than 20
 
 An unwilling creature can make a Constitution saving throw, avoiding the effect on a success. A creature under the effect of the spell is amorphous and can move through a space as narrow as 1 inch wide without squeezing. In dim light or darkness, the creature has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks. A creature under the effect of this spell cannot make attacks or cast spells and has vulnerability to radiant damage.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 251*

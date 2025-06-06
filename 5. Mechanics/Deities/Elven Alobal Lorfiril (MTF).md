@@ -6,6 +6,12 @@ tags:
   - deity/elven
   - domain/life
   - domain/trickery
+alignment: Chaotic Good
+category: The Seldarine
+domains: 'Life, Trickery'
+pantheon: Elven
+province: 'Revelry, mirth'
+symbol: Wine glass
 aliases:
   - Alobal Lorfiril
 ---

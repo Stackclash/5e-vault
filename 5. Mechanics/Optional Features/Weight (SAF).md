@@ -19,6 +19,6 @@ The gemstone dragons know that the weave of the timescape isn't a true force—i
 
 Choose a target within range and select either *Levitas* or *Gravitas*. The target must succeed on an Intelligence saving throw or suffer the effect described below.
 
-**Levitas.** The target rises 10 feet per round. A levitating target can repeat the saving throw at the end of each of its turns, until they save. When the target eventually hits the ground, it takes `dice:1d6|noform|avg` (`1d6`) damage per 10 feet fallen, with the maximum dice equal to their level (e.g., `dice:5d6|noform|avg` (`5d6`) for level 5).
+**Levitas.** The target rises 10 feet per round. A levitating target can repeat the saving throw at the end of each of its turns, until they save. When the target eventually hits the ground, it takes `dice:1d6|noform|noparens|avg` (`d6`) damage per 10 feet fallen, with the maximum dice equal to their level (e.g., `dice:5d6|noform|noparens|avg` (`5d6`) for level 5).
 
 **Gravitas.** The target's movement is reduced to 10 feet.

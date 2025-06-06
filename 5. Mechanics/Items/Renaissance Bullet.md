@@ -9,6 +9,7 @@ tags:
 aliases:
   - Renaissance Bullet
 cost: 30
+weight: 0.2
 ---
 # Renaissance Bullet
 *Ammunition (firearm)*  

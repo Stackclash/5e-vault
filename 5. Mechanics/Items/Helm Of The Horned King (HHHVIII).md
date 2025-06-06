@@ -17,7 +17,7 @@ The Helm of the Horned King is an item often seen in the deranged paintings made
 
 The helm itself is composed of a magically imbued steel that is virtually unbreakable and is covered with dark, shaggy fur. Two antlers with three prongs each grow from the top; each one is supernaturally sharp and capable of puncturing even the hardest bedrock.
 
-In order to attune to the helm, a creature must wear it while stalking and hunting a large beast such as a stag or bear under a moonless night. Upon killing their quarry, the wearer must then remove the head of their prey and drip the blood onto their own head. This finalizes the attunement which causes the helm to fuse to the skull of the wearer, transforming their head into one that resembles that of a black minotaur. As part of this, the wearer gains the ability to use the horns as natural weapons to make unarmed strikes. If it hits, this attack deals piercing damage equal to `dice:1d10|noform|avg` (`1d10`) + your Strength modifier. If you moved at least 10 feet in a straight line immediately before attacking with your horns, you deal an additional `dice:1d10|noform|avg` (`1d10`) damage to your target.
+In order to attune to the helm, a creature must wear it while stalking and hunting a large beast such as a stag or bear under a moonless night. Upon killing their quarry, the wearer must then remove the head of their prey and drip the blood onto their own head. This finalizes the attunement which causes the helm to fuse to the skull of the wearer, transforming their head into one that resembles that of a black minotaur. As part of this, the wearer gains the ability to use the horns as natural weapons to make unarmed strikes. If it hits, this attack deals piercing damage equal to `dice:1d10|noform|noparens|avg` (`d10`) + your Strength modifier. If you moved at least 10 feet in a straight line immediately before attacking with your horns, you deal an additional `dice:1d10|noform|noparens|avg` (`d10`) damage to your target.
 
 ## Random Properties
 
@@ -45,7 +45,7 @@ Creatures, and especially beasts, naturally revere you as the dominant hunter an
 
 ## Territorial Ruler
 
-If you spend 1 hour focusing while standing in one spot, you may declare a 5-mile area around you your lair so long as it is not already the lair of another living creature. Over the course of `dice:1d10|noform|avg` (`1d10`) days the following effects begin to take place in your lair:
+If you spend 1 hour focusing while standing in one spot, you may declare a 5-mile area around you your lair so long as it is not already the lair of another living creature. Over the course of `dice:1d10|noform|noparens|avg` (`d10`) days the following effects begin to take place in your lair:
 
 - Plant life within your lair grows thick and forms walls of trees, hedges, and other flora in the form of small mazes. You are innately aware of the layout of this maze and cannot be lost in it.  
 - All beasts within your lair become frightened and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.  

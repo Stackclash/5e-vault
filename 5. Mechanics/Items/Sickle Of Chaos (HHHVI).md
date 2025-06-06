@@ -9,12 +9,13 @@ tags:
   - item/weapon/simple
 aliases:
   - Sickle of Chaos
-one-hand-damage: 1d4 S
+one-hand-damage: 1d4 slashing
+weight: 2
 ---
 # Sickle of Chaos
 *Weapon ([[5. Mechanics/Items/Sickle.md\|sickle]]), rare (requires attunement)*  
 
-- **Damage**: 1d4 S
+- **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
 

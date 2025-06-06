@@ -10,19 +10,28 @@ tags:
   - spell/school/evocation
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Evocation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 4
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Distressing Resonance
+concentration: true
 ---
 # Distressing Resonance
 *4th-level, Evocation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -31,6 +40,6 @@ You create a field of subsonic vibrations in a 30-foot-radius sphere, centered o
 
 The vibrations from the distressing resonance interfere with tremorsense, negating any use of that ability in the spell's area.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 61*

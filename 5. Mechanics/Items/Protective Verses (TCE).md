@@ -7,6 +7,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Protective Verses
+weight: 3
 ---
 # Protective Verses
 *Wondrous item, rare (requires attunement by a wizard)*  
@@ -17,9 +18,9 @@ This leather-bound spellbook is reinforced with iron and silver fittings and an 
 
 While you are holding the book, you can use it as a spellcasting focus for your wizard spells.
 
-The book has 3 charges, and it regains `dice:1d3|noform|avg` (`1d3`) expended charges daily at dawn. You can use the charges in the following ways while holding it:
+The book has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`d3`) expended charges daily at dawn. You can use the charges in the following ways while holding it:
 
 - If you spend 1 minute studying the book, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book. The new spell must be of the abjuration school.  
-- When you cast an abjuration spell, you can expend 1 charge to grant a creature you can see within 30 feet of you `dice:2d10|noform|avg` (`2d10`) temporary hit points.  
+- When you cast an abjuration spell, you can expend 1 charge to grant a creature you can see within 30 feet of you `dice:2d10|noform|noparens|avg` (`2d10`) temporary hit points.  
 
 *Source: Tasha's Cauldron of Everything p. 134*

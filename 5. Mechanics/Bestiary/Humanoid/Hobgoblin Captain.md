@@ -18,7 +18,7 @@ tags:
 aliases:
   - Hobgoblin Captain
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Hobgoblin Captain.md|Hobgoblin Captain]]
+# [[5. Mechanics\Bestiary\Humanoid\Hobgoblin Captain.md|Hobgoblin Captain]]
 *Source: Monster Manual p. 186*
 
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
@@ -88,39 +88,40 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 "ac_class": "[[5. Mechanics/Items/Half Plate Armor.md|half plate armor]]"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
+"modifier": !!int "2"
 "stats":
-- !!int "15"
-- !!int "14"
-- !!int "14"
-- !!int "12"
-- !!int "10"
-- !!int "13"
+  - !!int "15"
+  - !!int "14"
+  - !!int "14"
+  - !!int "12"
+  - !!int "10"
+  - !!int "13"
 "speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
-- "desc": "Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature\
-    \ it hits with a weapon attack if that creature is within 5 feet of an ally of\
-    \ the hobgoblin that isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
-  "name": "Martial Advantage"
+  - "desc": "Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature\
+      \ it hits with a weapon attack if that creature is within 5 feet of an ally\
+      \ of the hobgoblin that isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
+    "name": "Martial Advantage"
 "actions":
-- "desc": "The hobgoblin makes two greatsword attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6\
-    \ + 2) slashing damage."
-  "name": "Greatsword"
-- "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120\
-    \ ft., one target. Hit: 5 (1d6 + 2) piercing damage."
-  "name": "Javelin"
-- "desc": "For 1 minute, the hobgoblin can utter a special command or warning whenever\
-    \ a nonhostile creature that it can see within 30 feet of it makes an attack roll\
-    \ or a saving throw. The creature can add a d4 to its roll provided it can hear\
-    \ and understand the hobgoblin. A creature can benefit from only one Leadership\
-    \ die at a time. This effect ends if the hobgoblin is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
-  "name": "Leadership (Recharges after a Short or Long Rest)"
+  - "desc": "The hobgoblin makes two greatsword attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6\
+      \ + 2) slashing damage."
+    "name": "Greatsword"
+  - "desc": "Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+    "name": "Javelin"
+  - "desc": "For 1 minute, the hobgoblin can utter a special command or warning whenever\
+      \ a nonhostile creature that it can see within 30 feet of it makes an attack\
+      \ roll or a saving throw. The creature can add a d4 to its roll provided it\
+      \ can hear and understand the hobgoblin. A creature can benefit from only one\
+      \ Leadership die at a time. This effect ends if the hobgoblin is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
+    "name": "Leadership (Recharges after a Short or Long Rest)"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/hobgoblin-captain.webp"
 ```
 ^statblock

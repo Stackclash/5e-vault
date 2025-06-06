@@ -19,27 +19,41 @@ tags:
   - spell/subclass/forge-domain
   - spell/subclass/knowledge-domain
   - spell/subclass/wealth-domain
-level: 1st-level
-range: true
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Forge Domain)
+  - Cleric (Knowledge Domain)
+  - Cleric (Wealth Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Divination
+level: 1
+ritual: true
 time: 1 minute
 duration: Instantaneous
-components: 'V, S, a pearl worth at least 100 gp and an owl feather'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Identify
+range: Touch
+material: A pearl worth at least 100gp and an owl feather.
 ---
 # Identify
 *1st-level, Divination (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** Touch
-- **Components:** V, S, a pearl worth at least 100 gp and an owl feather
+- **Components:** V, S, M (a pearl worth at least 100 gp and an owl feather)
 - **Duration:** Instantaneous
 
 You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.
 
 If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Forge Domain (XGE)\|Cleric (Forge Domain)]]; [[List Spells Classes Cleric Knowledge Domain\|Cleric (Knowledge Domain)]]; [[List Spells Classes Cleric Wealth Domain (GRIFFONSSADDLEBAG3)\|Cleric (Wealth Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Forge Domain)](compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [Cleric (Wealth Domain)](compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 252. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

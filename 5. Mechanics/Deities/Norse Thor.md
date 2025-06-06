@@ -6,6 +6,10 @@ tags:
   - deity/norse
   - domain/tempest
   - domain/war
+alignment: Chaotic Good
+domains: 'Tempest, War'
+pantheon: Norse
+symbol: Hammer
 aliases:
   - Thor
 ---

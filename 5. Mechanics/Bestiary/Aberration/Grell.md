@@ -14,7 +14,7 @@ tags:
 aliases:
   - Grell
 ---
-# [[5. Mechanics/Bestiary/Aberration/Grell.md|Grell]]
+# [[5. Mechanics\Bestiary\Aberration\Grell.md|Grell]]
 *Source: Monster Manual p. 172, Vecna: Eve of Ruin*
 
 A grell resembles a bulbous floating brain with a wide, sharp beak. Its ten long tentacles are made of hundreds of ring-shaped muscles sheathed in tough fibrous hide. Sharp barbs line the tip each tentacle and inject paralytic venom. The grell can partially retract its barbs into its tentacles to handle or manipulate objects it doesn't want to pierce or tear.
@@ -46,44 +46,48 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
 "ac": !!int "12"
 "hp": !!int "55"
 "hit_dice": "10d8 + 10"
+"modifier": !!int "2"
 "stats":
-- !!int "15"
-- !!int "14"
-- !!int "13"
-- !!int "12"
-- !!int "11"
-- !!int "9"
+  - !!int "15"
+  - !!int "14"
+  - !!int "13"
+  - !!int "12"
+  - !!int "11"
+  - !!int "9"
 "speed": "10 ft., fly 30 ft. (hover)"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+6"
 "damage_immunities": "lightning"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 14"
 "languages": "Grell"
 "cr": "3"
 "actions":
-- "desc": "The grell makes two attacks: one with its tentacles and one with its beak."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit: 7\
-    \ (1d10 + 2) piercing damage, and the target must succeed on a DC 11 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
-    \ 1 minute. The [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], and it can repeat the\
-    \ saving throw at the end of each of its turns, ending the effect on a success.\n\
-    \nThe target is also [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape\
-    \ DC 15). If the target is Medium or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
-    \ until this grapple ends. While grappling the target, the grell has advantage\
-    \ on attack rolls against it and can 't use this attack against other targets.\
-    \ When the grell moves, any Medium or smaller target it is grappling moves with\
-    \ it."
-  "name": "Tentacles"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
-    \ + 2) piercing damage."
-  "name": "Beak"
+  - "desc": "The grell makes two attacks: one with its tentacles and one with its\
+      \ beak."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit:\
+      \ 7 (1d10 + 2) piercing damage, and the target must succeed on a DC 11 Constitution\
+      \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
+      \ 1 minute. The [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] target\
+      \ is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], and it can repeat\
+      \ the saving throw at the end of each of its turns, ending the effect on a success.\n\
+      \nThe target is also [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape\
+      \ DC 15). If the target is Medium or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
+      \ until this grapple ends. While grappling the target, the grell has advantage\
+      \ on attack rolls against it and can 't use this attack against other targets.\
+      \ When the grell moves, any Medium or smaller target it is grappling moves with\
+      \ it."
+    "name": "Tentacles"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
+      \ + 2) piercing damage."
+    "name": "Beak"
 "source":
-- "MM"
-- "VEoR"
+  - "MM"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Aberration/token/grell.webp"
 ```
 ^statblock

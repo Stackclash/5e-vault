@@ -7,6 +7,10 @@ tags:
   - domain/life
   - domain/nature
   - domain/peace
+alignment: Neutral Good
+domains: 'Life, Nature, Peace'
+pantheon: Faerûnian
+symbol: Waterfall plunging into a still pool
 aliases:
   - Eldath
   - The Quiet One

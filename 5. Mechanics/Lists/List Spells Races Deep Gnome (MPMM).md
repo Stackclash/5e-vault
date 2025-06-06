@@ -10,8 +10,8 @@ aliases:
 
 ## 1st Level
 
-- [[Disguise Self \|"PHB"]] at class level 3
+- [[5. Mechanics/Spells/Disguise Self.md \|"PHB"]] at class level 3
 
 ## 3rd Level
 
-- [[Nondetection \|"PHB"]] at class level 3
+- [[5. Mechanics/Spells/Nondetection.md \|"PHB"]] at class level 3

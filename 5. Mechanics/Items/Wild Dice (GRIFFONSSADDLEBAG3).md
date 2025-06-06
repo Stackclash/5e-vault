@@ -15,7 +15,7 @@ aliases:
 
 This set of two chipped and weathered wood six-sided dice are infused with unpredictable magic. They come in a small velvet bag whose pattern changes based on the dice's last roll. Otherwise, the dice appear completely unassuming.
 
-The dice have a total of 6 charges and regain `dice:1d6|noform|avg` (`1d6`) expended charges daily at dawn. As an action, you can expend 1 of their charges to roll them, tossing them at a point you can see within 30 feet of you when you do. The dice's effect is determined by the total of the roll as listed in the table and described below. Unless the effect says otherwise, the dice disappear at the end of the effect and reappear in the pouch at the start of the following turn. Rolling the dice again while an effect is still active does nothing. An effect that requires a saving throw has a DC of 15.
+The dice have a total of 6 charges and regain `dice:1d6|noform|noparens|avg` (`d6`) expended charges daily at dawn. As an action, you can expend 1 of their charges to roll them, tossing them at a point you can see within 30 feet of you when you do. The dice's effect is determined by the total of the roll as listed in the table and described below. Unless the effect says otherwise, the dice disappear at the end of the effect and reappear in the pouch at the start of the following turn. Rolling the dice again while an effect is still active does nothing. An effect that requires a saving throw has a DC of 15.
 
 `dice: [[Wild Dice (GRIFFONSSADDLEBAG3).md#^2-effect]]`
 

@@ -26,4 +26,4 @@ The region containing Orcus's lair is warped by his magic, creating one or more 
 - **Charnel Realm.** The air is filled with the stench of rotting flesh, and buzzing flies grow thick within the region.  
 - **Undead Beasts.** Dead Beasts periodically animate as Undead mockeries of their former selves. Skeletal and zombie versions of local wildlife are commonly seen in the area.  
 
-If Orcus dies, these effects fade over the course of `dice:1d10|noform|avg` (`1d10`) days.
+If Orcus dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`d10`) days.

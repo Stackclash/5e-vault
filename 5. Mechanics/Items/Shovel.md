@@ -8,6 +8,7 @@ tags:
 aliases:
   - Shovel
 cost: 200
+weight: 5
 ---
 # Shovel
 *Adventuring gear*  

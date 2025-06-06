@@ -13,7 +13,7 @@ aliases:
 
 | Bardic Insp. Die | Tale Told Through You |
 |------------------|-----------------------|
-| 1 | Tale of the Clever Animal. For the next 10 minutes, whenever the target makes an Intelligence, a Wisdom, or a Charisma check, the target can roll an extra die immediately after rolling the `dice:d20\|noform\|avg` (`d20`) and add the extra die's number to the check. The extra die is the same type as your Bardic Inspiration die. |
+| 1 | Tale of the Clever Animal. For the next 10 minutes, whenever the target makes an Intelligence, a Wisdom, or a Charisma check, the target can roll an extra die immediately after rolling the `dice:d20\|noform\|noparens\|avg` (`d20`) and add the extra die's number to the check. The extra die is the same type as your Bardic Inspiration die. |
 | 2 | Tale of the Renowned Duelist. You make a melee spell attack against the target. On a hit, the target takes force damage equal to two rolls of your Bardic Inspiration die + your Charisma modifier. |
 | 3 | Tale of the Beloved Friends. The target and another creature of its choice it can see within 5 feet of it gains temporary hit points equal to a roll of your Bardic Inspiration die + your Charisma modifier. |
 | 4 | Tale of the Runaway. The target can immediately use its reaction to teleport up to 30 feet to an unoccupied space it can see. When the target teleports, it can choose a number of creatures it can see within 30 feet of it up to your Charisma modifier (minimum of 0) to immediately use the same reaction. |

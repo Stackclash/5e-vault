@@ -21,6 +21,6 @@ The circlet has 5 charges and regains all expended charges daily at dusk. While 
 
 ## Curse
 
-Attuning to the circlet curses you until you are targeted by the remove curse spell or similar magic. Removing the circlet fails to end the curse. While cursed, whenever you roll a 1 on an attack roll or ability check, you take `dice:1d6|noform|avg` (`1d6`) psychic damage as the eye's intense frustration and scorn pierce your psyche.
+Attuning to the circlet curses you until you are targeted by the remove curse spell or similar magic. Removing the circlet fails to end the curse. While cursed, whenever you roll a 1 on an attack roll or ability check, you take `dice:1d6|noform|noparens|avg` (`d6`) psychic damage as the eye's intense frustration and scorn pierce your psyche.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 44*

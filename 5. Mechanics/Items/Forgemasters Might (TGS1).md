@@ -21,7 +21,7 @@ aliases:
 
 This monumental weapon requires a Strength of 17 or higher to wield. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
-You can use a bonus action to speak the hammer's command phrase, "light the forge" and cause flames to curl up and heat the hammer's anvil head. These flames shed bright light in a 20-foot radius and dim light for an additional 20 feet. While the hammer is lit, it deals an additional `dice:1d8|noform|avg` (`1d8`) fire damage to any target it hits and ignores resistance to fire damage. The flames last until you use a bonus action to speak the command word "quench," or until you drop or stow the hammer.
+You can use a bonus action to speak the hammer's command phrase, "light the forge" and cause flames to curl up and heat the hammer's anvil head. These flames shed bright light in a 20-foot radius and dim light for an additional 20 feet. While the hammer is lit, it deals an additional `dice:1d8|noform|noparens|avg` (`d8`) fire damage to any target it hits and ignores resistance to fire damage. The flames last until you use a bonus action to speak the command word "quench," or until you drop or stow the hammer.
 
 ## Smith's Blessing
 
@@ -31,6 +31,6 @@ In addition, you know the [[5. Mechanics/Spells/Mending.md\|mending]] cantrip if
 
 ## Iron Raze
 
-The hammer deals an additional `dice:2d8|noform|avg` (`2d8`) bludgeoning damage to constructs and structures hit by it.
+The hammer deals an additional `dice:2d8|noform|noparens|avg` (`2d8`) bludgeoning damage to constructs and structures hit by it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 66*

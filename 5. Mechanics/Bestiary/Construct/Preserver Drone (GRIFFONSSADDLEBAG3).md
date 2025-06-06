@@ -13,7 +13,7 @@ tags:
 aliases:
   - Preserver Drone
 ---
-# [[5. Mechanics/Bestiary/Construct/Preserver Drone (GRIFFONSSADDLEBAG3).md|Preserver Drone]]
+# [[5. Mechanics\Bestiary\Construct\Preserver Drone (GRIFFONSSADDLEBAG3).md|Preserver Drone]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Preserver drones are smaller than their other constructed counterparts. These automotons fly through the air, suspended by something between magic and technology, and emit guiding beams of light that assist their larger construct brethren.
@@ -27,17 +27,20 @@ Preserver drones are smaller than their other constructed counterparts. These au
 "ac_class": "natural armor"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
+"modifier": !!int "2"
 "stats":
-- !!int "13"
-- !!int "15"
-- !!int "14"
-- !!int "4"
-- !!int "10"
-- !!int "5"
+  - !!int "13"
+  - !!int "15"
+  - !!int "14"
+  - !!int "4"
+  - !!int "10"
+  - !!int "5"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't adamantine"
 "damage_immunities": "poison, psychic"
@@ -48,25 +51,25 @@ Preserver drones are smaller than their other constructed counterparts. These au
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1"
 "traits":
-- "desc": "Whenever the drone hits a target with an attack, the next attack roll a\
-    \ preserver makes against that target before the end of the drone's next turn\
-    \ has advantage."
-  "name": "Guidance System"
-- "desc": "The drone is immune to any spell or effect that would alter its form."
-  "name": "Immutable Form"
-- "desc": "The drone can take the Disengage, Hide, or Search action as a bonus action."
-  "name": "Scout"
+  - "desc": "Whenever the drone hits a target with an attack, the next attack roll\
+      \ a preserver makes against that target before the end of the drone's next turn\
+      \ has advantage."
+    "name": "Guidance System"
+  - "desc": "The drone is immune to any spell or effect that would alter its form."
+    "name": "Immutable Form"
+  - "desc": "The drone can take the Disengage, Hide, or Search action as a bonus action."
+    "name": "Scout"
 "actions":
-- "desc": "The drone makes two attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
-    \ + 1) bludgeoning damage."
-  "name": "Slam"
-- "desc": "Ranged Weapon Attack: +4 to hit, range 60 ft., one target. Hit: 5 (1d6\
-    \ + 2) force damage."
-  "name": "Laser"
+  - "desc": "The drone makes two attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+      \ + 1) bludgeoning damage."
+    "name": "Slam"
+  - "desc": "Ranged Weapon Attack: +4 to hit, range 60 ft., one target. Hit: 5\
+      \ (1d6 + 2) force damage."
+    "name": "Laser"
 "source":
-- "GriffonsSaddlebag3"
+  - "GriffonsSaddlebag3"
 ```
 ^statblock
 

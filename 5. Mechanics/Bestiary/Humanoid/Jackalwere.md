@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'grassland, desert'
 size: Medium
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Jackalwere
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Jackalwere.md|Jackalwere]]
+# [[5. Mechanics\Bestiary\Humanoid\Jackalwere.md|Jackalwere]]
 *Source: Monster Manual p. 193*
 
 Ordinary jackals tainted by demonic power, jackalweres haunt roads and trails, waylaying and murdering those they meet.
@@ -43,54 +43,58 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
 "ac": !!int "12"
 "hp": !!int "18"
 "hit_dice": "4d8"
+"modifier": !!int "2"
 "stats":
-- !!int "11"
-- !!int "15"
-- !!int "11"
-- !!int "13"
-- !!int "11"
-- !!int "10"
+  - !!int "11"
+  - !!int "15"
+  - !!int "11"
+  - !!int "13"
+  - !!int "11"
+  - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  "Deception": !!int "4"
-  "Stealth": !!int "4"
-  "Perception": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "senses": "passive Perception 12"
 "languages": "Common (can't speak in jackal form)"
 "cr": "1/2"
 "traits":
-- "desc": "The jackalwere can use its action to polymorph into a specific Medium human\
-    \ or a jackal-humanoid hybrid, or back into its true form (that of a Small jackal).\
-    \ Other than its size, its statistics are the same in each form. Any equipment\
-    \ it is wearing or carrying isn't transformed. It reverts to its true form if\
-    \ it dies."
-  "name": "Shapechanger"
-- "desc": "The jackalwere has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on hearing or smell."
-  "name": "Keen Hearing and Smell"
-- "desc": "The jackalwere has advantage on an attack roll against a creature if at\
-    \ least one of the jackalwere's allies is within 5 feet of the creature and the\
-    \ ally isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
-  "name": "Pack Tactics"
+  - "desc": "The jackalwere can use its action to polymorph into a specific Medium\
+      \ human or a jackal-humanoid hybrid, or back into its true form (that of a Small\
+      \ jackal). Other than its size, its statistics are the same in each form. Any\
+      \ equipment it is wearing or carrying isn't transformed. It reverts to its true\
+      \ form if it dies."
+    "name": "Shapechanger"
+  - "desc": "The jackalwere has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on hearing or smell."
+    "name": "Keen Hearing and Smell"
+  - "desc": "The jackalwere has advantage on an attack roll against a creature if\
+      \ at least one of the jackalwere's allies is within 5 feet of the creature and\
+      \ the ally isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
+    "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
-    \ + 2) piercing damage."
-  "name": "Bite (Jackal or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) slashing damage."
-  "name": "Scimitar (Human or Hybrid Form Only)"
-- "desc": "The jackalwere gazes at one creature it can see within 30 feet of it. The\
-    \ target must make a DC 10 Wisdom saving throw. On a failed save, the target succumbs\
-    \ to a magical slumber, falling [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
-    \ for 10 minutes or until someone uses an action to shake the target awake. A\
-    \ creature that successfully saves against the effect is immune to this jackalwere's\
-    \ gaze for the next 24 hours. Undead and creatures immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
-    \ aren't affected by it."
-  "name": "Sleep Gaze"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+      \ + 2) piercing damage."
+    "name": "Bite (Jackal or Hybrid Form Only)"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) slashing damage."
+    "name": "Scimitar (Human or Hybrid Form Only)"
+  - "desc": "The jackalwere gazes at one creature it can see within 30 feet of it.\
+      \ The target must make a DC 10 Wisdom saving throw. On a failed save, the target\
+      \ succumbs to a magical slumber, falling [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
+      \ for 10 minutes or until someone uses an action to shake the target awake.\
+      \ A creature that successfully saves against the effect is immune to this jackalwere's\
+      \ gaze for the next 24 hours. Undead and creatures immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+      \ aren't affected by it."
+    "name": "Sleep Gaze"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/jackalwere.webp"
 ```
 ^statblock

@@ -19,9 +19,9 @@ aliases:
 | 7–8 | For 10 rounds, a [[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] spell blows out from you in all directions. |
 | 9–10 | Three targets you can see within 60 feet chosen by you are targeted by a [[5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]] cantrip. |
 | 11–12 | You rise 30 feet into the air and hover there until the start of your next turn, when you fall. |
-| 13–14 | You grow a purple mustache `dice:3d6\|noform\|avg` (`3d6`) inches in length. |
+| 13–14 | You grow a purple mustache `dice:3d6\|noform\|noparens\|avg` (`3d6`) inches in length. |
 | 15–16 | You are cloaked in shadow and reek of brimstone for 1 hour. During that time, you have advantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) checks and disadvantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) checks. |
-| 17–18 | You summon a mule 100 feet above the target of your spell or ability. If your spell or ability has no target, the mule appears above you. Both the mule and the creature it lands on take `dice:10d6\|noform\|avg` (`10d6`) bludgeoning damage from the inevitable fall, or the creature under the mule takes no damage with a successful Dexterity saving throw; the DC is equal to your spell save DC. |
+| 17–18 | You summon a mule 100 feet above the target of your spell or ability. If your spell or ability has no target, the mule appears above you. Both the mule and the creature it lands on take `dice:10d6\|noform\|noparens\|avg` (`10d6`) bludgeoning damage from the inevitable fall, or the creature under the mule takes no damage with a successful Dexterity saving throw; the DC is equal to your spell save DC. |
 | 19–20 | You cast [[5. Mechanics/Spells/Contact Other Plane.md\|contact other plane]]. |
 | 21–22 | Rum rains from the sky in a 30-foot radius around you for 10 rounds. |
 | 23–24 | You regain your highest-level expended spell slot. |
@@ -30,7 +30,7 @@ aliases:
 | 29–30 | You gain resistance to one type of damage, determined randomly, for 1 hour. |
 | 31–32 | Loud horns that can be heard for a mile sound for 1 hour. The sound moves with you. |
 | 33–34 | Until you finish a long rest, every word you utter sounds normal to you but is heard by others as incomprehensible babbling. This effect doesn't impair your ability to cast spells. |
-| 35–36 | Three creatures within 30 feet that you can see are targeted by a bolt of light that does `dice:1d8\|noform\|avg` (`1d8`) radiant damage. Each target can avoid the damage with a successful Constitution saving throw. |
+| 35–36 | Three creatures within 30 feet that you can see are targeted by a bolt of light that does `dice:1d8\|noform\|noparens\|avg` (`d8`) radiant damage. Each target can avoid the damage with a successful Constitution saving throw. |
 | 37–38 | Every creature within 60 feet of you, except you, teleports 10 feet in a random direction. If the destination is a solid object or hazardous terrain, the creature doesn't move. |
 | 39–40 | The sun (or the moon, at night) is eclipsed for 10 minutes. |
 | 41–42 | You become immune to all damage for 1 round. |

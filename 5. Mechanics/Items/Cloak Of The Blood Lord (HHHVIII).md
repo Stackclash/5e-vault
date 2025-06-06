@@ -31,7 +31,7 @@ The Cloak of the Blood Lord has the following random properties:
 
 ## Spellcasting
 
-While wearing the cloak, you can use it to cast the [[5. Mechanics/Spells/Create Undead.md\|create undead]] and [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spells up to 3 times each. You regain all expended uses upon finishing your next long rest. In addition you may cast the [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell and the [[5. Mechanics/Spells/Chill Touch.md\|chill touch]] cantrip at will as if you were at 17th level. The spell attack bonus for casting these spells using this item is `dice:1d20+10|noform|text(+10)`.
+While wearing the cloak, you can use it to cast the [[5. Mechanics/Spells/Create Undead.md\|create undead]] and [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spells up to 3 times each. You regain all expended uses upon finishing your next long rest. In addition you may cast the [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell and the [[5. Mechanics/Spells/Chill Touch.md\|chill touch]] cantrip at will as if you were at 17th level. The spell attack bonus for casting these spells using this item is `dice:1d20+10|noform|noparens|text(+10)`.
 
 ## Master of Undeath
 

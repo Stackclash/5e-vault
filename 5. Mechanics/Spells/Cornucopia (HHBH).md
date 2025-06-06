@@ -9,25 +9,33 @@ tags:
   - spell/level/5th-level
   - spell/ritual
   - spell/school/transmutation
-level: 5th-level
-range: true
+classes:
+  - Bard
+  - Cleric
+  - Druid
 school: Transmutation
-time: 10 minute
+level: 5
+ritual: true
+time: 10 minutes
 duration: 1 hour
-components: 'V, S, a small pouch of loamy soil'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Cornucopia
+material: a small pouch of loamy soil
 ---
 # Cornucopia
 *5th-level, Transmutation (ritual)*  
 
-- **Casting time:** 10 minute unless cast as a ritual
+- **Casting time:** 10 minutes unless cast as a ritual
 - **Range:** Self
-- **Components:** V, S, a small pouch of loamy soil
+- **Components:** V, S, M (a small pouch of loamy soil)
 - **Duration:** 1 hour
 
 When you cast this spell, you declare up to 4 willing creatures you can see within 30 feet to share a magical bond with you. For the duration of the spell, whenever you use a herb on yourself, that herb's effects are duplicated among all creatures that share a magical bond with you, so long as they are on the same plane of existence.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Hamund's Herbalism Handbook p. 39*

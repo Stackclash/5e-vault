@@ -27,7 +27,7 @@ The region containing Orcus's lair is warped by his magic, creating one or more 
 - The air becomes filled with the stench of rotting flesh, and buzzing flies grow thick within the region, even when there is no carrion to be found.  
 - If a humanoid spends at least 1 hour within 1 mile of the lair, that creature must succeed on a DC 23 Wisdom saving throw or descend into a madness determined by the Madness of Orcus table. A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.  
 
-If Orcus dies, these effects fade over the course of `dice:1d10|noform|avg` (`1d10`) days.
+If Orcus dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`d10`) days.
 
 ### Madness of Orcus
 

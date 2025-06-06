@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/veor
 aliases:
-  - 'Chapter 11: Eve of Ruin'
+  - Chapter 11: Eve of Ruin
 ---
 # Chapter 11: Eve of Ruin
 *Source: Vecna: Eve of Ruin* 
@@ -176,7 +176,7 @@ The hulking figures the characters saw from afar are two [[5. Mechanics/Bestiary
 
 Each statue is a Medium object with AC 13, 20 hit points, and immunity to poison and psychic damage.
 
-If a creature deals damage to a statue, each creature in the unreality must make a DC 15 Wisdom saving throw as psychic shock waves ripple throughout the unreality, taking `dice:2d10|noform|avg|text(11)` (`2d10`) psychic damage on a failed save or half as much damage on a successful one.
+If a creature deals damage to a statue, each creature in the unreality must make a DC 15 Wisdom saving throw as psychic shock waves ripple throughout the unreality, taking `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) psychic damage on a failed save or half as much damage on a successful one.
 
 #### K3: Receiving Room
 
@@ -292,7 +292,7 @@ Characters who end up in Arekanz's demiplanar donjon arrive here.
 > You stand among hills made from the half-digested bodies of countless deities. A deep valley separates two of these hills and stretches as far as can be seen in either direction. Under your feet, the ground shifts as mounds of scree continuously collapse into the valley.
 ^505
 
-The area of the hazardous scree is marked with dotted lines on the map. When any creature takes a step on the scree, the scree collapses. That creature and any other creatures within the marked area must succeed on a DC 13 Dexterity saving throw or fall down the cliff and onto the floor of the valley 100 feet below, taking `dice:10d6|noform|avg|text(35)` (`10d6`) bludgeoning damage.
+The area of the hazardous scree is marked with dotted lines on the map. When any creature takes a step on the scree, the scree collapses. That creature and any other creatures within the marked area must succeed on a DC 13 Dexterity saving throw or fall down the cliff and onto the floor of the valley 100 feet below, taking `dice:10d6|noform|noparens|avg|text(35)` (`10d6`) bludgeoning damage.
 
 #### G2: Sword Bridge
 
@@ -437,7 +437,7 @@ Four [[5. Mechanics/Bestiary/Undead/Mirror Shade (VEOR).md\|mirror shades]] (see
 
 ##### Amplified Hum
 
-Any creature other than Vecna and his mirror shades that starts its turn here must succeed on a DC 20 Wisdom saving throw or take `dice:1d10|noform|avg|text(5)` (`1d10`) psychic damage.
+Any creature other than Vecna and his mirror shades that starts its turn here must succeed on a DC 20 Wisdom saving throw or take `dice:1d10|noform|noparens|avg|text(5)` (`d10`) psychic damage.
 
 ##### Door Maze
 
@@ -458,7 +458,7 @@ Read the following when the characters enter the central chamber where Vecna wea
 
 [[4. World Almanac/NPCs/Vecna The Archlich (VEOR).md\|Vecna the Archlich]] (see appendix B) is weaving his Ritual of Remaking. He is too focused to pay the characters any mind unless they confront him directly. Vecna is funneling energy into the ritual in addition to the power of the secrets his cult gathered, so the lich is considerably less powerful than he normally is. Unlike the characters, Vecna can move through this area as if its doors were normal.
 
-To achieve victory, the characters must reduce [[4. World Almanac/NPCs/Vecna The Archlich (VEOR).md\|Vecna]] to 50 hit points or fewer. A character then must use the [[5. Mechanics/Items/Chime Of Exile (VEOR).md\|Chime of Exile]] to target Vecna, which requires a clear line of sight to him. If a character wields the complete [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] in this encounter, that character feels the artifact's yearning to preserve the order of the multiverse and stop Vecna's ritual. Each time a character strikes Vecna with the rod, Vecna takes an extra `dice:10d6|noform|avg|text(35)` (`10d6`) psychic damage.
+To achieve victory, the characters must reduce [[4. World Almanac/NPCs/Vecna The Archlich (VEOR).md\|Vecna]] to 50 hit points or fewer. A character then must use the [[5. Mechanics/Items/Chime Of Exile (VEOR).md\|Chime of Exile]] to target Vecna, which requires a clear line of sight to him. If a character wields the complete [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] in this encounter, that character feels the artifact's yearning to preserve the order of the multiverse and stop Vecna's ritual. Each time a character strikes Vecna with the rod, Vecna takes an extra `dice:10d6|noform|noparens|avg|text(35)` (`10d6`) psychic damage.
 
 When the characters do this, read the following:
 

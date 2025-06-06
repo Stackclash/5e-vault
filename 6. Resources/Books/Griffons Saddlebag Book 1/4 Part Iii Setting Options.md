@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/tgs1
 aliases:
-  - 'Part III: Setting Options'
+  - Part III: Setting Options
 ---
 # Part III: Setting Options
 *Source: Griffon's Saddlebag Book 1, p. 171* 
@@ -112,24 +112,24 @@ The Everglacier is home to many dangers. While the characters travel through the
 | 2 | 1 [[5. Mechanics/Bestiary/Dragon/Adult White Dragon.md\|adult white dragon]] |
 | 3 | On either side of the path, frozen bodies sit motionless, encased in solid ice. Fortunately, they are very much dead. Eerily, their stiff arms point in the same direction. |
 | 4 | 1 [[5. Mechanics/Bestiary/Monstrosity/Remorhaz.md\|remorhaz]] with `1d4–1` [[5. Mechanics/Bestiary/Monstrosity/Young Remorhaz.md\|young remorhazes]] |
-| 5 | `dice:1d4\|noform\|avg` (`1d4`) [[5. Mechanics/Bestiary/Undead/Wraith.md\|wraiths]]. The wraiths are immune to cold damage. |
-| 6 | `dice:1d4\|noform\|avg` (`1d4`) [[5. Mechanics/Bestiary/Giant/Troll.md\|trolls]] looking for food. Desperate, they fight recklessly. All of their attacks are made with advantage, and attacks made against them are made with advantage. |
-| 7 | `dice:1d4\|noform\|avg` (`1d4`) [[5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elementals]] |
-| 8 | A dense fog gathers (treat it as a fog cloud spell). Within the fog, `dice:3d10\|noform\|avg` (`3d10`) [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] march mindlessly towards some unknown destination. They will not attack unless they are attacked first. |
-| 9 | `dice:1d2\|noform\|avg` (`1d2`) [[5. Mechanics/Bestiary/Beast/Mammoth.md\|mammoths]] are being chased by `dice:2d6\|noform\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md\|tribal warriors]] |
-| 10 | `dice:1d2\|noform\|avg` (`1d2`) [[5. Mechanics/Bestiary/Beast/Polar Bear.md\|polar bears]] |
-| 11 | `dice:3d8\|noform\|avg` (`3d8`) ice [[5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] (they have resistance to cold damage) have dug a massive pit trap along the path. They hide, waiting for creatures to stumble into their trap. |
-| 12 | `dice:3d6\|noform\|avg` (`3d6`) [[5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md\|tribal warriors]] lead by 1 berserker are hauling a slain mammoth back to their den. |
-| 13 | `dice:2d6\|noform\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] lead by 1 [[5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|orc gladiator]] hunt for fauna on the glacier. They are not above eating the flesh of man, however. |
-| 14 | `dice:2d4\|noform\|avg` (`2d4`) [[5. Mechanics/Bestiary/Humanoid/Bugbear.md\|yetikin]]. Yetkin are bugbears except they have resistance to cold damage. |
+| 5 | `dice:1d4\|noform\|noparens\|avg` (`d4`) [[5. Mechanics/Bestiary/Undead/Wraith.md\|wraiths]]. The wraiths are immune to cold damage. |
+| 6 | `dice:1d4\|noform\|noparens\|avg` (`d4`) [[5. Mechanics/Bestiary/Giant/Troll.md\|trolls]] looking for food. Desperate, they fight recklessly. All of their attacks are made with advantage, and attacks made against them are made with advantage. |
+| 7 | `dice:1d4\|noform\|noparens\|avg` (`d4`) [[5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elementals]] |
+| 8 | A dense fog gathers (treat it as a fog cloud spell). Within the fog, `dice:3d10\|noform\|noparens\|avg` (`3d10`) [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] march mindlessly towards some unknown destination. They will not attack unless they are attacked first. |
+| 9 | `dice:1d2\|noform\|noparens\|avg` (`d2`) [[5. Mechanics/Bestiary/Beast/Mammoth.md\|mammoths]] are being chased by `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md\|tribal warriors]] |
+| 10 | `dice:1d2\|noform\|noparens\|avg` (`d2`) [[5. Mechanics/Bestiary/Beast/Polar Bear.md\|polar bears]] |
+| 11 | `dice:3d8\|noform\|noparens\|avg` (`3d8`) ice [[5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] (they have resistance to cold damage) have dug a massive pit trap along the path. They hide, waiting for creatures to stumble into their trap. |
+| 12 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md\|tribal warriors]] lead by 1 berserker are hauling a slain mammoth back to their den. |
+| 13 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] lead by 1 [[5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|orc gladiator]] hunt for fauna on the glacier. They are not above eating the flesh of man, however. |
+| 14 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[5. Mechanics/Bestiary/Humanoid/Bugbear.md\|yetikin]]. Yetkin are bugbears except they have resistance to cold damage. |
 | 15 | Massive, surreal sculptures made of ice decorate the landscape. Some are 30 feet tall. Judging by their detail and size, it's likely they were created through magical means. |
 | 16 | The torn apart remains of two [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giants]] litter the trail. There is a 20% chance that whatever killed them is still in the area (roll again on the encounter table to determine what killed the pair). |
-| 17 | `dice:1d4+1\|noform\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticores]] |
-| 18 | `dice:4d4\|noform\|avg` (`4d4`) [[5. Mechanics/Bestiary/Elemental/Ice Mephit.md\|ice mephits]] surround a hole in the ice. They have caught an ice kobold who squeals in fear as the elementals taunt it. |
+| 17 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticores]] |
+| 18 | `dice:4d4\|noform\|noparens\|avg` (`4d4`) [[5. Mechanics/Bestiary/Elemental/Ice Mephit.md\|ice mephits]] surround a hole in the ice. They have caught an ice kobold who squeals in fear as the elementals taunt it. |
 | 19 | A spirit of the ice forms on the wall of an icy canyon or on the ground itself. The spirit has no stat block. Instead, it offers the characters assistance on the Everglacier. It can grant the characters a single wish; however, the effects of the wish must be no powerful than the effects of a 5th level or lower spell. Once it grants the wish, the spirit vanishes. |
-| 20 | `dice:1d2\|noform\|avg` (`1d2`) [[5. Mechanics/Bestiary/Dragon/Young White Dragon.md\|young white dragons]] |
-| 21 | `dice:1d4\|noform\|avg` (`1d4`) [[5. Mechanics/Bestiary/Undead/Banshee.md\|banshees]] |
-| 22 | `dice:1d4+1\|noform\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giants]] led by an additional [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]] with 200 hit points lumber through the ice, returning to their home. They are indifferent towards the characters but will attack if provoked. |
+| 20 | `dice:1d2\|noform\|noparens\|avg` (`d2`) [[5. Mechanics/Bestiary/Dragon/Young White Dragon.md\|young white dragons]] |
+| 21 | `dice:1d4\|noform\|noparens\|avg` (`d4`) [[5. Mechanics/Bestiary/Undead/Banshee.md\|banshees]] |
+| 22 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giants]] led by an additional [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]] with 200 hit points lumber through the ice, returning to their home. They are indifferent towards the characters but will attack if provoked. |
 ^result
 
 ### Additional Monsters
@@ -330,25 +330,25 @@ The forest is filled with potential, both good and bad. Use this table for to fi
 |-----------|--------|
 | 2 | 1 [[5. Mechanics/Bestiary/Monstrosity/Purple Worm.md\|purple worm]] |
 | 3 | An odd twisting of the large festerwood tree branches seems to align and spell the word 'resistance' in celestial. Saying the word aloud causes the speaker and up to 4 allies of their choice within 60 feet to become the target of a lesser restoration spell. If a character loses a Spore Counter in this way, the next time that they are forced to roll to see if they gain a spore counter, they must roll a 1 to gain one Spore Counter. |
-| 4 | `dice:1d2\|noform\|avg` (`1d2`) [[5. Mechanics/Bestiary/Monstrosity/Behir.md\|behir]] |
+| 4 | `dice:1d2\|noform\|noparens\|avg` (`d2`) [[5. Mechanics/Bestiary/Monstrosity/Behir.md\|behir]] |
 | 5 | 1 [[5. Mechanics/Bestiary/Humanoid/Werebear.md\|werebear]] in personal exile who is fighting their curse. Their alignment is neutral evil. |
-| 6 | `dice:1d2\|noform\|avg` (`1d2`) festerwood [[5. Mechanics/Bestiary/Plant/Treant.md\|treants]]. They offer amber pustules in exchange for the eradication of a nearby hive of 3d6 + 3 festerwood beetles (use statistics of [[5. Mechanics/Bestiary/Beast/Giant Wasp.md\|giant wasps]]), one fist-sized chunk for every 6 beetles slain. |
-| 7 | `dice:1d3\|noform\|avg` (`1d3`) [[5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mounds]]. Altered by the Festerwood, they have poison immunity and absorption instead of lightning. |
+| 6 | `dice:1d2\|noform\|noparens\|avg` (`d2`) festerwood [[5. Mechanics/Bestiary/Plant/Treant.md\|treants]]. They offer amber pustules in exchange for the eradication of a nearby hive of 3d6 + 3 festerwood beetles (use statistics of [[5. Mechanics/Bestiary/Beast/Giant Wasp.md\|giant wasps]]), one fist-sized chunk for every 6 beetles slain. |
+| 7 | `dice:1d3\|noform\|noparens\|avg` (`d3`) [[5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mounds]]. Altered by the Festerwood, they have poison immunity and absorption instead of lightning. |
 | 8 | 1 [[5. Mechanics/Bestiary/Monstrosity/Spirit Naga.md\|spirit naga]] |
-| 9 | `dice:2d4\|noform\|avg` (`2d4`) [[5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisps]]. If the party decides to follow them, roll again on the encounter table, ignoring results that are multiples of three. |
-| 10 | `dice:4d8\|noform\|avg` (`4d8`) [[5. Mechanics/Bestiary/Beast/Swarm Of Beetles.md\|swarm of beetles]] |
-| 11 | `dice:1d12\|noform\|avg` (`1d12`) [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] |
-| 12 | `dice:1d4+1\|noform\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Elemental/Xorn.md\|xorn]]. Though well-fed by the ever-present amber pustules, they offer guidance to locations in the wood in exchange for any gems or precious metals the party has. |
-| 13 | `dice:3d10\|noform\|avg` (`3d10`) [[5. Mechanics/Bestiary/Plant/Violet Fung(US).md\|violet fungus]] |
-| 14 | `dice:2d6\|noform\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Duergar.md\|duergar]] raiding party |
+| 9 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisps]]. If the party decides to follow them, roll again on the encounter table, ignoring results that are multiples of three. |
+| 10 | `dice:4d8\|noform\|noparens\|avg` (`4d8`) [[5. Mechanics/Bestiary/Beast/Swarm Of Beetles.md\|swarm of beetles]] |
+| 11 | `dice:1d12\|noform\|noparens\|avg` (`d12`) [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] |
+| 12 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Elemental/Xorn.md\|xorn]]. Though well-fed by the ever-present amber pustules, they offer guidance to locations in the wood in exchange for any gems or precious metals the party has. |
+| 13 | `dice:3d10\|noform\|noparens\|avg` (`3d10`) [[5. Mechanics/Bestiary/Plant/Violet Fung(US).md\|violet fungus]] |
+| 14 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Duergar.md\|duergar]] raiding party |
 | 15 | A copse of trees containing 3d4 easy-to reach amber pustules. |
 | 16 | A strange knotting of roots seems to reveal the entrance to a cave. At the GM's discretion, this may lead to a ruin or dungeon of any size or shape. |
-| 17 | `dice:8d6\|noform\|avg` (`8d6`) [[5. Mechanics/Bestiary/Beast/Giant Fire Beetle.md\|giant fire beetles]]. Enhanced by their diet of amber pustules, their bite attacks deal an extra 1d4 fire damage. |
+| 17 | `dice:8d6\|noform\|noparens\|avg` (`8d6`) [[5. Mechanics/Bestiary/Beast/Giant Fire Beetle.md\|giant fire beetles]]. Enhanced by their diet of amber pustules, their bite attacks deal an extra 1d4 fire damage. |
 | 18 | 1 [[5. Mechanics/Bestiary/Monstrosity/Guardian Naga.md\|guardian naga]]. It is protecting the ancient burial site of a legendary hero on behalf of the deity they championed. |
-| 19 | `dice:1d4\|noform\|avg` (`1d4`) small orange magical mushrooms can be seen at the bottom of a recently opened sinkhole. A creature that eats a mushroom gains the benefits of the detect poison and disease spell for 8 hours. Once picked, a mushroom loses its magic after 24 hours. Mushrooms regrow after 4 days, but if all visible mushrooms are picked, no more will grow in this area. |
-| 20 | `dice:2d8\|noform\|avg` (`2d8`) [[5. Mechanics/Bestiary/Ooze/Black Pudding.md\|black puddings]] |
+| 19 | `dice:1d4\|noform\|noparens\|avg` (`d4`) small orange magical mushrooms can be seen at the bottom of a recently opened sinkhole. A creature that eats a mushroom gains the benefits of the detect poison and disease spell for 8 hours. Once picked, a mushroom loses its magic after 24 hours. Mushrooms regrow after 4 days, but if all visible mushrooms are picked, no more will grow in this area. |
+| 20 | `dice:2d8\|noform\|noparens\|avg` (`2d8`) [[5. Mechanics/Bestiary/Ooze/Black Pudding.md\|black puddings]] |
 | 21 | 1 [[5. Mechanics/Bestiary/Giant/Stone Giant.md\|stone giant]]. A craftsman on a journey to master carving festerwood, he trades information about the area for any amber pustules-free festerwood that the party have with them. |
-| 22 | `dice:4d4\|noform\|avg` (`4d4`) [[5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblins]] riding [[5. Mechanics/Bestiary/Monstrosity/Worg.md\|worgs]]. They roam the wood searching for food and supplies for their tribe. |
+| 22 | `dice:4d4\|noform\|noparens\|avg` (`4d4`) [[5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblins]] riding [[5. Mechanics/Bestiary/Monstrosity/Worg.md\|worgs]]. They roam the wood searching for food and supplies for their tribe. |
 ^result
 
 ### Ruins & Dungeons

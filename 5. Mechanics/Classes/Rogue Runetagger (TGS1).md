@@ -8,7 +8,7 @@ aliases:
   - Runetagger
 ---
 # Runetagger
-*[[Rogue.md\|Rogue]]: Roguish Archetype*  
+*[[.nullRogue.md\|Rogue]]: Roguish Archetype*  
 *Source: The Griffon's Saddlebag, Book 1 p. 165*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Runetagger%20(Level%203)'>Runetagger</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Runetagger (Level 3)' class='internal-link'>Runetagger</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Escape%20Artist%20(Level%209)'>Escape Artist</a></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Escape Artist (Level 9)' class='internal-link'>Escape Artist</a></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Resourceful%20(Level%2013)'>Resourceful</a></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Resourceful (Level 13)' class='internal-link'>Resourceful</a></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Lead%20Paint%20(Level%2017)'>Lead Paint</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Lead Paint (Level 17)' class='internal-link'>Lead Paint</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -70,12 +71,12 @@ The creature can't take reactions until the start of your next turn. The rune's 
 #### Hexxus
 _Source: The Griffon's Saddlebag, Book 1_
 
-The creature is cursed with an enervating rune. While a creature is marked with this rune, you can use your reaction to activate it when the marked creature makes an attack roll or ability check, reducing the total of the attack roll or ability check by `dice:1d6|noform|avg` (`1d6`). You must be within 60 feet and be able to see the creature in order to activate the rune. You can choose to activate the rune after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails. Once the rune has been activated, its magic fades.
+The creature is cursed with an enervating rune. While a creature is marked with this rune, you can use your reaction to activate it when the marked creature makes an attack roll or ability check, reducing the total of the attack roll or ability check by `dice:1d6|noform|noparens|avg` (`d6`). You must be within 60 feet and be able to see the creature in order to activate the rune. You can choose to activate the rune after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails. Once the rune has been activated, its magic fades.
 
 #### Locus
 _Source: The Griffon's Saddlebag, Book 1_
 
-The next attack against the marked creature is made with advantage, and if that attack hits, it deals an extra `dice:1d6|noform|avg` (`1d6`) acid damage. Hit or miss, the rune's magic fades after the next attack is made against the marked creature.
+The next attack against the marked creature is made with advantage, and if that attack hits, it deals an extra `dice:1d6|noform|noparens|avg` (`d6`) acid damage. Hit or miss, the rune's magic fades after the next attack is made against the marked creature.
 
 ### Escape Artist (Level 9)
 
@@ -89,4 +90,4 @@ When you reach 13th level, your mastery over the arts is lauded by friends and f
 
 ### Lead Paint (Level 17)
 
-By 17th level, you're able to apply more ink or paint whenever you leave a rune and use it to expose weak points in a target's defense and guide your strikes. You can use your Sneak Attack against any creature that has a rune on it. When you do, that creature takes an extra `dice:2d6|noform|avg` (`2d6`) damage from the attack.
+By 17th level, you're able to apply more ink or paint whenever you leave a rune and use it to expose weak points in a target's defense and guide your strikes. You can use your Sneak Attack against any creature that has a rune on it. When you do, that creature takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage from the attack.

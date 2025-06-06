@@ -11,25 +11,35 @@ tags:
   - spell/school/necromancy
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 4th-level
-range: true
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Necromancy
-time: 1 action
+level: 4
+ritual: true
+time: 1 Action
 duration: Instantaneous
-components: 'V, S, a silver knife'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Sacrificial Healing
+material: a silver knife
 ---
 # Sacrificial Healing
 *4th-level, Necromancy (ritual)*  
 
-- **Casting time:** 1 action unless cast as a ritual
+- **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Touch
-- **Components:** V, S, a silver knife
+- **Components:** V, S, M (a silver knife)
 - **Duration:** Instantaneous
 
-You heal another creature's wounds by taking them upon yourself or transferring them to another willing creature in range. Roll `dice:4d8|noform|avg` (`4d8`). The number rolled is the amount of damage healed by the target and the damage you take, as its wounds close and similar damage appears on your body (or the body of the other willing target of the spell).
+You heal another creature's wounds by taking them upon yourself or transferring them to another willing creature in range. Roll `dice:4d8|noform|noparens|avg` (`4d8`). The number rolled is the amount of damage healed by the target and the damage you take, as its wounds close and similar damage appears on your body (or the body of the other willing target of the spell).
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 104*

@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/mtf
   - deity/gnome
   - domain/nature
+alignment: Neutral Good
+domains: Nature
+pantheon: Gnome
+province: Woodlands
+symbol: Face of a raccoon
 aliases:
   - Baervan Wildwanderer
 ---

@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/eberron
   - domain/war
+alignment: Neutral Evil
+category: The Dark Six
+domains: War
+pantheon: Eberron
+symbol: Five blood-spattered tools
 aliases:
   - The Mockery
 ---

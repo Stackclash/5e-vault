@@ -17,7 +17,7 @@ This horn sounds like a croaking frog when sounded, which is audible out to a ra
 
 ## Call Frog
 
-You can use an action to sound the horn loudly, emitting a resonant croak audible out to 300 feet instead. Roll `dice:2d6|noform|avg` (`2d6`). If the total is 7, a giant toad appears in the nearest unoccupied space within 30 feet of you. On any other result, a giant frog appears instead. The creature is friendly to you and your companions and obeys your verbal commands (no action required by you), provided that it can understand you. In combat, it takes its turn immediately after you.
+You can use an action to sound the horn loudly, emitting a resonant croak audible out to 300 feet instead. Roll `dice:2d6|noform|noparens|avg` (`2d6`). If the total is 7, a giant toad appears in the nearest unoccupied space within 30 feet of you. On any other result, a giant frog appears instead. The creature is friendly to you and your companions and obeys your verbal commands (no action required by you), provided that it can understand you. In combat, it takes its turn immediately after you.
 
 The creature remains for 1 hour or until it's reduced to 0 hit points. Once this property has been used, it can't be used again until the next dawn.
 

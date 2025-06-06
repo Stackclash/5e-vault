@@ -54,7 +54,7 @@ Treasure can be randomly allocated based on a monster's challenge rating. There 
 
 An Individual Treasure table helps you randomly determine how much treasure one creature carries on its person. If a monster has no interest in amassing treasure, you can use this table to determine the incidental treasure left behind by the monster's victims.
 
-Use the Individual Treasure table that corresponds to the monster's challenge rating. Roll a `dice:d100|noform|avg` (`d100`), and read the result across to determine how many coins of each type the monster carries. The table also includes the average result in parentheses, should you wish to forgo another roll and save time. To determine the total amount of individual treasure for a group of similar creatures, you can save time by rolling once and multiplying the result by the number of creatures in the group.
+Use the Individual Treasure table that corresponds to the monster's challenge rating. Roll a `dice:d100|noform|noparens|avg` (`d100`), and read the result across to determine how many coins of each type the monster carries. The table also includes the average result in parentheses, should you wish to forgo another roll and save time. To determine the total amount of individual treasure for a group of similar creatures, you can save time by rolling once and multiplying the result by the number of creatures in the group.
 
 If it doesn't make sense for a monster to carry a large pile of coins, you can convert the coins into gemstones or art objects of equal value.
 
@@ -72,7 +72,7 @@ A Treasure Hoard table helps you randomly determine the contents of a large cach
 
 When determining the contents of a hoard belonging to one monster, use the table that corresponds to that monster's challenge rating. When rolling to determine a treasure hoard belonging to a large group of monsters, use the challenge rating of the monster that leads the group. If the hoard belongs to no one, use the challenge rating of the monster that presides over the dungeon or lair you are stocking. If the hoard is a gift from a benefactor, use the challenge rating equal to the party's average level.
 
-Every treasure hoard contains a random number of coins, as shown at the top of each table. Roll a `dice:d100|noform|avg` (`d100`) and consult the table to determine how many gemstones or art objects the hoard contains, if any. Use the same roll to determine whether the hoard contains magic items.
+Every treasure hoard contains a random number of coins, as shown at the top of each table. Roll a `dice:d100|noform|noparens|avg` (`d100`) and consult the table to determine how many gemstones or art objects the hoard contains, if any. Use the same roll to determine whether the hoard contains magic items.
 
 As with the individual treasure tables, average values are given in parentheses. You can use an average value instead of rolling dice to save time.
 
@@ -373,7 +373,7 @@ When you decide to make a magic item sentient, you create the item's persona in 
 
 #### Abilities
 
-A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can choose the item's abilities or determine them randomly. To determine them randomly, roll `dice:4d6|noform|avg` (`4d6`) for each one, dropping the lowest roll and totaling the rest.
+A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can choose the item's abilities or determine them randomly. To determine them randomly, roll `dice:4d6|noform|noparens|avg` (`4d6`) for each one, dropping the lowest roll and totaling the rest.
 
 #### Communication
 
@@ -420,7 +420,7 @@ If its wielder refuses to comply with the item's wishes, the item can do any or 
 - Suppress one or more of its activated properties.  
 - Attempt to take control of its wielder.  
 
-If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a DC equal to 12 + the item's Charisma modifier. On a failed save, the wielder is charmed by the item for `dice:1d12|noform|avg` (`1d12`) hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.
+If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a DC equal to 12 + the item's Charisma modifier. On a failed save, the wielder is charmed by the item for `dice:1d12|noform|noparens|avg` (`d12`) hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.
 
 #### Sample Sentient Items
 
@@ -594,7 +594,7 @@ A character might be offered special training in lieu of a financial reward. Thi
 
 A character who agrees to training as a reward must spend downtime with the trainer (see chapter 6 for more information on downtime activities). In exchange, the character is guaranteed to receive a special benefit. Possible training benefits include the following:
 
-- The character gains inspiration daily at dawn for `dice:1d4+6|noform|avg` (`1d4 + 6`) days.  
+- The character gains inspiration daily at dawn for `dice:1d4+6|noform|noparens|avg` (`1d4 + 6`) days.  
 - The character gains proficiency in a skill.  
 - The character gains a feat.  
 

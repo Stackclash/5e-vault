@@ -13,7 +13,7 @@ tags:
 aliases:
   - Construct Spirit (Metal)
 ---
-# [[5. Mechanics/Bestiary/Construct/Construct Spirit Metal (TCE).md|Construct Spirit (Metal)]]
+# [[5. Mechanics\Bestiary\Construct\Construct Spirit Metal (TCE).md|Construct Spirit (Metal)]]
 *Source: Tasha's Cauldron of Everything p. 111*
 
 ```statblock
@@ -22,13 +22,14 @@ aliases:
 "type": "construct"
 "alignment": "Unaligned"
 "ac_class": "13 + the level of the spell (natural armor)"
+"modifier": !!int "0"
 "stats":
-- !!int "18"
-- !!int "10"
-- !!int "18"
-- !!int "14"
-- !!int "11"
-- !!int "5"
+  - !!int "18"
+  - !!int "10"
+  - !!int "18"
+  - !!int "14"
+  - !!int "11"
+  - !!int "5"
 "speed": "30 ft."
 "damage_resistances": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -38,18 +39,18 @@ aliases:
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages you speak"
 "traits":
-- "desc": "A creature that touches the construct or hits it with a melee attack while\
-    \ within 5 feet of it takes 1d10 fire damage."
-  "name": "Heated Body"
+  - "desc": "A creature that touches the construct or hits it with a melee attack\
+      \ while within 5 feet of it takes d10 fire damage."
+    "name": "Heated Body"
 "actions":
-- "desc": "The construct makes a number of attacks equal to half this spell's level\
-    \ (rounded down)."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: YourSpellAttack to hit, reach 5 ft., one target.\
-    \ Hit: 1d8 + 4 + the spell's level bludgeoning damage."
-  "name": "Slam"
+  - "desc": "The construct makes a number of attacks equal to half this spell's level\
+      \ (rounded down)."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. Hit: 1d8 + 4 + the spell's level bludgeoning damage."
+    "name": "Slam"
 "source":
-- "TCE"
+  - "TCE"
 ```
 ^statblock
 

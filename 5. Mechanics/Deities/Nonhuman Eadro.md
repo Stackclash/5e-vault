@@ -6,6 +6,10 @@ tags:
   - deity/nonhuman
   - domain/nature
   - domain/tempest
+alignment: Neutral
+domains: 'Nature, Tempest'
+pantheon: Nonhuman
+symbol: Spiral design
 aliases:
   - Eadro
 ---

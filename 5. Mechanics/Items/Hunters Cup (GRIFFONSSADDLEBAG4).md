@@ -21,6 +21,6 @@ When the goblet is filled from a free-flowing stream or pond, it begins to glow 
 - Your walking speed increases by 5 feet.  
 - Any bonus granted by the goblet is doubled while you're within a forest.  
 
-The water in the goblet ceases to glow after 24 hours or if it's moved more than 100 feet away from where it was filled. Once a creature has drunk from the goblet in this way, it can't be used again until `dice:1d4|noform|avg` (`1d4`) days have passed.
+The water in the goblet ceases to glow after 24 hours or if it's moved more than 100 feet away from where it was filled. Once a creature has drunk from the goblet in this way, it can't be used again until `dice:1d4|noform|noparens|avg` (`d4`) days have passed.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*

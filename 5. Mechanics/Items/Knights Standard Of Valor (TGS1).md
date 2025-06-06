@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Knight's Standard of Valor
-one-hand-damage: 1d10 S
+one-hand-damage: 1d10 slashing
+weight: 6
 ---
 # Knight's Standard of Valor
 *Weapon ([[5. Mechanics/Items/Halberd.md\|halberd]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Knights-Standard-of-Valor.webp#right)  
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
 

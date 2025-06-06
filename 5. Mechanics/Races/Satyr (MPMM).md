@@ -24,7 +24,7 @@ You are a Fey.
 
 ### Ram
 
-You can use your head and horns to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|avg` (`1d6`) + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
+You can use your head and horns to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|noparens|avg` (`d6`) + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Magic Resistance
 
@@ -32,7 +32,7 @@ You have advantage on saving throws against spells.
 
 ### Mirthful Leaps
 
-Whenever you make a long jump or a high jump, you can roll a `dice:d8|noform|avg` (`d8`) and add the number rolled to the number of feet you cover, even when making a standing jump. This extra distance costs movement as usual.
+Whenever you make a long jump or a high jump, you can roll a `dice:d8|noform|noparens|avg` (`d8`) and add the number rolled to the number of feet you cover, even when making a standing jump. This extra distance costs movement as usual.
 
 ### Reveler
 

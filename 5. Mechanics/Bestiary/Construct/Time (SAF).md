@@ -13,7 +13,7 @@ tags:
 aliases:
   - Time
 ---
-# [[5. Mechanics/Bestiary/Construct/Time (SAF).md|Time]]
+# [[5. Mechanics\Bestiary\Construct\Time (SAF).md|Time]]
 *Source: Strongholds and Followers p. 231*
 
 Time is something of the hypocrite among the Inexorables, perfectly happy to speed things up for itself while denying that same ability to anyone else. Many of the Inexorables don't mind if their allies bend the rules so long as their enemies toe the line, and if this seems like commentary on the nature of law and how it tends to be applied, of course it is. Or is it? Maybe it's the opposite.
@@ -33,13 +33,14 @@ Time prevents enemies from taking bonus actions or reactions, which is very usef
 "ac_class": "natural armor"
 "hp": !!int "161"
 "hit_dice": "17d10 + 68"
+"modifier": !!int "5"
 "stats":
-- !!int "18"
-- !!int "20"
-- !!int "18"
-- !!int "15"
-- !!int "11"
-- !!int "10"
+  - !!int "18"
+  - !!int "20"
+  - !!int "18"
+  - !!int "15"
+  - !!int "11"
+  - !!int "10"
 "speed": "40 ft."
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
@@ -48,28 +49,28 @@ Time prevents enemies from taking bonus actions or reactions, which is very usef
 "languages": "all those of the creature who summoned it"
 "cr": "9"
 "traits":
-- "desc": "Enemies within 15 feet cannot take bonus actions or reactions."
-  "name": "The Law of Time"
-- "desc": "The Inexorables have disadvantage on all saving throws against spells."
-  "name": "Chaos Vulnerability"
-- "desc": "The Inexorables are immune to any effects that would slow them or deny\
-    \ them actions or movement."
-  "name": "Inexorable"
-- "desc": "At the end of the round, after all creatures have acted, Time takes another\
-    \ turn."
-  "name": "Time Is Inexorable (Recharge 6-6)"
+  - "desc": "Enemies within 15 feet cannot take bonus actions or reactions."
+    "name": "The Law of Time"
+  - "desc": "The Inexorables have disadvantage on all saving throws against spells."
+    "name": "Chaos Vulnerability"
+  - "desc": "The Inexorables are immune to any effects that would slow them or deny\
+      \ them actions or movement."
+    "name": "Inexorable"
+  - "desc": "At the end of the round, after all creatures have acted, Time takes another\
+      \ turn."
+    "name": "Time Is Inexorable (Recharge 6-6)"
 "actions":
-- "desc": "Time makes three slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10\
-    \ + 5) bludgeoning damage."
-  "name": "Slam"
-- "desc": "Until the end of its next turn, Time magically gains a +2 bonus to its\
-    \ AC, has advantage on Dexterity saving throws, and can use its slam attack as\
-    \ a bonus action."
-  "name": "Haste (Recharge 5-6)"
+  - "desc": "Time makes three slam attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16\
+      \ (2d10 + 5) bludgeoning damage."
+    "name": "Slam"
+  - "desc": "Until the end of its next turn, Time magically gains a +2 bonus to its\
+      \ AC, has advantage on Dexterity saving throws, and can use its slam attack\
+      \ as a bonus action."
+    "name": "Haste (Recharge 5-6)"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Time.png"
 ```
 ^statblock

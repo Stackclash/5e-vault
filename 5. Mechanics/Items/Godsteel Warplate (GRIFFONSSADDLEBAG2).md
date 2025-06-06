@@ -10,6 +10,7 @@ tags:
 aliases:
   - Godsteel Warplate
 armorClass: 18
+weight: 65
 ---
 # Godsteel Warplate
 *Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, legendary (requires attunement)*  

@@ -34,7 +34,7 @@ In addition, any climb that requires hands and feet is especially difficult for 
 
 ### Hooves
 
-You have hooves that you can use to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|avg` (`1d6`) + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
+You have hooves that you can use to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|noparens|avg` (`d6`) + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Natural Affinity
 

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Draegloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Draegloth (MPMM).md|Draegloth]]
+# [[5. Mechanics\Bestiary\Fiend\Draegloth (MPMM).md|Draegloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141*
 
 A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [[5. Mechanics/Bestiary/Fiend/Glabrezu.md|glabrezu]]. This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
@@ -35,17 +35,20 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 "ac_class": "natural armor"
 "hp": !!int "123"
 "hit_dice": "13d10 + 52"
+"modifier": !!int "2"
 "stats":
-- !!int "20"
-- !!int "15"
-- !!int "18"
-- !!int "13"
-- !!int "11"
-- !!int "11"
+  - !!int "20"
+  - !!int "15"
+  - !!int "18"
+  - !!int "13"
+  - !!int "11"
+  - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
@@ -53,26 +56,26 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 "languages": "Abyssal, Elvish, Undercommon"
 "cr": "7"
 "traits":
-- "desc": "The draegloth casts one of the following spells, requiring no material\
-    \ components and using Charisma as the spellcasting ability (spell save DC 11):\n\
-    \nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Darkness.md|darkness]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]]"
-  "name": "Spellcasting"
-- "desc": "The draegloth has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
-    \ and magic can't put it to sleep."
-  "name": "Fey Ancestry"
+  - "desc": "The draegloth has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+      \ and magic can't put it to sleep."
+    "name": "Fey Ancestry"
 "actions":
-- "desc": "The draegloth makes one Bite attack and two Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 16\
-    \ (2d10 + 5) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10\
-    \ + 5) slashing damage."
-  "name": "Claw"
+  - "desc": "The draegloth makes one Bite attack and two Claw attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 16\
+      \ (2d10 + 5) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16\
+      \ (2d10 + 5) slashing damage."
+    "name": "Claw"
+  - "desc": "The draegloth casts one of the following spells, requiring no material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 11):\n\
+      \nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Darkness.md|darkness]]\n\
+      \n1/day each: [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]]"
+    "name": "Spellcasting"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Fiend/token/draegloth-mpmm.webp"
 ```
 ^statblock

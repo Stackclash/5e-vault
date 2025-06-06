@@ -12,27 +12,36 @@ tags:
   - spell/school/evocation
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Evocation
-time: 1 action
+level: 1
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Earth Tremor
 ---
 # Earth Tremor
 *1st-level, Evocation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 10 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes `dice:1d6|noform|avg` (`1d6`) bludgeoning damage and is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
+You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes `dice:1d6|noform|noparens|avg` (`d6`) bludgeoning damage and is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d6|noform|avg|text(1d6)` for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 1st.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Xanathar's Guide to Everything p. 155*

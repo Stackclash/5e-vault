@@ -23,10 +23,10 @@ aliases:
 | [[5. Mechanics/Items/Clothes Of Mending (XGE).md\|Clothes of Mending]] | Shimmer Cloth (×1) | [[5. Mechanics/Optional Features/Leatherworker (HHHVI).md\|Leatherworker]] |
 | [[5. Mechanics/Items/Cloak Of The Bat.md\|Cloak of the Bat]] | Vampire Hair (1 large pouch) | [[5. Mechanics/Optional Features/Leatherworker (HHHVI).md\|Leatherworker]] |
 | [[5. Mechanics/Items/1 Weapon.md\|+1 Dagger]] | Allosaurus Claw (×1), Bulette Tooth (×1 small pouch), Vrock Talon (×1) | [[5. Mechanics/Optional Features/Blacksmith (HHHVI).md\|Blacksmith]] |
-| [[5. Mechanics/Items/Dragon Scale Mail (DMG).md\|Dragon Scale Mail]] | Dragon Scales (1 large bag) | [[5. Mechanics/Optional Features/Blacksmith (HHHVI).md\|Blacksmith]] |
+| [[5. Mechanics/Items/Dragon Scale Mail.md\|Dragon Scale Mail]] | Dragon Scales (1 large bag) | [[5. Mechanics/Optional Features/Blacksmith (HHHVI).md\|Blacksmith]] |
 | [[5. Mechanics/Items/Dust Of Disappearance.md\|Dust of Disappearance]] | Sprite Wing (×1) | [[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
 | [[5. Mechanics/Items/Ear Horn Of Hearing (XGE).md\|Ear Horn of Hearing]] | Darkmantle Otolith (×1) | [[5. Mechanics/Optional Features/Tinker (HHHVI).md\|Tinker]] |
-| [[5. Mechanics/Items/Elemental Gem (DMG).md\|Elemental Gem]] | Mote of Air (×1), Mote of Earth (×1), Mote of Fire (×1), Mote of Water (×1) | [[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
+| [[5. Mechanics/Items/Elemental Gem.md\|Elemental Gem]] | Mote of Air (×1), Mote of Earth (×1), Mote of Fire (×1), Mote of Water (×1) | [[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
 | [[5. Mechanics/Items/Eyes Of The Eagle.md\|Eyes of the Eagle]] | Griffon Eye (×2), Hippogriff Eye (×2) | [[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
 | [[5. Mechanics/Items/Eyes Of Charming.md\|Eyes of Charming]] | Dryad Eye (×2), Succubus/Incubus Eye (×2) | [[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
 | [[5. Mechanics/Items/Figurine Of Wondrous Power Obsidian Steed.md\|Figurine of Wondrous Power, Obsidian Steed]] | Nightmare Hoof (×4) | [[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
@@ -57,7 +57,7 @@ aliases:
 | [[5. Mechanics/Items/Potion Of Mind Reading.md\|Potion of Mind Reading]] | Flumph Brain (×1) | [[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
 | [[5. Mechanics/Items/Potion Of Fire Resistance.md\|Potion of Fire Resistance]] | Barbed Devil Blood (1 vial), Nightmare Ash (1 small pouch) | [[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
 | [[5. Mechanics/Items/Potion Of Flying.md\|Potion of Flying]] | Pegasus Wing (×2), Peryton Wing (×2) | [[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
-| [[5. Mechanics/Items/Potion Of Giant Strength (DMG).md\|Potion of Giant Strength]] | Cloud Giant Fingernail (×1), Ettin Fingernail (×1), Fire Giant Fingernail (×1), Frost Giant Fingernail (×1), Hill Giant Fingernail (×1), Stone Giant Fingernail (×1), Storm Giant Fingernail (×1) | [[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
+| [[5. Mechanics/Items/Potion Of Giant Strength.md\|Potion of Giant Strength]] | Cloud Giant Fingernail (×1), Ettin Fingernail (×1), Fire Giant Fingernail (×1), Frost Giant Fingernail (×1), Hill Giant Fingernail (×1), Stone Giant Fingernail (×1), Storm Giant Fingernail (×1) | [[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
 | [[5. Mechanics/Items/Potion Of Growth.md\|Potion of Growth]] | Duergar Brainstem (×1) | [[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
 | [[5. Mechanics/Items/Potion Of Healing.md\|Potion of Healing]] | Troll Blood (1/4 vial) | [[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
 | [[5. Mechanics/Items/Potion Of Superior Healing.md\|Potion of Superior Healing]] | Hydra Blood (1 vial), Naga Scale (1 small pouch), Oni Blood (1 vial), Shambling Mound Mulch (1 small pouch) | [[5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |

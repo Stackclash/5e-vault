@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/dmg
 aliases:
-  - 'Chamber Purpose; Dungeon: Treasure Vault'
+  - Chamber Purpose; Dungeon: Treasure Vault
 ---
 # Chamber Purpose; Dungeon: Treasure Vault
 *Source: Dungeon Master's Guide p. 292* 

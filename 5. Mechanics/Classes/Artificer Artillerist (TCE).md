@@ -8,7 +8,7 @@ aliases:
   - Artillerist
 ---
 # Artillerist
-*[[Artificer (TCE).md\|Artificer]]: Artificer Specialist*  
+*[[.nullArtificer (TCE).md\|Artificer]]: Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 17*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Artillerist%20(Level%203)'>Artillerist</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Artillerist (Level 3)' class='internal-link'>Artillerist</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Arcane%20Firearm%20(Level%205)'>Arcane Firearm</a></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Arcane Firearm (Level 5)' class='internal-link'>Arcane Firearm</a></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Explosive%20Cannon%20(Level%209)'>Explosive Cannon</a></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Explosive Cannon (Level 9)' class='internal-link'>Explosive Cannon</a></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Fortified%20Position%20(Level%2015)'>Fortified Position</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Fortified Position (Level 15)' class='internal-link'>Fortified Position</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -75,7 +76,7 @@ At 3rd level, you learn how to create a magical cannon. Using [[5. Mechanics/Ite
 
 Once you create a cannon, you can't do so again until you finish a long rest or until you expend a spell slot of 1st level or higher. You can have only one cannon at a time and can't create one while your cannon is present.
 
-The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on it, it regains `dice:2d6|noform|avg` (`2d6`) hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.
+The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on it, it regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.
 
 When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a bonus action to cause the cannon to activate if you are within 60 feet of it. As part of the same bonus action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.
 
@@ -83,23 +84,23 @@ When you create the cannon, you determine its appearance and whether it has legs
 
 | Cannon | Activation |
 |--------|------------|
-| [[5. Mechanics/Objects/Eldritch Cannon Flamethrower (TCE).md\|Flamethrower]] | The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking `dice:2d8\|noform\|avg` (`2d8`) fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried. |
-| [[5. Mechanics/Objects/Eldritch Cannon Force Ballista (TCE).md\|Force Ballista]] | Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes `dice:2d8\|noform\|avg` (`2d8`) force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon. |
-| [[5. Mechanics/Objects/Eldritch Cannon Protector (TCE).md\|Protector]] | The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to `dice:1d8\|noform\|avg` (`1d8`) + your Intelligence modifier (minimum of +1). |
+| [[5. Mechanics/Objects/Eldritch Cannon Flamethrower (TCE).md\|Flamethrower]] | The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking `dice:2d8\|noform\|noparens\|avg` (`2d8`) fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried. |
+| [[5. Mechanics/Objects/Eldritch Cannon Force Ballista (TCE).md\|Force Ballista]] | Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes `dice:2d8\|noform\|noparens\|avg` (`2d8`) force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon. |
+| [[5. Mechanics/Objects/Eldritch Cannon Protector (TCE).md\|Protector]] | The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to `dice:1d8\|noform\|noparens\|avg` (`d8`) + your Intelligence modifier (minimum of +1). |
 ^eldritch-cannons
 
 ### Arcane Firearm (Level 5)
 
 At 5th level, you know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells. When you finish a long rest, you can use [[5. Mechanics/Items/Woodcarvers Tools.md\|woodcarver's tools]] to carve special sigils into a wand, staff, or rod and thereby turn it into your arcane firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.
 
-You can use your arcane firearm as a spellcasting focus for your artificer spells. When you cast an artificer spell through the firearm, roll a `dice:d8|noform|avg` (`d8`), and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
+You can use your arcane firearm as a spellcasting focus for your artificer spells. When you cast an artificer spell through the firearm, roll a `dice:d8|noform|noparens|avg` (`d8`), and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
 
 ### Explosive Cannon (Level 9)
 
 Starting at 9th level, every eldritch cannon you create is more destructive:
 
-- The cannon's damage rolls all increase by `dice:1d8|noform|avg` (`1d8`).  
-- As an action, you can command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking `dice:3d8|noform|avg` (`3d8`) force damage on a failed save or half as much damage on a successful one.  
+- The cannon's damage rolls all increase by `dice:1d8|noform|noparens|avg` (`d8`).  
+- As an action, you can command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking `dice:3d8|noform|noparens|avg` (`3d8`) force damage on a failed save or half as much damage on a successful one.  
 
 ### Fortified Position (Level 15)
 

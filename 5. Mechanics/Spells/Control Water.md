@@ -18,22 +18,49 @@ tags:
   - spell/subclass/tempest-domain
   - spell/subclass/the-fathomless
   - spell/subclass/the-genie
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Festus Domain)
+  - Cleric (Tempest Domain)
+  - Druid
+  - Druid (Circle of the Land)
+  - Fighter (Eldritch Knight)
+  - Ranger (Marshwarden)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul)
+  - Warlock (The Fathomless)
+  - Warlock (The Genie)
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 10 minute'
-components: 'V, S, a drop of water and a pinch of dust'
+level: 4
+ritual: false
+time: 1 Action
+duration: Up to 10 minutes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Control Water
+range: 300 feet
+material: A drop of water and a pinch of dust.
+damageType: Bludgeoning
+save:
+  type: STR
+  success: half
+area:
+  type: cube
+  size: 100
+concentration: true
 ---
 # Control Water
 *4th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 300 feet
-- **Components:** V, S, a drop of water and a pinch of dust
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a drop of water and a pinch of dust)
+- **Duration:** Concentration, up to 10 minutes
 
 Until the spell ends, you control any freestanding water inside an area you choose that is a cube up to 100 feet on a side. You can choose from any of the following effects when you cast this spell. As an action on your turn, you can repeat the same effect or choose a different one.
 
@@ -57,12 +84,12 @@ You cause flowing water in the area to move in a direction you choose, even if t
 
 This effect requires a body of water at least 50 feet square and 25 feet deep. You cause a whirlpool to form in the center of the area. The whirlpool forms a vortex that is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature or object in the water and within 25 feet of the vortex is pulled 10 feet toward it. A creature can swim away from the vortex by making a Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check against your spell save DC.
 
-When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength saving throw. On a failed save, the creature takes `dice:2d8|noform|avg` (`2d8`) bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn't caught in the vortex. A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has disadvantage on the Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check to do so.
+When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength saving throw. On a failed save, the creature takes `dice:2d8|noform|noparens|avg` (`2d8`) bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn't caught in the vortex. A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has disadvantage on the Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check to do so.
 
-The first time each turn that an object enters the vortex, the object takes `dice:2d8|noform|avg` (`2d8`) bludgeoning damage; this damage occurs each round it remains in the vortex.
+The first time each turn that an object enters the vortex, the object takes `dice:2d8|noform|noparens|avg` (`2d8`) bludgeoning damage; this damage occurs each round it remains in the vortex.
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Festus Domain (GRIFFONSSADDLEBAG2)\|Cleric (Festus Domain)]]; [[List Spells Classes Ranger Marshwarden (GRIFFONSSADDLEBAG3)\|Ranger (Marshwarden)]]; [[List Spells Classes Cleric Tempest Domain\|Cleric (Tempest Domain)]]; [[List Spells Classes Warlock The Fathomless (TCE)\|Warlock (The Fathomless)]]; [[List Spells Classes Warlock The Genie (TCE)\|Warlock (The Genie)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Tempest Domain.md\|Cleric (Tempest Domain)]]; [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Ranger (Marshwarden)](compendium/lists/list-spells-classes-marshwarden-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Warlock (The Genie)](compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Warlock (The Fathomless)](compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Festus Domain)](compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 227. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

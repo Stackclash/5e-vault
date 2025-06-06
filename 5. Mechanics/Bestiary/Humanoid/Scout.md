@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'coastal, mountain, grassland, hill, arctic, forest, swamp, underdark, desert'
 size: Medium
 tags:
@@ -22,7 +22,7 @@ tags:
 aliases:
   - Scout
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Scout.md|Scout]]
+# [[5. Mechanics\Bestiary\Humanoid\Scout.md|Scout]]
 *Source: Monster Manual p. 349, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
@@ -37,38 +37,43 @@ Scouts are skilled hunters and trackers who offer their services for a fee. Most
 "ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
+"modifier": !!int "2"
 "stats":
-- !!int "11"
-- !!int "14"
-- !!int "12"
-- !!int "11"
-- !!int "13"
-- !!int "11"
+  - !!int "11"
+  - !!int "14"
+  - !!int "12"
+  - !!int "11"
+  - !!int "13"
+  - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Nature": !!int "4"
-  "Stealth": !!int "6"
-  "Perception": !!int "5"
-  "Survival": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Nature|Nature]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
+    "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "any one language (usually Common)"
 "cr": "1/2"
 "traits":
-- "desc": "The scout has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on hearing or sight."
-  "name": "Keen Hearing and Sight"
+  - "desc": "The scout has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on hearing or sight."
+    "name": "Keen Hearing and Sight"
 "actions":
-- "desc": "The scout makes two melee attacks or two ranged attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) piercing damage."
-  "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit:\
-    \ 6 (1d8 + 2) piercing damage."
-  "name": "Longbow"
+  - "desc": "The scout makes two melee attacks or two ranged attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) piercing damage."
+    "name": "Shortsword"
+  - "desc": "Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit:\
+      \ 6 (1d8 + 2) piercing damage."
+    "name": "Longbow"
 "source":
-- "MM"
-- "CoS"
+  - "MM"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Humanoid/token/scout.webp"
 ```
 ^statblock

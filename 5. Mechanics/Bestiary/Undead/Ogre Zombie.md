@@ -13,7 +13,7 @@ tags:
 aliases:
   - Ogre Zombie
 ---
-# [[5. Mechanics/Bestiary/Undead/Ogre Zombie.md|Ogre Zombie]]
+# [[5. Mechanics\Bestiary\Undead\Ogre Zombie.md|Ogre Zombie]]
 *Source: Monster Manual p. 316, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
@@ -53,33 +53,34 @@ A zombie doesn't require air, food, drink, or sleep.
 "ac": !!int "8"
 "hp": !!int "85"
 "hit_dice": "9d10 + 36"
+"modifier": !!int "-2"
 "stats":
-- !!int "19"
-- !!int "6"
-- !!int "18"
-- !!int "3"
-- !!int "6"
-- !!int "5"
+  - !!int "19"
+  - !!int "6"
+  - !!int "18"
+  - !!int "3"
+  - !!int "6"
+  - !!int "5"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "0"
+  - "wisdom": "+0"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands Common and Giant but can't speak"
 "cr": "2"
 "traits":
-- "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
-    \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
-    \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
-  "name": "Undead Fortitude"
+  - "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
+      \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
+      \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
+    "name": "Undead Fortitude"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8\
-    \ + 4) bludgeoning damage."
-  "name": "Morningstar"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+      \ (2d8 + 4) bludgeoning damage."
+    "name": "Morningstar"
 "source":
-- "MM"
-- "VEoR"
+  - "MM"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/ogre-zombie.webp"
 ```
 ^statblock

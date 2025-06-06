@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/nonhuman
   - domain/war
+alignment: Chaotic Evil
+domains: War
+pantheon: Nonhuman
+symbol: Wooden club
 aliases:
   - Grolantor
 ---

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Catfish Shark
 ---
-# [[5. Mechanics/Bestiary/Beast/Catfish Shark (KPDM).md|Catfish Shark]]
+# [[5. Mechanics\Bestiary\Beast\Catfish Shark (KPDM).md|Catfish Shark]]
 *Source: Deep Magic p. 292*
 
 The catfish shark lives in deep water. Most species are less than 1 foot long and range from pale orange to silvery white in color. Some are also bioluminescent. The catfish shark is an ideal familiar for a spellcaster who operates underwater.
@@ -26,31 +26,33 @@ The catfish shark lives in deep water. Most species are less than 1 foot long an
 "ac": !!int "11"
 "hp": !!int "2"
 "hit_dice": "1d4"
+"modifier": !!int "1"
 "stats":
-- !!int "3"
-- !!int "12"
-- !!int "10"
-- !!int "1"
-- !!int "8"
-- !!int "2"
+  - !!int "3"
+  - !!int "12"
+  - !!int "10"
+  - !!int "1"
+  - !!int "8"
+  - !!int "2"
 "speed": "0 ft., swim 40 ft."
 "skillsaves":
-  "Stealth": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+3"
 "senses": "darkvision 90 ft., passive Perception 9"
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The catfish shark can cause its body to glow with orange light, providing\
-    \ dim light in a 5-foot radius."
-  "name": "Bioluminescent"
-- "desc": "The catfish shark can breathe only underwater."
-  "name": "Water Breathing"
+  - "desc": "The catfish shark can cause its body to glow with orange light, providing\
+      \ dim light in a 5-foot radius."
+    "name": "Bioluminescent"
+  - "desc": "The catfish shark can breathe only underwater."
+    "name": "Water Breathing"
 "actions":
-- "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing\
-    \ damage."
-  "name": "Bite"
+  - "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing\
+      \ damage."
+    "name": "Bite"
 "source":
-- "KPDM"
+  - "KPDM"
 ```
 ^statblock
 

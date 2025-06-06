@@ -28,11 +28,11 @@ The bracer has 4 charges for the following properties. It regains all expended c
 
 ## Grim Shot (Longbow or Shortbow)
 
-When you hit a target with an arrow that was created by the summoned bow, you can expend 1 charge to deal an extra `dice:2d8|noform|avg` (`2d8`) force damage to the target. This damage is in addition to the attack's normal damage.
+When you hit a target with an arrow that was created by the summoned bow, you can expend 1 charge to deal an extra `dice:2d8|noform|noparens|avg` (`2d8`) force damage to the target. This damage is in addition to the attack's normal damage.
 
 ## Piercing Blast (Longbow)
 
-When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action using the summoned bow, you can replace one or more of your attacks with a special attack using the bow. You expend 2 charges per attack you replace in this way. When you do, you draw forth a cool beam of light from the weapon, instead of a spectral arrow. You fire this beam of light in a line from you that's 5 feet wide and 100 feet long. Each creature within the line must succeed on a DC 16 Dexterity saving throw or take `dice:4d8|noform|avg` (`4d8`) force damage.
+When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action using the summoned bow, you can replace one or more of your attacks with a special attack using the bow. You expend 2 charges per attack you replace in this way. When you do, you draw forth a cool beam of light from the weapon, instead of a spectral arrow. You fire this beam of light in a line from you that's 5 feet wide and 100 feet long. Each creature within the line must succeed on a DC 16 Dexterity saving throw or take `dice:4d8|noform|noparens|avg` (`4d8`) force damage.
 
 ## Stepshot (Shortbow)
 

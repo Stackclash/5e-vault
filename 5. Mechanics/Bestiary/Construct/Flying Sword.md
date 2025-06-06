@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Flying Sword
 ---
-# [[5. Mechanics/Bestiary/Construct/Flying Sword.md|Flying Sword]]
+# [[5. Mechanics\Bestiary\Construct\Flying Sword.md|Flying Sword]]
 *Source: Monster Manual p. 20, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A flying sword dances through the air, fighting with the confidence of a warrior that can't be injured. Swords are the most common weapons animated with magic. Axes, clubs, daggers, maces, spears, and even self-loading crossbows are also known to exist in animated object form.
@@ -39,16 +39,17 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "ac_class": "natural armor"
 "hp": !!int "17"
 "hit_dice": "5d6"
+"modifier": !!int "2"
 "stats":
-- !!int "12"
-- !!int "15"
-- !!int "11"
-- !!int "1"
-- !!int "5"
-- !!int "1"
+  - !!int "12"
+  - !!int "15"
+  - !!int "11"
+  - !!int "1"
+  - !!int "5"
+  - !!int "1"
 "speed": "0 ft., fly 50 ft. (hover)"
 "saves":
-  "Dexterity": !!int "4"
+  - "dexterity": "+4"
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
@@ -58,25 +59,25 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The sword is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
-    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the sword\
-    \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]] for 1\
-    \ minute."
-  "name": "Antimagic Susceptibility"
-- "desc": "While the sword remains motionless and isn't flying, it is indistinguishable\
-    \ from a normal sword."
-  "name": "False Appearance"
+  - "desc": "The sword is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
+      \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
+      \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the sword\
+      \ must succeed on a Constitution saving throw against the caster's spell save\
+      \ DC or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]] for\
+      \ 1 minute."
+    "name": "Antimagic Susceptibility"
+  - "desc": "While the sword remains motionless and isn't flying, it is indistinguishable\
+      \ from a normal sword."
+    "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
-    \ + 1) slashing damage."
-  "name": "Longsword"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
+      \ + 1) slashing damage."
+    "name": "Longsword"
 "source":
-- "MM"
-- "CoS"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Construct/token/flying-sword.webp"
 ```
 ^statblock

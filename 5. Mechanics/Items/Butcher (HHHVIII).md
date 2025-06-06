@@ -9,12 +9,13 @@ tags:
   - item/weapon/melee
 aliases:
   - Butcher
-one-hand-damage: 1d8 B
+one-hand-damage: 1d8 bludgeoning
+weight: 2
 ---
 # Butcher
 *Weapon ([[5. Mechanics/Items/Flail.md\|flail]]), cursed item, artifact (requires attunement)*  
 
-- **Damage**: 1d8 B
+- **Damage**: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Weight**: 2.0 lbs.
 
@@ -35,7 +36,7 @@ Angdrelve has the following randomly determined properties:
 
 When you successfully hit a creature with this weapon, you may choose one of the following additional effects:
 
-- The attack deals an extra `dice:2d12|noform|avg` (`2d12`) bludgeoning damage.  
+- The attack deals an extra `dice:2d12|noform|noparens|avg` (`2d12`) bludgeoning damage.  
 - The target must succeed on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] until the start of your next turn.  
 - The target must succeed on a DC 17 Wisdom saving throw or be affected by the [[5. Mechanics/Spells/Confusion.md\|confusion]] spell until the start of your next turn. You may only use this feature once per turn.  
 

@@ -8,6 +8,7 @@ tags:
   - item/wondrous/rod
 aliases:
   - Immovable Rod
+weight: 2
 ---
 # Immovable Rod
 *Rod, minor, uncommon*  

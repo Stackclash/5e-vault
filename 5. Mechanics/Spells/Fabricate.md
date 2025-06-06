@@ -12,19 +12,30 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/forge-domain
   - spell/subclass/wealth-domain
-level: 4th-level
-range: false
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Forge Domain)
+  - Cleric (Wealth Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Transmutation
-time: 10 minute
+level: 4
+ritual: false
+time: 10 minutes
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Fabricate
+range: 120 feet
 ---
 # Fabricate
 *4th-level, Transmutation*  
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
@@ -35,6 +46,6 @@ Choose raw materials that you can see within range. You can fabricate a Large or
 
 Creatures or magic items can't be created or transmuted by this spell. You also can't use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan's tools used to craft such objects.
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Forge Domain (XGE)\|Cleric (Forge Domain)]]; [[List Spells Classes Cleric Wealth Domain (GRIFFONSSADDLEBAG3)\|Cleric (Wealth Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Wealth Domain)](compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Forge Domain)](compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 239. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

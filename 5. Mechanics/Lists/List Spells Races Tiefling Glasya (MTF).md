@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[Minor Illusion \|"PHB"]] at class level 3
+- [[5. Mechanics/Spells/Minor Illusion.md \|"PHB"]] at class level 3
 
 ## 1st Level
 
-- [[Disguise Self \|"PHB"]] at class level 3
+- [[5. Mechanics/Spells/Disguise Self.md \|"PHB"]] at class level 3
 
 ## 2nd Level
 
-- [[Invisibility \|"PHB"]] at class level 3
+- [[5. Mechanics/Spells/Invisibility.md \|"PHB"]] at class level 3

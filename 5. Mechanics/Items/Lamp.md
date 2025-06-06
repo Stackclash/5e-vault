@@ -8,6 +8,7 @@ tags:
 aliases:
   - Lamp
 cost: 50
+weight: 1
 ---
 # Lamp
 *Adventuring gear*  

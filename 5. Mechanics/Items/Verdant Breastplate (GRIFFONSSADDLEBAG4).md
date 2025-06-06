@@ -9,6 +9,7 @@ tags:
 aliases:
   - Verdant Breastplate
 armorClass: 14 + Dex modifier (max of +2)
+weight: 20
 ---
 # Verdant Breastplate
 *Medium armor ([[5. Mechanics/Items/Breastplate.md\|breastplate]]), rare (requires attunement)*  
@@ -23,7 +24,7 @@ While wearing this armor, moving through nonmagical plants that impede movement 
 
 ## Charges
 
-This armor has 7 charges and regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dawn. If you're a druid or ranger and have cast the plant growth spell from the armor within the last 24 hours, the armor regains all expended charges instead.
+This armor has 7 charges and regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you're a druid or ranger and have cast the plant growth spell from the armor within the last 24 hours, the armor regains all expended charges instead.
 
 ## Spells
 

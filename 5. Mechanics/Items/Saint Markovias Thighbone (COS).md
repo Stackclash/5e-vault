@@ -8,13 +8,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Saint Markovia's Thighbone
-one-hand-damage: 1d6 B
+one-hand-damage: 1d6 bludgeoning
+weight: 4
 ---
 # Saint Markovia's Thighbone
 *Melee weapon, rare (requires attunement)*  
 ![[5. Mechanics/Items/img/saint-markovias-thighbone.webp#right]]  
 
-- **Damage**: 1d6 B
+- **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
 
 Saint Markovia's thighbone has the properties of a [[5. Mechanics/Items/Mace Of Disruption.md\|mace of disruption]]. If it scores one or more hits against a [[5. Mechanics/Bestiary/Undead/Vampire.md\|vampire]] or a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] in the course of a single battle, the thighbone crumbles into dust once the battle concludes.
@@ -27,7 +28,7 @@ Suffused with confidence born of a righteous victory, Markovia advanced on Castl
 
 The essence of Markovia's saintliness passed partly into her bones as the rest of her body decomposed. Her remaining thighbone is imbued with power that inflicts grievous injury on the undead.
 
-[[5. Mechanics/Items/Mace Of Disruption.md\|Mace of Disruption]]. When you hit a fiend or an undead with this magic weapon, that creature takes an extra `dice:2d6|noform|avg` (`2d6`) radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you until the end of your next turn.
+[[5. Mechanics/Items/Mace Of Disruption.md\|Mace of Disruption]]. When you hit a fiend or an undead with this magic weapon, that creature takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you until the end of your next turn.
 
 While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 

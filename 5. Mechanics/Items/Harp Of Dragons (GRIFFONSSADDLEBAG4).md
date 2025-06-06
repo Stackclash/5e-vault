@@ -7,6 +7,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Harp of Dragons
+weight: 6
 ---
 # Harp of Dragons
 *Wondrous item, rare (requires attunement by a bard)*  
@@ -20,7 +21,7 @@ While holding the harp, you can use an action to play it and speak one of the fo
 
 ## "Burn."
 
-The harp creates a magical breath of fire. Each creature in a 30-foot cone, originating from the harp, must make a Dexterity saving throw. A creature takes `dice:8d6|noform|avg` (`8d6`) fire damage on a failed save, or half as much damage on a successful one. A creature that's [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you makes the saving throw with disadvantage.
+The harp creates a magical breath of fire. Each creature in a 30-foot cone, originating from the harp, must make a Dexterity saving throw. A creature takes `dice:8d6|noform|noparens|avg` (`8d6`) fire damage on a failed save, or half as much damage on a successful one. A creature that's [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you makes the saving throw with disadvantage.
 
 ## "Fly."
 

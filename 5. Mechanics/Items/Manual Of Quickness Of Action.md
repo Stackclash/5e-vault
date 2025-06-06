@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Manual of Quickness of Action
+weight: 5
 ---
 # Manual of Quickness of Action
 *Wondrous item, major, very rare*  

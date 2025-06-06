@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/griffonssaddlebag3
 aliases:
-  - 'Part III: Setting Options'
+  - Part III: Setting Options
 ---
 # Part III: Setting Options
 *Source: Griffon's Saddlebag Book 3, p. 6* 

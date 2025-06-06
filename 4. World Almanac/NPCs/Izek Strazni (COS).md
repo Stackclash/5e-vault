@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/izek-strazni.webp
+  - 4. World Almanac\NPCs\img\izek-strazni.webp
 relationships: []
 aliases:
   - Izek Strazni
@@ -154,36 +154,39 @@ actions:
 "ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "10"
-- !!int "9"
-- !!int "15"
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "10"
+  - !!int "9"
+  - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  "Intimidation": !!int "8"
-  "Perception": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
+    "desc": "+8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "5"
 "traits":
-- "desc": "A melee weapon deals one extra die of its damage when Izek hits with it\
-    \ (included in the attack)."
-  "name": "Brute"
+  - "desc": "A melee weapon deals one extra die of its damage when Izek hits with\
+      \ it (included in the attack)."
+    "name": "Brute"
 "actions":
-- "desc": "Izek makes two attacks with his battleaxe."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8\
-    \ + 4) slashing damage, or 15 (2d10 + 4) when used with two hands."
-  "name": "Battleaxe"
-- "desc": "Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 10 (3d6)\
-    \ fire damage. If the target is a flammable object that isn't being worn or carried,\
-    \ it catches fire."
-  "name": "Hurl Flame"
+  - "desc": "Izek makes two attacks with his battleaxe."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13\
+      \ (2d8 + 4) slashing damage, or 15 (2d10 + 4) when used with two hands."
+    "name": "Battleaxe"
+  - "desc": "Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 10\
+      \ (3d6) fire damage. If the target is a flammable object that isn't being worn\
+      \ or carried, it catches fire."
+    "name": "Hurl Flame"
 "source":
-- "CoS"
+  - "CoS"
 "image": "4. World Almanac/NPCs/token/izek-strazni-cos.webp"
 ```
 ^statblock

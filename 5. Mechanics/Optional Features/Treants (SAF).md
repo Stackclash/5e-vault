@@ -16,9 +16,9 @@ aliases:
 
 |    |    |    |    |
 |----|----|----|----|
-| Attack: | `dice:1d20+10\|noform\|text(+10)` | Defense: | 13 |
-| Power: | `dice:1d20+13\|noform\|text(+13)` | Toughness: | 23 |
-| Morale: | `dice:1d20+9\|noform\|text(+9)` | Size: | `dice:1d4\|noform\|avg` (`1d4`) |
+| Attack: | `dice:1d20+10\|noform\|noparens\|text(+10)` | Defense: | 13 |
+| Power: | `dice:1d20+13\|noform\|noparens\|text(+13)` | Toughness: | 23 |
+| Morale: | `dice:1d20+9\|noform\|noparens\|text(+9)` | Size: | `dice:1d4\|noform\|noparens\|avg\|text(d4)` |
 
 ## Actions
 
@@ -28,4 +28,4 @@ Sap the walls of a fortification. Siege units have advantage on Power checks aga
 
 ### Hurl Rocks
 
-Make a Power check against a fortification. If successful, deal `dice:1d6|noform|avg` (`1d6`) damage.
+Make a Power check against a fortification. If successful, deal `dice:1d6|noform|noparens|avg` (`d6`) damage.

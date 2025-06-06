@@ -6,6 +6,10 @@ tags:
   - deity/greyhawk
   - domain/life
   - domain/nature
+alignment: Neutral Good
+domains: 'Life, Nature'
+pantheon: Greyhawk
+symbol: Unicorn horn
 aliases:
   - Ehlonna
 ---

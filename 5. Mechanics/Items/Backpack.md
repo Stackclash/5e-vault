@@ -8,6 +8,7 @@ tags:
 aliases:
   - Backpack
 cost: 200
+weight: 5
 ---
 # Backpack
 *Adventuring gear*  

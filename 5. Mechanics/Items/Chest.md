@@ -8,6 +8,7 @@ tags:
 aliases:
   - Chest
 cost: 500
+weight: 25
 ---
 # Chest
 *Adventuring gear*  

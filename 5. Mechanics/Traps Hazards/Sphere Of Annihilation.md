@@ -4,6 +4,7 @@ cssclasses: json5e-hazard
 tags:
   - compendium/src/5e/dmg
   - hazard/mag
+hazardType: Magical Trap
 aliases:
   - Sphere of Annihilation
 ---

@@ -12,12 +12,21 @@ tags:
   - spell/school/illusion
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 3rd-level
-range: true
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Illusion
+level: 3
+ritual: true
 time: 1 minute
 duration: Until dispelled
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Tongue of Sand
 ---
@@ -33,6 +42,6 @@ aliases:
 
 Additionally, *tongue of sand* has the ability to interact in a simple, brief manner with creatures who hear its message. For up to 10 minutes after the message is triggered, questions addressed to the sand will be answered as you would answer them. Each answer can be no more than ten words long, and the spell ends after a second question is answered.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 115*

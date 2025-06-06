@@ -9,19 +9,27 @@ tags:
   - spell/level/1st-level
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 1
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Unruly Item
+concentration: true
 ---
 # Unruly Item
 *1st-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -34,6 +42,6 @@ You animate an object in the possession of a creature within range, giving the o
 
 **Other Items:** The effects on other carried items can vary at the GM's discretion. A potion might behave as a weapon, trying not to be drunk, falling to the ground and becoming ruined if the Dexterity save is failed by 5 or more. A backpack might try to empty itself, disgorging a random item each round on a failed save.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 188*

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'forest, swamp'
 size: Medium
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Lizardfolk
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md|Lizardfolk]]
+# [[5. Mechanics\Bestiary\Humanoid\Lizardfo(LK).md|Lizardfolk]]
 *Source: Monster Manual p. 204, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -65,42 +65,46 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 "ac_class": "natural armor, [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
+"modifier": !!int "0"
 "stats":
-- !!int "15"
-- !!int "10"
-- !!int "13"
-- !!int "7"
-- !!int "12"
-- !!int "7"
+  - !!int "15"
+  - !!int "10"
+  - !!int "13"
+  - !!int "7"
+  - !!int "12"
+  - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
-  "Survival": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
+    "desc": "+5"
 "senses": "passive Perception 13"
 "languages": "Draconic"
 "cr": "1/2"
 "traits":
-- "desc": "The lizardfolk can hold its breath for 15 minutes."
-  "name": "Hold Breath"
+  - "desc": "The lizardfolk can hold its breath for 15 minutes."
+    "name": "Hold Breath"
 "actions":
-- "desc": "The lizardfolk makes two melee attacks, each one with a different weapon."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) bludgeoning damage."
-  "name": "Heavy Club"
-- "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120\
-    \ ft., one target. Hit: 5 (1d6 + 2) piercing damage."
-  "name": "Javelin"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) piercing damage."
-  "name": "Spiked Shield"
+  - "desc": "The lizardfolk makes two melee attacks, each one with a different weapon."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) bludgeoning damage."
+    "name": "Heavy Club"
+  - "desc": "Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+    "name": "Javelin"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) piercing damage."
+    "name": "Spiked Shield"
 "source":
-- "MM"
-- "TCE"
+  - "MM"
+  - "TCE"
 "image": "5. Mechanics/Bestiary/Humanoid/token/lizardfolk.webp"
 ```
 ^statblock

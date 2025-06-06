@@ -14,7 +14,7 @@ tags:
 aliases:
   - Ochre Jelly
 ---
-# [[5. Mechanics/Bestiary/Ooze/Ochre Jelly.md|Ochre Jelly]]
+# [[5. Mechanics\Bestiary\Ooze\Ochre Jelly.md|Ochre Jelly]]
 *Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.
@@ -55,13 +55,14 @@ An ooze doesn't require sleep.
 "ac": !!int "8"
 "hp": !!int "45"
 "hit_dice": "6d10 + 12"
+"modifier": !!int "-2"
 "stats":
-- !!int "15"
-- !!int "6"
-- !!int "14"
-- !!int "2"
-- !!int "6"
-- !!int "1"
+  - !!int "15"
+  - !!int "6"
+  - !!int "14"
+  - !!int "2"
+  - !!int "6"
+  - !!int "1"
 "speed": "10 ft., climb 10 ft."
 "damage_resistances": "acid"
 "damage_immunities": "lightning, slashing"
@@ -72,23 +73,23 @@ An ooze doesn't require sleep.
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The jelly can move through a space as narrow as 1 inch wide without squeezing."
-  "name": "Amorphous"
-- "desc": "The jelly can climb difficult surfaces, including upside down on ceilings,\
-    \ without needing to make an ability check."
-  "name": "Spider Climb"
+  - "desc": "The jelly can move through a space as narrow as 1 inch wide without squeezing."
+    "name": "Amorphous"
+  - "desc": "The jelly can climb difficult surfaces, including upside down on ceilings,\
+      \ without needing to make an ability check."
+    "name": "Spider Climb"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6\
-    \ + 2) bludgeoning damage plus 3 (1d6) acid damage."
-  "name": "Pseudopod"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6\
+      \ + 2) bludgeoning damage plus 3 (d6) acid damage."
+    "name": "Pseudopod"
 "reactions":
-- "desc": "When a jelly that is Medium or larger is subjected to lightning or slashing\
-    \ damage, it splits into two new jellies if it has at least 10 hit points. Each\
-    \ new jelly has hit points equal to half the original jelly's, rounded down. New\
-    \ jellies are one size smaller than the original jelly."
-  "name": "Split"
+  - "desc": "When a jelly that is Medium or larger is subjected to lightning or slashing\
+      \ damage, it splits into two new jellies if it has at least 10 hit points. Each\
+      \ new jelly has hit points equal to half the original jelly's, rounded down.\
+      \ New jellies are one size smaller than the original jelly."
+    "name": "Split"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Ooze/token/ochre-jelly.webp"
 ```
 ^statblock

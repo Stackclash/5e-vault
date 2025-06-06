@@ -16,7 +16,7 @@ tags:
 aliases:
   - Flail Snail
 ---
-# [[5. Mechanics/Bestiary/Elemental/Flail Snail (MPMM).md|Flail Snail]]
+# [[5. Mechanics\Bestiary\Elemental\Flail Snail (MPMM).md|Flail Snail]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144*
 
 A flail snail is a creature of elemental earth that is prized for its multihued shell. It may seem harmless, but if a creature big enough to be a threat approaches too close, the snail flashes a scintillating light and attacks with its mace-like tentacles.
@@ -40,13 +40,14 @@ A flail snail shell can also be used to make a [[5. Mechanics/Items/Robe Of Scin
 "ac_class": "natural armor"
 "hp": !!int "52"
 "hit_dice": "5d10 + 25"
+"modifier": !!int "-3"
 "stats":
-- !!int "17"
-- !!int "5"
-- !!int "20"
-- !!int "3"
-- !!int "10"
-- !!int "5"
+  - !!int "17"
+  - !!int "5"
+  - !!int "20"
+  - !!int "3"
+  - !!int "10"
+  - !!int "5"
 "speed": "10 ft."
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
@@ -54,36 +55,36 @@ A flail snail shell can also be used to make a [[5. Mechanics/Items/Robe Of Scin
 "languages": ""
 "cr": "3"
 "traits":
-- "desc": "The snail has advantage on saving throws against spells, and any creature\
-    \ making a spell attack against the snail has disadvantage on the attack roll.\n\
-    \nIf the snail succeeds on its saving throw against a spell or a spell's attack\
-    \ roll misses it, the snail's shell converts some of the spell's energy into a\
-    \ burst of destructive force if the spell is of 1st level or higher; each creature\
-    \ within 30 feet of the snail must make a DC 15 Constitution saving throw, taking\
-    \ 3 (1d6) force damage per level of the spell on a failed save, or half as much\
-    \ damage on a successful one."
-  "name": "Antimagic Shell"
+  - "desc": "The snail has advantage on saving throws against spells, and any creature\
+      \ making a spell attack against the snail has disadvantage on the attack roll.\n\
+      \nIf the snail succeeds on its saving throw against a spell or a spell's attack\
+      \ roll misses it, the snail's shell converts some of the spell's energy into\
+      \ a burst of destructive force if the spell is of 1st level or higher; each\
+      \ creature within 30 feet of the snail must make a DC 15 Constitution saving\
+      \ throw, taking 3 (d6) force damage per level of the spell on a failed save,\
+      \ or half as much damage on a successful one."
+    "name": "Antimagic Shell"
 "actions":
-- "desc": "The snail makes five Flail Tentacle attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5 (1d4\
-    \ + 3) bludgeoning damage."
-  "name": "Flail Tentacle"
-- "desc": "The snail's shell emits dazzling, colored light until the end of the snail's\
-    \ next turn. During this time, the shell sheds bright light in a 30-foot radius\
-    \ and dim light for an additional 30 feet, and creatures that can see the snail\
-    \ have disadvantage on attack rolls against it. In addition, any creature within\
-    \ the bright light and able to see the snail when this power is activated must\
-    \ succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
-    \ until the light ends."
-  "name": "Scintillating Shell (Recharges after a Short or Long Rest)"
-- "desc": "The flail snail withdraws into its shell. Until it emerges, it gains a\
-    \ +4 bonus to its AC and is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
-    \ It can emerge from its shell as a bonus action on its turn."
-  "name": "Shell Defense"
+  - "desc": "The snail makes five Flail Tentacle attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5\
+      \ (1d4 + 3) bludgeoning damage."
+    "name": "Flail Tentacle"
+  - "desc": "The snail's shell emits dazzling, colored light until the end of the\
+      \ snail's next turn. During this time, the shell sheds bright light in a 30-foot\
+      \ radius and dim light for an additional 30 feet, and creatures that can see\
+      \ the snail have disadvantage on attack rolls against it. In addition, any creature\
+      \ within the bright light and able to see the snail when this power is activated\
+      \ must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
+      \ until the light ends."
+    "name": "Scintillating Shell (Recharges after a Short or Long Rest)"
+  - "desc": "The flail snail withdraws into its shell. Until it emerges, it gains\
+      \ a +4 bonus to its AC and is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
+      \ It can emerge from its shell as a bonus action on its turn."
+    "name": "Shell Defense"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Elemental/token/flail-snail-mpmm.webp"
 ```
 ^statblock

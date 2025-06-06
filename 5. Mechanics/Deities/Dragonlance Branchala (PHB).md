@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/dragonlance
   - domain/light
+alignment: Neutral Good
+category: The Gods of Good
+domains: Light
+pantheon: Dragonlance
+symbol: Bard's harp
 aliases:
   - Branchala
 ---

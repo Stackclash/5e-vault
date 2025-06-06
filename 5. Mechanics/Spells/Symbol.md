@@ -10,23 +10,37 @@ tags:
   - spell/level/7th-level
   - spell/school/abjuration
   - spell/subclass/divine-soul
-level: 7th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul)
+  - Wizard
 school: Abjuration
+level: 7
+ritual: false
 time: 1 minute
-duration: Until dispelled or triggered
-components: >-
-  V, S, mercury, phosphorus, and powdered diamond and opal with a total value of
-  at least 1,000 gp, which the spell consumes
+duration: Until dispelled
+components:
+  - V
+  - S
+  - M
 aliases:
   - Symbol
+range: Touch
+material: >-
+  Mercury, phosphorus, and powdered diamond and opal with a total value of at
+  least 1,000 gp, which the spell consumes.
+area:
+  type: cube
+  size: 10
 ---
 # Symbol
 *7th-level, Abjuration*  
 
 - **Casting time:** 1 minute
 - **Range:** Touch
-- **Components:** V, S, mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes
+- **Components:** V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)
 - **Duration:** Until dispelled or triggered
 
 When you cast this spell, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book, a scroll, or a treasure chest). If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
@@ -41,7 +55,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 ## Death
 
-Each target must make a Constitution saving throw, taking `dice:10d10|noform|avg` (`10d10`) necrotic damage on a failed save, or half as much damage on a successful save.
+Each target must make a Constitution saving throw, taking `dice:10d10|noform|noparens|avg` (`10d10`) necrotic damage on a failed save, or half as much damage on a successful save.
 
 ## Discord
 
@@ -73,6 +87,6 @@ Each target must make a Wisdom saving throw and becomes [[/5. Mechanics/Rules/Co
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 280. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

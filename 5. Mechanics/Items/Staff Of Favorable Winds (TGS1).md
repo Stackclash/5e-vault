@@ -9,16 +9,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of Favorable Winds
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Staff of Favorable Winds
 *Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Staff-of-Favorable-Winds.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
@@ -28,6 +29,6 @@ The staff has 10 charges. While holding it, you can expend 1 or more of its char
 
 In addition, while holding the staff, you can create a harmless sensory effect using the air. You can cause leaves to rustle, slam shutters closed in a sudden gust, or cause your clothing to billow dramatically.
 
-The staff regains `dice:1d6+4|noform|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the staff turns to dust and is blown away by a sudden flurry of wind.
+The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff turns to dust and is blown away by a sudden flurry of wind.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 122*

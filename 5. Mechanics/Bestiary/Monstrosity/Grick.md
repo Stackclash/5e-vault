@@ -15,7 +15,7 @@ tags:
 aliases:
   - Grick
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Grick.md|Grick]]
+# [[5. Mechanics\Bestiary\Monstrosity\Grick.md|Grick]]
 *Source: Monster Manual p. 173, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
@@ -41,35 +41,36 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 "ac_class": "natural armor"
 "hp": !!int "27"
 "hit_dice": "6d8"
+"modifier": !!int "2"
 "stats":
-- !!int "14"
-- !!int "14"
-- !!int "11"
-- !!int "3"
-- !!int "14"
-- !!int "5"
+  - !!int "14"
+  - !!int "14"
+  - !!int "11"
+  - !!int "3"
+  - !!int "14"
+  - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The grick has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
-    \ checks made to hide in rocky terrain."
-  "name": "Stone Camouflage"
+  - "desc": "The grick has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+      \ checks made to hide in rocky terrain."
+    "name": "Stone Camouflage"
 "actions":
-- "desc": "The grick makes one attack with its tentacles. If that attack hits, the\
-    \ grick can make one beak attack against the same target."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6\
-    \ + 2) slashing damage."
-  "name": "Tentacles"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) piercing damage."
-  "name": "Beak"
+  - "desc": "The grick makes one attack with its tentacles. If that attack hits, the\
+      \ grick can make one beak attack against the same target."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6\
+      \ + 2) slashing damage."
+    "name": "Tentacles"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) piercing damage."
+    "name": "Beak"
 "source":
-- "MM"
-- "CoS"
+  - "MM"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/grick.webp"
 ```
 ^statblock

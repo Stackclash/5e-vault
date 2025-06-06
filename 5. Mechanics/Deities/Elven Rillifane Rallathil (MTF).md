@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/elven
   - domain/nature
+alignment: Chaotic Good
+category: The Seldarine
+domains: Nature
+pantheon: Elven
+province: 'Nature, beasts, the seasons'
+symbol: Oak
 aliases:
   - Rillifane Rallathil
 ---

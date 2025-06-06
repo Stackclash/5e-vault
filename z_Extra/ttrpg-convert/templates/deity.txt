@@ -7,7 +7,29 @@ tags:
 - {tag}
 {/for}
 {/if}
-aliases: ["{resource.name}"{#each resource.altNames}, "{it}"{/each}]
+{#if resource.alignment }
+alignment: {resource.alignment}
+{/if}
+{#if resource.category }
+category: {resource.category}
+{/if}
+{#if resource.domains }
+domains: {resource.domains}
+{/if}
+{#if resource.pantheon }
+pantheon: {resource.pantheon}
+{/if}
+{#if resource.province }
+province: {resource.province}
+{/if}
+{#if resource.symbol }
+symbol: {resource.symbol}
+{/if}
+aliases: 
+- {resource.name}
+{#each resource.altNames}
+- {it}
+{/each}
 ---
 # {resource.name}
 *Source: {resource.source}* {#if resource.image}

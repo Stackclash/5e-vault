@@ -8,6 +8,7 @@ tags:
 aliases:
   - Manacles
 cost: 200
+weight: 6
 ---
 # Manacles
 *Adventuring gear*  

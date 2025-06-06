@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/griffonssaddlebag3
 aliases:
-  - 'Part IV: Stat Block Appendiciess'
+  - Part IV: Stat Block Appendiciess
 ---
 # Part IV: Stat Block Appendiciess
 *Source: Griffon's Saddlebag Book 3, p. 6* 

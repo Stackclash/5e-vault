@@ -23,25 +23,49 @@ tags:
   - spell/subclass/the-lithic
   - spell/subclass/the-shapechanger
   - spell/subclass/war-domain
-level: 4th-level
-range: false
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Mountain Domain)
+  - Cleric (War Domain)
+  - Druid
+  - Druid (Circle of the Land)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Conquest)
+  - Paladin (Oath of Redemption)
+  - Paladin (Oath of Thunder)
+  - Paladin (Oath of the Ancients)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Lithic)
+  - Warlock (The Shapechanger)
+  - Wizard
 school: Abjuration
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, diamond dust worth 100 gp, which the spell consumes'
+level: 4
+ritual: false
+time: 1 Action
+duration: Up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Stoneskin
+range: Touch
+material: 'Diamond dust worth 100 gp, which the spell consumes.'
+concentration: true
 ---
 # Stoneskin
 *4th-level, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, diamond dust worth 100 gp, which the spell consumes
+- **Components:** V, S, M (diamond dust worth 100 gp, which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
 
 This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Mountain Domain (KPDM)\|Cleric (Mountain Domain)]]; [[List Spells Classes Paladin Oath Of Conquest (XGE)\|Paladin (Oath of Conquest)]]; [[List Spells Classes Paladin Oath Of Redemption (XGE)\|Paladin (Oath of Redemption)]]; [[List Spells Classes Paladin Oath Of The Ancients\|Paladin (Oath of the Ancients)]]; [[List Spells Classes Paladin Oath Of Thunder (KPDM)\|Paladin (Oath of Thunder)]]; [[List Spells Classes Warlock The Lithic (GRIFFONSSADDLEBAG3)\|Warlock (The Lithic)]]; [[List Spells Classes Warlock The Shapechanger (GRIFFONSSADDLEBAG4)\|Warlock (The Shapechanger)]]; [[List Spells Classes Cleric War Domain\|Cleric (War Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [Warlock (The Lithic)](compendium/lists/list-spells-classes-the-lithic-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of Thunder)](compendium/lists/list-spells-classes-oath-of-thunder-kpdm.md "subclass=KPDM"); [Paladin (Oath of Conquest)](compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Mountain Domain)](compendium/lists/list-spells-classes-mountain-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]]; [[5. Mechanics/Lists/List Spells Classes War Domain.md\|Cleric (War Domain)]]; [Warlock (The Shapechanger)](compendium/lists/list-spells-classes-the-shapechanger-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Paladin (Oath of Redemption)](compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 278. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

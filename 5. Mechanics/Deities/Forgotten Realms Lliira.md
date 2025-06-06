@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/life
+alignment: Chaotic Good
+domains: Life
+pantheon: Forgotten Realms
+symbol: Triangle of three six-pointed stars
 aliases:
   - Lliira
 ---

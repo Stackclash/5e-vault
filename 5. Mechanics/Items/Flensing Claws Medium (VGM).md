@@ -7,11 +7,11 @@ tags:
   - item/wondrous/other
 aliases:
   - Flensing Claws (Medium)
-one-hand-damage: 1d10 S
+one-hand-damage: 1d10 slashing
 ---
 # Flensing Claws (Medium)
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 
 Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.
 

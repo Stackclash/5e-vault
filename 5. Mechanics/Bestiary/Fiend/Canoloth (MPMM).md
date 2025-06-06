@@ -16,7 +16,7 @@ tags:
 aliases:
   - Canoloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Canoloth (MPMM).md|Canoloth]]
+# [[5. Mechanics\Bestiary\Fiend\Canoloth (MPMM).md|Canoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 69, Mordenkainen's Tome of Foes p. 247*
 
 > [!quote] A quote from Mordenkainen  
@@ -37,17 +37,20 @@ With senses sharp enough to pinpoint the locations of nearby [[/5. Mechanics/Rul
 "ac_class": "natural armor"
 "hp": !!int "120"
 "hit_dice": "16d8 + 48"
+"modifier": !!int "0"
 "stats":
-- !!int "18"
-- !!int "10"
-- !!int "17"
-- !!int "5"
-- !!int "17"
-- !!int "12"
+  - !!int "18"
+  - !!int "10"
+  - !!int "17"
+  - !!int "5"
+  - !!int "17"
+  - !!int "12"
 "speed": "50 ft."
 "skillsaves":
-  "Investigation": !!int "3"
-  "Perception": !!int "9"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+9"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
@@ -56,34 +59,34 @@ With senses sharp enough to pinpoint the locations of nearby [[/5. Mechanics/Rul
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "8"
 "traits":
-- "desc": "Other creatures can't teleport to or from a space within 60 feet of the\
-    \ canoloth. Any attempt to do so is wasted."
-  "name": "Dimensional Lock"
-- "desc": "The canoloth has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- "desc": "The canoloth can't be [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]]\
-    \ unless it's [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
-  "name": "Uncanny Senses"
+  - "desc": "Other creatures can't teleport to or from a space within 60 feet of the\
+      \ canoloth. Any attempt to do so is wasted."
+    "name": "Dimensional Lock"
+  - "desc": "The canoloth has advantage on saving throws against spells and other\
+      \ magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The canoloth can't be [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]]\
+      \ unless it's [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
+    "name": "Uncanny Senses"
 "actions":
-- "desc": "The canoloth makes one Bite or Tongue attack and one Claw attack."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
-    \ + 4) piercing damage plus 18 (4d8) force damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
-    \ + 4) slashing damage plus 9 (2d8) force damage."
-  "name": "Claw"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 10 (1d12\
-    \ + 4) piercing damage plus 7 (2d6) acid damage. If the target is Medium or smaller,\
-    \ it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 15), pulled\
-    \ up to 30 feet toward the canoloth, and [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
-    \ until the grapple ends. The canoloth can grapple one target at a time with its\
-    \ tongue."
-  "name": "Tongue"
+  - "desc": "The canoloth makes one Bite or Tongue attack and one Claw attack."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+      \ + 4) piercing damage plus 18 (4d8) force damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+      \ + 4) slashing damage plus 9 (2d8) force damage."
+    "name": "Claw"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 10\
+      \ (1d12 + 4) piercing damage plus 7 (2d6) acid damage. If the target is Medium\
+      \ or smaller, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape\
+      \ DC 15), pulled up to 30 feet toward the canoloth, and [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
+      \ until the grapple ends. The canoloth can grapple one target at a time with\
+      \ its tongue."
+    "name": "Tongue"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Fiend/token/canoloth-mpmm.webp"
 ```
 ^statblock

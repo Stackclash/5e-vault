@@ -10,25 +10,35 @@ tags:
   - spell/level/1st-level
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 24 hour
-components: 'V, S, blood, hair, or a personal item of target'
+level: 1
+ritual: false
+time: 1 Action
+duration: 24 hours
+components:
+  - V
+  - S
+  - M
 aliases:
   - Step Like Me
+material: 'blood, hair, or a personal item of target'
 ---
 # Step Like Me
 *1st-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
-- **Components:** V, S, blood, hair, or a personal item of target
-- **Duration:** 24 hour
+- **Components:** V, S, M (blood, hair, or a personal item of target)
+- **Duration:** 24 hours
 
 Choose a creature within one size category of yourself that you can see within range. The target must succeed on a Constitution saving throw or you steal its footsteps. For the duration of the spell, you leave the tracks of the target, while it leaves tracks as if it were you. In addition, those capable of identifying creatures through tremorsense mistake you for a creature of the target's kind.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 109*

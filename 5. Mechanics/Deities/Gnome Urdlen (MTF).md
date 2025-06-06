@@ -6,6 +6,11 @@ tags:
   - deity/gnome
   - domain/death
   - domain/war
+alignment: Chaotic Evil
+domains: 'Death, War'
+pantheon: Gnome
+province: 'Greed, murder'
+symbol: White-clawed mole emerging from ground
 aliases:
   - Urdlen
 ---

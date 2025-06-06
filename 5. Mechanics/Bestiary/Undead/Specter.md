@@ -15,7 +15,7 @@ tags:
 aliases:
   - Specter
 ---
-# [[5. Mechanics/Bestiary/Undead/Specter.md|Specter]]
+# [[5. Mechanics\Bestiary\Undead\Specter.md|Specter]]
 *Source: Monster Manual p. 279, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A specter is the angry, unfettered spirit of a humanoid that has been prevented from passing to the afterlife. Specters no longer possess connections to who or what they were, yet are condemned to walk the world forever. Some are spawned when dark magic or the touch of a wraith rips a soul from a living body.
@@ -46,13 +46,14 @@ A specter doesn't require air, food, drink, or sleep.
 "ac": !!int "12"
 "hp": !!int "22"
 "hit_dice": "5d8"
+"modifier": !!int "2"
 "stats":
-- !!int "1"
-- !!int "14"
-- !!int "11"
-- !!int "10"
-- !!int "10"
-- !!int "11"
+  - !!int "1"
+  - !!int "14"
+  - !!int "11"
+  - !!int "10"
+  - !!int "10"
+  - !!int "11"
 "speed": "0 ft., fly 50 ft. (hover)"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
@@ -66,26 +67,26 @@ A specter doesn't require air, food, drink, or sleep.
 "languages": "understands all languages it knew in life but can't speak"
 "cr": "1"
 "traits":
-- "desc": "The specter can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
-    \ an object."
-  "name": "Incorporeal Movement"
-- "desc": "While in sunlight, the specter has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The specter can move through other creatures and objects as if they were\
+      \ difficult terrain. It takes 5 (d10) force damage if it ends its turn inside\
+      \ an object."
+    "name": "Incorporeal Movement"
+  - "desc": "While in sunlight, the specter has disadvantage on attack rolls, as well\
+      \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
+      \ that rely on sight."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 10 (3d6)\
-    \ necrotic damage. The target must succeed on a DC 10 Constitution saving throw\
-    \ or its hit point maximum is reduced by an amount equal to the damage taken.\
-    \ This reduction lasts until the creature finishes a long rest. The target dies\
-    \ if this effect reduces its hit point maximum to 0."
-  "name": "Life Drain"
+  - "desc": "Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 10\
+      \ (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving\
+      \ throw or its hit point maximum is reduced by an amount equal to the damage\
+      \ taken. This reduction lasts until the creature finishes a long rest. The target\
+      \ dies if this effect reduces its hit point maximum to 0."
+    "name": "Life Drain"
 "source":
-- "MM"
-- "CoS"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/specter.webp"
 ```
 ^statblock

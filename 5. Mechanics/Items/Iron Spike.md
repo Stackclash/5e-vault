@@ -8,6 +8,7 @@ tags:
 aliases:
   - Iron Spike
 cost: 10
+weight: 0.5
 ---
 # Iron Spike
 *Adventuring gear*  

@@ -9,13 +9,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Blackrazor
-one-hand-damage: 2d6 S
+one-hand-damage: 2d6 slashing
+weight: 6
 ---
 # Blackrazor
 *Weapon ([[5. Mechanics/Items/Greatsword.md\|greatsword]]), legendary (requires attunement by a creature of non-lawful alignment)*  
 ![[5. Mechanics/Items/img/blackrazor.webp#right]]  
 
-- **Damage**: 2d6 S
+- **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
@@ -29,7 +30,7 @@ Whenever you use it to reduce a creature to 0 hit points, the sword slays the cr
 
 When it devours a soul, Blackrazor grants you temporary hit points equal to the slain creature's hit point maximum. These hit points fade after 24 hours. As long as these temporary hit points last and you keep Blackrazor in hand, you have advantage on attack rolls, saving throws, and ability checks.
 
-If you hit an undead with this weapon, you take `dice:1d10|noform|avg` (`1d10`) necrotic damage and the target regains `dice:1d10|noform|avg` (`1d10`) hit points. If this necrotic damage reduces you to 0 hit points, Blackrazor devours your soul.
+If you hit an undead with this weapon, you take `dice:1d10|noform|noparens|avg` (`d10`) necrotic damage and the target regains `dice:1d10|noform|noparens|avg` (`d10`) hit points. If this necrotic damage reduces you to 0 hit points, Blackrazor devours your soul.
 
 ## Soul Hunter
 

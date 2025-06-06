@@ -10,26 +10,27 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of the Arcanum
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Staff of the Arcanum
 *Staff, weapon, major, legendary (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Staff-of-the-Arcanum.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff is made of both raw and polished obsidian. Your Intelligence and Wisdom scores each increase by 2, up to a maximum of 22, while you're attuned to it. In addition, you can use your Arcane Recovery twice between long rests, instead of once.
 
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls. A target hit with the staff takes an extra `dice:1d10|noform|avg` (`1d10`) force damage and is pushed up to 10 feet away from you.
+This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls. A target hit with the staff takes an extra `dice:1d10|noform|noparens|avg` (`d10`) force damage and is pushed up to 10 feet away from you.
 
 ## Spell Storing
 
-This staff stores spells cast into it, holding them until you use them. The staff can store up to 5 levels worth of spells at a time. When found, it contains `dice:1d6-1|noform|avg` (`1d6 - 1`) levels of stored spells chosen by the GM.
+This staff stores spells cast into it, holding them until you use them. The staff can store up to 5 levels worth of spells at a time. When found, it contains `dice:1d6-1|noform|noparens|avg` (`1d6 - 1`) levels of stored spells chosen by the GM.
 
 Any creature can cast a spell of 1st through 5th level into the staff by touching the staff as the spell is cast. The spell has no effect, other than to be stored in the staff. If the staff can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
 

@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Amulet of Health
+weight: 1
 ---
 # Amulet of Health
 *Wondrous item, major, rare (requires attunement)*  

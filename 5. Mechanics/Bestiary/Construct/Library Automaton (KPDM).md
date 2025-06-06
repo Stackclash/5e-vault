@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Library Automaton
 ---
-# [[5. Mechanics/Bestiary/Construct/Library Automaton (KPDM).md|Library Automaton]]
+# [[5. Mechanics\Bestiary\Construct\Library Automaton (KPDM).md|Library Automaton]]
 *Source: Deep Magic p. 298*
 
 These strange-looking constructs are unusually intelligent for creatures of their type and will sometimes serve a lawful or neutral spellcaster (though never a chaotic one) as a familiar.
@@ -31,41 +31,44 @@ If a library automaton agrees to serve another creature as a familiar, it forms 
 "ac_class": "natural armor"
 "hp": !!int "7"
 "hit_dice": "2d6"
+"modifier": !!int "1"
 "stats":
-- !!int "8"
-- !!int "13"
-- !!int "10"
-- !!int "14"
-- !!int "12"
-- !!int "8"
+  - !!int "8"
+  - !!int "13"
+  - !!int "10"
+  - !!int "14"
+  - !!int "12"
+  - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  "Investigation": !!int "4"
-  "History": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]]"
+    "desc": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., truesight 10 ft., passive Perception 11"
 "languages": "Common"
 "cr": "1/2"
 "traits":
-- "desc": "A small door on the chest of the library automaton opens into an extradimensional\
-    \ bookcase. This bookcase functions exactly as a bag of holding, except that it\
-    \ can store only written materials, such as books, scrolls, tomes, parchment,\
-    \ folders, notebooks, spellbooks, and the like."
-  "name": "Extradimensional Book Repository"
+  - "desc": "A small door on the chest of the library automaton opens into an extradimensional\
+      \ bookcase. This bookcase functions exactly as a bag of holding, except that\
+      \ it can store only written materials, such as books, scrolls, tomes, parchment,\
+      \ folders, notebooks, spellbooks, and the like."
+    "name": "Extradimensional Book Repository"
 "actions":
-- "desc": "The library automaton chooses one creature it can see within 40 feet. The\
-    \ target must succeed on a DC 12 Intelligence saving throw or take 9 (3d4 + 2)\
-    \ psychic damage and have disadvantage on Intelligencebased checks, saving throws,\
-    \ and attack rolls until the end of its next turn. On a successful save, the target\
-    \ takes half as much damage and suffers no other effect."
-  "name": "Gaze of Confusion"
-- "desc": "This ability functions as the [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
-    \ cantrip but can be used only on books, scrolls, maps, and other printed or written\
-    \ materials."
-  "name": "Bibliotelekinesis"
+  - "desc": "The library automaton chooses one creature it can see within 40 feet.\
+      \ The target must succeed on a DC 12 Intelligence saving throw or take 9 (3d4\
+      \ + 2) psychic damage and have disadvantage on Intelligencebased checks, saving\
+      \ throws, and attack rolls until the end of its next turn. On a successful save,\
+      \ the target takes half as much damage and suffers no other effect."
+    "name": "Gaze of Confusion"
+  - "desc": "This ability functions as the [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
+      \ cantrip but can be used only on books, scrolls, maps, and other printed or\
+      \ written materials."
+    "name": "Bibliotelekinesis"
 "source":
-- "KPDM"
+  - "KPDM"
 ```
 ^statblock
 

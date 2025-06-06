@@ -20,27 +20,41 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/nature-domain
   - spell/subrace/elf-high
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Conjuration
-time: 1 action
+level: cantrip
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: 'V, S, a living flea'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Infestation
+material: a living flea
 ---
 # Infestation
 *cantrip, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
-- **Components:** V, S, a living flea
+- **Components:** V, S, M (a living flea)
 - **Duration:** Instantaneous
 
-You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes `dice:1d6|noform|avg` (`1d6`) poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a `dice:d4|noform|avg` (`d4`) for the direction: 1, north; 2, south; 3, east; or 4, west. This movement doesn't provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.
+You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes `dice:1d6|noform|noparens|avg` (`d6`) poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a `dice:d4|noform|noparens|avg` (`d4`) for the direction: 1, north; 2, south; 3, east; or 4, west. This movement doesn't provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.
 
-The spell's damage increases by `dice:1d6|noform|avg` (`1d6`) when you reach 5th level (`dice:2d6|noform|avg` (`2d6`)), 11th level (`dice:3d6|noform|avg` (`3d6`)), and 17th level (`dice:4d6|noform|avg` (`4d6`)).
+The spell's damage increases by `dice:1d6|noform|noparens|avg` (`d6`) when you reach 5th level (`dice:2d6|noform|noparens|avg` (`2d6`)), 11th level (`dice:3d6|noform|noparens|avg` (`3d6`)), and 17th level (`dice:4d6|noform|noparens|avg` (`4d6`)).
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Xanathar's Guide to Everything p. 158*

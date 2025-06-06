@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/norse
   - domain/war
+alignment: Chaotic Good
+domains: War
+pantheon: Norse
+symbol: Upraised sword
 aliases:
   - Sif
 ---

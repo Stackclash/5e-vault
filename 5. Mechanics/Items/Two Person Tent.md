@@ -8,6 +8,7 @@ tags:
 aliases:
   - Two-Person Tent
 cost: 200
+weight: 20
 ---
 # Two-Person Tent
 *Adventuring gear*  

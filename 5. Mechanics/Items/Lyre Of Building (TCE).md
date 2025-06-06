@@ -8,6 +8,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Lyre of Building
+weight: 2
 ---
 # Lyre of Building
 *Wondrous item, instrument, rare (requires attunement by a bard)*  

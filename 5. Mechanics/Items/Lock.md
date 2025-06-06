@@ -8,6 +8,7 @@ tags:
 aliases:
   - Lock
 cost: 1000
+weight: 1
 ---
 # Lock
 *Adventuring gear*  

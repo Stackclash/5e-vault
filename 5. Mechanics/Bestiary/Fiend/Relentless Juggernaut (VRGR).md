@@ -13,7 +13,7 @@ tags:
 aliases:
   - Relentless Juggernaut
 ---
-# [[5. Mechanics/Bestiary/Fiend/Relentless Juggernaut (VRGR).md|Relentless Juggernaut]]
+# [[5. Mechanics\Bestiary\Fiend\Relentless Juggernaut (VRGR).md|Relentless Juggernaut]]
 *Source: Van Richten's Guide to Ravenloft p. 243*
 
 Relentless juggernauts are massive brutes that thirst for carnage. Their presence twists the world around them, allowing them to create weapons with which they can slaughter prey. Sharp iron fences, crushing stalagmites and blades of glass all conveniently appear in order to aid a juggernaut's brutality. Every juggernaut considers a certain area its territory and visits destruction upon all trespassers.
@@ -63,71 +63,75 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 "ac_class": "natural armor"
 "hp": !!int "161"
 "hit_dice": "14d10 + 84"
+"modifier": !!int "1"
 "stats":
-- !!int "22"
-- !!int "12"
-- !!int "22"
-- !!int "8"
-- !!int "15"
-- !!int "16"
+  - !!int "22"
+  - !!int "12"
+  - !!int "22"
+  - !!int "8"
+  - !!int "15"
+  - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "6"
+  - "dexterity": "+5"
+  - "wisdom": "+6"
+  - "charisma": "+7"
 "skillsaves":
-  "Perception": !!int "6"
-  "Survival": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
+    "desc": "+6"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "understands all languages but can't speak"
 "cr": "12"
 "traits":
-- "desc": "If the juggernaut fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
-- "desc": "The juggernaut regains 20 hit points at the start of its turn. If the juggernaut\
-    \ takes radiant damage, this trait doesn't function at the start of its next turn.\
-    \ The juggernaut dies only if it starts its turn with 0 hit points and doesn't\
-    \ regenerate."
-  "name": "Regeneration"
-- "desc": "The juggernaut doesn't require air, food, drink, or sleep."
-  "name": "Unusual Nature"
+  - "desc": "If the juggernaut fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (3/Day)"
+  - "desc": "The juggernaut regains 20 hit points at the start of its turn. If the\
+      \ juggernaut takes radiant damage, this trait doesn't function at the start\
+      \ of its next turn. The juggernaut dies only if it starts its turn with 0 hit\
+      \ points and doesn't regenerate."
+    "name": "Regeneration"
+  - "desc": "The juggernaut doesn't require air, food, drink, or sleep."
+    "name": "Unusual Nature"
 "actions":
-- "desc": "The juggernaut makes two attacks. It can replace one attack with Deadly\
-    \ Shaping if it is ready."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 17 (2d10\
-    \ + 6) piercing damage, and if the target is a creature, its speed is reduced\
-    \ by 10 feet until the start of the juggernaut's next turn."
-  "name": "Executioner's Pick"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 11 (1d10\
-    \ + 6) bludgeoning damage, and if the target is a Large or smaller creature, it\
-    \ must succeed on a DC 18 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
-  "name": "Fist"
-- "desc": "The juggernaut magically shapes a feature of its surroundings into a deadly\
-    \ implement. A creature the juggernaut can see within 60 feet of it must make\
-    \ a DC 18 Dexterity saving throw. If the saving throw fails, the targeted creature\
-    \ is struck by one of the following (juggernaut's choice):"
-  "name": "Deadly Shaping (Recharge 5-6)"
-- "desc": "The target takes 22 (5d8) bludgeoning damage and is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
-    \ until the start of the juggernaut's next turn, and the implement vanishes."
-  "name": "Flying Stone"
-- "desc": "The target takes 14 (4d6) slashing damage, and the implement vanishes.\
-    \ At the start of each of its turns, the target takes 10 (3d6) necrotic damage\
-    \ from the wound left by the shrapnel. The wound ends if the target regains any\
-    \ hit points or if a creature uses an action to stanch the wound, which requires\
-    \ a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]])\
-    \ check."
-  "name": "Scything Shrapnel"
+  - "desc": "The juggernaut makes two attacks. It can replace one attack with Deadly\
+      \ Shaping if it is ready."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 17\
+      \ (2d10 + 6) piercing damage, and if the target is a creature, its speed is\
+      \ reduced by 10 feet until the start of the juggernaut's next turn."
+    "name": "Executioner's Pick"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 11\
+      \ (1d10 + 6) bludgeoning damage, and if the target is a Large or smaller creature,\
+      \ it must succeed on a DC 18 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+    "name": "Fist"
+  - "desc": "The juggernaut magically shapes a feature of its surroundings into a\
+      \ deadly implement. A creature the juggernaut can see within 60 feet of it must\
+      \ make a DC 18 Dexterity saving throw. If the saving throw fails, the targeted\
+      \ creature is struck by one of the following (juggernaut's choice):"
+    "name": "Deadly Shaping (Recharge 5-6)"
+  - "desc": "The target takes 22 (5d8) bludgeoning damage and is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
+      \ until the start of the juggernaut's next turn, and the implement vanishes."
+    "name": "Flying Stone"
+  - "desc": "The target takes 14 (4d6) slashing damage, and the implement vanishes.\
+      \ At the start of each of its turns, the target takes 10 (3d6) necrotic damage\
+      \ from the wound left by the shrapnel. The wound ends if the target regains\
+      \ any hit points or if a creature uses an action to stanch the wound, which\
+      \ requires a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]])\
+      \ check."
+    "name": "Scything Shrapnel"
 "legendary_actions":
-- "desc": "The juggernaut moves up to its speed, ignoring difficult terrain. Any object\
-    \ in its path takes 55 (10d10) bludgeoning damage if it isn't being worn or carried."
-  "name": "Implacable Advance"
-- "desc": "The juggernaut recharges Deadly Shaping and uses it."
-  "name": "Rapid Shaping (Costs 3 Actions)"
+  - "desc": "The juggernaut moves up to its speed, ignoring difficult terrain. Any\
+      \ object in its path takes 55 (10d10) bludgeoning damage if it isn't being worn\
+      \ or carried."
+    "name": "Implacable Advance"
+  - "desc": "The juggernaut recharges Deadly Shaping and uses it."
+    "name": "Rapid Shaping (Costs 3 Actions)"
 "source":
-- "VRGR"
+  - "VRGR"
 "image": "5. Mechanics/Bestiary/Fiend/token/relentless-juggernaut-vrgr.webp"
 ```
 ^statblock

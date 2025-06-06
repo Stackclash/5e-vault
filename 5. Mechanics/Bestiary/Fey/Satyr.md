@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: forest
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Satyr
 ---
-# [[5. Mechanics/Bestiary/Fey/Satyr.md|Satyr]]
+# [[5. Mechanics\Bestiary\Fey\Satyr.md|Satyr]]
 *Source: Monster Manual p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Satyrs are raucous fey that frolic in wild forests, driven by curiosity and hedonism in equal measure.
@@ -67,37 +67,41 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 "ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "31"
 "hit_dice": "7d8"
+"modifier": !!int "3"
 "stats":
-- !!int "12"
-- !!int "16"
-- !!int "11"
-- !!int "12"
-- !!int "10"
-- !!int "14"
+  - !!int "12"
+  - !!int "16"
+  - !!int "11"
+  - !!int "12"
+  - !!int "10"
+  - !!int "14"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "2"
-  "Performance": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Performance|Performance]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+5"
 "senses": "passive Perception 12"
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/2"
 "traits":
-- "desc": "The satyr has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
+  - "desc": "The satyr has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4\
-    \ + 1) bludgeoning damage."
-  "name": "Ram"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
-    \ + 3) piercing damage."
-  "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit:\
-    \ 6 (1d6 + 3) piercing damage."
-  "name": "Shortbow"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4\
+      \ + 1) bludgeoning damage."
+    "name": "Ram"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+      \ + 3) piercing damage."
+    "name": "Shortsword"
+  - "desc": "Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit:\
+      \ 6 (1d6 + 3) piercing damage."
+    "name": "Shortbow"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Fey/token/satyr.webp"
 ```
 ^statblock

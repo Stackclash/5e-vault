@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Grass Carpet
+weight: 30
 ---
 # Grass Carpet
 *Wondrous item, minor, common*  

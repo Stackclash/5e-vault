@@ -13,7 +13,7 @@ tags:
 aliases:
   - Shadow Demon
 ---
-# [[5. Mechanics/Bestiary/Fiend/Shadow Demon.md|Shadow Demon]]
+# [[5. Mechanics\Bestiary\Fiend\Shadow Demon.md|Shadow Demon]]
 *Source: Monster Manual p. 64, Curse of Strahd*
 
 When a demon's body is destroyed but the fiend is prevented from reforming in the Abyss, its essence sometimes takes on a vague physical form. These shadow demons exist outside the normal abyssal hierarchy, since their creation results most often from mortal magic, not from transformation or promotion.
@@ -173,14 +173,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50 percent chance of summoning `dice:1d8|noform|avg` (`1d8`) vrocks, `dice:1d6|noform|avg` (`1d6`) hezrous, `dice:1d4|noform|avg` (`1d4`) glabrezus, `dice:1d3|noform|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|avg` (`1d2`) mariliths, or one goristro.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`d8`) vrocks, `dice:1d6|noform|noparens|avg` (`d6`) hezrous, `dice:1d4|noform|noparens|avg` (`d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`d2`) mariliths, or one goristro.  
 > - A barlgura has a 30 percent chance of summoning one barlgura.  
 > - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|avg` (`1d3`) vrocks, `dice:1d2|noform|avg` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|avg` (`1d6`) vrocks, `dice:1d4|noform|avg` (`1d4`) hezrous, `dice:1d3|noform|avg` (`1d3`) glabrezus, `dice:1d2|noform|avg` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|avg` (`1d4`) vrocks, `dice:1d3|noform|avg` (`1d3`) hezrous, `dice:1d2|noform|avg` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|avg` (`2d4`) dretches or one vrock.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`d3`) vrocks, `dice:1d2|noform|noparens|avg` (`d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) vrocks, `dice:1d4|noform|noparens|avg` (`d4`) hezrous, `dice:1d3|noform|noparens|avg` (`d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) vrocks, `dice:1d3|noform|noparens|avg` (`d3`) hezrous, `dice:1d2|noform|noparens|avg` (`d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|noparens|avg` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
@@ -200,19 +200,21 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "ac": !!int "13"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
+"modifier": !!int "3"
 "stats":
-- !!int "1"
-- !!int "17"
-- !!int "12"
-- !!int "14"
-- !!int "13"
-- !!int "14"
+  - !!int "1"
+  - !!int "17"
+  - !!int "12"
+  - !!int "14"
+  - !!int "13"
+  - !!int "14"
 "speed": "30 ft., fly 30 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "5"
+  - "dexterity": "+5"
+  - "charisma": "+4"
 "skillsaves":
-  "Stealth": !!int "7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+7"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid; fire; necrotic; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
@@ -225,25 +227,25 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "4"
 "traits":
-- "desc": "The demon can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
-    \ an object."
-  "name": "Incorporeal Movement"
-- "desc": "While in bright light, the demon has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Light Sensitivity"
-- "desc": "While in dim light or darkness, the demon can take the Hide action as a\
-    \ bonus action."
-  "name": "Shadow Stealth"
+  - "desc": "The demon can move through other creatures and objects as if they were\
+      \ difficult terrain. It takes 5 (d10) force damage if it ends its turn inside\
+      \ an object."
+    "name": "Incorporeal Movement"
+  - "desc": "While in bright light, the demon has disadvantage on attack rolls, as\
+      \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
+      \ that rely on sight."
+    "name": "Light Sensitivity"
+  - "desc": "While in dim light or darkness, the demon can take the Hide action as\
+      \ a bonus action."
+    "name": "Shadow Stealth"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10\
-    \ (2d6 + 3) psychic damage or, if the demon had advantage on the attack roll,\
-    \ 17 (4d6 + 3) psychic damage."
-  "name": "Claws"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10\
+      \ (2d6 + 3) psychic damage or, if the demon had advantage on the attack roll,\
+      \ 17 (4d6 + 3) psychic damage."
+    "name": "Claws"
 "source":
-- "MM"
-- "CoS"
+  - "MM"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Fiend/token/shadow-demon.webp"
 ```
 ^statblock

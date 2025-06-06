@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
   - compendium/src/5e/dmg
-  - race/orc/dmg
+  - race/orc
 aliases:
-  - Orc (DMG)
+  - Orc
 ---
-# Orc (DMG)
+# Orc
 *Source: Dungeon Master's Guide p. 282*  
 
-- **Ability Scores**: Strength +2, Intelligence -2
+- **Ability Scores**: Strength +2; Intelligence -2
 - **Size**: Medium
 - **Speed**: 30 ft.
 

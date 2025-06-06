@@ -17,19 +17,35 @@ tags:
   - spell/subclass/the-shapechanger
   - spell/subclass/twilight-domain
   - spell/subclass/wealth-domain
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Cleric (Cat Domain)
+  - Cleric (Darkness Domain)
+  - Cleric (Labyrinth Domain)
+  - Cleric (Twilight Domain)
+  - Cleric (Wealth Domain)
+  - Ranger (Fey Wanderer)
+  - Sorcerer (Fey Soul)
+  - Warlock
+  - Warlock (The Many)
+  - Warlock (The Shapechanger)
+  - Wizard
 school: Illusion
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: S
+level: 5
+ritual: false
+time: 1 Action
+duration: Up to 1 hour
+components:
+  - S
 aliases:
   - Mislead
+range: Self
+concentration: true
 ---
 # Mislead
 *5th-level, Illusion*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** S
 - **Duration:** Concentration, up to 1 hour
@@ -40,6 +56,6 @@ You can use your action to move your illusory double up to twice your speed and 
 
 You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] and [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]] in regard to your own surroundings.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Cleric Cat Domain (KPDM)\|Cleric (Cat Domain)]]; [[List Spells Classes Cleric Darkness Domain (KPDM)\|Cleric (Darkness Domain)]]; [[List Spells Classes Sorcerer Fey Soul (GRIFFONSSADDLEBAG3)\|Sorcerer (Fey Soul)]]; [[List Spells Classes Ranger Fey Wanderer (TCE)\|Ranger (Fey Wanderer)]]; [[List Spells Classes Cleric Labyrinth Domain (KPDM)\|Cleric (Labyrinth Domain)]]; [[List Spells Classes Warlock The Many (GRIFFONSSADDLEBAG2)\|Warlock (The Many)]]; [[List Spells Classes Warlock The Shapechanger (GRIFFONSSADDLEBAG4)\|Warlock (The Shapechanger)]]; [[List Spells Classes Cleric Twilight Domain (TCE)\|Cleric (Twilight Domain)]]; [[List Spells Classes Cleric Wealth Domain (GRIFFONSSADDLEBAG3)\|Cleric (Wealth Domain)]]
+**Classes**: [Sorcerer (Fey Soul)](compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Twilight Domain)](compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [Cleric (Wealth Domain)](compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [Cleric (Cat Domain)](compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [Cleric (Labyrinth Domain)](compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Darkness Domain)](compendium/lists/list-spells-classes-darkness-domain-kpdm.md "subclass=KPDM"); [Ranger (Fey Wanderer)](compendium/lists/list-spells-classes-fey-wanderer-tce.md "subclass=TCE"); [Warlock (The Many)](compendium/lists/list-spells-classes-the-many-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Warlock (The Shapechanger)](compendium/lists/list-spells-classes-the-shapechanger-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4")
 
 *Source: Player's Handbook p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

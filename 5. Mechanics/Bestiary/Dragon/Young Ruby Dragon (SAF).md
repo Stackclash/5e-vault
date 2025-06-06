@@ -13,7 +13,7 @@ tags:
 aliases:
   - Young Ruby Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young Ruby Dragon (SAF).md|Young Ruby Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Young Ruby Dragon (SAF).md|Young Ruby Dragon]]
 *Source: Strongholds and Followers p. 205*
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.
@@ -31,44 +31,47 @@ They are measured and formal, slow to give trust. They like seeing things done p
 "ac_class": "natural armor"
 "hp": !!int "104"
 "hit_dice": "16d10 + 16"
+"modifier": !!int "3"
 "stats":
-- !!int "17"
-- !!int "17"
-- !!int "13"
-- !!int "17"
-- !!int "15"
-- !!int "17"
+  - !!int "17"
+  - !!int "17"
+  - !!int "13"
+  - !!int "17"
+  - !!int "15"
+  - !!int "17"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  "Charisma": !!int "7"
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "7"
+  - "dexterity": "+7"
+  - "intelligence": "+7"
+  - "wisdom": "+6"
+  - "charisma": "+7"
 "skillsaves":
-  "Insight": !!int "6"
-  "Perception": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+6"
 "damage_vulnerabilities": "psychic"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 20"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "9"
 "traits":
-- "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Gemstone Dragon Psionics]].\
-    \ Charges: 16 • Recharge: 1d6 • Fracture: 16"
-  "name": ""
-- "desc": "Allies' spells cast within 30 feet have their saving throw DC increased\
-    \ by 2."
-  "name": "Amplification Aura"
+  - "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].\
+      \ Charges: 16 • Recharge: d6 • Fracture: 16"
+    "name": ""
+  - "desc": "Allies' spells cast within 30 feet have their saving throw DC increased\
+      \ by 2."
+    "name": "Amplification Aura"
 "actions":
-- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 14 (2d10\
-    \ + 3) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6\
-    \ + 3) slashing damage."
-  "name": "Claw"
+  - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 14\
+      \ (2d10 + 3) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10\
+      \ (2d6 + 3) slashing damage."
+    "name": "Claw"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Medium%20Ruby%20Dragon.png"
 ```
 ^statblock

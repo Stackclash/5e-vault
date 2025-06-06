@@ -9,6 +9,7 @@ tags:
 aliases:
   - Battery Shield
 armorClass: 2
+weight: 6
 ---
 # Battery Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  
@@ -17,6 +18,6 @@ armorClass: 2
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-This shield builds up a small electrostatic charge while worn. When a creature makes a melee attack against you using a metal weapon and the attack roll misses by 2 or less, that creature takes `dice:1d4|noform|avg` (`1d4`) lightning damage.
+This shield builds up a small electrostatic charge while worn. When a creature makes a melee attack against you using a metal weapon and the attack roll misses by 2 or less, that creature takes `dice:1d4|noform|noparens|avg` (`d4`) lightning damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

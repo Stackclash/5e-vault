@@ -8,7 +8,7 @@ aliases:
   - Battle Smith
 ---
 # Battle Smith
-*[[Artificer (TCE).md\|Artificer]]: Artificer Specialist*  
+*[[.nullArtificer (TCE).md\|Artificer]]: Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 18*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Battle%20Smith%20(Level%203)'>Battle Smith</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Battle Smith (Level 3)' class='internal-link'>Battle Smith</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra%20Attack%20(Level%205)'>Extra Attack</a></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra Attack (Level 5)' class='internal-link'>Extra Attack</a></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Arcane%20Jolt%20(Level%209)'>Arcane Jolt</a></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Arcane Jolt (Level 9)' class='internal-link'>Arcane Jolt</a></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Improved%20Defender%20(Level%2015)'>Improved Defender</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Improved Defender (Level 15)' class='internal-link'>Improved Defender</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -82,7 +83,7 @@ By 3rd level, your tinkering has borne you a faithful companion, a [[5. Mechanic
 
 In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]], the defender can take any action of its choice, not just [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]].
 
-If the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on it, it regains `dice:2d6|noform|avg` (`2d6`) hit points. If it has died within the last hour, you can use your [[5. Mechanics/Items/Smiths Tools.md\|smith's tools]] as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.
+If the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on it, it regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points. If it has died within the last hour, you can use your [[5. Mechanics/Items/Smiths Tools.md\|smith's tools]] as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.
 
 At the end of a long rest, you can create a new steel defender if you have your [[5. Mechanics/Items/Smiths Tools.md\|smith's tools]] with you. If you already have a steel defender from this feature, the first one immediately perishes. The defender also perishes if you die.
 
@@ -94,8 +95,8 @@ Starting at 5th level, you can attack twice, rather than once, whenever you take
 
 At 9th level, you learn new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:
 
-- The target takes an extra `dice:2d6|noform|avg` (`2d6`) force damage.  
-- Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring `dice:2d6|noform|avg` (`2d6`) hit points to it.  
+- The target takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) force damage.  
+- Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring `dice:2d6|noform|noparens|avg` (`2d6`) hit points to it.  
 
 You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a long rest.
 
@@ -103,6 +104,6 @@ You can use this energy a number of times equal to your Intelligence modifier (m
 
 At 15th level, your Arcane Jolt and steel defender become more powerful:
 
-- The extra damage and the healing of your Arcane Jolt both increase to `dice:4d6|noform|avg` (`4d6`).  
+- The extra damage and the healing of your Arcane Jolt both increase to `dice:4d6|noform|noparens|avg` (`4d6`).  
 - Your steel defender gains a +2 bonus to Armor Class.  
-- Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to `dice:1d4|noform|avg` (`1d4`) + your Intelligence modifier.
+- Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to `dice:1d4|noform|noparens|avg` (`d4`) + your Intelligence modifier.

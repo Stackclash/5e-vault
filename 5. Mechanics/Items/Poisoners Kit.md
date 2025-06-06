@@ -8,6 +8,7 @@ tags:
 aliases:
   - Poisoner's Kit
 cost: 5000
+weight: 2
 ---
 # Poisoner's Kit
 *Tool*  

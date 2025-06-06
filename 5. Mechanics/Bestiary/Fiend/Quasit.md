@@ -13,7 +13,7 @@ tags:
 aliases:
   - Quasit
 ---
-# [[5. Mechanics/Bestiary/Fiend/Quasit.md|Quasit]]
+# [[5. Mechanics\Bestiary\Fiend\Quasit.md|Quasit]]
 *Source: Monster Manual p. 63, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Quasits infest the Lower Planes. Physically weak, they keep to the shadows to plot mischief and wickedness. More powerful demons use quasits as spies and messengers when they aren't devouring them or pulling them apart to pass the time.
@@ -169,14 +169,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50 percent chance of summoning `dice:1d8|noform|avg` (`1d8`) vrocks, `dice:1d6|noform|avg` (`1d6`) hezrous, `dice:1d4|noform|avg` (`1d4`) glabrezus, `dice:1d3|noform|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|avg` (`1d2`) mariliths, or one goristro.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`d8`) vrocks, `dice:1d6|noform|noparens|avg` (`d6`) hezrous, `dice:1d4|noform|noparens|avg` (`d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`d2`) mariliths, or one goristro.  
 > - A barlgura has a 30 percent chance of summoning one barlgura.  
 > - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|avg` (`1d3`) vrocks, `dice:1d2|noform|avg` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|avg` (`1d6`) vrocks, `dice:1d4|noform|avg` (`1d4`) hezrous, `dice:1d3|noform|avg` (`1d3`) glabrezus, `dice:1d2|noform|avg` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|avg` (`1d4`) vrocks, `dice:1d3|noform|avg` (`1d3`) hezrous, `dice:1d2|noform|avg` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|avg` (`2d4`) dretches or one vrock.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`d3`) vrocks, `dice:1d2|noform|noparens|avg` (`d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) vrocks, `dice:1d4|noform|noparens|avg` (`d4`) hezrous, `dice:1d3|noform|noparens|avg` (`d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) vrocks, `dice:1d3|noform|noparens|avg` (`d3`) hezrous, `dice:1d2|noform|noparens|avg` (`d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|noparens|avg` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
@@ -196,16 +196,18 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "ac": !!int "13"
 "hp": !!int "7"
 "hit_dice": "3d4"
+"modifier": !!int "3"
 "stats":
-- !!int "5"
-- !!int "17"
-- !!int "10"
-- !!int "7"
-- !!int "10"
-- !!int "10"
+  - !!int "5"
+  - !!int "17"
+  - !!int "10"
+  - !!int "7"
+  - !!int "10"
+  - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
@@ -214,39 +216,40 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "languages": "Abyssal, Common"
 "cr": "1"
 "traits":
-- "desc": "The quasit can use its action to polymorph into a beast form that resembles\
-    \ a bat (speed 10 feet fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad\
-    \ (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same\
-    \ in each form, except for the speed changes noted. Any equipment it is wearing\
-    \ or carrying isn't transformed. It reverts to its true form if it dies."
-  "name": "Shapechanger"
-- "desc": "The quasit has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
+  - "desc": "The quasit can use its action to polymorph into a beast form that resembles\
+      \ a bat (speed 10 feet fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a\
+      \ toad (40 ft., swim 40 ft.), or back into its true form. Its statistics are\
+      \ the same in each form, except for the speed changes noted. Any equipment it\
+      \ is wearing or carrying isn't transformed. It reverts to its true form if it\
+      \ dies."
+    "name": "Shapechanger"
+  - "desc": "The quasit has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d4\
-    \ + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving\
-    \ throw or take 5 (2d4) poison damage and become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success."
-  "name": "Claw (Bite in Beast Form)"
-- "desc": "One creature of the quasit's choice within 20 feet of it must succeed on\
-    \ a DC 10 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
-    \ turns, with disadvantage if the quasit is within line of sight, ending the effect\
-    \ on itself on a success."
-  "name": "Scare (1/Day)"
-- "desc": "The quasit magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ until it attacks or uses Scare, or until its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
-    \ ends (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on\
-    \ a spell). Any equipment the quasit wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ with it."
-  "name": "Invisibility"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+      \ + 3) piercing damage, and the target must succeed on a DC 10 Constitution\
+      \ saving throw or take 5 (2d4) poison damage and become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success."
+    "name": "Claw (Bite in Beast Form)"
+  - "desc": "One creature of the quasit's choice within 20 feet of it must succeed\
+      \ on a DC 10 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, with disadvantage if the quasit is within line of sight, ending\
+      \ the effect on itself on a success."
+    "name": "Scare (1/Day)"
+  - "desc": "The quasit magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ until it attacks or uses Scare, or until its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
+      \ ends (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
+      \ on a spell). Any equipment the quasit wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ with it."
+    "name": "Invisibility"
 "source":
-- "MM"
-- "CoS"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/quasit.webp"
 ```
 ^statblock

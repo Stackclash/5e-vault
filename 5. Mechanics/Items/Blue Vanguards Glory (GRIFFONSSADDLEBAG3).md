@@ -16,7 +16,7 @@ aliases:
 
 This brilliant deep blue armor is the bulwark for the king's royal front rank. While you have more than half your Hit Dice remaining, you can spend 1 of them as a bonus action to gain a +2 bonus to AC until the start of your next turn.
 
-This armor has 7 charges for the following properties. It regains `dice:1d4+3|noform|avg` (`1d4 + 3`) expended charges daily at dawn.
+This armor has 7 charges for the following properties. It regains `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) expended charges daily at dawn.
 
 ## "At You!"
 
@@ -24,7 +24,7 @@ If you move at least 10 feet straight toward a target while wearing this armor, 
 
 ## "Back, Cur!"
 
-When you hit a Large or smaller target with a melee weapon attack while wearing this armor, you can choose to expend up to 5 of its charges to push the creature 10 feet away from you. For each charge you spend in this way beyond the first, the target is pushed an additional 5 feet away from you. If the pushed target is stopped by a solid surface, the target takes an extra `dice:1d6|noform|avg` (`1d6`) bludgeoning damage for every 5 feet of movement it had left to move before it was stopped. If the target is pushed into another creature, that creature must succeed on a DC 15 Dexterity saving throw or take the same damage.
+When you hit a Large or smaller target with a melee weapon attack while wearing this armor, you can choose to expend up to 5 of its charges to push the creature 10 feet away from you. For each charge you spend in this way beyond the first, the target is pushed an additional 5 feet away from you. If the pushed target is stopped by a solid surface, the target takes an extra `dice:1d6|noform|noparens|avg` (`d6`) bludgeoning damage for every 5 feet of movement it had left to move before it was stopped. If the target is pushed into another creature, that creature must succeed on a DC 15 Dexterity saving throw or take the same damage.
 
 ## "Nowhere to Run!"
 

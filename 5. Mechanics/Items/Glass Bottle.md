@@ -8,6 +8,7 @@ tags:
 aliases:
   - Glass Bottle
 cost: 200
+weight: 2
 ---
 # Glass Bottle
 *Adventuring gear*  

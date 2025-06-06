@@ -10,4 +10,4 @@ aliases:
 
 ## 1st Level
 
-- [[Jump \|"PHB"]]
+- [[5. Mechanics/Spells/Jump.md \|"PHB"]]

@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Sir Varion's Lance
-one-hand-damage: 1d12 P
+one-hand-damage: 1d12 piercing
+weight: 6
 ---
 # Sir Varion's Lance
 *Weapon ([[5. Mechanics/Items/Lance.md\|lance]]), major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Sir-Varions-Lance.webp#right)  
 
-- **Damage**: 1d12 P
+- **Damage**: 1d12 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
 

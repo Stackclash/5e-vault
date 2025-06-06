@@ -14,7 +14,7 @@ tags:
 aliases:
   - Hill Giant
 ---
-# [[5. Mechanics/Bestiary/Giant/Hill Giant.md|Hill Giant]]
+# [[5. Mechanics\Bestiary\Giant\Hill Giant.md|Hill Giant]]
 *Source: Monster Manual p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Hill giants are selfish, dimwitted brutes that hunt, forage, and raid in constant search of food. They blunder through hills and forests devouring what they can, bullying smaller creatures into feeding them. Their laziness and dullness would long ago have spelled their end if not for their formidable size and strength.
@@ -96,30 +96,32 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "ac_class": "natural armor"
 "hp": !!int "105"
 "hit_dice": "10d12 + 40"
+"modifier": !!int "-1"
 "stats":
-- !!int "21"
-- !!int "8"
-- !!int "19"
-- !!int "5"
-- !!int "9"
-- !!int "6"
+  - !!int "21"
+  - !!int "8"
+  - !!int "19"
+  - !!int "5"
+  - !!int "9"
+  - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Giant"
 "cr": "5"
 "actions":
-- "desc": "The giant makes two greatclub attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8\
-    \ + 5) bludgeoning damage."
-  "name": "Greatclub"
-- "desc": "Ranged Weapon Attack: +8 to hit, range 60/240 ft., one target. Hit:\
-    \ 21 (3d10 + 5) bludgeoning damage."
-  "name": "Rock"
+  - "desc": "The giant makes two greatclub attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18\
+      \ (3d8 + 5) bludgeoning damage."
+    "name": "Greatclub"
+  - "desc": "Ranged Weapon Attack: +8 to hit, range 60/240 ft., one target. Hit:\
+      \ 21 (3d10 + 5) bludgeoning damage."
+    "name": "Rock"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Giant/token/hill-giant.webp"
 ```
 ^statblock

@@ -15,8 +15,8 @@ aliases:
 
 | dice: d100 | Follower |
 |------------|----------|
-| 01–05 | Regular Medium Infantry (Size `dice:1d6\|noform\|avg` (`1d6`)), Unit |
-| 06–10 | Seasoned Medium Airborne (Size `dice:1d4\|noform\|avg` (`1d4`)), Unit |
+| 01–05 | Regular Medium Infantry (Size `dice:1d6\|noform\|noparens\|avg` (`d6`)), Unit |
+| 06–10 | Seasoned Medium Airborne (Size `dice:1d4\|noform\|noparens\|avg` (`d4`)), Unit |
 | 11 | [[5. Mechanics/Bestiary/Humanoid/Loremaster (SAF).md\|Loremaster]] (3rd Level), Retainer |
 | 12 | [[5. Mechanics/Bestiary/Humanoid/Warden (SAF).md\|Warden]] (3rd Level), Retainer |
 | 13–19 | [[5. Mechanics/Bestiary/Humanoid/Elemental Acolyte (SAF).md\|Elemental Acolyte]] (3rd Level), Retainer |

@@ -8,7 +8,7 @@ aliases:
   - Ring Warden
 ---
 # Ring Warden
-*[[Wizard.md\|Wizard]]: Arcane Tradition*  
+*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 234*  
 
 > [!tldr] Class and Feature Progression
@@ -19,19 +19,19 @@ aliases:
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Ring%20Warden%20(Level%202)'>Ring Warden</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Ring Warden (Level 2)' class='internal-link'>Ring Warden</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Master%20Metalsmith%20(Level%206)'>Master Metalsmith</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Master Metalsmith (Level 6)' class='internal-link'>Master Metalsmith</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Imbue%20Ring%20(Level%2010)'>Imbue Ring</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Imbue Ring (Level 10)' class='internal-link'>Imbue Ring</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Ring%20Bond%20(Level%2014)'>Ring Bond</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Ring Bond (Level 14)' class='internal-link'>Ring Bond</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -52,7 +53,7 @@ The Dwarves long ago discovered the means to infuse magic into rings, and the fi
 
 With a focus on the school of transmutation, ring wardens blend dwarven craftsmanship with arcane might. They are rarely encountered outside dwarven nations, but they are easy to recognize thanks to their signature ring-staves.
 
-Except as noted below, ring wardens function as [[5. Mechanics/Classes/Wizard School Of Transmutation.md\|transmuters]] and use the wizard spell list.
+Except as noted below, ring wardens function as [[5. Mechanics/Classes/Wizard.md\|transmuters]] and use the wizard spell list.
 
 ### Transmutation Savant (Level 2)
 
@@ -76,7 +77,7 @@ Whenever you gain a new wizard level, you can attach a new ring to your staff by
 
 Beginning at 6th level, you can add twice your normal proficiency bonus when you use the tools you chose at 2nd level. When using your chosen tools to craft nonmagical or magical items, you make twice the normal amount of progress each day.
 
-Additionally, you learn the method for crafting a single kind of magic ring chosen from the following list: [[5. Mechanics/Items/Ring Of Jumping.md\|ring of jumping]], [[5. Mechanics/Items/Ring Of Mind Shielding.md\|ring of mind shielding]], [[5. Mechanics/Items/Ring Of Protection.md\|ring of protection]], [[5. Mechanics/Items/Ring Of The Ram.md\|ring of the ram]], [[5. Mechanics/Items/Ring Of Regeneration.md\|ring of regeneration]], or [[5. Mechanics/Items/Ring Of Resistance (DMG).md\|ring of resistance]]. At the GM's discretion, you can choose a ring not listed here. You must meet all the standard Prerequisites for crafting the ring and pay the required gold as normal, along with providing any Special materials or meeting any conditions set by the GM.
+Additionally, you learn the method for crafting a single kind of magic ring chosen from the following list: [[5. Mechanics/Items/Ring Of Jumping.md\|ring of jumping]], [[5. Mechanics/Items/Ring Of Mind Shielding.md\|ring of mind shielding]], [[5. Mechanics/Items/Ring Of Protection.md\|ring of protection]], [[5. Mechanics/Items/Ring Of The Ram.md\|ring of the ram]], [[5. Mechanics/Items/Ring Of Regeneration.md\|ring of regeneration]], or [[5. Mechanics/Items/Ring Of Resistance.md\|ring of resistance]]. At the GM's discretion, you can choose a ring not listed here. You must meet all the standard Prerequisites for crafting the ring and pay the required gold as normal, along with providing any Special materials or meeting any conditions set by the GM.
 
 ### Imbue Ring (Level 10)
 

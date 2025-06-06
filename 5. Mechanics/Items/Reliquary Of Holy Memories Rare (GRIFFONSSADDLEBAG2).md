@@ -10,13 +10,13 @@ tags:
   - item/wondrous/rod
 aliases:
   - Reliquary of Holy Memories (Rare)
-one-hand-damage: 1d6 B
+one-hand-damage: 1d6 bludgeoning
 ---
 # Reliquary of Holy Memories (Rare)
 *Weapon ([[5. Mechanics/Items/Mace.md\|mace]]), rod, major, rare (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Reliquary-of-Holy-Memories.webp#right)  
 
-- **Damage**: 1d6 B
+- **Damage**: 1d6 bludgeoning
 
 This scepter holds the bones of a powerful martyred saint and are said to contain the echoes of their memories. The rod can also be used as a magic [[5. Mechanics/Items/Mace.md\|mace]].
 

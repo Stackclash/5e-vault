@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Manual of Bodily Health
+weight: 5
 ---
 # Manual of Bodily Health
 *Wondrous item, major, very rare*  

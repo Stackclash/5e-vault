@@ -8,6 +8,7 @@ tags:
 aliases:
   - Sack
 cost: 1
+weight: 0.5
 ---
 # Sack
 *Adventuring gear*  

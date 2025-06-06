@@ -6,6 +6,11 @@ tags:
   - deity/eberron
   - domain/life
   - domain/light
+alignment: Lawful Neutral
+category: Other Faiths of Eberron
+domains: 'Life, Light'
+pantheon: Eberron
+symbol: Brilliant crystal
 aliases:
   - The Path of Light
 ---

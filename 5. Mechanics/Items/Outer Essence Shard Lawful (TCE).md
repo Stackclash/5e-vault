@@ -7,6 +7,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Outer Essence Shard (Lawful)
+weight: 1
 ---
 # Outer Essence Shard (Lawful)
 *Wondrous item, rare (requires attunement by a sorcerer)*  

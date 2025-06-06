@@ -9,17 +9,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Whelm
-one-hand-damage: 1d8 B
-two-hand-damage: 1d10 B
-range: 20/60
+one-hand-damage: 1d8 bludgeoning
+two-hand-damage: 1d10 bludgeoning
+range: 20\60
+weight: 2
 ---
 # Whelm
 *Weapon ([[5. Mechanics/Items/Warhammer.md\|warhammer]]), legendary (requires attunement by a dwarf)*  
 ![[5. Mechanics/Items/img/whelm.webp#right]]  
 
 - **Damage**:
-  - One-handed: 1d8 B
-  - Two-handed: 1d10 B
+  - One-handed: 1d8 bludgeoning
+  - Two-handed: 1d10 bludgeoning
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 2.0 lbs.
@@ -30,7 +31,7 @@ You gain a +3 bonus to attack and damage rolls made with this magic weapon. At d
 
 ## Thrown Weapon
 
-Whelm has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged weapon attack using it, the target takes an extra `dice:1d8|noform|avg` (`1d8`) bludgeoning damage, or an extra `dice:2d8|noform|avg` (`2d8`) bludgeoning damage if the target is a giant. Each time you throw the weapon, it flies back to your hand after the attack. If you don't have a hand free, the weapon lands at your feet.
+Whelm has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged weapon attack using it, the target takes an extra `dice:1d8|noform|noparens|avg` (`d8`) bludgeoning damage, or an extra `dice:2d8|noform|noparens|avg` (`2d8`) bludgeoning damage if the target is a giant. Each time you throw the weapon, it flies back to your hand after the attack. If you don't have a hand free, the weapon lands at your feet.
 
 ## Shock Wave
 

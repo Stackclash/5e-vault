@@ -8,20 +8,27 @@ tags:
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/necromancy
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 school: Necromancy
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S'
+level: 5
+ritual: false
+time: 1 Action
+duration: up to 1 hour
+components:
+  - V
+  - S
 aliases:
   - Danse Macabre
+concentration: true
 ---
 # Danse Macabre
 *5th-level, Necromancy*  
 ![[5. Mechanics/Spells/img/danse-macabre.webp#right]]  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
@@ -34,6 +41,6 @@ The creatures are under your control until the spell ends, after which they beco
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you animate up to two additional corpses for each slot level above 5th.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Xanathar's Guide to Everything p. 153*

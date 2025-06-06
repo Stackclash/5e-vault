@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Clangor Helmet
+weight: 10
 ---
 # Clangor Helmet
 *Wondrous item, major, rare (requires attunement)*  
@@ -15,6 +16,6 @@ aliases:
 
 - **Weight**: 10.0 lbs.
 
-This helmet was made from a temple bell and weighs 10 pounds. While wearing it, you have resistance to thunder damage and can't be [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]]. In addition, whenever a creature within 5 feet of you deals bludgeoning damage to you with a melee attack, roll a `dice:d6|noform|avg` (`d6`). On a 5 or 6, the attacking creature takes 5 or 6 thunder damage, respectively.
+This helmet was made from a temple bell and weighs 10 pounds. While wearing it, you have resistance to thunder damage and can't be [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]]. In addition, whenever a creature within 5 feet of you deals bludgeoning damage to you with a melee attack, roll a `dice:d6|noform|noparens|avg` (`d6`). On a 5 or 6, the attacking creature takes 5 or 6 thunder damage, respectively.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

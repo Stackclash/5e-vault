@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/cos
 aliases:
-  - 'Chapter 7: Argynvostholt'
+  - Chapter 7: Argynvostholt
 ---
 # Chapter 7: Argynvostholt
 *Source: Curse of Strahd, p. 129* 
@@ -46,7 +46,7 @@ The spirit of the dragon Argynvost isn't at rest, either. It can sense that the 
 > 
 > A [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenant]], as described in the "Monster Manual", has a year to achieve its revenge before its body crumbles to dust and its soul enters the afterlife. In Barovia, however, a revenant can remain in its body indefinitely, and once it has reaped its vengeance, its soul remains trapped in Barovia.
 > 
-> If the body of a revenant is destroyed before its vengeance is fulfilled, its spirit seeks out a new corpse or skeleton to animate. To determine where the revenant's new body rises, roll a `dice:d20|noform|avg` (`d20`) and consult the following table.
+> If the body of a revenant is destroyed before its vengeance is fulfilled, its spirit seeks out a new corpse or skeleton to animate. To determine where the revenant's new body rises, roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the following table.
 ^revenants-of-barovia
 
 `dice: [[09 Chapter 7 Argynvostholt.md#^corpse-location]]`
@@ -165,7 +165,7 @@ If the beacon of Argynvostholt (area Q53) has not been lit, read the following t
 > A fire erupts in the dead hearth and assumes a draconic form. It hisses, crackles, and unfurls its smoky wings.
 ^43a
 
-Have the player characters roll initiative. The fire acts on initiative count 10 and has AC 15, 1 hit point, and immunity to fire, poison, and psychic damage. If it is reduced to 0 hit points, it explodes and fills the room with fire, setting fire to the dry furnishings. Each creature in the room must make a DC 12 Dexterity saving throw, taking `dice:4d10|noform|avg|text(22)` (`4d10`) fire damage on a failed save, or half as much damage on a successful one.
+Have the player characters roll initiative. The fire acts on initiative count 10 and has AC 15, 1 hit point, and immunity to fire, poison, and psychic damage. If it is reduced to 0 hit points, it explodes and fills the room with fire, setting fire to the dry furnishings. Each creature in the room must make a DC 12 Dexterity saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) fire damage on a failed save, or half as much damage on a successful one.
 
 The fire doesn't attack. On its first turn, if it has not been reduced to 0 hit points, it speaks:
 
@@ -259,7 +259,7 @@ If the beacon has not been lit (see areas Q16 and Q53), add:
 
 The figures are three [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenants]] clad in tattered chain mail that affords the same protection as leather armor. Each revenant wields a longsword. If the beacon is lit, the revenants are cleansed of their hatred and laid to rest, and the characters find three armored corpses with longswords lying on the floor in front of the altar.
 
-The revenants, if still active, are blinded by their hate and attack the characters on sight, seeking to drive them out of Argynvostholt. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing `dice:2d10+4|noform|avg|text(15)` (`2d10 + 4`) slashing damage on a hit.
+The revenants, if still active, are blinded by their hate and attack the characters on sight, seeking to drive them out of Argynvostholt. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing `dice:2d10+4|noform|noparens|avg|text(15)` (`2d10 + 4`) slashing damage on a hit.
 
 Characters who study the room's iconography and orientation (the fact that it draws light from the east) can determine, with a successful DC 10 Intelligence ([[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]) check, that the chapel is dedicated to a god of the dawn. Anyone familiar with Barovian religion can conclude that the god in question is the Morninglord.
 
@@ -570,7 +570,7 @@ If the beacon in area Q53 has been lit, the spirits of these revenants are laid 
 > The corpses tilt their heads in your direction. One of them growls, "Why do you the living disturb the dead?"
 ^486
 
-The skeletal figures are five [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenants]]. All five are lawful evil. They are awaiting orders from Vladimir (area Q36) and fight only in self-defense. The revenants wear broken chainmail that affords as much protection as leather armor, and they wield longswords. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing `dice:2d10+4|noform|avg|text(15)` (`2d10 + 4`) slashing damage on a hit.
+The skeletal figures are five [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenants]]. All five are lawful evil. They are awaiting orders from Vladimir (area Q36) and fight only in self-defense. The revenants wear broken chainmail that affords as much protection as leather armor, and they wield longswords. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing `dice:2d10+4|noform|noparens|avg|text(15)` (`2d10 + 4`) slashing damage on a hit.
 
 One of the revenants, [[4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md\|Sir Godfrey Gwilym]], is a spellcaster with a challenge rating of 6 (2,300 XP) and the following additional feature:
 
@@ -778,7 +778,7 @@ These turret rooftops are 80 feet above ground level. The spiral stairs descend 
 > 
 > **Multiattack.** The phantom warrior makes two attacks with its spectral longsword or spectral longbow.
 > 
-> **Spectral Longbow.** *Ranged Weapon Attack:* +2 to hit, range 150/600 ft., one target. Hit: `dice:1d8|noform|avg|text(4)` (`1d8`) force damage.
+> **Spectral Longbow.** *Ranged Weapon Attack:* +2 to hit, range 150/600 ft., one target. Hit: `dice:1d8|noform|noparens|avg|text(4)` (`d8`) force damage.
 ^4ae
 
 ### Q53. Beacon of Argynvostholt

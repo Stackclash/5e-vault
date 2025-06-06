@@ -8,6 +8,7 @@ tags:
 aliases:
   - Cook's Utensils
 cost: 100
+weight: 8
 ---
 # Cook's Utensils
 *Artisan's tools*  

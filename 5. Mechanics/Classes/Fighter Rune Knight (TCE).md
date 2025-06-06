@@ -8,7 +8,7 @@ aliases:
   - Rune Knight
 ---
 # Rune Knight
-*[[Fighter.md\|Fighter]]: Martial Archetype*  
+*[[.nullFighter.md\|Fighter]]: Martial Archetype*  
 *Source: Tasha's Cauldron of Everything p. 44*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Rune%20Knight%20(Level%203)'>Rune Knight</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Rune Knight (Level 3)' class='internal-link'>Rune Knight</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Runic%20Shield%20(Level%207)'>Runic Shield</a>, <a href='#Additional%20Rune%20Known%20(Level%207)'>Additional Rune Known</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Runic Shield (Level 7)' class='internal-link'>Runic Shield</a>, <a href='#Additional Rune Known (Level 7)' class='internal-link'>Additional Rune Known</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Great%20Stature%20(Level%2010)'>Great Stature</a>, <a href='#Additional%20Rune%20Known%20(Level%2010)'>Additional Rune Known</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Great Stature (Level 10)' class='internal-link'>Great Stature</a>, <a href='#Additional Rune Known (Level 10)' class='internal-link'>Additional Rune Known</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Master%20of%20Runes%20(Level%2015)'>Master of Runes</a>, <a href='#Additional%20Rune%20Known%20(Level%2015)'>Additional Rune Known</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Master of Runes (Level 15)' class='internal-link'>Master of Runes</a>, <a href='#Additional Rune Known (Level 15)' class='internal-link'>Additional Rune Known</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Runic%20Juggernaut%20(Level%2018)'>Runic Juggernaut</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Runic Juggernaut (Level 18)' class='internal-link'>Runic Juggernaut</a></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -82,7 +83,7 @@ You have learned how to imbue yourself with the might of giants. As a bonus acti
 
 - If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.  
 - You have advantage on Strength checks and Strength saving throws.  
-- Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra `dice:1d6|noform|avg` (`1d6`) damage to a target on a hit.  
+- Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra `dice:1d6|noform|noparens|avg` (`d6`) damage to a target on a hit.  
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
 
@@ -90,7 +91,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 *7th-level Rune Knight feature*
 
-You learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack roll, you can use your reaction to force the attacker to reroll the `dice:d20|noform|avg` (`d20`) and use the new roll.
+You learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack roll, you can use your reaction to force the attacker to reroll the `dice:d20|noform|noparens|avg` (`d20`) and use the new roll.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -104,9 +105,9 @@ You learn an additional Rune.
 
 *10th-level Rune Knight feature*
 
-The magic of your runes permanently alters you. When you gain this feature, roll `dice:3d4|noform|avg` (`3d4`). You grow a number of inches in height equal to the roll.
+The magic of your runes permanently alters you. When you gain this feature, roll `dice:3d4|noform|noparens|avg` (`3d4`). You grow a number of inches in height equal to the roll.
 
-Moreover, the extra damage you deal with your Giant's Might feature increases to `dice:1d8|noform|avg` (`1d8`).
+Moreover, the extra damage you deal with your Giant's Might feature increases to `dice:1d8|noform|noparens|avg` (`d8`).
 
 ### Additional Rune Known (Level 10)
 
@@ -130,7 +131,7 @@ You learn an additional Rune.
 
 *18th-level Rune Knight feature*
 
-You learn how to amplify your rune-powered transformation. As a result, the extra damage you deal with the Giant's Might feature increases to `dice:1d10|noform|avg` (`1d10`). Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.
+You learn how to amplify your rune-powered transformation. As a result, the extra damage you deal with the Giant's Might feature increases to `dice:1d10|noform|noparens|avg` (`d10`). Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.
 
 ## Optional Features
 

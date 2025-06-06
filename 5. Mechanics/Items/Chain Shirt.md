@@ -9,6 +9,7 @@ aliases:
   - Chain Shirt
 cost: 5000
 armorClass: 13 + Dex modifier (max of +2)
+weight: 20
 ---
 # Chain Shirt
 *Medium armor*  

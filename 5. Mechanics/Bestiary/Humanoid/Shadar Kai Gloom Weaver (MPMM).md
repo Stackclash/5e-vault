@@ -15,7 +15,7 @@ tags:
 aliases:
   - Shadar-kai Gloom Weaver
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Shadar Kai Gloom Weaver (MPMM).md|Shadar-kai Gloom Weaver]]
+# [[5. Mechanics\Bestiary\Humanoid\Shadar Kai Gloom Weaver (MPMM).md|Shadar-kai Gloom Weaver]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 224*
 
 Although they're formidable warriors, gloom weavers are often content to hide in the shadows, watching as their very presence affects their victims. Their bleak energy weighs down the heart, causing those nearby to feel the approach of death. If detected, gloom weavers use their shadow magic to reduce enemies to ghastly corpses.
@@ -45,57 +45,58 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "ac": !!int "14"
 "hp": !!int "104"
 "hit_dice": "16d8 + 32"
+"modifier": !!int "4"
 "stats":
-- !!int "11"
-- !!int "18"
-- !!int "14"
-- !!int "15"
-- !!int "12"
-- !!int "18"
+  - !!int "11"
+  - !!int "18"
+  - !!int "14"
+  - !!int "15"
+  - !!int "12"
+  - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Dexterity": !!int "8"
-  "Constitution": !!int "6"
+  - "dexterity": "+8"
+  - "constitution": "+6"
 "damage_immunities": "necrotic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Elvish"
 "cr": "9"
 "traits":
-- "desc": "The shadar-kai casts one of the following spells, requiring no material\
-    \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-    \nAt will: [[5. Mechanics/Spells/Arcane Eye.md|arcane eye]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
-    \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n1/day each: [[5. Mechanics/Spells/Arcane Gate.md|arcane\
-    \ gate]], [[5. Mechanics/Spells/Bane.md|bane]],\
-    \ [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
-    \ [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Major Image.md|major image]],\
-    \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
-  "name": "Spellcasting"
-- "desc": "Beasts and Humanoids (except elves) have disadvantage on saving throws\
-    \ while within 10 feet of the shadar-kai."
-  "name": "Burden of Time"
-- "desc": "The shadar-kai has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
-    \ and magic can't put it to sleep."
-  "name": "Fey Ancestry"
+  - "desc": "Beasts and Humanoids (except elves) have disadvantage on saving throws\
+      \ while within 10 feet of the shadar-kai."
+    "name": "Burden of Time"
+  - "desc": "The shadar-kai has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+      \ and magic can't put it to sleep."
+    "name": "Fey Ancestry"
 "actions":
-- "desc": "The shadar-kai makes three Shadow Spear attacks. It can replace one attack\
-    \ with a use of Spellcasting."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 30/120,\
-    \ one target. Hit: 7 (1d6 + 4) piercing damage plus 26 (4d12) necrotic damage.\
-    \ Hit or Miss: The spear magically returns to the shadar-kai's hand immediately\
-    \ after a ranged attack."
-  "name": "Shadow Spear"
+  - "desc": "The shadar-kai makes three Shadow Spear attacks. It can replace one attack\
+      \ with a use of Spellcasting."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 30/120,\
+      \ one target. Hit: 7 (1d6 + 4) piercing damage plus 26 (4d12) necrotic damage.\
+      \ Hit or Miss: The spear magically returns to the shadar-kai's hand immediately\
+      \ after a ranged attack."
+    "name": "Shadow Spear"
+  - "desc": "The shadar-kai casts one of the following spells, requiring no material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
+      \nAt will: [[5. Mechanics/Spells/Arcane Eye.md|arcane eye]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
+      \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
+      \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n1/day each:\
+      \ [[5. Mechanics/Spells/Arcane Gate.md|arcane gate]], [[5. Mechanics/Spells/Bane.md|bane]],\
+      \ [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
+      \ [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Major Image.md|major image]],\
+      \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
+    "name": "Spellcasting"
 "reactions":
-- "desc": "When the shadar-kai takes damage, it turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ and teleports, along with any equipment it is wearing or carrying, up to 60\
-    \ feet to an unoccupied space it can see. It remains [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ until the start of its next turn or until it attacks or casts a spell."
-  "name": "Misty Escape (Recharge 6-6)"
+  - "desc": "When the shadar-kai takes damage, it turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ and teleports, along with any equipment it is wearing or carrying, up to 60\
+      \ feet to an unoccupied space it can see. It remains [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ until the start of its next turn or until it attacks or casts a spell."
+    "name": "Misty Escape (Recharge 6-6)"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Humanoid/token/shadar-kai-gloom-weaver-mpmm.webp"
 ```
 ^statblock

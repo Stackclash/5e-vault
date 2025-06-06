@@ -14,21 +14,39 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/the-shapechanger
   - spell/subclass/trickery-domain
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Cleric (Trickery Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Shapechanger)
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, a caterpillar cocoon'
+level: 4
+ritual: false
+time: 1 Action
+duration: Up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Polymorph
+range: 60 feet
+material: A caterpillar cocoon.
+save:
+  type: WIS
+  success: none
+concentration: true
 ---
 # Polymorph
 *4th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
-- **Components:** V, S, a caterpillar cocoon
+- **Components:** V, S, M (a caterpillar cocoon)
 - **Duration:** Concentration, up to 1 hour
 
 This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 hit points.
@@ -41,6 +59,6 @@ The creature is limited in the actions it can perform by the nature of its new f
 
 The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Warlock The Shapechanger (GRIFFONSSADDLEBAG4)\|Warlock (The Shapechanger)]]; [[List Spells Classes Cleric Trickery Domain\|Cleric (Trickery Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Warlock (The Shapechanger)](compendium/lists/list-spells-classes-the-shapechanger-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4")
 
 *Source: Player's Handbook p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

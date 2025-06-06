@@ -8,6 +8,7 @@ tags:
 aliases:
   - Cart
 cost: 1500
+weight: 200
 ---
 # Cart
 *Vehicle (land)*  

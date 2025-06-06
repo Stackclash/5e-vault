@@ -8,6 +8,7 @@ tags:
 aliases:
   - Sledgehammer
 cost: 200
+weight: 10
 ---
 # Sledgehammer
 *Adventuring gear*  

@@ -9,6 +9,7 @@ tags:
 aliases:
   - Stinkbug Shield
 armorClass: 2
+weight: 6
 ---
 # Stinkbug Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  

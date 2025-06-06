@@ -9,12 +9,13 @@ tags:
 aliases:
   - Maul
 cost: 1000
-one-hand-damage: 2d6 B
+one-hand-damage: 2d6 bludgeoning
+weight: 10
 ---
 # Maul
 *Weapon*  
 
-- **Damage**: 2d6 B
+- **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Cost**: 10 gp
 - **Weight**: 10.0 lbs.

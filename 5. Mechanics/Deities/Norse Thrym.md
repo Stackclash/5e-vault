@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/norse
   - domain/war
+alignment: Chaotic Evil
+domains: War
+pantheon: Norse
+symbol: White double-bladed axe
 aliases:
   - Thrym
 ---

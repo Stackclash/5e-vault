@@ -9,6 +9,7 @@ tags:
   - item/tier/major
 aliases:
   - Liar's Lyre
+weight: 2
 ---
 # Liar's Lyre
 *Instrument, major, uncommon (requires attunement by a bard)*  

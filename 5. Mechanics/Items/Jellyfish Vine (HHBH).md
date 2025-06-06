@@ -22,6 +22,6 @@ A translucent variety of kelp that can be found in large clumps either floating 
 
 ## Effect:
 
-This herb may be applied to one melee weapon or up to 10 pieces of ammunition. A weapon that has had this herb applied to it is considered magical and deals an additional `dice:1d8|noform|avg` (`1d8`) acid damage upon its first successful hit in a turn. This effect lasts for 1 hour.
+This herb may be applied to one melee weapon or up to 10 pieces of ammunition. A weapon that has had this herb applied to it is considered magical and deals an additional `dice:1d8|noform|noparens|avg` (`d8`) acid damage upon its first successful hit in a turn. This effect lasts for 1 hour.
 
 *Source: Hamund's Herbalism Handbook p. 20*

@@ -8,19 +8,26 @@ tags:
   - spell/level/6th-level
   - spell/school/conjuration
   - spell/subclass/divine-soul
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul)
 school: Conjuration
-time: 10 minute
+level: 6
+ritual: false
+time: 10 minutes
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Planar Ally
+range: 60 feet
 ---
 # Planar Ally
 *6th-level, Conjuration*  
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
@@ -37,6 +44,6 @@ After the creature completes the task, or when the agreed-upon duration of servi
 
 A creature enlisted to join your group counts as a member of it, receiving a full share of experience points awarded.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 265. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

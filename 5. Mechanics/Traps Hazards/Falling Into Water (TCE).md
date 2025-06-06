@@ -4,6 +4,7 @@ cssclasses: json5e-hazard
 tags:
   - compendium/src/5e/tce
   - hazard/wld
+hazardType: Wilderness Hazard
 aliases:
   - Falling into Water
 ---

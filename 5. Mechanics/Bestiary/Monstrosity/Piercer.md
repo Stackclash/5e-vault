@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: underdark
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Piercer
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Piercer.md|Piercer]]
+# [[5. Mechanics\Bestiary\Monstrosity\Piercer.md|Piercer]]
 *Source: Monster Manual p. 252*
 
 Clinging to the ceilings of caverns and large subterranean passages, piercers blend in perfectly with natural rock, dropping in silence to impale unsuspecting foes on the ground below.
@@ -36,33 +36,35 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
 "ac_class": "natural armor"
 "hp": !!int "22"
 "hit_dice": "3d8 + 9"
+"modifier": !!int "1"
 "stats":
-- !!int "10"
-- !!int "13"
-- !!int "16"
-- !!int "1"
-- !!int "7"
-- !!int "3"
+  - !!int "10"
+  - !!int "13"
+  - !!int "16"
+  - !!int "1"
+  - !!int "7"
+  - !!int "3"
 "speed": "5 ft., climb 5 ft."
 "skillsaves":
-  "Stealth": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+5"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1/2"
 "traits":
-- "desc": "While the piercer remains motionless on the ceiling, it is indistinguishable\
-    \ from a normal stalactite."
-  "name": "False Appearance"
-- "desc": "The piercer can climb difficult surfaces, including upside down on ceilings,\
-    \ without needing to make an ability check."
-  "name": "Spider Climb"
+  - "desc": "While the piercer remains motionless on the ceiling, it is indistinguishable\
+      \ from a normal stalactite."
+    "name": "False Appearance"
+  - "desc": "The piercer can climb difficult surfaces, including upside down on ceilings,\
+      \ without needing to make an ability check."
+    "name": "Spider Climb"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, one creature directly underneath the\
-    \ piercer. Hit: 3 (1d6) piercing damage per 10 feet fallen, up to 21 (6d6).\
-    \ Miss: The piercer takes half the normal falling damage for the distance fallen."
-  "name": "Drop"
+  - "desc": "Melee Weapon Attack: +3 to hit, one creature directly underneath the\
+      \ piercer. Hit: 3 (d6) piercing damage per 10 feet fallen, up to 21 (6d6).\
+      \ Miss: The piercer takes half the normal falling damage for the distance fallen."
+    "name": "Drop"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/piercer.webp"
 ```
 ^statblock

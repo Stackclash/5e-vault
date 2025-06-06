@@ -44,7 +44,7 @@ Whenever you use a spell or feature that allows you to target a creature and inf
 
 While you have a creature [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by you, you may use your bonus action to force them to make a saving throw against the save DC of the amulet. On a failure, you may impose one of the following effects:
 
-- The target must roll on [[4. World Almanac/NPCs/Grazzt (MPMM).md\|the Madness of Graz'zt table]]* ^[[/5. Mechanics/Rules/Variant Rules/Madness.md\|See the info tab] and suffer the resulting flaw. This flaw persists until cured as outlined in the [madness]]  
+- The target must roll on [[4. World Almanac/NPCs/Grazzt (MPMM).md\|the Madness of Graz'zt table]]* ^[[/5. Mechanics/Rules/Variant Rules/Madness.md\|See the info tab] and suffer the resulting flaw. This flaw persists until cured as outlined in the [Dungeon Master's Guide section on madness.]]  
 - The target must use its reaction to move up to its speed in a direction you choose.  
 - The target enters a trance-like state and drops their guard. Until the start of your next turn, attack rolls against that target are made at advantage.  
 

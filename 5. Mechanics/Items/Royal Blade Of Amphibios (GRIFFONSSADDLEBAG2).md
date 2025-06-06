@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Royal Blade of Amphibios
-one-hand-damage: 1d8 P
+one-hand-damage: 1d8 piercing
+weight: 2
 ---
 # Royal Blade of Amphibios
 *Weapon ([[5. Mechanics/Items/Rapier.md\|rapier]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Royal-Blade-of-Amphibios.webp#right)  
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
 

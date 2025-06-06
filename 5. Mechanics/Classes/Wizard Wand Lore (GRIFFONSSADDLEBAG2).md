@@ -8,7 +8,7 @@ aliases:
   - Wand Lore
 ---
 # Wand Lore
-*[[Wizard.md\|Wizard]]: Arcane Tradition*  
+*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
 *Source: The Griffon's Saddlebag, Book 2 p. 228*  
 
 > [!tldr] Class and Feature Progression
@@ -19,19 +19,19 @@ aliases:
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Wand%20Lore%20(Level%202)'>Wand Lore</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Wand Lore (Level 2)' class='internal-link'>Wand Lore</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Arcane%20Battery%20(Level%206)'>Arcane Battery</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Arcane Battery (Level 6)' class='internal-link'>Arcane Battery</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Imbue%20Minor%20Wand%20(Level%2010)'>Imbue Minor Wand</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Imbue Minor Wand (Level 10)' class='internal-link'>Imbue Minor Wand</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Manifest%20Charges%20(Level%2014)'>Manifest Charges</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Manifest Charges (Level 14)' class='internal-link'>Manifest Charges</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -54,7 +55,7 @@ When you choose this tradition at 2nd level, you create a special wand called a 
 
 Your core wand gains power each time you use it to cast a spell. This power is represented by core charges. The wand can have up to 7 core charges at a time, and whenever you finish a long rest, the number of core charges in the wand resets to 1. Whenever you expend a spell slot to cast a spell of 1st level or higher while holding your wand, it gains up to a number of core charges equal to half the spell's level (minimum of 1). You can expend these core charges in the following ways:
 
-- Whenever you make an attack roll or saving throw, you can expend any number of core charges to gain a bonus to the roll equal to the number of core charges spent. You can wait until after you roll the `dice:d20|noform|avg` (`d20`), but must decide before the GM says whether the roll succeeds or fails.  
+- Whenever you make an attack roll or saving throw, you can expend any number of core charges to gain a bonus to the roll equal to the number of core charges spent. You can wait until after you roll the `dice:d20|noform|noparens|avg` (`d20`), but must decide before the GM says whether the roll succeeds or fails.  
 - Whenever you are hit by an attack, you can expend any number of core charges from your wand as a reaction to gain a bonus to AC against that attack equal to the number of core charges spent.  
 
 ### Wand Savant (Level 2)
@@ -77,7 +78,7 @@ The wand has a number of charges equal to your Intelligence modifier (minimum of
 
 When you reach 14th level, you can convert the core charges within your wand into raw, arcane energy. By manipulating this energy, you can use the wand's core charges in the following new ways:
 
-- As a bonus action, you can expend 1 or more of the wand's core charges to create a number of motes of magical force equal to the core charges spent. Each mote streaks toward a different target that you can see within 60 feet of you, dealing force damage to each target equal to `dice:1d4|noform|avg` (`1d4`) + your Intelligence modifier.  
+- As a bonus action, you can expend 1 or more of the wand's core charges to create a number of motes of magical force equal to the core charges spent. Each mote streaks toward a different target that you can see within 60 feet of you, dealing force damage to each target equal to `dice:1d4|noform|noparens|avg` (`d4`) + your Intelligence modifier.  
 - When you or another creature that you can see within 30 feet of you takes damage, you can use your reaction to expend 1 or more of the wand's core charges to create a magical barrier, reducing the damage taken by an amount equal to three times the number of core charges spent.  
 
-In addition, you have gained a supreme mastery and understanding of wands. If you expend the last charge of a staff or wand, you needn't roll a `dice:d20|noform|avg` (`d20`), even if it says to. Further, the gold and time you must spend to craft a magic wand is halved.
+In addition, you have gained a supreme mastery and understanding of wands. If you expend the last charge of a staff or wand, you needn't roll a `dice:d20|noform|noparens|avg` (`d20`), even if it says to. Further, the gold and time you must spend to craft a magic wand is halved.

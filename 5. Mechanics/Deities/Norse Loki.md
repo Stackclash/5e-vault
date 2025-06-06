@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/norse
   - domain/trickery
+alignment: Chaotic Evil
+domains: Trickery
+pantheon: Norse
+symbol: Flame
 aliases:
   - Loki
 ---

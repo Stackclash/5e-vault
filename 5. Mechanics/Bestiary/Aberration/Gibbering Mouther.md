@@ -14,7 +14,7 @@ tags:
 aliases:
   - Gibbering Mouther
 ---
-# [[5. Mechanics/Bestiary/Aberration/Gibbering Mouther.md|Gibbering Mouther]]
+# [[5. Mechanics\Bestiary\Aberration\Gibbering Mouther.md|Gibbering Mouther]]
 *Source: Monster Manual p. 157, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Of all the terrors created by foul sorcery, gibbering mouthers are among the most wicked and depraved. This creature is the composite eyes, mouths, and liquefied matter of its former victims. Driven to insanity by the destruction of their bodies and absorption into the mouther, those victims gibber incoherent madness, forced to consume everything in reach.
@@ -41,53 +41,54 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
 "ac": !!int "9"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
+"modifier": !!int "-1"
 "stats":
-- !!int "10"
-- !!int "8"
-- !!int "16"
-- !!int "3"
-- !!int "10"
-- !!int "6"
+  - !!int "10"
+  - !!int "8"
+  - !!int "16"
+  - !!int "3"
+  - !!int "10"
+  - !!int "6"
 "speed": "10 ft., swim 10 ft."
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The ground in a 10-foot radius around the mouther is doughlike difficult\
-    \ terrain. Each creature that starts its turn in that area must succeed on a DC\
-    \ 10 Strength saving throw or have its speed reduced to 0 until the start of its\
-    \ next turn."
-  "name": "Aberrant Ground"
-- "desc": "The mouther babbles incoherently while it can see any creature and isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]. Each creature\
-    \ that starts its turn within 20 feet of the mouther and can hear the gibbering\
-    \ must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't\
-    \ take reactions until the start of its next turn and rolls a d8 to determine\
-    \ what it does during its turn. On a 1 to 4, the creature does nothing. On a 5\
-    \ or 6, the creature takes no action or bonus action and uses all its movement\
-    \ to move in a randomly determined direction. On a 7 or 8, the creature makes\
-    \ a melee attack against a randomly determined creature within its reach or does\
-    \ nothing if it can't make such an attack."
-  "name": "Gibbering"
+  - "desc": "The ground in a 10-foot radius around the mouther is doughlike difficult\
+      \ terrain. Each creature that starts its turn in that area must succeed on a\
+      \ DC 10 Strength saving throw or have its speed reduced to 0 until the start\
+      \ of its next turn."
+    "name": "Aberrant Ground"
+  - "desc": "The mouther babbles incoherently while it can see any creature and isn't\
+      \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]. Each creature\
+      \ that starts its turn within 20 feet of the mouther and can hear the gibbering\
+      \ must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't\
+      \ take reactions until the start of its next turn and rolls a d8 to determine\
+      \ what it does during its turn. On a 1 to 4, the creature does nothing. On a\
+      \ 5 or 6, the creature takes no action or bonus action and uses all its movement\
+      \ to move in a randomly determined direction. On a 7 or 8, the creature makes\
+      \ a melee attack against a randomly determined creature within its reach or\
+      \ does nothing if it can't make such an attack."
+    "name": "Gibbering"
 "actions":
-- "desc": "The gibbering mouther makes one bite attack and, if it can, uses its Blinding\
-    \ Spittle."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 17\
-    \ (5d6) piercing damage. If the target is Medium or smaller, it must succeed on\
-    \ a DC 10 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
-    \ If the target is killed by this damage, it is absorbed into the mouther."
-  "name": "Bites"
-- "desc": "The mouther spits a chemical glob at a point it can see within 15 feet\
-    \ of it. The glob explodes in a blinding flash of light on impact. Each creature\
-    \ within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or\
-    \ be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] until the end of the mouther's\
-    \ next turn."
-  "name": "Blinding Spittle (Recharge 5-6)"
+  - "desc": "The gibbering mouther makes one bite attack and, if it can, uses its\
+      \ Blinding Spittle."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 17\
+      \ (5d6) piercing damage. If the target is Medium or smaller, it must succeed\
+      \ on a DC 10 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+      \ If the target is killed by this damage, it is absorbed into the mouther."
+    "name": "Bites"
+  - "desc": "The mouther spits a chemical glob at a point it can see within 15 feet\
+      \ of it. The glob explodes in a blinding flash of light on impact. Each creature\
+      \ within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw\
+      \ or be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] until the end of\
+      \ the mouther's next turn."
+    "name": "Blinding Spittle (Recharge 5-6)"
 "source":
-- "MM"
-- "TCE"
+  - "MM"
+  - "TCE"
 "image": "5. Mechanics/Bestiary/Aberration/token/gibbering-mouther.webp"
 ```
 ^statblock

@@ -10,4 +10,4 @@ aliases:
 
 ## 2nd Level
 
-- [[Misty Step \|"PHB"]]
+- [[5. Mechanics/Spells/Misty Step.md \|"PHB"]]

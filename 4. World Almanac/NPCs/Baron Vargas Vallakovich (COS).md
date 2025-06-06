@@ -10,7 +10,7 @@ tags:
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/baron-vargas-vallakovich.webp
+  - 4. World Almanac\NPCs\img\baron-vargas-vallakovich.webp
 relationships: []
 aliases:
   - Baron Vargas Vallakovich
@@ -122,31 +122,35 @@ actions:
 "ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "9"
 "hit_dice": "2d8"
+"modifier": !!int "1"
 "stats":
-- !!int "11"
-- !!int "12"
-- !!int "11"
-- !!int "12"
-- !!int "14"
-- !!int "16"
+  - !!int "11"
+  - !!int "12"
+  - !!int "11"
+  - !!int "12"
+  - !!int "14"
+  - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "5"
-  "Insight": !!int "4"
-  "Persuasion": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
+    "desc": "+5"
 "senses": "passive Perception 12"
 "languages": "any two languages"
 "cr": "1/8"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
-    \ + 1) piercing damage."
-  "name": "Rapier"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
+      \ + 1) piercing damage."
+    "name": "Rapier"
 "reactions":
-- "desc": "Vargas adds 2 to its AC against one melee attack that would hit it. To\
-    \ do so, Vargas must see the attacker and be wielding a melee weapon."
-  "name": "Parry"
+  - "desc": "Vargas adds 2 to its AC against one melee attack that would hit it. To\
+      \ do so, Vargas must see the attacker and be wielding a melee weapon."
+    "name": "Parry"
 "source":
-- "CoS"
+  - "CoS"
 "image": "4. World Almanac/NPCs/token/baron-vargas-vallakovich-cos.webp"
 ```
 ^statblock

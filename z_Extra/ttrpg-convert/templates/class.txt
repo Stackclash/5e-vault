@@ -7,7 +7,12 @@ tags:
 - {tag}
 {/for}
 {/if}
-aliases: ["{resource.name}"]
+{#if resource.hitDice }
+hitdice: {resource.hitDice}
+hitRollAverage: {resource.hitRollAverage}
+{/if}
+aliases: 
+- {resource.name}
 ---
 # {resource.name}
 *Source: {resource.source}*  

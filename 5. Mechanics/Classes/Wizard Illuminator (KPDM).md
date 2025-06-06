@@ -8,7 +8,7 @@ aliases:
   - Illuminator
 ---
 # Illuminator
-*[[Wizard.md\|Wizard]]: Arcane Tradition*  
+*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 227*  
 
 > [!tldr] Class and Feature Progression
@@ -19,19 +19,19 @@ aliases:
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Illuminator%20(Level%202)'>Illuminator</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Illuminator (Level 2)' class='internal-link'>Illuminator</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Master%20of%20the%20Radiant%20Heavens%20(Level%206)'>Master of the Radiant Heavens</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Master of the Radiant Heavens (Level 6)' class='internal-link'>Master of the Radiant Heavens</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Illusions%20of%20Permanence%20(Level%2010)'>Illusions of Permanence</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Illusions of Permanence (Level 10)' class='internal-link'>Illusions of Permanence</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Comprehension%20of%20the%20Starry%20Sky%20(Level%2014)'>Comprehension of the Starry Sky</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Comprehension of the Starry Sky (Level 14)' class='internal-link'>Comprehension of the Starry Sky</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -54,7 +55,7 @@ This branch of magic is popular with those who delve Underground, because its sp
 
 ***How to Start:*** If you're a wizard who wants to become an illuminator, you make that decision upon reaching 2nd level, when you are also entitled to choose an arcane tradition If you decide to follow the path of the illuminator exclusively, you can forego the selection of an arcane tradition and gain the features of the illuminator specialty instead.
 
-You can also pursue the illuminator specialty in conjunction with one of the standard arcane traditions. If you choose to do this, you gain the Savant feature of your chosen school in addition to [Illumination Magic Savant](compendium/classes/wizard-illuminator-kpdm.md#Illumination%20Magic%20Savant%20(Level%202)). Also at 2nd level, you choose whether to gain [Omen of Warning](compendium/classes/wizard-illuminator-kpdm.md#Omen%20of%20Warning%20(Level%202)) or the 2nd-level feature of your chosen school. Thereafter, at 6th, 10th, and 14th level, you choose between the lowest-level features still available. For instance, a [[5. Mechanics/Classes/Wizard School Of Divination.md\|diviner]] might select [Portent](compendium/classes/wizard-school-of-divination.md#Portent%20(Level%202)) at 2nd level and [Omen of Warning](compendium/classes/wizard-illuminator-kpdm.md#Omen%20of%20Warning%20(Level%202)) at 6th level, followed by either [Expert Divination](compendium/classes/wizard-school-of-divination.md#Expert%20Divination%20(Level%206)) or [Master of the Radiant Heavens](compendium/classes/wizard-illuminator-kpdm.md#Master%20of%20the%20Radiant%20Heavens%20(Level%206)) at 10th level.
+You can also pursue the illuminator specialty in conjunction with one of the standard arcane traditions. If you choose to do this, you gain the Savant feature of your chosen school in addition to [Illumination Magic Savant](compendium/classes/wizard-illuminator-kpdm.md#Illumination%20Magic%20Savant%20(Level%202)). Also at 2nd level, you choose whether to gain [Omen of Warning](compendium/classes/wizard-illuminator-kpdm.md#Omen%20of%20Warning%20(Level%202)) or the 2nd-level feature of your chosen school. Thereafter, at 6th, 10th, and 14th level, you choose between the lowest-level features still available. For instance, a [[5. Mechanics/Classes/Wizard.md\|diviner]] might select [Portent](compendium/classes/wizard-school-of-divination.md#Portent%20(Level%202)) at 2nd level and [Omen of Warning](compendium/classes/wizard-illuminator-kpdm.md#Omen%20of%20Warning%20(Level%202)) at 6th level, followed by either [Expert Divination](compendium/classes/wizard-school-of-divination.md#Expert%20Divination%20(Level%206)) or [Master of the Radiant Heavens](compendium/classes/wizard-illuminator-kpdm.md#Master%20of%20the%20Radiant%20Heavens%20(Level%206)) at 10th level.
 
 ### Illumination Magic Savant (Level 2)
 

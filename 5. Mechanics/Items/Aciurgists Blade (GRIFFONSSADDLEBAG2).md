@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Aciurgist's Blade
-one-hand-damage: 1d10 S
+one-hand-damage: 1d10 slashing
+weight: 6
 ---
 # Aciurgist's Blade
 *Weapon ([[5. Mechanics/Items/Glaive.md\|glaive]]), major, very rare (requires attunement by a paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Aciurgists-Blade.webp#right)  
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
@@ -26,7 +27,7 @@ Once on each of your turns when you expend a spell slot to use your Divine Smite
 
 - The target has disadvantage on the next attack roll it makes.  
 - The target's speed is reduced by 10 feet.  
-- The next time the target takes damage, it takes an additional `dice:1d8|noform|avg` (`1d8`) necrotic or radiant damage (your choice).  
+- The next time the target takes damage, it takes an additional `dice:1d8|noform|noparens|avg` (`d8`) necrotic or radiant damage (your choice).  
 - The next attack made against the target is made with advantage.  
 - The target can't regain hit points.  
 

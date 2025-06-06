@@ -28,7 +28,7 @@ You can use a bonus action to change your rendering's artistic style and size, d
 
 While merged with the surface, you can see and hear what occurs outside it using your normal senses. You remain aware of the passage of time and can cast spells on yourself while merged in the surface.
 
-Minor physical damage to the surface doesn't harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals `dice:6d6|noform|avg` (`6d6`) bludgeoning damage to you. The surface's complete destruction (or transmutation into a different substance) expels you and deals 50 bludgeoning damage to you. If expelled, you fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] in the unoccupied space closest to where you were on the surface.
+Minor physical damage to the surface doesn't harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals `dice:6d6|noform|noparens|avg` (`6d6`) bludgeoning damage to you. The surface's complete destruction (or transmutation into a different substance) expels you and deals 50 bludgeoning damage to you. If expelled, you fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] in the unoccupied space closest to where you were on the surface.
 
 You can remain in this form for up to 1 hour, all at once or in several shorter bursts, each one using a minimum of 5 minutes from the duration. You can end the effect early using a bonus action. When the effect ends, you reappear in the nearest unoccupied space to your location on the surface. The apron regains 5 minutes of melding capability for every 1 hour it's not in use.
 

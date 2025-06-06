@@ -113,7 +113,7 @@ _Source: Player's Handbook p. 146. Available in the <span title='Systems Referen
 
 - **Duration**: 1 action
 
-The time it takes to don or doff armor [[5. Mechanics/Tables/Getting Into And Out Of Armor Donning And Doffing Armor.md\|depends on the armor's category]]. A [[5. Mechanics/Items/Shield.md\|shield]] can be donned or doffed as an action.
+The time it takes to don or doff armor [[5. Mechanics/Tables/Getting Into And Out Of Armor Donning And Doffing Armor (PHB).md\|depends on the armor's category]]. A [[5. Mechanics/Items/Shield.md\|shield]] can be donned or doffed as an action.
 
 ## End Concentration
 _Source: Player's Handbook p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -319,7 +319,7 @@ _Source: Player's Handbook p. 197. Available in the <span title='Systems Referen
 
 You can use your action to administer first aid to an [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] creature and attempt to stabilize it, which requires a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]) check.
 
-A stable creature doesn't make death saving throws, even though it has 0 hit points, but it does remain [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after `dice:1d4|noform|avg` (`1d4`) hours.
+A stable creature doesn't make death saving throws, even though it has 0 hit points, but it does remain [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after `dice:1d4|noform|noparens|avg` (`d4`) hours.
 
 ## Tumble
 _Source: Dungeon Master's Guide p. 272_

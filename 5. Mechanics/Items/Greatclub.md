@@ -9,12 +9,13 @@ tags:
 aliases:
   - Greatclub
 cost: 20
-one-hand-damage: 1d8 B
+one-hand-damage: 1d8 bludgeoning
+weight: 10
 ---
 # Greatclub
 *Weapon*  
 
-- **Damage**: 1d8 B
+- **Damage**: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Cost**: 2 sp
 - **Weight**: 10.0 lbs.

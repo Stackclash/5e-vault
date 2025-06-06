@@ -9,6 +9,7 @@ tags:
 aliases:
   - Doublet of Psionic Protection
 armorClass: 12 + Dex modifier
+weight: 13
 ---
 # Doublet of Psionic Protection
 *Light armor ([[5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), very rare (requires attunement)*  

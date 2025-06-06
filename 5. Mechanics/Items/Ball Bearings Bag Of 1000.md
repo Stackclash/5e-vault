@@ -8,6 +8,7 @@ tags:
 aliases:
   - 'Ball Bearings (bag of 1,000)'
 cost: 100
+weight: 2
 ---
 # Ball Bearings (bag of 1,000)
 *Adventuring gear*  

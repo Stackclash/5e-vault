@@ -11,21 +11,32 @@ tags:
   - spell/school/enchantment
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-  - spell/subclass/oathbreaker-dmg
+  - spell/subclass/oathbreaker
   - spell/subrace/tiefling-baalzebul
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Enchantment
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 2
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Crown of Madness
+concentration: true
 ---
 # Crown of Madness
 *2nd-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -36,6 +47,6 @@ The [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] target must use its a
 
 On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Paladin Oathbreaker (DMG)\|Paladin (Oathbreaker (DMG))]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Paladin (Oathbreaker)](compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Player's Handbook p. 229*

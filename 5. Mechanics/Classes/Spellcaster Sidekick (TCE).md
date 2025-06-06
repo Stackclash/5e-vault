@@ -17,28 +17,29 @@ aliases:
 > <tr><th colspan='10'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Cantrips Known</th><th class="value">Spells Known</th><th class="value">1st</th><th class="value">2nd</th><th class="value">3rd</th><th class="value">4th</th><th class="value">5th</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Sidekick%20Class%20(Level%201)'>Sidekick Class</a>, <a href='#Bonus%20Proficiencies%20(Level%201)'>Bonus Proficiencies</a>, <a href='#Spellcasting%20(Level%201)'>Spellcasting</a></td><td class="value">2</td><td class="value">1</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Sidekick Class (Level 1)' class='internal-link'>Sidekick Class</a>, <a href='#Bonus Proficiencies (Level 1)' class='internal-link'>Bonus Proficiencies</a>, <a href='#Spellcasting (Level 1)' class='internal-link'>Spellcasting</a></td><td class="value">2</td><td class="value">1</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td><td class="value">2</td><td class="value">2</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td><td class="value">2</td><td class="value">3</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">3</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">3</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td><td class="value">3</td><td class="value">4</td><td class="value">4</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Potent%20Cantrips%20(Level%206)'>Potent Cantrips</a></td><td class="value">3</td><td class="value">4</td><td class="value">4</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Potent Cantrips (Level 6)' class='internal-link'>Potent Cantrips</a></td><td class="value">3</td><td class="value">4</td><td class="value">4</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td><td class="value">3</td><td class="value">5</td><td class="value">4</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">5</td><td class="value">4</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">5</td><td class="value">4</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td><td class="value">3</td><td class="value">6</td><td class="value">4</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td><td class="value">4</td><td class="value">6</td><td class="value">4</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td><td class="value">4</td><td class="value">7</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">7</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">7</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td><td class="value">4</td><td class="value">8</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">1</td><td class="value">⏤</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Empowered%20Spells%20(Level%2014)'>Empowered Spells</a></td><td class="value">4</td><td class="value">8</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">1</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Empowered Spells (Level 14)' class='internal-link'>Empowered Spells</a></td><td class="value">4</td><td class="value">8</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">1</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td><td class="value">4</td><td class="value">9</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">9</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">9</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td><td class="value">4</td><td class="value">10</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">3</td><td class="value">1</td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2018)'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">10</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">3</td><td class="value">1</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 18)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">10</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">3</td><td class="value">1</td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td><td class="value">4</td><td class="value">11</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">3</td><td class="value">2</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Focused%20Casting%20(Level%2020)'>Focused Casting</a></td><td class="value">4</td><td class="value">11</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">3</td><td class="value">2</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Focused Casting (Level 20)' class='internal-link'>Focused Casting</a></td><td class="value">4</td><td class="value">11</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">3</td><td class="value">2</td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 ## Hit Points
 
@@ -50,7 +51,7 @@ aliases:
 
 - **Saving Throws**: One saving throw of your choice: Wisdom, Intelligence, or Charisma.
 - **Armor**: Light armor
-- **Weapons**: All simple weapons if [humanoid](Bonus%20Progression%20(Level%201))
+- **Weapons**: All simple weapons if [humanoid](#Bonus%20Proficiencies%20(Level%201))
 - **Tools**: none
 - **Skills**: Two skills of your choice from the following list: [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], [[/5. Mechanics/Rules/Skills.md#History\|History]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]], [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]], [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]], and [[/5. Mechanics/Rules/Skills.md#Religion\|Religion]].
 
@@ -113,9 +114,9 @@ The sidekick's spellcasting ability for these spells depends on the choice you m
 
 The sidekick uses its spellcasting ability whenever a spell refers to that ability. In addition, it uses its spellcasting ability modifier when setting the saving throw DC for a spell it casts and when making an attack roll with one.
 
-<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Spellcasting modifier</span>
+<span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Spellcasting</span>
 
-<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Spellcasting modifier</span>
+<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Spellcasting</span>
 
 #### Spellcasting Focus
 

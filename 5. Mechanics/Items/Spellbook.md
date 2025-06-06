@@ -8,6 +8,7 @@ tags:
 aliases:
   - Spellbook
 cost: 5000
+weight: 3
 ---
 # Spellbook
 *Adventuring gear*  

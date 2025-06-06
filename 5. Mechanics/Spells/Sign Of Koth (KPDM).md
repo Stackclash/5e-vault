@@ -6,23 +6,29 @@ tags:
   - spell/class/bard
   - spell/level/7th-level
   - spell/school/abjuration
-level: 7th-level
-range: false
+classes:
+  - Bard
 school: Abjuration
+level: 7
+ritual: false
 time: 1 round
 duration: Until dispelled
-components: >-
-  V, S, a platinum dagger and a powdered black pearl worth 500 gp, which the
-  spell consumes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Sign of Koth
+material: >-
+  a platinum dagger and a powdered black pearl worth 500 gp, which the spell
+  consumes
 ---
 # Sign of Koth
 *7th-level, Abjuration*  
 
 - **Casting time:** 1 round
-- **Range:** Self (60-feet radius)
-- **Components:** V, S, a platinum dagger and a powdered black pearl worth 500 gp, which the spell consumes
+- **Range:** Self (60-foot Radius)
+- **Components:** V, S, M (a platinum dagger and a powdered black pearl worth 500 gp, which the spell consumes)
 - **Duration:** Until dispelled
 
 You invoke the twilight citadels of Koth to create a field of magical energy in the shape of a 60-foot-radius, 60-foot-tall cylinder centered on you. The only visible evidence of this field is a black rune that appears on every doorway, window, or other portal inside the area.
@@ -41,6 +47,6 @@ When you cast this spell, you can choose to reverse its magic; doing this will p
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the radius increases by 30 feet for each slot level above 7th.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 340*

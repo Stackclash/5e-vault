@@ -7,6 +7,12 @@ tags:
   - domain/grave
   - domain/knowledge
   - domain/light
+alignment: Chaotic Good
+category: The Seldarine
+domains: 'Grave, Knowledge, Light'
+pantheon: Elven
+province: 'Dreams, death, travel'
+symbol: Full moon under a moonbow
 aliases:
   - Sehanine Moonbow
 ---

@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/celtic
   - domain/knowledge
+alignment: Neutral Good
+domains: Knowledge
+pantheon: Celtic
+symbol: Unfurled scroll
 aliases:
   - Oghma
 ---

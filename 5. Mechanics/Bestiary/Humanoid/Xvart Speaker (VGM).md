@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: 'underdark, hill'
 size: Small
 tags:
@@ -15,12 +15,16 @@ tags:
 aliases:
   - Xvart Speaker
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Xvart Speaker (VGM).md|Xvart Speaker]]
+# [[5. Mechanics\Bestiary\Humanoid\Xvart Speaker (VGM).md|Xvart Speaker]]
 *Source: Volo's Guide to Monsters p. 200*
 
 Xvarts are cruel, cowardly humanoids spawned by a cowardly, renegade demigod. They have blue skin, vivid orange eyes, and receding hairlines, mirroring their creator's appearance. They stand about 3 feet tall.
 
 Xvarts live in remote hills, forests, and caves. Each tribe is led by a speaker, who is usually the brightest one among them. The speaker serves as the tribe's ambassador, and often dons short wooden stilts and heavy robes to look taller and more imperious. The rest of the tribe hunts for food, plundering crops and livestock from nearby farms if the hunt goes poorly. Xvarts aren't much of a threat to civilized locations because they are somewhat fearful of humans, dwarves, and elves.
+
+> [!quote] A quote from Volo  
+> 
+> When things go badly for them, they kidnap whoever's handy and sacrifice them to their craven god. Hmm. I guess they're not so different from a lot of humans, after all.
 
 ## Raxivort's Betrayal
 
@@ -32,19 +36,16 @@ In the face of his imminent destruction, Raxivort hatched a plan. Fleeing to the
 
 Although the initial rush of enemies against him has subsided, Raxivort knows that the planar powers are patient. He remains in hiding, a wretch of a demigod who does little more than wander the planes, spawning ever more xvarts to ensure his continued safety.
 
-When things go badly for them, they kidnap whoever's handy and sacrifice them to their craven god. Hmm. I guess they're not so different from a lot of humans, after all.
-
--Volo
-
-Despite their muddled nature, all xvarts have an unshakable devotion to Raxivort. The desire to please Raxivort weighs heavily on all their decisions. When things aren't going well for them, xvarts naturally assume that Raxivort is angry. To appease their troubled lord, they stage kidnappings. They fashion nets to capture their enemies, which are dragged back to the lair and sacrificed on a makeshift altar. Raxivort can hear their supplications, but he's too afraid to come out of hiding most of the time. Occasionally, he does appear before a tribe of worshipers as a 9-foot-tall xvart carrying an empty sack. In every such instance, Raxivort takes all of the treasure that the tribe has accumulated, stuffs it in his sack, and disappears, leaving nothing behind as compensation.
-
-Xvart Speakers
-
-A xvart tribe has one speaker that serves as its leader. The speaker has the statistics of a normal xvart, except that it has an Intelligence of 13 (+1) and knows one additional language (usually Common or Goblin).
+> [!note] Xvart Speakers
+> 
+> A xvart tribe has one speaker that serves as its leader. The speaker has the statistics of a normal xvart, except that it has an Intelligence of 13 (+1) and knows one additional language (usually Common or Goblin).
+^xvart-speakers
 
 ## Greedy Thugs
 
 Xvarts have all of their creator's flaws and few redeeming qualities. They lack the physical equipment to reproduce, as well as the inclination to do so. They are greedy, conniving, and obsessed with the acquisition of valuables-the more ornate or bizarre, the better. They know they are flawed, and this minor amount of self-awareness only magnifies their other deficiencies . They hate almost any creature they perceive as better than they are, which includes almost anyone, but they lack the courage or wherewithal to act on their hatred most of the time. Their fear has led them to dwell either in gloomy places on the far fringes of civilized lands or in areas neglected or forgotten by mightier creatures. In other words, xvarts usually live in places where normal vermin might flourish.
+
+Despite their muddled nature, all xvarts have an unshakable devotion to Raxivort. The desire to please Raxivort weighs heavily on all their decisions. When things aren't going well for them, xvarts naturally assume that Raxivort is angry. To appease their troubled lord, they stage kidnappings. They fashion nets to capture their enemies, which are dragged back to the lair and sacrificed on a makeshift altar. Raxivort can hear their supplications, but he's too afraid to come out of hiding most of the time. Occasionally, he does appear before a tribe of worshipers as a 9-foot-tall xvart carrying an empty sack. In every such instance, Raxivort takes all of the treasure that the tribe has accumulated, stuffs it in his sack, and disappears, leaving nothing behind as compensation.
 
 ## Vermin Masters
 
@@ -68,39 +69,41 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
 "ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "7"
 "hit_dice": "2d6"
+"modifier": !!int "2"
 "stats":
-- !!int "8"
-- !!int "14"
-- !!int "10"
-- !!int "13"
-- !!int "7"
-- !!int "7"
+  - !!int "8"
+  - !!int "14"
+  - !!int "10"
+  - !!int "13"
+  - !!int "7"
+  - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "senses": "darkvision 30 ft., passive Perception 8"
 "languages": "Abyssal and one additional language (usually Common or Goblin)"
 "cr": "1/8"
 "traits":
-- "desc": "The xvart can take the Disengage action as a bonus action on each of its\
-    \ turns."
-  "name": "Low Cunning"
-- "desc": "The xvart has advantage on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
-    \ checks to shove a creature if at least one of the xvart's allies is within 5\
-    \ feet of the target and the ally isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
-  "name": "Overbearing Pack"
-- "desc": "The xvart can communicate with ordinary bats and rats, as well as giant\
-    \ bats and giant rats."
-  "name": "Raxivort's Tongue"
+  - "desc": "The xvart can take the Disengage action as a bonus action on each of\
+      \ its turns."
+    "name": "Low Cunning"
+  - "desc": "The xvart has advantage on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
+      \ checks to shove a creature if at least one of the xvart's allies is within\
+      \ 5 feet of the target and the ally isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
+    "name": "Overbearing Pack"
+  - "desc": "The xvart can communicate with ordinary bats and rats, as well as giant\
+      \ bats and giant rats."
+    "name": "Raxivort's Tongue"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) piercing damage."
-  "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
-    \ 4 (1d4 + 2) bludgeoning damage."
-  "name": "Sling"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) piercing damage."
+    "name": "Shortsword"
+  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+      \ 4 (1d4 + 2) bludgeoning damage."
+    "name": "Sling"
 "source":
-- "VGM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/xvart-speaker-vgm.webp"
 ```
 ^statblock

@@ -15,6 +15,6 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Venombane-Armor.webp#right)  
 
 
-This armor absorbs poison and allows you to traverse webbed areas more easily. While you're wearing this armor, you can't be caught in webs of any sort and can move through webs as if they were difficult terrain. In addition, when you take poison damage while wearing this armor, you can use your reaction to reduce the damage by `dice:1d8|noform|avg` (`1d8`) + your Constitution modifier.
+This armor absorbs poison and allows you to traverse webbed areas more easily. While you're wearing this armor, you can't be caught in webs of any sort and can move through webs as if they were difficult terrain. In addition, when you take poison damage while wearing this armor, you can use your reaction to reduce the damage by `dice:1d8|noform|noparens|avg` (`d8`) + your Constitution modifier.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 138*

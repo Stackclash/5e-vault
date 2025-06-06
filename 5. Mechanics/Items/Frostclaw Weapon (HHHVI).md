@@ -26,6 +26,6 @@ aliases:
 *Uncommon*  
 
 
-When you hit with this weapon, you may choose to deal an extra `dice:1d6|noform|avg` (`1d6`) cold damage. Once you have used this ability once, it can't be used again until the end of your next short rest.
+When you hit with this weapon, you may choose to deal an extra `dice:1d6|noform|noparens|avg` (`d6`) cold damage. Once you have used this ability once, it can't be used again until the end of your next short rest.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 128*

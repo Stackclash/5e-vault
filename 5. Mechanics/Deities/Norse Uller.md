@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/norse
   - domain/nature
+alignment: Chaotic Neutral
+domains: Nature
+pantheon: Norse
+symbol: Longbow
 aliases:
   - Uller
 ---

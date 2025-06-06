@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[Dancing Lights \|"PHB"]] as cantrip
+- [[5. Mechanics/Spells/Dancing Lights.md \|"PHB"]] as cantrip
 
 ## 1st Level
 
-- [[Faerie Fire \|"PHB"]] as cantrip
+- [[5. Mechanics/Spells/Faerie Fire.md \|"PHB"]] as cantrip
 
 ## 2nd Level
 
-- [[Darkness \|"PHB"]] as cantrip
+- [[5. Mechanics/Spells/Darkness.md \|"PHB"]] as cantrip

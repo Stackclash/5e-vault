@@ -35,6 +35,6 @@ A creature with a string attached to one or more of its legs (or similar limbs) 
 
 Alternatively, you can expend 5 charges to cast the [[5. Mechanics/Spells/Dominate Person.md\|dominate person]] spell (save DC 16) from the wand.
 
-The wand regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the wand becomes nonmagical.
+The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand becomes nonmagical.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 183*

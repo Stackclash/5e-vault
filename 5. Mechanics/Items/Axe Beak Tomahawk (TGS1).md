@@ -9,14 +9,15 @@ tags:
   - item/weapon/simple
 aliases:
   - Axe Beak Tomahawk
-one-hand-damage: 1d6 S
-range: 20/60
+one-hand-damage: 1d6 slashing
+range: 20\60
+weight: 2
 ---
 # Axe Beak Tomahawk
 *Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Axe-Beak-Tomahawk.webp#right)  
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.

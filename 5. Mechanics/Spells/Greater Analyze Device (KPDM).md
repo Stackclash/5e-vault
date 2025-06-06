@@ -10,25 +10,35 @@ tags:
   - spell/school/divination
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Divination
+level: 2
+ritual: false
 time: 1 hour
 duration: Instantaneous
-components: 'V, S, a set of clockworker''s tools'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Greater Analyze Device
+material: a set of clockworker's tools
 ---
 # Greater Analyze Device
 *2nd-level, Divination*  
 
 - **Casting time:** 1 hour
 - **Range:** Touch
-- **Components:** V, S, a set of clockworker's tools
+- **Components:** V, S, M (a set of clockworker's tools)
 - **Duration:** Instantaneous
 
 You discover all mechanical properties, mechanisms, and functions of a single construct, clockwork device, mechanical trap, or magic item, including how to activate or deactivate those functions, if appropriate.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 77*

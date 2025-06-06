@@ -17,6 +17,6 @@ This brass coin is 1 inch in diameter and has a keyhole-shaped hole at its cente
 
 If the door or lock is held shut with arcane lock, that spell is suppressed for 10 minutes, during which time the door or lock can be opened and shut normally.
 
-A keycoin's magic isn't lost after it's been used. Instead, it magically reappears in a random location `dice:1d100|noform|avg` (`1d100`) miles away from you.
+A keycoin's magic isn't lost after it's been used. Instead, it magically reappears in a random location `dice:1d100|noform|noparens|avg` (`d100`) miles away from you.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

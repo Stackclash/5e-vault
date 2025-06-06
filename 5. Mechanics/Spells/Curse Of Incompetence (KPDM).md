@@ -12,24 +12,35 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/divine-soul
   - spell/subclass/eldritch-knight
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul)
+  - Warlock
+  - Wizard
 school: Necromancy
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 3
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Curse of Incompetence
+concentration: true
 ---
 # Curse of Incompetence
 *3rd-level, Necromancy*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-By making mocking gestures toward one creature within range that can see you, you leave the creature incapable of performing at its best. If the target fails on an Intelligence saving throw, roll a `dice:d4|noform|avg` (`d4`) and refer to the following table to determine what the target does on its turn. An affected target repeats the saving throw at the end of each of its turns, ending the effect on itself on a success or applying the result of another roll on the table on a failure.
+By making mocking gestures toward one creature within range that can see you, you leave the creature incapable of performing at its best. If the target fails on an Intelligence saving throw, roll a `dice:d4|noform|noparens|avg` (`d4`) and refer to the following table to determine what the target does on its turn. An affected target repeats the saving throw at the end of each of its turns, ending the effect on itself on a success or applying the result of another roll on the table on a failure.
 
 **Curse of Incompetence**
 
@@ -43,6 +54,6 @@ By making mocking gestures toward one creature within range that can see you, yo
 | 4 | Target charges directly at caster, enraged. |
 ^curse-of-incompetence
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 56*

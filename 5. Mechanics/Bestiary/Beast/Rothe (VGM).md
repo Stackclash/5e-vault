@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: grassland
 size: Large
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Rothé
 ---
-# [[5. Mechanics/Bestiary/Beast/Rothe (VGM).md|Rothé]]
+# [[5. Mechanics\Bestiary\Beast\Rothe (VGM).md|Rothé]]
 *Source: Volo's Guide to Monsters p. 208*
 
 Ordinary rothé resemble musk oxen and have [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] out to a range of 30 feet.
@@ -27,28 +27,29 @@ Ordinary rothé resemble musk oxen and have [[/5. Mechanics/Rules/Senses.md#Dark
 "ac": !!int "10"
 "hp": !!int "15"
 "hit_dice": "2d10 + 4"
+"modifier": !!int "0"
 "stats":
-- !!int "18"
-- !!int "10"
-- !!int "14"
-- !!int "2"
-- !!int "10"
-- !!int "4"
+  - !!int "18"
+  - !!int "10"
+  - !!int "14"
+  - !!int "2"
+  - !!int "10"
+  - !!int "4"
 "speed": "30 ft."
 "senses": "darkvision 30 ft., passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "If the rothé moves at least 20 feet straight toward a target and then hits\
-    \ it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing\
-    \ damage."
-  "name": "Charge"
+  - "desc": "If the rothé moves at least 20 feet straight toward a target and then\
+      \ hits it with a gore attack on the same turn, the target takes an extra 7 (2d6)\
+      \ piercing damage."
+    "name": "Charge"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
-    \ + 4) piercing damage."
-  "name": "Gore"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+      \ + 4) piercing damage."
+    "name": "Gore"
 "source":
-- "VGM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Beast/token/rothe-vgm.webp"
 ```
 ^statblock

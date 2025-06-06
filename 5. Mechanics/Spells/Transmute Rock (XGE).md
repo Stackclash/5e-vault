@@ -9,21 +9,30 @@ tags:
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/transmutation
-level: 5th-level
-range: false
+classes:
+  - Artificer
+  - Bard
+  - Druid
+  - Wizard
 school: Transmutation
-time: 1 action
+level: 5
+ritual: false
+time: 1 Action
 duration: Until dispelled
-components: 'V, S, clay and water'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Transmute Rock
+material: clay and water
 ---
 # Transmute Rock
 *5th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
-- **Components:** V, S, clay and water
+- **Components:** V, S, M (clay and water)
 - **Duration:** Until dispelled
 
 You choose an area of stone or mud that you can see that fits within a 40-foot cube and is within range, and choose one of the following effects.
@@ -34,7 +43,7 @@ Nonmagical rock of any sort in the area becomes an equal volume of thick, flowin
 
 The ground in the spell's area becomes muddy enough that creatures can sink into it. Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength saving throw. A creature must also make the saving throw when it moves into the area for the first time on a turn or ends its turn there. On a failed save, a creature sinks into the mud and is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]], though it can use an action to end the [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] condition on itself by pulling itself free of the mud.
 
-If you cast the spell on a ceiling, the mud falls. Any creature under the mud when it falls must make a Dexterity saving throw. A creature takes `dice:4d8|noform|avg` (`4d8`) bludgeoning damage on a failed save, or half as much damage on a successful one.
+If you cast the spell on a ceiling, the mud falls. Any creature under the mud when it falls must make a Dexterity saving throw. A creature takes `dice:4d8|noform|noparens|avg` (`4d8`) bludgeoning damage on a failed save, or half as much damage on a successful one.
 
 ## Transmute Mud to Rock
 
@@ -42,6 +51,6 @@ Nonmagical mud or quicksand in the area no more than 10 feet deep transforms int
 
 ## Summary
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Xanathar's Guide to Everything p. 169*

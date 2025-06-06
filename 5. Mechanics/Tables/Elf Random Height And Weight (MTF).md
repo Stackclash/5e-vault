@@ -11,7 +11,7 @@ aliases:
 
 | Subrace | Base Height | Base Weight | Height Modifier | Weight Modifier |
 |---------|-------------|-------------|-----------------|-----------------|
-| Eladrin | 4'6" | 90 lb. | +`dice:2d12\|noform\|avg` (`2d12`) | ×(`dice:1d4\|noform\|avg` (`1d4`)) lb. |
-| Sea elf | 4'6" | 90 lb. | +`dice:2d8\|noform\|avg` (`2d8`) | ×(`dice:1d4\|noform\|avg` (`1d4`)) lb. |
-| Shadar-kai | 4'8" | 90 lb. | +`dice:2d8\|noform\|avg` (`2d8`) | ×(`dice:1d4\|noform\|avg` (`1d4`)) lb. |
+| Eladrin | 4'6" | 90 lb. | +`dice:2d12\|noform\|noparens\|avg` (`2d12`) | ×(`dice:1d4\|noform\|noparens\|avg` (`d4`)) lb. |
+| Sea elf | 4'6" | 90 lb. | +`dice:2d8\|noform\|noparens\|avg` (`2d8`) | ×(`dice:1d4\|noform\|noparens\|avg` (`d4`)) lb. |
+| Shadar-kai | 4'8" | 90 lb. | +`dice:2d8\|noform\|noparens\|avg` (`2d8`) | ×(`dice:1d4\|noform\|noparens\|avg` (`d4`)) lb. |
 ^subrace-base-height-base-weight-height-modifier-weight-modifier

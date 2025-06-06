@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'forest, swamp'
 size: Small
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Vegepygmy
 ---
-# [[5. Mechanics/Bestiary/Plant/Vegepygmy (MPMM).md|Vegepygmy]]
+# [[5. Mechanics\Bestiary\Plant\Vegepygmy (MPMM).md|Vegepygmy]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 252, Volo's Guide to Monsters p. 196*
 
 Typical vegepygmies originate from the remains left behind when a Humanoid or a Giant is killed by [[5. Mechanics/Traps Hazards/Russet Mold (VGM).md|russet mold]]. One or more vegepygmies emerge from the corpse a day later.
@@ -35,40 +35,43 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 "ac_class": "natural armor"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
+"modifier": !!int "2"
 "stats":
-- !!int "7"
-- !!int "14"
-- !!int "13"
-- !!int "6"
-- !!int "11"
-- !!int "7"
+  - !!int "7"
+  - !!int "14"
+  - !!int "13"
+  - !!int "6"
+  - !!int "11"
+  - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "damage_resistances": "lightning, piercing"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Vegepygmy"
 "cr": "1/4"
 "traits":
-- "desc": "The vegepygmy has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
-    \ checks it makes in any terrain with ample obscuring vegetation."
-  "name": "Plant Camouflage"
-- "desc": "The vegepygmy regains 3 hit points at the start of its turn. If it takes\
-    \ cold, fire, or necrotic damage, this trait doesn't function at the start of\
-    \ the vegepygmy's next turn. The vegepygmy dies only if it starts its turn with\
-    \ 0 hit points and doesn't regenerate."
-  "name": "Regeneration"
+  - "desc": "The vegepygmy has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+      \ checks it makes in any terrain with ample obscuring vegetation."
+    "name": "Plant Camouflage"
+  - "desc": "The vegepygmy regains 3 hit points at the start of its turn. If it takes\
+      \ cold, fire, or necrotic damage, this trait doesn't function at the start of\
+      \ the vegepygmy's next turn. The vegepygmy dies only if it starts its turn with\
+      \ 0 hit points and doesn't regenerate."
+    "name": "Regeneration"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) slashing damage."
-  "name": "Claws"
-- "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
-    \ 4 (1d4 + 2) bludgeoning damage."
-  "name": "Sling"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) slashing damage."
+    "name": "Claws"
+  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+      \ 4 (1d4 + 2) bludgeoning damage."
+    "name": "Sling"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Plant/token/vegepygmy-mpmm.webp"
 ```
 ^statblock

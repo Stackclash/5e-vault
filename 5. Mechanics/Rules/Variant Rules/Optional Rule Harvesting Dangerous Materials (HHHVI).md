@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhhvi
 aliases:
-  - 'Optional Rule: Harvesting Dangerous Materials'
+  - Optional Rule: Harvesting Dangerous Materials
 ---
 # Optional Rule: Harvesting Dangerous Materials
 *Source: Hamund's Harvesting Handbook: Volume I p. 6, Hamund's Harvesting Handbook: Volume II p. 6, Hamund's Harvesting Handbook: Volume III p. 6* 

@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/dmg
 aliases:
-  - 'Individual Treasure: Challenge 5—10'
+  - Individual Treasure: Challenge 5—10
 ---
 # Individual Treasure: Challenge 5—10
 *Source: Dungeon Master's Guide p. 133* 
@@ -19,5 +19,5 @@ aliases:
 | 31-60 | — | `6d6 × 10` (210) | — | `2d6 × 10` (70) | — |
 | 61-70 | — | — | `3d6 × 10` (105) | `2d6 × 10` (70) | — |
 | 71-95 | — | — | — | `4d6 × 10` (140) | — |
-| 96-00 | — | — | — | `2d6 × 10` (70) | `dice:3d6\|noform\|avg` (`3d6`) (10) |
+| 96-00 | — | — | — | `2d6 × 10` (70) | `dice:3d6\|noform\|noparens\|avg` (`3d6`) (10) |
 ^individual-treasure-challenge-510

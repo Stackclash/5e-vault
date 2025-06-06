@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/nonhuman
   - domain/trickery
+alignment: Chaotic Evil
+domains: Trickery
+pantheon: Nonhuman
+symbol: Spider
 aliases:
   - Lolth
 ---

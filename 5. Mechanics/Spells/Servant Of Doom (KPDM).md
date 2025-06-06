@@ -10,19 +10,27 @@ tags:
   - spell/class/warlock
   - spell/level/4th-level
   - spell/school/transmutation
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Warlock
 school: Transmutation
-time: 1 bonus
-duration: 'Concentration, up to 1 minute'
-components: V
+level: 4
+ritual: false
+time: 1 Bonus Action
+duration: up to 1 minute
+components:
+  - V
 aliases:
   - Servant of Doom
+concentration: true
 ---
 # Servant of Doom
 *4th-level, Transmutation*  
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
@@ -45,10 +53,10 @@ Your skin becomes stonelike, bony growths erupt across your body, and you gain t
 - You ignore difficult terrain for movement purposes.  
 - You can move through walls and other solid barriers if you succeed on a Strength check you make just before moving up to the barrier. The DC equals 10 + twice the barrier's thickness in feet.  
 - You have advantage on Strength- or Dexterity-based attack rolls.  
-- Your melee weapon attacks deal an extra `dice:1d6|noform|avg` (`1d6`) slashing damage on a hit.  
+- Your melee weapon attacks deal an extra `dice:1d6|noform|noparens|avg` (`d6`) slashing damage on a hit.  
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 312*

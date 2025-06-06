@@ -4,6 +4,8 @@ cssclasses: json5e-class
 tags:
   - class/fighter
   - compendium/src/5e/phb
+hitdice: 10
+hitRollAverage: 6
 aliases:
   - Fighter
 ---
@@ -17,28 +19,29 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Fighting%20Style%20(Level%201)'>Fighting Style</a>, <a href='#Second%20Wind%20(Level%201)'>Second Wind</a></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Action%20Surge%20(Level%202)'>Action Surge</a></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Martial%20Archetype%20(Level%203)'>Martial Archetype</a></td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a>, <a href='#Martial%20Versatility%20(Level%204)'>Martial Versatility</a></td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra%20Attack%20(Level%205)'>Extra Attack</a></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%206)'>Ability Score Improvement</a></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Martial%20Archetype%20feature%20(Level%207)'>Martial Archetype feature</a></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Indomitable%20(Level%209)'>Indomitable</a></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Martial%20Archetype%20feature%20(Level%2010)'>Martial Archetype feature</a></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Extra%20Attack%20(2)%20(Level%2011)'>Extra Attack (2)</a></td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Indomitable%20(two%20uses)%20(Level%2013)'>Indomitable (two uses)</a></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2014)'>Ability Score Improvement</a></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Martial%20Archetype%20feature%20(Level%2015)'>Martial Archetype feature</a></td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Action%20Surge%20(two%20uses)%20(Level%2017)'>Action Surge (two uses)</a>, <a href='#Indomitable%20(three%20uses)%20(Level%2017)'>Indomitable (three uses)</a></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Martial%20Archetype%20feature%20(Level%2018)'>Martial Archetype feature</a></td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2019)'>Ability Score Improvement</a></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Extra%20Attack%20(3)%20(Level%2020)'>Extra Attack (3)</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Fighting Style (Level 1)' class='internal-link'>Fighting Style</a>, <a href='#Second Wind (Level 1)' class='internal-link'>Second Wind</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Action Surge (Level 2)' class='internal-link'>Action Surge</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Martial Archetype (Level 3)' class='internal-link'>Martial Archetype</a></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a>, <a href='#Martial Versatility (Level 4)' class='internal-link'>Martial Versatility</a></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra Attack (Level 5)' class='internal-link'>Extra Attack</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 6)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Martial Archetype feature (Level 7)' class='internal-link'>Martial Archetype feature</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Indomitable (Level 9)' class='internal-link'>Indomitable</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Martial Archetype feature (Level 10)' class='internal-link'>Martial Archetype feature</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Extra Attack (2) (Level 11)' class='internal-link'>Extra Attack (2)</a></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Indomitable (two uses) (Level 13)' class='internal-link'>Indomitable (two uses)</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 14)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Martial Archetype feature (Level 15)' class='internal-link'>Martial Archetype feature</a></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Action Surge (two uses) (Level 17)' class='internal-link'>Action Surge (two uses)</a>, <a href='#Indomitable (three uses) (Level 17)' class='internal-link'>Indomitable (three uses)</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Martial Archetype feature (Level 18)' class='internal-link'>Martial Archetype feature</a></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Extra Attack (3) (Level 20)' class='internal-link'>Extra Attack (3)</a></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 ## Hit Points
 
@@ -65,7 +68,7 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 ## Multiclassing Fighter
 
-**Ability Score Minimum:**Dexterity 13 or Strength 13
+**Ability Score Minimum:** Dexterity 13 or Strength 13
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
@@ -111,6 +114,10 @@ Of all the adventurers in the worlds of D&D, the fighter is perhaps the greatest
 Although some adventuring fighters risk their lives fighting for glory or treasure, others are primarily concerned with the welfare of others. They put more value on the well-being of the society, the village, or the group than on their own safety. Even if there's gold in the offing, the true reward for most fighters comes from sending enemies to their doom.
 
 The sections below offer ways to add a little depth and a few personal touches to your fighter character.
+
+> [!quote] A quote from Xanathar  
+> 
+> Sticks and stones may break my bones, but swords will never hurt me—as long as I stay really high and shoot down at an angle.
 
 ## Heraldic Sign
 _Source: Xanathar's Guide to Everything_
@@ -192,7 +199,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 
 ### Second Wind (Level 1)
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to `dice:1d10|noform|avg` (`1d10`) + your fighter level.
+You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to `dice:1d10|noform|noparens|avg` (`d10`) + your fighter level.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
@@ -215,7 +222,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Martial Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 41_
 
-*4th-level fighter [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*4th-level fighter [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
 

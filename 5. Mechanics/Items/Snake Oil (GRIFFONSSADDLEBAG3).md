@@ -16,7 +16,7 @@ aliases:
 
 Snake oil is an unreliable concoction of alchemy, druidic knowledge, and luck. When found, the potion's rarity is random: Common (90 percent) or Rare (10 percent). Only an [[5. Mechanics/Spells/Identify.md\|identify]] spell or similar magic can determine the rarity of the potion.
 
-When you use an action to drink the potion, roll a `dice:d6|noform|avg` (`d6`) to determine its effects based on the rarity of the potion. Unless it says otherwise, an effect remains for 1 hour. If the potion is a rare variant, it gains both the Common and Rare effects of the potion.
+When you use an action to drink the potion, roll a `dice:d6|noform|noparens|avg` (`d6`) to determine its effects based on the rarity of the potion. Unless it says otherwise, an effect remains for 1 hour. If the potion is a rare variant, it gains both the Common and Rare effects of the potion.
 
 `dice: [[Snake Oil (GRIFFONSSADDLEBAG3).md#^common-rare]]`
 

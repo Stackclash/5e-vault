@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Love's Embrace
-one-hand-damage: 2d6 S
+one-hand-damage: 2d6 slashing
+weight: 6
 ---
 # Love's Embrace
 *Weapon ([[5. Mechanics/Items/Greatsword.md\|greatsword]]), major, legendary (requires attunement by one or two friendly creatures)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Loves-Embrace.webp#right)  
 
-- **Damage**: 2d6 S
+- **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
@@ -26,7 +27,7 @@ This greatsword is made of two long [[5. Mechanics/Items/Scimitar.md\|scimitars]
 
 The scimitars have the thrown property with a normal range of 20 feet and a long range of 60 feet when separated. The scimitars deal piercing damage when thrown.
 
-Each scimitar also has its own elemental effect—either fire or cold—that inflicts an extra `dice:1d6|noform|avg` (`1d6`) fire or `dice:1d6|noform|avg` (`1d6`) cold damage with each strike, depending on which sword you hit with. When you hit with an attack using the greatsword, the target takes both fire and cold bonus damage from the attack.
+Each scimitar also has its own elemental effect—either fire or cold—that inflicts an extra `dice:1d6|noform|noparens|avg` (`d6`) fire or `dice:1d6|noform|noparens|avg` (`d6`) cold damage with each strike, depending on which sword you hit with. When you hit with an attack using the greatsword, the target takes both fire and cold bonus damage from the attack.
 
 Each attuned creature can cast the [[5. Mechanics/Spells/Fire Shield.md\|fire shield]] spell once at 4th level without expending a spell slot. You do not need material or somatic components when casting it in this way. Once you cast this spell, you cannot cast it again until the following dawn.
 

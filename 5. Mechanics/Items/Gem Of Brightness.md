@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Gem of Brightness
+weight: 1
 ---
 # Gem of Brightness
 *Wondrous item, major, uncommon*  

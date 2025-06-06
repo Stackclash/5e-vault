@@ -8,6 +8,7 @@ tags:
   - item/tier/minor
 aliases:
   - Rooting Arrows (Spruce)
+weight: 0.05
 ---
 # Rooting Arrows (Spruce)
 *Ammunition ([[5. Mechanics/Items/Arrow.md\|arrow]]), minor, uncommon*  
@@ -27,6 +28,6 @@ This arrow grows into a writhing mass of vines. When its effect occurs, each cre
 
 ## Spruce
 
-This arrow grows painful tree needles that burst from it when it finishes growing. When the effect occurs, each creature within 10 feet of the arrow must make a DC 13 Dexterity saving throw. A creature takes `dice:2d8|noform|avg` (`2d8`) piercing damage on a failed save, or half as much damage on a successful one.
+This arrow grows painful tree needles that burst from it when it finishes growing. When the effect occurs, each creature within 10 feet of the arrow must make a DC 13 Dexterity saving throw. A creature takes `dice:2d8|noform|noparens|avg` (`2d8`) piercing damage on a failed save, or half as much damage on a successful one.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

@@ -15,9 +15,9 @@ aliases:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 
-When you wear this belt, you can feel the fires of the lower planes burn inside you. While wearing the belt, when you make a melee attack against a creature and have advantage on the attack, the target takes an extra `dice:1d6|noform|avg` (`1d6`) fire damage from the attack on a hit.
+When you wear this belt, you can feel the fires of the lower planes burn inside you. While wearing the belt, when you make a melee attack against a creature and have advantage on the attack, the target takes an extra `dice:1d6|noform|noparens|avg` (`d6`) fire damage from the attack on a hit.
 
-In addition, while wearing this belt, you can use an action to release a hellish howl. When you do, you exhale a plume of flames from your mouth in a 15-foot cone. Each creature in the area must succeed on a DC 15 Dexterity saving throw, taking `dice:6d6|noform|avg` (`6d6`) fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't being worn or carried. Once this property has been used, it can't be used again until the next dawn.
+In addition, while wearing this belt, you can use an action to release a hellish howl. When you do, you exhale a plume of flames from your mouth in a 15-foot cone. Each creature in the area must succeed on a DC 15 Dexterity saving throw, taking `dice:6d6|noform|noparens|avg` (`6d6`) fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't being worn or carried. Once this property has been used, it can't be used again until the next dawn.
 
 ## Curse
 

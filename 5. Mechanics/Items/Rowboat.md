@@ -8,6 +8,7 @@ tags:
 aliases:
   - Rowboat
 cost: 5000
+weight: 100
 ---
 # Rowboat
 *Ship, vehicle (water)*  

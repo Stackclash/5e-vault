@@ -10,16 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of Pigeons
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Staff of Pigeons
 *Staff, weapon, minor, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Staff-of-Pigeons.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
@@ -41,6 +42,6 @@ For 3 extra charges, the pigeon becomes a Large creature. It covers four times a
 
 Regardless of the manifested pigeon's size, its statistics remain the same, and it refuses to move while another creature is sitting or otherwise mounted on it.
 
-The staff regains `dice:1d6+4|noform|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge from the staff, roll a `dice:d20|noform|avg` (`d20`). On a 1, the birdhouse cracks apart and the staff's magic is lost.
+The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge from the staff, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the birdhouse cracks apart and the staff's magic is lost.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

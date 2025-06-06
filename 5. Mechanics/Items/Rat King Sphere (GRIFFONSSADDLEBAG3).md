@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Rat King Sphere
+weight: 3
 ---
 # Rat King Sphere
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -29,7 +30,7 @@ When you speak the first command word, the swarm of rats coalesces into a giant 
 
 ## Swarm Tether
 
-When you speak the second command word, you also throw the sphere at a creature you can see within 30 feet of you. Make a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your proficiency bonus. On a hit, the swarm of rats exits the sphere and clings to the creature, forcing that creature to make a DC 13 Strength saving throw. On a failed save, it takes `dice:2d6|noform|avg` (`2d6`) piercing damage, and if the creature is Large or smaller, it's also [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] until the start of its next turn. The creature repeats this saving throw at the start of each of its turns for 1 minute or until it succeeds three times, at which point the swarm scatters and disappears. If the sphere misses the creature when you throw it, the action is wasted, but the swarm remains inside the sphere.
+When you speak the second command word, you also throw the sphere at a creature you can see within 30 feet of you. Make a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your proficiency bonus. On a hit, the swarm of rats exits the sphere and clings to the creature, forcing that creature to make a DC 13 Strength saving throw. On a failed save, it takes `dice:2d6|noform|noparens|avg` (`2d6`) piercing damage, and if the creature is Large or smaller, it's also [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] until the start of its next turn. The creature repeats this saving throw at the start of each of its turns for 1 minute or until it succeeds three times, at which point the swarm scatters and disappears. If the sphere misses the creature when you throw it, the action is wasted, but the swarm remains inside the sphere.
 
 ## Visage of the Wererat
 

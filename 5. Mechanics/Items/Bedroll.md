@@ -8,6 +8,7 @@ tags:
 aliases:
   - Bedroll
 cost: 100
+weight: 7
 ---
 # Bedroll
 *Adventuring gear*  

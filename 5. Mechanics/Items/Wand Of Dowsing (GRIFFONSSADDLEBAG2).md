@@ -17,6 +17,6 @@ aliases:
 
 This hazel wand has 3 charges. While holding it, you can use an action to expend 1 of its charges to cast the [[5. Mechanics/Spells/Locate Object.md\|locate object]] spell from it. When the wand is used to detect water, its range increases to 10 miles.
 
-The wand regains `dice:1d3|noform|avg` (`1d3`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the wand bursts into a small cloud of harmless steam.
+The wand regains `dice:1d3|noform|noparens|avg` (`d3`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand bursts into a small cloud of harmless steam.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 182*

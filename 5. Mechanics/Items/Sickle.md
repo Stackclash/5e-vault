@@ -9,12 +9,13 @@ tags:
 aliases:
   - Sickle
 cost: 100
-one-hand-damage: 1d4 S
+one-hand-damage: 1d4 slashing
+weight: 2
 ---
 # Sickle
 *Weapon*  
 
-- **Damage**: 1d4 S
+- **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Cost**: 1 gp
 - **Weight**: 2.0 lbs.

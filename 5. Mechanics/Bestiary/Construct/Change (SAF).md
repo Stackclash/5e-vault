@@ -13,7 +13,7 @@ tags:
 aliases:
   - Change
 ---
-# [[5. Mechanics/Bestiary/Construct/Change (SAF).md|Change]]
+# [[5. Mechanics\Bestiary\Construct\Change (SAF).md|Change]]
 *Source: Strongholds and Followers p. 229*
 
 A close cousin to the Inexorables of Death and Fate, the Law of Change states that what has been done cannot be undone. Change opposes any magical attempt to reverse what is done, such as using magical healing to close a wound. "You cannot rewrite the world."
@@ -37,13 +37,14 @@ Change is more versatile than its simpler cousins. Its javelin grants it facilit
 "ac_class": "natural armor"
 "hp": !!int "120"
 "hit_dice": "16d8 + 48"
+"modifier": !!int "3"
 "stats":
-- !!int "15"
-- !!int "17"
-- !!int "16"
-- !!int "13"
-- !!int "12"
-- !!int "10"
+  - !!int "15"
+  - !!int "17"
+  - !!int "16"
+  - !!int "13"
+  - !!int "12"
+  - !!int "10"
 "speed": "40 ft."
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
@@ -52,21 +53,21 @@ Change is more versatile than its simpler cousins. Its javelin grants it facilit
 "languages": "all those of the creature who summoned it"
 "cr": "7"
 "traits":
-- "desc": "Enemies with 10 feet cannot benefit from magical healing."
-  "name": "The Law of Change"
-- "desc": "The Inexorables have disadvantage on all saving throws against spells."
-  "name": "Chaos Vulnerability"
-- "desc": "The Inexorables are immune to any effects that would slow them or deny\
-    \ them actions or movement."
-  "name": "Inexorable"
+  - "desc": "Enemies with 10 feet cannot benefit from magical healing."
+    "name": "The Law of Change"
+  - "desc": "The Inexorables have disadvantage on all saving throws against spells."
+    "name": "Chaos Vulnerability"
+  - "desc": "The Inexorables are immune to any effects that would slow them or deny\
+      \ them actions or movement."
+    "name": "Inexorable"
 "actions":
-- "desc": "Change makes three javelin attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120\
-    \ ft., one target. Hit: 12 (2d8 + 3) piercing damage."
-  "name": "Javelin"
+  - "desc": "Change makes three javelin attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. Hit: 12 (2d8 + 3) piercing damage."
+    "name": "Javelin"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Change.png"
 ```
 ^statblock

@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greek
   - domain/war
+alignment: Lawful Neutral
+domains: War
+pantheon: Greek
+symbol: Winged woman
 aliases:
   - Nike
 ---

@@ -12,25 +12,36 @@ tags:
   - spell/level/1st-level
   - spell/school/transmutation
   - spell/subclass/divine-soul
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Ranger
+  - Sorcerer (Divine Soul)
+  - Warlock
 school: Transmutation
-time: 1 bonus
+level: 1
+ritual: false
+time: 1 Bonus Action
 duration: 1 round
-components: 'V, S, a fleck of quartz'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Flurry
+material: a fleck of quartz
 ---
 # Flurry
 *1st-level, Transmutation*  
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Self
-- **Components:** V, S, a fleck of quartz
+- **Components:** V, S, M (a fleck of quartz)
 - **Duration:** 1 round
 
 A flurry of snow surrounds you and extends to a 5-foot radius around you. While it lasts, anyone trying to see into, out of, or through the affected area (including you) has disadvantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks and attack rolls.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 271*

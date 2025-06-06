@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/mtf
   - deity/halfling
   - domain/war
+alignment: Lawful Good
+domains: War
+pantheon: Halfling
+province: 'Vigilance, war'
+symbol: Crossed short swords
 aliases:
   - Arvoreen
 ---

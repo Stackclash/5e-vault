@@ -8,7 +8,7 @@ aliases:
   - College of Whispers
 ---
 # College of Whispers
-*[[Bard.md\|Bard]]: Bard College*  
+*[[.nullBard.md\|Bard]]: Bard College*  
 *Source: Xanathar's Guide to Everything p. 16*  
 
 > [!tldr] Class and Feature Progression
@@ -20,10 +20,10 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#College%20of%20Whispers%20(Level%203)'>College of Whispers</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#College of Whispers (Level 3)' class='internal-link'>College of Whispers</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Mantle%20of%20Whispers%20(Level%206)'>Mantle of Whispers</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Mantle of Whispers (Level 6)' class='internal-link'>Mantle of Whispers</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -31,7 +31,7 @@ aliases:
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Shadow%20Lore%20(Level%2014)'>Shadow Lore</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Shadow Lore (Level 14)' class='internal-link'>Shadow Lore</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,8 +39,13 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
 
+^class-progression
+
+
+> [!quote] A quote from Xanathar  
+> 
+> Speak up! It's really hard to hear you over the screaming. Nope. It's no use. I'll have to stop the screaming. Disintegrations all around, then.
 
 ## Class Features
 
@@ -54,9 +59,9 @@ Many other bards hate the College of Whispers, viewing it as a parasite that use
 
 When you join the College of Whispers at 3rd level, you gain the ability to make your weapon attacks magically toxic to a creature's mind.
 
-When you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an extra `dice:2d6|noform|avg` (`2d6`) psychic damage to that target. You can do so only once per round on your turn.
+When you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an extra `dice:2d6|noform|noparens|avg` (`2d6`) psychic damage to that target. You can do so only once per round on your turn.
 
-The psychic damage increases when you reach certain levels in this class, increasing to `dice:3d6|noform|avg` (`3d6`) at 5th level, `dice:5d6|noform|avg` (`5d6`) at 10th level, and `dice:8d6|noform|avg` (`8d6`) at 15th level.
+The psychic damage increases when you reach certain levels in this class, increasing to `dice:3d6|noform|noparens|avg` (`3d6`) at 5th level, `dice:5d6|noform|noparens|avg` (`5d6`) at 10th level, and `dice:8d6|noform|noparens|avg` (`8d6`) at 15th level.
 
 ### Words of Terror (Level 3)
 

@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/trickery
+alignment: Chaotic Good
+domains: Trickery
+pantheon: Forgotten Realms
+symbol: Face-up coin
 aliases:
   - Tymora
 ---

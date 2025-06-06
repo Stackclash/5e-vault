@@ -9,22 +9,23 @@ tags:
   - item/weapon/simple
 aliases:
   - 'Precipit, the Formless'
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Precipit, the Formless
 *Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Precipit-the-Formless.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This magic coral staff was first found within the Great Reef of the Elemental Plane of Water. Its origins beyond that are entirely unknown, with some suggesting it was made by the plane itself rather than forged or crafted by a mere creature's hands. Attuning to the staff bestows some of its planar powers to you, allowing you to breathe underwater and ignore any of the drawbacks caused by a deep, underwater environment. In addition, while holding the staff, you have resistance to cold damage.
 
-This staff has 15 charges which are used to power its various properties. The staff regains `dice:1d8+7|noform|avg` (`1d8 + 7`) expended charges daily at dawn.
+This staff has 15 charges which are used to power its various properties. The staff regains `dice:1d8+7|noform|noparens|avg` (`1d8 + 7`) expended charges daily at dawn.
 
 ## State Change
 
@@ -64,7 +65,7 @@ While holding the staff in its liquid state, you can expend 1 or more of its cha
 
 ## Tide Turner
 
-While holding the staff in its liquid state, you can expend 3 of its charges and speak the staff's command word as an action to send out a wave of ethereal magic water to buffet and push your enemies. Hostile creatures of your choice that you can see within 30 feet of you are forced to make a DC 18 Strength saving throw. On a failed save, a creature takes `dice:4d8|noform|avg` (`4d8`) bludgeoning damage and is pushed either 20 feet toward you or away from you (your choice). On a successful save, the creature takes half as much bludgeoning damage and is not pushed.
+While holding the staff in its liquid state, you can expend 3 of its charges and speak the staff's command word as an action to send out a wave of ethereal magic water to buffet and push your enemies. Hostile creatures of your choice that you can see within 30 feet of you are forced to make a DC 18 Strength saving throw. On a failed save, a creature takes `dice:4d8|noform|noparens|avg` (`4d8`) bludgeoning damage and is pushed either 20 feet toward you or away from you (your choice). On a successful save, the creature takes half as much bludgeoning damage and is not pushed.
 
 ## Solid
 
@@ -82,7 +83,7 @@ While holding the staff in its solid state, you can expend some of its charges o
 
 ## Deep Freeze
 
-While holding the staff in its solid state, you can expend 4 of its charges and speak the staff's command word as an action to send out a chilling blast to freeze your enemies. Hostile creatures of your choice that you can see within 30 feet of you are forced to make a DC 18 Constitution saving throw. On a failed save, a creature takes `dice:4d8|noform|avg` (`4d8`) cold damage and its speed is reduced to 0 until the end of its next turn. On a successful save, the creature takes half as much cold damage and its speed is halved instead.
+While holding the staff in its solid state, you can expend 4 of its charges and speak the staff's command word as an action to send out a chilling blast to freeze your enemies. Hostile creatures of your choice that you can see within 30 feet of you are forced to make a DC 18 Constitution saving throw. On a failed save, a creature takes `dice:4d8|noform|noparens|avg` (`4d8`) cold damage and its speed is reduced to 0 until the end of its next turn. On a successful save, the creature takes half as much cold damage and its speed is halved instead.
 
 ## Random Properties
 

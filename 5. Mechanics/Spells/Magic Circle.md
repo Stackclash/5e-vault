@@ -15,23 +15,45 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/monster-slayer
   - spell/subclass/oath-of-the-watchtower
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Paladin (Oath of the Watchtower)
+  - Ranger (Monster Slayer)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul)
+  - Warlock
+  - Wizard
 school: Abjuration
+level: 3
+ritual: false
 time: 1 minute
 duration: 1 hour
-components: >-
-  V, S, holy water or powdered silver and iron worth at least 100 gp, which the
-  spell consumes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Magic Circle
+range: 10 feet
+material: >-
+  Holy water or powdered silver and iron worth at least 100 gp, which the spell
+  consumes.
+save:
+  type: CHA
+  success: other
+area:
+  type: cylinder
+  size: 10
 ---
 # Magic Circle
 *3rd-level, Abjuration*  
 
 - **Casting time:** 1 minute
 - **Range:** 10 feet
-- **Components:** V, S, holy water or powdered silver and iron worth at least 100 gp, which the spell consumes
+- **Components:** V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)
 - **Duration:** 1 hour
 
 You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.
@@ -46,6 +68,6 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Monster Slayer (XGE)\|Ranger (Monster Slayer)]]; [[List Spells Classes Paladin Oath Of The Watchtower (GRIFFONSSADDLEBAG3)\|Paladin (Oath of the Watchtower)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [Ranger (Monster Slayer)](compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Paladin (Oath of the Watchtower)](compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 256. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

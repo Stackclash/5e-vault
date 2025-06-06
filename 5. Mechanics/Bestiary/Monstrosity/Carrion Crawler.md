@@ -14,7 +14,7 @@ tags:
 aliases:
   - Carrion Crawler
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Carrion Crawler.md|Carrion Crawler]]
+# [[5. Mechanics\Bestiary\Monstrosity\Carrion Crawler.md|Carrion Crawler]]
 *Source: Monster Manual p. 37*
 
 Carrion crawlers scour putrid flesh from carcasses and gobble the slimy bones that remain. They aggressively attack any creature that trespasses on their territory or disturbs their feasting.
@@ -36,42 +36,44 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
 "ac_class": "natural armor"
 "hp": !!int "51"
 "hit_dice": "6d10 + 18"
+"modifier": !!int "1"
 "stats":
-- !!int "14"
-- !!int "13"
-- !!int "16"
-- !!int "1"
-- !!int "12"
-- !!int "5"
+  - !!int "14"
+  - !!int "13"
+  - !!int "16"
+  - !!int "1"
+  - !!int "12"
+  - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The carrion crawler has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on smell."
-  "name": "Keen Smell"
-- "desc": "The carrion crawler can climb difficult surfaces, including upside down\
-    \ on ceilings, without needing to make an ability check."
-  "name": "Spider Climb"
+  - "desc": "The carrion crawler has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on smell."
+    "name": "Keen Smell"
+  - "desc": "The carrion crawler can climb difficult surfaces, including upside down\
+      \ on ceilings, without needing to make an ability check."
+    "name": "Spider Climb"
 "actions":
-- "desc": "The carrion crawler makes two attacks: one with its tentacles and one with\
-    \ its bite."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 4\
-    \ (1d4 + 2) poison damage, and the target must succeed on a DC 13 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
-    \ 1 minute. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]].\
-    \ The target can repeat the saving throw at the end of each of its turns, ending\
-    \ the poison on itself on a success."
-  "name": "Tentacles"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
-    \ + 2) piercing damage."
-  "name": "Bite"
+  - "desc": "The carrion crawler makes two attacks: one with its tentacles and one\
+      \ with its bite."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit:\
+      \ 4 (1d4 + 2) poison damage, and the target must succeed on a DC 13 Constitution\
+      \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
+      \ 1 minute. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]].\
+      \ The target can repeat the saving throw at the end of each of its turns, ending\
+      \ the poison on itself on a success."
+    "name": "Tentacles"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
+      \ + 2) piercing damage."
+    "name": "Bite"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/carrion-crawler.webp"
 ```
 ^statblock

@@ -18,6 +18,6 @@ These well-worn boots have an ever-changing arcane circle ingrained into their h
 
 You can speak the boots' second command word as an action while wearing them to cast the [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] spell, except that this circle is only 5 feet in diameter. This circle's sigil sequence matches the one created by the first command word and links to its location. When it's created, the circle appears under your feet, centered on your location, and you immediately teleport through it. Only a circle created in this way can connect to the permanent one created by the boots' first command word. If the permanent circle is washed away or otherwise cleaned or destroyed before you speak the second command word, the spell fails and the circle isn't created.
 
-Once you use the boots to teleport in this way, they can't do so again until `dice:1d3|noform|avg` (`1d3`) days have passed. In the meantime, you can still speak the boots' first command word.
+Once you use the boots to teleport in this way, they can't do so again until `dice:1d3|noform|noparens|avg` (`d3`) days have passed. In the meantime, you can still speak the boots' first command word.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 106*

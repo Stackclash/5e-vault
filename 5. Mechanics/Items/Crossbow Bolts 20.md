@@ -8,6 +8,7 @@ tags:
 aliases:
   - Crossbow Bolts (20)
 cost: 100
+weight: 1.5
 ---
 # Crossbow Bolts (20)
 *Ammunition*  

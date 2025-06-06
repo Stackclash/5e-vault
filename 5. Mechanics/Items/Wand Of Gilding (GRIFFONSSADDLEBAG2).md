@@ -25,7 +25,7 @@ You can use an action to point the wand at a living target you can see within 30
 
 As an action, you can touch the wand to a target no larger than 1 foot in any dimension to cause it to appear to be made of gold for 1 hour. Its appearance and texture change to reflect the new appearance, but its weight remains the same. A successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check reveals that the effect is illusory. Once this property has been used, it can't be used again until the next dawn.
 
-This wand has 7 charges for the following properties. It regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the wand crumbles into dirt and is destroyed.
+This wand has 7 charges for the following properties. It regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand crumbles into dirt and is destroyed.
 
 ## Spells
 

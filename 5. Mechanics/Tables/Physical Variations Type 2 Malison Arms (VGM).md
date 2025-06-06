@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/vgm
 aliases:
-  - 'Physical Variations; Type 2 Malison: Arms'
+  - Physical Variations; Type 2 Malison: Arms
 ---
 # Physical Variations; Type 2 Malison: Arms
 *Source: Volo's Guide to Monsters p. 97* 

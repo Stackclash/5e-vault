@@ -15,7 +15,7 @@ tags:
 aliases:
   - Air Elemental
 ---
-# [[5. Mechanics/Bestiary/Elemental/Air Element(AL).md|Air Elemental]]
+# [[5. Mechanics\Bestiary\Elemental\Air Element(AL).md|Air Elemental]]
 *Source: Monster Manual p. 124, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
@@ -50,13 +50,14 @@ An elemental doesn't require air, food, drink, or sleep.
 "ac": !!int "15"
 "hp": !!int "90"
 "hit_dice": "12d10 + 24"
+"modifier": !!int "5"
 "stats":
-- !!int "14"
-- !!int "20"
-- !!int "14"
-- !!int "6"
-- !!int "10"
-- !!int "6"
+  - !!int "14"
+  - !!int "20"
+  - !!int "14"
+  - !!int "6"
+  - !!int "10"
+  - !!int "6"
 "speed": "fly 90 ft. (hover)"
 "damage_resistances": "lightning; thunder; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
@@ -70,29 +71,30 @@ An elemental doesn't require air, food, drink, or sleep.
 "languages": "Auran"
 "cr": "5"
 "traits":
-- "desc": "The elemental can enter a hostile creature's space and stop there. It can\
-    \ move through a space as narrow as 1 inch wide without squeezing."
-  "name": "Air Form"
+  - "desc": "The elemental can enter a hostile creature's space and stop there. It\
+      \ can move through a space as narrow as 1 inch wide without squeezing."
+    "name": "Air Form"
 "actions":
-- "desc": "The elemental makes two slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8\
-    \ + 5) bludgeoning damage."
-  "name": "Slam"
-- "desc": "Each creature in the elemental's space must make a DC 13 Strength saving\
-    \ throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung\
-    \ up 20 feet away from the elemental in a random direction and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
-    \ If a thrown target strikes an object, such as a wall or floor, the target takes\
-    \ 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is\
-    \ thrown at another creature, that creature must succeed on a DC 13 Dexterity\
-    \ saving throw or take the same damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\n\
-    \nIf the saving throw is successful, the target takes half the bludgeoning damage\
-    \ and isn't flung away or knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
-  "name": "Whirlwind (Recharge 4-6)"
+  - "desc": "The elemental makes two slam attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14\
+      \ (2d8 + 5) bludgeoning damage."
+    "name": "Slam"
+  - "desc": "Each creature in the elemental's space must make a DC 13 Strength saving\
+      \ throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is\
+      \ flung up 20 feet away from the elemental in a random direction and knocked\
+      \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. If a thrown target strikes\
+      \ an object, such as a wall or floor, the target takes 3 (d6) bludgeoning damage\
+      \ for every 10 feet it was thrown. If the target is thrown at another creature,\
+      \ that creature must succeed on a DC 13 Dexterity saving throw or take the same\
+      \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\n\n\
+      If the saving throw is successful, the target takes half the bludgeoning damage\
+      \ and isn't flung away or knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+    "name": "Whirlwind (Recharge 4-6)"
 "source":
-- "MM"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Elemental/token/air-elemental.webp"
 ```
 ^statblock

@@ -6,19 +6,23 @@ tags:
   - spell/class/bard
   - spell/level/2nd-level
   - spell/school/enchantment
-level: 2nd-level
-range: false
+classes:
+  - Bard
 school: Enchantment
-time: 1 action
+level: 2
+ritual: false
+time: 1 Action
 duration: 1 minute
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Beguiling Bet
 ---
 # Beguiling Bet
 *2nd-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** 1 minute
@@ -29,6 +33,6 @@ The [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] creature must use its
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for every two slot levels above 2nd. Each creature must be within 30 feet of another creature when you cast the spell.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 42*

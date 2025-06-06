@@ -17,23 +17,40 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/oath-of-legacy
   - spell/subclass/the-sibyl
-level: 4th-level
-range: true
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Druid (Circle of the Land)
+  - Druid (Circle of the Spirits)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Legacy)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul)
+  - Warlock (The Sibyl)
+  - Wizard
 school: Divination
-time: 1 action
+level: 4
+ritual: true
+time: 1 Action
 duration: Instantaneous
-components: >-
-  V, S, incense and a sacrificial offering appropriate to your religion,
-  together worth at least 25 gp, which the spell consumes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Divination
+range: Self
+material: >-
+  Incense and a sacrificial offering appropriate to your religion, together
+  worth at least 25gp, which the spell consumes.
 ---
 # Divination
 *4th-level, Divination (ritual)*  
 
-- **Casting time:** 1 action unless cast as a ritual
+- **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Self
-- **Components:** V, S, incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes
+- **Components:** V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)
 - **Duration:** Instantaneous
 
 Your magic and an offering put you in contact with a god or a god's servants. You ask a single question concerning a specific goal, event, or activity to occur within 7 days. The DM offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.
@@ -42,6 +59,6 @@ The spell doesn't take into account any possible circumstances that might change
 
 If you cast the spell two or more times before finishing your next long rest, there is a cumulative  chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Druid Circle Of The Spirits (KPDM)\|Druid (Circle of the Spirits)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Paladin Oath Of Legacy (HHHVIII)\|Paladin (Oath of Legacy)]]; [[List Spells Classes Warlock The Sibyl (KPDM)\|Warlock (The Sibyl)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Druid (Circle of the Spirits)](compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Paladin (Oath of Legacy)](compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Warlock (The Sibyl)](compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

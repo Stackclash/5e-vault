@@ -13,7 +13,7 @@ tags:
 aliases:
   - Animated Object Swarm
 ---
-# [[5. Mechanics/Bestiary/Construct/Animated Object Swarm (KPDM).md|Animated Object Swarm]]
+# [[5. Mechanics\Bestiary\Construct\Animated Object Swarm (KPDM).md|Animated Object Swarm]]
 *Source: Deep Magic p. 37*
 
 ```statblock
@@ -23,13 +23,14 @@ aliases:
 "alignment": "Unaligned"
 "ac": !!int "18"
 "hp": !!int "20"
+"modifier": !!int "4"
 "stats":
-- !!int "4"
-- !!int "18"
-- !!int "10"
-- !!int "3"
-- !!int "3"
-- !!int "1"
+  - !!int "4"
+  - !!int "18"
+  - !!int "10"
+  - !!int "3"
+  - !!int "3"
+  - !!int "1"
 "speed": "30 ft., fly 30 ft. (hover)"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
@@ -39,11 +40,11 @@ aliases:
 "senses": "blindsight 30 ft. (blind beyond this distance), passive Perception 6"
 "languages": ""
 "actions":
-- "desc": "Melee Weapon Attack: +8 to hit, reach 0 ft., one target in the swarm's\
-    \ space. Hit: 6 (1d4 + 4) damage."
-  "name": "Attack"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 0 ft., one target in the swarm's\
+      \ space. Hit: 6 (1d4 + 4) damage."
+    "name": "Attack"
 "source":
-- "KPDM"
+  - "KPDM"
 ```
 ^statblock
 

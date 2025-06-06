@@ -10,6 +10,7 @@ tags:
 aliases:
   - Winter's Embrace
 armorClass: 14 + Dex modifier (max of +2)
+weight: 20
 ---
 # Winter's Embrace
 *Medium armor ([[5. Mechanics/Items/Breastplate.md\|breastplate]]), major, very rare (requires attunement)*  

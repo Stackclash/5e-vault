@@ -6,6 +6,10 @@ tags:
   - deity/greyhawk
   - domain/life
   - domain/light
+alignment: Neutral Good
+domains: 'Life, Light'
+pantheon: Greyhawk
+symbol: Sun
 aliases:
   - Pelor
 ---

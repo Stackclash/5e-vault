@@ -6,6 +6,12 @@ tags:
   - deity/forgotten-realms
   - domain/arcana
   - domain/knowledge
+alignment: Neutral Good
+domains: 'Knowledge, Arcana'
+pantheon: Forgotten Realms
+symbol: >-
+  Circle of seven stars, or nine stars encircling a flowing red mist, or a
+  single star
 aliases:
   - Mystra
 ---

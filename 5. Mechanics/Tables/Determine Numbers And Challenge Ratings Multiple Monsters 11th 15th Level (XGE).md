@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/xge
 aliases:
-  - 'Determine Numbers and Challenge Ratings; Multiple Monsters: 11th-15th Level'
+  - Determine Numbers and Challenge Ratings; Multiple Monsters: 11th-15th Level
 ---
 # Determine Numbers and Challenge Ratings; Multiple Monsters: 11th-15th Level
 *Source: Xanathar's Guide to Everything p. 88* 

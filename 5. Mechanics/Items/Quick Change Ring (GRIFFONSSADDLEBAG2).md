@@ -20,7 +20,7 @@ While wearing this ring, you can use an action to speak its command word and tou
 
 You can create an instantaneous, harmless sensory effect when you don or doff a suit of armor with the ring in this way, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
 
-When found, the ring has a 50 percent chance to have a set of bound armor in its extradimensional space. The GM can choose a suit of bound armor from the following table or roll a `dice:d12|noform|avg` (`d12`) to determine it randomly.
+When found, the ring has a 50 percent chance to have a set of bound armor in its extradimensional space. The GM can choose a suit of bound armor from the following table or roll a `dice:d12|noform|noparens|avg` (`d12`) to determine it randomly.
 
 `dice: [[Quick Change Ring (GRIFFONSSADDLEBAG2).md#^armor]]`
 

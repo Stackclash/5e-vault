@@ -14,25 +14,34 @@ tags:
   - spell/subclass/divine-soul
   - spell/subclass/eldritch-knight
   - spell/subrace/elf-high
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul)
+  - Wizard
 school: Transmutation
-time: 1 action
+level: cantrip
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Scribe
 ---
 # Scribe
 *cantrip, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Instantaneous
 
 This spell enables you to create a copy of a one-page written work by placing a blank piece of paper or parchment near the work that you are copying. All the writing, illustrations, and other elements in the original are reproduced in the new document, in your handwriting or drawing style. The new medium must be large enough to accommodate the original source. Any magical properties of the original aren't reproduced, so you can't use scribe to make copies of spell scrolls or magic books.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 105*

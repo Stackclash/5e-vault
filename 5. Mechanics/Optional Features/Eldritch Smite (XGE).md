@@ -12,4 +12,4 @@ aliases:
 
 ***Prerequisites*** 5th, Pact of the Blade
 
-Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra `dice:1d8|noform|avg` (`1d8`) force damage to the target, plus another `dice:1d8|noform|avg` (`1d8`) per level of the spell slot, and you can knock the target [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] if it is Huge or smaller.
+Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) force damage to the target, plus another `dice:1d8|noform|noparens|avg` (`d8`) per level of the spell slot, and you can knock the target [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] if it is Huge or smaller.

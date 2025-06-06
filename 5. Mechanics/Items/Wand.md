@@ -8,6 +8,7 @@ tags:
 aliases:
   - Wand
 cost: 1000
+weight: 1
 ---
 # Wand
 *Spellcasting focus*  

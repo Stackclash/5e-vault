@@ -9,6 +9,7 @@ tags:
 aliases:
   - Plate of the Pursuer
 armorClass: 18
+weight: 65
 ---
 # Plate of the Pursuer
 *Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  

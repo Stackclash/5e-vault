@@ -10,6 +10,7 @@ tags:
 aliases:
   - Nightstalker's Armor of the Northeastern Wind
 armorClass: 18
+weight: 65
 ---
 # Nightstalker's Armor of the Northeastern Wind
 *Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, rare (requires attunement)*  
@@ -24,14 +25,14 @@ This unusual armor is composed of blue metal plates with a horned helm, and was 
 
 ## Retributive Cold
 
-When you take damage from a creature that is within 5 feet of you while wearing this armor, you can use your reaction to deal `dice:1d6|noform|avg` (`1d6`) cold damage to that creature.
+When you take damage from a creature that is within 5 feet of you while wearing this armor, you can use your reaction to deal `dice:1d6|noform|noparens|avg` (`d6`) cold damage to that creature.
 
 ## Freezing Fog
 
 While wearing this armor, you can use a bonus action to speak its command word to cast the [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] spell from it, targeting only yourself, with the following changes:
 
 - You take the form of a frigid cloud of fog, creating illusory frost on objects you touch.  
-- You can take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action while in this form. When you do, your attacks are unarmed strikes that deal `dice:1d6|noform|avg` (`1d6`) cold damage, instead of their normal damage.  
+- You can take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action while in this form. When you do, your attacks are unarmed strikes that deal `dice:1d6|noform|noparens|avg` (`d6`) cold damage, instead of their normal damage.  
 - You can use the armor's Retributive Cold property.  
 - The spell has a duration of 1 minute.  
 

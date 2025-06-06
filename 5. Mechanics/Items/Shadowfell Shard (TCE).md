@@ -7,6 +7,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Shadowfell Shard
+weight: 1
 ---
 # Shadowfell Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  

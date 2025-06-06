@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/veor
 aliases:
-  - 'Chapter 8: The Dragon Queen''s Pride'
+  - Chapter 8: The Dragon Queen's Pride
 ---
 # Chapter 8: The Dragon Queen's Pride
 *Source: Vecna: Eve of Ruin* 
@@ -126,9 +126,9 @@ The Venatrix is a Gargantuan vehicle that can hold eight Medium creatures and ca
 
 The Venatrix is equipped with two harpoon guns and an infernal screamer, which is a writhing humanoid torso made of melting wax with a barbed hand crank between its shoulder blades. The weapons are mounted to the vehicle's exterior, so any creature riding on the outside of the vehicle can operate a weapon. Each weapon station requires one creature to operate it.
 
-A creature operating a harpoon gun can use an action to make a ranged weapon attack with it (+6 to hit, range 120 ft., one target). On a hit, the harpoon deals `dice:2d8+1|noform|avg|text(10)` (`2d8 + 1`) piercing damage.
+A creature operating a harpoon gun can use an action to make a ranged weapon attack with it (+6 to hit, range 120 ft., one target). On a hit, the harpoon deals `dice:2d8+1|noform|noparens|avg|text(10)` (`2d8 + 1`) piercing damage.
 
-A creature operating the infernal screamer can use an action to turn its crank, unleashing a telepathic shriek of agony at one target the creature can see within 120 feet of itself. The target must make a DC 15 Wisdom saving throw, taking `dice:4d12|noform|avg|text(26)` (`4d12`) psychic damage on a failed save or half as much damage on a successful one.
+A creature operating the infernal screamer can use an action to turn its crank, unleashing a telepathic shriek of agony at one target the creature can see within 120 feet of itself. The target must make a DC 15 Wisdom saving throw, taking `dice:4d12|noform|noparens|avg|text(26)` (`4d12`) psychic damage on a failed save or half as much damage on a successful one.
 
 ### Goristro Raid
 
@@ -261,7 +261,7 @@ An evil creature can carry as many *Soul Coins* as it wishes (up to its maximum 
 
 A Soul Coin has 3 charges. A creature carrying the coin can use its action to expend 1 charge from a Soul Coin and do one of the following:
 
-- **Drain Life.** You siphon away some of the soul's essence and gain `dice:1d10|noform|avg` (`1d10`) "temporary hit points".  
+- **Drain Life.** You siphon away some of the soul's essence and gain `dice:1d10|noform|noparens|avg` (`d10`) "temporary hit points".  
 - **Query.** You telepathically ask the soul a question and receive a brief telepathic response, which you can always understand. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.  
 
 ##### Freeing a Soul
@@ -360,7 +360,7 @@ The casino's rooms are described in the following sections.
 
 This arena hosts nightmare racing. Audience members can place bets, earning a payout depending on which steeds place in the top two of a given race. Up to six [[5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmares]] race at any given time; those who bet on the first-place steed receive triple their initial bet, and those who bet on the second-place steed receive double their initial bet.
 
-To simulate a race, have each participating character place a bet on a single number from 1 to 6—each number represents a nightmare. Roll a `dice:d6|noform|avg` (`d6`) twice to determine which nightmares win first and second place, respectively. If both rolls are the same number, reroll one die to determine which nightmare wins second place.
+To simulate a race, have each participating character place a bet on a single number from 1 to 6—each number represents a nightmare. Roll a `dice:d6|noform|noparens|avg` (`d6`) twice to determine which nightmares win first and second place, respectively. If both rolls are the same number, reroll one die to determine which nightmare wins second place.
 
 #### To Cheat or Not to Cheat
 
@@ -447,9 +447,9 @@ For NPC participants, the following table shows the average bet and skill modifi
 
 | Section Level | Average Bet | Modifier |
 |---------------|-------------|----------|
-| Amateur | 17 (`dice:1d4+15\|noform\|avg` (`1d4 + 15`)) talons | +4 |
-| Intermediate | 20 (`dice:2d4+15\|noform\|avg` (`2d4 + 15`)) talons | +8 |
-| Expert | 25 (`dice:4d4+15\|noform\|avg` (`4d4 + 15`)) talons | +12 |
+| Amateur | 17 (`dice:1d4+15\|noform\|noparens\|avg` (`1d4 + 15`)) talons | +4 |
+| Intermediate | 20 (`dice:2d4+15\|noform\|noparens\|avg` (`2d4 + 15`)) talons | +8 |
+| Expert | 25 (`dice:4d4+15\|noform\|noparens\|avg` (`4d4 + 15`)) talons | +12 |
 ^cerulean-hall-betting
 
 #### A Contest of Wits
@@ -562,7 +562,7 @@ Before the characters explore the maze, have them designate a leader. If a chara
 | dice: d10 | Chamber |
 |-----------|---------|
 | 1–3 | A simple table sits at the center of this chamber. On the table are two [[5. Mechanics/Items/Potion Of Greater Healing.md\|Potions of Healing (greater)]] and a bag of 30 talons. |
-| 4–6 | This chamber contains a gurgling pool of turquoise water. A creature that spends 1 minute bathing in the pool gains `dice:2d10\|noform\|avg` (`2d10`) temporary hit points. |
+| 4–6 | This chamber contains a gurgling pool of turquoise water. A creature that spends 1 minute bathing in the pool gains `dice:2d10\|noform\|noparens\|avg` (`2d10`) temporary hit points. |
 | 7–8 | Planters filled with sweet-smelling flowers line this room. At the center of the room is an unlocked wooden chest containing 75 talons. |
 | 9 | This chamber contains a locked iron chest. A character can open the chest with a successful DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check using thieves' tools, or it can be forced open with a successful DC 17 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. A [[5. Mechanics/Spells/Knock.md\|Knock]] spell or similar magic also opens the chest. Inside the chest are 100 talons and three Soul Coins. |
 | 10 | One of this room's walls has a simple stone doorway, which leads out of the maze and returns the characters to the maze lobby. |
@@ -604,11 +604,11 @@ This card game has a minimum bet of 20 talons, which goes into a pot at the cent
 
 At the start of the game, the croupier deals each participant a pair of cards. The croupier draws three cards to lay face up next to the pot; these cards are up for auction. Participants bid on the auction cards, and the participant with the highest bid wins the card and adds their bid to the pot. Once all three auction cards have been sold, all participants reveal their hands, and the highest-ranking hand wins the whole pot.
 
-To simulate play of this game, have each participant roll `dice:2d12|noform|avg` (`2d12`) in secret. Then, roll `dice:3d12|noform|avg` (`3d12`) and show the numbers rolled—these represent the auction cards. On winning a bid, the participant can add the number rolled on the die won to their total roll. At the end of the game, the participant with the highest total wins. If the highest totals are tied, no one wins.
+To simulate play of this game, have each participant roll `dice:2d12|noform|noparens|avg` (`2d12`) in secret. Then, roll `dice:3d12|noform|noparens|avg` (`3d12`) and show the numbers rolled—these represent the auction cards. On winning a bid, the participant can add the number rolled on the die won to their total roll. At the end of the game, the participant with the highest total wins. If the highest totals are tied, no one wins.
 
 ##### Triple Hydra
 
-The minimum bet for this game is 25 talons. In this dice game, each participant rolls `dice:3d6|noform|avg` (`3d6`). If the participant rolls none of the same number, the participant wins nothing. If the participant rolls two of the same number, the participant wins an amount equal to twice their starting bet. If the participant rolls three of the same number, the participant wins an amount equal to triple their starting bet.
+The minimum bet for this game is 25 talons. In this dice game, each participant rolls `dice:3d6|noform|noparens|avg` (`3d6`). If the participant rolls none of the same number, the participant wins nothing. If the participant rolls two of the same number, the participant wins an amount equal to twice their starting bet. If the participant rolls three of the same number, the participant wins an amount equal to triple their starting bet.
 
 If a participant rolls two or more 1s, this roll is called snake eyes. In addition to the normal payout, a participant who rolls snake eyes also gets an additional payout equal to their starting bet.
 
@@ -649,7 +649,7 @@ A [[5. Mechanics/Bestiary/Fiend/Pit Fiend.md\|pit fiend]] stands guard in each r
 
 #### Wards
 
-Magical wards surround Dragon's Pride. If a creature without the club's mark attempts to teleport into Dragon's Pride, the creature takes `dice:6d10|noform|avg|text(33)` (`6d10`) psychic damage, and the attempt fails.
+Magical wards surround Dragon's Pride. If a creature without the club's mark attempts to teleport into Dragon's Pride, the creature takes `dice:6d10|noform|noparens|avg|text(33)` (`6d10`) psychic damage, and the attempt fails.
 
 ### Dragon's Pride Locations
 
@@ -666,7 +666,7 @@ The areas of Dragon's Pride are keyed to map 8.4.
 > Lavish couches surround low tables in this dimly lit lounge. At the center of the room is a circular bar. Liquor bottles on shelves flash colors in time with faintly playing jazz, while a frost-blue devil pours drinks behind the bar.
 ^450
 
-The bartender is an [[5. Mechanics/Bestiary/Fiend/Ice Devil.md\|ice devil]] named Oganath, who uses its frigid claws to instantly chill the drinks it serves. At any given time, `dice:2d4|noform|avg` (`2d4`) [[5. Mechanics/Bestiary/Fiend/Horned Devil.md\|horned devils]] relax in the lounge.
+The bartender is an [[5. Mechanics/Bestiary/Fiend/Ice Devil.md\|ice devil]] named Oganath, who uses its frigid claws to instantly chill the drinks it serves. At any given time, `dice:2d4|noform|noparens|avg` (`2d4`) [[5. Mechanics/Bestiary/Fiend/Horned Devil.md\|horned devils]] relax in the lounge.
 
 ##### Oganath's Cocktails
 
@@ -706,14 +706,14 @@ Any magic item created by Krysocol bears the following additional effect, which 
 
 The spa is run by two [[5. Mechanics/Bestiary/Fiend/Erinyes.md\|erinyes]] named Vitia and Vertu. They offer two services:
 
-- **Brimstone Springs (Costs 100 Talons).** This service takes 1 hour and includes a relaxing hot spring bath and massage. A creature who partakes in this service gains `dice:4d10+4|noform|avg` (`4d10 + 4`) "temporary hit points" in addition to the benefits of a short rest.  
-- **Luxe Reawakening (Costs 450 Talons).** This rejuvenating service takes 3 hours. A creature who partakes in this service gains `dice:6d10+6|noform|avg` (`6d10 + 6`) "temporary hit points" in addition to the benefits of a long rest.  
+- **Brimstone Springs (Costs 100 Talons).** This service takes 1 hour and includes a relaxing hot spring bath and massage. A creature who partakes in this service gains `dice:4d10+4|noform|noparens|avg` (`4d10 + 4`) "temporary hit points" in addition to the benefits of a short rest.  
+- **Luxe Reawakening (Costs 450 Talons).** This rejuvenating service takes 3 hours. A creature who partakes in this service gains `dice:6d10+6|noform|noparens|avg` (`6d10 + 6`) "temporary hit points" in addition to the benefits of a long rest.  
 
 #### N4: Windfall's Office
 
 The door to the office is locked and guarded by two [[5. Mechanics/Bestiary/Fiend/Pit Fiend.md\|pit fiends]]. Each pit fiend standing guard also carries a key to the office door for emergency purposes. Opening the door without the proper key requires thieves' tools and a successful DC 20 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check, or a [[5. Mechanics/Spells/Knock.md\|Knock]] spell or similar magic.
 
-If the office door is opened by any means other than the key, its trap activates, spraying colorless poisonous gas in a 15-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or take `dice:4d8|noform|avg|text(18)` (`4d8`) poison damage. This trap can't be disarmed.
+If the office door is opened by any means other than the key, its trap activates, spraying colorless poisonous gas in a 15-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or take `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) poison damage. This trap can't be disarmed.
 
 The office's interior is devoid of occupants. When the characters venture inside, read the following:
 

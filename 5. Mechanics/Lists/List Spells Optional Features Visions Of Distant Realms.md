@@ -10,4 +10,4 @@ aliases:
 
 ## 4th Level
 
-- [[Arcane Eye \|"PHB"]]
+- [[5. Mechanics/Spells/Arcane Eye.md \|"PHB"]]

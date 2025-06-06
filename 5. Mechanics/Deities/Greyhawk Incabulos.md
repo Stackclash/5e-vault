@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greyhawk
   - domain/death
+alignment: Neutral Evil
+domains: Death
+pantheon: Greyhawk
+symbol: Reptilian eye with a horizontal diamond
 aliases:
   - Incabulos
 ---

@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/vgm
   - deity/orc
   - domain/trickery
+alignment: Neutral Evil
+domains: Trickery
+pantheon: Orc
+symbol: Red crescent moon with a skull between the moon's horns
 aliases:
   - Shargaas
 ---

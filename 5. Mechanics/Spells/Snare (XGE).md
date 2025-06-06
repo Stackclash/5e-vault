@@ -14,22 +14,33 @@ tags:
   - spell/school/abjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 1st-level
-range: false
+classes:
+  - Artificer
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Abjuration
+level: 1
+ritual: false
 time: 1 minute
-duration: 8 hour
-components: 'S, 25 feet of rope, which the spell consumes'
+duration: 8 hours
+components:
+  - S
+  - M
 aliases:
   - Snare
+material: '25 feet of rope, which the spell consumes'
 ---
 # Snare
 *1st-level, Abjuration*  
 
 - **Casting time:** 1 minute
 - **Range:** Touch
-- **Components:** S, 25 feet of rope, which the spell consumes
-- **Duration:** 8 hour
+- **Components:** S, M (25 feet of rope, which the spell consumes)
+- **Duration:** 8 hours
 
 As you cast this spell, you use the rope to create a circle with a 5-foot radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap.
 
@@ -41,6 +52,6 @@ A [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature can make
 
 After the trap is triggered, the spell ends when no creature is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by it.
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Xanathar's Guide to Everything p. 165*

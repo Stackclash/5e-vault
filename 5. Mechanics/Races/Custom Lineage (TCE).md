@@ -10,7 +10,7 @@ aliases:
 # Custom Lineage
 *Source: Tasha's Cauldron of Everything p. 8*  
 
-- **Ability Scores**: Apply +2 to one of Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma
+- **Ability Scores**: Apply +1 to one of Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma.
 - **Size**: Small or Medium
 - **Speed**: 30 ft.
 

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Frost Giant
 ---
-# [[5. Mechanics/Bestiary/Giant/Frost Giant.md|Frost Giant]]
+# [[5. Mechanics\Bestiary\Giant\Frost Giant.md|Frost Giant]]
 *Source: Monster Manual p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Gigantic reavers from the freezing lands beyond civilization, frost giants are fierce, hardy warriors that survive on the spoils of their raids and pillaging. They respect only brute strength and skill in battle, demonstrating both with their scars and the grisly trophies they take from their enemies.
@@ -89,36 +89,39 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "ac_class": "patchwork armor"
 "hp": !!int "138"
 "hit_dice": "12d12 + 60"
+"modifier": !!int "-1"
 "stats":
-- !!int "23"
-- !!int "9"
-- !!int "21"
-- !!int "9"
-- !!int "10"
-- !!int "12"
+  - !!int "23"
+  - !!int "9"
+  - !!int "21"
+  - !!int "9"
+  - !!int "10"
+  - !!int "12"
 "speed": "40 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Wisdom": !!int "3"
-  "Constitution": !!int "8"
+  - "constitution": "+8"
+  - "wisdom": "+3"
+  - "charisma": "+4"
 "skillsaves":
-  "Athletics": !!int "9"
-  "Perception": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
+    "desc": "+9"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
 "damage_immunities": "cold"
 "senses": "passive Perception 13"
 "languages": "Giant"
 "cr": "8"
 "actions":
-- "desc": "The giant makes two greataxe attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 25 (3d12\
-    \ + 6) slashing damage."
-  "name": "Greataxe"
-- "desc": "Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit:\
-    \ 28 (4d10 + 6) bludgeoning damage."
-  "name": "Rock"
+  - "desc": "The giant makes two greataxe attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 25\
+      \ (3d12 + 6) slashing damage."
+    "name": "Greataxe"
+  - "desc": "Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit:\
+      \ 28 (4d10 + 6) bludgeoning damage."
+    "name": "Rock"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Giant/token/frost-giant.webp"
 ```
 ^statblock

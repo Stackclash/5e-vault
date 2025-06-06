@@ -9,6 +9,7 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Fear
+weight: 1
 ---
 # Wand of Fear
 *Wand, major, rare (requires attunement)*  
@@ -16,7 +17,7 @@ aliases:
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges for the following properties. It regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the wand crumbles into ashes and is destroyed.
+This wand has 7 charges for the following properties. It regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand crumbles into ashes and is destroyed.
 
 ## Command
 

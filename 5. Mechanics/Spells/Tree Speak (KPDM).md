@@ -9,19 +9,25 @@ tags:
   - spell/level/1st-level
   - spell/school/divination
   - spell/subclass/circle-of-oaks
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Druid (Circle of Oaks)
 school: Divination
-time: 1 action
+level: 1
+ritual: false
+time: 1 Action
 duration: 1 minute
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Tree Speak
 ---
 # Tree Speak
 *1st-level, Divination*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** 1 minute
@@ -30,6 +36,6 @@ You touch a tree and ask one question about anything that might have happened in
 
 If you cast this spell on a tree that contains a creature that can merge with trees, such as a dryad, you can freely communicate with the merged creature for the duration of the spell.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Druid Circle Of Oaks (KPDM)\|Druid (Circle of Oaks)]]
+**Classes**: [Druid (Circle of Oaks)](compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 115*

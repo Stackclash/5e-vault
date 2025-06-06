@@ -18,25 +18,36 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/nature-domain
   - spell/subrace/elf-high
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Nature Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Enchantment
-time: 1 action
+level: cantrip
+ritual: false
+time: 1 Action
 duration: 1 minute
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Obtuse
 ---
 # Obtuse
 *cantrip, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** 1 minute
 
-You temporarily cloud the mind of a creature within range, inhibiting its decision-making skills. If the target succeeds on a Wisdom saving throw, the spell is ineffective. On a failed save, the next time the creature makes a Wisdom check before the spell ends, roll a `dice:d6|noform|avg` (`d6`) and subtract the result from the roll. The spell then ends.
+You temporarily cloud the mind of a creature within range, inhibiting its decision-making skills. If the target succeeds on a Wisdom saving throw, the spell is ineffective. On a failed save, the next time the creature makes a Wisdom check before the spell ends, roll a `dice:d6|noform|noparens|avg` (`d6`) and subtract the result from the roll. The spell then ends.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 97*

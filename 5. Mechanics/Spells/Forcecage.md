@@ -8,21 +8,33 @@ tags:
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/evocation
-level: 7th-level
-range: false
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 school: Evocation
-time: 1 action
+level: 7
+ritual: false
+time: 1 Action
 duration: 1 hour
-components: 'V, S, ruby dust worth 1,500 gp'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Forcecage
+range: 100 feet
+material: 'Ruby dust worth 1,500 gp.'
+area:
+  type: cube
+  size: 20
 ---
 # Forcecage
 *7th-level, Evocation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 100 feet
-- **Components:** V, S, ruby dust worth 1,500 gp
+- **Components:** V, S, M (ruby dust worth 1,500 gp)
 - **Duration:** 1 hour
 
 An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box as you choose.
@@ -37,6 +49,6 @@ A creature inside the cage can't leave it by nonmagical means. If the creature t
 
 This spell can't be dispelled by [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]].
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

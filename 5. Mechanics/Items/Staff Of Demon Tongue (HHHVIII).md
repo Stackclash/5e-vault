@@ -9,15 +9,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of Demon Tongue
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Staff of Demon Tongue
 *Staff, weapon, very rare (requires attunement by a spellcaster)*  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
@@ -29,10 +30,10 @@ You can cast the following spells using the staff. Spells are cast at their lowe
 
 ## Demonic Authority
 
-You expend 4 charges and target a humanoid or a demon that you can see within 60 feet of you, forcing them to succeed on a Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by you for 1 hour. This ability is able to charm demons even if they have immunity to the [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] condition. While [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] in this way, the target views you as a feared commander and does their best to follow your orders as if they were given under threat of punishment (whether this is true or not is irrelevant). Anytime you or your allies damage the target, they may make the saving throw again, ending the effect on itself on a success. As an action, you may end the [[/5. Mechanics/Rules/Conditions.md#Charmed\|charm]] effect early, and as part of that, you may force the target to make another Wisdom saving throw. On a failure, the target suffers `dice:2d8|noform|avg` (`2d8`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you for the rest of the duration of the original [[/5. Mechanics/Rules/Conditions.md#Charmed\|charm]] effect.
+You expend 4 charges and target a humanoid or a demon that you can see within 60 feet of you, forcing them to succeed on a Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by you for 1 hour. This ability is able to charm demons even if they have immunity to the [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] condition. While [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] in this way, the target views you as a feared commander and does their best to follow your orders as if they were given under threat of punishment (whether this is true or not is irrelevant). Anytime you or your allies damage the target, they may make the saving throw again, ending the effect on itself on a success. As an action, you may end the [[/5. Mechanics/Rules/Conditions.md#Charmed\|charm]] effect early, and as part of that, you may force the target to make another Wisdom saving throw. On a failure, the target suffers `dice:2d8|noform|noparens|avg` (`2d8`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you for the rest of the duration of the original [[/5. Mechanics/Rules/Conditions.md#Charmed\|charm]] effect.
 
 ## Demonic Corruption
 
-You expend 3 charges and target a creature within 60 feet of you that is not undead or a construct. That creature must succeed on a Constitution saving throw or suffer `dice:4d6|noform|avg` (`4d6`) necrotic damage and have their hit point maximum reduced by the same amount. This reduction lasts until the target finishes a long rest. The target dies if their hit point maximum is reduced to 0.
+You expend 3 charges and target a creature within 60 feet of you that is not undead or a construct. That creature must succeed on a Constitution saving throw or suffer `dice:4d6|noform|noparens|avg` (`4d6`) necrotic damage and have their hit point maximum reduced by the same amount. This reduction lasts until the target finishes a long rest. The target dies if their hit point maximum is reduced to 0.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 96. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

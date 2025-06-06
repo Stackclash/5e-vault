@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Lantern of Revealing
+weight: 2
 ---
 # Lantern of Revealing
 *Wondrous item, minor, uncommon*  

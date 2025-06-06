@@ -8,13 +8,14 @@ tags:
   - item/weapon/simple
 aliases:
   - Fire Dagger
-one-hand-damage: 1d4 F
-range: 20/60
+one-hand-damage: 1d4 fire
+range: 20\60
+weight: 1
 ---
 # Fire Dagger
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), uncommon*  
 
-- **Damage**: 1d4 F
+- **Damage**: 1d4 fire
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.

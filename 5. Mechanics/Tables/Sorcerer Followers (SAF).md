@@ -15,8 +15,8 @@ aliases:
 
 | dice: d100 | Follower |
 |------------|----------|
-| 01–05 | Veteran Light Infantry (Size `dice:1d4\|noform\|avg` (`1d4`)), Unit |
-| 06–10 | Regular Light Airborne (Size `dice:1d4\|noform\|avg` (`1d4`)), Unit |
+| 01–05 | Veteran Light Infantry (Size `dice:1d4\|noform\|noparens\|avg` (`d4`)), Unit |
+| 06–10 | Regular Light Airborne (Size `dice:1d4\|noform\|noparens\|avg` (`d4`)), Unit |
 | 11–12 | [[5. Mechanics/Bestiary/Humanoid/Battle Priest (SAF).md\|Battle Priest]] (3rd Level), Retainer |
 | 13–14 | [[5. Mechanics/Bestiary/Humanoid/Shadow Priest (SAF).md\|Shadow Priest]] (3rd Level), Retainer |
 | 15–18 | [[5. Mechanics/Bestiary/Humanoid/Beast Lord (SAF).md\|Beast Lord]] (3rd Level), Retainer |

@@ -10,21 +10,33 @@ tags:
   - spell/school/conjuration
   - spell/subclass/greenleaf-college
   - spell/subclass/hedge-mage
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Bard (Greenleaf College)
+  - Druid
+  - Ranger
+  - Wizard (Hedge Mage)
 school: Conjuration
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, one holly berry per creature summoned'
+level: 4
+ritual: false
+time: 1 Action
+duration: Up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Conjure Woodland Beings
+range: 60 feet
+material: One holly berry per creature summoned.
+concentration: true
 ---
 # Conjure Woodland Beings
 *4th-level, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
-- **Components:** V, S, one holly berry per creature summoned
+- **Components:** V, S, M (one holly berry per creature summoned)
 - **Duration:** Concentration, up to 1 hour
 
 You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
@@ -42,6 +54,6 @@ The DM has the creatures' statistics.
 
 **At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Bard Greenleaf College (KPDM)\|Bard (Greenleaf College)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Bard (Greenleaf College)](compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 226. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

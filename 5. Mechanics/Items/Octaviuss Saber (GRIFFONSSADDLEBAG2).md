@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Octavius's Saber
-one-hand-damage: 1d8 P
+one-hand-damage: 1d8 piercing
+weight: 2
 ---
 # Octavius's Saber
 *Weapon ([[5. Mechanics/Items/Rapier.md\|rapier]]), major, legendary (requires attunement by a rogue)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Octavius-Saber.webp#right)  
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
 

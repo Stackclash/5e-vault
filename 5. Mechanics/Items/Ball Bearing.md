@@ -7,6 +7,7 @@ tags:
   - item/rarity/none
 aliases:
   - Ball Bearing
+weight: 0.002
 ---
 # Ball Bearing
 *Adventuring gear*  

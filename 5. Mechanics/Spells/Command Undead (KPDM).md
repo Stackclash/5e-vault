@@ -9,19 +9,25 @@ tags:
   - spell/level/3rd-level
   - spell/school/necromancy
   - spell/subclass/arcane-trickster
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Necromancy
-time: 1 action
+level: 3
+ritual: false
+time: 1 Action
 duration: 1 round
-components: V
+components:
+  - V
 aliases:
   - Command Undead
 ---
 # Command Undead
 *3rd-level, Necromancy*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V
 - **Duration:** 1 round
@@ -30,6 +36,6 @@ You speak a one-word command to all undead creatures you can see within range. A
 
 See the [[5. Mechanics/Spells/Command.md\|command]] spell for examples for typical commands.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 51*

@@ -8,7 +8,7 @@ aliases:
   - Path of the Infernal
 ---
 # Path of the Infernal
-*[[Barbarian.md\|Barbarian]]: Primal Path*  
+*[[.nullBarbarian.md\|Barbarian]]: Primal Path*  
 *Source: The Griffon's Saddlebag, Book 2 p. 209*  
 
 > [!tldr] Class and Feature Progression
@@ -20,18 +20,18 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path%20of%20the%20Infernal%20(Level%203)'>Path of the Infernal</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path of the Infernal (Level 3)' class='internal-link'>Path of the Infernal</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Infernal%20Warrior%20(Level%206)'>Infernal Warrior</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Infernal Warrior (Level 6)' class='internal-link'>Infernal Warrior</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Planar%20Conspirator%20(Level%2010)'>Planar Conspirator</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Planar Conspirator (Level 10)' class='internal-link'>Planar Conspirator</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Incinerating%20Wrath%20(Level%2014)'>Incinerating Wrath</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Incinerating Wrath (Level 14)' class='internal-link'>Incinerating Wrath</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -50,11 +51,11 @@ You have found the conduit for your rage in something scarier than anything you'
 
 ### Hellfire Claw (Level 3)
 
-Starting when you choose this path at 3rd level, one of your hands transforms into a large, fiery claw whenever you enter your rage. The claw remains for the duration of your rage. If you're wielding a weapon with the clawed hand, its flames harmlessly spread to the weapon it's holding and wreath it in magical flames. The first target you hit with this fiery weapon on each of your turns takes an extra `dice:1d6|noform|avg` (`1d6`) fire damage.
+Starting when you choose this path at 3rd level, one of your hands transforms into a large, fiery claw whenever you enter your rage. The claw remains for the duration of your rage. If you're wielding a weapon with the clawed hand, its flames harmlessly spread to the weapon it's holding and wreath it in magical flames. The first target you hit with this fiery weapon on each of your turns takes an extra `dice:1d6|noform|noparens|avg` (`d6`) fire damage.
 
-If you don't deal this fire damage with a weapon attack on your turn, you can use a bonus action to make an unarmed strike with the claw, provided it's empty. On a hit, the target takes the normal damage from your unarmed strike, which can be either bludgeoning or slashing damage (your choice), plus an extra `dice:1d6|noform|avg` (`1d6`) fire damage.
+If you don't deal this fire damage with a weapon attack on your turn, you can use a bonus action to make an unarmed strike with the claw, provided it's empty. On a hit, the target takes the normal damage from your unarmed strike, which can be either bludgeoning or slashing damage (your choice), plus an extra `dice:1d6|noform|noparens|avg` (`d6`) fire damage.
 
-The claw's fire damage increases when you reach certain levels in this class, increasing to `dice:1d8|noform|avg` (`1d8`) at 6th level, `dice:1d10|noform|avg` (`1d10`) at 10th level, and `dice:1d12|noform|avg` (`1d12`) at 14th level.
+The claw's fire damage increases when you reach certain levels in this class, increasing to `dice:1d8|noform|noparens|avg` (`d8`) at 6th level, `dice:1d10|noform|noparens|avg` (`d10`) at 10th level, and `dice:1d12|noform|noparens|avg` (`d12`) at 14th level.
 
 ### Hellborn (Level 3)
 

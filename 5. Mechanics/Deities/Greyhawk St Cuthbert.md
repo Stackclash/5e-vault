@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greyhawk
   - domain/knowledge
+alignment: Lawful Neutral
+domains: Knowledge
+pantheon: Greyhawk
+symbol: Circle at the center of a starburst of lines
 aliases:
   - St. Cuthbert
 ---

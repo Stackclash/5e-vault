@@ -8,7 +8,7 @@ aliases:
   - College of Spirits
 ---
 # College of Spirits
-*[[Bard.md\|Bard]]: Bard College*  
+*[[.nullBard.md\|Bard]]: Bard College*  
 *Source: Van Richten's Guide to Ravenloft p. 28*  
 
 > [!tldr] Class and Feature Progression
@@ -20,10 +20,10 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#College%20of%20Spirits%20(Level%203)'>College of Spirits</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#College of Spirits (Level 3)' class='internal-link'>College of Spirits</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Spirit%20Session%20(Level%206)'>Spirit Session</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Spirit Session (Level 6)' class='internal-link'>Spirit Session</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -31,7 +31,7 @@ aliases:
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Mystical%20Connection%20(Level%2014)'>Mystical Connection</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Mystical Connection (Level 14)' class='internal-link'>Mystical Connection</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -60,7 +61,7 @@ You can reach out to spirits to guide you and others. You learn the [[5. Mechani
 
 You employ tools that aid you in channeling spirits, be they historical figures or fictional archetypes. You can use the following objects as a spellcasting focus for your bard spells: a candle, crystal ball, skull, spirit board, or [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]].
 
-Starting at 6th level, when you cast a bard spell that deals damage or restores hit points through the Spiritual Focus, roll a `dice:d6|noform|avg` (`d6`), and you gain a bonus to one damage or healing roll of the spell equal to the number rolled.
+Starting at 6th level, when you cast a bard spell that deals damage or restores hit points through the Spiritual Focus, roll a `dice:d6|noform|noparens|avg` (`d6`), and you gain a bonus to one damage or healing roll of the spell equal to the number rolled.
 
 ### Tales from Beyond (Level 3)
 

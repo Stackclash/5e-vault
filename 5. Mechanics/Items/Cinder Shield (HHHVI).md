@@ -9,6 +9,7 @@ tags:
 aliases:
   - Cinder Shield
 armorClass: 2
+weight: 6
 ---
 # Cinder Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), rare (requires attunement)*  

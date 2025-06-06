@@ -10,4 +10,4 @@ aliases:
 
 ## 1st Level
 
-- [[Burning Hands \|"PHB"]]
+- [[5. Mechanics/Spells/Burning Hands.md \|"PHB"]]

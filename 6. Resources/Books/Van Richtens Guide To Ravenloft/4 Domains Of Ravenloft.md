@@ -31,13 +31,13 @@ The Dark Powers also grant Darklords limited ability to manipulate the Mists sur
 
 Most Darklords can keep their domains' borders closed indefinitely and can reopen them at will. For some Darklords, slightly varied effects manifest when they close their domains. Others are limited in their ability to affect their borders. For each domain, specifics appear in the "Closing the Borders" portion of the section on that domain's Darklord.
 
-If a domain's borders are open, the domain is still not easy to escape from. The area within the Mists remains heavily obscured, but the Mists don't cause creatures to gain levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]. Characters intent on passing through the Mists travel for `dice:1d6|noform|avg` (`1d6`) hours, then roll on the Wandering the Mists table to determine what happens.
+If a domain's borders are open, the domain is still not easy to escape from. The area within the Mists remains heavily obscured, but the Mists don't cause creatures to gain levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]. Characters intent on passing through the Mists travel for `dice:1d6|noform|noparens|avg` (`d6`) hours, then roll on the Wandering the Mists table to determine what happens.
 
 ![[5. Mechanics/Tables/Wandering The Mists (VRGR).md\|Wandering the Mists]]
 
 #### Mist Talismans
 
-A Mist talisman is a nonmagical object, akin to a dowsing rod or a lodestone, that resonates with the unique nature of the domain where it originates, allowing the creature holding it to find a path through the Mists to that domain. By holding the talisman and focusing on its domain of origin, a creature in the Mists can reach that domain after `dice:2d6|noform|avg` (`2d6`) hours of travel. Any creatures that willingly follow the creature with the Mist talisman also reach the same destination. A Mist talisman is no help to a creature imprisoned within a domain's closed borders. If the borders of the destination domain are closed, roll on the Wandering the Mists table to determine what happens.
+A Mist talisman is a nonmagical object, akin to a dowsing rod or a lodestone, that resonates with the unique nature of the domain where it originates, allowing the creature holding it to find a path through the Mists to that domain. By holding the talisman and focusing on its domain of origin, a creature in the Mists can reach that domain after `dice:2d6|noform|noparens|avg` (`2d6`) hours of travel. Any creatures that willingly follow the creature with the Mist talisman also reach the same destination. A Mist talisman is no help to a creature imprisoned within a domain's closed borders. If the borders of the destination domain are closed, roll on the Wandering the Mists table to determine what happens.
 
 Mist talismans take ominous forms, and no two are alike. A family's burned holy book, a battered stuffed toy, a papyrus scroll, or any of the items on the [[5. Mechanics/Items/Horror Trinket (VRGR).md\|Horror Trinkets]] in "chapter 1" might serve as Mist talismans. Few who dwell in the Domains of Dread know how to use Mist talismans or have interest in traveling to other domains. Those who do, though, might share a Mist talisman with adventurers or could know where such an item is located. You can use Mist talismans to guide characters from one domain to another as your adventures require.
 
@@ -1434,11 +1434,11 @@ The streets are packed with poorly armed commoners and cruel Talon soldiers. Any
 
 Run the siege as a series of encounters rather than one extended battle. As terrible events unfold around the characters, it's up to them to determine who and how they'll help.
 
-Begin the siege with zombies approaching Lekar's walls. The characters might pick off distant zombies or enact plans to destroy dozens at a time. The characters' strategies are likely successful, but the horde soon begins overwhelming defenses nearby. Once the characters defeat a few zombies, roll `dice:1d6|noform|avg` (`1d6`) and consult the Zombie Siege Encounters table. The event rolled unfolds within sight of one of the characters. It's up to the characters to either take action or let the event transpire. When the characters complete an encounter, roll on the table again. If the characters ignore one of these events, the defenders' situation worsens. Add +2 to the next roll on the table.
+Begin the siege with zombies approaching Lekar's walls. The characters might pick off distant zombies or enact plans to destroy dozens at a time. The characters' strategies are likely successful, but the horde soon begins overwhelming defenses nearby. Once the characters defeat a few zombies, roll `dice:1d6|noform|noparens|avg` (`d6`) and consult the Zombie Siege Encounters table. The event rolled unfolds within sight of one of the characters. It's up to the characters to either take action or let the event transpire. When the characters complete an encounter, roll on the table again. If the characters ignore one of these events, the defenders' situation worsens. Add +2 to the next roll on the table.
 
 The siege lasts as long as you like. Use frantic rushes between emergencies to describe small horrors and victories while wearing down the characters' resources with brief zombie attacks. If the characters feel completely overwhelmed, Talon [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priests]] with [[5. Mechanics/Items/Potion Of Healing.md\|potions of healing]] might appear, or an officer can enlist characters to deliver orders from General Drakov (likely related to the siege's climax).
 
-As the battle reaches what you determine to be the halfway point, start rolling `dice:2d6|noform|avg` (`2d6`) on the Zombie Siege Encounters table and consult the ""Concluding the Siege"" section to guide the battle toward its climax.
+As the battle reaches what you determine to be the halfway point, start rolling `dice:2d6|noform|noparens|avg` (`2d6`) on the Zombie Siege Encounters table and consult the ""Concluding the Siege"" section to guide the battle toward its climax.
 
 ![[5. Mechanics/Tables/During The Siege Zombie Siege Encounters (VRGR).md\|During the Siege; Zombie Siege Encounters]]
 
@@ -1570,7 +1570,7 @@ The priests of Har'Akir's gods work Ankhtepot's will. Most priests believe thems
 
 ##### Closing the Borders
 
-When Ankhtepot wishes to close the borders of Har'Akir, mighty sandstorms rise at the edges of the domain. Those who enter the storms are affected as detailed in ""The Mists"" at the start of this chapter, but in addition, they take `dice:2d6|noform|avg` (`2d6`) slashing damage per round from the scouring sands.
+When Ankhtepot wishes to close the borders of Har'Akir, mighty sandstorms rise at the edges of the domain. Those who enter the storms are affected as detailed in ""The Mists"" at the start of this chapter, but in addition, they take `dice:2d6|noform|noparens|avg` (`2d6`) slashing damage per round from the scouring sands.
 
 #### Ankhtepot's Torment
 
@@ -1814,7 +1814,7 @@ Magic is a source of both prestige and terror in Hazlan. Commoners fear it but k
 
 #### Hazlan Wild Magic
 
-Excessive experimentation has caused the nature of magic in Hazlan to fray, making the entire domain a region of wild magic. Whenever a character in Hazlan expends a spell slot to cast a spell of 1st level or higher or actives a magic item, an additional effect might occur. The character's player rolls a `dice:d10|noform|avg` (`d10`). If they roll a 1, roll on the Hazlan Wild Magic table to determine the effect. Only Hazlik is unaffected by the domain's wild magic.
+Excessive experimentation has caused the nature of magic in Hazlan to fray, making the entire domain a region of wild magic. Whenever a character in Hazlan expends a spell slot to cast a spell of 1st level or higher or actives a magic item, an additional effect might occur. The character's player rolls a `dice:d10|noform|noparens|avg` (`d10`). If they roll a 1, roll on the Hazlan Wild Magic table to determine the effect. Only Hazlik is unaffected by the domain's wild magic.
 
 ![[5. Mechanics/Tables/Hazlan Wild Magic (VRGR).md\|Hazlan Wild Magic]]
 
@@ -1936,7 +1936,7 @@ Tsien Chiang's magical creation, the Nightingale Bell, traveled with her to I'Ca
 
 ##### Renovating the City
 
-Each evening,   Tsien Chiang relays her orders for I'Cath's reconstruction to her droves of jiangshi agents, led by Minister Suen. Suen then disseminates these orders to the jiangshi of the Gemstone Garden, who work through the night. Every morning, Tsien Chiang finds some aspect of the city's miraculous changes unacceptable and returns to her palace, where she spends the day assembling new orders for her [[5. Mechanics/Bestiary/Undead/Jiangshi (VRGR).md\|jiangshi]] servants.
+Each evening, Tsien Chiang relays her orders for I'Cath's reconstruction to her droves of jiangshi agents, led by Minister Suen. Suen then disseminates these orders to the jiangshi of the Gemstone Garden, who work through the night. Every morning, Tsien Chiang finds some aspect of the city's miraculous changes unacceptable and returns to her palace, where she spends the day assembling new orders for her [[5. Mechanics/Bestiary/Undead/Jiangshi (VRGR).md\|jiangshi]] servants.
 
 ##### The Darklord's Daughters
 
@@ -1998,7 +1998,7 @@ Anyone who sleeps in I'Cath enters Tsien Chiang's dream of a bustling, beautiful
 
 ##### Nature of the Dream
 
-Creatures in the dream of I'Cath have the statistics they do in waking life. If a creature dies in the dream, it takes `dice:3d6|noform|avg` (`3d6`) psychic damage, returns to the waking world, and does not receive any benefit from the rest that just ended.
+Creatures in the dream of I'Cath have the statistics they do in waking life. If a creature dies in the dream, it takes `dice:3d6|noform|noparens|avg` (`3d6`) psychic damage, returns to the waking world, and does not receive any benefit from the rest that just ended.
 
 ##### The Nightingale Bell
 
@@ -2356,7 +2356,7 @@ Lukas owns this intimate, traditional tavern in Skald. Nightly, either Harkon Lu
 
 ##### Closing the Borders
 
-When Harkon chooses to close Kartakass's borders, a soothing song fills the Mists. The Mists function as detailed in ""The Mists"" at the start of this chapter, but in addition, any creature in the Mists that has its speed reduced to 0 by [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] falls [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] and is teleported out of the Mists. The creature awakes at the Mists' edge back in Kartakass `dice:1d6|noform|avg` (`1d6`) hours later.
+When Harkon chooses to close Kartakass's borders, a soothing song fills the Mists. The Mists function as detailed in ""The Mists"" at the start of this chapter, but in addition, any creature in the Mists that has its speed reduced to 0 by [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] falls [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] and is teleported out of the Mists. The creature awakes at the Mists' edge back in Kartakass `dice:1d6|noform|noparens|avg` (`d6`) hours later.
 
 #### Harkon Lukas's Torment
 
@@ -2508,7 +2508,7 @@ Dr. Viktra Mordenheim dresses in functional, bloodstained lab wear. Her statisti
 
 Dr. Mordenheim can create any Construct or corporeal Undead by working in her laboratory for a number of uninterrupted days equal to the creature's challenge rating. At the end of the final day, the creature is complete and obeys her will. She uses this ability to create [[5. Mechanics/Bestiary/Construct/Flesh Golem.md\|flesh golems]] and [[5. Mechanics/Bestiary/Construct/Homuncul(US).md\|homunculi]], as well as [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]], [[5. Mechanics/Bestiary/Undead/Deaths Head (VRGR).md\|death's heads]], and [[5. Mechanics/Bestiary/Undead/Brain In A Jar (VRGR).md\|brains in jars]] (see "chapter 5").
 
-- **Reborn Maker.** A side effect of Dr. Mordenheim's experiments is the creation of reborn (see "chapter 1"). It takes her `dice:1d4|noform|avg` (`1d4`) days and the dead bodies of two Medium or Small Humanoids to create one reborn.  
+- **Reborn Maker.** A side effect of Dr. Mordenheim's experiments is the creation of reborn (see "chapter 1"). It takes her `dice:1d4|noform|noparens|avg` (`d4`) days and the dead bodies of two Medium or Small Humanoids to create one reborn.  
 - **Brain Swap.** Dr. Mordenheim can place a creature's brain or head into another body, moving it from a donor to a recipient. The process requires the donor to have a brain and either be [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or to have been dead for less than 24 hours. In an operation that takes 1 hour, the doctor transfers the donor's brain or head from their body to the [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or dead corporeal body of a creature without a brain. The donor awakes 1 hour later with control of the recipient's body.  
 
 While controlling the recipient's body, the donor retains their alignment, Intelligence, Wisdom, and Charisma scores. They otherwise use the recipient's body's statistics, but don't gain access to the recipient's knowledge, class features, or proficiencies. Dr. Mordenheim can swap a donor's brain or head back from the recipient's body to their original body through this same process, as long as the original body exists and no more than 1 week has passed. This period can be extended if steps are taken to preserve the original body, such as by keeping it in cold storage or under the effect of a [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] spell.
@@ -2945,7 +2945,7 @@ Creatures exposed to the disease must succeed on a DC 10 Constitution saving thr
 
 #### Symptoms
 
-It takes `dice:1d2|noform|avg` (`1d2`) days for the Gnawing Plague's symptoms to manifest in an infected creature. The infected creature then gains 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]], regains only half the normal number of hit points from spending Hit Dice, and regains no hit points from finishing a long rest.
+It takes `dice:1d2|noform|noparens|avg` (`d2`) days for the Gnawing Plague's symptoms to manifest in an infected creature. The infected creature then gains 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]], regains only half the normal number of hit points from spending Hit Dice, and regains no hit points from finishing a long rest.
 
 The plague's symptoms include buboes, fatigue, splotchy rashes, sweats, and shaking, particularly facial tremors. Locals liken these twitches to the sniffing of rats. Sufferers often have scraps of leather placed in their mouths to prevent their teeth from clattering, though they inevitably gnaw through these scraps.
 
@@ -2967,7 +2967,7 @@ The Gnawing Plague is an ever-present threat in Richemulot. At any given time, e
 
 The plague's progress begins at stage one, advances to stage four, and then either wanes back to stage one or ends when everyone in a community is dead. Each stage can last for days or weeks, as appropriate for your adventures.
 
-Alternatively, if you'd like to have the plague play out more randomly, roll a `dice:d20|noform|avg` (`d20`) each day. If you roll 2 or lower, the stage decreases by one. If you roll a 17 or higher, the stage increases by one. If the characters spend at least 1 hour during the day working to treat the sick, the stage decreases by one if you roll a 4 or lower.
+Alternatively, if you'd like to have the plague play out more randomly, roll a `dice:d20|noform|noparens|avg` (`d20`) each day. If you roll 2 or lower, the stage decreases by one. If you roll a 17 or higher, the stage increases by one. If the characters spend at least 1 hour during the day working to treat the sick, the stage decreases by one if you roll a 4 or lower.
 
 Let the plague's cycle proceed for as long as your adventures demand, waxing or waning whenever it's most dramatic. The plague will never kill everyone in Richemulot; there will always be miraculous cures or reasons for Jacqueline Renier to withdraw her infected rat swarms. The cities then repopulate swiftly, with new residents emerging from the Mists to little notice. This ensures that after a period of relative peace, the plague's next wave is just as devastating as the last.
 

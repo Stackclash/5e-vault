@@ -8,6 +8,7 @@ tags:
 aliases:
   - Electrum (ep)
 cost: 50
+weight: 0.02
 ---
 # Electrum (ep)
 *Treasure (coinage)*  

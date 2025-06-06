@@ -13,10 +13,10 @@ tags:
 aliases:
   - Red Slaad
 ---
-# [[5. Mechanics/Bestiary/Aberration/Red Slaad.md|Red Slaad]]
+# [[5. Mechanics\Bestiary\Aberration\Red Slaad.md|Red Slaad]]
 *Source: Monster Manual p. 276*
 
-When a red slaad claws a humanoid creature, it can inject an egg from a gland under one of its claws. The egg works its way into its host and gestates, eventually forming a slaad tadpole. Such a tadpole then eats its way out of the host's body, feeds on the host's remains, and then seeks any other fresh meat it can find. The tadpole transforms into a fully grown blue slaad-or green slaad if the host had the ability to cast 3rd level spells or higher-within `dice:2d12|noform|avg` (`2d12`) hours.
+When a red slaad claws a humanoid creature, it can inject an egg from a gland under one of its claws. The egg works its way into its host and gestates, eventually forming a slaad tadpole. Such a tadpole then eats its way out of the host's body, feeds on the host's remains, and then seeks any other fresh meat it can find. The tadpole transforms into a fully grown blue slaad-or green slaad if the host had the ability to cast 3rd level spells or higher-within `dice:2d12|noform|noparens|avg` (`2d12`) hours.
 
 ## Slaadi
 
@@ -48,7 +48,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|noform|avg|text(22)` (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]  
@@ -65,46 +65,49 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "ac_class": "natural armor"
 "hp": !!int "93"
 "hit_dice": "11d10 + 33"
+"modifier": !!int "1"
 "stats":
-- !!int "16"
-- !!int "12"
-- !!int "16"
-- !!int "6"
-- !!int "6"
-- !!int "7"
+  - !!int "16"
+  - !!int "12"
+  - !!int "16"
+  - !!int "6"
+  - !!int "6"
+  - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "1"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+1"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Slaad, telepathy 60 ft."
 "cr": "5"
 "traits":
-- "desc": "The slaad has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- "desc": "The slaad regains 10 hit points at the start of its turn if it has at least\
-    \ 1 hit point."
-  "name": "Regeneration"
+  - "desc": "The slaad has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
+  - "desc": "The slaad regains 10 hit points at the start of its turn if it has at\
+      \ least 1 hit point."
+    "name": "Regeneration"
 "actions":
-- "desc": "The slaad makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4\
-    \ + 3) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
-    \ + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 14\
-    \ Constitution saving throw or be infected with a disease—a minuscule slaad egg.\n\
-    \nA humanoid host can carry only one slaad egg to term at a time. Over three months,\
-    \ the egg moves to the chest cavity, gestates, and forms a [[5. Mechanics/Bestiary/Aberration/Slaad Tadpole.md|slaad tadpole]].\
-    \ In the 24-hour period before giving birth, the host starts to feel unwell, its\
-    \ speed is halved, and it has disadvantage on attack rolls, ability checks, and\
-    \ saving throws. At birth, the tadpole chews its way through vital organs and\
-    \ out of the host's chest in 1 round, killing the host in the process.\n\nIf the\
-    \ disease is cured before the tadpole's emergence, the unborn slaad is disintegrated."
-  "name": "Claw"
+  - "desc": "The slaad makes three attacks: one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4\
+      \ + 3) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+      \ + 3) piercing damage. If the target is a humanoid, it must succeed on a DC\
+      \ 14 Constitution saving throw or be infected with a disease—a minuscule slaad\
+      \ egg.\n\nA humanoid host can carry only one slaad egg to term at a time. Over\
+      \ three months, the egg moves to the chest cavity, gestates, and forms a [[5. Mechanics/Bestiary/Aberration/Slaad Tadpole.md|slaad\
+      \ tadpole]]. In the 24-hour\
+      \ period before giving birth, the host starts to feel unwell, its speed is halved,\
+      \ and it has disadvantage on attack rolls, ability checks, and saving throws.\
+      \ At birth, the tadpole chews its way through vital organs and out of the host's\
+      \ chest in 1 round, killing the host in the process.\n\nIf the disease is cured\
+      \ before the tadpole's emergence, the unborn slaad is disintegrated."
+    "name": "Claw"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Aberration/token/red-slaad.webp"
 ```
 ^statblock

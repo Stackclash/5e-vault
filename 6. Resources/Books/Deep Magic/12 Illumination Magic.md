@@ -35,7 +35,7 @@ Mastery of illumination magic comes from long and dedicated study, and thus [[5.
 > Sharp-eyed readers will note that some of the spells described in the standard rules are given out to classes that were not originally included in those classes' spell lists. Granting access to those spells to a wider range of classes is a deliberate change, meant to showcase the expanded power and utility of illumination magic. If the GM decides that this approach is too generous, some or all of these adjustments might be disallowed.
 > 
 > > [!note]
-> Due to limitations in 5eTools, these expanded illumination spells are not shown on the spells page. A summary is available [[/5. Mechanics/Rules/Variant Rules/Expanded Illumination Spells (KPDM).md\|expanded illumination spells]].
+> Due to limitations in 5eTools, these expanded illumination spells are not shown on the spells page. A summary is available [[/5. Mechanics/Rules/Variant Rules/Expanded Illumination Spells (KPDM).md\|here]].
 ^spreading-the-light
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/KPDM/0069.webp#center)

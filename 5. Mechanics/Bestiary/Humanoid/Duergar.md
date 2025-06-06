@@ -14,7 +14,7 @@ tags:
 aliases:
   - Duergar
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Duergar.md|Duergar]]
+# [[5. Mechanics\Bestiary\Humanoid\Duergar.md|Duergar]]
 *Source: Monster Manual p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.
@@ -49,50 +49,51 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
 "ac_class": "[[5. Mechanics/Items/Scale Mail.md|scale mail]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "26"
 "hit_dice": "4d8 + 4"
+"modifier": !!int "0"
 "stats":
-- !!int "14"
-- !!int "11"
-- !!int "14"
-- !!int "11"
-- !!int "10"
-- !!int "9"
+  - !!int "14"
+  - !!int "11"
+  - !!int "14"
+  - !!int "11"
+  - !!int "10"
+  - !!int "9"
 "speed": "25 ft."
 "damage_resistances": "poison"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "1"
 "traits":
-- "desc": "The duergar has advantage on saving throws against poison, spells, and\
-    \ illusions, as well as to resist being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]."
-  "name": "Duergar Resilience"
-- "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The duergar has advantage on saving throws against poison, spells, and\
+      \ illusions, as well as to resist being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+      \ or [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]."
+    "name": "Duergar Resilience"
+  - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
+      \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
+      \ that rely on sight."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "For 1 minute, the duergar magically increases in size, along with anything\
-    \ it is wearing or carrying. While enlarged, the duergar is Large, doubles its\
-    \ damage dice on Strength-based weapon attacks (included in the attacks), and\
-    \ makes Strength checks and Strength saving throws with advantage. If the duergar\
-    \ lacks the room to become Large, it attains the maximum size possible in the\
-    \ space available."
-  "name": "Enlarge (Recharges after a Short or Long Rest)"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
-    \ + 2) piercing damage, or 11 (2d8 + 2) piercing damage while enlarged."
-  "name": "War Pick"
-- "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120\
-    \ ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing\
-    \ damage while enlarged."
-  "name": "Javelin"
-- "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ until it attacks, casts a spell, or uses its Enlarge, or until its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
-    \ is broken, up to 1 hour (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
-    \ on a spell). Any equipment the duergar wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ with it."
-  "name": "Invisibility (Recharges after a Short or Long Rest)"
+  - "desc": "For 1 minute, the duergar magically increases in size, along with anything\
+      \ it is wearing or carrying. While enlarged, the duergar is Large, doubles its\
+      \ damage dice on Strength-based weapon attacks (included in the attacks), and\
+      \ makes Strength checks and Strength saving throws with advantage. If the duergar\
+      \ lacks the room to become Large, it attains the maximum size possible in the\
+      \ space available."
+    "name": "Enlarge (Recharges after a Short or Long Rest)"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+      \ + 2) piercing damage, or 11 (2d8 + 2) piercing damage while enlarged."
+    "name": "War Pick"
+  - "desc": "Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing\
+      \ damage while enlarged."
+    "name": "Javelin"
+  - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ until it attacks, casts a spell, or uses its Enlarge, or until its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
+      \ is broken, up to 1 hour (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
+      \ on a spell). Any equipment the duergar wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ with it."
+    "name": "Invisibility (Recharges after a Short or Long Rest)"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/duergar.webp"
 ```
 ^statblock

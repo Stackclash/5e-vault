@@ -20,6 +20,6 @@ The cart has two command words. The first command word can be spoken using an ac
 
 When you place a nonliving object in the cart, you can speak the cart's second command word as an action to cause the object to become locked in place. A locked object can't be removed or interacted with against your will, unless the cart becomes too small to contain it. A creature that attempts to remove an object locked in this way must succeed on a Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of the cart for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] creature is unwilling to move toward the cart or interact with it for the duration. If the cart is a rare or very rare version, the creature also takes psychic damage on a failed saving throw. A creature that succeeds on the saving throw is immune to this effect for 24 hours. You can speak the second command word as an action again to unlock any number of objects within the cart.
 
-The cart's properties depend on the item's rarity. The uncommon variant has a carrying capacity of 750 lb., and a save DC of 16. Creatures that fail the saving throw take `dice:6d6|noform|avg` (`6d6`) psychic damage.
+The cart's properties depend on the item's rarity. The uncommon variant has a carrying capacity of 750 lb., and a save DC of 16. Creatures that fail the saving throw take `dice:6d6|noform|noparens|avg` (`6d6`) psychic damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 104*

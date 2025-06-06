@@ -8,6 +8,7 @@ tags:
 aliases:
   - Abacus
 cost: 200
+weight: 2
 ---
 # Abacus
 *Adventuring gear*  

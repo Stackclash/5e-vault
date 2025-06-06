@@ -10,14 +10,15 @@ tags:
   - item/weapon/simple
 aliases:
   - Frozen Dagger
-one-hand-damage: 1d4 C
-range: 40/80
+one-hand-damage: 1d4 cold
+range: 40\80
+weight: 1
 ---
 # Frozen Dagger
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Frozen-Dagger.webp#right)  
 
-- **Damage**: 1d4 C
+- **Damage**: 1d4 cold
 - **Range**: 40/80
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.

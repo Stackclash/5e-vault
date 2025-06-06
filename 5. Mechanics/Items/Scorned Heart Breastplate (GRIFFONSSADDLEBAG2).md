@@ -10,6 +10,7 @@ tags:
 aliases:
   - Scorned Heart Breastplate
 armorClass: 14 + Dex modifier (max of +2)
+weight: 20
 ---
 # Scorned Heart Breastplate
 *Medium armor ([[5. Mechanics/Items/Breastplate.md\|breastplate]]), cursed item, major, rare (requires attunement)*  

@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/cos
 aliases:
-  - 'Appendix B: Death House'
+  - Appendix B: Death House
 ---
 # Appendix B: Death House
 *Source: Curse of Strahd, p. 211* 
@@ -83,7 +83,7 @@ Characters who remain outside the house can see the mists close in around them, 
 > 
 > None of the rooms in the house are lit when the characters arrive, although most areas contain working oil lamps or fireplaces.
 > 
-> Characters can burn the house to the ground if they want, but any destruction to the house is temporary. After `dice:1d10|noform|avg` (`1d10`) days, the house begins to repair itself. Ashes sweep together to form blackened timbers, which then turn back into a sturdy wooden frame around which walls begin to materialize. Destroyed furnishings are likewise repaired. It takes `dice:2d6|noform|avg` (`2d6`) hours for the house to complete its resurrection. Items taken from the house aren't replaced, nor are undead that are destroyed. The dungeon level isn't considered part of the house and can't repair itself in this fashion.
+> Characters can burn the house to the ground if they want, but any destruction to the house is temporary. After `dice:1d10|noform|noparens|avg` (`d10`) days, the house begins to repair itself. Ashes sweep together to form blackened timbers, which then turn back into a sturdy wooden frame around which walls begin to materialize. Destroyed furnishings are likewise repaired. It takes `dice:2d6|noform|noparens|avg` (`2d6`) hours for the house to complete its resurrection. Items taken from the house aren't replaced, nor are undead that are destroyed. The dungeon level isn't considered part of the house and can't repair itself in this fashion.
 ^death-houses-features
 
 ## Areas of the House
@@ -194,7 +194,7 @@ Clutched in the skeleton's left hand is a letter bearing the seal of [[4. World 
 
 #### Treasure
 
-The chest contains three blank books with black leather covers (worth 25 gp each), three [[5. Mechanics/Items/Spell Scroll (DMG).md\|spell scrolls]] ([[5. Mechanics/Spells/Bless.md\|bless]], [[5. Mechanics/Spells/Protection From Poison.md\|protection from poison]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]]), the deed to the house, the deed to a windmill, and a signed will. The windmill referred to in the second deed is situated in the mountains east of Vallaki (see chapter 6, "Old Bonegrinder"). The will is signed by Gustav and Elisabeth Durst and bequeathes the house, the windmill, and all other family property to Rosavalda and Thornboldt Durst in the event of their parents' deaths. The books, scrolls, deeds, and will age markedly if taken from the house but remain intact.
+The chest contains three blank books with black leather covers (worth 25 gp each), three [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]] ([[5. Mechanics/Spells/Bless.md\|bless]], [[5. Mechanics/Spells/Protection From Poison.md\|protection from poison]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]]), the deed to the house, the deed to a windmill, and a signed will. The windmill referred to in the second deed is situated in the mountains east of Vallaki (see chapter 6, "Old Bonegrinder"). The will is signed by Gustav and Elisabeth Durst and bequeathes the house, the windmill, and all other family property to Rosavalda and Thornboldt Durst in the event of their parents' deaths. The books, scrolls, deeds, and will age markedly if taken from the house but remain intact.
 
 ### 10. Conservatory
 
@@ -294,7 +294,7 @@ The toy chest contains an assortment of stuffed animals and toys. Characters who
 If either the dollhouse or the chest is disturbed, the ghosts of [[4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md\|Rose]] and [[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md\|Thorn]] appear in the middle of the room. Use the [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] statistics in the "Monster Manual", with the following modifications:
 
 - The ghosts are Small and lawful good.  
-- They have `dice:10d6|noform|avg|text(35)` (`10d6`) hit points each.  
+- They have `dice:10d6|noform|noparens|avg|text(35)` (`10d6`) hit points each.  
 - They lack the Horrifying Visage action.  
 - They speak Common and have a challenge rating of 3 (700 XP).  
 
@@ -407,7 +407,7 @@ This room's chest contains a silvered [[5. Mechanics/Items/Shortsword.md\|shorts
 
 ### 26. Hidden Spiked Pit
 
-The ghostly chanting heard throughout the dungeon gets discernibly louder as one heads west along this tunnel. A successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check reveals an absence of footprints. Characters searching the floor for traps find a 5-foot-long, 10-foot-deep pit hidden under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom. The first character to step on the cover falls through, landing [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and taking `dice:1d6|noform|avg|text(3)` (`1d6`) bludgeoning damage from the fall plus `dice:2d10|noform|avg|text(11)` (`2d10`) piercing damage from the spikes.
+The ghostly chanting heard throughout the dungeon gets discernibly louder as one heads west along this tunnel. A successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check reveals an absence of footprints. Characters searching the floor for traps find a 5-foot-long, 10-foot-deep pit hidden under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom. The first character to step on the cover falls through, landing [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and taking `dice:1d6|noform|noparens|avg|text(3)` (`d6`) bludgeoning damage from the fall plus `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) piercing damage from the spikes.
 
 ### 27. Dining Hall
 
@@ -563,8 +563,8 @@ Death House harbors no ill will toward a party willing to sacrifice a life to ap
 If the characters deny the cult its sacrifice and either destroy the shambling mound or escape from it, Death House attacks them as they try to leave. When they return upstairs, they must roll initiative as they discover several architectural changes:
 
 - All the windows are bricked up; the bricked-up windows and the outer walls are impervious to the party's weapon attacks and damage-dealing spells.  
-- All the doors are gone, replaced by slashing scythe-blades. A character must succeed on a DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check to pass through a blade-trapped doorway unscathed. A character who spends 1 minute studying the blades in a particular doorway can try to take advantage of a momentary gap in their repeating movements and make a DC 15 Intelligence check instead. Failing either check, a character takes `dice:2d10|noform|avg` (`2d10`) slashing damage but manages to pass through the doorway. Any creature pushed through a doorway must succeed on a DC 15 Dexterity saving throw or take the damage. The blades can't be disarmed.  
-- Every room that contains a fireplace, an oven, or a stove is filled with poisonous black smoke. The room is heavily obscured, and any creature that starts its turn in the smoke must succeed on a DC 10 Constitution saving throw or take `dice:1d10|noform|avg` (`1d10`) poison damage.  
+- All the doors are gone, replaced by slashing scythe-blades. A character must succeed on a DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check to pass through a blade-trapped doorway unscathed. A character who spends 1 minute studying the blades in a particular doorway can try to take advantage of a momentary gap in their repeating movements and make a DC 15 Intelligence check instead. Failing either check, a character takes `dice:2d10|noform|noparens|avg` (`2d10`) slashing damage but manages to pass through the doorway. Any creature pushed through a doorway must succeed on a DC 15 Dexterity saving throw or take the damage. The blades can't be disarmed.  
+- Every room that contains a fireplace, an oven, or a stove is filled with poisonous black smoke. The room is heavily obscured, and any creature that starts its turn in the smoke must succeed on a DC 10 Constitution saving throw or take `dice:1d10|noform|noparens|avg` (`d10`) poison damage.  
 - The interior walls become rotted and brittle. Each 5-foot-section has AC 5 and 5 hit points, and can also be destroyed with a successful DC 10 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. Each 5-foot section of wall that's destroyed causes a [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarm of rats]] to pour out and attack. The swarm won't leave the house.  
 
 Keep track of initiative as the characters make their way through the house. Once they escape, they advance to 3rd level, and the house does no more to harm them.

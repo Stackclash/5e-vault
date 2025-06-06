@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Necklace of Adaptation
+weight: 1
 ---
 # Necklace of Adaptation
 *Wondrous item, major, uncommon (requires attunement)*  

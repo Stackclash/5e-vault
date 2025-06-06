@@ -8,19 +8,25 @@ tags:
   - spell/level/4th-level
   - spell/school/abjuration
   - spell/subclass/arcane-trickster
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Abjuration
-time: 1 action
+level: 4
+ritual: false
+time: 1 Action
 duration: 1 minute
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Wild Shield
 ---
 # Wild Shield
 *4th-level, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** 1 minute
@@ -31,6 +37,6 @@ This spell ends when the duration expires or when it absorbs 4 levels of spells.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can repel one additional spell level for each slot level above 4th.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 189*

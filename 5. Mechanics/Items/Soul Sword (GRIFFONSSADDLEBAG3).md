@@ -10,20 +10,21 @@ tags:
   - item/weapon/melee
 aliases:
   - Soul Sword
-one-hand-damage: 1d8 S
-two-hand-damage: 1d10 S
+one-hand-damage: 1d8 slashing
+two-hand-damage: 1d10 slashing
+weight: 3
 ---
 # Soul Sword
 *Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Soul-Sword.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 
-This battered and rusted sword looks like junk. However, it feels like a kindred spirit while you hold it. Even if you're not attuned to the sword, its damage die is a `dice:d4|noform|avg` (`d4`), or a `dice:d6|noform|avg` (`d6`) if you hold it with both hands.
+This battered and rusted sword looks like junk. However, it feels like a kindred spirit while you hold it. Even if you're not attuned to the sword, its damage die is a `dice:d4|noform|noparens|avg` (`d4`), or a `dice:d6|noform|noparens|avg` (`d6`) if you hold it with both hands.
 
 While you're attuned to the sword, you gain a +1 bonus to attack and damage rolls made with it. It also emits bright light in a 20-foot radius while you hold it, and dim light for an additional 20 feet. In its illuminated, rusted surface is an illusory weapon that reflects the nature of your soul. Use the table below to determine the nature of the reflected weapon based on your alignment.
 
@@ -34,7 +35,7 @@ While you're attuned to the sword, you gain a +1 bonus to attack and damage roll
 | Evil | A dark, serrated blade | Green | Necrotic |
 ^alignment-appearance-light-damage-type
 
-A target hit by the illuminated sword takes an extra `dice:1d12|noform|avg` (`1d12`) damage of the type associated with your alignment.
+A target hit by the illuminated sword takes an extra `dice:1d12|noform|noparens|avg` (`d12`) damage of the type associated with your alignment.
 
 ## Soul Surge
 

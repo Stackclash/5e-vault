@@ -8,6 +8,7 @@ tags:
   - item/wondrous/rod
 aliases:
   - Baton of Many Sizes
+weight: 2
 ---
 # Baton of Many Sizes
 *Rod, minor, uncommon*  

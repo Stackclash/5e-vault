@@ -13,7 +13,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Mediators-Amulet.webp#right)  
 
 
-A small, shattered sword hangs from this gilded chain, and its clasp is made of two shaking hands. While wearing this necklace, you can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]]. It has 5 charges for the following properties, and it regains `dice:1d3+2|noform|avg` (`1d3 + 2`) expended charges daily at dawn.
+A small, shattered sword hangs from this gilded chain, and its clasp is made of two shaking hands. While wearing this necklace, you can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]]. It has 5 charges for the following properties, and it regains `dice:1d3+2|noform|noparens|avg` (`1d3 + 2`) expended charges daily at dawn.
 
 ## Deescalate
 

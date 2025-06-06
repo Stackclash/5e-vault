@@ -18,19 +18,36 @@ tags:
   - spell/subclass/lust-domain
   - spell/subclass/trickery-domain
   - spell/subrace/tiefling-fierna
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Cleric (Lust Domain)
+  - Cleric (Trickery Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Ranger (Fey Wanderer)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Enchantment
-time: 1 action
+level: 1
+ritual: false
+time: 1 Action
 duration: 1 hour
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Charm Person
+range: 30 feet
+save:
+  type: WIS
+  success: none
 ---
 # Charm Person
 *1st-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** 1 hour
@@ -39,6 +56,6 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Fey Wanderer (TCE)\|Ranger (Fey Wanderer)]]; [[List Spells Classes Cleric Lust Domain (KPDM)\|Cleric (Lust Domain)]]; [[List Spells Classes Cleric Trickery Domain\|Cleric (Trickery Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Ranger (Fey Wanderer)](compendium/lists/list-spells-classes-fey-wanderer-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Lust Domain)](compendium/lists/list-spells-classes-lust-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]
 
 *Source: Player's Handbook p. 221. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/mtf
   - deity/gnome
   - domain/war
+alignment: Chaotic Neutral
+domains: War
+pantheon: Gnome
+province: 'Frustration, destruction'
+symbol: Broken anvil
 aliases:
   - Gelf Darkhearth
 ---

@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/celtic
   - domain/life
+alignment: Lawful Good
+domains: Life
+pantheon: Celtic
+symbol: Crossed oak and mistletoe branches
 aliases:
   - Diancecht
 ---

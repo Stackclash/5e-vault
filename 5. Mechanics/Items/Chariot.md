@@ -8,6 +8,7 @@ tags:
 aliases:
   - Chariot
 cost: 25000
+weight: 100
 ---
 # Chariot
 *Vehicle (land)*  

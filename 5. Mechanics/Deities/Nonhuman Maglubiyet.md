@@ -6,6 +6,10 @@ tags:
   - deity/nonhuman
   - domain/order
   - domain/war
+alignment: Lawful Evil
+domains: 'War, Order'
+pantheon: Nonhuman
+symbol: Bloody axe
 aliases:
   - Maglubiyet
 ---

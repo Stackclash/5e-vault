@@ -7,6 +7,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - +3 Amulet of the Devout
+weight: 1
 ---
 # +3 Amulet of the Devout
 *Wondrous item, very rare (requires attunement by a cleric or paladin)*  

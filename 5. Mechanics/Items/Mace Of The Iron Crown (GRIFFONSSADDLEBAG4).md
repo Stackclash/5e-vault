@@ -9,13 +9,14 @@ tags:
   - item/weapon/simple
 aliases:
   - Mace of the Iron Crown
-one-hand-damage: 1d6 B
+one-hand-damage: 1d6 bludgeoning
+weight: 4
 ---
 # Mace of the Iron Crown
 *Weapon ([[5. Mechanics/Items/Mace.md\|mace]]), very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Mace-of-the-Iron-Crown.webp#right)  
 
-- **Damage**: 1d6 B
+- **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
 
 This dark iron mace is topped with a ring of menacing spikes. You gain a +2 bonus to attack and damage rolls made with this magic weapon.

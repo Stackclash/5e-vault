@@ -12,19 +12,29 @@ tags:
   - spell/school/necromancy
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Necromancy
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 1
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Bloody Hands
+concentration: true
 ---
 # Bloody Hands
 *1st-level, Necromancy*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -33,6 +43,6 @@ You cause the hands (or other appropriate body parts, such as claws or tentacles
 
 Casting any spell that has somatic or material components while under the influence of this spell requires a DC 10 Constitution saving throw. On a failed save, the spell is not cast but it is not lost; the casting can be attempted again in the next round.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 319*

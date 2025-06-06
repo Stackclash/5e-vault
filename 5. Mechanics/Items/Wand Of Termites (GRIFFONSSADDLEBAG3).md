@@ -23,10 +23,10 @@ While holding the wand, you can use an action to expend some of its charges to c
 
 ## Termite Assault
 
-While holding the wand, you can use an action to expend 1 of the wand's charges to target a creature that you can see within 60 feet of you. That creature must make a DC 15 Constitution saving throw. On a failed save, the creature takes `dice:3d8|noform|avg` (`3d8`) piercing damage and has disadvantage on the next attack roll it makes before the end of its next turn, as bugs crawl and bite at it distractingly.
+While holding the wand, you can use an action to expend 1 of the wand's charges to target a creature that you can see within 60 feet of you. That creature must make a DC 15 Constitution saving throw. On a failed save, the creature takes `dice:3d8|noform|noparens|avg` (`3d8`) piercing damage and has disadvantage on the next attack roll it makes before the end of its next turn, as bugs crawl and bite at it distractingly.
 
 Alternatively, you can expend 1 of the wand's charges to target a nonmagical wooden object you can see within 60 feet of you that isn't being worn or carried. This effect automatically destroys the object if it is Tiny. If the object is Small or larger, this effect destroys a 3-foot-cube portion of it. A magic item is unaffected by this effect.
 
-The wand regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the wand crumbles into soil and is destroyed.
+The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand crumbles into soil and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

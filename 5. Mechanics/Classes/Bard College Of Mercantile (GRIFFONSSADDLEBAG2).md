@@ -8,7 +8,7 @@ aliases:
   - College of Mercantile
 ---
 # College of Mercantile
-*[[Bard.md\|Bard]]: Bard College*  
+*[[.nullBard.md\|Bard]]: Bard College*  
 *Source: The Griffon's Saddlebag, Book 2 p. 210*  
 
 > [!tldr] Class and Feature Progression
@@ -20,10 +20,10 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#College%20of%20Mercantile%20(Level%203)'>College of Mercantile</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#College of Mercantile (Level 3)' class='internal-link'>College of Mercantile</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Money%20Talks%20(Level%206)'>Money Talks</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Money Talks (Level 6)' class='internal-link'>Money Talks</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -31,7 +31,7 @@ aliases:
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Shrewd%20Consumer%20(Level%2014)'>Shrewd Consumer</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Shrewd Consumer (Level 14)' class='internal-link'>Shrewd Consumer</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -56,9 +57,9 @@ Starting when you join the College of Mercantile at 3rd level, a creature that u
 
 Also at 3rd level, you know that coins can be just as powerful as the most enthralling rhetoric. Whereas other bards may use words and song as their means for conjuring spells, you instead use a simple coin. You can use any coin worth at least 1 cp as a spellcasting focus for your bard spells.
 
-In addition, you can use an action to magically fling a coin from your hand at a target within 60 feet of you. Make a ranged spell attack with the coin, using your Charisma modifier for the attack roll. On a hit, the target takes 1 bludgeoning damage plus `dice:1d12|noform|avg` (`1d12`) thunder damage. Immediately after the attack, the coin returns to your hand. If you roll a 20 on the attack roll against a hostile creature using a nonmagical copper, silver, electrum, or gold piece, the coin is magically duplicated when it returns to your hand. The new coin can appear in your hand, at your feet, or in a coin pouch on your person (your choice).
+In addition, you can use an action to magically fling a coin from your hand at a target within 60 feet of you. Make a ranged spell attack with the coin, using your Charisma modifier for the attack roll. On a hit, the target takes 1 bludgeoning damage plus `dice:1d12|noform|noparens|avg` (`d12`) thunder damage. Immediately after the attack, the coin returns to your hand. If you roll a 20 on the attack roll against a hostile creature using a nonmagical copper, silver, electrum, or gold piece, the coin is magically duplicated when it returns to your hand. The new coin can appear in your hand, at your feet, or in a coin pouch on your person (your choice).
 
-The coin's thunder damage increases by `dice:1d12|noform|avg` (`1d12`) when you reach 6th level (`dice:2d12|noform|avg` (`2d12`)) and 14th level (`dice:3d12|noform|avg` (`3d12`)).
+The coin's thunder damage increases by `dice:1d12|noform|noparens|avg` (`d12`) when you reach 6th level (`dice:2d12|noform|noparens|avg` (`2d12`)) and 14th level (`dice:3d12|noform|noparens|avg` (`3d12`)).
 
 ### Money Talks (Level 6)
 

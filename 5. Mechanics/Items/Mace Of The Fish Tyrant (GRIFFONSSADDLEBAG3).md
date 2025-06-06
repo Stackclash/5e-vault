@@ -10,13 +10,14 @@ tags:
   - item/weapon/simple
 aliases:
   - Mace of the Fish Tyrant
-one-hand-damage: 1d6 B
+one-hand-damage: 1d6 bludgeoning
+weight: 4
 ---
 # Mace of the Fish Tyrant
 *Weapon ([[5. Mechanics/Items/Mace.md\|mace]]), cursed item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mace-of-the-Fish-Tyrant.webp#right)  
 
-- **Damage**: 1d6 B
+- **Damage**: 1d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Weight**: 4.0 lbs.
 
@@ -26,8 +27,8 @@ When found, the mace is a very rare magic item with the following properties:
 
 - You have resistance to psychic damage.  
 - You gain a +1 bonus to attack and damage rolls made with it.  
-- Targets hit with the mace take an extra `dice:1d4|noform|avg` (`1d4`) psychic damage.  
-- If you make an attack with the mace while not attuned to it, you take `dice:1d4|noform|avg` (`1d4`) psychic damage as the fish magically exerts its frustration upon you.  
+- Targets hit with the mace take an extra `dice:1d4|noform|noparens|avg` (`d4`) psychic damage.  
+- If you make an attack with the mace while not attuned to it, you take `dice:1d4|noform|noparens|avg` (`d4`) psychic damage as the fish magically exerts its frustration upon you.  
 
 ## Sentience
 

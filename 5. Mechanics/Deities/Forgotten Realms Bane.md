@@ -6,6 +6,10 @@ tags:
   - deity/forgotten-realms
   - domain/order
   - domain/war
+alignment: Lawful Evil
+domains: 'War, Order'
+pantheon: Forgotten Realms
+symbol: 'Upright black right hand, thumb and fingers together'
 aliases:
   - Bane
 ---

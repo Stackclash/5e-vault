@@ -20,31 +20,58 @@ tags:
   - spell/subclass/speed-domain
   - spell/subclass/the-lithic
   - spell/subclass/time-domain
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Cleric (Chain Domain)
+  - Cleric (Harvester Domain)
+  - Cleric (Order Domain)
+  - Cleric (Prophecy Domain)
+  - Cleric (Speed Domain)
+  - Cleric (Time Domain)
+  - Druid (Circle of the Land)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of the Spelldrinker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Lithic)
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S, a drop of molasses'
+level: 3
+ritual: false
+time: 1 Action
+duration: Up to 1 minute
+components:
+  - V
+  - S
+  - M
 aliases:
   - Slow
+range: 120 feet
+material: A drop of molasses.
+save:
+  type: WIS
+  success: none
+area:
+  type: cube
+  size: 40
+concentration: true
 ---
 # Slow
 *3rd-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
-- **Components:** V, S, a drop of molasses
+- **Components:** V, S, M (a drop of molasses)
 - **Duration:** Concentration, up to 1 minute
 
 You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.
 
 An affected target's speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can't use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.
 
-If the creature attempts to cast a spell with a casting time of 1 action, roll a `dice:d20|noform|avg` (`d20`). On an 11 or higher, the spell doesn't take effect until the creature's next turn, and the creature must use its action on that turn to complete the spell. If it can't, the spell is wasted.
+If the creature attempts to cast a spell with a casting time of 1 action, roll a `dice:d20|noform|noparens|avg` (`d20`). On an 11 or higher, the spell doesn't take effect until the creature's next turn, and the creature must use its action on that turn to complete the spell. If it can't, the spell is wasted.
 
 A creature affected by this spell makes another Wisdom saving throw at the end of each of its turns. On a successful save, the effect ends for it.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Cleric Chain Domain (GRIFFONSSADDLEBAG4)\|Cleric (Chain Domain)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Harvester Domain (HHHVIII)\|Cleric (Harvester Domain)]]; [[List Spells Classes Paladin Oath Of The Spelldrinker (GRIFFONSSADDLEBAG2)\|Paladin (Oath of the Spelldrinker)]]; [[List Spells Classes Cleric Order Domain (TCE)\|Cleric (Order Domain)]]; [[List Spells Classes Cleric Prophecy Domain (KPDM)\|Cleric (Prophecy Domain)]]; [[List Spells Classes Cleric Speed Domain (KPDM)\|Cleric (Speed Domain)]]; [[List Spells Classes Warlock The Lithic (GRIFFONSSADDLEBAG3)\|Warlock (The Lithic)]]; [[List Spells Classes Cleric Time Domain (KPDM)\|Cleric (Time Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Warlock (The Lithic)](compendium/lists/list-spells-classes-the-lithic-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Cleric (Speed Domain)](compendium/lists/list-spells-classes-speed-domain-kpdm.md "subclass=KPDM"); [Cleric (Order Domain)](compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Spelldrinker)](compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Cleric (Time Domain)](compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [Cleric (Chain Domain)](compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Prophecy Domain)](compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [Cleric (Harvester Domain)](compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII")
 
 *Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

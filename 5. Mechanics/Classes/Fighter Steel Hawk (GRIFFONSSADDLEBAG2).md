@@ -8,7 +8,7 @@ aliases:
   - Steel Hawk
 ---
 # Steel Hawk
-*[[Fighter.md\|Fighter]]: Martial Archetype*  
+*[[.nullFighter.md\|Fighter]]: Martial Archetype*  
 *Source: The Griffon's Saddlebag, Book 2 p. 216*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Steel%20Hawk%20(Level%203)'>Steel Hawk</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Steel Hawk (Level 3)' class='internal-link'>Steel Hawk</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Steel%20Grace%20(Level%207)'>Steel Grace</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Steel Grace (Level 7)' class='internal-link'>Steel Grace</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Eagle%20Eye%20(Level%2010)'>Eagle Eye</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Eagle Eye (Level 10)' class='internal-link'>Eagle Eye</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Predatory%20Instinct%20(Level%2015)'>Predatory Instinct</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Predatory Instinct (Level 15)' class='internal-link'>Predatory Instinct</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Improved%20Launch%20(Level%2018)'>Improved Launch</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Improved Launch (Level 18)' class='internal-link'>Improved Launch</a></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -56,11 +57,11 @@ You can't use this feature if your speed is 0, and if you leap completely horizo
 
 You can use this feature three times, and you regain all expended uses of it when you finish a short or long rest. Beginning at 7th level, you can use this feature four times between rests, and beginning at 15th level, you can use it five times between rests.
 
-Leaping in this way can also strengthen your strikes by using the force of your momentum. If you make a melee weapon attack immediately after using Launch, you have advantage on the attack roll, and if the attack hits, the target takes an extra `dice:1d8|noform|avg` (`1d8`) damage of the weapon's type. At 10th level, this extra damage becomes `dice:1d10|noform|avg` (`1d10`), and at 18th level, it becomes `dice:1d12|noform|avg` (`1d12`). The attack can be made immediately after you land at the end of the leap or during the leap's movement.
+Leaping in this way can also strengthen your strikes by using the force of your momentum. If you make a melee weapon attack immediately after using Launch, you have advantage on the attack roll, and if the attack hits, the target takes an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the weapon's type. At 10th level, this extra damage becomes `dice:1d10|noform|noparens|avg` (`d10`), and at 18th level, it becomes `dice:1d12|noform|noparens|avg` (`d12`). The attack can be made immediately after you land at the end of the leap or during the leap's movement.
 
 ### Nimble Lancer (Level 3)
 
-Starting at 3rd level, you are remarkably light on your feet and capable of counterbalancing even some of the most awkward of equipment. Lances have the versatile property for you while you're not mounted, dealing `dice:1d8|noform|avg` (`1d8`) piercing damage on a hit when held with one hand and `dice:1d12|noform|avg` (`1d12`) piercing damage when wielded with two. When you use your Launch feature and immediately hit with a melee attack using a lance, it counts as if you're wielding it with two hands.
+Starting at 3rd level, you are remarkably light on your feet and capable of counterbalancing even some of the most awkward of equipment. Lances have the versatile property for you while you're not mounted, dealing `dice:1d8|noform|noparens|avg` (`d8`) piercing damage on a hit when held with one hand and `dice:1d12|noform|noparens|avg` (`d12`) piercing damage when wielded with two. When you use your Launch feature and immediately hit with a melee attack using a lance, it counts as if you're wielding it with two hands.
 
 If you hit a creature within 5 feet of you using a lance, you can immediately move up to 5 feet away from it, without provoking an opportunity attack from the target. You must be standing and have movement remaining in order to move in this way.
 

@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/beucephalus.webp
+  - 4. World Almanac\NPCs\img\beucephalus.webp
 relationships: []
 aliases:
   - Beucephalus
@@ -117,33 +117,34 @@ actions:
 "ac_class": "natural armor"
 "hp": !!int "104"
 "hit_dice": "8d10 + 24"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "10"
-- !!int "13"
-- !!int "15"
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "10"
+  - !!int "13"
+  - !!int "15"
 "speed": "60 ft., fly 90 ft."
 "damage_immunities": "fire"
 "senses": "passive Perception 11"
 "languages": "understands Abyssal, Common, and Infernal but can't speak "
 "cr": "3"
 "traits":
-- "desc": "Beucephalus can grant resistance to fire damage to anyone riding it."
-  "name": "Confer Fire Resistance"
-- "desc": "Beucephalus sheds bright light in a 10-foot radius and dim light for an\
-    \ additional 10 feet."
-  "name": "Illumination"
+  - "desc": "Beucephalus can grant resistance to fire damage to anyone riding it."
+    "name": "Confer Fire Resistance"
+  - "desc": "Beucephalus sheds bright light in a 10-foot radius and dim light for\
+      \ an additional 10 feet."
+    "name": "Illumination"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8\
-    \ + 4) bludgeoning damage plus 7 (2d6) fire damage."
-  "name": "Hooves"
-- "desc": "Beucephalus and up to three willing creatures within 5 feet of it magically\
-    \ enter the Ethereal Plane from the Material Plane, or vice versa."
-  "name": "Ethereal Stride"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+      \ (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage."
+    "name": "Hooves"
+  - "desc": "Beucephalus and up to three willing creatures within 5 feet of it magically\
+      \ enter the Ethereal Plane from the Material Plane, or vice versa."
+    "name": "Ethereal Stride"
 "source":
-- "CoS"
+  - "CoS"
 "image": "4. World Almanac/NPCs/token/beucephalus-cos.webp"
 ```
 ^statblock

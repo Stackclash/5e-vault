@@ -8,6 +8,7 @@ tags:
 aliases:
   - Salt
 cost: 5
+weight: 1
 ---
 # Salt
 *Trade good*  

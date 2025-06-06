@@ -10,5 +10,5 @@ aliases:
 
 ## 1st Level
 
-- [[Disguise Self \|"PHB"]] 
-- [[Hex \|"PHB"]]
+- [[5. Mechanics/Spells/Disguise Self.md \|"PHB"]] 
+- [[5. Mechanics/Spells/Hex.md \|"PHB"]]

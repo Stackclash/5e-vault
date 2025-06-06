@@ -511,7 +511,7 @@ At 3rd level, a ranger gains the Ranger Archetype feature, which offers you the 
 
 ### Beast Master Companions
 
-The [[5. Mechanics/Classes/Ranger Beast Master.md\|Beast Master]] in the "Player's Handbook" forms a mystical bond with an animal. As an alternative, a Beast Master can take the feature below to form a bond with a special primal beast instead.
+The [[5. Mechanics/Classes/Ranger.md\|Beast Master]] in the "Player's Handbook" forms a mystical bond with an animal. As an alternative, a Beast Master can take the feature below to form a bond with a special primal beast instead.
 
 [Primal Companion](compendium/classes/ranger-beast-master.md#Primal%20Companion%20(Level%203)) (*3rd-level Beast Master feature, which replaces the Ranger's Companion feature*)
 

@@ -15,7 +15,7 @@ tags:
   - spell/optfeature/mask-of-many-faces
   - spell/race/deep-gnome
   - spell/race/firbolg
-  - spell/race/gnome-deep-dmg
+  - spell/race/gnome-deep
   - spell/race/hexblood
   - spell/school/illusion
   - spell/subclass/arcane-trickster
@@ -24,19 +24,31 @@ tags:
   - spell/subclass/trickery-domain
   - spell/subrace/tiefling-dispater
   - spell/subrace/tiefling-glasya
-level: 1st-level
-range: false
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Trickery Domain)
+  - Fighter (Eldritch Knight)
+  - Ranger (Gloom Stalker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Illusion
-time: 1 action
+level: 1
+ritual: false
+time: 1 Action
 duration: 1 hour
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Disguise Self
+range: Self
 ---
 # Disguise Self
 *1st-level, Illusion*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** 1 hour
@@ -47,6 +59,6 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC.
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Gloom Stalker (XGE)\|Ranger (Gloom Stalker)]]; [[List Spells Classes Cleric Trickery Domain\|Cleric (Trickery Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Ranger (Gloom Stalker)](compendium/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]
 
 *Source: Player's Handbook p. 233. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

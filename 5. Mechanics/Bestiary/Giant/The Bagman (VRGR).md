@@ -13,7 +13,7 @@ tags:
 aliases:
   - The Bagman
 ---
-# [[5. Mechanics/Bestiary/Giant/The Bagman (VRGR).md|The Bagman]]
+# [[5. Mechanics\Bestiary\Giant\The Bagman (VRGR).md|The Bagman]]
 *Source: Van Richten's Guide to Ravenloft p. 225*
 
 ## Beware the Bagman
@@ -31,50 +31,53 @@ Any character might know the story of the Bagman. What the Bagman is and how you
 "ac_class": "natural armor"
 "hp": !!int "84"
 "hit_dice": "8d10 + 40"
+"modifier": !!int "1"
 "stats":
-- !!int "18"
-- !!int "13"
-- !!int "20"
-- !!int "7"
-- !!int "9"
-- !!int "7"
+  - !!int "18"
+  - !!int "13"
+  - !!int "20"
+  - !!int "7"
+  - !!int "9"
+  - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Giant"
 "cr": "5"
 "traits":
-- "desc": "The Bagman has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on smell."
-  "name": "Keen Smell"
-- "desc": "The Bagman regains 10 hit points at the start of its turn. If the Bagman\
-    \ takes acid or fire damage, this trait doesn't function at the start of the Bagman's\
-    \ next turn. The Bagman dies only if it starts its turn with 0 hit points and\
-    \ doesn't regenerate."
-  "name": "Regeneration"
-- "desc": "The Bagman has advantage on attack rolls against any creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ by it."
-  "name": "Grappler"
-- "desc": "The Bagman can move through a space as narrow as 1 inch wide without squeezing."
-  "name": "Amorphous"
-- "desc": "If a creature tries to read the Bagman's thoughts, that creature must succeed\
-    \ on a DC 8 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
-    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] creature\
-    \ can repeat the saving throw at the end of each of its turns, ending the effect\
-    \ on itself on a success."
-  "name": "Alien Mind"
+  - "desc": "The Bagman has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on smell."
+    "name": "Keen Smell"
+  - "desc": "The Bagman regains 10 hit points at the start of its turn. If the Bagman\
+      \ takes acid or fire damage, this trait doesn't function at the start of the\
+      \ Bagman's next turn. The Bagman dies only if it starts its turn with 0 hit\
+      \ points and doesn't regenerate."
+    "name": "Regeneration"
+  - "desc": "The Bagman has advantage on attack rolls against any creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ by it."
+    "name": "Grappler"
+  - "desc": "The Bagman can move through a space as narrow as 1 inch wide without\
+      \ squeezing."
+    "name": "Amorphous"
+  - "desc": "If a creature tries to read the Bagman's thoughts, that creature must\
+      \ succeed on a DC 8 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
+      \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] creature\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success."
+    "name": "Alien Mind"
 "actions":
-- "desc": "The Bagman makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
-    \ + 4) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
-    \ + 4) slashing damage."
-  "name": "Claw"
+  - "desc": "The Bagman makes three attacks: one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+      \ + 4) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+      \ (2d6 + 4) slashing damage."
+    "name": "Claw"
 "source":
-- "VRGR"
+  - "VRGR"
 "image": "5. Mechanics/Bestiary/Giant/token/the-bagman-vrgr.webp"
 ```
 ^statblock

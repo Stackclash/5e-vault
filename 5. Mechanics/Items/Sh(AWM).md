@@ -8,6 +8,7 @@ tags:
 aliases:
   - Shawm
 cost: 200
+weight: 1
 ---
 # Shawm
 *Instrument*  

@@ -13,7 +13,7 @@ tags:
 aliases:
   - High Templar of Dust
 ---
-# [[5. Mechanics/Bestiary/Elemental/High Templar Of Dust (SAF).md|High Templar of Dust]]
+# [[5. Mechanics\Bestiary\Elemental\High Templar Of Dust (SAF).md|High Templar of Dust]]
 *Source: Strongholds and Followers p. 192*
 
 The High Templars serve the Lady of Brass, but unlike the rest of the Court of Elements they were not created by her. They were the original Elemental Lords who dwelled on the Plane of Quintessence before the arrival of the Lady. Before the construction of Alloy, the City of Brass, began. When Quintessence was a wasteland.
@@ -43,19 +43,20 @@ The High Templar of Dust focuses on movement, moving through enemies to use its 
 "ac_class": "natural armor"
 "hp": !!int "189"
 "hit_dice": "18d10 + 90"
+"modifier": !!int "6"
 "stats":
-- !!int "20"
-- !!int "22"
-- !!int "20"
-- !!int "17"
-- !!int "16"
-- !!int "13"
+  - !!int "20"
+  - !!int "22"
+  - !!int "20"
+  - !!int "17"
+  - !!int "16"
+  - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "7"
-  "Strength": !!int "9"
-  "Constitution": !!int "9"
+  - "strength": "+9"
+  - "constitution": "+9"
+  - "wisdom": "+7"
+  - "charisma": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "fire, lightning, cold, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -67,31 +68,31 @@ The High Templar of Dust focuses on movement, moving through enemies to use its 
 "languages": "Aquan, Auran, Common, Ignan, Terran"
 "cr": "10"
 "traits":
-- "desc": "At the start of each of the templar's turns, each creature within 5 feet\
-    \ of it takes 5 (1d10) piercing damage."
-  "name": "Sandstorm"
-- "desc": "The Templar moves up to its speed without provoking opportunity attacks.\n\
-    \nIt can move through creatures, and each creature it passes through must make\
-    \ a DC 15 Constitution saving throw or take 10 (3d6) force damage."
-  "name": "Scour (Recharge 5-6)"
+  - "desc": "At the start of each of the templar's turns, each creature within 5 feet\
+      \ of it takes 5 (d10) piercing damage."
+    "name": "Sandstorm"
+  - "desc": "The Templar moves up to its speed without provoking opportunity attacks.\n\
+      \nIt can move through creatures, and each creature it passes through must make\
+      \ a DC 15 Constitution saving throw or take 10 (3d6) force damage."
+    "name": "Scour (Recharge 5-6)"
 "actions":
-- "desc": "The Templar makes four attacks with its halberd, Lightning, or Fire. Lightning\
-    \ and Fire can only be used twice each."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10\
-    \ + 5) slashing damage."
-  "name": "Halberd"
-- "desc": "Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 10 (3d6)\
-    \ lightning damage."
-  "name": "Lightning"
-- "desc": "The templar hurls a ball of fire that explodes at a point it can see within\
-    \ 60 feet. Each creature within a sphere of 10-foot radius centered on that point\
-    \ must make a DC 15 Dexterity saving throw. The sphere spreads around corners.\
-    \ On a failed save, a creature takes 10 (3d6) fire damage, or half as much damage\
-    \ on a successful one."
-  "name": "Fire"
+  - "desc": "The Templar makes four attacks with its halberd, Lightning, or Fire.\
+      \ Lightning and Fire can only be used twice each."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10\
+      \ (1d10 + 5) slashing damage."
+    "name": "Halberd"
+  - "desc": "Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 10\
+      \ (3d6) lightning damage."
+    "name": "Lightning"
+  - "desc": "The templar hurls a ball of fire that explodes at a point it can see\
+      \ within 60 feet. Each creature within a sphere of 10-foot radius centered on\
+      \ that point must make a DC 15 Dexterity saving throw. The sphere spreads around\
+      \ corners. On a failed save, a creature takes 10 (3d6) fire damage, or half\
+      \ as much damage on a successful one."
+    "name": "Fire"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/High%20Templar%20of%20Dust.png"
 ```
 ^statblock

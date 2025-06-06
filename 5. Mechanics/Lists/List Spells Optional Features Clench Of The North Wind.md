@@ -10,4 +10,4 @@ aliases:
 
 ## 2nd Level
 
-- [[Hold Person \|"PHB"]]
+- [[5. Mechanics/Spells/Hold Person.md \|"PHB"]]

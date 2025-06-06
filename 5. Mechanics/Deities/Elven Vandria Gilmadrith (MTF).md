@@ -6,6 +6,12 @@ tags:
   - deity/elven
   - domain/grave
   - domain/war
+alignment: Lawful Neutral
+category: The Seldarine
+domains: 'Grave, War'
+pantheon: Elven
+province: 'War, grief, justice, vigilance'
+symbol: Weeping eye
 aliases:
   - Vandria Gilmadrith
 ---

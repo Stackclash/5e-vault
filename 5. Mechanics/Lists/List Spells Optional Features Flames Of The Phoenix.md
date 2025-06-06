@@ -10,4 +10,4 @@ aliases:
 
 ## 3rd Level
 
-- [[Fireball \|"PHB"]]
+- [[5. Mechanics/Spells/Fireball.md \|"PHB"]]

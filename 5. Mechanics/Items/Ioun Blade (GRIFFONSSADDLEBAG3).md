@@ -25,6 +25,6 @@ aliases:
 
 An Ioun blade is named after Ioun, a god of knowledge and prophecy revered on some worlds. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The blade and crossguard are each inset with a gemstone. While you're attuned to the weapon, you also gain a bonusSavingThrow bonus to Intelligence, Wisdom, and Charisma checks and saving throws.
 
-If you're also attuned to an [[5. Mechanics/Items/Ioun Stone (DMG).md\|Ioun stone]], you don't need to attune to this weapon to use its properties. Furthermore, you can choose to have that stone magically replace one of the gemstones in the sword, instead of having it orbit your head. For each replaced stone, the sword's bonuses increase by 1.
+If you're also attuned to an [[5. Mechanics/Items/Ioun Stone.md\|Ioun stone]], you don't need to attune to this weapon to use its properties. Furthermore, you can choose to have that stone magically replace one of the gemstones in the sword, instead of having it orbit your head. For each replaced stone, the sword's bonuses increase by 1.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

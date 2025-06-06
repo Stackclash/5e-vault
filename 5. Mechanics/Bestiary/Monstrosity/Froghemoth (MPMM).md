@@ -15,7 +15,7 @@ tags:
 aliases:
   - Froghemoth
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Froghemoth (MPMM).md|Froghemoth]]
+# [[5. Mechanics\Bestiary\Monstrosity\Froghemoth (MPMM).md|Froghemoth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 130, Volo's Guide to Monsters p. 145*
 
 A froghemoth is an amphibious predator as big as an elephant. It lairs in swamps and has four tentacles, a thick rubbery hide, a fang-filled maw with a prehensile tongue, and an extendable stalk sporting three bulbous eyes that face in different directions.
@@ -35,62 +35,66 @@ If [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|bullywugs]] come across a froghe
 "ac_class": "natural armor"
 "hp": !!int "161"
 "hit_dice": "14d12 + 70"
+"modifier": !!int "1"
 "stats":
-- !!int "23"
-- !!int "13"
-- !!int "20"
-- !!int "2"
-- !!int "12"
-- !!int "5"
+  - !!int "23"
+  - !!int "13"
+  - !!int "20"
+  - !!int "2"
+  - !!int "12"
+  - !!int "5"
 "speed": "30 ft., swim 30 ft."
 "saves":
-  "Wisdom": !!int "5"
-  "Constitution": !!int "9"
+  - "constitution": "+9"
+  - "wisdom": "+5"
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "9"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+9"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+5"
 "damage_resistances": "fire, lightning"
 "senses": "darkvision 60 ft., passive Perception 19"
 "languages": ""
 "cr": "10"
 "traits":
-- "desc": "The froghemoth can breathe air and water."
-  "name": "Amphibious"
-- "desc": "If the froghemoth takes lightning damage, it suffers two effects until\
-    \ the end of its next turn: its speed is halved, and it has disadvantage on Dexterity\
-    \ saving throws."
-  "name": "Shock Susceptibility"
+  - "desc": "The froghemoth can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "If the froghemoth takes lightning damage, it suffers two effects until\
+      \ the end of its next turn: its speed is halved, and it has disadvantage on\
+      \ Dexterity saving throws."
+    "name": "Shock Susceptibility"
 "actions":
-- "desc": "The froghemoth makes one Bite attack and two Tentacle attacks, and it can\
-    \ use Tongue."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 22 (3d10\
-    \ + 6) piercing damage, and the target is swallowed if it is a Medium or smaller\
-    \ creature. A swallowed creature is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
-    \ and [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], has total cover\
-    \ against attacks and other effects outside the froghemoth, and takes 10 (3d6)\
-    \ acid damage at the start of each of the froghemoth's turns.\n\nThe froghemoth's\
-    \ gullet can hold up to two creatures at a time. If the froghemoth takes 20 damage\
-    \ or more on a single turn from a creature inside it, the froghemoth must succeed\
-    \ on a DC 20 Constitution saving throw at the end of that turn or regurgitate\
-    \ all swallowed creatures, each of which falls [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
-    \ in a space within 10 feet of the froghemoth. If the froghemoth dies, any swallowed\
-    \ creature is no longer [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
-    \ by it and can escape from the corpse using 10 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 20 ft., one target. Hit: 19\
-    \ (3d8 + 6) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ (escape DC 16) if it is a Huge or smaller creature. Until the grapple ends,\
-    \ the froghemoth can't use this tentacle on another target. The froghemoth has\
-    \ four tentacles."
-  "name": "Tentacle"
-- "desc": "The froghemoth targets one Medium or smaller creature that it can see within\
-    \ 20 feet of it. The target must make a DC 18 Strength saving throw. On a failed\
-    \ save, the target is pulled into an unoccupied space within 5 feet of the froghemoth."
-  "name": "Tongue"
+  - "desc": "The froghemoth makes one Bite attack and two Tentacle attacks, and it\
+      \ can use Tongue."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 22\
+      \ (3d10 + 6) piercing damage, and the target is swallowed if it is a Medium\
+      \ or smaller creature. A swallowed creature is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
+      \ and [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], has total cover\
+      \ against attacks and other effects outside the froghemoth, and takes 10 (3d6)\
+      \ acid damage at the start of each of the froghemoth's turns.\n\nThe froghemoth's\
+      \ gullet can hold up to two creatures at a time. If the froghemoth takes 20\
+      \ damage or more on a single turn from a creature inside it, the froghemoth\
+      \ must succeed on a DC 20 Constitution saving throw at the end of that turn\
+      \ or regurgitate all swallowed creatures, each of which falls [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+      \ in a space within 10 feet of the froghemoth. If the froghemoth dies, any swallowed\
+      \ creature is no longer [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
+      \ by it and can escape from the corpse using 10 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 20 ft., one target. Hit: 19\
+      \ (3d8 + 6) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ (escape DC 16) if it is a Huge or smaller creature. Until the grapple ends,\
+      \ the froghemoth can't use this tentacle on another target. The froghemoth has\
+      \ four tentacles."
+    "name": "Tentacle"
+  - "desc": "The froghemoth targets one Medium or smaller creature that it can see\
+      \ within 20 feet of it. The target must make a DC 18 Strength saving throw.\
+      \ On a failed save, the target is pulled into an unoccupied space within 5 feet\
+      \ of the froghemoth."
+    "name": "Tongue"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/froghemoth-mpmm.webp"
 ```
 ^statblock

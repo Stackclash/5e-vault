@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greyhawk
   - domain/death
+alignment: Chaotic Evil
+domains: Death
+pantheon: Greyhawk
+symbol: Grinning human skull
 aliases:
   - Iuz
 ---

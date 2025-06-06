@@ -58,7 +58,7 @@ aliases:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 
-As a bonus action, you may activate this weapon. It remains active for 1 minute or until you deactivate it as another bonus action or drop it. While activated, any successful attacks made with this weapon deal an extra `dice:1d6|noform|avg` (`1d6`) acid damage. In addition, whenever you make a successful attack against a creature made of flesh, you heal an amount of hit points equal to the amount of acid damage dealt by this weapon.
+As a bonus action, you may activate this weapon. It remains active for 1 minute or until you deactivate it as another bonus action or drop it. While activated, any successful attacks made with this weapon deal an extra `dice:1d6|noform|noparens|avg` (`d6`) acid damage. In addition, whenever you make a successful attack against a creature made of flesh, you heal an amount of hit points equal to the amount of acid damage dealt by this weapon.
 
 ## Curse:
 

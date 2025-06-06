@@ -14,7 +14,7 @@ tags:
 aliases:
   - Lamia
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Lamia.md|Lamia]]
+# [[5. Mechanics\Bestiary\Monstrosity\Lamia.md|Lamia]]
 *Source: Monster Manual p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Ruined desert cities and the tombs of forgotten monarchs make perfect lairs for the wicked lamias. These decadent monsters take what has been forgotten and make it the seat of their hedonistic rule, surrounding themselves with sycophants. Lamias rely on [[5. Mechanics/Bestiary/Humanoid/Jackalwere.md|jackalweres]] to perform various tasks, sending them across the wastes to capture slaves or steal treasures from caravans, encampments, or villages, concealed by the lamia's magic as they attack.
@@ -48,45 +48,50 @@ The demon lord Graz'zt creates lamias from his mortal servants, granting them im
 "ac_class": "natural armor"
 "hp": !!int "97"
 "hit_dice": "13d10 + 26"
+"modifier": !!int "1"
 "stats":
-- !!int "16"
-- !!int "13"
-- !!int "15"
-- !!int "14"
-- !!int "15"
-- !!int "16"
+  - !!int "16"
+  - !!int "13"
+  - !!int "15"
+  - !!int "14"
+  - !!int "15"
+  - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "7"
-  "Stealth": !!int "3"
-  "Insight": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common"
 "cr": "4"
 "traits":
-- "desc": "The lamia's innate spellcasting ability is Charisma (spell save DC 13).\
-    \ It can innately cast the following spells, requiring no material components.\n\
-    \nAt will: [[5. Mechanics/Spells/Disguise Self.md|disguise self]] (any humanoid\
-    \ form), [[5. Mechanics/Spells/Major Image.md|major image]]\n\n1/day: [[5. Mechanics/Spells/Geas.md|geas]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]],\
-    \ [[5. Mechanics/Spells/Scrying.md|scrying]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "Innate Spellcasting"
+  - "desc": "The lamia's innate spellcasting ability is Charisma (spell save DC 13).\
+      \ It can innately cast the following spells, requiring no material components.\n\
+      \nAt will: [[5. Mechanics/Spells/Disguise Self.md|disguise self]] (any humanoid\
+      \ form), [[5. Mechanics/Spells/Major Image.md|major image]]\n\n3/day each:\
+      \ [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]],\
+      \ [[5. Mechanics/Spells/Scrying.md|scrying]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
+      \n1/day: [[5. Mechanics/Spells/Geas.md|geas]]"
+    "name": "Innate Spellcasting"
 "actions":
-- "desc": "The lamia makes two attacks: one with its claws and one with its dagger\
-    \ or Intoxicating Touch."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (2d10\
-    \ + 3) slashing damage."
-  "name": "Claws"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
-    \ + 3) piercing damage."
-  "name": "Dagger"
-- "desc": "Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: The\
-    \ target is magically cursed for 1 hour. Until the curse ends, the target has\
-    \ disadvantage on Wisdom saving throws and all ability checks."
-  "name": "Intoxicating Touch"
+  - "desc": "The lamia makes two attacks: one with its claws and one with its dagger\
+      \ or Intoxicating Touch."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14\
+      \ (2d10 + 3) slashing damage."
+    "name": "Claws"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+      \ + 3) piercing damage."
+    "name": "Dagger"
+  - "desc": "Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: The\
+      \ target is magically cursed for 1 hour. Until the curse ends, the target has\
+      \ disadvantage on Wisdom saving throws and all ability checks."
+    "name": "Intoxicating Touch"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/lamia.webp"
 ```
 ^statblock

@@ -21,7 +21,7 @@ When you create your character, you receive equipment based on a combination of 
 
 You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing. You might have been equipped with a weapon, armor, and a backpack as part of military service. You might even have stolen your gear. A weapon could be a family heirloom, passed down from generation to generation until your character finally took up the mantle and followed in an ancestor's adventurous footsteps.
 
-![[5. Mechanics/Tables/Starting Equipment Starting Wealth By Class.md\|Starting Equipment; Starting Wealth by Class]]
+![[5. Mechanics/Tables/Starting Equipment Starting Wealth By Class (PHB).md\|Starting Equipment; Starting Wealth by Class]]
 
 ## Wealth
 
@@ -43,7 +43,7 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
 ![[6. Resources/Books/Players Handbook 2014/img/c51.webp#center]]
 
-![[5. Mechanics/Tables/Coinage Standard Exchange Rates.md\|Coinage; Standard Exchange Rates]]
+![[5. Mechanics/Tables/Coinage Standard Exchange Rates (PHB).md\|Coinage; Standard Exchange Rates]]
 
 ### Selling Treasure
 
@@ -71,7 +71,7 @@ D&D worlds are a vast tapestry made up of many different cultures, each with its
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in the worlds of D&D.
 
-![[5. Mechanics/Tables/Armor And Shields Armor.md\|Armor and Shields; Armor]]
+![[5. Mechanics/Tables/Armor And Shields Armor (PHB).md\|Armor and Shields; Armor]]
 
 ### Armor Proficiency
 
@@ -178,7 +178,7 @@ This is the time it takes to put on armor. You benefit from the armor's AC only 
 
 This is the time it takes to take off armor. If you have help, reduce this time by half.
 
-![[5. Mechanics/Tables/Getting Into And Out Of Armor Donning And Doffing Armor.md\|Getting Into and Out of Armor; Donning and Doffing Armor]]
+![[5. Mechanics/Tables/Getting Into And Out Of Armor Donning And Doffing Armor (PHB).md\|Getting Into and Out of Armor; Donning and Doffing Armor]]
 
 ## Weapons
 
@@ -186,7 +186,7 @@ Your class grants proficiency in certain weapons, reflecting both the class's fo
 
 The Weapons table shows the most common weapons used in the worlds of D&D, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A melee weapon is used to attack a target within 5 feet of you, whereas a ranged weapon is used to attack a target at a distance.
 
-![[5. Mechanics/Tables/Weapons.md\|Weapons]]
+![[5. Mechanics/Tables/Weapons (PHB).md\|Weapons]]
 
 ### Weapon Proficiency
 
@@ -280,7 +280,7 @@ A Large or smaller creature hit by a net is [[/5. Mechanics/Rules/Conditions.md#
 
 This section describes items that have special rules or require further explanation.
 
-![[5. Mechanics/Tables/Adventuring Gear.md\|Adventuring Gear]]
+![[5. Mechanics/Tables/Adventuring Gear (PHB).md\|Adventuring Gear]]
 
 ### Acid
 
@@ -460,7 +460,7 @@ A torch burns for 1 hour, providing bright light in a 20-foot radius and dim lig
 
 ![[6. Resources/Books/Players Handbook 2014/img/c58.webp#center]]
 
-![[5. Mechanics/Tables/Adventuring Gear Container Capacity.md\|Adventuring Gear; Container Capacity]]
+![[5. Mechanics/Tables/Adventuring Gear Container Capacity (PHB).md\|Adventuring Gear; Container Capacity]]
 
 > [!note] Equipment Packs
 > 
@@ -525,7 +525,7 @@ This set of tools includes a small file, a set of lock picks, a small mirror mou
 
 ![[6. Resources/Books/Players Handbook 2014/img/c59.webp#center]]
 
-![[5. Mechanics/Tables/Tools.md\|Tools]]
+![[5. Mechanics/Tables/Tools (PHB).md\|Tools]]
 
 ## Mounts and Vehicles
 
@@ -553,11 +553,11 @@ Keelboats and rowboats are used on lakes and rivers. If going downstream, add th
 
 ![[6. Resources/Books/Players Handbook 2014/img/c510.webp#center]]
 
-![[5. Mechanics/Tables/Mounts And Vehicles Mounts And Other Animals.md\|Mounts and Vehicles; Mounts and Other Animals]]
+![[5. Mechanics/Tables/Mounts And Vehicles Mounts And Other Animals (PHB).md\|Mounts and Vehicles; Mounts and Other Animals]]
 
-![[5. Mechanics/Tables/Mounts And Vehicles Tack Harness And Drawn Vehicles.md\|Mounts and Vehicles; Tack, Harness, and Drawn Vehicles]]
+![[5. Mechanics/Tables/Mounts And Vehicles Tack Harness And Drawn Vehicles (PHB).md\|Mounts and Vehicles; Tack, Harness, and Drawn Vehicles]]
 
-![[5. Mechanics/Tables/Mounts And Vehicles Waterborne Vehicles.md\|Mounts and Vehicles; Waterborne Vehicles]]
+![[5. Mechanics/Tables/Mounts And Vehicles Waterborne Vehicles (PHB).md\|Mounts and Vehicles; Waterborne Vehicles]]
 
 ![[6. Resources/Books/Players Handbook 2014/img/c511.webp#center]]
 
@@ -567,7 +567,7 @@ Most wealth is not in coins. It is measured in livestock, grain, land, rights to
 
 Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
 
-![[5. Mechanics/Tables/Trade Goods.md\|Trade Goods]]
+![[5. Mechanics/Tables/Trade Goods (PHB).md\|Trade Goods]]
 
 ## Expenses
 
@@ -583,7 +583,7 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 
 ![[6. Resources/Books/Players Handbook 2014/img/c512.webp#center]]
 
-![[5. Mechanics/Tables/Lifestyle Expenses.md\|Lifestyle Expenses]]
+![[5. Mechanics/Tables/Lifestyle Expenses (PHB).md\|Lifestyle Expenses]]
 
 #### Wretched
 
@@ -619,7 +619,7 @@ The wealthier you are, the greater the chance you will be drawn into political i
 
 The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses.
 
-![[5. Mechanics/Tables/Food Drink And Lodging.md\|Food, Drink, and Lodging]]
+![[5. Mechanics/Tables/Food Drink And Lodging (PHB).md\|Food, Drink, and Lodging]]
 
 > [!note] Self-Sufficiency
 > 
@@ -640,7 +640,7 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 
 ![[6. Resources/Books/Players Handbook 2014/img/c513.webp#center]]
 
-![[5. Mechanics/Tables/Services.md\|Services]]
+![[5. Mechanics/Tables/Services (PHB).md\|Services]]
 
 ### Spellcasting Services
 

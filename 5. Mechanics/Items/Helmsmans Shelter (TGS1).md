@@ -10,6 +10,7 @@ tags:
 aliases:
   - Helmsman's Shelter
 armorClass: 2
+weight: 6
 ---
 # Helmsman's Shelter
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  

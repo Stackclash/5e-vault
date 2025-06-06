@@ -6,6 +6,10 @@ tags:
   - deity/nonhuman
   - domain/tempest
   - domain/war
+alignment: Chaotic Evil
+domains: 'Tempest, War'
+pantheon: Nonhuman
+symbol: Unblinking eye
 aliases:
   - Gruumsh
 ---

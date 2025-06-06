@@ -21,7 +21,7 @@ A rather finicky herb in the same family as the venus flytrap and other carnivor
 
 ## Effect:
 
-This herb contains `dice:1d4|noform|avg` (`1d4`) ounces of an adhesive secretion that can form a permanent adhesive bond between any two objects. One ounce of the secretion can cover a 1-foot square surface. The secretion takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of [[5. Mechanics/Items/Universal Solvent.md\|universal solvent]] or [[5. Mechanics/Items/Oil Of Etherealness.md\|oil of etherealness]], or with a [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell.
+This herb contains `dice:1d4|noform|noparens|avg` (`d4`) ounces of an adhesive secretion that can form a permanent adhesive bond between any two objects. One ounce of the secretion can cover a 1-foot square surface. The secretion takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of [[5. Mechanics/Items/Universal Solvent.md\|universal solvent]] or [[5. Mechanics/Items/Oil Of Etherealness.md\|oil of etherealness]], or with a [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell.
 
 > [!quote] A quote from Hamund  
 > 

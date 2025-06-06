@@ -7,21 +7,27 @@ tags:
   - spell/level/5th-level
   - spell/ritual
   - spell/school/divination
-level: 5th-level
-range: true
+classes:
+  - Bard
 school: Divination
+level: 5
+ritual: true
 time: 1 minute
 duration: 1 minute
-components: 'V, S, corvid entrails, a dried opium poppy, and a glass dagger'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Eldritch Communion
+material: 'corvid entrails, a dried opium poppy, and a glass dagger'
 ---
 # Eldritch Communion
 *5th-level, Divination (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** Self
-- **Components:** V, S, corvid entrails, a dried opium poppy, and a glass dagger
+- **Components:** V, S, M (corvid entrails, a dried opium poppy, and a glass dagger)
 - **Duration:** 1 minute
 
 You contact a Great Old One and ask one question that can be answered with a one-sentence reply no more than twenty words long. You must ask your question before the spell ends. There is a 25 percent chance that the answer contains a falsehood or is misleading in some way. (The GM determines this secretly.)
@@ -32,6 +38,6 @@ This also reveals the presence of all aberrations within 300 feet of you. There 
 
 If you cast this spell two or more times before taking a long rest, there is a cumulative 25 percent chance for each casting after the first that you receive no answer and become afflicted with short-term madness.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 338*

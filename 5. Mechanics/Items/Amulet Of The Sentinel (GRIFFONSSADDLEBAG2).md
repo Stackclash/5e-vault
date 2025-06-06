@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Amulet-of-the-Sentinel.webp#right)  
 
 
-This golden amulet of an eye has a large ruby embedded in its center and eight smaller gems around it. The amulet has 8 charges and regains `dice:1d6+2|noform|avg` (`1d6 + 2`) expended charges daily at dawn. While wearing this amulet, you can expend 1 or more of its charges to use one of the following properties:
+This golden amulet of an eye has a large ruby embedded in its center and eight smaller gems around it. The amulet has 8 charges and regains `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) expended charges daily at dawn. While wearing this amulet, you can expend 1 or more of its charges to use one of the following properties:
 
 ## Alertness
 

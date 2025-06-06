@@ -13,7 +13,7 @@ tags:
 aliases:
   - Marilith
 ---
-# [[5. Mechanics/Bestiary/Fiend/Marilith.md|Marilith]]
+# [[5. Mechanics\Bestiary\Fiend\Marilith.md|Marilith]]
 *Source: Monster Manual p. 61, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Terrible to behold, a marilith has the lower body of a great serpent and the upper torso of a humanoid female with six arms. Wielding a wicked blade in each of its six hands, a marilith is a devastating foe that few can match in battle.
@@ -173,14 +173,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50 percent chance of summoning `dice:1d8|noform|avg` (`1d8`) vrocks, `dice:1d6|noform|avg` (`1d6`) hezrous, `dice:1d4|noform|avg` (`1d4`) glabrezus, `dice:1d3|noform|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|avg` (`1d2`) mariliths, or one goristro.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`d8`) vrocks, `dice:1d6|noform|noparens|avg` (`d6`) hezrous, `dice:1d4|noform|noparens|avg` (`d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`d2`) mariliths, or one goristro.  
 > - A barlgura has a 30 percent chance of summoning one barlgura.  
 > - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|avg` (`1d3`) vrocks, `dice:1d2|noform|avg` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|avg` (`1d6`) vrocks, `dice:1d4|noform|avg` (`1d4`) hezrous, `dice:1d3|noform|avg` (`1d3`) glabrezus, `dice:1d2|noform|avg` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|avg` (`1d4`) vrocks, `dice:1d3|noform|avg` (`1d3`) hezrous, `dice:1d2|noform|avg` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|avg` (`2d4`) dretches or one vrock.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`d3`) vrocks, `dice:1d2|noform|noparens|avg` (`d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) vrocks, `dice:1d4|noform|noparens|avg` (`d4`) hezrous, `dice:1d3|noform|noparens|avg` (`d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) vrocks, `dice:1d3|noform|noparens|avg` (`d3`) hezrous, `dice:1d2|noform|noparens|avg` (`d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|noparens|avg` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
@@ -201,19 +201,20 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "ac_class": "natural armor"
 "hp": !!int "189"
 "hit_dice": "18d10 + 90"
+"modifier": !!int "5"
 "stats":
-- !!int "18"
-- !!int "20"
-- !!int "20"
-- !!int "18"
-- !!int "16"
-- !!int "20"
+  - !!int "18"
+  - !!int "20"
+  - !!int "20"
+  - !!int "18"
+  - !!int "16"
+  - !!int "20"
 "speed": "40 ft."
 "saves":
-  "Charisma": !!int "10"
-  "Wisdom": !!int "8"
-  "Strength": !!int "9"
-  "Constitution": !!int "10"
+  - "strength": "+9"
+  - "constitution": "+10"
+  - "wisdom": "+8"
+  - "charisma": "+10"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
@@ -222,37 +223,38 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "16"
 "traits":
-- "desc": "The marilith has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- "desc": "The marilith's weapon attacks are magical."
-  "name": "Magic Weapons"
-- "desc": "The marilith can take one reaction on every turn in combat."
-  "name": "Reactive"
+  - "desc": "The marilith has advantage on saving throws against spells and other\
+      \ magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The marilith's weapon attacks are magical."
+    "name": "Magic Weapons"
+  - "desc": "The marilith can take one reaction on every turn in combat."
+    "name": "Reactive"
 "actions":
-- "desc": "The marilith can make seven attacks: six with its longswords and one with\
-    \ its tail."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8\
-    \ + 4) slashing damage."
-  "name": "Longsword"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 15\
-    \ (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ (escape DC 19). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
-    \ the marilith can automatically hit the target with its tail, and the marilith\
-    \ can't make tail attacks against other targets."
-  "name": "Tail"
-- "desc": "The marilith magically teleports, along with any equipment it is wearing\
-    \ or carrying, up to 120 feet to an unoccupied space it can see."
-  "name": "Teleport"
+  - "desc": "The marilith can make seven attacks: six with its longswords and one\
+      \ with its tail."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13\
+      \ (2d8 + 4) slashing damage."
+    "name": "Longsword"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit:\
+      \ 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is\
+      \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 19). Until\
+      \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
+      \ the marilith can automatically hit the target with its tail, and the marilith\
+      \ can't make tail attacks against other targets."
+    "name": "Tail"
+  - "desc": "The marilith magically teleports, along with any equipment it is wearing\
+      \ or carrying, up to 120 feet to an unoccupied space it can see."
+    "name": "Teleport"
 "reactions":
-- "desc": "The marilith adds 5 to its AC against one melee attack that would hit it.\
-    \ To do so, the marilith must see the attacker and be wielding a melee weapon."
-  "name": "Parry"
+  - "desc": "The marilith adds 5 to its AC against one melee attack that would hit\
+      \ it. To do so, the marilith must see the attacker and be wielding a melee weapon."
+    "name": "Parry"
 "source":
-- "MM"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/marilith.webp"
 ```
 ^statblock

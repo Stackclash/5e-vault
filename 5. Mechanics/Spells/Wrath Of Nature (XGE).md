@@ -8,19 +8,26 @@ tags:
   - spell/class/ranger
   - spell/level/5th-level
   - spell/school/evocation
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Ranger
 school: Evocation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 5
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Wrath of Nature
+concentration: true
 ---
 # Wrath of Nature
 *5th-level, Evocation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -33,7 +40,7 @@ Any area of ground in the cube that is covered by grass or undergrowth is diffic
 
 ## Trees
 
-At the start of each of your turns, each of your enemies within 10 feet of any tree in the cube must succeed on a Dexterity saving throw or take `dice:4d6|noform|avg` (`4d6`) slashing damage from whipping branches.
+At the start of each of your turns, each of your enemies within 10 feet of any tree in the cube must succeed on a Dexterity saving throw or take `dice:4d6|noform|noparens|avg` (`4d6`) slashing damage from whipping branches.
 
 ## Roots and Vines
 
@@ -41,10 +48,10 @@ At the end of each of your turns, one creature of your choice that is on the gro
 
 ## Rocks
 
-As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `dice:3d8|noform|avg` (`3d8`) nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
+As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `dice:3d8|noform|noparens|avg` (`3d8`) nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Xanathar's Guide to Everything p. 171*

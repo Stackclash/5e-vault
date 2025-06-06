@@ -17,7 +17,7 @@ aliases:
 
 Unlike most scrolls having a dowel at its center or some means of a carrying case, a mobius scroll is a half-twisted length of paper that's been magically connected to itself to form an infinite, continuous sheet.
 
-The scroll is blank when found. A spell appears on it when you first attune to the scroll and then again daily at dawn; roll a `dice:d8|noform|avg` (`d8`) each time and use the table below to determine what spell is written on the scroll. On a 1 or 8, an extra spell appears on the scroll (as determined by the table). While you're attuned to the scroll, you can use a bonus action to shunt it to a special demiplane or summon it to your free hand. You can read from the scroll to cast a spell from it using an action.
+The scroll is blank when found. A spell appears on it when you first attune to the scroll and then again daily at dawn; roll a `dice:d8|noform|noparens|avg` (`d8`) each time and use the table below to determine what spell is written on the scroll. On a 1 or 8, an extra spell appears on the scroll (as determined by the table). While you're attuned to the scroll, you can use a bonus action to shunt it to a special demiplane or summon it to your free hand. You can read from the scroll to cast a spell from it using an action.
 
 `dice: [[Mobius Scroll (GRIFFONSSADDLEBAG3).md#^spell-extra-spell]]`
 

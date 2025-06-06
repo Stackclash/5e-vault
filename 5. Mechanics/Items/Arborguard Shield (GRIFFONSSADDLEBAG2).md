@@ -10,6 +10,7 @@ tags:
 aliases:
   - Arborguard Shield
 armorClass: 2
+weight: 6
 ---
 # Arborguard Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  
@@ -22,7 +23,7 @@ This massive wooden shield was made using the bark of an ancient treant. While h
 
 While holding this shield, you can speak its command word as an action to create a wall of up to twelve trees on a solid surface within 120 feet of you. Each tree is 5 feet across at its base, up to 20 feet tall, and must be contiguous with another tree. Alternatively, you can create a ringed wall of trees up to 25 feet in diameter centered on your space. The trees grow tightly next to each other, preventing movement between them and providing total cover to anything behind them. A tree only grows a canopy if there is room for it.
 
-If the wall cuts through a creature's space when it appears, the creature within its area is pushed to one side of the wall and must make a DC 16 Dexterity saving throw. On a failed save, the creature takes `dice:8d6|noform|avg` (`8d6`) bludgeoning or piercing damage (your choice), or half as much damage on a successful save.
+If the wall cuts through a creature's space when it appears, the creature within its area is pushed to one side of the wall and must make a DC 16 Dexterity saving throw. On a failed save, the creature takes `dice:8d6|noform|noparens|avg` (`8d6`) bludgeoning or piercing damage (your choice), or half as much damage on a successful save.
 
 The wall is an object that can be damaged and thus breached. Each tree has AC 13, 20 hit points, and is vulnerable to fire damage. A tree disappears when it drops to 0 hit points or when the effect ends.
 

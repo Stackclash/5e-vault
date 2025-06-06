@@ -8,28 +8,36 @@ tags:
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/necromancy
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 school: Necromancy
-time: 1 reaction
-duration: 8 hour
-components: 'V, S, a tiny silver cage worth 100 gp'
+level: 6
+ritual: false
+time: 1 Reaction
+duration: 8 hours
+components:
+  - V
+  - S
+  - M
 aliases:
   - Soul Cage
+material: a tiny silver cage worth 100 gp
 ---
 # Soul Cage
 *6th-level, Necromancy*  
 
-- **Casting time:** 1 reaction
+- **Casting time:** 1 Reaction
 - **Range:** 60 feet
-- **Components:** V, S, a tiny silver cage worth 100 gp
-- **Duration:** 8 hour
+- **Components:** V, S, M (a tiny silver cage worth 100 gp)
+- **Duration:** 8 hours
 
 This spell snatches the soul of a humanoid as it dies and traps it inside the tiny cage you use for the material component. A stolen soul remains inside the cage until the spell ends or until you destroy the cage, which ends the spell. While you have a soul inside the cage, you can exploit it in any of the ways described below. You can use a trapped soul up to six times. Once you exploit a soul for the sixth time, it is released, and the spell ends. While a soul is trapped, the dead humanoid it came from can't be revived.
 
 ## Steal Life
 
-You can use a bonus action to drain vigor from the soul and regain `dice:2d8|noform|avg` (`2d8`) hit points.
+You can use a bonus action to drain vigor from the soul and regain `dice:2d8|noform|noparens|avg` (`2d8`) hit points.
 
 ## Query Soul
 
@@ -47,6 +55,6 @@ A creature that can see the sensor (such as one using [[5. Mechanics/Spells/See 
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Xanathar's Guide to Everything p. 165*

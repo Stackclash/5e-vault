@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/death
+alignment: Neutral Evil
+domains: Death
+pantheon: Forgotten Realms
+symbol: Skull surrounded by a ring of blood droplets
 aliases:
   - Bhaal
 ---

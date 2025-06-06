@@ -13,7 +13,7 @@ tags:
 aliases:
   - Githzerai Zerth
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Githzerai Zerth.md|Githzerai Zerth]]
+# [[5. Mechanics\Bestiary\Humanoid\Githzerai Zerth.md|Githzerai Zerth]]
 *Source: Monster Manual p. 161*
 
 Focused philosophers and austere ascetics, the githzerai pursue lives of rigid order. Lean and muscular, they wear unadorned clothing free of ornamentation, keeping their own counsel and trusting few creatures outside of their own kind. Having turned their backs on their warlike githyanki kin, the githzerai maintain a strict monastic lifestyle, dwelling on islands of order in the vast sea of chaos that is the plane of Limbo.
@@ -72,46 +72,51 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "ac": !!int "17"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
+"modifier": !!int "4"
 "stats":
-- !!int "13"
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "17"
-- !!int "12"
+  - !!int "13"
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "17"
+  - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "6"
-  "Strength": !!int "4"
+  - "strength": "+4"
+  - "dexterity": "+7"
+  - "intelligence": "+6"
+  - "wisdom": "+6"
 "skillsaves":
-  "Insight": !!int "6"
-  "Perception": !!int "6"
-  "Arcana": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "Gith"
 "cr": "6"
 "traits":
-- "desc": "The githzerai's innate spellcasting ability is Wisdom. It can innately\
-    \ cast the following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
-    \ (the hand is invisible)\n\n1/day each: [[5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]],\
-    \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n3/day each: [[5. Mechanics/Spells/Feather Fall.md|feather\
-    \ fall]], [[5. Mechanics/Spells/Jump.md|jump]],\
-    \ [[5. Mechanics/Spells/See Invisibility.md|see invisibility]], [[5. Mechanics/Spells/Shield.md|shield]]"
-  "name": "Innate Spellcasting (Psionics)"
-- "desc": "While the githzerai is wearing no armor and wielding no shield, its AC\
-    \ includes its Wisdom modifier."
-  "name": "Psychic Defense"
+  - "desc": "The githzerai's innate spellcasting ability is Wisdom. It can innately\
+      \ cast the following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage\
+      \ hand]] (the hand is invisible)\n\n3/day each:\
+      \ [[5. Mechanics/Spells/Feather Fall.md|feather fall]], [[5. Mechanics/Spells/Jump.md|jump]],\
+      \ [[5. Mechanics/Spells/See Invisibility.md|see invisibility]], [[5. Mechanics/Spells/Shield.md|shield]]\n\
+      \n1/day each: [[5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]],\
+      \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
+    "name": "Innate Spellcasting (Psionics)"
+  - "desc": "While the githzerai is wearing no armor and wielding no shield, its AC\
+      \ includes its Wisdom modifier."
+    "name": "Psychic Defense"
 "actions":
-- "desc": "The githzerai makes two unarmed strikes."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
-    \ + 4) bludgeoning damage plus 13 (3d8) psychic damage. This is a magic weapon\
-    \ attack."
-  "name": "Unarmed Strike"
+  - "desc": "The githzerai makes two unarmed strikes."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+      \ (2d6 + 4) bludgeoning damage plus 13 (3d8) psychic damage. This is a magic\
+      \ weapon attack."
+    "name": "Unarmed Strike"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/githzerai-zerth.webp"
 ```
 ^statblock

@@ -9,21 +9,29 @@ tags:
   - spell/level/9th-level
   - spell/ritual
   - spell/school/necromancy
-level: 9th-level
-range: true
+classes:
+  - Bard
+  - Cleric
+  - Wizard
 school: Necromancy
+level: 9
+ritual: true
 time: 1 hour
 duration: Until dispelled
-components: 'V, S, a statuette carved in the likeness of the victim worth 1,250 gp'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Afflict Line
+material: 'a statuette carved in the likeness of the victim worth 1,250 gp'
 ---
 # Afflict Line
 *9th-level, Necromancy (ritual)*  
 
 - **Casting time:** 1 hour unless cast as a ritual
 - **Range:** 1 miles
-- **Components:** V, S, a statuette carved in the likeness of the victim worth 1,250 gp
+- **Components:** V, S, M (a statuette carved in the likeness of the victim worth 1,250 gp)
 - **Duration:** Until dispelled
 
 > [!note]
@@ -37,6 +45,6 @@ If you expend your ritual focus, the curse becomes hereditary, passing from firs
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 210*

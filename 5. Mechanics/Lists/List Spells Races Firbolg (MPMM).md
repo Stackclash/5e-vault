@@ -10,5 +10,5 @@ aliases:
 
 ## 1st Level
 
-- [[Detect Magic \|"PHB"]] 
-- [[Disguise Self \|"PHB"]]
+- [[5. Mechanics/Spells/Detect Magic.md \|"PHB"]] 
+- [[5. Mechanics/Spells/Disguise Self.md \|"PHB"]]

@@ -17,7 +17,7 @@ tags:
 aliases:
   - Spirit Troll
 ---
-# [[5. Mechanics/Bestiary/Giant/Spirit Troll (MPMM).md|Spirit Troll]]
+# [[5. Mechanics\Bestiary\Giant\Spirit Troll (MPMM).md|Spirit Troll]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*
 
 A troll blasted with psychic energy can take a non physical form upon regenerating. The troll's psyche survives, but the body is as insubstantial as shadow. The troll might be unaware of the transition—the creature still moves and attacks with teeth and claws as ever—but now the troll strikes at victims' minds.
@@ -41,16 +41,18 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "ac_class": "natural armor"
 "hp": !!int "130"
 "hit_dice": "20d10 + 20"
+"modifier": !!int "3"
 "stats":
-- !!int "1"
-- !!int "17"
-- !!int "13"
-- !!int "8"
-- !!int "9"
-- !!int "16"
+  - !!int "1"
+  - !!int "17"
+  - !!int "13"
+  - !!int "8"
+  - !!int "9"
+  - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
 "damage_resistances": "acid, cold, fire"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -61,31 +63,31 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "languages": "Giant"
 "cr": "11"
 "traits":
-- "desc": "The troll can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
-    \ an object."
-  "name": "Incorporeal Movement"
-- "desc": "The troll regains 10 hit points at the start of each of its turns. If the\
-    \ troll takes psychic or force damage, this trait doesn't function at the start\
-    \ of the troll's next turn. The troll dies only if it starts its turn with 0 hit\
-    \ points and doesn't regenerate."
-  "name": "Regeneration"
+  - "desc": "The troll can move through other creatures and objects as if they were\
+      \ difficult terrain. It takes 5 (d10) force damage if it ends its turn inside\
+      \ an object."
+    "name": "Incorporeal Movement"
+  - "desc": "The troll regains 10 hit points at the start of each of its turns. If\
+      \ the troll takes psychic or force damage, this trait doesn't function at the\
+      \ start of the troll's next turn. The troll dies only if it starts its turn\
+      \ with 0 hit points and doesn't regenerate."
+    "name": "Regeneration"
 "actions":
-- "desc": "The troll makes one Bite attack and two Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 19\
-    \ (3d10 + 3) psychic damage, and the target must succeed on a DC 15 Wisdom saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] for 1 minute.\
-    \ The [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] target can repeat the\
-    \ saving throw at the end of each of its turns, ending the effect on itself on\
-    \ a success."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 19\
-    \ (3d10 + 3) psychic damage."
-  "name": "Claws"
+  - "desc": "The troll makes one Bite attack and two Claw attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 19\
+      \ (3d10 + 3) psychic damage, and the target must succeed on a DC 15 Wisdom saving\
+      \ throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] for 1 minute.\
+      \ The [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] target can repeat the\
+      \ saving throw at the end of each of its turns, ending the effect on itself\
+      \ on a success."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 19\
+      \ (3d10 + 3) psychic damage."
+    "name": "Claws"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Giant/token/spirit-troll-mpmm.webp"
 ```
 ^statblock

@@ -9,25 +9,32 @@ tags:
   - spell/optfeature/pact-of-the-tome
   - spell/school/illusion
   - spell/subclass/arcane-trickster
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Illusion
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: cantrip
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Silhouette
+concentration: true
 ---
 # Silhouette
 *cantrip, Illusion*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
 You create a shadow play against a screen or wall. The surface can encompass up to 100 square feet. The number of creatures that can see the shadow play equals your Intelligence score. The shadowy figures make no sound but they can dance, run, move, kiss, fight, and so forth. Most of the figures are generic types—a rabbit, a dwarf—but a number of them equal to your Intelligence modifier can be recognizable as specific individuals.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 252*

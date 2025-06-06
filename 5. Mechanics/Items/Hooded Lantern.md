@@ -8,6 +8,7 @@ tags:
 aliases:
   - Hooded Lantern
 cost: 500
+weight: 2
 ---
 # Hooded Lantern
 *Adventuring gear*  

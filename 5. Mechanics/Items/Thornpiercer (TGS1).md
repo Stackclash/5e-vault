@@ -30,18 +30,18 @@ Each weapon option has a unique property:
 
 ## Dagger
 
-When you throw this weapon, only the blade is thrown from the rose hilt. Hit or miss, when the blade reaches its target, it erupts into a burst of thorns. The target and up to 3 other creatures of your choice within 10 feet of it must succeed on a DC 17 Dexterity saving throw or take `dice:1d4+2|noform|avg` (`1d4 + 2`) piercing damage.
+When you throw this weapon, only the blade is thrown from the rose hilt. Hit or miss, when the blade reaches its target, it erupts into a burst of thorns. The target and up to 3 other creatures of your choice within 10 feet of it must succeed on a DC 17 Dexterity saving throw or take `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) piercing damage.
 
 ## Rapier
 
-When you roll a 20 on an attack roll with this weapon, the blade's thorns eviscerate the inside of the target and deal an extra `dice:3d4|noform|avg` (`3d4`) piercing damage. If the target was a Large or smaller creature, it must also make a DC 17 Constitution saving throw. On a failure, its hit point maximum is reduced by the amount of damage dealt by the attack. On a success, it's reduced by half the amount instead. Once the creature completes a short or long rest, its hit point maximum is restored.
+When you roll a 20 on an attack roll with this weapon, the blade's thorns eviscerate the inside of the target and deal an extra `dice:3d4|noform|noparens|avg` (`3d4`) piercing damage. If the target was a Large or smaller creature, it must also make a DC 17 Constitution saving throw. On a failure, its hit point maximum is reduced by the amount of damage dealt by the attack. On a success, it's reduced by half the amount instead. Once the creature completes a short or long rest, its hit point maximum is restored.
 
 ## Shortsword
 
-The first creature hit by this weapon on each of your turns must make a DC 17 Constitution saving throw. On a failed save, a creature takes an extra `dice:1d6|noform|avg` (`1d6`) poison damage and is [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the end of its next turn.
+The first creature hit by this weapon on each of your turns must make a DC 17 Constitution saving throw. On a failed save, a creature takes an extra `dice:1d6|noform|noparens|avg` (`d6`) poison damage and is [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the end of its next turn.
 
 ## Whip
 
-When you hit a Medium or smaller target with this weapon, you can attempt to grapple it with the whip. When you do, the target must succeed on a DC 17 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] by viny whip. A grappled target takes `dice:1d4|noform|avg` (`1d4`) piercing damage from the whip's thorns at the start of each of its turns until it's freed. A creature can use its action to make a DC 17 Strength check, freeing itself or another creature within its reach on a success. The whip breaks off from the hilt when you successfully grapple a target in this way, allowing you to move freely while the target remains grappled.
+When you hit a Medium or smaller target with this weapon, you can attempt to grapple it with the whip. When you do, the target must succeed on a DC 17 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] by viny whip. A grappled target takes `dice:1d4|noform|noparens|avg` (`d4`) piercing damage from the whip's thorns at the start of each of its turns until it's freed. A creature can use its action to make a DC 17 Strength check, freeing itself or another creature within its reach on a success. The whip breaks off from the hilt when you successfully grapple a target in this way, allowing you to move freely while the target remains grappled.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 132*

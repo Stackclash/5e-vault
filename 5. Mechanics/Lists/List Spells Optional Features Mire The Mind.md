@@ -10,4 +10,4 @@ aliases:
 
 ## 3rd Level
 
-- [[Slow \|"PHB"]]
+- [[5. Mechanics/Spells/Slow.md \|"PHB"]]

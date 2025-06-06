@@ -19,7 +19,7 @@ While you're attuned to this item, you can cast the [[5. Mechanics/Spells/See In
 
 ## Curse
 
-When you attune to the eye of Dendallen, you're suddenly overcome with the urge to see what it sees. Make a DC 20 Wisdom saving throw. On a success, you resist the curse and are aware of its effects but are no longer attuned to the item. On a failure, you forcefully tear out one of your own eyes, taking `dice:4d10|noform|avg` (`4d10`) necrotic damage, and allow the eye of Dendallen to crawl into its now vacant socket. If you're already missing an eye, you simply let the eye crawl into the socket without taking the necrotic damage.
+When you attune to the eye of Dendallen, you're suddenly overcome with the urge to see what it sees. Make a DC 20 Wisdom saving throw. On a success, you resist the curse and are aware of its effects but are no longer attuned to the item. On a failure, you forcefully tear out one of your own eyes, taking `dice:4d10|noform|noparens|avg` (`4d10`) necrotic damage, and allow the eye of Dendallen to crawl into its now vacant socket. If you're already missing an eye, you simply let the eye crawl into the socket without taking the necrotic damage.
 
 You can see normally through the eye of Dendallen while it's in your socket. In addition, you have [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to a range of 60 feet. If you already had darkvision, the eye increases its range by 30 feet. As a bonus action, you can concentrate on looking through the eye to peer through magical darkness in this way for 1 minute. Once this property of the eye has been used, it can't be used again until the following dusk.
 

@@ -9,13 +9,14 @@ tags:
   - item/weapon/simple
 aliases:
   - Squasher
-one-hand-damage: 1d8 B
+one-hand-damage: 1d8 bludgeoning
+weight: 10
 ---
 # Squasher
 *Weapon ([[5. Mechanics/Items/Greatclub.md\|greatclub]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Squasher.webp#right)  
 
-- **Damage**: 1d8 B
+- **Damage**: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
 

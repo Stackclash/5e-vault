@@ -14,7 +14,7 @@ tags:
 aliases:
   - Awakened Tree
 ---
-# [[5. Mechanics/Bestiary/Plant/Awakened Tree.md|Awakened Tree]]
+# [[5. Mechanics\Bestiary\Plant\Awakened Tree.md|Awakened Tree]]
 *Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 An awakened tree is an ordinary tree given sentience and mobility by the [[5. Mechanics/Spells/Awaken.md|awaken]] spell or similar magic.
@@ -28,13 +28,14 @@ An awakened tree is an ordinary tree given sentience and mobility by the [[5. Me
 "ac_class": "natural armor"
 "hp": !!int "59"
 "hit_dice": "7d12 + 14"
+"modifier": !!int "-2"
 "stats":
-- !!int "19"
-- !!int "6"
-- !!int "15"
-- !!int "10"
-- !!int "10"
-- !!int "7"
+  - !!int "19"
+  - !!int "6"
+  - !!int "15"
+  - !!int "10"
+  - !!int "10"
+  - !!int "7"
 "speed": "20 ft."
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing"
@@ -42,15 +43,15 @@ An awakened tree is an ordinary tree given sentience and mobility by the [[5. Me
 "languages": "one language known by its creator"
 "cr": "2"
 "traits":
-- "desc": "While the tree remains motionless, it is indistinguishable from a normal\
-    \ tree."
-  "name": "False Appearance"
+  - "desc": "While the tree remains motionless, it is indistinguishable from a normal\
+      \ tree."
+    "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6\
-    \ + 4) bludgeoning damage."
-  "name": "Slam"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14\
+      \ (3d6 + 4) bludgeoning damage."
+    "name": "Slam"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Plant/token/awakened-tree.webp"
 ```
 ^statblock

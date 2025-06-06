@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/dragonlance
   - domain/trickery
+alignment: Chaotic Evil
+category: The Gods of Evil
+domains: Trickery
+pantheon: Dragonlance
+symbol: Broken merchant's scales
 aliases:
   - Hiddukel
 ---

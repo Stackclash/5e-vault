@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Redsmith Carrying Pack
+weight: 20
 ---
 # Redsmith Carrying Pack
 *Wondrous item, minor, common*  

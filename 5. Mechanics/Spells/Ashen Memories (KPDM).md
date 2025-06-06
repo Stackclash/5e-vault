@@ -10,12 +10,19 @@ tags:
   - spell/ritual
   - spell/school/divination
   - spell/subclass/arcane-trickster
-level: 2nd-level
-range: true
+classes:
+  - Bard
+  - Cleric
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Divination
+level: 2
+ritual: true
 time: 1 minute
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Ashen Memories
 ---
@@ -29,6 +36,6 @@ aliases:
 
 You touch the ashes, embers, or soot left behind by a fire and receive a vision of one significant event that occurred in the area while the fire was burning. For example, if you were to touch the cold embers of a campfire, you might witness a snippet of a conversation that occurred around the fire. Similarly, touching the ashes of a burned letter might grant you a vision of the person who destroyed the letter or the contents of the letter. You have no control over what information the spell reveals, but your vision usually is tied to the most meaningful event related to the fire. The GM determines the details of what is revealed.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 39*

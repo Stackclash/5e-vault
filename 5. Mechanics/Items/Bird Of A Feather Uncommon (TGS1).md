@@ -17,6 +17,6 @@ This small stuffed roc toy is filled with enchanted down. While holding onto the
 
 If you take any damage while flying in this way, you lose concentration on the toy and immediately start falling.
 
-This item cannot be used again for `dice:1d4|noform|avg` (`1d4`) hours. It gives a happy little chirp when its magic can be used again.
+This item cannot be used again for `dice:1d4|noform|noparens|avg` (`d4`) hours. It gives a happy little chirp when its magic can be used again.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 35*

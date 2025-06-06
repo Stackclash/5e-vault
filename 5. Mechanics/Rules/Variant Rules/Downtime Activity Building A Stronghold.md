@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/dmg
 aliases:
-  - 'Downtime Activity: Building a Stronghold'
+  - Downtime Activity: Building a Stronghold
 ---
 # Downtime Activity: Building a Stronghold
 *Source: Dungeon Master's Guide p. 128* 

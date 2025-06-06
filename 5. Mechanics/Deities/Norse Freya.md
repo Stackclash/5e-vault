@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/norse
   - domain/life
+alignment: Neutral Good
+domains: Life
+pantheon: Norse
+symbol: Falcon
 aliases:
   - Freya
 ---

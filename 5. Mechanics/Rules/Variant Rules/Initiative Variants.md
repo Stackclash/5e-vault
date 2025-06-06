@@ -21,7 +21,7 @@ By cutting down on die rolls, math done on the fly, and the process of asking fo
 
 Recording initiative for each PC and monster, arranging everyone in the correct order, and remembering where you are in the list can bog the game down. If you want quicker combats, at the risk of those combats becoming unbalanced, try using the side initiative rule.
 
-Under this variant, the players roll a `dice:d20|noform|avg` (`d20`) for their initiative as a group, or side. You also roll a `dice:d20|noform|avg` (`d20`). Neither roll receives any modifiers. Whoever rolls highest wins initiative. In case of a tie, keep rerolling until the tie is broken.
+Under this variant, the players roll a `dice:d20|noform|noparens|avg` (`d20`) for their initiative as a group, or side. You also roll a `dice:d20|noform|noparens|avg` (`d20`). Neither roll receives any modifiers. Whoever rolls highest wins initiative. In case of a tie, keep rerolling until the tie is broken.
 
 When it's a side's turn, the members of that side can act in any order they choose. Once everyone on the side has taken a turn, the other side goes. A round ends when both sides have completed their turns.
 

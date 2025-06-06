@@ -9,21 +9,30 @@ tags:
   - spell/ritual
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
-level: 2nd-level
-range: true
+classes:
+  - Bard
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, a pinch of powdered iron'
+level: 2
+ritual: true
+time: 1 Action
+duration: up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Enhance Familiar
+concentration: true
+material: a pinch of powdered iron
 ---
 # Enhance Familiar
 *2nd-level, Transmutation (ritual)*  
 
-- **Casting time:** 1 action unless cast as a ritual
+- **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 30 feet
-- **Components:** V, S, a pinch of powdered iron
+- **Components:** V, S, M (a pinch of powdered iron)
 - **Duration:** Concentration, up to 1 hour
 
 You temporarily imbue your familiar with power, making it larger, tougher, and more vicious. While the spell lasts, your familiar has all the statistics of the giant version of its type, except for the fish (quipper), which has the statistics of a [[5. Mechanics/Bestiary/Beast/Reef Shark.md\|reef shark]]. Your familiar retains all its special abilities as described in the find familiar spell.
@@ -32,6 +41,6 @@ If your familiar drops to 0 hit points and disappears, or you dismiss your famil
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, its duration is 1 hour and does not require concentration. When you cast this spell using a spell slot of 6th level or higher, the duration increases to 24 hours.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 67*

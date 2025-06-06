@@ -20,7 +20,7 @@ aliases:
 | 5 | ***Identity.*** Your name. |
 | 6 | ***Anatomy.*** piece of you - a lock of hair, a drop of blood, or a bit of flesh. |
 | 7 | ***Recollection.*** The precious memory of a loved one or an event from your past. |
-| 8 | ***Enforcement.*** You must satisfy an earlier contract by bringing a specific person to the Nine Hells whose time is up. You are accompanied by `dice:1d4+1\|noform\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Monstrosity/Bloodhound Da Gic.md\|bloodhounds]] |
+| 8 | ***Enforcement.*** You must satisfy an earlier contract by bringing a specific person to the Nine Hells whose time is up. You are accompanied by `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Monstrosity/Bloodhound Da Gic.md\|bloodhounds]] |
 | 9 | ***Persuasion.*** You must convince another mortal to strike a deal with your contract administrator. |
 | 10 | ***Hospitality.*** You may never sleep indoors again. |
 | 11 | ***Mercy.*** Those who choose to fight you must not live tot tell the tale. |

@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/veor
 aliases:
-  - 'Chapter 10: The War of Pandesmos'
+  - Chapter 10: The War of Pandesmos
 ---
 # Chapter 10: The War of Pandesmos
 *Source: Vecna: Eve of Ruin* 
@@ -102,7 +102,7 @@ Winds shriek from the Ruinous Sea, joining the gales that scour Pandesmos. Rumor
 
 #### Swimming the Ruinous Sea
 
-Despite their ephemeral appearance, the Ruinous Sea's roiling clouds are viscous and cloying, acting as a liquid for the purposes of movement. A creature that enters the Ruinous Sea for the first time on a turn or starts its turn there takes `dice:20d6|noform|avg|text(70)` (`20d6`) damage. The type of damage fluctuates with the roiling of the Ruinous Sea (choose or roll a `dice:d4|noform|avg` (`d4`)): 1, acid; 2, lightning; 3, necrotic; or 4, radiant.
+Despite their ephemeral appearance, the Ruinous Sea's roiling clouds are viscous and cloying, acting as a liquid for the purposes of movement. A creature that enters the Ruinous Sea for the first time on a turn or starts its turn there takes `dice:20d6|noform|noparens|avg|text(70)` (`20d6`) damage. The type of damage fluctuates with the roiling of the Ruinous Sea (choose or roll a `dice:d4|noform|noparens|avg` (`d4`)): 1, acid; 2, lightning; 3, necrotic; or 4, radiant.
 
 In addition to that danger, the Ruinous Sea is also inhabited by evil chaos krakens (a chaos kraken uses the [[5. Mechanics/Bestiary/Monstrosity/Kraken.md\|kraken]] stat block but is immune to the Ruinous Sea's damage). A chaos kraken named Vashishax lurks in the Ruinous Sea near the beach. Vashishax considers this war among outsiders to be irrelevant, though the kraken is spying on the battle out of curiosity. Vashishax considers any intrusion into the Ruinous Sea to be a personal insult and fights any creature that spends more than a minute within it. Vashishax isn't willing to die here; if reduced to fewer than 100 hit points, the kraken flees to its lair many miles deeper in the Ruinous Sea.
 
@@ -126,7 +126,7 @@ Without the tower's protection, Camlash's forces are exposed to assault from Mis
 
 Lolth's forces surround the tower, but they are focused on the spyder-fiends below rather than on defense. Hundreds of driders, Humanoids, and demons surround the tower, but the characters don't need to fight these creatures if they create a plausible distraction, disguise, or ruse.
 
-If the characters are careless or fail to fool Lolth's forces, they might face a squad of `dice:1d4|noform|avg` (`1d4`) [[5. Mechanics/Bestiary/Monstrosity/Drider.md\|driders]], `dice:1d6|noform|avg` (`1d6`) [[5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spiders]], and `dice:1d4|noform|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassins]]. Characters who defeat the squad can try again to infiltrate the tower.
+If the characters are careless or fail to fool Lolth's forces, they might face a squad of `dice:1d4|noform|noparens|avg` (`d4`) [[5. Mechanics/Bestiary/Monstrosity/Drider.md\|driders]], `dice:1d6|noform|noparens|avg` (`d6`) [[5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spiders]], and `dice:1d4|noform|noparens|avg` (`d4`) [[5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassins]]. Characters who defeat the squad can try again to infiltrate the tower.
 
 ### Hurricane Tower Features
 
@@ -200,13 +200,13 @@ Once news of Camlash's defeat becomes widely known, no one else arrives. Instead
 
 ##### Cutting the Webs
 
-The two web anchors have AC 12; 40 hit points; and immunity to bludgeoning, fire, poison, and psychic damage. The webs are tough, but they're sticky only where they meet the walls. Camlash has enchanted these anchors to inflict a mental backlash on anyone who tampers with them. A creature that deals damage to a web anchor takes `dice:4d8|noform|avg|text(18)` (`4d8`) psychic damage.
+The two web anchors have AC 12; 40 hit points; and immunity to bludgeoning, fire, poison, and psychic damage. The webs are tough, but they're sticky only where they meet the walls. Camlash has enchanted these anchors to inflict a mental backlash on anyone who tampers with them. A creature that deals damage to a web anchor takes `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) psychic damage.
 
 The tower creaks ominously if both anchors are cut. If the four anchors in area X1 have also been cut, the tower falls.
 
 ### The Tower Falls
 
-If all six web anchors are cut or destroyed, Hurricane Tower crashes 400 feet down the cliffside, leaving only its foundation behind. Once it starts falling, the characters have 1 minute to escape the tower. Characters who fail to do so take `dice:20d6|noform|avg|text(70)` (`20d6`) bludgeoning damage.
+If all six web anchors are cut or destroyed, Hurricane Tower crashes 400 feet down the cliffside, leaving only its foundation behind. Once it starts falling, the characters have 1 minute to escape the tower. Characters who fail to do so take `dice:20d6|noform|noparens|avg|text(70)` (`20d6`) bludgeoning damage.
 
 The tower's fall has a number of additional effects:
 
@@ -274,7 +274,7 @@ The kakkuus immediately return if they see the glyph glowing on the door to area
 
 #### Y2: Guard Hall
 
-The exterior door has an invisible glyph inscribed on it. Each time a creature other than a Fiend opens the door, the glyph glows for a split second, and the creature must make a DC 18 Wisdom saving throw, taking `dice:6d6|noform|avg|text(21)` (`6d6`) psychic damage on a failed save or half as much damage on a successful one. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the door removes the glyph, allowing the door to be opened safely.
+The exterior door has an invisible glyph inscribed on it. Each time a creature other than a Fiend opens the door, the glyph glows for a split second, and the creature must make a DC 18 Wisdom saving throw, taking `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) psychic damage on a failed save or half as much damage on a successful one. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the door removes the glyph, allowing the door to be opened safely.
 
 > [!readaloud] 
 > 
@@ -325,7 +325,7 @@ If the characters want to disguise themselves to infiltrate Camlash's forces, th
 
 ##### Treasure
 
-In addition to the [[5. Mechanics/Items/Cloak Of Arachnida.md\|Cloak of Arachnida]] that Naxa wears, this room contains four [[5. Mechanics/Items/1 Weapon.md\|+1 Longswords]], three [[5. Mechanics/Items/1 Weapon.md\| +1 Daggers]], a [[5. Mechanics/Items/2 Weapon.md\|+2 Longbow]], three [[5. Mechanics/Items/Potion Of Poison.md\|Potions of Poison]], and a [[5. Mechanics/Items/Potion Of Stone Giant Strength.md\|Potion of Giant Strength (stone)]]. One banner bearing Lolth's symbol is bordered with a thick silk rope. This is a [[5. Mechanics/Items/Rope Of Climbing.md\|Rope of Climbing]] that functions normally once unstitched from the banner. A mahogany chest the spyder-fiends took from a drow quartermaster contains 750 flawless black opals, each worth 1,000 gp.
+In addition to the [[5. Mechanics/Items/Cloak Of Arachnida.md\|Cloak of Arachnida]] that Naxa wears, this room contains four [[5. Mechanics/Items/1 Weapon.md\|+1 Longswords]], three [[5. Mechanics/Items/1 Weapon.md\|+1 Daggers]], a [[5. Mechanics/Items/2 Weapon.md\|+2 Longbow]], three [[5. Mechanics/Items/Potion Of Poison.md\|Potions of Poison]], and a [[5. Mechanics/Items/Potion Of Stone Giant Strength.md\|Potion of Giant Strength (stone)]]. One banner bearing Lolth's symbol is bordered with a thick silk rope. This is a [[5. Mechanics/Items/Rope Of Climbing.md\|Rope of Climbing]] that functions normally once unstitched from the banner. A mahogany chest the spyder-fiends took from a drow quartermaster contains 750 flawless black opals, each worth 1,000 gp.
 
 #### Y5: Planning Chamber
 
@@ -349,11 +349,11 @@ The map is a highly detailed model with magical glowing dots that represent troo
 
 ##### Treasure
 
-A platinum scroll tube worth 2,500 gp is hidden in webbing in the southwest corner of the room, near the ceiling. It contains two [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scrolls]] of [[5. Mechanics/Spells/Glyph Of Warding.md\|Glyph of Warding]]. Characters who search the room and succeed on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check find the scroll tube.
+A platinum scroll tube worth 2,500 gp is hidden in webbing in the southwest corner of the room, near the ceiling. It contains two [[5. Mechanics/Items/Spell Scroll.md\|Spell Scrolls]] of [[5. Mechanics/Spells/Glyph Of Warding.md\|Glyph of Warding]]. Characters who search the room and succeed on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check find the scroll tube.
 
 #### Y6: Food Storage
 
-The door to this room has an invisible glyph inscribed on it. Each time a creature other than a [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend (VEOR).md\|raklupis spyder-fiend]] opens the door, the glyph glows for a split second, and the creature must make a DC 18 Wisdom saving throw, taking `dice:6d6|noform|avg|text(21)` (`6d6`) psychic damage on a failed save or half as much damage on a successful one. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the door removes the glyph, allowing the door to be opened safely.
+The door to this room has an invisible glyph inscribed on it. Each time a creature other than a [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend (VEOR).md\|raklupis spyder-fiend]] opens the door, the glyph glows for a split second, and the creature must make a DC 18 Wisdom saving throw, taking `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) psychic damage on a failed save or half as much damage on a successful one. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the door removes the glyph, allowing the door to be opened safely.
 
 > [!readaloud] 
 > 
@@ -370,7 +370,7 @@ The webbed prisoners want to flee the citadel to rejoin Lolth's forces. They are
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/152-10-005-battles.webp#center\|"Outside the Ruinous Citadel, battles between demonic forces loyal to Miska and Lolth still rage"]]
 
-The door to this chamber has an invisible glyph inscribed upon it. Each time a creature other than a Fiend opens the door the glyph glows for a split second, and the creature must make a DC 18 Wisdom saving throw, taking `dice:6d6|noform|avg|text(21)` (`6d6`) psychic damage on a failed save or half as much damage on a successful one. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the door removes the glyph, allowing the door to be opened safely.
+The door to this chamber has an invisible glyph inscribed upon it. Each time a creature other than a Fiend opens the door the glyph glows for a split second, and the creature must make a DC 18 Wisdom saving throw, taking `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) psychic damage on a failed save or half as much damage on a successful one. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the door removes the glyph, allowing the door to be opened safely.
 
 > [!readaloud] 
 > 
@@ -498,7 +498,7 @@ The holes are ventilation tubes less than a half-inch wide that wind through the
 
 ##### Treasure
 
-A human corpse bears a platinum medallion of Lolth's symbol with dazzling diamonds at the end of each spider's foot (worth 3,000 gp). A drider corpse wears a bandolier woven of solidified shadow worth 30,000 gp. The bandolier holds two [[5. Mechanics/Items/Potion Of Supreme Healing.md\|Potions of Healing (supreme)]] and a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Seeming.md\|Seeming]].
+A human corpse bears a platinum medallion of Lolth's symbol with dazzling diamonds at the end of each spider's foot (worth 3,000 gp). A drider corpse wears a bandolier woven of solidified shadow worth 30,000 gp. The bandolier holds two [[5. Mechanics/Items/Potion Of Supreme Healing.md\|Potions of Healing (supreme)]] and a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Seeming.md\|Seeming]].
 
 ## Fighting Kas
 

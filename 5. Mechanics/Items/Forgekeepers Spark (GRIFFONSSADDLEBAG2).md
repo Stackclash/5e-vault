@@ -22,7 +22,7 @@ While the spirit is present, it helps tend to the fire it's placed in. The spiri
 - It burns for twice the normal duration with the same amount of fuel.  
 - Any food being cooked in the fire is kept at an ideal temperature.  
 
-In addition, you have advantage on any ability check you make that uses either [[5. Mechanics/Items/Cooks Utensils.md\|cook's utensils]] or [[5. Mechanics/Items/Glassblowers Tools.md\|glassblower's]], [[5. Mechanics/Items/Smiths Tools.md\|smith's]], or [[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]] to heat and craft items in the fire. If you roll a 15 or higher on the `dice:d20|noform|avg` (`d20`), the time it takes to use the tools in this way is halved.
+In addition, you have advantage on any ability check you make that uses either [[5. Mechanics/Items/Cooks Utensils.md\|cook's utensils]] or [[5. Mechanics/Items/Glassblowers Tools.md\|glassblower's]], [[5. Mechanics/Items/Smiths Tools.md\|smith's]], or [[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]] to heat and craft items in the fire. If you roll a 15 or higher on the `dice:d20|noform|noparens|avg` (`d20`), the time it takes to use the tools in this way is halved.
 
 ## Sentience
 

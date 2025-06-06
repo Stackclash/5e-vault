@@ -12,27 +12,36 @@ tags:
   - spell/subclass/alchemist
   - spell/subclass/divine-soul
   - spell/subclass/the-valiant
-level: 1st-level
-range: false
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul)
+  - Warlock (The Valiant)
 school: Evocation
-time: 1 bonus
+level: 1
+ritual: false
+time: 1 Bonus Action
 duration: Instantaneous
-components: V
+components:
+  - V
 aliases:
   - Healing Word
+range: 60 feet
 ---
 # Healing Word
 *1st-level, Evocation*  
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** 60 feet
 - **Components:** V
 - **Duration:** Instantaneous
 
-A creature of your choice that you can see within range regains hit points equal to `dice:1d4|noform|avg` (`1d4`) + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A creature of your choice that you can see within range regains hit points equal to `dice:1d4|noform|noparens|avg` (`d4`) + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by `dice:1d4|noform|avg|text(1d4)` for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by `dice:1d4|noform|noparens|avg|text(d4)` for each slot level above 1st.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Artificer Alchemist (TCE)\|Artificer (Alchemist)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Warlock The Valiant (GRIFFONSSADDLEBAG3)\|Warlock (The Valiant)]]
+**Classes**: [Warlock (The Valiant)](compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Artificer (Alchemist)](compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

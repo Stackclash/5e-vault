@@ -8,6 +8,7 @@ tags:
 aliases:
   - Robes
 cost: 100
+weight: 4
 ---
 # Robes
 *Adventuring gear*  

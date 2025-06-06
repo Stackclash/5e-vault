@@ -21,6 +21,6 @@ A delicacy sought by nobles and wealthy merchants from across the world, the gol
 
 ## Effect:
 
-This herb contains `dice:1d6|noform|avg` (`1d6`) charges. You may expend one charge to use this herb, after which, your hit point maximum increases by an amount equal to double your character level, and you gain the same amount of hit points. This increase lasts for 4 hours, after which, your maximum hit points return to normal.
+This herb contains `dice:1d6|noform|noparens|avg` (`d6`) charges. You may expend one charge to use this herb, after which, your hit point maximum increases by an amount equal to double your character level, and you gain the same amount of hit points. This increase lasts for 4 hours, after which, your maximum hit points return to normal.
 
 *Source: Hamund's Herbalism Handbook p. 17*

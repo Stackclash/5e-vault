@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - 'compendium/src/5e/da:gic'
 aliases:
-  - 'Appendix B: Infernal Symbols'
+  - Appendix B: Infernal Symbols
 ---
 # Appendix B: Infernal Symbols
 *Source: Devil's Advocate: A Guide to Infernal Contracts, p. 22* 

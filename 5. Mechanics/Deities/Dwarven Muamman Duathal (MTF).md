@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/dwarven
   - domain/tempest
+alignment: Neutral Good
+category: The Mordinsamman
+domains: Tempest
+pantheon: Dwarven
+province: 'Storms, travel'
+symbol: Mace held in gauntlets
 aliases:
   - Muamman Duathal
 ---

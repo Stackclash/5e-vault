@@ -8,6 +8,7 @@ tags:
   - item/wondrous/wand
 aliases:
   - Borboss' Joyous Wand of Color
+weight: 1
 ---
 # Borboss' Joyous Wand of Color
 *Wand, minor, common*  

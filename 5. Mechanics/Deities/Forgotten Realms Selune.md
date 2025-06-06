@@ -7,6 +7,10 @@ tags:
   - domain/knowledge
   - domain/life
   - domain/twilight
+alignment: Chaotic Good
+domains: 'Knowledge, Life, Twilight'
+pantheon: Forgotten Realms
+symbol: Pair of eyes surrounded by seven stars
 aliases:
   - Selûne
 ---

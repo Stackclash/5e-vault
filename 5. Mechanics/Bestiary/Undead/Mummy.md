@@ -14,7 +14,7 @@ tags:
 aliases:
   - Mummy
 ---
-# [[5. Mechanics/Bestiary/Undead/Mummy.md|Mummy]]
+# [[5. Mechanics\Bestiary\Undead\Mummy.md|Mummy]]
 *Source: Monster Manual p. 228, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
@@ -63,16 +63,17 @@ A mummy doesn't require air, food, drink, or sleep.
 "ac_class": "natural armor"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
+"modifier": !!int "-1"
 "stats":
-- !!int "16"
-- !!int "8"
-- !!int "15"
-- !!int "6"
-- !!int "10"
-- !!int "12"
+  - !!int "16"
+  - !!int "8"
+  - !!int "15"
+  - !!int "6"
+  - !!int "10"
+  - !!int "12"
 "speed": "20 ft."
 "saves":
-  "Wisdom": !!int "2"
+  - "wisdom": "+2"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
@@ -83,29 +84,30 @@ A mummy doesn't require air, food, drink, or sleep.
 "languages": "the languages it knew in life"
 "cr": "3"
 "actions":
-- "desc": "The mummy can use its Dreadful Glare and makes one attack with its rotting\
-    \ fist."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
-    \ + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature,\
-    \ it must succeed on a DC 12 Constitution saving throw or be cursed with mummy\
-    \ rot. The cursed target can't regain hit points, and its hit point maximum decreases\
-    \ by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's\
-    \ hit point maximum to 0, the target dies, and its body turns to dust. The curse\
-    \ lasts until removed by the [[5. Mechanics/Spells/Remove Curse.md|remove curse]]\
-    \ spell or other magic."
-  "name": "Rotting Fist"
-- "desc": "The mummy targets one creature it can see within 60 feet of it. If the\
-    \ target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against\
-    \ this magic or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-    \ until the end of the mummy's next turn. If the target fails the saving throw\
-    \ by 5 or more, it is also [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
-    \ for the same duration. A target that succeeds on the saving throw is immune\
-    \ to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours."
-  "name": "Dreadful Glare"
+  - "desc": "The mummy can use its Dreadful Glare and makes one attack with its rotting\
+      \ fist."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+      \ (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target\
+      \ is a creature, it must succeed on a DC 12 Constitution saving throw or be\
+      \ cursed with mummy rot. The cursed target can't regain hit points, and its\
+      \ hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If\
+      \ the curse reduces the target's hit point maximum to 0, the target dies, and\
+      \ its body turns to dust. The curse lasts until removed by the [[5. Mechanics/Spells/Remove Curse.md|remove curse]]\
+      \ spell or other magic."
+    "name": "Rotting Fist"
+  - "desc": "The mummy targets one creature it can see within 60 feet of it. If the\
+      \ target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against\
+      \ this magic or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+      \ until the end of the mummy's next turn. If the target fails the saving throw\
+      \ by 5 or more, it is also [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
+      \ for the same duration. A target that succeeds on the saving throw is immune\
+      \ to the Dreadful Glare of all mummies (but not mummy lords) for the next 24\
+      \ hours."
+    "name": "Dreadful Glare"
 "source":
-- "MM"
-- "TCE"
+  - "MM"
+  - "TCE"
 "image": "5. Mechanics/Bestiary/Undead/token/mummy.webp"
 ```
 ^statblock

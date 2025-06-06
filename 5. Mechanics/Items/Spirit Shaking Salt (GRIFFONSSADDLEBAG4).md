@@ -12,7 +12,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Spirit-Shaking-Salt.webp#right)  
 
 
-This glass salt shaker has a silver skull top and is filled with `dice:1d3+1|noform|avg` (`1d3 + 1`) uses of spirit-shaking salt. While holding the shaker, you can use an action to shake it: you can either cast the salt away from you or sprinkle it on a creature within 5 feet of you.
+This glass salt shaker has a silver skull top and is filled with `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) uses of spirit-shaking salt. While holding the shaker, you can use an action to shake it: you can either cast the salt away from you or sprinkle it on a creature within 5 feet of you.
 
 ## Cast
 

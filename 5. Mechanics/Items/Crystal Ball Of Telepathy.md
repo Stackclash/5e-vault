@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Crystal Ball of Telepathy
+weight: 3
 ---
 # Crystal Ball of Telepathy
 *Wondrous item, major, legendary (requires attunement)*  

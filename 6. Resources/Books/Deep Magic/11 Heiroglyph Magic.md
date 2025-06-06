@@ -42,7 +42,7 @@ When a hieroglyph power calls for a saving throw, the DC equals 8 + your ability
 The heiroglyphs are presented below in alphabetical order.
 
 > [!note]
-> See the [[5. Mechanics/Lists/List Optfeaturetype Hieroglyph.md\|optional features page]] to browse and sort hieroglyphs.
+> See the optional features page^[[5. Mechanics/Lists/List Optfeaturetype Hieroglyph.md\|Optional features from [Hieroglyph]]; defined in Deep Magic] to browse and sort hieroglyphs.
 
 - [[5. Mechanics/Optional Features/As Does Every God Every Bird Every Fish And Every Creeping Worm (KPDM).md\|As Does Every God, Every Bird, Every Fish, and Every Creeping Worm]]  
 - [[5. Mechanics/Optional Features/Dress The Air With The Cloying And The Fair (KPDM).md\|Dress the Air with the Cloying and the Fair]]  

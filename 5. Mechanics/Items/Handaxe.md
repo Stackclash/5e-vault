@@ -9,13 +9,14 @@ tags:
 aliases:
   - Handaxe
 cost: 500
-one-hand-damage: 1d6 S
-range: 20/60
+one-hand-damage: 1d6 slashing
+range: 20\60
+weight: 2
 ---
 # Handaxe
 *Weapon*  
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Cost**: 5 gp

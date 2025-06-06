@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'underdark, grassland, forest, hill, desert'
 size: Medium
 tags:
@@ -18,7 +18,7 @@ tags:
 aliases:
   - Hobgoblin
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Hobgoblin.md|Hobgoblin]]
+# [[5. Mechanics\Bestiary\Humanoid\Hobgoblin.md|Hobgoblin]]
 *Source: Monster Manual p. 186. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
@@ -88,31 +88,32 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 "ac_class": "[[5. Mechanics/Items/Chain Mail.md|chain mail]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
+"modifier": !!int "1"
 "stats":
-- !!int "13"
-- !!int "12"
-- !!int "12"
-- !!int "10"
-- !!int "10"
-- !!int "9"
+  - !!int "13"
+  - !!int "12"
+  - !!int "12"
+  - !!int "10"
+  - !!int "10"
+  - !!int "9"
 "speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
 "cr": "1/2"
 "traits":
-- "desc": "Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature\
-    \ it hits with a weapon attack if that creature is within 5 feet of an ally of\
-    \ the hobgoblin that isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
-  "name": "Martial Advantage"
+  - "desc": "Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature\
+      \ it hits with a weapon attack if that creature is within 5 feet of an ally\
+      \ of the hobgoblin that isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
+    "name": "Martial Advantage"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
-    \ + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands."
-  "name": "Longsword"
-- "desc": "Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit:\
-    \ 5 (1d8 + 1) piercing damage."
-  "name": "Longbow"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
+      \ + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands."
+    "name": "Longsword"
+  - "desc": "Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit:\
+      \ 5 (1d8 + 1) piercing damage."
+    "name": "Longbow"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/hobgoblin.webp"
 ```
 ^statblock

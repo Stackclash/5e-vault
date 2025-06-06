@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/dragonlance
   - domain/tempest
+alignment: Chaotic Evil
+category: The Gods of Evil
+domains: Tempest
+pantheon: Dragonlance
+symbol: Turtle shell
 aliases:
   - Zeboim
 ---

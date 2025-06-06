@@ -10,21 +10,32 @@ tags:
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 school: Conjuration
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, a vial of blood from a humanoid killed within the past 24 hours'
+level: 3
+ritual: false
+time: 1 Action
+duration: up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Summon Lesser Demons
+concentration: true
+material: a vial of blood from a humanoid killed within the past 24 hours
 ---
 # Summon Lesser Demons
 *3rd-level, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
-- **Components:** V, S, a vial of blood from a humanoid killed within the past 24 hours
+- **Components:** V, S, M (a vial of blood from a humanoid killed within the past 24 hours)
 - **Duration:** Concentration, up to 1 hour
 
 You utter foul words, summoning demons from the chaos of the Abyss. Roll on the following table to determine what appears.
@@ -46,6 +57,6 @@ As part of casting the spell, you can form a circle on the ground with the blood
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th or 7th level, you summon twice as many demons. If you cast it using a spell slot of 8th or 9th level, you summon three times as many demons.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Xanathar's Guide to Everything p. 167*

@@ -4,6 +4,7 @@ cssclasses: json5e-hazard
 tags:
   - compendium/src/5e/dmg
   - hazard/gen
+hazardType: Generic Hazard
 aliases:
   - Improvised Damage
 ---
@@ -20,10 +21,10 @@ The Damage Severity and Level table is a guide to how deadly these damage number
 
 | Character Level | Setback | Dangerous | Deadly |
 |-----------------|---------|-----------|--------|
-| 1st-4th | `dice:1d10\|noform\|avg` (`1d10`) | `dice:2d10\|noform\|avg` (`2d10`) | `dice:4d10\|noform\|avg` (`4d10`) |
-| 5th-10th | `dice:2d10\|noform\|avg` (`2d10`) | `dice:4d10\|noform\|avg` (`4d10`) | `dice:10d10\|noform\|avg` (`10d10`) |
-| 11th-16th | `dice:4d10\|noform\|avg` (`4d10`) | `dice:10d10\|noform\|avg` (`10d10`) | `dice:18d10\|noform\|avg` (`18d10`) |
-| 17th-20th | `dice:10d10\|noform\|avg` (`10d10`) | `dice:18d10\|noform\|avg` (`18d10`) | `dice:24d10\|noform\|avg` (`24d10`) |
+| 1st-4th | `dice:1d10\|noform\|noparens\|avg\|text(d10)` | `dice:2d10\|noform\|noparens\|avg` (`2d10`) | `dice:4d10\|noform\|noparens\|avg` (`4d10`) |
+| 5th-10th | `dice:2d10\|noform\|noparens\|avg` (`2d10`) | `dice:4d10\|noform\|noparens\|avg` (`4d10`) | `dice:10d10\|noform\|noparens\|avg` (`10d10`) |
+| 11th-16th | `dice:4d10\|noform\|noparens\|avg` (`4d10`) | `dice:10d10\|noform\|noparens\|avg` (`10d10`) | `dice:18d10\|noform\|noparens\|avg` (`18d10`) |
+| 17th-20th | `dice:10d10\|noform\|noparens\|avg` (`10d10`) | `dice:18d10\|noform\|noparens\|avg` (`18d10`) | `dice:24d10\|noform\|noparens\|avg` (`24d10`) |
 ^damage-severity-and-level
 
 Damage sufficient to cause a **setback** rarely poses a risk of death to characters of the level shown, but a severely weakened character might be laid low by this damage.

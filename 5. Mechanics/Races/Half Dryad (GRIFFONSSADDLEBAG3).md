@@ -11,7 +11,7 @@ aliases:
 *Source: The Griffon's Saddlebag, Book 3 p. 51*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Half-Dryad.webp#right)  
 
-- **Ability Scores**: Wisdom +2, Apply +1 to one of Strength, Dexterity, Constitution, Intelligence, Charisma
+- **Ability Scores**: Wisdom +2; Apply +1 to one of Strength, Dexterity, Constitution, Intelligence, or Charisma.
 - **Size**: Medium
 - **Speed**: 30 ft.
 

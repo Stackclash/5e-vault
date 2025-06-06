@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhhvi
 aliases:
-  - 'Optional Rule: Carcass Degradation'
+  - Optional Rule: Carcass Degradation
 ---
 # Optional Rule: Carcass Degradation
 *Source: Hamund's Harvesting Handbook: Volume I p. 5, Hamund's Harvesting Handbook: Volume II p. 5, Hamund's Harvesting Handbook: Volume III p. 5* 

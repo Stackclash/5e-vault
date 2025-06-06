@@ -8,6 +8,7 @@ tags:
 aliases:
   - Miner's Pick
 cost: 200
+weight: 10
 ---
 # Miner's Pick
 *Adventuring gear*  

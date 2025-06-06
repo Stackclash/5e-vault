@@ -8,21 +8,22 @@ tags:
   - item/weapon/simple
 aliases:
   - Nail of Mundanity
-one-hand-damage: 1d4 P
-range: 20/60
+one-hand-damage: 1d4 piercing
+range: 20\60
+weight: 1
 ---
 # Nail of Mundanity
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Nail-of-Mundanity.webp#right)  
 
-- **Damage**: 1d4 P
+- **Damage**: 1d4 piercing
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
 
-This leather-wrapped spike has been hammered into a sharpened edge. Eldritch runes run along the back of its blade, and a crude, eye-like rune has been gouged into its side. A creature hit with this weapon takes an extra `dice:1d8|noform|avg` (`1d8`) force damage from the attack. An aberration always takes the maximum amount of force damage from the dagger.
+This leather-wrapped spike has been hammered into a sharpened edge. Eldritch runes run along the back of its blade, and a crude, eye-like rune has been gouged into its side. A creature hit with this weapon takes an extra `dice:1d8|noform|noparens|avg` (`d8`) force damage from the attack. An aberration always takes the maximum amount of force damage from the dagger.
 
-When you reduce an aberration to 0 hit points using the dagger, you can choose to speak the dagger's command phrase (no action required). When you do, the creature is transformed into a humanoid commoner (as if by the true polymorph spell) with 1 hit point and the dagger magically buried within its chest, with only the head of the nail showing. The commoner's race is random, although it is typically related to the surrounding terrain. Roll a `dice:d4|noform|avg` (`d4`) to determine its general age: child (1), adolescent (2), adult (3), or elderly (4). A creature is immune to this effect if it has the Legendary Resistance trait.
+When you reduce an aberration to 0 hit points using the dagger, you can choose to speak the dagger's command phrase (no action required). When you do, the creature is transformed into a humanoid commoner (as if by the true polymorph spell) with 1 hit point and the dagger magically buried within its chest, with only the head of the nail showing. The commoner's race is random, although it is typically related to the surrounding terrain. Roll a `dice:d4|noform|noparens|avg` (`d4`) to determine its general age: child (1), adolescent (2), adult (3), or elderly (4). A creature is immune to this effect if it has the Legendary Resistance trait.
 
 For the next 7 days, you have advantage on Charisma checks you make to interact with the commoner.
 

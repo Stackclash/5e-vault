@@ -14,7 +14,7 @@ tags:
 aliases:
   - Earth Elemental
 ---
-# [[5. Mechanics/Bestiary/Elemental/Earth Element(AL).md|Earth Elemental]]
+# [[5. Mechanics\Bestiary\Elemental\Earth Element(AL).md|Earth Elemental]]
 *Source: Monster Manual p. 124, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 An earth elemental plods forward like a walking hill, club-like arms of jagged stone swinging at its sides. Its head and body consist of dirt and stone, occasionally set with chunks of metal, gems, and bright minerals.
@@ -50,13 +50,14 @@ An elemental doesn't require air, food, drink, or sleep.
 "ac_class": "natural armor"
 "hp": !!int "126"
 "hit_dice": "12d10 + 60"
+"modifier": !!int "-1"
 "stats":
-- !!int "20"
-- !!int "8"
-- !!int "20"
-- !!int "5"
-- !!int "10"
-- !!int "5"
+  - !!int "20"
+  - !!int "8"
+  - !!int "20"
+  - !!int "5"
+  - !!int "10"
+  - !!int "5"
 "speed": "30 ft., burrow 30 ft."
 "damage_vulnerabilities": "thunder"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
@@ -68,21 +69,21 @@ An elemental doesn't require air, food, drink, or sleep.
 "languages": "Terran"
 "cr": "5"
 "traits":
-- "desc": "The elemental can burrow through nonmagical, unworked earth and stone.\
-    \ While doing so, the elemental doesn't disturb the material it moves through."
-  "name": "Earth Glide"
-- "desc": "The elemental deals double damage to objects and structures."
-  "name": "Siege Monster"
+  - "desc": "The elemental can burrow through nonmagical, unworked earth and stone.\
+      \ While doing so, the elemental doesn't disturb the material it moves through."
+    "name": "Earth Glide"
+  - "desc": "The elemental deals double damage to objects and structures."
+    "name": "Siege Monster"
 "actions":
-- "desc": "The elemental makes two slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8\
-    \ + 5) bludgeoning damage."
-  "name": "Slam"
+  - "desc": "The elemental makes two slam attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14\
+      \ (2d8 + 5) bludgeoning damage."
+    "name": "Slam"
 "source":
-- "MM"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Elemental/token/earth-elemental.webp"
 ```
 ^statblock

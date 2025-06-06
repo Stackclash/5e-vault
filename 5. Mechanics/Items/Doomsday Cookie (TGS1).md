@@ -13,7 +13,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Doomsday-Cookie.webp#right)  
 
 
-This black sugarpaste cookie is made using a grim recipe passed down through generations of clerics devoted to gods of death. Inside this hollow cookie is a blank strip of enchanted paper whose writing only appears when you break open the cookie. The paper's writing vaguely predicts the manner in which you'll die. When you open this cookie, roll a `dice:d20|noform|avg` (`d20`) and use the table below to determine the paper's prediction.
+This black sugarpaste cookie is made using a grim recipe passed down through generations of clerics devoted to gods of death. Inside this hollow cookie is a blank strip of enchanted paper whose writing only appears when you break open the cookie. The paper's writing vaguely predicts the manner in which you'll die. When you open this cookie, roll a `dice:d20|noform|noparens|avg` (`d20`) and use the table below to determine the paper's prediction.
 
 Once a creature's fortune has been predicted in this way, all future doomsday cookie papers will predict the same outcome for them. If a creature dies in a way foretold by the cookie (at your GM's discretion) the cookie's paper transforms into a scroll of [[5. Mechanics/Spells/Revivify.md\|revivify]]. This scroll can only be used on the creature whose passing it foretold. If the scroll is unused within 1 minute, it crumbles into flour.
 

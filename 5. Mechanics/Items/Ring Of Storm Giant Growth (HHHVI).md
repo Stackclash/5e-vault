@@ -18,7 +18,7 @@ While wearing this ring, you may speak the command word to grow to the size of a
 - Your Strength score is considered 29.  
 - You gain temporary hit points equal to your Constitution modifier multiplied by your character level.  
 - You gain immunity to lightning damage.  
-- As an action, you may hurl a lightning bolt at a point you can see within 500 feet. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking `dice:12d8|noform|avg` (`12d8`) lightning damage on a failed save, or half as much damage on a successful one. Once this ability is used, it may not be used again until the next time the ring is used.  
+- As an action, you may hurl a lightning bolt at a point you can see within 500 feet. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking `dice:12d8|noform|noparens|avg` (`12d8`) lightning damage on a failed save, or half as much damage on a successful one. Once this ability is used, it may not be used again until the next time the ring is used.  
 
 Once used, this ring cannot be used again for the next 7 days.
 

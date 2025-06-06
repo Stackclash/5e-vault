@@ -15,15 +15,15 @@ aliases:
 
 | dice: d100 | Greater Minions* |
 |------------|------------------|
-| 1-3 | `dice:2d4\|noform\|avg` (`2d4`) [[5. Mechanics/Bestiary/Fiend/Barlgura.md\|barlguras]] |
-| 4-10 | `dice:1d12\|noform\|avg` (`1d12`) [[5. Mechanics/Bestiary/Giant/Ettin.md\|ettins]] |
-| 11-20 | `dice:1d2\|noform\|avg` (`1d2`) [[5. Mechanics/Bestiary/Giant/Fire Giant.md\|fire giants]], `dice:1d3\|noform\|avg` (`1d3`) [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giants]], `dice:2d4\|noform\|avg` (`2d4`) [[5. Mechanics/Bestiary/Giant/Hill Giant.md\|hill giants]] or `dice:1d6\|noform\|avg` (`1d6`) [[5. Mechanics/Bestiary/Giant/Stone Giant.md\|stone giants]] (as appropriate to the terrain) |
-| 21-25 | `dice:3d6\|noform\|avg` (`3d6`) [[5. Mechanics/Bestiary/Monstrosity/Hook Horror.md\|hook horrors]] |
-| 26-32 | `dice:3d6\|noform\|avg` (`3d6`) [[5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticores]] |
-| 33-40 | `dice:3d6\|noform\|avg` (`3d6`) [[5. Mechanics/Bestiary/Monstrosity/Minotaur.md\|minotaurs]] |
-| 41-55 | `dice:6d6\|noform\|avg` (`6d6`) [[5. Mechanics/Bestiary/Giant/Ogre.md\|ogres]] |
-| 56-70 | `dice:2d4\|noform\|avg` (`2d4`) [[5. Mechanics/Bestiary/Giant/Troll.md\|trolls]] |
-| 71-75 | `dice:3d6\|noform\|avg` (`3d6`) [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
+| 1-3 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[5. Mechanics/Bestiary/Fiend/Barlgura.md\|barlguras]] |
+| 4-10 | `dice:1d12\|noform\|noparens\|avg` (`d12`) [[5. Mechanics/Bestiary/Giant/Ettin.md\|ettins]] |
+| 11-20 | `dice:1d2\|noform\|noparens\|avg` (`d2`) [[5. Mechanics/Bestiary/Giant/Fire Giant.md\|fire giants]], `dice:1d3\|noform\|noparens\|avg` (`d3`) [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giants]], `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[5. Mechanics/Bestiary/Giant/Hill Giant.md\|hill giants]] or `dice:1d6\|noform\|noparens\|avg` (`d6`) [[5. Mechanics/Bestiary/Giant/Stone Giant.md\|stone giants]] (as appropriate to the terrain) |
+| 21-25 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[5. Mechanics/Bestiary/Monstrosity/Hook Horror.md\|hook horrors]] |
+| 26-32 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticores]] |
+| 33-40 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[5. Mechanics/Bestiary/Monstrosity/Minotaur.md\|minotaurs]] |
+| 41-55 | `dice:6d6\|noform\|noparens\|avg` (`6d6`) [[5. Mechanics/Bestiary/Giant/Ogre.md\|ogres]] |
+| 56-70 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[5. Mechanics/Bestiary/Giant/Troll.md\|trolls]] |
+| 71-75 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
 | 76-100 | Roll twice, ignoring results above 75 |
 ^beholder-greater-minions
 

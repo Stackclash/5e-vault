@@ -13,7 +13,7 @@ tags:
 aliases:
   - Booyahg Slave of the Great Old One
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Booyahg Slave Of The Great Old One (VGM).md|Booyahg Slave of the Great Old One]]
+# [[5. Mechanics\Bestiary\Humanoid\Booyahg Slave Of The Great Old One (VGM).md|Booyahg Slave of the Great Old One]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
@@ -36,58 +36,61 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
+"modifier": !!int "2"
 "stats":
-- !!int "9"
-- !!int "14"
-- !!int "15"
-- !!int "12"
-- !!int "12"
-- !!int "18"
+  - !!int "9"
+  - !!int "14"
+  - !!int "15"
+  - !!int "12"
+  - !!int "12"
+  - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "4"
+  - "wisdom": "+4"
+  - "charisma": "+7"
 "skillsaves":
-  "History": !!int "4"
-  "Arcana": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
+    "desc": "+4"
 "damage_resistances": "psychic"
 "senses": "darkvision 60 ft., darkvision 60 ft., passive Perception 11"
 "languages": "any two languages, telepathy 30 ft., Goblin"
 "cr": "6"
 "traits":
-- "desc": "The goblin's innate spellcasting ability is Charisma. It can innately cast\
-    \ the following spells (spell save DC 15), requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Jump.md|jump]],\
-    \ [[5. Mechanics/Spells/Levitate.md|levitate]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\
-    \ (self only), [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n1/day\
-    \ each: [[5. Mechanics/Spells/Arcane Gate.md|arcane gate]], [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
-  "name": "Innate Spellcasting"
-- "desc": "The goblin is a 14th-level spellcaster. Its spellcasting ability is Charisma\
-    \ (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell\
-    \ slots when it finishes a short or long rest. It knows the following warlock\
-    \ spells:\n\nCantrips (at will): [[5. Mechanics/Spells/Chill Touch.md|chill touch]],\
-    \ [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]], [[5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\n\
-    \n1st-5th level (3 slots): [[5. Mechanics/Spells/Armor Of Agathys.md|armor of Agathys]],\
-    \ [[5. Mechanics/Spells/Arms Of Hadar.md|arms of Hadar]], [[5. Mechanics/Spells/Crown Of Madness.md|crown of madness]],\
-    \ [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Contact Other Plane.md|contact other plane]],\
-    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]],\
-    \ [[5. Mechanics/Spells/Dissonant Whispers.md|dissonant whispers]], [[5. Mechanics/Spells/Dominate Beast.md|dominate beast]],\
-    \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]"
-  "name": "Spellcasting"
-- "desc": "At the start of each of the goblin's turns, each creature of its choice\
-    \ within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6)\
-    \ psychic damage, provided that the goblin isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
-  "name": "Whispering Aura"
-- "desc": "The goblin"
-  "name": "Nimble Escape"
+  - "desc": "The goblin is a 14th-level spellcaster. Its spellcasting ability is Charisma\
+      \ (spell save DC 15, +7 to hit with spell attacks). It regains its expended\
+      \ spell slots when it finishes a short or long rest. It knows the following\
+      \ warlock spells:\n\nCantrips (at will): [[5. Mechanics/Spells/Chill Touch.md|chill touch]],\
+      \ [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]], [[5. Mechanics/Spells/Guidance.md|guidance]],\
+      \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\n\
+      \n1st-5th level (3 slots): [[5. Mechanics/Spells/Armor Of Agathys.md|armor of Agathys]],\
+      \ [[5. Mechanics/Spells/Arms Of Hadar.md|arms of Hadar]], [[5. Mechanics/Spells/Crown Of Madness.md|crown of madness]],\
+      \ [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Contact Other Plane.md|contact other plane]],\
+      \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]],\
+      \ [[5. Mechanics/Spells/Dissonant Whispers.md|dissonant whispers]], [[5. Mechanics/Spells/Dominate Beast.md|dominate beast]],\
+      \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]"
+    "name": "Spellcasting"
+  - "desc": "The goblin's innate spellcasting ability is Charisma. It can innately\
+      \ cast the following spells (spell save DC 15), requiring no material components:\n\
+      \nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Jump.md|jump]],\
+      \ [[5. Mechanics/Spells/Levitate.md|levitate]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\
+      \ (self only), [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n1/day\
+      \ each: [[5. Mechanics/Spells/Arcane Gate.md|arcane gate]], [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
+    "name": "Innate Spellcasting"
+  - "desc": "At the start of each of the goblin's turns, each creature of its choice\
+      \ within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10\
+      \ (3d6) psychic damage, provided that the goblin isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
+    "name": "Whispering Aura"
+  - "desc": "The goblin"
+    "name": "Nimble Escape"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
-    \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."
-  "name": "Dagger"
+  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+    "name": "Dagger"
 "source":
-- "VGM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/booyahg-slave-of-the-great-old-one-vgm.webp"
 ```
 ^statblock

@@ -10,4 +10,4 @@ aliases:
 
 ## 4th Level
 
-- [[Confusion \|"PHB"]]
+- [[5. Mechanics/Spells/Confusion.md \|"PHB"]]

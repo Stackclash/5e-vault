@@ -16,7 +16,7 @@ aliases:
 
 This ancient golden monocle's lens is a roughly hewn ruby. While you wear this monocle, it magically floats in front of your eye, instead of resting on your face, and you can see clearly through its ruby lens. While peering through the lens, you always know if a creature you can see is concentrating on a spell. You perceive a concentrating creature's head as being shrouded in an indigo mist.
 
-This monocle has 10 charges for the following properties. It regains `dice:1d6+4|noform|avg` (`1d6 + 4`) expended charges daily at dawn.
+This monocle has 10 charges for the following properties. It regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn.
 
 ## Spells
 

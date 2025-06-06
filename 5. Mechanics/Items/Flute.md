@@ -8,6 +8,7 @@ tags:
 aliases:
   - Flute
 cost: 200
+weight: 1
 ---
 # Flute
 *Instrument*  

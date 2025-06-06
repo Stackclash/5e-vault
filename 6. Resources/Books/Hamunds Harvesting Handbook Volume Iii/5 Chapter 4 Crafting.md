@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhhviii
 aliases:
-  - 'Chapter 4: Crafting'
+  - Chapter 4: Crafting
 ---
 # Chapter 4: Crafting
 *Source: Hamund's Harvesting Handbook: Volume III, p. 76* 

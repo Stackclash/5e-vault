@@ -36,7 +36,7 @@ You can use the following tables to introduce some damnable flair into your infe
 |----------|--------------------|
 | 1 | an epitaph inside icy catacombs somewhere in Stygia. Is the chamber meant for you? |
 | 2 | carved into the bark of a black tree that sprouts whenever the devil plants a seed. The fine print is written on its leaves. |
-| 3 | a pan of baklava that always smells pleasant. Its 3 filo dough pages replenish every `dice:1d6\|noform\|avg` (`1d6`) minutes and induce severe diarrhea when consumed. |
+| 3 | a pan of baklava that always smells pleasant. Its 3 filo dough pages replenish every `dice:1d6\|noform\|noparens\|avg` (`d6`) minutes and induce severe diarrhea when consumed. |
 | 4 | inside of a chalice filled with sentient sludge. The words form on its surface but disappear with a jiggle when touched. |
 | 5 | a shell from the shores of the River of Styx. Your contract emanates as a whisper when you put it to your ear. |
 | 6 | woven into a sweater knitted by an ancient hag. |

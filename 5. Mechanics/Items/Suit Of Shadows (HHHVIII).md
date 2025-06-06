@@ -9,6 +9,7 @@ tags:
 aliases:
   - Suit of Shadows
 armorClass: 12 + Dex modifier (max of +2)
+weight: 12
 ---
 # Suit of Shadows
 *Medium armor ([[5. Mechanics/Items/Hide Armor.md\|hide armor]]), rare (requires attunement)*  

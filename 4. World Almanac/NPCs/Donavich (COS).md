@@ -10,7 +10,7 @@ tags:
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/donavich.webp
+  - 4. World Almanac\NPCs\img\donavich.webp
 relationships: []
 aliases:
   - Donavich
@@ -118,34 +118,37 @@ actions:
 "ac": !!int "10"
 "hp": !!int "9"
 "hit_dice": "2d8"
+"modifier": !!int "0"
 "stats":
-- !!int "10"
-- !!int "10"
-- !!int "10"
-- !!int "10"
-- !!int "14"
-- !!int "11"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "14"
+  - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Medicine": !!int "4"
-  "Religion": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
+    "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/4"
 "traits":
-- "desc": "Donavich is a 1st-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 12, +4 to hit with spell attacks). Donavich has following cleric\
-    \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
-    \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (3 slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
-    \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]"
-  "name": "Spellcasting"
+  - "desc": "Donavich is a 1st-level spellcaster. Its spellcasting ability is Wisdom\
+      \ (spell save DC 12, +4 to hit with spell attacks). Donavich has following cleric\
+      \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
+      \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+      \n1st level (3 slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
+      \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]"
+    "name": "Spellcasting"
 "actions":
-- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
-    \ bludgeoning damage."
-  "name": "Club"
+  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+      \ bludgeoning damage."
+    "name": "Club"
 "source":
-- "CoS"
+  - "CoS"
 "image": "4. World Almanac/NPCs/token/donavich-cos.webp"
 ```
 ^statblock

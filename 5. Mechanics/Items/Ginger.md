@@ -8,6 +8,7 @@ tags:
 aliases:
   - Ginger
 cost: 100
+weight: 1
 ---
 # Ginger
 *Trade good*  

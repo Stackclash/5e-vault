@@ -9,12 +9,13 @@ tags:
 aliases:
   - Mace
 cost: 500
-one-hand-damage: 1d6 B
+one-hand-damage: 1d6 bludgeoning
+weight: 4
 ---
 # Mace
 *Weapon*  
 
-- **Damage**: 1d6 B
+- **Damage**: 1d6 bludgeoning
 - **Cost**: 5 gp
 - **Weight**: 4.0 lbs.
 

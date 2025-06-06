@@ -9,16 +9,17 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Seven Parts
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Rod of Seven Parts
 *Weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), rod, artifact (requires attunement)*  
 ![[5. Mechanics/Items/img/rod-of-seven-parts.webp#right]]  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
@@ -55,7 +56,7 @@ The Rod of Seven Parts functions for you as a magic quarterstaff that grants a +
 
 ## Rod Spellcasting
 
-The Rod of Seven Parts has 7 charges and regains `dice:1d4+3|noform|avg` (`1d4 + 3`) expended charges daily at dawn. While holding the rod, you can use an action to expend 1 charge and cast any of the spells in the Rod Pieces table. You can also use an action to cast [[5. Mechanics/Spells/Detect Evil And Good.md\|Detect Evil and Good]] from the rod without using any charges.
+The Rod of Seven Parts has 7 charges and regains `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) expended charges daily at dawn. While holding the rod, you can use an action to expend 1 charge and cast any of the spells in the Rod Pieces table. You can also use an action to cast [[5. Mechanics/Spells/Detect Evil And Good.md\|Detect Evil and Good]] from the rod without using any charges.
 
 ## Ultimate Law
 

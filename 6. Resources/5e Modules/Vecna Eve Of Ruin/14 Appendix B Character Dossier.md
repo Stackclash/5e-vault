@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/veor
 aliases:
-  - 'Appendix B: Character Dossier'
+  - Appendix B: Character Dossier
 ---
 # Appendix B: Character Dossier
 *Source: Vecna: Eve of Ruin* 
@@ -47,7 +47,7 @@ Alustriel's primary concerns are to spread kindness, reward virtue, and promote 
 
 Like other Chosen of Mystra, Alustriel is concerned with preserving the Weave, the primary incarnation of magic that permeates Toril. She believes that the Weave favors those who act with mercy and compassion, seeks to deliver lives of security for all, and bolsters people's efforts when they seek to right wrongs and combat evil.
 
-Nowhere are Alustriel and her deeds better known than in the Silver Marches and its capital, Silverymoon. Alustriel ruled Silverymoon for centuries, once disguised as a wizard named Elué Dualen and then later in her true form. She helped create Silverymoon's famous Moonbridge and cofounded the Lady's College, the first school in Faerûn for mages as students rather than as apprentices in service.
+Nowhere are Alustriel and her deeds better known than in the Silver Marches and its capital, Silverymoon. Alustriel ruled Silverymoon for centuries, once disguised as a wizard named Elué Dualen and then later in her true form. She helped create Silverymoon's famous Moonbridge and co-founded the Lady's College, the first school in Faerûn for mages as students rather than as apprentices in service.
 
 Alustriel stepped down as Silverymoon's high mage more than a century ago. Her son, Methrammar Aerasumé, now leads the city and works to uphold his mother's legacy.
 

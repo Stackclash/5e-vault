@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/xge
 aliases:
-  - 'Downtime Activity: Crime'
+  - Downtime Activity: Crime
 ---
 # Downtime Activity: Crime
 *Source: Xanathar's Guide to Everything p. 130* 

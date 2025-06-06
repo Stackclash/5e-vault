@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Podling
 ---
-# [[5. Mechanics/Bestiary/Plant/Podling (VRGR).md|Podling]]
+# [[5. Mechanics\Bestiary\Plant\Podling (VRGR).md|Podling]]
 *Source: Van Richten's Guide to Ravenloft p. 227*
 
 Bodytaker plants either capture unsuspecting victims with their vines or accept captives brought to them by their podling servants. In either case, they drag creatures into their central pod, where potent chemicals render the captive comatose. Over the course of hours, the creature is dissolved and its body repurposed into a podling duplicate.
@@ -42,36 +42,37 @@ Podlings are near-perfect mimics of the creatures they replace. Despite having t
 "ac": !!int "10"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
+"modifier": !!int "0"
 "stats":
-- !!int "15"
-- !!int "11"
-- !!int "14"
-- !!int "10"
-- !!int "10"
-- !!int "10"
+  - !!int "15"
+  - !!int "11"
+  - !!int "14"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
 "speed": "20 ft."
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
 "senses": "blindsight 30 ft., passive Perception 10"
 "languages": "Deep Speech, the languages the creature knew in life"
 "cr": "1/2"
 "traits":
-- "desc": "The podling is a physical copy of a creature digested by a bodytaker plant.\
-    \ The podling has the digested creature's memories and behaves like that creature,\
-    \ but with occasional lapses. An observer familiar with the digested creature\
-    \ can recognize the discrepancies with a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
-    \ check, or automatically if the podling does something in direct contradiction\
-    \ to the digested creature's established beliefs or behavior. The podling melts\
-    \ into a slurry when it dies, when the bodytaker plant that created it dies, or\
-    \ when the bodytaker plant dismisses it (no action required)."
-  "name": "Semblance of Life"
-- "desc": "The podling doesn't require sleep."
-  "name": "Unusual Nature"
+  - "desc": "The podling is a physical copy of a creature digested by a bodytaker\
+      \ plant. The podling has the digested creature's memories and behaves like that\
+      \ creature, but with occasional lapses. An observer familiar with the digested\
+      \ creature can recognize the discrepancies with a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
+      \ check, or automatically if the podling does something in direct contradiction\
+      \ to the digested creature's established beliefs or behavior. The podling melts\
+      \ into a slurry when it dies, when the bodytaker plant that created it dies,\
+      \ or when the bodytaker plant dismisses it (no action required)."
+    "name": "Semblance of Life"
+  - "desc": "The podling doesn't require sleep."
+    "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) bludgeoning damage."
-  "name": "Slam"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) bludgeoning damage."
+    "name": "Slam"
 "source":
-- "VRGR"
+  - "VRGR"
 "image": "5. Mechanics/Bestiary/Plant/token/podling-vrgr.webp"
 ```
 ^statblock

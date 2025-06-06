@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/life
+alignment: Neutral Good
+domains: Life
+pantheon: Forgotten Realms
+symbol: Sheaf of grain or a blooming rose over grain
 aliases:
   - Chauntea
 ---

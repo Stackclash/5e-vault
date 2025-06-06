@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Crystal Ball of True Seeing
+weight: 3
 ---
 # Crystal Ball of True Seeing
 *Wondrous item, major, legendary (requires attunement)*  

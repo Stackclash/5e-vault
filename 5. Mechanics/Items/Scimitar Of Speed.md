@@ -10,12 +10,13 @@ tags:
   - item/weapon/melee
 aliases:
   - Scimitar of Speed
-one-hand-damage: 1d6 S
+one-hand-damage: 1d6 slashing
+weight: 3
 ---
 # Scimitar of Speed
 *Weapon ([[5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
 

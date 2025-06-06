@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
   - compendium/src/5e/dmg
-  - race/lizardfolk/dmg
+  - race/lizardfolk
 aliases:
-  - Lizardfolk (DMG)
+  - Lizardfolk
 ---
-# Lizardfolk (DMG)
+# Lizardfolk
 *Source: Dungeon Master's Guide p. 282*  
 
-- **Ability Scores**: Strength +2, Intelligence -2
+- **Ability Scores**: Strength +2; Intelligence -2
 - **Size**: Medium
 - **Speed**: walk: 30 ft.; swim: 30 ft.
 

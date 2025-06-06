@@ -11,25 +11,33 @@ tags:
   - spell/optfeature/pact-of-the-tome
   - spell/school/abjuration
   - spell/subclass/arcane-trickster
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Abjuration
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: cantrip
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Benediction
+concentration: true
 ---
 # Benediction
 *cantrip, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You call down a blessing in the name of an angel of protection. A creature you can see within range shimmers with a faint white light. The next time the creature takes damage, it rolls a `dice:d4|noform|avg` (`d4`) and reduces the damage by the result. The spell then ends.
+You call down a blessing in the name of an angel of protection. A creature you can see within range shimmers with a faint white light. The next time the creature takes damage, it rolls a `dice:d4|noform|noparens|avg` (`d4`) and reduces the damage by the result. The spell then ends.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 175*

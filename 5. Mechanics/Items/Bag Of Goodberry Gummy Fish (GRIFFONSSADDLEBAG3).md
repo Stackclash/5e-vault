@@ -13,7 +13,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bag-of-Goodberry-Gummy-Fish.webp#right)  
 
 
-Goodberry gummy fish are gooey sweets that look like Tiny, gelatinous fish. When found, they typically come in bags of `dice:1d6+10|noform|avg` (`1d6 + 10`) gummies, which are almost always red.
+Goodberry gummy fish are gooey sweets that look like Tiny, gelatinous fish. When found, they typically come in bags of `dice:1d6+10|noform|noparens|avg` (`1d6 + 10`) gummies, which are almost always red.
 
 A goodberry gummy fish functions like a single berry from the [[5. Mechanics/Spells/Goodberry.md\|goodberry]] spell, except that eating a gummy also grants you a swimming speed of 30 feet for 1 hour.
 

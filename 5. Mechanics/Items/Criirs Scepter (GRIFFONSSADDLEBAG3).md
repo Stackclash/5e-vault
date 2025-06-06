@@ -31,7 +31,7 @@ Criir's Scepter can also be used as a magic morningstar that grants a +2 bonus t
 
 ## Charges
 
-The scepter has 10 charges for the following properties. The scepter regains `dice:1d6+4|noform|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On an 11 or higher, the scepter regains `dice:1d4|noform|avg` (`1d4`) charges. On a 10 or lower, the scepter returns to its demiplane and can't be summoned again until the next dawn.
+The scepter has 10 charges for the following properties. The scepter regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On an 11 or higher, the scepter regains `dice:1d4|noform|noparens|avg` (`d4`) charges. On a 10 or lower, the scepter returns to its demiplane and can't be summoned again until the next dawn.
 
 ## Spells
 

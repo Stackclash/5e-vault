@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
   - compendium/src/5e/dmg
-  - race/zombie/dmg
+  - race/zombie
 aliases:
-  - Zombie (DMG)
+  - Zombie
 ---
-# Zombie (DMG)
+# Zombie
 *Source: Dungeon Master's Guide p. 282*  
 
-- **Ability Scores**: Strength +1, Constitution +2, Intelligence -6, Wisdom -4, Charisma -4
+- **Ability Scores**: Strength +1; Constitution +2; Intelligence -6; Wisdom -4; Charisma -4
 - **Type**: undead
 - **Size**: Medium
 - **Speed**: 30 ft.

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Female Steeder
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Female Steeder (MPMM).md|Female Steeder]]
+# [[5. Mechanics\Bestiary\Monstrosity\Female Steeder (MPMM).md|Female Steeder]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*
 
 ## Steeders
@@ -40,39 +40,42 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
 "ac_class": "natural armor"
 "hp": !!int "30"
 "hit_dice": "4d10 + 8"
+"modifier": !!int "3"
 "stats":
-- !!int "15"
-- !!int "16"
-- !!int "14"
-- !!int "2"
-- !!int "10"
-- !!int "3"
+  - !!int "15"
+  - !!int "16"
+  - !!int "14"
+  - !!int "2"
+  - !!int "10"
+  - !!int "3"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+4"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": ""
 "cr": "1"
 "traits":
-- "desc": "The distance of the steeder's long jumps is tripled; every foot of its\
-    \ walking speed that it spends on the jump allows it to move 3 feet."
-  "name": "Extraordinary Leap"
-- "desc": "The steeder can climb difficult surfaces, including upside down on ceilings,\
-    \ without needing to make an ability check."
-  "name": "Spider Climb"
+  - "desc": "The distance of the steeder's long jumps is tripled; every foot of its\
+      \ walking speed that it spends on the jump allows it to move 3 feet."
+    "name": "Extraordinary Leap"
+  - "desc": "The steeder can climb difficult surfaces, including upside down on ceilings,\
+      \ without needing to make an ability check."
+    "name": "Spider Climb"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
-    \ + 3) piercing damage plus 9 (2d8) poison damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller creature.\
-    \ Hit: The target is stuck to the steeder's leg and [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ (escape DC 12). The steeder can have only one creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ at a time."
-  "name": "Sticky Leg"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+      \ + 3) piercing damage plus 9 (2d8) poison damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller\
+      \ creature. Hit: The target is stuck to the steeder's leg and [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ (escape DC 12). The steeder can have only one creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ at a time."
+    "name": "Sticky Leg"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/female-steeder-mpmm.webp"
 ```
 ^statblock

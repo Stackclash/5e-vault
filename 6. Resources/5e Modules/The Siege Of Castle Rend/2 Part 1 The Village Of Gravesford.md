@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/saf
 aliases:
-  - 'Part 1: The Village of Gravesford'
+  - Part 1: The Village of Gravesford
 ---
 # Part 1: The Village of Gravesford
 *Source: The Siege of Castle Rend, p. 104* 
@@ -84,7 +84,7 @@ The Church of St. Gaed the Confessor is one of the oldest buildings in Gravesfor
 
 The church is run by Father Belderone, a priest of St. Gaed. He is a city man from Bedegar Keep, and it's reflected in his rapid, matter-of-fact speech, but the villagers treat him as one of their own. While several priests tend to the church, Father Belderone is its only cleric. He uses [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priest]] statistics with the following changes:
 
-- He is old and growing frail. His Strength, Dexterity, and Constitution scores are all 8 (Father Belderone (`dice:1d20-1|noform|text(-1)`)).  
+- He is old and growing frail. His Strength, Dexterity, and Constitution scores are all 8 (Father Belderone (`dice:1d20-1|noform|noparens|text(-1)`)).  
 - He does not wear armor, reducing his AC to 9.  
 - By the grace of St. Gaed the Confessor, he has been granted the ability to cast [[5. Mechanics/Spells/Death Ward.md\|death ward]] once per day.  
 
@@ -204,7 +204,7 @@ A scream and a chorus of bestial roars shatter the stillness of the night. The s
 
 Just before midnight, a raiding party of twenty White Tusk orcs emerged from the boughs of the Forest Rend. They moved quickly through the scrubland and forded the river on the south end of town. The bridge guard Lenore heard something moving in the tall grass, and bravely traveled half a mile south from her post to investigate. She was shot dead and her corpse was left where it fell. The orcs invaded Pinna's house and knocked her [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]], but the rear guard accidentally knocked her lamp into a rack of volatile alchemical substances while looting her house (against Bonebreaker Dorokor's orders), igniting the entire house in a violet fireball.
 
-If a creature is inside the house at the time of the explosion (such as if the PCs spend the night with Pinna, just in case), it must make a DC 16 Dexterity saving throw. On a failed save, it takes `dice:6d6|noform|avg|text(21)` (`6d6`) fire damage. A successful save halves this damage.
+If a creature is inside the house at the time of the explosion (such as if the PCs spend the night with Pinna, just in case), it must make a DC 16 Dexterity saving throw. On a failed save, it takes `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) fire damage. A successful save halves this damage.
 
 The orcs abducting Pinna had already crossed the river when her house exploded. The rear guard that survived the fireball also fled. If the PCs are in the Reluctant Pig, it takes 2 minutes on foot to reach Pinna's house—by the time they arrive, the rear guard is about to ford the river, and the band of orcs carrying Pinna has already disappeared into the forest, but not without crushing undergrowth beneath their boots, creating a trail that a ranger could track with ease.
 

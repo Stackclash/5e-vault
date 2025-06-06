@@ -8,6 +8,7 @@ tags:
 aliases:
   - Military Saddle
 cost: 2000
+weight: 30
 ---
 # Military Saddle
 *Tack and harness*  

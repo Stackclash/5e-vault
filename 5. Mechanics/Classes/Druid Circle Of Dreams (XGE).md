@@ -8,7 +8,7 @@ aliases:
   - Circle of Dreams
 ---
 # Circle of Dreams
-*[[Druid.md\|Druid]]: Druid Circle*  
+*[[.nullDruid.md\|Druid]]: Druid Circle*  
 *Source: Xanathar's Guide to Everything p. 22*  
 
 > [!tldr] Class and Feature Progression
@@ -19,19 +19,19 @@ aliases:
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Circle%20of%20Dreams%20(Level%202)'>Circle of Dreams</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Circle of Dreams (Level 2)' class='internal-link'>Circle of Dreams</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Hearth%20of%20Moonlight%20and%20Shadow%20(Level%206)'>Hearth of Moonlight and Shadow</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Hearth of Moonlight and Shadow (Level 6)' class='internal-link'>Hearth of Moonlight and Shadow</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Hidden%20Paths%20(Level%2010)'>Hidden Paths</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Hidden Paths (Level 10)' class='internal-link'>Hidden Paths</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Walker%20in%20Dreams%20(Level%2014)'>Walker in Dreams</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Walker in Dreams (Level 14)' class='internal-link'>Walker in Dreams</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,8 +39,13 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
 
+^class-progression
+
+
+> [!quote] A quote from Xanathar  
+> 
+> I don't dream because I don't sleep. I'm always awake so no one can ever sneak up on me. If I dreamed, they would be bigger dreams than yours, though, because my head is bigger.
 
 ## Class Features
 
@@ -50,7 +55,7 @@ Druids who are members of the Circle of Dreams hail from regions that have stron
 
 ### Balm of the Summer Court (Level 2)
 
-At 2nd level, you become imbued with the blessings of the Summer Court. You are a font of energy that offers respite from injuries. You have a pool of fey energy represented by a number of `dice:d6|noform|avg` (`d6`)s equal to your druid level.
+At 2nd level, you become imbued with the blessings of the Summer Court. You are a font of energy that offers respite from injuries. You have a pool of fey energy represented by a number of `dice:d6|noform|noparens|avg` (`d6`)s equal to your druid level.
 
 As a bonus action, you can choose one creature you can see within 120 feet of you and spend a number of those dice equal to half your druid level or less. Roll the spent dice and add them together. The target regains a number of hit points equal to the total. The target also gains 1 temporary hit point per die spent.
 

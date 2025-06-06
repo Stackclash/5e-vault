@@ -8,6 +8,7 @@ tags:
 aliases:
   - Cobbler's Tools
 cost: 500
+weight: 5
 ---
 # Cobbler's Tools
 *Artisan's tools*  

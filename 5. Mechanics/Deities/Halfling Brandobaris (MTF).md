@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/mtf
   - deity/halfling
   - domain/trickery
+alignment: Neutral
+domains: Trickery
+pantheon: Halfling
+province: 'Adventure, thievery'
+symbol: Halfling footprint
 aliases:
   - Brandobaris
 ---

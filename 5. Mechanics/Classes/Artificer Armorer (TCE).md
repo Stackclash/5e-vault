@@ -8,7 +8,7 @@ aliases:
   - Armorer
 ---
 # Armorer
-*[[Artificer (TCE).md\|Artificer]]: Artificer Specialist*  
+*[[.nullArtificer (TCE).md\|Artificer]]: Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 15*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Armorer%20(Level%203)'>Armorer</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Armorer (Level 3)' class='internal-link'>Armorer</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra%20Attack%20(Level%205)'>Extra Attack</a></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra Attack (Level 5)' class='internal-link'>Extra Attack</a></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Armor%20Modifications%20(Level%209)'>Armor Modifications</a></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Armor Modifications (Level 9)' class='internal-link'>Armor Modifications</a></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Perfected%20Armor%20(Level%2015)'>Perfected Armor</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Perfected Armor (Level 15)' class='internal-link'>Perfected Armor</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -100,7 +101,7 @@ You design your armor to be in the front line of conflict. It has the following 
 
 - **Thunder Gauntlets**  
 
-    Each of the armor's gauntlets counts as a simple melee weapon while you aren't holding anything in it, and it deals `dice:1d8|noform|avg` (`1d8`) thunder damage on a hit. A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.  
+    Each of the armor's gauntlets counts as a simple melee weapon while you aren't holding anything in it, and it deals `dice:1d8|noform|noparens|avg` (`d8`) thunder damage on a hit. A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.  
 
 - **Defensive Field**  
 
@@ -112,7 +113,7 @@ You customize your armor for subtle undertakings. It has the following features:
 
 - **Lightning Launcher**  
 
-    A gemlike node appears on one of your armored fists or on the chest (your choice). It counts as a simple ranged weapon, with a normal range of 90 feet and a long range of 300 feet, and it deals `dice:1d6|noform|avg` (`1d6`) lightning damage on a hit. Once on each of your turns when you hit a creature with it, you can deal an extra `dice:1d6|noform|avg` (`1d6`) lightning damage to that target.  
+    A gemlike node appears on one of your armored fists or on the chest (your choice). It counts as a simple ranged weapon, with a normal range of 90 feet and a long range of 300 feet, and it deals `dice:1d6|noform|noparens|avg` (`d6`) lightning damage on a hit. Once on each of your turns when you hit a creature with it, you can deal an extra `dice:1d6|noform|noparens|avg` (`d6`) lightning damage to that target.  
 
 - **Powered Steps**  
 
@@ -148,4 +149,4 @@ You can use this reaction a number of times equal to your proficiency bonus, and
 
 ### Infiltrator (Level 15)
 
-Any creature that takes lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has disadvantage on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has advantage, and if that attack hits, the target takes an extra `dice:1d6|noform|avg` (`1d6`) lightning damage.
+Any creature that takes lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has disadvantage on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has advantage, and if that attack hits, the target takes an extra `dice:1d6|noform|noparens|avg` (`d6`) lightning damage.

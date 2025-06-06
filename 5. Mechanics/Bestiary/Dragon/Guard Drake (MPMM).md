@@ -20,7 +20,7 @@ tags:
 aliases:
   - Guard Drake
 ---
-# [[5. Mechanics/Bestiary/Dragon/Guard Drake (MPMM).md|Guard Drake]]
+# [[5. Mechanics\Bestiary\Dragon\Guard Drake (MPMM).md|Guard Drake]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*
 
 A guard drake is a reptilian creature created out of dragon scales by means of a bizarre and grisly ritual. When trained properly, a drake is obedient and territorial, which makes it an excellent watch beast that can follow simple commands.
@@ -40,30 +40,32 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
 "ac_class": "natural armor"
 "hp": !!int "52"
 "hit_dice": "7d8 + 21"
+"modifier": !!int "0"
 "stats":
-- !!int "16"
-- !!int "11"
-- !!int "16"
-- !!int "4"
-- !!int "10"
-- !!int "7"
+  - !!int "16"
+  - !!int "11"
+  - !!int "16"
+  - !!int "4"
+  - !!int "10"
+  - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands Draconic but can't speak"
 "cr": "2"
 "actions":
-- "desc": "The guard drake makes one Bite attack and one Tail attack."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
-    \ + 3) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
-    \ + 3) bludgeoning damage."
-  "name": "Tail"
+  - "desc": "The guard drake makes one Bite attack and one Tail attack."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+      \ + 3) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+      \ + 3) bludgeoning damage."
+    "name": "Tail"
 "source":
-- "MPMM"
+  - "MPMM"
 "image": "5. Mechanics/Bestiary/Dragon/token/guard-drake-mpmm.webp"
 ```
 ^statblock

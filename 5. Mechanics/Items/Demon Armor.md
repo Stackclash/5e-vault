@@ -10,6 +10,7 @@ tags:
 aliases:
   - Demon Armor
 armorClass: 18
+weight: 65
 ---
 # Demon Armor
 *Heavy armor, cursed item, major, very rare (requires attunement)*  
@@ -21,7 +22,7 @@ armorClass: 18
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
 
-While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor's clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack and damage rolls and a damage die of `dice:1d8|noform|avg` (`1d8`).
+While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor's clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack and damage rolls and a damage die of `dice:1d8|noform|noparens|avg` (`d8`).
 
 ## Curse
 

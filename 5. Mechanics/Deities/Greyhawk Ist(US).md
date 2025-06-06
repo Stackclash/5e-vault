@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greyhawk
   - domain/knowledge
+alignment: Neutral
+domains: Knowledge
+pantheon: Greyhawk
+symbol: Weaver's spindle with three strands
 aliases:
   - Istus
 ---

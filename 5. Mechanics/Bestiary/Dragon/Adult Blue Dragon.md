@@ -15,7 +15,7 @@ tags:
 aliases:
   - Adult Blue Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Blue Dragon.md|Adult Blue Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Adult Blue Dragon.md|Adult Blue Dragon]]
 *Source: Monster Manual p. 91. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
@@ -111,128 +111,133 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "ac_class": "natural armor"
 "hp": !!int "225"
 "hit_dice": "18d12 + 108"
+"modifier": !!int "0"
 "stats":
-- !!int "25"
-- !!int "10"
-- !!int "23"
-- !!int "16"
-- !!int "15"
-- !!int "19"
+  - !!int "25"
+  - !!int "10"
+  - !!int "23"
+  - !!int "16"
+  - !!int "15"
+  - !!int "19"
 "speed": "40 ft., burrow 30 ft., fly 80 ft."
 "saves":
-  "Charisma": !!int "9"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "7"
-  "Constitution": !!int "11"
+  - "dexterity": "+5"
+  - "constitution": "+11"
+  - "wisdom": "+7"
+  - "charisma": "+9"
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "12"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+12"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+5"
 "damage_immunities": "lightning"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 22"
 "languages": "Common, Draconic"
 "cr": "16"
 "traits":
-- "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
+  - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (3/Day)"
 "actions":
-- "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
-    \ one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 18\
-    \ (2d10 + 7) piercing damage plus 5 (1d10) lightning damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6\
-    \ + 7) slashing damage."
-  "name": "Claw"
-- "desc": "Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 16\
-    \ (2d8 + 7) bludgeoning damage."
-  "name": "Tail"
-- "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success. If a creature's saving throw\
-    \ is successful or the effect ends for it, the creature is immune to the dragon's\
-    \ Frightful Presence for the next 24 hours."
-  "name": "Frightful Presence"
-- "desc": "The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each\
-    \ creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10)\
-    \ lightning damage on a failed save, or half as much damage on a successful one."
-  "name": "Lightning Breath (Recharge 5-6)"
+  - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
+      \ one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 18\
+      \ (2d10 + 7) piercing damage plus 5 (d10) lightning damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14\
+      \ (2d6 + 7) slashing damage."
+    "name": "Claw"
+  - "desc": "Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 16\
+      \ (2d8 + 7) bludgeoning damage."
+    "name": "Tail"
+  - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
+      \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success. If a creature's saving\
+      \ throw is successful or the effect ends for it, the creature is immune to the\
+      \ dragon's Frightful Presence for the next 24 hours."
+    "name": "Frightful Presence"
+  - "desc": "The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each\
+      \ creature in that line must make a DC 19 Dexterity saving throw, taking 66\
+      \ (12d10) lightning damage on a failed save, or half as much damage on a successful\
+      \ one."
+    "name": "Lightning Breath (Recharge 5-6)"
 "legendary_actions":
-- "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ check."
-  "name": "Detect"
-- "desc": "The dragon makes a tail attack."
-  "name": "Tail Attack"
-- "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
-    \ must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The dragon\
-    \ can then fly up to half its flying speed."
-  "name": "Wing Attack (Costs 2 Actions)"
+  - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ check."
+    "name": "Detect"
+  - "desc": "The dragon makes a tail attack."
+    "name": "Tail Attack"
+  - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
+      \ must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning\
+      \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The\
+      \ dragon can then fly up to half its flying speed."
+    "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
-- "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
-    \ action to cause one of the following effects; the dragon can't use the same\
-    \ effect two rounds in a row:"
-  "name": ""
-- "desc": "- Part of the ceiling collapses above one creature that the dragon can\
-    \ see within 120 feet of it. The creature must succeed on a DC 15 Dexterity saving\
-    \ throw or take 10 (3d6) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
-    \ and buried. The buried target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
-    \ and unable to breathe or stand up. A creature can take an action to make a DC\
-    \ 10 Strength check, ending the buried state on a success.  \n- A cloud of sand\
-    \ swirls about in a 20-foot-radius sphere centered on a point the dragon can see\
-    \ within 120 feet of it. The cloud spreads around corners. Each creature in the\
-    \ cloud must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
-    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success.  \n- Lightning arcs, forming\
-    \ a 5-foot-wide line between two of the lair's solid surfaces that the dragon\
-    \ can see. They must be within 120 feet of the dragon and 120 feet of each other.\
-    \ Each creature in that line must succeed on a DC 15 Dexterity saving throw or\
-    \ take 10 (3d6) lightning damage.  "
-  "name": ""
-- "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Blue Dragon.md|adult]]\
-    \ or [[5. Mechanics/Bestiary/Dragon/Ancient Blue Dragon.md|ancient]]) blue dragon\
-    \ can use one or both of the following additional lair actions while in its lair:\n\
-    \n- Misleading Mirage. Until initiative count 20 on the next round, at each\
-    \ intersection or branching passage in the lair, a creature other than the dragon\
-    \ has a 50 percent chance of going in a different direction from the direction\
-    \ it intends.  \n- Sudden Sinkhole. The dragon chooses a point on the ground\
-    \ that it can see within 120 feet of it. A 5-foot-radius, 20-foot-deep pit forms\
-    \ centered on that point. A creature on the ground above where the pit formed\
-    \ must make a DC 15 Dexterity saving throw. On a failed save, a creature falls\
-    \ to the bottom of the pit, taking 7 (2d6) bludgeoning damage and landing [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
-    \ On a successful save, a creature moves to the nearest unoccupied space instead\
-    \ of falling in the pit.  "
-  "name": "Additional Lair Actions"
+  - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
+      \ action to cause one of the following effects; the dragon can't use the same\
+      \ effect two rounds in a row:"
+    "name": ""
+  - "desc": "- Part of the ceiling collapses above one creature that the dragon can\
+      \ see within 120 feet of it. The creature must succeed on a DC 15 Dexterity\
+      \ saving throw or take 10 (3d6) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+      \ and buried. The buried target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
+      \ and unable to breathe or stand up. A creature can take an action to make a\
+      \ DC 10 Strength check, ending the buried state on a success.  \n- A cloud of\
+      \ sand swirls about in a 20-foot-radius sphere centered on a point the dragon\
+      \ can see within 120 feet of it. The cloud spreads around corners. Each creature\
+      \ in the cloud must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
+      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success.  \n- Lightning arcs,\
+      \ forming a 5-foot-wide line between two of the lair's solid surfaces that the\
+      \ dragon can see. They must be within 120 feet of the dragon and 120 feet of\
+      \ each other. Each creature in that line must succeed on a DC 15 Dexterity saving\
+      \ throw or take 10 (3d6) lightning damage.  "
+    "name": ""
+  - "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Blue Dragon.md|adult]]\
+      \ or [[5. Mechanics/Bestiary/Dragon/Ancient Blue Dragon.md|ancient]]) blue dragon\
+      \ can use one or both of the following additional lair actions while in its\
+      \ lair:\n\n- Misleading Mirage. Until initiative count 20 on the next round,\
+      \ at each intersection or branching passage in the lair, a creature other than\
+      \ the dragon has a 50 percent chance of going in a different direction from\
+      \ the direction it intends.  \n- Sudden Sinkhole. The dragon chooses a point\
+      \ on the ground that it can see within 120 feet of it. A 5-foot-radius, 20-foot-deep\
+      \ pit forms centered on that point. A creature on the ground above where the\
+      \ pit formed must make a DC 15 Dexterity saving throw. On a failed save, a creature\
+      \ falls to the bottom of the pit, taking 7 (2d6) bludgeoning damage and landing\
+      \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. On a successful save, a creature\
+      \ moves to the nearest unoccupied space instead of falling in the pit.  "
+    "name": "Additional Lair Actions"
 "regional_effects":
-- "desc": "The region containing a legendary blue dragon's lair is warped by the dragon's\
-    \ magic, which creates one or more of the following effects:"
-  "name": ""
-- "desc": "- Thunderstorms rage within 6 miles of the lair.  \n- Dust devils scour\
-    \ the land within 6 miles of the lair. A dust devil has the statistics of an air\
-    \ elemental, but it can't fly, has a speed of 50 feet, and has an Intelligence\
-    \ and Charisma of 1 (-5).  \n- Hidden sinkholes form in and around the dragon's\
-    \ lair. A sinkhole can be spotted from a safe distance with a successful DC 20\
-    \ Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) check. Otherwise,\
-    \ the first creature to step on the thin crust covering the sinkhole must succeed\
-    \ on a DC 15 Dexterity saving throw or fall 1d6 × 10 feet into the sinkhole.  "
-  "name": ""
-- "desc": "If the dragon dies, the dust devils disappear immediately, and the thunderstorms\
-    \ abate within 1d10 days. Any sinkholes remain where they are."
-  "name": ""
-- "desc": "Any of these effects might appear in the area around a blue dragon's lair,\
-    \ in addition to or instead of the effects described in the Monster Manual:\n\
-    \n- Blue Luster. Creatures that spend a year within 1 mile of the dragon's\
-    \ lair find blue objects fascinating and feel compelled to acquire them at every\
-    \ opportunity.  \n- Mirage Terrain. The area immediately surrounding the lair\
-    \ appears to be a lush oasis. A creature carefully examining the illusion can\
-    \ attempt a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]])\
-    \ check to disbelieve it. A creature who disbelieves the illusion sees it as a\
-    \ vague image superimposed on the underlying terrain.  \n- Sandstorm. A sandstorm\
-    \ blows constantly within 1 mile of the dragon's lair.  "
-  "name": "Additional Regional Effects"
+  - "desc": "The region containing a legendary blue dragon's lair is warped by the\
+      \ dragon's magic, which creates one or more of the following effects:"
+    "name": ""
+  - "desc": "- Thunderstorms rage within 6 miles of the lair.  \n- Dust devils scour\
+      \ the land within 6 miles of the lair. A dust devil has the statistics of an\
+      \ air elemental, but it can't fly, has a speed of 50 feet, and has an Intelligence\
+      \ and Charisma of 1 (-5).  \n- Hidden sinkholes form in and around the dragon's\
+      \ lair. A sinkhole can be spotted from a safe distance with a successful DC\
+      \ 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) check. Otherwise,\
+      \ the first creature to step on the thin crust covering the sinkhole must succeed\
+      \ on a DC 15 Dexterity saving throw or fall 1d6 × 10 feet into the sinkhole.\
+      \  "
+    "name": ""
+  - "desc": "If the dragon dies, the dust devils disappear immediately, and the thunderstorms\
+      \ abate within d10 days. Any sinkholes remain where they are."
+    "name": ""
+  - "desc": "Any of these effects might appear in the area around a blue dragon's\
+      \ lair, in addition to or instead of the effects described in the Monster Manual:\n\
+      \n- Blue Luster. Creatures that spend a year within 1 mile of the dragon's\
+      \ lair find blue objects fascinating and feel compelled to acquire them at every\
+      \ opportunity.  \n- Mirage Terrain. The area immediately surrounding the\
+      \ lair appears to be a lush oasis. A creature carefully examining the illusion\
+      \ can attempt a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]])\
+      \ check to disbelieve it. A creature who disbelieves the illusion sees it as\
+      \ a vague image superimposed on the underlying terrain.  \n- Sandstorm.\
+      \ A sandstorm blows constantly within 1 mile of the dragon's lair.  "
+    "name": "Additional Regional Effects"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Dragon/token/adult-blue-dragon.webp"
 ```
 ^statblock

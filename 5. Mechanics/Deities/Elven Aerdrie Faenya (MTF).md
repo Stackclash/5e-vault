@@ -7,6 +7,12 @@ tags:
   - domain/life
   - domain/tempest
   - domain/trickery
+alignment: Chaotic Good
+category: The Seldarine
+domains: 'Life, Tempest, Trickery'
+pantheon: Elven
+province: 'Air, rain, fertility, birth'
+symbol: Bird silhouetted against a cloud
 aliases:
   - Aerdrie Faenya
 ---

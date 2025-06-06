@@ -7,6 +7,12 @@ tags:
   - domain/life
   - domain/peace
   - domain/twilight
+alignment: Unaligned
+category: The Sovereign Host
+domains: 'Life, Peace, Twilight'
+pantheon: Eberron
+province: 'Community, home'
+symbol: Fire in a stone hearth *or* copper dragon
 aliases:
   - Boldrei
 ---

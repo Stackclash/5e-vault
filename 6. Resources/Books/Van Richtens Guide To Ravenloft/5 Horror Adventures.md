@@ -321,8 +321,8 @@ A curse's burden is the effect that causes hardship and suffering to the curse's
 - The victim has disadvantage on attack rolls, ability checks, saving throws, or some combination of the three. This can be tied to a single ability score or applied generally.  
 - The victim can't communicate using language, whether through speaking, sign language, writing, telepathy, or any other means.  
 - The victim gains 3 levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] that can't be removed while the curse endures.  
-- When the victim finishes a long rest, they must succeed on a DC 15 Constitution saving throw, or their hit point maximum is reduced by `dice:1d10|noform|avg` (`1d10`). If this reduces their hit point maximum to 0, the victim dies, and their body crumbles to dust.  
-- When the victim takes damage, they take an extra `dice:1d10|noform|avg` (`1d10`) necrotic damage. This effect can't happen again until the start of the victim's next turn.  
+- When the victim finishes a long rest, they must succeed on a DC 15 Constitution saving throw, or their hit point maximum is reduced by `dice:1d10|noform|noparens|avg` (`d10`). If this reduces their hit point maximum to 0, the victim dies, and their body crumbles to dust.  
+- When the victim takes damage, they take an extra `dice:1d10|noform|noparens|avg` (`d10`) necrotic damage. This effect can't happen again until the start of the victim's next turn.  
 - The victim gains a Dark Gift (see "chapter 1") appropriate to the circumstances surrounding the curse.  
 - The victim gains vulnerability to one damage type.  
 - The victim's Strength, Dexterity, or Constitution score is reduced to 3, and the victim can't be raised from the dead while the curse lasts.  

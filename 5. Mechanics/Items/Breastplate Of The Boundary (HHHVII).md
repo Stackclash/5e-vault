@@ -9,6 +9,7 @@ tags:
 aliases:
   - Breastplate of the Boundary
 armorClass: 14 + Dex modifier (max of +2)
+weight: 20
 ---
 # Breastplate of the Boundary
 *Medium armor ([[5. Mechanics/Items/Breastplate.md\|breastplate]]), cursed item, very rare (requires attunement)*  

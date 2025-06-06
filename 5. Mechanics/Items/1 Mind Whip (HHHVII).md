@@ -9,12 +9,13 @@ tags:
   - item/weapon/melee
 aliases:
   - +1 Mind Whip
-one-hand-damage: 1d4 S
+one-hand-damage: 1d4 slashing
+weight: 3
 ---
 # +1 Mind Whip
 *Weapon ([[5. Mechanics/Items/Whip.md\|whip]]), very rare (requires attunement)*  
 
-- **Damage**: 1d4 S
+- **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
 

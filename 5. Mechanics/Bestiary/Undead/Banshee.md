@@ -15,7 +15,7 @@ tags:
 aliases:
   - Banshee
 ---
-# [[5. Mechanics/Bestiary/Undead/Banshee.md|Banshee]]
+# [[5. Mechanics\Bestiary\Undead\Banshee.md|Banshee]]
 *Source: Monster Manual p. 23, Curse of Strahd, Tasha's Cauldron of Everything. Available in the Basic Rules (2014)*
 
 When night falls, unlucky travelers hear the faint cries of the forlorn dead. This woeful spirit is a banshee, a spiteful creature formed from the spirit of a female elf. Banshees appear as luminous, wispy forms that vaguely recall their mortal features. A banshee's face is wreathed in a wild tangle of hair, its body clad in wispy rags that flutter and stream around it.
@@ -44,17 +44,18 @@ A banshee doesn't require air, food, drink, or sleep.
 "ac": !!int "12"
 "hp": !!int "58"
 "hit_dice": "13d8"
+"modifier": !!int "2"
 "stats":
-- !!int "1"
-- !!int "14"
-- !!int "10"
-- !!int "12"
-- !!int "11"
-- !!int "17"
+  - !!int "1"
+  - !!int "14"
+  - !!int "10"
+  - !!int "12"
+  - !!int "11"
+  - !!int "17"
 "speed": "0 ft., fly 40 ft. (hover)"
 "saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "2"
+  - "wisdom": "+2"
+  - "charisma": "+5"
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
@@ -67,36 +68,36 @@ A banshee doesn't require air, food, drink, or sleep.
 "languages": "Common, Elvish"
 "cr": "4"
 "traits":
-- "desc": "The banshee can magically sense the presence of living creatures up to\
-    \ 5 miles away that aren't undead or constructs. She knows the general direction\
-    \ they're in but not their exact locations."
-  "name": "Detect Life"
-- "desc": "The banshee can move through other creatures and objects as if they were\
-    \ difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside\
-    \ an object."
-  "name": "Incorporeal Movement"
+  - "desc": "The banshee can magically sense the presence of living creatures up to\
+      \ 5 miles away that aren't undead or constructs. She knows the general direction\
+      \ they're in but not their exact locations."
+    "name": "Detect Life"
+  - "desc": "The banshee can move through other creatures and objects as if they were\
+      \ difficult terrain. She takes 5 (d10) force damage if she ends her turn inside\
+      \ an object."
+    "name": "Incorporeal Movement"
 "actions":
-- "desc": "Melee Spell Attack: +4 to hit, reach 5 ft., one target. Hit: 12 (3d6\
-    \ + 2) necrotic damage."
-  "name": "Corrupting Touch"
-- "desc": "Each non-undead creature within 60 feet of the banshee that can see her\
-    \ must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-    \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] target\
-    \ can repeat the saving throw at the end of each of its turns, with disadvantage\
-    \ if the banshee is within line of sight, ending the effect on itself on a success.\
-    \ If a target's saving throw is successful or the effect ends for it, the target\
-    \ is immune to the banshee's Horrifying Visage for the next 24 hours."
-  "name": "Horrifying Visage"
-- "desc": "The banshee releases a mournful wail, provided that she isn't in sunlight.\
-    \ This wail has no effect on constructs and undead. All other creatures within\
-    \ 30 feet of her that can hear her must make a DC 13 Constitution saving throw.\
-    \ On a failure, a creature drops to 0 hit points. On a success, a creature takes\
-    \ 10 (3d6) psychic damage."
-  "name": "Wail (1/Day)"
+  - "desc": "Melee Spell Attack: +4 to hit, reach 5 ft., one target. Hit: 12 (3d6\
+      \ + 2) necrotic damage."
+    "name": "Corrupting Touch"
+  - "desc": "Each non-undead creature within 60 feet of the banshee that can see her\
+      \ must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+      \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] target\
+      \ can repeat the saving throw at the end of each of its turns, with disadvantage\
+      \ if the banshee is within line of sight, ending the effect on itself on a success.\
+      \ If a target's saving throw is successful or the effect ends for it, the target\
+      \ is immune to the banshee's Horrifying Visage for the next 24 hours."
+    "name": "Horrifying Visage"
+  - "desc": "The banshee releases a mournful wail, provided that she isn't in sunlight.\
+      \ This wail has no effect on constructs and undead. All other creatures within\
+      \ 30 feet of her that can hear her must make a DC 13 Constitution saving throw.\
+      \ On a failure, a creature drops to 0 hit points. On a success, a creature takes\
+      \ 10 (3d6) psychic damage."
+    "name": "Wail (1/Day)"
 "source":
-- "MM"
-- "CoS"
-- "TCE"
+  - "MM"
+  - "CoS"
+  - "TCE"
 "image": "5. Mechanics/Bestiary/Undead/token/banshee.webp"
 ```
 ^statblock

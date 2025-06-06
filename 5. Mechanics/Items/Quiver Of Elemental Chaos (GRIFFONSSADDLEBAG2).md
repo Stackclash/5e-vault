@@ -24,19 +24,19 @@ Any arrow or bolt created by this quiver is magical and has the following proper
 
 ## Air Ammunition
 
-This ammunition is weightless and whistles softly as it moves. This piece of ammunition can be fired at its long range without disadvantage and deals an extra `dice:1d6|noform|avg` (`1d6`) thunder damage to any target it hits. In addition, any magical atmospheric effect that the arrow passes through cast at 3rd level or lower, such as a [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] or [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]], is dispelled.
+This ammunition is weightless and whistles softly as it moves. This piece of ammunition can be fired at its long range without disadvantage and deals an extra `dice:1d6|noform|noparens|avg` (`d6`) thunder damage to any target it hits. In addition, any magical atmospheric effect that the arrow passes through cast at 3rd level or lower, such as a [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] or [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]], is dispelled.
 
 ## Earth Ammunition
 
-This ammunition carries an uncanny force behind it and turns to stone at its end. When you hit with a ranged attack using this ammunition, the target takes an extra `dice:2d6|noform|avg` (`2d6`) bludgeoning damage and must succeed on a DC 15 Strength saving throw or be pushed up to 10 feet away from you.
+This ammunition carries an uncanny force behind it and turns to stone at its end. When you hit with a ranged attack using this ammunition, the target takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) bludgeoning damage and must succeed on a DC 15 Strength saving throw or be pushed up to 10 feet away from you.
 
 ## Fire Ammunition
 
-This ammunition has tongues of fire licking up its side and spews embers at the slightest movement. When shot, it erupts into a plume of white-hot flame. This piece of ammunition deals an extra `dice:1d6|noform|avg` (`1d6`) fire damage to any target it hits. Hit or miss, the ammunition explodes. The target and each creature within 5 feet of it must succeed on a DC 15 Dexterity saving throw or take `dice:1d6|noform|avg` (`1d6`) fire damage.
+This ammunition has tongues of fire licking up its side and spews embers at the slightest movement. When shot, it erupts into a plume of white-hot flame. This piece of ammunition deals an extra `dice:1d6|noform|noparens|avg` (`d6`) fire damage to any target it hits. Hit or miss, the ammunition explodes. The target and each creature within 5 feet of it must succeed on a DC 15 Dexterity saving throw or take `dice:1d6|noform|noparens|avg` (`d6`) fire damage.
 
 ## Water Ammunition
 
-This ammunition has a silky texture and glitters with watery reflections. A ranged attack made with this ammunition ignores the normal penalties of underwater fighting and deals an extra `dice:2d6|noform|avg` (`2d6`) piercing damage to any target it hits, or `dice:3d6|noform|avg` (`3d6`) piercing damage if the target is made of fire. In addition, any nonmagical flames within 10 feet of this ammunition's point of impact are extinguished when it hits.
+This ammunition has a silky texture and glitters with watery reflections. A ranged attack made with this ammunition ignores the normal penalties of underwater fighting and deals an extra `dice:2d6|noform|noparens|avg` (`2d6`) piercing damage to any target it hits, or `dice:3d6|noform|noparens|avg` (`3d6`) piercing damage if the target is made of fire. In addition, any nonmagical flames within 10 feet of this ammunition's point of impact are extinguished when it hits.
 
 ## Paraelemental Ammunition
 
@@ -44,15 +44,15 @@ You can press two compatible elemental buttons at the same time as a bonus actio
 
 ## Ice Ammunition
 
-This special piece of frosted ammunition is cold to the touch and casts off snowflakes when it moves. When you hit with a ranged attack using this ammunition, the target takes an extra `dice:3d6|noform|avg` (`3d6`) cold damage and must make a DC 15 Constitution saving throw. On a failed save, the target is [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] for 1 minute. On a success, the target's speed is halved until the end of its next turn. A creature with resistance or immunity to cold damage automatically succeeds on the saving throw. A [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] target can repeat the saving throw at the end of each of its turns, ending the effect on a success. The effect ends early if the [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] target takes fire damage.
+This special piece of frosted ammunition is cold to the touch and casts off snowflakes when it moves. When you hit with a ranged attack using this ammunition, the target takes an extra `dice:3d6|noform|noparens|avg` (`3d6`) cold damage and must make a DC 15 Constitution saving throw. On a failed save, the target is [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] for 1 minute. On a success, the target's speed is halved until the end of its next turn. A creature with resistance or immunity to cold damage automatically succeeds on the saving throw. A [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] target can repeat the saving throw at the end of each of its turns, ending the effect on a success. The effect ends early if the [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] target takes fire damage.
 
 ## Magma Ammunition
 
-This special piece of glimmering ammunition is warm to the touch and flakes off in sooty pieces. When you hit with a ranged attack using this ammunition, the target takes an extra `dice:3d6|noform|avg` (`3d6`) fire damage. Hit or miss, the area in a 10-foot-radius sphere centered on the point of impact becomes unbearably hot until the end of the turn. Each creature within the area must succeed on a DC 15 Constitution saving throw or gain 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] from the sudden flash of heat. A creature with resistance or immunity to fire damage automatically succeeds on the saving throw.
+This special piece of glimmering ammunition is warm to the touch and flakes off in sooty pieces. When you hit with a ranged attack using this ammunition, the target takes an extra `dice:3d6|noform|noparens|avg` (`3d6`) fire damage. Hit or miss, the area in a 10-foot-radius sphere centered on the point of impact becomes unbearably hot until the end of the turn. Each creature within the area must succeed on a DC 15 Constitution saving throw or gain 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] from the sudden flash of heat. A creature with resistance or immunity to fire damage automatically succeeds on the saving throw.
 
 ## Ooze Ammunition
 
-This special piece of sticky ammunition gives off a faint, alchemical odor. This ammunition creates a unique [[5. Mechanics/Spells/Grease.md\|grease]] spell (save DC 15) at the point of impact. This version of the spell covers a 20-foot-square area, and any creature that starts its turn [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] in the area takes `dice:1d6|noform|avg` (`1d6`) acid damage.
+This special piece of sticky ammunition gives off a faint, alchemical odor. This ammunition creates a unique [[5. Mechanics/Spells/Grease.md\|grease]] spell (save DC 15) at the point of impact. This version of the spell covers a 20-foot-square area, and any creature that starts its turn [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] in the area takes `dice:1d6|noform|noparens|avg` (`d6`) acid damage.
 
 ## Smoke Ammunition
 

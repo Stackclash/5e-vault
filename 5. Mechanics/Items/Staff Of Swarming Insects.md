@@ -9,20 +9,21 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of Swarming Insects
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Staff of Swarming Insects
 *Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
 ![[5. Mechanics/Items/img/staff-of-swarming-insects.webp#right]]  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
-This staff has 10 charges and regains `dice:1d6+4|noform|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarm of insects]] consumes and destroys the staff, then disperses.
+This staff has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarm of insects]] consumes and destroys the staff, then disperses.
 
 ## Spells
 

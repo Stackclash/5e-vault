@@ -18,7 +18,7 @@ tags:
 aliases:
   - Manticore
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Manticore.md|Manticore]]
+# [[5. Mechanics\Bestiary\Monstrosity\Manticore.md|Manticore]]
 *Source: Monster Manual p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A monster in every sense of the word, a manticore has a vaguely humanoid head, the body of a lion, and the wings of a dragon. A bristling mane stretches down the creature's back, and its long tail ends in a cluster of deadly spikes that can impale prey at impressive range.
@@ -49,36 +49,37 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
 "ac_class": "natural armor"
 "hp": !!int "68"
 "hit_dice": "8d10 + 24"
+"modifier": !!int "3"
 "stats":
-- !!int "17"
-- !!int "16"
-- !!int "17"
-- !!int "7"
-- !!int "12"
-- !!int "8"
+  - !!int "17"
+  - !!int "16"
+  - !!int "17"
+  - !!int "7"
+  - !!int "12"
+  - !!int "8"
 "speed": "30 ft., fly 50 ft."
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common"
 "cr": "3"
 "traits":
-- "desc": "The manticore has twenty-four tail spikes. Used spikes regrow when the\
-    \ manticore finishes a long rest."
-  "name": "Tail Spike Regrowth"
+  - "desc": "The manticore has twenty-four tail spikes. Used spikes regrow when the\
+      \ manticore finishes a long rest."
+    "name": "Tail Spike Regrowth"
 "actions":
-- "desc": "The manticore makes three attacks: one with its bite and two with its claws\
-    \ or three with its tail spikes."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
-    \ + 3) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
-    \ + 3) slashing damage."
-  "name": "Claw"
-- "desc": "Ranged Weapon Attack: +5 to hit, range 100/200 ft., one target. Hit:\
-    \ 7 (1d8 + 3) piercing damage."
-  "name": "Tail Spike"
+  - "desc": "The manticore makes three attacks: one with its bite and two with its\
+      \ claws or three with its tail spikes."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+      \ + 3) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+      \ + 3) slashing damage."
+    "name": "Claw"
+  - "desc": "Ranged Weapon Attack: +5 to hit, range 100/200 ft., one target. Hit:\
+      \ 7 (1d8 + 3) piercing damage."
+    "name": "Tail Spike"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/manticore.webp"
 ```
 ^statblock

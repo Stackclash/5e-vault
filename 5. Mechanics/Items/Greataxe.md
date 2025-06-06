@@ -9,12 +9,13 @@ tags:
 aliases:
   - Greataxe
 cost: 3000
-one-hand-damage: 1d12 S
+one-hand-damage: 1d12 slashing
+weight: 7
 ---
 # Greataxe
 *Weapon*  
 
-- **Damage**: 1d12 S
+- **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Cost**: 30 gp
 - **Weight**: 7.0 lbs.

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Kakkuu Spyder-Fiend
 ---
-# [[5. Mechanics/Bestiary/Fiend/Kakkuu Spyder Fiend (VEOR).md|Kakkuu Spyder-Fiend]]
+# [[5. Mechanics\Bestiary\Fiend\Kakkuu Spyder Fiend (VEOR).md|Kakkuu Spyder-Fiend]]
 *Source: Vecna: Eve of Ruin p. 234*
 
 Resembling enormous spiders, kakkuus are the most numerous and least intelligent spyder-fiends. In large conflicts, they serve as foot soldiers, but they prefer to avoid more powerful Fiends, who boss them around. Left on their own, kakkuus lurk in ambush and use their webs to snare prey.
@@ -36,21 +36,24 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
 "ac_class": "natural armor"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
+"modifier": !!int "2"
 "stats":
-- !!int "17"
-- !!int "15"
-- !!int "14"
-- !!int "6"
-- !!int "10"
-- !!int "10"
+  - !!int "17"
+  - !!int "15"
+  - !!int "14"
+  - !!int "6"
+  - !!int "10"
+  - !!int "10"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "3"
-  "Constitution": !!int "5"
+  - "dexterity": "+5"
+  - "constitution": "+5"
+  - "wisdom": "+3"
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
@@ -58,35 +61,35 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
 "languages": "understands Abyssal but can't speak"
 "cr": "5"
 "traits":
-- "desc": "The kakkuu has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- "desc": "The kakkuu can climb difficult surfaces, including upside down on ceilings,\
-    \ without needing to make an ability check."
-  "name": "Spider Climb"
-- "desc": "When in contact with a web, the kakkuu knows the exact location of any\
-    \ other creature in contact with the same web."
-  "name": "Web Sense"
-- "desc": "The kakkuu ignores movement restrictions caused by webbing."
-  "name": "Web Walker"
+  - "desc": "The kakkuu has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
+  - "desc": "The kakkuu can climb difficult surfaces, including upside down on ceilings,\
+      \ without needing to make an ability check."
+    "name": "Spider Climb"
+  - "desc": "When in contact with a web, the kakkuu knows the exact location of any\
+      \ other creature in contact with the same web."
+    "name": "Web Sense"
+  - "desc": "The kakkuu ignores movement restrictions caused by webbing."
+    "name": "Web Walker"
 "actions":
-- "desc": "The kakkuu makes a Web Snare attack, uses Reel, and makes a Bite attack."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10\
-    \ + 3) piercing damage plus 10 (3d6) poison damage."
-  "name": "Bite"
-- "desc": "The kakkuu pulls each creature within 60 feet of itself that is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ by its Web Snare up to 30 feet straight toward itself."
-  "name": "Reel"
-- "desc": "Ranged Weapon Attack: +6 to hit, reach 30/60 ft., one Large or smaller\
-    \ creature. Hit: The target has the [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ condition (escape DC 13). While [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]],\
-    \ the target also has the [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
-    \ condition. A web snare grappling a creature can be attacked and destroyed (AC\
-    \ 10; 10 hit points; immunity to bludgeoning, poison, and psychic damage)."
-  "name": "Web Snare"
+  - "desc": "The kakkuu makes a Web Snare attack, uses Reel, and makes a Bite attack."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14\
+      \ (2d10 + 3) piercing damage plus 10 (3d6) poison damage."
+    "name": "Bite"
+  - "desc": "The kakkuu pulls each creature within 60 feet of itself that is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ by its Web Snare up to 30 feet straight toward itself."
+    "name": "Reel"
+  - "desc": "Ranged Weapon Attack: +6 to hit, reach 30/60 ft., one Large or smaller\
+      \ creature. Hit: The target has the [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ condition (escape DC 13). While [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]],\
+      \ the target also has the [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
+      \ condition. A web snare grappling a creature can be attacked and destroyed\
+      \ (AC 10; 10 hit points; immunity to bludgeoning, poison, and psychic damage)."
+    "name": "Web Snare"
 "source":
-- "VEoR"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/kakkuu-spyder-fiend-veor.webp"
 ```
 ^statblock

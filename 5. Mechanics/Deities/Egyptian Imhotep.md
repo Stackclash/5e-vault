@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/egyptian
   - domain/knowledge
+alignment: Neutral Good
+domains: Knowledge
+pantheon: Egyptian
+symbol: Step pyramid
 aliases:
   - Imhotep
 ---

@@ -8,6 +8,7 @@ tags:
   - item/rarity/uncommon
 aliases:
   - +1 Rhythm-Maker's Drum
+weight: 3
 ---
 # +1 Rhythm-Maker's Drum
 *Wondrous item, instrument, uncommon (requires attunement by a bard)*  

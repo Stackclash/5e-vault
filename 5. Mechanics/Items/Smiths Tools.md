@@ -8,6 +8,7 @@ tags:
 aliases:
   - Smith's Tools
 cost: 2000
+weight: 8
 ---
 # Smith's Tools
 *Artisan's tools*  

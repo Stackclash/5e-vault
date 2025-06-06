@@ -18,7 +18,7 @@ tags:
 aliases:
   - Barghest
 ---
-# [[5. Mechanics/Bestiary/Fiend/Barghest (MPMM).md|Barghest]]
+# [[5. Mechanics\Bestiary\Fiend\Barghest (MPMM).md|Barghest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123*
 
 Long ago, the god Maglubiyet—conqueror and then lord of early goblinoids—bargained with the General of Gehenna for aid. The General provided yugoloths, which then died in service to Maglubiyet. Yet when the time came to honor his part of the compact, Maglubiyet reneged on the deal. In vengeance, the General of Gehenna created the soul-devouring barghests to devour goblinoid souls.
@@ -38,19 +38,24 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "ac_class": "natural armor"
 "hp": !!int "60"
 "hit_dice": "8d10 + 16"
+"modifier": !!int "2"
 "stats":
-- !!int "19"
-- !!int "15"
-- !!int "14"
-- !!int "13"
-- !!int "12"
-- !!int "14"
+  - !!int "19"
+  - !!int "15"
+  - !!int "14"
+  - !!int "13"
+  - !!int "12"
+  - !!int "14"
 "speed": "60 ft. (30 ft. in goblin form)"
 "skillsaves":
-  "Intimidation": !!int "4"
-  "Deception": !!int "4"
-  "Stealth": !!int "4"
-  "Perception": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "acid, poison"
@@ -59,43 +64,43 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "languages": "Abyssal, Common, Goblin, Infernal, telepathy 60 ft."
 "cr": "4"
 "traits":
-- "desc": "The barghest casts one of the following spells, requiring no material components\
-    \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Levitate.md|levitate]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-    \ [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]]\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]],\
-    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "Spellcasting"
-- "desc": "When the barghest starts its turn engulfed in flames that are at least\
-    \ 10 feet high or wide, it must succeed on a DC 15 Charisma saving throw or be\
-    \ instantly banished to Gehenna"
-  "name": "Fire Banishment"
-- "desc": "The barghest can feed on the corpse of a Fey or Humanoid it killed within\
-    \ the past 10 minutes. This feeding takes at least 1 minute, and it destroys the\
-    \ corpse. The victim's soul is trapped in the barghest for 24 hours, after which\
-    \ time it is digested and the person is incapable of being revived. If the barghest\
-    \ dies before the soul is digested, the soul is released. While a soul is trapped\
-    \ in the barghest, any magic that tries to restore the soul to life has a 50 percent\
-    \ chance of failing and being wasted."
-  "name": "Soul Feeding"
+  - "desc": "When the barghest starts its turn engulfed in flames that are at least\
+      \ 10 feet high or wide, it must succeed on a DC 15 Charisma saving throw or\
+      \ be instantly banished to Gehenna"
+    "name": "Fire Banishment"
+  - "desc": "The barghest can feed on the corpse of a Fey or Humanoid it killed within\
+      \ the past 10 minutes. This feeding takes at least 1 minute, and it destroys\
+      \ the corpse. The victim's soul is trapped in the barghest for 24 hours, after\
+      \ which time it is digested and the person is incapable of being revived. If\
+      \ the barghest dies before the soul is digested, the soul is released. While\
+      \ a soul is trapped in the barghest, any magic that tries to restore the soul\
+      \ to life has a 50 percent chance of failing and being wasted."
+    "name": "Soul Feeding"
 "actions":
-- "desc": "The barghest makes one Bite attack and one Claw attack."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8\
-    \ + 4) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
-    \ + 4) slashing damage."
-  "name": "Claw"
+  - "desc": "The barghest makes one Bite attack and one Claw attack."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+      \ (2d8 + 4) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+      \ + 4) slashing damage."
+    "name": "Claw"
+  - "desc": "The barghest casts one of the following spells, requiring no material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
+      \nAt will: [[5. Mechanics/Spells/Levitate.md|levitate]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+      \ [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]]\n\n1/day each:\
+      \ [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]],\
+      \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
+    "name": "Spellcasting"
 "bonus_actions":
-- "desc": "The barghest transforms into a Small goblin or back into its true form.\
-    \ Other than its size and speed, its statistics are the same in each form. Any\
-    \ equipment it is wearing or carrying isn't transformed. The barghest reverts\
-    \ to its true form if it dies."
-  "name": "Change Shape"
+  - "desc": "The barghest transforms into a Small goblin or back into its true form.\
+      \ Other than its size and speed, its statistics are the same in each form. Any\
+      \ equipment it is wearing or carrying isn't transformed. The barghest reverts\
+      \ to its true form if it dies."
+    "name": "Change Shape"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Fiend/token/barghest-mpmm.webp"
 ```
 ^statblock

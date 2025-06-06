@@ -59,9 +59,9 @@ aliases:
 | 82 | [[5. Mechanics/Items/Gloves Of Thievery.md\|Gloves of thievery]] |
 | 83 | [[5. Mechanics/Items/Headband Of Intellect.md\|Headband of intellect]] |
 | 84 | [[5. Mechanics/Items/Helm Of Telepathy.md\|Helm of telepathy]] |
-| 85 | [[5. Mechanics/Items/Instrument Of The Bards Doss Lute.md\|Instrument of the bards, doss lute]] |
-| 86 | [[5. Mechanics/Items/Instrument Of The Bards Fochlucan Bandore.md\|Instrument of the bards, fochlucan bandore]] |
-| 87 | [[5. Mechanics/Items/Instrument Of The Bards Mac Fuirmidh Cittern.md\|Instrument of the bards, mac-fuirmidh cittern]] |
+| 85 | [[5. Mechanics/Items/Instrument Of The Bards Doss Lute.md\|Instrument of the bards, Doss lute]] |
+| 86 | [[5. Mechanics/Items/Instrument Of The Bards Fochlucan Bandore.md\|Instrument of the bards, Fochlucan bandore]] |
+| 87 | [[5. Mechanics/Items/Instrument Of The Bards Mac Fuirmidh Cittern.md\|Instrument of the bards, Mac-Fuirmidh cittern]] |
 | 88 | [[5. Mechanics/Items/Medallion Of Thoughts.md\|Medallion of thoughts]] |
 | 89 | [[5. Mechanics/Items/Necklace Of Adaptation.md\|Necklace of adaptation]] |
 | 90 | [[5. Mechanics/Items/Periapt Of Wound Closure.md\|Periapt of wound closure]] |
@@ -71,7 +71,7 @@ aliases:
 | 94 | [[5. Mechanics/Items/Ring Of Mind Shielding.md\|Ring of mind shielding]] |
 | 95 | [[5. Mechanics/Items/Ring Of Warmth.md\|Ring of warmth]] |
 | 96 | [[5. Mechanics/Items/Ring Of Water Walking.md\|Ring of water walking]] |
-| 97 | [[5. Mechanics/Items/Quiver Of Ehlonna.md\|Quiver of ehlonna]] |
+| 97 | [[5. Mechanics/Items/Quiver Of Ehlonna.md\|Quiver of Ehlonna]] |
 | 98 | [[5. Mechanics/Items/Stone Of Good Luck.md\|Stone of good luck]] |
 | 99 | [[5. Mechanics/Items/Wind Fan.md\|Wind fan]] |
 | 00 | [[5. Mechanics/Items/Winged Boots.md\|Winged boots]] |

@@ -8,6 +8,7 @@ tags:
 aliases:
   - Dungeoneer's Pack
 cost: 1200
+weight: 61.5
 ---
 # Dungeoneer's Pack
 *Adventuring gear*  

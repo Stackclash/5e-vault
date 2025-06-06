@@ -6,6 +6,11 @@ tags:
   - deity/gnome
   - domain/forge
   - domain/light
+alignment: Neutral
+domains: 'Forge, Light'
+pantheon: Gnome
+province: 'Labor, craft'
+symbol: Iron mule
 aliases:
   - Bleredd
 ---

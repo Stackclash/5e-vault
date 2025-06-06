@@ -11,22 +11,35 @@ tags:
   - spell/school/transmutation
   - spell/subclass/circle-of-oaks
   - spell/subclass/divine-soul
-level: 8th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Druid (Circle of Oaks)
+  - Sorcerer (Divine Soul)
+  - Wizard
 school: Transmutation
-time: 10 minute
-duration: 'Concentration, up to 8 hour'
-components: 'V, S, burning incense and bits of earth and wood mixed in water'
+level: 8
+ritual: false
+time: 10 minutes
+duration: Up to 8 hours
+components:
+  - V
+  - S
+  - M
 aliases:
   - Control Weather
+range: Self
+material: Burning incense and bits of earth and wood mixed in water.
+concentration: true
 ---
 # Control Weather
 *8th-level, Transmutation*  
 
-- **Casting time:** 10 minute
-- **Range:** Self (5-miles radius)
-- **Components:** V, S, burning incense and bits of earth and wood mixed in water
-- **Duration:** Concentration, up to 8 hour
+- **Casting time:** 10 minutes
+- **Range:** Self (5-mile Radius)
+- **Components:** V, S, M (burning incense and bits of earth and wood mixed in water)
+- **Duration:** Concentration, up to 8 hours
 
 You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don't have a clear path to the sky ends the spell early.
 
@@ -68,6 +81,6 @@ When you change the weather conditions, find a current condition on the followin
 | 5 | Storm |
 ^wind
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Druid Circle Of Oaks (KPDM)\|Druid (Circle of Oaks)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Druid (Circle of Oaks)](compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 228. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

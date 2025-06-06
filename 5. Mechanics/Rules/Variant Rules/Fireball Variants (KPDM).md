@@ -13,7 +13,7 @@ aliases:
 
 ## Appearance and Type Changes
 
-[[5. Mechanics/Spells/Fireball.md\|Fireball]] can be easily spiced up by changing its appearance and damage type. The following table offers twenty options for reskinning [[5. Mechanics/Spells/Fireball.md\|fireball]]; roll a `dice:d20|noform|avg` (`d20`) or choose the options that best suit the character who's casting the spell. The new appearance can become emblematic of that caster, as personal as a signature, a catchphrase, or a distinctive facial feature.
+[[5. Mechanics/Spells/Fireball.md\|Fireball]] can be easily spiced up by changing its appearance and damage type. The following table offers twenty options for reskinning [[5. Mechanics/Spells/Fireball.md\|fireball]]; roll a `dice:d20|noform|noparens|avg` (`d20`) or choose the options that best suit the character who's casting the spell. The new appearance can become emblematic of that caster, as personal as a signature, a catchphrase, or a distinctive facial feature.
 
 All items created by a variant appearance vanish as soon as their damage is done; no items or materials can be recovered.
 

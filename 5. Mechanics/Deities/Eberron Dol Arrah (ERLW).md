@@ -7,6 +7,12 @@ tags:
   - domain/light
   - domain/twilight
   - domain/war
+alignment: Unaligned
+category: The Sovereign Host
+domains: 'Light, War, Twilight'
+pantheon: Eberron
+province: 'Honor, sunlight'
+symbol: Rising sun *or* red dragon
 aliases:
   - Dol Arrah
 ---

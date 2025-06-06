@@ -7,22 +7,29 @@ tags:
   - spell/level/5th-level
   - spell/ritual
   - spell/school/transmutation
-level: 5th-level
-range: true
+classes:
+  - Bard
 school: Transmutation
+level: 5
+ritual: true
 time: 1 minute
-duration: 'Concentration, up to 10 minute'
-components: 'V, S, a drop of snake venom'
+duration: up to 10 minutes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Curse of Yig
+concentration: true
+material: a drop of snake venom
 ---
 # Curse of Yig
 *5th-level, Transmutation (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** 60 feet
-- **Components:** V, S, a drop of snake venom
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a drop of snake venom)
+- **Duration:** Concentration, up to 10 minutes
 
 This spell transforms a Small, Medium, or Large creature that you can see within range into a servant of Yig. An unwilling creature can attempt a Wisdom saving throw, negating the effect with a success. A willing creature is automatically affected and remains so for as long as you maintain concentration on the spell.
 
@@ -30,6 +37,6 @@ The transformation lasts for the duration or until the target drops to 0 hit poi
 
 When it reverts to its normal form, the creature has the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 337*

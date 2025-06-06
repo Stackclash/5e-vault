@@ -21,12 +21,12 @@ While wearing this amulet, you may use your action to expend 1 or more of its ch
 
 ## Twisted body
 
-Using your action and expending 5 charges, you target a non-construct creature you can see within 60 feet of you, attempting to twist its body into a debilitated state. The targeted creature must make a DC 18 Constitution saving throw. On a failure, they suffer `dice:6d10|noform|avg` (`6d10`) necrotic damage, and for the next 10 minutes, their speed is reduced by half and they make all Strength and Dexterity saving throws at disadvantage. On a success, they take half damage and suffer no other negative effects. The targeted creature may attempt the saving throw again at the end of each of its turns, ending the effect on itself on a success.
+Using your action and expending 5 charges, you target a non-construct creature you can see within 60 feet of you, attempting to twist its body into a debilitated state. The targeted creature must make a DC 18 Constitution saving throw. On a failure, they suffer `dice:6d10|noform|noparens|avg` (`6d10`) necrotic damage, and for the next 10 minutes, their speed is reduced by half and they make all Strength and Dexterity saving throws at disadvantage. On a success, they take half damage and suffer no other negative effects. The targeted creature may attempt the saving throw again at the end of each of its turns, ending the effect on itself on a success.
 
 ## Mutated Gift
 
-Using your action and expending 3 charges, you target a willing creature within 30 feet of you that you can see. If you do so, roll a `dice:1d100|noform|avg|text(percentile dice)` (`1d100`) and consult the *Flesh Warping* table in the [[5. Mechanics/Bestiary/Fiend/Sibriex (MPMM).md\|sibriex]] creature information section to determine a mutation that transpires to your target. This mutation lasts until the end of your target's next long rest. Alternatively, you may use this ability on your target again to end the effect early. There is no limit to how many mutations a creature can have.
+Using your action and expending 3 charges, you target a willing creature within 30 feet of you that you can see. If you do so, roll a `dice:1d100|noform|noparens|avg|text(percentile dice)` (`d100`) and consult the *Flesh Warping* table in the [[5. Mechanics/Bestiary/Fiend/Sibriex (MPMM).md\|sibriex]] creature information section to determine a mutation that transpires to your target. This mutation lasts until the end of your target's next long rest. Alternatively, you may use this ability on your target again to end the effect early. There is no limit to how many mutations a creature can have.
 
-The amulet regains `dice:2d8+4|noform|avg` (`2d8 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, this amulet dissolves into a foul ichor and becomes worthless.
+The amulet regains `dice:2d8+4|noform|noparens|avg` (`2d8 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, this amulet dissolves into a foul ichor and becomes worthless.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 81*

@@ -14,25 +14,35 @@ tags:
   - spell/school/enchantment
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Enchantment
-time: 1 action
+level: cantrip
+ritual: false
+time: 1 Action
 duration: 1 minute
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Bewilderment
 ---
 # Bewilderment
 *cantrip, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** 1 minute
 
-You temporarily inhibit the cognitive ability of a creature within range. If the target makes a successful Wisdom saving throw, the spell is ineffective. On a failed save, the next time the creature makes an Intelligence check before the spell ends, roll a `dice:d6|noform|avg` (`d6`) and subtract the result from the roll. The spell then ends.
+You temporarily inhibit the cognitive ability of a creature within range. If the target makes a successful Wisdom saving throw, the spell is ineffective. On a failed save, the next time the creature makes an Intelligence check before the spell ends, roll a `dice:d6|noform|noparens|avg` (`d6`) and subtract the result from the roll. The spell then ends.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 42*

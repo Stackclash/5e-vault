@@ -10,4 +10,4 @@ aliases:
 
 ## 4th Level
 
-- [[Polymorph \|"PHB"]]
+- [[5. Mechanics/Spells/Polymorph.md \|"PHB"]]

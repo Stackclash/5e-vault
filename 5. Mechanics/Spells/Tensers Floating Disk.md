@@ -14,21 +14,30 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
   - spell/subrace/tiefling-mammon
-level: 1st-level
-range: true
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Conjuration
-time: 1 action
+level: 1
+ritual: true
+time: 1 Action
 duration: 1 hour
-components: 'V, S, a drop of mercury'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Tenser's Floating Disk
+material: a drop of mercury
 ---
 # Tenser's Floating Disk
 *1st-level, Conjuration (ritual)*  
 
-- **Casting time:** 1 action unless cast as a ritual
+- **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 30 feet
-- **Components:** V, S, a drop of mercury
+- **Components:** V, S, M (a drop of mercury)
 - **Duration:** 1 hour
 
 This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration, and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.
@@ -37,6 +46,6 @@ The disk is immobile while you are within 20 feet of it. If you move more than 2
 
 If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Player's Handbook p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Floating Disk")*

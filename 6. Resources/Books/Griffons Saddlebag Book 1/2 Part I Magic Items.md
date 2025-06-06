@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/tgs1
 aliases:
-  - 'Part I: Magic Items'
+  - Part I: Magic Items
 ---
 # Part I: Magic Items
 *Source: Griffon's Saddlebag Book 1, p. 8* 

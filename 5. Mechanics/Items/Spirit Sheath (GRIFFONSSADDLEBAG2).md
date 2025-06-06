@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Spirit Sheath
-one-hand-damage: 1d6 S
+one-hand-damage: 1d6 slashing
+weight: 3
 ---
 # Spirit Sheath
 *Weapon ([[5. Mechanics/Items/Scimitar.md\|scimitar]]), major, rare (requires attunement by a creature with a Wisdom score of 13 or higher)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Spirit-Sheath.webp#right)  
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
 

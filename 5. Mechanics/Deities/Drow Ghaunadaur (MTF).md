@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/drow
   - domain/war
+alignment: Chaotic Evil
+category: The Dark Seldarine
+domains: War
+pantheon: Drow
+province: 'Oozes, slimes, outcasts'
+symbol: Purple eye with black sclera
 aliases:
   - Ghaunadaur
 ---

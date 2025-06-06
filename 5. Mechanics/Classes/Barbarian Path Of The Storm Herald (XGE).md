@@ -8,7 +8,7 @@ aliases:
   - Path of the Storm Herald
 ---
 # Path of the Storm Herald
-*[[Barbarian.md\|Barbarian]]: Primal Path*  
+*[[.nullBarbarian.md\|Barbarian]]: Primal Path*  
 *Source: Xanathar's Guide to Everything p. 10*  
 
 > [!tldr] Class and Feature Progression
@@ -20,18 +20,18 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path%20of%20the%20Storm%20Herald%20(Level%203)'>Path of the Storm Herald</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path of the Storm Herald (Level 3)' class='internal-link'>Path of the Storm Herald</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Storm%20Soul%20(Level%206)'>Storm Soul</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Storm Soul (Level 6)' class='internal-link'>Storm Soul</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Shielding%20Storm%20(Level%2010)'>Shielding Storm</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Shielding Storm (Level 10)' class='internal-link'>Shielding Storm</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Raging%20Storm%20(Level%2014)'>Raging Storm</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Raging Storm (Level 14)' class='internal-link'>Raging Storm</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,8 +39,13 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
 
+^class-progression
+
+
+> [!quote] A quote from Xanathar  
+> 
+> You know one of the great benefits of living underground? No weather. Don't mess this up for me.
 
 ## Class Features
 
@@ -64,7 +69,7 @@ If your aura's effects require a saving throw, the DC equals 8 + your proficienc
 
 - **Sea**  
 
-    When this effect is activated, you can choose one other creature you can see in your aura. The target must make a Dexterity saving throw. The target takes `dice:1d6|noform|avg` (`1d6`) lightning damage on a failed save, or half as much damage on a successful one. The damage increases when you reach certain levels in this class, increasing to `dice:2d6|noform|avg` (`2d6`) at 10th level, `dice:3d6|noform|avg` (`3d6`) at 15th level, and `dice:4d6|noform|avg` (`4d6`) at 20th level.  
+    When this effect is activated, you can choose one other creature you can see in your aura. The target must make a Dexterity saving throw. The target takes `dice:1d6|noform|noparens|avg` (`d6`) lightning damage on a failed save, or half as much damage on a successful one. The damage increases when you reach certain levels in this class, increasing to `dice:2d6|noform|noparens|avg` (`2d6`) at 10th level, `dice:3d6|noform|noparens|avg` (`3d6`) at 15th level, and `dice:4d6|noform|noparens|avg` (`4d6`) at 20th level.  
 
 - **Tundra**  
 

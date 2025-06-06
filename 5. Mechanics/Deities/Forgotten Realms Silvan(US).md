@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/nature
+alignment: Neutral
+domains: Nature
+pantheon: Forgotten Realms
+symbol: Oak leaf
 aliases:
   - Silvanus
 ---

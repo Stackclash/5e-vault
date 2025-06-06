@@ -6,6 +6,11 @@ tags:
   - deity/duergar
   - domain/death
   - domain/forge
+alignment: Lawful Evil
+domains: 'Death, Forge'
+pantheon: Duergar
+province: 'Labor, slavery'
+symbol: Broken arrow
 aliases:
   - Laduguer
 ---

@@ -9,7 +9,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Dream Catcher
-range: 5/15
+range: 5\15
+weight: 3
 ---
 # Dream Catcher
 *Weapon ([[5. Mechanics/Items/Net.md\|net]]), major, very rare*  
@@ -22,6 +23,6 @@ This circular net is stylized with large white feathers around its edge. Unlike 
 
 The net has 8 charges, which are represented by the number of feathers around the net. When you throw the net, you can speak its command word to expend up to 4 of its charges. If the net hits and restrains a creature, that creature is also affected by the [[5. Mechanics/Spells/Sleep.md\|sleep]] spell. The spell targets only the creature within the net, and its spell level is equal to the number of charges expended from the net when it was thrown. If a creature falls [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] as a result of this effect, it can't be woken up early until the net is removed.
 
-When you expend a charge, one of the feathers disappears in a dream-like cloud of smoke. The net regains `dice:1d8|noform|avg` (`1d8`) expended charges daily at dawn.
+When you expend a charge, one of the feathers disappears in a dream-like cloud of smoke. The net regains `dice:1d8|noform|noparens|avg` (`d8`) expended charges daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

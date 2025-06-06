@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Robe-of-the-Sunless.webp#right)  
 
 
-The folds of this robe are virtually undetectable, as any light that touches it is mysteriously absorbed. Whenever you take radiant damage while wearing this cloak, you can use your reaction to reduce that damage by `dice:1d10+10|noform|avg` (`1d10 + 10`). If you have the Sunlight Sensitivity trait, you are unaffected by that trait while wearing the robe.
+The folds of this robe are virtually undetectable, as any light that touches it is mysteriously absorbed. Whenever you take radiant damage while wearing this cloak, you can use your reaction to reduce that damage by `dice:1d10+10|noform|noparens|avg` (`1d10 + 10`). If you have the Sunlight Sensitivity trait, you are unaffected by that trait while wearing the robe.
 
 In addition, you can use an action to cast either the [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] or [[5. Mechanics/Spells/Unseen Servant.md\|unseen servant]] spell from the robe while wearing it. The unseen servant created by the robe appears as a shadowy figure in dim and bright light, but is [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] in darkness. The servant remains for the duration of the spell, until it's reduced to 0 hit points, or until the cloak is used to cast the spell again. If the servant is destroyed, the robe can't be used to cast the spell again until the next dusk. Once the robe is used to cast [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]], it can't do so again until the next dusk. Any spell cast from the robe ends early if you remove the robe.
 

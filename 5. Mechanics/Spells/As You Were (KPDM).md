@@ -11,21 +11,32 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/divine-soul
   - spell/subclass/eldritch-knight
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul)
+  - Wizard
 school: Necromancy
+level: 2
+ritual: false
 time: 1 minute
 duration: Instantaneous
-components: 'V, S, a piece of flesh from a creature of the target''s race'
+components:
+  - V
+  - S
+  - M
 aliases:
   - As You Were
+material: a piece of flesh from a creature of the target's race
 ---
 # As You Were
 *2nd-level, Necromancy*  
 
 - **Casting time:** 1 minute
 - **Range:** Touch
-- **Components:** V, S, a piece of flesh from a creature of the target's race
+- **Components:** V, S, M (a piece of flesh from a creature of the target's race)
 - **Duration:** Instantaneous
 
 When cast on a dead or undead body, this spell returns that creature to the appearance it had in life while it was healthy and uninjured. The target must have a physical body; the spell fails if the target is normally noncorporeal.
@@ -42,6 +53,6 @@ The effect lasts for a number of hours equal to your caster level. You can use a
 
 If this spell is cast on an undead creature that isn't your ally or under your control, it makes a Charisma saving throw to resist the effect.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 38*

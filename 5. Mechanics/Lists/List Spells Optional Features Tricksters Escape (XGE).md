@@ -10,4 +10,4 @@ aliases:
 
 ## 4th Level
 
-- [[Freedom Of Movement \|"PHB"]]
+- [[5. Mechanics/Spells/Freedom Of Movement.md \|"PHB"]]

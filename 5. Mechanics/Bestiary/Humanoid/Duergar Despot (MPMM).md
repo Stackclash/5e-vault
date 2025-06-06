@@ -15,7 +15,7 @@ tags:
 aliases:
   - Duergar Despot
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Duergar Despot (MPMM).md|Duergar Despot]]
+# [[5. Mechanics\Bestiary\Humanoid\Duergar Despot (MPMM).md|Duergar Despot]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 188*
 
 Duergar despots replace parts of their bodies with mechanical devices that they control through their psionic abilities.
@@ -50,17 +50,18 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "ac_class": "natural armor"
 "hp": !!int "119"
 "hit_dice": "14d8 + 56"
+"modifier": !!int "-3"
 "stats":
-- !!int "20"
-- !!int "5"
-- !!int "19"
-- !!int "15"
-- !!int "14"
-- !!int "13"
+  - !!int "20"
+  - !!int "5"
+  - !!int "19"
+  - !!int "15"
+  - !!int "14"
+  - !!int "13"
 "speed": "25 ft."
 "saves":
-  "Wisdom": !!int "6"
-  "Constitution": !!int "8"
+  - "constitution": "+8"
+  - "wisdom": "+6"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
@@ -69,44 +70,44 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "languages": "Dwarvish, Undercommon"
 "cr": "12"
 "traits":
-- "desc": "The duergar casts one of the following spells, requiring no spell components\
-    \ and using Intelligence as the spellcasting ability (spell save DC 12):\n\nAt\
-    \ will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
-    \n1/day: [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]]"
-  "name": "Spellcasting (Psionics)"
-- "desc": "The duergar has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- "desc": "When the duergar suffers a critical hit or is reduced to 0 hit points,\
-    \ psychic energy erupts from its frame to deal 14 (4d6) psychic damage to each\
-    \ creature within 5 feet of it."
-  "name": "Psychic Engine"
-- "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The duergar has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
+  - "desc": "When the duergar suffers a critical hit or is reduced to 0 hit points,\
+      \ psychic energy erupts from its frame to deal 14 (4d6) psychic damage to each\
+      \ creature within 5 feet of it."
+    "name": "Psychic Engine"
+  - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
+      \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
+      \ that rely on sight."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "The duergar makes two Iron Fist attacks and two Stomping Foot attacks.\
-    \ After one of the attacks, the duergar can move up to its speed without provoking\
-    \ [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack|opportunity attacks]]. It\
-    \ can replace one of the attacks with a use of Flame Jet."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 23 (4d8\
-    \ + 5) bludgeoning damage. If the target is a Large or smaller creature, it must\
-    \ succeed on a DC 17 Strength saving throw or be pushed up to 30 feet away in\
-    \ a straight line and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
-  "name": "Iron Fist"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10\
-    \ + 5) bludgeoning damage, or 21 (3d10 + 5) to a [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
-    \ target."
-  "name": "Stomping Foot"
-- "desc": "The duergar spews flames in a line 100 feet long and 5 feet wide. Each\
-    \ creature in the line must make a DC 16 Dexterity saving throw, taking 18 (4d8)\
-    \ fire damage on a failed save, or half as much damage on a successful one."
-  "name": "Flame Jet"
+  - "desc": "The duergar makes two Iron Fist attacks and two Stomping Foot attacks.\
+      \ After one of the attacks, the duergar can move up to its speed without provoking\
+      \ [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack|opportunity attacks]].\
+      \ It can replace one of the attacks with a use of Flame Jet."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 23\
+      \ (4d8 + 5) bludgeoning damage. If the target is a Large or smaller creature,\
+      \ it must succeed on a DC 17 Strength saving throw or be pushed up to 30 feet\
+      \ away in a straight line and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+    "name": "Iron Fist"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10\
+      \ (1d10 + 5) bludgeoning damage, or 21 (3d10 + 5) to a [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+      \ target."
+    "name": "Stomping Foot"
+  - "desc": "The duergar spews flames in a line 100 feet long and 5 feet wide. Each\
+      \ creature in the line must make a DC 16 Dexterity saving throw, taking 18 (4d8)\
+      \ fire damage on a failed save, or half as much damage on a successful one."
+    "name": "Flame Jet"
+  - "desc": "The duergar casts one of the following spells, requiring no spell components\
+      \ and using Intelligence as the spellcasting ability (spell save DC 12):\n\n\
+      At will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
+      \n1/day: [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]]"
+    "name": "Spellcasting (Psionics)"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Humanoid/token/duergar-despot-mpmm.webp"
 ```
 ^statblock

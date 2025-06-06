@@ -6,6 +6,10 @@ tags:
   - deity/forgotten-realms
   - domain/death
   - domain/trickery
+alignment: Neutral Evil
+domains: 'Death, Trickery'
+pantheon: Forgotten Realms
+symbol: Black disk encircled with a border
 aliases:
   - Shar
 ---

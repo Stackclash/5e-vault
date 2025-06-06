@@ -26,4 +26,4 @@ The region containing Graz'zt's lair is warped by his magic, creating one or mor
 - **Beguiling Realm.** Within 6 miles of the lair, all Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]]) checks have disadvantage, and all Charisma ([[/5. Mechanics/Rules/Skills.md#Deception|Deception]]) and Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]) checks have advantage.  
 - **Mirrors Everywhere.** Flat surfaces within 1 mile of the lair that are made of stone or metal become highly reflective, as though polished to a shine. These surfaces become supernaturally mirrorlike.  
 
-If Graz'zt dies, these effects fade over the course of `dice:1d10|noform|avg` (`1d10`) days.
+If Graz'zt dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`d10`) days.

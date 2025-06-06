@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Manual of Golems
+weight: 5
 ---
 # Manual of Golems
 *Wondrous item, major, very rare*  

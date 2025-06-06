@@ -25,7 +25,7 @@ You may spend your action and a number of charges to cast any of the following s
 
 ## Poison Mind
 
-You may use an action to expend 3 charges to target one creature you can see within 60 feet of you or expend 5 charges to target two creatures instead. Targeted creatures must succeed on a DC 19 Wisdom saving throw or take `dice:4d12|noform|avg` (`4d12`) necrotic damage and be [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] until the start of your next turn.
+You may use an action to expend 3 charges to target one creature you can see within 60 feet of you or expend 5 charges to target two creatures instead. Targeted creatures must succeed on a DC 19 Wisdom saving throw or take `dice:4d12|noform|noparens|avg` (`4d12`) necrotic damage and be [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] until the start of your next turn.
 
 ## Forgetfulness
 

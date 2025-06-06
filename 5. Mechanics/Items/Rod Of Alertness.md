@@ -9,6 +9,7 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Alertness
+weight: 2
 ---
 # Rod of Alertness
 *Rod, major, very rare (requires attunement)*  

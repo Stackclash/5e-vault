@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/saf
 aliases:
-  - 'Part 2: The Forest Rend'
+  - Part 2: The Forest Rend
 ---
 # Part 2: The Forest Rend
 *Source: The Siege of Castle Rend, p. 114* 

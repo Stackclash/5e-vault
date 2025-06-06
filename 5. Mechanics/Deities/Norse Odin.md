@@ -6,6 +6,10 @@ tags:
   - deity/norse
   - domain/knowledge
   - domain/war
+alignment: Neutral Good
+domains: 'Knowledge, War'
+pantheon: Norse
+symbol: Watching blue eye
 aliases:
   - Odin
 ---

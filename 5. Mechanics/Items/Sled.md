@@ -8,6 +8,7 @@ tags:
 aliases:
   - Sled
 cost: 2000
+weight: 300
 ---
 # Sled
 *Vehicle (land)*  

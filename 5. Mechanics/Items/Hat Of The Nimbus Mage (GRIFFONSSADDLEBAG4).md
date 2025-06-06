@@ -15,7 +15,7 @@ aliases:
 
 This twin-peaked wizard hat has thin, wispy clouds circling its mountainous spires. You can mentally command the clouds to look like different weather using an action.
 
-The hat has 7 charges and regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dawn. If you spend at least 1 hour in a naturally occurring fog bank, the hat regains all expended charges at the next dawn instead.
+The hat has 7 charges and regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you spend at least 1 hour in a naturally occurring fog bank, the hat regains all expended charges at the next dawn instead.
 
 ## Spells
 

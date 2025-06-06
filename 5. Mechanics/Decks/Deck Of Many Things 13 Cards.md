@@ -48,7 +48,7 @@ You gain 50,000 XP, and a wondrous item (which the DM determines randomly) appea
 
 ### Moon
 ![[5. Mechanics/Decks/img/deck-of-many-things-03-moon.webp#card]]
-You are granted the ability to cast the [[5. Mechanics/Spells/Wish.md\|wish]] spell `dice:1d3|noform|avg` (`1d3`) times.
+You are granted the ability to cast the [[5. Mechanics/Spells/Wish.md\|wish]] spell `dice:1d3|noform|noparens|avg` (`d3`) times.
 
 ### Star
 ![[5. Mechanics/Decks/img/deck-of-many-things-04-star.webp#card]]

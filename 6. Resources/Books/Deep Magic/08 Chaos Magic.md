@@ -80,7 +80,7 @@ The following spells are presented in alphabetical order.
 
 ## Chaos Magic Surges
 
-The use of chaos magic sometimes causes a chaos magic surge. This phenomenon is similar to the [[5. Mechanics/Tables/Wild Magic Surge.md\|wild magic surge]] caused by some [[5. Mechanics/Classes/Sorcerer Wild Magic.md\|sorcerers]]. When a chaos magic surge has a chance of occurring, the caster rolls a `dice:d20|noform|avg` (`d20`). On a 1, roll `dice:1d100|noform|avg|text()` (`1d100`) and consult the [[5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|Chaos Magic Surge]] table to determine the result.
+The use of chaos magic sometimes causes a chaos magic surge. This phenomenon is similar to the [[5. Mechanics/Tables/Wild Magic Surge (PHB).md\|wild magic surge]] caused by some [[5. Mechanics/Classes/Sorcerer.md\|sorcerers]]. When a chaos magic surge has a chance of occurring, the caster rolls a `dice:d20|noform|noparens|avg` (`d20`). On a 1, roll `dice:1d100|noform|noparens|avg` (`d100`) and consult the [[5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|Chaos Magic Surge]] table to determine the result.
 
 > [!embed-table]- Chaos Magic Surge
 > ![[5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|Chaos Magic Surge]]

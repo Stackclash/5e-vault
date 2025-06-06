@@ -9,13 +9,13 @@ tags:
 aliases:
   - Sling
 cost: 10
-one-hand-damage: 1d4 B
-range: 30/120
+one-hand-damage: 1d4 bludgeoning
+range: 30\120
 ---
 # Sling
 *Weapon*  
 
-- **Damage**: 1d4 B
+- **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]]
 - **Cost**: 1 sp

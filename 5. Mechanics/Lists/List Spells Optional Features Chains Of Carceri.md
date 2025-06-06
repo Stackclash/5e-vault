@@ -10,4 +10,4 @@ aliases:
 
 ## 5th Level
 
-- [[Hold Monster \|"PHB"]]
+- [[5. Mechanics/Spells/Hold Monster.md \|"PHB"]]

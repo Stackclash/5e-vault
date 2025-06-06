@@ -6,6 +6,12 @@ tags:
   - deity/dwarven
   - domain/forge
   - domain/light
+alignment: Neutral
+category: The Mordinsamman
+domains: 'Forge, Light'
+pantheon: Dwarven
+province: 'Fire, forges, molten rock'
+symbol: Fiery axe
 aliases:
   - Tharmekhûl
 ---

@@ -7,22 +7,29 @@ tags:
   - spell/class/ranger
   - spell/level/5th-level
   - spell/school/transmutation
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Ranger
 school: Transmutation
-time: 10 minute
-duration: 24 hour
-components: 'V, S, a game animal, which must be sacrificed as part of casting the spell'
+level: 5
+ritual: false
+time: 10 minutes
+duration: 24 hours
+components:
+  - V
+  - S
+  - M
 aliases:
   - Killing Fields
+material: 'a game animal, which must be sacrificed as part of casting the spell'
 ---
 # Killing Fields
 *5th-level, Transmutation*  
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** 300 feet
-- **Components:** V, S, a game animal, which must be sacrificed as part of casting the spell
-- **Duration:** 24 hour
+- **Components:** V, S, M (a game animal, which must be sacrificed as part of casting the spell)
+- **Duration:** 24 hours
 
 You invoke primal spirits of nature to transform natural terrain in a 100-foot cube in range into a private hunting preserve. The area can't include manufactured structures and if such a structure exists in the area, the spell ends.
 
@@ -34,12 +41,12 @@ This spell creates the following effects within the area:
 
 **Pack Hunters**. A helped creature has advantage on attack rolls against a hindered creature if at least one helped ally is within 5 feet of the hindered creature and the helped ally isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
 
-**Slaying**. Once per turn, when a helped creature hits with any weapon, the weapon deals an extra `dice:1d6|noform|avg` (`1d6`) damage of the same type dealt by its weapon to a hindered creature.
+**Slaying**. Once per turn, when a helped creature hits with any weapon, the weapon deals an extra `dice:1d6|noform|noparens|avg` (`d6`) damage of the same type dealt by its weapon to a hindered creature.
 
 **Tracking**. A helped creature has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) and Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks against a hindered creature.
 
 You can create a permanent *killing field* by casting this spell in the same location every day for one year. Structures built in the area after the killing field is permanent don't end the spell.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Ranger\|Ranger]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 88*

@@ -8,7 +8,7 @@ aliases:
   - Horizon Walker
 ---
 # Horizon Walker
-*[[Ranger.md\|Ranger]]: Ranger Archetype*  
+*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
 *Source: Xanathar's Guide to Everything p. 42*  
 
 > [!tldr] Class and Feature Progression
@@ -20,27 +20,32 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Horizon%20Walker%20(Level%203)'>Horizon Walker</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Horizon Walker (Level 3)' class='internal-link'>Horizon Walker</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Ethereal%20Step%20(Level%207)'>Ethereal Step</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Ethereal Step (Level 7)' class='internal-link'>Ethereal Step</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Distant%20Strike%20(Level%2011)'>Distant Strike</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Distant Strike (Level 11)' class='internal-link'>Distant Strike</a></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Spectral%20Defense%20(Level%2015)'>Spectral Defense</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Spectral Defense (Level 15)' class='internal-link'>Spectral Defense</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
 
+^class-progression
+
+
+> [!quote] A quote from Xanathar  
+> 
+> You can't walk to the horizon, because it keeps on getting farther away. Boom! Did I just blow your mind? I did, didn't I?
 
 ## Class Features
 
@@ -75,7 +80,7 @@ See the "Planar Travel" section in chapter 2 of the Dungeon Master's Guide for e
 
 At 3rd level, you learn to draw on the energy of the multiverse to augment your attacks.
 
-As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra `dice:1d8|noform|avg` (`1d8`) force damage from the attack. When you reach 11th level in this class, the extra damage increases to `dice:2d8|noform|avg` (`2d8`).
+As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra `dice:1d8|noform|noparens|avg` (`d8`) force damage from the attack. When you reach 11th level in this class, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Ethereal Step (Level 7)
 

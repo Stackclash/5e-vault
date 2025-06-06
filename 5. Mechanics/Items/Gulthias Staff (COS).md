@@ -8,20 +8,21 @@ tags:
   - item/weapon/simple
 aliases:
   - Gulthias Staff
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Gulthias Staff
 *Staff, weapon, rare (requires attunement)*  
 ![[5. Mechanics/Items/img/gulthias-staff.webp#right]]  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
-Made from the branch of a Gulthias tree (see the [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|blights]] entry of the Monster Manual), a Gulthias staff is a spongy, black length of wood. Its evil makes beasts visibly uncomfortable while within 30 feet of it. The staff has 10 charges and regains `dice:1d6+4|noform|avg` (`1d6 + 4`) of its expended charges daily at dusk.
+Made from the branch of a Gulthias tree (see the [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|blights]] entry of the Monster Manual), a Gulthias staff is a spongy, black length of wood. Its evil makes beasts visibly uncomfortable while within 30 feet of it. The staff has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) of its expended charges daily at dusk.
 
 If the staff is broken or burned to ashes, its wood releases a terrible, inhuman scream that can be heard out to a range of 300 feet. All blights that can hear the scream immediately wither and die.
 

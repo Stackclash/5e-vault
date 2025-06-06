@@ -75,6 +75,6 @@ aliases:
 When you roll a 20 with this magic weapon, the target takes an extra 7 damage of the weapon's type.
 
 > [!note]
-> Note: According to the SRD, it is an extra `dice:2d6|noform|avg` (`2d6`) damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
+> Note: According to the SRD, it is an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
 
 *Source: Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -6,6 +6,11 @@ tags:
   - deity/dragonlance
   - domain/forge
   - domain/knowledge
+alignment: Neutral
+category: The Gods of Neutrality
+domains: 'Forge, Knowledge'
+pantheon: Dragonlance
+symbol: Forging hammer
 aliases:
   - Reorx
 ---

@@ -10,23 +10,24 @@ tags:
   - item/weapon/melee
 aliases:
   - 'Hatred, the Wrathful Edge'
-one-hand-damage: 1d12 S
+one-hand-damage: 1d12 slashing
+weight: 7
 ---
 # Hatred, the Wrathful Edge
 *Weapon ([[5. Mechanics/Items/Greataxe.md\|greataxe]]), major, artifact (requires attunement by a creature the axe deems worthy)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hatred-The-Wrathful-Edge.webp#right)  
 
-- **Damage**: 1d12 S
+- **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 This black iron axe was forged in the scorching fires of the Magmarath Caldera and has been the decisive end for countless mortal souls. Used as the mark of a Tribunal in the caldera's city, the weapon is an embodiment of anger and spite, and has been enchanted with blood magic that bubbles to the surface each time it's used to end a life. Glimmering veins of lava flicker from its dark metal surface, and roiling, volcanic sparks trail behind it in its wake when swung.
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:2d6|noform|avg` (`2d6`) fire or lightning damage (your choice) to any target it hits. When you reduce a living creature to 0 hit points using this weapon, you gain a number of temporary hit points equal to the fire or lightning damage dealt as part of the attack.
+You gain a +3 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:2d6|noform|noparens|avg` (`2d6`) fire or lightning damage (your choice) to any target it hits. When you reduce a living creature to 0 hit points using this weapon, you gain a number of temporary hit points equal to the fire or lightning damage dealt as part of the attack.
 
 ## Explosive Rage
 
-If you're a barbarian, the first time you enter a rage after finishing a short or long rest, up to 6 creatures of your choice within 10 feet of you take `dice:4d6|noform|avg` (`4d6`) fire or lightning damage (your choice). In addition, while raging, any creature that touches you or hits you with a melee attack while within 5 feet of you takes `dice:1d6|noform|avg` (`1d6`) fire or lightning damage (your choice).
+If you're a barbarian, the first time you enter a rage after finishing a short or long rest, up to 6 creatures of your choice within 10 feet of you take `dice:4d6|noform|noparens|avg` (`4d6`) fire or lightning damage (your choice). In addition, while raging, any creature that touches you or hits you with a melee attack while within 5 feet of you takes `dice:1d6|noform|noparens|avg` (`d6`) fire or lightning damage (your choice).
 
 ## Fiendish Mind
 

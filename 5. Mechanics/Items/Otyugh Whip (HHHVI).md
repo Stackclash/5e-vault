@@ -8,12 +8,13 @@ tags:
   - item/weapon/melee
 aliases:
   - Otyugh Whip
-one-hand-damage: 1d4 S
+one-hand-damage: 1d4 slashing
+weight: 3
 ---
 # Otyugh Whip
 *Weapon ([[5. Mechanics/Items/Whip.md\|whip]]), rare*  
 
-- **Damage**: 1d4 S
+- **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
 

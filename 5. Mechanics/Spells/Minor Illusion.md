@@ -19,21 +19,34 @@ tags:
   - spell/subrace/elf-high
   - spell/subrace/gnome-forest
   - spell/subrace/tiefling-glasya
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Monk (Way of Shadow)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (School of Illusion)
 school: Illusion
-time: 1 action
+level: cantrip
+ritual: false
+time: 1 Action
 duration: 1 minute
-components: 'S, a bit of fleece'
+components:
+  - S
+  - M
 aliases:
   - Minor Illusion
+range: 30 feet
+material: A bit of fleece.
 ---
 # Minor Illusion
 *cantrip, Illusion*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
-- **Components:** S, a bit of fleece
+- **Components:** S, M (a bit of fleece)
 - **Duration:** 1 minute
 
 You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
@@ -44,6 +57,6 @@ If you create an image of an object—such as a chair, muddy footprints, or a sm
 
 If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Wizard School Of Illusion\|Wizard (School of Illusion)]]; [[List Spells Classes Monk Way Of Shadow\|Monk (Way of Shadow)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes School Of Illusion.md\|Wizard (School of Illusion)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Way Of Shadow.md\|Monk (Way of Shadow)]]
 
 *Source: Player's Handbook p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

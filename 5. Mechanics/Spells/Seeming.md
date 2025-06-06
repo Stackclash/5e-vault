@@ -11,22 +11,32 @@ tags:
   - spell/subclass/gloom-stalker
   - spell/subclass/the-archfey
   - spell/subclass/the-genie
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Ranger (Gloom Stalker)
+  - Sorcerer
+  - Warlock (The Archfey)
+  - Warlock (The Genie)
+  - Wizard
 school: Illusion
-time: 1 action
-duration: 8 hour
-components: 'V, S'
+level: 5
+ritual: false
+time: 1 Action
+duration: 8 hours
+components:
+  - V
+  - S
 aliases:
   - Seeming
+range: 30 feet
 ---
 # Seeming
 *5th-level, Illusion*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
-- **Duration:** 8 hour
+- **Duration:** 8 hours
 
 This spell allows you to change the appearance of any number of creatures that you can see within range. You give each target you choose a new, illusory appearance. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell.
 
@@ -36,6 +46,6 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 A creature can use its action to inspect a target and make an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Ranger Gloom Stalker (XGE)\|Ranger (Gloom Stalker)]]; [[List Spells Classes Warlock The Archfey\|Warlock (The Archfey)]]; [[List Spells Classes Warlock The Genie (TCE)\|Warlock (The Genie)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Warlock (The Genie)](compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Ranger (Gloom Stalker)](compendium/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]
 
 *Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -6,6 +6,10 @@ tags:
   - deity/faerunian
   - domain/death
   - domain/grave
+alignment: Lawful Neutral
+domains: 'Death, Grave'
+pantheon: Faerûnian
+symbol: Upright skeletal arm holding balanced scales
 aliases:
   - Kelemvor
   - The Lord of the Dead

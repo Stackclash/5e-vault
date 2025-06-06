@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Rope of Climbing
+weight: 3
 ---
 # Rope of Climbing
 *Wondrous item, minor, uncommon*  

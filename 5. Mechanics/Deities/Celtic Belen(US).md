@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/celtic
   - domain/light
+alignment: Neutral Good
+domains: Light
+pantheon: Celtic
+symbol: Solar disk and standing stones
 aliases:
   - Belenus
 ---

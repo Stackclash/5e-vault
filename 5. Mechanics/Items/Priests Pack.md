@@ -8,6 +8,7 @@ tags:
 aliases:
   - Priest's Pack
 cost: 1900
+weight: 24
 ---
 # Priest's Pack
 *Adventuring gear*  

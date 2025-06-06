@@ -8,6 +8,7 @@ tags:
 aliases:
   - Tinderbox
 cost: 50
+weight: 1
 ---
 # Tinderbox
 *Adventuring gear*  

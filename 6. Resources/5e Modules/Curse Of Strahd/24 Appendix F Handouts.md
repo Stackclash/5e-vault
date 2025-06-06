@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/cos
 aliases:
-  - 'Appendix F: Handouts'
+  - Appendix F: Handouts
 ---
 # Appendix F: Handouts
 *Source: Curse of Strahd, p. 251* 

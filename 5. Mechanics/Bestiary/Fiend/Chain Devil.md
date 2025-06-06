@@ -13,7 +13,7 @@ tags:
 aliases:
   - Chain Devil
 ---
-# [[5. Mechanics/Bestiary/Fiend/Chain Devil.md|Chain Devil]]
+# [[5. Mechanics\Bestiary\Fiend\Chain Devil.md|Chain Devil]]
 *Source: Monster Manual p. 72. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 This ominous fiend wears chains like a shroud. Driving lesser creatures before it with its fearsome gaze, a chain devil animates the chains that cover its body as well as inanimate chains nearby, which sprout hooks, blades, and spikes to eviscerate enemies.
@@ -131,11 +131,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > - A barbed devil has a 30 percent chance of summoning one barbed devil.  
 > - A bearded devil has a 30 percent chance of summoning one bearded devil.  
-> - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|avg` (`3d6`) spined devils, `dice:1d6|noform|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30 percent chance of summoning one horned devil.  
 > - An ice devil has a 60 percent chance of summoning one ice devil.  
-> - A pit fiend summons `dice:2d4|noform|avg` (`2d4`) bearded devils, `dice:1d4|noform|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -150,18 +150,19 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "ac_class": "natural armor"
 "hp": !!int "85"
 "hit_dice": "10d8 + 40"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "18"
-- !!int "11"
-- !!int "12"
-- !!int "14"
+  - !!int "18"
+  - !!int "15"
+  - !!int "18"
+  - !!int "11"
+  - !!int "12"
+  - !!int "14"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "7"
+  - "constitution": "+7"
+  - "wisdom": "+4"
+  - "charisma": "+5"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
@@ -170,39 +171,40 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "languages": "Infernal, telepathy 120 ft."
 "cr": "8"
 "traits":
-- "desc": "Magical darkness doesn't impede the devil's darkvision."
-  "name": "Devil's Sight"
-- "desc": "The devil has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
+  - "desc": "Magical darkness doesn't impede the devil's darkvision."
+    "name": "Devil's Sight"
+  - "desc": "The devil has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The devil makes two attacks with its chains."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 11 (2d6\
-    \ + 4) slashing damage. The target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ (escape DC 14) if the devil isn't already grappling a creature. Until this grapple\
-    \ ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
-    \ and takes 7 (2d6) piercing damage at the start of each of its turns."
-  "name": "Chain"
-- "desc": "Up to four chains the devil can see within 60 feet of it magically sprout\
-    \ razor-edged barbs and animate under the devil's control, provided that the chains\
-    \ aren't being worn or carried.\n\nEach animated chain is an object with AC 20,\
-    \ 20 hit points, resistance to piercing damage, and immunity to psychic and thunder\
-    \ damage. When the devil uses Multiattack on its turn, it can use each animated\
-    \ chain to make one additional chain attack. An animated chain can grapple one\
-    \ creature of its own but can't make attacks while grappling. An animated chain\
-    \ reverts to its inanimate state if reduced to 0 hit points or if the devil is\
-    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] or dies."
-  "name": "Animate Chains (Recharges after a Short or Long Rest)"
+  - "desc": "The devil makes two attacks with its chains."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 11\
+      \ (2d6 + 4) slashing damage. The target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ (escape DC 14) if the devil isn't already grappling a creature. Until this\
+      \ grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
+      \ and takes 7 (2d6) piercing damage at the start of each of its turns."
+    "name": "Chain"
+  - "desc": "Up to four chains the devil can see within 60 feet of it magically sprout\
+      \ razor-edged barbs and animate under the devil's control, provided that the\
+      \ chains aren't being worn or carried.\n\nEach animated chain is an object with\
+      \ AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic\
+      \ and thunder damage. When the devil uses Multiattack on its turn, it can use\
+      \ each animated chain to make one additional chain attack. An animated chain\
+      \ can grapple one creature of its own but can't make attacks while grappling.\
+      \ An animated chain reverts to its inanimate state if reduced to 0 hit points\
+      \ or if the devil is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
+      \ or dies."
+    "name": "Animate Chains (Recharges after a Short or Long Rest)"
 "reactions":
-- "desc": "When a creature the devil can see starts its turn within 30 feet of the\
-    \ devil, the devil can create the illusion that it looks like one of the creature's\
-    \ departed loved ones or bitter enemies. If the creature can see the devil, it\
-    \ must succeed on a DC 14 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-    \ until the end of its turn."
-  "name": "Unnerving Mask"
+  - "desc": "When a creature the devil can see starts its turn within 30 feet of the\
+      \ devil, the devil can create the illusion that it looks like one of the creature's\
+      \ departed loved ones or bitter enemies. If the creature can see the devil,\
+      \ it must succeed on a DC 14 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+      \ until the end of its turn."
+    "name": "Unnerving Mask"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Fiend/token/chain-devil.webp"
 ```
 ^statblock

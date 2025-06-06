@@ -8,7 +8,7 @@ aliases:
   - Way of Mercy
 ---
 # Way of Mercy
-*[[Monk.md\|Monk]]: Monastic Tradition*  
+*[[.nullMonk.md\|Monk]]: Monastic Tradition*  
 *Source: Tasha's Cauldron of Everything p. 49*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Way%20of%20Mercy%20(Level%203)'>Way of Mercy</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Way of Mercy (Level 3)' class='internal-link'>Way of Mercy</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Physician's%20Touch%20(Level%206)'>Physician's Touch</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Physician's Touch (Level 6)' class='internal-link'>Physician's Touch</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Flurry%20of%20Healing%20and%20Harm%20(Level%2011)'>Flurry of Healing and Harm</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Flurry of Healing and Harm (Level 11)' class='internal-link'>Flurry of Healing and Harm</a></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Hand%20of%20Ultimate%20Mercy%20(Level%2017)'>Hand of Ultimate Mercy</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Hand of Ultimate Mercy (Level 17)' class='internal-link'>Hand of Ultimate Mercy</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -110,6 +111,6 @@ In addition, when you make an unarmed strike with Flurry of Blows, you can use H
 
 *17th-level Way of Mercy feature*
 
-Your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of hit points equal to `dice:4d10|noform|avg` (`4d10`) + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]], and [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]].
+Your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of hit points equal to `dice:4d10|noform|noparens|avg` (`4d10`) + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]], and [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]].
 
 Once you use this feature, you can't use it again until you finish a long rest.

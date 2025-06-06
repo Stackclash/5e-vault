@@ -16,7 +16,7 @@ tags:
 aliases:
   - Stone Cursed
 ---
-# [[5. Mechanics/Bestiary/Construct/Stone Cursed (MPMM).md|Stone Cursed]]
+# [[5. Mechanics\Bestiary\Construct\Stone Cursed (MPMM).md|Stone Cursed]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 233, Mordenkainen's Tome of Foes p. 240*
 
 Stone cursed are spawned through a foul alchemical ritual performed on a Humanoid that has been turned to stone. The ritual, which requires a mixture of basilisk blood and the ashes from the burned feathers of a cockatrice, awakens a dim echo of the [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]] victim's spirit, animating the statue and turning it into a useful guardian.
@@ -38,13 +38,14 @@ Even though a creature transformed into a stone cursed is long dead, a vague whi
 "ac_class": "natural armor"
 "hp": !!int "19"
 "hit_dice": "3d8 + 6"
+"modifier": !!int "-3"
 "stats":
-- !!int "16"
-- !!int "5"
-- !!int "14"
-- !!int "5"
-- !!int "8"
-- !!int "7"
+  - !!int "16"
+  - !!int "5"
+  - !!int "14"
+  - !!int "5"
+  - !!int "8"
+  - !!int "7"
 "speed": "10 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
@@ -55,26 +56,26 @@ Even though a creature transformed into a stone cursed is long dead, a vague whi
 "languages": "the languages it knew in life"
 "cr": "1"
 "traits":
-- "desc": "The stone cursed has advantage on the attack rolls of [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack|opportunity attacks]]."
-  "name": "Cunning Opportunist"
-- "desc": "If the stone cursed is motionless at the start of combat, it has advantage\
-    \ on its initiative roll. Moreover, if a creature hasn't observed the stone cursed\
-    \ move or act, that creature must succeed on a DC 18 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]])\
-    \ check to discern that the stone cursed isn't a statue."
-  "name": "False Appearance"
-- "desc": "The stone cursed doesn't require air, food, drink, or sleep."
-  "name": "Unusual Nature"
+  - "desc": "The stone cursed has advantage on the attack rolls of [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack|opportunity attacks]]."
+    "name": "Cunning Opportunist"
+  - "desc": "If the stone cursed is motionless at the start of combat, it has advantage\
+      \ on its initiative roll. Moreover, if a creature hasn't observed the stone\
+      \ cursed move or act, that creature must succeed on a DC 18 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]])\
+      \ check to discern that the stone cursed isn't a statue."
+    "name": "False Appearance"
+  - "desc": "The stone cursed doesn't require air, food, drink, or sleep."
+    "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8\
-    \ + 3) slashing damage. If the target is a creature, it must succeed on a DC 12\
-    \ Constitution saving throw, or it begins to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
-    \ until the end of its next turn, when it must repeat the saving throw. The effect\
-    \ ends if the second save is successful; otherwise the target is [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]\
-    \ for 24 hours."
-  "name": "Petrifying Claws"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12\
+      \ (2d8 + 3) slashing damage. If the target is a creature, it must succeed on\
+      \ a DC 12 Constitution saving throw, or it begins to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
+      \ until the end of its next turn, when it must repeat the saving throw. The\
+      \ effect ends if the second save is successful; otherwise the target is [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]\
+      \ for 24 hours."
+    "name": "Petrifying Claws"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Construct/token/stone-cursed-mpmm.webp"
 ```
 ^statblock

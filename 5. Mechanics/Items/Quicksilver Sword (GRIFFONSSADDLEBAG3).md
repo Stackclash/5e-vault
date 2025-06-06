@@ -18,11 +18,11 @@ aliases:
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon, which has the finesse property. As the blade moves, its reflective surface shimmers like water on a mirror.
 
-The longsword deals an extra `dice:1d6|noform|avg` (`1d6`) poison damage to any creature hit by it. It transforms into a shortsword that doesn't deal extra poison damage as part of using either of the named properties below. Once a property has been used, it can't be used again until the next dawn.
+The longsword deals an extra `dice:1d6|noform|noparens|avg` (`d6`) poison damage to any creature hit by it. It transforms into a shortsword that doesn't deal extra poison damage as part of using either of the named properties below. Once a property has been used, it can't be used again until the next dawn.
 
 ## Silver Sickness
 
-When you hit a creature with the longsword, you can choose to transform the weapon into its shortsword form and leave some of its metal inside the wounded target. The creature must make a DC 16 Constitution saving throw. On a failed save, it takes `dice:3d6|noform|avg` (`3d6`) poison damage and is [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 minute. On a success, the creature takes half as much poison damage and isn't [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]]. While [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]], a creature takes `dice:1d6|noform|avg` (`1d6`) poison damage at the start of each of its turns. At the end of each of its turns, the creature can repeat the saving throw, ending the effect and expelling the leftover metal on a success.
+When you hit a creature with the longsword, you can choose to transform the weapon into its shortsword form and leave some of its metal inside the wounded target. The creature must make a DC 16 Constitution saving throw. On a failed save, it takes `dice:3d6|noform|noparens|avg` (`3d6`) poison damage and is [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 minute. On a success, the creature takes half as much poison damage and isn't [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]]. While [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]], a creature takes `dice:1d6|noform|noparens|avg` (`d6`) poison damage at the start of each of its turns. At the end of each of its turns, the creature can repeat the saving throw, ending the effect and expelling the leftover metal on a success.
 
 ## Toxic Armor
 

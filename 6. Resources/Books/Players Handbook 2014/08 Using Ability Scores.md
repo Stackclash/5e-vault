@@ -38,7 +38,7 @@ To determine an ability modifier without consulting the table, subtract 10 from 
 
 Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.
 
-![[5. Mechanics/Tables/Ability Scores And Modifiers.md\|Ability Scores and Modifiers]]
+![[5. Mechanics/Tables/Ability Scores And Modifiers (PHB).md\|Ability Scores and Modifiers]]
 
 ## Advantage and Disadvantage
 
@@ -70,7 +70,7 @@ An ability check tests a character's or monster's innate talent and training in 
 
 For every ability check, the DM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
-![[5. Mechanics/Tables/Ability Checks Typical Difficulty Classes.md\|Ability Checks; Typical Difficulty Classes]]
+![[5. Mechanics/Tables/Ability Checks Typical Difficulty Classes (PHB).md\|Ability Checks; Typical Difficulty Classes]]
 
 To make an ability check, roll a d20 and add the relevant ability modifier.
 
@@ -92,7 +92,7 @@ For example, a Dexterity check might reflect a character's attempt to pull off a
 
 The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability's description in the later sections of this chapter for examples of how to use a skill associated with an ability.
 
-![[5. Mechanics/Tables/Skills.md\|Skills]]
+![[5. Mechanics/Tables/Skills (PHB).md\|Skills]]
 
 Sometimes, the DM might ask for an ability check using a specific skill—for example, "Make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check." At other times, a player might ask the DM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
 

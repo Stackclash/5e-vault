@@ -9,6 +9,7 @@ tags:
 aliases:
   - Shield of Expression
 armorClass: 2
+weight: 6
 ---
 # Shield of Expression
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), minor, common*  

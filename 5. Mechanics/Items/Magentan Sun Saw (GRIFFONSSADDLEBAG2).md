@@ -9,13 +9,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Magentan Sun-Saw
-one-hand-damage: 1d6 S
+one-hand-damage: 1d6 slashing
+weight: 3
 ---
 # Magentan Sun-Saw
 *Weapon ([[5. Mechanics/Items/Scimitar.md\|scimitar]]), major*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Magentan-Sun-Saw.webp#right)  
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
 

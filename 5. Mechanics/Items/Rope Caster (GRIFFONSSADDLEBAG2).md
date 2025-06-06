@@ -9,7 +9,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Rope Caster
-range: 30/120
+range: 30\120
+weight: 3
 ---
 # Rope Caster
 *Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), minor, common*  

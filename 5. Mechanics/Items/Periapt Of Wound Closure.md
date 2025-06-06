@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Periapt of Wound Closure
+weight: 1
 ---
 # Periapt of Wound Closure
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -8,6 +8,7 @@ tags:
 aliases:
   - Arrows (20)
 cost: 100
+weight: 1
 ---
 # Arrows (20)
 *Ammunition*  

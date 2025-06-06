@@ -9,13 +9,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Moonfallen Maul
-one-hand-damage: 2d6 B
+one-hand-damage: 2d6 bludgeoning
+weight: 10
 ---
 # Moonfallen Maul
 *Weapon ([[5. Mechanics/Items/Maul.md\|maul]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Moonfallen-Maul.webp#right)  
 
-- **Damage**: 2d6 B
+- **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
 

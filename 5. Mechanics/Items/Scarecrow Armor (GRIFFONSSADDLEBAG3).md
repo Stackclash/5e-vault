@@ -10,6 +10,7 @@ tags:
 aliases:
   - Scarecrow Armor
 armorClass: 11 + Dex modifier
+weight: 8
 ---
 # Scarecrow Armor
 *Light armor ([[5. Mechanics/Items/Padded Armor.md\|padded armor]]), cursed item, major, very rare (requires attunement)*  

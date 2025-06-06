@@ -9,17 +9,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Axe of Essential Inversion
-one-hand-damage: 1d12 S
+one-hand-damage: 1d12 slashing
+weight: 7
 ---
 # Axe of Essential Inversion
 *Weapon ([[5. Mechanics/Items/Greataxe.md\|greataxe]]), legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Axe-of-Essential-Inversion.webp#right)  
 
-- **Damage**: 1d12 S
+- **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
-This axe's mighty twin blades are edged with ruby and sapphire. You gain a +2 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:1d12|noform|avg` (`1d12`) force damage to any celestial or fiend it hits.
+This axe's mighty twin blades are edged with ruby and sapphire. You gain a +2 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:1d12|noform|noparens|avg` (`d12`) force damage to any celestial or fiend it hits.
 
 ## Charges
 
@@ -31,7 +32,7 @@ When you make an attack with this weapon, you can expend 2 of its charges to emp
 
 ## Dilution
 
-When you hit a celestial or fiend with this weapon, you can expend 1 of its charges to deal an extra `dice:1d12|noform|avg` (`1d12`) force damage. When you do, the target's essence is diluted until the end of your next turn. For the duration, the target is considered to have no damage resistances, immunities, or vulnerabilities.
+When you hit a celestial or fiend with this weapon, you can expend 1 of its charges to deal an extra `dice:1d12|noform|noparens|avg` (`d12`) force damage. When you do, the target's essence is diluted until the end of your next turn. For the duration, the target is considered to have no damage resistances, immunities, or vulnerabilities.
 
 ## Inversion
 

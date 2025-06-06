@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/dwarven
   - domain/war
+alignment: Lawful Good
+category: The Mordinsamman
+domains: War
+pantheon: Dwarven
+province: 'War, strategy'
+symbol: Crossed silver battleaxes
 aliases:
   - Clangeddin Silverbeard
 ---

@@ -7,6 +7,7 @@ tags:
   - item/rarity/uncommon
 aliases:
   - +1 Dragon Arrow
+weight: 0.05
 ---
 # +1 Dragon Arrow
 *Ammunition ([[5. Mechanics/Items/Arrow.md\|arrow]]), uncommon*  
@@ -14,7 +15,7 @@ aliases:
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 0.05 lbs.
 
-You have a +1 bonus to your attack and damage rolls made with this arrow corresponding to its rarity. When you make a successful hit with this arrow, you also deal an additional `dice:1d8|noform|avg` (`1d8`) damage of the type corresponding to the damage type this arrow was crafted from. You also have advantage on attacks made with this ammunition against any targets with the dragon creature type.
+You have a +1 bonus to your attack and damage rolls made with this arrow corresponding to its rarity. When you make a successful hit with this arrow, you also deal an additional `dice:1d8|noform|noparens|avg` (`d8`) damage of the type corresponding to the damage type this arrow was crafted from. You also have advantage on attacks made with this ammunition against any targets with the dragon creature type.
 
 When used in a successful attack, there is a 30 percent chance that this arrow loses all magical properties and becomes a normal arrow.
 

@@ -9,16 +9,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of the Reverent Warrior
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Staff of the Reverent Warrior
 *Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Staff-of-the-Reverent-Warrior.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
@@ -29,8 +30,8 @@ This staff has 10 charges. While attuned to the staff, you know the [[5. Mechani
 - You can expend 1 charge to reveal the target's weaknesses to your allies instead of merely yourself, causing the next attack roll made against the target to have advantage instead.  
 - You can expend 1 charge to cast the spell as a bonus action, instead of as an action.  
 - You can expend 1 charge to cast the spell without it requiring concentration.  
-- You can expend 1 charge to cause the target to take an extra `dice:2d6|noform|avg` (`2d6`) damage from the next attack that hits it.  
+- You can expend 1 charge to cause the target to take an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage from the next attack that hits it.  
 
-The staff regains `dice:1d6+4|noform|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the staff becomes a nonmagical quarterstaff, but can still be used to deal either bludgeoning, piercing, or slashing damage with its attacks.
+The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff becomes a nonmagical quarterstaff, but can still be used to deal either bludgeoning, piercing, or slashing damage with its attacks.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 124*

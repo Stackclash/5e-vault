@@ -14,7 +14,7 @@ tags:
 aliases:
   - Beholder Zombie
 ---
-# [[5. Mechanics/Bestiary/Undead/Beholder Zombie.md|Beholder Zombie]]
+# [[5. Mechanics\Bestiary\Undead\Beholder Zombie.md|Beholder Zombie]]
 *Source: Monster Manual p. 316, Vecna: Eve of Ruin*
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
@@ -55,51 +55,52 @@ A zombie doesn't require air, food, drink, or sleep.
 "ac_class": "natural armor"
 "hp": !!int "93"
 "hit_dice": "11d10 + 33"
+"modifier": !!int "-1"
 "stats":
-- !!int "10"
-- !!int "8"
-- !!int "16"
-- !!int "3"
-- !!int "8"
-- !!int "5"
+  - !!int "10"
+  - !!int "8"
+  - !!int "16"
+  - !!int "3"
+  - !!int "8"
+  - !!int "5"
 "speed": "0 ft., fly 20 ft. (hover)"
 "saves":
-  "Wisdom": !!int "2"
+  - "wisdom": "+2"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Deep Speech and Undercommon but can't speak"
 "cr": "5"
 "traits":
-- "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
-    \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
-    \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
-  "name": "Undead Fortitude"
+  - "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
+      \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
+      \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
+    "name": "Undead Fortitude"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 14 (4d6)\
-    \ piercing damage."
-  "name": "Bite"
-- "desc": "The zombie uses a random magical eye ray, choosing a target that it can\
-    \ see within 60 feet of it.\n\n- 1. Paralyzing Ray. The targeted creature\
-    \ must succeed on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
-    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success.  \n- 2. Fear Ray. The targeted\
-    \ creature must succeed on a DC 14 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success.  \n- 3. Enervation Ray.\
-    \ The targeted creature must make a DC 14 Constitution saving throw, taking 36\
-    \ (8d8) necrotic damage on a failed save, or half as much damage on a successful\
-    \ one.  \n- 4. Disintegration Ray. If the target is a creature, it must succeed\
-    \ on a DC 14 Dexterity saving throw or take 45 (10d8) force damage. If this damage\
-    \ reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.\
-    \  \n\n    If the target is a Large or smaller nonmagical object or creation of\
-    \ magical force, it is disintegrated without a saving throw. If the target is\
-    \ a Huge or larger nonmagical object or creation of magical force, this ray disintegrates\
-    \ a 10-foot cube of it.  "
-  "name": "Eye Ray"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 14\
+      \ (4d6) piercing damage."
+    "name": "Bite"
+  - "desc": "The zombie uses a random magical eye ray, choosing a target that it can\
+      \ see within 60 feet of it.\n\n- 1. Paralyzing Ray. The targeted creature\
+      \ must succeed on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success.  \n- 2. Fear Ray.\
+      \ The targeted creature must succeed on a DC 14 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success.  \n- 3. Enervation\
+      \ Ray. The targeted creature must make a DC 14 Constitution saving throw,\
+      \ taking 36 (8d8) necrotic damage on a failed save, or half as much damage on\
+      \ a successful one.  \n- 4. Disintegration Ray. If the target is a creature,\
+      \ it must succeed on a DC 14 Dexterity saving throw or take 45 (10d8) force\
+      \ damage. If this damage reduces the creature to 0 hit points, its body becomes\
+      \ a pile of fine gray dust.  \n\n    If the target is a Large or smaller nonmagical\
+      \ object or creation of magical force, it is disintegrated without a saving\
+      \ throw. If the target is a Huge or larger nonmagical object or creation of\
+      \ magical force, this ray disintegrates a 10-foot cube of it.  "
+    "name": "Eye Ray"
 "source":
-- "MM"
-- "VEoR"
+  - "MM"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/beholder-zombie.webp"
 ```
 ^statblock

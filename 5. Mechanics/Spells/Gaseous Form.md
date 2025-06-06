@@ -18,21 +18,40 @@ tags:
   - spell/subclass/ocean-domain
   - spell/subclass/swarmkeeper
   - spell/subclass/void-domain
-level: 3rd-level
-range: false
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Cleric (Ocean Domain)
+  - Cleric (Void Domain)
+  - Druid (Circle of Spores)
+  - Druid (Circle of the Land)
+  - Fighter (Eldritch Knight)
+  - Ranger (Swarmkeeper)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, a bit of gauze and a wisp of smoke'
+level: 3
+ritual: false
+time: 1 Action
+duration: Up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Gaseous Form
+range: Touch
+material: A bit of gauze and a wisp of smoke.
+concentration: true
 ---
 # Gaseous Form
 *3rd-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, a bit of gauze and a wisp of smoke
+- **Components:** V, S, M (a bit of gauze and a wisp of smoke)
 - **Duration:** Concentration, up to 1 hour
 
 You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points. An incorporeal creature isn't affected.
@@ -41,6 +60,6 @@ While in this form, the target's only method of movement is a flying speed of 10
 
 While in the form of a misty cloud, the target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. The target can't attack or cast spells.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Artificer Alchemist (TCE)\|Artificer (Alchemist)]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of Spores (TCE)\|Druid (Circle of Spores)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Ocean Domain (KPDM)\|Cleric (Ocean Domain)]]; [[List Spells Classes Ranger Swarmkeeper (TCE)\|Ranger (Swarmkeeper)]]; [[List Spells Classes Cleric Void Domain (KPDM)\|Cleric (Void Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Ranger (Swarmkeeper)](compendium/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE"); [Cleric (Ocean Domain)](compendium/lists/list-spells-classes-ocean-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Druid (Circle of Spores)](compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Void Domain)](compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Artificer (Alchemist)](compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE")
 
 *Source: Player's Handbook p. 244. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

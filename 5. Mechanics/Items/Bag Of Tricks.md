@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Bag of Tricks
+weight: 0.5
 ---
 # Bag of Tricks
 *Wondrous item, major, uncommon*  

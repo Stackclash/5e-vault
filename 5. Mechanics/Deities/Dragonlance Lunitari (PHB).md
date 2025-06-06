@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/dragonlance
   - domain/arcana
+alignment: Neutral
+category: The Gods of Neutrality
+domains: Arcana
+pantheon: Dragonlance
+symbol: Red circle or sphere
 aliases:
   - Lunitari
 ---

@@ -8,6 +8,7 @@ tags:
 aliases:
   - Gold (gp)
 cost: 100
+weight: 0.02
 ---
 # Gold (gp)
 *Treasure (coinage)*  

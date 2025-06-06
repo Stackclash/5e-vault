@@ -11,19 +11,29 @@ tags:
   - spell/school/evocation
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Evocation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 2
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Blessed Halo
+concentration: true
 ---
 # Blessed Halo
 *2nd-level, Evocation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -38,6 +48,6 @@ If any of the light created by this spell overlaps an area of magical darkness c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the spell's pool of healing points increases by 5 for each spell slot above 2nd, and the spell dispels magical darkness created by a spell of a level equal to the slot used to cast this spell.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 175*

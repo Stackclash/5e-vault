@@ -4,6 +4,7 @@ cssclasses: json5e-hazard
 tags:
   - compendium/src/5e/xge
   - hazard/smpl
+hazardType: Generic Hazard
 aliases:
   - Pit Trap
 ---

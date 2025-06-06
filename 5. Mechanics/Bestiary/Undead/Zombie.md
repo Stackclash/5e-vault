@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: urban
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Zombie
 ---
-# [[5. Mechanics/Bestiary/Undead/Zombie.md|Zombie]]
+# [[5. Mechanics\Bestiary\Undead\Zombie.md|Zombie]]
 *Source: Monster Manual p. 316, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
@@ -54,35 +54,36 @@ A zombie doesn't require air, food, drink, or sleep.
 "ac": !!int "8"
 "hp": !!int "22"
 "hit_dice": "3d8 + 9"
+"modifier": !!int "-2"
 "stats":
-- !!int "13"
-- !!int "6"
-- !!int "16"
-- !!int "3"
-- !!int "6"
-- !!int "5"
+  - !!int "13"
+  - !!int "6"
+  - !!int "16"
+  - !!int "3"
+  - !!int "6"
+  - !!int "5"
 "speed": "20 ft."
 "saves":
-  "Wisdom": !!int "0"
+  - "wisdom": "+0"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands all languages it spoke in life but can't speak"
 "cr": "1/4"
 "traits":
-- "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
-    \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
-    \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
-  "name": "Undead Fortitude"
+  - "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
+      \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
+      \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
+    "name": "Undead Fortitude"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
-    \ + 1) bludgeoning damage."
-  "name": "Slam"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+      \ + 1) bludgeoning damage."
+    "name": "Slam"
 "source":
-- "MM"
-- "CoS"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/zombie.webp"
 ```
 ^statblock

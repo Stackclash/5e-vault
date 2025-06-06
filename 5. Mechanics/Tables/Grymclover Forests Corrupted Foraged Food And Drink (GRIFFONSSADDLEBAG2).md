@@ -15,7 +15,7 @@ The adverse effects that cause a grymclover forest to emerge provide additional 
 
 | dice: d6 | Setback |
 |----------|---------|
-| 1 | The creature is [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for `dice:3d4\|noform\|avg` (`3d4`) hours, even if they would normally be immune to the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition. |
+| 1 | The creature is [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for `dice:3d4\|noform\|noparens\|avg` (`3d4`) hours, even if they would normally be immune to the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition. |
 | 2–5 | The creature is [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 hour, even if they would normally be immune to the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition. |
 | 6 | The creature gains no beneficial effects from the food or water but suffers no other ill effects. |
 ^setback

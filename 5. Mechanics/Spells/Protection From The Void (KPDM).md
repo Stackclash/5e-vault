@@ -8,25 +8,34 @@ tags:
   - spell/level/1st-level
   - spell/school/abjuration
   - spell/subclass/void-domain
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Cleric (Void Domain)
+  - Wizard
 school: Abjuration
-time: 1 action
-duration: 'Concentration, up to 10 minute'
-components: 'V, S, a small bar of silver worth 15 sp, which the spell consumes'
+level: 1
+ritual: false
+time: 1 Action
+duration: up to 10 minutes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Protection from the Void
+concentration: true
+material: 'a small bar of silver worth 15 sp, which the spell consumes'
 ---
 # Protection from the Void
 *1st-level, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, a small bar of silver worth 15 sp, which the spell consumes
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a small bar of silver worth 15 sp, which the spell consumes)
+- **Duration:** Concentration, up to 10 minutes
 
 Until the spell ends, one willing creature you touch has resistance to necrotic and psychic damage, and has advantage on saving throws against Void spells.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Cleric Void Domain (KPDM)\|Cleric (Void Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Void Domain)](compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 332*

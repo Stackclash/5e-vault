@@ -9,6 +9,7 @@ tags:
   - item/tier/major
 aliases:
   - Pearl of Wisdom Quiver
+weight: 2
 ---
 # Pearl of Wisdom Quiver
 *Wondrous item, adventuring gear, major, rare (requires attunement)*  

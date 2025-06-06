@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wraiths-Circlet.webp#right)  
 
 
-While wearing this dark silver circlet in dim light or darkness, a smoky mantle of shadow covers your head like a dark hood. While covered in this way, you can move through creatures as if they were difficult terrain, regardless of their size, and you have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks. If you end your turn in another creature's space, you are shunted to the last unoccupied space you occupied, and you take `dice:1d10|noform|avg` (`1d10`) force damage.
+While wearing this dark silver circlet in dim light or darkness, a smoky mantle of shadow covers your head like a dark hood. While covered in this way, you can move through creatures as if they were difficult terrain, regardless of their size, and you have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks. If you end your turn in another creature's space, you are shunted to the last unoccupied space you occupied, and you take `dice:1d10|noform|noparens|avg` (`d10`) force damage.
 
 ## Wraith's Ensemble
 

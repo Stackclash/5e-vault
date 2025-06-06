@@ -19,7 +19,7 @@ tags:
 aliases:
   - Orog
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Orog.md|Orog]]
+# [[5. Mechanics\Bestiary\Humanoid\Orog.md|Orog]]
 *Source: Monster Manual p. 247*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -82,35 +82,38 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 "ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]]"
 "hp": !!int "42"
 "hit_dice": "5d8 + 20"
+"modifier": !!int "1"
 "stats":
-- !!int "18"
-- !!int "12"
-- !!int "18"
-- !!int "12"
-- !!int "11"
-- !!int "12"
+  - !!int "18"
+  - !!int "12"
+  - !!int "18"
+  - !!int "12"
+  - !!int "11"
+  - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Intimidation": !!int "5"
-  "Survival": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
+    "desc": "+5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
+    "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Orc"
 "cr": "2"
 "traits":
-- "desc": "As a bonus action, the orog can move up to its speed toward a hostile creature\
-    \ that it can see."
-  "name": "Aggressive"
+  - "desc": "As a bonus action, the orog can move up to its speed toward a hostile\
+      \ creature that it can see."
+    "name": "Aggressive"
 "actions":
-- "desc": "The orog makes two greataxe attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12\
-    \ + 4) slashing damage."
-  "name": "Greataxe"
-- "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120\
-    \ ft., one target. Hit: 7 (1d6 + 4) piercing damage."
-  "name": "Javelin"
+  - "desc": "The orog makes two greataxe attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10\
+      \ (1d12 + 4) slashing damage."
+    "name": "Greataxe"
+  - "desc": "Melee  or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. Hit: 7 (1d6 + 4) piercing damage."
+    "name": "Javelin"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/orog.webp"
 ```
 ^statblock

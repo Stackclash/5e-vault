@@ -6,6 +6,10 @@ tags:
   - deity/forgotten-realms
   - domain/life
   - domain/light
+alignment: Chaotic Good
+domains: 'Life, Light'
+pantheon: Forgotten Realms
+symbol: Face of a beautiful red-haired woman
 aliases:
   - Sune
 ---

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Fire Giant
 ---
-# [[5. Mechanics/Bestiary/Giant/Fire Giant.md|Fire Giant]]
+# [[5. Mechanics\Bestiary\Giant\Fire Giant.md|Fire Giant]]
 *Source: Monster Manual p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.
@@ -95,36 +95,39 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]]"
 "hp": !!int "162"
 "hit_dice": "13d12 + 78"
+"modifier": !!int "-1"
 "stats":
-- !!int "25"
-- !!int "9"
-- !!int "23"
-- !!int "10"
-- !!int "14"
-- !!int "13"
+  - !!int "25"
+  - !!int "9"
+  - !!int "23"
+  - !!int "10"
+  - !!int "14"
+  - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "3"
-  "Constitution": !!int "10"
+  - "dexterity": "+3"
+  - "constitution": "+10"
+  - "charisma": "+5"
 "skillsaves":
-  "Athletics": !!int "11"
-  "Perception": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
+    "desc": "+11"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+6"
 "damage_immunities": "fire"
 "senses": "passive Perception 16"
 "languages": "Giant"
 "cr": "9"
 "actions":
-- "desc": "The giant makes two greatsword attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 28\
-    \ (6d6 + 7) slashing damage."
-  "name": "Greatsword"
-- "desc": "Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit:\
-    \ 29 (4d10 + 7) bludgeoning damage."
-  "name": "Rock"
+  - "desc": "The giant makes two greatsword attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 28\
+      \ (6d6 + 7) slashing damage."
+    "name": "Greatsword"
+  - "desc": "Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit:\
+      \ 29 (4d10 + 7) bludgeoning damage."
+    "name": "Rock"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Giant/token/fire-giant.webp"
 ```
 ^statblock

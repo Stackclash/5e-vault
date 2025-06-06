@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/dwarven
   - domain/life
+alignment: Chaotic Good
+category: The Mordinsamman
+domains: Life
+pantheon: Dwarven
+province: 'Healing, love'
+symbol: Burning needle
 aliases:
   - Sharindlar
 ---

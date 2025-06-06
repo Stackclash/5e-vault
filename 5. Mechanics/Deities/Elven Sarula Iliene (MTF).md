@@ -6,6 +6,12 @@ tags:
   - deity/elven
   - domain/tempest
   - domain/trickery
+alignment: Chaotic Good
+category: The Seldarine
+domains: 'Tempest, Trickery'
+pantheon: Elven
+province: 'Lakes, streams'
+symbol: Three lines symbolizing waves
 aliases:
   - Sarula Iliene
 ---

@@ -8,6 +8,7 @@ tags:
 aliases:
   - Sling Bullets (20)
 cost: 4
+weight: 1.5
 ---
 # Sling Bullets (20)
 *Ammunition*  

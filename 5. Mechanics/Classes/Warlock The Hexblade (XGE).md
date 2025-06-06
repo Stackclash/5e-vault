@@ -8,7 +8,7 @@ aliases:
   - The Hexblade
 ---
 # The Hexblade
-*[[Warlock.md\|Warlock]]: Otherworldly Patron*  
+*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Xanathar's Guide to Everything p. 55*  
 
 > [!tldr] Class and Feature Progression
@@ -18,20 +18,20 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#The%20Hexblade%20(Level%201)'>The Hexblade</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#The Hexblade (Level 1)' class='internal-link'>The Hexblade</a></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Accursed%20Specter%20(Level%206)'>Accursed Specter</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Accursed Specter (Level 6)' class='internal-link'>Accursed Specter</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Armor%20of%20Hexes%20(Level%2010)'>Armor of Hexes</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Armor of Hexes (Level 10)' class='internal-link'>Armor of Hexes</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Master%20of%20Hexes%20(Level%2014)'>Master of Hexes</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Master of Hexes (Level 14)' class='internal-link'>Master of Hexes</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,8 +39,13 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
 
+^class-progression
+
+
+> [!quote] A quote from Xanathar  
+> 
+> Hexblade. What a cool name! So is your sword evil or cursed or something? But you're evil, right?... Okay, now I don't like the name. Names aren't cool if they don't make sense. Like mine: The Xanathar. See? It's cool, and it makes sense!
 
 ## Class Features
 
@@ -71,7 +76,7 @@ The Hexblade lets you choose from an expanded list of spells when you learn a wa
 Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. Until the curse ends, you gain the following benefits:
 
 - You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.  
-- Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the `dice:d20|noform|avg` (`d20`).  
+- Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the `dice:d20|noform|noparens|avg` (`d20`).  
 - If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier (minimum of 1 hit point).  
 
 You can't use this feature again until you finish a short or long rest.
@@ -92,7 +97,7 @@ Once you bind a specter with this feature, you can't use the feature again until
 
 ### Armor of Hexes (Level 10)
 
-At 10th level, your hex grows more powerful. If the target cursed by your Hexblade's Curse hits you with an attack roll, you can use your reaction to roll a `dice:d6|noform|avg` (`d6`). On a 4 or higher, the attack instead misses you, regardless of its roll.
+At 10th level, your hex grows more powerful. If the target cursed by your Hexblade's Curse hits you with an attack roll, you can use your reaction to roll a `dice:d6|noform|noparens|avg` (`d6`). On a 4 or higher, the attack instead misses you, regardless of its roll.
 
 ### Master of Hexes (Level 14)
 

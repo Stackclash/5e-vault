@@ -27,4 +27,4 @@ The region containing Baphomet's lair is warped by his magic, creating one or mo
 - **Hedge Mazes.** Plant life within 1 mile of the lair grows thick and forms walls of trees, hedges, and other flora in the form of small mazes.  
 - **Panicked Beasts.** Beasts within 1 mile of the lair become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.  
 
-If Baphomet dies, these effects fade over the course of `dice:1d10|noform|avg` (`1d10`) days.
+If Baphomet dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`d10`) days.

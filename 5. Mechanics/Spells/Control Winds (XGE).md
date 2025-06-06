@@ -9,19 +9,27 @@ tags:
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/transmutation
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S'
+level: 5
+ritual: false
+time: 1 Action
+duration: up to 1 hour
+components:
+  - V
+  - S
 aliases:
   - Control Winds
+concentration: true
 ---
 # Control Winds
 *5th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 300 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
@@ -42,6 +50,6 @@ You cause a sustained updraft within the cube, rising upward from the cube's bot
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Xanathar's Guide to Everything p. 152*

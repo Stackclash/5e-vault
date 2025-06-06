@@ -8,6 +8,7 @@ tags:
 aliases:
   - Lute
 cost: 3500
+weight: 2
 ---
 # Lute
 *Instrument*  

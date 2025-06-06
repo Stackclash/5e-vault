@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/dmg
 aliases:
-  - 'Appendix A: Random Dungeons'
+  - Appendix A: Random Dungeons
 ---
 # Appendix A: Random Dungeons
 *Source: Dungeon Master's Guide (2014), p. 290* 
@@ -27,7 +27,7 @@ Once you've selected the entrance, roll on the appropriate table for each passag
 
 When generating passages and corridors, roll on the Passage table multiple times, extending the length and branches of any open passage on the map until you arrive at a door or chamber.
 
-Whenever you create a new passage, roll to determine its width. If the passage branches from another passage, roll a `dice:d12|noform|avg` (`d12`) on the Passage Width table. If it comes from a chamber, roll a `dice:d20|noform|avg` (`d20`) on that table, but the width of the passage must be at least 5 feet smaller than the longest dimension of the chamber.
+Whenever you create a new passage, roll to determine its width. If the passage branches from another passage, roll a `dice:d12|noform|noparens|avg` (`d12`) on the Passage Width table. If it comes from a chamber, roll a `dice:d20|noform|noparens|avg` (`d20`) on that table, but the width of the passage must be at least 5 feet smaller than the longest dimension of the chamber.
 
 ![[5. Mechanics/Tables/Passages Passage.md\|Passages; Passage]]
 

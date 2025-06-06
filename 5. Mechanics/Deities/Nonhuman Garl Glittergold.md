@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/nonhuman
   - domain/trickery
+alignment: Lawful Good
+domains: Trickery
+pantheon: Nonhuman
+symbol: Gold nugget
 aliases:
   - Garl Glittergold
 ---

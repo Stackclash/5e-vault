@@ -8,7 +8,7 @@ aliases:
   - Dragon Mage
 ---
 # Dragon Mage
-*[[Wizard.md\|Wizard]]: Arcane Tradition*  
+*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 205*  
 
 > [!tldr] Class and Feature Progression
@@ -19,19 +19,19 @@ aliases:
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Dragon%20Mage%20(Level%202)'>Dragon Mage</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Dragon Mage (Level 2)' class='internal-link'>Dragon Mage</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Invoke%20Dragon%20Heart%20(Level%206)'>Invoke Dragon Heart</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Invoke Dragon Heart (Level 6)' class='internal-link'>Invoke Dragon Heart</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Invoke%20Dragon%20Wings%20(Level%2010)'>Invoke Dragon Wings</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Invoke Dragon Wings (Level 10)' class='internal-link'>Invoke Dragon Wings</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Invoke%20Dragon%20Tail%20(Level%2014)'>Invoke Dragon Tail</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Invoke Dragon Tail (Level 14)' class='internal-link'>Invoke Dragon Tail</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -54,7 +55,7 @@ Dragon mages manifest their magic in a variety of styles, as diverse as the kind
 
 ***How to Start:*** If you're a [[5. Mechanics/Classes/Wizard.md\|wizard]] who wants to become a dragon mage, you make that decision upon reaching 2nd level, when you are also entitled to choose an arcane tradition. If you decide to follow the path of the dragon mage exclusively, you can forego the selection of an arcane tradition and gain the features of the dragon mage specialty instead.
 
-You can also pursue the dragon mage specialty in conjunction with one of the standard arcane traditions. If you choose to do this, you gain the Savant feature of your chosen school in addition to [Dragon Magic Savant](compendium/classes/wizard-dragon-mage-kpdm.md#Dragon%20Magic%20Savant%20(Level%202)). Also at 2nd level, you choose whether to gain [Invoke Dragon Mask](compendium/classes/wizard-dragon-mage-kpdm.md#Invoke%20Dragon%20Mask%20(Level%202)) or the 2nd-level feature of your chosen school. Thereafter, at 6th, 10th, and 14th level, you choose between the lowest-level features still available. For instance, an [[5. Mechanics/Classes/Wizard School Of Enchantment.md\|enchanter]] might select [Hypnotic Gaze](compendium/classes/wizard-school-of-enchantment.md#Hypnotic%20Gaze%20(Level%202)) at 2nd level and [Invoke Dragon Mask](compendium/classes/wizard-dragon-mage-kpdm.md#Invoke%20Dragon%20Mask%20(Level%202)) at 6th level, followed by either [Instinctive Charm](compendium/classes/wizard-school-of-enchantment.md#Instinctive%20Charm%20(Level%206)) or [Invoke Dragon Heart](compendium/classes/wizard-dragon-mage-kpdm.md#Invoke%20Dragon%20Heart%20(Level%206)) at 10th level.
+You can also pursue the dragon mage specialty in conjunction with one of the standard arcane traditions. If you choose to do this, you gain the Savant feature of your chosen school in addition to [Dragon Magic Savant](compendium/classes/wizard-dragon-mage-kpdm.md#Dragon%20Magic%20Savant%20(Level%202)). Also at 2nd level, you choose whether to gain [Invoke Dragon Mask](compendium/classes/wizard-dragon-mage-kpdm.md#Invoke%20Dragon%20Mask%20(Level%202)) or the 2nd-level feature of your chosen school. Thereafter, at 6th, 10th, and 14th level, you choose between the lowest-level features still available. For instance, an [[5. Mechanics/Classes/Wizard.md\|enchanter]] might select [Hypnotic Gaze](compendium/classes/wizard-school-of-enchantment.md#Hypnotic%20Gaze%20(Level%202)) at 2nd level and [Invoke Dragon Mask](compendium/classes/wizard-dragon-mage-kpdm.md#Invoke%20Dragon%20Mask%20(Level%202)) at 6th level, followed by either [Instinctive Charm](compendium/classes/wizard-school-of-enchantment.md#Instinctive%20Charm%20(Level%206)) or [Invoke Dragon Heart](compendium/classes/wizard-dragon-mage-kpdm.md#Invoke%20Dragon%20Heart%20(Level%206)) at 10th level.
 
 ### Dragon Magic Savant (Level 2)
 
@@ -67,10 +68,10 @@ Starting at 2nd level, you can invoke a magic Dragon mask. You use a bonus actio
 While you wear your Dragon mask, you receive the following benefits and drawbacks:
 
 - You have a bonus to your AC equal to your Intelligence modifier (minimum of +1).  
-- You gain a bite attack. As an action, make a melee spell attack against one adjacent target. On a hit, the target takes piercing damage equal to `dice:1d8|noform|avg` (`1d8`) + your Intelligence modifier. This attack counts as magical for the purpose of overcoming a target's immunity or resistance to piecing damage.  
+- You gain a bite attack. As an action, make a melee spell attack against one adjacent target. On a hit, the target takes piercing damage equal to `dice:1d8|noform|noparens|avg` (`d8`) + your Intelligence modifier. This attack counts as magical for the purpose of overcoming a target's immunity or resistance to piecing damage.  
 - You have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks and Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) checks.  
 - Attack rolls for any ranged or melee attack spells you cast while wearing the mask are made with disadvantage, and saving throws against spells you cast while wearing the mask are made with advantage.  
-- As a bonus action, you can expend an additional spell slot to augment the damage of your next Dragon mask bite attack. The damage increases by `dice:1d8|noform|avg` (`1d8`) for each level of the expended spell slot, and you have advantage on the attack roll.  
+- As a bonus action, you can expend an additional spell slot to augment the damage of your next Dragon mask bite attack. The damage increases by `dice:1d8|noform|noparens|avg` (`d8`) for each level of the expended spell slot, and you have advantage on the attack roll.  
 
 ### Invoke Dragon Heart (Level 6)
 
@@ -80,8 +81,8 @@ While you wear your Dragon heart, you receive the following benefits:
 
 - You have a bonus to Wisdom and Charisma saving throws equal to your Intelligence modifier (minimum of +1).  
 - You gain temporary hit points equal to twice your wizard level. These temporary hit points are lost when your heart is no longer active.  
-- You gain a breath weapon attack. You can use an action to shoot a 30-foot-long, 5-foot-wide line of energy (dealing your choice of acid, cold, fire, or lightning damage) from your Dragon heart in a direction you choose. Each creature in the line must make a successful Dexterity saving throw or take `dice:4d6|noform|avg` (`4d6`) damage of the chosen type. The damage type cannot be changed while your current Dragon heart is active.  
-- As a bonus action, you can expend an additional spell slot to augment the damage of your next Dragon heart breath weapon attack. The damage increases by `dice:2d6|noform|avg` (`2d6`) for each level of the expended spell slot, and you can add 10 feet of length to the line for each level of the expended spell slot.  
+- You gain a breath weapon attack. You can use an action to shoot a 30-foot-long, 5-foot-wide line of energy (dealing your choice of acid, cold, fire, or lightning damage) from your Dragon heart in a direction you choose. Each creature in the line must make a successful Dexterity saving throw or take `dice:4d6|noform|noparens|avg` (`4d6`) damage of the chosen type. The damage type cannot be changed while your current Dragon heart is active.  
+- As a bonus action, you can expend an additional spell slot to augment the damage of your next Dragon heart breath weapon attack. The damage increases by `dice:2d6|noform|noparens|avg` (`2d6`) for each level of the expended spell slot, and you can add 10 feet of length to the line for each level of the expended spell slot.  
 
 ### Invoke Dragon Wings (Level 10)
 
@@ -103,6 +104,6 @@ While you wear your Dragon tail, you receive the following benefits.
 - You are immune to the [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] condition.  
 - You are have proficiency with Strength and Dexterity saving throws and any ability checks using Strength.  
 - In addition, you can use your Intelligence modifier instead of the normal modifier for those saving throws and checks.  
-- You gain a tail slam attack. As an action, you make a separate melee spell attack against each target within 15 feet of you. On a hit, the target takes bludgeoning damage equal to `dice:3d10|noform|avg` (`3d10`) + your Intelligence modifier. A creature hit by this attack is pushed up to 10 feet away from you and knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] unless it succeeds on a Strength saving throw against your spell save DC. This attack counts as magical for the purpose of overcoming a target's immunity or resistance to bludgeoning damage.  
+- You gain a tail slam attack. As an action, you make a separate melee spell attack against each target within 15 feet of you. On a hit, the target takes bludgeoning damage equal to `dice:3d10|noform|noparens|avg` (`3d10`) + your Intelligence modifier. A creature hit by this attack is pushed up to 10 feet away from you and knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] unless it succeeds on a Strength saving throw against your spell save DC. This attack counts as magical for the purpose of overcoming a target's immunity or resistance to bludgeoning damage.  
 - As a reaction, you can make a tail slam attack against a creature that moves to within 15 feet of your tail.  
-- As a bonus action, you can spend an additional spell slot to augment your Dragon tail. Until the start of your next turn, your Dragon tail's slam attack damage increases by `dice:1d10|noform|avg` (`1d10`) per level of the spell slot spent. In addition, you heal yourself for 3 hit points per level of the spell slot spent.
+- As a bonus action, you can spend an additional spell slot to augment your Dragon tail. Until the start of your next turn, your Dragon tail's slam attack damage increases by `dice:1d10|noform|noparens|avg` (`d10`) per level of the spell slot spent. In addition, you heal yourself for 3 hit points per level of the spell slot spent.

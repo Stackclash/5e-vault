@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/veor
 aliases:
-  - 'Chapter 9: The Betrayer Revealed'
+  - Chapter 9: The Betrayer Revealed
 ---
 # Chapter 9: The Betrayer Revealed
 *Source: Vecna: Eve of Ruin* 
@@ -180,7 +180,7 @@ The characters emerge on a shelf of a massive cliff. This shelf is 150 feet abov
 
 In the north section of Pandesmos Outlook are five geysers that periodically spew boiling water tainted with the plane's inherent chaos.
 
-If the characters haven't already rolled initiative, have them roll initiative when a character first moves within 30 feet of a geyser. On initiative count 20 (losing initiative ties), one of the five geysers erupts; you choose which geyser. When a geyser erupts, all creatures within 5 feet of the geyser must make a DC 18 Dexterity saving throw, taking `dice:8d10|noform|avg|text(44)` (`8d10`) force damage on a failed save or half as much damage on a successful one.
+If the characters haven't already rolled initiative, have them roll initiative when a character first moves within 30 feet of a geyser. On initiative count 20 (losing initiative ties), one of the five geysers erupts; you choose which geyser. When a geyser erupts, all creatures within 5 feet of the geyser must make a DC 18 Dexterity saving throw, taking `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) force damage on a failed save or half as much damage on a successful one.
 
 #### Lighting
 

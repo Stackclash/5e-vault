@@ -6,6 +6,10 @@ tags:
   - deity/greyhawk
   - domain/knowledge
   - domain/peace
+alignment: Lawful Good
+domains: 'Knowledge, Peace'
+pantheon: Greyhawk
+symbol: White heart
 aliases:
   - Rao
 ---

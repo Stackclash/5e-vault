@@ -13,25 +13,34 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
   - spell/subrace/elf-high
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Divination
-time: 1 action
-duration: 'Concentration, up to 1 round'
-components: S
+level: cantrip
+ritual: false
+time: 1 Action
+duration: up to 1 round
+components:
+  - S
 aliases:
   - Uncanny Avoidance
+concentration: true
 ---
 # Uncanny Avoidance
 *cantrip, Divination*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** S
 - **Duration:** Concentration, up to 1 round
 
 You extend a hand and point a finger at a creature within range. Your magic grants the target enhanced awareness of attacks directed at it. The next attack roll against the creature before the spell ends is made with disadvantage.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 118*

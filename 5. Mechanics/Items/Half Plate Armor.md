@@ -9,6 +9,7 @@ aliases:
   - Half Plate Armor
 cost: 75000
 armorClass: 15 + Dex modifier (max of +2)
+weight: 40
 ---
 # Half Plate Armor
 *Medium armor*  

@@ -8,7 +8,7 @@ aliases:
   - Way of the Sun Soul
 ---
 # Way of the Sun Soul
-*[[Monk.md\|Monk]]: Monastic Tradition*  
+*[[.nullMonk.md\|Monk]]: Monastic Tradition*  
 *Source: Xanathar's Guide to Everything p. 35*  
 
 > [!tldr] Class and Feature Progression
@@ -20,27 +20,32 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Way%20of%20the%20Sun%20Soul%20(Level%203)'>Way of the Sun Soul</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Way of the Sun Soul (Level 3)' class='internal-link'>Way of the Sun Soul</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Searing%20Arc%20Strike%20(Level%206)'>Searing Arc Strike</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Searing Arc Strike (Level 6)' class='internal-link'>Searing Arc Strike</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Searing%20Sunburst%20(Level%2011)'>Searing Sunburst</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Searing Sunburst (Level 11)' class='internal-link'>Searing Sunburst</a></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Sun%20Shield%20(Level%2017)'>Sun Shield</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Sun Shield (Level 17)' class='internal-link'>Sun Shield</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
 
+^class-progression
+
+
+> [!quote] A quote from Xanathar  
+> 
+> So you have this soul, but you can't see it or touch it. And when you die, this invisible thing leaves your body and goes to a place you can't see. And you people think I'm crazy?
 
 ## Class Features
 
@@ -52,7 +57,7 @@ Monks of the Way of the Sun Soul learn to channel their life energy into searing
 
 Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.
 
-You gain a new attack option that you can use with the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action. The special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a `dice:d4|noform|avg` (`d4`). This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
+You gain a new attack option that you can use with the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action. The special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a `dice:d4|noform|noparens|avg` (`d4`). This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
 
 When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action. When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action.
 
@@ -66,9 +71,9 @@ You can spend additional ki points to cast [[5. Mechanics/Spells/Burning Hands.m
 
 At 11th level, you gain the ability to create an orb of light that erupts into a devastating explosion. As an action, you magically create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of radiant light for a brief but deadly instant.
 
-Each creature in that 20-foot-radius sphere must succeed on a Constitution saving throw or take `dice:2d6|noform|avg` (`2d6`) radiant damage. A creature doesn't need to make the save if the creature is behind total cover that is opaque.
+Each creature in that 20-foot-radius sphere must succeed on a Constitution saving throw or take `dice:2d6|noform|noparens|avg` (`2d6`) radiant damage. A creature doesn't need to make the save if the creature is behind total cover that is opaque.
 
-You can increase the sphere's damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by `dice:2d6|noform|avg` (`2d6`).
+You can increase the sphere's damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by `dice:2d6|noform|noparens|avg` (`2d6`).
 
 ### Sun Shield (Level 17)
 

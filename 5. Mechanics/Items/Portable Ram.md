@@ -8,6 +8,7 @@ tags:
 aliases:
   - Portable Ram
 cost: 400
+weight: 35
 ---
 # Portable Ram
 *Adventuring gear*  

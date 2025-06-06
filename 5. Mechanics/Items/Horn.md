@@ -8,6 +8,7 @@ tags:
 aliases:
   - Horn
 cost: 300
+weight: 2
 ---
 # Horn
 *Instrument*  

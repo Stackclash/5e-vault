@@ -24,7 +24,7 @@ Because of your wings, you have a flying speed equal to your walking speed. You 
 
 ### Talons
 
-You have talons that you can use to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|avg` (`1d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
+You have talons that you can use to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|noparens|avg` (`d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Wind Caller
 

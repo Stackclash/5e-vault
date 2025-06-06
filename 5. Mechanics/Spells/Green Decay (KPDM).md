@@ -7,19 +7,24 @@ tags:
   - spell/level/4th-level
   - spell/ritual
   - spell/school/necromancy
-level: 4th-level
-range: true
+classes:
+  - Bard
 school: Necromancy
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S'
+level: 4
+ritual: true
+time: 1 Action
+duration: up to 1 hour
+components:
+  - V
+  - S
 aliases:
   - Green Decay
+concentration: true
 ---
 # Green Decay
 *4th-level, Necromancy (ritual)*  
 
-- **Casting time:** 1 action unless cast as a ritual
+- **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
@@ -28,8 +33,8 @@ Your touch inflicts a nauseating, alien rot. Make a melee spell attack against a
 
 You lose concentration on this spell if you can't see the target at the end of your turn.
 
-**Green Decay.** The flesh of a creature that has this disease is slowly consumed by a virulent extraterrestrial fungus. While the disease persists, the creature has disadvantage on Charisma and Wisdom checks and on Wisdom saving throws, and it has vulnerability to acid, fire, and necrotic damage. An affected creature must make a Constitution saving throw at the end of each of its turns. On a failed save, the creature takes `dice:1d6|noform|avg` (`1d6`) necrotic damage, and its hit point maximum is reduced by an amount equal to the necrotic damage taken. If the creature gets three successes on these saving throws before it gets three failures, the disease ends immediately (but the damage and the hit point maximum reduction remain in effect). If the creature gets three failures on these saving throws before it gets three successes, the disease lasts for the duration of the spell, and no further saving throws are allowed.
+**Green Decay.** The flesh of a creature that has this disease is slowly consumed by a virulent extraterrestrial fungus. While the disease persists, the creature has disadvantage on Charisma and Wisdom checks and on Wisdom saving throws, and it has vulnerability to acid, fire, and necrotic damage. An affected creature must make a Constitution saving throw at the end of each of its turns. On a failed save, the creature takes `dice:1d6|noform|noparens|avg` (`d6`) necrotic damage, and its hit point maximum is reduced by an amount equal to the necrotic damage taken. If the creature gets three successes on these saving throws before it gets three failures, the disease ends immediately (but the damage and the hit point maximum reduction remain in effect). If the creature gets three failures on these saving throws before it gets three successes, the disease lasts for the duration of the spell, and no further saving throws are allowed.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 339*

@@ -9,6 +9,7 @@ aliases:
   - Hide Armor
 cost: 1000
 armorClass: 12 + Dex modifier (max of +2)
+weight: 12
 ---
 # Hide Armor
 *Medium armor*  

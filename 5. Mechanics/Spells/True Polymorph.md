@@ -8,21 +8,31 @@ tags:
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/transmutation
-level: 9th-level
-range: false
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, a drop of mercury, a dollop of gum arabic, and a wisp of smoke'
+level: 9
+ritual: false
+time: 1 Action
+duration: Up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - True Polymorph
+range: 30 feet
+material: 'A drop of mercury, a dollop of gum arabic, and a wisp of smoke.'
+concentration: true
 ---
 # True Polymorph
 *9th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
-- **Components:** V, S, a drop of mercury, a dollop of gum arabic, and a wisp of smoke
+- **Components:** V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)
 - **Duration:** Concentration, up to 1 hour
 
 Choose one creature or nonmagical object that you can see within range. You transform the creature into a different creature, the creature into a nonmagical object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for the duration, or until the target drops to 0 hit points or dies. If you concentrate on this spell for the full duration, the transformation lasts until it is dispelled.
@@ -51,6 +61,6 @@ If you turn a creature into an object, it transforms along with whatever it is w
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

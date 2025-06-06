@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Eversmoking Bottle
+weight: 1
 ---
 # Eversmoking Bottle
 *Wondrous item, major, uncommon*  

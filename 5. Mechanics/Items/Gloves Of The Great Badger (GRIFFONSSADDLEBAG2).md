@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Gloves-of-the-Great-Badger.webp#right)  
 
 
-This pair of fingerless gloves is decorated with badgerlike stripes and fitted with razor-sharp claws. While wearing the gloves, your unarmed strikes with them deal slashing damage equal to `dice:1d4|noform|avg` (`1d4`) + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. In addition, you gain a burrowing speed of 5 feet.
+This pair of fingerless gloves is decorated with badgerlike stripes and fitted with razor-sharp claws. While wearing the gloves, your unarmed strikes with them deal slashing damage equal to `dice:1d4|noform|noparens|avg` (`d4`) + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. In addition, you gain a burrowing speed of 5 feet.
 
 While wearing the gloves, you can use a bonus action to invoke the might of a giant badger, granting the following benefits for 1 minute:
 

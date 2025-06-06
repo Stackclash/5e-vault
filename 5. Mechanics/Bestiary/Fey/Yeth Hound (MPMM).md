@@ -16,7 +16,7 @@ tags:
 aliases:
   - Yeth Hound
 ---
-# [[5. Mechanics/Bestiary/Fey/Yeth Hound (MPMM).md|Yeth Hound]]
+# [[5. Mechanics\Bestiary\Fey\Yeth Hound (MPMM).md|Yeth Hound]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 271, Volo's Guide to Monsters p. 201*
 
 Granted by mighty Fey to individuals who please them, yeth hounds serve their masters like hunting dogs. They race in pursuit of their prey, running it down until it's too exhausted to fight back. Only the threat of dawn drives the pack back into hiding.
@@ -32,16 +32,18 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
 "ac_class": "natural armor"
 "hp": !!int "51"
 "hit_dice": "6d10 + 18"
+"modifier": !!int "3"
 "stats":
-- !!int "18"
-- !!int "17"
-- !!int "16"
-- !!int "5"
-- !!int "12"
-- !!int "7"
+  - !!int "18"
+  - !!int "17"
+  - !!int "16"
+  - !!int "5"
+  - !!int "12"
+  - !!int "7"
 "speed": "40 ft., fly 40 ft. (hover)"
 "skillsaves":
-  "Perception": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+5"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks not\
   \ made with silvered weapons"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -50,37 +52,37 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
 "languages": "understands Common, Elvish and Sylvan but can't speak"
 "cr": "4"
 "traits":
-- "desc": "If the yeth hound starts its turn in sunlight, it is transported to the\
-    \ Ethereal Plane. While sunlight shines on the spot from which it vanished, the\
-    \ hound must remain in the Deep Ethereal. After sunset, it returns to the Border\
-    \ Ethereal at the same spot, whereupon it typically sets out to find its pack\
-    \ or its master. The hound is visible on the Material Plane while it is in the\
-    \ Border Ethereal, and vice versa, but it can't affect or be affected by anything\
-    \ on the other plane. Once it is adjacent to its master or a pack mate that is\
-    \ on the Material Plane, a yeth hound in the Border Ethereal can return to the\
-    \ Material Plane as an action."
-  "name": "Sunlight Banishment"
-- "desc": "While the yeth hound is on the same plane of existence as its master, it\
-    \ can magically convey what it senses to its master, and the two can communicate\
-    \ telepathically with each other."
-  "name": "Telepathic Bond"
+  - "desc": "If the yeth hound starts its turn in sunlight, it is transported to the\
+      \ Ethereal Plane. While sunlight shines on the spot from which it vanished,\
+      \ the hound must remain in the Deep Ethereal. After sunset, it returns to the\
+      \ Border Ethereal at the same spot, whereupon it typically sets out to find\
+      \ its pack or its master. The hound is visible on the Material Plane while it\
+      \ is in the Border Ethereal, and vice versa, but it can't affect or be affected\
+      \ by anything on the other plane. Once it is adjacent to its master or a pack\
+      \ mate that is on the Material Plane, a yeth hound in the Border Ethereal can\
+      \ return to the Material Plane as an action."
+    "name": "Sunlight Banishment"
+  - "desc": "While the yeth hound is on the same plane of existence as its master,\
+      \ it can magically convey what it senses to its master, and the two can communicate\
+      \ telepathically with each other."
+    "name": "Telepathic Bond"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6\
-    \ + 4) piercing damage, plus 14 (4d6) psychic damage if the target is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]."
-  "name": "Bite"
-- "desc": "The yeth hound bays magically. Every enemy within 300 feet of the hound\
-    \ that can hear it must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-    \ of the hound until the end of the hound's next turn or until the hound is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]].\
-    \ A [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] target that starts\
-    \ its turn within 30 feet of the hound must use all its movement on that turn\
-    \ to get as far from the hound as possible, must finish the move before taking\
-    \ an action, and must take the most direct route, even if hazards lie that way.\
-    \ A target that successfully saves is immune to the baying of all yeth hounds\
-    \ for the next 24 hours."
-  "name": "Baleful Baying"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
+      \ (2d6 + 4) piercing damage, plus 14 (4d6) psychic damage if the target is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]."
+    "name": "Bite"
+  - "desc": "The yeth hound bays magically. Every enemy within 300 feet of the hound\
+      \ that can hear it must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+      \ of the hound until the end of the hound's next turn or until the hound is\
+      \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]. A [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+      \ target that starts its turn within 30 feet of the hound must use all its movement\
+      \ on that turn to get as far from the hound as possible, must finish the move\
+      \ before taking an action, and must take the most direct route, even if hazards\
+      \ lie that way. A target that successfully saves is immune to the baying of\
+      \ all yeth hounds for the next 24 hours."
+    "name": "Baleful Baying"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Fey/token/yeth-hound-mpmm.webp"
 ```
 ^statblock

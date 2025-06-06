@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/xge
 aliases:
-  - 'Downtime Activity: Training'
+  - Downtime Activity: Training
 ---
 # Downtime Activity: Training
 *Source: Xanathar's Guide to Everything p. 134* 

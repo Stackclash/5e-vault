@@ -10,16 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of the Whirling Wyrm
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Staff of the Whirling Wyrm
 *Weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon (requires attunement by a monk)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Staff-of-the-Whirling-Wyrm.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 

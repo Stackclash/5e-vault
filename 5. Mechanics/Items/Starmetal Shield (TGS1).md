@@ -10,6 +10,7 @@ tags:
 aliases:
   - Starmetal Shield
 armorClass: 2
+weight: 6
 ---
 # Starmetal Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, legendary (requires attunement)*  
@@ -24,6 +25,6 @@ This open metal shield and gauntlet offer a +1 bonus to your armor class instead
 
 As an action, you can throw the shield at up to 3 clustered targets you can see before returning to your arm. Choose up to 3 targets or points. The first target or point must be within 30 feet of you, and any additional targets or points must be within 10 feet of the one before it. You can't select the same target more than once.
 
-Make a ranged attack with the shield against each target. You are proficient with these attacks and add either your Dexterity or Strength modifier to its attack and damage rolls. Targets hit by the attack take `dice:2d8|noform|avg` (`2d8`) magical slashing damage. Once the shield reaches a target or point, it bounces towards the next target or point. The shield flies back to the gauntlet after reaching its final destination, bouncing harmlessly off of anything obstructing its path.
+Make a ranged attack with the shield against each target. You are proficient with these attacks and add either your Dexterity or Strength modifier to its attack and damage rolls. Targets hit by the attack take `dice:2d8|noform|noparens|avg` (`2d8`) magical slashing damage. Once the shield reaches a target or point, it bounces towards the next target or point. The shield flies back to the gauntlet after reaching its final destination, bouncing harmlessly off of anything obstructing its path.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 125*

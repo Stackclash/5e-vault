@@ -8,7 +8,7 @@ aliases:
   - Necrophage
 ---
 # Necrophage
-*[[Wizard.md\|Wizard]]: Arcane Tradition*  
+*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 345*  
 
 > [!tldr] Class and Feature Progression
@@ -19,19 +19,19 @@ aliases:
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Necrophage%20(Level%202)'>Necrophage</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Necrophage (Level 2)' class='internal-link'>Necrophage</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Memory%20of%20Flesh%20(Level%206)'>Memory of Flesh</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Memory of Flesh (Level 6)' class='internal-link'>Memory of Flesh</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Fruit%20of%20the%20Mind%20(Level%2010)'>Fruit of the Mind</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Fruit of the Mind (Level 10)' class='internal-link'>Fruit of the Mind</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Feed%20on%20Life%20(Level%2014)'>Feed on Life</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Feed on Life (Level 14)' class='internal-link'>Feed on Life</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -52,7 +53,7 @@ The practice of necrophagy is similar to that of Necromancy, but with a more hor
 
 Adherents of this specialty claim that it is the origin of all necromancy magic and necrotic energy. They view the Negative Plane as a cosmic necrophage all its own, devouring all matter, energy, and life and replacing it with necrotic energy and undead.
 
-Except as noted, necrophages function as [[5. Mechanics/Classes/Wizard School Of Necromancy.md\|necromancers]] and use the wizard spell list. Instead of gaining the corresponding features of the [[5. Mechanics/Classes/Wizard School Of Necromancy.md\|School of Necromancy]], a necrophage has the features described below.
+Except as noted, necrophages function as [[5. Mechanics/Classes/Wizard.md\|necromancers]] and use the wizard spell list. Instead of gaining the corresponding features of the [[5. Mechanics/Classes/Wizard.md\|School of Necromancy]], a necrophage has the features described below.
 
 ### Undead Familiar (Level 2)
 

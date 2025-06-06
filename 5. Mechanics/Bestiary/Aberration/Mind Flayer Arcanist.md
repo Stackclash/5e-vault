@@ -14,7 +14,7 @@ tags:
 aliases:
   - Mind Flayer Arcanist
 ---
-# [[5. Mechanics/Bestiary/Aberration/Mind Flayer Arcanist.md|Mind Flayer Arcanist]]
+# [[5. Mechanics\Bestiary\Aberration\Mind Flayer Arcanist.md|Mind Flayer Arcanist]]
 *Source: Monster Manual p. 222*
 
 A few mind flayers supplement their psionic power with arcane spells. However, they are regarded as deviants by their illithid peers and usually shunned.
@@ -55,73 +55,80 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 "ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
+"modifier": !!int "1"
 "stats":
-- !!int "11"
-- !!int "12"
-- !!int "12"
-- !!int "19"
-- !!int "17"
-- !!int "17"
+  - !!int "11"
+  - !!int "12"
+  - !!int "12"
+  - !!int "19"
+  - !!int "17"
+  - !!int "17"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "7"
+  - "intelligence": "+7"
+  - "wisdom": "+6"
+  - "charisma": "+6"
 "skillsaves":
-  "Deception": !!int "6"
-  "Stealth": !!int "4"
-  "Insight": !!int "6"
-  "Perception": !!int "6"
-  "Arcana": !!int "7"
-  "Persuasion": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "8"
 "traits":
-- "desc": "The mind flayer's innate spellcasting ability is Intelligence (spell save\
-    \ DC 15). It can innately cast the following spells, requiring no components:\n\
-    \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Levitate.md|levitate]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Plane Shift.md|plane\
-    \ shift]] (self only)"
-  "name": "Innate Spellcasting (Psionics)"
-- "desc": "The mind flayer is a 10th-level spellcaster. Its spellcasting ability is\
-    \ Intelligence (save DC 15, +7 to hit with spell attacks). The mind flayer has\
-    \ the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Blade Ward.md|blade ward]],\
-    \ [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\n\n1st level (4 slots):\
-    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
-    \ [[5. Mechanics/Spells/Shield.md|shield]], [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-    \ [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]]\n\n3rd level\
-    \ (3 slots): [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
-    \ [[5. Mechanics/Spells/Sending.md|sending]]\n\n4th level (3 slots): [[5. Mechanics/Spells/Confusion.md|confusion]],\
-    \ [[5. Mechanics/Spells/Hallucinatory Terrain.md|hallucinatory terrain]]\n\n5th\
-    \ level (2 slots): [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Wall Of Force.md|wall of\
-    \ force]]"
-  "name": "Spellcasting"
-- "desc": "The mind flayer has advantage on saving throws against spells and other\
-    \ magical effects."
-  "name": "Magic Resistance"
+  - "desc": "The mind flayer is a 10th-level spellcaster. Its spellcasting ability\
+      \ is Intelligence (save DC 15, +7 to hit with spell attacks). The mind flayer\
+      \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Blade Ward.md|blade\
+      \ ward]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+      \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\n\
+      \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Shield.md|shield]],\
+      \ [[5. Mechanics/Spells/Sleep.md|sleep]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Blur.md|blur]],\
+      \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]]\n\
+      \n3rd level (3 slots): [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]],\
+      \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Sending.md|sending]]\n\
+      \n4th level (3 slots): [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Hallucinatory Terrain.md|hallucinatory\
+      \ terrain]]\n\n5th level (2 slots):\
+      \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
+    "name": "Spellcasting"
+  - "desc": "The mind flayer's innate spellcasting ability is Intelligence (spell\
+      \ save DC 15). It can innately cast the following spells, requiring no components:\n\
+      \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Levitate.md|levitate]]\n\
+      \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]],\
+      \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only)"
+    "name": "Innate Spellcasting (Psionics)"
+  - "desc": "The mind flayer has advantage on saving throws against spells and other\
+      \ magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 15\
-    \ (2d10 + 4) psychic damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
-    \ until this grapple ends."
-  "name": "Tentacles"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
-    \ humanoid [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] by the mind flayer.\
-    \ Hit: The target takes 55 (10d10) piercing damage. If this damage reduces the\
-    \ target to 0 hit points, the mind flayer kills the target by extracting and devouring\
-    \ its brain."
-  "name": "Extract Brain"
-- "desc": "The mind flayer magically emits psychic energy in a 60-foot cone. Each\
-    \ creature in that area must succeed on a DC 15 Intelligence saving throw or take\
-    \ 22 (4d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
-    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success."
-  "name": "Mind Blast (Recharge 5-6)"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 15\
+      \ (2d10 + 4) psychic damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be\
+      \ [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] until this grapple ends."
+    "name": "Tentacles"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
+      \ humanoid [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] by the mind\
+      \ flayer. Hit: The target takes 55 (10d10) piercing damage. If this damage\
+      \ reduces the target to 0 hit points, the mind flayer kills the target by extracting\
+      \ and devouring its brain."
+    "name": "Extract Brain"
+  - "desc": "The mind flayer magically emits psychic energy in a 60-foot cone. Each\
+      \ creature in that area must succeed on a DC 15 Intelligence saving throw or\
+      \ take 22 (4d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
+      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success."
+    "name": "Mind Blast (Recharge 5-6)"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Aberration/token/mind-flayer-arcanist.webp"
 ```
 ^statblock

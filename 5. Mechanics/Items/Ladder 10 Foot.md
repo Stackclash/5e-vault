@@ -8,6 +8,7 @@ tags:
 aliases:
   - Ladder (10-foot)
 cost: 10
+weight: 25
 ---
 # Ladder (10-foot)
 *Adventuring gear*  

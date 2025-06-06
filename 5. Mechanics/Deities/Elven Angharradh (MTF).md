@@ -8,6 +8,12 @@ tags:
   - domain/life
   - domain/peace
   - domain/war
+alignment: Chaotic Good
+category: The Seldarine
+domains: 'Knowledge, Life, War, Peace'
+pantheon: Elven
+province: 'Wisdom, growth, protection'
+symbol: Three interlocking circles
 aliases:
   - Angharradh
 ---

@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[Friends \|"PHB"]] as 2nd-level, at class level 3
+- [[5. Mechanics/Spells/Friends.md \|"PHB"]] as 2nd-level, at class level 3
 
 ## 1st Level
 
-- [[Charm Person \|"PHB"]] as 2nd-level, at class level 3
+- [[5. Mechanics/Spells/Charm Person.md \|"PHB"]] as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [[Suggestion \|"PHB"]] as 2nd-level, at class level 3
+- [[5. Mechanics/Spells/Suggestion.md \|"PHB"]] as 2nd-level, at class level 3

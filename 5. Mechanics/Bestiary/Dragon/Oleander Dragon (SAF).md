@@ -13,7 +13,7 @@ tags:
 aliases:
   - Oleander Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Oleander Dragon (SAF).md|Oleander Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Oleander Dragon (SAF).md|Oleander Dragon]]
 *Source: Strongholds and Followers p. 182*
 
 Nerium the Petal Dragon, known also as the Oleander Dragon, is one of the prize pets of Val and normally slumbers decoratively in one of the courtyards. Its disguise is so perfect, newcomers to the Court often fail to recognize it's not actually a flowering topiary shrub in the shape of a sleeping dragon.
@@ -37,63 +37,69 @@ Lacking physical attacks, Nerium relies on Implant Nightmare to overwhelm her en
 "ac_class": "natural armor"
 "hp": !!int "119"
 "hit_dice": "14d10 + 42"
+"modifier": !!int "3"
 "stats":
-- !!int "12"
-- !!int "16"
-- !!int "16"
-- !!int "16"
-- !!int "20"
-- !!int "16"
+  - !!int "12"
+  - !!int "16"
+  - !!int "16"
+  - !!int "16"
+  - !!int "20"
+  - !!int "16"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "8"
-  "Intelligence": !!int "6"
+  - "dexterity": "+6"
+  - "intelligence": "+6"
+  - "wisdom": "+8"
+  - "charisma": "+6"
 "skillsaves":
-  "Nature": !!int "6"
-  "Stealth": !!int "6"
-  "Insight": !!int "8"
-  "Perception": !!int "8"
-  "Arcana": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Nature|Nature]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+6"
 "damage_resistances": "poison, psychic"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
 "languages": "Draconic, Elvish, Sylvan"
 "cr": "8"
 "traits":
-- "desc": "As an action, the dragon can polymorph into a Small or Medium humanoid\
-    \ or back into its true form. Its statistics, other than its size, are the same\
-    \ in each form. Any worn or carried equipment isn't transformed. It reverts to\
-    \ its true form if it dies."
-  "name": "Shapechanger"
-- "desc": "The dragon has advantage on saving throws against magic and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- "desc": "While the dragon remains motionless, it is indistinguishable from a shrub\
-    \ or small tree of blooming oleander."
-  "name": "False Appearance"
+  - "desc": "As an action, the dragon can polymorph into a Small or Medium humanoid\
+      \ or back into its true form. Its statistics, other than its size, are the same\
+      \ in each form. Any worn or carried equipment isn't transformed. It reverts\
+      \ to its true form if it dies."
+    "name": "Shapechanger"
+  - "desc": "The dragon has advantage on saving throws against magic and other magical\
+      \ effects."
+    "name": "Magic Resistance"
+  - "desc": "While the dragon remains motionless, it is indistinguishable from a shrub\
+      \ or small tree of blooming oleander."
+    "name": "False Appearance"
 "actions":
-- "desc": "The dragon reaches into the mind of a target it can see within 60 feet\
-    \ and manifests the target's deepest fear. The target must make a DC 16 Wisdom\
-    \ saving throw. On a failed save, the target becomes [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-    \ for 1 minute. At the start of each of the target's turns, the target must repeat\
-    \ the saving throw or take 22 (4d10) psychic damage. On a successful save, the\
-    \ nightmare ends."
-  "name": "Implant Nightmare"
-- "desc": "The dragon exhales a swirling cloud of pollen and red and purple petals\
-    \ in a 60-foot cone. Each creature in the area must make a DC 16 Wisdom saving\
-    \ throw. On a failed save, the creature becomes [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
-    \ until the end of their next round. Creatures who successfully save cannot be\
-    \ affected by Pollen Breath for 24 hours."
-  "name": "Pollen Breath (Recharge 5-6)"
-- "desc": "The oleander dragon sings a magical song. Each enemy that can hear it must\
-    \ succeed on a DC 16 Intelligence saving throw or take 22 (4d8 + 4) psychic damage\
-    \ and be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] for 1 minute. A creature\
-    \ can repeat the saving throw at the end of each of its turns, ending the effect\
-    \ on itself on a success."
-  "name": "Song of Cestilani (1/day)"
+  - "desc": "The dragon reaches into the mind of a target it can see within 60 feet\
+      \ and manifests the target's deepest fear. The target must make a DC 16 Wisdom\
+      \ saving throw. On a failed save, the target becomes [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+      \ for 1 minute. At the start of each of the target's turns, the target must\
+      \ repeat the saving throw or take 22 (4d10) psychic damage. On a successful\
+      \ save, the nightmare ends."
+    "name": "Implant Nightmare"
+  - "desc": "The dragon exhales a swirling cloud of pollen and red and purple petals\
+      \ in a 60-foot cone. Each creature in the area must make a DC 16 Wisdom saving\
+      \ throw. On a failed save, the creature becomes [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+      \ until the end of their next round. Creatures who successfully save cannot\
+      \ be affected by Pollen Breath for 24 hours."
+    "name": "Pollen Breath (Recharge 5-6)"
+  - "desc": "The oleander dragon sings a magical song. Each enemy that can hear it\
+      \ must succeed on a DC 16 Intelligence saving throw or take 22 (4d8 + 4) psychic\
+      \ damage and be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] for 1 minute.\
+      \ A creature can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success."
+    "name": "Song of Cestilani (1/day)"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Oleander%20Dragon.png"
 ```
 ^statblock

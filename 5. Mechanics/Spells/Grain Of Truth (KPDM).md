@@ -9,19 +9,25 @@ tags:
   - spell/level/2nd-level
   - spell/ritual
   - spell/school/divination
-level: 2nd-level
-range: true
+classes:
+  - Bard
+  - Cleric
+  - Warlock
 school: Divination
-time: 1 action
+level: 2
+ritual: true
+time: 1 Action
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Grain of Truth
 ---
 # Grain of Truth
 *2nd-level, Divination (ritual)*  
 
-- **Casting time:** 1 action unless cast as a ritual
+- **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Instantaneous
@@ -30,6 +36,6 @@ You gain a bit of supernatural insight or advice. The first Intelligence or Char
 
 **At Higher Levels.** At the GM's discretion, casting this spell using a 4th-level spell slot can provide advice equivalent to a [[5. Mechanics/Spells/Divination.md\|divination]] spell; a 5th-level spell slot can provide advice equivalent to a single answer from a [[5. Mechanics/Spells/Commune.md\|commune]] spell; and a 6th-level spell slot can provide advice equivalent to three answers from a [[5. Mechanics/Spells/Contact Other Plane.md\|contact other plane]] spell.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Warlock\|Warlock]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 76*

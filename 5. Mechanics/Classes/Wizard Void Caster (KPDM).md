@@ -8,7 +8,7 @@ aliases:
   - Void Caster
 ---
 # Void Caster
-*[[Wizard.md\|Wizard]]: Arcane Tradition*  
+*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 335*  
 
 > [!tldr] Class and Feature Progression
@@ -19,19 +19,19 @@ aliases:
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Void%20Caster%20(Level%202)'>Void Caster</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Void Caster (Level 2)' class='internal-link'>Void Caster</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Rebuke%20from%20Beyond%20(Level%206)'>Rebuke from Beyond</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Rebuke from Beyond (Level 6)' class='internal-link'>Rebuke from Beyond</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Powerful%20Echo%20(Level%2010)'>Powerful Echo</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Powerful Echo (Level 10)' class='internal-link'>Powerful Echo</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Manifestation%20(Level%2014)'>Manifestation</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Manifestation (Level 14)' class='internal-link'>Manifestation</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -72,4 +73,4 @@ Starting at 10th level, when casting a Void magic spell that targets only one cr
 
 ### Manifestation (Level 14)
 
-At 14th level, a Void caster can choose a point he or she can see within 60 feet and use an action to utter a complicated phrase in Void Speech. The area within 20 feet of the point is shrouded in dim light for 1 minute. Any creature in the area that is hostile to the caster gains vulnerability to necrotic damage and has disadvantage on Wisdom checks. An affected creature that starts its turn in the area or that enters the area for the first time on its turn takes `dice:3d6|noform|avg` (`3d6`) necrotic damage, or half that damage with a successful Constitution saving throw (using the Void caster's spell save DC). Once a caster uses this ability, it can't be used again until after finishing a short or long rest. The caster can't use this feature if he or she is unable to speak.
+At 14th level, a Void caster can choose a point he or she can see within 60 feet and use an action to utter a complicated phrase in Void Speech. The area within 20 feet of the point is shrouded in dim light for 1 minute. Any creature in the area that is hostile to the caster gains vulnerability to necrotic damage and has disadvantage on Wisdom checks. An affected creature that starts its turn in the area or that enters the area for the first time on its turn takes `dice:3d6|noform|noparens|avg` (`3d6`) necrotic damage, or half that damage with a successful Constitution saving throw (using the Void caster's spell save DC). Once a caster uses this ability, it can't be used again until after finishing a short or long rest. The caster can't use this feature if he or she is unable to speak.

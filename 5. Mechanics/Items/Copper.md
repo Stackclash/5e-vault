@@ -8,6 +8,7 @@ tags:
 aliases:
   - Copper
 cost: 50
+weight: 1
 ---
 # Copper
 *Trade good*  

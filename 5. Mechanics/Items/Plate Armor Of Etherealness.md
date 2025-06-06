@@ -10,6 +10,7 @@ tags:
 aliases:
   - Plate Armor of Etherealness
 armorClass: 18
+weight: 65
 ---
 # Plate Armor of Etherealness
 *Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, legendary (requires attunement)*  

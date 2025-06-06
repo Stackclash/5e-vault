@@ -8,6 +8,7 @@ tags:
 aliases:
   - Harvesting Kit
 cost: 3000
+weight: 7
 ---
 # Harvesting Kit
 *Tool*  

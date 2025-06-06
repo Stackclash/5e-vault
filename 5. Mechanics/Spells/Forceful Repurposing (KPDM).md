@@ -10,19 +10,26 @@ tags:
   - spell/level/3rd-level
   - spell/school/abjuration
   - spell/subclass/arcane-trickster
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Abjuration
-time: 1 reaction
+level: 3
+ritual: false
+time: 1 Reaction
 duration: Instantaneous
-components: S
+components:
+  - S
 aliases:
   - Forceful Repurposing
 ---
 # Forceful Repurposing
 *3rd-level, Abjuration*  
 
-- **Casting time:** 1 reaction
+- **Casting time:** 1 Reaction
 - **Range:** 60 feet
 - **Components:** S
 - **Duration:** Instantaneous
@@ -31,6 +38,6 @@ You attempt to hijack a spell being cast and redirect it to serve your purpose. 
 
 Your targets must be valid targets for the spell based on the caster's ability and the range of the spell, but using your distinctions for friendly and hostile creatures.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 310*

@@ -8,7 +8,7 @@ aliases:
   - Desert Soul
 ---
 # Desert Soul
-*[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: The Griffon's Saddlebag, Book 2 p. 225*  
 
 > [!tldr] Class and Feature Progression
@@ -18,12 +18,12 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Desert%20Soul%20(Level%201)'>Desert Soul</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Desert Soul (Level 1)' class='internal-link'>Desert Soul</a></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Mirage%20(Level%206)'>Mirage</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Mirage (Level 6)' class='internal-link'>Mirage</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -31,15 +31,16 @@ aliases:
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Desert%20Nomad%20(Level%2014)'>Desert Nomad</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Desert Nomad (Level 14)' class='internal-link'>Desert Nomad</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Sand%20Form%20(Level%2018)'>Sand Form</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Sand Form (Level 18)' class='internal-link'>Sand Form</a></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -56,7 +57,7 @@ Starting when you choose this origin at 1st level, you ignore difficult terrain 
 
 Starting at 1st level, you can cause the magical sandstorm within you to manifest as a nearby twister. When you cast a spell of 1st level or higher on your turn, you can use a bonus action to create this storm in a 5-foot cube in a space you can see within 30 feet of you. A Large or smaller creature in the area must succeed on a Strength saving throw against your sorcerer spell save DC. A creature that fails the saving throw is pushed up to 10 feet in a direction of your choice if it's Medium or smaller, or 5 feet if it's Large.
 
-When you reach 6th level in this class, a creature that fails this saving throw also takes either `dice:1d8|noform|avg` (`1d8`) bludgeoning damage or `dice:1d8|noform|avg` (`1d8`) fire damage (your choice). The damage increases when you reach certain levels in this class, increasing to `dice:2d8|noform|avg` (`2d8`) at 14th level, and `dice:3d8|noform|avg` (`3d8`) at 18th level.
+When you reach 6th level in this class, a creature that fails this saving throw also takes either `dice:1d8|noform|noparens|avg` (`d8`) bludgeoning damage or `dice:1d8|noform|noparens|avg` (`d8`) fire damage (your choice). The damage increases when you reach certain levels in this class, increasing to `dice:2d8|noform|noparens|avg` (`2d8`) at 14th level, and `dice:3d8|noform|noparens|avg` (`3d8`) at 18th level.
 
 ### Mirage (Level 6)
 

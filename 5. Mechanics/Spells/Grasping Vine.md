@@ -9,19 +9,27 @@ tags:
   - spell/level/4th-level
   - spell/school/conjuration
   - spell/subclass/nature-domain
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Cleric (Nature Domain)
+  - Druid
+  - Ranger
 school: Conjuration
-time: 1 bonus
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 4
+ritual: false
+time: 1 Bonus Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Grasping Vine
+concentration: true
 ---
 # Grasping Vine
 *4th-level, Conjuration*  
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -30,6 +38,6 @@ You conjure a vine that sprouts from the ground in an unoccupied space of your c
 
 Until the spell ends, you can direct the vine to lash out at the same creature or another one as a bonus action on each of your turns.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Player's Handbook p. 246*

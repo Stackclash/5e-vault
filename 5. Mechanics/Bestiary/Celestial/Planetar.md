@@ -13,7 +13,7 @@ tags:
 aliases:
   - Planetar
 ---
-# [[5. Mechanics/Bestiary/Celestial/Planetar.md|Planetar]]
+# [[5. Mechanics\Bestiary\Celestial\Planetar.md|Planetar]]
 *Source: Monster Manual p. 17. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -49,20 +49,22 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 "ac_class": "natural armor"
 "hp": !!int "200"
 "hit_dice": "16d10 + 112"
+"modifier": !!int "5"
 "stats":
-- !!int "24"
-- !!int "20"
-- !!int "24"
-- !!int "19"
-- !!int "22"
-- !!int "25"
+  - !!int "24"
+  - !!int "20"
+  - !!int "24"
+  - !!int "19"
+  - !!int "22"
+  - !!int "25"
 "speed": "40 ft., fly 120 ft."
 "saves":
-  "Charisma": !!int "12"
-  "Wisdom": !!int "11"
-  "Constitution": !!int "12"
+  - "constitution": "+12"
+  - "wisdom": "+11"
+  - "charisma": "+12"
 "skillsaves":
-  "Perception": !!int "11"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+11"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
@@ -70,35 +72,36 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 "languages": "all, telepathy 120 ft."
 "cr": "16"
 "traits":
-- "desc": "The planetar's spellcasting ability is Charisma (spell save DC 20). The\
-    \ planetar can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] (self only)\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Control Weather.md|control weather]],\
-    \ [[5. Mechanics/Spells/Insect Plague.md|insect plague]]\n\n3/day each: [[5. Mechanics/Spells/Blade Barrier.md|blade\
-    \ barrier]], [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]],\
-    \ [[5. Mechanics/Spells/Flame Strike.md|flame strike]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
-  "name": "Innate Spellcasting"
-- "desc": "The planetar's weapon attacks are magical. When the planetar hits with\
-    \ any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack)."
-  "name": "Angelic Weapons"
-- "desc": "The planetar knows if it hears a lie."
-  "name": "Divine Awareness"
-- "desc": "The planetar has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
+  - "desc": "The planetar's spellcasting ability is Charisma (spell save DC 20). The\
+      \ planetar can innately cast the following spells, requiring no material components:\n\
+      \nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+      \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] (self only)\n\n3/day each:\
+      \ [[5. Mechanics/Spells/Blade Barrier.md|blade barrier]], [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]],\
+      \ [[5. Mechanics/Spells/Flame Strike.md|flame strike]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]\n\
+      \n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Control Weather.md|control weather]],\
+      \ [[5. Mechanics/Spells/Insect Plague.md|insect plague]]"
+    "name": "Innate Spellcasting"
+  - "desc": "The planetar's weapon attacks are magical. When the planetar hits with\
+      \ any weapon, the weapon deals an extra 5d8 radiant damage (included in the\
+      \ attack)."
+    "name": "Angelic Weapons"
+  - "desc": "The planetar knows if it hears a lie."
+    "name": "Divine Awareness"
+  - "desc": "The planetar has advantage on saving throws against spells and other\
+      \ magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The planetar makes two melee attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (4d6\
-    \ + 7) slashing damage plus 22 (5d8) radiant damage."
-  "name": "Greatsword"
-- "desc": "The planetar touches another creature. The target magically regains 30\
-    \ (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness,\
-    \ or deafness."
-  "name": "Healing Touch (4/Day)"
+  - "desc": "The planetar makes two melee attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 21\
+      \ (4d6 + 7) slashing damage plus 22 (5d8) radiant damage."
+    "name": "Greatsword"
+  - "desc": "The planetar touches another creature. The target magically regains 30\
+      \ (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness,\
+      \ or deafness."
+    "name": "Healing Touch (4/Day)"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Celestial/token/planetar.webp"
 ```
 ^statblock

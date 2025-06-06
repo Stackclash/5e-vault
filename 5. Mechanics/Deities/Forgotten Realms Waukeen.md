@@ -6,6 +6,10 @@ tags:
   - deity/forgotten-realms
   - domain/knowledge
   - domain/trickery
+alignment: Neutral
+domains: 'Knowledge, Trickery'
+pantheon: Forgotten Realms
+symbol: Upright coin with Waukeen's profile facing left
 aliases:
   - Waukeen
 ---

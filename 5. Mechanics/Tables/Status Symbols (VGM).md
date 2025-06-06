@@ -21,7 +21,7 @@ aliases:
 | 4 | A gnome's boot used as a hat |
 | 5 | A pouch of toenail clippings from an allied ogre |
 | 6 | A frog kept in a jar |
-| 7 | Fragile helmets made from axebeak eggs |
+| 7 | Fragile helmets made from axe beak eggs |
 | 8 | Nose rings |
 | 9 | Painted or stained hands |
 | 10 | Bugs kept in a bag for snacking |

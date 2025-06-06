@@ -6,6 +6,12 @@ tags:
   - deity/elven
   - domain/knowledge
   - domain/light
+alignment: Chaotic Good
+category: The Seldarine
+domains: 'Knowledge, Light'
+pantheon: Elven
+province: 'Light, stars, revelations'
+symbol: Shaft of light
 aliases:
   - Araleth Letheranil
 ---

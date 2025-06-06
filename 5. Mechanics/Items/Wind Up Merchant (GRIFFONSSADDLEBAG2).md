@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Wind-Up Merchant
+weight: 1
 ---
 # Wind-Up Merchant
 *Wondrous item, major, rare*  
@@ -16,7 +17,7 @@ aliases:
 
 This soft toy figurine is 5 inches tall and weighs 1 pound. You can use an action to wind up the toy using a crank in the back, causing it to release a thin strip of parchment listing 3 magic items and their costs from the list below. The toy then whirs and animates slowly, walking and bowing slightly, and can't be wound up again until 24 hours have passed.
 
-Roll `dice:3d12|noform|avg` (`3d12`), recording each number rolled, to determine which of the following magic items are listed on the parchment. At the GM's discretion, reroll duplicate results.
+Roll `dice:3d12|noform|noparens|avg` (`3d12`), recording each number rolled, to determine which of the following magic items are listed on the parchment. At the GM's discretion, reroll duplicate results.
 
 `dice: [[Wind Up Merchant (GRIFFONSSADDLEBAG2).md#^item-name]]`
 
@@ -31,7 +32,7 @@ Roll `dice:3d12|noform|avg` (`3d12`), recording each number rolled, to determine
 | 7 | [[5. Mechanics/Items/Goggles Of Night.md\|goggles of night]] | 50gp |
 | 8 | [[5. Mechanics/Items/Immovable Rod.md\|immovable rod]] | 50gp |
 | 9 | [[5. Mechanics/Items/Potion Of Growth.md\|potion of growth]] | 50gp |
-| 10 | [[5. Mechanics/Items/Potion Of Resistance (DMG).md\|potion of resistance]] | 50gp |
+| 10 | [[5. Mechanics/Items/Potion Of Resistance.md\|potion of resistance]] | 50gp |
 | 11 | [[5. Mechanics/Items/Keoghtoms Ointment.md\|restorative ointment]], 2 uses | 50gp |
 | 12 | [[5. Mechanics/Items/Ring Of Water Walking.md\|ring of water walking]] | 50gp |
 ^item-name

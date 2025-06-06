@@ -26,7 +26,7 @@ A powerful bheur hag might have the following additional lair action:
 ## Regional effects
 _Source: Volo's Guide to Monsters_
 
-Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `dice:2d10|noform|avg` (`2d10`) days to fade away.
+Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `dice:2d10|noform|noparens|avg` (`2d10`) days to fade away.
 
 The region within 1 mile of a grandmother hag's lair is warped by the creature's fell magic, which creates one or more of the following effects:
 
@@ -38,5 +38,5 @@ A powerful bheur hag creates one or more of the following additional regional ef
 
 - Small avalanches of snow intermittently fall, blocking a path or burying intruders. A buried creature is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] and has to hold its breath until it is dug out.  
 - Human-sized blocks of ice appear, containing frozen corpses. These corpses might break free and attack as zombies, or their spirits might attack as specters.  
-- Blizzards come without warning. A blizzard occurs once every `dice:2d12|noform|avg` (`2d12`) hours and lasts `dice:1d3|noform|avg` (`1d3`) hours. During a storm, creatures moving overland travel at half normal speed, and normal visibility is reduced to 30 feet.  
+- Blizzards come without warning. A blizzard occurs once every `dice:2d12|noform|noparens|avg` (`2d12`) hours and lasts `dice:1d3|noform|noparens|avg` (`d3`) hours. During a storm, creatures moving overland travel at half normal speed, and normal visibility is reduced to 30 feet.  
 - Roads, paths, and trails twist and turn back on themselves, making navigation in the area exceedingly difficult.

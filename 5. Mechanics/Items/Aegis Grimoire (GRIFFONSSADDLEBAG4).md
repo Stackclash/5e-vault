@@ -9,6 +9,7 @@ tags:
 aliases:
   - Aegis Grimoire
 armorClass: 2
+weight: 6
 ---
 # Aegis Grimoire
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), very rare (requires attunement by a wizard)*  
@@ -17,7 +18,7 @@ armorClass: 2
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-This leather shield looks like a leather-bound book with brass fixtures. You're considered proficient with this shield while you're attuned to it. The shield has 5 charges and regains `dice:1d4+1|noform|avg` (`1d4 + 1`) expended charges daily at dawn.
+This leather shield looks like a leather-bound book with brass fixtures. You're considered proficient with this shield while you're attuned to it. The shield has 5 charges and regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn.
 
 ## Spells
 

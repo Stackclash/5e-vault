@@ -15,7 +15,7 @@ tags:
 aliases:
   - Xvart Warlock of Raxivort
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Xvart Warlock Of Raxivort (MPMM).md|Xvart Warlock of Raxivort]]
+# [[5. Mechanics\Bestiary\Monstrosity\Xvart Warlock Of Raxivort (MPMM).md|Xvart Warlock of Raxivort]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*
 
 Some xvarts are spawned with a trace of Raxivort's divine energy. These xvarts usually form a pact with him and wield magic in his service as warlocks.
@@ -34,50 +34,52 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "ac": !!int "12"
 "hp": !!int "22"
 "hit_dice": "5d6 + 5"
+"modifier": !!int "2"
 "stats":
-- !!int "8"
-- !!int "14"
-- !!int "12"
-- !!int "8"
-- !!int "11"
-- !!int "12"
+  - !!int "8"
+  - !!int "14"
+  - !!int "12"
+  - !!int "8"
+  - !!int "11"
+  - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+3"
 "senses": "darkvision 30 ft., passive Perception 10"
 "languages": "Abyssal"
 "cr": "1"
 "traits":
-- "desc": "The xvart casts one of the following spells, requiring no material components\
-    \ and using Charisma as the spellcasting ability (spell save DC 11):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\
-    \ (self only), [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Burning Hands.md|burning hands]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
-  "name": "Spellcasting"
-- "desc": "When the xvart reduces an enemy to 0 hit points, the xvart gains 4 temporary\
-    \ hit points."
-  "name": "Raxivort's Blessing"
-- "desc": "The xvart can communicate with ordinary [[5. Mechanics/Bestiary/Beast/Bat.md|bats]]\
-    \ and [[5. Mechanics/Bestiary/Beast/Rat.md|rats]], as well as [[5. Mechanics/Bestiary/Beast/Giant Bat.md|giant bats]]\
-    \ and [[5. Mechanics/Bestiary/Beast/Giant Rat.md|giant rats]]."
-  "name": "Raxivort's Tongue"
+  - "desc": "When the xvart reduces an enemy to 0 hit points, the xvart gains 4 temporary\
+      \ hit points."
+    "name": "Raxivort's Blessing"
+  - "desc": "The xvart can communicate with ordinary [[5. Mechanics/Bestiary/Beast/Bat.md|bats]]\
+      \ and [[5. Mechanics/Bestiary/Beast/Rat.md|rats]], as well as [[5. Mechanics/Bestiary/Beast/Giant Bat.md|giant bats]]\
+      \ and [[5. Mechanics/Bestiary/Beast/Giant Rat.md|giant rats]]."
+    "name": "Raxivort's Tongue"
 "actions":
-- "desc": "The xvart makes two Scimitar or Raxivort's Bite attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) slashing damage."
-  "name": "Scimitar"
-- "desc": "Ranged Spell Attack: +3 to hit, range 30 ft., one creature. Hit: 7\
-    \ (1d10 + 2) poison damage."
-  "name": "Raxivort's Bite"
+  - "desc": "The xvart makes two Scimitar or Raxivort's Bite attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) slashing damage."
+    "name": "Scimitar"
+  - "desc": "Ranged Spell Attack: +3 to hit, range 30 ft., one creature. Hit:\
+      \ 7 (1d10 + 2) poison damage."
+    "name": "Raxivort's Bite"
+  - "desc": "The xvart casts one of the following spells, requiring no material components\
+      \ and using Charisma as the spellcasting ability (spell save DC 11):\n\nAt\
+      \ will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\
+      \ (self only), [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
+      \ [[5. Mechanics/Spells/Burning Hands.md|burning hands]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
+    "name": "Spellcasting"
 "bonus_actions":
-- "desc": "The xvart takes the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\
-    \ action."
-  "name": "Low Cunning"
+  - "desc": "The xvart takes the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\
+      \ action."
+    "name": "Low Cunning"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/xvart-warlock-of-raxivort-mpmm.webp"
 ```
 ^statblock

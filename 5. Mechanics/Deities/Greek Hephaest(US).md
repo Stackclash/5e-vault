@@ -6,6 +6,10 @@ tags:
   - deity/greek
   - domain/forge
   - domain/knowledge
+alignment: Neutral Good
+domains: 'Forge, Knowledge'
+pantheon: Greek
+symbol: Hammer and anvil
 aliases:
   - Hephaestus
 ---

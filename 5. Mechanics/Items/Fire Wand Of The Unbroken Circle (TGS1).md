@@ -9,6 +9,7 @@ tags:
   - item/wondrous/wand
 aliases:
   - Fire Wand of the Unbroken Circle
+weight: 1
 ---
 # Fire Wand of the Unbroken Circle
 *Wand, major, rare (requires attunement by a druid)*  
@@ -20,6 +21,6 @@ This wooden wand is carved out of ash and is always faintly warm to the touch. W
 
 Whenever you would fail a Constitution saving throw to maintain concentration on a *flame blade* spell cast in this way, you can expend 1 charge as a reaction in order to succeed on the saving throw instead. You can only use your reaction in this way if you're holding the wand.
 
-The wand regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the wand crumbles into ashes and is destroyed.
+The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand crumbles into ashes and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 65*

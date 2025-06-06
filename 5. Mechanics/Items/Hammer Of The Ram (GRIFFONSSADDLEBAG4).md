@@ -9,19 +9,20 @@ tags:
   - item/weapon/melee
 aliases:
   - Hammer of the Ram
-one-hand-damage: 2d6 B
+one-hand-damage: 2d6 bludgeoning
+weight: 10
 ---
 # Hammer of the Ram
 *Weapon ([[5. Mechanics/Items/Maul.md\|maul]]), rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Hammer-of-the-Ram.webp#right)  
 
-- **Damage**: 2d6 B
+- **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 This all-silver hammer carries a mighty force behind it with every swing. You gain a +1 bonus to attack and damage rolls made with this magic weapon. If the hammer hits an object that isn't being worn or carried, the hit is a critical hit.
 
-The hammer has 3 charges and regains `dice:1d3|noform|avg` (`1d3`) expended charges daily at dawn. When you hit a target with the hammer, you can expend 1 to 3 of its charges to force the target to make a DC 15 Strength saving throw. For each charge expended, the target takes an extra `dice:1d10|noform|avg` (`1d10`) force damage and is pushed 5 feet away from you on a failed save. On a successful save, the target takes half as much force damage and isn't pushed.
+The hammer has 3 charges and regains `dice:1d3|noform|noparens|avg` (`d3`) expended charges daily at dawn. When you hit a target with the hammer, you can expend 1 to 3 of its charges to force the target to make a DC 15 Strength saving throw. For each charge expended, the target takes an extra `dice:1d10|noform|noparens|avg` (`d10`) force damage and is pushed 5 feet away from you on a failed save. On a successful save, the target takes half as much force damage and isn't pushed.
 
 ## Ring of the Ram
 

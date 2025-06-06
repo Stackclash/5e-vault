@@ -16,7 +16,7 @@ On Initiative count 20 (losing initiative ties), Fraz-Urb'luu can take a lair ac
 
 - Fraz-Urb'luu causes up to 5 doors within the lair to become walls, and an equal number of doors to appear on walls where there previously were none.  
 - Fraz-Urb'luu chooses one humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the [[5. Mechanics/Spells/Simulacrum.md|simulacrum]] spell). This simulacrum obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count 20.  
-- Fraz-Urb'luu creates a [[5. Mechanics/Items/Wave.md|wave]] of anguish. Each creature he can see within the lair must succeed on a DC 23 Wisdom saving throw or take `dice:6d10|noform|avg|text(33)` (`6d10`) psychic damage.  
+- Fraz-Urb'luu creates a [[5. Mechanics/Items/Wave.md|wave]] of anguish. Each creature he can see within the lair must succeed on a DC 23 Wisdom saving throw or take `dice:6d10|noform|noparens|avg|text(33)` (`6d10`) psychic damage.  
 
 ## Regional effects
 _Source: Mordenkainen's Tome of Foes_
@@ -27,7 +27,7 @@ The region containing Fraz-Urb'luu's lair is warped by his magic, creating one o
 - Roads and paths within 6 miles of the lair twist and turn back on themselves, making navigation in the area exceedingly difficult.  
 - If a humanoid spends at least 1 hour within 1 mile of the lair, that creature must succeed on a DC 23 Wisdom saving throw or descend into a madness determined by the Madness of Fraz-Urb'luu table. A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.  
 
-If Fraz-Urb'luu dies, these effects fade over the course of `dice:1d10|noform|avg` (`1d10`) days.
+If Fraz-Urb'luu dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`d10`) days.
 
 ### Madness of Fraz-Urb'luu
 

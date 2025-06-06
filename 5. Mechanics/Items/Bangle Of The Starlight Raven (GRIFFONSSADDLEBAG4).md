@@ -15,7 +15,7 @@ aliases:
 
 This silver bangle feels almost cool or wet to the touch. Pressing its tail feathers inward causes its wings to unfurl, allowing you to place the bangle on your wrist or remove it. While wearing the bangle, gravity pulls more loosely against you: your weight is halved, and your normal jumping distance is doubled. While wearing it between dusk and dawn, you're also under the effects of the [[5. Mechanics/Spells/Feather Fall.md\|feather fall]] spell.
 
-The bangle has 7 charges for the following properties. It regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dusk. The illusory ravens produced by these properties appear like moving constellations of starlight. Using a property requires an action.
+The bangle has 7 charges for the following properties. It regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dusk. The illusory ravens produced by these properties appear like moving constellations of starlight. Using a property requires an action.
 
 ## Starlight Messenger
 

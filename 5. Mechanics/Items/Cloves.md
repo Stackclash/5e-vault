@@ -8,6 +8,7 @@ tags:
 aliases:
   - Cloves
 cost: 300
+weight: 1
 ---
 # Cloves
 *Trade good*  

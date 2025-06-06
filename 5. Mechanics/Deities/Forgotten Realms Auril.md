@@ -6,6 +6,10 @@ tags:
   - deity/forgotten-realms
   - domain/nature
   - domain/tempest
+alignment: Neutral Evil
+domains: 'Nature, Tempest'
+pantheon: Forgotten Realms
+symbol: Six-pointed snowflake
 aliases:
   - Auril
 ---

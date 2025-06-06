@@ -8,6 +8,7 @@ tags:
   - item/rarity/none
 aliases:
   - Energy Cell
+weight: 0.3125
 ---
 # Energy Cell
 *Ammunition (firearm)*  

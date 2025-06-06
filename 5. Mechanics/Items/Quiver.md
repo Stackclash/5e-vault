@@ -8,6 +8,7 @@ tags:
 aliases:
   - Quiver
 cost: 100
+weight: 1
 ---
 # Quiver
 *Adventuring gear*  

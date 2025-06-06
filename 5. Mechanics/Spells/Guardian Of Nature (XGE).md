@@ -8,19 +8,25 @@ tags:
   - spell/class/ranger
   - spell/level/4th-level
   - spell/school/transmutation
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Ranger
 school: Transmutation
-time: 1 bonus
-duration: 'Concentration, up to 1 minute'
-components: V
+level: 4
+ritual: false
+time: 1 Bonus Action
+duration: up to 1 minute
+components:
+  - V
 aliases:
   - Guardian of Nature
+concentration: true
 ---
 # Guardian of Nature
 *4th-level, Transmutation*  
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
@@ -34,7 +40,7 @@ Bestial fur covers your body, your facial features become feral, and you gain th
 - Your walking speed increases by 10 feet.  
 - You gain [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] with a range of 120 feet.  
 - You make Strength-based attack rolls with advantage.  
-- Your melee weapon attacks deal an extra `dice:1d6|noform|avg` (`1d6`) force damage on a hit.  
+- Your melee weapon attacks deal an extra `dice:1d6|noform|noparens|avg` (`d6`) force damage on a hit.  
 
 ## Great Tree
 
@@ -47,6 +53,6 @@ Your skin appears barky, leaves sprout from your hair, and you gain the followin
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Xanathar's Guide to Everything p. 157*

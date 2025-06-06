@@ -9,19 +9,31 @@ tags:
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/necromancy
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Necromancy
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 6
+ritual: false
+time: 1 Action
+duration: Up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Eyebite
+range: Self
+save:
+  type: WIS
+  success: none
+concentration: true
 ---
 # Eyebite
 *6th-level, Necromancy*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -42,6 +54,6 @@ The target has disadvantage on attack rolls and ability checks. At the end of ea
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 238. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

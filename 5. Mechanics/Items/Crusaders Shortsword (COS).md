@@ -9,12 +9,13 @@ tags:
   - item/weapon/melee
 aliases:
   - Crusader's Shortsword
-one-hand-damage: 1d6 P
+one-hand-damage: 1d6 piercing
+weight: 2
 ---
 # Crusader's Shortsword
 *Weapon ([[5. Mechanics/Items/Shortsword.md\|shortsword]]) (requires attunement)*  
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
 

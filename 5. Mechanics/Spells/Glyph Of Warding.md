@@ -13,23 +13,35 @@ tags:
   - spell/subclass/divine-soul
   - spell/subclass/eldritch-knight
   - spell/subclass/fey-trapper
-level: 3rd-level
-range: false
+classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Ranger (Fey Trapper)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul)
+  - Wizard
 school: Abjuration
+level: 3
+ritual: false
 time: 1 hour
-duration: Until dispelled or triggered
-components: >-
-  V, S, incense and powdered diamond worth at least 200 gp, which the spell
-  consumes
+duration: Until dispelled
+components:
+  - V
+  - S
+  - M
 aliases:
   - Glyph of Warding
+range: Touch
+material: 'Incense and powdered diamond worth at least 200 gp, which the spell consumes.'
 ---
 # Glyph of Warding
 *3rd-level, Abjuration*  
 
 - **Casting time:** 1 hour
 - **Range:** Touch
-- **Components:** V, S, incense and powdered diamond worth at least 200 gp, which the spell consumes
+- **Components:** V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)
 - **Duration:** Until dispelled or triggered
 
 When you cast this spell, you inscribe a glyph that later unleashes a magical effect. You inscribe it either on a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph. The glyph can cover an area no larger than 10 feet in diameter. If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
@@ -44,7 +56,7 @@ When you inscribe the glyph, choose explosive runes or a spell glyph.
 
 ## Explosive Runes
 
-When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes `dice:5d8|noform|avg` (`5d8`) acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one.
+When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes `dice:5d8|noform|noparens|avg` (`5d8`) acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one.
 
 ## Spell Glyph
 
@@ -52,10 +64,10 @@ You can store a prepared spell of 3rd level or lower in the glyph by casting it 
 
 ## At Higher Levels
 
-When you cast this spell using a spell slot of 4th level or higher, the damage of an explosive runes glyph increases by `dice:1d8|noform|avg|text(1d8)` for each slot level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding.
+When you cast this spell using a spell slot of 4th level or higher, the damage of an explosive runes glyph increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding.
 
 ## Summary
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Fey Trapper (HHHVIII)\|Ranger (Fey Trapper)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Ranger (Fey Trapper)](compendium/lists/list-spells-classes-fey-trapper-hhhviii.md "subclass=HHHVIII")
 
 *Source: Player's Handbook p. 245. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

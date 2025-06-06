@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/cos
 aliases:
-  - 'Chapter 8: The Village of Krezk'
+  - Chapter 8: The Village of Krezk
 ---
 # Chapter 8: The Village of Krezk
 *Source: Curse of Strahd, p. 143* 
@@ -90,7 +90,7 @@ The burgomaster's cottage has a wine cellar (currently empty) and lots of space 
 
 ##### Commoner Cottages
 
-A typical cottage is only 200 square feet yet contains `dice:1d4|noform|avg` (`1d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]), `dice:1d4|noform|avg` (`1d4`)−1 children (male and female human noncombatants), plus the family's pigs, hares, and chickens.
+A typical cottage is only 200 square feet yet contains `dice:1d4|noform|noparens|avg` (`d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]), `dice:1d4|noform|noparens|avg` (`d4`)−1 children (male and female human noncombatants), plus the family's pigs, hares, and chickens.
 
 Every cottage has its own graveyard where family members are interred. All the caskets planted in the past decade are now empty, thanks to [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]]'s sneaky mongrelfolk gravediggers (see area S6).
 
@@ -491,7 +491,7 @@ The wine racks contain thirty-three bottles of Purple Grapemash No. 3 and twenty
 
 #### Treasure
 
-Among the wine bottles on the rack is one with no stopper and a label that reads "Champagne du le Stomp." It contains a rolled-up [[5. Mechanics/Items/Spell Scroll (DMG).md\|spell scroll]] of [[5. Mechanics/Spells/Heroes Feast.md\|heroes' feast]].
+Among the wine bottles on the rack is one with no stopper and a label that reads "Champagne du le Stomp." It contains a rolled-up [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Heroes Feast.md\|heroes' feast]].
 
 ### S17. Loft and Belfry
 
@@ -503,7 +503,7 @@ Anyone on the curtain wall (area S18) who listens at this room's door hear the s
 > 
 > A black shroud covers a humanoid shape lying on a wooden table. The music does nothing to stir it.
 > 
-> A cot heaped with furs rests in the northeast corner, surrounded by empty wine bottles. An oil lamp burns atop a table nearby, silhouetting a squat creature that has two heads. It sits on the edge of the cot with a viol between its legs. With a crustacean, clawlike appendage, it grasps the neck of the instrument while running a bow gently across its strings with its human hand.
+> A cot heaped with furs rests in the northeast corner, surrounded by empty wine bottles. An oil lamp burns atop a table nearby, silhouetting a squat creature that has two heads. It sits on the edge of the cot with a viol between its legs. With a crustacean, claw-like appendage, it grasps the neck of the instrument while running a bow gently across its strings with its human hand.
 ^50c
 
 This loft is where [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] creates his flesh golems. Needles, thread, saws, and other tools lie on a small table in the northwest corner.
@@ -670,7 +670,7 @@ Anna Krezkova (LG female human [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]
 
 If the characters don't accompany Anna on her quest, her expedition falls prey to the perils of the wilderness and never returns. Krezkov sends more villagers to find them, and these villagers are also lost. Unwilling to risk any more lives, Krezkov visits the abbey for the first time in his life and makes a desperate plea to [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]], who ignores the plea. Characters can escort the burgomaster to the abbey or eavesdrop on the burgomaster's conversation with [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]]. If they do, they hear [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] promise "divine retribution" as punishment.
 
-The evening after the burgomaster's visit, [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] releases all the mongrelfolk in the abbey's madhouse (area S15) and sets them on the village. They steal pigs, chickens, and anything else that's edible. None of the villagers are harmed, but their food supplies are depleted, and `dice:2d6|noform|avg` (`2d6`) mongrelfolk are killed. The surviving mongrelfolk return to the abbey with their plunder. The burgomaster is so distraught that he hangs himself from the rafters of his cottage a few days later.
+The evening after the burgomaster's visit, [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] releases all the mongrelfolk in the abbey's madhouse (area S15) and sets them on the village. They steal pigs, chickens, and anything else that's edible. None of the villagers are harmed, but their food supplies are depleted, and `dice:2d6|noform|noparens|avg` (`2d6`) mongrelfolk are killed. The surviving mongrelfolk return to the abbey with their plunder. The burgomaster is so distraught that he hangs himself from the rafters of his cottage a few days later.
 
 The characters can stop all this from happening by delivering the dress to [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]]. They can also stop the mayhem by halting the mongrelfolk as they descend from the abbey or by killing [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] beforehand.
 
@@ -711,7 +711,7 @@ Whether or not Sergei takes Ireena, Strahd senses that the two have found each o
 > A peal of thunder shakes the land, and the dark clouds coalesce into a terrible visage. A deep, dark voice from beyond the mountains cries out, "She is mine!" A terrible crack resounds as blue lightning splits the sky and strikes the pool.
 ^52d
 
-Each creature within 15 feet of the pool must make a successful DC 17 Dexterity check or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. The blast knocks down the old gazebo as well. A creature in the water when the lightning strikes must make a DC 17 Constitution saving throw, taking `dice:8d10|noform|avg|text(44)` (`8d10`) lightning damage on a failed save, or half as much damage on a successful one.
+Each creature within 15 feet of the pool must make a successful DC 17 Dexterity check or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. The blast knocks down the old gazebo as well. A creature in the water when the lightning strikes must make a DC 17 Constitution saving throw, taking `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) lightning damage on a failed save, or half as much damage on a successful one.
 
 Strahd's wrath destroys the blessing on the pool, rendering its waters nonmagical and preventing the spirit of Sergei from manifesting in them again.
 

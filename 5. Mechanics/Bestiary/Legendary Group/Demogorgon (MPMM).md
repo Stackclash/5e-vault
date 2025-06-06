@@ -26,4 +26,4 @@ The region containing Demogorgon's lair is warped by his magic, creating one or 
 - **Frenzied Animals.** Beasts within 1 mile of the lair become frenzied and violent—even creatures that are normally docile. Within that area, any ability check involving Animal Handling has disadvantage.  
 - **Venomous Beasts.** The area within 6 miles of the lair becomes overpopulated with [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md|poisonous snakes]] and other venomous Beasts.  
 
-If Demogorgon dies, these effects fade over the course of `dice:1d10|noform|avg` (`1d10`) days.
+If Demogorgon dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`d10`) days.

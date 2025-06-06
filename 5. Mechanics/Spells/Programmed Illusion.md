@@ -7,21 +7,32 @@ tags:
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/illusion
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Wizard
 school: Illusion
-time: 1 action
+level: 6
+ritual: false
+time: 1 Action
 duration: Until dispelled
-components: 'V, S, a bit of fleece and jade dust worth at least 25 gp'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Programmed Illusion
+range: 120 feet
+material: A bit of fleece and jade dust worth at least 25 gp.
+area:
+  type: cube
+  size: 30
 ---
 # Programmed Illusion
 *6th-level, Illusion*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
-- **Components:** V, S, a bit of fleece and jade dust worth at least 25 gp
+- **Components:** V, S, M (a bit of fleece and jade dust worth at least 25 gp)
 - **Duration:** Until dispelled
 
 You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.
@@ -32,6 +43,6 @@ The triggering condition can be as general or as detailed as you like, though it
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 269. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

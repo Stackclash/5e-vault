@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/egyptian
   - domain/trickery
+alignment: Neutral Evil
+domains: Trickery
+pantheon: Egyptian
+symbol: Flaming snake
 aliases:
   - Apep
 ---

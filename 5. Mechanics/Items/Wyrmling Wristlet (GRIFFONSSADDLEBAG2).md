@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wyrmling-Wristlet.webp#right)  
 
 
-This bracelet has `dice:1d6+3|noform|avg` (`1d6 + 3`) colorful, egg-shaped beads hanging from it. Ten types of beads exist. The GM decides the type of each bead on the bracelet or determines it randomly. A bracelet can have more than one bead of the same type. You can use an action to detach a bead and throw it into an unoccupied space that you can see up to 30 feet away from you. When it reaches the end of its trajectory, the bead cracks open, destroying the bead, and summons a dragon wyrmling in the space. The type of wyrmling is determined by the bead's color.
+This bracelet has `dice:1d6+3|noform|noparens|avg` (`1d6 + 3`) colorful, egg-shaped beads hanging from it. Ten types of beads exist. The GM decides the type of each bead on the bracelet or determines it randomly. A bracelet can have more than one bead of the same type. You can use an action to detach a bead and throw it into an unoccupied space that you can see up to 30 feet away from you. When it reaches the end of its trajectory, the bead cracks open, destroying the bead, and summons a dragon wyrmling in the space. The type of wyrmling is determined by the bead's color.
 
 `dice: [[Wyrmling Wristlet (GRIFFONSSADDLEBAG2).md#^1-bead-color-and-wyrmling-type]]`
 

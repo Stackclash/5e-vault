@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greyhawk
   - domain/trickery
+alignment: Chaotic Evil
+domains: Trickery
+pantheon: Greyhawk
+symbol: Dark spiral or inverted ziggurat
 aliases:
   - Tharizdun
 ---

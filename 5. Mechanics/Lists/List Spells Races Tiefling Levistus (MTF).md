@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[Ray Of Frost \|"PHB"]] as 2nd-level, at class level 3
+- [[5. Mechanics/Spells/Ray Of Frost.md \|"PHB"]] as 2nd-level, at class level 3
 
 ## 1st Level
 
-- [[Armor Of Agathys \|"PHB"]] as 2nd-level, at class level 3
+- [[5. Mechanics/Spells/Armor Of Agathys.md \|"PHB"]] as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [[Darkness \|"PHB"]] as 2nd-level, at class level 3
+- [[5. Mechanics/Spells/Darkness.md \|"PHB"]] as 2nd-level, at class level 3

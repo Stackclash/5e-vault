@@ -13,8 +13,8 @@ aliases:
 
 | Deity | Alignment | Province | Suggested Domains | Common Symbol |
 |-------|-----------|----------|-------------------|---------------|
-| Deep Duerra | LE | Conquest, psionics | Knowledge, War | Mind flayer skull |
-| Laduguer | LE | Labor, slavery | Death, Forge* | Broken arrow |
+| [[5. Mechanics/Deities/Duergar Deep Duerra (MTF).md\|Deep Duerra]] | LE | Conquest, psionics | Knowledge, War | Mind flayer skull |
+| [[5. Mechanics/Deities/Duergar Laduguer (MTF).md\|Laduguer]] | LE | Labor, slavery | Death, Forge* | Broken arrow |
 ^duergar-deities
 
 *Appears in *Xanathar's Guide to Everything*

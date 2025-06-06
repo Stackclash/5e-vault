@@ -11,23 +11,32 @@ tags:
   - spell/school/conjuration
   - spell/subclass/divine-soul
   - spell/subclass/the-frozen-one
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Sorcerer (Divine Soul)
+  - Warlock (The Frozen One)
+  - Wizard
 school: Conjuration
+level: 5
+ritual: false
 time: 1 minute
 duration: Until dispelled
-components: >-
-  V, S, a miniature keep carved from ice or glass that is consumed in the
-  casting
+components:
+  - V
+  - S
+  - M
 aliases:
   - Ice Fortress
+material: a miniature keep carved from ice or glass that is consumed in the casting
 ---
 # Ice Fortress
 *5th-level, Conjuration*  
 
 - **Casting time:** 1 minute
 - **Range:** 60 feet
-- **Components:** V, S, a miniature keep carved from ice or glass that is consumed in the casting
+- **Components:** V, S, M (a miniature keep carved from ice or glass that is consumed in the casting)
 - **Duration:** Until dispelled
 
 A gleaming fortress of ice springs from a square area of ground that you can see within range. It is a 10-foot cube (including floor and roof). The fortress can't overlap any other structures, but any creatures in its space are harmlessly lifted up as the ice rises into position. The walls are made of ice (AC 13), have 120 hit points each, and are immune to cold, necrotic, poison, and psychic damage. Reducing a wall to 0 hit points destroys it and has a 50 percent chance to cause the roof to collapse. A damaged wall can be repaired by casting a spell that deals cold damage on it, on a point-for-point basis.
@@ -38,6 +47,6 @@ The fortress catches and reflects light, so that creatures outside the fortress 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can increase the length or width of the fortification by 5 feet for every slot level above 5th. You can make a different choice (width or length) for each slot level above 5th.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Warlock The Frozen One (KPDM)\|Warlock (The Frozen One)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Warlock (The Frozen One)](compendium/lists/list-spells-classes-the-frozen-one-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 273*

@@ -26,11 +26,11 @@ While wearing the cloak, you can expend 1 of its charges using a bonus action to
 
 ## Draconic Breath
 
-While wearing the cloak, you can expend 2 of its charges using an action to exhale a powerful, draconic breath from you. Each creature within the area must make a DC 17 saving throw. A creature takes `dice:6d8|noform|avg` (`6d8`) damage of the breath's type on a failed save, or half as much damage on a successful one. The area of the breath, its damage type, and saving throw are shown in the table below.
+While wearing the cloak, you can expend 2 of its charges using an action to exhale a powerful, draconic breath from you. Each creature within the area must make a DC 17 saving throw. A creature takes `dice:6d8|noform|noparens|avg` (`6d8`) damage of the breath's type on a failed save, or half as much damage on a successful one. The area of the breath, its damage type, and saving throw are shown in the table below.
 
 ## Terrifying Glare
 
-While wearing the cloak, you can use your reaction to expend 1 of its charges when you take damage from a creature that you can see within 60 feet of you. That creature must make a DC 17 Wisdom saving throw. On a failure, the creature takes `dice:2d10|noform|avg` (`2d10`) psychic damage and becomes [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you until the end of its next turn.
+While wearing the cloak, you can use your reaction to expend 1 of its charges when you take damage from a creature that you can see within 60 feet of you. That creature must make a DC 17 Wisdom saving throw. On a failure, the creature takes `dice:2d10|noform|noparens|avg` (`2d10`) psychic damage and becomes [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you until the end of its next turn.
 
 | Color | Breath Damage and Resistance Type | Breath Area | Saving Throw |
 |-------|-----------------------------------|-------------|--------------|

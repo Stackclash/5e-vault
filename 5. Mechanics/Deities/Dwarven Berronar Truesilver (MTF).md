@@ -7,6 +7,12 @@ tags:
   - domain/life
   - domain/light
   - domain/peace
+alignment: Lawful Good
+category: The Mordinsamman
+domains: 'Life, Light, Peace'
+pantheon: Dwarven
+province: 'Hearth, home, truth'
+symbol: Intertwined silver rings
 aliases:
   - Berronar Truesilver
 ---

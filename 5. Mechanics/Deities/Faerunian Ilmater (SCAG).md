@@ -6,6 +6,10 @@ tags:
   - deity/faerunian
   - domain/life
   - domain/twilight
+alignment: Lawful Good
+domains: 'Life, Twilight'
+pantheon: Faerûnian
+symbol: Hands bound at the wrist with red cord
 aliases:
   - Ilmater
   - The Crying God

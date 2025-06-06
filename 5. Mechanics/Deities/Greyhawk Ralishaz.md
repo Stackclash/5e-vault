@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greyhawk
   - domain/trickery
+alignment: Chaotic Neutral
+domains: Trickery
+pantheon: Greyhawk
+symbol: Three bone fate-casting sticks
 aliases:
   - Ralishaz
 ---

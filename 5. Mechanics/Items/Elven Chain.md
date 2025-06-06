@@ -9,6 +9,7 @@ tags:
 aliases:
   - Elven Chain
 armorClass: 13 + Dex modifier (max of +2)
+weight: 20
 ---
 # Elven Chain
 *Medium armor, major, rare*  

@@ -9,6 +9,7 @@ tags:
 aliases:
   - Battlechef Buckler
 armorClass: 2
+weight: 6
 ---
 # Battlechef Buckler
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  

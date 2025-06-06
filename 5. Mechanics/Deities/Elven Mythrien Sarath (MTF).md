@@ -7,6 +7,12 @@ tags:
   - domain/arcana
   - domain/forge
   - domain/knowledge
+alignment: Chaotic Good
+category: The Seldarine
+domains: 'Arcana, Forge, Knowledge'
+pantheon: Elven
+province: 'Abjuration, mythals'
+symbol: Row of three intertwined rings
 aliases:
   - Mythrien Sarath
 ---

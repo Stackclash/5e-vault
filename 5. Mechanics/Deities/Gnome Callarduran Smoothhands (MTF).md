@@ -6,6 +6,11 @@ tags:
   - deity/gnome
   - domain/knowledge
   - domain/nature
+alignment: Neutral
+domains: 'Knowledge, Nature'
+pantheon: Gnome
+province: 'Mining, stone carving'
+symbol: Golden signet ring with six pointed star
 aliases:
   - Callarduran Smoothhands
 ---

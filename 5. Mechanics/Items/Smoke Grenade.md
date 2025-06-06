@@ -8,6 +8,7 @@ tags:
   - item/weapon/explosive
 aliases:
   - Smoke Grenade
+weight: 2
 ---
 # Smoke Grenade
 *Explosive*  

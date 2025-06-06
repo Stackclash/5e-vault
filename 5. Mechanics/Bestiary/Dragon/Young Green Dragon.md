@@ -14,7 +14,7 @@ tags:
 aliases:
   - Young Green Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young Green Dragon.md|Young Green Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Young Green Dragon.md|Young Green Dragon]]
 *Source: Monster Manual p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
@@ -116,46 +116,50 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "ac_class": "natural armor"
 "hp": !!int "136"
 "hit_dice": "16d10 + 48"
+"modifier": !!int "1"
 "stats":
-- !!int "19"
-- !!int "12"
-- !!int "17"
-- !!int "16"
-- !!int "13"
-- !!int "15"
+  - !!int "19"
+  - !!int "12"
+  - !!int "17"
+  - !!int "16"
+  - !!int "13"
+  - !!int "15"
 "speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "6"
+  - "dexterity": "+4"
+  - "constitution": "+6"
+  - "wisdom": "+4"
+  - "charisma": "+5"
 "skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "4"
-  "Perception": !!int "7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "8"
 "traits":
-- "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
+  - "desc": "The dragon can breathe air and water."
+    "name": "Amphibious"
 "actions":
-- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10\
-    \ + 4) piercing damage plus 7 (2d6) poison damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
-    \ + 4) slashing damage."
-  "name": "Claw"
-- "desc": "The dragon exhales poisonous gas in a 30-foot cone. Each creature in that\
-    \ area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage\
-    \ on a failed save, or half as much damage on a successful one."
-  "name": "Poison Breath (Recharge 5-6)"
+  - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15\
+      \ (2d10 + 4) piercing damage plus 7 (2d6) poison damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+      \ (2d6 + 4) slashing damage."
+    "name": "Claw"
+  - "desc": "The dragon exhales poisonous gas in a 30-foot cone. Each creature in\
+      \ that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison\
+      \ damage on a failed save, or half as much damage on a successful one."
+    "name": "Poison Breath (Recharge 5-6)"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Dragon/token/young-green-dragon.webp"
 ```
 ^statblock

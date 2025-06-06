@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/veor
 aliases:
-  - 'Chapter 7: Tomb of Wayward Souls'
+  - Chapter 7: Tomb of Wayward Souls
 ---
 # Chapter 7: Tomb of Wayward Souls
 *Source: Vecna: Eve of Ruin* 
@@ -210,7 +210,7 @@ The doors at the end of the corridor are fake and can't be opened. Behind them i
 
 ##### Explosion Trap
 
-A creature that steps inside the corridor triggers a trap. When the creature touches the corridor floor, the floor tiles depress, and a slab of stone lodged in the ceiling lowers to the ground, sealing the corridor before flooding it with magical fire. Each creature inside the closed-off corridor must make a DC 20 Dexterity saving throw, taking `dice:8d6|noform|avg|text(28)` (`8d6`) fire damage on a failed save or half as much damage on a successful one.
+A creature that steps inside the corridor triggers a trap. When the creature touches the corridor floor, the floor tiles depress, and a slab of stone lodged in the ceiling lowers to the ground, sealing the corridor before flooding it with magical fire. Each creature inside the closed-off corridor must make a DC 20 Dexterity saving throw, taking `dice:8d6|noform|noparens|avg|text(28)` (`8d6`) fire damage on a failed save or half as much damage on a successful one.
 
 The stone slab seals off the corridor until the next dawn, when the slab rises into its ceiling cavity and the trap resets. In the meantime, a creature can use an action to try to lift the slab, creating a passable opening with a successful DC 18 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check.
 
@@ -223,7 +223,7 @@ The stone slab seals off the corridor until the next dawn, when the slab rises i
 
 ##### Arrow Trap
 
-Spring-loaded arrows are hidden in the pockmarked walls. A creature that enters the trapped area marked on map 7.3 for the first time on a turn or ends its turn there triggers a fusillade of arrows and must make a DC 20 Dexterity saving throw, taking `dice:6d8|noform|avg|text(27)` (`6d8`) piercing damage from the arrows on a failed save or half as much damage on a successful one. The 5-foot-wide area along the east wall is outside the trap's area and safe to stand in.
+Spring-loaded arrows are hidden in the pockmarked walls. A creature that enters the trapped area marked on map 7.3 for the first time on a turn or ends its turn there triggers a fusillade of arrows and must make a DC 20 Dexterity saving throw, taking `dice:6d8|noform|noparens|avg|text(27)` (`6d8`) piercing damage from the arrows on a failed save or half as much damage on a successful one. The 5-foot-wide area along the east wall is outside the trap's area and safe to stand in.
 
 ##### Doors' Secret
 
@@ -243,7 +243,7 @@ This is a clue for opening the door in area T4.
 > This hallway has been partially excavated. Lifted stone lids reveal a ten-foot-deep pit filled with spikes in the center of the corridor. A thin plank of wood is laid over the pit to allow for safe crossing.
 ^395
 
-Characters can use the wooden plank to cross the pit safely. A creature that falls into the pit takes `dice:1d10|noform|avg|text(5)` (`1d10`) piercing damage from the spikes, which turn the floor of the pit into "difficult terrain".
+Characters can use the wooden plank to cross the pit safely. A creature that falls into the pit takes `dice:1d10|noform|noparens|avg|text(5)` (`d10`) piercing damage from the spikes, which turn the floor of the pit into "difficult terrain".
 
 At the bottom of the pit, situated in the middle of its northeast wall, is a hidden door that leads to area T5.
 
@@ -300,7 +300,7 @@ The message gives clues as to the casks' contents.
 
 Each cask contains 20 pints of liquor. In order from left to right, the casks are marked with the following symbols:
 
-- **Green Star.** The liquor in this cask is infused with necromantic magic. A creature that drinks any amount of the liquor must make a DC 20 Constitution saving throw, taking `dice:5d8|noform|avg|text(22)` (`5d8`) necrotic damage on a failed save or half as much damage on a successful one.  
+- **Green Star.** The liquor in this cask is infused with necromantic magic. A creature that drinks any amount of the liquor must make a DC 20 Constitution saving throw, taking `dice:5d8|noform|noparens|avg|text(22)` (`5d8`) necrotic damage on a failed save or half as much damage on a successful one.  
 - **Blue Square.** A creature that drinks a pint or more of the liquor in this cask gains the benefit of a [[5. Mechanics/Items/Potion Of Diminution.md\|Potion of Diminution]]. A character reduced to Tiny size by the liquor can't fit through the narrow gaps between the floorboards (see the "Tunnel to Area T8" section for more information).  
 - **Green Crescent Moon.** A creature that drinks a pint or more of the liquor in this cask gains the benefit of an [[5. Mechanics/Items/Elixir Of Health.md\|Elixir of Health]].  
 - **Red Square.** A creature that drinks a pint or more of the liquor in this cask gains the benefit of a [[5. Mechanics/Items/Potion Of Gaseous Form.md\|Potion of Gaseous Form]]. A character in gaseous form can easily pass through the narrow gaps between the floorboards (see "Tunnel to Area T8" below).  
@@ -331,7 +331,7 @@ All the jewels embedded in the walls are made of worthless crystal except for on
 
 A character who succeeds on a DC 16 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check recalls that emeralds are used to contain water elementals.
 
-Whenever a creature touches one of the other jewels embedded in the walls, the statue glows and launches a blast of freezing magic down the hallway in a 30-foot line that is 5 feet wide. Each creature in that area must make a DC 20 Dexterity saving throw, taking `dice:6d10|noform|avg|text(33)` (`6d10`) cold damage on a failed save or half as much damage on a successful one.
+Whenever a creature touches one of the other jewels embedded in the walls, the statue glows and launches a blast of freezing magic down the hallway in a 30-foot line that is 5 feet wide. Each creature in that area must make a DC 20 Dexterity saving throw, taking `dice:6d10|noform|noparens|avg|text(33)` (`6d10`) cold damage on a failed save or half as much damage on a successful one.
 
 #### T7: Skeleton Closet
 
@@ -344,7 +344,7 @@ If examined with a [[5. Mechanics/Spells/Detect Magic.md\|Detect Magic]] spell o
 
 ##### Necklace Trap
 
-The first time a creature touches the necklace, it releases a burst of deathly energy in a 5-foot-radius sphere. Each creature in that area must make a DC 22 Constitution saving throw, taking `dice:8d8|noform|avg|text(36)` (`8d8`) necrotic damage on a failed save or half as much damage on a successful one.
+The first time a creature touches the necklace, it releases a burst of deathly energy in a 5-foot-radius sphere. Each creature in that area must make a DC 22 Constitution saving throw, taking `dice:8d8|noform|noparens|avg|text(36)` (`8d8`) necrotic damage on a failed save or half as much damage on a successful one.
 
 Once the trap has been triggered, the necklace becomes a mundane choker worth 1,200 gp.
 
@@ -389,7 +389,7 @@ Abalahin is covered with strangling vines that render the treant sluggish and di
 
 ##### Bobbing Spirit Lights
 
-There are `dice:1d8|noform|avg` (`1d8`) bobbing spirit lights (each uses the [[5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisp]] stat block and speaks Common and Sylvan) that fill the illusory glade at any given time. The spirit lights are part of the mirage, are indifferent to the characters' presence, and disappear if attacked. Any character with a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 17 or higher discerns the spirit lights whispering and overhears one of the following remarks:
+There are `dice:1d8|noform|noparens|avg` (`d8`) bobbing spirit lights (each uses the [[5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisp]] stat block and speaks Common and Sylvan) that fill the illusory glade at any given time. The spirit lights are part of the mirage, are indifferent to the characters' presence, and disappear if attacked. Any character with a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 17 or higher discerns the spirit lights whispering and overhears one of the following remarks:
 
 ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/115-07-004-wand-of-the-war-mage.webp#center\|+3 Wand of the War Mage]]
 
@@ -418,9 +418,9 @@ The 20-foot-high ceiling drops suddenly, stopping 6 inches above the floor befor
 
 Each time the trap triggers, have the characters roll initiative. The ceiling drops to its lowest point on initiative count 20 of each round, losing initiative ties, until the trap resets.
 
-Any creature in the room when the ceiling drops must make a DC 20 Dexterity saving throw. On a failed save, the creature takes `dice:10d10|noform|avg|text(55)` (`10d10`) bludgeoning damage and has the [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] condition. On a successful save, the creature can rush from the room, taking no damage, or remain in the room and take half as much damage only. A creature that can fit in spaces as narrow as 6 inches has advantage on the save thanks to the narrow gap that remains between the ceiling and floor when the ceiling is at its lowest level.
+Any creature in the room when the ceiling drops must make a DC 20 Dexterity saving throw. On a failed save, the creature takes `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) bludgeoning damage and has the [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] condition. On a successful save, the creature can rush from the room, taking no damage, or remain in the room and take half as much damage only. A creature that can fit in spaces as narrow as 6 inches has advantage on the save thanks to the narrow gap that remains between the ceiling and floor when the ceiling is at its lowest level.
 
-A Small or larger creature subjected to the trap can choose to make a DC 20 Strength saving throw instead of a Dexterity saving throw, provided the creature doesn't have the [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] condition, with the aim of slowing the ceiling's descent for the betterment of others. The creature making the Strength saving throw takes `dice:10d10|noform|avg|text(55)` (`10d10`) bludgeoning damage regardless of whether its save succeeds or fails. If the save succeeds, however, the trap's damage to other creatures is reduced to 0 until initiative count 20 of the next round (losing initiative ties).
+A Small or larger creature subjected to the trap can choose to make a DC 20 Strength saving throw instead of a Dexterity saving throw, provided the creature doesn't have the [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] condition, with the aim of slowing the ceiling's descent for the betterment of others. The creature making the Strength saving throw takes `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) bludgeoning damage regardless of whether its save succeeds or fails. If the save succeeds, however, the trap's damage to other creatures is reduced to 0 until initiative count 20 of the next round (losing initiative ties).
 
 The ceiling is too heavy to be stopped by any braces, but an [[5. Mechanics/Items/Immovable Rod.md\|Immovable Rod]] or similar item can prevent it from dropping so far as to crush anyone.
 
@@ -435,14 +435,14 @@ The chests are unlocked, and their contents are as follows:
 
 - **Gold Chest.** This [[5. Mechanics/Items/Chest.md\|chest]] is worth 100 gp on its own and contains 100 gp.  
 - **Silver Chest.** This [[5. Mechanics/Items/Chest.md\|chest]] is worth 50 gp on its own and contains a ceremonial [[5. Mechanics/Items/Dagger.md\|dagger]] plated with electrum with an amethyst set in its pommel (worth 750 gp).  
-- **Lead Chest.** This worthless [[5. Mechanics/Items/Chest.md\|chest]] contains a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Knock.md\|Knock]], which the altar trap values at 200 gp (see below).  
+- **Lead Chest.** This worthless [[5. Mechanics/Items/Chest.md\|chest]] contains a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Knock.md\|Knock]], which the altar trap values at 200 gp (see below).  
 
 ##### Altar Trap
 
 Removing a chest or its contents from a niche causes the altar's carvings to glow with pale light. Creatures in the room have 1 minute to either return the chest and its contents to the niche or place one or more items of equal or greater value into the niche. Otherwise, one of the following effects occurs when the time expires, depending on the chest involved:
 
 - **Gold Chest.** Six [[5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md\|swarms of poisonous snakes]] teleport into the room. The snakes are hostile.  
-- **Silver Chest.** A burst of desiccating energy radiates from the altar in a 15-foot-radius sphere. Each creature in the area must make a DC 17 Constitution saving throw, taking `dice:4d8|noform|avg|text(18)` (`4d8`) necrotic damage on a failed save or half as much damage on a successful one.  
+- **Silver Chest.** A burst of desiccating energy radiates from the altar in a 15-foot-radius sphere. Each creature in the area must make a DC 17 Constitution saving throw, taking `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) necrotic damage on a failed save or half as much damage on a successful one.  
 - **Lead Chest.** A [[5. Mechanics/Bestiary/Undead/Death Knight.md\|death knight]] teleports into the room, appearing in a random unoccupied space within 15 feet of the altar. The knight is hostile.  
 
 #### T12: Room of Respite
@@ -456,7 +456,7 @@ This room is safe.
 
 ##### Fountain
 
-The fountain's waters have healing properties. A creature that drinks from the fountain regains `dice:6d6|noform|avg|text(21)` (`6d6`) hit points. Once a creature has benefited from the fountain's magic, it can't do so again until the next dawn.
+The fountain's waters have healing properties. A creature that drinks from the fountain regains `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) hit points. Once a creature has benefited from the fountain's magic, it can't do so again until the next dawn.
 
 #### T13: Celestial Sky Mirage
 
@@ -477,7 +477,7 @@ A character observing the mirage of the night sky can make a DC 14 Intelligence 
 
 The engraved box can't be forced open, but a character can try to unlock it using thieves' tools, doing so with a successful a DC 20 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check. A [[5. Mechanics/Spells/Knock.md\|Knock]] spell or similar magic also unlocks the box.
 
-A character who inspects the box before opening it can make a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. On a successful check, the character notices a spring-loaded compartment beneath the box's lid. A character can use thieves' tools to try to dismantle this compartment and disable the trap, doing so with a successful DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check. If the trap isn't deactivated, poisoned darts burst from the box when it's opened. Each creature within 10 feet of the box when the trap is sprung must succeed on a DC 20 Dexterity saving throw or take `dice:4d4|noform|avg|text(10)` (`4d4`) piercing damage and have the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition for 1 hour.
+A character who inspects the box before opening it can make a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. On a successful check, the character notices a spring-loaded compartment beneath the box's lid. A character can use thieves' tools to try to dismantle this compartment and disable the trap, doing so with a successful DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check. If the trap isn't deactivated, poisoned darts burst from the box when it's opened. Each creature within 10 feet of the box when the trap is sprung must succeed on a DC 20 Dexterity saving throw or take `dice:4d4|noform|noparens|avg|text(10)` (`4d4`) piercing damage and have the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition for 1 hour.
 
 ##### Treasure
 
@@ -522,7 +522,7 @@ Once the stone has been destroyed or both juggernauts have been defeated, charac
 > Filling most of this chamber is a ten-foot-deep pit of green acid, over which stretches a three-foot-wide stone bridge. Nozzles embedded in the north and south walls shoot blasts of air across the bridge.
 ^3c1
 
-A creature that falls into the acid takes `dice:6d6|noform|avg|text(21)` (`6d6`) acid damage. Any creature that starts its turn in the acid also takes this damage.
+A creature that falls into the acid takes `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) acid damage. Any creature that starts its turn in the acid also takes this damage.
 
 ##### Gust Nozzles
 
@@ -565,7 +565,7 @@ One of the central statue's swords functions as a [[5. Mechanics/Items/Sword Of 
 > Eight niches are built into these walls. Each niche contains a musical instrument: a lute, a lyre, a viol, a flute, a drum, a dulcimer, a shawm, and a horn. At the end of the hallway is a double door emblazoned with two theater masks—one elated and one despairing.
 ^3c9
 
-When a creature comes within 5 feet of any of the instruments, they all glow with a purple light and begin playing on their own, filling the hall with an awful din. Each creature in the hall must make a DC 20 Wisdom saving throw, taking `dice:3d10|noform|avg|text(16)` (`3d10`) psychic damage on a failed save or half as much damage on a successful one. After the damage is dealt, the instruments cease to play or glow, becoming normal items of their kind.
+When a creature comes within 5 feet of any of the instruments, they all glow with a purple light and begin playing on their own, filling the hall with an awful din. Each creature in the hall must make a DC 20 Wisdom saving throw, taking `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) psychic damage on a failed save or half as much damage on a successful one. After the damage is dealt, the instruments cease to play or glow, becoming normal items of their kind.
 
 ##### Mask Door
 
@@ -578,9 +578,9 @@ Thin script engraved above the pair of masks reads as follows:
 > "Pay the toll, in blood or in song."
 ^3cb
 
-There are two ways to open the doors. A character can play one of the hallway's instruments and make a DC 20 Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) check; if the character doesn't have proficiency with the chosen instrument, this check is made with disadvantage. On a successful check, the doors open. On a failed check, the character takes `dice:3d10|noform|avg|text(16)` (`3d10`) psychic damage, and the doors remain locked.
+There are two ways to open the doors. A character can play one of the hallway's instruments and make a DC 20 Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) check; if the character doesn't have proficiency with the chosen instrument, this check is made with disadvantage. On a successful check, the doors open. On a failed check, the character takes `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) psychic damage, and the doors remain locked.
 
-Alternatively, a character can place one of their arms into a mask's open mouth. When each mouth has an arm in it, the mouths clamp down. If both arms belong to the same character, that character takes `dice:8d6|noform|avg|text(28)` (`8d6`) piercing damage; if the arms belong to different characters, each character takes `dice:4d6|noform|avg|text(14)` (`4d6`) piercing damage. The mouths then unclamp, and the doors unlock.
+Alternatively, a character can place one of their arms into a mask's open mouth. When each mouth has an arm in it, the mouths clamp down. If both arms belong to the same character, that character takes `dice:8d6|noform|noparens|avg|text(28)` (`8d6`) piercing damage; if the arms belong to different characters, each character takes `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) piercing damage. The mouths then unclamp, and the doors unlock.
 
 #### T19: Library
 
@@ -599,7 +599,7 @@ Whenever an item is removed from this room's shelves, one of the five skeletal s
 
 A thorough search of the shelves' contents takes 10 minutes and yields the following items:
 
-- [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Greater Restoration.md\|Greater Restoration]]  
+- [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Greater Restoration.md\|Greater Restoration]]  
 - Set of engraved copper sheets that functions as a [[5. Mechanics/Items/Manual Of Bodily Health.md\|Manual of Bodily Health]] (one of the treasures Laysa mentioned earlier in this chapter)  
 - Thin, leather-bound journal written in Common that explains that the combination for the crypt doors (area T25) is the word "die" in Draconic  
 
@@ -627,7 +627,7 @@ In the center of each room is an uncontrolled [[5. Mechanics/Items/Sphere Of Ann
 
 This room is filled with magical darkness, and neither the darkness nor the eerie sounds can be dispelled. Any creature that enters this room for the first time must succeed on a DC 18 Wisdom saving throw or have the [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] condition, as the darkness and eerie sounds conjure up the creature's deepest fears. The [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] condition ends on the creature when it leaves the room.
 
-While [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] in this way, a creature takes `dice:2d10|noform|avg|text(11)` (`2d10`) psychic damage for every 5 feet it moves. After taking this damage, the creature can repeat the saving throw, ending the frightened condition on a itself on a success.
+While [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] in this way, a creature takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) psychic damage for every 5 feet it moves. After taking this damage, the creature can repeat the saving throw, ending the frightened condition on a itself on a success.
 
 ##### Piercing the Illusion
 
@@ -661,7 +661,7 @@ When observed within the range of a [[5. Mechanics/Spells/Detect Magic.md\|Detec
 - The school of transmutation magic deals with manipulating energy and matter.  
 - Evocation spells create powerful elemental effects.  
 
-If the players have trouble with this puzzle, reveal that the characters must step on only evocation or transmutation tiles, and tell them which colors these tiles are. When a creature steps on an incorrect tile, the tile breaks away, and both the tile and the creature are sucked into the vortex below. The creature takes `dice:8d8|noform|avg|text(36)` (`8d8`) force damage and is teleported to a safe, unoccupied space at the south end of the room or in the tunnel leading to area T19.
+If the players have trouble with this puzzle, reveal that the characters must step on only evocation or transmutation tiles, and tell them which colors these tiles are. When a creature steps on an incorrect tile, the tile breaks away, and both the tile and the creature are sucked into the vortex below. The creature takes `dice:8d8|noform|noparens|avg|text(36)` (`8d8`) force damage and is teleported to a safe, unoccupied space at the south end of the room or in the tunnel leading to area T19.
 
 #### T23: Arcane Laboratory
 
@@ -676,7 +676,7 @@ This chamber bears the remnants of Acererak's endeavors to create empowered simu
 
 A character who searches the desk and succeeds on a DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check discovers that one of its drawers contains a locked false bottom. Rerak (see area T26) carries the key to this compartment, but a character with thieves' tools can use them to try to unlock the compartment, doing so with a successful DC 20 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check. A [[5. Mechanics/Spells/Knock.md\|Knock]] spell or similar magic also unlocks the compartment.
 
-The secret compartment bears a magical trap. If the compartment is opened by any means other than using the key found on Rerak in area T26, magical lightning shoots from the drawer. Each creature in the room must make a DC 15 Dexterity saving throw, taking `dice:4d12|noform|avg|text(26)` (`4d12`) lightning damage on a failed save or half as much damage on a successful one. A [[5. Mechanics/Spells/Detect Magic.md\|Detect Magic]] spell or similar effect unveils the source of this trap: a tiny rune inscribed in the drawer. The trap can be disarmed by dispelling the rune with a [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] spell (DC 17).
+The secret compartment bears a magical trap. If the compartment is opened by any means other than using the key found on Rerak in area T26, magical lightning shoots from the drawer. Each creature in the room must make a DC 15 Dexterity saving throw, taking `dice:4d12|noform|noparens|avg|text(26)` (`4d12`) lightning damage on a failed save or half as much damage on a successful one. A [[5. Mechanics/Spells/Detect Magic.md\|Detect Magic]] spell or similar effect unveils the source of this trap: a tiny rune inscribed in the drawer. The trap can be disarmed by dispelling the rune with a [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] spell (DC 17).
 
 ##### Treasure
 
@@ -718,7 +718,7 @@ When the three concentric rings are aligned so they spell the word "die" in Drac
 
 ##### Knockout-Gas Trap
 
-If the double door is opened via any other means besides the correct combination, a cloud of sweet-smelling gas is released from the skull engraving. The gas fills the widened area immediately south of the double door. Each creature in that area must succeed on a DC 20 Constitution saving throw or have the [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] condition for `dice:2d4+10|noform|avg` (`2d4 + 10`) minutes. An [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] creature can repeat this saving throw each time it takes damage, ending the effect on itself on a successful save.
+If the double door is opened via any other means besides the correct combination, a cloud of sweet-smelling gas is released from the skull engraving. The gas fills the widened area immediately south of the double door. Each creature in that area must succeed on a DC 20 Constitution saving throw or have the [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] condition for `dice:2d4+10|noform|noparens|avg` (`2d4 + 10`) minutes. An [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] creature can repeat this saving throw each time it takes damage, ending the effect on itself on a successful save.
 
 #### T26: Crypt
 
@@ -747,7 +747,7 @@ Regardless of the characters' reaction to this revelation, learning it counts as
 
 ##### False Treasures
 
-The items on the pedestals are false re-creations of treasures that can be found throughout the complex. A creature that touches one of these false treasures must immediately succeed on a DC 15 Constitution saving throw or take `dice:3d6|noform|avg|text(10)` (`3d6`) necrotic damage and have the [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] condition until the start of its next turn.
+The items on the pedestals are false re-creations of treasures that can be found throughout the complex. A creature that touches one of these false treasures must immediately succeed on a DC 15 Constitution saving throw or take `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) necrotic damage and have the [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] condition until the start of its next turn.
 
 ##### Keys
 
@@ -759,7 +759,7 @@ If the characters convinced Rerak to turn against his creator, Rerak provides th
 
 #### T27: Crypt Vault
 
-The door to the crypt vault is locked and protected by magical wards. It can be unlocked only with the platinum skeleton key in Rerak's possession. A creature that attempts to open the vault by any other means must make a DC 25 Dexterity saving throw, taking `dice:8d6|noform|avg|text(28)` (`8d6`) force damage on a failed save or half as much damage on a successful one.
+The door to the crypt vault is locked and protected by magical wards. It can be unlocked only with the platinum skeleton key in Rerak's possession. A creature that attempts to open the vault by any other means must make a DC 25 Dexterity saving throw, taking `dice:8d6|noform|noparens|avg|text(28)` (`8d6`) force damage on a failed save or half as much damage on a successful one.
 
 The [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|sixth piece]] of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] rests on the pedestal.
 

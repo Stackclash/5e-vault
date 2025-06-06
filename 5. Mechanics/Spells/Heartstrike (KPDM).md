@@ -8,25 +8,33 @@ tags:
   - spell/class/ranger
   - spell/level/2nd-level
   - spell/school/divination
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Ranger
 school: Divination
-time: 1 bonus
+level: 2
+ritual: false
+time: 1 Bonus Action
 duration: Instantaneous
-components: 'V, S, an arrow, bolt, or other missile'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Heartstrike
+material: 'an arrow, bolt, or other missile'
 ---
 # Heartstrike
 *2nd-level, Divination*  
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Self
-- **Components:** V, S, an arrow, bolt, or other missile
+- **Components:** V, S, M (an arrow, bolt, or other missile)
 - **Duration:** Instantaneous
 
 The spirits of ancient archers carry your missiles straight to their targets. You have advantage on ranged weapon attacks until the start of your next turn, and you can ignore penalties for your enemies having half cover or three-quarters cover, and for an area being lightly obscured, when making those attacks.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 79*

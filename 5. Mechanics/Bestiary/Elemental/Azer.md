@@ -13,7 +13,7 @@ tags:
 aliases:
   - Azer
 ---
-# [[5. Mechanics/Bestiary/Elemental/Azer.md|Azer]]
+# [[5. Mechanics\Bestiary\Elemental\Azer.md|Azer]]
 *Source: Monster Manual p. 22. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Natives of the Elemental Plane of Fire, azers are master crafters, expert miners, and sworn foes of the efreet. In appearance and manner, an azer resembles a male dwarf, but this is a facade. Beneath its metallic looking skin, an azer is a being of fire, which outwardly manifests in its fiery hair and beard.
@@ -54,38 +54,39 @@ An azer doesn't require food, drink, or sleep.
 "ac_class": "natural armor, [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
+"modifier": !!int "1"
 "stats":
-- !!int "17"
-- !!int "12"
-- !!int "15"
-- !!int "12"
-- !!int "13"
-- !!int "10"
+  - !!int "17"
+  - !!int "12"
+  - !!int "15"
+  - !!int "12"
+  - !!int "13"
+  - !!int "10"
 "speed": "30 ft."
 "saves":
-  "Constitution": !!int "4"
+  - "constitution": "+4"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "passive Perception 11"
 "languages": "Ignan"
 "cr": "2"
 "traits":
-- "desc": "A creature that touches the azer or hits it with a melee attack while within\
-    \ 5 feet of it takes 5 (1d10) fire damage."
-  "name": "Heated Body"
-- "desc": "When the azer hits with a metal melee weapon, it deals an extra 3 (1d6)\
-    \ fire damage (included in the attack)."
-  "name": "Heated Weapons"
-- "desc": "The azer sheds bright light in a 10-foot radius and dim light for an additional\
-    \ 10 feet."
-  "name": "Illumination"
+  - "desc": "A creature that touches the azer or hits it with a melee attack while\
+      \ within 5 feet of it takes 5 (d10) fire damage."
+    "name": "Heated Body"
+  - "desc": "When the azer hits with a metal melee weapon, it deals an extra 3 (d6)\
+      \ fire damage (included in the attack)."
+    "name": "Heated Weapons"
+  - "desc": "The azer sheds bright light in a 10-foot radius and dim light for an\
+      \ additional 10 feet."
+    "name": "Illumination"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
-    \ + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two\
-    \ hands to make a melee attack, plus 3 (1d6) fire damage."
-  "name": "Warhammer"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+      \ + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two\
+      \ hands to make a melee attack, plus 3 (d6) fire damage."
+    "name": "Warhammer"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Elemental/token/azer.webp"
 ```
 ^statblock

@@ -7,6 +7,10 @@ tags:
   - domain/death
   - domain/tempest
   - domain/trickery
+alignment: Chaotic Evil
+domains: 'Death, Tempest, Trickery'
+pantheon: Egyptian
+symbol: Coiled cobra
 aliases:
   - Set
 ---

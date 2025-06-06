@@ -6,6 +6,10 @@ tags:
   - deity/norse
   - domain/light
   - domain/war
+alignment: Lawful Good
+domains: 'Light, War'
+pantheon: Norse
+symbol: Curling musical horn
 aliases:
   - Heimdall
 ---

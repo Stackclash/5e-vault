@@ -7,6 +7,11 @@ tags:
   - domain/death
   - domain/grave
   - domain/knowledge
+alignment: Lawful Neutral
+domains: 'Death, Grave, Knowledge'
+pantheon: Halfling
+province: 'Earth, death'
+symbol: Silhouette of a dog's head
 aliases:
   - Urogalan
 ---

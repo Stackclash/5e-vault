@@ -6,6 +6,10 @@ tags:
   - deity/forgotten-realms
   - domain/forge
   - domain/knowledge
+alignment: Neutral
+domains: 'Forge, Knowledge'
+pantheon: Forgotten Realms
+symbol: Toothed cog with four spokes
 aliases:
   - Gond
 ---

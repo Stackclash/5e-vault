@@ -9,6 +9,7 @@ aliases:
   - Shield
 cost: 1000
 armorClass: 2
+weight: 6
 ---
 # Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]])*  

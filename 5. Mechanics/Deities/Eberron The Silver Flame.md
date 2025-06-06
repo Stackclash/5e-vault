@@ -7,6 +7,11 @@ tags:
   - domain/life
   - domain/light
   - domain/war
+alignment: Lawful Good
+category: Other Faiths of Eberron
+domains: 'Life, Light, War'
+pantheon: Eberron
+symbol: Flame drawn on silver or molded from silver
 aliases:
   - The Silver Flame
 ---

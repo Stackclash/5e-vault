@@ -12,7 +12,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Fragments-of-Chaos.webp#right)  
 
 
-When found, this necklace has `dice:1d3+2|noform|avg` (`1d3 + 2`) glass beads hanging from it. Each bead contains a small amount of energy from the plane of chaos. While wearing the necklace, you can use an action to wrench off one of the beads and throw it at a point that you can see within 60 feet of you. The bead shatters upon impact, and a random effect occurs, centered at that point. Each time you throw a bead, roll a `dice:d8|noform|avg` (`d8`) and use the table below to determine what effect occurs (save DC 16).
+When found, this necklace has `dice:1d3+2|noform|noparens|avg` (`1d3 + 2`) glass beads hanging from it. Each bead contains a small amount of energy from the plane of chaos. While wearing the necklace, you can use an action to wrench off one of the beads and throw it at a point that you can see within 60 feet of you. The bead shatters upon impact, and a random effect occurs, centered at that point. Each time you throw a bead, roll a `dice:d8|noform|noparens|avg` (`d8`) and use the table below to determine what effect occurs (save DC 16).
 
 `dice: [[Fragments Of Chaos (GRIFFONSSADDLEBAG4).md#^1-effect]]`
 

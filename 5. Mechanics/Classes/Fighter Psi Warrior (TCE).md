@@ -8,7 +8,7 @@ aliases:
   - Psi Warrior
 ---
 # Psi Warrior
-*[[Fighter.md\|Fighter]]: Martial Archetype*  
+*[[.nullFighter.md\|Fighter]]: Martial Archetype*  
 *Source: Tasha's Cauldron of Everything p. 42*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Psi%20Warrior%20(Level%203)'>Psi Warrior</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Psi Warrior (Level 3)' class='internal-link'>Psi Warrior</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Telekinetic%20Adept%20(Level%207)'>Telekinetic Adept</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Telekinetic Adept (Level 7)' class='internal-link'>Telekinetic Adept</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Guarded%20Mind%20(Level%2010)'>Guarded Mind</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Guarded Mind (Level 10)' class='internal-link'>Guarded Mind</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Bulwark%20of%20Force%20(Level%2015)'>Bulwark of Force</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Bulwark of Force (Level 15)' class='internal-link'>Bulwark of Force</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Telekinetic%20Master%20(Level%2018)'>Telekinetic Master</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Telekinetic Master (Level 18)' class='internal-link'>Telekinetic Master</a></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -54,11 +55,11 @@ As a Psi Warrior, you might have honed your psionic abilities through solo disci
 
 *3rd-level Psi Warrior feature*
 
-You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a `dice:d6|noform|avg` (`d6`). You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
+You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a `dice:d6|noform|noparens|avg` (`d6`). You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
 
 Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.
 
-When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (`dice:d8|noform|avg` (`d8`)), 11th level (`dice:d10|noform|avg` (`d10`)), and 17th level (`dice:d12|noform|avg` (`d12`)).
+When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (`dice:d8|noform|noparens|avg` (`d8`)), 11th level (`dice:d10|noform|noparens|avg` (`d10`)), and 17th level (`dice:d12|noform|noparens|avg` (`d12`)).
 
 The powers below use your Psionic Energy dice.
 

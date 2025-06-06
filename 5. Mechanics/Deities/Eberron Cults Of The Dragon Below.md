@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/eberron
   - domain/trickery
+alignment: Neutral Evil
+category: Other Faiths of Eberron
+domains: Trickery
+pantheon: Eberron
+symbol: Varies
 aliases:
   - Cults of the Dragon Below
 ---

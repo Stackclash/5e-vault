@@ -8,7 +8,7 @@ aliases:
   - Hunter
 ---
 # Hunter
-*[[Ranger.md\|Ranger]]: Ranger Archetype*  
+*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
 *Source: Player's Handbook p. 93. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Hunter%20(Level%203)'>Hunter</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Hunter (Level 3)' class='internal-link'>Hunter</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Defensive%20Tactics%20(Level%207)'>Defensive Tactics</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Defensive Tactics (Level 7)' class='internal-link'>Defensive Tactics</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Multiattack%20(Level%2011)'>Multiattack</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Multiattack (Level 11)' class='internal-link'>Multiattack</a></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Superior%20Hunter's%20Defense%20(Level%2015)'>Superior Hunter's Defense</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Superior Hunter's Defense (Level 15)' class='internal-link'>Superior Hunter's Defense</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -54,7 +55,7 @@ At 3rd level, you gain one of the following features of your choice.
 
 - **Colossus Slayer**  
 
-    Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra `dice:1d8|noform|avg` (`1d8`) damage if it's below its hit point maximum. You can deal this extra damage only once per turn.  
+    Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra `dice:1d8|noform|noparens|avg` (`d8`) damage if it's below its hit point maximum. You can deal this extra damage only once per turn.  
 
 - **Giant Killer**  
 

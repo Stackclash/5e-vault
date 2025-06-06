@@ -9,22 +9,23 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of the Magi
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Staff of the Magi
 *Staff, weapon, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
 ![[5. Mechanics/Items/img/staff-of-the-magi.webp#right]]  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.
 
-The staff has 50 charges for the following properties. It regains `dice:4d6+2|noform|avg` (`4d6 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 20, the staff regains `dice:1d12+1|noform|avg` (`1d12 + 1`) charges.
+The staff has 50 charges for the following properties. It regains `dice:4d6+2|noform|noparens|avg` (`4d6 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 20, the staff regains `dice:1d12+1|noform|noparens|avg` (`1d12 + 1`) charges.
 
 ## Spell Absorption
 

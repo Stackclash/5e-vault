@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greyhawk
   - domain/war
+alignment: Lawful Evil
+domains: War
+pantheon: Greyhawk
+symbol: Six arrows facing downward in a fan
 aliases:
   - Hextor
 ---

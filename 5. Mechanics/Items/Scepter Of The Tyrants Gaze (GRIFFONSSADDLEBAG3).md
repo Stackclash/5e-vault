@@ -17,7 +17,7 @@ aliases:
 
 This gilded rod features a sculpted eye bound within a mass of entangled tentacles. At the center of the eye is a dark gemstone. While holding the rod, you have advantage on saving throws against spells.
 
-The scepter has 10 charges and regains `dice:1d6+4|noform|avg` (`1d6 + 4`) expended charges daily at dawn. While holding the scepter, you can use an action to expend up to 3 of its charges, firing a beam of colored light for each expended charge. Each beam can target a creature that you can see within 60 feet of you; make a ranged spell attack for each one, using an attack bonus of +7. On a hit, the target takes `dice:4d6|noform|avg` (`4d6`) force damage and suffers an additional effect (save DC 15). Roll a `dice:d10|noform|avg` (`d10`) and use the table below to determine each beam's color and additional effect.
+The scepter has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. While holding the scepter, you can use an action to expend up to 3 of its charges, firing a beam of colored light for each expended charge. Each beam can target a creature that you can see within 60 feet of you; make a ranged spell attack for each one, using an attack bonus of +7. On a hit, the target takes `dice:4d6|noform|noparens|avg` (`4d6`) force damage and suffers an additional effect (save DC 15). Roll a `dice:d10|noform|noparens|avg` (`d10`) and use the table below to determine each beam's color and additional effect.
 
 `dice: [[Scepter Of The Tyrants Gaze (GRIFFONSSADDLEBAG3).md#^beam-color-additional-effect]]`
 

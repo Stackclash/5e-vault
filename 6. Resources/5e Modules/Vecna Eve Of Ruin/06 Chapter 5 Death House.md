@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/veor
 aliases:
-  - 'Chapter 5: Death House'
+  - Chapter 5: Death House
 ---
 # Chapter 5: Death House
 *Source: Vecna: Eve of Ruin* 
@@ -384,13 +384,13 @@ This secret room contains bookshelves packed with tomes describing Fiend-summoni
 
 ##### Trapped Chest
 
-An unlocked treasure chest stands against the room's south wall. When a creature opens this chest's lid, poison-tipped darts shoot from a spring-loaded mechanism attached to the lid's underside. Each creature within 10 feet of the chest that isn't behind total cover takes `dice:1d4|noform|avg|text(2)` (`1d4`) piercing damage and must succeed on a DC 15 Constitution saving throw or take `dice:4d10|noform|avg|text(22)` (`4d10`) poison damage and have the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition for 1 hour.
+An unlocked treasure chest stands against the room's south wall. When a creature opens this chest's lid, poison-tipped darts shoot from a spring-loaded mechanism attached to the lid's underside. Each creature within 10 feet of the chest that isn't behind total cover takes `dice:1d4|noform|noparens|avg|text(2)` (`d4`) piercing damage and must succeed on a DC 15 Constitution saving throw or take `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) poison damage and have the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition for 1 hour.
 
 A character who succeeds on a DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check while examining the chest spots the trap mechanism. As an action, a character can use thieves' tools to make a DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check to disarm the trap. Failing this check triggers the trap.
 
 ##### Treasure
 
-The chest contains three blank books with black leather covers (worth 25 gp each) and three [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scrolls]] ([[5. Mechanics/Spells/Bless.md\|Bless]], [[5. Mechanics/Spells/Protection From Poison.md\|Protection from Poison]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|Spiritual Weapon]]).
+The chest contains three blank books with black leather covers (worth 25 gp each) and three [[5. Mechanics/Items/Spell Scroll.md\|Spell Scrolls]] ([[5. Mechanics/Spells/Bless.md\|Bless]], [[5. Mechanics/Spells/Protection From Poison.md\|Protection from Poison]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|Spiritual Weapon]]).
 
 #### D10: Conservatory
 
@@ -517,7 +517,7 @@ Roll on the Death House Encounters table the first time a character enters this 
 
 ##### Treasure
 
-Inside the toy chest is a doll that resembles a tall, pale human with black hair and a pronounced widow's peak. Something papery rattles inside the doll's hollow body. A character who removes the doll's head and looks down its neck finds a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Detect Evil And Good.md\|Detect Evil and Good]].
+Inside the toy chest is a doll that resembles a tall, pale human with black hair and a pronounced widow's peak. Something papery rattles inside the doll's hollow body. A character who removes the doll's head and looks down its neck finds a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Detect Evil And Good.md\|Detect Evil and Good]].
 
 #### D21: Secret Stairs
 
@@ -578,7 +578,7 @@ In addition to worthless personal effects, each chest contains one of the follow
 > As you move farther down this tunnel, the chanting heard throughout the dungeon gets louder to the west.
 ^284
 
-A character who examines the floor and succeeds on a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check notices a suspicious absence of footprints in this hallway. A character searching the floor for traps finds a 5-foot-long, 10-foot-deep pit hidden under rotted wooden planks. The pit has poisoned wooden spikes at the bottom. The first character to step on the cover falls through, landing [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and taking `dice:1d6|noform|avg|text(3)` (`1d6`) bludgeoning damage from the fall plus `dice:2d10|noform|avg|text(11)` (`2d10`) piercing damage and `dice:2d10|noform|avg|text(11)` (`2d10`) poison damage from the spikes.
+A character who examines the floor and succeeds on a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check notices a suspicious absence of footprints in this hallway. A character searching the floor for traps finds a 5-foot-long, 10-foot-deep pit hidden under rotted wooden planks. The pit has poisoned wooden spikes at the bottom. The first character to step on the cover falls through, landing [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and taking `dice:1d6|noform|noparens|avg|text(3)` (`d6`) bludgeoning damage from the fall plus `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) piercing damage and `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) poison damage from the spikes.
 
 #### D27: Dining Hall
 
@@ -799,7 +799,7 @@ To escape the dining hall, each character trapped in it must drink from one of t
 
 ##### Failed Exit
 
-If after 1 minute no one has drunk from a chalice, Strahd's illusion dissolves into a cloud of bats that quickly fills the chamber. At the start of each turn, the bats deal `dice:2d6|noform|avg|text(7)` (`2d6`) piercing damage to each creature in the haunted zone. After 5 turns, the bats completely obscure the characters' vision, and the characters exit the haunted zone.
+If after 1 minute no one has drunk from a chalice, Strahd's illusion dissolves into a cloud of bats that quickly fills the chamber. At the start of each turn, the bats deal `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) piercing damage to each creature in the haunted zone. After 5 turns, the bats completely obscure the characters' vision, and the characters exit the haunted zone.
 
 #### Endless Graveyard
 
@@ -835,7 +835,7 @@ A character at the harpsichord can make a DC 14 Charisma ([[/5. Mechanics/Rules/
 
 ##### Failed Exit
 
-If after 1 minute no one has successfully played the rest of the song, the illusion of Strahd reappears at the harpsichord and hammers out a series of chords. Each character takes `dice:2d10|noform|avg|text(11)` (`2d10`) thunder damage and exits the haunted zone.
+If after 1 minute no one has successfully played the rest of the song, the illusion of Strahd reappears at the harpsichord and hammers out a series of chords. Each character takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) thunder damage and exits the haunted zone.
 
 #### The Crying Room
 

@@ -8,7 +8,7 @@ aliases:
   - Way of the Kensei
 ---
 # Way of the Kensei
-*[[Monk.md\|Monk]]: Monastic Tradition*  
+*[[.nullMonk.md\|Monk]]: Monastic Tradition*  
 *Source: Xanathar's Guide to Everything p. 34*  
 
 > [!tldr] Class and Feature Progression
@@ -20,27 +20,32 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Way%20of%20the%20Kensei%20(Level%203)'>Way of the Kensei</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Way of the Kensei (Level 3)' class='internal-link'>Way of the Kensei</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#One%20with%20the%20Blade%20(Level%206)'>One with the Blade</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#One with the Blade (Level 6)' class='internal-link'>One with the Blade</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Sharpen%20the%20Blade%20(Level%2011)'>Sharpen the Blade</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Sharpen the Blade (Level 11)' class='internal-link'>Sharpen the Blade</a></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Unerring%20Accuracy%20(Level%2017)'>Unerring Accuracy</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Unerring Accuracy (Level 17)' class='internal-link'>Unerring Accuracy</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
 
+^class-progression
+
+
+> [!quote] A quote from Xanathar  
+> 
+> Why did the samurai cross the road?... Now you say "Why?"... Okay, here's the joke part: I kensei. Get it? What? Why aren't you laughing? The joke is solid gold, and my delivery was perfect. Maybe you didn't get it because you're stupid.
 
 ## Class Features
 
@@ -65,7 +70,7 @@ Choose two types of weapons to be your kensei weapons: one melee weapon and one 
 
 - **Kensei's Shot**  
 
-    You can use a bonus action on your turn to make your ranged attacks with a kensei weapon more deadly. When you do so, any target you hit with a ranged attack using a kensei weapon takes an extra `dice:1d4|noform|avg` (`1d4`) damage of the weapon's type. You retain this benefit until the end of the current turn.  
+    You can use a bonus action on your turn to make your ranged attacks with a kensei weapon more deadly. When you do so, any target you hit with a ranged attack using a kensei weapon takes an extra `dice:1d4|noform|noparens|avg` (`d4`) damage of the weapon's type. You retain this benefit until the end of the current turn.  
 
 #### Way of the Brush
 _Source: Xanathar's Guide to Everything_

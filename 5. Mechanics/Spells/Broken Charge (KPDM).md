@@ -11,27 +11,34 @@ tags:
   - spell/school/enchantment
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 school: Enchantment
-time: 1 reaction
+level: 1
+ritual: false
+time: 1 Reaction
 duration: Instantaneous
-components: V
+components:
+  - V
 aliases:
   - Broken Charge
 ---
 # Broken Charge
 *1st-level, Enchantment*  
 
-- **Casting time:** 1 reaction
+- **Casting time:** 1 Reaction
 - **Range:** 5 feet
 - **Components:** V
 - **Duration:** Instantaneous
 
-When an enemy that you can see moves to within 5 feet of you, you utter a perplexing word that alters the foe's course. The enemy must make a successful Wisdom saving throw or take `dice:2d4|noform|avg` (`2d4`) psychic damage and use the remainder of its speed to move in a direction of your choosing.
+When an enemy that you can see moves to within 5 feet of you, you utter a perplexing word that alters the foe's course. The enemy must make a successful Wisdom saving throw or take `dice:2d4|noform|noparens|avg` (`2d4`) psychic damage and use the remainder of its speed to move in a direction of your choosing.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the target takes an additional `dice:2d4|noform|avg|text(2d4)` psychic damage for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the target takes an additional `dice:2d4|noform|noparens|avg|text(2d4)` psychic damage for each slot level above 1st.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 47*

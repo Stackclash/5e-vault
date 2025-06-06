@@ -15,7 +15,7 @@ aliases:
 
 These dark purple leather gloves are lined with a matching leopard's fur. While wearing them, your eyes shimmer in the dark, like a cat's, and you have a climbing speed of 30 feet.
 
-Short, diamond claws are attached to the gauntlets' fingertips. While wearing them, you can use a bonus action to retract or extend the claws. While extended, the clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack and damage rolls and a damage die of `dice:1d6|noform|avg` (`1d6`) (unless the damage of your unarmed strikes is already higher).
+Short, diamond claws are attached to the gauntlets' fingertips. While wearing them, you can use a bonus action to retract or extend the claws. While extended, the clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack and damage rolls and a damage die of `dice:1d6|noform|noparens|avg` (`d6`) (unless the damage of your unarmed strikes is already higher).
 
 ## Pounce
 

@@ -21,6 +21,6 @@ You can use an action to flip the coin and hold a question in your mind, allowin
 - If "Weal and Woe" is facing you, the answer to your question is "weal and woe."  
 - If the coin lands upright on its edge, the answer is "nothing" instead.  
 
-Each time you flip the coin, roll a `dice:d20|noform|avg` (`d20`). On a 1 or lower, the coin shatters and is destroyed. The maximum number that needs to be rolled to destroy the coin in this way increases by 1 each time the coin is flipped after the first. When found, the coin has already been flipped `dice:1d4-1|noform|avg` (`1d4 - 1`) times.
+Each time you flip the coin, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1 or lower, the coin shatters and is destroyed. The maximum number that needs to be rolled to destroy the coin in this way increases by 1 each time the coin is flipped after the first. When found, the coin has already been flipped `dice:1d4-1|noform|noparens|avg` (`1d4 - 1`) times.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

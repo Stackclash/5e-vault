@@ -8,7 +8,7 @@ aliases:
   - Oath of the Watchers
 ---
 # Oath of the Watchers
-*[[Paladin.md\|Paladin]]: Sacred Oath*  
+*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
 *Source: Tasha's Cauldron of Everything p. 54*  
 
 > [!tldr] Class and Feature Progression
@@ -20,11 +20,11 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath%20of%20the%20Watchers%20(Level%203)'>Oath of the Watchers</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath of the Watchers (Level 3)' class='internal-link'>Oath of the Watchers</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Aura%20of%20the%20Sentinel%20(Level%207)'>Aura of the Sentinel</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Aura of the Sentinel (Level 7)' class='internal-link'>Aura of the Sentinel</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -32,14 +32,15 @@ aliases:
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Vigilant%20Rebuke%20(Level%2015)'>Vigilant Rebuke</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Vigilant Rebuke (Level 15)' class='internal-link'>Vigilant Rebuke</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Mortal%20Bulwark%20(Level%2020)'>Mortal Bulwark</a></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Mortal Bulwark (Level 20)' class='internal-link'>Mortal Bulwark</a></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -114,7 +115,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 *15th-level Oath of the Watchers feature*
 
-You've learned how to chastise anyone who dares wield beguilements against you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on an Intelligence, a Wisdom, or a Charisma saving throw, you can use your reaction to deal `dice:2d8|noform|avg` (`2d8`) + your Charisma modifier force damage to the creature that forced the saving throw.
+You've learned how to chastise anyone who dares wield beguilements against you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on an Intelligence, a Wisdom, or a Charisma saving throw, you can use your reaction to deal `dice:2d8|noform|noparens|avg` (`2d8`) + your Charisma modifier force damage to the creature that forced the saving throw.
 
 ### Mortal Bulwark (Level 20)
 

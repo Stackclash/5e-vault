@@ -13,7 +13,7 @@ tags:
 aliases:
   - Adult Amethyst Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Amethyst Dragon (SAF).md|Adult Amethyst Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Adult Amethyst Dragon (SAF).md|Adult Amethyst Dragon]]
 *Source: Strongholds and Followers p. 220*
 
 The renegades of the jeweled dragons, the amethyst dragons seek new knowledge and so manipulate mortals to do dangerous, even deadly things in order to push the boundary of the known.
@@ -33,24 +33,29 @@ When encountered, they are often conciliatory, deferent. They want to put you at
 "ac_class": "natural armor"
 "hp": !!int "135"
 "hit_dice": "18d12 + 18"
+"modifier": !!int "5"
 "stats":
-- !!int "20"
-- !!int "20"
-- !!int "12"
-- !!int "20"
-- !!int "16"
-- !!int "20"
+  - !!int "20"
+  - !!int "20"
+  - !!int "12"
+  - !!int "20"
+  - !!int "16"
+  - !!int "20"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  "Charisma": !!int "10"
-  "Dexterity": !!int "10"
-  "Wisdom": !!int "8"
-  "Intelligence": !!int "10"
+  - "dexterity": "+10"
+  - "intelligence": "+10"
+  - "wisdom": "+8"
+  - "charisma": "+10"
 "skillsaves":
-  "Religion": !!int "10"
-  "Insight": !!int "8"
-  "Perception": !!int "8"
-  "Arcana": !!int "10"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+10"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
+    "desc": "+10"
 "damage_vulnerabilities": "psychic"
 "damage_resistances": "bludgeoning, slashing, piercing from nonmagical weapons"
 "damage_immunities": "fire, lightning"
@@ -58,39 +63,40 @@ When encountered, they are often conciliatory, deferent. They want to put you at
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "16"
 "traits":
-- "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Gemstone Dragon Psionics]].\
-    \ Charges: 18 • Recharge: 1d8 • Fracture: 21"
-  "name": ""
-- "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
-- "desc": "Each time the dragon takes damage, all creatures within 30 feet must succeed\
-    \ on a DC 18 Intelligence saving throw or else take 10 (3d6) psychic damage."
-  "name": "Feedback Aura"
+  - "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].\
+      \ Charges: 18 • Recharge: d8 • Fracture: 21"
+    "name": ""
+  - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (3/Day)"
+  - "desc": "Each time the dragon takes damage, all creatures within 30 feet must\
+      \ succeed on a DC 18 Intelligence saving throw or else take 10 (3d6) psychic\
+      \ damage."
+    "name": "Feedback Aura"
 "actions":
-- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 16\
-    \ (2d10 + 5) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6\
-    \ + 5) slashing damage."
-  "name": "Claw"
-- "desc": "Melee Weapon Attack: +10 to hit; reach 15 ft., one target. Hit: 14\
-    \ (2d8 + 5) bludgeoning damage."
-  "name": "Tail"
+  - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 16\
+      \ (2d10 + 5) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12\
+      \ (2d6 + 5) slashing damage."
+    "name": "Claw"
+  - "desc": "Melee Weapon Attack: +10 to hit; reach 15 ft., one target. Hit: 14\
+      \ (2d8 + 5) bludgeoning damage."
+    "name": "Tail"
 "legendary_actions":
-- "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ Check."
-  "name": "Detect"
-- "desc": "The dragon uses a [[5. Mechanics/Lists/List Optfeaturetype Psi Man.md|psionic ability]]."
-  "name": "Psionics"
-- "desc": "The dragon releases a wave of telekinetic energy from its mind. Every creature\
-    \ within 15 feet must make a DC 24 Intelligence saving throw or take 12 (2d6 +\
-    \ 5) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
-    \ The dragon then can move up to half its movement speed."
-  "name": "Psionic Shift (Costs 2 Actions)"
+  - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ Check."
+    "name": "Detect"
+  - "desc": "The dragon uses a [[5. Mechanics/Lists/List Optfeaturetype Psi Man.md|psionic ability]]."
+    "name": "Psionics"
+  - "desc": "The dragon releases a wave of telekinetic energy from its mind. Every\
+      \ creature within 15 feet must make a DC 24 Intelligence saving throw or take\
+      \ 12 (2d6 + 5) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+      \ The dragon then can move up to half its movement speed."
+    "name": "Psionic Shift (Costs 2 Actions)"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large%20Amethyst%20Dragon.png"
 ```
 ^statblock

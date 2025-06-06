@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Infernal Viper
 ---
-# [[5. Mechanics/Bestiary/Fiend/Infernal Viper (KPDM).md|Infernal Viper]]
+# [[5. Mechanics\Bestiary\Fiend\Infernal Viper (KPDM).md|Infernal Viper]]
 *Source: Deep Magic p. 297*
 
 Infernal vipers resemble earthly vipers, but for the red and black patterns of their scales. They roam the Hells, tormenting the damned souls with their painful bites and burning venom. They have a dim intelligence that makes them more dangerous than common snakes.
@@ -30,29 +30,32 @@ If an infernal viper agrees to serve another creature as a familiar, it forms a 
 "ac": !!int "13"
 "hp": !!int "28"
 "hit_dice": "8d4 + 8"
+"modifier": !!int "3"
 "stats":
-- !!int "5"
-- !!int "17"
-- !!int "13"
-- !!int "3"
-- !!int "12"
-- !!int "6"
+  - !!int "5"
+  - !!int "17"
+  - !!int "13"
+  - !!int "3"
+  - !!int "12"
+  - !!int "6"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+5"
 "damage_resistances": "fire"
 "senses": "blindsight 10 ft., passive Perception 13"
 "languages": "understands Infernal but can't speak"
 "cr": "1/2"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
-    \ + 3) piercing damage; target must make a DC 13 Constitution saving throw, taking\
-    \ 5 (2d4) poison damage on a failed save, or half as much damage on a successful\
-    \ one."
-  "name": "Bite"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+      \ + 3) piercing damage; target must make a DC 13 Constitution saving throw,\
+      \ taking 5 (2d4) poison damage on a failed save, or half as much damage on a\
+      \ successful one."
+    "name": "Bite"
 "source":
-- "KPDM"
+  - "KPDM"
 ```
 ^statblock
 

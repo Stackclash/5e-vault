@@ -18,6 +18,6 @@ When found, this item appears to be a roughly hewn length of ice with runes etch
 
 While the prosthetic is attached, you have resistance to cold damage, and your unarmed strikes with the limb deal cold damage instead of bludgeoning damage.
 
-In addition, the prosthesis has 6 icy spikes protruding from its surface. You can use an action while the prosthetic is attached to launch up to 3 of the spikes at one or more targets within 30 feet of you. Make a ranged spell attack for each spike, using an attack bonus of +7. On a hit, the target takes `dice:2d6|noform|avg` (`2d6`) cold damage. `dice:1d4+2|noform|avg` (`1d4 + 2`) launched spikes regrow daily at dawn.
+In addition, the prosthesis has 6 icy spikes protruding from its surface. You can use an action while the prosthetic is attached to launch up to 3 of the spikes at one or more targets within 30 feet of you. Make a ranged spell attack for each spike, using an attack bonus of +7. On a hit, the target takes `dice:2d6|noform|noparens|avg` (`2d6`) cold damage. `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) launched spikes regrow daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 78*

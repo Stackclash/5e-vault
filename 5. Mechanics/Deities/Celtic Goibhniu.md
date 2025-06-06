@@ -7,6 +7,10 @@ tags:
   - domain/forge
   - domain/knowledge
   - domain/life
+alignment: Neutral Good
+domains: 'Forge, Knowledge, Life'
+pantheon: Celtic
+symbol: Giant mallet over sword
 aliases:
   - Goibhniu
 ---

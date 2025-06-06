@@ -6,6 +6,10 @@ tags:
   - deity/forgotten-realms
   - domain/order
   - domain/war
+alignment: Lawful Good
+domains: 'War, Order'
+pantheon: Forgotten Realms
+symbol: Balanced scales resting on a warhammer
 aliases:
   - Tyr
 ---

@@ -65,7 +65,7 @@ You gain 50,000 XP, and a wondrous item (which the DM determines randomly) appea
 
 ## Moon
 
-You are granted the ability to cast the [[5. Mechanics/Spells/Wish.md\|wish]] spell `dice:1d3|noform|avg` (`1d3`) times.
+You are granted the ability to cast the [[5. Mechanics/Spells/Wish.md\|wish]] spell `dice:1d3|noform|noparens|avg` (`d3`) times.
 
 ## Star
 
@@ -113,7 +113,7 @@ You summon an [[5. Mechanics/Bestiary/Undead/Avatar Of Death (DMG).md\|avatar of
 
 ## Idiot
 
-Permanently reduce your Intelligence by `dice:1d4+1|noform|avg` (`1d4 + 1`) (to a minimum score of 1). You can draw one additional card beyond your declared draws.
+Permanently reduce your Intelligence by `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) (to a minimum score of 1). You can draw one additional card beyond your declared draws.
 
 ## Donjon
 

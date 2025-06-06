@@ -8,6 +8,7 @@ tags:
 aliases:
   - Wheat
 cost: 1
+weight: 1
 ---
 # Wheat
 *Trade good*  

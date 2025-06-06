@@ -24,7 +24,7 @@ Unarmed strikes made with the arm are considered magical for the purpose of over
 You can use a bonus action to allow the arm's necromantic magic to flood into you, granting you the following benefits for 1 minute. This property can't be ended early by any means. This property can't be used again until you finish a long rest.
 
 - You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks not made with adamantine weapons.  
-- Your unarmed strikes with the arm use a `dice:d8|noform|avg` (`d8`) damage die. A creature hit by an unarmed strike takes an extra `dice:1d6|noform|avg` (`1d6`) necrotic damage.  
+- Your unarmed strikes with the arm use a `dice:d8|noform|noparens|avg` (`d8`) damage die. A creature hit by an unarmed strike takes an extra `dice:1d6|noform|noparens|avg` (`d6`) necrotic damage.  
 - You have advantage on saving throws against spells and other magical effects.  
 - Any lightning damage dealt to you is reduced to 0. When this happens, this property's duration is extended by 1 minute. The maximum remaining duration can't exceed 10 minutes at any time.  
 

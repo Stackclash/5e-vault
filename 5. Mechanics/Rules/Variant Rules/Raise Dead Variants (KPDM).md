@@ -13,7 +13,7 @@ aliases:
 
 ## Character and Effect Changes
 
-Two aspects of [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] are easy to change: the raised creature's appearance and the traumatic effect of returning to life. The [[5. Mechanics/Tables/Raise Dead Random Effects (KPDM).md\|Raise Dead Random Effects]] table offers a dozen options for reskinning [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] in random ways. When the spell is cast, roll a `dice:d12|noform|avg` (`d12`) or choose the option that best suits the situation or the caster. This change need not be a one-time thing; it can be emblematic of that caster, as recognizably personal as a signature, a catchphrase, or a coat of arms.
+Two aspects of [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] are easy to change: the raised creature's appearance and the traumatic effect of returning to life. The [[5. Mechanics/Tables/Raise Dead Random Effects (KPDM).md\|Raise Dead Random Effects]] table offers a dozen options for reskinning [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] in random ways. When the spell is cast, roll a `dice:d12|noform|noparens|avg` (`d12`) or choose the option that best suits the situation or the caster. This change need not be a one-time thing; it can be emblematic of that caster, as recognizably personal as a signature, a catchphrase, or a coat of arms.
 
 > [!embed-table]- Raise Dead Random Effects
 > ![[5. Mechanics/Tables/Raise Dead Random Effects (KPDM).md\|Raise Dead Random Effects]]

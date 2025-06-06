@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/xge
 aliases:
-  - 'Downtime Activity: Crafting an Item'
+  - Downtime Activity: Crafting an Item
 ---
 # Downtime Activity: Crafting an Item
 *Source: Xanathar's Guide to Everything p. 128* 
@@ -33,7 +33,7 @@ If all the above requirements are met, the result of the process is an item of t
 
 Creating a magic item requires more than just time, effort, and materials. It is a long-term process that involves one or more adventures to track down rare materials and the lore needed to create the item.
 
-Potions of healing and spell scrolls are exceptions to the following rules. For more information, see "Brewing Potions of Healing" later in this section and the "Scribing a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]]" section, below.
+Potions of healing and spell scrolls are exceptions to the following rules. For more information, see "Brewing Potions of Healing" later in this section and the "Scribing a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]]" section, below.
 
 To start with, a character needs a formula for a magic item in order to create it. The formula is like a recipe. It lists the materials needed and steps required to make the item.
 

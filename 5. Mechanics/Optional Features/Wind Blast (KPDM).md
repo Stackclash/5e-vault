@@ -12,4 +12,4 @@ aliases:
 
 ***Prerequisites*** Elemental focus (air)
 
-When you cast a spell of 1st level or higher, you can use a bonus action to create a line of wind that is 20-foot long and 5-foot wide. Each creature in the line must make a Strength saving throw or take `dice:1d6|noform|avg` (`1d6`) slashing damage and be pushed 10 feet away from you in the direction of the line.
+When you cast a spell of 1st level or higher, you can use a bonus action to create a line of wind that is 20-foot long and 5-foot wide. Each creature in the line must make a Strength saving throw or take `dice:1d6|noform|noparens|avg` (`d6`) slashing damage and be pushed 10 feet away from you in the direction of the line.

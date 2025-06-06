@@ -8,7 +8,7 @@ aliases:
   - Path of the Ancestral Guardian
 ---
 # Path of the Ancestral Guardian
-*[[Barbarian.md\|Barbarian]]: Primal Path*  
+*[[.nullBarbarian.md\|Barbarian]]: Primal Path*  
 *Source: Xanathar's Guide to Everything p. 9*  
 
 > [!tldr] Class and Feature Progression
@@ -20,18 +20,18 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path%20of%20the%20Ancestral%20Guardian%20(Level%203)'>Path of the Ancestral Guardian</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path of the Ancestral Guardian (Level 3)' class='internal-link'>Path of the Ancestral Guardian</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Spirit%20Shield%20(Level%206)'>Spirit Shield</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Spirit Shield (Level 6)' class='internal-link'>Spirit Shield</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Consult%20the%20Spirits%20(Level%2010)'>Consult the Spirits</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Consult the Spirits (Level 10)' class='internal-link'>Consult the Spirits</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Vengeful%20Ancestors%20(Level%2014)'>Vengeful Ancestors</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Vengeful Ancestors (Level 14)' class='internal-link'>Vengeful Ancestors</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,8 +39,17 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
 
+^class-progression
+
+
+> [!quote] A quote from Xanathar  
+> 
+> So ancestors are people who did the procreation thing to make more people before you were born? Like how many people?
+> 
+> That's a lot of the procreation thing.
+> 
+> Ew. You're disgusting.
 
 ## Class Features
 
@@ -56,9 +65,9 @@ Starting when you choose this path at 3rd level, spectral warriors appear when y
 
 ### Spirit Shield (Level 6)
 
-Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by `dice:2d6|noform|avg` (`2d6`).
+Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by `dice:2d6|noform|noparens|avg` (`2d6`).
 
-When you reach certain levels in this class, you can reduce the damage by more: by `dice:3d6|noform|avg` (`3d6`) at 10th level and by `dice:4d6|noform|avg` (`4d6`) at 14th level.
+When you reach certain levels in this class, you can reduce the damage by more: by `dice:3d6|noform|noparens|avg` (`3d6`) at 10th level and by `dice:4d6|noform|noparens|avg` (`4d6`) at 14th level.
 
 ### Consult the Spirits (Level 10)
 

@@ -10,8 +10,8 @@ aliases:
 
 ## Cantrip
 
-- [[Blade Ward \|"PHB"]] as cantrip
+- [[5. Mechanics/Spells/Blade Ward.md \|"PHB"]] as cantrip
 
 ## 2nd Level
 
-- [[Pass Without Trace \|"PHB"]] as cantrip
+- [[5. Mechanics/Spells/Pass Without Trace.md \|"PHB"]] as cantrip

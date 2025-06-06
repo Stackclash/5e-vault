@@ -6,6 +6,12 @@ tags:
   - deity/dwarven
   - domain/knowledge
   - domain/life
+alignment: Neutral Good
+category: The Mordinsamman
+domains: 'Knowledge, Life'
+pantheon: Dwarven
+province: 'Clan, family, wisdom'
+symbol: A faceless mother figure
 aliases:
   - Mya
 ---

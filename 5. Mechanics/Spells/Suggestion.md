@@ -17,22 +17,41 @@ tags:
   - spell/subclass/knowledge-domain
   - spell/subclass/lust-domain
   - spell/subrace/tiefling-fierna
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Cleric (Hunger Domain)
+  - Cleric (Knowledge Domain)
+  - Cleric (Lust Domain)
+  - Druid (Circle of Roses)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Enchantment
-time: 1 action
-duration: 'Concentration, up to 8 hour'
-components: 'V, a snake''s tongue and either a bit of honeycomb or a drop of sweet oil'
+level: 2
+ritual: false
+time: 1 Action
+duration: Up to 8 hours
+components:
+  - V
+  - M
 aliases:
   - Suggestion
+range: 30 feet
+material: A snake's tongue and either a bit of honeycomb or a drop of sweet oil.
+save:
+  type: WIS
+  success: none
+concentration: true
 ---
 # Suggestion
 *2nd-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
-- **Components:** V, a snake's tongue and either a bit of honeycomb or a drop of sweet oil
-- **Duration:** Concentration, up to 8 hour
+- **Components:** V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)
+- **Duration:** Concentration, up to 8 hours
 
 You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.
 
@@ -42,6 +61,6 @@ You can also specify conditions that will trigger a special activity during the 
 
 If you or any of your companions damage the target, the spell ends.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of Roses (KPDM)\|Druid (Circle of Roses)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Hunger Domain (KPDM)\|Cleric (Hunger Domain)]]; [[List Spells Classes Cleric Knowledge Domain\|Cleric (Knowledge Domain)]]; [[List Spells Classes Cleric Lust Domain (KPDM)\|Cleric (Lust Domain)]]
+**Classes**: [Druid (Circle of Roses)](compendium/lists/list-spells-classes-circle-of-roses-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Hunger Domain)](compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [Cleric (Lust Domain)](compendium/lists/list-spells-classes-lust-domain-kpdm.md "subclass=KPDM")
 
 *Source: Player's Handbook p. 279. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

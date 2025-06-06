@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/norse
   - domain/trickery
+alignment: Chaotic Neutral
+domains: Trickery
+pantheon: Norse
+symbol: Winged scroll
 aliases:
   - Hermod
 ---

@@ -17,7 +17,7 @@ aliases:
 
 This ruffled cloak of dull feathers and down grants you the resilience and cunning of a ravenous vulture. When you move while wearing this cloak, small, tattered feathers drift from the cloak that vanish when they touch the ground. While wearing the cloak, your Constitution score increases by 2, to a maximum of 20, you have advantage on saving throws against disease and poison, and you have resistance to poison damage.
 
-In addition, while wearing the cloak, you can speak its command word as a bonus action to cause it to transform into a pair of sickly vulture wings for 1 minute. While the cloak is transformed, you gain a flying speed of 60 feet, and when you hit a creature that's missing any of its hit points with a melee weapon attack, that creature takes an extra `dice:1d6|noform|avg` (`1d6`) necrotic damage. This property of the cloak can't be used again until the next dusk.
+In addition, while wearing the cloak, you can speak its command word as a bonus action to cause it to transform into a pair of sickly vulture wings for 1 minute. While the cloak is transformed, you gain a flying speed of 60 feet, and when you hit a creature that's missing any of its hit points with a melee weapon attack, that creature takes an extra `dice:1d6|noform|noparens|avg` (`d6`) necrotic damage. This property of the cloak can't be used again until the next dusk.
 
 ## Curse
 

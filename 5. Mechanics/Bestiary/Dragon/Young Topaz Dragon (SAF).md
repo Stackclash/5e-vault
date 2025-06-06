@@ -13,7 +13,7 @@ tags:
 aliases:
   - Young Topaz Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young Topaz Dragon (SAF).md|Young Topaz Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Young Topaz Dragon (SAF).md|Young Topaz Dragon]]
 *Source: Strongholds and Followers p. 219*
 
 The youngest species, the most enthusiastic about the world, the one you're most likely to meet, topaz dragons study magic obsessively, and their older kin consider this juvenile. When you're older you'll realize magic is just ambient interference from overlapping manifolds constrained by oblique functions. Well, poo on that, look, I made a fireball!
@@ -33,45 +33,50 @@ They're approachable and easy to talk to as long as you don't mind never getting
 "ac_class": "natural armor"
 "hp": !!int "71"
 "hit_dice": "13d10 + 0"
+"modifier": !!int "2"
 "stats":
-- !!int "15"
-- !!int "15"
-- !!int "11"
-- !!int "15"
-- !!int "12"
-- !!int "15"
+  - !!int "15"
+  - !!int "15"
+  - !!int "11"
+  - !!int "15"
+  - !!int "12"
+  - !!int "15"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "4"
-  "Intelligence": !!int "5"
+  - "dexterity": "+5"
+  - "intelligence": "+5"
+  - "wisdom": "+4"
+  - "charisma": "+5"
 "skillsaves":
-  "Religion": !!int "5"
-  "Insight": !!int "4"
-  "Perception": !!int "4"
-  "Arcana": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
+    "desc": "+5"
 "damage_vulnerabilities": "psychic"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 17"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "7"
 "traits":
-- "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Gemstone Dragon Psionics]].\
-    \ Charges: 13 • Recharge: 1d6 • Fracture: 10"
-  "name": ""
-- "desc": "All allies within 30 feet gain +2 on Intelligence checks and saving throws."
-  "name": "Uplift Aura"
+  - "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].\
+      \ Charges: 13 • Recharge: d6 • Fracture: 10"
+    "name": ""
+  - "desc": "All allies within 30 feet gain +2 on Intelligence checks and saving throws."
+    "name": "Uplift Aura"
 "actions":
-- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 13 (2d10\
-    \ + 2) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (2d6\
-    \ + 2) slashing damage."
-  "name": "Claw"
+  - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 13\
+      \ (2d10 + 2) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (2d6\
+      \ + 2) slashing damage."
+    "name": "Claw"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Medium%20Topaz%20Dragon.png"
 ```
 ^statblock

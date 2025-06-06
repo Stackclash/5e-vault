@@ -21,7 +21,7 @@ A knobbly root found in the depths of caves, said to grow where basilisks leave 
 
 ## Effect:
 
-This herb has `dice:1d4|noform|avg` (`1d4`) charges. When you use this herb, you expend one charge. For the next 24 hours, you are able to eat and digest rocks, with 1 pound of rocks providing the equivalent of a full day's worth of nutrition. Unfortunately, it does nothing to improve the flavour or texture.
+This herb has `dice:1d4|noform|noparens|avg` (`d4`) charges. When you use this herb, you expend one charge. For the next 24 hours, you are able to eat and digest rocks, with 1 pound of rocks providing the equivalent of a full day's worth of nutrition. Unfortunately, it does nothing to improve the flavour or texture.
 
 > [!quote] A quote from Hamund  
 > 

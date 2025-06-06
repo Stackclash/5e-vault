@@ -13,7 +13,7 @@ tags:
 aliases:
   - Death Slaad
 ---
-# [[5. Mechanics/Bestiary/Aberration/Death Slaad.md|Death Slaad]]
+# [[5. Mechanics\Bestiary\Aberration\Death Slaad.md|Death Slaad]]
 *Source: Monster Manual p. 278, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin*
 
 Death slaadi are suffused with energy from the Negative Energy Plane and exemplify evil's corruption of chaos, and they take sadistic pleasure in bringing harm to others. They propagate their race by dragooning mobs of red and blue slaadi and invading other planes. Humanoids who survive the incursion become incubators for new slaadi.
@@ -48,7 +48,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|noform|avg|text(22)` (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]  
@@ -66,62 +66,65 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "ac_class": "natural armor"
 "hp": !!int "170"
 "hit_dice": "20d8 + 80"
+"modifier": !!int "2"
 "stats":
-- !!int "20"
-- !!int "15"
-- !!int "19"
-- !!int "15"
-- !!int "10"
-- !!int "16"
+  - !!int "20"
+  - !!int "15"
+  - !!int "19"
+  - !!int "15"
+  - !!int "10"
+  - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "8"
-  "Arcana": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+8"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 18"
 "languages": "Slaad, telepathy 60 ft."
 "cr": "10"
 "traits":
-- "desc": "The slaad's innate spellcasting ability is Charisma (spell save DC 15,\
-    \ +7 to hit with spell attacks). The slaad can innately cast the following spells,\
-    \ requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
-    \ (self only), [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Major Image.md|major image]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Cloudkill.md|cloudkill]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\
-    \n2/day each: [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Fireball.md|fireball]],\
-    \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Tongues.md|tongues]]"
-  "name": "Innate Spellcasting"
-- "desc": "The slaad can use its action to polymorph into a Small or Medium humanoid,\
-    \ or back into its true form. Its statistics, other than its size, are the same\
-    \ in each form. Any equipment it is wearing or carrying isn't transformed. It\
-    \ reverts to its true form if it dies."
-  "name": "Shapechanger"
-- "desc": "The slaad has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- "desc": "The slaad's weapon attacks are magical."
-  "name": "Magic Weapons"
-- "desc": "The slaad regains 10 hit points at the start of its turn if it has at least\
-    \ 1 hit point."
-  "name": "Regeneration"
+  - "desc": "The slaad's innate spellcasting ability is Charisma (spell save DC 15,\
+      \ +7 to hit with spell attacks). The slaad can innately cast the following spells,\
+      \ requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
+      \ (self only), [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Major Image.md|major image]]\n\
+      \n2/day each: [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Fireball.md|fireball]],\
+      \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Tongues.md|tongues]]\n\
+      \n1/day each: [[5. Mechanics/Spells/Cloudkill.md|cloudkill]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
+    "name": "Innate Spellcasting"
+  - "desc": "The slaad can use its action to polymorph into a Small or Medium humanoid,\
+      \ or back into its true form. Its statistics, other than its size, are the same\
+      \ in each form. Any equipment it is wearing or carrying isn't transformed. It\
+      \ reverts to its true form if it dies."
+    "name": "Shapechanger"
+  - "desc": "The slaad has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
+  - "desc": "The slaad's weapon attacks are magical."
+    "name": "Magic Weapons"
+  - "desc": "The slaad regains 10 hit points at the start of its turn if it has at\
+      \ least 1 hit point."
+    "name": "Regeneration"
 "actions":
-- "desc": "The slaad makes three attacks: one with its bite and two with its claws\
-    \ or greatsword."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8\
-    \ + 5) piercing damage plus 7 (2d6) necrotic damage."
-  "name": "Bite (Slaad Form Only)"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10\
-    \ + 5) slashing damage plus 7 (2d6) necrotic damage."
-  "name": "Claws (Slaad Form Only)"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6\
-    \ + 5) slashing damage plus 7 (2d6) necrotic damage."
-  "name": "Greatsword"
+  - "desc": "The slaad makes three attacks: one with its bite and two with its claws\
+      \ or greatsword."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8\
+      \ + 5) piercing damage plus 7 (2d6) necrotic damage."
+    "name": "Bite (Slaad Form Only)"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10\
+      \ (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage."
+    "name": "Claws (Slaad Form Only)"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12\
+      \ (2d6 + 5) slashing damage plus 7 (2d6) necrotic damage."
+    "name": "Greatsword"
 "source":
-- "MM"
-- "CoS"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Aberration/token/death-slaad.webp"
 ```
 ^statblock

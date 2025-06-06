@@ -22,5 +22,5 @@ You can use the following tables to randomly determine what magical food or drin
 | 3 | **Blueberry Jam on Blue Bread**: Your lips and nails turn bright blue. | **Floating Float**: Your hair stands straight up, and your stomach churns as though you were falling. |
 | 4 | **Straw-Berry Iced Cream**: Your hair becomes stiff and golden like hay, and your presence deters normal crows, ravens, and other small birds. | **Hottest Cocoa**: Steam rises from your skin and softly trails out of your ears. You sweat profusely, no matter what the actual temperature is. |
 | 5 | **Feelings Fruit Pie**: You have difficulty concealing or restraining your emotions, making them plain to observers. | **Marshmallow Mead**: Your skin smells strongly of sugar, becomes oddly soft, and darkens when you get close to flames. |
-| 6 | **Fish 'n Chipper**: You feel more awake, but also have perpetually damp and pruned skin. | **Long Lemonade**: Your hair grows `dice:1d4\|noform\|avg` (`1d4`) inches, and the tips become bleached yellowish-white. |
+| 6 | **Fish 'n Chipper**: You feel more awake, but also have perpetually damp and pruned skin. | **Long Lemonade**: Your hair grows `dice:1d4\|noform\|noparens\|avg` (`d4`) inches, and the tips become bleached yellowish-white. |
 ^food-drink

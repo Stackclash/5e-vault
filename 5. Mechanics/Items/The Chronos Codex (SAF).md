@@ -23,9 +23,9 @@ It was only 300 years ago when the Khoursir scholar Chartam suggested that the b
 
 Once per month as an action, you can summon a version of yourself from the future. It is one possible version of your future character. It has your stats but is four levels higher and may have different items or even spells, at your GM's discretion ^[For something like this, I would make a version of my PC that is four levels higher with one or two cool new items and ask for my GM's approval. Your GM can, of course, edit your choices (since you haven't made them yet).]. You have no control over your temporal duplicate, but it is a version of you and will probably help you out. Because it is from one possible future, it is experiencing one possible past and may not remember the situation it finds itself in, because it never experienced this past.
 
-The duplicate remains in this manifold of the timescape for `dice:4+1d4|noform|avg` (`4 + 1d4`) rounds, after which it returns to its own time. If it drops to 0 hit points, it automatically returns—[[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]—to its original manifold.
+The duplicate remains in this manifold of the timescape for `dice:4+1d4|noform|noparens|avg` (`4 + 1d4`) rounds, after which it returns to its own time. If it drops to 0 hit points, it automatically returns—[[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]—to its original manifold.
 
-While you are attuned to the book, the GM may ask you to make a percentile roll at random moments. If you roll a 100, you disappear for `dice:4+1d4|noform|avg` (`4 + 1d4`) rounds, as you are relentlessly pulled backward into an alternate past to serve a version of yourself four levels lower ^[An alternate past where, presumably, you found the codex chronos four levels earlier!].
+While you are attuned to the book, the GM may ask you to make a percentile roll at random moments. If you roll a 100, you disappear for `dice:4+1d4|noform|noparens|avg` (`4 + 1d4`) rounds, as you are relentlessly pulled backward into an alternate past to serve a version of yourself four levels lower ^[An alternate past where, presumably, you found the codex chronos four levels earlier!].
 
 ## Nomad of the Timescape
 

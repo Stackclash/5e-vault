@@ -15,11 +15,11 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wand-of-Shadows.webp#right)  
 
 
-This wand has 7 charges for the following properties. It regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dusk. If you expend the wand's last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the wand evaporates into black mist and is destroyed.
+This wand has 7 charges for the following properties. It regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dusk. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand evaporates into black mist and is destroyed.
 
 ## Shadow Claw
 
-As an action, you can expend 1 charge to summon a shadowy claw to crush a target that you can see within 120 feet of you. The target must make a Strength saving throw against your spell save DC. On a failed save, it takes `dice:4d6|noform|avg` (`4d6`) necrotic damage. The necrotic damage is increased to `dice:5d6|noform|avg` (`5d6`) if either you or the target are in dim light or darkness, and `dice:6d6|noform|avg` (`6d6`) if both you and the target are in dim light or darkness.
+As an action, you can expend 1 charge to summon a shadowy claw to crush a target that you can see within 120 feet of you. The target must make a Strength saving throw against your spell save DC. On a failed save, it takes `dice:4d6|noform|noparens|avg` (`4d6`) necrotic damage. The necrotic damage is increased to `dice:5d6|noform|noparens|avg` (`5d6`) if either you or the target are in dim light or darkness, and `dice:6d6|noform|noparens|avg` (`6d6`) if both you and the target are in dim light or darkness.
 
 ## Shadow Sneak
 

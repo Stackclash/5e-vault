@@ -10,6 +10,7 @@ tags:
 aliases:
   - Shield of the Great Badger
 armorClass: 2
+weight: 6
 ---
 # Shield of the Great Badger
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  
@@ -20,6 +21,6 @@ armorClass: 2
 
 This dark silver shield is stylized in the striped likeness of a badger's face. While holding this shield, you can't be moved more than 5 feet against your will at a time.
 
-The shield has 3 charges and regains `dice:1d3|noform|avg` (`1d3`) expended charges daily at dawn. When a creature within 5 feet of you hits you with an attack, you can use your reaction to expend 1 of the shield's charges to cause a spectral badger to emerge from the shield and lash back out at the attacker. The attacking creature must succeed on a DC 13 Dexterity saving throw or take `dice:2d4+3|noform|avg` (`2d4 + 3`) slashing damage.
+The shield has 3 charges and regains `dice:1d3|noform|noparens|avg` (`d3`) expended charges daily at dawn. When a creature within 5 feet of you hits you with an attack, you can use your reaction to expend 1 of the shield's charges to cause a spectral badger to emerge from the shield and lash back out at the attacker. The attacking creature must succeed on a DC 13 Dexterity saving throw or take `dice:2d4+3|noform|noparens|avg` (`2d4 + 3`) slashing damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

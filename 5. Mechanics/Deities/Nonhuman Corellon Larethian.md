@@ -6,6 +6,10 @@ tags:
   - deity/nonhuman
   - domain/arcana
   - domain/light
+alignment: Chaotic Good
+domains: 'Light, Arcana'
+pantheon: Nonhuman
+symbol: Quarter moon or starburst
 aliases:
   - Corellon Larethian
 ---

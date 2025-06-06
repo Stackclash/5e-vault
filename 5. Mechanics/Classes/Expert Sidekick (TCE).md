@@ -17,28 +17,29 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Sidekick%20Class%20(Level%201)'>Sidekick Class</a>, <a href='#Bonus%20Proficiencies%20(Level%201)'>Bonus Proficiencies</a>, <a href='#Helpful%20(Level%201)'>Helpful</a></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Cunning%20Action%20(Level%202)'>Cunning Action</a></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Expertise%20(Level%203)'>Expertise</a></td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Sidekick Class (Level 1)' class='internal-link'>Sidekick Class</a>, <a href='#Bonus Proficiencies (Level 1)' class='internal-link'>Bonus Proficiencies</a>, <a href='#Helpful (Level 1)' class='internal-link'>Helpful</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Cunning Action (Level 2)' class='internal-link'>Cunning Action</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Expertise (Level 3)' class='internal-link'>Expertise</a></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Coordinated%20Strike%20(Level%206)'>Coordinated Strike</a></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Evasion%20(Level%207)'>Evasion</a></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Coordinated Strike (Level 6)' class='internal-link'>Coordinated Strike</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Evasion (Level 7)' class='internal-link'>Evasion</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2010)'>Ability Score Improvement</a></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Inspiring%20Help%20(Level%2011)'>Inspiring Help</a></td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 10)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Inspiring Help (Level 11)' class='internal-link'>Inspiring Help</a></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Reliable%20Talent%20(Level%2014)'>Reliable Talent</a></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Expertise%20(Level%2015)'>Expertise</a></td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Reliable Talent (Level 14)' class='internal-link'>Reliable Talent</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Expertise (Level 15)' class='internal-link'>Expertise</a></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Sharp%20Mind%20(Level%2018)'>Sharp Mind</a></td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2019)'>Ability Score Improvement</a></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Inspiring%20Help%20Improvement%20(Level%2020)'>Inspiring Help Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Sharp Mind (Level 18)' class='internal-link'>Sharp Mind</a></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Inspiring Help Improvement (Level 20)' class='internal-link'>Inspiring Help Improvement</a></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 ## Hit Points
 
@@ -50,8 +51,8 @@ aliases:
 
 - **Saving Throws**: One saving throw of your choice: Dexterity, Intelligence, or Charisma.
 - **Armor**: Light armor
-- **Weapons**: All simple weapons if [humanoid](Bonus%20Progression%20(Level%201))
-- **Tools**: Two tools of your choice if [humanoid](Bonus%20Progression%20(Level%201))
+- **Weapons**: All simple weapons if [humanoid](#Bonus%20Proficiencies%20(Level%201))
+- **Tools**: Two tools of your choice if [humanoid](#Bonus%20Proficiencies%20(Level%201))
 - **Skills**: Five skills of your choice
 
 
@@ -108,7 +109,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *6th-level Expert feature*
 
-The sidekick is adept at fighting in concert with a companion. When the sidekick uses its Helpful feature to aid an ally in attacking a creature, that target can be up to 30 feet away from the sidekick, and the sidekick can deal an extra `dice:2d6|noform|avg` (`2d6`) damage to it the next time the sidekick hits it with an attack roll before the end of the current turn. The extra damage is the same type of damage dealt by the attack.
+The sidekick is adept at fighting in concert with a companion. When the sidekick uses its Helpful feature to aid an ally in attacking a creature, that target can be up to 30 feet away from the sidekick, and the sidekick can deal an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage to it the next time the sidekick hits it with an attack roll before the end of the current turn. The extra damage is the same type of damage dealt by the attack.
 
 ### Evasion (Level 7)
 
@@ -136,9 +137,9 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *11th-level Expert feature*
 
-When the sidekick takes the [[/5. Mechanics/Rules/Actions.md#Help\|Help]] action, the creature who receives the help also gains a `dice:1d6|noform|avg` (`1d6`) bonus to the `dice:d20|noform|avg` (`d20`) roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
+When the sidekick takes the [[/5. Mechanics/Rules/Actions.md#Help\|Help]] action, the creature who receives the help also gains a `dice:1d6|noform|noparens|avg` (`d6`) bonus to the `dice:d20|noform|noparens|avg` (`d20`) roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
 
-At 20th level, the bonus increases to `dice:2d6|noform|avg` (`2d6`).
+At 20th level, the bonus increases to `dice:2d6|noform|noparens|avg` (`2d6`).
 
 ### Ability Score Improvement (Level 12)
 
@@ -152,7 +153,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *14th-level Expert feature*
 
-The sidekick has refined its skills to an exceptional degree. Whenever the sidekick makes an ability check that includes its whole proficiency bonus, it can treat a `dice:d20|noform|avg` (`d20`) roll of 9 or lower as a 10.
+The sidekick has refined its skills to an exceptional degree. Whenever the sidekick makes an ability check that includes its whole proficiency bonus, it can treat a `dice:d20|noform|noparens|avg` (`d20`) roll of 9 or lower as a 10.
 
 ### Expertise (Level 15)
 
@@ -186,4 +187,4 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *20th-level Expert feature*
 
-At 20th level, the bonus dice granted by the sidekick's Inspiring Help increases to `dice:2d6|noform|avg` (`2d6`).
+At 20th level, the bonus dice granted by the sidekick's Inspiring Help increases to `dice:2d6|noform|noparens|avg` (`2d6`).

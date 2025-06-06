@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greyhawk
   - domain/death
+alignment: Neutral Evil
+domains: Death
+pantheon: Greyhawk
+symbol: Skull with either a sickle or a scythe
 aliases:
   - Nerull
 ---

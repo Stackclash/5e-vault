@@ -13,7 +13,7 @@ tags:
 aliases:
   - Spirit of Dendallen
 ---
-# [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|Spirit of Dendallen]]
+# [[5. Mechanics\Bestiary\Undead\Spirit Of Dendallen (TGS1).md|Spirit of Dendallen]]
 *Source: The Griffon's Saddlebag, Book 1 p. 200*
 
 ## Attuning to the Remnants
@@ -78,22 +78,26 @@ While Dendallen is proud of his necromantic achievements, his step into undeath 
 "ac_class": "natural armor"
 "hp": !!int "237"
 "hit_dice": "19d12 + 114"
+"modifier": !!int "3"
 "stats":
-- !!int "19"
-- !!int "17"
-- !!int "23"
-- !!int "22"
-- !!int "19"
-- !!int "17"
+  - !!int "19"
+  - !!int "17"
+  - !!int "23"
+  - !!int "22"
+  - !!int "19"
+  - !!int "17"
 "speed": "60 ft. (see attuned thrall trait)"
 "saves":
-  "Charisma": !!int "10"
-  "Dexterity": !!int "10"
-  "Intelligence": !!int "13"
+  - "dexterity": "+10"
+  - "intelligence": "+13"
+  - "charisma": "+10"
 "skillsaves":
-  "Deception": !!int "10"
-  "Insight": !!int "9"
-  "Arcana": !!int "13"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+13"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+10"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+9"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from magical attacks"
 "damage_immunities": "necrotic; poison; bludgeoning, piercing, slashing from nonmagical\
@@ -108,98 +112,100 @@ While Dendallen is proud of his necromantic achievements, his step into undeath 
 "languages": "Common, telepathy 120 ft."
 "cr": "21"
 "traits":
-- "desc": "The spirit is a 19th-level spellcaster. Its spellcasting ability is Intelligence\
-    \ (spell save DC 12, +13 to hit with spell attacks). It has the following wizard\
-    \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Chill Touch.md|chill touch]],\
-    \ [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Poison Spray.md|poison spray]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/False Life.md|false life]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict\
-    \ wounds]], [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
-    \ [[5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]],\
-    \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-    \ [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]]\n\n3rd level\
-    \ (3 slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Haste.md|haste]],\
-    \ [[5. Mechanics/Spells/Slow.md|slow]]\n\n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]],\
-    \ [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]]\n\
-    \n5th level (3 slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]], [[5. Mechanics/Spells/Telekinesis.md|telekinesis]],\
-    \ [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]\n\n6th level (2 slots):\
-    \ [[5. Mechanics/Spells/Circle Of Death.md|circle of death]], [[5. Mechanics/Spells/Disintegrate.md|disintegrate]]\n\
-    \n7th level (1 slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
-    \ [[5. Mechanics/Spells/Prismatic Spray.md|prismatic spray]]\n\n8th level (1 slots):\
-    \ [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]\n\n9th level (1 slots): [[5. Mechanics/Spells/Weird.md|weird]]"
-  "name": "Spellcasting"
-- "desc": "The creature that attuned to three Remnants of Dendallen becomes the host\
-    \ to the spirit of Dendallen, and a conduit through which it can exist on that\
-    \ plane of existence. The spirit can't move on its own and stays centered on the\
-    \ host's space, moving with the creature whenever they do.\n\nAt the start of\
-    \ each of the spirit's turns, its host must make a DC 21 Wisdom or Charisma saving\
-    \ throw (their choice) or become [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
-    \ ignoring any immunity or resistance to charm or possession. The charm lasts\
-    \ until the start of the spirit's next turn when the host can repeat the saving\
-    \ throw. The DC of this saving throw lowers based on the spirit's current hit\
-    \ points, becoming 19 at 187 hit points, 17 at 137 hit points, 15 at 87 hit points,\
-    \ and 13 at 37 hit points.\n\nWhile the hosted creature is controlled by the spirit,\
-    \ the spirit can issue them verbal or telepathic commands during its turn (no\
-    \ action required). The hosted creature does its best to obey the commands to\
-    \ the best of its ability. While the spirit has control of its host, it can force\
-    \ the host to spend any amount of its movement from its upcoming turn in order\
-    \ to move on the spirit's turn instead.\n\nIn addition, the spirit has advantage\
-    \ on saving throws against any of its host's spells and magical effects."
-  "name": "Attuned Thrall"
-- "desc": "If the hosted creature dies, the spirit's body explodes: dispelling the\
-    \ spirit and forcing each creature within 30 feet of it to make a DC 16 Dexterity\
-    \ saving throw. On a failed save, a creature takes 33 (6d10) necrotic damage,\
-    \ or half as much damage on a successful one. When this happens, the hosted creature\
-    \ is disintegrated and lost, leaving any Remnants of Dendallen behind."
-  "name": "Unstable Conduit"
-- "desc": "The spirit's form allows it to move through any opening large enough for\
-    \ its host without squeezing. The spirit can occupy another creature's space and\
-    \ vice versa. The spirit is immune to any spell or effect that would alter its\
-    \ form."
-  "name": "Necromantic Form"
-- "desc": "If the spirit fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
-- "desc": "The spirit is immune to effects that turn undead."
-  "name": "Turn Immunity"
-- "desc": "If the spirit doesn't have any tendrils conjured, it can use a bonus action\
-    \ to conjure 1 [[5. Mechanics/Bestiary/Undead/Tendril Of Dendallen (TGS1).md|tendril of Dendallen]]\
-    \ at any point on a surface within 120 feet."
-  "name": "Create Tendril"
+  - "desc": "The spirit is a 19th-level spellcaster. Its spellcasting ability is Intelligence\
+      \ (spell save DC 12, +13 to hit with spell attacks). It has the following wizard\
+      \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Chill Touch.md|chill touch]],\
+      \ [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+      \ [[5. Mechanics/Spells/Poison Spray.md|poison spray]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
+      \n1st level (4 slots): [[5. Mechanics/Spells/False Life.md|false life]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict\
+      \ wounds]], [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
+      \ [[5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]],\
+      \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
+      \ [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]]\n\n3rd level\
+      \ (3 slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
+      \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Haste.md|haste]],\
+      \ [[5. Mechanics/Spells/Slow.md|slow]]\n\n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]],\
+      \ [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]]\n\
+      \n5th level (3 slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]], [[5. Mechanics/Spells/Telekinesis.md|telekinesis]],\
+      \ [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]\n\n6th level (2 slots):\
+      \ [[5. Mechanics/Spells/Circle Of Death.md|circle of death]], [[5. Mechanics/Spells/Disintegrate.md|disintegrate]]\n\
+      \n7th level (1 slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
+      \ [[5. Mechanics/Spells/Prismatic Spray.md|prismatic spray]]\n\n8th level (1\
+      \ slots): [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]\n\n9th level (1\
+      \ slots): [[5. Mechanics/Spells/Weird.md|weird]]"
+    "name": "Spellcasting"
+  - "desc": "The creature that attuned to three Remnants of Dendallen becomes the\
+      \ host to the spirit of Dendallen, and a conduit through which it can exist\
+      \ on that plane of existence. The spirit can't move on its own and stays centered\
+      \ on the host's space, moving with the creature whenever they do.\n\nAt the\
+      \ start of each of the spirit's turns, its host must make a DC 21 Wisdom or\
+      \ Charisma saving throw (their choice) or become [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+      \ ignoring any immunity or resistance to charm or possession. The charm lasts\
+      \ until the start of the spirit's next turn when the host can repeat the saving\
+      \ throw. The DC of this saving throw lowers based on the spirit's current hit\
+      \ points, becoming 19 at 187 hit points, 17 at 137 hit points, 15 at 87 hit\
+      \ points, and 13 at 37 hit points.\n\nWhile the hosted creature is controlled\
+      \ by the spirit, the spirit can issue them verbal or telepathic commands during\
+      \ its turn (no action required). The hosted creature does its best to obey the\
+      \ commands to the best of its ability. While the spirit has control of its host,\
+      \ it can force the host to spend any amount of its movement from its upcoming\
+      \ turn in order to move on the spirit's turn instead.\n\nIn addition, the spirit\
+      \ has advantage on saving throws against any of its host's spells and magical\
+      \ effects."
+    "name": "Attuned Thrall"
+  - "desc": "If the hosted creature dies, the spirit's body explodes: dispelling the\
+      \ spirit and forcing each creature within 30 feet of it to make a DC 16 Dexterity\
+      \ saving throw. On a failed save, a creature takes 33 (6d10) necrotic damage,\
+      \ or half as much damage on a successful one. When this happens, the hosted\
+      \ creature is disintegrated and lost, leaving any Remnants of Dendallen behind."
+    "name": "Unstable Conduit"
+  - "desc": "The spirit's form allows it to move through any opening large enough\
+      \ for its host without squeezing. The spirit can occupy another creature's space\
+      \ and vice versa. The spirit is immune to any spell or effect that would alter\
+      \ its form."
+    "name": "Necromantic Form"
+  - "desc": "If the spirit fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (3/Day)"
+  - "desc": "The spirit is immune to effects that turn undead."
+    "name": "Turn Immunity"
+  - "desc": "If the spirit doesn't have any tendrils conjured, it can use a bonus\
+      \ action to conjure 1 [[5. Mechanics/Bestiary/Undead/Tendril Of Dendallen (TGS1).md|tendril of Dendallen]]\
+      \ at any point on a surface within 120 feet."
+    "name": "Create Tendril"
 "actions":
-- "desc": "The spirit makes three slam attacks or two decaying ray attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 18\
-    \ (2d12 + 5) force damage plus 27 (6d8) acid damage."
-  "name": "Slam"
-- "desc": "Ranged Spell Attack: +12 to hit, range 60 ft., one creature. Hit: 17\
-    \ (3d8 + 3) necrotic damage, and the target must succeed on a DC 20 Constitution\
-    \ saving throw or gain one cumulative level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]]\
-    \ that lasts for 1 minute. A creature exhausted by this attack repeats the saving\
-    \ throw at the end of each of its turns, taking an additional 3 (1d6) necrotic\
-    \ damage for each level of exhaustion it has on a failed save, or removing all\
-    \ exhaustion on a successful one."
-  "name": "Bolt"
-- "desc": "The spirit conjures 1d4 + 1 [[5. Mechanics/Bestiary/Undead/Tendril Of Dendallen (TGS1).md|tendrils of Dendallen]]\
-    \ at points of its choice on surfaces within 120 feet of it, up to a maximum of\
-    \ six of them at once. Roll initiative for the tendrils, which have their own\
-    \ turns."
-  "name": "Conjure Tendrils (Recharge 5-6)"
+  - "desc": "The spirit makes three slam attacks or two decaying ray attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 18\
+      \ (2d12 + 5) force damage plus 27 (6d8) acid damage."
+    "name": "Slam"
+  - "desc": "Ranged Spell Attack: +12 to hit, range 60 ft., one creature. Hit:\
+      \ 17 (3d8 + 3) necrotic damage, and the target must succeed on a DC 20 Constitution\
+      \ saving throw or gain one cumulative level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]]\
+      \ that lasts for 1 minute. A creature exhausted by this attack repeats the saving\
+      \ throw at the end of each of its turns, taking an additional 3 (d6) necrotic\
+      \ damage for each level of exhaustion it has on a failed save, or removing all\
+      \ exhaustion on a successful one."
+    "name": "Bolt"
+  - "desc": "The spirit conjures 1d4 + 1 [[5. Mechanics/Bestiary/Undead/Tendril Of Dendallen (TGS1).md|tendrils of Dendallen]]\
+      \ at points of its choice on surfaces within 120 feet of it, up to a maximum\
+      \ of six of them at once. Roll initiative for the tendrils, which have their\
+      \ own turns."
+    "name": "Conjure Tendrils (Recharge 5-6)"
 "legendary_actions":
-- "desc": "The spirit makes a single slam or decaying ray attack."
-  "name": "Quick Attack"
-- "desc": "Up to 4 tendrils conjured by the spirit can either teleport or make a single\
-    \ grasp attack."
-  "name": "Command Tendrils"
-- "desc": "The spirit sweeps with the back of its massive arm. Each creature in a\
-    \ 20-foot cone must succeed on a DC 19 Dexterity saving throw or take 17 (2d12\
-    \ + 4) force damage and be pushed back up to 15 feet and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
-  "name": "Sweep (Costs 2 Actions)"
-- "desc": "The spirit casts one spell of 7th level or lower from its prepared spells\
-    \ that has a casting time of 1 action."
-  "name": "Quick Cast (Costs 3 Actions)"
+  - "desc": "The spirit makes a single slam or decaying ray attack."
+    "name": "Quick Attack"
+  - "desc": "Up to 4 tendrils conjured by the spirit can either teleport or make a\
+      \ single grasp attack."
+    "name": "Command Tendrils"
+  - "desc": "The spirit sweeps with the back of its massive arm. Each creature in\
+      \ a 20-foot cone must succeed on a DC 19 Dexterity saving throw or take 17 (2d12\
+      \ + 4) force damage and be pushed back up to 15 feet and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+    "name": "Sweep (Costs 2 Actions)"
+  - "desc": "The spirit casts one spell of 7th level or lower from its prepared spells\
+      \ that has a casting time of 1 action."
+    "name": "Quick Cast (Costs 3 Actions)"
 "source":
-- "tgs1"
+  - "tgs1"
 ```
 ^statblock
 

@@ -10,4 +10,4 @@ aliases:
 
 ## 3rd Level
 
-- [[Sending \|"PHB"]]
+- [[5. Mechanics/Spells/Sending.md \|"PHB"]]

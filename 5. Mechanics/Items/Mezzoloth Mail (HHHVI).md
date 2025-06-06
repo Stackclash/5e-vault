@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mezzoloth Mail
 armorClass: 18
+weight: 65
 ---
 # Mezzoloth Mail
 *Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), rare (requires attunement)*  

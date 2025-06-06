@@ -22,7 +22,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Dragonkin-Weapon.webp#right)  
 
 
-These weapons are made of a scaly metal that radiates draconic elements. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and it deals an extra `dice:1d6|noform|avg` (`1d6`) damage of the same type as your Breath Weapon racial trait. In addition, while attuned to the weapon, you gain a +1 bonus to your breath weapon's save DC.
+These weapons are made of a scaly metal that radiates draconic elements. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and it deals an extra `dice:1d6|noform|noparens|avg` (`d6`) damage of the same type as your Breath Weapon racial trait. In addition, while attuned to the weapon, you gain a +1 bonus to your breath weapon's save DC.
 
 The color of the weapon's metal changes to reflect your own natural colors as a dragonborn once you attune to it.
 

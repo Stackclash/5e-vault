@@ -8,16 +8,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of Cubic Cultivation
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Staff of Cubic Cultivation
 *Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Staff-of-Cubic-Cultivation.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
@@ -25,6 +26,6 @@ This staff has a perfect cube of blue crystal at its top that slowly drips with 
 
 You can climb or walk on the cubes. However, their sticky surfaces are considered difficult terrain.
 
-The staff regains `dice:1d6+4|noform|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the gem on top of the staff shatters and is destroyed, creating a gelatinous cube in its place that's hostile toward you. When this happens, the staff becomes a nonmagical quarterstaff.
+The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the gem on top of the staff shatters and is destroyed, creating a gelatinous cube in its place that's hostile toward you. When this happens, the staff becomes a nonmagical quarterstaff.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 169*

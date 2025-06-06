@@ -9,6 +9,7 @@ tags:
 aliases:
   - Astral Aegis
 armorClass: 2
+weight: 6
 ---
 # Astral Aegis
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), legendary (requires attunement)*  
@@ -29,6 +30,6 @@ You can use an action to cast the [[5. Mechanics/Spells/Astral Projection.md\|as
 
 ## Astral Ward
 
-You can perform a special ritual with the shield over the course of 1 hour, which can be done during a short rest. At the end of that time, a glimmering ward appears, centered on your location, which extends from you in a cylinder that's 100 feet tall with a radius of 50 feet. The ward remains at that location for 24 hours or until you leave the area. For the duration, creatures can't move or travel within the space using teleportation (except by the shield's Astral [[5. Mechanics/Items/Defender.md\|Defender]] property) or by extradimensional or interplanar means. In addition, when an aberration enters the ward's area for the first time on a turn or starts its turn there, it must succeed on a DC 17 Wisdom saving throw or take `dice:5d10|noform|avg` (`5d10`) radiant damage. Once a creature succeeds on the saving throw, it's immune to the effect for 24 hours.
+You can perform a special ritual with the shield over the course of 1 hour, which can be done during a short rest. At the end of that time, a glimmering ward appears, centered on your location, which extends from you in a cylinder that's 100 feet tall with a radius of 50 feet. The ward remains at that location for 24 hours or until you leave the area. For the duration, creatures can't move or travel within the space using teleportation (except by the shield's Astral [[5. Mechanics/Items/Defender.md\|Defender]] property) or by extradimensional or interplanar means. In addition, when an aberration enters the ward's area for the first time on a turn or starts its turn there, it must succeed on a DC 17 Wisdom saving throw or take `dice:5d10|noform|noparens|avg` (`5d10`) radiant damage. Once a creature succeeds on the saving throw, it's immune to the effect for 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*

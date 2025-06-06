@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greek
   - domain/trickery
+alignment: Chaotic Neutral
+domains: Trickery
+pantheon: Greek
+symbol: Fan of peacock feathers
 aliases:
   - Hera
 ---

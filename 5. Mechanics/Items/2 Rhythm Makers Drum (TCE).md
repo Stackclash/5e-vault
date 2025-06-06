@@ -8,6 +8,7 @@ tags:
   - item/rarity/rare
 aliases:
   - +2 Rhythm-Maker's Drum
+weight: 3
 ---
 # +2 Rhythm-Maker's Drum
 *Wondrous item, instrument, rare (requires attunement by a bard)*  

@@ -9,13 +9,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Lunar Rapier
-one-hand-damage: 1d8 P
+one-hand-damage: 1d8 piercing
+weight: 2
 ---
 # Lunar Rapier
 *Weapon ([[5. Mechanics/Items/Rapier.md\|rapier]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Lunar-Rapier.webp#right)  
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
 

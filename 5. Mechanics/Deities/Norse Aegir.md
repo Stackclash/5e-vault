@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/norse
   - domain/tempest
+alignment: Neutral Evil
+domains: Tempest
+pantheon: Norse
+symbol: Rough ocean waves
 aliases:
   - Aegir
 ---

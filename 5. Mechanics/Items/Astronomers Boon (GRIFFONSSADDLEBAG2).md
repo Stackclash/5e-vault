@@ -21,11 +21,11 @@ This brass astrolabe has a glass back that sparkles softly when light shines thr
 
 ## The Knight
 
-5 stars appear on your arm in the shape of a sword. When you hit with a melee attack, you can choose to expend 1 of the stars as part of the attack to cause the target to take an extra `dice:1d4|noform|avg` (`1d4`) radiant damage. Alternatively, if a friendly creature within 30 feet of you that you can see hits a target with a melee attack, you can use your reaction to expend 1 of the stars and empower the attack with light, causing the target to take an extra `dice:1d4|noform|avg` (`1d4`) radiant damage.
+5 stars appear on your arm in the shape of a sword. When you hit with a melee attack, you can choose to expend 1 of the stars as part of the attack to cause the target to take an extra `dice:1d4|noform|noparens|avg` (`d4`) radiant damage. Alternatively, if a friendly creature within 30 feet of you that you can see hits a target with a melee attack, you can use your reaction to expend 1 of the stars and empower the attack with light, causing the target to take an extra `dice:1d4|noform|noparens|avg` (`d4`) radiant damage.
 
 ## The Seer
 
-4 stars appear on your forehead in the shape of an eye. You can use a bonus action to expend 1 of the stars and touch a creature. Once within the next 10 minutes, that creature can choose to add `dice:1d4|noform|avg` (`1d4`) to an ability check or saving throw that it makes. It can choose to roll the die before or after making the ability check or saving throw.
+4 stars appear on your forehead in the shape of an eye. You can use a bonus action to expend 1 of the stars and touch a creature. Once within the next 10 minutes, that creature can choose to add `dice:1d4|noform|noparens|avg` (`d4`) to an ability check or saving throw that it makes. It can choose to roll the die before or after making the ability check or saving throw.
 
 The stars remain until the next dusk, at which point any unused stars vanish and are lost. Once the astrolabe has granted a benefit in this way, it can't be used again until the next dusk.
 

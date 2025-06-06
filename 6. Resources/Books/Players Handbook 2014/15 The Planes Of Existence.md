@@ -86,7 +86,7 @@ Distance is a virtually meaningless concept on the Outer Planes. The perceptible
 
 The most well-known Outer Planes are a group of sixteen planes that correspond to the eight alignments (excluding neutrality) and the shades of distinction between them.
 
-![[5. Mechanics/Tables/Outer Planes.md\|Outer Planes]]
+![[5. Mechanics/Tables/Outer Planes (PHB).md\|Outer Planes]]
 
 The planes with some element of good in their nature are called the **Upper Planes.** Celestial creatures such as angels and pegasi dwell in the Upper Planes. Planes with some element of evil are the **Lower Planes.** Fiends such as demons, devils, and yugoloths dwell in the Lower Planes. A plane's alignment is its essence, and a character whose alignment doesn't match the plane's experiences a profound sense of dissonance there. When a good creature visits Elysium, for example, it feels in tune with the plane, but an evil creature feels out of tune and more than a little uncomfortable.
 

@@ -18,7 +18,7 @@ This wooden rod has a small stuffed scarecrow head on its end. You can use an ac
 
 The scarecrow is a construct, instead of undead, and can't understand any languages.
 
-The scarecrow holds a farmer's sickle. It can use its action to make two attacks with its sickle (+3 to hit). On a hit, it deals `dice:1d4+1|noform|avg` (`1d4 + 1`) slashing damage.
+The scarecrow holds a farmer's sickle. It can use its action to make two attacks with its sickle (+3 to hit). On a hit, it deals `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) slashing damage.
 
 Small and Tiny beasts have disadvantage on attack rolls against the scarecrow.
 

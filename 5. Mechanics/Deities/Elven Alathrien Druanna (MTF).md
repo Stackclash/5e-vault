@@ -6,6 +6,12 @@ tags:
   - deity/elven
   - domain/arcana
   - domain/knowledge
+alignment: Neutral
+category: The Seldarine
+domains: 'Arcana, Knowledge'
+pantheon: Elven
+province: 'Runes, writing, spellcasting'
+symbol: A quill or glyph
 aliases:
   - Alathrien Druanna
 ---

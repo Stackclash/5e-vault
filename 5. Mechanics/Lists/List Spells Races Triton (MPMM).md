@@ -10,12 +10,12 @@ aliases:
 
 ## 1st Level
 
-- [[Fog Cloud \|"PHB"]] 
+- [[5. Mechanics/Spells/Fog Cloud.md \|"PHB"]] 
 
 ## 2nd Level
 
-- [[Gust Of Wind \|"PHB"]] 
+- [[5. Mechanics/Spells/Gust Of Wind.md \|"PHB"]] 
 
 ## 3rd Level
 
-- [[Water Walk \|"PHB"]]
+- [[5. Mechanics/Spells/Water Wa(LK).md \|"PHB"]]

@@ -50,13 +50,13 @@ const config = {
         return ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
       },
       target: 'fileName',
-      process: function(file) {
+      process: async function(file) {
         let newFileName = file.fileName
         let sourceKeys = []
         if (cache.get('sourceKeys')) {
           sourceKeys = cache.get('sourceKeys')
         } else {
-          sourceKeys = getAllSourceKeys()
+          sourceKeys = await getAllSourceKeys()
           cache.set('sourceKeys', sourceKeys)
         }
 
@@ -75,7 +75,7 @@ const config = {
       },
       target: 'content',
       regex: /\[([A-zÀ-ú\w\s\d,:;'\.\(\)-\/]*?)\]\(([\w\s\d\/\\\.\-%\d]+)(#{0,1}\^{0,1}[\-\w%]*)\s{0,1}"{0,1}([A-zÀ-ú\w\d\s:&,'\.\(\)\-]*?)"{0,1}\)/g,
-      process: function(file, oldLink, displayText, linkPath, section, title) {
+      process: async function(file, oldLink, displayText, linkPath, section, title) {
         let filePath = path.parse(linkPath).dir
         let fileName = path.parse(linkPath).name
         let separator = filePath.match(/[\/\\]/)
@@ -84,15 +84,16 @@ const config = {
         let filePathRule = config.rules.find(rule => rule.name === 'Update File Path')
         let fileNameRule = config.rules.find(rule => rule.name === 'Update File Name')
 
-        filePath = filePathRule.process({
+        filePath = await filePathRule.process({
           relativePath: filePath
         })
-        fileName = fileNameRule.ignore({
-          fileExtension: path.parse(linkPath).ext
-        }) ? fileName : fileNameRule.process({
-          fileName: fileName,
-          path: filePath
-        })
+
+        if (!fileNameRule.ignore({ fileExtension: path.parse(linkPath).ext })) {
+          fileName = await fileNameRule.process({
+            fileName: fileName,
+            path: filePath
+          })
+        }
 
         linkPath = `${filePath ? filePath + separator : ''}${fileName}${path.parse(linkPath).ext}`
 
@@ -105,6 +106,93 @@ const config = {
         }
 
         return newLink
+      }
+    },
+    
+    {
+      enabled: true,
+      name: 'Update Spell',
+      ignore: function(file) {
+        return !/5\. mechanics[\/\\]spells/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension) || file.fileName.toLowerCase() === 'spells'
+      },
+      target: 'frontMatter',
+      process: async function(file) {
+        const frontMatter = file.frontMatter
+        const alias = frontMatter?.aliases[0]
+
+        if (alias) {
+          const spellKey = alias.toLowerCase().replaceAll(' ', '-')
+
+          console.log(`\t\tFetching Spell Details for ${spellKey}`)
+          const spellDetailsResponse = await fetch(`https://www.dnd5eapi.co/api/2014/spells/${spellKey}`)
+          let spellDetails = null
+
+          if (spellDetailsResponse.ok) {
+            spellDetails = await spellDetailsResponse.json()
+          }
+
+          if (spellDetails) {
+            console.log('\t\tSuccessfully got spell details')
+            if (spellDetails.range) {
+              frontMatter.range = spellDetails.range
+            }
+            if (spellDetails.components) {
+              frontMatter.components = spellDetails.components
+            }
+            if (spellDetails.material) {
+              frontMatter.material = spellDetails.material
+            }
+            if (spellDetails.level) {
+              frontMatter.level = spellDetails.level
+            }
+            if (spellDetails?.damage?.damage_type) {
+              frontMatter.damageType = spellDetails.damage.damage_type.name
+            }
+            if (spellDetails?.dc) {
+              frontMatter.save = {
+                type: spellDetails.dc.dc_type.name,
+                success: spellDetails.dc.dc_success
+              }
+            }
+            if (spellDetails?.area_of_effect) {
+              frontMatter.area = {
+                type: spellDetails.area_of_effect.type,
+                size: spellDetails.area_of_effect.size
+              }
+            }
+            if (spellDetails?.concentration) {
+              frontMatter.concentration = spellDetails.concentration
+            }
+            if (spellDetails?.duration) {
+              frontMatter.duration = spellDetails.duration
+            }
+          } else {
+            if (/^\d+/.test(frontMatter.level)) {
+              frontMatter.level = parseInt(frontMatter.level.match(/\d+/)[0])
+            }
+
+            if (/^Concentration/.test(frontMatter.duration)) {
+              frontMatter.concentration = true
+              frontMatter.duration = frontMatter.duration.match(/Concentration, (.+)/)[1]
+            }
+
+            if (/\b([A-Z])(?:,\s*([A-Z]))?(?:,\s*([A-Z]))?\b(?:\s*\(([^)]+)\))?/.test(frontMatter.components)) {
+              const matches = frontMatter.components.match(/\b([A-Z])(?:,\s*([A-Z]))?(?:,\s*([A-Z]))?\b(?:\s*\(([^)]+)\))?/)
+              const components = [matches[1], matches[2], matches[3]].filter(Boolean)
+              const material = matches[4]
+
+              if (components) {
+                frontMatter.components = components
+              }
+
+              if (material) {
+                frontMatter.material = material
+              }
+            }
+          }
+        }
+
+        return frontMatter
       }
     },
     {
@@ -133,10 +221,10 @@ const config = {
       },
       target: 'content',
       regex: /"*image"*: "*([\w\/]+)(\/[img|token]+\/[\w-]+\.[\w]+)"*/g,
-      process: function(file, oldText, imagePath, restOfPath) {
+      process: async function(file, oldText, imagePath, restOfPath) {
         let filePathRule = config.rules.find(rule => rule.name === 'Update File Path')
 
-        imagePath = filePathRule.process({
+        imagePath = await filePathRule.process({
           relativePath: imagePath
         })
 
@@ -166,7 +254,7 @@ const config = {
         ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
       },
       target: 'frontMatter',
-      process: function(file) {
+      process: async function(file) {
         const updateFilePath = config.rules.find(rule => rule.name === 'Update File Path')
         const updateFileName = config.rules.find(rule => rule.name === 'Update File Name')
 
@@ -178,13 +266,13 @@ const config = {
             if (typeof frontMatter[key] === 'string') {
               if (regex.test(frontMatter[key])) {
                 const extension = path.extname(frontMatter[key])
-                const filePath = updateFilePath.process({
+                const filePath = await updateFilePath.process({
                   relativePath: path.parse(path.relative(config.rootVaultPath, frontMatter[key])).dir
                 })
                 let fileName = path.parse(frontMatter[key]).name
 
                 if (!['.jpg', '.jpeg', '.png', '.webp'].includes(extension)) {
-                  fileName = updateFileName.process({
+                  fileName = await updateFileName.process({
                     fileName
                   })
                 }
@@ -195,13 +283,13 @@ const config = {
               for (let i = 0; i < frontMatter[key].length; i++) {
                 if (regex.test(frontMatter[key][i])) {
                   const extension = path.extname(frontMatter[key][i])
-                  const filePath = updateFilePath.process({
+                  const filePath = await updateFilePath.process({
                     relativePath: path.parse(path.relative(config.rootVaultPath, frontMatter[key][i])).dir
                   })
                   let fileName = path.parse(frontMatter[key][i]).name
 
                   if (!['.jpg', '.jpeg', '.png', '.webp'].includes(extension)) {
-                    fileName = updateFileName.process({
+                    fileName = await updateFileName.process({
                       fileName
                     })
                   }
@@ -328,6 +416,39 @@ function getFilesList(folderPath) {
   return filesList
 }
 
+async function applyAsyncRegexReplacement(str, regex, file, rule) {
+  const matches = []
+  let match
+
+  // Ensure global flag is set to find all matches
+  const globalRegex = new RegExp(regex.source, regex.flags.includes('g') ? regex.flags : regex.flags + 'g')
+
+  while ((match = globalRegex.exec(str)) !== null) {
+    matches.push({
+      match,
+      index: match.index,
+      length: match[0].length,
+      replacement: null
+    })
+  }
+
+  // Process matches in order, collecting replacements
+  for (const m of matches) {
+    m.replacement = await rule.process(file, ...m.match)
+  }
+
+  // Build new string using replacements
+  let newStr = ''
+  let lastIndex = 0
+  for (const m of matches) {
+    newStr += str.slice(lastIndex, m.index) + m.replacement
+    lastIndex = m.index + m.length
+  }
+  newStr += str.slice(lastIndex)
+
+  return newStr
+}
+
 function moveCssSnippets() {
   const newCssPath = path.join(config.rootVaultPath, config.css.newPath)
 
@@ -347,30 +468,36 @@ function moveCssSnippets() {
   return
 }
 
-function processAllRules(file, index) {
+async function processAllRules(file, index) {
   console.log(`${index + 1} Processing: ${path.join(file.relativePath, file.fileName + file.fileExtension)}`)
-  config.rules.forEach(rule => {
+  for (const rule of config.rules) {
     if (rule.enabled) {
       if (!(rule.ignore && rule.ignore(file))) {
         if (config.logs.rules) console.log(`\tRunning: ${rule.name}`)
         if (rule.regex) {
-          file[rule.target] = file[rule.target].replaceAll(new RegExp(rule.regex), (...match) => rule.process(file, ...match))
+          file[rule.target] = await applyAsyncRegexReplacement(
+            file[rule.target],
+            new RegExp(rule.regex),
+            file,
+            rule
+          )
         } else {
           if (rule.target) {
-            file[rule.target] = rule.process(file)
+            file[rule.target] = await rule.process(file)
           } else {
-            rule.process(file)
+            await rule.process(file)
           }
         }
       }
     }
-  })
+  }
   return
 }
 
-function getAllSourceKeys() {
+async function getAllSourceKeys() {
   const sourceKeys = []
-  const keySource = fetch('https://rawcdn.githack.com/ebullient/ttrpg-convert-cli/f23b3aa4a5947fe7c773832189af6024692ab9c2/src/main/resources/sourceMap.yaml')
+  const keySourceResponse = await fetch('https://rawcdn.githack.com/ebullient/ttrpg-convert-cli/f23b3aa4a5947fe7c773832189af6024692ab9c2/src/main/resources/sourceMap.yaml')
+  const keySource = await keySourceResponse.text()
 
   ttrpgConvertConfig.sources.homebrew.forEach(homebrew => {
     const file = JSON.parse(fs.readFileSync(path.resolve(config.rootVaultPath, homebrew), 'utf-8'))
@@ -379,7 +506,7 @@ function getAllSourceKeys() {
     })
   })
 
-  sourceKeys.push(...Object.keys(matter(keySource.text()).data.config5e.reference))
+  sourceKeys.push(...Object.keys(matter(keySource).data.config5e.reference))
 
   return sourceKeys
 }
@@ -412,7 +539,7 @@ function cleanup() {
   return
 }
 
-function main() {
+async function main() {
   if (config.css.move) moveCssSnippets()
   const filesList = getFilesList(path.resolve(config.rootVaultPath, config.compendiumPath))
   let index = 0
@@ -422,7 +549,7 @@ function main() {
   for (const file of filesList) {
     if (index >= config.limit) break
     const compendiumFile = new CompendiumFile(file)
-    processAllRules(compendiumFile, index)
+    await processAllRules(compendiumFile, index)
     index++
   }
 }

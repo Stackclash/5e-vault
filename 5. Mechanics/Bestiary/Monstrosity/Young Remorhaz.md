@@ -14,7 +14,7 @@ tags:
 aliases:
   - Young Remorhaz
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Young Remorhaz.md|Young Remorhaz]]
+# [[5. Mechanics\Bestiary\Monstrosity\Young Remorhaz.md|Young Remorhaz]]
 *Source: Monster Manual p. 258*
 
 From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pulsing with internal fire. Wing like fins flare from the back of the creature's head, and its wide mouth brims with jagged teeth.
@@ -36,28 +36,29 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
 "ac_class": "natural armor"
 "hp": !!int "93"
 "hit_dice": "11d10 + 33"
+"modifier": !!int "1"
 "stats":
-- !!int "18"
-- !!int "13"
-- !!int "17"
-- !!int "3"
-- !!int "10"
-- !!int "4"
+  - !!int "18"
+  - !!int "13"
+  - !!int "17"
+  - !!int "3"
+  - !!int "10"
+  - !!int "4"
 "speed": "30 ft., burrow 30 ft."
 "damage_immunities": "cold, fire"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10"
 "languages": ""
 "cr": "5"
 "traits":
-- "desc": "A creature that touches the remorhaz or hits it with a melee attack while\
-    \ within 5 feet of it takes 7 (2d6) fire damage."
-  "name": "Heated Body"
+  - "desc": "A creature that touches the remorhaz or hits it with a melee attack while\
+      \ within 5 feet of it takes 7 (2d6) fire damage."
+    "name": "Heated Body"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 20 (3d10\
-    \ + 4) piercing damage plus 7 (2d6) fire damage."
-  "name": "Bite"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 20\
+      \ (3d10 + 4) piercing damage plus 7 (2d6) fire damage."
+    "name": "Bite"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/young-remorhaz.webp"
 ```
 ^statblock

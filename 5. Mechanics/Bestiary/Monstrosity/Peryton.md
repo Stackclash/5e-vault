@@ -15,7 +15,7 @@ tags:
 aliases:
   - Peryton
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Peryton.md|Peryton]]
+# [[5. Mechanics\Bestiary\Monstrosity\Peryton.md|Peryton]]
 *Source: Monster Manual p. 251*
 
 Although this monstrous carnivore feeds on any creature, it prefers humanoids, especially elves, half-elves, and humans. When it kills a humanoid, a peryton rips out its prey's heart and takes it back to its nest to be devoured.
@@ -43,42 +43,44 @@ Established settlements are attractive to perytons as a renewable food source. A
 "ac_class": "natural armor"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
+"modifier": !!int "1"
 "stats":
-- !!int "16"
-- !!int "12"
-- !!int "13"
-- !!int "9"
-- !!int "12"
-- !!int "10"
+  - !!int "16"
+  - !!int "12"
+  - !!int "13"
+  - !!int "9"
+  - !!int "12"
+  - !!int "10"
 "speed": "20 ft., fly 60 ft."
 "skillsaves":
-  "Perception": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "passive Perception 15"
 "languages": "understands Common and Elvish but can't speak"
 "cr": "2"
 "traits":
-- "desc": "If the peryton is flying and dives at least 30 feet straight toward a target\
-    \ and then hits it with a melee weapon attack, the attack deals an extra 9 (2d8)\
-    \ damage to the target."
-  "name": "Dive Attack"
-- "desc": "The peryton doesn't provoke an opportunity attack when it flies out of\
-    \ an enemy's reach."
-  "name": "Flyby"
-- "desc": "The peryton has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on sight or smell."
-  "name": "Keen Sight and Smell"
+  - "desc": "If the peryton is flying and dives at least 30 feet straight toward a\
+      \ target and then hits it with a melee weapon attack, the attack deals an extra\
+      \ 9 (2d8) damage to the target."
+    "name": "Dive Attack"
+  - "desc": "The peryton doesn't provoke an opportunity attack when it flies out of\
+      \ an enemy's reach."
+    "name": "Flyby"
+  - "desc": "The peryton has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on sight or smell."
+    "name": "Keen Sight and Smell"
 "actions":
-- "desc": "The peryton makes one gore attack and one talon attack."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
-    \ + 3) piercing damage."
-  "name": "Gore"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4\
-    \ + 3) piercing damage."
-  "name": "Talons"
+  - "desc": "The peryton makes one gore attack and one talon attack."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+      \ + 3) piercing damage."
+    "name": "Gore"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4\
+      \ + 3) piercing damage."
+    "name": "Talons"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/peryton.webp"
 ```
 ^statblock

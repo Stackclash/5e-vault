@@ -50,7 +50,7 @@ The codex miror remembers a time when magic was much...friskier. Whenever you ca
 | 36–40 | All gold within 10 feet of you transmutes into lead. |
 | 41–45 | The target is completely covered in an inch-thick coat of honey. Also, 500 bees arrive. |
 | 46–49 | Every time the target speaks, the following music plays:![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/rush-tom-sawyer.png#center) |
-| 50–54 | a small cottage falls on you, dealing `dice:8d10\|noform\|avg` (`8d10`) damage. You are pinned under the house with only your feet sticking out. |
+| 50–54 | a small cottage falls on you, dealing `dice:8d10\|noform\|noparens\|avg` (`8d10`) damage. You are pinned under the house with only your feet sticking out. |
 | 55–59 | Rotting fish shower down within 100 feet of the target for 6 seconds. |
 | 60–63 | You are polymorphed into a [[5. Mechanics/Bestiary/Monstrosity/Centaur.md\|centaur]]. |
 | 64–67 | All weapons within 60 feet turn into bunches of flowers. |

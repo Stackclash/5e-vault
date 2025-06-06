@@ -7,6 +7,7 @@ tags:
   - item/rarity/none
 aliases:
   - Tome of Strahd
+weight: 5
 ---
 # Tome of Strahd
 *Adventuring gear*  

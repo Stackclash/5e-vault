@@ -14,7 +14,7 @@ tags:
 aliases:
   - Treant
 ---
-# [[5. Mechanics/Bestiary/Plant/Treant.md|Treant]]
+# [[5. Mechanics\Bestiary\Plant\Treant.md|Treant]]
 *Source: Monster Manual p. 289, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Treants are awakened trees that dwell in ancient forests. Although treants prefer to while away the days, months, and years in quiet contemplation, they fiercely protect their woodland demesnes from outside threats.
@@ -42,13 +42,14 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
 "ac_class": "natural armor"
 "hp": !!int "138"
 "hit_dice": "12d12 + 60"
+"modifier": !!int "-1"
 "stats":
-- !!int "23"
-- !!int "8"
-- !!int "21"
-- !!int "12"
-- !!int "16"
-- !!int "12"
+  - !!int "23"
+  - !!int "8"
+  - !!int "21"
+  - !!int "12"
+  - !!int "16"
+  - !!int "12"
 "speed": "30 ft."
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing"
@@ -56,32 +57,33 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
 "languages": "Common, Druidic, Elvish, Sylvan"
 "cr": "9"
 "traits":
-- "desc": "While the treant remains motionless, it is indistinguishable from a normal\
-    \ tree."
-  "name": "False Appearance"
-- "desc": "The treant deals double damage to objects and structures."
-  "name": "Siege Monster"
+  - "desc": "While the treant remains motionless, it is indistinguishable from a normal\
+      \ tree."
+    "name": "False Appearance"
+  - "desc": "The treant deals double damage to objects and structures."
+    "name": "Siege Monster"
 "actions":
-- "desc": "The treant makes two slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6\
-    \ + 6) bludgeoning damage."
-  "name": "Slam"
-- "desc": "Ranged Weapon Attack: +10 to hit, range 60/180 ft., one target. Hit:\
-    \ 28 (4d10 + 6) bludgeoning damage."
-  "name": "Rock"
-- "desc": "The treant magically animates one or two trees it can see within 60 feet\
-    \ of it. These trees have the same statistics as a [[5. Mechanics/Bestiary/Plant/Treant.md|treant]],\
-    \ except they have Intelligence and Charisma scores of 1, they can't speak, and\
-    \ they have only the Slam action option. An animated tree acts as an ally of the\
-    \ treant. The tree remains animate for 1 day or until it dies; until the treant\
-    \ dies or is more than 120 feet from the tree; or until the treant takes a bonus\
-    \ action to turn it back into an inanimate tree. The tree then takes root if possible."
-  "name": "Animate Trees (1/Day)"
+  - "desc": "The treant makes two slam attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16\
+      \ (3d6 + 6) bludgeoning damage."
+    "name": "Slam"
+  - "desc": "Ranged Weapon Attack: +10 to hit, range 60/180 ft., one target. Hit:\
+      \ 28 (4d10 + 6) bludgeoning damage."
+    "name": "Rock"
+  - "desc": "The treant magically animates one or two trees it can see within 60 feet\
+      \ of it. These trees have the same statistics as a [[5. Mechanics/Bestiary/Plant/Treant.md|treant]],\
+      \ except they have Intelligence and Charisma scores of 1, they can't speak,\
+      \ and they have only the Slam action option. An animated tree acts as an ally\
+      \ of the treant. The tree remains animate for 1 day or until it dies; until\
+      \ the treant dies or is more than 120 feet from the tree; or until the treant\
+      \ takes a bonus action to turn it back into an inanimate tree. The tree then\
+      \ takes root if possible."
+    "name": "Animate Trees (1/Day)"
 "source":
-- "MM"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Plant/token/treant.webp"
 ```
 ^statblock

@@ -7,22 +7,29 @@ tags:
   - spell/class/ranger
   - spell/level/2nd-level
   - spell/school/abjuration
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Ranger
 school: Abjuration
-time: 1 action
-duration: 24 hour
-components: 'V, S, a loop of twine'
+level: 2
+ritual: false
+time: 1 Action
+duration: 24 hours
+components:
+  - V
+  - S
+  - M
 aliases:
   - Instant Snare
+material: a loop of twine
 ---
 # Instant Snare
 *2nd-level, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
-- **Components:** V, S, a loop of twine
-- **Duration:** 24 hour
+- **Components:** V, S, M (a loop of twine)
+- **Duration:** 24 hours
 
 You create a snare on a point you can see within range. You can leave the snare as a magical trap, or you can use your reaction to trigger the trap when a Large or smaller creature you can see moves within 10 feet of the snare. If you leave the snare as a trap, a creature must succeed on an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) or Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check against your spell save DC to find the trap.
 
@@ -32,6 +39,6 @@ This spell alerts you with a ping in your mind when the trap is triggered if you
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can create one additional snare for each slot level above 2nd. When you receive the mental ping that a trap was triggered, you know which snare was triggered if you have more than one.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Ranger\|Ranger]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 85*

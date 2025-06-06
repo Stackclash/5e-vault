@@ -8,6 +8,7 @@ tags:
 aliases:
   - Mason's Tools
 cost: 1000
+weight: 8
 ---
 # Mason's Tools
 *Artisan's tools*  

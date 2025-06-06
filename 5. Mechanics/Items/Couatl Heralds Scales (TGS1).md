@@ -10,6 +10,7 @@ tags:
 aliases:
   - Couatl Herald's Scales
 armorClass: 14 + Dex modifier (max of +2)
+weight: 45
 ---
 # Couatl Herald's Scales
 *Medium armor ([[5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, rare (requires attunement by a creature of good alignment)*  
@@ -22,7 +23,7 @@ This enchanted armor is made from [[5. Mechanics/Bestiary/Celestial/Couatl.md\|c
 
 ## Tooth and Scale
 
-When you take damage from a creature within 10 feet of you, you can use your reaction to channel the good spirit within the armor and cause a bright, spectral couatl to appear above you. The spectral form strikes at the creature who damaged you, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature takes `dice:4d10|noform|avg` (`4d10`) radiant damage, or half as much damage on a success. Once this property has been used, it can't be used again until the next dawn.
+When you take damage from a creature within 10 feet of you, you can use your reaction to channel the good spirit within the armor and cause a bright, spectral couatl to appear above you. The spectral form strikes at the creature who damaged you, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature takes `dice:4d10|noform|noparens|avg` (`4d10`) radiant damage, or half as much damage on a success. Once this property has been used, it can't be used again until the next dawn.
 
 ## Flight of the Couatls
 

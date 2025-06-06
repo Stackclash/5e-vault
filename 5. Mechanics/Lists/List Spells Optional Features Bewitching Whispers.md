@@ -10,4 +10,4 @@ aliases:
 
 ## 4th Level
 
-- [[Compulsion \|"PHB"]]
+- [[5. Mechanics/Spells/Compulsion.md \|"PHB"]]

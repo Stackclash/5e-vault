@@ -10,7 +10,7 @@ aliases:
 # Laukaz
 *Source: Deep Magic p. 241*  
 
-*Water, the sea, the god Njord*
+*Water, the sea, the god [[5. Mechanics/Deities/Norse Njord.md\|Njord]]*
 
 - **Benefit.** You gain Primordial as a bonus language. If you already know this language, you have advantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) checks involving creatures from the Elemental Plane of Water.  
 - **Power (4th level).** When you take an action to trace laukaz on an object, it becomes more buoyant for 24 hours. Anyone grasping the object has advantage on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) checks to swim or to stay afloat.  

@@ -18,9 +18,9 @@ This electric-blue cloak emanates a constant low hum of the sound of thunder. Wh
 As a living storm, you lack a corporeal form and are instead a vague humanoid shape roughly the same height as your original form and made of lightning, clouds, and rain. Anything you are wearing or carrying disappears during this time and reappears once you transform back into your true form. As a living storm, you gain the following traits:
 
 - You are immune to lightning and thunder damage and have resistance to nonmagical attacks.  
-- Your unarmed strikes deal an additional `dice:1d6|noform|avg` (`1d6`) lightning damage.  
+- Your unarmed strikes deal an additional `dice:1d6|noform|noparens|avg` (`d6`) lightning damage.  
 - You have a flying (hover) and swim speed equal to your walking speed.  
-- You may move through a space as narrow as 1 inch wide without squeezing. You may also enter a hostile creature's space and stop there. The first time you enter a creature's space on a turn, or if a creature starts their turn in a space occupied by you, that creature takes `dice:2d6|noform|avg` (`2d6`) lightning damage.  
+- You may move through a space as narrow as 1 inch wide without squeezing. You may also enter a hostile creature's space and stop there. The first time you enter a creature's space on a turn, or if a creature starts their turn in a space occupied by you, that creature takes `dice:2d6|noform|noparens|avg` (`2d6`) lightning damage.  
 
 If you are in living storm form while in an area under the effect of the [[5. Mechanics/Spells/Control Weather.md\|control weather]] spell or similar magic, you instantly revert to your true form. Once this item's ability has been used once, it cannot be used again until the next dawn.
 

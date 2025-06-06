@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/trickery
+alignment: Chaotic Neutral
+domains: Trickery
+pantheon: Forgotten Realms
+symbol: Black mask
 aliases:
   - Mask
 ---

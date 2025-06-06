@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Festerwood's Light
-one-hand-damage: 1d8 P
+one-hand-damage: 1d8 piercing
+weight: 2
 ---
 # Festerwood's Light
 *Weapon ([[5. Mechanics/Items/Rapier.md\|rapier]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Festerwoods-Light.webp#right)  
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
 
@@ -24,7 +25,7 @@ This festerwood rapier's blade is inlaid with scrapings from the Lightspore, the
 
 You can use an action to raise the blade overhead and speak its command word. When you do, all creatures other than you within 30 feet of you are dusted with a sudden wave of magical spores. A friendly creature affected by the spores is suddenly invigorated, allowing it to immediately use its reaction to either make one weapon attack or move up to half its speed without provoking opportunity attacks. A hostile creature affected by the spores must succeed on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] until the end of your next turn. Once this property has been used, it can't be used again until the next dusk.
 
-The rapier has 5 charges for the following properties. The weapon regains `dice:1d3+2|noform|avg` (`1d3 + 2`) expended charges daily at dusk.
+The rapier has 5 charges for the following properties. The weapon regains `dice:1d3+2|noform|noparens|avg` (`1d3 + 2`) expended charges daily at dusk.
 
 ## Spore Cleansing
 

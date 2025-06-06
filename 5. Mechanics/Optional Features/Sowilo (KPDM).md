@@ -10,7 +10,7 @@ aliases:
 # Sowilo
 *Source: Deep Magic p. 242*  
 
-*The sun, the god Balder*
+*The sun, the god [[5. Mechanics/Deities/Norse Balder.md\|Balder]]*
 
 - **Benefit.** You gain immunity to the [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] condition.  
 - **Power (5th level).** When traced on a creature, sowilo grants it magical confidence and magnetism, enabling it to use an [[5. Mechanics/Spells/Enthrall.md\|enthrall]] effect on an audience, as with the spell. Tracing the rune takes an action, and the effect lasts for 1 minute.  

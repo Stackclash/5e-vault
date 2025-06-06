@@ -9,21 +9,38 @@ tags:
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/transmutation
-level: 7th-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S, a lodestone and iron filings'
+level: 7
+ritual: false
+time: 1 Action
+duration: Up to 1 minute
+components:
+  - V
+  - S
+  - M
 aliases:
   - Reverse Gravity
+range: 100 feet
+material: A lodestone and iron filings.
+save:
+  type: DEX
+  success: other
+area:
+  type: cylinder
+  size: 50
+concentration: true
 ---
 # Reverse Gravity
 *7th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 100 feet
-- **Components:** V, S, a lodestone and iron filings
+- **Components:** V, S, M (a lodestone and iron filings)
 - **Duration:** Concentration, up to 1 minute
 
 This spell reverses gravity in a 50-foot-radius, 100-foot-high cylinder centered on a point within range. All creatures and objects that aren't somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall.
@@ -32,6 +49,6 @@ If some solid object (such as a ceiling) is encountered in this fall, falling ob
 
 At the end of the duration, affected objects and creatures fall back down.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

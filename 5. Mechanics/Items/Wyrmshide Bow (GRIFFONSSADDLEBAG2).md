@@ -10,14 +10,15 @@ tags:
   - item/weapon/simple
 aliases:
   - Wyrmshide Bow
-one-hand-damage: 1d6 P
-range: 80/320
+one-hand-damage: 1d6 piercing
+range: 80\320
+weight: 2
 ---
 # Wyrmshide Bow
 *Weapon ([[5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wyrmshide-Bow.webp#right)  
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 80/320
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
@@ -26,7 +27,7 @@ This bow is crafted with delicate dragon scales and strung with a fiber from a d
 
 - You gain 25 temporary hit points, which last for 1 minute.  
 - You have resistance to damage of the same type as the elemental energy of the cowl. The type of energy is determined by the kind of dragon that provided the bow's scales, as shown on the table below.  
-- On a hit, the bow deals an extra `dice:1d8|noform|avg` (`1d8`) damage of the same type as the cowl's energy. If the target is a dragon, this extra damage ignores any resistance or immunity it has against that damage type.  
+- On a hit, the bow deals an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the same type as the cowl's energy. If the target is a dragon, this extra damage ignores any resistance or immunity it has against that damage type.  
 
 The cowl remains until you lose all these temporary points. Once this property has been used, it can't be used again until the next dawn or until the bow is used to slay or help slay a Large or larger dragon. For the purpose of this weapon, "dragon" refers to any creature with the dragon type, including dragon turtles and wyverns.
 

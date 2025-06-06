@@ -563,7 +563,7 @@ Because you want random encounters to build on the intended narrative of a game 
 
 You decide when a random encounter happens, or you roll. Consider checking for a random encounter once every hour, once every 4 to 8 hours, or once during the day and once during a long rest-whatever makes the most sense based on how active the area is.
 
-If you roll, do so with a `dice:d20|noform|avg` (`d20`). If the result is 18 or higher, a random encounter occurs. You then roll on an appropriate random encounter table to determine what the adventurers meet, re-rolling if the die result doesn't make sense given the circumstances.
+If you roll, do so with a `dice:d20|noform|noparens|avg` (`d20`). If the result is 18 or higher, a random encounter occurs. You then roll on an appropriate random encounter table to determine what the adventurers meet, re-rolling if the die result doesn't make sense given the circumstances.
 
 Random encounter tables might be provided as part of the adventure you're running, or you can use the information in this chapter to build your own. Creating your own tables is the best way to reinforce the themes and flavor of your home campaign.
 
@@ -587,7 +587,7 @@ As with planned encounters, random encounters are more interesting when they hap
 
 #### Probabilities
 
-A random encounter table can be created in a number of ways, ranging from simple (roll `dice:1d6|noform|avg` (`1d6`) for one of six possible encounters) to complicated (roll percentile dice, modify for time of day, and cross-index the modified number with the dungeon level). The sample encounter table presented here uses a range of 2 to 20 (nineteen entries total), generated using `dice:1d12+1d8|noform|avg` (`1d12 + 1d8`). The probability curve ensures that encounters appearing in the middle of the table are more likely to occur than encounters placed at the beginning or end of the table. A roll of 2 or 20 is rare (about a 1 percent chance of either), while each of the rolls from 9 to 13 occurs a little over 8 percent of the time.
+A random encounter table can be created in a number of ways, ranging from simple (roll `dice:1d6|noform|noparens|avg` (`d6`) for one of six possible encounters) to complicated (roll percentile dice, modify for time of day, and cross-index the modified number with the dungeon level). The sample encounter table presented here uses a range of 2 to 20 (nineteen entries total), generated using `dice:1d12+1d8|noform|noparens|avg` (`1d12 + 1d8`). The probability curve ensures that encounters appearing in the middle of the table are more likely to occur than encounters placed at the beginning or end of the table. A roll of 2 or 20 is rare (about a 1 percent chance of either), while each of the rolls from 9 to 13 occurs a little over 8 percent of the time.
 
 The Sylvan Forest Encounters table is an example of a random encounter table that implements the ideas mentioned above. Creature names in bold refer to stat blocks that appear in the *Monster Manual*.
 

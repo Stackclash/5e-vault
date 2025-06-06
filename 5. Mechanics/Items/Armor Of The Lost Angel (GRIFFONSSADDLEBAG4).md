@@ -9,6 +9,7 @@ tags:
 aliases:
   - Armor of the Lost Angel
 armorClass: 18
+weight: 65
 ---
 # Armor of the Lost Angel
 *Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), cursed item, legendary (requires attunement)*  
@@ -22,7 +23,7 @@ armorClass: 18
 
 This dark armor is covered in feathery ornamentations and streaks of scarlet. While wearing it, you gain resistance to fire and poison damage, and you can use a bonus action to extend a pair of spectral wings from your back. The color of the wings' feathers is determined by your alignment: black (evil), gray (neutral), or white (good). The wings remain until you use a bonus action to end the effect, during which time you have a flying speed of 30 feet.
 
-When you use a bonus action to extend the wings, you create a burst of hellish or celestial energy. If your wings are black, each hostile creature within 10 feet of you must succeed on a DC 16 Charisma saving throw or be affected by the [[5. Mechanics/Spells/Bane.md\|bane]] spell. If your wings are gray or white, each friendly creature other than you within 10 feet of you is affected by the [[5. Mechanics/Spells/Bless.md\|bless]] spell. Regardless, you must concentrate on the spell as normal, up to its duration. A creature affected by this version of bane takes an extra `dice:1d6|noform|avg` (`1d6`) fire damage whenever it's hit with an attack, and a creature affected by this version of bless reduces any damage it takes by `dice:1d6|noform|avg` (`1d6`).
+When you use a bonus action to extend the wings, you create a burst of hellish or celestial energy. If your wings are black, each hostile creature within 10 feet of you must succeed on a DC 16 Charisma saving throw or be affected by the [[5. Mechanics/Spells/Bane.md\|bane]] spell. If your wings are gray or white, each friendly creature other than you within 10 feet of you is affected by the [[5. Mechanics/Spells/Bless.md\|bless]] spell. Regardless, you must concentrate on the spell as normal, up to its duration. A creature affected by this version of bane takes an extra `dice:1d6|noform|noparens|avg` (`d6`) fire damage whenever it's hit with an attack, and a creature affected by this version of bless reduces any damage it takes by `dice:1d6|noform|noparens|avg` (`d6`).
 
 ## Curse
 

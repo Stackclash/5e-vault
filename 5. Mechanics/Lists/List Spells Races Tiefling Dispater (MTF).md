@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[Thaumaturgy \|"PHB"]] at class level 5
+- [[5. Mechanics/Spells/Thaumaturgy.md \|"PHB"]] at class level 5
 
 ## 1st Level
 
-- [[Disguise Self \|"PHB"]] at class level 5
+- [[5. Mechanics/Spells/Disguise Self.md \|"PHB"]] at class level 5
 
 ## 2nd Level
 
-- [[Detect Thoughts \|"PHB"]] at class level 5
+- [[5. Mechanics/Spells/Detect Thoughts.md \|"PHB"]] at class level 5

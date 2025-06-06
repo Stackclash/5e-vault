@@ -8,6 +8,7 @@ tags:
 aliases:
   - Cartographer's Tools
 cost: 1500
+weight: 6
 ---
 # Cartographer's Tools
 *Artisan's tools*  

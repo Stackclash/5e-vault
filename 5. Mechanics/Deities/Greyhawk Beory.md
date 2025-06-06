@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greyhawk
   - domain/nature
+alignment: Neutral
+domains: Nature
+pantheon: Greyhawk
+symbol: Green disk
 aliases:
   - Beory
 ---

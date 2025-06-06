@@ -9,6 +9,7 @@ aliases:
   - Scale Mail
 cost: 5000
 armorClass: 14 + Dex modifier (max of +2)
+weight: 45
 ---
 # Scale Mail
 *Medium armor*  

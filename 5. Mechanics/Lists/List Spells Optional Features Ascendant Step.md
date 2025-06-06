@@ -10,4 +10,4 @@ aliases:
 
 ## 2nd Level
 
-- [[Levitate \|"PHB"]]
+- [[5. Mechanics/Spells/Levitate.md \|"PHB"]]

@@ -9,12 +9,13 @@ tags:
 aliases:
   - Pike
 cost: 500
-one-hand-damage: 1d10 P
+one-hand-damage: 1d10 piercing
+weight: 18
 ---
 # Pike
 *Weapon*  
 
-- **Damage**: 1d10 P
+- **Damage**: 1d10 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Cost**: 5 gp
 - **Weight**: 18.0 lbs.

@@ -17,7 +17,7 @@ tags:
 aliases:
   - Gnoll Fang of Yeenoghu
 ---
-# [[5. Mechanics/Bestiary/Fiend/Gnoll Fang Of Yeenoghu.md|Gnoll Fang of Yeenoghu]]
+# [[5. Mechanics\Bestiary\Fiend\Gnoll Fang Of Yeenoghu.md|Gnoll Fang of Yeenoghu]]
 *Source: Monster Manual p. 163*
 
 Gnolls celebrate their victories by performing demonic rituals and making blood offerings to Yeenoghu.
@@ -52,38 +52,39 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 "ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
+"modifier": !!int "2"
 "stats":
-- !!int "17"
-- !!int "15"
-- !!int "15"
-- !!int "10"
-- !!int "11"
-- !!int "13"
+  - !!int "17"
+  - !!int "15"
+  - !!int "15"
+  - !!int "10"
+  - !!int "11"
+  - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "3"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "4"
+  - "constitution": "+4"
+  - "wisdom": "+2"
+  - "charisma": "+3"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Gnoll"
 "cr": "4"
 "traits":
-- "desc": "When the gnoll reduces a creature to 0 hit points with a melee attack on\
-    \ its turn, the gnoll can take a bonus action to move up to half its speed and\
-    \ make a bite attack."
-  "name": "Rampage"
+  - "desc": "When the gnoll reduces a creature to 0 hit points with a melee attack\
+      \ on its turn, the gnoll can take a bonus action to move up to half its speed\
+      \ and make a bite attack."
+    "name": "Rampage"
 "actions":
-- "desc": "The gnoll makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6\
-    \ + 3) piercing damage, and the target must succeed on a DC 12 Constitution saving\
-    \ throw or take 7 (2d6) poison damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
-    \ + 3) slashing damage."
-  "name": "Claw"
+  - "desc": "The gnoll makes three attacks: one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6\
+      \ (1d6 + 3) piercing damage, and the target must succeed on a DC 12 Constitution\
+      \ saving throw or take 7 (2d6) poison damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+      \ + 3) slashing damage."
+    "name": "Claw"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Fiend/token/gnoll-fang-of-yeenoghu.webp"
 ```
 ^statblock

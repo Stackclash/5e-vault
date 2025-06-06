@@ -879,7 +879,7 @@ Imagine that a world-shaking prophecy comes to light. If events continue on thei
 
 If wars, plagues, discoveries, and the like can be called regular world-shaking events, mythic events exceed and surpass them. A mythic event might occur as the fulfillment of an ancient or long-forgotten prophecy, or it might be an act of divine intervention.
 
-Once again, your current campaign probably provides a few ideas for the shape of this event. If you need inspiration, roll a `dice:d8|noform|avg` (`d8`) on the World-Shaking Events table, instead of the normal `dice:d10|noform|avg` (`d10`). Address the bullet-point notes for that disaster, but magnify the result to the grandest scale you can imagine.
+Once again, your current campaign probably provides a few ideas for the shape of this event. If you need inspiration, roll a `dice:d8|noform|noparens|avg` (`d8`) on the World-Shaking Events table, instead of the normal `dice:d10|noform|noparens|avg` (`d10`). Address the bullet-point notes for that disaster, but magnify the result to the grandest scale you can imagine.
 
 The rise or fall of a leader or era is the death or birth of a god, or the end of an age or the world. A cataclysmic disaster is a world-drowning deluge, an ice age, or a zombie apocalypse. An assault or invasion is a world war, a world-spanning demonic incursion, the awakening of a world-threatening monster, or the final clash between good and evil. A rebellion dethrones a god or gods, or raises a new force (such as a demon lord) to divinity. A new organization is a world-spanning empire or a pantheon of new gods. A discovery is a doomsday device or a portal to eldritch dimensions where world-shattering cosmic horrors dwell.
 

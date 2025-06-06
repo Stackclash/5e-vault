@@ -9,22 +9,34 @@ tags:
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/enchantment
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Enchantment
-time: 1 action
-duration: 24 hour
-components: 'V, a snake''s tongue and either a bit of honeycomb or a drop of sweet oil'
+level: 6
+ritual: false
+time: 1 Action
+duration: 24 hours
+components:
+  - V
+  - M
 aliases:
   - Mass Suggestion
+range: 60 feet
+material: A snake's tongue and either a bit of honeycomb or a drop of sweet oil.
+save:
+  type: WIS
+  success: none
 ---
 # Mass Suggestion
 *6th-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
-- **Components:** V, a snake's tongue and either a bit of honeycomb or a drop of sweet oil
-- **Duration:** 24 hour
+- **Components:** V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)
+- **Duration:** 24 hours
 
 You suggest a course of activity (limited to a sentence or two) and magically influence up to twelve creatures of your choice that you can see within range and that can hear and understand you. Creatures that can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the spell.
 
@@ -36,6 +48,6 @@ If you or any of your companions damage a creature affected by this spell, the s
 
 **At Higher Levels.** When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

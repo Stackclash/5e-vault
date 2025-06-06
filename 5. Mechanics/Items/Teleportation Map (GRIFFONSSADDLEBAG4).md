@@ -19,6 +19,6 @@ While holding the scroll, you can use an action to speak its command word and to
 
 Maps on a smaller scale can teleport you more accurately than those on a larger one. The GM decides how close you are to the intended target depending on where you touch the map in relation to its size and scale.
 
-Each time you use this scroll, roll a `dice:d20|noform|avg` (`d20`). On a 1, the scroll bursts into flames (after teleporting you) and is destroyed. This number increases by 1 each time the map's been used, after the first. When found, the map has been used `dice:1d6-3|noform|avg` (`1d6 - 3`) times (minimum 0).
+Each time you use this scroll, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the scroll bursts into flames (after teleporting you) and is destroyed. This number increases by 1 each time the map's been used, after the first. When found, the map has been used `dice:1d6-3|noform|noparens|avg` (`1d6 - 3`) times (minimum 0).
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*

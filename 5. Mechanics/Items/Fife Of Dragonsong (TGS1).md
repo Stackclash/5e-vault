@@ -10,19 +10,20 @@ tags:
   - item/weapon/ranged
 aliases:
   - Fife of Dragonsong
-one-hand-damage: 1 P
-range: 25/100
+one-hand-damage: 1 piercing
+range: 25\100
+weight: 1
 ---
 # Fife of Dragonsong
 *Weapon ([[5. Mechanics/Items/Blowgun.md\|blowgun]]), major, rare (requires attunement by a bard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Fife-of-Dragonsong.webp#right)  
 
-- **Damage**: 1 P
+- **Damage**: 1 piercing
 - **Range**: 25/100
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Weight**: 1.0 lbs.
 
-This magical fife can be played as an instrument or wielded as a deadly weapon. You are proficient with the fife of dragonsong as both an instrument and blowgun while you're attuned to it. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and any target hit by it takes an extra `dice:1d6|noform|avg` (`1d6`) thunder damage from the attack.
+This magical fife can be played as an instrument or wielded as a deadly weapon. You are proficient with the fife of dragonsong as both an instrument and blowgun while you're attuned to it. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and any target hit by it takes an extra `dice:1d6|noform|noparens|avg` (`d6`) thunder damage from the attack.
 
 ## Dragonsong
 

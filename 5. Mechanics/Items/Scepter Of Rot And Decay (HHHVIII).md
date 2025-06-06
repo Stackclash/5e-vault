@@ -9,16 +9,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Scepter of Rot and Decay
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Scepter of Rot and Decay
 *Staff, weapon, cursed item, artifact (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/ScepterofRotandDecay.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20Artifact\|Crafted Artifact]], [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
@@ -26,7 +27,7 @@ In one of the many doomsday prophecies thrown around by the demonology cultists,
 
 In order to attune to this item, you must bury yourself in a 1-foot thick layer of decaying vegetable matter for at least 8 hours while holding onto the scepter. Upon rising from this layer, your attunement finishes and your body takes on a more mottled appearance as small mushrooms grow across your body. When your attunement to this item ends, your body reverts to its original form.
 
-In the hands of one who is attuned to it, this scepter can be used as a [[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]] that grants a +3 bonus to attack and damage rolls made with it. The scepter deals an extra `dice:2d6|noform|avg` (`2d6`) poison damage on a hit.
+In the hands of one who is attuned to it, this scepter can be used as a [[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]] that grants a +3 bonus to attack and damage rolls made with it. The scepter deals an extra `dice:2d6|noform|noparens|avg` (`2d6`) poison damage on a hit.
 
 ## Random Properties
 

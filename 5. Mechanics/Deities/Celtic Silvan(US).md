@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/celtic
   - domain/nature
+alignment: Neutral
+domains: Nature
+pantheon: Celtic
+symbol: Summer oak tree
 aliases:
   - Silvanus
 ---

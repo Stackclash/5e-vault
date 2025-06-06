@@ -7,23 +7,30 @@ tags:
   - spell/class/wizard
   - spell/level/4th-level
   - spell/school/necromancy
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Wizard
 school: Necromancy
-time: 10 minute
+level: 4
+ritual: false
+time: 10 minutes
 duration: Until dispelled or triggered
-components: >-
-  V, S, an ounce of blood, and powdered onyx worth at least 50 gp, both of which
-  the spell consumes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Tome Curse
+material: >-
+  an ounce of blood, and powdered onyx worth at least 50 gp, both of which the
+  spell consumes
 ---
 # Tome Curse
 *4th-level, Necromancy*  
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** Touch
-- **Components:** V, S, an ounce of blood, and powdered onyx worth at least 50 gp, both of which the spell consumes
+- **Components:** V, S, M (an ounce of blood, and powdered onyx worth at least 50 gp, both of which the spell consumes)
 - **Duration:** Until dispelled or triggered
 
 You protect a book by writing a curse in it with ink made from the material components of this spell. The writing is typically a couplet or a quatrain that warns of the consequences of disturbing your property. The curse is triggered by an action or actions that you specify (which typically involves someone reading the book without permission, trying to damage the book, or trying to steal it). When the curse is triggered, the creature that did so must succeed on a Wisdom saving throw or suffer its effect. You can choose one of the effects described in the [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] spell, or you can affect the target in one of the following ways:
@@ -35,6 +42,6 @@ You protect a book by writing a curse in it with ink made from the material comp
 
 A [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell ends this effect. You can also stipulate other actions taken by the target that would nullify the curse (returning the book after it is stolen, for example).
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 327*

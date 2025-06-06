@@ -9,13 +9,14 @@ tags:
 aliases:
   - Light Hammer
 cost: 200
-one-hand-damage: 1d4 B
-range: 20/60
+one-hand-damage: 1d4 bludgeoning
+range: 20\60
+weight: 2
 ---
 # Light Hammer
 *Weapon*  
 
-- **Damage**: 1d4 B
+- **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Cost**: 2 gp

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Stone Golem
 ---
-# [[5. Mechanics/Bestiary/Construct/Stone Golem.md|Stone Golem]]
+# [[5. Mechanics\Bestiary\Construct\Stone Golem.md|Stone Golem]]
 *Source: Monster Manual p. 170, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Stone golems display great variety in shape and form, cut and chiseled from stone to appear as tall, impressive statues. Though most bear humanoid features, stone golems can be carved in any form the sculptor can imagine. Ancient stone golems found in sealed tombs or flanking the gates of lost cities sometimes take the forms of giant beasts.
@@ -24,7 +24,7 @@ Like other golems, stone golems are nearly impervious to spells and ordinary wea
 
 Golems are made from humble materials-clay, flesh and bones, iron, or stone-but they possess astonishing power and durability. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. An unstoppable juggernaut, it exists to follow its creator's orders, and it protects or attacks as that creator demands.
 
-To create a golem, one requires a [[5. Mechanics/Items/Manual Of Golems (DMG).md|manual of golems]]. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
+To create a golem, one requires a [[5. Mechanics/Items/Manual Of Golems.md|manual of golems]]. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
 
 ### Elemental Spirit in Material Form
 
@@ -57,13 +57,14 @@ A golem doesn't require air, food, drink, or sleep.
 "ac_class": "natural armor"
 "hp": !!int "178"
 "hit_dice": "17d10 + 85"
+"modifier": !!int "-1"
 "stats":
-- !!int "22"
-- !!int "9"
-- !!int "20"
-- !!int "3"
-- !!int "11"
-- !!int "1"
+  - !!int "22"
+  - !!int "9"
+  - !!int "20"
+  - !!int "3"
+  - !!int "11"
+  - !!int "1"
 "speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
@@ -74,31 +75,31 @@ A golem doesn't require air, food, drink, or sleep.
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"
 "traits":
-- "desc": "The golem is immune to any spell or effect that would alter its form."
-  "name": "Immutable Form"
-- "desc": "The golem has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- "desc": "The golem's weapon attacks are magical."
-  "name": "Magic Weapons"
+  - "desc": "The golem is immune to any spell or effect that would alter its form."
+    "name": "Immutable Form"
+  - "desc": "The golem has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
+  - "desc": "The golem's weapon attacks are magical."
+    "name": "Magic Weapons"
 "actions":
-- "desc": "The golem makes two slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 19 (3d8\
-    \ + 6) bludgeoning damage."
-  "name": "Slam"
-- "desc": "The golem targets one or more creatures it can see within 10 feet of it.\
-    \ Each target must make a DC 17 Wisdom saving throw against this magic. On a failed\
-    \ save, a target can't use reactions, its speed is halved, and it can't make more\
-    \ than one attack on its turn. In addition, the target can take either an action\
-    \ or a bonus action on its turn, not both. These effects last for 1 minute. A\
-    \ target can repeat the saving throw at the end of each of its turns, ending the\
-    \ effect on itself on a success."
-  "name": "Slow (Recharge 5-6)"
+  - "desc": "The golem makes two slam attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 19\
+      \ (3d8 + 6) bludgeoning damage."
+    "name": "Slam"
+  - "desc": "The golem targets one or more creatures it can see within 10 feet of\
+      \ it. Each target must make a DC 17 Wisdom saving throw against this magic.\
+      \ On a failed save, a target can't use reactions, its speed is halved, and it\
+      \ can't make more than one attack on its turn. In addition, the target can take\
+      \ either an action or a bonus action on its turn, not both. These effects last\
+      \ for 1 minute. A target can repeat the saving throw at the end of each of its\
+      \ turns, ending the effect on itself on a success."
+    "name": "Slow (Recharge 5-6)"
 "source":
-- "MM"
-- "CoS"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Construct/token/stone-golem.webp"
 ```
 ^statblock

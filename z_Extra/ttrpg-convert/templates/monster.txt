@@ -145,7 +145,8 @@ tags:
 - {tag}
 {/for}
 {/if}
-aliases: ["{resource.name}"]
+aliases: 
+- {resource.name}
 ---
 # [{resource.name}]({resource.vaultPath})
 *Source: {resource.source}*

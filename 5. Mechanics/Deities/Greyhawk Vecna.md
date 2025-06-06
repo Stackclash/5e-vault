@@ -6,6 +6,10 @@ tags:
   - deity/greyhawk
   - domain/arcana
   - domain/knowledge
+alignment: Neutral Evil
+domains: 'Knowledge, Arcana'
+pantheon: Greyhawk
+symbol: Hand with eye in the palm
 aliases:
   - Vecna
 ---

@@ -8,6 +8,7 @@ tags:
 aliases:
   - Iron Pot
 cost: 200
+weight: 10
 ---
 # Iron Pot
 *Adventuring gear*  

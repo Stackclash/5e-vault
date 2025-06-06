@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhbh
 aliases:
-  - 'Chapter 4: Miscellaneous'
+  - Chapter 4: Miscellaneous
 ---
 # Chapter 4: Miscellaneous
 *Source: Hamund's Herbalism Handbook, p. 39* 

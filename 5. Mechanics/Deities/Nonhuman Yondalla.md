@@ -6,6 +6,10 @@ tags:
   - deity/nonhuman
   - domain/life
   - domain/twilight
+alignment: Lawful Good
+domains: 'Life, Twilight'
+pantheon: Nonhuman
+symbol: Shield
 aliases:
   - Yondalla
 ---

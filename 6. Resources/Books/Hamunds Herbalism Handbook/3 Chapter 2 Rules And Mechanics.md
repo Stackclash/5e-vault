@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhbh
 aliases:
-  - 'Chapter 2: Rules and Mechanics'
+  - Chapter 2: Rules and Mechanics
 ---
 # Chapter 2: Rules and Mechanics
 *Source: Hamund's Herbalism Handbook, p. 3* 
@@ -37,7 +37,7 @@ On a success they find the herb they were looking for. On a failure, it is deeme
 > 
 > The locate animals and plants spell allows a player to name a plant and be told where it is so long as it exists within a 5 mile radius of their current location. While this is a rather innocuous spell in the base game, when it comes to finding herbs it can be quite powerful in finding the rarer herbs, and potentially cause contention since it would rely on DM fiat to decide if that herb is present or not. To avoid this, DMs can use the table below to determine the herb's availability, based on the probability of the herb's rarity in their environment table.
 > 
-> To use the table, the player [[/5. Mechanics/Rules/Actions.md#Cast%20a%20Spell\|casting the spell]] must roll a `dice:d100|noform|avg` (`d100`). If they roll equal to or above the number listed next to the herb they are trying to locate's corresponding position on their herb table, then the herb is present and the spell leads them to it.
+> To use the table, the player [[/5. Mechanics/Rules/Actions.md#Cast%20a%20Spell\|casting the spell]] must roll a `dice:d100|noform|noparens|avg` (`d100`). If they roll equal to or above the number listed next to the herb they are trying to locate's corresponding position on their herb table, then the herb is present and the spell leads them to it.
 > 
 > > [!embed-table]- Herb's Relative Rarity Table
 > > ![[5. Mechanics/Tables/Herbs Relative Rarity Table (HHBH).md\|Herb's Relative Rarity Table]]

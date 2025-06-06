@@ -15,7 +15,7 @@ tags:
 aliases:
   - Adult Gold Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Gold Dragon.md|Adult Gold Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Adult Gold Dragon.md|Adult Gold Dragon]]
 *Source: Monster Manual p. 114. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
@@ -95,136 +95,142 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "ac_class": "natural armor"
 "hp": !!int "256"
 "hit_dice": "19d12 + 133"
+"modifier": !!int "2"
 "stats":
-- !!int "27"
-- !!int "14"
-- !!int "25"
-- !!int "16"
-- !!int "15"
-- !!int "24"
+  - !!int "27"
+  - !!int "14"
+  - !!int "25"
+  - !!int "16"
+  - !!int "15"
+  - !!int "24"
 "speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Charisma": !!int "13"
-  "Dexterity": !!int "8"
-  "Wisdom": !!int "8"
-  "Constitution": !!int "13"
+  - "dexterity": "+8"
+  - "constitution": "+13"
+  - "wisdom": "+8"
+  - "charisma": "+13"
 "skillsaves":
-  "Stealth": !!int "8"
-  "Insight": !!int "8"
-  "Perception": !!int "14"
-  "Persuasion": !!int "13"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+14"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
+    "desc": "+13"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+8"
 "damage_immunities": "fire"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 24"
 "languages": "Common, Draconic"
 "cr": "17"
 "traits":
-- "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
-- "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
+  - "desc": "The dragon can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (3/Day)"
 "actions":
-- "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
-    \ one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 19\
-    \ (2d10 + 8) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 15 (2d6\
-    \ + 8) slashing damage."
-  "name": "Claw"
-- "desc": "Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 17\
-    \ (2d8 + 8) bludgeoning damage."
-  "name": "Tail"
-- "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success. If a creature's saving throw\
-    \ is successful or the effect ends for it, the creature is immune to the dragon's\
-    \ Frightful Presence for the next 24 hours."
-  "name": "Frightful Presence"
-- "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
-    \ The dragon exhales fire in a 60-foot cone. Each creature in that area must make\
-    \ a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save,\
-    \ or half as much damage on a successful one.  \n- Weakening Breath. The dragon\
-    \ exhales gas in a 60-foot cone. Each creature in that area must succeed on a\
-    \ DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls,\
-    \ Strength checks, and Strength saving throws for 1 minute. A creature can repeat\
-    \ the saving throw at the end of each of its turns, ending the effect on itself\
-    \ on a success.  "
-  "name": "Breath Weapons (Recharge 5-6)"
-- "desc": "The dragon magically polymorphs into a humanoid or beast that has a challenge\
-    \ rating no higher than its own, or back into its true form. It reverts to its\
-    \ true form if it dies. Any equipment it is wearing or carrying is absorbed or\
-    \ borne by the new form (the dragon's choice).\n\nIn a new form, the dragon retains\
-    \ its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary\
-    \ Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as\
-    \ well as this action. Its statistics and capabilities are otherwise replaced\
-    \ by those of the new form, except any class features or legendary actions of\
-    \ that form."
-  "name": "Change Shape"
+  - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
+      \ one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 19\
+      \ (2d10 + 8) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 15\
+      \ (2d6 + 8) slashing damage."
+    "name": "Claw"
+  - "desc": "Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 17\
+      \ (2d8 + 8) bludgeoning damage."
+    "name": "Tail"
+  - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
+      \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success. If a creature's saving\
+      \ throw is successful or the effect ends for it, the creature is immune to the\
+      \ dragon's Frightful Presence for the next 24 hours."
+    "name": "Frightful Presence"
+  - "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
+      \ The dragon exhales fire in a 60-foot cone. Each creature in that area must\
+      \ make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed\
+      \ save, or half as much damage on a successful one.  \n- Weakening Breath.\
+      \ The dragon exhales gas in a 60-foot cone. Each creature in that area must\
+      \ succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based\
+      \ attack rolls, Strength checks, and Strength saving throws for 1 minute. A\
+      \ creature can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success.  "
+    "name": "Breath Weapons (Recharge 5-6)"
+  - "desc": "The dragon magically polymorphs into a humanoid or beast that has a challenge\
+      \ rating no higher than its own, or back into its true form. It reverts to its\
+      \ true form if it dies. Any equipment it is wearing or carrying is absorbed\
+      \ or borne by the new form (the dragon's choice).\n\nIn a new form, the dragon\
+      \ retains its alignment, hit points, Hit Dice, ability to speak, proficiencies,\
+      \ Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma\
+      \ scores, as well as this action. Its statistics and capabilities are otherwise\
+      \ replaced by those of the new form, except any class features or legendary\
+      \ actions of that form."
+    "name": "Change Shape"
 "legendary_actions":
-- "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ check."
-  "name": "Detect"
-- "desc": "The dragon makes a tail attack."
-  "name": "Tail Attack"
-- "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
-    \ must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The dragon\
-    \ can then fly up to half its flying speed."
-  "name": "Wing Attack (Costs 2 Actions)"
+  - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ check."
+    "name": "Detect"
+  - "desc": "The dragon makes a tail attack."
+    "name": "Tail Attack"
+  - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
+      \ must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
+      \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The\
+      \ dragon can then fly up to half its flying speed."
+    "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
-- "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
-    \ action to cause one of the following effects; the dragon can't use the same\
-    \ effect two rounds in a row:"
-  "name": ""
-- "desc": "- The dragon glimpses the future, so it has advantage on attack rolls,\
-    \ ability checks, and saving throws until initiative count 20 on the next round.\
-    \  \n- One creature the dragon can see within 120 feet of it must succeed on a\
-    \ DC 15 Charisma saving throw or be banished to a dream plane, a different plane\
-    \ of existence the dragon has imagined into being. To escape, the creature must\
-    \ use its action to make a Charisma check contested by the dragon's. If the creature\
-    \ wins, it escapes the dream plane. Otherwise, the effect ends on initiative count\
-    \ 20 on the next round. When the effect ends, the creature reappears in the space\
-    \ it left or in the nearest unoccupied space if that one is occupied.  "
-  "name": ""
-- "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Gold Dragon.md|adult]]\
-    \ or [[5. Mechanics/Bestiary/Dragon/Ancient Gold Dragon.md|ancient]]) gold dragon\
-    \ can use the following additional lair action while in its lair:\n\n- Beguiling\
-    \ Glow. Warm light fills a 30-foot-radius sphere centered on the dragon; each\
-    \ creature in that area must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
-    \ by the dragon until initiative count 20 on the next round.  "
-  "name": "Additional Lair Action"
+  - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
+      \ action to cause one of the following effects; the dragon can't use the same\
+      \ effect two rounds in a row:"
+    "name": ""
+  - "desc": "- The dragon glimpses the future, so it has advantage on attack rolls,\
+      \ ability checks, and saving throws until initiative count 20 on the next round.\
+      \  \n- One creature the dragon can see within 120 feet of it must succeed on\
+      \ a DC 15 Charisma saving throw or be banished to a dream plane, a different\
+      \ plane of existence the dragon has imagined into being. To escape, the creature\
+      \ must use its action to make a Charisma check contested by the dragon's. If\
+      \ the creature wins, it escapes the dream plane. Otherwise, the effect ends\
+      \ on initiative count 20 on the next round. When the effect ends, the creature\
+      \ reappears in the space it left or in the nearest unoccupied space if that\
+      \ one is occupied.  "
+    "name": ""
+  - "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Gold Dragon.md|adult]]\
+      \ or [[5. Mechanics/Bestiary/Dragon/Ancient Gold Dragon.md|ancient]]) gold dragon\
+      \ can use the following additional lair action while in its lair:\n\n- Beguiling\
+      \ Glow. Warm light fills a 30-foot-radius sphere centered on the dragon; each\
+      \ creature in that area must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+      \ by the dragon until initiative count 20 on the next round.  "
+    "name": "Additional Lair Action"
 "regional_effects":
-- "desc": "The region containing a legendary gold dragon's lair is warped by the dragon's\
-    \ magic, which creates one or more of the following effects:"
-  "name": ""
-- "desc": "- Whenever a creature that can understand a language sleeps or enters a\
-    \ state of trance or reverie within 6 miles of the dragon's lair, the dragon can\
-    \ establish telepathic contact with that creature and converse with it in its\
-    \ dreams. The creature remembers its conversation with the dragon upon waking.\
-    \  \n- Banks of beautiful, opalescent mist manifest within 6 miles of the dragon's\
-    \ lair. The mist doesn't obscure anything. It assumes haunting forms when evil\
-    \ creatures are near the dragon or other non-evil creatures in the mist, warning\
-    \ such creatures of the danger.  \n- Gems and pearls within 1 mile of the dragon's\
-    \ lair sparkle and gleam, shedding dim light in a 5-foot radius.  "
-  "name": ""
-- "desc": "If the dragon dies, these effects end immediately."
-  "name": ""
-- "desc": "Any of these effects might appear in the area around a gold dragon's lair,\
-    \ in addition to or instead of the effects described in the Monster Manual:\n\
-    \n- Beneficent Trail. Within 10 miles of the dragon's lair, small runes in\
-    \ the shape of a gold dragon appear to creatures in great need, marking a subtle\
-    \ trail leading to the dragon's lair.  \n- Emanation of Justice. Creatures\
-    \ that spend a year within 6 miles of the dragon's lair value fairness and justice\
-    \ over their personal feelings.  \n- Liar's Revelation. Within 6 miles of\
-    \ the dragon's lair, any creature attempting to tell a deliberate lie must succeed\
-    \ on a DC 15 Charisma saving throw or find itself accidentally revealing the truth\
-    \ it was attempting to conceal. The first time a creature fails this saving throw,\
-    \ it is immune to this effect for 24 hours.  "
-  "name": "Additional Regional Effects"
+  - "desc": "The region containing a legendary gold dragon's lair is warped by the\
+      \ dragon's magic, which creates one or more of the following effects:"
+    "name": ""
+  - "desc": "- Whenever a creature that can understand a language sleeps or enters\
+      \ a state of trance or reverie within 6 miles of the dragon's lair, the dragon\
+      \ can establish telepathic contact with that creature and converse with it in\
+      \ its dreams. The creature remembers its conversation with the dragon upon waking.\
+      \  \n- Banks of beautiful, opalescent mist manifest within 6 miles of the dragon's\
+      \ lair. The mist doesn't obscure anything. It assumes haunting forms when evil\
+      \ creatures are near the dragon or other non-evil creatures in the mist, warning\
+      \ such creatures of the danger.  \n- Gems and pearls within 1 mile of the dragon's\
+      \ lair sparkle and gleam, shedding dim light in a 5-foot radius.  "
+    "name": ""
+  - "desc": "If the dragon dies, these effects end immediately."
+    "name": ""
+  - "desc": "Any of these effects might appear in the area around a gold dragon's\
+      \ lair, in addition to or instead of the effects described in the Monster Manual:\n\
+      \n- Beneficent Trail. Within 10 miles of the dragon's lair, small runes\
+      \ in the shape of a gold dragon appear to creatures in great need, marking a\
+      \ subtle trail leading to the dragon's lair.  \n- Emanation of Justice.\
+      \ Creatures that spend a year within 6 miles of the dragon's lair value fairness\
+      \ and justice over their personal feelings.  \n- Liar's Revelation. Within\
+      \ 6 miles of the dragon's lair, any creature attempting to tell a deliberate\
+      \ lie must succeed on a DC 15 Charisma saving throw or find itself accidentally\
+      \ revealing the truth it was attempting to conceal. The first time a creature\
+      \ fails this saving throw, it is immune to this effect for 24 hours.  "
+    "name": "Additional Regional Effects"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Dragon/token/adult-gold-dragon.webp"
 ```
 ^statblock

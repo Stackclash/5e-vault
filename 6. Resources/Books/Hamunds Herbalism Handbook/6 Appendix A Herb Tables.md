@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhbh
 aliases:
-  - 'Appendix A: Herb Tables'
+  - Appendix A: Herb Tables
 ---
 # Appendix A: Herb Tables
 *Source: Hamund's Herbalism Handbook, p. 42* 

@@ -7,6 +7,11 @@ tags:
   - domain/forge
   - domain/knowledge
   - domain/trickery
+alignment: Chaotic Good
+domains: 'Forge, Knowledge, Trickery'
+pantheon: Gnome
+province: 'Invention, luck'
+symbol: Bellows and lizard tail
 aliases:
   - Nebelun
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'forest, swamp, hill, urban, desert, coastal, arctic, mountain, underdark'
 size: Small
 tags:
@@ -22,7 +22,7 @@ tags:
 aliases:
   - Winged Kobold
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Winged Kobold.md|Winged Kobold]]
+# [[5. Mechanics\Bestiary\Humanoid\Winged Kobold.md|Winged Kobold]]
 *Source: Monster Manual p. 195*
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
@@ -48,35 +48,36 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
 "ac": !!int "13"
 "hp": !!int "7"
 "hit_dice": "3d6 - 3"
+"modifier": !!int "3"
 "stats":
-- !!int "7"
-- !!int "16"
-- !!int "9"
-- !!int "8"
-- !!int "7"
-- !!int "8"
+  - !!int "7"
+  - !!int "16"
+  - !!int "9"
+  - !!int "8"
+  - !!int "7"
+  - !!int "8"
 "speed": "30 ft., fly 30 ft."
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "Common, Draconic"
 "cr": "1/4"
 "traits":
-- "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Sunlight Sensitivity"
-- "desc": "The kobold has advantage on an attack roll against a creature if at least\
-    \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
-  "name": "Pack Tactics"
+  - "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
+      \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
+      \ that rely on sight."
+    "name": "Sunlight Sensitivity"
+  - "desc": "The kobold has advantage on an attack roll against a creature if at least\
+      \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
+      \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
+    "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
-    \ + 3) piercing damage."
-  "name": "Dagger"
-- "desc": "Ranged Weapon Attack: +5 to hit, one target directly below the kobold.\
-    \ Hit: 6 (1d6 + 3) bludgeoning damage."
-  "name": "Dropped Rock"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+      \ + 3) piercing damage."
+    "name": "Dagger"
+  - "desc": "Ranged Weapon Attack: +5 to hit, one target directly below the kobold.\
+      \ Hit: 6 (1d6 + 3) bludgeoning damage."
+    "name": "Dropped Rock"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/winged-kobold.webp"
 ```
 ^statblock

@@ -8,6 +8,7 @@ tags:
 aliases:
   - Healer's Kit
 cost: 500
+weight: 3
 ---
 # Healer's Kit
 *Adventuring gear*  

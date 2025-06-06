@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[Mage Hand \|"PHB"]] at class level 3
+- [[5. Mechanics/Spells/Mage Hand.md \|"PHB"]] at class level 3
 
 ## 1st Level
 
-- [[Jump \|"PHB"]] at class level 3
+- [[5. Mechanics/Spells/Jump.md \|"PHB"]] at class level 3
 
 ## 2nd Level
 
-- [[Misty Step \|"PHB"]] at class level 3
+- [[5. Mechanics/Spells/Misty Step.md \|"PHB"]] at class level 3

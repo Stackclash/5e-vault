@@ -9,16 +9,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Hedgewitch's Gardening Cane
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Hedgewitch's Gardening Cane
 *Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), spellcasting focus, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hedgewitchs-Gardening-Cane.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 

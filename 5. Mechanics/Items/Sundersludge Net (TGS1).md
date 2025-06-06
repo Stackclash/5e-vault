@@ -10,7 +10,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Sundersludge Net
-range: 5/15
+range: 5\15
+weight: 3
 ---
 # Sundersludge Net
 *Weapon ([[5. Mechanics/Items/Net.md\|net]]), major, uncommon (requires attunement)*  
@@ -19,7 +20,7 @@ range: 5/15
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 3.0 lbs.
 
-This gelatinous net is made with the enchanted remains of a gray ooze. A creature takes `dice:1d6|noform|avg` (`1d6`) acid damage when it's [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the net and again at the end of each of its turns while it remains restrained by it. If the creature is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers whenever it takes acid damage at the end of one of its turns. The armor is destroyed if the penalty reduces its AC to 10. A creature other than you who touches the net takes `dice:1d6|noform|avg` (`1d6`) acid damage.
+This gelatinous net is made with the enchanted remains of a gray ooze. A creature takes `dice:1d6|noform|noparens|avg` (`d6`) acid damage when it's [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the net and again at the end of each of its turns while it remains restrained by it. If the creature is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers whenever it takes acid damage at the end of one of its turns. The armor is destroyed if the penalty reduces its AC to 10. A creature other than you who touches the net takes `dice:1d6|noform|noparens|avg` (`d6`) acid damage.
 
 The torn net is harmless. If more than half of the net can be salvaged and stored within a container large enough to hold 1 gallon of liquid for 12 hours, the net is repaired and can be used once more. Your attunement to the net ends if the net remains destroyed for longer than 2 days.
 

@@ -12,7 +12,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Contingency-Cards.webp#right)  
 
 
-When found, there are `dice:1d4+2|noform|avg` (`1d4 + 2`) contingency cards in a stack. Each one has a type of circumstance detailed on it. Choose from the table below or roll a number of d20s equal to the cards found to determine what circumstance is written on each card.
+When found, there are `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) contingency cards in a stack. Each one has a type of circumstance detailed on it. Choose from the table below or roll a number of d20s equal to the cards found to determine what circumstance is written on each card.
 
 `dice: [[Contingency Cards (GRIFFONSSADDLEBAG4).md#^circumstance]]`
 

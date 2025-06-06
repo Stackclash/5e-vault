@@ -14,7 +14,7 @@ tags:
 aliases:
   - Cloud Giant
 ---
-# [[5. Mechanics/Bestiary/Giant/Cloud Giant.md|Cloud Giant]]
+# [[5. Mechanics\Bestiary\Giant\Cloud Giant.md|Cloud Giant]]
 *Source: Monster Manual p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Cloud giants live extravagant lives high above the world, showing little concern for the plights of other races except as amusement. They are muscular with light skin and have hair of silver or blue.
@@ -94,47 +94,50 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "ac_class": "natural armor"
 "hp": !!int "200"
 "hit_dice": "16d12 + 96"
+"modifier": !!int "0"
 "stats":
-- !!int "27"
-- !!int "10"
-- !!int "22"
-- !!int "12"
-- !!int "16"
-- !!int "16"
+  - !!int "27"
+  - !!int "10"
+  - !!int "22"
+  - !!int "12"
+  - !!int "16"
+  - !!int "16"
 "speed": "40 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "7"
-  "Constitution": !!int "10"
+  - "constitution": "+10"
+  - "wisdom": "+7"
+  - "charisma": "+7"
 "skillsaves":
-  "Insight": !!int "7"
-  "Perception": !!int "7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+7"
 "senses": "passive Perception 17"
 "languages": "Common, Giant"
 "cr": "9"
 "traits":
-- "desc": "The giant's innate spellcasting ability is Charisma. It can innately cast\
-    \ the following spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect\
-    \ magic]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
-    \ [[5. Mechanics/Spells/Light.md|light]]\n\n1/day each: [[5. Mechanics/Spells/Control Weather.md|control weather]],\
-    \ [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]]\n\n3/day each: [[5. Mechanics/Spells/Feather Fall.md|feather\
-    \ fall]], [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Misty Step.md|misty\
-    \ step]], [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
-  "name": "Innate Spellcasting"
-- "desc": "The giant has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on smell."
-  "name": "Keen Smell"
+  - "desc": "The giant's innate spellcasting ability is Charisma. It can innately\
+      \ cast the following spells, requiring no material components:\n\nAt will:\
+      \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
+      \ [[5. Mechanics/Spells/Light.md|light]]\n\n3/day each: [[5. Mechanics/Spells/Feather Fall.md|feather fall]],\
+      \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Misty Step.md|misty step]],\
+      \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]\n\n1/day each: [[5. Mechanics/Spells/Control Weather.md|control\
+      \ weather]], [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]]"
+    "name": "Innate Spellcasting"
+  - "desc": "The giant has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on smell."
+    "name": "Keen Smell"
 "actions":
-- "desc": "The giant makes two morningstar attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 21\
-    \ (3d8 + 8) piercing damage."
-  "name": "Morningstar"
-- "desc": "Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. Hit:\
-    \ 30 (4d10 + 8) bludgeoning damage."
-  "name": "Rock"
+  - "desc": "The giant makes two morningstar attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 21\
+      \ (3d8 + 8) piercing damage."
+    "name": "Morningstar"
+  - "desc": "Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. Hit:\
+      \ 30 (4d10 + 8) bludgeoning damage."
+    "name": "Rock"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Giant/token/cloud-giant.webp"
 ```
 ^statblock

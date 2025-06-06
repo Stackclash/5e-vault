@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/norse
   - domain/death
+alignment: Neutral Evil
+domains: Death
+pantheon: Norse
+symbol: 'Woman''s face, rotting on one side'
 aliases:
   - Hel
 ---

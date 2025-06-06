@@ -8,6 +8,7 @@ tags:
 aliases:
   - Amulet
 cost: 500
+weight: 1
 ---
 # Amulet
 *Spellcasting focus*  

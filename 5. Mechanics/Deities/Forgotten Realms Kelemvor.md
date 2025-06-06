@@ -6,6 +6,10 @@ tags:
   - deity/forgotten-realms
   - domain/death
   - domain/grave
+alignment: Lawful Neutral
+domains: 'Death, Grave'
+pantheon: Forgotten Realms
+symbol: Upright skeletal arm holding balanced scales
 aliases:
   - Kelemvor
 ---

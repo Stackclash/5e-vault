@@ -13,7 +13,7 @@ tags:
 aliases:
   - Vrock
 ---
-# [[5. Mechanics/Bestiary/Fiend/Vrock.md|Vrock]]
+# [[5. Mechanics\Bestiary\Fiend\Vrock.md|Vrock]]
 *Source: Monster Manual p. 64, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Vrocks are dull-witted, capricious fiends that live only to create pain and carnage. A vrock resembles a giant hybrid of humanoid and vulture, its gnarled, bestial body and broad wings stinking of offal.
@@ -171,14 +171,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50 percent chance of summoning `dice:1d8|noform|avg` (`1d8`) vrocks, `dice:1d6|noform|avg` (`1d6`) hezrous, `dice:1d4|noform|avg` (`1d4`) glabrezus, `dice:1d3|noform|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|avg` (`1d2`) mariliths, or one goristro.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`d8`) vrocks, `dice:1d6|noform|noparens|avg` (`d6`) hezrous, `dice:1d4|noform|noparens|avg` (`d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`d2`) mariliths, or one goristro.  
 > - A barlgura has a 30 percent chance of summoning one barlgura.  
 > - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|avg` (`1d3`) vrocks, `dice:1d2|noform|avg` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|avg` (`1d6`) vrocks, `dice:1d4|noform|avg` (`1d4`) hezrous, `dice:1d3|noform|avg` (`1d3`) glabrezus, `dice:1d2|noform|avg` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|avg` (`1d4`) vrocks, `dice:1d3|noform|avg` (`1d3`) hezrous, `dice:1d2|noform|avg` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|avg` (`2d4`) dretches or one vrock.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`d3`) vrocks, `dice:1d2|noform|noparens|avg` (`d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) vrocks, `dice:1d4|noform|noparens|avg` (`d4`) hezrous, `dice:1d3|noform|noparens|avg` (`d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) vrocks, `dice:1d3|noform|noparens|avg` (`d3`) hezrous, `dice:1d2|noform|noparens|avg` (`d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|noparens|avg` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
@@ -199,18 +199,19 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "ac_class": "natural armor"
 "hp": !!int "104"
 "hit_dice": "11d10 + 44"
+"modifier": !!int "2"
 "stats":
-- !!int "17"
-- !!int "15"
-- !!int "18"
-- !!int "8"
-- !!int "13"
-- !!int "8"
+  - !!int "17"
+  - !!int "15"
+  - !!int "18"
+  - !!int "8"
+  - !!int "13"
+  - !!int "8"
 "speed": "40 ft., fly 60 ft."
 "saves":
-  "Charisma": !!int "2"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "4"
+  - "dexterity": "+5"
+  - "wisdom": "+4"
+  - "charisma": "+2"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
@@ -219,37 +220,37 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "6"
 "traits":
-- "desc": "The vrock has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
+  - "desc": "The vrock has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The vrock makes two attacks: one with its beak and one with its talons."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6\
-    \ + 3) piercing damage."
-  "name": "Beak"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10\
-    \ + 3) slashing damage."
-  "name": "Talons"
-- "desc": "A 15-foot-radius cloud of toxic spores extends out from the vrock. The\
-    \ spores spread around corners. Each creature in that area must succeed on a DC\
-    \ 14 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]].\
-    \ While [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] in this way, a target\
-    \ takes 5 (1d10) poison damage at the start of each of its turns. A target can\
-    \ repeat the saving throw at the end of each of its turns, ending the effect on\
-    \ itself on a success. Emptying a vial of holy water on the target also ends the\
-    \ effect on it."
-  "name": "Spores (Recharge 6)"
-- "desc": "The vrock emits a horrific screech. Each creature within 20 feet of it\
-    \ that can hear it and that isn't a demon must succeed on a DC 14 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] until\
-    \ the end of the vrock's next turn."
-  "name": "Stunning Screech (1/Day)"
+  - "desc": "The vrock makes two attacks: one with its beak and one with its talons."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10\
+      \ (2d6 + 3) piercing damage."
+    "name": "Beak"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14\
+      \ (2d10 + 3) slashing damage."
+    "name": "Talons"
+  - "desc": "A 15-foot-radius cloud of toxic spores extends out from the vrock. The\
+      \ spores spread around corners. Each creature in that area must succeed on a\
+      \ DC 14 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]].\
+      \ While [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] in this way, a\
+      \ target takes 5 (d10) poison damage at the start of each of its turns. A target\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success. Emptying a vial of holy water on the target also ends\
+      \ the effect on it."
+    "name": "Spores (Recharge 6)"
+  - "desc": "The vrock emits a horrific screech. Each creature within 20 feet of it\
+      \ that can hear it and that isn't a demon must succeed on a DC 14 Constitution\
+      \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] until\
+      \ the end of the vrock's next turn."
+    "name": "Stunning Screech (1/Day)"
 "source":
-- "MM"
-- "CoS"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/vrock.webp"
 ```
 ^statblock

@@ -26,6 +26,6 @@ For 8 hours after using this herb, you are connected to the mycelium network, gr
 - You have a [[/5. Mechanics/Rules/Senses.md#Tremorsense\|tremorsense]] out to 60 feet.  
 - You have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) and Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) checks  
 - You may use your action to teleport you and up to 6 willing creatures within 10 feet of you, to a cave location you have visited before. Once you have used this ability once, you cannot use it again until you finish a short or long rest.  
-- Whenever you take damage, you may use your reaction to reduce the damage taken by `dice:1d12|noform|avg` (`1d12`) by redirecting some of it into the mycelium network itself. Once you have used this ability 6 times, your connection to the mycelium network breaks, and the effect of this herb ends immediately.  
+- Whenever you take damage, you may use your reaction to reduce the damage taken by `dice:1d12|noform|noparens|avg` (`d12`) by redirecting some of it into the mycelium network itself. Once you have used this ability 6 times, your connection to the mycelium network breaks, and the effect of this herb ends immediately.  
 
 *Source: Hamund's Herbalism Handbook p. 35*

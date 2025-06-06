@@ -13,8 +13,8 @@ aliases:
 
 | Character Level | Moderate | Dangerous | Deadly |
 |-----------------|----------|-----------|--------|
-| 1-4 | 5 (`dice:1d10\|noform\|avg` (`1d10`)) |  `dice:2d10|noform|avg|text(11)` (`2d10`) |  `dice:4d10|noform|avg|text(22)` (`4d10`) |
-| 5-10 | 11 (`dice:2d10\|noform\|avg` (`2d10`)) |  `dice:4d10|noform|avg|text(22)` (`4d10`) |  `dice:10d10|noform|avg|text(55)` (`10d10`) |
-| 11-16 | 22 (`dice:4d10\|noform\|avg` (`4d10`)) |  `dice:10d10|noform|avg|text(55)` (`10d10`) |  `dice:18d10|noform|avg|text(99)` (`18d10`) |
-| 17-20 | 55 (`dice:10d10\|noform\|avg` (`10d10`)) |  `dice:18d10|noform|avg|text(99)` (`18d10`) |  `dice:24d10|noform|avg|text(132)` (`24d10`) |
+| 1-4 | 5 (`dice:1d10\|noform\|noparens\|avg` (`d10`)) |  `dice:2d10\|noform\|noparens\|avg\|text(11)` (`2d10`) |  `dice:4d10\|noform\|noparens\|avg\|text(22)` (`4d10`) |
+| 5-10 | 11 (`dice:2d10\|noform\|noparens\|avg` (`2d10`)) |  `dice:4d10\|noform\|noparens\|avg\|text(22)` (`4d10`) |  `dice:10d10\|noform\|noparens\|avg\|text(55)` (`10d10`) |
+| 11-16 | 22 (`dice:4d10\|noform\|noparens\|avg` (`4d10`)) |  `dice:10d10\|noform\|noparens\|avg\|text(55)` (`10d10`) |  `dice:18d10\|noform\|noparens\|avg\|text(99)` (`18d10`) |
+| 17-20 | 55 (`dice:10d10\|noform\|noparens\|avg` (`10d10`)) |  `dice:18d10\|noform\|noparens\|avg\|text(99)` (`18d10`) |  `dice:24d10\|noform\|noparens\|avg\|text(132)` (`24d10`) |
 ^damage-severity-by-level

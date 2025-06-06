@@ -9,13 +9,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Hydra Flail
-one-hand-damage: 1d8 B
+one-hand-damage: 1d8 bludgeoning
+weight: 2
 ---
 # Hydra Flail
 *Weapon ([[5. Mechanics/Items/Flail.md\|flail]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hydra-Flail.webp#right)  
 
-- **Damage**: 1d8 B
+- **Damage**: 1d8 bludgeoning
 - **Weight**: 2.0 lbs.
 
 This flail's spiked head is held in the jaws of a metal hydra figurehead. Whenever you score a critical hit with this weapon against a hostile creature, the weapon magically grows another spiked head. You gain a +2 bonus to damage rolls made with this magic weapon for each head the flail has (to a maximum of +6). After 1 hour, any head the flail grows in this way falls off and disappears.

@@ -10,19 +10,20 @@ tags:
   - item/weapon/melee
 aliases:
   - Realmswarden Greataxe
-one-hand-damage: 1d12 O
+one-hand-damage: 1d12 force
+weight: 7
 ---
 # Realmswarden Greataxe
 *Weapon ([[5. Mechanics/Items/Greataxe.md\|greataxe]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Realmswarden-Greataxe.webp#right)  
 
-- **Damage**: 1d12 O
+- **Damage**: 1d12 force
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 This ancient stone axe hilt is intricately carved. At its center is a gap that houses a single, perfect diamond that's magically suspended in place and glows with an uncanny energy. While grasping the hilt, you can use a bonus action to cause a wide blade of pure prismatic light to radiate from the axe's head, or make the blade disappear. The axe's blade emits bright light in a 15-foot radius and dim light for an additional 15 feet.
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon, which deals force damage instead of slashing damage. When you hit an aberration or undead with it, that target takes an extra `dice:1d12|noform|avg` (`1d12`) radiant damage.
+You gain a +3 bonus to attack and damage rolls made with this magic weapon, which deals force damage instead of slashing damage. When you hit an aberration or undead with it, that target takes an extra `dice:1d12|noform|noparens|avg` (`d12`) radiant damage.
 
 While the blade persists, you can use a bonus action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.
 

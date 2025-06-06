@@ -26,6 +26,6 @@ aliases:
 When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.
 
 > [!note]
-> Note: According to the SRD, it is an extra `dice:3d6|noform|avg` (`3d6`) necrotic damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
+> Note: According to the SRD, it is an extra `dice:3d6|noform|noparens|avg` (`3d6`) necrotic damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
 
 *Source: Dungeon Master's Guide p. 206. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

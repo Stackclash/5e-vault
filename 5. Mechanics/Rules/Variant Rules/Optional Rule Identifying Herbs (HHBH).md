@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhbh
 aliases:
-  - 'Optional Rule: Identifying Herbs'
+  - Optional Rule: Identifying Herbs
 ---
 # Optional Rule: Identifying Herbs
 *Source: Hamund's Herbalism Handbook p. 3* 

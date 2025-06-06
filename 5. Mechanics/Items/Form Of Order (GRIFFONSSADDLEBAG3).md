@@ -10,16 +10,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Form of Order
-one-hand-damage: 1d8 S
-two-hand-damage: 1d10 S
+one-hand-damage: 1d8 slashing
+two-hand-damage: 1d10 slashing
+weight: 3
 ---
 # Form of Order
 *Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Form-of-Order.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 
@@ -31,7 +32,7 @@ When a creature that you can see within 30 feet of you makes an attack roll, abi
 
 ## Field of Predictability
 
-You can use a bonus action to cause the blade to emit a field of predictability for 1 minute. The field is [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] and remains centered on the weapon, affecting each creature within 20 feet of it. For the duration, the first time that a creature within the field makes an attack roll or ability check on its turn, it must also make a DC 16 Charisma saving throw. On a failed save, the `dice:d20|noform|avg` (`d20`) is treated as a 10. A willing creature can choose to fail this saving throw, but must choose to do so before rolling the `dice:d20|noform|avg` (`d20`). Once this property of the sword has been used, it can't be used again until the next dawn.
+You can use a bonus action to cause the blade to emit a field of predictability for 1 minute. The field is [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] and remains centered on the weapon, affecting each creature within 20 feet of it. For the duration, the first time that a creature within the field makes an attack roll or ability check on its turn, it must also make a DC 16 Charisma saving throw. On a failed save, the `dice:d20|noform|noparens|avg` (`d20`) is treated as a 10. A willing creature can choose to fail this saving throw, but must choose to do so before rolling the `dice:d20|noform|noparens|avg` (`d20`). Once this property of the sword has been used, it can't be used again until the next dawn.
 
 ## Sentience
 

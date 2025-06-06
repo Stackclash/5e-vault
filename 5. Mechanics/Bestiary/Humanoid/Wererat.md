@@ -16,7 +16,7 @@ tags:
 aliases:
   - Wererat
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Wererat.md|Wererat]]
+# [[5. Mechanics\Bestiary\Humanoid\Wererat.md|Wererat]]
 *Source: Monster Manual p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Wererats are cunning lycanthropes with sly, avaricious personalities. They are wiry and twitchy in humanoid form, with thin hair and darting eyes. In their humanoid and hybrid forms, wererats prefer light weapons and use ambush tactics rather than fighting as a pack. Although a wererat can deliver a nasty bite in its rat form, it favors that form for stealthy infiltration and escape rather than combat.
@@ -67,46 +67,49 @@ Some individuals see little point in fighting the curse and accept what they are
 "ac": !!int "12"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
+"modifier": !!int "2"
 "stats":
-- !!int "10"
-- !!int "15"
-- !!int "12"
-- !!int "11"
-- !!int "10"
-- !!int "8"
+  - !!int "10"
+  - !!int "15"
+  - !!int "12"
+  - !!int "11"
+  - !!int "10"
+  - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "senses": "darkvision 60 ft. (rat form only), passive Perception 12"
 "languages": "Common (can't speak in rat form)"
 "cr": "2"
 "traits":
-- "desc": "The wererat can use its action to polymorph into a rat-humanoid hybrid\
-    \ or into a giant rat, or back into its true form, which is humanoid. Its statistics,\
-    \ other than its size, are the same in each form. Any equipment it is wearing\
-    \ or carrying isn't transformed. It reverts to its true form if it dies."
-  "name": "Shapechanger"
-- "desc": "The wererat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on smell."
-  "name": "Keen Smell"
+  - "desc": "The wererat can use its action to polymorph into a rat-humanoid hybrid\
+      \ or into a giant rat, or back into its true form, which is humanoid. Its statistics,\
+      \ other than its size, are the same in each form. Any equipment it is wearing\
+      \ or carrying isn't transformed. It reverts to its true form if it dies."
+    "name": "Shapechanger"
+  - "desc": "The wererat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on smell."
+    "name": "Keen Smell"
 "actions":
-- "desc": "The wererat makes two attacks, only one of which can be a bite."
-  "name": "Multiattack (Humanoid or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
-    \ + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11\
-    \ Constitution saving throw or be cursed with wererat lycanthropy."
-  "name": "Bite (Rat or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) piercing damage."
-  "name": "Shortsword (Humanoid or Hybrid Form Only)"
-- "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
-    \ 5 (1d6 + 2) piercing damage."
-  "name": "Hand Crossbow (Humanoid or Hybrid Form Only)"
+  - "desc": "The wererat makes two attacks, only one of which can be a bite."
+    "name": "Multiattack (Humanoid or Hybrid Form Only)"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+      \ + 2) piercing damage. If the target is a humanoid, it must succeed on a DC\
+      \ 11 Constitution saving throw or be cursed with wererat lycanthropy."
+    "name": "Bite (Rat or Hybrid Form Only)"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) piercing damage."
+    "name": "Shortsword (Humanoid or Hybrid Form Only)"
+  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+      \ 5 (1d6 + 2) piercing damage."
+    "name": "Hand Crossbow (Humanoid or Hybrid Form Only)"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/wererat.webp"
 ```
 ^statblock

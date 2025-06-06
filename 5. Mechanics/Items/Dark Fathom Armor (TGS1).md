@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dark Fathom Armor
 armorClass: 12 + Dex modifier
+weight: 13
 ---
 # Dark Fathom Armor
 *Light armor ([[5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), major, very rare*  

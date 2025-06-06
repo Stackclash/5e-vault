@@ -15,13 +15,13 @@ aliases:
 
 | dice: d10 | Trophy |
 |-----------|--------|
-| 1 | `dice:1d12\|noform\|avg` (`1d12`) elf ears |
-| 2 | `dice:1d4\|noform\|avg` (`1d4`) dwarf beards |
-| 3 | `dice:1d6\|noform\|avg` (`1d6`) human heads |
+| 1 | `dice:1d12\|noform\|noparens\|avg` (`d12`) elf ears |
+| 2 | `dice:1d4\|noform\|noparens\|avg` (`d4`) dwarf beards |
+| 3 | `dice:1d6\|noform\|noparens\|avg` (`d6`) human heads |
 | 4 | Skulls and bones |
 | 5 | Cave bear paw |
-| 6 | `dice:1d20\|noform\|avg` (``) severed fingers |
-| 7 | `dice:1d8\|noform\|avg` (`1d8`) eyeballs |
+| 6 | `dice:1d20\|noform\|noparens\|avg` (`d20`) severed fingers |
+| 7 | `dice:1d8\|noform\|noparens\|avg` (`d8`) eyeballs |
 | 8 | Flayed elf skin |
 | 9 | Dire wolf hide |
 | 10 | [[5. Mechanics/Items/Trinket.md\|Random trinket]]* |

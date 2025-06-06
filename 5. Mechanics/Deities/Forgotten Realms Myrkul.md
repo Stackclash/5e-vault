@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/death
+alignment: Neutral Evil
+domains: Death
+pantheon: Forgotten Realms
+symbol: White human skull
 aliases:
   - Myrkul
 ---

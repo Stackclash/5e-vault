@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
   - compendium/src/5e/dmg
+hazardType: Generic Hazard
 aliases:
   - Webs
 ---

@@ -10,6 +10,7 @@ tags:
 aliases:
   - Coralshield Golem
 armorClass: 2
+weight: 6
 ---
 # Coralshield Golem
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  

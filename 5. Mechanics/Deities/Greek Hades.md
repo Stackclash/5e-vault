@@ -6,6 +6,10 @@ tags:
   - deity/greek
   - domain/death
   - domain/grave
+alignment: Lawful Evil
+domains: 'Death, Grave'
+pantheon: Greek
+symbol: Black ram
 aliases:
   - Hades
 ---

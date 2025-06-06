@@ -9,6 +9,7 @@ tags:
 aliases:
   - Shield of the Silver Dragon
 armorClass: 2
+weight: 6
 ---
 # Shield of the Silver Dragon
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, rare*  

@@ -17,7 +17,7 @@ tags:
 aliases:
   - Giant Hyena
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Hyena.md|Giant Hyena]]
+# [[5. Mechanics\Bestiary\Beast\Giant Hyena.md|Giant Hyena]]
 *Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -28,30 +28,32 @@ aliases:
 "ac": !!int "12"
 "hp": !!int "45"
 "hit_dice": "6d10 + 12"
+"modifier": !!int "2"
 "stats":
-- !!int "16"
-- !!int "14"
-- !!int "14"
-- !!int "2"
-- !!int "12"
-- !!int "7"
+  - !!int "16"
+  - !!int "14"
+  - !!int "14"
+  - !!int "2"
+  - !!int "12"
+  - !!int "7"
 "speed": "50 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1"
 "traits":
-- "desc": "When the hyena reduces a creature to 0 hit points with a melee attack on\
-    \ its turn, the hyena can take a bonus action to move up to half its speed and\
-    \ make a bite attack."
-  "name": "Rampage"
+  - "desc": "When the hyena reduces a creature to 0 hit points with a melee attack\
+      \ on its turn, the hyena can take a bonus action to move up to half its speed\
+      \ and make a bite attack."
+    "name": "Rampage"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
-    \ + 3) piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+      \ (2d6 + 3) piercing damage."
+    "name": "Bite"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Beast/token/giant-hyena.webp"
 ```
 ^statblock

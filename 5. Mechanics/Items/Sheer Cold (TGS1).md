@@ -9,16 +9,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Sheer Cold
-one-hand-damage: 1d8 C
-two-hand-damage: 1d10 C
+one-hand-damage: 1d8 cold
+two-hand-damage: 1d10 cold
+weight: 2
 ---
 # Sheer Cold
 *Weapon ([[5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Sheer-Cold.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d8 C
-  - Two-handed: 1d10 C
+  - One-handed: 1d8 cold
+  - Two-handed: 1d10 cold
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 2.0 lbs.
 

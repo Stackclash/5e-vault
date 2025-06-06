@@ -8,6 +8,7 @@ tags:
 aliases:
   - Pitcher
 cost: 2
+weight: 4
 ---
 # Pitcher
 *Adventuring gear*  

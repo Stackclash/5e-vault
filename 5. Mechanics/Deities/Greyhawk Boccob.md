@@ -6,6 +6,10 @@ tags:
   - deity/greyhawk
   - domain/arcana
   - domain/knowledge
+alignment: Neutral
+domains: 'Knowledge, Arcana'
+pantheon: Greyhawk
+symbol: Eye within a pentagram
 aliases:
   - Boccob
 ---

@@ -8,6 +8,7 @@ tags:
   - item/rarity/none
 aliases:
   - Grenade Launcher
+weight: 7
 ---
 # Grenade Launcher
 *Adventuring gear*  

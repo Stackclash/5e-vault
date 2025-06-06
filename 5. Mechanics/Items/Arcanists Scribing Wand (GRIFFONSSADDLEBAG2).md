@@ -27,6 +27,6 @@ While holding the wand, you can use an action to expend 1 of its charges to cast
 
 While holding the wand, you can use an action to expend 2 of its charges to cause up to 10 words to appear in the sky. The words are formed from wisps of clouds or smoke (your choice) and remain in place as long as you concentrate (as if concentrating on a spell), to a maximum of 1 hour, or until a wind of moderate or greater speed (at least 10 miles per hour) disperses them.
 
-The wand regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the wand dissolves into a puddle of mundane ink and is destroyed.
+The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand dissolves into a puddle of mundane ink and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 38*

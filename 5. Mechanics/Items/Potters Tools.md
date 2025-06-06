@@ -8,6 +8,7 @@ tags:
 aliases:
   - Potter's Tools
 cost: 1000
+weight: 3
 ---
 # Potter's Tools
 *Artisan's tools*  

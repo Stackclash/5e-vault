@@ -177,7 +177,7 @@ Each creature takes up a different amount of space.
 
 The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
 
-![[5. Mechanics/Tables/Creature Size Size Categories.md\|Creature Size; Size Categories]]
+![[5. Mechanics/Tables/Creature Size Size Categories (PHB).md\|Creature Size; Size Categories]]
 
 #### Space
 
@@ -264,9 +264,9 @@ You add your proficiency bonus to your attack roll when you attack using a weapo
 
 Sometimes fate blesses or curses a combatant, causing the novice to hit and the veteran to miss.
 
-If the `dice:d20|noform|avg` (`d20`) roll for an attack is a 20, the attack hits regardless of any modifiers or the target's AC. This is called a critical hit, which is explained later in this chapter.
+If the `dice:d20|noform|noparens|avg` (`d20`) roll for an attack is a 20, the attack hits regardless of any modifiers or the target's AC. This is called a critical hit, which is explained later in this chapter.
 
-If the `dice:d20|noform|avg` (`d20`) roll for an attack is a 1, the attack misses regardless of any modifiers or the target's AC.
+If the `dice:d20|noform|noparens|avg` (`d20`) roll for an attack is a 1, the attack misses regardless of any modifiers or the target's AC.
 
 ### Unseen Attackers and Targets
 
@@ -494,7 +494,7 @@ The best way to save a creature with 0 hit points is to heal it. If healing is u
 
 You can use your action to administer first aid to an [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] creature and attempt to stabilize it, which requires a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]) check.
 
-A stable creature doesn't make death saving throws, even though it has 0 hit points, but it does remain [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after `dice:1d4|noform|avg` (`1d4`) hours.
+A stable creature doesn't make death saving throws, even though it has 0 hit points, but it does remain [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after `dice:1d4|noform|noparens|avg` (`d4`) hours.
 
 ![[6. Resources/Books/Players Handbook 2014/img/c94.webp#center]]
 

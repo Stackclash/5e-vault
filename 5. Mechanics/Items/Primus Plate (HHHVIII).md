@@ -9,6 +9,7 @@ tags:
 aliases:
   - Primus Plate
 armorClass: 18
+weight: 65
 ---
 # Primus Plate
 *Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), legendary (requires attunement)*  

@@ -10,22 +10,23 @@ tags:
   - item/weapon/melee
 aliases:
   - Blood Moon Blade
-one-hand-damage: 1d8 S
-two-hand-damage: 1d10 S
+one-hand-damage: 1d8 slashing
+two-hand-damage: 1d10 slashing
+weight: 3
 ---
 # Blood Moon Blade
 *Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), cursed item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Blood-Moon-Blade.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 
 This fine blade is crafted from a strange black metal and bears a hole above the hilt that seems to draw in blood. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
-When you hit a Small or larger living creature with this weapon, that creature takes an extra `dice:2d4|noform|avg` (`2d4`) necrotic damage and you regain hit points equal to half the amount of necrotic damage dealt in this way. Constructs, plants, and undead creatures are immune to this necrotic damage.
+When you hit a Small or larger living creature with this weapon, that creature takes an extra `dice:2d4|noform|noparens|avg` (`2d4`) necrotic damage and you regain hit points equal to half the amount of necrotic damage dealt in this way. Constructs, plants, and undead creatures are immune to this necrotic damage.
 
 ## Curse
 

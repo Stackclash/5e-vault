@@ -7,6 +7,10 @@ tags:
   - domain/grave
   - domain/life
   - domain/nature
+alignment: Lawful Good
+domains: 'Grave, Life, Nature'
+pantheon: Egyptian
+symbol: Crook and flail
 aliases:
   - Osiris
 ---

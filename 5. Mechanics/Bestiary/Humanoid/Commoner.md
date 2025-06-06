@@ -20,7 +20,7 @@ tags:
 aliases:
   - Commoner
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Commoner.md|Commoner]]
+# [[5. Mechanics\Bestiary\Humanoid\Commoner.md|Commoner]]
 *Source: Monster Manual p. 345, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
@@ -34,26 +34,27 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 "ac": !!int "10"
 "hp": !!int "4"
 "hit_dice": "1d8"
+"modifier": !!int "0"
 "stats":
-- !!int "10"
-- !!int "10"
-- !!int "10"
-- !!int "10"
-- !!int "10"
-- !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
 "speed": "30 ft."
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
-    \ bludgeoning damage."
-  "name": "Club"
+  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+      \ bludgeoning damage."
+    "name": "Club"
 "source":
-- "MM"
-- "CoS"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/commoner.webp"
 ```
 ^statblock

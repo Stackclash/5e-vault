@@ -9,15 +9,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Hammer of the Eternal Quake
-one-hand-damage: 1d8x>7 B
-two-hand-damage: 1d10x>9 B
+one-hand-damage: 1d8x>7 bludgeoning
+two-hand-damage: 1d10x>9 bludgeoning
+weight: 2
 ---
 # Hammer of the Eternal Quake
 *Weapon ([[5. Mechanics/Items/Warhammer.md\|warhammer]]), legendary (requires attunement)*  
 
 - **Damage**:
-  - One-handed: 1d8x>7 B
-  - Two-handed: 1d10x>9 B
+  - One-handed: 1d8x>7 bludgeoning
+  - Two-handed: 1d10x>9 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 2.0 lbs.
 

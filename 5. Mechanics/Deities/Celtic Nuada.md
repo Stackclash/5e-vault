@@ -6,6 +6,10 @@ tags:
   - deity/celtic
   - domain/order
   - domain/war
+alignment: Neutral
+domains: 'War, Order'
+pantheon: Celtic
+symbol: Silver hand on black background
 aliases:
   - Nuada
 ---

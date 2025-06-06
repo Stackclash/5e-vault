@@ -29,6 +29,6 @@ While wearing either part of this armor, when a creature that you can see that's
 
 ## Supernova Burst
 
-While wearing both the chain shirt and half plate parts of the armor, you can use an action to speak the armor's other command word to doff the half plate and cause it to explode from you, releasing a 30-foot-radius burst of bright light. When you do, you end any [[/5. Mechanics/Rules/Conditions.md#Grappled\|grapple]] condition on yourself and force all creatures other than you within the bright light that are not behind total cover to make a DC 17 Constitution saving throw. On a failed save, a creature takes `dice:3d8|noform|avg` (`3d8`) radiant damage, or half as much damage on a successful one. The half plate falls to the ground at your feet when doffed in this way.
+While wearing both the chain shirt and half plate parts of the armor, you can use an action to speak the armor's other command word to doff the half plate and cause it to explode from you, releasing a 30-foot-radius burst of bright light. When you do, you end any [[/5. Mechanics/Rules/Conditions.md#Grappled\|grapple]] condition on yourself and force all creatures other than you within the bright light that are not behind total cover to make a DC 17 Constitution saving throw. On a failed save, a creature takes `dice:3d8|noform|noparens|avg` (`3d8`) radiant damage, or half as much damage on a successful one. The half plate falls to the ground at your feet when doffed in this way.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 170*

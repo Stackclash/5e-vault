@@ -10,6 +10,7 @@ tags:
 aliases:
   - Gold Dragon Scale Mail
 armorClass: 14 + Dex modifier (max of +2)
+weight: 45
 ---
 # Gold Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/celtic
   - domain/war
+alignment: Chaotic Evil
+domains: War
+pantheon: Celtic
+symbol: Two crossed spears
 aliases:
   - Morrigan
 ---

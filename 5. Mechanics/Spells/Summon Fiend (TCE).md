@@ -8,21 +8,30 @@ tags:
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/conjuration
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 school: Conjuration
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, humanoid blood inside a ruby vial worth at least 600 gp'
+level: 6
+ritual: false
+time: 1 Action
+duration: up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Summon Fiend
+concentration: true
+material: humanoid blood inside a ruby vial worth at least 600 gp
 ---
 # Summon Fiend
 *6th-level, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 90 feet
-- **Components:** V, S, humanoid blood inside a ruby vial worth at least 600 gp
+- **Components:** V, S, M (humanoid blood inside a ruby vial worth at least 600 gp)
 - **Duration:** Concentration, up to 1 hour
 
 You call forth a fiendish spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the [[5. Mechanics/Bestiary/Fiend/Fiendish Spirit (TCE).md\|Fiendish Spirit]] stat block. When you cast the spell, choose Demon, Devil, or Yugoloth. The creature resembles a fiend of the chosen type, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
@@ -31,6 +40,6 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Tasha's Cauldron of Everything p. 112*

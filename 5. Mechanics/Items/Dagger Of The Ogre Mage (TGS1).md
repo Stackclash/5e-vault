@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Dagger of the Ogre Mage
-one-hand-damage: 1d6 P
+one-hand-damage: 1d6 piercing
+weight: 2
 ---
 # Dagger of the Ogre Mage
 *Weapon ([[5. Mechanics/Items/Shortsword.md\|shortsword]]), major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Dagger-of-the-Ogre-Mage.webp#right)  
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
 

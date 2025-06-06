@@ -6,6 +6,11 @@ tags:
   - deity/eberron
   - domain/knowledge
   - domain/order
+alignment: Lawful Neutral
+category: The Sovereign Host
+domains: 'Knowledge, Order'
+pantheon: Eberron
+symbol: Open tome
 aliases:
   - Aureon
 ---

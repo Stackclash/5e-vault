@@ -8,7 +8,7 @@ aliases:
   - School of Material Magic
 ---
 # School of Material Magic
-*[[Wizard.md\|Wizard]]: Arcane Tradition*  
+*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
 *Source: The Griffon's Saddlebag, Book 1 p. 169*  
 
 > [!tldr] Class and Feature Progression
@@ -19,19 +19,19 @@ aliases:
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#School%20of%20Material%20Magic%20(Level%202)'>School of Material Magic</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#School of Material Magic (Level 2)' class='internal-link'>School of Material Magic</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Material%20Enhancement%20(Level%206)'>Material Enhancement</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Material Enhancement (Level 6)' class='internal-link'>Material Enhancement</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Dematerialize%20(Level%2010)'>Dematerialize</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Dematerialize (Level 10)' class='internal-link'>Dematerialize</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Rematerialize%20(Level%2014)'>Rematerialize</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Rematerialize (Level 14)' class='internal-link'>Rematerialize</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -78,10 +79,10 @@ You have 2 uses of this feature, and you expend 1 of its uses for each benefit y
 
 ### Dematerialize (Level 10)
 
-Starting at 10th level, your spells deal double damage to objects and structures, and when you deal damage to a construct with an attack or a spell, it takes an extra `dice:1d8|noform|avg` (`1d8`) force damage.
+Starting at 10th level, your spells deal double damage to objects and structures, and when you deal damage to a construct with an attack or a spell, it takes an extra `dice:1d8|noform|noparens|avg` (`d8`) force damage.
 
 ### Rematerialize (Level 14)
 
-At 14th level, when you destroy a Large or smaller nonmagical object or structure with a spell, you can recreate it as an action once within the next 8 hours. When you do, the object or structure reappears intact in an unoccupied space you choose within 60 feet of you. If the object or structure is recreated in the air, it immediately falls. Any creature below the item must make a Dexterity saving throw against your wizard spell save DC. If the object is Small or smaller, a creature that fails the saving throw takes `dice:1d8|noform|avg` (`1d8`) bludgeoning damage from the impact for every 10 feet that it fell. If the object is Medium or Large, the bludgeoning damage increases to `dice:1d10|noform|avg` (`1d10`) or `dice:1d12|noform|avg` (`1d12`) for every 10 feet it fell, respectively. On a successful save, a creature takes half as much bludgeoning damage. If an object is the same size or larger than a creature it falls on, that creature is pushed to the nearest unoccupied space.
+At 14th level, when you destroy a Large or smaller nonmagical object or structure with a spell, you can recreate it as an action once within the next 8 hours. When you do, the object or structure reappears intact in an unoccupied space you choose within 60 feet of you. If the object or structure is recreated in the air, it immediately falls. Any creature below the item must make a Dexterity saving throw against your wizard spell save DC. If the object is Small or smaller, a creature that fails the saving throw takes `dice:1d8|noform|noparens|avg` (`d8`) bludgeoning damage from the impact for every 10 feet that it fell. If the object is Medium or Large, the bludgeoning damage increases to `dice:1d10|noform|noparens|avg` (`d10`) or `dice:1d12|noform|noparens|avg` (`d12`) for every 10 feet it fell, respectively. On a successful save, a creature takes half as much bludgeoning damage. If an object is the same size or larger than a creature it falls on, that creature is pushed to the nearest unoccupied space.
 
 Once you use this feature, you can't use it again until you finish a long rest.

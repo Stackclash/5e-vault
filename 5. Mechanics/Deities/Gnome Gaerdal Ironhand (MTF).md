@@ -6,6 +6,11 @@ tags:
   - deity/gnome
   - domain/peace
   - domain/war
+alignment: Lawful Good
+domains: 'War, Peace'
+pantheon: Gnome
+province: Protection
+symbol: Iron band
 aliases:
   - Gaerdal Ironhand
 ---

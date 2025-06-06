@@ -9,12 +9,13 @@ tags:
 aliases:
   - Club
 cost: 10
-one-hand-damage: 1d4 B
+one-hand-damage: 1d4 bludgeoning
+weight: 2
 ---
 # Club
 *Weapon*  
 
-- **Damage**: 1d4 B
+- **Damage**: 1d4 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Cost**: 1 sp
 - **Weight**: 2.0 lbs.

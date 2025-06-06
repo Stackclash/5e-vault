@@ -16,9 +16,9 @@ aliases:
 
 |    |    |    |    |
 |----|----|----|----|
-| Attack: | `dice:1d20+8\|noform\|text(+8)` | Defense: | 15 |
-| Power: | `dice:1d20+7\|noform\|text(+7)` | Toughness: | 15 |
-| Morale: | `dice:1d20+10\|noform\|text(+10)` | Size: | > [!note]<br />> See [[5. Mechanics/Items/Codex Incabulum (SAF).md\|item]] |
+| Attack: | `dice:1d20+8\|noform\|noparens\|text(+8)` | Defense: | 15 |
+| Power: | `dice:1d20+7\|noform\|noparens\|text(+7)` | Toughness: | 15 |
+| Morale: | `dice:1d20+10\|noform\|noparens\|text(+10)` | Size: | > [!note]<br />> See [[5. Mechanics/Items/Codex Incabulum (SAF).md\|item]] |
 
 ## Traits
 

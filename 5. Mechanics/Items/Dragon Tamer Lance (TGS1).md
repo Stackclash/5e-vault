@@ -10,21 +10,22 @@ tags:
   - item/weapon/melee
 aliases:
   - Dragon Tamer Lance
-one-hand-damage: 1d12 P
+one-hand-damage: 1d12 piercing
+weight: 6
 ---
 # Dragon Tamer Lance
 *Weapon ([[5. Mechanics/Items/Lance.md\|lance]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Dragon-Tamer-Lance.webp#right)  
 
-- **Damage**: 1d12 P
+- **Damage**: 1d12 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
 
 This slender, iridescent lance is covered in an enchanted finish that resembles the hardened scales of many dragons. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While attuned to the weapon, you can, understand and speak Draconic.
 
-This lance has 8 charges and regains `dice:1d4+4|noform|avg` (`1d4 + 4`) expended charges each day at dawn. When you hit a target with the lance, you can expend 1 of its charges to deal an extra `dice:3d6|noform|avg` (`3d6`) acid, cold, fire, lightning, or poison damage (your choice) to the target. If you expend a charge in this way when you hit a dragon, it must also succeed on a DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you until the beginning of your next turn. For the purpose of this weapon, "dragon" refers to any creature with the dragon type, including dragon turtles and wyverns.
+This lance has 8 charges and regains `dice:1d4+4|noform|noparens|avg` (`1d4 + 4`) expended charges each day at dawn. When you hit a target with the lance, you can expend 1 of its charges to deal an extra `dice:3d6|noform|noparens|avg` (`3d6`) acid, cold, fire, lightning, or poison damage (your choice) to the target. If you expend a charge in this way when you hit a dragon, it must also succeed on a DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you until the beginning of your next turn. For the purpose of this weapon, "dragon" refers to any creature with the dragon type, including dragon turtles and wyverns.
 
-Whenever you expend a charge in this way to deal extra damage, you can choose to expend a 2nd charge and deal an additional `dice:1d6|noform|avg` (`1d6`) damage of the same type to the target and prevent it from using its reaction until the start of its next turn.
+Whenever you expend a charge in this way to deal extra damage, you can choose to expend a 2nd charge and deal an additional `dice:1d6|noform|noparens|avg` (`d6`) damage of the same type to the target and prevent it from using its reaction until the start of its next turn.
 
 ## Wyrmling Steed
 

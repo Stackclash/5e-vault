@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Dragonwing Scimitars
-one-hand-damage: 1d6 S
+one-hand-damage: 1d6 slashing
+weight: 3
 ---
 # Dragonwing Scimitars
 *Weapon ([[5. Mechanics/Items/Scimitar.md\|scimitar]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Dragonwing-Scimitars.webp#right)  
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
 
@@ -24,7 +25,7 @@ This pair of twin scimitars features draconic guards and winglike blades. Despit
 
 ## Chromatic Change
 
-Each of the swords is associated with a damage type: either acid, cold, fire, lightning or poison. Any target hit by one of the scimitars takes an extra `dice:1d10|noform|avg` (`1d10`) damage of its associated type. While one of them is in your hand, you can use a bonus action to change its damage type to a different one. When you do, the color of its metal changes to reflect the new damage type.
+Each of the swords is associated with a damage type: either acid, cold, fire, lightning or poison. Any target hit by one of the scimitars takes an extra `dice:1d10|noform|noparens|avg` (`d10`) damage of its associated type. While one of them is in your hand, you can use a bonus action to change its damage type to a different one. When you do, the color of its metal changes to reflect the new damage type.
 
 ## Draconic Riposte
 

@@ -9,6 +9,7 @@ aliases:
   - Studded Leather Armor
 cost: 4500
 armorClass: 12 + Dex modifier
+weight: 13
 ---
 # Studded Leather Armor
 *Light armor*  

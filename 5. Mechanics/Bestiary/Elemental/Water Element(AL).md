@@ -16,7 +16,7 @@ tags:
 aliases:
   - Water Elemental
 ---
-# [[5. Mechanics/Bestiary/Elemental/Water Element(AL).md|Water Elemental]]
+# [[5. Mechanics\Bestiary\Elemental\Water Element(AL).md|Water Elemental]]
 *Source: Monster Manual p. 125, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.
@@ -50,13 +50,14 @@ An elemental doesn't require air, food, drink, or sleep.
 "ac_class": "natural armor"
 "hp": !!int "114"
 "hit_dice": "12d10 + 48"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "14"
-- !!int "18"
-- !!int "5"
-- !!int "10"
-- !!int "8"
+  - !!int "18"
+  - !!int "14"
+  - !!int "18"
+  - !!int "5"
+  - !!int "10"
+  - !!int "8"
 "speed": "30 ft., swim 90 ft."
 "damage_resistances": "acid; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
@@ -69,34 +70,34 @@ An elemental doesn't require air, food, drink, or sleep.
 "languages": "Aquan"
 "cr": "5"
 "traits":
-- "desc": "The elemental can enter a hostile creature's space and stop there. It can\
-    \ move through a space as narrow as 1 inch wide without squeezing."
-  "name": "Water Form"
-- "desc": "If the elemental takes cold damage, it partially freezes; its speed is\
-    \ reduced by 20 feet until the end of its next turn."
-  "name": "Freeze"
+  - "desc": "The elemental can enter a hostile creature's space and stop there. It\
+      \ can move through a space as narrow as 1 inch wide without squeezing."
+    "name": "Water Form"
+  - "desc": "If the elemental takes cold damage, it partially freezes; its speed is\
+      \ reduced by 20 feet until the end of its next turn."
+    "name": "Freeze"
 "actions":
-- "desc": "The elemental makes two slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8\
-    \ + 4) bludgeoning damage."
-  "name": "Slam"
-- "desc": "Each creature in the elemental's space must make a DC 15 Strength saving\
-    \ throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is\
-    \ Large or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
-    \ and unable to breathe unless it can breathe water. If the saving throw is successful,\
-    \ the target is pushed out of the elemental's space.\n\nThe elemental can grapple\
-    \ one Large creature or up to two Medium or smaller creatures at one time. At\
-    \ the start of each of the elemental's turns, each target [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the\
-    \ elemental can pull a creature or object out of it by taking an action to make\
-    \ a DC 14 Strength check and succeeding."
-  "name": "Whelm (Recharge 4-6)"
+  - "desc": "The elemental makes two slam attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13\
+      \ (2d8 + 4) bludgeoning damage."
+    "name": "Slam"
+  - "desc": "Each creature in the elemental's space must make a DC 15 Strength saving\
+      \ throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it\
+      \ is Large or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
+      \ and unable to breathe unless it can breathe water. If the saving throw is\
+      \ successful, the target is pushed out of the elemental's space.\n\nThe elemental\
+      \ can grapple one Large creature or up to two Medium or smaller creatures at\
+      \ one time. At the start of each of the elemental's turns, each target [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the\
+      \ elemental can pull a creature or object out of it by taking an action to make\
+      \ a DC 14 Strength check and succeeding."
+    "name": "Whelm (Recharge 4-6)"
 "source":
-- "MM"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Elemental/token/water-elemental.webp"
 ```
 ^statblock

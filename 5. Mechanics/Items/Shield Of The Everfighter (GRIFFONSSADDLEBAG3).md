@@ -10,6 +10,7 @@ tags:
 aliases:
   - Shield of the Everfighter
 armorClass: 2
+weight: 6
 ---
 # Shield of the Everfighter
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  
@@ -22,6 +23,6 @@ This heater shield's center is made of plated sheets of armor. While holding it,
 
 Alternatively, you can return the bracer to its shield form as a reaction when you're hit by an attack, dropping anything held in that hand and applying the shield's bonus to your AC as normal, potentially causing the triggering attack to miss you. At the start of your next turn after using this reaction, you can choose to have the shield become a bracer again (no action required).
 
-In addition, if you're a fighter, you gain `dice:1d10|noform|avg` (`1d10`) temporary hit points when you use either your Action Surge or Second Wind class feature. If you are also holding the gladius of the everfighter, you can transform the shield as part of the same action or bonus action used to transform the weapon.
+In addition, if you're a fighter, you gain `dice:1d10|noform|noparens|avg` (`d10`) temporary hit points when you use either your Action Surge or Second Wind class feature. If you are also holding the gladius of the everfighter, you can transform the shield as part of the same action or bonus action used to transform the weapon.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

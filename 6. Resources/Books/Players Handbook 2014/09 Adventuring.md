@@ -65,7 +65,7 @@ Characters in wagons, carriages, or other land vehicles choose a pace as normal.
 
 Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a carpet of flying, allow you to travel more swiftly. The Dungeon Master's Guide contains more information on special methods of travel.
 
-![[5. Mechanics/Tables/Travel Pace.md\|Travel Pace]]
+![[5. Mechanics/Tables/Travel Pace (PHB).md\|Travel Pace]]
 
 #### Difficult Terrain
 
@@ -170,7 +170,7 @@ By its nature, adventuring involves delving into places that are dark, dangerous
 
 A fall from a great height is one of the most common hazards facing an adventurer.
 
-At the end of a fall, a creature takes `dice:1d6|noform|avg` (`1d6`) bludgeoning damage for every 10 feet it fell, to a maximum of `dice:20d6|noform|avg` (`20d6`). The creature lands [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], unless it avoids taking damage from the fall.
+At the end of a fall, a creature takes `dice:1d6|noform|noparens|avg` (`d6`) bludgeoning damage for every 10 feet it fell, to a maximum of `dice:20d6|noform|noparens|avg` (`20d6`). The creature lands [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], unless it avoids taking damage from the fall.
 
 #### Suffocating
 

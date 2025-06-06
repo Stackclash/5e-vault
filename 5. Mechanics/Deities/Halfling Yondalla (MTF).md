@@ -6,6 +6,11 @@ tags:
   - deity/halfling
   - domain/life
   - domain/twilight
+alignment: Lawful Good
+domains: 'Life, Twilight'
+pantheon: Halfling
+province: Primary goddess of halflings
+symbol: Cornucopia
 aliases:
   - Yondalla
 ---

@@ -10,19 +10,27 @@ tags:
   - spell/level/3rd-level
   - spell/school/necromancy
   - spell/subclass/arcane-trickster
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Necromancy
-time: 1 bonus
+level: 3
+ritual: false
+time: 1 Bonus Action
 duration: 1 hour
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Blood Armor
 ---
 # Blood Armor
 *3rd-level, Necromancy*  
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** 1 hour
@@ -31,6 +39,6 @@ When you strike a foe with a melee weapon attack, you can immediately cast this 
 
 If the creature you struck was a celestial, blood armor also grants you advantage on Charisma saving throws for the duration of the spell.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 318*

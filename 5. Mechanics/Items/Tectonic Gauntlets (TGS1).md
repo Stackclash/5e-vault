@@ -15,11 +15,11 @@ aliases:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 
-This magical set of stone gauntlets imbue your fists with the power of the Elemental Plane of Earth. While wearing and attuned to the gauntlets, your unarmed attacks become magical and deal `dice:1d8|noform|avg` (`1d8`) bludgeoning damage in place of the normal damage of your unarmed strike (unless it's already higher). In addition, these gloves have 15 charges and regain `dice:1d10+5|noform|avg` (`1d10 + 5`) expended charges each day at dawn. When you make an unarmed attack with your fists, you can expend up to 5 charges to extend your fist's reach by 5 feet for each expended charge. Your unarmed strikes deal double damage to objects and structures.
+This magical set of stone gauntlets imbue your fists with the power of the Elemental Plane of Earth. While wearing and attuned to the gauntlets, your unarmed attacks become magical and deal `dice:1d8|noform|noparens|avg` (`d8`) bludgeoning damage in place of the normal damage of your unarmed strike (unless it's already higher). In addition, these gloves have 15 charges and regain `dice:1d10+5|noform|noparens|avg` (`1d10 + 5`) expended charges each day at dawn. When you make an unarmed attack with your fists, you can expend up to 5 charges to extend your fist's reach by 5 feet for each expended charge. Your unarmed strikes deal double damage to objects and structures.
 
 ## Powerglove
 
-When you hit a target with an unarmed strike, you can expend up to 3 charges to deal an extra `dice:1d8|noform|avg` (`1d8`) bludgeoning damage for each charge spent. If you spend any charges in this way, the target must also succeed on a DC 16 Strength saving throw or be pushed back 5 feet.
+When you hit a target with an unarmed strike, you can expend up to 3 charges to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) bludgeoning damage for each charge spent. If you spend any charges in this way, the target must also succeed on a DC 16 Strength saving throw or be pushed back 5 feet.
 
 ## Geomancy
 
@@ -27,7 +27,7 @@ Alternatively, you can expend 1 or more charges on your turn to cast the followi
 
 ## Tectonic Plate Armor
 
-As an action, you can allow rocks to envelop and protect your body. For 1 hour, you gain resistance to bludgeoning, piercing, and slashing damage, your movement speed is halved, and you make Dexterity checks and saving throws with disadvantage. You can end this feature early as a bonus action. While enveloped in this way, you can burrow through nonmagical, unworked earth and stone at a speed of 30 feet. While doing so, you don't disturb the material you move through. If you end this ability while still underground, you're forced out of the earth to the nearest space available and take `dice:1d10|noform|avg` (`1d10`) force damage. Once this feature of the gloves has been used, it can't be used again until you take a short or long rest.
+As an action, you can allow rocks to envelop and protect your body. For 1 hour, you gain resistance to bludgeoning, piercing, and slashing damage, your movement speed is halved, and you make Dexterity checks and saving throws with disadvantage. You can end this feature early as a bonus action. While enveloped in this way, you can burrow through nonmagical, unworked earth and stone at a speed of 30 feet. While doing so, you don't disturb the material you move through. If you end this ability while still underground, you're forced out of the earth to the nearest space available and take `dice:1d10|noform|noparens|avg` (`d10`) force damage. Once this feature of the gloves has been used, it can't be used again until you take a short or long rest.
 
 ## Curse
 

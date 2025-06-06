@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/rictavio.webp
+  - 4. World Almanac\NPCs\img\rictavio.webp
 relationships: []
 aliases:
   - Rictavio
@@ -146,59 +146,66 @@ actions:
 "ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "77"
 "hit_dice": "14d8 + 14"
+"modifier": !!int "1"
 "stats":
-- !!int "9"
-- !!int "12"
-- !!int "13"
-- !!int "16"
-- !!int "18"
-- !!int "16"
+  - !!int "9"
+  - !!int "12"
+  - !!int "13"
+  - !!int "16"
+  - !!int "18"
+  - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "7"
-  "Constitution": !!int "4"
+  - "constitution": "+4"
+  - "wisdom": "+7"
 "skillsaves":
-  "Medicine": !!int "7"
-  "Sleight of Hand": !!int "4"
-  "Religion": !!int "6"
-  "Insight": !!int "7"
-  "Perception": !!int "7"
-  "Arcana": !!int "9"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+9"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand|Sleight of Hand]]"
+    "desc": "+4"
 "senses": "passive Perception 17"
 "languages": "Abyssal, Common, Elvish, Infernal"
 "cr": "5"
 "traits":
-- "desc": "Rictavio is a 9th-level spellcaster. His spellcasting ability is Wisdom\
-    \ (spell save DC 15, +7 to hit with spell attacks). Rictavio has the following\
-    \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mending.md|mending]],\
-    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
-    \ [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-    \ [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
-    \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Augury.md|augury]],\
-    \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Protection From Poison.md|protection from\
-    \ poison]]\n\n3rd level (3 slots):\
-    \ [[5. Mechanics/Spells/Magic Circle.md|magic circle]], [[5. Mechanics/Spells/Remove Curse.md|remove curse]],\
-    \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n4th level (3 slots):\
-    \ [[5. Mechanics/Spells/Death Ward.md|death ward]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\
-    \n5th level (1 slots): [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]"
-  "name": "Spellcasting"
-- "desc": "In addition to his sword cane, Rictavio wears a [[5. Mechanics/Items/Hat Of Disguise.md|hat of disguise]]\
-    \ and a [[5. Mechanics/Items/Ring Of Mind Shielding.md|ring of mind shielding]],\
-    \ and he carries a [[5. Mechanics/Items/Spell Scroll 5th Level.md|spell scroll]]\
-    \ of [[5. Mechanics/Spells/Raise Dead.md|raise dead]]."
-  "name": "Special Equipment"
-- "desc": "When Rictavio hits an undead with a weapon attack, the undead takes an\
-    \ extra 10 (3d6) damage of the weapon's type."
-  "name": "Undead Slayer"
+  - "desc": "Rictavio is a 9th-level spellcaster. His spellcasting ability is Wisdom\
+      \ (spell save DC 15, +7 to hit with spell attacks). Rictavio has the following\
+      \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
+      \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mending.md|mending]],\
+      \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
+      \ [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+      \ [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
+      \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Augury.md|augury]],\
+      \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Protection From Poison.md|protection\
+      \ from poison]]\n\n3rd level (3\
+      \ slots): [[5. Mechanics/Spells/Magic Circle.md|magic circle]], [[5. Mechanics/Spells/Remove Curse.md|remove curse]],\
+      \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n4th level (3\
+      \ slots): [[5. Mechanics/Spells/Death Ward.md|death ward]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\
+      \n5th level (1 slots): [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]"
+    "name": "Spellcasting"
+  - "desc": "In addition to his sword cane, Rictavio wears a [[5. Mechanics/Items/Hat Of Disguise.md|hat of disguise]]\
+      \ and a [[5. Mechanics/Items/Ring Of Mind Shielding.md|ring of mind shielding]],\
+      \ and he carries a [[5. Mechanics/Items/Spell Scroll 5th Level.md|spell scroll]]\
+      \ of [[5. Mechanics/Spells/Raise Dead.md|raise dead]]."
+    "name": "Special Equipment"
+  - "desc": "When Rictavio hits an undead with a weapon attack, the undead takes an\
+      \ extra 10 (3d6) damage of the weapon's type."
+    "name": "Undead Slayer"
 "actions":
-- "desc": "Rictavio makes two attacks with his sword cane."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d6\
-    \ + 1) bludgeoning damage (wooden cane) or piercing damage (silvered sword)."
-  "name": "Sword Cane"
+  - "desc": "Rictavio makes two attacks with his sword cane."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+      \ + 1) bludgeoning damage (wooden cane) or piercing damage (silvered sword)."
+    "name": "Sword Cane"
 "source":
-- "CoS"
+  - "CoS"
 "image": "4. World Almanac/NPCs/token/rictavio-cos.webp"
 ```
 ^statblock

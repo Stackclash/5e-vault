@@ -20,6 +20,6 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Great-Owls-Bow.webp#right)  
 
 
-Arrows fired from this magic bow between dusk and dawn are silent while in flight. The bow has 5 charges and regains all expended charges daily at dawn. Once on each of your turns when you hit a creature with a ranged weapon attack using the bow, you can expend 1 of its charges to cause the arrow to split into a spray of magical feathers. Each other creature within 5 feet of the target must succeed on a DC 13 Dexterity saving throw or take `dice:1d4+3|noform|avg` (`1d4 + 3`) force damage.
+Arrows fired from this magic bow between dusk and dawn are silent while in flight. The bow has 5 charges and regains all expended charges daily at dawn. Once on each of your turns when you hit a creature with a ranged weapon attack using the bow, you can expend 1 of its charges to cause the arrow to split into a spray of magical feathers. Each other creature within 5 feet of the target must succeed on a DC 13 Dexterity saving throw or take `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) force damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

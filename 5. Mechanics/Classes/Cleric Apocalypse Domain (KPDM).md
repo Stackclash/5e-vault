@@ -9,7 +9,7 @@ aliases:
   - Apocalypse Domain
 ---
 # Apocalypse Domain
-*[[Cleric.md\|Cleric]]: Divine Domain*  
+*[[.nullCleric.md\|Cleric]]: Divine Domain*  
 *Source: Deep Magic p. 314*  
 
 > [!tldr] Class and Feature Progression
@@ -19,14 +19,14 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Apocalypse%20Domain%20(Level%201)'>Apocalypse Domain</a></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel%20Divinity%20Damnation%20(Level%202)'>Channel Divinity: Damnation</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Apocalypse Domain (Level 1)' class='internal-link'>Apocalypse Domain</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel Divinity: Damnation (Level 2)' class='internal-link'>Channel Divinity: Damnation</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Channel%20Divinity%20Weight%20of%20Guilt%20(Level%206)'>Channel Divinity: Weight of Guilt</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Channel Divinity: Weight of Guilt (Level 6)' class='internal-link'>Channel Divinity: Weight of Guilt</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Divine%20Strike%20(Level%208)'>Divine Strike</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Divine Strike (Level 8)' class='internal-link'>Divine Strike</a></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -35,12 +35,13 @@ aliases:
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Herald%20of%20the%20Apocalypse%20(Level%2017)'>Herald of the Apocalypse</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Herald of the Apocalypse (Level 17)' class='internal-link'>Herald of the Apocalypse</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -71,7 +72,7 @@ At 1st level, you learn the [[5. Mechanics/Spells/Vicious Mockery.md\|vicious mo
 
 ### Channel Divinity: Damnation (Level 2)
 
-Starting at 2nd level, you can use your Channel Divinity to lash out at those who defy your deity's messenger. As an action, you present your [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]] while pronouncing doom to unbelievers. Each hostile creature that can see you and is within 30 feet of you takes `dice:3d6|noform|avg` (`3d6`) + your Cleric level necrotic damage, or half damage with a successful Wisdom saving throw. A creature that has total cover from you is not affected.
+Starting at 2nd level, you can use your Channel Divinity to lash out at those who defy your deity's messenger. As an action, you present your [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]] while pronouncing doom to unbelievers. Each hostile creature that can see you and is within 30 feet of you takes `dice:3d6|noform|noparens|avg` (`3d6`) + your Cleric level necrotic damage, or half damage with a successful Wisdom saving throw. A creature that has total cover from you is not affected.
 
 ### Channel Divinity: Weight of Guilt (Level 6)
 
@@ -81,7 +82,7 @@ As an action, choose one creature that you can see within 60 feet of you. That  
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with necrotic energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|avg` (`1d8`) necrotic damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with necrotic energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) necrotic damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Herald of the Apocalypse (Level 17)
 

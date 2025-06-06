@@ -7,6 +7,7 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Nature's Mantle
+weight: 2
 ---
 # Nature's Mantle
 *Wondrous item, uncommon (requires attunement by a druid or ranger)*  

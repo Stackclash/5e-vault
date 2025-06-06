@@ -14,7 +14,7 @@ tags:
 aliases:
   - Wood Woad
 ---
-# [[5. Mechanics/Bestiary/Plant/Wood Woad (MPMM).md|Wood Woad]]
+# [[5. Mechanics\Bestiary\Plant\Wood Woad (MPMM).md|Wood Woad]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198*
 
 A wood woad is a powerful bipedal Plant invested with the soul of someone who gave up life to become an everlasting guardian.
@@ -40,18 +40,22 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "ac_class": "natural armor, [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
+"modifier": !!int "1"
 "stats":
-- !!int "18"
-- !!int "12"
-- !!int "16"
-- !!int "10"
-- !!int "13"
-- !!int "8"
+  - !!int "18"
+  - !!int "12"
+  - !!int "16"
+  - !!int "10"
+  - !!int "13"
+  - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Athletics": !!int "7"
-  "Stealth": !!int "4"
-  "Perception": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
@@ -59,28 +63,29 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "languages": "Sylvan"
 "cr": "5"
 "traits":
-- "desc": "The wood woad has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
-    \ checks it makes in any terrain with ample obscuring vegetation."
-  "name": "Plant Camouflage"
-- "desc": "The wood woad regains 10 hit points at the start of its turn if it is in\
-    \ contact with the ground. If the wood woad takes fire damage, this trait doesn't\
-    \ function at the start of the wood woad's next turn. The wood woad dies only\
-    \ if it starts its turn with 0 hit points and doesn't regenerate."
-  "name": "Regeneration"
-- "desc": "Once on each of its turns, the wood woad can use 10 feet of its movement\
-    \ to step magically into one living tree within 5 feet of it and emerge from a\
-    \ second living tree within 60 feet of it that it can see, appearing in an unoccupied\
-    \ space within 5 feet of the second tree. Both trees must be Large or bigger."
-  "name": "Tree Stride"
+  - "desc": "The wood woad has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+      \ checks it makes in any terrain with ample obscuring vegetation."
+    "name": "Plant Camouflage"
+  - "desc": "The wood woad regains 10 hit points at the start of its turn if it is\
+      \ in contact with the ground. If the wood woad takes fire damage, this trait\
+      \ doesn't function at the start of the wood woad's next turn. The wood woad\
+      \ dies only if it starts its turn with 0 hit points and doesn't regenerate."
+    "name": "Regeneration"
+  - "desc": "Once on each of its turns, the wood woad can use 10 feet of its movement\
+      \ to step magically into one living tree within 5 feet of it and emerge from\
+      \ a second living tree within 60 feet of it that it can see, appearing in an\
+      \ unoccupied space within 5 feet of the second tree. Both trees must be Large\
+      \ or bigger."
+    "name": "Tree Stride"
 "actions":
-- "desc": "The wood woad makes two Club attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (4d4\
-    \ + 4) force damage."
-  "name": "Club"
+  - "desc": "The wood woad makes two Club attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14\
+      \ (4d4 + 4) force damage."
+    "name": "Club"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Plant/token/wood-woad-mpmm.webp"
 ```
 ^statblock

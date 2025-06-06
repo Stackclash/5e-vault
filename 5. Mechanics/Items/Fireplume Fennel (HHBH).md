@@ -21,6 +21,6 @@ A beautiful orange-red plant herb that can be found by looking for the distincti
 
 ## Effect:
 
-As an action, you may throw this herb at a space within 20 feet of you that you can see. Upon landing, this herb explodes, forcing all targets within 5 feet of that space to succeed on a DC 12 Dexterity saving throw or suffer `dice:2d6|noform|avg` (`2d6`) fire damage, or half that on a successful save.
+As an action, you may throw this herb at a space within 20 feet of you that you can see. Upon landing, this herb explodes, forcing all targets within 5 feet of that space to succeed on a DC 12 Dexterity saving throw or suffer `dice:2d6|noform|noparens|avg` (`2d6`) fire damage, or half that on a successful save.
 
 *Source: Hamund's Herbalism Handbook p. 14*

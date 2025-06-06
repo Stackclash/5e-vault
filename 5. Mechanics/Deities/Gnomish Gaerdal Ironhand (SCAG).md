@@ -6,6 +6,10 @@ tags:
   - deity/gnomish
   - domain/peace
   - domain/war
+alignment: Lawful Good
+domains: 'War, Peace'
+pantheon: Gnomish
+symbol: Iron band
 aliases:
   - Gaerdal Ironhand
 ---

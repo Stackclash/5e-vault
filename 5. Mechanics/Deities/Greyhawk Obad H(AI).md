@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greyhawk
   - domain/nature
+alignment: Neutral
+domains: Nature
+pantheon: Greyhawk
+symbol: Oak leaf and acorn
 aliases:
   - Obad-Hai
 ---

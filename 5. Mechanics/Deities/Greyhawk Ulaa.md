@@ -6,6 +6,10 @@ tags:
   - deity/greyhawk
   - domain/life
   - domain/war
+alignment: Lawful Good
+domains: 'Life, War'
+pantheon: Greyhawk
+symbol: Mountain with a circle at its heart
 aliases:
   - Ulaa
 ---

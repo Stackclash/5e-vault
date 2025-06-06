@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Quiver of Ehlonna
+weight: 2
 ---
 # Quiver of Ehlonna
 *Wondrous item, major, uncommon*  

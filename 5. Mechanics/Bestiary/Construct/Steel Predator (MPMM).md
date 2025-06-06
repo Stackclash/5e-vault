@@ -14,7 +14,7 @@ tags:
 aliases:
   - Steel Predator
 ---
-# [[5. Mechanics/Bestiary/Construct/Steel Predator (MPMM).md|Steel Predator]]
+# [[5. Mechanics\Bestiary\Construct\Steel Predator (MPMM).md|Steel Predator]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*
 
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
@@ -36,18 +36,22 @@ If all goes according to plan, a steel predator slays its target and then volunt
 "ac_class": "natural armor"
 "hp": !!int "207"
 "hit_dice": "18d10 + 108"
+"modifier": !!int "3"
 "stats":
-- !!int "24"
-- !!int "17"
-- !!int "22"
-- !!int "4"
-- !!int "14"
-- !!int "6"
+  - !!int "24"
+  - !!int "17"
+  - !!int "22"
+  - !!int "4"
+  - !!int "14"
+  - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "8"
-  "Perception": !!int "7"
-  "Survival": !!int "7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
+    "desc": "+7"
 "damage_resistances": "cold, lightning, necrotic, thunder"
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
@@ -59,36 +63,36 @@ If all goes according to plan, a steel predator slays its target and then volunt
 "languages": "understands Modron and the language of its owner but can't speak"
 "cr": "16"
 "traits":
-- "desc": "The steel predator casts one of the following spells, requiring no spell\
-    \ components and using Wisdom as the spellcasting ability:\n\n3/day each:\
-    \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]] (self only), [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
-    \ (self only)"
-  "name": "Spellcasting"
-- "desc": "The steel predator has advantage on saving throws against spells and other\
-    \ magical effects."
-  "name": "Magic Resistance"
-- "desc": "The steel predator doesn't require air, food, drink, or sleep."
-  "name": "Unusual Nature"
+  - "desc": "The steel predator has advantage on saving throws against spells and\
+      \ other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The steel predator doesn't require air, food, drink, or sleep."
+    "name": "Unusual Nature"
 "actions":
-- "desc": "The steel predator makes one Bite attack and two Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 18 (2d10\
-    \ + 7) lightning damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 16 (2d8\
-    \ + 7) force damage."
-  "name": "Claw"
-- "desc": "The steel predator emits a roar in a 60-foot cone. Each creature in that\
-    \ area must make a DC 19 Constitution saving throw. On a failed save, a creature\
-    \ takes 33 (6d10) thunder damage, drops everything it's holding, and is [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
-    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] creature\
-    \ can repeat the saving throw at the end of each of its turns, ending the effect\
-    \ on itself on a success. On a successful save, a creature takes half as much\
-    \ damage and isn't [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]."
-  "name": "Stunning Roar (Recharge 5-6)"
+  - "desc": "The steel predator makes one Bite attack and two Claw attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 18\
+      \ (2d10 + 7) lightning damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 16\
+      \ (2d8 + 7) force damage."
+    "name": "Claw"
+  - "desc": "The steel predator emits a roar in a 60-foot cone. Each creature in that\
+      \ area must make a DC 19 Constitution saving throw. On a failed save, a creature\
+      \ takes 33 (6d10) thunder damage, drops everything it's holding, and is [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
+      \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] creature\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success. On a successful save, a creature takes half as much\
+      \ damage and isn't [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]."
+    "name": "Stunning Roar (Recharge 5-6)"
+  - "desc": "The steel predator casts one of the following spells, requiring no spell\
+      \ components and using Wisdom as the spellcasting ability:\n\n3/day each:\
+      \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]] (self only), [[5. Mechanics/Spells/Plane Shift.md|plane\
+      \ shift]] (self only)"
+    "name": "Spellcasting"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Construct/token/steel-predator-mpmm.webp"
 ```
 ^statblock

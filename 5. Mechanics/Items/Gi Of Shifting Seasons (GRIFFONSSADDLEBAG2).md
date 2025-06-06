@@ -22,7 +22,7 @@ You are immune to the effects of extreme cold, and whenever you hit a creature w
 
 ## Spring
 
-When the gi changes to this season, you gain `dice:1d4+4|noform|avg` (`1d4 + 4`) temporary hit points. In addition, when you use your Step of the Wind, your jump distance is tripled, instead of doubled, and you ignore the effects of difficult terrain until the end of your turn.
+When the gi changes to this season, you gain `dice:1d4+4|noform|noparens|avg` (`1d4 + 4`) temporary hit points. In addition, when you use your Step of the Wind, your jump distance is tripled, instead of doubled, and you ignore the effects of difficult terrain until the end of your turn.
 
 ## Summer
 

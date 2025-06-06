@@ -8,6 +8,7 @@ tags:
 aliases:
   - Chain (10 feet)
 cost: 500
+weight: 10
 ---
 # Chain (10 feet)
 *Adventuring gear*  

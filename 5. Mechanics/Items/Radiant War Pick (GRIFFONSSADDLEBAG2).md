@@ -10,16 +10,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Radiant War Pick
-one-hand-damage: 1d8 P
+one-hand-damage: 1d8 piercing
+weight: 2
 ---
 # Radiant War Pick
 *Weapon ([[5. Mechanics/Items/War Pick.md\|war pick]]), major, very rare (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Radiant-War-Pick.webp#right)  
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Weight**: 2.0 lbs.
 
-This silver and golden weapon is wrapped in fragments of holy vestments and glimmers spectacularly in sun and moonlight. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit with an attack using this war pick, the target takes an extra `dice:1d8|noform|avg` (`1d8`) radiant damage. If the target is a shapechanger or undead, this radiant damage is maximized.
+This silver and golden weapon is wrapped in fragments of holy vestments and glimmers spectacularly in sun and moonlight. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit with an attack using this war pick, the target takes an extra `dice:1d8|noform|noparens|avg` (`d8`) radiant damage. If the target is a shapechanger or undead, this radiant damage is maximized.
 
 In addition, while holding the war pick, you can use an action to expend a use of your Channel Divinity to cast the [[5. Mechanics/Spells/Moonbeam.md\|moonbeam]] (6th-level version) or [[5. Mechanics/Spells/Sunbeam.md\|sunbeam]] spell from it (save DC 16). Once this property of the weapon has been used, it can't be used again until the next dawn.
 

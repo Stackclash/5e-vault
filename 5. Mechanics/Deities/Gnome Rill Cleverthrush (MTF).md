@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/mtf
   - deity/gnome
   - domain/knowledge
+alignment: Lawful Neutral
+domains: Knowledge
+pantheon: Gnome
+province: 'Law, thought'
+symbol: Interlocking gears
 aliases:
   - Rill Cleverthrush
 ---

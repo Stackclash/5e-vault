@@ -10,6 +10,7 @@ tags:
 aliases:
   - Aegis of Radiance
 armorClass: 2
+weight: 6
 ---
 # Aegis of Radiance
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement by a cleric)*  

@@ -8,14 +8,14 @@ tags:
   - item/weapon/simple
 aliases:
   - Serpentine Bolas
-one-hand-damage: 1d4 B
-range: 30/120
+one-hand-damage: 1d4 bludgeoning
+range: 30\120
 ---
 # Serpentine Bolas
 *Weapon ([[5. Mechanics/Items/Sling.md\|sling]]), rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Serpentine-Bolas.webp#right)  
 
-- **Damage**: 1d4 B
+- **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]]
 

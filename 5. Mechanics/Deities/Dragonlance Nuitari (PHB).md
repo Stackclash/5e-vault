@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/dragonlance
   - domain/arcana
+alignment: Lawful Evil
+category: The Gods of Evil
+domains: Arcana
+pantheon: Dragonlance
+symbol: Black circle or sphere
 aliases:
   - Nuitari
 ---

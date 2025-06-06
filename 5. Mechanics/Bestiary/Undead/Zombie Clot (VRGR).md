@@ -13,7 +13,7 @@ tags:
 aliases:
   - Zombie Clot
 ---
-# [[5. Mechanics/Bestiary/Undead/Zombie Clot (VRGR).md|Zombie Clot]]
+# [[5. Mechanics\Bestiary\Undead\Zombie Clot (VRGR).md|Zombie Clot]]
 *Source: Van Richten's Guide to Ravenloft p. 255*
 
 Among the undead, a lone zombie ranks far from the most menacing. The horror of the shambling dead lies not in their individual menace, though, but their numbers, their persistence, and their disregard for their own well-being. A throng of zombies will douse a forest fire with their own ashes or march into a dragon's maw until the monster chokes. In the course of their relentless marches, zombies might suffer all manner of trauma, potentially reducing them to masses of crawling limbs (see swarm of zombie limbs), infecting them with terrible diseases (see zombie plague spreader), or crushing an entire horde into a single, rotting titan.
@@ -43,16 +43,17 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 "ac_class": "natural armor"
 "hp": !!int "104"
 "hit_dice": "11d12 + 33"
+"modifier": !!int "0"
 "stats":
-- !!int "20"
-- !!int "10"
-- !!int "16"
-- !!int "3"
-- !!int "8"
-- !!int "10"
+  - !!int "20"
+  - !!int "10"
+  - !!int "16"
+  - !!int "3"
+  - !!int "8"
+  - !!int "10"
 "speed": "40 ft."
 "saves":
-  "Constitution": !!int "6"
+  - "constitution": "+6"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
@@ -61,34 +62,35 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "6"
 "traits":
-- "desc": "Any creature that starts its turn within 10 feet of the zombie must succeed\
-    \ on a DC 14 Constitution saving throw or take 9 (2d8) poison damage and be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ until the start of the creature's next turn."
-  "name": "Deathly Stench"
-- "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
-    \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
-    \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
-  "name": "Undead Fortitude"
-- "desc": "The zombie doesn't require air, food, drink, or sleep."
-  "name": "Unusual Nature"
+  - "desc": "Any creature that starts its turn within 10 feet of the zombie must succeed\
+      \ on a DC 14 Constitution saving throw or take 9 (2d8) poison damage and be\
+      \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] until the start of the\
+      \ creature's next turn."
+    "name": "Deathly Stench"
+  - "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
+      \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
+      \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
+    "name": "Undead Fortitude"
+  - "desc": "The zombie doesn't require air, food, drink, or sleep."
+    "name": "Unusual Nature"
 "actions":
-- "desc": "The zombie makes two Slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8\
-    \ + 5) bludgeoning damage."
-  "name": "Slam"
-- "desc": "The zombie flings a detached clump of corpses at a creature it can see\
-    \ within 30 feet of it. The target must succeed on a DC 16 Strength saving throw\
-    \ or take 16 (3d10) bludgeoning damage, and if the target is a Large or smaller\
-    \ creature, it becomes entombed in dead flesh.\n\nA creature entombed in the dead\
-    \ flesh is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], has total\
-    \ cover against attacks and other effects outside the dead flesh, and takes 10\
-    \ (3d6) necrotic damage at the start of each of its turns. The creature can be\
-    \ freed if the dead flesh is destroyed. The dead flesh is a Large object with\
-    \ AC 10, 25 hit points, and immunity to poison and psychic damage."
-  "name": "Flesh Entomb (Recharge 5-6)"
+  - "desc": "The zombie makes two Slam attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18\
+      \ (3d8 + 5) bludgeoning damage."
+    "name": "Slam"
+  - "desc": "The zombie flings a detached clump of corpses at a creature it can see\
+      \ within 30 feet of it. The target must succeed on a DC 16 Strength saving throw\
+      \ or take 16 (3d10) bludgeoning damage, and if the target is a Large or smaller\
+      \ creature, it becomes entombed in dead flesh.\n\nA creature entombed in the\
+      \ dead flesh is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], has\
+      \ total cover against attacks and other effects outside the dead flesh, and\
+      \ takes 10 (3d6) necrotic damage at the start of each of its turns. The creature\
+      \ can be freed if the dead flesh is destroyed. The dead flesh is a Large object\
+      \ with AC 10, 25 hit points, and immunity to poison and psychic damage."
+    "name": "Flesh Entomb (Recharge 5-6)"
 "source":
-- "VRGR"
+  - "VRGR"
 "image": "5. Mechanics/Bestiary/Undead/token/zombie-clot-vrgr.webp"
 ```
 ^statblock

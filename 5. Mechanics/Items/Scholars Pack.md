@@ -8,6 +8,7 @@ tags:
 aliases:
   - Scholar's Pack
 cost: 4000
+weight: 10
 ---
 # Scholar's Pack
 *Adventuring gear*  

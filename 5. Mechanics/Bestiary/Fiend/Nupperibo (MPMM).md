@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nupperibo
 ---
-# [[5. Mechanics/Bestiary/Fiend/Nupperibo (MPMM).md|Nupperibo]]
+# [[5. Mechanics\Bestiary\Fiend\Nupperibo (MPMM).md|Nupperibo]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168*
 
 > [!quote] A quote from Mordenkainen  
@@ -42,16 +42,18 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 "ac_class": "natural armor"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
+"modifier": !!int "0"
 "stats":
-- !!int "16"
-- !!int "11"
-- !!int "13"
-- !!int "3"
-- !!int "8"
-- !!int "1"
+  - !!int "16"
+  - !!int "11"
+  - !!int "13"
+  - !!int "3"
+  - !!int "8"
+  - !!int "1"
 "speed": "20 ft."
 "skillsaves":
-  "Perception": !!int "1"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+1"
 "damage_resistances": "acid, cold"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
@@ -60,22 +62,22 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 "languages": "understands Infernal but can't speak"
 "cr": "1/2"
 "traits":
-- "desc": "Any creature, other than a devil, that starts its turn within 20 feet of\
-    \ one or more nupperibos must succeed on a DC 11 Constitution saving throw or\
-    \ take 5 (2d4) acid damage. A creature within the areas of two or more nupperibos\
-    \ makes the saving throw with disadvantage."
-  "name": "Cloud of Vermin"
-- "desc": "In the Nine Hells, the nupperibo can flawlessly track any creature that\
-    \ has taken damage from any nupperibo's Cloud of Vermin within the previous 24\
-    \ hours."
-  "name": "Driven Tracker"
+  - "desc": "Any creature, other than a devil, that starts its turn within 20 feet\
+      \ of one or more nupperibos must succeed on a DC 11 Constitution saving throw\
+      \ or take 5 (2d4) acid damage. A creature within the areas of two or more nupperibos\
+      \ makes the saving throw with disadvantage."
+    "name": "Cloud of Vermin"
+  - "desc": "In the Nine Hells, the nupperibo can flawlessly track any creature that\
+      \ has taken damage from any nupperibo's Cloud of Vermin within the previous\
+      \ 24 hours."
+    "name": "Driven Tracker"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
-    \ + 3) piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+      \ + 3) piercing damage."
+    "name": "Bite"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Fiend/token/nupperibo-mpmm.webp"
 ```
 ^statblock

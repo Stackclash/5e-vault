@@ -6,6 +6,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Hobbysteed (Rare)
+weight: 2
 ---
 # Hobbysteed (Rare)
 *Wondrous item, rare*  

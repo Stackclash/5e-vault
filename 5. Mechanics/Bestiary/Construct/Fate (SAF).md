@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fate
 ---
-# [[5. Mechanics/Bestiary/Construct/Fate (SAF).md|Fate]]
+# [[5. Mechanics\Bestiary\Construct\Fate (SAF).md|Fate]]
 *Source: Strongholds and Followers p. 230*
 
 The Law of Fate forces events to have predetermined outcomes whether you like it or not. There is no chance when Fate is present. All things proceed as the universe intends, and neither good nor bad luck is possible.
@@ -39,13 +39,14 @@ Because Fate does not use dice (see The Law of Fate, below) there may be enemies
 "ac_class": "natural armor"
 "hp": !!int "136"
 "hit_dice": "16d8 + 64"
+"modifier": !!int "1"
 "stats":
-- !!int "16"
-- !!int "12"
-- !!int "18"
-- !!int "15"
-- !!int "14"
-- !!int "10"
+  - !!int "16"
+  - !!int "12"
+  - !!int "18"
+  - !!int "15"
+  - !!int "14"
+  - !!int "10"
 "speed": "40 ft., fly 30 ft. (hover)"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
@@ -54,31 +55,31 @@ Because Fate does not use dice (see The Law of Fate, below) there may be enemies
 "languages": "all those of the creature who summoned it"
 "cr": "8"
 "traits":
-- "desc": "Fate does not make attack rolls, always using as 12 as its result (before\
-    \ applying bonuses) and cannot be affected by advantage or disadvantage. Fate\
-    \ does not roll damage, instead always taking the average result, though damage\
-    \ dice are listed so the average can be calculated."
-  "name": "The Law of Fate"
-- "desc": "The Inexorables have disadvantage on all saving throws against spells."
-  "name": "Chaos Vulnerability"
-- "desc": "The Inexorables are immune to any effects that would slow them or deny\
-    \ them actions or movement."
-  "name": "Inexorable"
+  - "desc": "Fate does not make attack rolls, always using as 12 as its result (before\
+      \ applying bonuses) and cannot be affected by advantage or disadvantage. Fate\
+      \ does not roll damage, instead always taking the average result, though damage\
+      \ dice are listed so the average can be calculated."
+    "name": "The Law of Fate"
+  - "desc": "The Inexorables have disadvantage on all saving throws against spells."
+    "name": "Chaos Vulnerability"
+  - "desc": "The Inexorables are immune to any effects that would slow them or deny\
+      \ them actions or movement."
+    "name": "Inexorable"
 "actions":
-- "desc": "Fate makes three slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8\
-    \ + 3) bludgeoning damage."
-  "name": "Slam"
-- "desc": "Fate fires a beam of Destiny Light at a target it can see within 60 feet.\
-    \ The target must make a DC 13 Constitution saving throw. On a failed save, it\
-    \ takes 36 (8d8) necrotic damage, and it only deals average damage and uses 10\
-    \ for its attack rolls (before bonuses) for the next 10 minutes. On a successful\
-    \ save, it takes half as much damage, and its attack and damage rolls are not\
-    \ affected."
-  "name": "The Destiny Light (Recharge 5-6)"
+  - "desc": "Fate makes three slam attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
+      \ (2d8 + 3) bludgeoning damage."
+    "name": "Slam"
+  - "desc": "Fate fires a beam of Destiny Light at a target it can see within 60 feet.\
+      \ The target must make a DC 13 Constitution saving throw. On a failed save,\
+      \ it takes 36 (8d8) necrotic damage, and it only deals average damage and uses\
+      \ 10 for its attack rolls (before bonuses) for the next 10 minutes. On a successful\
+      \ save, it takes half as much damage, and its attack and damage rolls are not\
+      \ affected."
+    "name": "The Destiny Light (Recharge 5-6)"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Fate.png"
 ```
 ^statblock

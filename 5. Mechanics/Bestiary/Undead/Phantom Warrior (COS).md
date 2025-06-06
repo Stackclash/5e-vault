@@ -13,7 +13,7 @@ tags:
 aliases:
   - Phantom Warrior
 ---
-# [[5. Mechanics/Bestiary/Undead/Phantom Warrior (COS).md|Phantom Warrior]]
+# [[5. Mechanics\Bestiary\Undead\Phantom Warrior (COS).md|Phantom Warrior]]
 *Source: Curse of Strahd p. 235*
 
 A phantom warrior is the spectral remnant of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.
@@ -24,7 +24,7 @@ Although one is often mistaken for a ghost, a phantom warrior isn't bound by a y
 
 ## Faded Memories
 
-A phantom warrior retains the alignment and personality it had before it died, and it remembers how it died. Memories of its life from shortly before it died are hazy, and older memories are forgotten. A phantom warrior can usually remember the last `dice:1d10+10|noform|avg` (`1d10 + 10`) days of its life; everything that happened before that is an impenetrable fog.
+A phantom warrior retains the alignment and personality it had before it died, and it remembers how it died. Memories of its life from shortly before it died are hazy, and older memories are forgotten. A phantom warrior can usually remember the last `dice:1d10+10|noform|noparens|avg` (`1d10 + 10`) days of its life; everything that happened before that is an impenetrable fog.
 
 ## Forceful Presence
 
@@ -42,17 +42,20 @@ A phantom warrior doesn't require air, food, drink, or sleep.
 "ac": !!int "16"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
+"modifier": !!int "0"
 "stats":
-- !!int "16"
-- !!int "11"
-- !!int "16"
-- !!int "8"
-- !!int "10"
-- !!int "15"
+  - !!int "16"
+  - !!int "11"
+  - !!int "16"
+  - !!int "8"
+  - !!int "10"
+  - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -64,28 +67,28 @@ A phantom warrior doesn't require air, food, drink, or sleep.
 "languages": "any languages it knew in life"
 "cr": "3"
 "traits":
-- "desc": "The phantom warrior can see 60 feet into the Ethereal Plane when it is\
-    \ on the Material Plane, and vice versa."
-  "name": "Ethereal Sight"
-- "desc": "The phantom warrior can move through other creatures and objects as if\
-    \ they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn\
-    \ inside an object."
-  "name": "Incorporeal Movement"
-- "desc": "The phantom warrior's AC accounts for its spectral armor and shield."
-  "name": "Spectral Armor and Shield"
+  - "desc": "The phantom warrior can see 60 feet into the Ethereal Plane when it is\
+      \ on the Material Plane, and vice versa."
+    "name": "Ethereal Sight"
+  - "desc": "The phantom warrior can move through other creatures and objects as if\
+      \ they were difficult terrain. It takes 5 (d10) force damage if it ends its\
+      \ turn inside an object."
+    "name": "Incorporeal Movement"
+  - "desc": "The phantom warrior's AC accounts for its spectral armor and shield."
+    "name": "Spectral Armor and Shield"
 "actions":
-- "desc": "The phantom warrior makes two attacks with its spectral longsword."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
-    \ + 3) force damage."
-  "name": "Spectral Longsword"
-- "desc": "The phantom warrior enters the Ethereal Plane from the Material Plane,\
-    \ or vice versa. It is visible on the Material Plane while it is in the Border\
-    \ Ethereal, and vice versa, yet it can't affect or be affected by anything on\
-    \ the other plane."
-  "name": "Etherealness"
+  - "desc": "The phantom warrior makes two attacks with its spectral longsword."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+      \ + 3) force damage."
+    "name": "Spectral Longsword"
+  - "desc": "The phantom warrior enters the Ethereal Plane from the Material Plane,\
+      \ or vice versa. It is visible on the Material Plane while it is in the Border\
+      \ Ethereal, and vice versa, yet it can't affect or be affected by anything on\
+      \ the other plane."
+    "name": "Etherealness"
 "source":
-- "CoS"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Undead/token/phantom-warrior-cos.webp"
 ```
 ^statblock

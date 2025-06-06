@@ -8,6 +8,7 @@ tags:
 aliases:
   - Iron Spikes (10)
 cost: 100
+weight: 5
 ---
 # Iron Spikes (10)
 *Adventuring gear*  

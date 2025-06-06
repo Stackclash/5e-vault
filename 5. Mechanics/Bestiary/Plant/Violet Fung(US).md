@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: underdark
 size: Medium
 tags:
@@ -14,10 +14,10 @@ tags:
 aliases:
   - Violet Fungus
 ---
-# [[5. Mechanics/Bestiary/Plant/Violet Fung(US).md|Violet Fungus]]
+# [[5. Mechanics\Bestiary\Plant\Violet Fung(US).md|Violet Fungus]]
 *Source: Monster Manual p. 138. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
-This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in `dice:2d6|noform|avg` (`2d6`) days.
+This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in `dice:2d6|noform|noparens|avg` (`2d6`) days.
 
 ## Fungi
 
@@ -35,13 +35,14 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 "ac": !!int "5"
 "hp": !!int "18"
 "hit_dice": "4d8"
+"modifier": !!int "-5"
 "stats":
-- !!int "3"
-- !!int "1"
-- !!int "10"
-- !!int "1"
-- !!int "3"
-- !!int "1"
+  - !!int "3"
+  - !!int "1"
+  - !!int "10"
+  - !!int "1"
+  - !!int "3"
+  - !!int "1"
 "speed": "5 ft."
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
@@ -49,17 +50,17 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "While the violet fungus remains motionless, it is indistinguishable from\
-    \ an ordinary fungus."
-  "name": "False Appearance"
+  - "desc": "While the violet fungus remains motionless, it is indistinguishable from\
+      \ an ordinary fungus."
+    "name": "False Appearance"
 "actions":
-- "desc": "The fungus makes 1d4 Rotting Touch attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +2 to hit, reach 10 ft., one creature. Hit: 4\
-    \ (1d8) necrotic damage."
-  "name": "Rotting Touch"
+  - "desc": "The fungus makes d4 Rotting Touch attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +2 to hit, reach 10 ft., one creature. Hit:\
+      \ 4 (d8) necrotic damage."
+    "name": "Rotting Touch"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Plant/token/violet-fungus.webp"
 ```
 ^statblock

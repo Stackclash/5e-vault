@@ -118,43 +118,48 @@ actions:
 "ac_class": "natural armor"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
+"modifier": !!int "-1"
 "stats":
-- !!int "12"
-- !!int "9"
-- !!int "15"
-- !!int "9"
-- !!int "10"
-- !!int "6"
+  - !!int "12"
+  - !!int "9"
+  - !!int "15"
+  - !!int "9"
+  - !!int "10"
+  - !!int "6"
 "speed": "20 ft."
 "skillsaves":
-  "Deception": !!int "2"
-  "Stealth": !!int "3"
-  "Perception": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+3"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "1/4"
 "traits":
-- "desc": "The mongrelfolk can climb difficult surfaces, including upside down on\
-    \ ceilings, without needing to make an ability check."
-  "name": "Spider Climb"
-- "desc": "Mishka can mimic any sounds it has heard, including voices. A creature\
-    \ that hears the sounds can tell they are imitations with a successful DC 12 Wisdom\
-    \ ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]]) check."
-  "name": "Mimicry"
+  - "desc": "The mongrelfolk can climb difficult surfaces, including upside down on\
+      \ ceilings, without needing to make an ability check."
+    "name": "Spider Climb"
+  - "desc": "Mishka can mimic any sounds it has heard, including voices. A creature\
+      \ that hears the sounds can tell they are imitations with a successful DC 12\
+      \ Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]]) check."
+    "name": "Mimicry"
 "actions":
-- "desc": "Mishka makes two attacks: one with its bite and one with its claw or dagger."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
-    \ + 1) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
-    \ + 1) slashing damage."
-  "name": "Claw"
-- "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
-    \ ft., one target. Hit: 3 (1d4 + 1) piercing damage."
-  "name": "Dagger"
+  - "desc": "Mishka makes two attacks: one with its bite and one with its claw or\
+      \ dagger."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+      \ + 1) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+      \ + 1) slashing damage."
+    "name": "Claw"
+  - "desc": "Melee  or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. Hit: 3 (1d4 + 1) piercing damage."
+    "name": "Dagger"
 "source":
-- "CoS"
+  - "CoS"
 "image": "4. World Almanac/NPCs/token/mishka-belview-cos.webp"
 ```
 ^statblock

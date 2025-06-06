@@ -10,4 +10,4 @@ aliases:
 
 ## 1st Level
 
-- [[Speak With Animals \|"PHB"]]
+- [[5. Mechanics/Spells/Speak With Animals.md \|"PHB"]]

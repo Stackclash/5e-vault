@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/eberron
   - domain/war
+alignment: Neutral Evil
+category: The Dark Six
+domains: War
+pantheon: Eberron
+symbol: Winged wyrm with woman's head and upper body
 aliases:
   - The Fury
 ---

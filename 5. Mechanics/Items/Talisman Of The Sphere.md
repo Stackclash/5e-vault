@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Talisman of the Sphere
+weight: 1
 ---
 # Talisman of the Sphere
 *Wondrous item, major, legendary (requires attunement)*  

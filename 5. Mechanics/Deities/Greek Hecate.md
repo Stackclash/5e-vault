@@ -7,6 +7,10 @@ tags:
   - domain/arcana
   - domain/knowledge
   - domain/trickery
+alignment: Chaotic Evil
+domains: 'Knowledge, Trickery, Arcana'
+pantheon: Greek
+symbol: Setting moon
 aliases:
   - Hecate
 ---

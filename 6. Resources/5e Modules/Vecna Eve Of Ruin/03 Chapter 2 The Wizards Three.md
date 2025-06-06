@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/veor
 aliases:
-  - 'Chapter 2: The Wizards Three'
+  - Chapter 2: The Wizards Three
 ---
 # Chapter 2: The Wizards Three
 *Source: Vecna: Eve of Ruin* 
@@ -134,7 +134,7 @@ The following locations are keyed to map 2.1.
 
 This section of the sanctum holds Alustriel's collection of rare books. The books aren't magical, but the characters can use them to research any esoteric topic.
 
-If a character researches a specific topic, roll a `dice:d4|noform|avg` (`d4`). On a roll of 1 or 2, the character finds information about the topic. At your discretion, this might grant the character advantage for the rest of the day on any ability checks made to recall or use the information they've learned.
+If a character researches a specific topic, roll a `dice:d4|noform|noparens|avg` (`d4`). On a roll of 1 or 2, the character finds information about the topic. At your discretion, this might grant the character advantage for the rest of the day on any ability checks made to recall or use the information they've learned.
 
 #### S2: Parlor
 
@@ -419,7 +419,7 @@ To convince unwelcome visitors that this cave is unused, the facility's cultists
 
 ##### Traps
 
-The gleams in the northern part of the chamber are magical traps placed on fist-size, fake rubies tucked conspicuously next to two skeletons. The fake rubies are fixed to the floor and can't be removed. Any character who touches one of the rubies must make a DC 20 Dexterity saving throw, taking `dice:12d8|noform|avg|text(54)` (`12d8`) lightning damage on a failed save or half as much damage on a successful one.
+The gleams in the northern part of the chamber are magical traps placed on fist-size, fake rubies tucked conspicuously next to two skeletons. The fake rubies are fixed to the floor and can't be removed. Any character who touches one of the rubies must make a DC 20 Dexterity saving throw, taking `dice:12d8|noform|noparens|avg|text(54)` (`12d8`) lightning damage on a failed save or half as much damage on a successful one.
 
 The traps can't be disabled, but a character who comes within 5 feet of one of the rubies and examines it can make a DC 18 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. On a success, the character deduces that the ruby is fake, worthless, and magically trapped to release a violent electric shock.
 
@@ -463,7 +463,7 @@ Grottenelle needs the glabrezu to assist in the operation being planned in area 
 
 ##### Treasure
 
-Grottenelle's table holds a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Circle Of Death.md\|Circle of Death]], an ornate [[5. Mechanics/Items/2 Weapon.md\|+2 Dagger]], and an assortment of unguents and oils worth 500 gp.
+Grottenelle's table holds a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Circle Of Death.md\|Circle of Death]], an ornate [[5. Mechanics/Items/2 Weapon.md\|+2 Dagger]], and an assortment of unguents and oils worth 500 gp.
 
 #### W4: Corridor
 
@@ -618,7 +618,7 @@ Each chest contains a ceremonial holy symbol of Lolth worth 50 gp. The chest nea
 
 ##### Desk
 
-A [[5. Mechanics/Spells/Detect Magic.md\|Detect Magic]] spell reveals an aura of conjuration magic around the desk, which bears a magical trap. Any character who touches the desk releases a swarm of spiders and must make a DC 18 Dexterity saving throw, taking `dice:8d4|noform|avg|text(20)` (`8d4`) poison damage on a failed save or half as much damage on a successful one. The trap triggers once, after which the spiders disappear and the desk becomes nonmagical. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the desk removes the trap.
+A [[5. Mechanics/Spells/Detect Magic.md\|Detect Magic]] spell reveals an aura of conjuration magic around the desk, which bears a magical trap. Any character who touches the desk releases a swarm of spiders and must make a DC 18 Dexterity saving throw, taking `dice:8d4|noform|noparens|avg|text(20)` (`8d4`) poison damage on a failed save or half as much damage on a successful one. The trap triggers once, after which the spiders disappear and the desk becomes nonmagical. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the desk removes the trap.
 
 The desk contains notes about covert missions the Lolth worshipers are planning in the next few months. Additionally, it contains gold- and gem-encrusted, spider-shaped knickknacks worth 500 gp total.
 
@@ -652,7 +652,7 @@ Standing near Ker-arach is a [[5. Mechanics/Bestiary/Fiend/Yochlol.md\|yochlol]]
 
 The web in the center of the cavern is made of ultra-strong, ultra-sticky strands of Ker-arach's silk. Additionally, Ker-arach has spun other, smaller webs throughout the area. The webs are "difficult terrain". Any creature that enters the webbing for the first time on a turn or ends its turn there must succeed on a DC 12 Strength saving throw or it becomes stuck and has the [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] condition. As an action, a creature can try to pull itself or another creature within its reach from the webbing, doing so with a successful DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. A creature freed in this way is no longer restrained by the webbing.
 
-The webs are flammable. Any 5-foot cube of webs exposed to fire burns away, dealing `dice:2d4|noform|avg|text(5)` (`2d4`) fire damage to any creature in that area.
+The webs are flammable. Any 5-foot cube of webs exposed to fire burns away, dealing `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) fire damage to any creature in that area.
 
 ##### Retrieving the Rod Piece
 

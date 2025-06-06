@@ -87,4 +87,4 @@ For the sake of simplicity and efficiency, it's a good idea to require that begi
 
 A shared campaign might use some variant rules to handle certain aspects of the game. The Adventurers League, for instance, has variant systems for gaining levels and acquiring treasure. These "house rules," presented below, serve as a sort of common language, ensuring that the rewards all characters receive are equivalent no matter what kind of adventure a character experienced.
 
-See the [[/5. Mechanics/Rules/Variant Rules/Shared Campaign Variant Rules (XGE).md\|Shared Campaign Variant Rules]] entry for more information.
+See the [[/5. Mechanics/Rules/Variant Rules/Shared Campaign Variant Rules (XGE).md\|variant rules]] entry for more information.

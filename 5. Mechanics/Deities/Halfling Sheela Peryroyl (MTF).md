@@ -6,6 +6,11 @@ tags:
   - deity/halfling
   - domain/nature
   - domain/tempest
+alignment: Neutral Good
+domains: 'Nature, Tempest'
+pantheon: Halfling
+province: 'Agriculture, nature, weather'
+symbol: A flower
 aliases:
   - Sheela Peryroyl
 ---

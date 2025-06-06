@@ -15,7 +15,7 @@ aliases:
 
 This horn is made from a seashell. A dark metal lip and sculpted octopus hang to the open mouth of the horn. You can breathe underwater while holding the horn so long as you inhale through it.
 
-The horn has 3 charges and regains `dice:1d3|noform|avg` (`1d3`) expended charges daily at dawn. You can use an action to expend 1 of the horn's charges to blow it, releasing a cloud of ink from it in a 15-foot cone: the nature of the ink changes depending on whether it's above or below the water.
+The horn has 3 charges and regains `dice:1d3|noform|noparens|avg` (`d3`) expended charges daily at dawn. You can use an action to expend 1 of the horn's charges to blow it, releasing a cloud of ink from it in a 15-foot cone: the nature of the ink changes depending on whether it's above or below the water.
 
 ## Above Water:
 

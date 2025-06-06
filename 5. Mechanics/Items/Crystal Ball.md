@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Crystal Ball
+weight: 3
 ---
 # Crystal Ball
 *Wondrous item, major, very rare (requires attunement)*  

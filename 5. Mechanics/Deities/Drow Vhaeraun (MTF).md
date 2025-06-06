@@ -6,6 +6,12 @@ tags:
   - deity/drow
   - domain/trickery
   - domain/war
+alignment: Chaotic Evil
+category: The Dark Seldarine
+domains: 'Trickery, War'
+pantheon: Drow
+province: 'Arrogance, thieves'
+symbol: Black mask with blue glass lenses inset over eyes
 aliases:
   - Vhaeraun
 ---

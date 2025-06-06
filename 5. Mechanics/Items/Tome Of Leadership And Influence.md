@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Tome of Leadership and Influence
+weight: 5
 ---
 # Tome of Leadership and Influence
 *Wondrous item, major, very rare*  

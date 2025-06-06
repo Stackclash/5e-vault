@@ -8,6 +8,7 @@ tags:
 aliases:
   - Woodcarver's Tools
 cost: 100
+weight: 5
 ---
 # Woodcarver's Tools
 *Artisan's tools*  

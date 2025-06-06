@@ -10,13 +10,14 @@ tags:
   - item/weapon/simple
 aliases:
   - Sickle of Cunning
-one-hand-damage: 1d4 S
+one-hand-damage: 1d4 slashing
+weight: 2
 ---
 # Sickle of Cunning
 *Weapon ([[5. Mechanics/Items/Sickle.md\|sickle]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Sickle-of-Cunning.webp#right)  
 
-- **Damage**: 1d4 S
+- **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
 

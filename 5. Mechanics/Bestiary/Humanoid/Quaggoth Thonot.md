@@ -14,7 +14,7 @@ tags:
 aliases:
   - Quaggoth Thonot
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Quaggoth Thonot.md|Quaggoth Thonot]]
+# [[5. Mechanics\Bestiary\Humanoid\Quaggoth Thonot.md|Quaggoth Thonot]]
 *Source: Monster Manual p. 256*
 
 Savage and territorial, quaggoths climb the chasms of the Underdark. They maul their foes in a frenzy, becoming even more murderous in the face of death.
@@ -49,41 +49,43 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 "ac_class": "natural armor"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
+"modifier": !!int "1"
 "stats":
-- !!int "17"
-- !!int "12"
-- !!int "16"
-- !!int "6"
-- !!int "12"
-- !!int "7"
+  - !!int "17"
+  - !!int "12"
+  - !!int "16"
+  - !!int "6"
+  - !!int "12"
+  - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Athletics": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
+    "desc": "+5"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
-- "desc": "The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11).\
-    \ The quaggoth can innately cast the following spells, requiring no components:\n\
-    \nAt will: [[5. Mechanics/Spells/Feather Fall.md|feather fall]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
-    \ (the hand is invisible)\n\n1/day each: [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
-    \ [[5. Mechanics/Spells/Enlarge Reduce.md|enlarge/reduce]], [[5. Mechanics/Spells/Heat Met(AL).md|heat metal]],\
-    \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]]"
-  "name": "Innate Spellcasting (Psionics)"
-- "desc": "While it has 10 hit points or fewer, the quaggoth has advantage on attack\
-    \ rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with\
-    \ a melee attack."
-  "name": "Wounded Fury"
+  - "desc": "The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11).\
+      \ The quaggoth can innately cast the following spells, requiring no components:\n\
+      \nAt will: [[5. Mechanics/Spells/Feather Fall.md|feather fall]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
+      \ (the hand is invisible)\n\n1/day each: [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
+      \ [[5. Mechanics/Spells/Enlarge Reduce.md|enlarge/reduce]], [[5. Mechanics/Spells/Heat Met(AL).md|heat metal]],\
+      \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]]"
+    "name": "Innate Spellcasting (Psionics)"
+  - "desc": "While it has 10 hit points or fewer, the quaggoth has advantage on attack\
+      \ rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits\
+      \ with a melee attack."
+    "name": "Wounded Fury"
 "actions":
-- "desc": "The quaggoth makes two claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
-    \ + 3) slashing damage."
-  "name": "Claw"
+  - "desc": "The quaggoth makes two claw attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+      \ + 3) slashing damage."
+    "name": "Claw"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/quaggoth-thonot.webp"
 ```
 ^statblock

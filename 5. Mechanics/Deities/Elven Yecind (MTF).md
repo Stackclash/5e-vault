@@ -6,6 +6,12 @@ tags:
   - deity/elven
   - domain/life
   - domain/trickery
+alignment: Chaotic Good
+category: The Seldarine
+domains: 'Life, Trickery'
+pantheon: Elven
+province: 'Music, enchantment'
+symbol: Recorder
 aliases:
   - Ye'Cind
 ---

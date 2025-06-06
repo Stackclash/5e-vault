@@ -11,7 +11,7 @@ aliases:
 *Source: Strongholds and Followers*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/topaz-dragonborn-wizard.webp#right)  
 
-- **Ability Scores**: Intelligence +2, Wisdom +1
+- **Ability Scores**: Intelligence +2; Wisdom +1
 - **Size**: Medium
 - **Speed**: 30 ft.
 

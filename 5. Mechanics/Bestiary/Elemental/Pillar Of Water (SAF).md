@@ -13,7 +13,7 @@ tags:
 aliases:
   - Pillar of Water
 ---
-# [[5. Mechanics/Bestiary/Elemental/Pillar Of Water (SAF).md|Pillar of Water]]
+# [[5. Mechanics\Bestiary\Elemental\Pillar Of Water (SAF).md|Pillar of Water]]
 *Source: Strongholds and Followers p. 189*
 
 If the Sources are watchmen of Alloy, the Pillars are the jailors. They spring from the ground, imprisoning those caught violating the law of the Lady. Like the Sources, they have an attitude, but not much actual personality.
@@ -39,17 +39,18 @@ The Pillar can imprison up to four creatures, but it doesn't have to. If there's
 "ac_class": "natural armor"
 "hp": !!int "149"
 "hit_dice": "13d10 + 78"
+"modifier": !!int "-3"
 "stats":
-- !!int "18"
-- !!int "5"
-- !!int "22"
-- !!int "11"
-- !!int "15"
-- !!int "11"
+  - !!int "18"
+  - !!int "5"
+  - !!int "22"
+  - !!int "11"
+  - !!int "15"
+  - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Strength": !!int "7"
-  "Constitution": !!int "9"
+  - "strength": "+7"
+  - "constitution": "+9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -59,29 +60,29 @@ The Pillar can imprison up to four creatures, but it doesn't have to. If there's
 "languages": "Aquan"
 "cr": "7"
 "traits":
-- "desc": "Enemies beginning their turn within 15 feet of the pillar must make a DC\
-    \ 15 Strength check or be pushed 10 feet away from the pillar. The ground within\
-    \ 15 feet of the Pillar is difficult terrain for all enemies attempting to move\
-    \ toward the pillar."
-  "name": "Constant Flood"
-- "desc": "When summoned, the Pillar of Water appears in a 10-by-10-foot space. All\
-    \ creatures in that area must make Dexterity saving throws. On a failure, a creature\
-    \ is suspended in the column of water. On a success, a creature is pushed to an\
-    \ empty space adjacent to the pillar.\n\nUp to four Medium creatures, or one Large\
-    \ creature, can be contained in the pillar. Creatures suspended in the pillar\
-    \ can't breathe unless they can breathe water, are [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
-    \ and take 21 (6d6) bludgeoning damage at the start of each of the pillar's turns.\n\
-    \nAs an action, a [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] creature\
-    \ can make a DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
-    \ check. On a success, it escapes from the column of water."
-  "name": "Geyser"
+  - "desc": "Enemies beginning their turn within 15 feet of the pillar must make a\
+      \ DC 15 Strength check or be pushed 10 feet away from the pillar. The ground\
+      \ within 15 feet of the Pillar is difficult terrain for all enemies attempting\
+      \ to move toward the pillar."
+    "name": "Constant Flood"
+  - "desc": "When summoned, the Pillar of Water appears in a 10-by-10-foot space.\
+      \ All creatures in that area must make Dexterity saving throws. On a failure,\
+      \ a creature is suspended in the column of water. On a success, a creature is\
+      \ pushed to an empty space adjacent to the pillar.\n\nUp to four Medium creatures,\
+      \ or one Large creature, can be contained in the pillar. Creatures suspended\
+      \ in the pillar can't breathe unless they can breathe water, are [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
+      \ and take 21 (6d6) bludgeoning damage at the start of each of the pillar's\
+      \ turns.\n\nAs an action, a [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
+      \ creature can make a DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
+      \ check. On a success, it escapes from the column of water."
+    "name": "Geyser"
 "actions":
-- "desc": "As a bonus action, the pillar disappears, depositing any suspended creatures\
-    \ on the ground, [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. On its summoner's\
-    \ next turn, it appears again anywhere within 60 feet of the summoner."
-  "name": "Reform"
+  - "desc": "As a bonus action, the pillar disappears, depositing any suspended creatures\
+      \ on the ground, [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. On its summoner's\
+      \ next turn, it appears again anywhere within 60 feet of the summoner."
+    "name": "Reform"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Pillar%20of%20Water.png"
 ```
 ^statblock

@@ -8,7 +8,7 @@ aliases:
   - Arcane Archer
 ---
 # Arcane Archer
-*[[Fighter.md\|Fighter]]: Martial Archetype*  
+*[[.nullFighter.md\|Fighter]]: Martial Archetype*  
 *Source: Xanathar's Guide to Everything p. 28*  
 
 > [!tldr] Class and Feature Progression
@@ -20,27 +20,36 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Arcane%20Archer%20(Level%203)'>Arcane Archer</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Arcane Archer (Level 3)' class='internal-link'>Arcane Archer</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Magic%20Arrow%20(Level%207)'>Magic Arrow</a>, <a href='#Curving%20Shot%20(Level%207)'>Curving Shot</a>, <a href='#Additional%20Arcane%20Shot%20Option%20(Level%207)'>Additional Arcane Shot Option</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Magic Arrow (Level 7)' class='internal-link'>Magic Arrow</a>, <a href='#Curving Shot (Level 7)' class='internal-link'>Curving Shot</a>, <a href='#Additional Arcane Shot Option (Level 7)' class='internal-link'>Additional Arcane Shot Option</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Additional%20Arcane%20Shot%20Option%20(Level%2010)'>Additional Arcane Shot Option</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Additional Arcane Shot Option (Level 10)' class='internal-link'>Additional Arcane Shot Option</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Ever-Ready%20Shot%20(Level%2015)'>Ever-Ready Shot</a>, <a href='#Additional%20Arcane%20Shot%20Option%20(Level%2015)'>Additional Arcane Shot Option</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Ever-Ready Shot (Level 15)' class='internal-link'>Ever-Ready Shot</a>, <a href='#Additional Arcane Shot Option (Level 15)' class='internal-link'>Additional Arcane Shot Option</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Additional%20Arcane%20Shot%20Option%20(Level%2018)'>Additional Arcane Shot Option</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Additional Arcane Shot Option (Level 18)' class='internal-link'>Additional Arcane Shot Option</a></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
 
+^class-progression
+
+
+> [!quote] A quote from Xanathar  
+> 
+> Arrows are the worst. They go much farther than eye rays. That's why I stay indoors all the time. Besides, the sky is totally overrated.
+
+> [!quote] A quote from Xanathar  
+> 
+> So there are different names for different sorts of people who swing swords? Why? Let me try: big sword swinger and tiny sword swinger. No, that sounds like it's the size of the sword that matters. How about: big meat bag with a sword and little meat bag with a sword!
 
 ## Class Features
 
@@ -66,7 +75,7 @@ The Arcane Shot feature lets you choose options for it at certain levels. The op
 
 If an option requires a saving throw, your Arcane Shot save DC is calculated as follows:
 
-<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Intelligence modifier</span>
+<span class='abilityDc'>**Arcane Shot save DC**: your proficiency bonus + your Intelligence</span>
 
 ### Magic Arrow (Level 7)
 

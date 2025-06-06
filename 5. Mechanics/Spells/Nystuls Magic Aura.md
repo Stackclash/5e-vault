@@ -11,22 +11,33 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/fey-soul
   - spell/subclass/oath-of-the-spelldrinker
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of the Spelldrinker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Fey Soul)
+  - Wizard
 school: Illusion
-time: 1 action
-duration: 24 hour
-components: 'V, S, a small square of silk'
+level: 2
+ritual: false
+time: 1 Action
+duration: 24 hours
+components:
+  - V
+  - S
+  - M
 aliases:
   - Nystul's Magic Aura
+material: a small square of silk
 ---
 # Nystul's Magic Aura
 *2nd-level, Illusion*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, a small square of silk
-- **Duration:** 24 hour
+- **Components:** V, S, M (a small square of silk)
+- **Duration:** 24 hours
 
 You place an illusion on a creature or an object you touch so that divination spells reveal false information about it. The target can be a willing creature or an object that isn't being carried or worn by another creature.
 
@@ -42,6 +53,6 @@ You change the way the target appears to spells and magical effects that detect 
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Sorcerer Fey Soul (GRIFFONSSADDLEBAG3)\|Sorcerer (Fey Soul)]]; [[List Spells Classes Paladin Oath Of The Spelldrinker (GRIFFONSSADDLEBAG2)\|Paladin (Oath of the Spelldrinker)]]
+**Classes**: [Sorcerer (Fey Soul)](compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Spelldrinker)](compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2")
 
 *Source: Player's Handbook p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Arcanist's Magic Aura")*

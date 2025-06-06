@@ -6,6 +6,12 @@ tags:
   - deity/drow
   - domain/tempest
   - domain/trickery
+alignment: Chaotic Evil
+category: The Dark Seldarine
+domains: 'Tempest, Trickery'
+pantheon: Drow
+province: 'Chaos, rebellion, wild magic'
+symbol: A flame in a tear or a multihued vortex
 aliases:
   - Malyk
 ---

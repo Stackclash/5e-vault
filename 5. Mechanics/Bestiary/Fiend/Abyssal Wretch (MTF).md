@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Abyssal Wretch
 ---
-# [[5. Mechanics/Bestiary/Fiend/Abyssal Wretch (MTF).md|Abyssal Wretch]]
+# [[5. Mechanics\Bestiary\Fiend\Abyssal Wretch (MTF).md|Abyssal Wretch]]
 *Source: Mordenkainen's Tome of Foes p. 136*
 
 ```statblock
@@ -25,13 +25,14 @@ aliases:
 "ac": !!int "11"
 "hp": !!int "18"
 "hit_dice": "4d8"
+"modifier": !!int "1"
 "stats":
-- !!int "9"
-- !!int "12"
-- !!int "11"
-- !!int "5"
-- !!int "8"
-- !!int "5"
+  - !!int "9"
+  - !!int "12"
+  - !!int "11"
+  - !!int "5"
+  - !!int "8"
+  - !!int "5"
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
@@ -41,11 +42,11 @@ aliases:
 "languages": "understands Abyssal but can't speak"
 "cr": "1/4"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
-    \ + 1) slashing damage."
-  "name": "Bite"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
+      \ + 1) slashing damage."
+    "name": "Bite"
 "source":
-- "MTF"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Fiend/token/abyssal-wretch-mtf.webp"
 ```
 ^statblock

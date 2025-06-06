@@ -23,7 +23,7 @@ _Source: Mordenkainen's Tome of Foes_
 The region containing Zariel's lair is warped by her magic, which creates one or more of the following effects:
 
 - The area within 9 miles of the lair is filled with screaming voices and the stench of burning meat.  
-- Once every 60 feet within 1 mile of the lair, 10-foot-high gouts of flame rise from the ground. Any creature or object that touches the flame takes `dice:2d6|noform|avg|text(7)` (`2d6`) fire damage, though it can take this damage no more than once per round.  
+- Once every 60 feet within 1 mile of the lair, 10-foot-high gouts of flame rise from the ground. Any creature or object that touches the flame takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) fire damage, though it can take this damage no more than once per round.  
 - The area within 2 miles, but no closer than 500 feet, of the lair is filled with smoke, which causes the area to be heavily obscured. The smoke can't be cleared away.  
 
-If Zariel dies, these effects fade over the course of `dice:1d10|noform|avg` (`1d10`) days.
+If Zariel dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`d10`) days.

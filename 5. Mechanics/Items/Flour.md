@@ -8,6 +8,7 @@ tags:
 aliases:
   - Flour
 cost: 2
+weight: 1
 ---
 # Flour
 *Trade good*  

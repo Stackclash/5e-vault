@@ -13,7 +13,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Trappers-Bag.webp#right)  
 
 
-This bag clatters around when shaken. Around its base is a toothed, metal rim. Inside the bag is a special demiplane that holds a variety of miscellaneous trapping and adventuring equipment. You can use an action to reach into the bag and pull out up to four random items. Roll a `dice:d8|noform|avg` (`d8`) for each item you take from the bag and use the table below to determine what each one is.
+This bag clatters around when shaken. Around its base is a toothed, metal rim. Inside the bag is a special demiplane that holds a variety of miscellaneous trapping and adventuring equipment. You can use an action to reach into the bag and pull out up to four random items. Roll a `dice:d8|noform|noparens|avg` (`d8`) for each item you take from the bag and use the table below to determine what each one is.
 
 `dice: [[Trappers Bag (GRIFFONSSADDLEBAG3).md#^item]]`
 

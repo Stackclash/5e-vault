@@ -19,6 +19,6 @@ aliases:
 *Rare*  
 
 
-When you roll a 20 on your attack roll with this weapon, you deal an additional `dice:10|noform|avg` (`10`) poison damage.
+When you roll a 20 on your attack roll with this weapon, you deal an additional `dice:10|noform|noparens|avg` (`10`) poison damage.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 144*

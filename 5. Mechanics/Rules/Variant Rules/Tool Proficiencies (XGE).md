@@ -173,7 +173,7 @@ With 1 minute of work and raw materials, you can make a door or window harder to
 
 #### Temporary Shelter
 
-As part of a long rest, you can construct a lean-to or a similar shelter to keep your group dry and in the shade for the duration of the rest. Because it was fashioned quickly from whatever wood was available, the shelter collapses `dice:1d3|noform|avg` (`1d3`) days after being assembled.
+As part of a long rest, you can construct a lean-to or a similar shelter to keep your group dry and in the shade for the duration of the rest. Because it was fashioned quickly from whatever wood was available, the shelter collapses `dice:1d3|noform|noparens|avg` (`d3`) days after being assembled.
 
 **Carpenter's Tools**
 

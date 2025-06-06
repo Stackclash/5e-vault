@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'underdark, grassland, forest, hill'
 size: Small
 tags:
@@ -17,7 +17,7 @@ tags:
 aliases:
   - Goblin
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Goblin.md|Goblin]]
+# [[5. Mechanics\Bestiary\Humanoid\Goblin.md|Goblin]]
 *Source: Monster Manual p. 166, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
@@ -61,33 +61,35 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 "ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "7"
 "hit_dice": "2d6"
+"modifier": !!int "2"
 "stats":
-- !!int "8"
-- !!int "14"
-- !!int "10"
-- !!int "10"
-- !!int "8"
-- !!int "8"
+  - !!int "8"
+  - !!int "14"
+  - !!int "10"
+  - !!int "10"
+  - !!int "8"
+  - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+6"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
 "cr": "1/4"
 "traits":
-- "desc": "The goblin can take the Disengage or Hide action as a bonus action on each\
-    \ of its turns."
-  "name": "Nimble Escape"
+  - "desc": "The goblin can take the Disengage or Hide action as a bonus action on\
+      \ each of its turns."
+    "name": "Nimble Escape"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) slashing damage."
-  "name": "Scimitar"
-- "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit:\
-    \ 5 (1d6 + 2) piercing damage."
-  "name": "Shortbow"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) slashing damage."
+    "name": "Scimitar"
+  - "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit:\
+      \ 5 (1d6 + 2) piercing damage."
+    "name": "Shortbow"
 "source":
-- "MM"
-- "TCE"
+  - "MM"
+  - "TCE"
 "image": "5. Mechanics/Bestiary/Humanoid/token/goblin.webp"
 ```
 ^statblock

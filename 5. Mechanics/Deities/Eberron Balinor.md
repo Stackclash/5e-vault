@@ -6,6 +6,11 @@ tags:
   - deity/eberron
   - domain/life
   - domain/nature
+alignment: Neutral
+category: The Sovereign Host
+domains: 'Life, Nature'
+pantheon: Eberron
+symbol: Pair of antlers
 aliases:
   - Balinor
 ---

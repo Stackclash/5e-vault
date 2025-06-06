@@ -7,19 +7,23 @@ tags:
   - spell/class/cleric
   - spell/level/7th-level
   - spell/school/transmutation
-level: 7th-level
-range: false
+classes:
+  - Bard
+  - Cleric
 school: Transmutation
-time: 1 action
+level: 7
+ritual: false
+time: 1 Action
 duration: 1 round
-components: V
+components:
+  - V
 aliases:
   - Time Jaunt
 ---
 # Time Jaunt
 *7th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** 1 round
@@ -60,6 +64,6 @@ Cleric pops back into view, occupying the space where *time jaunt* was cast, the
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 260*

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Awakened Shrub
 ---
-# [[5. Mechanics/Bestiary/Plant/Awakened Shrub.md|Awakened Shrub]]
+# [[5. Mechanics\Bestiary\Plant\Awakened Shrub.md|Awakened Shrub]]
 *Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 An awakened shrub is an ordinary shrub given sentience and mobility by the [[5. Mechanics/Spells/Awaken.md|awaken]] spell or similar magic.
@@ -27,13 +27,14 @@ An awakened shrub is an ordinary shrub given sentience and mobility by the [[5. 
 "ac": !!int "9"
 "hp": !!int "10"
 "hit_dice": "3d6"
+"modifier": !!int "-1"
 "stats":
-- !!int "3"
-- !!int "8"
-- !!int "11"
-- !!int "10"
-- !!int "10"
-- !!int "6"
+  - !!int "3"
+  - !!int "8"
+  - !!int "11"
+  - !!int "10"
+  - !!int "10"
+  - !!int "6"
 "speed": "20 ft."
 "damage_vulnerabilities": "fire"
 "damage_resistances": "piercing"
@@ -41,15 +42,15 @@ An awakened shrub is an ordinary shrub given sentience and mobility by the [[5. 
 "languages": "one language known by its creator"
 "cr": "0"
 "traits":
-- "desc": "While the shrub remains motionless, it is indistinguishable from a normal\
-    \ shrub."
-  "name": "False Appearance"
+  - "desc": "While the shrub remains motionless, it is indistinguishable from a normal\
+      \ shrub."
+    "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4\
-    \ - 1) slashing damage."
-  "name": "Rake"
+  - "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4\
+      \ - 1) slashing damage."
+    "name": "Rake"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Plant/token/awakened-shrub.webp"
 ```
 ^statblock

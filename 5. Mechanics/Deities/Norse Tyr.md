@@ -7,6 +7,10 @@ tags:
   - domain/knowledge
   - domain/order
   - domain/war
+alignment: Lawful Neutral
+domains: 'Knowledge, War, Order'
+pantheon: Norse
+symbol: Sword
 aliases:
   - Tyr
 ---

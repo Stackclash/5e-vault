@@ -9,6 +9,7 @@ aliases:
   - Leather Armor
 cost: 1000
 armorClass: 11 + Dex modifier
+weight: 10
 ---
 # Leather Armor
 *Light armor*  

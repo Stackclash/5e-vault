@@ -9,20 +9,21 @@ tags:
   - item/weapon/melee
 aliases:
   - Hammer of Thorns
-one-hand-damage: 1d8 B
-two-hand-damage: 1d10 B
+one-hand-damage: 1d8 bludgeoning
+two-hand-damage: 1d10 bludgeoning
+weight: 2
 ---
 # Hammer of Thorns
 *Weapon ([[5. Mechanics/Items/Warhammer.md\|warhammer]]), very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Hammer-of-Thorns.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d8 B
-  - Two-handed: 1d10 B
+  - One-handed: 1d8 bludgeoning
+  - Two-handed: 1d10 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 2.0 lbs.
 
-You gain a +2 bonus to attack and damage rolls made with this magic weapon. The hammer has 10 charges and regains `dice:1d8+2|noform|avg` (`1d8 + 2`) expended charges daily at dawn. If you're a druid, you are proficient with this weapon, and it always regains the maximum number of expended charges. Even though it's a warhammer, it can be targeted by the shillelagh spell.
+You gain a +2 bonus to attack and damage rolls made with this magic weapon. The hammer has 10 charges and regains `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) expended charges daily at dawn. If you're a druid, you are proficient with this weapon, and it always regains the maximum number of expended charges. Even though it's a warhammer, it can be targeted by the shillelagh spell.
 
 ## Wall of Thorns
 

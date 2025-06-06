@@ -21,6 +21,6 @@ From a distance, the fluffy, white heads of the whisper puff may make them seem 
 
 ## Effect:
 
-This herb has `dice:1d8|noform|avg` (`1d8`) charges. As a bonus action, you may use a charge to stuff one of the bulbs of this herb in your mouth. If you do so, you make no audible noise the next time you [[/5. Mechanics/Rules/Actions.md#Cast%20a%20Spell\|cast a spell]] that has a verbal component.
+This herb has `dice:1d8|noform|noparens|avg` (`d8`) charges. As a bonus action, you may use a charge to stuff one of the bulbs of this herb in your mouth. If you do so, you make no audible noise the next time you [[/5. Mechanics/Rules/Actions.md#Cast%20a%20Spell\|cast a spell]] that has a verbal component.
 
 *Source: Hamund's Herbalism Handbook p. 37*

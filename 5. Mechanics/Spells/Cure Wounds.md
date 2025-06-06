@@ -17,27 +17,41 @@ tags:
   - spell/subclass/divine-soul
   - spell/subclass/life-domain
   - spell/subclass/the-celestial
-level: 1st-level
-range: false
+classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Cleric (Life Domain)
+  - Druid
+  - Druid (Circle of Wildfire)
+  - Paladin
+  - Ranger
+  - Sorcerer (Divine Soul)
+  - Warlock (The Celestial)
 school: Evocation
-time: 1 action
+level: 1
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Cure Wounds
+range: Touch
 ---
 # Cure Wounds
 *1st-level, Evocation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A creature you touch regains a number of hit points equal to `dice:1d8|noform|avg` (`1d8`) + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A creature you touch regains a number of hit points equal to `dice:1d8|noform|noparens|avg` (`d8`) + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by `dice:1d8|noform|avg|text(1d8)` for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 1st.
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Druid Circle Of Wildfire (TCE)\|Druid (Circle of Wildfire)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Cleric Life Domain\|Cleric (Life Domain)]]; [[List Spells Classes Warlock The Celestial (XGE)\|Warlock (The Celestial)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Life Domain.md\|Cleric (Life Domain)]]; [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Wildfire)](compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Warlock (The Celestial)](compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

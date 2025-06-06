@@ -9,13 +9,14 @@ tags:
   - item/weapon/ranged
 aliases:
   - Automatic Rifle
-one-hand-damage: 2d8 P
-range: 80/240
+one-hand-damage: 2d8 piercing
+range: 80\240
+weight: 8
 ---
 # Automatic Rifle
 *Weapon*  
 
-- **Damage**: 2d8 P
+- **Damage**: 2d8 piercing
 - **Range**: 80/240
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Burst%20Fire\|Burst Fire]], [[/5. Mechanics/Rules/Item Properties.md#Reload\|Reload]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 8.0 lbs.

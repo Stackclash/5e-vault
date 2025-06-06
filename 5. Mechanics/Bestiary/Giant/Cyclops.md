@@ -19,7 +19,7 @@ tags:
 aliases:
   - Cyclops
 ---
-# [[5. Mechanics/Bestiary/Giant/Cyclops.md|Cyclops]]
+# [[5. Mechanics\Bestiary\Giant\Cyclops.md|Cyclops]]
 *Source: Monster Manual p. 45, Vecna: Eve of Ruin. Available in the Basic Rules (2014)*
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
@@ -47,33 +47,34 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
 "ac_class": "natural armor"
 "hp": !!int "138"
 "hit_dice": "12d12 + 60"
+"modifier": !!int "0"
 "stats":
-- !!int "22"
-- !!int "11"
-- !!int "20"
-- !!int "8"
-- !!int "6"
-- !!int "10"
+  - !!int "22"
+  - !!int "11"
+  - !!int "20"
+  - !!int "8"
+  - !!int "6"
+  - !!int "10"
 "speed": "30 ft."
 "senses": "passive Perception 8"
 "languages": "Giant"
 "cr": "6"
 "traits":
-- "desc": "The cyclops has disadvantage on any attack roll against a target more than\
-    \ 30 feet away."
-  "name": "Poor Depth Perception"
+  - "desc": "The cyclops has disadvantage on any attack roll against a target more\
+      \ than 30 feet away."
+    "name": "Poor Depth Perception"
 "actions":
-- "desc": "The cyclops makes two greatclub attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19 (3d8\
-    \ + 6) bludgeoning damage."
-  "name": "Greatclub"
-- "desc": "Ranged Weapon Attack: +9 to hit, range 30/120 ft., one target. Hit:\
-    \ 28 (4d10 + 6) bludgeoning damage."
-  "name": "Rock"
+  - "desc": "The cyclops makes two greatclub attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19\
+      \ (3d8 + 6) bludgeoning damage."
+    "name": "Greatclub"
+  - "desc": "Ranged Weapon Attack: +9 to hit, range 30/120 ft., one target. Hit:\
+      \ 28 (4d10 + 6) bludgeoning damage."
+    "name": "Rock"
 "source":
-- "MM"
-- "VEoR"
+  - "MM"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Giant/token/cyclops.webp"
 ```
 ^statblock

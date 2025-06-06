@@ -15,7 +15,7 @@ tags:
 aliases:
   - Sahuagin Priestess
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Sahuagin Priestess.md|Sahuagin Priestess]]
+# [[5. Mechanics\Bestiary\Humanoid\Sahuagin Priestess.md|Sahuagin Priestess]]
 *Source: Monster Manual p. 264*
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
@@ -55,52 +55,55 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 "ac_class": "natural armor"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
+"modifier": !!int "0"
 "stats":
-- !!int "13"
-- !!int "11"
-- !!int "12"
-- !!int "12"
-- !!int "14"
-- !!int "13"
+  - !!int "13"
+  - !!int "11"
+  - !!int "12"
+  - !!int "12"
+  - !!int "14"
+  - !!int "13"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  "Religion": !!int "3"
-  "Perception": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
+    "desc": "+3"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Sahuagin"
 "cr": "2"
 "traits":
-- "desc": "The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom\
-    \ (spell save DC 12, +4 to hit with spell attacks). She has the following cleric\
-    \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
-    \ [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]]\n\n2nd level (3 slots):\
-    \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\
-    \ (trident)\n\n3rd level (3 slots): [[5. Mechanics/Spells/Mass Healing Word.md|mass healing word]],\
-    \ [[5. Mechanics/Spells/Tongues.md|tongues]]"
-  "name": "Spellcasting"
-- "desc": "The sahuagin has advantage on melee attack rolls against any creature that\
-    \ doesn't have all its hit points."
-  "name": "Blood Frenzy"
-- "desc": "The sahuagin can breathe air and water, but it needs to be submerged at\
-    \ least once every 4 hours to avoid suffocating."
-  "name": "Limited Amphibiousness"
-- "desc": "The sahuagin can magically command any shark within 120 feet of it, using\
-    \ a limited telepathy."
-  "name": "Shark Telepathy"
+  - "desc": "The sahuagin is a 6th-level spellcaster. Her spellcasting ability is\
+      \ Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following\
+      \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
+      \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
+      \ [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]]\n\n2nd level (3 slots):\
+      \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\
+      \ (trident)\n\n3rd level (3 slots): [[5. Mechanics/Spells/Mass Healing Word.md|mass healing word]],\
+      \ [[5. Mechanics/Spells/Tongues.md|tongues]]"
+    "name": "Spellcasting"
+  - "desc": "The sahuagin has advantage on melee attack rolls against any creature\
+      \ that doesn't have all its hit points."
+    "name": "Blood Frenzy"
+  - "desc": "The sahuagin can breathe air and water, but it needs to be submerged\
+      \ at least once every 4 hours to avoid suffocating."
+    "name": "Limited Amphibiousness"
+  - "desc": "The sahuagin can magically command any shark within 120 feet of it, using\
+      \ a limited telepathy."
+    "name": "Shark Telepathy"
 "actions":
-- "desc": "The sahuagin makes two melee attacks: one with her bite and one with her\
-    \ claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
-    \ + 1) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
-    \ + 1) slashing damage."
-  "name": "Claws"
+  - "desc": "The sahuagin makes two melee attacks: one with her bite and one with\
+      \ her claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+      \ + 1) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+      \ + 1) slashing damage."
+    "name": "Claws"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/sahuagin-priestess.webp"
 ```
 ^statblock

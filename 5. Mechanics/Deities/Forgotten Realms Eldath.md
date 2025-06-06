@@ -7,6 +7,10 @@ tags:
   - domain/life
   - domain/nature
   - domain/peace
+alignment: Neutral Good
+domains: 'Life, Nature, Peace'
+pantheon: Forgotten Realms
+symbol: Waterfall plunging into still pool
 aliases:
   - Eldath
 ---

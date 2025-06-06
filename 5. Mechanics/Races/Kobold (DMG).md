@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
   - compendium/src/5e/dmg
-  - race/kobold/dmg
+  - race/kobold
 aliases:
-  - Kobold (DMG)
+  - Kobold
 ---
-# Kobold (DMG)
+# Kobold
 *Source: Dungeon Master's Guide p. 282*  
 
-- **Ability Scores**: Dexterity +2, Strength -4
+- **Ability Scores**: Dexterity +2; Strength -4
 - **Size**: Small
 - **Speed**: 30 ft.
 

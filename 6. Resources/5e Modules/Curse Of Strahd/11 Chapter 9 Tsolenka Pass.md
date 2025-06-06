@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/cos
 aliases:
-  - 'Chapter 9: Tsolenka Pass'
+  - Chapter 9: Tsolenka Pass
 ---
 # Chapter 9: Tsolenka Pass
 *Source: Curse of Strahd, p. 157* 
@@ -46,7 +46,7 @@ These statues are actually two [[/5. Mechanics/Rules/Conditions.md#Petrified\|pe
 
 ### T3. Curtain of Green Flame
 
-A curtain of green flame fills the eastern archway of the gatehouse. Any creature that enters the curtain for the first time on a turn or starts its turn in the green flame takes `dice:6d10|noform|avg|text(33)` (`6d10`) fire damage.
+A curtain of green flame fills the eastern archway of the gatehouse. Any creature that enters the curtain for the first time on a turn or starts its turn in the green flame takes `dice:6d10|noform|noparens|avg|text(33)` (`6d10`) fire damage.
 
 A successful casting of [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] (DC 16) suppresses the curtain for 1 minute. The curtain is also suppressed within an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].
 

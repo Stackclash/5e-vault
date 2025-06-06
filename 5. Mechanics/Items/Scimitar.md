@@ -9,12 +9,13 @@ tags:
 aliases:
   - Scimitar
 cost: 2500
-one-hand-damage: 1d6 S
+one-hand-damage: 1d6 slashing
+weight: 3
 ---
 # Scimitar
 *Weapon*  
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Cost**: 25 gp
 - **Weight**: 3.0 lbs.

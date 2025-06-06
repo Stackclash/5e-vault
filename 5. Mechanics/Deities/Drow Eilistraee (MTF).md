@@ -7,6 +7,12 @@ tags:
   - domain/life
   - domain/light
   - domain/nature
+alignment: Chaotic Good
+category: The Dark Seldarine
+domains: 'Life, Light, Nature'
+pantheon: Drow
+province: 'Freedom, moonlight, song'
+symbol: 'Sword-wielding, dancing female drow silhouetted against the full moon'
 aliases:
   - Eilistraee
 ---

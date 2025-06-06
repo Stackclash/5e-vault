@@ -8,6 +8,7 @@ tags:
 aliases:
   - Exotic Saddle
 cost: 6000
+weight: 40
 ---
 # Exotic Saddle
 *Tack and harness*  

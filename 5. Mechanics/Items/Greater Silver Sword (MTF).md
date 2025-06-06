@@ -9,13 +9,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Greater Silver Sword
-one-hand-damage: 2d6 S
+one-hand-damage: 2d6 slashing
+weight: 6
 ---
 # Greater Silver Sword
 *Weapon ([[5. Mechanics/Items/Greatsword.md\|greatsword]]), legendary (requires attunement by a creature that has psionic ability)*  
 ![[5. Mechanics/Items/img/greater-silver-sword.webp#right]]  
 
-- **Damage**: 2d6 S
+- **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
 

@@ -8,7 +8,7 @@ aliases:
   - The Many
 ---
 # The Many
-*[[Warlock.md\|Warlock]]: Otherworldly Patron*  
+*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: The Griffon's Saddlebag, Book 2 p. 226*  
 
 > [!tldr] Class and Feature Progression
@@ -18,20 +18,20 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#The%20Many%20(Level%201)'>The Many</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#The Many (Level 1)' class='internal-link'>The Many</a></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Improved%20Eldritch%20Heads%20(Level%206)'>Improved Eldritch Heads</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Improved Eldritch Heads (Level 6)' class='internal-link'>Improved Eldritch Heads</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Groupthink%20(Level%2010)'>Groupthink</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Groupthink (Level 10)' class='internal-link'>Groupthink</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Eldritch%20Frenzy%20(Level%2014)'>Eldritch Frenzy</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Eldritch Frenzy (Level 14)' class='internal-link'>Eldritch Frenzy</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -85,7 +86,7 @@ Also at 1st level, while you have at least one eldritch head remaining, you can'
 
 At 6th level, you've devised more ways to use your eldritch heads. You gain the following benefits:
 
-- You can use a bonus action to expend one eldritch head, reabsorbing it to gain a number of temporary hit points equal to `dice:2d6|noform|avg` (`2d6`) + your Charisma modifier.  
+- You can use a bonus action to expend one eldritch head, reabsorbing it to gain a number of temporary hit points equal to `dice:2d6|noform|noparens|avg` (`2d6`) + your Charisma modifier.  
 - Once per turn, you can expend one head to take a reaction even if you've already used your reaction. You can't use this benefit on the same turn that you take your normal reaction.  
 - When you fail a saving throw against being [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], or put to sleep by magic, you can expend one head to reroll the saving throw. If you do so, you must use the new roll.  
 
@@ -95,6 +96,6 @@ Starting at 10th level, your eldritch heads are always there to support your mor
 
 ### Eldritch Frenzy (Level 14)
 
-Starting at 14th level, you can use an action to revive your expended eldritch heads in a frenzied burst, during which time they become visible to everyone. When you do, you regain all expended heads, which releases a thunderous roar audible out to 300 feet as they tear into existence. Choose a number of creatures within 60 feet of you up to the number of heads you regain in this way. Each target must make an Intelligence saving throw against your warlock spell save DC. On a failed save, a target takes `dice:4d8|noform|avg` (`4d8`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] until the end of your next turn as its mind is flooded with otherworldly energy. On a successful save, a target takes half as much psychic damage and isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
+Starting at 14th level, you can use an action to revive your expended eldritch heads in a frenzied burst, during which time they become visible to everyone. When you do, you regain all expended heads, which releases a thunderous roar audible out to 300 feet as they tear into existence. Choose a number of creatures within 60 feet of you up to the number of heads you regain in this way. Each target must make an Intelligence saving throw against your warlock spell save DC. On a failed save, a target takes `dice:4d8|noform|noparens|avg` (`4d8`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] until the end of your next turn as its mind is flooded with otherworldly energy. On a successful save, a target takes half as much psychic damage and isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
 
 Once you use this feature, you can't use it again until you finish a long rest.

@@ -17,7 +17,7 @@ tags:
 aliases:
   - Werebear
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]]
+# [[5. Mechanics\Bestiary\Humanoid\Werebear.md|Werebear]]
 *Source: Monster Manual p. 208. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Werebears are powerful lycanthropes with the ability to temper their monstrous natures and reject their violent impulses. In humanoid form, they are large, muscular, and covered in hair matching the color of their ursine form's fur. A werebear is a loner by nature, fearing what might happen to innocent creatures around it when its bestial nature takes over.
@@ -69,47 +69,50 @@ Some individuals see little point in fighting the curse and accept what they are
 "ac_class": "11 from natural armor in bear or hybrid form"
 "hp": !!int "135"
 "hit_dice": "18d8 + 54"
+"modifier": !!int "0"
 "stats":
-- !!int "19"
-- !!int "10"
-- !!int "17"
-- !!int "11"
-- !!int "12"
-- !!int "12"
+  - !!int "19"
+  - !!int "10"
+  - !!int "17"
+  - !!int "11"
+  - !!int "12"
+  - !!int "12"
 "speed": "30 ft. (40 ft., climb 30 ft. in bear or hybrid form)"
 "skillsaves":
-  "Perception": !!int "7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+7"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "senses": "passive Perception 17"
 "languages": "Common (can't speak in bear form)"
 "cr": "5"
 "traits":
-- "desc": "The werebear can use its action to polymorph into a Large bear-humanoid\
-    \ hybrid or into a Large bear, or back into its true form, which is humanoid.\
-    \ Its statistics, other than its size and AC, are the same in each form. Any equipment\
-    \ it is wearing or carrying isn't transformed. It reverts to its true form if\
-    \ it dies."
-  "name": "Shapechanger"
-- "desc": "The werebear has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on smell."
-  "name": "Keen Smell"
+  - "desc": "The werebear can use its action to polymorph into a Large bear-humanoid\
+      \ hybrid or into a Large bear, or back into its true form, which is humanoid.\
+      \ Its statistics, other than its size and AC, are the same in each form. Any\
+      \ equipment it is wearing or carrying isn't transformed. It reverts to its true\
+      \ form if it dies."
+    "name": "Shapechanger"
+  - "desc": "The werebear has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on smell."
+    "name": "Keen Smell"
 "actions":
-- "desc": "In bear form, the werebear makes two claw attacks. In humanoid form, it\
-    \ makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10\
-    \ + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14\
-    \ Constitution saving throw or be cursed with werebear lycanthropy."
-  "name": "Bite (Bear or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8\
-    \ + 4) slashing damage."
-  "name": "Claw (Bear or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12\
-    \ + 4) slashing damage."
-  "name": "Greataxe (Humanoid or Hybrid Form Only)"
+  - "desc": "In bear form, the werebear makes two claw attacks. In humanoid form,\
+      \ it makes two greataxe attacks. In hybrid form, it can attack like a bear or\
+      \ a humanoid."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15\
+      \ (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on\
+      \ a DC 14 Constitution saving throw or be cursed with werebear lycanthropy."
+    "name": "Bite (Bear or Hybrid Form Only)"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13\
+      \ (2d8 + 4) slashing damage."
+    "name": "Claw (Bear or Hybrid Form Only)"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10\
+      \ (1d12 + 4) slashing damage."
+    "name": "Greataxe (Humanoid or Hybrid Form Only)"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/werebear.webp"
 ```
 ^statblock

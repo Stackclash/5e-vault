@@ -8,6 +8,7 @@ tags:
 aliases:
   - Silver (sp)
 cost: 10
+weight: 0.02
 ---
 # Silver (sp)
 *Treasure (coinage)*  

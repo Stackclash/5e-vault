@@ -28,6 +28,6 @@ The spider creates a tripwire up to 10 feet in length using a spool of thread fr
 
 You can mentally deactivate the spider early using a bonus action. The spider regains all its used animation time daily at dawn.
 
-The spider is considered a magical object and is not a creature. It has AC 15, 10 hit points, a walking and climbing speed of 20 feet, and has resistance to all damage. If the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on the spider while it has at least 1 hit point, it regains `dice:2d6|noform|avg` (`2d6`) hit points. If the spider drops to 0 hit points, it can't be used again for 24 hours, at which point it regains all its hit points.
+The spider is considered a magical object and is not a creature. It has AC 15, 10 hit points, a walking and climbing speed of 20 feet, and has resistance to all damage. If the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on the spider while it has at least 1 hit point, it regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points. If the spider drops to 0 hit points, it can't be used again for 24 hours, at which point it regains all its hit points.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

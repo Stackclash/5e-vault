@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/light
+alignment: Neutral Good
+domains: Light
+pantheon: Forgotten Realms
+symbol: Five-stringed harp made of leaves
 aliases:
   - Milil
 ---

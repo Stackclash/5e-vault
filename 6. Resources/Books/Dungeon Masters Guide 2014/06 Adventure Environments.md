@@ -378,7 +378,7 @@ A creature can be immersed in frigid water for a number of minutes equal to its 
 
 #### Quicksand
 
-A quicksand pit covers the ground in roughly a 10-foot square area and is usually 10 feet deep. When a creature enters the area, it sinks `dice:1d4+1|noform|avg` (`1d4+1`) feet into the quicksand and becomes [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]]. At the start of each of the creature's turns, it sinks another `dice:1d4|noform|avg` (`1d4`) feet. As long as the creature isn't completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand. A creature that is completely submerged in quicksand can't breathe (see the "suffocation" rules in the *Player's Handbook*).
+A quicksand pit covers the ground in roughly a 10-foot square area and is usually 10 feet deep. When a creature enters the area, it sinks `dice:1d4+1|noform|noparens|avg` (`1d4+1`) feet into the quicksand and becomes [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]]. At the start of each of the creature's turns, it sinks another `dice:1d4|noform|noparens|avg` (`d4`) feet. As long as the creature isn't completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand. A creature that is completely submerged in quicksand can't breathe (see the "suffocation" rules in the *Player's Handbook*).
 
 A creature can pull another creature within its reach out of a quicksand pit by using its action and succeeding on a Strength check. The DC is 5 plus the number of feet the target creature has sunk into the quicksand.
 
@@ -386,7 +386,7 @@ A creature can pull another creature within its reach out of a quicksand pit by 
 
 Razorvine is a plant that grows in wild tangles and hedges. It also clings to the sides of buildings and other surfaces as ivy does. A 10-foot-high, 10-foot-wide, 5-foot-thick wall or hedge of razorvine has AC 11, 25 hit points, and immunity to bludgeoning, piercing, and psychic damage.
 
-When a creature comes into direct contact with razorvine for the first time on a turn, the creature must succeed on a DC 10 Dexterity saving throw or take `dice:1d10|noform|avg|text(5)` (`1d10`) slashing damage from the razorvine's bladelike thorns.
+When a creature comes into direct contact with razorvine for the first time on a turn, the creature must succeed on a DC 10 Dexterity saving throw or take `dice:1d10|noform|noparens|avg|text(5)` (`d10`) slashing damage from the razorvine's bladelike thorns.
 
 #### Slippery Ice
 
@@ -402,7 +402,7 @@ Characters can gather food and water as the party travels at a normal or slow pa
 
 ![[5. Mechanics/Tables/Foraging Dcs.md\|Foraging DCs]]
 
-If multiple characters forage, each character makes a separate check. A foraging character finds nothing on a failed check. On a successful check, roll `dice:1d6|noform|avg` (`1d6`) + the character's Wisdom modifier to determine how much food (in pounds) the character finds, then repeat the roll for water (in gallons).
+If multiple characters forage, each character makes a separate check. A foraging character finds nothing on a failed check. On a successful check, roll `dice:1d6|noform|noparens|avg` (`d6`) + the character's Wisdom modifier to determine how much food (in pounds) the character finds, then repeat the roll for water (in gallons).
 
 #### Food and Water
 
@@ -414,7 +414,7 @@ The food and water requirements noted in the Player's Handbook are for character
 
 Unless they are following a path, or something like it, adventurers traveling in the wilderness run the risk of becoming lost. The party's navigator makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check when you decide it's appropriate, against a DC determined by the prevailing terrain, as shown on the Wilderness Navigation table. If the party is moving at a slow pace, the navigator gains a +5 bonus to the check, and a fast pace imposes a -5 penalty. If the party has an accurate map of the region or can see the sun or stars, the navigator has advantage on the check.
 
-If the Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check succeeds, the party travels in the desired direction without becoming lost. If the check fails, the party inadvertently travels in the wrong direction and becomes lost. The party's navigator can repeat the check after the party spends `dice:1d6|noform|avg` (`1d6`) hours trying to get back on course.
+If the Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check succeeds, the party travels in the desired direction without becoming lost. If the check fails, the party inadvertently travels in the wrong direction and becomes lost. The party's navigator can repeat the check after the party spends `dice:1d6|noform|noparens|avg` (`d6`) hours trying to get back on course.
 
 ![[5. Mechanics/Tables/Becoming Lost Wilderness Navigation.md\|Becoming Lost; Wilderness Navigation]]
 
@@ -504,7 +504,7 @@ A brawl erupts near the adventurers. It could be a tavern brawl; a battle betwee
 
 #### Bullies
 
-The characters witness `dice:1d4+2|noform|avg` (`1d4 + 2`) bullies harassing an out-of-towner (use the commoner statistics in the Monster Manual for all of them). A bully flees as soon as he or she takes any amount of damage.
+The characters witness `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) bullies harassing an out-of-towner (use the commoner statistics in the Monster Manual for all of them). A bully flees as soon as he or she takes any amount of damage.
 
 #### Companion
 
@@ -538,7 +538,7 @@ You can determine the trinket by rolling on the [[5. Mechanics/Items/Trinket.md\
 
 #### Guard Harassment
 
-The adventurers are cornered by `dice:1d4+1|noform|avg` (`1d4 + 1`) guards eager to throw their weight around. If threatened, the guards call out for help and might attract the attention of other guards or citizens nearby.
+The adventurers are cornered by `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) guards eager to throw their weight around. If threatened, the guards call out for help and might attract the attention of other guards or citizens nearby.
 
 #### Pickpocket
 

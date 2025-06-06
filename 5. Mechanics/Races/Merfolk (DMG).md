@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
   - compendium/src/5e/dmg
-  - race/merfolk/dmg
+  - race/merfolk
 aliases:
-  - Merfolk (DMG)
+  - Merfolk
 ---
-# Merfolk (DMG)
+# Merfolk
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: None

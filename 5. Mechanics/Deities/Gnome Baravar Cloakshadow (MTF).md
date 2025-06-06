@@ -6,6 +6,11 @@ tags:
   - deity/gnome
   - domain/arcana
   - domain/trickery
+alignment: Neutral Good
+domains: 'Arcana, Trickery'
+pantheon: Gnome
+province: 'Illusion, deception'
+symbol: Dagger against a hooded cloak
 aliases:
   - Baravar Cloakshadow
 ---

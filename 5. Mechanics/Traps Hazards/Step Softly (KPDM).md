@@ -4,6 +4,7 @@ cssclasses: json5e-hazard
 tags:
   - compendium/src/5e/kpdm
   - hazard/mag
+hazardType: Magical Trap
 aliases:
   - Step Softly
 ---

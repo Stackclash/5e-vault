@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kraken Tunic
 armorClass: 12 + Dex modifier
+weight: 13
 ---
 # Kraken Tunic
 *Light armor ([[5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), legendary (requires attunement)*  

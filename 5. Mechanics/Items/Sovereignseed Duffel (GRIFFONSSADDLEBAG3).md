@@ -19,7 +19,7 @@ The following seeds can be pulled from the duffel. Up to 5 seeds can be pulled f
 
 ## Bamboo Colonnade
 
-A dense copse of bamboo erupts from the ground in a 5-foot-radius cylinder that's up to 60 feet tall. Its area is heavily obscured, and it provides total cover. Any creature in the area when it appears is pushed to an adjacent unoccupied space and must succeed on a DC 17 Dexterity saving throw or take `dice:3d10|noform|avg` (`3d10`) piercing damage. The bamboo has AC 17, 60 hit points, and is vulnerable to fire damage. It lasts for 1 hour or until it's reduced to 0 hit points.
+A dense copse of bamboo erupts from the ground in a 5-foot-radius cylinder that's up to 60 feet tall. Its area is heavily obscured, and it provides total cover. Any creature in the area when it appears is pushed to an adjacent unoccupied space and must succeed on a DC 17 Dexterity saving throw or take `dice:3d10|noform|noparens|avg` (`3d10`) piercing damage. The bamboo has AC 17, 60 hit points, and is vulnerable to fire damage. It lasts for 1 hour or until it's reduced to 0 hit points.
 
 ## Haze Bloom
 
@@ -31,11 +31,11 @@ The seed grows into an animal woven from reeds and covered in soft moss. It take
 
 ## Seismycelium
 
-Mycelium weaves through the ground in a 20-foot cube. When a creature other than you enters this area or moves inside it, the mycelium bursts: destroying itself and blasting debris outward. Each creature within 10 feet of the cube must make a DC 17 Dexterity saving throw, taking `dice:3d12|noform|avg` (`3d12`) bludgeoning damage on a failed save, or half as much damage on a successful one. The mycelium lasts for 1 hour if it isn't triggered.
+Mycelium weaves through the ground in a 20-foot cube. When a creature other than you enters this area or moves inside it, the mycelium bursts: destroying itself and blasting debris outward. Each creature within 10 feet of the cube must make a DC 17 Dexterity saving throw, taking `dice:3d12|noform|noparens|avg` (`3d12`) bludgeoning damage on a failed save, or half as much damage on a successful one. The mycelium lasts for 1 hour if it isn't triggered.
 
 ## Twisting Thistle
 
-This seed replicates the effects of the [[5. Mechanics/Spells/Entangle.md\|entangle]] spell (save DC 17), centered on the seed, with the following change: a creature [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the weeds and vines takes `dice:2d6|noform|avg` (`2d6`) piercing damage from the plants' thorns at the start of each of its turns.
+This seed replicates the effects of the [[5. Mechanics/Spells/Entangle.md\|entangle]] spell (save DC 17), centered on the seed, with the following change: a creature [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the weeds and vines takes `dice:2d6|noform|noparens|avg` (`2d6`) piercing damage from the plants' thorns at the start of each of its turns.
 
 ## Sovereign Synergy
 

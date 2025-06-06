@@ -9,6 +9,7 @@ aliases:
   - Plate Armor
 cost: 150000
 armorClass: 18
+weight: 65
 ---
 # Plate Armor
 *Heavy armor*  

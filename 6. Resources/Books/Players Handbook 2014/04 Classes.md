@@ -23,4 +23,4 @@ Twelve classes—listed in the Classes table—are found in almost every D&D wor
 
 ![[6. Resources/Books/Players Handbook 2014/img/ch3.webp#center]]
 
-![[5. Mechanics/Tables/Classes.md\|Classes]]
+![[5. Mechanics/Tables/Classes (PHB).md\|Classes]]

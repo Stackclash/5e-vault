@@ -8,6 +8,7 @@ tags:
 aliases:
   - Silk Rope (50 feet)
 cost: 1000
+weight: 5
 ---
 # Silk Rope (50 feet)
 *Adventuring gear*  

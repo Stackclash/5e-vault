@@ -13,7 +13,7 @@ tags:
 aliases:
   - Relentless Slasher
 ---
-# [[5. Mechanics/Bestiary/Fiend/Relentless Slasher (VRGR).md|Relentless Slasher]]
+# [[5. Mechanics\Bestiary\Fiend\Relentless Slasher (VRGR).md|Relentless Slasher]]
 *Source: Van Richten's Guide to Ravenloft p. 242*
 
 A relentless slasher conducts its bloody work in silence then vanishes into shadow and infamy. Fixated on a specific individual or type of victim, it pursues its target with single-minded obsession.
@@ -63,55 +63,60 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 "ac_class": "natural armor"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
+"modifier": !!int "4"
 "stats":
-- !!int "12"
-- !!int "18"
-- !!int "14"
-- !!int "14"
-- !!int "15"
-- !!int "16"
+  - !!int "12"
+  - !!int "18"
+  - !!int "14"
+  - !!int "14"
+  - !!int "15"
+  - !!int "16"
 "speed": "40 ft."
 "saves":
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "5"
-  "Strength": !!int "4"
-  "Constitution": !!int "5"
+  - "strength": "+4"
+  - "dexterity": "+7"
+  - "constitution": "+5"
+  - "wisdom": "+5"
 "skillsaves":
-  "Athletics": !!int "7"
-  "Perception": !!int "5"
-  "Survival": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
+    "desc": "+5"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "understands all languages but can't speak"
 "cr": "8"
 "traits":
-- "desc": "If the slasher fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (1/Day)"
-- "desc": "The slasher is immune to any effect that would sense its emotions or read\
-    \ its thoughts, and it can't be detected by abilities that sense Fiends."
-  "name": "Shrouded Presence"
+  - "desc": "If the slasher fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (1/Day)"
+  - "desc": "The slasher is immune to any effect that would sense its emotions or\
+      \ read its thoughts, and it can't be detected by abilities that sense Fiends."
+    "name": "Shrouded Presence"
 "actions":
-- "desc": "The slasher makes two Slasher's Knife attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/60\
-    \ ft., one target. Hit: 6 (1d4 + 4) slashing damage plus 21 (6d6) necrotic damage.\
-    \ If the target is a creature, it suffers a lingering wound that causes it to\
-    \ take 7 (2d6) necrotic damage at the start of each of its turns. Each time the\
-    \ slasher hits the wounded target with this attack, the damage dealt by the wound\
-    \ increases by 3 (1d6). The wound ends if the target regains hit points or if\
-    \ a creature uses an action to stanch the wound, which requires a successful DC\
-    \ 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check."
-  "name": "Slasher's Knife"
+  - "desc": "The slasher makes two Slasher's Knife attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/60\
+      \ ft., one target. Hit: 6 (1d4 + 4) slashing damage plus 21 (6d6) necrotic\
+      \ damage. If the target is a creature, it suffers a lingering wound that causes\
+      \ it to take 7 (2d6) necrotic damage at the start of each of its turns. Each\
+      \ time the slasher hits the wounded target with this attack, the damage dealt\
+      \ by the wound increases by 3 (d6). The wound ends if the target regains hit\
+      \ points or if a creature uses an action to stanch the wound, which requires\
+      \ a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]])\
+      \ check."
+    "name": "Slasher's Knife"
 "legendary_actions":
-- "desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/60\
-    \ ft., one target. Hit: 7 (1d6 + 4) slashing damage."
-  "name": "Slice"
-- "desc": "The slasher makes one Slasher's Knife attack. After the attack hits or\
-    \ misses, the slasher can teleport up to 30 feet to an unoccupied space it can\
-    \ see."
-  "name": "Vanishing Strike (Costs 3 Actions)"
+  - "desc": "Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/60\
+      \ ft., one target. Hit: 7 (1d6 + 4) slashing damage."
+    "name": "Slice"
+  - "desc": "The slasher makes one Slasher's Knife attack. After the attack hits or\
+      \ misses, the slasher can teleport up to 30 feet to an unoccupied space it can\
+      \ see."
+    "name": "Vanishing Strike (Costs 3 Actions)"
 "source":
-- "VRGR"
+  - "VRGR"
 "image": "5. Mechanics/Bestiary/Fiend/token/relentless-slasher-vrgr.webp"
 ```
 ^statblock

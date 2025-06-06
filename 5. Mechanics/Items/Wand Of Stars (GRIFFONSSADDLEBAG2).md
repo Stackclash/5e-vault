@@ -17,7 +17,7 @@ aliases:
 
 This antiquated, dark blue wand is adorned with a glowing star at its tip. When it's swung, small specks of starlight drift from its end.
 
-The wand has 7 charges for the following properties. It regains `dice:1d6+1|noform|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the wand scatters into glittering dust and is destroyed.
+The wand has 7 charges for the following properties. It regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand scatters into glittering dust and is destroyed.
 
 ## Spells
 

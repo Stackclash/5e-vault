@@ -16,7 +16,7 @@ tags:
 aliases:
   - Vargouille
 ---
-# [[5. Mechanics/Bestiary/Fiend/Vargouille (MPMM).md|Vargouille]]
+# [[5. Mechanics\Bestiary\Fiend\Vargouille (MPMM).md|Vargouille]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 251, Volo's Guide to Monsters p. 195*
 
 Shrieking, flapping, and hideous to behold—with a body like a severed head and wings in place of ears—vargouilles boil out of the Abyss to infest other planes of existence, such as Carceri, where they are a menace. Each vargouille carries a disease that creates more of its kind; a flock of vargouilles on the wing is a plague of chaos and evil.
@@ -35,13 +35,14 @@ Vargouilles that roam free on the Material Plane are a dire threat to all creatu
 "ac": !!int "12"
 "hp": !!int "18"
 "hit_dice": "4d4 + 8"
+"modifier": !!int "2"
 "stats":
-- !!int "6"
-- !!int "14"
-- !!int "14"
-- !!int "4"
-- !!int "7"
-- !!int "2"
+  - !!int "6"
+  - !!int "14"
+  - !!int "14"
+  - !!int "4"
+  - !!int "7"
+  - !!int "2"
 "speed": "5 ft., fly 40 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
@@ -51,30 +52,31 @@ Vargouilles that roam free on the Material Plane are a dire threat to all creatu
   \ a vargouille but can't speak"
 "cr": "1"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) piercing damage plus 10 (3d6) poison damage."
-  "name": "Bite"
-- "desc": "The vargouille targets one [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
-    \ Humanoid within 5 feet of it. The target must succeed on a DC 12 Charisma saving\
-    \ throw or become cursed. The cursed target loses 1 point of Charisma after each\
-    \ hour, as its head takes on fiendish aspects. The curse doesn't advance while\
-    \ the target is in sunlight or the area of a [[5. Mechanics/Spells/Daylight.md|daylight]]\
-    \ spell; don't count that time. When the cursed target's Charisma becomes 2, it\
-    \ dies, and its head tears from its body and becomes a new vargouille. Casting\
-    \ [[5. Mechanics/Spells/Remove Curse.md|remove curse]], [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
-    \ or a similar spell on the target before the transformation is complete can end\
-    \ the curse. Doing so undoes the changes made to the target by the curse."
-  "name": "Abyssal Curse"
-- "desc": "The vargouille shrieks. Each Humanoid and Beast within 30 feet of the vargouille\
-    \ and able to hear it must succeed on a DC 12 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-    \ of the vargouille until the end of the vargouille's next turn. While [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-    \ in this way, a target is [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]].\
-    \ If a target's saving throw is successful or the effect ends for it, the target\
-    \ is immune to the Stunning Shriek of all vargouilles for 1 hour."
-  "name": "Stunning Shriek (Recharge 5-6)"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) piercing damage plus 10 (3d6) poison damage."
+    "name": "Bite"
+  - "desc": "The vargouille targets one [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
+      \ Humanoid within 5 feet of it. The target must succeed on a DC 12 Charisma\
+      \ saving throw or become cursed. The cursed target loses 1 point of Charisma\
+      \ after each hour, as its head takes on fiendish aspects. The curse doesn't\
+      \ advance while the target is in sunlight or the area of a [[5. Mechanics/Spells/Daylight.md|daylight]]\
+      \ spell; don't count that time. When the cursed target's Charisma becomes 2,\
+      \ it dies, and its head tears from its body and becomes a new vargouille. Casting\
+      \ [[5. Mechanics/Spells/Remove Curse.md|remove curse]], [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
+      \ or a similar spell on the target before the transformation is complete can\
+      \ end the curse. Doing so undoes the changes made to the target by the curse."
+    "name": "Abyssal Curse"
+  - "desc": "The vargouille shrieks. Each Humanoid and Beast within 30 feet of the\
+      \ vargouille and able to hear it must succeed on a DC 12 Wisdom saving throw\
+      \ or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] of the vargouille\
+      \ until the end of the vargouille's next turn. While [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+      \ in this way, a target is [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]].\
+      \ If a target's saving throw is successful or the effect ends for it, the target\
+      \ is immune to the Stunning Shriek of all vargouilles for 1 hour."
+    "name": "Stunning Shriek (Recharge 5-6)"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Fiend/token/vargouille-mpmm.webp"
 ```
 ^statblock

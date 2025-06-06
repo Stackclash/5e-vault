@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Broom of Flying
+weight: 3
 ---
 # Broom of Flying
 *Wondrous item, major, uncommon*  

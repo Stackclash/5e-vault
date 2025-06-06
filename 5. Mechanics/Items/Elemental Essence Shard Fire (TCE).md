@@ -7,6 +7,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Elemental Essence Shard (Fire)
+weight: 1
 ---
 # Elemental Essence Shard (Fire)
 *Wondrous item, rare (requires attunement by a sorcerer)*  
@@ -19,6 +20,6 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 ## Property
 
-One target of the spell that you can see catches fire. The burning target takes `dice:2d10|noform|avg` (`2d10`) fire damage at the start of its next turn, and then the flames go out.
+One target of the spell that you can see catches fire. The burning target takes `dice:2d10|noform|noparens|avg` (`2d10`) fire damage at the start of its next turn, and then the flames go out.
 
 *Source: Tasha's Cauldron of Everything p. 127*

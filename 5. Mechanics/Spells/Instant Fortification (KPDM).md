@@ -8,21 +8,28 @@ tags:
   - spell/level/5th-level
   - spell/ritual
   - spell/school/transmutation
-level: 5th-level
-range: true
+classes:
+  - Bard
+  - Wizard
 school: Transmutation
-time: 1 action
+level: 5
+ritual: true
+time: 1 Action
 duration: Until dispelled
-components: 'V, S, a statuette of a keep worth 250 gp, which is consumed in the casting'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Instant Fortification
+material: 'a statuette of a keep worth 250 gp, which is consumed in the casting'
 ---
 # Instant Fortification
 *5th-level, Transmutation (ritual)*  
 
-- **Casting time:** 1 action unless cast as a ritual
+- **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 60 feet
-- **Components:** V, S, a statuette of a keep worth 250 gp, which is consumed in the casting
+- **Components:** V, S, M (a statuette of a keep worth 250 gp, which is consumed in the casting)
 - **Duration:** Until dispelled
 
 Through this spell, you transform a miniature statuette of a keep into an actual fort. The fortification springs from the ground in an unoccupied space within range. It is a 10-foot cube (including floor and roof).
@@ -31,6 +38,6 @@ Each wall has two arrow slits. One wall also includes a metal door with an [[5. 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can increase the length or width of the fortification by 5 feet for each slot level above 5th. You can make a different choice (width or length) for each slot level above 5th.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 85*

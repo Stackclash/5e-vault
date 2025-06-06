@@ -8,6 +8,7 @@ tags:
   - item/tier/minor
 aliases:
   - Owlbear-Fletched Arrow
+weight: 0.05
 ---
 # Owlbear-Fletched Arrow
 *Ammunition ([[5. Mechanics/Items/Arrow.md\|arrow]]), minor, uncommon*  

@@ -6,6 +6,10 @@ tags:
   - deity/greyhawk
   - domain/knowledge
   - domain/trickery
+alignment: Neutral Good
+domains: 'Knowledge, Trickery'
+pantheon: Greyhawk
+symbol: Circle crossed by a curved horizon line
 aliases:
   - Fharlanghn
 ---

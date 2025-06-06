@@ -10,23 +10,34 @@ tags:
   - spell/level/6th-level
   - spell/school/necromancy
   - spell/subclass/divine-soul
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul)
+  - Warlock
+  - Wizard
 school: Necromancy
+level: 6
+ritual: false
 time: 1 minute
 duration: Instantaneous
-components: >-
-  V, S, one clay pot filled with grave dirt, one clay pot filled with brackish
-  water, and one 150 gp black onyx stone for each corpse
+components:
+  - V
+  - S
+  - M
 aliases:
   - Create Undead
+range: 10 feet
+material: >-
+  One clay pot filled with grave dirt, one clay pot filled with brackish water,
+  and one 150 gp black onyx stone for each corpse.
 ---
 # Create Undead
 *6th-level, Necromancy*  
 
 - **Casting time:** 1 minute
 - **Range:** 10 feet
-- **Components:** V, S, one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse
+- **Components:** V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)
 - **Duration:** Instantaneous
 
 You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghoul]] under your control. (The DM has game statistics for these creatures.)
@@ -37,6 +48,6 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **At Higher Levels.** When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]]. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] or two [[5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] or [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]]. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]], three [[5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] or [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]], or two [[5. Mechanics/Bestiary/Undead/Mummy.md\|mummies]].
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

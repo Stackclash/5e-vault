@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
   - compendium/src/5e/dmg
-  - race/hobgoblin/dmg
+  - race/hobgoblin
 aliases:
-  - Hobgoblin (DMG)
+  - Hobgoblin
 ---
-# Hobgoblin (DMG)
+# Hobgoblin
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: None
@@ -18,7 +18,7 @@ aliases:
 
 ### Martial Advantage
 
-Once per turn, you can deal an extra `dice:2d6|noform|avg` (`2d6`) damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
+Once per turn, you can deal an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
 
 ### Darkvision
 

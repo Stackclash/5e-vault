@@ -10,25 +10,36 @@ tags:
   - spell/level/3rd-level
   - spell/school/transmutation
   - spell/subclass/divine-soul
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Ranger
+  - Sorcerer (Divine Soul)
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S, a pebble and a silver of bone'
+level: 3
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
+  - M
 aliases:
   - Bones of Stone
+concentration: true
+material: a pebble and a silver of bone
 ---
 # Bones of Stone
 *3rd-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, a pebble and a silver of bone
+- **Components:** V, S, M (a pebble and a silver of bone)
 - **Duration:** Concentration, up to 1 minute
 
 The bones of a creature you touch gain the strength and density of stone. Until the spell ends, the target has resistance to slashing damage and bludgeoning damage, and it gains advantage on Strength checks against effects that would move the target against its will.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 46*

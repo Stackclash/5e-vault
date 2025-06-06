@@ -9,12 +9,13 @@ tags:
 aliases:
   - Morningstar
 cost: 1500
-one-hand-damage: 1d8 P
+one-hand-damage: 1d8 piercing
+weight: 4
 ---
 # Morningstar
 *Weapon*  
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Cost**: 15 gp
 - **Weight**: 4.0 lbs.
 

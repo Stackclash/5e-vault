@@ -10,6 +10,7 @@ tags:
 aliases:
   - Wraith's Garb
 armorClass: 11 + Dex modifier
+weight: 10
 ---
 # Wraith's Garb
 *Light armor ([[5. Mechanics/Items/Leather Armor.md\|leather armor]]), major, uncommon (requires attunement)*  

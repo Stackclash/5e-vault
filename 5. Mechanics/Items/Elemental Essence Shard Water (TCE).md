@@ -7,6 +7,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Elemental Essence Shard (Water)
+weight: 1
 ---
 # Elemental Essence Shard (Water)
 *Wondrous item, rare (requires attunement by a sorcerer)*  
@@ -19,6 +20,6 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 ## Property
 
-You create a wave of water that bursts out from you in a 10-foot radius. Each creature of your choice that you can see in that area takes `dice:2d6|noform|avg` (`2d6`) cold damage and must succeed on a Strength saving throw against your spell save DC or be pushed 10 feet away from you and fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
+You create a wave of water that bursts out from you in a 10-foot radius. Each creature of your choice that you can see in that area takes `dice:2d6|noform|noparens|avg` (`2d6`) cold damage and must succeed on a Strength saving throw against your spell save DC or be pushed 10 feet away from you and fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
 *Source: Tasha's Cauldron of Everything p. 127*

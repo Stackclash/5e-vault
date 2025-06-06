@@ -10,15 +10,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Sword of Answering (Scather)
-one-hand-damage: 1d8 S
-two-hand-damage: 1d10 S
+one-hand-damage: 1d8 slashing
+two-hand-damage: 1d10 slashing
+weight: 3
 ---
 # Sword of Answering (Scather)
 *Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement by a lawful evil creature)*  
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 

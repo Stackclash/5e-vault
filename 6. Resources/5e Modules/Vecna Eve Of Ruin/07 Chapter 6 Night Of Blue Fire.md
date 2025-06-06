@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/veor
 aliases:
-  - 'Chapter 6: Night of Blue Fire'
+  - Chapter 6: Night of Blue Fire
 ---
 # Chapter 6: Night of Blue Fire
 *Source: Vecna: Eve of Ruin* 
@@ -243,7 +243,7 @@ While characters contend with the [[5. Mechanics/Bestiary/Monstrosity/Borthak (V
 
 The fen has features the characters can use to their advantage in a confrontation with the [[5. Mechanics/Bestiary/Monstrosity/Borthak (VEOR).md\|borthak]]:
 
-- **Floating Boulders.** The boulders floating above the stone pillars are held aloft by ancient druidic magic. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on a boulder causes it to fall and tumble to the ground. As an action, a character within reach of a floating boulder can try to push it, doing so with a successful DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. Pushing the boulder ends the magic on it and causes it to fall in whichever direction the character prefers. Any creature in the path of a falling boulder must succeed on a DC 15 Dexterity saving throw to avoid it, taking `dice:2d10|noform|avg|text(11)` (`2d10`) bludgeoning damage on a failed save.  
+- **Floating Boulders.** The boulders floating above the stone pillars are held aloft by ancient druidic magic. Casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on a boulder causes it to fall and tumble to the ground. As an action, a character within reach of a floating boulder can try to push it, doing so with a successful DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. Pushing the boulder ends the magic on it and causes it to fall in whichever direction the character prefers. Any creature in the path of a falling boulder must succeed on a DC 15 Dexterity saving throw to avoid it, taking `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) bludgeoning damage on a failed save.  
 - **Muddy Bank.** The ground within 20 feet of the creek's eastern shore has turned to sticky mud and is "difficult terrain".  
 
 ### Escaping the Fen
@@ -264,7 +264,7 @@ Once the wardens are safe, a human werewolf named Argentia Skywright (use the [[
 
 ### Wardens' Aid
 
-Argentia gives the characters a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Moonbeam.md\|Moonbeam]]. She also explains that if Valendar is stuck in his wolf or hybrid form, they must bring Valendar close to death before he'll return to his true form, which is a human.
+Argentia gives the characters a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Moonbeam.md\|Moonbeam]]. She also explains that if Valendar is stuck in his wolf or hybrid form, they must bring Valendar close to death before he'll return to his true form, which is a human.
 
 Riffel agrees to take the characters to the Three Moons Vault's secret entrance. Before the party leaves, Argentia leads a quick rite to cast a protective ward over Riffel. For the next 12 hours, Riffel and allies within 10 feet of him are immune to the Forced Transformation effect of Teremini's curtain of red moonlight (see the "Environmental Effects" subsection of the "Three Moons Vault" section). The wardens have enough power to cast this ritual only once, so it's imperative Riffel return to Bittergrass Fen with Valendar as soon as possible.
 
@@ -359,7 +359,7 @@ Two [[5. Mechanics/Bestiary/Construct/Moonlight Guardian (VEOR).md\|moonlight gu
 
 ##### Trapped Doorway
 
-A [[5. Mechanics/Spells/Detect Magic.md\|Detect Magic]] spell reveals an aura of evocation magic radiating from the doorway. If a creature pulls on either of the doors' crescent-shaped handles, the doorway emits a 30-foot cone of silvery light for 1 minute, centered on the middle of the double door. A creature that enters that area for the first time on a turn or starts its turn there must make a DC 17 Constitution saving throw, taking `dice:5d10|noform|avg|text(27)` (`5d10`) radiant damage on a failed save or half as much damage on a successful one. A creature not in its true form has disadvantage on this save; if it fails its save, the creature instantly reverts to its true form and can't assume a different form until it leaves the light.
+A [[5. Mechanics/Spells/Detect Magic.md\|Detect Magic]] spell reveals an aura of evocation magic radiating from the doorway. If a creature pulls on either of the doors' crescent-shaped handles, the doorway emits a 30-foot cone of silvery light for 1 minute, centered on the middle of the double door. A creature that enters that area for the first time on a turn or starts its turn there must make a DC 17 Constitution saving throw, taking `dice:5d10|noform|noparens|avg|text(27)` (`5d10`) radiant damage on a failed save or half as much damage on a successful one. A creature not in its true form has disadvantage on this save; if it fails its save, the creature instantly reverts to its true form and can't assume a different form until it leaves the light.
 
 Once this trap is triggered, it can't be triggered again.
 
@@ -503,7 +503,7 @@ Each of these vault rooms is sealed behind a locked iron door. As an action, a c
 
 ##### V12a: Treasures
 
-The door to this vault is trapped with a magical glyph. A character who examines the door can find the glyph by succeeding on a DC 17 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check, and any character can disable the glyph by succeeding on a DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check. When a creature other than Teremini opens the door, a 20-foot-radius sphere of fire explodes from the glyph. Each creature in that area must make a DC 17 Dexterity saving throw, taking `dice:5d8|noform|avg|text(22)` (`5d8`) fire damage on a failed save or half as much damage on a successful one. Once this trap is triggered, it can't be triggered again.
+The door to this vault is trapped with a magical glyph. A character who examines the door can find the glyph by succeeding on a DC 17 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check, and any character can disable the glyph by succeeding on a DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check. When a creature other than Teremini opens the door, a 20-foot-radius sphere of fire explodes from the glyph. Each creature in that area must make a DC 17 Dexterity saving throw, taking `dice:5d8|noform|noparens|avg|text(22)` (`5d8`) fire damage on a failed save or half as much damage on a successful one. Once this trap is triggered, it can't be triggered again.
 
 This vault contains 1,900 gp, ten gems worth 100 gp each, and six paintings worth 250 gp each.
 
@@ -517,7 +517,7 @@ This vault is empty.
 
 ##### V12d: Leader's Gear
 
-Heaped on this vault's floor are Valendar's belongings, including his leather armor, a [[5. Mechanics/Items/Potion Of Greater Healing.md\|Potion of Healing (greater)]], a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Stoneskin.md\|Stoneskin]], and a brilliant-blue cloak emblazoned with the holy symbol of Habbakuk.
+Heaped on this vault's floor are Valendar's belongings, including his leather armor, a [[5. Mechanics/Items/Potion Of Greater Healing.md\|Potion of Healing (greater)]], a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Stoneskin.md\|Stoneskin]], and a brilliant-blue cloak emblazoned with the holy symbol of Habbakuk.
 
 #### V13: Ruined Vault
 

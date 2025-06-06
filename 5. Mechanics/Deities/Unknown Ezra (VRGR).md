@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/vrgr
   - deity/unknown
   - domain/unknown
+alignment: Unaligned
+category: Unknown
+domains: Unknown
+pantheon: Unknown
+symbol: Sprig of belladonna atop a silver kite shield
 aliases:
   - Ezra
 ---

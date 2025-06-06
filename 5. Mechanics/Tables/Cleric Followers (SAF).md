@@ -15,14 +15,14 @@ aliases:
 
 | dice: d100 | Follower |
 |------------|----------|
-| 01–04 | Regular Light Infantry (Size `dice:1d8\|noform\|avg` (`1d8`)), Unit |
-| 05–07 | Regular Medium Infantry (Size `dice:1d6\|noform\|avg` (`1d6`)), Unit |
-| 08–10 | Seasoned Medium Infantry (Size `dice:1d6\|noform\|avg` (`1d6`)), Unit |
-| 11–13 | Regular Heavy Infantry (Size `dice:1d6\|noform\|avg` (`1d6`)), Unit |
-| 14–15 | Regular Light Cavalry (Size `dice:1d6\|noform\|avg` (`1d6`)), Unit |
-| 16–17 | Regular Medium Cavalry (Size `dice:1d4\|noform\|avg` (`1d4`)), Unit |
-| 18–19 | Seasoned Heavy Cavalry (Size `dice:1d4\|noform\|avg` (`1d4`)), Unit |
-| 20 | Regular Medium Archers (Size `dice:1d4\|noform\|avg` (`1d4`)), Unit |
+| 01–04 | Regular Light Infantry (Size `dice:1d8\|noform\|noparens\|avg` (`d8`)), Unit |
+| 05–07 | Regular Medium Infantry (Size `dice:1d6\|noform\|noparens\|avg` (`d6`)), Unit |
+| 08–10 | Seasoned Medium Infantry (Size `dice:1d6\|noform\|noparens\|avg` (`d6`)), Unit |
+| 11–13 | Regular Heavy Infantry (Size `dice:1d6\|noform\|noparens\|avg` (`d6`)), Unit |
+| 14–15 | Regular Light Cavalry (Size `dice:1d6\|noform\|noparens\|avg` (`d6`)), Unit |
+| 16–17 | Regular Medium Cavalry (Size `dice:1d4\|noform\|noparens\|avg` (`d4`)), Unit |
+| 18–19 | Seasoned Heavy Cavalry (Size `dice:1d4\|noform\|noparens\|avg` (`d4`)), Unit |
+| 20 | Regular Medium Archers (Size `dice:1d4\|noform\|noparens\|avg` (`d4`)), Unit |
 | 21 | [[5. Mechanics/Bestiary/Humanoid/Loremaster (SAF).md\|Loremaster]] (3rd Level), Retainer |
 | 22 | [[5. Mechanics/Bestiary/Humanoid/Troubadour Warrior (SAF).md\|Troubadour-warrior]] (3rd Level), Retainer |
 | 23 | [[5. Mechanics/Bestiary/Humanoid/Swordmaster (SAF).md\|Swordmaster]] (3rd Level), Retainer |

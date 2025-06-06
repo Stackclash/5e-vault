@@ -8,6 +8,7 @@ tags:
 aliases:
   - Common Clothes
 cost: 50
+weight: 3
 ---
 # Common Clothes
 *Adventuring gear*  

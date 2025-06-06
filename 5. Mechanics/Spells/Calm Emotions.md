@@ -12,19 +12,37 @@ tags:
   - spell/subclass/divine-soul
   - spell/subclass/oath-of-redemption
   - spell/subclass/the-archfey
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Druid (Circle of Roses)
+  - Paladin (Oath of Redemption)
+  - Sorcerer (Aberrant Mind)
+  - Sorcerer (Divine Soul)
+  - Warlock (The Archfey)
 school: Enchantment
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 2
+ritual: false
+time: 1 Action
+duration: Up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Calm Emotions
+range: 60 feet
+save:
+  type: CHA
+  success: none
+area:
+  type: sphere
+  size: 20
+concentration: true
 ---
 # Calm Emotions
 *2nd-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -35,6 +53,6 @@ You can suppress any effect causing a target to be [[/5. Mechanics/Rules/Conditi
 
 Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer Aberrant Mind (TCE)\|Sorcerer (Aberrant Mind)]]; [[List Spells Classes Druid Circle Of Roses (KPDM)\|Druid (Circle of Roses)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Paladin Oath Of Redemption (XGE)\|Paladin (Oath of Redemption)]]; [[List Spells Classes Warlock The Archfey\|Warlock (The Archfey)]]
+**Classes**: [Sorcerer (Aberrant Mind)](compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Druid (Circle of Roses)](compendium/lists/list-spells-classes-circle-of-roses-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]; [Paladin (Oath of Redemption)](compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 221. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

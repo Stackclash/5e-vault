@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/dragonlance
   - domain/nature
+alignment: Neutral
+category: The Gods of Neutrality
+domains: Nature
+pantheon: Dragonlance
+symbol: Feather
 aliases:
   - Chislev
 ---

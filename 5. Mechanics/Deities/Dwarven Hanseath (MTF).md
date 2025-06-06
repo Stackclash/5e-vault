@@ -6,6 +6,12 @@ tags:
   - deity/dwarven
   - domain/trickery
   - domain/war
+alignment: Chaotic Neutral
+category: The Mordinsamman
+domains: 'Trickery, War'
+pantheon: Dwarven
+province: 'Festivity, brewing, song'
+symbol: Beer stein
 aliases:
   - Hanseath
 ---

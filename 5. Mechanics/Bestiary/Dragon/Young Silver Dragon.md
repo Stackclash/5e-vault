@@ -15,7 +15,7 @@ tags:
 aliases:
   - Young Silver Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young Silver Dragon.md|Young Silver Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Young Silver Dragon.md|Young Silver Dragon]]
 *Source: Monster Manual p. 118. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
@@ -99,48 +99,53 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "ac_class": "natural armor"
 "hp": !!int "168"
 "hit_dice": "16d10 + 80"
+"modifier": !!int "0"
 "stats":
-- !!int "23"
-- !!int "10"
-- !!int "21"
-- !!int "14"
-- !!int "11"
-- !!int "19"
+  - !!int "23"
+  - !!int "10"
+  - !!int "21"
+  - !!int "14"
+  - !!int "11"
+  - !!int "19"
 "speed": "40 ft., fly 80 ft."
 "saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "9"
+  - "dexterity": "+4"
+  - "constitution": "+9"
+  - "wisdom": "+4"
+  - "charisma": "+8"
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "8"
-  "History": !!int "6"
-  "Arcana": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "damage_immunities": "cold"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
 "languages": "Common, Draconic"
 "cr": "9"
 "actions":
-- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17\
-    \ (2d10 + 6) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6\
-    \ + 6) slashing damage."
-  "name": "Claw"
-- "desc": "The dragon uses one of the following breath weapons.\n\n- Cold Breath.\
-    \ The dragon exhales an icy blast in a 30-foot cone. Each creature in that area\
-    \ must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on\
-    \ a failed save, or half as much damage on a successful one.  \n- Paralyzing\
-    \ Breath. The dragon exhales paralyzing gas in a 30-foot cone. Each creature\
-    \ in that area must succeed on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
-    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success.  "
-  "name": "Breath Weapons (Recharge 5-6)"
+  - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17\
+      \ (2d10 + 6) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13\
+      \ (2d6 + 6) slashing damage."
+    "name": "Claw"
+  - "desc": "The dragon uses one of the following breath weapons.\n\n- Cold Breath.\
+      \ The dragon exhales an icy blast in a 30-foot cone. Each creature in that area\
+      \ must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage\
+      \ on a failed save, or half as much damage on a successful one.  \n- Paralyzing\
+      \ Breath. The dragon exhales paralyzing gas in a 30-foot cone. Each creature\
+      \ in that area must succeed on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
+      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success.  "
+    "name": "Breath Weapons (Recharge 5-6)"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Dragon/token/young-silver-dragon.webp"
 ```
 ^statblock

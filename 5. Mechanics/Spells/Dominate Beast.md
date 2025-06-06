@@ -16,19 +16,38 @@ tags:
   - spell/subclass/the-apex-predator
   - spell/subclass/the-archfey
   - spell/subclass/the-great-old-one
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Bard (Greenleaf College)
+  - Cleric (Nature Domain)
+  - Druid
+  - Paladin (Oath of Conquest)
+  - Ranger
+  - Sorcerer
+  - Warlock (The Apex Predator)
+  - Warlock (The Archfey)
+  - Warlock (The Great Old One)
+  - Wizard (Hedge Mage)
 school: Enchantment
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 4
+ritual: false
+time: 1 Action
+duration: Up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Dominate Beast
+range: 60 feet
+save:
+  type: WIS
+  success: none
+concentration: true
 ---
 # Dominate Beast
 *4th-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -43,6 +62,6 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 **At Higher Levels.** When you cast this spell with a 5th-level spell slot, the duration is [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], up to 10 minutes. When you use a 6th-level spell slot, the duration is [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], up to 1 hour. When you use a spell slot of 7th level or higher, the duration is [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], up to 8 hours.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Bard Greenleaf College (KPDM)\|Bard (Greenleaf College)]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]; [[List Spells Classes Paladin Oath Of Conquest (XGE)\|Paladin (Oath of Conquest)]]; [[List Spells Classes Warlock The Apex Predator (HHHVIII)\|Warlock (The Apex Predator)]]; [[List Spells Classes Warlock The Archfey\|Warlock (The Archfey)]]; [[List Spells Classes Warlock The Great Old One\|Warlock (The Great Old One)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Bard (Greenleaf College)](compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [Warlock (The Apex Predator)](compendium/lists/list-spells-classes-the-apex-predator-hhhviii.md "subclass=HHHVIII"); [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of Conquest)](compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

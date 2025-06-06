@@ -10,16 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of Awakening
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Staff of Awakening
 *Staff, weapon, major, artifact (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Staff-of-Awakening.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
@@ -27,11 +28,11 @@ This fey staff's shaft is hewn from the wood of an ancient, mysterious oak in th
 
 ## Charges
 
-The staff has 10 charges for the following properties. It regains all expended charges daily at dawn. If you expend the staff's last charge and are not fey or lack the Fey Ancestry trait, roll a `dice:d20|noform|avg` (`d20`). On a 1, the staff disappears into a dreamlike mist and returns to the Ebony Glade in the realm of the fey.
+The staff has 10 charges for the following properties. It regains all expended charges daily at dawn. If you expend the staff's last charge and are not fey or lack the Fey Ancestry trait, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff disappears into a dreamlike mist and returns to the Ebony Glade in the realm of the fey.
 
 ## Sleep
 
-While holding the staff, you can use an action to expend 1 of its charges to cast the [[5. Mechanics/Spells/Sleep.md\|sleep]] spell from it. This version of the spell uses `dice:3d8|noform|avg` (`3d8`) to determine the maximum number of hit points for the spell, but targets a single creature within the spell's range instead. You can use the staff to cast the normal version of the spell at 1st level by expending 2 or more of its charges in this way, instead. For every 2 charges you spend after the 2nd, the level of the spell increases by 1.
+While holding the staff, you can use an action to expend 1 of its charges to cast the [[5. Mechanics/Spells/Sleep.md\|sleep]] spell from it. This version of the spell uses `dice:3d8|noform|noparens|avg` (`3d8`) to determine the maximum number of hit points for the spell, but targets a single creature within the spell's range instead. You can use the staff to cast the normal version of the spell at 1st level by expending 2 or more of its charges in this way, instead. For every 2 charges you spend after the 2nd, the level of the spell increases by 1.
 
 ## Destroying the Staff
 
@@ -43,7 +44,7 @@ Some properties of this artifact are locked behind layers of dormant magic. As y
 
 ## (Prerequisite:
 
-5th level) Nightmare. This staff can be wielded as a magic quarterstaff that deals an extra `dice:1d8|noform|avg` (`1d8`) psychic damage to any creature it hits. When you fail to put a creature to sleep with a [[5. Mechanics/Spells/Sleep.md\|sleep]] spell cast from the staff, that creature takes an amount of psychic damage equal to half the spell's remaining hit point total.
+5th level) Nightmare. This staff can be wielded as a magic quarterstaff that deals an extra `dice:1d8|noform|noparens|avg` (`d8`) psychic damage to any creature it hits. When you fail to put a creature to sleep with a [[5. Mechanics/Spells/Sleep.md\|sleep]] spell cast from the staff, that creature takes an amount of psychic damage equal to half the spell's remaining hit point total.
 
 ## (Prerequisite:
 
@@ -71,15 +72,15 @@ The Staff of Awakening is dreamlike in its whims and wishes, and it always seems
 
 ## Dream Aura
 
-While holding the staff, you can use an action to create an aura of dreams, which extends from you in a 40-foot radius. When a creature starts its turn within the aura with fewer than half its maximum hit points remaining, it immediately regains a number of hit points equal to `dice:1d8|noform|avg` (`1d8`) plus your spellcasting ability modifier if it's friendly to you, or takes psychic damage equal to that amount instead if it's hostile. The aura remains for 1 minute or until you end it early (no action required). Once this property of the staff has been used, it can't be used again until the next dawn. Alternatively, you can use an action to expend 10 charges from the staff to use this property again.
+While holding the staff, you can use an action to create an aura of dreams, which extends from you in a 40-foot radius. When a creature starts its turn within the aura with fewer than half its maximum hit points remaining, it immediately regains a number of hit points equal to `dice:1d8|noform|noparens|avg` (`d8`) plus your spellcasting ability modifier if it's friendly to you, or takes psychic damage equal to that amount instead if it's hostile. The aura remains for 1 minute or until you end it early (no action required). Once this property of the staff has been used, it can't be used again until the next dawn. Alternatively, you can use an action to expend 10 charges from the staff to use this property again.
 
 ## Improved Nightmare
 
-When you hit a creature with the staff, you can expend 1 of its charges to deal an extra `dice:2d8|noform|avg` (`2d8`) psychic damage to the target.
+When you hit a creature with the staff, you can expend 1 of its charges to deal an extra `dice:2d8|noform|noparens|avg` (`2d8`) psychic damage to the target.
 
 ## Increased Charges
 
-The staff's maximum number of charges increases to 20; it regains `dice:1d10+10|noform|avg` (`1d10 + 10`) expended charges daily at dawn, instead of all of them. In addition, if you expend its last charge, you don't need to roll a `dice:d20|noform|avg` (`d20`) if you aren't fey or lack the Fey Ancestry trait.
+The staff's maximum number of charges increases to 20; it regains `dice:1d10+10|noform|noparens|avg` (`1d10 + 10`) expended charges daily at dawn, instead of all of them. In addition, if you expend its last charge, you don't need to roll a `dice:d20|noform|noparens|avg` (`d20`) if you aren't fey or lack the Fey Ancestry trait.
 
 ## Plane Shift
 

@@ -12,19 +12,30 @@ tags:
   - spell/subclass/oath-of-thunder
   - spell/subclass/the-valiant
   - spell/subclass/travel-domain
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Cleric (Travel Domain)
+  - Paladin
+  - Paladin (Oath of Thunder)
+  - Ranger (Griffon Scout)
+  - Ranger (Marshwarden)
+  - Warlock (The Valiant)
 school: Conjuration
-time: 10 minute
+level: 2
+ritual: false
+time: 10 minutes
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Find Steed
+range: 30 feet
 ---
 # Find Steed
 *2nd-level, Conjuration*  
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
@@ -39,6 +50,6 @@ While your steed is within 1 mile of you, you can communicate with each other te
 
 You can't have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Ranger Griffon Scout (KPDM)\|Ranger (Griffon Scout)]]; [[List Spells Classes Ranger Marshwarden (GRIFFONSSADDLEBAG3)\|Ranger (Marshwarden)]]; [[List Spells Classes Paladin Oath Of Thunder (KPDM)\|Paladin (Oath of Thunder)]]; [[List Spells Classes Warlock The Valiant (GRIFFONSSADDLEBAG3)\|Warlock (The Valiant)]]; [[List Spells Classes Cleric Travel Domain (KPDM)\|Cleric (Travel Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Ranger (Marshwarden)](compendium/lists/list-spells-classes-marshwarden-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Warlock (The Valiant)](compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Ranger (Griffon Scout)](compendium/lists/list-spells-classes-griffon-scout-kpdm.md "subclass=KPDM"); [Cleric (Travel Domain)](compendium/lists/list-spells-classes-travel-domain-kpdm.md "subclass=KPDM"); [Paladin (Oath of Thunder)](compendium/lists/list-spells-classes-oath-of-thunder-kpdm.md "subclass=KPDM")
 
 *Source: Player's Handbook p. 240. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

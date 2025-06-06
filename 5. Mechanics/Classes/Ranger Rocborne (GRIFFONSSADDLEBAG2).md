@@ -8,7 +8,7 @@ aliases:
   - Rocborne
 ---
 # Rocborne
-*[[Ranger.md\|Ranger]]: Ranger Archetype*  
+*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
 *Source: The Griffon's Saddlebag, Book 2 p. 222*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Rocborne%20(Level%203)'>Rocborne</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Rocborne (Level 3)' class='internal-link'>Rocborne</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Windswept%20(Level%207)'>Windswept</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Windswept (Level 7)' class='internal-link'>Windswept</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Soar%20(Level%2011)'>Soar</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Soar (Level 11)' class='internal-link'>Soar</a></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Hurricane%20(Level%2015)'>Hurricane</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Hurricane (Level 15)' class='internal-link'>Hurricane</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -67,7 +68,7 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 Starting at 3rd level, when you make an attack, you can whisper to the wind to have it aid your strikes. Once on each of your turns, you can choose to gain one of the following benefits:
 
-- When you hit with a weapon attack, the target takes an extra `dice:1d4|noform|avg` (`1d4`) damage of the weapon's type. When you reach 11th level in this class, the extra damage increases to `dice:1d8|noform|avg` (`1d8`).  
+- When you hit with a weapon attack, the target takes an extra `dice:1d4|noform|noparens|avg` (`d4`) damage of the weapon's type. When you reach 11th level in this class, the extra damage increases to `dice:1d8|noform|noparens|avg` (`d8`).  
 - When you miss with a weapon attack, you can change its trajectory to attack a different target up to 5 feet away from the original one and within range of your weapon. When you do, your attack roll against the new target is equal to the original attack roll plus your Wisdom modifier (minimum of +0). When you reach 11th level in this class, the new target can be up to 15 feet away as long as it's still within range of your weapon.  
 
 ### Whispers of Knowledge (Level 3)

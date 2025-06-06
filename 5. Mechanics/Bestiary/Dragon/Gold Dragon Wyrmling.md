@@ -13,7 +13,7 @@ tags:
 aliases:
   - Gold Dragon Wyrmling
 ---
-# [[5. Mechanics/Bestiary/Dragon/Gold Dragon Wyrmling.md|Gold Dragon Wyrmling]]
+# [[5. Mechanics\Bestiary\Dragon\Gold Dragon Wyrmling.md|Gold Dragon Wyrmling]]
 *Source: Monster Manual p. 115. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
@@ -93,45 +93,48 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "ac_class": "natural armor"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
+"modifier": !!int "2"
 "stats":
-- !!int "19"
-- !!int "14"
-- !!int "17"
-- !!int "14"
-- !!int "11"
-- !!int "16"
+  - !!int "19"
+  - !!int "14"
+  - !!int "17"
+  - !!int "14"
+  - !!int "11"
+  - !!int "16"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "5"
+  - "dexterity": "+4"
+  - "constitution": "+5"
+  - "wisdom": "+2"
+  - "charisma": "+5"
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "damage_immunities": "fire"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "3"
 "traits":
-- "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
+  - "desc": "The dragon can breathe air and water."
+    "name": "Amphibious"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10\
-    \ + 4) piercing damage."
-  "name": "Bite"
-- "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
-    \ The dragon exhales fire in a 15-foot cone. Each creature in that area must make\
-    \ a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save,\
-    \ or half as much damage on a successful one.  \n- Weakening Breath. The dragon\
-    \ exhales gas in a 15-foot cone. Each creature in that area must succeed on a\
-    \ DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls,\
-    \ Strength checks, and Strength saving throws for 1 minute. A creature can repeat\
-    \ the saving throw at the end of each of its turns, ending the effect on itself\
-    \ on a success.  "
-  "name": "Breath Weapons (Recharge 5-6)"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10\
+      \ + 4) piercing damage."
+    "name": "Bite"
+  - "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
+      \ The dragon exhales fire in a 15-foot cone. Each creature in that area must\
+      \ make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed\
+      \ save, or half as much damage on a successful one.  \n- Weakening Breath.\
+      \ The dragon exhales gas in a 15-foot cone. Each creature in that area must\
+      \ succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based\
+      \ attack rolls, Strength checks, and Strength saving throws for 1 minute. A\
+      \ creature can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success.  "
+    "name": "Breath Weapons (Recharge 5-6)"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Dragon/token/gold-dragon-wyrmling.webp"
 ```
 ^statblock

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Incubus
 ---
-# [[5. Mechanics/Bestiary/Fiend/Incub(US).md|Incubus]]
+# [[5. Mechanics\Bestiary\Fiend\Incub(US).md|Incubus]]
 *Source: Monster Manual p. 285, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Succubi and incubi inhabit all of the Lower Planes, and the lascivious dark-winged fiends can be found in service to devils, demons, night hags, rakshasas, and yugoloths. Asmodeus, ruler of the Nine Hells, uses these fiends to tempt mortals to perform evil acts. The demon lord Graz'zt keeps succubi and incubi as advisers and consorts.
@@ -49,64 +49,70 @@ Succubi and incubi can reproduce with one another to spawn more of their kind. L
 "ac_class": "natural armor"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
+"modifier": !!int "3"
 "stats":
-- !!int "8"
-- !!int "17"
-- !!int "13"
-- !!int "15"
-- !!int "12"
-- !!int "20"
+  - !!int "8"
+  - !!int "17"
+  - !!int "13"
+  - !!int "15"
+  - !!int "12"
+  - !!int "20"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  "Deception": !!int "9"
-  "Stealth": !!int "7"
-  "Insight": !!int "5"
-  "Perception": !!int "5"
-  "Persuasion": !!int "9"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+9"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
+    "desc": "+9"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+7"
 "damage_resistances": "cold; fire; lightning; poison; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Infernal, telepathy 60 ft."
 "cr": "4"
 "traits":
-- "desc": "The fiend ignores the range restriction on its telepathy when communicating\
-    \ with a creature it has [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]. The\
-    \ two don't even need to be on the same plane of existence."
-  "name": "Telepathic Bond"
-- "desc": "The fiend can use its action to polymorph into a Small or Medium humanoid,\
-    \ or back into its true form. Without wings, the fiend loses its flying speed.\
-    \ Other than its size and speed, its statistics are the same in each form. Any\
-    \ equipment it is wearing or carrying isn't transformed. It reverts to its true\
-    \ form if it dies."
-  "name": "Shapechanger"
+  - "desc": "The fiend ignores the range restriction on its telepathy when communicating\
+      \ with a creature it has [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]].\
+      \ The two don't even need to be on the same plane of existence."
+    "name": "Telepathic Bond"
+  - "desc": "The fiend can use its action to polymorph into a Small or Medium humanoid,\
+      \ or back into its true form. Without wings, the fiend loses its flying speed.\
+      \ Other than its size and speed, its statistics are the same in each form. Any\
+      \ equipment it is wearing or carrying isn't transformed. It reverts to its true\
+      \ form if it dies."
+    "name": "Shapechanger"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
-    \ + 3) slashing damage."
-  "name": "Claw (Fiend Form Only)"
-- "desc": "One humanoid the fiend can see within 30 feet of it must succeed on a DC\
-    \ 15 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
-    \ for 1 day. The [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] target obeys\
-    \ the fiend's verbal or telepathic commands. If the target suffers any harm or\
-    \ receives a suicidal command, it can repeat the saving throw, ending the effect\
-    \ on a success. If the target successfully saves against the effect, or if the\
-    \ effect on it ends, the target is immune to this fiend's Charm for the next 24\
-    \ hours.\n\nThe fiend can have only one target [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
-    \ at a time. If it charms another, the effect on the previous target ends."
-  "name": "Charm"
-- "desc": "The fiend kisses a creature [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
-    \ by it or a willing creature. The target must make a DC 15 Constitution saving\
-    \ throw against this magic, taking 32 (5d10 + 5) psychic damage on a failed save,\
-    \ or half as much damage on a successful one. The target's hit point maximum is\
-    \ reduced by an amount equal to the damage taken. This reduction lasts until the\
-    \ target finishes a long rest. The target dies if this effect reduces its hit\
-    \ point maximum to 0."
-  "name": "Draining Kiss"
-- "desc": "The fiend magically enters the Ethereal Plane from the Material Plane,\
-    \ or vice versa."
-  "name": "Etherealness"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+      \ + 3) slashing damage."
+    "name": "Claw (Fiend Form Only)"
+  - "desc": "One humanoid the fiend can see within 30 feet of it must succeed on a\
+      \ DC 15 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+      \ for 1 day. The [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] target obeys\
+      \ the fiend's verbal or telepathic commands. If the target suffers any harm\
+      \ or receives a suicidal command, it can repeat the saving throw, ending the\
+      \ effect on a success. If the target successfully saves against the effect,\
+      \ or if the effect on it ends, the target is immune to this fiend's Charm for\
+      \ the next 24 hours.\n\nThe fiend can have only one target [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+      \ at a time. If it charms another, the effect on the previous target ends."
+    "name": "Charm"
+  - "desc": "The fiend kisses a creature [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+      \ by it or a willing creature. The target must make a DC 15 Constitution saving\
+      \ throw against this magic, taking 32 (5d10 + 5) psychic damage on a failed\
+      \ save, or half as much damage on a successful one. The target's hit point maximum\
+      \ is reduced by an amount equal to the damage taken. This reduction lasts until\
+      \ the target finishes a long rest. The target dies if this effect reduces its\
+      \ hit point maximum to 0."
+    "name": "Draining Kiss"
+  - "desc": "The fiend magically enters the Ethereal Plane from the Material Plane,\
+      \ or vice versa."
+    "name": "Etherealness"
 "source":
-- "MM"
-- "TCE"
+  - "MM"
+  - "TCE"
 "image": "5. Mechanics/Bestiary/Fiend/token/incubus.webp"
 ```
 ^statblock

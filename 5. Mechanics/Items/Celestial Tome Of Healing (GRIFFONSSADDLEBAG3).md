@@ -18,6 +18,6 @@ This golden-paged tome has a diamond embedded in its cover, which emits a soft g
 
 In addition, your connection to the book gives you magical insight to theology. While the book is on your person, you have advantage on Intelligence ([[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]) checks and on ability checks regarding celestials.
 
-When you use your Arcane Recovery feature while the book is on your person, you also regain `dice:1d4|noform|avg` (`1d4`) hit points for each spell slot level you expended to cast a spell from the book since the last time you finished a long rest.
+When you use your Arcane Recovery feature while the book is on your person, you also regain `dice:1d4|noform|noparens|avg` (`d4`) hit points for each spell slot level you expended to cast a spell from the book since the last time you finished a long rest.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

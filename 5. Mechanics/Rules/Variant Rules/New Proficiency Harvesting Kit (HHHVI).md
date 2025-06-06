@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhhvi
 aliases:
-  - 'New Proficiency: Harvesting Kit'
+  - New Proficiency: Harvesting Kit
 ---
 # New Proficiency: Harvesting Kit
 *Source: Hamund's Harvesting Handbook: Volume I p. 145, Hamund's Harvesting Handbook: Volume II p. 67, Hamund's Harvesting Handbook: Volume III p. 107* 

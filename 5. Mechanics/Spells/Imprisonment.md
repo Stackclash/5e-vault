@@ -8,24 +8,36 @@ tags:
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/abjuration
-level: 9th-level
-range: false
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 school: Abjuration
+level: 9
+ritual: false
 time: 1 minute
 duration: Until dispelled
-components: >-
-  V, S, a vellum depiction or a carved statuette in the likeness of the target,
-  and a special component that varies according to the version of the spell you
-  choose, worth at least 500 gp per Hit Die of the target
+components:
+  - V
+  - S
+  - M
 aliases:
   - Imprisonment
+range: 30 feet
+material: >-
+  A vellum depiction or a carved statuette in the likeness of the target, and a
+  special component that varies according to the version of the spell you
+  choose, worth at least 500gp per Hit Die of the target.
+save:
+  type: WIS
+  success: none
 ---
 # Imprisonment
 *9th-level, Abjuration*  
 
 - **Casting time:** 1 minute
 - **Range:** 30 feet
-- **Components:** V, S, a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target
+- **Components:** V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)
 - **Duration:** Until dispelled
 
 You create a magical restraint to hold a creature that you can see within range. The target must succeed on a Wisdom saving throw or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Divination spells can't locate or perceive the target.
@@ -72,6 +84,6 @@ You can use a particular special component to create only one prison at a time. 
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 252. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

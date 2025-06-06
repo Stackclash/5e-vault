@@ -9,20 +9,28 @@ tags:
   - spell/level/3rd-level
   - spell/school/enchantment
   - spell/subclass/arcane-trickster
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Enchantment
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 3
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Draconic Majesty
+concentration: true
 ---
 # Draconic Majesty
 *3rd-level, Enchantment*  
 
-- **Casting time:** 1 action
-- **Range:** Self (30-feet radius)
+- **Casting time:** 1 Action
+- **Range:** Self (30-foot Radius)
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
@@ -30,6 +38,6 @@ You exude the powerful presence of a dragon, frightening your enemies. For the d
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the radius increases by 30 feet for each slot level above 3rd, to a maximum of 120 feet for a slot of 6th level or higher.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 200*

@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/eberron
   - domain/tempest
+alignment: Neutral Evil
+category: The Dark Six
+domains: Tempest
+pantheon: Eberron
+symbol: Bundle of five sharpened bones
 aliases:
   - The Devourer
 ---

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Virtue
 ---
-# [[5. Mechanics/Bestiary/Celestial/Virtue (SAF).md|Virtue]]
+# [[5. Mechanics\Bestiary\Celestial\Virtue (SAF).md|Virtue]]
 *Source: Strongholds and Followers p. 159*
 
 A collection of mouths and hands that arrives and sings power, which is a totally normal thing to do. The Virtue is the Word of the Gods, and that word is death to evil. These songs are not spells, so magic resistance does not affect them. They are divine words spoken by a creature sent by the gods.
@@ -54,18 +54,19 @@ See? Proper Celestial gibberish!
 "ac_class": "natural armor"
 "hp": !!int "97"
 "hit_dice": "13d8 + 39"
+"modifier": !!int "1"
 "stats":
-- !!int "14"
-- !!int "13"
-- !!int "16"
-- !!int "16"
-- !!int "17"
-- !!int "20"
+  - !!int "14"
+  - !!int "13"
+  - !!int "16"
+  - !!int "16"
+  - !!int "17"
+  - !!int "20"
 "speed": "0 ft., fly 40 ft. (hover)"
 "saves":
-  "Charisma": !!int "8"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "6"
+  - "intelligence": "+6"
+  - "wisdom": "+6"
+  - "charisma": "+8"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -74,39 +75,40 @@ See? Proper Celestial gibberish!
 "languages": "all, telepathy 60 ft."
 "cr": "7"
 "traits":
-- "desc": "The Virtue has advantage on saving throws against spells and other magical\
-    \ effects from evil characters and sources."
-  "name": "Magic Resistance"
-- "desc": "Evil creatures have disadvantage on attack rolls against all allies within\
-    \ 5 feet of the Virtue. Allies in this area can't be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], or possessed by evil\
-    \ creatures. If an ally is already [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], or possessed by evil\
-    \ magic, the ally has advantage on any new saving throw against the relevant effect."
-  "name": "Aura of Protection Against Evil"
+  - "desc": "The Virtue has advantage on saving throws against spells and other magical\
+      \ effects from evil characters and sources."
+    "name": "Magic Resistance"
+  - "desc": "Evil creatures have disadvantage on attack rolls against all allies within\
+      \ 5 feet of the Virtue. Allies in this area can't be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+      \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], or possessed by\
+      \ evil creatures. If an ally is already [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+      \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], or possessed by\
+      \ evil magic, the ally has advantage on any new saving throw against the relevant\
+      \ effect."
+    "name": "Aura of Protection Against Evil"
 "actions":
-- "desc": "At the start of each of its turns, the Virtue chooses a chorus below and\
-    \ sings it. Only creatures who can hear the Virtue are affected by its chorus.\
-    \ It can only sing one chorus at a time. Any damage it takes forces it to make\
-    \ a Constitution saving throw to maintain the chorus. The DC equals 10 or half\
-    \ the damage taken, whichever number is higher."
-  "name": "Sing"
-- "desc": "While the Virtue sings, each ally may choose one condition they're suffering\
-    \ from at the start of their turn and end it."
-  "name": "Chorus of Succor"
-- "desc": "While the Virtue sings, each ally may add a d6 to the result of any attack\
-    \ roll or saving throw, once per round. The ally can wait until after they roll\
-    \ the d20 before deciding to use the inspiration die, but must decide before the\
-    \ GM says whether the roll succeeds or fails."
-  "name": "Chorus of Inspiration"
-- "desc": "While the Virtue sings, any enemy who deals damage to one of the Virtue's\
-    \ allies immediately takes 5 thunder damage."
-  "name": "Chorus of Retribution"
-- "desc": "While the Virtue sings, any extraplanar evil creatures have disadvantage\
-    \ on saving throws against spells that would send them to another plane."
-  "name": "Chorus of Damnation"
+  - "desc": "At the start of each of its turns, the Virtue chooses a chorus below\
+      \ and sings it. Only creatures who can hear the Virtue are affected by its chorus.\
+      \ It can only sing one chorus at a time. Any damage it takes forces it to make\
+      \ a Constitution saving throw to maintain the chorus. The DC equals 10 or half\
+      \ the damage taken, whichever number is higher."
+    "name": "Sing"
+  - "desc": "While the Virtue sings, each ally may choose one condition they're suffering\
+      \ from at the start of their turn and end it."
+    "name": "Chorus of Succor"
+  - "desc": "While the Virtue sings, each ally may add a d6 to the result of any attack\
+      \ roll or saving throw, once per round. The ally can wait until after they roll\
+      \ the d20 before deciding to use the inspiration die, but must decide before\
+      \ the GM says whether the roll succeeds or fails."
+    "name": "Chorus of Inspiration"
+  - "desc": "While the Virtue sings, any enemy who deals damage to one of the Virtue's\
+      \ allies immediately takes 5 thunder damage."
+    "name": "Chorus of Retribution"
+  - "desc": "While the Virtue sings, any extraplanar evil creatures have disadvantage\
+      \ on saving throws against spells that would send them to another plane."
+    "name": "Chorus of Damnation"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Virtue.png"
 ```
 ^statblock

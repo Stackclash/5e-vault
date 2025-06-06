@@ -16,7 +16,7 @@ tags:
 aliases:
   - Will-o'-Wisp
 ---
-# [[5. Mechanics/Bestiary/Undead/Will O Wisp.md|Will-o'-Wisp]]
+# [[5. Mechanics\Bestiary\Undead\Will O Wisp.md|Will-o'-Wisp]]
 *Source: Monster Manual p. 301, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.
@@ -47,13 +47,14 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 "ac": !!int "19"
 "hp": !!int "22"
 "hit_dice": "9d4"
+"modifier": !!int "9"
 "stats":
-- !!int "1"
-- !!int "28"
-- !!int "10"
-- !!int "13"
-- !!int "14"
-- !!int "11"
+  - !!int "1"
+  - !!int "28"
+  - !!int "10"
+  - !!int "13"
+  - !!int "14"
+  - !!int "11"
 "speed": "0 ft., fly 50 ft. (hover)"
 "damage_resistances": "acid; cold; fire; necrotic; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
@@ -66,34 +67,34 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 "languages": "the languages it knew in life"
 "cr": "2"
 "traits":
-- "desc": "As a bonus action, the will-o'-wisp can target one creature it can see\
-    \ within 5 feet of it that has 0 hit points and is still alive. The target must\
-    \ succeed on a DC 10 Constitution saving throw against this magic or die. If the\
-    \ target dies, the will-o'-wisp regains 10 (3d6) hit points."
-  "name": "Consume Life"
-- "desc": "The will-o'-wisp can't wear or carry anything."
-  "name": "Ephemeral"
-- "desc": "The will-o'-wisp can move through other creatures and objects as if they\
-    \ were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
-    \ an object."
-  "name": "Incorporeal Movement"
-- "desc": "The will-o'-wisp sheds bright light in a 5 to 20-foot radius and dim light\
-    \ for an additional number of ft. equal to the chosen radius. The will-o'-wisp\
-    \ can alter the radius as a bonus action."
-  "name": "Variable Illumination"
+  - "desc": "As a bonus action, the will-o'-wisp can target one creature it can see\
+      \ within 5 feet of it that has 0 hit points and is still alive. The target must\
+      \ succeed on a DC 10 Constitution saving throw against this magic or die. If\
+      \ the target dies, the will-o'-wisp regains 10 (3d6) hit points."
+    "name": "Consume Life"
+  - "desc": "The will-o'-wisp can't wear or carry anything."
+    "name": "Ephemeral"
+  - "desc": "The will-o'-wisp can move through other creatures and objects as if they\
+      \ were difficult terrain. It takes 5 (d10) force damage if it ends its turn\
+      \ inside an object."
+    "name": "Incorporeal Movement"
+  - "desc": "The will-o'-wisp sheds bright light in a 5 to 20-foot radius and dim\
+      \ light for an additional number of ft. equal to the chosen radius. The will-o'-wisp\
+      \ can alter the radius as a bonus action."
+    "name": "Variable Illumination"
 "actions":
-- "desc": "Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d8)\
-    \ lightning damage."
-  "name": "Shock"
-- "desc": "The will-o'-wisp and its light magically become [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ until it attacks or uses its Consume Life, or until its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
-    \ ends (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on\
-    \ a spell)."
-  "name": "Invisibility"
+  - "desc": "Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 9\
+      \ (2d8) lightning damage."
+    "name": "Shock"
+  - "desc": "The will-o'-wisp and its light magically become [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ until it attacks or uses its Consume Life, or until its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
+      \ ends (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
+      \ on a spell)."
+    "name": "Invisibility"
 "source":
-- "MM"
-- "CoS"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/will-o-wisp.webp"
 ```
 ^statblock

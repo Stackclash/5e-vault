@@ -10,24 +10,25 @@ tags:
   - item/weapon/simple
 aliases:
   - Royal Incinerator
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Royal Incinerator
 *Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, legendary (requires attunement by a druid, sorcerer, warlock, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Royal-Incinerator.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This crimson and gold staff exudes authority and is always warm to the touch. While held, a mote of harmless fire sparks into life and floats above its crownlike head.
 
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. On a hit, the target takes an extra `dice:1d8|noform|avg` (`1d8`) fire damage. You have resistance to fire damage while you hold this staff.
+This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. On a hit, the target takes an extra `dice:1d8|noform|noparens|avg` (`d8`) fire damage. You have resistance to fire damage while you hold this staff.
 
-The staff has 15 charges for the following properties. The staff regains `dice:2d6+3|noform|avg` (`2d6 + 3`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|avg` (`d20`). On a 1, the staff erupts into a pillar of flame and is destroyed. The flames erupt in a 20-foot-radius cylinder that's 80 feet tall. Each creature in the area must make a DC 17 Dexterity saving throw, taking `dice:8d6|noform|avg` (`8d6`) fire damage on a failed save, or half as much damage on a successful one.
+The staff has 15 charges for the following properties. The staff regains `dice:2d6+3|noform|noparens|avg` (`2d6 + 3`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff erupts into a pillar of flame and is destroyed. The flames erupt in a 20-foot-radius cylinder that's 80 feet tall. Each creature in the area must make a DC 17 Dexterity saving throw, taking `dice:8d6|noform|noparens|avg` (`8d6`) fire damage on a failed save, or half as much damage on a successful one.
 
 ## Protective Flames
 

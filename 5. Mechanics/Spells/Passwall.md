@@ -13,27 +13,41 @@ tags:
   - spell/subclass/labyrinth-domain
   - spell/subclass/oath-of-the-open-road
   - spell/subclass/travel-domain
-level: 5th-level
-range: false
+classes:
+  - Artificer (Armorer)
+  - Bard
+  - Cleric (Carillon Domain)
+  - Cleric (Labyrinth Domain)
+  - Cleric (Travel Domain)
+  - Druid (Circle of the Land)
+  - Paladin (Oath of the Open Road)
+  - Wizard
 school: Transmutation
-time: 1 action
+level: 5
+ritual: false
+time: 1 Action
 duration: 1 hour
-components: 'V, S, a pinch of sesame seeds'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Passwall
+range: 30 feet
+material: A pinch of sesame seeds.
 ---
 # Passwall
 *5th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
-- **Components:** V, S, a pinch of sesame seeds
+- **Components:** V, S, M (a pinch of sesame seeds)
 - **Duration:** 1 hour
 
 A passage appears at a point of your choice that you can see on a wooden, plaster, or stone surface (such as a wall, a ceiling, or a floor) within range, and lasts for the duration. You choose the opening's dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.
 
 When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Artificer Armorer (TCE)\|Artificer (Armorer)]]; [[List Spells Classes Cleric Carillon Domain (GRIFFONSSADDLEBAG3)\|Cleric (Carillon Domain)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Cleric Labyrinth Domain (KPDM)\|Cleric (Labyrinth Domain)]]; [[List Spells Classes Paladin Oath Of The Open Road (GRIFFONSSADDLEBAG3)\|Paladin (Oath of the Open Road)]]; [[List Spells Classes Cleric Travel Domain (KPDM)\|Cleric (Travel Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Paladin (Oath of the Open Road)](compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Artificer (Armorer)](compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [Cleric (Labyrinth Domain)](compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Cleric (Travel Domain)](compendium/lists/list-spells-classes-travel-domain-kpdm.md "subclass=KPDM")
 
 *Source: Player's Handbook p. 264. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

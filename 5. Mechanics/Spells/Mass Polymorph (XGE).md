@@ -8,21 +8,30 @@ tags:
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/transmutation
-level: 9th-level
-range: false
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, a caterpillar cocoon'
+level: 9
+ritual: false
+time: 1 Action
+duration: up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Mass Polymorph
+concentration: true
+material: a caterpillar cocoon
 ---
 # Mass Polymorph
 *9th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
-- **Components:** V, S, a caterpillar cocoon
+- **Components:** V, S, M (a caterpillar cocoon)
 - **Duration:** Concentration, up to 1 hour
 
 You transform up to ten creatures of your choice that you can see within range. An unwilling target must succeed on a Wisdom saving throw to resist the transformation. An unwilling shapechanger automatically succeeds on the save.
@@ -35,6 +44,6 @@ The creature is limited in the actions it can perform by the nature of its new f
 
 The target's gear melds into the new form. The target can't activate, use, wield, or otherwise benefit from any of its equipment.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Xanathar's Guide to Everything p. 160*

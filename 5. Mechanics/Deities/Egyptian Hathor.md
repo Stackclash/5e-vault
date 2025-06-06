@@ -6,6 +6,10 @@ tags:
   - deity/egyptian
   - domain/life
   - domain/light
+alignment: Neutral Good
+domains: 'Life, Light'
+pantheon: Egyptian
+symbol: Horned cow's head with lunar disk
 aliases:
   - Hathor
 ---

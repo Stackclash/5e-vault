@@ -14,7 +14,7 @@ tags:
 aliases:
   - Yeti
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yeti.md|Yeti]]
+# [[5. Mechanics\Bestiary\Monstrosity\Yeti.md|Yeti]]
 *Source: Monster Manual p. 305. Available in the Basic Rules (2014)*
 
 A yeti's windborne howl sounds out across remote mountains, striking fear into the hearts of the scattered miners and herders that dwell there. These hulking creatures stalk alpine peaks in a ceaseless hunt for food. Their snow-white fur lets them move like ghosts against the frozen landscape. A yeti's icy simian eyes can freeze its prey in place.
@@ -53,48 +53,51 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 "ac_class": "natural armor"
 "hp": !!int "51"
 "hit_dice": "6d10 + 18"
+"modifier": !!int "1"
 "stats":
-- !!int "18"
-- !!int "13"
-- !!int "16"
-- !!int "8"
-- !!int "12"
-- !!int "7"
+  - !!int "18"
+  - !!int "13"
+  - !!int "16"
+  - !!int "8"
+  - !!int "12"
+  - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  "Stealth": !!int "3"
-  "Perception": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+3"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Yeti"
 "cr": "3"
 "traits":
-- "desc": "If the yeti takes fire damage, it has disadvantage on attack rolls and\
-    \ ability checks until the end of its next turn."
-  "name": "Fear of Fire"
-- "desc": "The yeti has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on smell."
-  "name": "Keen Smell"
-- "desc": "The yeti has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
-    \ checks made to hide in snowy terrain."
-  "name": "Snow Camouflage"
+  - "desc": "If the yeti takes fire damage, it has disadvantage on attack rolls and\
+      \ ability checks until the end of its next turn."
+    "name": "Fear of Fire"
+  - "desc": "The yeti has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on smell."
+    "name": "Keen Smell"
+  - "desc": "The yeti has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+      \ checks made to hide in snowy terrain."
+    "name": "Snow Camouflage"
 "actions":
-- "desc": "The yeti can use its Chilling Gaze and makes two claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
-    \ + 4) slashing damage plus 3 (1d6) cold damage."
-  "name": "Claw"
-- "desc": "The yeti targets one creature it can see within 30 feet of it. If the target\
-    \ can see the yeti, the target must succeed on a DC 13 Constitution saving throw\
-    \ against this magic or take 10 (3d6) cold damage and then be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
-    \ for 1 minute, unless it is immune to cold damage. The target can repeat the\
-    \ saving throw at the end of each of its turns, ending the effect on itself on\
-    \ a success. If the target's saving throw is successful, or if the effect ends\
-    \ on it, the target is immune to the Chilling Gaze of all yetis (but not abominable\
-    \ yetis) for 1 hour."
-  "name": "Chilling Gaze"
+  - "desc": "The yeti can use its Chilling Gaze and makes two claw attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+      \ + 4) slashing damage plus 3 (d6) cold damage."
+    "name": "Claw"
+  - "desc": "The yeti targets one creature it can see within 30 feet of it. If the\
+      \ target can see the yeti, the target must succeed on a DC 13 Constitution saving\
+      \ throw against this magic or take 10 (3d6) cold damage and then be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
+      \ for 1 minute, unless it is immune to cold damage. The target can repeat the\
+      \ saving throw at the end of each of its turns, ending the effect on itself\
+      \ on a success. If the target's saving throw is successful, or if the effect\
+      \ ends on it, the target is immune to the Chilling Gaze of all yetis (but not\
+      \ abominable yetis) for 1 hour."
+    "name": "Chilling Gaze"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/yeti.webp"
 ```
 ^statblock

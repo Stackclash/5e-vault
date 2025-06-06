@@ -17,7 +17,7 @@ tags:
 aliases:
   - Clockwork Stone Defender
 ---
-# [[5. Mechanics/Bestiary/Construct/Clockwork Stone Defender (MPMM).md|Clockwork Stone Defender]]
+# [[5. Mechanics\Bestiary\Construct\Clockwork Stone Defender (MPMM).md|Clockwork Stone Defender]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*
 
 The thick plates of stone riveted onto a stone [[5. Mechanics/Items/Defender.md|defender]] give it substantial protection. Its chief role is as a bodyguard.
@@ -54,13 +54,13 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 | dice: d8 | Malfunction |
 |----------|-------------|
-| 1 | **Faulty Sensors.** Roll a `dice:d6\|noform\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] until the end of its turn. |
-| 2 | **Flawed Targeting.** Roll a `dice:d6\|noform\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
+| 1 | **Faulty Sensors.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] until the end of its turn. |
+| 2 | **Flawed Targeting.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
 | 3 | **Ground Fault.** The clockwork has vulnerability to lightning damage. |
-| 4 | **Imprinting Loop.** Roll a `dice:d6\|noform\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
+| 4 | **Imprinting Loop.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
 | 5 | **Limited Steering.** The clockwork must move in a straight line. It can turn up to 90 degrees before moving and again at the midpoint of its movement. It can rotate freely if it doesn't use any of its speeds on its turn. |
-| 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `dice:d6\|noform\|avg` (`d6`). If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
-| 7 | **Overheats.** Roll a `dice:d6\|noform\|avg` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] until the end of its turn. |
+| 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `dice:d6\|noform\|noparens\|avg` (`d6`). If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
+| 7 | **Overheats.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] until the end of its turn. |
 | 8 | **Rusty Gears.** The clockwork has disadvantage on initiative rolls, and its speed decreases by 10 feet. |
 ^clockwork-malfunctions
 
@@ -73,13 +73,14 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 "ac_class": "natural armor"
 "hp": !!int "105"
 "hit_dice": "14d8 + 42"
+"modifier": !!int "0"
 "stats":
-- !!int "19"
-- !!int "10"
-- !!int "17"
-- !!int "3"
-- !!int "10"
-- !!int "1"
+  - !!int "19"
+  - !!int "10"
+  - !!int "17"
+  - !!int "3"
+  - !!int "10"
+  - !!int "1"
 "speed": "30 ft."
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -89,25 +90,25 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 "languages": "understands one language of its creator but can't speak"
 "cr": "4"
 "traits":
-- "desc": "The clockwork has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- "desc": "The clockwork doesn't require air, food, drink, or sleep."
-  "name": "Unusual Nature"
+  - "desc": "The clockwork has advantage on saving throws against spells and other\
+      \ magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The clockwork doesn't require air, food, drink, or sleep."
+    "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6\
-    \ + 4) bludgeoning damage, and if the target is Large or smaller, it is knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
-  "name": "Slam"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
+      \ (2d6 + 4) bludgeoning damage, and if the target is Large or smaller, it is\
+      \ knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+    "name": "Slam"
 "reactions":
-- "desc": "In response to another creature within 5 feet of it being hit by an attack\
-    \ roll, the clockwork gives that creature a +5 bonus to its AC against that attack,\
-    \ potentially causing a miss. To use this ability, the clockwork must be able\
-    \ to see the creature and the attacker."
-  "name": "Intercept Attack"
+  - "desc": "In response to another creature within 5 feet of it being hit by an attack\
+      \ roll, the clockwork gives that creature a +5 bonus to its AC against that\
+      \ attack, potentially causing a miss. To use this ability, the clockwork must\
+      \ be able to see the creature and the attacker."
+    "name": "Intercept Attack"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Construct/token/clockwork-stone-defender-mpmm.webp"
 ```
 ^statblock

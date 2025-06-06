@@ -27,4 +27,4 @@ The region containing a storm giant quintessent's lair is warped by the giant's 
 - Rain, snow, or blowing dust or sand (whichever is most appropriate) is constant within 1 mile of the lair. Rain causes rivers and streams to fill or overflow their banks; snow, dust, or sand form deep drifts or dunes.  
 - Flashes of lightning and peals of thunder are continual, day and night, within 5 miles of the lair.  
 
-If the giant dies, the lightning, thunder, and high wind regional effects end immediately. Rain, snow, and blowing dust abate gradually within `dice:1d8|noform|avg` (`1d8`) days.
+If the giant dies, the lightning, thunder, and high wind regional effects end immediately. Rain, snow, and blowing dust abate gradually within `dice:1d8|noform|noparens|avg` (`d8`) days.

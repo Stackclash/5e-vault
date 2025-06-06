@@ -10,19 +10,26 @@ tags:
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/conjuration
-level: 7th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Wizard
 school: Conjuration
-time: 1 action
+level: 7
+ritual: false
+time: 1 Action
 duration: 1 minute
-components: V
+components:
+  - V
 aliases:
   - Ice Soldiers
 ---
 # Ice Soldiers
 *7th-level, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** 1 minute
@@ -31,6 +38,6 @@ You pour water from the vial and cause two [[5. Mechanics/Bestiary/Construct/Ice
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, you create one additional [[5. Mechanics/Bestiary/Construct/Ice Soldier (KPDM).md\|ice soldier]].
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 82*

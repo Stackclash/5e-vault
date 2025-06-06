@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/drow
   - domain/war
+alignment: Chaotic Evil
+category: The Dark Seldarine
+domains: War
+pantheon: Drow
+province: 'Warriors, slaughter'
+symbol: Spider over crossed sword and mace
 aliases:
   - Selvetarm
 ---
@@ -18,7 +24,7 @@ aliases:
 - **Province**: Warriors, slaughter
 - **Symbol**: Spider over crossed sword and mace
 
-Drow regard Selvetarm as the Champion of Lolth and the patron of drow warriors. He is portrayed as an eightarmed drow that represents the epitome of fighting prowess. But Lolth rarely looses her champion to do her bidding, keeping him snared by unbreakable webs that she removes only in times of direst need.
+Drow regard Selvetarm as the Champion of Lolth and the patron of drow warriors. He is portrayed as an eight-armed drow that represents the epitome of fighting prowess. But Lolth rarely looses her champion to do her bidding, keeping him snared by unbreakable webs that she removes only in times of direst need.
 
 The dark elves believe that Selvetarm walked in solitude for many centuries, spurning both Lolth and Corellon, for he was not wholly given over to evil but neither was he fully aligned with the forces of light. Eventually his path crossed that of Eilistraee, and he began to appreciate the goodness of the Dark Maiden, as exhibited in her teachings and deeds. By aiding in Selvetarm's redemption, Eilistraee hoped to begin to heal the breach between drow and the Seldarine. That hope was dashed, however, by the insidious plotting of Lolth.
 

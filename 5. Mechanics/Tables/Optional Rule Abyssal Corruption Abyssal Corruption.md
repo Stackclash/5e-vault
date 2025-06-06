@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/dmg
 aliases:
-  - 'Optional Rule: Abyssal Corruption; Abyssal Corruption'
+  - Optional Rule: Abyssal Corruption; Abyssal Corruption
 ---
 # Optional Rule: Abyssal Corruption; Abyssal Corruption
 *Source: Dungeon Master's Guide p. 62* 

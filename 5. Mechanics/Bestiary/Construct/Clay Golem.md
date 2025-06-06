@@ -13,7 +13,7 @@ tags:
 aliases:
   - Clay Golem
 ---
-# [[5. Mechanics/Bestiary/Construct/Clay Golem.md|Clay Golem]]
+# [[5. Mechanics\Bestiary\Construct\Clay Golem.md|Clay Golem]]
 *Source: Monster Manual p. 168, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Sculpted from clay, this bulky golem stands head and shoulders taller than most human-sized creatures. It is human shaped, but its proportions are off.
@@ -28,7 +28,7 @@ Clay golems are often divinely endowed with purpose by priests of great faith. H
 
 Golems are made from humble materials-clay, flesh and bones, iron, or stone-but they possess astonishing power and durability. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. An unstoppable juggernaut, it exists to follow its creator's orders, and it protects or attacks as that creator demands.
 
-To create a golem, one requires a [[5. Mechanics/Items/Manual Of Golems (DMG).md|manual of golems]]. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
+To create a golem, one requires a [[5. Mechanics/Items/Manual Of Golems.md|manual of golems]]. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
 
 ### Elemental Spirit in Material Form
 
@@ -61,13 +61,14 @@ A golem doesn't require air, food, drink, or sleep.
 "ac_class": "natural armor"
 "hp": !!int "133"
 "hit_dice": "14d10 + 56"
+"modifier": !!int "-1"
 "stats":
-- !!int "20"
-- !!int "9"
-- !!int "18"
-- !!int "3"
-- !!int "8"
-- !!int "1"
+  - !!int "20"
+  - !!int "9"
+  - !!int "18"
+  - !!int "3"
+  - !!int "8"
+  - !!int "1"
 "speed": "20 ft."
 "damage_immunities": "acid; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
@@ -78,40 +79,40 @@ A golem doesn't require air, food, drink, or sleep.
 "languages": "understands the languages of its creator but can't speak"
 "cr": "9"
 "traits":
-- "desc": "Whenever the golem is subjected to acid damage, it takes no damage and\
-    \ instead regains a number of hit points equal to the acid damage dealt."
-  "name": "Acid Absorption"
-- "desc": "Whenever the golem starts its turn with 60 hit points or fewer, roll a\
-    \ d6. On a 6, the golem goes berserk. On each of its turns while berserk, the\
-    \ golem attacks the nearest creature it can see. If no creature is near enough\
-    \ to move to and attack, the golem attacks an object, with preference for an object\
-    \ smaller than itself. Once the golem goes berserk, it continues to do so until\
-    \ it is destroyed or regains all its hit points."
-  "name": "Berserk"
-- "desc": "The golem is immune to any spell or effect that would alter its form."
-  "name": "Immutable Form"
-- "desc": "The golem has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- "desc": "The golem's weapon attacks are magical."
-  "name": "Magic Weapons"
+  - "desc": "Whenever the golem is subjected to acid damage, it takes no damage and\
+      \ instead regains a number of hit points equal to the acid damage dealt."
+    "name": "Acid Absorption"
+  - "desc": "Whenever the golem starts its turn with 60 hit points or fewer, roll\
+      \ a d6. On a 6, the golem goes berserk. On each of its turns while berserk,\
+      \ the golem attacks the nearest creature it can see. If no creature is near\
+      \ enough to move to and attack, the golem attacks an object, with preference\
+      \ for an object smaller than itself. Once the golem goes berserk, it continues\
+      \ to do so until it is destroyed or regains all its hit points."
+    "name": "Berserk"
+  - "desc": "The golem is immune to any spell or effect that would alter its form."
+    "name": "Immutable Form"
+  - "desc": "The golem has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
+  - "desc": "The golem's weapon attacks are magical."
+    "name": "Magic Weapons"
 "actions":
-- "desc": "The golem makes two slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10\
-    \ + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC\
-    \ 15 Constitution saving throw or have its hit point maximum reduced by an amount\
-    \ equal to the damage taken. The target dies if this attack reduces its hit point\
-    \ maximum to 0. The reduction lasts until removed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-    \ spell or other magic."
-  "name": "Slam"
-- "desc": "Until the end of its next turn, the golem magically gains a +2 bonus to\
-    \ its AC, has advantage on Dexterity saving throws, and can use its slam attack\
-    \ as a bonus action."
-  "name": "Haste (Recharge 5-6)"
+  - "desc": "The golem makes two slam attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16\
+      \ (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed\
+      \ on a DC 15 Constitution saving throw or have its hit point maximum reduced\
+      \ by an amount equal to the damage taken. The target dies if this attack reduces\
+      \ its hit point maximum to 0. The reduction lasts until removed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater\
+      \ restoration]] spell or other magic."
+    "name": "Slam"
+  - "desc": "Until the end of its next turn, the golem magically gains a +2 bonus\
+      \ to its AC, has advantage on Dexterity saving throws, and can use its slam\
+      \ attack as a bonus action."
+    "name": "Haste (Recharge 5-6)"
 "source":
-- "MM"
-- "CoS"
+  - "MM"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Construct/token/clay-golem.webp"
 ```
 ^statblock

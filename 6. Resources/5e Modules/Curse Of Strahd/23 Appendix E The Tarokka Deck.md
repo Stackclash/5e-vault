@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/cos
 aliases:
-  - 'Appendix E: The Tarokka Deck'
+  - Appendix E: The Tarokka Deck
 ---
 # Appendix E: The Tarokka Deck
 *Source: Curse of Strahd, p. 243* 
@@ -19,7 +19,7 @@ Anyone can craft a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|deck of tarokka c
 
 A [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]] has fifty-four cards, each of which has its own name. Forty of them comprise the common deck, which is divided into four suits: swords, coins, stars, and glyphs.
 
-Each suit contains cards numbered one through nine, plus a tenth card that is called the master of that suit. A card can be referred to by its suit designation or by its name. For instance, the three of glyphs is also known as the [[5. Mechanics/Decks/Tarokka Deck (COS).md#healer\|healer]], and the [[5. Mechanics/Decks/Tarokka Deck (COS).md#wizard\|wizard]] card is also known as the master of stars.
+Each suit contains cards numbered one through nine, plus a tenth card that is called the master of that suit. A card can be referred to by its suit designation or by its name. For instance, the three of glyphs is also known as the [[5. Mechanics/Decks/Tarokka Deck (COS).md#Healer\|healer]], and the [[5. Mechanics/Decks/Tarokka Deck (COS).md#Wizard\|wizard]] card is also known as the master of stars.
 
 The remaining fourteen cards make up the high deck, which symbolizes the natural forces of the multiverse. These cards are represented by a crown symbol and are the most powerful cards in the deck.
 

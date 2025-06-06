@@ -7,6 +7,7 @@ tags:
   - item/rarity/artifact
 aliases:
   - Book of Exalted Deeds
+weight: 5
 ---
 # Book of Exalted Deeds
 *Wondrous item, artifact (requires attunement by a creature of good alignment)*  
@@ -18,7 +19,7 @@ The definitive treatise on all that is good in the multiverse, the fabled Book o
 
 The Book of Exalted Deeds rarely lingers in one place. As soon as the book is read, it vanishes to some other corner of the multiverse where its moral guidance can bring light to a darkened world. Although attempts have been made to copy the work, efforts to do so fail to capture its magical nature or translate the benefits it offers to those pure of heart and firm of purpose.
 
-A heavy clasp, wrought to look like angel wings, keeps the book's contents secure. Only a creature of good alignment that is attuned to the book can release the clasp that holds it shut. Once the book is opened, the attuned creature must spend 80 hours reading and studying the book to digest its contents and gain its benefits. Other creatures that peruse the book's open pages can read the text but glean no deeper meaning and reap no benefits. An evil creature that tries to read from the book takes `dice:24d6|noform|avg` (`24d6`) radiant damage. This damage ignores resistance and immunity, and can't be reduced or avoided by any means. A creature reduced to 0 hit points by this damage disappears in a blinding flash and is destroyed, leaving its possessions behind.
+A heavy clasp, wrought to look like angel wings, keeps the book's contents secure. Only a creature of good alignment that is attuned to the book can release the clasp that holds it shut. Once the book is opened, the attuned creature must spend 80 hours reading and studying the book to digest its contents and gain its benefits. Other creatures that peruse the book's open pages can read the text but glean no deeper meaning and reap no benefits. An evil creature that tries to read from the book takes `dice:24d6|noform|noparens|avg` (`24d6`) radiant damage. This damage ignores resistance and immunity, and can't be reduced or avoided by any means. A creature reduced to 0 hit points by this damage disappears in a blinding flash and is destroyed, leaving its possessions behind.
 
 Benefits granted by the Book of Exalted Deeds last only as long as you strive to do good. If you fail to perform at least one act of kindness or generosity within the span of 10 days, or if you willingly perform an evil act, you lose all the benefits granted by the book.
 
@@ -43,6 +44,6 @@ Once you've read and studied the book, you gain a protective halo. This halo she
 
 ## Destroying the Book
 
-It is rumored that the Book of Exalted Deeds can't be destroyed as long as good exists in the multiverse. However, drowning the book in the River Styx removes all writing and imagery from its pages and renders the book powerless for `dice:1d100|noform|avg` (`1d100`) years.
+It is rumored that the Book of Exalted Deeds can't be destroyed as long as good exists in the multiverse. However, drowning the book in the River Styx removes all writing and imagery from its pages and renders the book powerless for `dice:1d100|noform|noparens|avg` (`d100`) years.
 
 *Source: Dungeon Master's Guide p. 222*

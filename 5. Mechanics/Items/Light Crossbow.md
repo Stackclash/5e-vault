@@ -9,13 +9,14 @@ tags:
 aliases:
   - Light Crossbow
 cost: 2500
-one-hand-damage: 1d8 P
-range: 80/320
+one-hand-damage: 1d8 piercing
+range: 80\320
+weight: 5
 ---
 # Light Crossbow
 *Weapon*  
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Range**: 80/320
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Cost**: 25 gp

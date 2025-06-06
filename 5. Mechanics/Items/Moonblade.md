@@ -9,16 +9,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Moonblade
-one-hand-damage: 1d8 S
-two-hand-damage: 1d10 S
+one-hand-damage: 1d8 slashing
+two-hand-damage: 1d10 slashing
+weight: 3
 ---
 # Moonblade
 *Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), legendary (requires attunement by an elf or half-elf of neutral good alignment)*  
 ![[5. Mechanics/Items/img/moonblade.webp#right]]  
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 
@@ -30,7 +31,7 @@ A moonblade serves only one master at a time. The attunement process requires a 
 
 A moonblade won't serve anyone it regards as craven, erratic, corrupt, or at odds with preserving and protecting elvenkind. If the blade rejects you, you make ability checks, attack rolls, and saving throws with disadvantage for 24 hours. If the blade accepts you, you become attuned to it and a new rune appears on the blade. You remain attuned to the weapon until you die or the weapon is destroyed.
 
-A moonblade has one rune on its blade for each master it has served (typically `dice:1d6+1|noform|avg` (`1d6 + 1`)). The first rune always grants a +1 bonus to attack and damage rolls made with this magic weapon. Each rune beyond the first grants the moon blade an additional property. The DM chooses each property or determines it randomly on the Moon Blade Properties table.
+A moonblade has one rune on its blade for each master it has served (typically `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`)). The first rune always grants a +1 bonus to attack and damage rolls made with this magic weapon. Each rune beyond the first grants the moon blade an additional property. The DM chooses each property or determines it randomly on the Moon Blade Properties table.
 
 **Moonblade Properties**
 
@@ -44,8 +45,8 @@ A moonblade has one rune on its blade for each master it has served (typically `
 | 83-84 | The moonblade gains the thrown property (range 20/60 feet). |
 | 85-86 | The moonblade functions as a [[5. Mechanics/Items/Defender.md\|defender]]. |
 | 87-90 | The moon blade scores a critical hit on a roll of 19 or 20. |
-| 91-92 | When you hit with an attack using the moon blade, the attack deals an extra `dice:1d6\|noform\|avg` (`1d6`) slashing damage. |
-| 93-94 | When you hit a creature of a specific type (such as dragon, fiend, or undead) with the moonblade, the target takes an extra `dice:1d6\|noform\|avg` (`1d6`) damage of one of these types: acid, cold, fire, lightning, or thunder. |
+| 91-92 | When you hit with an attack using the moon blade, the attack deals an extra `dice:1d6\|noform\|noparens\|avg` (`d6`) slashing damage. |
+| 93-94 | When you hit a creature of a specific type (such as dragon, fiend, or undead) with the moonblade, the target takes an extra `dice:1d6\|noform\|noparens\|avg` (`d6`) damage of one of these types: acid, cold, fire, lightning, or thunder. |
 | 95-96 | You can use a bonus action to cause the moonblade to flash brightly. Each creature that can see you and is within 30 feet of you must succeed on a DC 15 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until you take a short rest while attuned to the weapon. |
 | 97-98 | The moonblade functions as a [[5. Mechanics/Items/Ring Of Spell Storing.md\|ring of spell storing]]. |
 | 99 | You can use an action to call forth an elfshadow, provided that you don't already have one serving you. The elfshadow appears in an unoccupied space within 120 feet of you. It uses the statistics for a [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]], except it is neutral, immune to effects that turn undead, and doesn't create new shadows. You control this creature, deciding how it acts and moves. It remains until it drops to 0 hit points or you dismiss it as an action. |

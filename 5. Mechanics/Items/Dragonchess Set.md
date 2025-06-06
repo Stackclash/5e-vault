@@ -8,6 +8,7 @@ tags:
 aliases:
   - Dragonchess Set
 cost: 100
+weight: 0.5
 ---
 # Dragonchess Set
 *Gaming set*  

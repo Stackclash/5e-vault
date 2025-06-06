@@ -8,6 +8,7 @@ tags:
 aliases:
   - Platinum (pp)
 cost: 1000
+weight: 0.02
 ---
 # Platinum (pp)
 *Treasure (coinage)*  

@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ironleaf Oaken Shield
 armorClass: 2
+weight: 6
 ---
 # Ironleaf Oaken Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement by a druid)*  

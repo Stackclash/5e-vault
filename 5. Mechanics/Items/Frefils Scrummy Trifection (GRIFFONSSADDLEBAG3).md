@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Frefil's Scrummy Trifection
+weight: 6
 ---
 # Frefil's Scrummy Trifection
 *Wondrous item, minor, common*  

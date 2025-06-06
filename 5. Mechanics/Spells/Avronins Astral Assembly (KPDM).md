@@ -9,21 +9,29 @@ tags:
   - spell/level/6th-level
   - spell/ritual
   - spell/school/necromancy
-level: 6th-level
-range: true
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 school: Necromancy
-time: 10 minute
-duration: 'Concentration, up to 1 hour'
-components: 'V, a spool of fine copper wire and a gem worth at least 100 gp for each target'
+level: 6
+ritual: true
+time: 10 minutes
+duration: up to 1 hour
+components:
+  - V
+  - M
 aliases:
   - Avronin's Astral Assembly
+concentration: true
+material: a spool of fine copper wire and a gem worth at least 100 gp for each target
 ---
 # Avronin's Astral Assembly
 *6th-level, Necromancy (ritual)*  
 
-- **Casting time:** 10 minute unless cast as a ritual
+- **Casting time:** 10 minutes unless cast as a ritual
 - **Range:** Unlimited
-- **Components:** V, a spool of fine copper wire and a gem worth at least 100 gp for each target
+- **Components:** V, M (a spool of fine copper wire and a gem worth at least 100 gp for each target)
 - **Duration:** Concentration, up to 1 hour
 
 You alert a number of creatures that you are familiar with, up to your spellcasting ability modifier (minimum of 1), of your intent to communicate with them through spiritual projection. The invitation can extend any distance and even cross to other planes of existence. Once notified, the creatures can choose to accept this communication at any time during the duration of the spell.
@@ -32,6 +40,6 @@ When a creature accepts, its spirit is projected into one of the gems used in ca
 
 A creature can end the spell's effect on itself voluntarily at any time, as can you. When the effect ends or the duration expires, a creature's spirit returns to its body and it regains consciousness. A creature that withdraws voluntarily from the assembly can't rejoin it even if the spell is still active. If a gem is broken while occupied by a creature's astral self, the spirit in the gem returns to its body and the creature suffers two levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]].
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 40*

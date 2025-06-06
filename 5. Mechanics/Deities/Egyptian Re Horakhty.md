@@ -6,6 +6,10 @@ tags:
   - deity/egyptian
   - domain/life
   - domain/light
+alignment: Lawful Good
+domains: 'Life, Light'
+pantheon: Egyptian
+symbol: Solar disk encircled by serpent
 aliases:
   - Re-Horakhty
 ---

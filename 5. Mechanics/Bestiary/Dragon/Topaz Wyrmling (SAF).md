@@ -13,7 +13,7 @@ tags:
 aliases:
   - Topaz Wyrmling
 ---
-# [[5. Mechanics/Bestiary/Dragon/Topaz Wyrmling (SAF).md|Topaz Wyrmling]]
+# [[5. Mechanics\Bestiary\Dragon\Topaz Wyrmling (SAF).md|Topaz Wyrmling]]
 *Source: Strongholds and Followers p. 219*
 
 The youngest species, the most enthusiastic about the world, the one you're most likely to meet, topaz dragons study magic obsessively, and their older kin consider this juvenile. When you're older you'll realize magic is just ambient interference from overlapping manifolds constrained by oblique functions. Well, poo on that, look, I made a fireball!
@@ -33,40 +33,45 @@ They're approachable and easy to talk to as long as you don't mind never getting
 "ac_class": "natural armor"
 "hp": !!int "27"
 "hit_dice": "6d8 + 0"
+"modifier": !!int "1"
 "stats":
-- !!int "12"
-- !!int "13"
-- !!int "10"
-- !!int "13"
-- !!int "11"
-- !!int "12"
+  - !!int "12"
+  - !!int "13"
+  - !!int "10"
+  - !!int "13"
+  - !!int "11"
+  - !!int "12"
 "speed": "30 ft., fly 60 ft. (hover)"
 "saves":
-  "Charisma": !!int "3"
-  "Dexterity": !!int "3"
-  "Wisdom": !!int "2"
-  "Intelligence": !!int "3"
+  - "dexterity": "+3"
+  - "intelligence": "+3"
+  - "wisdom": "+2"
+  - "charisma": "+3"
 "skillsaves":
-  "Religion": !!int "3"
-  "Insight": !!int "2"
-  "Perception": !!int "2"
-  "Arcana": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
+    "desc": "+3"
 "damage_vulnerabilities": "psychic"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 14"
 "languages": "Common, Draconic, telepathy 60 ft."
 "cr": "2"
 "traits":
-- "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Gemstone Dragon Psionics]].\
-    \ Charges: 6 • Recharge: 1d4 • Fracture: 5"
-  "name": ""
-- "desc": "All allies within 30 feet gain +1 on Intelligence checks and saving throws."
-  "name": "Uplift Aura"
+  - "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].\
+      \ Charges: 6 • Recharge: d4 • Fracture: 5"
+    "name": ""
+  - "desc": "All allies within 30 feet gain +1 on Intelligence checks and saving throws."
+    "name": "Uplift Aura"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d10\
-    \ + 1) piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d10\
+      \ + 1) piercing damage."
+    "name": "Bite"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Medium%20Topaz%20Dragon.png"
 ```
 ^statblock

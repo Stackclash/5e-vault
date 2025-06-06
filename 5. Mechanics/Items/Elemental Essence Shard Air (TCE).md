@@ -7,6 +7,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Elemental Essence Shard (Air)
+weight: 1
 ---
 # Elemental Essence Shard (Air)
 *Wondrous item, rare (requires attunement by a sorcerer)*  

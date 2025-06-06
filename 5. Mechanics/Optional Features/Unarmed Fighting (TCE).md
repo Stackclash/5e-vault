@@ -10,6 +10,6 @@ aliases:
 # Unarmed Fighting
 *Source: Tasha's Cauldron of Everything p. 42*  
 
-Your unarmed strikes can deal bludgeoning damage equal to `dice:1d6|noform|avg` (`1d6`) + your Strength modifier on a hit. If you aren't wielding any weapons or a [[5. Mechanics/Items/Shield.md\|shield]] when you make the attack roll, the `dice:d6|noform|avg` (`d6`) becomes a `dice:d8|noform|avg` (`d8`).
+Your unarmed strikes can deal bludgeoning damage equal to `dice:1d6|noform|noparens|avg` (`d6`) + your Strength modifier on a hit. If you aren't wielding any weapons or a [[5. Mechanics/Items/Shield.md\|shield]] when you make the attack roll, the `dice:d6|noform|noparens|avg` (`d6`) becomes a `dice:d8|noform|noparens|avg` (`d8`).
 
-At the start of each of your turns, you can deal `dice:1d4|noform|avg` (`1d4`) bludgeoning damage to one creature [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] by you.
+At the start of each of your turns, you can deal `dice:1d4|noform|noparens|avg` (`d4`) bludgeoning damage to one creature [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] by you.

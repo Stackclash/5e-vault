@@ -8,7 +8,7 @@ aliases:
   - Oath of Thunder
 ---
 # Oath of Thunder
-*[[Paladin.md\|Paladin]]: Sacred Oath*  
+*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
 *Source: Deep Magic p. 142*  
 
 > [!tldr] Class and Feature Progression
@@ -20,11 +20,11 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath%20of%20Thunder%20(Level%203)'>Oath of Thunder</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath of Thunder (Level 3)' class='internal-link'>Oath of Thunder</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Aura%20of%20Alacrity%20(Level%207)'>Aura of Alacrity</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Aura of Alacrity (Level 7)' class='internal-link'>Aura of Alacrity</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -32,14 +32,15 @@ aliases:
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Strike%20Like%20Lightning%20(Level%2015)'>Strike Like Lightning</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Strike Like Lightning (Level 15)' class='internal-link'>Strike Like Lightning</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Child%20of%20the%20Storm%20(Level%2020)'>Child of the Storm</a></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Child of the Storm (Level 20)' class='internal-link'>Child of the Storm</a></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -106,7 +107,7 @@ _Source: Deep Magic_
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-**Storm Strike**. As an action, you can use your Channel Divinity to infuse a ranged or thrown weapon you are holding with the wrath of a storm god. Make a ranged weapon attack as normal. In addition to the weapon attack, you create a line of lightning 5 feet wide and 60 feet long, beginning at you and extending straight toward the target. If the target is less than 60 feet from you, the line of lightning extends beyond it. Each creature in the line takes `dice:2d10|noform|avg` (`2d10`) + your paladin level lightning damage, or half damage with a successful Dexterity saving throw. If your ranged or thrown weapon attack hits, the target has disadvantage on its saving throw.
+**Storm Strike**. As an action, you can use your Channel Divinity to infuse a ranged or thrown weapon you are holding with the wrath of a storm god. Make a ranged weapon attack as normal. In addition to the weapon attack, you create a line of lightning 5 feet wide and 60 feet long, beginning at you and extending straight toward the target. If the target is less than 60 feet from you, the line of lightning extends beyond it. Each creature in the line takes `dice:2d10|noform|noparens|avg` (`2d10`) + your paladin level lightning damage, or half damage with a successful Dexterity saving throw. If your ranged or thrown weapon attack hits, the target has disadvantage on its saving throw.
 
 **Turn the Unclean**. As an action, you present your holy symbol and utter a war cry, using your Channel Divinity. Each aberration or fiend within 30 feet of you that can see or hear you must make a successful Wisdom saying throw or be turned for 1 minute or until it takes damage.
 
@@ -128,7 +129,7 @@ By using your action, you undergo a transformation. For 1 hour, you gain the fol
 
 - You don't have disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks because of armor.  
 - You have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks and initiative rolls.  
-- Your weapon attacks deal an additional `dice:1d10|noform|avg` (`1d10`) lightning or thunder damage (your choice when you hit).  
+- Your weapon attacks deal an additional `dice:1d10|noform|noparens|avg` (`d10`) lightning or thunder damage (your choice when you hit).  
 - As an action, you can unleash a terrifying war cry. Every enemy creature in a 30-foot cone must make a successful Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] in this way, the creature must spend its turn trying to move as far away from you as it can. It can't take reactions. For its action, it can only use the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action. A [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] creature that's more than 30 feet from you and can't see you repeats the saving throw at the start of its turn, ending the effect on itself on a success. A creature that succeeds on its saving throw can't be affected by this war cry for 24 hours.  
 
 Once you use this feature, you can't use it again until you finish a long rest.

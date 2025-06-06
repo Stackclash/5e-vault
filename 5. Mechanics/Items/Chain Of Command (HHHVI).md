@@ -9,12 +9,13 @@ tags:
   - item/weapon/melee
 aliases:
   - Chain of Command
-one-hand-damage: 1d4 S
+one-hand-damage: 1d4 slashing
+weight: 3
 ---
 # Chain of Command
 *Weapon ([[5. Mechanics/Items/Whip.md\|whip]]), rare (requires attunement)*  
 
-- **Damage**: 1d4 S
+- **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
 

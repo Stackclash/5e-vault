@@ -10,16 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Solar Staff
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Solar Staff
 *Staff, weapon, major, very rare (requires attunement by a cleric, druid, sorcerer, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Solar-Staff.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
@@ -35,8 +36,8 @@ While holding the staff, you can use an action to expend some of its charges to 
 
 ## Purifying Light
 
-While holding the staff, you can use an action to expend 1 of its charges to cause the orb to glow with a purifying brilliance. Until the start of your next turn, any hostile creature that enters the orb's bright light for the first time on a turn or starts its turn there must succeed on a Constitution saving throw against your spell save DC or take `dice:3d6|noform|avg` (`3d6`) radiant damage. Undead creatures have disadvantage on the saving throw.
+While holding the staff, you can use an action to expend 1 of its charges to cause the orb to glow with a purifying brilliance. Until the start of your next turn, any hostile creature that enters the orb's bright light for the first time on a turn or starts its turn there must succeed on a Constitution saving throw against your spell save DC or take `dice:3d6|noform|noparens|avg` (`3d6`) radiant damage. Undead creatures have disadvantage on the saving throw.
 
-The staff regains `dice:1d6+4|noform|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge from the staff, roll a `dice:d20|noform|avg` (`d20`). On a 1, the staff glows brilliant white before it turns to dust and is destroyed.
+The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge from the staff, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff glows brilliant white before it turns to dust and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

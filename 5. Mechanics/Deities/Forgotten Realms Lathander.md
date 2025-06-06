@@ -6,6 +6,10 @@ tags:
   - deity/forgotten-realms
   - domain/life
   - domain/light
+alignment: Neutral Good
+domains: 'Life, Light'
+pantheon: Forgotten Realms
+symbol: Road traveling into a sunrise
 aliases:
   - Lathander
 ---

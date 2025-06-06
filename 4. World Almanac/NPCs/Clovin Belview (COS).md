@@ -12,7 +12,7 @@ location: >-
   Saint Markovia]]
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/clovin-belview.webp
+  - 4. World Almanac\NPCs\img\clovin-belview.webp
 relationships: []
 aliases:
   - Clovin Belview
@@ -131,46 +131,51 @@ actions:
 "ac_class": "natural armor"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
+"modifier": !!int "-1"
 "stats":
-- !!int "12"
-- !!int "9"
-- !!int "15"
-- !!int "9"
-- !!int "10"
-- !!int "6"
+  - !!int "12"
+  - !!int "9"
+  - !!int "15"
+  - !!int "9"
+  - !!int "10"
+  - !!int "6"
 "speed": "20 ft."
 "skillsaves":
-  "Deception": !!int "2"
-  "Stealth": !!int "3"
-  "Perception": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+3"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "1/4"
 "traits":
-- "desc": "The mongrelfolk has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks and on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]],\
-    \ or knocked [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]."
-  "name": "Two-Headed"
-- "desc": "Clovin can mimic any sounds it has heard, including voices. A creature\
-    \ that hears the sounds can tell they are imitations with a successful DC 12 Wisdom\
-    \ ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]]) check."
-  "name": "Mimicry"
+  - "desc": "The mongrelfolk has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks and on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]],\
+      \ [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
+      \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]],\
+      \ or knocked [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]."
+    "name": "Two-Headed"
+  - "desc": "Clovin can mimic any sounds it has heard, including voices. A creature\
+      \ that hears the sounds can tell they are imitations with a successful DC 12\
+      \ Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]]) check."
+    "name": "Mimicry"
 "actions":
-- "desc": "Clovin makes two attacks: one with its bite and one with its claw or dagger."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
-    \ + 1) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
-    \ + 1) slashing damage."
-  "name": "Claw"
-- "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
-    \ ft., one target. Hit: 3 (1d4 + 1) piercing damage."
-  "name": "Dagger"
+  - "desc": "Clovin makes two attacks: one with its bite and one with its claw or\
+      \ dagger."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+      \ + 1) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+      \ + 1) slashing damage."
+    "name": "Claw"
+  - "desc": "Melee  or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. Hit: 3 (1d4 + 1) piercing damage."
+    "name": "Dagger"
 "source":
-- "CoS"
+  - "CoS"
 "image": "4. World Almanac/NPCs/token/clovin-belview-cos.webp"
 ```
 ^statblock

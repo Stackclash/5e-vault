@@ -18,25 +18,39 @@ tags:
   - spell/subclass/circle-of-the-land
   - spell/subclass/divine-soul
   - spell/subclass/nature-domain
-level: cantrip
-range: false
+classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land)
+  - Sorcerer (Divine Soul)
 school: Abjuration
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S, a miniature cloak'
+level: cantrip
+ritual: false
+time: 1 Action
+duration: Up to 1 minute
+components:
+  - V
+  - S
+  - M
 aliases:
   - Resistance
+range: Touch
+material: A miniature cloak.
+concentration: true
 ---
 # Resistance
 *cantrip, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, a miniature cloak
+- **Components:** V, S, M (a miniature cloak)
 - **Duration:** Concentration, up to 1 minute
 
-You touch one willing creature. Once before the spell ends, the target can roll a `dice:d4|noform|avg` (`d4`) and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends.
+You touch one willing creature. Once before the spell ends, the target can roll a `dice:d4|noform|noparens|avg` (`d4`) and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends.
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

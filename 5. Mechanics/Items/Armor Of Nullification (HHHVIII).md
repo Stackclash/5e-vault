@@ -9,6 +9,7 @@ tags:
 aliases:
   - Armor of Nullification
 armorClass: 18
+weight: 65
 ---
 # Armor of Nullification
 *Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), legendary (requires attunement)*  

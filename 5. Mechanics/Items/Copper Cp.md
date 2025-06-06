@@ -8,6 +8,7 @@ tags:
 aliases:
   - Copper (cp)
 cost: 1
+weight: 0.02
 ---
 # Copper (cp)
 *Treasure (coinage)*  

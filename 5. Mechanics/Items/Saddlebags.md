@@ -8,6 +8,7 @@ tags:
 aliases:
   - Saddlebags
 cost: 400
+weight: 8
 ---
 # Saddlebags
 *Tack and harness*  

@@ -9,16 +9,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Arcanist's Bowstaff
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Arcanist's Bowstaff
 *Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a creature with an Intelligence of 17 or higher)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Arcanists-Bowstaff.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
@@ -28,6 +29,6 @@ When you make an attack with this magic weapon, you can choose to make the attac
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
-In addition, this quarterstaff has 8 charges and regains `dice:1d6+2|noform|avg` (`1d6 + 2`) expended charges daily at dawn. When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action with this weapon, you can expend 1 of its charges to cast the [[5. Mechanics/Spells/Magic Missile.md\|magic missile]] spell from the quarterstaff as a bonus action, instead of its normal casting time. When you do, the missiles are fired from either the bow or the quarterstaff's embossed faces.
+In addition, this quarterstaff has 8 charges and regains `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) expended charges daily at dawn. When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action with this weapon, you can expend 1 of its charges to cast the [[5. Mechanics/Spells/Magic Missile.md\|magic missile]] spell from the quarterstaff as a bonus action, instead of its normal casting time. When you do, the missiles are fired from either the bow or the quarterstaff's embossed faces.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 28*

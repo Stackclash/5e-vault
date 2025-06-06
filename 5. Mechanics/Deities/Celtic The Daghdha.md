@@ -6,6 +6,10 @@ tags:
   - deity/celtic
   - domain/nature
   - domain/trickery
+alignment: Chaotic Good
+domains: 'Nature, Trickery'
+pantheon: Celtic
+symbol: Bubbling cauldron or shield
 aliases:
   - The Daghdha
 ---

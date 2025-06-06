@@ -6,6 +6,12 @@ tags:
   - deity/elven
   - domain/life
   - domain/nature
+alignment: Chaotic Good
+category: The Seldarine
+domains: 'Life, Nature'
+pantheon: Elven
+province: 'Abundance, gardens, the harvest'
+symbol: Acorn
 aliases:
   - Elebrin liothiel
 ---

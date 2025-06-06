@@ -8,6 +8,7 @@ tags:
 aliases:
   - Waterskin
 cost: 20
+weight: 5
 ---
 # Waterskin
 *Adventuring gear*  

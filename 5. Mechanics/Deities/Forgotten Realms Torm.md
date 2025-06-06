@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/war
+alignment: Lawful Good
+domains: War
+pantheon: Forgotten Realms
+symbol: White right gauntlet
 aliases:
   - Torm
 ---

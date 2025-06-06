@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
   - compendium/src/5e/dmg
-  - race/goblin/dmg
+  - race/goblin
 aliases:
-  - Goblin (DMG)
+  - Goblin
 ---
-# Goblin (DMG)
+# Goblin
 *Source: Dungeon Master's Guide p. 282*  
 
-- **Ability Scores**: Strength -2, Dexterity +2
+- **Ability Scores**: Strength -2; Dexterity +2
 - **Size**: Small
 - **Speed**: 30 ft.
 

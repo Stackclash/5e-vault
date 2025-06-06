@@ -4,6 +4,7 @@ cssclasses: json5e-hazard
 tags:
   - compendium/src/5e/dmg
   - hazard/mech
+hazardType: Mechanical Trap
 aliases:
   - Falling Net
 ---

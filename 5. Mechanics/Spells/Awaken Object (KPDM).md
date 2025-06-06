@@ -7,21 +7,28 @@ tags:
   - spell/class/druid
   - spell/level/8th-level
   - spell/school/transmutation
-level: 8th-level
-range: false
+classes:
+  - Bard
+  - Druid
 school: Transmutation
-time: 8 hour
+level: 8
+ritual: false
+time: 8 hours
 duration: Until dispelled
-components: 'V, S, a ruby worth at least 1,000 gp, which the spell consumes'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Awaken Object
+material: 'a ruby worth at least 1,000 gp, which the spell consumes'
 ---
 # Awaken Object
 *8th-level, Transmutation*  
 
-- **Casting time:** 8 hour
+- **Casting time:** 8 hours
 - **Range:** Touch
-- **Components:** V, S, a ruby worth at least 1,000 gp, which the spell consumes
+- **Components:** V, S, M (a ruby worth at least 1,000 gp, which the spell consumes)
 - **Duration:** Until dispelled
 
 After spending the casting time enchanting a ruby along with a Large or smaller nonmagical object in humanoid form, you touch the ruby to the object. The ruby dissolves into the object, which becomes a living construct imbued with sentience. If the object has no face, a humanoid face appears on it in an appropriate location. The awakened object's statistics are determined by its size, as shown on the table below. An awakened object can use an action to make a melee weapon attack against a target within 5 feet of it. It has free will, acts independently, and speaks one language you know. It is initially friendly to anyone who assisted in its creation.
@@ -34,12 +41,12 @@ An awakened object needs no air, food, water, or sleep. Damage to an awakened ob
 
 | Size | HP | AC | Attack | Str | Dex | Con | Int | Wis | Cha |
 |------|----|----|--------|-----|-----|-----|-----|-----|-----|
-| T | 20 | 18 | `dice:1d20+8\|noform\|text(+8)` to hit, `dice:1d4+4\|noform\|avg` (`1d4 + 4`) damage | 4 | 18 | 10 | `dice:2d6\|noform\|avg` (`2d6`) | `dice:2d6\|noform\|avg` (`2d6`) | `dice:2d6\|noform\|avg` (`2d6`) |
-| S | 25 | 16 | `dice:1d20+6\|noform\|text(+6)` to hit, `dice:1d8+2\|noform\|avg` (`1d8 + 2`) damage | 6 | 14 | 10 | `dice:3d6\|noform\|avg` (`3d6`) | `dice:2d6\|noform\|avg` (`2d6`) | `dice:2d6\|noform\|avg` (`2d6`) |
-| M | 40 | 13 | `dice:1d20+5\|noform\|text(+5)` to hit, `dice:2d6+1\|noform\|avg` (`2d6 + 1`) damage | 10 | 12 | 10 | `dice:3d6\|noform\|avg` (`3d6`) | `dice:3d6\|noform\|avg` (`3d6`) | `dice:2d6\|noform\|avg` (`2d6`) |
-| L | 50 | 10 | `dice:1d20+6\|noform\|text(+6)` to hit, `dice:2d10+2\|noform\|avg` (`2d10 + 2`) damage | 14 | 10 | 10 | `dice:3d6\|noform\|avg` (`3d6`) | `dice:3d6\|noform\|avg` (`3d6`) | `dice:2d6+2\|noform\|avg` (`2d6 + 2`) |
+| T | 20 | 18 | `dice:1d20+8\|noform\|noparens\|text(+8)` to hit, `dice:1d4+4\|noform\|noparens\|avg` (`1d4 + 4`) damage | 4 | 18 | 10 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) | `dice:2d6\|noform\|noparens\|avg` (`2d6`) | `dice:2d6\|noform\|noparens\|avg` (`2d6`) |
+| S | 25 | 16 | `dice:1d20+6\|noform\|noparens\|text(+6)` to hit, `dice:1d8+2\|noform\|noparens\|avg` (`1d8 + 2`) damage | 6 | 14 | 10 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) | `dice:2d6\|noform\|noparens\|avg` (`2d6`) | `dice:2d6\|noform\|noparens\|avg` (`2d6`) |
+| M | 40 | 13 | `dice:1d20+5\|noform\|noparens\|text(+5)` to hit, `dice:2d6+1\|noform\|noparens\|avg` (`2d6 + 1`) damage | 10 | 12 | 10 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) | `dice:3d6\|noform\|noparens\|avg` (`3d6`) | `dice:2d6\|noform\|noparens\|avg` (`2d6`) |
+| L | 50 | 10 | `dice:1d20+6\|noform\|noparens\|text(+6)` to hit, `dice:2d10+2\|noform\|noparens\|avg` (`2d10 + 2`) damage | 14 | 10 | 10 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) | `dice:3d6\|noform\|noparens\|avg` (`3d6`) | `dice:2d6+2\|noform\|noparens\|avg` (`2d6 + 2`) |
 ^awakened-creature-statistics
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 41*

@@ -7,6 +7,7 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Floating Oil
+weight: 20
 ---
 # Floating Oil
 *Oil, uncommon*  

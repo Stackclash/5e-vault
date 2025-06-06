@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
   - compendium/src/5e/dmg
-  - race/kenku/dmg
+  - race/kenku
 aliases:
-  - Kenku (DMG)
+  - Kenku
 ---
-# Kenku (DMG)
+# Kenku
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: Dexterity +2

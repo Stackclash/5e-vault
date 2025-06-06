@@ -8,7 +8,7 @@ aliases:
   - Divine Soul
 ---
 # Divine Soul
-*[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Xanathar's Guide to Everything p. 50*  
 
 > [!tldr] Class and Feature Progression
@@ -18,12 +18,12 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Divine%20Soul%20(Level%201)'>Divine Soul</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Divine Soul (Level 1)' class='internal-link'>Divine Soul</a></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Empowered%20Healing%20(Level%206)'>Empowered Healing</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Empowered Healing (Level 6)' class='internal-link'>Empowered Healing</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -31,16 +31,21 @@ aliases:
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Otherworldly%20Wings%20(Level%2014)'>Otherworldly Wings</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Otherworldly Wings (Level 14)' class='internal-link'>Otherworldly Wings</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Unearthly%20Recovery%20(Level%2018)'>Unearthly Recovery</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Unearthly Recovery (Level 18)' class='internal-link'>Unearthly Recovery</a></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
 
+^class-progression
+
+
+> [!quote] A quote from Xanathar  
+> 
+> Why do so many celestial things have bird wings and infernal things have bat wings? It seems arbitrary. There should be a bat angel!
 
 ## Class Features
 
@@ -71,7 +76,7 @@ In addition, choose an affinity for the source of your divine power: good, evil,
 
 ### Favored by the Gods (Level 1)
 
-Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll `dice:2d4|noform|avg` (`2d4`) and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest.
+Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll `dice:2d4|noform|noparens|avg` (`2d4`) and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Empowered Healing (Level 6)
 

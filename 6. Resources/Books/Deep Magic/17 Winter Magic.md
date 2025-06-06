@@ -81,7 +81,7 @@ The following spells are presented in alphabetical order.
 > ![[5. Mechanics/Classes/Warlock The Frozen One (KPDM).md\|Frozen One]]
 
 > [!note]
-> The Otherworldly Patron presented here includes modified or augmented [Pact Boons](compendium/classes/warlock.md#Pact%20Boon%20(Level%203)), which can be viewed [[5. Mechanics/Lists/List Optfeaturetype Pb.md\|here]].
+> The Otherworldly Patron presented here includes modified or augmented [Pact Boons](compendium/classes/warlock.md#Pact%20Boon%20(Level%203)), which can be viewed here^[[5. Mechanics/Lists/List Optfeaturetype Pb.md\|Optional features from [Pact Boon]]; defined in Deep Magic].
 
 ### Eldritch Invocations
 

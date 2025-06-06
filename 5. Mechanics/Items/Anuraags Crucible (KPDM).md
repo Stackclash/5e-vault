@@ -24,7 +24,7 @@ If the process reaches completion, the creature transforms into another creature
 
 Constructs and undead are immune to the crucible's power, as is any creature that can change its shape at will, such as a [[5. Mechanics/Bestiary/Monstrosity/Doppelganger.md\|doppelganger]].
 
-To determine what a creature transforms into, roll a `dice:d20|noform|avg` (`d20`).
+To determine what a creature transforms into, roll a `dice:d20|noform|noparens|avg` (`d20`).
 
 `dice: [[Anuraags Crucible (KPDM).md#^creature]]`
 
@@ -56,6 +56,6 @@ To determine what a creature transforms into, roll a `dice:d20|noform|avg` (`d20
 
 ## Destroying the Crucible
 
-Anuraag's crucible can be destroyed if a celestial and a fiend, both of at least challenge rating 15, willingly allow themselves to be transformed at the same time. If this happens, the crucible can't take the burden of transforming both creatures and shatters in a spectacular explosion that deals `dice:20d6|noform|avg` (`20d6`) piercing damage to all creatures in a 60-foot radius, or half as much damage with a successful DC 15 Dexterity saving throw.
+Anuraag's crucible can be destroyed if a celestial and a fiend, both of at least challenge rating 15, willingly allow themselves to be transformed at the same time. If this happens, the crucible can't take the burden of transforming both creatures and shatters in a spectacular explosion that deals `dice:20d6|noform|noparens|avg` (`20d6`) piercing damage to all creatures in a 60-foot radius, or half as much damage with a successful DC 15 Dexterity saving throw.
 
 *Source: Deep Magic p. 170*

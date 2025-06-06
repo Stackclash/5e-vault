@@ -6,6 +6,12 @@ tags:
   - deity/dwarven
   - domain/forge
   - domain/knowledge
+alignment: Lawful Good
+category: The Mordinsamman
+domains: 'Forge, Knowledge'
+pantheon: Dwarven
+province: Primary deity of dwarves
+symbol: Hammer and anvil
 aliases:
   - Moradin
 ---

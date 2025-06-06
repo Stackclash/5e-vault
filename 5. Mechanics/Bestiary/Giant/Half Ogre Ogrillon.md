@@ -20,7 +20,7 @@ tags:
 aliases:
   - Half-Ogre (Ogrillon)
 ---
-# [[5. Mechanics/Bestiary/Giant/Half Ogre Ogrillon.md|Half-Ogre (Ogrillon)]]
+# [[5. Mechanics\Bestiary\Giant\Half Ogre Ogrillon.md|Half-Ogre (Ogrillon)]]
 *Source: Monster Manual p. 238*
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
@@ -72,26 +72,28 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
 "ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "30"
 "hit_dice": "4d10 + 8"
+"modifier": !!int "0"
 "stats":
-- !!int "17"
-- !!int "10"
-- !!int "14"
-- !!int "7"
-- !!int "9"
-- !!int "10"
+  - !!int "17"
+  - !!int "10"
+  - !!int "14"
+  - !!int "7"
+  - !!int "9"
+  - !!int "10"
 "speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Giant"
 "cr": "1"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8\
-    \ + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands."
-  "name": "Battleaxe"
-- "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120\
-    \ ft., one target. Hit: 10 (2d6 + 3) piercing damage."
-  "name": "Javelin"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12\
+      \ (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two\
+      \ hands."
+    "name": "Battleaxe"
+  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. Hit: 10 (2d6 + 3) piercing damage."
+    "name": "Javelin"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Giant/token/half-ogre-ogrillon.webp"
 ```
 ^statblock

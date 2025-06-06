@@ -8,7 +8,7 @@ aliases:
   - Frost Magic
 ---
 # Frost Magic
-*[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: The Griffon's Saddlebag, Book 1 p. 167*  
 
 > [!tldr] Class and Feature Progression
@@ -18,12 +18,12 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Frost%20Magic%20(Level%201)'>Frost Magic</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Frost Magic (Level 1)' class='internal-link'>Frost Magic</a></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Cold-Hearted%20(Level%206)'>Cold-Hearted</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Cold-Hearted (Level 6)' class='internal-link'>Cold-Hearted</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -31,15 +31,16 @@ aliases:
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Flash%20Freeze%20(Level%2014)'>Flash Freeze</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Flash Freeze (Level 14)' class='internal-link'>Flash Freeze</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Frozen%20Soul%20(Level%2018)'>Frozen Soul</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Frozen Soul (Level 18)' class='internal-link'>Frozen Soul</a></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -62,7 +63,7 @@ You can spend up to 2 sorcery points when creating this terrain to increase the 
 
 ### Cold-Hearted (Level 6)
 
-At 6th level, you gain resistance to cold damage. When you deal cold damage to a Large or smaller creature with a spell, you can spend 1 or more sorcery points to attempt to freeze it in place. When you do, that creature's speed is reduced by 15 feet for each sorcery point you spend until the end of its next turn. If you reduce a creature's speed to 0 in this way, it takes `dice:2d6|noform|avg` (`2d6`) cold damage.
+At 6th level, you gain resistance to cold damage. When you deal cold damage to a Large or smaller creature with a spell, you can spend 1 or more sorcery points to attempt to freeze it in place. When you do, that creature's speed is reduced by 15 feet for each sorcery point you spend until the end of its next turn. If you reduce a creature's speed to 0 in this way, it takes `dice:2d6|noform|noparens|avg` (`2d6`) cold damage.
 
 In addition, you can now use your Create Ice feature to freeze water as well as ground.
 

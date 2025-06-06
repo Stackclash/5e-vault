@@ -8,6 +8,7 @@ tags:
 aliases:
   - Steel Mirror
 cost: 500
+weight: 0.5
 ---
 # Steel Mirror
 *Adventuring gear*  

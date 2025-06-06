@@ -6,6 +6,11 @@ tags:
   - deity/gnome
   - domain/grave
   - domain/light
+alignment: Neutral Good
+domains: 'Grave, Light'
+pantheon: Gnome
+province: 'Earth, the dead'
+symbol: Glowing gemstone
 aliases:
   - Segojan Earthcaller
 ---

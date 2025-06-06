@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: forest
 size: Tiny
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Pixie
 ---
-# [[5. Mechanics/Bestiary/Fey/Pixie.md|Pixie]]
+# [[5. Mechanics\Bestiary\Fey\Pixie.md|Pixie]]
 *Source: Monster Manual p. 253*
 
 Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise.
@@ -54,42 +54,46 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
 "ac": !!int "15"
 "hp": !!int "1"
 "hit_dice": "1d4 - 1"
+"modifier": !!int "5"
 "stats":
-- !!int "2"
-- !!int "20"
-- !!int "8"
-- !!int "10"
-- !!int "14"
-- !!int "15"
+  - !!int "2"
+  - !!int "20"
+  - !!int "8"
+  - !!int "10"
+  - !!int "14"
+  - !!int "15"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+7"
 "senses": "passive Perception 14"
 "languages": "Sylvan"
 "cr": "1/4"
 "traits":
-- "desc": "The pixie's innate spellcasting ability is Charisma (spell save DC 12).\
-    \ It can innately cast the following spells, requiring only its pixie dust as\
-    \ a component:\n\nAt will: [[5. Mechanics/Spells/Druidcraft.md|druidcraft]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
-    \ [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Entangle.md|entangle]],\
-    \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]],\
-    \ [[5. Mechanics/Spells/Polymorph.md|polymorph]], [[5. Mechanics/Spells/Sleep.md|sleep]]"
-  "name": "Innate Spellcasting"
-- "desc": "The pixie has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
+  - "desc": "The pixie's innate spellcasting ability is Charisma (spell save DC 12).\
+      \ It can innately cast the following spells, requiring only its pixie dust as\
+      \ a component:\n\nAt will: [[5. Mechanics/Spells/Druidcraft.md|druidcraft]]\n\
+      \n1/day each: [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+      \ [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[5. Mechanics/Spells/Detect Thoughts.md|detect\
+      \ thoughts]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+      \ [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Fly.md|fly]],\
+      \ [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]], [[5. Mechanics/Spells/Polymorph.md|polymorph]],\
+      \ [[5. Mechanics/Spells/Sleep.md|sleep]]"
+    "name": "Innate Spellcasting"
+  - "desc": "The pixie has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The pixie magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ until its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]] ends\
-    \ (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on a spell).\
-    \ Any equipment the pixie wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ with it."
-  "name": "Superior Invisibility"
+  - "desc": "The pixie magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ until its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]] ends\
+      \ (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on a\
+      \ spell). Any equipment the pixie wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ with it."
+    "name": "Superior Invisibility"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Fey/token/pixie.webp"
 ```
 ^statblock

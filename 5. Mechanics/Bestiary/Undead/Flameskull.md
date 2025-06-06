@@ -14,7 +14,7 @@ tags:
 aliases:
   - Flameskull
 ---
-# [[5. Mechanics/Bestiary/Undead/Flameskull.md|Flameskull]]
+# [[5. Mechanics\Bestiary\Undead\Flameskull.md|Flameskull]]
 *Source: Monster Manual p. 134, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the Basic Rules (2014)*
 
 Blazing green flames and mad, echoing laughter follow a disembodied skull as it patrols its demesne. When the undead flameskull discovers trespassers, it blasts the intruders with fiery rays from its eyes and dreadful spells called up from the dark recesses of its memory.
@@ -49,17 +49,20 @@ A flameskull doesn't require air, food, drink, or sleep
 "ac": !!int "13"
 "hp": !!int "40"
 "hit_dice": "9d4 + 18"
+"modifier": !!int "3"
 "stats":
-- !!int "1"
-- !!int "17"
-- !!int "14"
-- !!int "16"
-- !!int "10"
-- !!int "11"
+  - !!int "1"
+  - !!int "17"
+  - !!int "14"
+  - !!int "16"
+  - !!int "10"
+  - !!int "11"
 "speed": "0 ft., fly 40 ft. (hover)"
 "skillsaves":
-  "Perception": !!int "2"
-  "Arcana": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
 "damage_resistances": "lightning, necrotic, piercing"
 "damage_immunities": "cold, fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
@@ -69,37 +72,37 @@ A flameskull doesn't require air, food, drink, or sleep
 "languages": "Common"
 "cr": "4"
 "traits":
-- "desc": "The flameskull is a 5th-level spellcaster. Its spellcasting ability is\
-    \ Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no\
-    \ somatic or material components to cast its spells. The flameskull has the following\
-    \ wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\
-    \n1st level (3 slots): [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
-    \ [[5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (2 slots): [[5. Mechanics/Spells/Blur.md|blur]],\
-    \ [[5. Mechanics/Spells/Flaming Sphere.md|flaming sphere]]\n\n3rd level (1 slots):\
-    \ [[5. Mechanics/Spells/Fireball.md|fireball]]"
-  "name": "Spellcasting"
-- "desc": "The flameskull sheds either dim light in a 15-foot radius, or bright light\
-    \ in a 15-foot radius and dim light for an additional 15 feet. It can switch between\
-    \ the options as an action."
-  "name": "Illumination"
-- "desc": "The flameskull has advantage on saving throws against spells and other\
-    \ magical effects."
-  "name": "Magic Resistance"
-- "desc": "If the flameskull is destroyed, it regains all its hit points in 1 hour\
-    \ unless holy water is sprinkled on its remains or a [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\
-    \ or [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell is cast on them."
-  "name": "Rejuvenation"
+  - "desc": "The flameskull is a 5th-level spellcaster. Its spellcasting ability is\
+      \ Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires\
+      \ no somatic or material components to cast its spells. The flameskull has the\
+      \ following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\
+      \n1st level (3 slots): [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
+      \ [[5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (2 slots): [[5. Mechanics/Spells/Blur.md|blur]],\
+      \ [[5. Mechanics/Spells/Flaming Sphere.md|flaming sphere]]\n\n3rd level (1 slots):\
+      \ [[5. Mechanics/Spells/Fireball.md|fireball]]"
+    "name": "Spellcasting"
+  - "desc": "The flameskull sheds either dim light in a 15-foot radius, or bright\
+      \ light in a 15-foot radius and dim light for an additional 15 feet. It can\
+      \ switch between the options as an action."
+    "name": "Illumination"
+  - "desc": "The flameskull has advantage on saving throws against spells and other\
+      \ magical effects."
+    "name": "Magic Resistance"
+  - "desc": "If the flameskull is destroyed, it regains all its hit points in 1 hour\
+      \ unless holy water is sprinkled on its remains or a [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\
+      \ or [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell is cast on them."
+    "name": "Rejuvenation"
 "actions":
-- "desc": "The flameskull uses Fire Ray twice."
-  "name": "Multiattack"
-- "desc": "Ranged Spell Attack: +5 to hit, range 30 ft., one target. Hit: 10 (3d6)\
-    \ fire damage."
-  "name": "Fire Ray"
+  - "desc": "The flameskull uses Fire Ray twice."
+    "name": "Multiattack"
+  - "desc": "Ranged Spell Attack: +5 to hit, range 30 ft., one target. Hit: 10\
+      \ (3d6) fire damage."
+    "name": "Fire Ray"
 "source":
-- "MM"
-- "CoS"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/flameskull.webp"
 ```
 ^statblock

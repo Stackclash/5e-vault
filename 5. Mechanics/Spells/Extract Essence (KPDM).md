@@ -13,21 +13,32 @@ tags:
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 1st-level
-range: true
+classes:
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 school: Transmutation
-time: 10 minute
+level: 1
+ritual: true
+time: 10 minutes
 duration: Until dispelled
-components: 'V, S, a wooden bowl'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Extract Essence
+material: a wooden bowl
 ---
 # Extract Essence
 *1st-level, Transmutation (ritual)*  
 
-- **Casting time:** 10 minute unless cast as a ritual
+- **Casting time:** 10 minutes unless cast as a ritual
 - **Range:** 30 feet
-- **Components:** V, S, a wooden bowl
+- **Components:** V, S, M (a wooden bowl)
 - **Duration:** Until dispelled
 
 > [!note]
@@ -47,6 +58,6 @@ If you expend your ritual focus, you can choose to have each day's worth of meal
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 212*

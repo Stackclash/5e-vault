@@ -10,21 +10,32 @@ tags:
   - spell/level/2nd-level
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S, a pinch of rust and metal shavings'
+level: 2
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
+  - M
 aliases:
   - Lock Armor
+concentration: true
+material: a pinch of rust and metal shavings
 ---
 # Lock Armor
 *2nd-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
-- **Components:** V, S, a pinch of rust and metal shavings
+- **Components:** V, S, M (a pinch of rust and metal shavings)
 - **Duration:** Concentration, up to 1 minute
 
 You target a piece of metal equipment or a metal construct. If the target is a creature wearing metal armor or is a construct, it makes a Wisdom saving throw to negate the effect. On a failed save, the spell causes metal to cling to metal, making it impossible to move pieces against each other. This effectively paralyzes a creature that is made of metal or that is wearing metal armor with moving pieces; for example, scale mail would lock up because the scales must slide across each other, but a breastplate would be unaffected. Limited movement might still be possible, depending on how extensive the armor is, and speech is usually not affected.
@@ -33,6 +44,6 @@ Metal constructs, as well as creatures wearing metal armor (according to DM disc
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 91*

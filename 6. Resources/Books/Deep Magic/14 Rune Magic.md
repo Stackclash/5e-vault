@@ -44,9 +44,9 @@ When a rune power calls for a saving throw, the DC equals 8 + your ability bonus
 The following runes are presented in alphabetical order.
 
 > [!note]
-> See the optional features page to browse and sort runes. Art from this section is attached to the respective runes.
+> See the optional features page^[[5. Mechanics/Optional Features/Algiz (KPDM).md\|Optional features from Rime; defined in Deep Magic] to browse and sort runes. Art from this section is attached to the respective runes.
 
-- [[5. Mechanics/Optional Features/Algiz (KPDM).md\|Algiz]]  
+- [Algiz]]  
 - [[5. Mechanics/Optional Features/Ansuz (KPDM).md\|Ansuz]]  
 - [[5. Mechanics/Optional Features/Berkanan (KPDM).md\|Berkanan]]  
 - [[5. Mechanics/Optional Features/Dagaz (KPDM).md\|Dagaz]]  

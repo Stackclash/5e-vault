@@ -9,12 +9,13 @@ tags:
 aliases:
   - Flail
 cost: 1000
-one-hand-damage: 1d8 B
+one-hand-damage: 1d8 bludgeoning
+weight: 2
 ---
 # Flail
 *Weapon*  
 
-- **Damage**: 1d8 B
+- **Damage**: 1d8 bludgeoning
 - **Cost**: 10 gp
 - **Weight**: 2.0 lbs.
 

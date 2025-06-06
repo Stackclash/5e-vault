@@ -8,6 +8,7 @@ tags:
 aliases:
   - Hammer
 cost: 100
+weight: 3
 ---
 # Hammer
 *Adventuring gear*  

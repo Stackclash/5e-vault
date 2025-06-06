@@ -15,7 +15,7 @@ aliases:
 ![[5. Mechanics/Items/img/ring-of-spell-storing.webp#right]]  
 
 
-This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains `dice:1d6-1|noform|avg` (`1d6 - 1`) levels of stored spells chosen by the DM.
+This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains `dice:1d6-1|noform|noparens|avg` (`1d6 - 1`) levels of stored spells chosen by the DM.
 
 Any creature can cast a spell of 1st through 5th level into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring. If the ring can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
 

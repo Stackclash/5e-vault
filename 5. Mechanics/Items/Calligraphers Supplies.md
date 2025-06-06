@@ -8,6 +8,7 @@ tags:
 aliases:
   - Calligrapher's Supplies
 cost: 1000
+weight: 5
 ---
 # Calligrapher's Supplies
 *Artisan's tools*  

@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - The Griffon's Saddlebag
+weight: 3
 ---
 # The Griffon's Saddlebag
 *Wondrous item, major, artifact*  
@@ -34,7 +35,7 @@ The saddlebag has a connection to the griffon's forge on the Astral Plane. Depen
 
 ## Spells
 
-The saddlebag has 8 charges and regains `dice:1d6+2|noform|avg` (`1d6 + 2`) expended charges daily at dawn. While wearing the saddlebag, you can expend 1 or more of its charges to cast the following spells from it: [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] (1 charge), [[5. Mechanics/Spells/Identify.md\|identify]] (1 charge), or [[5. Mechanics/Spells/Legend Lore.md\|legend lore]] (5 charges).
+The saddlebag has 8 charges and regains `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) expended charges daily at dawn. While wearing the saddlebag, you can expend 1 or more of its charges to cast the following spells from it: [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] (1 charge), [[5. Mechanics/Spells/Identify.md\|identify]] (1 charge), or [[5. Mechanics/Spells/Legend Lore.md\|legend lore]] (5 charges).
 
 ## Additional Spells
 

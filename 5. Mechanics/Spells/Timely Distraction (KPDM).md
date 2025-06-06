@@ -10,24 +10,34 @@ tags:
   - spell/school/evocation
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Evocation
-time: 1 action
-duration: 3 round
-components: 'V, S, a handful of sand or dirt thrown in the air'
+level: 2
+ritual: false
+time: 1 Action
+duration: 3 rounds
+components:
+  - V
+  - S
+  - M
 aliases:
   - Timely Distraction
+material: a handful of sand or dirt thrown in the air
 ---
 # Timely Distraction
 *2nd-level, Evocation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 25 feet
-- **Components:** V, S, a handful of sand or dirt thrown in the air
-- **Duration:** 3 round
+- **Components:** V, S, M (a handful of sand or dirt thrown in the air)
+- **Duration:** 3 rounds
 
-You call forth a swirling, crackling wave of constantly shifting pops, flashes, and swept-up debris. This chaos can confound one creature. If the target gets a failure on a Wisdom saving throw, roll a `dice:d4|noform|avg` (`d4`) and consult the following table to determine the result. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Otherwise, the spell ends when its duration expires.
+You call forth a swirling, crackling wave of constantly shifting pops, flashes, and swept-up debris. This chaos can confound one creature. If the target gets a failure on a Wisdom saving throw, roll a `dice:d4|noform|noparens|avg` (`d4`) and consult the following table to determine the result. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Otherwise, the spell ends when its duration expires.
 
 `dice: [[Timely Distraction (KPDM).md#^affliction]]`
 
@@ -39,6 +49,6 @@ You call forth a swirling, crackling wave of constantly shifting pops, flashes, 
 | 4 | Prone |
 ^affliction
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 186*

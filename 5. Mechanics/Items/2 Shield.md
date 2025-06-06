@@ -9,6 +9,7 @@ tags:
 aliases:
   - +2 Shield
 armorClass: 2
+weight: 6
 ---
 # +2 Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, rare*  

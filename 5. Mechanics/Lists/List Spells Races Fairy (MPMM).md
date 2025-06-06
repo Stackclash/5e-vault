@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[Druidcraft \|"PHB"]] as cantrip
+- [[5. Mechanics/Spells/Druidcraft.md \|"PHB"]] as cantrip
 
 ## 1st Level
 
-- [[Faerie Fire \|"PHB"]] as cantrip
+- [[5. Mechanics/Spells/Faerie Fire.md \|"PHB"]] as cantrip
 
 ## 2nd Level
 
-- [[Enlarge Reduce \|"PHB"]] as cantrip
+- [[5. Mechanics/Spells/Enlarge Reduce.md \|"PHB"]] as cantrip

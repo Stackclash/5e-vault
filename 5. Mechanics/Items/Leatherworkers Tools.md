@@ -8,6 +8,7 @@ tags:
 aliases:
   - Leatherworker's Tools
 cost: 500
+weight: 5
 ---
 # Leatherworker's Tools
 *Artisan's tools*  

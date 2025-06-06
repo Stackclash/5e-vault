@@ -6,6 +6,11 @@ tags:
   - deity/dragonlance
   - domain/nature
   - domain/tempest
+alignment: Neutral Good
+category: The Gods of Good
+domains: 'Nature, Tempest'
+pantheon: Dragonlance
+symbol: Blue bird
 aliases:
   - Habbakuk
 ---

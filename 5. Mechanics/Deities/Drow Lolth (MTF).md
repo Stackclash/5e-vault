@@ -6,6 +6,12 @@ tags:
   - deity/drow
   - domain/trickery
   - domain/war
+alignment: Chaotic Evil
+category: The Dark Seldarine
+domains: 'Trickery, War'
+pantheon: Drow
+province: 'Primary god of drow, spiders'
+symbol: Spider
 aliases:
   - Lolth
 ---

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Deep Scion
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Deep Scion (MPMM).md|Deep Scion]]
+# [[5. Mechanics\Bestiary\Monstrosity\Deep Scion (MPMM).md|Deep Scion]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 88, Volo's Guide to Monsters p. 135*
 
 Deep scions began life as people who were stolen from shore or saved from sinking ships and offered a terrible bargain by an undersea power: surrender, body and soul, or drown. Those who submit are subjected to an ancient ritual widespread among evil aquatic creatures. Its methods are painful and the result never certain, but when it works, the magic transforms an air-breathing person into a shapeshifter that can take on an aquatic form.
@@ -32,57 +32,62 @@ The training to which a deep scion is subjected rids it of empathy for those the
 "ac": !!int "11"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
+"modifier": !!int "1"
 "stats":
-- !!int "18"
-- !!int "13"
-- !!int "16"
-- !!int "10"
-- !!int "12"
-- !!int "14"
+  - !!int "18"
+  - !!int "13"
+  - !!int "16"
+  - !!int "10"
+  - !!int "12"
+  - !!int "14"
 "speed": "30 ft. (20 ft. and swim 40 ft. in hybrid form)"
 "saves":
-  "Charisma": !!int "4"
-  "Wisdom": !!int "3"
+  - "wisdom": "+3"
+  - "charisma": "+4"
 "skillsaves":
-  "Sleight of Hand": !!int "3"
-  "Deception": !!int "6"
-  "Stealth": !!int "3"
-  "Insight": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand|Sleight of Hand]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+3"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Aquan, Common, thieves' cant"
 "cr": "3"
 "traits":
-- "desc": "The deep scion can breathe air and water."
-  "name": "Amphibious (Hybrid Form Only)"
+  - "desc": "The deep scion can breathe air and water."
+    "name": "Amphibious (Hybrid Form Only)"
 "actions":
-- "desc": "The deep scion makes two Battleaxe attacks, or it makes one Bite attack\
-    \ and two Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
-    \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
-  "name": "Battleaxe"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 6 (1d4\
-    \ + 4) piercing damage."
-  "name": "Bite (Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
-    \ + 4) slashing damage."
-  "name": "Claw (Hybrid Form Only)"
-- "desc": "The deep scion emits a terrible scream audible within 300 feet. Creatures\
-    \ within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw\
-    \ or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] until the end of the\
-    \ deep scion's next turn. In water, the psychic screech also telepathically transmits\
-    \ the deep scion's memories of the last 24 hours to its master, regardless of\
-    \ distance, so long as it and its master are in the same body of water."
-  "name": "Psychic Screech (Hybrid Form Only; Recharges after a Short or Long Rest)"
+  - "desc": "The deep scion makes two Battleaxe attacks, or it makes one Bite attack\
+      \ and two Claw attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+      \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
+    "name": "Battleaxe"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 6\
+      \ (1d4 + 4) piercing damage."
+    "name": "Bite (Hybrid Form Only)"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+      \ + 4) slashing damage."
+    "name": "Claw (Hybrid Form Only)"
+  - "desc": "The deep scion emits a terrible scream audible within 300 feet. Creatures\
+      \ within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw\
+      \ or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] until the end of\
+      \ the deep scion's next turn. In water, the psychic screech also telepathically\
+      \ transmits the deep scion's memories of the last 24 hours to its master, regardless\
+      \ of distance, so long as it and its master are in the same body of water."
+    "name": "Psychic Screech (Hybrid Form Only; Recharges after a Short or Long Rest)"
 "bonus_actions":
-- "desc": "The deep scion transforms into a hybrid form (humanoid-piscine) or back\
-    \ into its true form, which is humanlike. Its statistics, other than its speed,\
-    \ are the same in each form. Any equipment it is wearing or carrying isn't transformed.\
-    \ The deep scion reverts to its true form if it dies."
-  "name": "Change Shape"
+  - "desc": "The deep scion transforms into a hybrid form (humanoid-piscine) or back\
+      \ into its true form, which is humanlike. Its statistics, other than its speed,\
+      \ are the same in each form. Any equipment it is wearing or carrying isn't transformed.\
+      \ The deep scion reverts to its true form if it dies."
+    "name": "Change Shape"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/deep-scion-mpmm.webp"
 ```
 ^statblock

@@ -9,13 +9,14 @@ tags:
 aliases:
   - Javelin
 cost: 50
-one-hand-damage: 1d6 P
-range: 30/120
+one-hand-damage: 1d6 piercing
+range: 30\120
+weight: 2
 ---
 # Javelin
 *Weapon*  
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Cost**: 5 sp

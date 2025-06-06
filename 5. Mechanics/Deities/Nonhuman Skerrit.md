@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/nonhuman
   - domain/nature
+alignment: Neutral
+domains: Nature
+pantheon: Nonhuman
+symbol: Oak growing from acorn
 aliases:
   - Skerrit
 ---

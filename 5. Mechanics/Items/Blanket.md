@@ -8,6 +8,7 @@ tags:
 aliases:
   - Blanket
 cost: 50
+weight: 3
 ---
 # Blanket
 *Adventuring gear*  

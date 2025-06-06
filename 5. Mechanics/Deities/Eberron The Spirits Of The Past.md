@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/eberron
   - domain/war
+alignment: Chaotic Good
+category: Other Faiths of Eberron
+domains: War
+pantheon: Eberron
+symbol: Varies
 aliases:
   - The Spirits of the Past
 ---

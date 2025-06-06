@@ -11,6 +11,6 @@ aliases:
 
 | Race | Base Height | Base Weight | Height Modifier | Weight Modifier |
 |------|-------------|-------------|-----------------|-----------------|
-| Githyanki | 5'0" | 100 lb. | +`dice:2d12\|noform\|avg` (`2d12`) | ×(`dice:2d4\|noform\|avg` (`2d4`)) lb. |
-| Githzerai | 4'11" | 90 lb. | +`dice:2d12\|noform\|avg` (`2d12`) | ×(`dice:1d4\|noform\|avg` (`1d4`)) lb. |
+| Githyanki | 5'0" | 100 lb. | +`dice:2d12\|noform\|noparens\|avg` (`2d12`) | ×(`dice:2d4\|noform\|noparens\|avg` (`2d4`)) lb. |
+| Githzerai | 4'11" | 90 lb. | +`dice:2d12\|noform\|noparens\|avg` (`2d12`) | ×(`dice:1d4\|noform\|noparens\|avg` (`d4`)) lb. |
 ^race-base-height-base-weight-height-modifier-weight-modifier

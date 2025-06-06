@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/nonhuman
   - domain/death
+alignment: Chaotic Evil
+domains: Death
+pantheon: Nonhuman
+symbol: Image of the lizard\Toad god
 aliases:
   - Laogzed
 ---

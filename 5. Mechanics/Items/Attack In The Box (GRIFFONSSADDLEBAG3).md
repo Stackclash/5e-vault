@@ -9,16 +9,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Attack-In-The-Box
-one-hand-damage: 1d8 B
+one-hand-damage: 1d8 bludgeoning
+weight: 2
 ---
 # Attack-In-The-Box
 *Weapon ([[5. Mechanics/Items/Flail.md\|flail]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Attack-In-The-Box.webp#right)  
 
-- **Damage**: 1d8 B
+- **Damage**: 1d8 bludgeoning
 - **Weight**: 2.0 lbs.
 
-A colorful box sits at the top of this weapon's wooden handle. Within the box is a coiled spring beneath the flail's spiked head. The head springs out from the box the first time you make an attack with it, granting you advantage on the attack roll and creating a random effect. Roll a `dice:d6|noform|avg` (`d6`) and refer to the table below to determine the effect. You can use an action to stuff the head back into the box, or use a bonus action to cause the head to harmlessly spring from it.
+A colorful box sits at the top of this weapon's wooden handle. Within the box is a coiled spring beneath the flail's spiked head. The head springs out from the box the first time you make an attack with it, granting you advantage on the attack roll and creating a random effect. Roll a `dice:d6|noform|noparens|avg` (`d6`) and refer to the table below to determine the effect. You can use an action to stuff the head back into the box, or use a bonus action to cause the head to harmlessly spring from it.
 
 `dice: [[Attack In The Box (GRIFFONSSADDLEBAG3).md#^effect]]`
 

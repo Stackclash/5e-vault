@@ -8,7 +8,7 @@ aliases:
   - Skin Wearer
 ---
 # Skin Wearer
-*[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Hamund's Harvesting Handbook: Volume III p. 116*  
 
 > [!tldr] Class and Feature Progression
@@ -18,12 +18,12 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Skin%20Wearer%20(Level%201)'>Skin Wearer</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Skin Wearer (Level 1)' class='internal-link'>Skin Wearer</a></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Malleable%20Form%20(Level%206)'>Malleable Form</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Malleable Form (Level 6)' class='internal-link'>Malleable Form</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -31,15 +31,16 @@ aliases:
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Full%20Embodiment%20(Level%2014)'>Full Embodiment</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Full Embodiment (Level 14)' class='internal-link'>Full Embodiment</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Shapeshifter%20Supreme%20(Level%2018)'>Shapeshifter Supreme</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Shapeshifter Supreme (Level 18)' class='internal-link'>Shapeshifter Supreme</a></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -64,7 +65,7 @@ At 1st level, whenever you attempt to "harvest" a creature's skin, hide, or pelt
 
 ### Malleable Form (Level 6)
 
-Starting at 6th level, your malleable form makes transmutation and illusion magic cast on you effortless. Whenever you use a spell slot to cast either a transmutation spell on yourself or an illusion spell that changes your appearance, roll a `dice:d20|noform|avg` (`d20`). If you roll a number lower than your sorcerer level, the spell slot you used is instantly restored.
+Starting at 6th level, your malleable form makes transmutation and illusion magic cast on you effortless. Whenever you use a spell slot to cast either a transmutation spell on yourself or an illusion spell that changes your appearance, roll a `dice:d20|noform|noparens|avg` (`d20`). If you roll a number lower than your sorcerer level, the spell slot you used is instantly restored.
 
 ### Full Embodiment (Level 14)
 

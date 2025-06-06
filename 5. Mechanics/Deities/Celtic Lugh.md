@@ -6,6 +6,10 @@ tags:
   - deity/celtic
   - domain/knowledge
   - domain/life
+alignment: Chaotic Neutral
+domains: 'Knowledge, Life'
+pantheon: Celtic
+symbol: Pair of long hands
 aliases:
   - Lugh
 ---

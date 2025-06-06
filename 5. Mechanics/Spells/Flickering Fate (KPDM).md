@@ -9,25 +9,32 @@ tags:
   - spell/school/divination
   - spell/subclass/arcane-trickster
   - spell/subclass/time-domain
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Cleric (Time Domain)
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Divination
-time: 1 action
+level: 4
+ritual: false
+time: 1 Action
 duration: 1 round
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Flickering Fate
 ---
 # Flickering Fate
 *4th-level, Divination*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** 1 round
 
 You or a creature that you touch can see a few seconds into the future. When the spell is cast, each other creature within 30 feet of the target must make a Wisdom saving throw. Those that fail must declare, in initiative order, what their next action will be. The target of the spell declares his or her action last, after hearing what all other creatures will do. Each creature that declared an action must follow its declaration as closely as possible when its turn comes. For the duration of the spell, the target has advantage on attack rolls, ability checks, and saving throws, and creatures that declared their actions have disadvantage on attack rolls against the target.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Cleric Time Domain (KPDM)\|Cleric (Time Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Time Domain)](compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 259*

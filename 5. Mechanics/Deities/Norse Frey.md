@@ -6,6 +6,10 @@ tags:
   - deity/norse
   - domain/life
   - domain/light
+alignment: Neutral Good
+domains: 'Life, Light'
+pantheon: Norse
+symbol: Ice-blue greatsword
 aliases:
   - Frey
 ---

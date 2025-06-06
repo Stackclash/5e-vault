@@ -8,6 +8,7 @@ tags:
 aliases:
   - Drum
 cost: 600
+weight: 3
 ---
 # Drum
 *Instrument*  

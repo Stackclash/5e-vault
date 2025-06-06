@@ -21,6 +21,6 @@ If you take on the appearance of the creature, it must be a creature no more tha
 
 If you assume one of the creature's features, your body or mind temporarily changes to accommodate the new ability. You can choose to gain 1 skill or saving throw proficiency, damage resistance, condition immunity, sense, or language that the creature had. If the creature could breathe underwater, you can choose to gain that feature instead. You retain this feature for 8 hours or until you dismiss it as a bonus action or fall unconscious.
 
-Once you capture an essence with the ring, you can't do so again for `dice:1d8|noform|avg` (`1d8`) hours. You can only have 1 essence at a time. If you capture an essence when you already have one, you replace the original.
+Once you capture an essence with the ring, you can't do so again for `dice:1d8|noform|noparens|avg` (`d8`) hours. You can only have 1 essence at a time. If you capture an essence when you already have one, you replace the original.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 31*

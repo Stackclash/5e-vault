@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greek
   - domain/life
+alignment: Chaotic Neutral
+domains: Life
+pantheon: Greek
+symbol: Thyrsus (staff tipped with pine cone)
 aliases:
   - Dionysus
 ---

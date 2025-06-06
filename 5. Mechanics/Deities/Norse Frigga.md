@@ -6,6 +6,10 @@ tags:
   - deity/norse
   - domain/life
   - domain/light
+alignment: Neutral
+domains: 'Life, Light'
+pantheon: Norse
+symbol: Cat
 aliases:
   - Frigga
 ---

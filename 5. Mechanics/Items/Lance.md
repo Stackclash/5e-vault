@@ -9,12 +9,13 @@ tags:
 aliases:
   - Lance
 cost: 1000
-one-hand-damage: 1d12 P
+one-hand-damage: 1d12 piercing
+weight: 6
 ---
 # Lance
 *Weapon*  
 
-- **Damage**: 1d12 P
+- **Damage**: 1d12 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Cost**: 10 gp
 - **Weight**: 6.0 lbs.

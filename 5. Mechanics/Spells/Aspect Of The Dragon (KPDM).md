@@ -7,21 +7,29 @@ tags:
   - spell/class/sorcerer
   - spell/level/7th-level
   - spell/school/transmutation
-level: 7th-level
-range: false
+classes:
+  - Bard
+  - Sorcerer
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S, a dragon scale'
+level: 7
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
+  - M
 aliases:
   - Aspect of the Dragon
+concentration: true
+material: a dragon scale
 ---
 # Aspect of the Dragon
 *7th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
-- **Components:** V, S, a dragon scale
+- **Components:** V, S, M (a dragon scale)
 - **Duration:** Concentration, up to 1 minute
 
 This spell draws out the ancient nature within your blood, allowing you to assume the form of any dragon-type creature of challenge 10 or less.
@@ -32,6 +40,6 @@ You retain the benefits of any features from your class, race, or other source a
 
 When you transform, you choose whether your equipment falls to the ground, merges into the new form, or is worn by it. Worn equipment functions normally, but equipment doesn't change shape or size to match the new form. Any equipment that the new form can't wear must either fall to the ground or merge into the new form. The GM has final say on whether the new form can wear or use a particular piece of equipment. Equipment that merges has no effect in that state.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 198*

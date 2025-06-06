@@ -8,6 +8,7 @@ tags:
 aliases:
   - Jug
 cost: 2
+weight: 4
 ---
 # Jug
 *Adventuring gear*  

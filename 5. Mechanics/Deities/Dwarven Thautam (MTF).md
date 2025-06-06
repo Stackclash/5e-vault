@@ -6,6 +6,12 @@ tags:
   - deity/dwarven
   - domain/knowledge
   - domain/trickery
+alignment: Neutral
+category: The Mordinsamman
+domains: 'Knowledge, Trickery'
+pantheon: Dwarven
+province: 'Mysteries, darkness, lost treasures'
+symbol: Blindfold
 aliases:
   - Thautam
 ---

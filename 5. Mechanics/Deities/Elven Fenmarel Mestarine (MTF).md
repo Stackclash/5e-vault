@@ -6,6 +6,12 @@ tags:
   - deity/elven
   - domain/nature
   - domain/trickery
+alignment: Chaotic Neutral
+category: The Seldarine
+domains: 'Nature, Trickery'
+pantheon: Elven
+province: 'Solitude, outcasts'
+symbol: Two peering elven eyes
 aliases:
   - Fenmarel Mestarine
 ---

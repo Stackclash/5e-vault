@@ -7,6 +7,10 @@ tags:
   - domain/death
   - domain/grave
   - domain/order
+alignment: Lawful Neutral
+domains: 'Death, Grave, Order'
+pantheon: Egyptian
+symbol: Black jackal
 aliases:
   - Anubis
 ---

@@ -13,11 +13,11 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Fang-Keeper.webp#right)  
 
 
-A fang keeper is a dark silver necklace that's adorned with one or more monstrous fangs. When found, the necklace has `dice:1d4|noform|avg` (`1d4`) fangs, which come from one or more creatures with a challenge rating of 1 or lower. Over the course of 1 hour, which can be done during a short rest, you can add one or more teeth to the chain or replace any teeth currently on it; the chain can have no more than 4 teeth on it at a time. While wearing the necklace, you gain the following benefits.
+A fang keeper is a dark silver necklace that's adorned with one or more monstrous fangs. When found, the necklace has `dice:1d4|noform|noparens|avg` (`d4`) fangs, which come from one or more creatures with a challenge rating of 1 or lower. Over the course of 1 hour, which can be done during a short rest, you can add one or more teeth to the chain or replace any teeth currently on it; the chain can have no more than 4 teeth on it at a time. While wearing the necklace, you gain the following benefits.
 
 ## Bite
 
-Your teeth lengthen and sharpen slightly; your bite becomes a magic natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to `dice:1d8|noform|avg` (`1d8`) + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. If you bite a target in this way, you can immediately use your bonus action to clamp down even harder, dealing an extra `dice:1d4|noform|avg` (`1d4`) piercing damage to the target as part of the same attack.
+Your teeth lengthen and sharpen slightly; your bite becomes a magic natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to `dice:1d8|noform|noparens|avg` (`d8`) + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. If you bite a target in this way, you can immediately use your bonus action to clamp down even harder, dealing an extra `dice:1d4|noform|noparens|avg` (`d4`) piercing damage to the target as part of the same attack.
 
 ## Spectral Maw
 

@@ -8,6 +8,7 @@ tags:
 aliases:
   - Pouch
 cost: 50
+weight: 1
 ---
 # Pouch
 *Adventuring gear*  

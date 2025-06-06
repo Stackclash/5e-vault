@@ -9,6 +9,7 @@ tags:
 aliases:
   - Barricade Shield
 armorClass: 2
+weight: 6
 ---
 # Barricade Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), minor, uncommon*  

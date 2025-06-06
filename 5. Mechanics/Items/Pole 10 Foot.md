@@ -8,6 +8,7 @@ tags:
 aliases:
   - Pole (10-foot)
 cost: 5
+weight: 7
 ---
 # Pole (10-foot)
 *Adventuring gear*  

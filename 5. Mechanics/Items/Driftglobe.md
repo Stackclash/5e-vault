@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Driftglobe
+weight: 1
 ---
 # Driftglobe
 *Wondrous item, minor, uncommon*  

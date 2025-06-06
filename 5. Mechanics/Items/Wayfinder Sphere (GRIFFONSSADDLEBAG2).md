@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Wayfinder Sphere
+weight: 5
 ---
 # Wayfinder Sphere
 *Wondrous item, minor, rare*  

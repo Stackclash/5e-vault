@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Swarm of Skeletal Ravens
 ---
-# [[5. Mechanics/Bestiary/Undead/Swarm Of Skeletal Ravens (GRIFFONSSADDLEBAG3).md|Swarm of Skeletal Ravens]]
+# [[5. Mechanics\Bestiary\Undead\Swarm Of Skeletal Ravens (GRIFFONSSADDLEBAG3).md|Swarm of Skeletal Ravens]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Ravens transformed by necromancy to exist perpetually in life-defying undeath. Often found in places of relentless decay or in the realms and lairs of powerful necromancers and liches.
@@ -26,16 +26,18 @@ Ravens transformed by necromancy to exist perpetually in life-defying undeath. O
 "ac": !!int "12"
 "hp": !!int "24"
 "hit_dice": "7d8 - 7"
+"modifier": !!int "2"
 "stats":
-- !!int "6"
-- !!int "14"
-- !!int "8"
-- !!int "3"
-- !!int "9"
-- !!int "3"
+  - !!int "6"
+  - !!int "14"
+  - !!int "8"
+  - !!int "3"
+  - !!int "9"
+  - !!int "3"
 "speed": "10 ft., fly 50 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
 "damage_resistances": "piercing, slashing"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -47,24 +49,24 @@ Ravens transformed by necromancy to exist perpetually in life-defying undeath. O
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The swarm can mimic simple sounds it has heard, such as people whispering,\
-    \ babies crying, or animals chittering. A creature that hears the sounds can tell\
-    \ they are imitations with a successful DC 8 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
-    \ check."
-  "name": "Mimicry"
-- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
-    \ can move through any opening large enough for a Tiny raven. The swarm can't\
-    \ regain hit points or gain temporary hit points."
-  "name": "Swarm"
-- "desc": "The swarm doesn't require air, food, drink, or sleep."
-  "name": "Undead Nature"
+  - "desc": "The swarm can mimic simple sounds it has heard, such as people whispering,\
+      \ babies crying, or animals chittering. A creature that hears the sounds can\
+      \ tell they are imitations with a successful DC 8 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
+      \ check."
+    "name": "Mimicry"
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through any opening large enough for a Tiny raven. The swarm\
+      \ can't regain hit points or gain temporary hit points."
+    "name": "Swarm"
+  - "desc": "The swarm doesn't require air, food, drink, or sleep."
+    "name": "Undead Nature"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm's\
-    \ space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm\
-    \ has half of its hit points or fewer."
-  "name": "Beaks"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm's\
+      \ space. Hit: 7 (2d6) piercing damage, or 3 (d6) piercing damage if the swarm\
+      \ has half of its hit points or fewer."
+    "name": "Beaks"
 "source":
-- "GriffonsSaddlebag3"
+  - "GriffonsSaddlebag3"
 ```
 ^statblock
 

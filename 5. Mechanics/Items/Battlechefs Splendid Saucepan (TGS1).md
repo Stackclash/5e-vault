@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Battlechef's Splendid Saucepan
+weight: 4
 ---
 # Battlechef's Splendid Saucepan
 *Wondrous item, major, very rare*  
@@ -16,7 +17,7 @@ aliases:
 
 This magic saucepan can be used to turn nearly anything into a delicious and filling meal. You can boil 1 pound of any one or combination of organic, nonmagical materials for 10 minutes or longer to magically transform them into a stew that can nourish up to 4 creatures for 24 hours.
 
-The saucepan also functions as a [[5. Mechanics/Items/Mace.md\|mace]], granting you a +1 bonus to attack and damage rolls made with it. The saucepan deals an extra `dice:1d4|noform|avg` (`1d4`) thunder damage to any target it hits that's either wearing metal armor or made of metal or stone.
+The saucepan also functions as a [[5. Mechanics/Items/Mace.md\|mace]], granting you a +1 bonus to attack and damage rolls made with it. The saucepan deals an extra `dice:1d4|noform|noparens|avg` (`d4`) thunder damage to any target it hits that's either wearing metal armor or made of metal or stone.
 
 If you're not wearing heavy armor, you can use an action to either wear or remove the saucepan as a helmet. While wearing the saucepan in this way, you gain a +1 bonus to your AC.
 

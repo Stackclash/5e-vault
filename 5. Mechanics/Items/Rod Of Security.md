@@ -8,6 +8,7 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Security
+weight: 2
 ---
 # Rod of Security
 *Rod, major, very rare*  

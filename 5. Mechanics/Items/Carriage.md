@@ -8,6 +8,7 @@ tags:
 aliases:
   - Carriage
 cost: 10000
+weight: 600
 ---
 # Carriage
 *Vehicle (land)*  

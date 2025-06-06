@@ -14,7 +14,7 @@ tags:
 aliases:
   - Young Copper Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young Copper Dragon.md|Young Copper Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Young Copper Dragon.md|Young Copper Dragon]]
 *Source: Monster Manual p. 112. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
@@ -92,50 +92,54 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "ac_class": "natural armor"
 "hp": !!int "119"
 "hit_dice": "14d10 + 42"
+"modifier": !!int "1"
 "stats":
-- !!int "19"
-- !!int "12"
-- !!int "17"
-- !!int "16"
-- !!int "13"
-- !!int "15"
+  - !!int "19"
+  - !!int "12"
+  - !!int "17"
+  - !!int "16"
+  - !!int "13"
+  - !!int "15"
 "speed": "40 ft., climb 40 ft., fly 80 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "6"
+  - "dexterity": "+4"
+  - "constitution": "+6"
+  - "wisdom": "+4"
+  - "charisma": "+5"
 "skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "4"
-  "Perception": !!int "7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+4"
 "damage_immunities": "acid"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "7"
 "actions":
-- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10\
-    \ + 4) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
-    \ + 4) slashing damage."
-  "name": "Claw"
-- "desc": "The dragon uses one of the following breath weapons.\n\n- Acid Breath.\
-    \ The dragon exhales acid in a 40-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid\
-    \ damage on a failed save, or half as much damage on a successful one.  \n- Slowing\
-    \ Breath. The dragon exhales gas in a 30-foot cone. Each creature in that area\
-    \ must succeed on a DC 14 Constitution saving throw. On a failed save, the creature\
-    \ can't use reactions, its speed is halved, and it can't make more than one attack\
-    \ on its turn. In addition, the creature can use either an action or a bonus action\
-    \ on its turn, but not both. These effects last for 1 minute. The creature can\
-    \ repeat the saving throw at the end of each of its turns, ending the effect on\
-    \ itself with a successful save.  "
-  "name": "Breath Weapons (Recharge 5-6)"
+  - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15\
+      \ (2d10 + 4) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+      \ (2d6 + 4) slashing damage."
+    "name": "Claw"
+  - "desc": "The dragon uses one of the following breath weapons.\n\n- Acid Breath.\
+      \ The dragon exhales acid in a 40-foot line that is 5 feet wide. Each creature\
+      \ in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid\
+      \ damage on a failed save, or half as much damage on a successful one.  \n-\
+      \ Slowing Breath. The dragon exhales gas in a 30-foot cone. Each creature\
+      \ in that area must succeed on a DC 14 Constitution saving throw. On a failed\
+      \ save, the creature can't use reactions, its speed is halved, and it can't\
+      \ make more than one attack on its turn. In addition, the creature can use either\
+      \ an action or a bonus action on its turn, but not both. These effects last\
+      \ for 1 minute. The creature can repeat the saving throw at the end of each\
+      \ of its turns, ending the effect on itself with a successful save.  "
+    "name": "Breath Weapons (Recharge 5-6)"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Dragon/token/young-copper-dragon.webp"
 ```
 ^statblock

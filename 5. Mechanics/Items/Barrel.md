@@ -8,6 +8,7 @@ tags:
 aliases:
   - Barrel
 cost: 200
+weight: 70
 ---
 # Barrel
 *Adventuring gear*  

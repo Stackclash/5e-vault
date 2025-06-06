@@ -8,6 +8,7 @@ tags:
   - item/tier/minor
 aliases:
   - Murderous Arrow
+weight: 0.05
 ---
 # Murderous Arrow
 *Ammunition ([[5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  

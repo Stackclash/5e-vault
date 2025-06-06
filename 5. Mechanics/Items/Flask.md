@@ -8,6 +8,7 @@ tags:
 aliases:
   - Flask
 cost: 2
+weight: 1
 ---
 # Flask
 *Adventuring gear*  

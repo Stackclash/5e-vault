@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greyhawk
   - domain/war
+alignment: Chaotic Evil
+domains: War
+pantheon: Greyhawk
+symbol: Blood drop
 aliases:
   - Erythnul
 ---

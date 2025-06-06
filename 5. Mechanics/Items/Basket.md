@@ -8,6 +8,7 @@ tags:
 aliases:
   - Basket
 cost: 40
+weight: 2
 ---
 # Basket
 *Adventuring gear*  

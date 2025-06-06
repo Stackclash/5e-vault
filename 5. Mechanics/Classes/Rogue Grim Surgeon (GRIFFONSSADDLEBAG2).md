@@ -8,7 +8,7 @@ aliases:
   - Grim Surgeon
 ---
 # Grim Surgeon
-*[[Rogue.md\|Rogue]]: Roguish Archetype*  
+*[[.nullRogue.md\|Rogue]]: Roguish Archetype*  
 *Source: The Griffon's Saddlebag, Book 2 p. 224*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Grim%20Surgeon%20(Level%203)'>Grim Surgeon</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Grim Surgeon (Level 3)' class='internal-link'>Grim Surgeon</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Field%20Surgeon%20(Level%209)'>Field Surgeon</a></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Field Surgeon (Level 9)' class='internal-link'>Field Surgeon</a></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Toxic%20Shock%20(Level%2013)'>Toxic Shock</a></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Toxic Shock (Level 13)' class='internal-link'>Toxic Shock</a></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Bloodbound%20(Level%2017)'>Bloodbound</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Bloodbound (Level 17)' class='internal-link'>Bloodbound</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -54,7 +55,7 @@ When you choose this archetype at 3rd level, you gain proficiency in the [[/5. M
 
 In addition, your familiarity with blood has become magical, giving you some degree of control over it. As a result, you can use a bonus action to magically stabilize an [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] creature within 5 feet of you.
 
-You can use this same magic when you apply traditional healing techniques. You can use a bonus action to expend one use of a [[5. Mechanics/Items/Healers Kit.md\|healer's kit]] on a creature. When you do, that creature regains hit points equal `dice:1d4|noform|avg` (`1d4`) + your proficiency bonus. The creature can't regain hit points from this feature again until it finishes a short or long rest.
+You can use this same magic when you apply traditional healing techniques. You can use a bonus action to expend one use of a [[5. Mechanics/Items/Healers Kit.md\|healer's kit]] on a creature. When you do, that creature regains hit points equal `dice:1d4|noform|noparens|avg` (`d4`) + your proficiency bonus. The creature can't regain hit points from this feature again until it finishes a short or long rest.
 
 ### Transfusion (Level 3)
 

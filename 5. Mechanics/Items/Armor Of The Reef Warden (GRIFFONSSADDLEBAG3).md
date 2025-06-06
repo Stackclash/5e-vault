@@ -29,11 +29,11 @@ When you take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action, you can 
 
 ## Moray Eel
 
-When you hit a creature with a melee weapon attack, you can cause a pair of eels to wrap around and grapple the target. The target must succeed on a DC 16 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] and [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the spectral eels for up to 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] creature takes `dice:1d8|noform|avg` (`1d8`) force damage and can repeat the saving throw at the end of each of its turns, ending the effect on a success. If the target is underwater, it has disadvantage on the saving throw.
+When you hit a creature with a melee weapon attack, you can cause a pair of eels to wrap around and grapple the target. The target must succeed on a DC 16 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] and [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the spectral eels for up to 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] creature takes `dice:1d8|noform|noparens|avg` (`d8`) force damage and can repeat the saving throw at the end of each of its turns, ending the effect on a success. If the target is underwater, it has disadvantage on the saving throw.
 
 ## Pufferfish
 
-When you're hit by a melee attack or are [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] by another creature, you can use your reaction to cause a spectral pufferfish to inflate itself between you and the other creature. That creature takes `dice:3d4|noform|avg` (`3d4`) force damage from the fish's sharp spines, and you're immediately moved up to 5 feet away from that creature. If you're underwater, you move up to 15 feet instead. This movement doesn't provoke opportunity attacks, and if you were [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]], you escape from it.
+When you're hit by a melee attack or are [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] by another creature, you can use your reaction to cause a spectral pufferfish to inflate itself between you and the other creature. That creature takes `dice:3d4|noform|noparens|avg` (`3d4`) force damage from the fish's sharp spines, and you're immediately moved up to 5 feet away from that creature. If you're underwater, you move up to 15 feet instead. This movement doesn't provoke opportunity attacks, and if you were [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]], you escape from it.
 
 ## Surgeonfish
 

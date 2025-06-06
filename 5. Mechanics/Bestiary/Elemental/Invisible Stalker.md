@@ -14,7 +14,7 @@ tags:
 aliases:
   - Invisible Stalker
 ---
-# [[5. Mechanics/Bestiary/Elemental/Invisible Stalker.md|Invisible Stalker]]
+# [[5. Mechanics\Bestiary\Elemental\Invisible Stalker.md|Invisible Stalker]]
 *Source: Monster Manual p. 192, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 An invisible stalker is an air elemental that has been summoned from its native plane and transformed by powerful magic. Its sole purpose is to hunt down creatures and retrieve objects for its summoner. When it is defeated or the magic that binds it expires, an invisible stalker vanishes in a gust of wind.
@@ -41,17 +41,20 @@ An invisible stalker requires no air, food, drink, or sleep.
 "ac": !!int "14"
 "hp": !!int "104"
 "hit_dice": "16d8 + 32"
+"modifier": !!int "4"
 "stats":
-- !!int "16"
-- !!int "19"
-- !!int "14"
-- !!int "10"
-- !!int "15"
-- !!int "11"
+  - !!int "16"
+  - !!int "19"
+  - !!int "14"
+  - !!int "10"
+  - !!int "15"
+  - !!int "11"
 "speed": "50 ft., fly 50 ft. (hover)"
 "skillsaves":
-  "Stealth": !!int "10"
-  "Perception": !!int "8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+8"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+10"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -63,22 +66,22 @@ An invisible stalker requires no air, food, drink, or sleep.
 "languages": "Auran, understands Common but doesn't speak it"
 "cr": "6"
 "traits":
-- "desc": "The stalker is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]."
-  "name": "Invisibility"
-- "desc": "The stalker is given a quarry by its summoner. The stalker knows the direction\
-    \ and distance to its quarry as long as the two of them are on the same plane\
-    \ of existence. The stalker also knows the location of its summoner."
-  "name": "Faultless Tracker"
+  - "desc": "The stalker is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]."
+    "name": "Invisibility"
+  - "desc": "The stalker is given a quarry by its summoner. The stalker knows the\
+      \ direction and distance to its quarry as long as the two of them are on the\
+      \ same plane of existence. The stalker also knows the location of its summoner."
+    "name": "Faultless Tracker"
 "actions":
-- "desc": "The stalker makes two slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6\
-    \ + 3) bludgeoning damage."
-  "name": "Slam"
+  - "desc": "The stalker makes two slam attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10\
+      \ (2d6 + 3) bludgeoning damage."
+    "name": "Slam"
 "source":
-- "MM"
-- "CoS"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Elemental/token/invisible-stalker.webp"
 ```
 ^statblock

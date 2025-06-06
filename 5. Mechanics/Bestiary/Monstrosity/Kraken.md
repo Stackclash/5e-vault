@@ -14,7 +14,7 @@ tags:
 aliases:
   - Kraken
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Kraken.md|Kraken]]
+# [[5. Mechanics\Bestiary\Monstrosity\Kraken.md|Kraken]]
 *Source: Monster Manual p. 197, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Beneath the waves, the kraken sleeps for untold ages, awaiting some fell sign or calling. Land-born mortals who sail the open sea forget the reasons their ancestors dreaded the ocean, even as the races of the deep ignore strange gaps in their histories when their civilizations nearly vanished after the appearance of the tentacled horror.
@@ -47,20 +47,21 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
 "ac_class": "natural armor"
 "hp": !!int "472"
 "hit_dice": "27d20 + 189"
+"modifier": !!int "0"
 "stats":
-- !!int "30"
-- !!int "11"
-- !!int "25"
-- !!int "22"
-- !!int "18"
-- !!int "20"
+  - !!int "30"
+  - !!int "11"
+  - !!int "25"
+  - !!int "22"
+  - !!int "18"
+  - !!int "20"
 "speed": "20 ft., swim 60 ft."
 "saves":
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "11"
-  "Intelligence": !!int "13"
-  "Strength": !!int "17"
-  "Constitution": !!int "14"
+  - "strength": "+17"
+  - "dexterity": "+7"
+  - "constitution": "+14"
+  - "intelligence": "+13"
+  - "wisdom": "+11"
 "damage_immunities": "lightning; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]"
@@ -69,93 +70,93 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
   \ speak"
 "cr": "23"
 "traits":
-- "desc": "The kraken can breathe air and water."
-  "name": "Amphibious"
-- "desc": "The kraken ignores difficult terrain, and magical effects can't reduce\
-    \ its speed or cause it to be [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
-    \ It can spend 5 feet of movement to escape from nonmagical restraints or being\
-    \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]."
-  "name": "Freedom of Movement"
-- "desc": "The kraken deals double damage to objects and structures."
-  "name": "Siege Monster"
+  - "desc": "The kraken can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "The kraken ignores difficult terrain, and magical effects can't reduce\
+      \ its speed or cause it to be [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
+      \ It can spend 5 feet of movement to escape from nonmagical restraints or being\
+      \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]."
+    "name": "Freedom of Movement"
+  - "desc": "The kraken deals double damage to objects and structures."
+    "name": "Siege Monster"
 "actions":
-- "desc": "The kraken makes three tentacle attacks, each of which it can replace with\
-    \ one use of Fling."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +17 to hit, reach 5 ft., one target. Hit: 23 (3d8\
-    \ + 10) piercing damage. If the target is a Large or smaller creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ by the kraken, that creature is swallowed, and the grapple ends. While swallowed,\
-    \ the creature is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
-    \ it has total cover against attacks and other effects outside the kraken, and\
-    \ it takes 42 (12d6) acid damage at the start of each of the kraken's turns. If\
-    \ the kraken takes 50 damage or more on a single turn from a creature inside it,\
-    \ the kraken must succeed on a DC 25 Constitution saving throw at the end of that\
-    \ turn or regurgitate all swallowed creatures, which fall [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
-    \ in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature\
-    \ is no longer [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] by it\
-    \ and can escape from the corpse using 15 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +17 to hit, reach 30 ft., one target. Hit: 20\
-    \ (3d6 + 10) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ (escape DC 18). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
-    \ The kraken has ten tentacles, each of which can grapple one target."
-  "name": "Tentacle"
-- "desc": "One Large or smaller object held or creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ by the kraken is thrown up to 60 feet in a random direction and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
-    \ If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning\
-    \ damage for every 10 feet it was thrown. If the target is thrown at another creature,\
-    \ that creature must succeed on a DC 18 Dexterity saving throw or take the same\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
-  "name": "Fling"
-- "desc": "The kraken magically creates three bolts of lightning, each of which can\
-    \ strike a target the kraken can see within 120 feet of it. A target must make\
-    \ a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed\
-    \ save, or half as much damage on a successful one."
-  "name": "Lightning Storm"
+  - "desc": "The kraken makes three tentacle attacks, each of which it can replace\
+      \ with one use of Fling."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +17 to hit, reach 5 ft., one target. Hit: 23\
+      \ (3d8 + 10) piercing damage. If the target is a Large or smaller creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ by the kraken, that creature is swallowed, and the grapple ends. While swallowed,\
+      \ the creature is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
+      \ it has total cover against attacks and other effects outside the kraken, and\
+      \ it takes 42 (12d6) acid damage at the start of each of the kraken's turns.\
+      \ If the kraken takes 50 damage or more on a single turn from a creature inside\
+      \ it, the kraken must succeed on a DC 25 Constitution saving throw at the end\
+      \ of that turn or regurgitate all swallowed creatures, which fall [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+      \ in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature\
+      \ is no longer [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] by it\
+      \ and can escape from the corpse using 15 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +17 to hit, reach 30 ft., one target. Hit: 20\
+      \ (3d6 + 10) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ (escape DC 18). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
+      \ The kraken has ten tentacles, each of which can grapple one target."
+    "name": "Tentacle"
+  - "desc": "One Large or smaller object held or creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ by the kraken is thrown up to 60 feet in a random direction and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+      \ If a thrown target strikes a solid surface, the target takes 3 (d6) bludgeoning\
+      \ damage for every 10 feet it was thrown. If the target is thrown at another\
+      \ creature, that creature must succeed on a DC 18 Dexterity saving throw or\
+      \ take the same damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+    "name": "Fling"
+  - "desc": "The kraken magically creates three bolts of lightning, each of which\
+      \ can strike a target the kraken can see within 120 feet of it. A target must\
+      \ make a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on\
+      \ a failed save, or half as much damage on a successful one."
+    "name": "Lightning Storm"
 "legendary_actions":
-- "desc": "The kraken makes one tentacle attack or uses its Fling."
-  "name": "Tentacle Attack or Fling"
-- "desc": "The kraken uses Lightning Storm."
-  "name": "Lightning Storm (Costs 2 Actions)"
-- "desc": "While underwater, the kraken expels an ink cloud in a 60-foot radius. The\
-    \ cloud spreads around corners, and that area is heavily obscured to creatures\
-    \ other than the kraken. Each creature other than the kraken that ends its turn\
-    \ there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison\
-    \ damage on a failed save, or half as much damage on a successful one. A strong\
-    \ current disperses the cloud, which otherwise disappears at the end of the kraken's\
-    \ next turn."
-  "name": "Ink Cloud (Costs 3 Actions)"
+  - "desc": "The kraken makes one tentacle attack or uses its Fling."
+    "name": "Tentacle Attack or Fling"
+  - "desc": "The kraken uses Lightning Storm."
+    "name": "Lightning Storm (Costs 2 Actions)"
+  - "desc": "While underwater, the kraken expels an ink cloud in a 60-foot radius.\
+      \ The cloud spreads around corners, and that area is heavily obscured to creatures\
+      \ other than the kraken. Each creature other than the kraken that ends its turn\
+      \ there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10)\
+      \ poison damage on a failed save, or half as much damage on a successful one.\
+      \ A strong current disperses the cloud, which otherwise disappears at the end\
+      \ of the kraken's next turn."
+    "name": "Ink Cloud (Costs 3 Actions)"
 "lair_actions":
-- "desc": "On initiative count 20 (losing initiative ties), the kraken takes a lair\
-    \ action to cause one of the following magical effects:"
-  "name": ""
-- "desc": "- A strong current moves through the kraken's lair. Each creature within\
-    \ 60 feet of the kraken must succeed on a DC 23 Strength saving throw or be pushed\
-    \ up to 60 feet away from the kraken. On a success, the creature is pushed 10\
-    \ feet away from the kraken.  \n- Creatures in the water within 60 feet of the\
-    \ kraken have vulnerability to lightning damage until initiative count 20 on the\
-    \ next round.  \n- The water in the kraken's lair becomes electrically charged.\
-    \ All creatures within 120 feet of the kraken must succeed on a DC 23 Constitution\
-    \ saving throw, taking 10 (3d6) lightning damage on a failed save, or half as\
-    \ much damage on a successful one.  "
-  "name": ""
+  - "desc": "On initiative count 20 (losing initiative ties), the kraken takes a lair\
+      \ action to cause one of the following magical effects:"
+    "name": ""
+  - "desc": "- A strong current moves through the kraken's lair. Each creature within\
+      \ 60 feet of the kraken must succeed on a DC 23 Strength saving throw or be\
+      \ pushed up to 60 feet away from the kraken. On a success, the creature is pushed\
+      \ 10 feet away from the kraken.  \n- Creatures in the water within 60 feet of\
+      \ the kraken have vulnerability to lightning damage until initiative count 20\
+      \ on the next round.  \n- The water in the kraken's lair becomes electrically\
+      \ charged. All creatures within 120 feet of the kraken must succeed on a DC\
+      \ 23 Constitution saving throw, taking 10 (3d6) lightning damage on a failed\
+      \ save, or half as much damage on a successful one.  "
+    "name": ""
 "regional_effects":
-- "desc": "The region containing a kraken's lair is warped by the creature's blasphemous\
-    \ presence, creating the following magical effects:"
-  "name": ""
-- "desc": "- The kraken can alter the weather at will in a 6-mile radius centered\
-    \ on its lair. The effect is identical to the [[5. Mechanics/Spells/Control Weather.md|control weather]]\
-    \ spell.  \n- Water elementals coalesce within 6 miles of the lair. These elementals\
-    \ can't leave the water and have Intelligence and Charisma scores of 1 (-5). \
-    \ \n- Aquatic creatures within 6 miles of the lair that have an Intelligence score\
-    \ of 2 or lower are [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] by the\
-    \ kraken and aggressive toward intruders in the area.  "
-  "name": ""
-- "desc": "When the kraken dies, all of these regional effects fade immediately."
-  "name": ""
+  - "desc": "The region containing a kraken's lair is warped by the creature's blasphemous\
+      \ presence, creating the following magical effects:"
+    "name": ""
+  - "desc": "- The kraken can alter the weather at will in a 6-mile radius centered\
+      \ on its lair. The effect is identical to the [[5. Mechanics/Spells/Control Weather.md|control weather]]\
+      \ spell.  \n- Water elementals coalesce within 6 miles of the lair. These elementals\
+      \ can't leave the water and have Intelligence and Charisma scores of 1 (-5).\
+      \  \n- Aquatic creatures within 6 miles of the lair that have an Intelligence\
+      \ score of 2 or lower are [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+      \ by the kraken and aggressive toward intruders in the area.  "
+    "name": ""
+  - "desc": "When the kraken dies, all of these regional effects fade immediately."
+    "name": ""
 "source":
-- "MM"
-- "VEoR"
+  - "MM"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/kraken.webp"
 ```
 ^statblock

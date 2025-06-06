@@ -8,6 +8,7 @@ tags:
 aliases:
   - Piton
 cost: 5
+weight: 0.25
 ---
 # Piton
 *Adventuring gear*  

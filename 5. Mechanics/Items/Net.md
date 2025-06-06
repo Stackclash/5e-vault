@@ -9,7 +9,8 @@ tags:
 aliases:
   - Net
 cost: 100
-range: 5/15
+range: 5\15
+weight: 3
 ---
 # Net
 *Weapon*  

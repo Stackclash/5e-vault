@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'grassland, forest, hill, desert'
 size: Medium
 tags:
@@ -17,7 +17,7 @@ tags:
 aliases:
   - Gnoll
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Gnoll.md|Gnoll]]
+# [[5. Mechanics\Bestiary\Humanoid\Gnoll.md|Gnoll]]
 *Source: Monster Manual p. 163. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.
@@ -46,35 +46,36 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 "ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "22"
 "hit_dice": "5d8"
+"modifier": !!int "1"
 "stats":
-- !!int "14"
-- !!int "12"
-- !!int "11"
-- !!int "6"
-- !!int "10"
-- !!int "7"
+  - !!int "14"
+  - !!int "12"
+  - !!int "11"
+  - !!int "6"
+  - !!int "10"
+  - !!int "7"
 "speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Gnoll"
 "cr": "1/2"
 "traits":
-- "desc": "When the gnoll reduces a creature to 0 hit points with a melee attack on\
-    \ its turn, the gnoll can take a bonus action to move up to half its speed and\
-    \ make a bite attack."
-  "name": "Rampage"
+  - "desc": "When the gnoll reduces a creature to 0 hit points with a melee attack\
+      \ on its turn, the gnoll can take a bonus action to move up to half its speed\
+      \ and make a bite attack."
+    "name": "Rampage"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4\
-    \ + 2) piercing damage."
-  "name": "Bite"
-- "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
-    \ ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
-    \ damage if used with two hands to make a melee attack."
-  "name": "Spear"
-- "desc": "Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit:\
-    \ 5 (1d8 + 1) piercing damage."
-  "name": "Longbow"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4\
+      \ (1d4 + 2) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
+      \ damage if used with two hands to make a melee attack."
+    "name": "Spear"
+  - "desc": "Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit:\
+      \ 5 (1d8 + 1) piercing damage."
+    "name": "Longbow"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/gnoll.webp"
 ```
 ^statblock

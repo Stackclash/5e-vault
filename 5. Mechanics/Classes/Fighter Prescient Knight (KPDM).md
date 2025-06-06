@@ -8,7 +8,7 @@ aliases:
   - Prescient Knight
 ---
 # Prescient Knight
-*[[Fighter.md\|Fighter]]: Martial Archetype*  
+*[[.nullFighter.md\|Fighter]]: Martial Archetype*  
 *Source: Deep Magic p. 6*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Prescient%20Knight%20(Level%203)'>Prescient Knight</a>, <a href='#Martial%20Caster%20(Level%203)'>Martial Caster</a></td><td class="value">2</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Prescient Knight (Level 3)' class='internal-link'>Prescient Knight</a>, <a href='#Martial Caster (Level 3)' class='internal-link'>Martial Caster</a></td><td class="value">2</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td><td class="value">2</td><td class="value">4</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td><td class="value">2</td><td class="value">4</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td><td class="value">2</td><td class="value">4</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Constant%20Vigilance%20(Level%207)'>Constant Vigilance</a></td><td class="value">2</td><td class="value">5</td><td class="value">4</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Constant Vigilance (Level 7)' class='internal-link'>Constant Vigilance</a></td><td class="value">2</td><td class="value">5</td><td class="value">4</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td><td class="value">2</td><td class="value">6</td><td class="value">4</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td><td class="value">2</td><td class="value">6</td><td class="value">4</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Evasion%20(Level%2010)'>Evasion</a></td><td class="value">3</td><td class="value">7</td><td class="value">4</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Evasion (Level 10)' class='internal-link'>Evasion</a></td><td class="value">3</td><td class="value">7</td><td class="value">4</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td><td class="value">3</td><td class="value">8</td><td class="value">4</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td><td class="value">3</td><td class="value">8</td><td class="value">4</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td><td class="value">3</td><td class="value">9</td><td class="value">4</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td><td class="value">3</td><td class="value">10</td><td class="value">4</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Anticipatory%20Strike%20(Level%2015)'>Anticipatory Strike</a></td><td class="value">3</td><td class="value">10</td><td class="value">4</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Anticipatory Strike (Level 15)' class='internal-link'>Anticipatory Strike</a></td><td class="value">3</td><td class="value">10</td><td class="value">4</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td><td class="value">3</td><td class="value">11</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td><td class="value">3</td><td class="value">11</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">⏤</td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Action%20Free%20of%20Thought%20(Level%2018)'>Action Free of Thought</a></td><td class="value">3</td><td class="value">11</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Action Free of Thought (Level 18)' class='internal-link'>Action Free of Thought</a></td><td class="value">3</td><td class="value">11</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td><td class="value">3</td><td class="value">12</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">1</td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td><td class="value">3</td><td class="value">13</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">1</td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -82,9 +83,9 @@ _Source: Deep Magic_
 
 Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
-<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Intelligence modifier</span>
+<span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Intelligence</span>
 
-<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Intelligence modifier</span>
+<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Intelligence</span>
 
 ### Reactive Echo (Level 3)
 

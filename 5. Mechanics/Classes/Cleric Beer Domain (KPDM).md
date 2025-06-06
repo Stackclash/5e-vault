@@ -9,7 +9,7 @@ aliases:
   - Beer Domain
 ---
 # Beer Domain
-*[[Cleric.md\|Cleric]]: Divine Domain*  
+*[[.nullCleric.md\|Cleric]]: Divine Domain*  
 *Source: Deep Magic p. 125*  
 
 > [!tldr] Class and Feature Progression
@@ -19,14 +19,14 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Beer%20Domain%20(Level%201)'>Beer Domain</a></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel%20Divinity%20Blessed%20Brew%20(Level%202)'>Channel Divinity: Blessed Brew</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Beer Domain (Level 1)' class='internal-link'>Beer Domain</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel Divinity: Blessed Brew (Level 2)' class='internal-link'>Channel Divinity: Blessed Brew</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Channel%20Divinity%20Boot%20and%20Rally%20(Level%206)'>Channel Divinity: Boot and Rally</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Channel Divinity: Boot and Rally (Level 6)' class='internal-link'>Channel Divinity: Boot and Rally</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Divine%20Strike%20(Level%208)'>Divine Strike</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Divine Strike (Level 8)' class='internal-link'>Divine Strike</a></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -35,12 +35,13 @@ aliases:
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Fire%20in%20the%20Belly%20(Level%2017)'>Fire in the Belly</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Fire in the Belly (Level 17)' class='internal-link'>Fire in the Belly</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -70,11 +71,11 @@ Starting at 2nd level, you can use your Channel Divinity to transform a containe
 
 ### Channel Divinity: Boot and Rally (Level 6)
 
-Starting at 6th level, you can use your Channel Divinity to aid and rally your allies. All friendly creatures within 30 feet of you who are [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]], or [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] gain an immediate saving throw with advantage to remove the effect. Creatures that succeed on the saving throw also heal `dice:2d6|noform|avg` (`2d6`) hit points.
+Starting at 6th level, you can use your Channel Divinity to aid and rally your allies. All friendly creatures within 30 feet of you who are [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]], or [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] gain an immediate saving throw with advantage to remove the effect. Creatures that succeed on the saving throw also heal `dice:2d6|noform|noparens|avg` (`2d6`) hit points.
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with radiant energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|avg` (`1d8`) radiant damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with radiant energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Fire in the Belly (Level 17)
 

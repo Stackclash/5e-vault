@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/war
+alignment: Neutral
+domains: War
+pantheon: Forgotten Realms
+symbol: Upright flaming sword
 aliases:
   - Tempus
 ---

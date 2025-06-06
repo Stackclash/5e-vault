@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/veor
 aliases:
-  - 'Chapter 3: The Lambent Zenith''s Last Voyage'
+  - Chapter 3: The Lambent Zenith's Last Voyage
 ---
 # Chapter 3: The Lambent Zenith's Last Voyage
 *Source: Vecna: Eve of Ruin* 
@@ -274,7 +274,7 @@ If asked about Figaro, Kycera expresses annoyance at his seclusion; her tone bel
 
 ##### Treasure
 
-Within the pantry are `dice:2d4|noform|avg` (`2d4`) unopened casks of aged wine, each worth 500 gp. Kycera happily allows the characters to take them, as she's concerned about the crew getting too drunk to fend off threats.
+Within the pantry are `dice:2d4|noform|noparens|avg` (`2d4`) unopened casks of aged wine, each worth 500 gp. Kycera happily allows the characters to take them, as she's concerned about the crew getting too drunk to fend off threats.
 
 #### Z4: Mess Hall
 
@@ -505,7 +505,7 @@ If the characters have no way to see the invisible ward runes, Inda lends the pa
 
 ##### Treasure
 
-Inda has a [[5. Mechanics/Items/Flame Tongue.md\|Flame Tongue shortsword]] and a [[5. Mechanics/Items/Ring Of Evasion.md\|Ring of Evasion]] on her bedside table next to the [[5. Mechanics/Items/Lantern Of Revealing.md\|Lantern of Revealing]]. If asked, Inda is reluctant to give away the shortsword or ring but can be convinced with a successful DC 22 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check. Inda has a key to the strongbox in area Z13 and knows where the secret compartment holding a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Flame Strike.md\|Flame Strike]] is in area Z17; she mentions these to the characters if they help her with her prosthetic wing in area Z16 or help her reach her crew in the stern segment.
+Inda has a [[5. Mechanics/Items/Flame Tongue.md\|Flame Tongue shortsword]] and a [[5. Mechanics/Items/Ring Of Evasion.md\|Ring of Evasion]] on her bedside table next to the [[5. Mechanics/Items/Lantern Of Revealing.md\|Lantern of Revealing]]. If asked, Inda is reluctant to give away the shortsword or ring but can be convinced with a successful DC 22 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check. Inda has a key to the strongbox in area Z13 and knows where the secret compartment holding a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Flame Strike.md\|Flame Strike]] is in area Z17; she mentions these to the characters if they help her with her prosthetic wing in area Z16 or help her reach her crew in the stern segment.
 
 As an action, a character who can reach the bedside table can try to steal one of the magic items atop it without being seen by Inda, doing so with a successful DC 19 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check. On a failed check, Inda sees the attempt and immediately becomes hostile.
 
@@ -539,7 +539,7 @@ The armchair served as the captain's chair. The broken chair on the ground was t
 
 ##### Treasure
 
-A character who examines the captain's chair and succeeds on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check finds a secret compartment in the right armrest. The compartment holds a bronze tube containing a [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell Scroll]] of [[5. Mechanics/Spells/Flame Strike.md\|Flame Strike]].
+A character who examines the captain's chair and succeeds on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check finds a secret compartment in the right armrest. The compartment holds a bronze tube containing a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]] of [[5. Mechanics/Spells/Flame Strike.md\|Flame Strike]].
 
 #### Z18: Forward Cargo Hold
 
@@ -609,7 +609,7 @@ The creature sleeping on the ceiling is the [[5. Mechanics/Bestiary/Monstrosity/
 
 ##### Retrieving the Rod Piece
 
-The rod piece is deep within the hertilod's gullet. If the hertilod is forced to regurgitate creatures in its gullet, roll a `dice:d6|noform|avg` (`d6`). On a roll of 4 or higher, the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|rod piece]] is also regurgitated and lands in an unoccupied space within 10 feet of the hertilod. Alternatively, a creature within the hertilod's gullet can use its action to make a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check, finding the rod piece on a successful check. Once the hertilod is dispatched, a character can easily recover the rod piece from the hertilod's gullet. For more about the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], see this book's introduction.
+The rod piece is deep within the hertilod's gullet. If the hertilod is forced to regurgitate creatures in its gullet, roll a `dice:d6|noform|noparens|avg` (`d6`). On a roll of 4 or higher, the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|rod piece]] is also regurgitated and lands in an unoccupied space within 10 feet of the hertilod. Alternatively, a creature within the hertilod's gullet can use its action to make a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check, finding the rod piece on a successful check. Once the hertilod is dispatched, a character can easily recover the rod piece from the hertilod's gullet. For more about the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], see this book's introduction.
 
 ##### Caved-In Artery
 
@@ -624,7 +624,7 @@ A character who uses an action to dig through the cave-in can make a DC 15 Stren
 > The air here is humid. Pooled on the floor is black sludge that shimmers like an oil slick.
 ^197
 
-A character who examines the sludge and succeeds on a DC 13 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check identifies it as Havock's blood. A creature that touches the blood immediately takes `dice:3d6|noform|avg|text(10)` (`3d6`) force damage. For each minute a creature spends in contact with the blood, the creature takes this damage again.
+A character who examines the sludge and succeeds on a DC 13 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check identifies it as Havock's blood. A creature that touches the blood immediately takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) force damage. For each minute a creature spends in contact with the blood, the creature takes this damage again.
 
 ##### Caved-In Artery
 

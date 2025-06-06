@@ -15,7 +15,7 @@ tags:
 aliases:
   - Centaur
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Centaur.md|Centaur]]
+# [[5. Mechanics\Bestiary\Monstrosity\Centaur.md|Centaur]]
 *Source: Monster Manual p. 38. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 > [!quote] A quote from Batley Summerfoot, a halfling adventurer who never read HOOVES OF FURY, by Iryil Grayborn of Sundown  
@@ -49,41 +49,45 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
 "ac": !!int "12"
 "hp": !!int "45"
 "hit_dice": "6d10 + 12"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "14"
-- !!int "14"
-- !!int "9"
-- !!int "13"
-- !!int "11"
+  - !!int "18"
+  - !!int "14"
+  - !!int "14"
+  - !!int "9"
+  - !!int "13"
+  - !!int "11"
 "speed": "50 ft."
 "skillsaves":
-  "Athletics": !!int "6"
-  "Perception": !!int "3"
-  "Survival": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
+    "desc": "+3"
 "senses": "passive Perception 13"
 "languages": "Elvish, Sylvan"
 "cr": "2"
 "traits":
-- "desc": "If the centaur moves at least 30 feet straight toward a target and then\
-    \ hits it with a pike attack on the same turn, the target takes an extra 10 (3d6)\
-    \ piercing damage."
-  "name": "Charge"
+  - "desc": "If the centaur moves at least 30 feet straight toward a target and then\
+      \ hits it with a pike attack on the same turn, the target takes an extra 10\
+      \ (3d6) piercing damage."
+    "name": "Charge"
 "actions":
-- "desc": "The centaur makes two attacks: one with its pike and one with its hooves\
-    \ or two with its longbow."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9 (1d10\
-    \ + 4) piercing damage."
-  "name": "Pike"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6\
-    \ + 4) bludgeoning damage."
-  "name": "Hooves"
-- "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit:\
-    \ 6 (1d8 + 2) piercing damage."
-  "name": "Longbow"
+  - "desc": "The centaur makes two attacks: one with its pike and one with its hooves\
+      \ or two with its longbow."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9\
+      \ (1d10 + 4) piercing damage."
+    "name": "Pike"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
+      \ (2d6 + 4) bludgeoning damage."
+    "name": "Hooves"
+  - "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit:\
+      \ 6 (1d8 + 2) piercing damage."
+    "name": "Longbow"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/centaur.webp"
 ```
 ^statblock

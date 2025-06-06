@@ -7,22 +7,31 @@ tags:
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/abjuration
-level: 9th-level
-range: false
+classes:
+  - Bard
+  - Wizard
 school: Abjuration
-time: 1 action
-duration: 10 minute
-components: 'V, S'
+level: 9
+ritual: false
+time: 1 Action
+duration: 10 minutes
+components:
+  - V
+  - S
 aliases:
   - Prismatic Wall
+range: 60 feet
+area:
+  type: line
+  size: 90
 ---
 # Prismatic Wall
 *9th-level, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
-- **Duration:** 10 minute
+- **Duration:** 10 minutes
 
 A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your action and the spell slot are wasted.
 
@@ -34,23 +43,23 @@ The wall can be destroyed, also one layer at a time, in order from red to violet
 
 ## Red
 
-The creature takes `dice:10d6|noform|avg` (`10d6`) fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
+The creature takes `dice:10d6|noform|noparens|avg` (`10d6`) fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
 
 ## Orange
 
-The creature takes `dice:10d6|noform|avg` (`10d6`) acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
+The creature takes `dice:10d6|noform|noparens|avg` (`10d6`) acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
 
 ## Yellow
 
-The creature takes `dice:10d6|noform|avg` (`10d6`) lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
+The creature takes `dice:10d6|noform|noparens|avg` (`10d6`) lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
 
 ## Green
 
-The creature takes `dice:10d6|noform|avg` (`10d6`) poison damage on a failed save, or half as much damage on a successful one. A [[5. Mechanics/Spells/Passwall.md\|passwall]] spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
+The creature takes `dice:10d6|noform|noparens|avg` (`10d6`) poison damage on a failed save, or half as much damage on a successful one. A [[5. Mechanics/Spells/Passwall.md\|passwall]] spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
 
 ## Blue
 
-The creature takes `dice:10d6|noform|avg` (`10d6`) cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
+The creature takes `dice:10d6|noform|noparens|avg` (`10d6`) cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
 
 ## Indigo
 
@@ -64,6 +73,6 @@ On a failed save, the creature is [[/5. Mechanics/Rules/Conditions.md#Blinded\|b
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

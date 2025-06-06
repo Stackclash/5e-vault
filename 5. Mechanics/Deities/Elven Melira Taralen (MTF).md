@@ -7,6 +7,12 @@ tags:
   - domain/knowledge
   - domain/life
   - domain/trickery
+alignment: Chaotic Good
+category: The Seldarine
+domains: 'Knowledge, Life, Trickery'
+pantheon: Elven
+province: 'Poetry, songs'
+symbol: Lute
 aliases:
   - Melira Taralen
 ---

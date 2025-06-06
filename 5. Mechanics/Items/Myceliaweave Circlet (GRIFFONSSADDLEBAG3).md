@@ -23,6 +23,6 @@ The reanimated creature is considered a fungus for the purposes of being able to
 
 ## Curse
 
-Once you attune to this magic circlet and wear it, you can't remove it unless you die or are targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell, as the fungal growth and mycelium network latch onto your body. When your attunement to the circlet ends, your Constitution score is reduced by 2 (to a minimum score of 1) until `dice:2d6+6|noform|avg` (`2d6 + 6`) days have passed or until you attune to the circlet again. Further, a creature reanimated by the circlet becomes hostile to you and your companions and no longer obeys your commands if your attunement to the circlet ends.
+Once you attune to this magic circlet and wear it, you can't remove it unless you die or are targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell, as the fungal growth and mycelium network latch onto your body. When your attunement to the circlet ends, your Constitution score is reduced by 2 (to a minimum score of 1) until `dice:2d6+6|noform|noparens|avg` (`2d6 + 6`) days have passed or until you attune to the circlet again. Further, a creature reanimated by the circlet becomes hostile to you and your companions and no longer obeys your commands if your attunement to the circlet ends.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

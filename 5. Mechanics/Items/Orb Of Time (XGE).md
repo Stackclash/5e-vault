@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Orb of Time
+weight: 3
 ---
 # Orb of Time
 *Wondrous item, minor, common*  

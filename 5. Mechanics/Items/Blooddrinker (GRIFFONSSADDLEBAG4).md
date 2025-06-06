@@ -9,13 +9,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Blooddrinker
-one-hand-damage: 1d12 S
+one-hand-damage: 1d12 slashing
+weight: 7
 ---
 # Blooddrinker
 *Weapon ([[5. Mechanics/Items/Greataxe.md\|greataxe]]), cursed item, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Blooddrinker.webp#right)  
 
-- **Damage**: 1d12 S
+- **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
 

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: null
 size: Large
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Warhorse Skeleton
 ---
-# [[5. Mechanics/Bestiary/Undead/Warhorse Skeleton.md|Warhorse Skeleton]]
+# [[5. Mechanics\Bestiary\Undead\Warhorse Skeleton.md|Warhorse Skeleton]]
 *Source: Monster Manual p. 273, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
@@ -51,13 +51,14 @@ A skeleton doesn't require air, food, drink, or sleep.
 "ac_class": "barding scraps"
 "hp": !!int "22"
 "hit_dice": "3d10 + 6"
+"modifier": !!int "1"
 "stats":
-- !!int "18"
-- !!int "12"
-- !!int "15"
-- !!int "2"
-- !!int "8"
-- !!int "5"
+  - !!int "18"
+  - !!int "12"
+  - !!int "15"
+  - !!int "2"
+  - !!int "8"
+  - !!int "5"
 "speed": "60 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
@@ -67,12 +68,12 @@ A skeleton doesn't require air, food, drink, or sleep.
 "languages": ""
 "cr": "1/2"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6\
-    \ + 4) bludgeoning damage."
-  "name": "Hooves"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
+      \ (2d6 + 4) bludgeoning damage."
+    "name": "Hooves"
 "source":
-- "MM"
-- "CoS"
+  - "MM"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Undead/token/warhorse-skeleton.webp"
 ```
 ^statblock

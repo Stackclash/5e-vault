@@ -10,17 +10,18 @@ tags:
   - item/weapon/simple
 aliases:
   - Mirrorlight Piercer
-one-hand-damage: 1d6 P
-two-hand-damage: 1d8 P
-range: 20/60
+one-hand-damage: 1d6 piercing
+two-hand-damage: 1d8 piercing
+range: 20\60
+weight: 3
 ---
 # Mirrorlight Piercer
 *Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Mirrorlight-Piercer.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 P
-  - Two-handed: 1d8 P
+  - One-handed: 1d6 piercing
+  - Two-handed: 1d8 piercing
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.

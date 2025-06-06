@@ -13,21 +13,35 @@ tags:
   - spell/subclass/divine-soul
   - spell/subclass/grave-domain
   - spell/subclass/life-domain
-level: 5th-level
-range: false
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Cleric
+  - Cleric (Carillon Domain)
+  - Cleric (Grave Domain)
+  - Cleric (Life Domain)
+  - Paladin
+  - Sorcerer (Divine Soul)
 school: Necromancy
+level: 5
+ritual: false
 time: 1 hour
 duration: Instantaneous
-components: 'V, S, a diamond worth at least 500 gp, which the spell consumes'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Raise Dead
+range: Touch
+material: 'A diamond worth at least 500gp, which the spell consumes.'
 ---
 # Raise Dead
 *5th-level, Necromancy*  
 
 - **Casting time:** 1 hour
 - **Range:** Touch
-- **Components:** V, S, a diamond worth at least 500 gp, which the spell consumes
+- **Components:** V, S, M (a diamond worth at least 500 gp, which the spell consumes)
 - **Duration:** Instantaneous
 
 You return a dead creature you touch to life, provided that it has been dead no longer than 10 days. If the creature's soul is both willing and at liberty to rejoin the body, the creature returns to life with 1 hit point.
@@ -38,6 +52,6 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 
 Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Artificer Alchemist (TCE)\|Artificer (Alchemist)]]; [[List Spells Classes Cleric Carillon Domain (GRIFFONSSADDLEBAG3)\|Cleric (Carillon Domain)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Cleric Grave Domain (XGE)\|Cleric (Grave Domain)]]; [[List Spells Classes Cleric Life Domain\|Cleric (Life Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Life Domain.md\|Cleric (Life Domain)]]; [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Cleric (Grave Domain)](compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Artificer (Alchemist)](compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

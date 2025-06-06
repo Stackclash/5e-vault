@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/dwarven
   - domain/nature
+alignment: Chaotic Good
+category: The Mordinsamman
+domains: Nature
+pantheon: Dwarven
+province: 'Wilderness, hunting'
+symbol: Two clawed gauntlets
 aliases:
   - Thard Harr
 ---

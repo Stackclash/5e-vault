@@ -4,6 +4,8 @@ cssclasses: json5e-class
 tags:
   - class/barbarian
   - compendium/src/5e/phb
+hitdice: 12
+hitRollAverage: 7
 aliases:
   - Barbarian
 ---
@@ -17,28 +19,29 @@ aliases:
 > <tr><th colspan='5'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Rages</th><th class="value">Rage Damage</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Rage%20(Level%201)'>Rage</a>, <a href='#Unarmored%20Defense%20(Level%201)'>Unarmored Defense</a></td><td class="value">2</td><td class="value">+2</td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Danger%20Sense%20(Level%202)'>Danger Sense</a>, <a href='#Reckless%20Attack%20(Level%202)'>Reckless Attack</a></td><td class="value">2</td><td class="value">+2</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Primal%20Path%20(Level%203)'>Primal Path</a>, <a href='#Primal%20Knowledge%20(Level%203)'>Primal Knowledge</a></td><td class="value">3</td><td class="value">+2</td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">+2</td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra%20Attack%20(Level%205)'>Extra Attack</a>, <a href='#Fast%20Movement%20(Level%205)'>Fast Movement</a></td><td class="value">3</td><td class="value">+2</td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Path%20Feature%20(Level%206)'>Path Feature</a></td><td class="value">4</td><td class="value">+2</td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Feral%20Instinct%20(Level%207)'>Feral Instinct</a>, <a href='#Instinctive%20Pounce%20(Level%207)'>Instinctive Pounce</a></td><td class="value">4</td><td class="value">+2</td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">+2</td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Brutal%20Critical%20(1%20die)%20(Level%209)'>Brutal Critical (1 die)</a></td><td class="value">4</td><td class="value">+3</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Path%20feature%20(Level%2010)'>Path feature</a></td><td class="value">4</td><td class="value">+3</td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Relentless%20Rage%20(Level%2011)'>Relentless Rage</a></td><td class="value">4</td><td class="value">+3</td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td><td class="value">5</td><td class="value">+3</td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Brutal%20Critical%20(2%20dice)%20(Level%2013)'>Brutal Critical (2 dice)</a></td><td class="value">5</td><td class="value">+3</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Path%20feature%20(Level%2014)'>Path feature</a></td><td class="value">5</td><td class="value">+3</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Persistent%20Rage%20(Level%2015)'>Persistent Rage</a></td><td class="value">5</td><td class="value">+3</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td><td class="value">5</td><td class="value">+4</td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Brutal%20Critical%20(3%20dice)%20(Level%2017)'>Brutal Critical (3 dice)</a></td><td class="value">6</td><td class="value">+4</td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Indomitable%20Might%20(Level%2018)'>Indomitable Might</a></td><td class="value">6</td><td class="value">+4</td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2019)'>Ability Score Improvement</a></td><td class="value">6</td><td class="value">+4</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Primal%20Champion%20(Level%2020)'>Primal Champion</a></td><td class="value">Unlimited</td><td class="value">+4</td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Rage (Level 1)' class='internal-link'>Rage</a>, <a href='#Unarmored Defense (Level 1)' class='internal-link'>Unarmored Defense</a></td><td class="value">2</td><td class="value">+2</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Danger Sense (Level 2)' class='internal-link'>Danger Sense</a>, <a href='#Reckless Attack (Level 2)' class='internal-link'>Reckless Attack</a></td><td class="value">2</td><td class="value">+2</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Primal Path (Level 3)' class='internal-link'>Primal Path</a>, <a href='#Primal Knowledge (Level 3)' class='internal-link'>Primal Knowledge</a></td><td class="value">3</td><td class="value">+2</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">+2</td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra Attack (Level 5)' class='internal-link'>Extra Attack</a>, <a href='#Fast Movement (Level 5)' class='internal-link'>Fast Movement</a></td><td class="value">3</td><td class="value">+2</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Path Feature (Level 6)' class='internal-link'>Path Feature</a></td><td class="value">4</td><td class="value">+2</td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Feral Instinct (Level 7)' class='internal-link'>Feral Instinct</a>, <a href='#Instinctive Pounce (Level 7)' class='internal-link'>Instinctive Pounce</a></td><td class="value">4</td><td class="value">+2</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">+2</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Brutal Critical (1 die) (Level 9)' class='internal-link'>Brutal Critical (1 die)</a></td><td class="value">4</td><td class="value">+3</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Path feature (Level 10)' class='internal-link'>Path feature</a></td><td class="value">4</td><td class="value">+3</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Relentless Rage (Level 11)' class='internal-link'>Relentless Rage</a></td><td class="value">4</td><td class="value">+3</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">5</td><td class="value">+3</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Brutal Critical (2 dice) (Level 13)' class='internal-link'>Brutal Critical (2 dice)</a></td><td class="value">5</td><td class="value">+3</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Path feature (Level 14)' class='internal-link'>Path feature</a></td><td class="value">5</td><td class="value">+3</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Persistent Rage (Level 15)' class='internal-link'>Persistent Rage</a></td><td class="value">5</td><td class="value">+3</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">5</td><td class="value">+4</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Brutal Critical (3 dice) (Level 17)' class='internal-link'>Brutal Critical (3 dice)</a></td><td class="value">6</td><td class="value">+4</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Indomitable Might (Level 18)' class='internal-link'>Indomitable Might</a></td><td class="value">6</td><td class="value">+4</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td><td class="value">6</td><td class="value">+4</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Primal Champion (Level 20)' class='internal-link'>Primal Champion</a></td><td class="value">Unlimited</td><td class="value">+4</td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 ## Hit Points
 
@@ -64,7 +67,7 @@ Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
 ## Multiclassing Barbarian
 
-**Ability Score Minimum:**Strength 13
+**Ability Score Minimum:** Strength 13
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
@@ -112,6 +115,10 @@ You can make a barbarian quickly by following these suggestions. First, put your
 The anger felt by a normal person resembles the rage of a barbarian in the same way that a gentle breeze is akin to a furious thunderstorm. The barbarian's driving force comes from a place that transcends mere emotion, making its manifestation all the more terrible. Whether the impetus for the fury comes entirely from within or from forging a link with a spirit animal, a raging barbarian becomes able to perform supernatural feats of strength and endurance. The outburst is temporary, but while it lasts, it takes over body and mind, driving the barbarian on despite peril and injury, until the last enemy falls.
 
 It can be tempting to play a barbarian character that is a straightforward application of the classic archetype—a brute, and usually a dimwitted one at that, who rushes in where others fear to tread. But not all the barbarians in the world are cut from that cloth, so you can certainly put your own spin on things. Either way, consider adding some flourishes to make your barbarian stand out from all others; see the following sections for some ideas.
+
+> [!quote] A quote from Xanathar  
+> 
+> Rawr! I'm really angry! Funny, I don't feel any stronger. Maybe because I'm always angry, I'm always in top condition. Stands to reason.
 
 ## Personal Totems
 _Source: Xanathar's Guide to Everything_
@@ -219,7 +226,7 @@ At 3rd level, you choose a path that shapes the nature of your rage from the lis
 ### Primal Knowledge (Level 3)
 _Source: Tasha's Cauldron of Everything p. 24_
 
-*3rd-level barbarian [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*3rd-level barbarian [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
 When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level.
 
@@ -250,7 +257,7 @@ Additionally, if you are [[/5. Mechanics/Rules/Conditions.md#Surprised\|surprise
 ### Instinctive Pounce (Level 7)
 _Source: Tasha's Cauldron of Everything p. 24_
 
-*7th-level barbarian [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*7th-level barbarian [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
 As part of the bonus action you take to enter your rage, you can move up to half your speed.
 

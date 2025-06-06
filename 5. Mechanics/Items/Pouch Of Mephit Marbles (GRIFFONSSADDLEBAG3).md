@@ -13,7 +13,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Pouch-of-Mephit-Marbles.webp#right)  
 
 
-This square pouch contains `dice:2d4+2|noform|avg` (`2d4 + 2`) marbles inside it. There are four types of marbles. Roll on the table below for each marble within the pouch to determine how many of each type you have.
+This square pouch contains `dice:2d4+2|noform|noparens|avg` (`2d4 + 2`) marbles inside it. There are four types of marbles. Roll on the table below for each marble within the pouch to determine how many of each type you have.
 
 `dice: [[Pouch Of Mephit Marbles (GRIFFONSSADDLEBAG3).md#^appearance-mephit]]`
 

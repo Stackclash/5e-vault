@@ -11,24 +11,36 @@ tags:
   - spell/level/9th-level
   - spell/school/necromancy
   - spell/subclass/divine-soul
-level: 9th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Monk
+  - Sorcerer (Divine Soul)
+  - Warlock
+  - Wizard
 school: Necromancy
+level: 9
+ritual: false
 time: 1 hour
 duration: Special
-components: >-
-  V, S, for each creature you affect with this spell, you must provide one
-  jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at
-  least 100 gp, all of which the spell consumes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Astral Projection
+range: 10 feet
+material: >-
+  For each creature you affect with this spell, you must provide one jacinth
+  worth at least 1,000gp and one ornately carved bar of silver worth at least
+  100gp, all of which the spell consumes.
 ---
 # Astral Projection
 *9th-level, Necromancy*  
 
 - **Casting time:** 1 hour
 - **Range:** 10 feet
-- **Components:** V, S, for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes
+- **Components:** V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)
 - **Duration:** Special
 
 You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] and in a state of suspended animation, it doesn't need food or air and doesn't age.
@@ -43,6 +55,6 @@ The spell might also end early for you or one of your companions. A successful [
 
 If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 hit points.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Monk\|Monk]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Monk.md\|Monk]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

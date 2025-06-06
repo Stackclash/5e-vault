@@ -6,6 +6,11 @@ tags:
   - deity/eberron
   - domain/death
   - domain/life
+alignment: Lawful Neutral
+category: Other Faiths of Eberron
+domains: 'Death, Life'
+pantheon: Eberron
+symbol: Stylized dragon skull on red teardrop gem
 aliases:
   - The Blood of Vol
 ---

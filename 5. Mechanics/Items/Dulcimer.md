@@ -8,6 +8,7 @@ tags:
 aliases:
   - Dulcimer
 cost: 2500
+weight: 10
 ---
 # Dulcimer
 *Instrument*  

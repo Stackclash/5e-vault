@@ -15,7 +15,7 @@ tags:
 aliases:
   - Marid
 ---
-# [[5. Mechanics/Bestiary/Elemental/Marid.md|Marid]]
+# [[5. Mechanics\Bestiary\Elemental\Marid.md|Marid]]
 *Source: Monster Manual p. 146, Tasha's Cauldron of Everything, Vecna: Eve of Ruin*
 
 Hailing from the Elemental Plane of Water, the marids are the most wondrous of genie-kind. Although all genies wield great power, even the lowliest marid sees itself as clearly superior to the flighty djinn, the ground-hugging dao, and the fuming efreet. Large and piscine, marids are a strange sight to behold, particularly when clad in the finely stitched vests and colorful pantaloons they favor. They speak in voices as soft as the sea breeze or as sonorous as storm waves breaking against a rocky cliff. In flight, their lower bodies transform into columns of foamy water.
@@ -56,58 +56,59 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 "ac_class": "natural armor"
 "hp": !!int "229"
 "hit_dice": "17d10 + 136"
+"modifier": !!int "1"
 "stats":
-- !!int "22"
-- !!int "12"
-- !!int "26"
-- !!int "18"
-- !!int "17"
-- !!int "18"
+  - !!int "22"
+  - !!int "12"
+  - !!int "26"
+  - !!int "18"
+  - !!int "17"
+  - !!int "18"
 "speed": "30 ft., fly 60 ft., swim 90 ft."
 "saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "7"
+  - "dexterity": "+5"
+  - "wisdom": "+7"
+  - "charisma": "+8"
 "damage_resistances": "acid, cold, lightning"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 13"
 "languages": "Aquan"
 "cr": "11"
 "traits":
-- "desc": "The marid's innate spellcasting ability is Charisma (spell save DC 16,\
-    \ +8 to hit with spell attacks). It can innately cast the following spells, requiring\
-    \ no material components:\n\nAt will: [[5. Mechanics/Spells/Create Or Destroy Water.md|create or destroy water]],\
-    \ [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Conjure Element(AL).md|conjure elemental]]\
-    \ ([[5. Mechanics/Bestiary/Elemental/Water Element(AL).md|water elemental]] only),\
-    \ [[5. Mechanics/Spells/Control Water.md|control water]], [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
-    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Tongues.md|tongues]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]],\
-    \ [[5. Mechanics/Spells/Water Wa(LK).md|water walk]]"
-  "name": "Innate Spellcasting"
-- "desc": "The marid can breathe air and water."
-  "name": "Amphibious"
-- "desc": "If the marid dies, its body disintegrates into a burst of water and foam,\
-    \ leaving behind only equipment the marid was wearing or carrying."
-  "name": "Elemental Demise"
+  - "desc": "The marid's innate spellcasting ability is Charisma (spell save DC 16,\
+      \ +8 to hit with spell attacks). It can innately cast the following spells,\
+      \ requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Create Or Destroy Water.md|create or destroy water]],\
+      \ [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[5. Mechanics/Spells/Detect Magic.md|detect\
+      \ magic]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
+      \ [[5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]]\n\n3/day\
+      \ each: [[5. Mechanics/Spells/Tongues.md|tongues]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]],\
+      \ [[5. Mechanics/Spells/Water Wa(LK).md|water walk]]\n\n1/day each: [[5. Mechanics/Spells/Conjure Element(AL).md|conjure\
+      \ elemental]] ([[5. Mechanics/Bestiary/Elemental/Water Element(AL).md|water elemental]]\
+      \ only), [[5. Mechanics/Spells/Control Water.md|control water]], [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
+      \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
+    "name": "Innate Spellcasting"
+  - "desc": "The marid can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "If the marid dies, its body disintegrates into a burst of water and foam,\
+      \ leaving behind only equipment the marid was wearing or carrying."
+    "name": "Elemental Demise"
 "actions":
-- "desc": "The marid makes two trident attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60\
-    \ ft., one target. Hit: 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6) piercing\
-    \ damage if used with two hands to make a melee attack."
-  "name": "Trident"
-- "desc": "The marid magically shoots water in a 60-foot line that is 5 feet wide.\
-    \ Each creature in that line must make a DC 16 Dexterity saving throw. On a failure,\
-    \ a target takes 21 (6d6) bludgeoning damage and, if it is Huge or smaller, is\
-    \ pushed up to 20 feet away from the marid and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
-    \ On a success, a target takes half the bludgeoning damage, but is neither pushed\
-    \ nor knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
-  "name": "Water Jet"
+  - "desc": "The marid makes two trident attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. Hit: 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6) piercing\
+      \ damage if used with two hands to make a melee attack."
+    "name": "Trident"
+  - "desc": "The marid magically shoots water in a 60-foot line that is 5 feet wide.\
+      \ Each creature in that line must make a DC 16 Dexterity saving throw. On a\
+      \ failure, a target takes 21 (6d6) bludgeoning damage and, if it is Huge or\
+      \ smaller, is pushed up to 20 feet away from the marid and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+      \ On a success, a target takes half the bludgeoning damage, but is neither pushed\
+      \ nor knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+    "name": "Water Jet"
 "source":
-- "MM"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Elemental/token/marid.webp"
 ```
 ^statblock

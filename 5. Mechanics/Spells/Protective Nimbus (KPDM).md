@@ -10,25 +10,35 @@ tags:
   - spell/school/abjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Abjuration
-time: 1 action
-duration: 10 minute
-components: 'V, S, a crystal or glass bead'
+level: 3
+ritual: false
+time: 1 Action
+duration: 10 minutes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Protective Nimbus
+material: a crystal or glass bead
 ---
 # Protective Nimbus
 *3rd-level, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
-- **Components:** V, S, a crystal or glass bead
-- **Duration:** 10 minute
+- **Components:** V, S, M (a crystal or glass bead)
+- **Duration:** 10 minutes
 
 You wrap yourself in a corona that sheds bright light in a 20-foot radius and dim light for an additional 20 feet. Until the spell ends, you have resistance to necrotic damage. You can end the spell early by using an action to dismiss it.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 225*

@@ -10,19 +10,20 @@ tags:
   - item/weapon/melee
 aliases:
   - Thunderous Flail
-one-hand-damage: 1d8 B
-range: 20/60
+one-hand-damage: 1d8 bludgeoning
+range: 20\60
+weight: 2
 ---
 # Thunderous Flail
 *Weapon ([[5. Mechanics/Items/Flail.md\|flail]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Thunderous-Flail.webp#right)  
 
-- **Damage**: 1d8 B
+- **Damage**: 1d8 bludgeoning
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
 
-This flail has 3 charges and regains `dice:1d3|noform|avg` (`1d3`) expended charges each day at dawn. You can expend 1 charge to cast the [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]] spell (save DC 15). The ball of the flail is the origin of the spell. As long as the flail has at least 1 charge, you deal an extra `dice:1d6|noform|avg` (`1d6`) lightning damage to the first target you hit with it on each of your turns.
+This flail has 3 charges and regains `dice:1d3|noform|noparens|avg` (`d3`) expended charges each day at dawn. You can expend 1 charge to cast the [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]] spell (save DC 15). The ball of the flail is the origin of the spell. As long as the flail has at least 1 charge, you deal an extra `dice:1d6|noform|noparens|avg` (`d6`) lightning damage to the first target you hit with it on each of your turns.
 
 If you make a melee attack using the flail, you can immediately expend 1 charge to cast *thunderwave* as a bonus action in the direction of your last attacked target.
 

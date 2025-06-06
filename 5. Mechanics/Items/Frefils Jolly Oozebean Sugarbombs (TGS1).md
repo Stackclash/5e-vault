@@ -13,7 +13,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Frefils-Jolly-Oozebean-Sugarbombs.webp#right)  
 
 
-A pack of oozebeans comes with 4 inside it. When you open a pack, roll `dice:4d8|noform|avg` (`4d8`) and record each number. Use these numbers to determine the kinds of oozebeans found in the bag using the table below. You can eat an oozebean using a bonus action. Each color has an effect that lasts for 1 minute.
+A pack of oozebeans comes with 4 inside it. When you open a pack, roll `dice:4d8|noform|noparens|avg` (`4d8`) and record each number. Use these numbers to determine the kinds of oozebeans found in the bag using the table below. You can eat an oozebean using a bonus action. Each color has an effect that lasts for 1 minute.
 
 ## Upset Stomach
 
@@ -25,10 +25,10 @@ You can only be under the effects of 1 sugarbomb that has this feature at a time
 
 | dice: d8 | Color | Result |
 |----------|-------|--------|
-| 1 | Red | You gain `dice:1d8+4\|noform\|avg` (`1d8 + 4`) temporary hit points. |
+| 1 | Red | You gain `dice:1d8+4\|noform\|noparens\|avg` (`1d8 + 4`) temporary hit points. |
 | 2 | Yellow | You have resistance against lightning damage and immunity against damage from the [[5. Mechanics/Spells/Magic Missile.md\|magic missile]] spell. |
 | 3 | Green | You have resistance to poison damage and advantage on ability checks to escape grapples or restraints. |
-| 4 | Blue | Grappling or being grappled deals `dice:1d8\|noform\|avg` (`1d8`) acid damage to the other creature. |
+| 4 | Blue | Grappling or being grappled deals `dice:1d8\|noform\|noparens\|avg` (`d8`) acid damage to the other creature. |
 | 5 | Gold | You gain a climbing speed equal to your movement speed. |
 | 6 | White | You can breathe underwater. |
 | 7 | Black | You have resistance to acid damage and can safely eat otherwise inedible and nonpoisonous organic materials. |

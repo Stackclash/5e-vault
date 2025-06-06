@@ -9,12 +9,13 @@ tags:
 aliases:
   - Greatsword
 cost: 5000
-one-hand-damage: 2d6 S
+one-hand-damage: 2d6 slashing
+weight: 6
 ---
 # Greatsword
 *Weapon*  
 
-- **Damage**: 2d6 S
+- **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Cost**: 50 gp
 - **Weight**: 6.0 lbs.

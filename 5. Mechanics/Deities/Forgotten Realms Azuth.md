@@ -6,6 +6,10 @@ tags:
   - deity/forgotten-realms
   - domain/arcana
   - domain/knowledge
+alignment: Lawful Neutral
+domains: 'Knowledge, Arcana'
+pantheon: Forgotten Realms
+symbol: 'Left hand pointing upward, outlined in fire'
 aliases:
   - Azuth
 ---

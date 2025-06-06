@@ -8,6 +8,7 @@ tags:
 aliases:
   - Cinnamon
 cost: 200
+weight: 1
 ---
 # Cinnamon
 *Trade good*  

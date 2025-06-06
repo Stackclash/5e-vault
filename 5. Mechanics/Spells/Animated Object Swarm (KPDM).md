@@ -8,19 +8,26 @@ tags:
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/conjuration
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 school: Conjuration
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 5
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Animated Object Swarm
+concentration: true
 ---
 # Animated Object Swarm
 *5th-level, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -29,6 +36,6 @@ Myriad Tiny objects animate at your command, forming a swarm. The objects' abili
 
 The area of the swarm is considered difficult terrain, and creatures in it are lightly obscured. The swarm has the following statistics: [[5. Mechanics/Bestiary/Construct/Animated Object Swarm (KPDM).md\|animated object swarm]]
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 37*

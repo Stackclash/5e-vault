@@ -15,4 +15,10 @@ When a DM adds spells to a campaign, clerics, druids, and paladins require speci
 
 See the full list of spells from *Xanathar's Guide to Everything* on the Spells page.
 
+> [!quote] A quote from Xanathar  
+> 
+> So why can't people who use magic do it all the time?
+> 
+> I can disintegrate things whenever I want. Like now. And now. And now. And now... Hey, where'd everybody go?
+
 ![[6. Resources/Books/Xanathars Guide To Everything/img/c3001.webp#center]]

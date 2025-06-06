@@ -8,7 +8,7 @@ aliases:
   - Oath of Redemption
 ---
 # Oath of Redemption
-*[[Paladin.md\|Paladin]]: Sacred Oath*  
+*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
 *Source: Xanathar's Guide to Everything p. 38*  
 
 > [!tldr] Class and Feature Progression
@@ -20,11 +20,11 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath%20of%20Redemption%20(Level%203)'>Oath of Redemption</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath of Redemption (Level 3)' class='internal-link'>Oath of Redemption</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Aura%20of%20the%20Guardian%20(Level%207)'>Aura of the Guardian</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Aura of the Guardian (Level 7)' class='internal-link'>Aura of the Guardian</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -32,15 +32,20 @@ aliases:
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Protective%20Spirit%20(Level%2015)'>Protective Spirit</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Protective Spirit (Level 15)' class='internal-link'>Protective Spirit</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Emissary%20of%20Redemption%20(Level%2020)'>Emissary of Redemption</a></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Emissary of Redemption (Level 20)' class='internal-link'>Emissary of Redemption</a></td></tr>
 > </tbody></table>
-^class-progession
 
+^class-progression
+
+
+> [!quote] A quote from Xanathar  
+> 
+> Redemption. So you feel bad about having done something, and then you have to do something to feel better? Why don't you just kill and eat someone? That always makes me feel better.
 
 ## Class Features
 
@@ -109,7 +114,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 ### Protective Spirit (Level 15)
 
-Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to `dice:1d6|noform|avg` (`1d6`) + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
+Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to `dice:1d6|noform|noparens|avg` (`d6`) + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
 
 ### Emissary of Redemption (Level 20)
 

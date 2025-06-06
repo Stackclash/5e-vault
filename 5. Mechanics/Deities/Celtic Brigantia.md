@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/celtic
   - domain/life
+alignment: Neutral Good
+domains: Life
+pantheon: Celtic
+symbol: Footbridge
 aliases:
   - Brigantia
 ---

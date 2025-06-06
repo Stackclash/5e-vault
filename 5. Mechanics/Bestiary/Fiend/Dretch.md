@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dretch
 ---
-# [[5. Mechanics/Bestiary/Fiend/Dretch.md|Dretch]]
+# [[5. Mechanics\Bestiary\Fiend\Dretch.md|Dretch]]
 *Source: Monster Manual p. 57, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Dretches are among the weakest of demons-repulsive, self-loathing creatures doomed to spend eternity in a state of perpetual discontent. Their low intelligence makes dretches unsuitable for anything but the simplest tasks. However, what they lack in potential, they make up for in sheer malice. Dretches mill about in mobs, voicing their displeasure as an unsettling din of hoots, snarls, and grunts.
@@ -167,14 +167,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50 percent chance of summoning `dice:1d8|noform|avg` (`1d8`) vrocks, `dice:1d6|noform|avg` (`1d6`) hezrous, `dice:1d4|noform|avg` (`1d4`) glabrezus, `dice:1d3|noform|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|avg` (`1d2`) mariliths, or one goristro.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`d8`) vrocks, `dice:1d6|noform|noparens|avg` (`d6`) hezrous, `dice:1d4|noform|noparens|avg` (`d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`d2`) mariliths, or one goristro.  
 > - A barlgura has a 30 percent chance of summoning one barlgura.  
 > - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|avg` (`1d3`) vrocks, `dice:1d2|noform|avg` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|avg` (`1d6`) vrocks, `dice:1d4|noform|avg` (`1d4`) hezrous, `dice:1d3|noform|avg` (`1d3`) glabrezus, `dice:1d2|noform|avg` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|avg` (`1d4`) vrocks, `dice:1d3|noform|avg` (`1d3`) hezrous, `dice:1d2|noform|avg` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|avg` (`2d4`) dretches or one vrock.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`d3`) vrocks, `dice:1d2|noform|noparens|avg` (`d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) vrocks, `dice:1d4|noform|noparens|avg` (`d4`) hezrous, `dice:1d3|noform|noparens|avg` (`d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) vrocks, `dice:1d3|noform|noparens|avg` (`d3`) hezrous, `dice:1d2|noform|noparens|avg` (`d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|noparens|avg` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
@@ -195,13 +195,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "ac_class": "natural armor"
 "hp": !!int "18"
 "hit_dice": "4d6 + 4"
+"modifier": !!int "0"
 "stats":
-- !!int "11"
-- !!int "11"
-- !!int "12"
-- !!int "5"
-- !!int "8"
-- !!int "3"
+  - !!int "11"
+  - !!int "11"
+  - !!int "12"
+  - !!int "5"
+  - !!int "8"
+  - !!int "3"
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
@@ -211,25 +212,26 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   \ Abyssal)"
 "cr": "1/4"
 "actions":
-- "desc": "The dretch makes two attacks: one with its bite and one with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6)\
-    \ piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4)\
-    \ slashing damage."
-  "name": "Claws"
-- "desc": "A 10-foot radius of disgusting green gas extends out from the dretch. The\
-    \ gas spreads around corners, and its area is lightly obscured. It lasts for 1\
-    \ minute or until a strong wind disperses it. Any creature that starts its turn\
-    \ in that area must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ until the start of its next turn. While [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ in this way, the target can take either an action or a bonus action on its turn,\
-    \ not both, and can't take reactions."
-  "name": "Fetid Cloud (1/Day)"
+  - "desc": "The dretch makes two attacks: one with its bite and one with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (d6)\
+      \ piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4)\
+      \ slashing damage."
+    "name": "Claws"
+  - "desc": "A 10-foot radius of disgusting green gas extends out from the dretch.\
+      \ The gas spreads around corners, and its area is lightly obscured. It lasts\
+      \ for 1 minute or until a strong wind disperses it. Any creature that starts\
+      \ its turn in that area must succeed on a DC 11 Constitution saving throw or\
+      \ be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] until the start of\
+      \ its next turn. While [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+      \ in this way, the target can take either an action or a bonus action on its\
+      \ turn, not both, and can't take reactions."
+    "name": "Fetid Cloud (1/Day)"
 "source":
-- "MM"
-- "CoS"
+  - "MM"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Fiend/token/dretch.webp"
 ```
 ^statblock

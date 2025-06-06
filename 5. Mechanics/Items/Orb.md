@@ -8,6 +8,7 @@ tags:
 aliases:
   - Orb
 cost: 2000
+weight: 3
 ---
 # Orb
 *Spellcasting focus*  

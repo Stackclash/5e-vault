@@ -17,10 +17,10 @@ The rarity and strength of this potion differs depending on the age category of 
 
 | Rarity | HP Regained |
 |--------|-------------|
-| Uncommon | Wyrmling | `dice:3d4+3\|noform\|avg` (`3d4 + 3`) |
-| Rare | Young | `dice:6d4+6\|noform\|avg` (`6d4 + 6`) |
-| Very Rare | Adult | `dice:10d4+10\|noform\|avg` (`10d4 + 10`) |
-| Legendary | Ancient | `dice:12d4+24\|noform\|avg` (`12d4 + 24`) |
+| Uncommon | Wyrmling | `dice:3d4+3\|noform\|noparens\|avg` (`3d4 + 3`) |
+| Rare | Young | `dice:6d4+6\|noform\|noparens\|avg` (`6d4 + 6`) |
+| Very Rare | Adult | `dice:10d4+10\|noform\|noparens\|avg` (`10d4 + 10`) |
+| Legendary | Ancient | `dice:12d4+24\|noform\|noparens\|avg` (`12d4 + 24`) |
 ^rarity-hp-regained
 
 > [!embed-table]- Dragon Types

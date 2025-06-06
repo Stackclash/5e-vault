@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/saf
 aliases:
-  - 'Part 4: The Siege of Castle Rend'
+  - Part 4: The Siege of Castle Rend
 ---
 # Part 4: The Siege of Castle Rend
 *Source: The Siege of Castle Rend, p. 130* 

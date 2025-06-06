@@ -9,13 +9,14 @@ tags:
 aliases:
   - Heavy Crossbow
 cost: 5000
-one-hand-damage: 1d10 P
-range: 100/400
+one-hand-damage: 1d10 piercing
+range: 100\400
+weight: 18
 ---
 # Heavy Crossbow
 *Weapon*  
 
-- **Damage**: 1d10 P
+- **Damage**: 1d10 piercing
 - **Range**: 100/400
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Cost**: 50 gp

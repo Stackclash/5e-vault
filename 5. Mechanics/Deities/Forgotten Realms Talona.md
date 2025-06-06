@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/death
+alignment: Chaotic Evil
+domains: Death
+pantheon: Forgotten Realms
+symbol: Three teardrops on a triangle
 aliases:
   - Talona
 ---

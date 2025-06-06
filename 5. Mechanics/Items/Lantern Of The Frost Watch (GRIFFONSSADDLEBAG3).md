@@ -25,7 +25,7 @@ The lantern's flame glows orange for up to 10 minutes. For the duration, each cr
 
 ## Micare
 
-The lantern's flame glows impossibly bright. Each creature that isn't shielding its eyes within the lantern's bright light must make a DC 15 Constitution saving throw. A creature takes `dice:4d6|noform|avg` (`4d6`) radiant damage on a failed save, or half as much damage on a successful one. You can shield your eyes as part of the action to use this property. Once this command word has been used, it can't be used again until the next dawn.
+The lantern's flame glows impossibly bright. Each creature that isn't shielding its eyes within the lantern's bright light must make a DC 15 Constitution saving throw. A creature takes `dice:4d6|noform|noparens|avg` (`4d6`) radiant damage on a failed save, or half as much damage on a successful one. You can shield your eyes as part of the action to use this property. Once this command word has been used, it can't be used again until the next dawn.
 
 ## Revelare
 

@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Bardic Boombox
+weight: 5
 ---
 # Bardic Boombox
 *Wondrous item, major, very rare (requires attunement by a bard)*  

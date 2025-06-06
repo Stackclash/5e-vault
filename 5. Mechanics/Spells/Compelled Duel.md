@@ -8,19 +8,24 @@ tags:
   - spell/feat/fey-touched
   - spell/level/1st-level
   - spell/school/enchantment
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Paladin
 school: Enchantment
-time: 1 bonus
-duration: 'Concentration, up to 1 minute'
-components: V
+level: 1
+ritual: false
+time: 1 Bonus Action
+duration: up to 1 minute
+components:
+  - V
 aliases:
   - Compelled Duel
+concentration: true
 ---
 # Compelled Duel
 *1st-level, Enchantment*  
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
@@ -29,6 +34,6 @@ You attempt to compel a creature into a duel. One creature that you can see with
 
 The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Paladin\|Paladin]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 224*

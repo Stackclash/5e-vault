@@ -12,25 +12,35 @@ tags:
   - spell/optfeature/pact-of-the-tome
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
-level: cantrip
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: cantrip
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Fist of Iron
+concentration: true
 ---
 # Fist of Iron
 *cantrip, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You transform your naked hand into iron. Your unarmed attacks deal `dice:1d6|noform|avg` (`1d6`) bludgeoning damage and are considered magical.
+You transform your naked hand into iron. Your unarmed attacks deal `dice:1d6|noform|noparens|avg` (`d6`) bludgeoning damage and are considered magical.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 70*

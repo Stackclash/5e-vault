@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Tome of Clear Thought
+weight: 5
 ---
 # Tome of Clear Thought
 *Wondrous item, major, very rare*  

@@ -22,7 +22,7 @@ For generations, the greater world wondered how elves and other fey creatures se
 
 ## Effect:
 
-This herb contains a number of leaves measuring `dice:1d4|noform|avg` (`1d4`) square feet in area. These leaves do not decompose unless buried in soil, and act almost identically to cotton when sewn together as a fabric.
+This herb contains a number of leaves measuring `dice:1d4|noform|noparens|avg` (`d4`) square feet in area. These leaves do not decompose unless buried in soil, and act almost identically to cotton when sewn together as a fabric.
 
 > [!quote] A quote from Hamund  
 > 

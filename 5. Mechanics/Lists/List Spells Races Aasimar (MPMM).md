@@ -10,4 +10,4 @@ aliases:
 
 ## Cantrip
 
-- [[Light \|"PHB"]] as cantrip
+- [[5. Mechanics/Spells/Light.md \|"PHB"]] as cantrip

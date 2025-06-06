@@ -9,21 +9,30 @@ tags:
   - spell/class/warlock
   - spell/level/3rd-level
   - spell/school/transmutation
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Ranger
+  - Warlock
 school: Transmutation
-time: 1 action
+level: 3
+ritual: false
+time: 1 Action
 duration: 1 minute
-components: 'V, S, a few hairs from a wolf'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Potency of the Pack
+material: a few hairs from a wolf
 ---
 # Potency of the Pack
 *3rd-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 25 feet
-- **Components:** V, S, a few hairs from a wolf
+- **Components:** V, S, M (a few hairs from a wolf)
 - **Duration:** 1 minute
 
 You bestow lupine traits on a group of living creatures that you designate within range. Choose one of the following benefits to be gained by all targets for the duration:
@@ -34,6 +43,6 @@ You bestow lupine traits on a group of living creatures that you designate withi
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 minute for each slot level above 3rd.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Warlock\|Warlock]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 99*

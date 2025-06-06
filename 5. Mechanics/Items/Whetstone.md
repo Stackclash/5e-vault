@@ -8,6 +8,7 @@ tags:
 aliases:
   - Whetstone
 cost: 1
+weight: 1
 ---
 # Whetstone
 *Adventuring gear*  

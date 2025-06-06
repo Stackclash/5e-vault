@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - spell/list/subrace/elf-eladrin-dmg
+  - spell/list/subrace/elf-eladrin
 aliases:
-  - Spells for Elf (Eladrin) (DMG)
+  - Spells for Elf (Eladrin)
 ---
-# Spells for Elf (Eladrin) (DMG)
+# Spells for Elf (Eladrin)
 
 ## 2nd Level
 
-- [[Misty Step \|"PHB"]]
+- [[5. Mechanics/Spells/Misty Step.md \|"PHB"]]

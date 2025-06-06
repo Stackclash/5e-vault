@@ -6,6 +6,12 @@ tags:
   - deity/dwarven
   - domain/grave
   - domain/life
+alignment: Lawful Neutral
+category: The Mordinsamman
+domains: 'Grave, Life'
+pantheon: Dwarven
+province: 'Oaths, birth, aging, death'
+symbol: A silver ewer
 aliases:
   - Valkauna
 ---

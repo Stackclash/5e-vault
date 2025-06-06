@@ -6,6 +6,10 @@ tags:
   - deity/nonhuman
   - domain/nature
   - domain/tempest
+alignment: Chaotic Good
+domains: 'Nature, Tempest'
+pantheon: Nonhuman
+symbol: Dolphin
 aliases:
   - Deep Sashelas
 ---

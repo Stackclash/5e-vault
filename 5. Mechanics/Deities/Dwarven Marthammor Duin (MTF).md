@@ -6,6 +6,12 @@ tags:
   - deity/dwarven
   - domain/nature
   - domain/trickery
+alignment: Neutral Good
+category: The Mordinsamman
+domains: 'Nature, Trickery'
+pantheon: Dwarven
+province: 'Explorers, wanderers, the lost'
+symbol: Upright mace in front of a tall boot
 aliases:
   - Marthammor Duin
 ---

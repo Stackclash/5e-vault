@@ -8,6 +8,7 @@ tags:
 aliases:
   - Mess Kit
 cost: 20
+weight: 1
 ---
 # Mess Kit
 *Adventuring gear*  

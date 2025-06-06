@@ -8,6 +8,7 @@ tags:
 aliases:
   - Forgery Kit
 cost: 1500
+weight: 5
 ---
 # Forgery Kit
 *Tool*  

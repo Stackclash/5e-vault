@@ -16,7 +16,7 @@ aliases:
 
 To wear this wide-brimmed cap, you must use an action to secure it in place with a veil, which is tied around your chin. While wearing it, glimmering spores drift down from the cap and linger around you. The top of the cap is plushly made and flops from side to side. You can use an action to magically change the appearance of the mushroom cap while wearing it. Regardless of its new appearance, it must still resemble a mushroom.
 
-While wearing the cap, fungal plant creatures with a challenge rating of 1 or lower (such as a violet fungus) are indifferent toward you and will not attack you unless you threaten or harm them. In addition, when you're hit with a melee attack, you can use your reaction to cause a plume of spores to waft into the attacker's face. The attacker must then make a DC 13 Constitution saving throw. On a failed save, roll a `dice:d4|noform|avg` (`d4`) to determine which of the following effects occur.
+While wearing the cap, fungal plant creatures with a challenge rating of 1 or lower (such as a violet fungus) are indifferent toward you and will not attack you unless you threaten or harm them. In addition, when you're hit with a melee attack, you can use your reaction to cause a plume of spores to waft into the attacker's face. The attacker must then make a DC 13 Constitution saving throw. On a failed save, roll a `dice:d4|noform|noparens|avg` (`d4`) to determine which of the following effects occur.
 
 `dice: [[Toadstool Veil (GRIFFONSSADDLEBAG3).md#^effect]]`
 

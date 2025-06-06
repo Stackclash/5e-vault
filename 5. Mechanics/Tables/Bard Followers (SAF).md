@@ -15,10 +15,10 @@ aliases:
 
 | dice: d100 | Follower |
 |------------|----------|
-| 01–03 | Veteran Light Infantry (Size `dice:1d6\|noform\|avg` (`1d6`)), Unit |
-| 04–06 | Regular Light Cavalry (Size `dice:1d4\|noform\|avg` (`1d4`)), Unit |
-| 07–09 | Seasoned Light Archers (Size `dice:1d4\|noform\|avg` (`1d4`)), Unit |
-| 10 | Regular Light Airborne (Size `dice:1d4\|noform\|avg` (`1d4`)), Unit |
+| 01–03 | Veteran Light Infantry (Size `dice:1d6\|noform\|noparens\|avg` (`d6`)), Unit |
+| 04–06 | Regular Light Cavalry (Size `dice:1d4\|noform\|noparens\|avg` (`d4`)), Unit |
+| 07–09 | Seasoned Light Archers (Size `dice:1d4\|noform\|noparens\|avg` (`d4`)), Unit |
+| 10 | Regular Light Airborne (Size `dice:1d4\|noform\|noparens\|avg` (`d4`)), Unit |
 | 11 | [[5. Mechanics/Bestiary/Humanoid/Enchanter (SAF).md\|Enchanter]] (3rd Level), Retainer |
 | 12 | [[5. Mechanics/Bestiary/Humanoid/Curate (SAF).md\|Curate]] (3rd Level), Retainer |
 | 13 | [[5. Mechanics/Bestiary/Humanoid/Healer (SAF).md\|Healer]] (3rd Level), Retainer |

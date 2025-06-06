@@ -9,19 +9,26 @@ tags:
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/enchantment
-level: 8th-level
-range: false
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Enchantment
-time: 1 action
+level: 8
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: V
+components:
+  - V
 aliases:
   - Power Word Stun
+range: 60 feet
 ---
 # Power Word Stun
 *8th-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V
 - **Duration:** Instantaneous
@@ -30,6 +37,6 @@ You speak a word of power that can overwhelm the mind of one creature you can se
 
 The [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -6,6 +6,10 @@ tags:
   - deity/norse
   - domain/nature
   - domain/tempest
+alignment: Neutral Good
+domains: 'Nature, Tempest'
+pantheon: Norse
+symbol: Gold coin
 aliases:
   - Njord
 ---

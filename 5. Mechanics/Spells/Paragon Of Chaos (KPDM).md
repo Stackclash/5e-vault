@@ -7,19 +7,24 @@ tags:
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/transmutation
-level: 8th-level
-range: false
+classes:
+  - Bard
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: V
+level: 8
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
 aliases:
   - Paragon of Chaos
+concentration: true
 ---
 # Paragon of Chaos
 *8th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
@@ -28,6 +33,6 @@ You become a humanoid-shaped swirling mass of color and sound. You gain resistan
 
 Each round, as a bonus action, you can cause an automatic [[5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]], choosing either yourself or another creature you can see within 60 feet as the caster for the purpose of resolving the effect. You must choose the target before rolling percentile dice to determine the nature of the surge. The DC of any required saving throw is calculated as if you were the caster.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 185*

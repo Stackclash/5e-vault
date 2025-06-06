@@ -18,7 +18,7 @@ tags:
 aliases:
   - Griffon
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Griffon.md|Griffon]]
+# [[5. Mechanics\Bestiary\Monstrosity\Griffon.md|Griffon]]
 *Source: Monster Manual p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Griffons are ferocious avian carnivores with the muscular bodies of lions and the head, forelegs, and wings of eagles. When they attack, griffons are as swift and deadly as eagles, even as they strike with a lion's savage might and grace.
@@ -49,34 +49,36 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 "ac": !!int "12"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "2"
-- !!int "13"
-- !!int "8"
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "2"
+  - !!int "13"
+  - !!int "8"
 "speed": "30 ft., fly 80 ft."
 "skillsaves":
-  "Perception": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The griffon has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on sight."
-  "name": "Keen Sight"
+  - "desc": "The griffon has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on sight."
+    "name": "Keen Sight"
 "actions":
-- "desc": "The griffon makes two attacks: one with its beak and one with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
-    \ + 4) piercing damage."
-  "name": "Beak"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6\
-    \ + 4) slashing damage."
-  "name": "Claws"
+  - "desc": "The griffon makes two attacks: one with its beak and one with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+      \ + 4) piercing damage."
+    "name": "Beak"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
+      \ (2d6 + 4) slashing damage."
+    "name": "Claws"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/griffon.webp"
 ```
 ^statblock

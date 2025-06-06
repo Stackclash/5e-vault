@@ -6,6 +6,11 @@ tags:
   - deity/eberron
   - domain/forge
   - domain/knowledge
+alignment: Neutral Good
+category: The Sovereign Host
+domains: 'Forge, Knowledge'
+pantheon: Eberron
+symbol: Crossed hammer and tongs
 aliases:
   - Onatar
 ---

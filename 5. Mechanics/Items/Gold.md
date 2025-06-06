@@ -8,6 +8,7 @@ tags:
 aliases:
   - Gold
 cost: 5000
+weight: 1
 ---
 # Gold
 *Trade good*  

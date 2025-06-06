@@ -11,21 +11,33 @@ tags:
   - spell/level/4th-level
   - spell/school/divination
   - spell/subclass/arcane-trickster
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Divination
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, a piece of blank parchment'
+level: 4
+ritual: false
+time: 1 Action
+duration: up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Labyrinth Mastery
+concentration: true
+material: a piece of blank parchment
 ---
 # Labyrinth Mastery
 *4th-level, Divination*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
-- **Components:** V, S, a piece of blank parchment
+- **Components:** V, S, M (a piece of blank parchment)
 - **Duration:** Concentration, up to 1 hour
 
 Upon casting this spell, you immediately gain a sense of your surroundings. If you are in a physical maze or any similar structure with multiple paths and dead ends, this spell guides you to the nearest exit, although not necessarily along the fastest or shortest route.
@@ -36,6 +48,6 @@ You gain a perfect memory of all portions of the structure you move through duri
 
 Also, while under the effect of this spell, you can exit any [[5. Mechanics/Spells/Maze.md\|maze]] spell (and its [[5. Mechanics/Spells/Lesser Maze (KPDM).md\|lesser]] varieties) and [[5. Mechanics/Spells/Greater Maze (KPDM).md\|greater]] varieties) as an action without needing to make an Intelligence check.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 88*

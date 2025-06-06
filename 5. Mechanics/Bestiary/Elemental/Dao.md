@@ -14,7 +14,7 @@ tags:
 aliases:
   - Dao
 ---
-# [[5. Mechanics/Bestiary/Elemental/Dao.md|Dao]]
+# [[5. Mechanics\Bestiary\Elemental\Dao.md|Dao]]
 *Source: Monster Manual p. 143, Tasha's Cauldron of Everything*
 
 Dao are greedy, malicious genies from the Elemental Plane of Earth. They adorn themselves with jewelry crafted from precious gems and rare metals, and when they fly, their lower bodies become columns of swirling sand. A dao isn't happy unless it is the envy of other dao.
@@ -72,56 +72,57 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "ac_class": "natural armor"
 "hp": !!int "187"
 "hit_dice": "15d10 + 105"
+"modifier": !!int "1"
 "stats":
-- !!int "23"
-- !!int "12"
-- !!int "24"
-- !!int "12"
-- !!int "13"
-- !!int "14"
+  - !!int "23"
+  - !!int "12"
+  - !!int "24"
+  - !!int "12"
+  - !!int "13"
+  - !!int "14"
 "speed": "30 ft., burrow 30 ft., fly 30 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Wisdom": !!int "5"
-  "Intelligence": !!int "5"
+  - "intelligence": "+5"
+  - "wisdom": "+5"
+  - "charisma": "+6"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Terran"
 "cr": "11"
 "traits":
-- "desc": "The dao's innate spellcasting ability is Charisma (spell save DC 14, +6\
-    \ to hit with spell attacks). It can innately cast the following spells, requiring\
-    \ no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Stone Shape.md|stone shape]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Conjure Element(AL).md|conjure elemental]]\
-    \ ([[5. Mechanics/Bestiary/Elemental/Earth Element(AL).md|earth elemental]] only),\
-    \ [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-    \ [[5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
-    \ [[5. Mechanics/Spells/Wall Of Stone.md|wall of stone]]\n\n3/day each: [[5. Mechanics/Spells/Passwall.md|passwall]],\
-    \ [[5. Mechanics/Spells/Move Earth.md|move earth]], [[5. Mechanics/Spells/Tongues.md|tongues]]"
-  "name": "Innate Spellcasting"
-- "desc": "The dao can burrow through nonmagical, unworked earth and stone. While\
-    \ doing so, the dao doesn't disturb the material it moves through."
-  "name": "Earth Glide"
-- "desc": "If the dao dies, its body disintegrates into crystalline powder, leaving\
-    \ behind only equipment the dao was wearing or carrying."
-  "name": "Elemental Demise"
-- "desc": "The dao has advantage on Strength and Dexterity saving throws made against\
-    \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
-  "name": "Sure-Footed"
+  - "desc": "The dao's innate spellcasting ability is Charisma (spell save DC 14,\
+      \ +6 to hit with spell attacks). It can innately cast the following spells,\
+      \ requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+      \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Stone Shape.md|stone shape]]\n\
+      \n3/day each: [[5. Mechanics/Spells/Passwall.md|passwall]], [[5. Mechanics/Spells/Move Earth.md|move earth]],\
+      \ [[5. Mechanics/Spells/Tongues.md|tongues]]\n\n1/day each: [[5. Mechanics/Spells/Conjure Element(AL).md|conjure elemental]]\
+      \ ([[5. Mechanics/Bestiary/Elemental/Earth Element(AL).md|earth elemental]] only),\
+      \ [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
+      \ [[5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
+      \ [[5. Mechanics/Spells/Wall Of Stone.md|wall of stone]]"
+    "name": "Innate Spellcasting"
+  - "desc": "The dao can burrow through nonmagical, unworked earth and stone. While\
+      \ doing so, the dao doesn't disturb the material it moves through."
+    "name": "Earth Glide"
+  - "desc": "If the dao dies, its body disintegrates into crystalline powder, leaving\
+      \ behind only equipment the dao was wearing or carrying."
+    "name": "Elemental Demise"
+  - "desc": "The dao has advantage on Strength and Dexterity saving throws made against\
+      \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+    "name": "Sure-Footed"
 "actions":
-- "desc": "The Dao makes two fist attacks or two maul attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 (2d8\
-    \ + 6) bludgeoning damage."
-  "name": "Fist"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 20 (4d6\
-    \ + 6) bludgeoning damage. If the target is a Huge or smaller creature, it must\
-    \ succeed on a DC 18 Strength check or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
-  "name": "Maul"
+  - "desc": "The Dao makes two fist attacks or two maul attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15\
+      \ (2d8 + 6) bludgeoning damage."
+    "name": "Fist"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 20\
+      \ (4d6 + 6) bludgeoning damage. If the target is a Huge or smaller creature,\
+      \ it must succeed on a DC 18 Strength check or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+    "name": "Maul"
 "source":
-- "MM"
-- "TCE"
+  - "MM"
+  - "TCE"
 "image": "5. Mechanics/Bestiary/Elemental/token/dao.webp"
 ```
 ^statblock

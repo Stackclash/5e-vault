@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhhvii
 aliases:
-  - 'Chapter 3: The Harvest Tables'
+  - Chapter 3: The Harvest Tables
 ---
 # Chapter 3: The Harvest Tables
 *Source: Hamund's Harvesting Handbook: Volume II, p. 6* 
@@ -188,7 +188,7 @@ Like all harvested items, the value and weight listed refers to 1 unit of the re
 
 Due to their abyssal nature, demons slain on the Material Plane cannot be harvested, as their carcass dissolves into a foul ichor instead. This ichor serves no purpose and is effectively useless. In order to properly harvest a demon, they must be killed in the Abyss.
 
-Furthermore, using parts harvested from a demon comes with certain risks, as their corrupting influence remains even after their death. When a player consumes or attunes to an item made from a demon part, roll a `dice:d20|noform|avg` (`d20`). On a 10 or less, that player contracts a curse from using that item. The curse persists even after the normal effects of that item have finished and is only removed when the player is targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. If a character is cured of a curse caused by an attunement item, they are not allowed to attempt to attune to that item again. The DM may pick the curse themselves, or roll for it on the table below.
+Furthermore, using parts harvested from a demon comes with certain risks, as their corrupting influence remains even after their death. When a player consumes or attunes to an item made from a demon part, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 10 or less, that player contracts a curse from using that item. The curse persists even after the normal effects of that item have finished and is only removed when the player is targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. If a character is cured of a curse caused by an attunement item, they are not allowed to attempt to attune to that item again. The DM may pick the curse themselves, or roll for it on the table below.
 
 If the curse came from a non-consumable item, there is an additional aspect of the curse that reads: "You have a constant need to be within reach of the cursed item and are unwilling to part from it. You feel a need to have it equipped whenever feasibly possible."
 

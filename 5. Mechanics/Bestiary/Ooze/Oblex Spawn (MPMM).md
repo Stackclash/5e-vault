@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'swamp, underdark, urban'
 size: Tiny
 tags:
@@ -16,7 +16,7 @@ tags:
 aliases:
   - Oblex Spawn
 ---
-# [[5. Mechanics/Bestiary/Ooze/Oblex Spawn (MPMM).md|Oblex Spawn]]
+# [[5. Mechanics\Bestiary\Ooze\Oblex Spawn (MPMM).md|Oblex Spawn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 197, Mordenkainen's Tome of Foes p. 217*
 
 An oblex devours memories not only to sustain its existence, but also to spawn new oblexes. Each time it fully drains the memories of a victim, it gains the creature's personality—now twisted by the oblex's foul nature. The more memories an oblex steals, the larger it becomes, until it must shed a personality it has absorbed or else go uncontrolled and erratic. This act spawns a new oblex.
@@ -45,17 +45,18 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "ac": !!int "13"
 "hp": !!int "18"
 "hit_dice": "4d4 + 8"
+"modifier": !!int "3"
 "stats":
-- !!int "8"
-- !!int "16"
-- !!int "15"
-- !!int "14"
-- !!int "11"
-- !!int "10"
+  - !!int "8"
+  - !!int "16"
+  - !!int "15"
+  - !!int "14"
+  - !!int "11"
+  - !!int "10"
 "speed": "20 ft."
 "saves":
-  "Charisma": !!int "2"
-  "Intelligence": !!int "4"
+  - "intelligence": "+4"
+  - "charisma": "+2"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
@@ -63,20 +64,20 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The oblex can move through a space as narrow as 1 inch wide without squeezing."
-  "name": "Amorphous"
-- "desc": "If the oblex takes fire damage, it has disadvantage on attack rolls and\
-    \ ability checks until the end of its next turn."
-  "name": "Aversion to Fire"
-- "desc": "The oblex doesn't require sleep."
-  "name": "Unusual Nature"
+  - "desc": "The oblex can move through a space as narrow as 1 inch wide without squeezing."
+    "name": "Amorphous"
+  - "desc": "If the oblex takes fire damage, it has disadvantage on attack rolls and\
+      \ ability checks until the end of its next turn."
+    "name": "Aversion to Fire"
+  - "desc": "The oblex doesn't require sleep."
+    "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
-    \ + 3) bludgeoning damage plus 2 (1d4) psychic damage."
-  "name": "Pseudopod"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+      \ + 3) bludgeoning damage plus 2 (d4) psychic damage."
+    "name": "Pseudopod"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Ooze/token/oblex-spawn-mpmm.webp"
 ```
 ^statblock

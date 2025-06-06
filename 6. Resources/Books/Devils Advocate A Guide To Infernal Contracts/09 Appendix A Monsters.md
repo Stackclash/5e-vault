@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - 'compendium/src/5e/da:gic'
 aliases:
-  - 'Appendix A: Monsters'
+  - Appendix A: Monsters
 ---
 # Appendix A: Monsters
 *Source: Devil's Advocate: A Guide to Infernal Contracts, p. 20* 

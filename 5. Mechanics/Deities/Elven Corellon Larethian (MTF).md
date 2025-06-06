@@ -8,6 +8,12 @@ tags:
   - domain/life
   - domain/light
   - domain/war
+alignment: Chaotic Good
+category: The Seldarine
+domains: 'Arcana, Life, Light, War'
+pantheon: Elven
+province: Primary god of elves
+symbol: Quarter moon or starburst
 aliases:
   - Corellon Larethian
 ---

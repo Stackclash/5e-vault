@@ -9,17 +9,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Axe of the Dwarvish Lords
-one-hand-damage: 1d8 S
-two-hand-damage: 1d10 S
-range: 20/60
+one-hand-damage: 1d8 slashing
+two-hand-damage: 1d10 slashing
+range: 20\60
+weight: 4
 ---
 # Axe of the Dwarvish Lords
 *Weapon ([[5. Mechanics/Items/Battleaxe.md\|battleaxe]]), cursed item, artifact (requires attunement)*  
 ![[5. Mechanics/Items/img/axe-of-the-dwarvish-lords.webp#right]]  
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.

@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/mtf
   - deity/halfling
   - domain/trickery
+alignment: Neutral
+domains: Trickery
+pantheon: Halfling
+province: 'Keen senses, luck'
+symbol: Burning boot print
 aliases:
   - Charmalaine
 ---

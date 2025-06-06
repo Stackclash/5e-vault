@@ -10,19 +10,27 @@ tags:
   - spell/level/6th-level
   - spell/school/abjuration
   - spell/subclass/divine-soul
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Sorcerer (Divine Soul)
+  - Wizard
 school: Abjuration
-time: 1 reaction
+level: 6
+ritual: false
+time: 1 Reaction
 duration: 1 round
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Ally Aegis
 ---
 # Ally Aegis
 *6th-level, Abjuration*  
 
-- **Casting time:** 1 reaction
+- **Casting time:** 1 Reaction
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** 1 round
@@ -31,6 +39,6 @@ When you see an ally within range in imminent danger, you can use your reaction 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you can target one additional ally for each slot level above 6th.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 34*

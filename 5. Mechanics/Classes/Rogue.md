@@ -4,6 +4,8 @@ cssclasses: json5e-class
 tags:
   - class/rogue
   - compendium/src/5e/phb
+hitdice: 8
+hitRollAverage: 5
 aliases:
   - Rogue
 ---
@@ -17,28 +19,29 @@ aliases:
 > <tr><th colspan='4'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Sneak Attack</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Expertise%20(Level%201)'>Expertise</a>, <a href='#Sneak%20Attack%20(Level%201)'>Sneak Attack</a>, <a href='#Thieves'%20Cant%20(Level%201)'>Thieves' Cant</a></td><td class="value">1d6</td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Cunning%20Action%20(Level%202)'>Cunning Action</a></td><td class="value">1d6</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Roguish%20Archetype%20(Level%203)'>Roguish Archetype</a>, <a href='#Steady%20Aim%20(Level%203)'>Steady Aim</a></td><td class="value">2d6</td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a></td><td class="value">2d6</td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Uncanny%20Dodge%20(Level%205)'>Uncanny Dodge</a></td><td class="value">3d6</td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Expertise%20(Level%206)'>Expertise</a></td><td class="value">3d6</td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Evasion%20(Level%207)'>Evasion</a></td><td class="value">4d6</td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td><td class="value">4d6</td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Roguish%20Archetype%20feature%20(Level%209)'>Roguish Archetype feature</a></td><td class="value">5d6</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2010)'>Ability Score Improvement</a></td><td class="value">5d6</td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Reliable%20Talent%20(Level%2011)'>Reliable Talent</a></td><td class="value">6d6</td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td><td class="value">6d6</td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Roguish%20Archetype%20feature%20(Level%2013)'>Roguish Archetype feature</a></td><td class="value">7d6</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Blindsense%20(Level%2014)'>Blindsense</a></td><td class="value">7d6</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Slippery%20Mind%20(Level%2015)'>Slippery Mind</a></td><td class="value">8d6</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td><td class="value">8d6</td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Roguish%20Archetype%20feature%20(Level%2017)'>Roguish Archetype feature</a></td><td class="value">9d6</td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Elusive%20(Level%2018)'>Elusive</a></td><td class="value">9d6</td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2019)'>Ability Score Improvement</a></td><td class="value">10d6</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Stroke%20of%20Luck%20(Level%2020)'>Stroke of Luck</a></td><td class="value">10d6</td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Expertise (Level 1)' class='internal-link'>Expertise</a>, <a href='#Sneak Attack (Level 1)' class='internal-link'>Sneak Attack</a>, <a href='#Thieves' Cant (Level 1)' class='internal-link'>Thieves' Cant</a></td><td class="value">1d6</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Cunning Action (Level 2)' class='internal-link'>Cunning Action</a></td><td class="value">1d6</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Roguish Archetype (Level 3)' class='internal-link'>Roguish Archetype</a>, <a href='#Steady Aim (Level 3)' class='internal-link'>Steady Aim</a></td><td class="value">2d6</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td><td class="value">2d6</td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Uncanny Dodge (Level 5)' class='internal-link'>Uncanny Dodge</a></td><td class="value">3d6</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Expertise (Level 6)' class='internal-link'>Expertise</a></td><td class="value">3d6</td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Evasion (Level 7)' class='internal-link'>Evasion</a></td><td class="value">4d6</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4d6</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Roguish Archetype feature (Level 9)' class='internal-link'>Roguish Archetype feature</a></td><td class="value">5d6</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 10)' class='internal-link'>Ability Score Improvement</a></td><td class="value">5d6</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Reliable Talent (Level 11)' class='internal-link'>Reliable Talent</a></td><td class="value">6d6</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">6d6</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Roguish Archetype feature (Level 13)' class='internal-link'>Roguish Archetype feature</a></td><td class="value">7d6</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Blindsense (Level 14)' class='internal-link'>Blindsense</a></td><td class="value">7d6</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Slippery Mind (Level 15)' class='internal-link'>Slippery Mind</a></td><td class="value">8d6</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">8d6</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Roguish Archetype feature (Level 17)' class='internal-link'>Roguish Archetype feature</a></td><td class="value">9d6</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Elusive (Level 18)' class='internal-link'>Elusive</a></td><td class="value">9d6</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td><td class="value">10d6</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Stroke of Luck (Level 20)' class='internal-link'>Stroke of Luck</a></td><td class="value">10d6</td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 ## Hit Points
 
@@ -65,7 +68,7 @@ Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
 ## Multiclassing Rogue
 
-**Ability Score Minimum:**Dexterity 13
+**Ability Score Minimum:** Dexterity 13
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
@@ -116,6 +119,10 @@ Some rogues who turn to adventuring are former criminals who have decided that d
 On adventures, a rogue is likely to mix an outwardly cautious approach—few rogues enjoy combat—with a ravenous hunger for loot. Most of the time, in a rogue's mind, taking up arms against a creature is not about killing the creature but about becoming the new owner of its treasure.
 
 The following sections explore certain facets of what it means to be a rogue, which you can use to add depth to your character.
+
+> [!quote] A quote from Xanathar  
+> 
+> Thieves are the worst. I hate anyone that handles my stuff when I'm not looking, especially if they don't put it back where they found it.
 
 ## Guilty Pleasures
 _Source: Xanathar's Guide to Everything_
@@ -194,7 +201,7 @@ At 6th level, you can choose two more of your proficiencies (in skills or with [
 
 ### Sneak Attack (Level 1)
 
-Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `dice:1d6|noform|avg` (`1d6`) damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `dice:1d6|noform|noparens|avg` (`d6`) damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
 You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]], and you don't have disadvantage on the attack roll.
 
@@ -217,7 +224,7 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your r
 ### Steady Aim (Level 3)
 _Source: Tasha's Cauldron of Everything p. 62_
 
-*3rd-level rogue [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*3rd-level rogue [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
 As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
 
@@ -257,7 +264,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Reliable Talent (Level 11)
 
-By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a `dice:d20|noform|avg` (`d20`) roll of 9 or lower as a 10.
+By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a `dice:d20|noform|noparens|avg` (`d20`) roll of 9 or lower as a 10.
 
 ### Ability Score Improvement (Level 12)
 
@@ -299,6 +306,6 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Stroke of Luck (Level 20)
 
-At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the `dice:d20|noform|avg` (`d20`) roll as a 20.
+At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the `dice:d20|noform|noparens|avg` (`d20`) roll as a 20.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.

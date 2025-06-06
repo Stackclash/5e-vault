@@ -8,6 +8,7 @@ tags:
 aliases:
   - Wagon
 cost: 3500
+weight: 400
 ---
 # Wagon
 *Vehicle (land)*  

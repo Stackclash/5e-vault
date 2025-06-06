@@ -7,6 +7,10 @@ tags:
   - domain/life
   - domain/light
   - domain/twilight
+alignment: Lawful Neutral
+domains: 'Life, Light, Twilight'
+pantheon: Forgotten Realms
+symbol: Staring eye on upright left gauntlet
 aliases:
   - Helm
 ---

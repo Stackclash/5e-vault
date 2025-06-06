@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/dragonlance
   - domain/arcana
+alignment: Lawful Good
+category: The Gods of Good
+domains: Arcana
+pantheon: Dragonlance
+symbol: White circle or sphere
 aliases:
   - Solinari
 ---

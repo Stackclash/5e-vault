@@ -8,6 +8,7 @@ tags:
 aliases:
   - Crowbar
 cost: 200
+weight: 5
 ---
 # Crowbar
 *Adventuring gear*  

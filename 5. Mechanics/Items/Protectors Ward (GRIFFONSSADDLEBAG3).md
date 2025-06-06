@@ -9,6 +9,7 @@ tags:
 aliases:
   - Protector's Ward
 armorClass: 2
+weight: 6
 ---
 # Protector's Ward
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  

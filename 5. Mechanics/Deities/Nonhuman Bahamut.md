@@ -6,6 +6,10 @@ tags:
   - deity/nonhuman
   - domain/life
   - domain/war
+alignment: Lawful Good
+domains: 'Life, War'
+pantheon: Nonhuman
+symbol: Dragon's head in profile
 aliases:
   - Bahamut
 ---

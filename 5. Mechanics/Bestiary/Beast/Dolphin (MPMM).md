@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: 'coastal, underwater'
 size: Medium
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Dolphin
 ---
-# [[5. Mechanics/Bestiary/Beast/Dolphin (MPMM).md|Dolphin]]
+# [[5. Mechanics\Bestiary\Beast\Dolphin (MPMM).md|Dolphin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208*
 
 Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds. Found in oceans and in the Elemental Plane of Water, dolphins are befriended by druids and rangers, and many tales speak of dolphins that appeared out of nowhere to protect swimmers from sharks and other aquatic predators.
@@ -33,31 +33,33 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 "ac_class": "natural armor"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
+"modifier": !!int "1"
 "stats":
-- !!int "14"
-- !!int "13"
-- !!int "13"
-- !!int "6"
-- !!int "12"
-- !!int "7"
+  - !!int "14"
+  - !!int "13"
+  - !!int "13"
+  - !!int "6"
+  - !!int "12"
+  - !!int "7"
 "speed": "0 ft., swim 60 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
 "senses": "blindsight 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1/8"
 "traits":
-- "desc": "The dolphin can hold its breath for 20 minutes."
-  "name": "Hold Breath"
+  - "desc": "The dolphin can hold its breath for 20 minutes."
+    "name": "Hold Breath"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) bludgeoning damage. If the dolphin moved at least 30 feet straight toward\
-    \ the target immediately before the hit, the target takes an extra 3 (1d6) bludgeoning\
-    \ damage."
-  "name": "Slam"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) bludgeoning damage. If the dolphin moved at least 30 feet straight toward\
+      \ the target immediately before the hit, the target takes an extra 3 (d6) bludgeoning\
+      \ damage."
+    "name": "Slam"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Beast/token/dolphin-mpmm.webp"
 ```
 ^statblock

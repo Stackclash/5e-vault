@@ -16,7 +16,7 @@ aliases:
 
 This shamisen has a tiny cherry tree growing along its base. When played, the tree's leaves rustle in a magical breeze. You must be proficient with a string instrument to use this shamisen.
 
-You can use an action to play the instrument and release a flurry of cutting wind from it. When you do, you can choose to make a ranged spell attack against a target you can see within 60 feet of you, using your spell attack bonus, as part of that action. On a hit, the target takes slashing damage equal to `dice:1d6|noform|avg` (`1d6`) + your Charisma modifier.
+You can use an action to play the instrument and release a flurry of cutting wind from it. When you do, you can choose to make a ranged spell attack against a target you can see within 60 feet of you, using your spell attack bonus, as part of that action. On a hit, the target takes slashing damage equal to `dice:1d6|noform|noparens|avg` (`d6`) + your Charisma modifier.
 
 When you score a critical hit with a ranged attack using the shamisen, make a Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) check using the instrument. If the total of the roll exceeds the target's AC, the target is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] until the end of your next turn, as it's transfixed by the music. A [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]] creature or creature that can't hear is immune to this effect.
 

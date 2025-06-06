@@ -9,25 +9,35 @@ tags:
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/divination
-level: 8th-level
-range: false
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Divination
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, a piece of clear quartz'
+level: 8
+ritual: false
+time: 1 Action
+duration: up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Arcane Sight
+concentration: true
+material: a piece of clear quartz
 ---
 # Arcane Sight
 *8th-level, Divination*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, a piece of clear quartz
+- **Components:** V, S, M (a piece of clear quartz)
 - **Duration:** Concentration, up to 1 hour
 
 The recipient of this spell gains the benefits of both [[5. Mechanics/Spells/True Seeing.md\|true seeing]] and [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] until the spell ends, and also knows the name and effect of every spell he or she witnesses during the spell's duration.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 38*

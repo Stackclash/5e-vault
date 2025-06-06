@@ -8,24 +8,32 @@ tags:
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/enchantment
-level: 8th-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Wizard
 school: Enchantment
+level: 8
+ritual: false
 time: 1 hour
-duration: 10 day
-components: >-
-  V, S, either a lump of alum soaked in vinegar for the antipathy effect or a
-  drop of honey for the sympathy effect
+duration: 10 days
+components:
+  - V
+  - S
+  - M
 aliases:
-  - Antipathy/Sympathy
+  - Antipathy\Sympathy
+material: >-
+  either a lump of alum soaked in vinegar for the antipathy effect or a drop of
+  honey for the sympathy effect
 ---
 # Antipathy/Sympathy
 *8th-level, Enchantment*  
 
 - **Casting time:** 1 hour
 - **Range:** 60 feet
-- **Components:** V, S, either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect
-- **Duration:** 10 day
+- **Components:** V, S, M (either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect)
+- **Duration:** 10 days
 
 This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 200-foot cube. Then specify a kind of intelligent creature, such as red dragons, goblins, or vampires. You invest the target with an aura that either attracts or repels the specified creatures for the duration. Choose antipathy or sympathy as the aura's effect.
 
@@ -47,6 +55,6 @@ A creature that successfully saves against this effect is immune to it for 1 min
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Player's Handbook p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

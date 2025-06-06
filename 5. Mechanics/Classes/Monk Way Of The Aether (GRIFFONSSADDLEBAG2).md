@@ -8,7 +8,7 @@ aliases:
   - Way of the Aether
 ---
 # Way of the Aether
-*[[Monk.md\|Monk]]: Monastic Tradition*  
+*[[.nullMonk.md\|Monk]]: Monastic Tradition*  
 *Source: The Griffon's Saddlebag, Book 2 p. 218*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Way%20of%20the%20Aether%20(Level%203)'>Way of the Aether</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Way of the Aether (Level 3)' class='internal-link'>Way of the Aether</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Spectral%20Guide%20(Level%206)'>Spectral Guide</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Spectral Guide (Level 6)' class='internal-link'>Spectral Guide</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Ghost%20Walker%20(Level%2011)'>Ghost Walker</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Ghost Walker (Level 11)' class='internal-link'>Ghost Walker</a></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Sight%20Beyond%20Sight%20(Level%2017)'>Sight Beyond Sight</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Sight Beyond Sight (Level 17)' class='internal-link'>Sight Beyond Sight</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -50,7 +51,7 @@ Monks of the Way of the Aether tap into the energy of spirits and the Ethereal P
 
 ### Spirit Strike (Level 3)
 
-When you choose this tradition at 3rd level, you learn to send out blue flashes of spiritual energy to attack your foes. Whenever you make an unarmed strike, you can choose to make a melee spell attack with your spirit instead. You are proficient with this attack, which has a reach of 30 feet, and you add your Wisdom modifier to its attack and damage rolls. Its damage type is force, and its damage die is a `dice:d4|noform|avg` (`d4`). This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
+When you choose this tradition at 3rd level, you learn to send out blue flashes of spiritual energy to attack your foes. Whenever you make an unarmed strike, you can choose to make a melee spell attack with your spirit instead. You are proficient with this attack, which has a reach of 30 feet, and you add your Wisdom modifier to its attack and damage rolls. Its damage type is force, and its damage die is a `dice:d4|noform|noparens|avg` (`d4`). This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
 
 When you reach 6th level in this class, you can use your Stunning Strike feature when you hit a creature with your Spirit Strike.
 

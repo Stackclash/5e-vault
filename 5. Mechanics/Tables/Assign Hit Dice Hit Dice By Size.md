@@ -13,10 +13,10 @@ aliases:
 
 | Monster Size | Hit Die | Average HP per Die |
 |--------------|---------|--------------------|
-| Tiny | `dice:d4\|noform\|avg` (`d4`) | 2½ |
-| Small | `dice:d6\|noform\|avg` (`d6`) | 3½ |
-| Medium | `dice:d8\|noform\|avg` (`d8`) | 4½ |
-| Large | `dice:d10\|noform\|avg` (`d10`) | 5½ |
-| Huge | `dice:d12\|noform\|avg` (`d12`) | 6½ |
-| Gargantuan | `dice:d20\|noform\|avg` (`d20`) | 10½ |
+| Tiny | `dice:1d4\|noform\|noparens\|avg\|text(d4)` | 2½ |
+| Small | `dice:1d6\|noform\|noparens\|avg\|text(d6)` | 3½ |
+| Medium | `dice:1d8\|noform\|noparens\|avg\|text(d8)` | 4½ |
+| Large | `dice:1d10\|noform\|noparens\|avg\|text(d10)` | 5½ |
+| Huge | `dice:1d12\|noform\|noparens\|avg\|text(d12)` | 6½ |
+| Gargantuan | `dice:1d20\|noform\|noparens\|avg\|text(d20)` | 10½ |
 ^hit-dice-by-size

@@ -9,6 +9,10 @@ tags:
   - domain/grave
   - domain/knowledge
   - domain/order
+alignment: Lawful Neutral
+domains: 'Death, Grave, Knowledge, Order, Arcana'
+pantheon: Greyhawk
+symbol: Red skull in front of fireball
 aliases:
   - Wee Jas
 ---

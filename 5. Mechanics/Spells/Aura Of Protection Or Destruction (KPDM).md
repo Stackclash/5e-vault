@@ -8,20 +8,26 @@ tags:
   - spell/class/paladin
   - spell/level/3rd-level
   - spell/school/abjuration
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Paladin
 school: Abjuration
-time: 1 action
+level: 3
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Aura of Protection or Destruction
 ---
 # Aura of Protection or Destruction
 *3rd-level, Abjuration*  
 
-- **Casting time:** 1 action
-- **Range:** Self (30-feet radius)
+- **Casting time:** 1 Action
+- **Range:** Self (30-foot Radius)
 - **Components:** V, S
 - **Duration:** Instantaneous
 
@@ -29,6 +35,6 @@ When you cast this spell, you radiate an otherworldly energy that warps the fate
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can extend the duration by 1 round for each slot level above 3rd.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 40*

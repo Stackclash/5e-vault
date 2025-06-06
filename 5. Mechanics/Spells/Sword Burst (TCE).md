@@ -17,27 +17,36 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
   - spell/subrace/elf-high
-level: cantrip
-range: false
+classes:
+  - Artificer
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Conjuration
-time: 1 action
+level: cantrip
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: V
+components:
+  - V
 aliases:
   - Sword Burst
 ---
 # Sword Burst
 *cantrip, Conjuration*  
 
-- **Casting time:** 1 action
-- **Range:** Self (5-feet radius)
+- **Casting time:** 1 Action
+- **Range:** Self (5-foot Radius)
 - **Components:** V
 - **Duration:** Instantaneous
 
-You create a momentary circle of spectral blades that sweep around you. All other creatures within 5 feet of you must succeed on a Dexterity saving throw or take `dice:1d6|noform|avg` (`1d6`) force damage.
+You create a momentary circle of spectral blades that sweep around you. All other creatures within 5 feet of you must succeed on a Dexterity saving throw or take `dice:1d6|noform|noparens|avg` (`d6`) force damage.
 
-This spell's damage increases by `dice:1d6|noform|avg` (`1d6`) when you reach 5th level (`dice:2d6|noform|avg` (`2d6`)), 11th level (`dice:3d6|noform|avg` (`3d6`)), and 17th level (`dice:4d6|noform|avg` (`4d6`)).
+This spell's damage increases by `dice:1d6|noform|noparens|avg` (`d6`) when you reach 5th level (`dice:2d6|noform|noparens|avg` (`2d6`)), 11th level (`dice:3d6|noform|noparens|avg` (`3d6`)), and 17th level (`dice:4d6|noform|noparens|avg` (`4d6`)).
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Tasha's Cauldron of Everything p. 115*

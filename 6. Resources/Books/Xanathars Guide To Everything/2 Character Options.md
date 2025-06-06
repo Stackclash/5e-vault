@@ -340,7 +340,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 #### Class Training
 
-If you haven't chosen your class yet, do so now, keeping in mind your background and all the other details you have established so far. Once you've made your selection, roll a `dice:d6|noform|avg` (`d6`) and find the number you rolled on the appropriate table in this section, which describes how you came to be a member of that class.
+If you haven't chosen your class yet, do so now, keeping in mind your background and all the other details you have established so far. Once you've made your selection, roll a `dice:d6|noform|noparens|avg` (`d6`) and find the number you rolled on the appropriate table in this section, which describes how you came to be a member of that class.
 
 The class sections earlier in this chapter have further story suggestions, which you can use in concert with the material here.
 

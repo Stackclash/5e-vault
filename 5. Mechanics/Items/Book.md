@@ -8,6 +8,7 @@ tags:
 aliases:
   - Book
 cost: 2500
+weight: 5
 ---
 # Book
 *Adventuring gear*  

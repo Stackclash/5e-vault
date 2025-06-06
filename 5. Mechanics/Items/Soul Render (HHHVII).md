@@ -19,6 +19,6 @@ aliases:
 *Rare*  
 
 
-When you use this magical weapon to successfully hit a creature that has the incorporeal movement trait, you deal an additional `dice:1d8|noform|avg` (`1d8`) damage to them.
+When you use this magical weapon to successfully hit a creature that has the incorporeal movement trait, you deal an additional `dice:1d8|noform|noparens|avg` (`d8`) damage to them.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 65*

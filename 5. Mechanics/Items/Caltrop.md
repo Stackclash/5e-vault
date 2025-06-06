@@ -8,6 +8,7 @@ tags:
 aliases:
   - Caltrop
 cost: 5
+weight: 0.1
 ---
 # Caltrop
 *Adventuring gear*  

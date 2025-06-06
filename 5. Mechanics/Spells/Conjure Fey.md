@@ -9,14 +9,23 @@ tags:
   - spell/level/6th-level
   - spell/school/conjuration
   - spell/subclass/hedge-mage
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Warlock
+  - Wizard (Hedge Mage)
 school: Conjuration
+level: 6
+ritual: false
 time: 1 minute
-duration: 'Concentration, up to 1 hour'
-components: 'V, S'
+duration: Up to 1 hour
+components:
+  - V
+  - S
 aliases:
   - Conjure Fey
+range: 90 feet
+concentration: true
 ---
 # Conjure Fey
 *6th-level, Conjuration*  
@@ -36,6 +45,6 @@ The DM has the fey creature's statistics.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard Hedge Mage (GRIFFONSSADDLEBAG3)\|Wizard (Hedge Mage)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Wizard (Hedge Mage)](compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 226. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

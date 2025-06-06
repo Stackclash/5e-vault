@@ -8,6 +8,7 @@ tags:
 aliases:
   - Iron
 cost: 10
+weight: 1
 ---
 # Iron
 *Trade good*  

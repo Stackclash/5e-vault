@@ -229,7 +229,7 @@ The metropolis of Waterdeep, which lies on the Sword Coast of Faerûn, benefits 
 
 Those who see a bladesinger in battle never forget the sight. Surrounded by chaos and blood, the bladesinger moves in an otherworldly dance. Spells and sword act in concert, meshing awe-inspiring beauty with fearsome deadliness. When the bladesinger's sword whirls through the air so swiftly that it keens and the air hums and whistles in chorus, the bladesong has begun-and it might be the last thing the bladesinger's enemy hears.
 
-The elves and half-elves who practice the art of the bladesinger, a tradition found primarily on the world of Faerûn, appear to be almost casual in combat, deflecting opponents' blades while elegantly moving into position to score hits in return. A bladesinger wields a weapon one-handed, leaving the other free for spellcasting or to manipulate a wand that can be incorporated into the fighting style. This technique gives a bladesinger the freedom of movement necessary for the dancelike motions of the various forms of martial art, which allow both magical and physical attacks to flow freely.
+The elves and half-elves who practice the art of the bladesinger, a tradition found primarily on the world of Faerûn, appear to be almost casual in combat, deflecting opponents' blades while elegantly moving into position to score hits in return. A bladesinger wields a weapon one-handed, leaving the other free for spellcasting or to manipulate a wand that can be incorporated into the fighting style. This technique gives a bladesinger the freedom of movement necessary for the dance-like motions of the various forms of martial art, which allow both magical and physical attacks to flow freely.
 
 Few among the elves, and an even smaller number of half-elves, have the honor of being inducted into the ranks of the bladesingers. One must have the mind necessary to be a great wizard, and also the agility of the greatest dancers.
 
@@ -560,7 +560,7 @@ Malyk is associated with rebellion because when a wild mage's true nature is rev
 
 #### Selvetarm
 
-Drow regard Selvetarm as the Champion of Lolth and the patron of drow warriors. He is portrayed as an eightarmed drow that represents the epitome of fighting prowess. But Lolth rarely looses her champion to do her bidding, keeping him snared by unbreakable webs that she removes only in times of direst need.
+Drow regard Selvetarm as the Champion of Lolth and the patron of drow warriors. He is portrayed as an eight-armed drow that represents the epitome of fighting prowess. But Lolth rarely looses her champion to do her bidding, keeping him snared by unbreakable webs that she removes only in times of direst need.
 
 The dark elves believe that Selvetarm walked in solitude for many centuries, spurning both Lolth and Corellon, for he was not wholly given over to evil but neither was he fully aligned with the forces of light. Eventually his path crossed that of Eilistraee, and he began to appreciate the goodness of the Dark Maiden, as exhibited in her teachings and deeds. By aiding in Selvetarm's redemption, Eilistraee hoped to begin to heal the breach between drow and the Seldarine. That hope was dashed, however, by the insidious plotting of Lolth.
 

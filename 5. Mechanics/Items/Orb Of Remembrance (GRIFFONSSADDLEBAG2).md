@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Orb of Remembrance
+weight: 0.5
 ---
 # Orb of Remembrance
 *Wondrous item, minor, common*  

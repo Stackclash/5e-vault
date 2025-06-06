@@ -8,7 +8,7 @@ aliases:
   - Master of Fiends
 ---
 # Master of Fiends
-*[[Wizard.md\|Wizard]]: Arcane Tradition*  
+*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 328*  
 
 > [!tldr] Class and Feature Progression
@@ -19,19 +19,19 @@ aliases:
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Master%20of%20Fiends%20(Level%202)'>Master of Fiends</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Master of Fiends (Level 2)' class='internal-link'>Master of Fiends</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Communion%20at%20the%20Crossroads%20(Level%206)'>Communion at the Crossroads</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Communion at the Crossroads (Level 6)' class='internal-link'>Communion at the Crossroads</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Planar%20Defense%20(Level%2010)'>Planar Defense</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Planar Defense (Level 10)' class='internal-link'>Planar Defense</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Master%20of%20Dark%20Conjuration%20(Level%2014)'>Master of Dark Conjuration</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Master of Dark Conjuration (Level 14)' class='internal-link'>Master of Dark Conjuration</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -70,7 +71,7 @@ Due to your dealings with fiends, your soul is damned, and after your death it i
 
 Tradition states that the devil awaits at the crossroads, looking to bargain with those who seek to sell their souls for glory. When you reach 6th level, you can achieve contact with the lower realms in less dramatic circumstances. For you, any significant liminal space—the threshold between one space and another, such as the edge of a forest, the entrance to a cave, or the doorway leading from a church to its graveyard —will do. In such a place, you can perform a ritual that summons a dark spirit from beyond, a shadowy form that will offer you power for power.
 
-When you do so, you can expend a number of spell slots (equal to your wizard level or lower) in exchange for a pool of an equal number of dice that you can use in one of two ways. You can spend one or more dice as an action on your turn to heal yourself, regaining `dice:1d8|noform|avg` (`1d8`) hit points for every die you spend. Or you can spend one or more dice to boost the damage of a spell you cast. Each die you spend adds an additional die of damage to a spell you cast, of the same size used in the spell (d6s for fireball, for example).
+When you do so, you can expend a number of spell slots (equal to your wizard level or lower) in exchange for a pool of an equal number of dice that you can use in one of two ways. You can spend one or more dice as an action on your turn to heal yourself, regaining `dice:1d8|noform|noparens|avg` (`d8`) hit points for every die you spend. Or you can spend one or more dice to boost the damage of a spell you cast. Each die you spend adds an additional die of damage to a spell you cast, of the same size used in the spell (d6s for fireball, for example).
 
 Once you use this feature, you cannot use it again until you finish a long rest. Any unused dice in the pool are lost when you rest, and you regain your normal number of spell slots after the rest.
 

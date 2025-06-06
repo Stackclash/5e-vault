@@ -8,7 +8,7 @@ aliases:
   - Circle of the Spirits
 ---
 # Circle of the Spirits
-*[[Druid.md\|Druid]]: Druid Circle*  
+*[[.nullDruid.md\|Druid]]: Druid Circle*  
 *Source: Deep Magic p. 139*  
 
 > [!tldr] Class and Feature Progression
@@ -19,19 +19,19 @@ aliases:
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Circle%20of%20the%20Spirits%20(Level%202)'>Circle of the Spirits</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Circle of the Spirits (Level 2)' class='internal-link'>Circle of the Spirits</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Spirit%20Dance%20(Level%206)'>Spirit Dance</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Spirit Dance (Level 6)' class='internal-link'>Spirit Dance</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Savior%20Spirits%20(Level%2010)'>Savior Spirits</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Savior Spirits (Level 10)' class='internal-link'>Savior Spirits</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Spirit%20Walk%20(Level%2014)'>Spirit Walk</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Spirit Walk (Level 14)' class='internal-link'>Spirit Walk</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -90,7 +91,7 @@ For the duration:
 - You gain a flying speed equal to your base walking speed.  
 - You have resistance to acid, cold, fire, lightning, thunder, and nonmagical bludgeoning, piercing, and slashing damage.  
 - You can't be [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]], [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]], knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], or [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]].  
-- You can move through creatures and solid objects as if they were difficult terrain, but you take `dice:1d10|noform|avg` (`1d10`) force damage if you end your turn inside an object.  
+- You can move through creatures and solid objects as if they were difficult terrain, but you take `dice:1d10|noform|noparens|avg` (`d10`) force damage if you end your turn inside an object.  
 
 Maintaining this feature requires concentration as if it were a spell.
 

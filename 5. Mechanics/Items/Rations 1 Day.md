@@ -8,6 +8,7 @@ tags:
 aliases:
   - Rations (1 day)
 cost: 50
+weight: 2
 ---
 # Rations (1 day)
 *Adventuring gear*  

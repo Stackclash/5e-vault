@@ -16,11 +16,11 @@ aliases:
 
 This chitinous mask rests over your ears and can be raised or lowered using an action to sit on top of your head or in front of your eyes. The mask has two large, eye-like lenses that improve your vision and allow you to visualize scents. While wearing the mask over your eyes, you gain advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on sight and smell.
 
-The mask has 3 charges and regains `dice:1d3|noform|avg` (`1d3`) expended charges daily at dawn. While wearing the mask over your eyes, you can expend 1 of its charges as an action to cast the [[5. Mechanics/Spells/Animal Messenger.md\|animal messenger]] spell from it, targeting a Tiny insect or similar creature within range, such as a centipede, spider, wasp, or scorpion. When cast in this way, the insect covers about 25 miles per 24 hours for a flying messenger, or 12 miles for other insects.
+The mask has 3 charges and regains `dice:1d3|noform|noparens|avg` (`d3`) expended charges daily at dawn. While wearing the mask over your eyes, you can expend 1 of its charges as an action to cast the [[5. Mechanics/Spells/Animal Messenger.md\|animal messenger]] spell from it, targeting a Tiny insect or similar creature within range, such as a centipede, spider, wasp, or scorpion. When cast in this way, the insect covers about 25 miles per 24 hours for a flying messenger, or 12 miles for other insects.
 
 ## Beekeeper's Commitment
 
-While you are attuned to three magic items that have this named property, the mask regains all expended charges daily at dawn, instead of `dice:1d3|noform|avg` (`1d3`), and gains the following benefit:
+While you are attuned to three magic items that have this named property, the mask regains all expended charges daily at dawn, instead of `dice:1d3|noform|noparens|avg` (`d3`), and gains the following benefit:
 
 ## Bug
 

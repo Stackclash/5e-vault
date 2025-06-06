@@ -17,7 +17,7 @@ This warhorn is made from the tip of a bronze dragon's horn and decorated with a
 
 ## Lightning Breath
 
-The horn releases a wave of electrified power in a 30-foot cone. Each creature within the cone must make a DC 15 Dexterity saving throw. A creature takes `dice:4d6|noform|avg` (`4d6`) lightning damage on a failed save, or half as much damage on a successful one.
+The horn releases a wave of electrified power in a 30-foot cone. Each creature within the cone must make a DC 15 Dexterity saving throw. A creature takes `dice:4d6|noform|noparens|avg` (`4d6`) lightning damage on a failed save, or half as much damage on a successful one.
 
 ## Repulsion Breath
 

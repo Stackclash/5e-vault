@@ -19,10 +19,10 @@ aliases:
 - **Graphic Designers.** Matt Cole, Bob Jordan  
 - **Cover Illustrators.** Hydro74, Kieran Yanner  
 - **Cartographers.** Francesca Baerald, Dyson Logos  
-- **Interior Illustrators.** Lily Abdullina, Wade Acuff, Alfven Ato, Tom Babbey, Helge C. Balzer, Luca Bancone, Mark Behm, Olivier Bernard, Zoltan Boros, Bruce Brenneise, Ekaterina Burmak, Dawn Carlos, Diana Cearley, Sidharth Chaturvedi, Jedd Chevrier, Conceptopolis, CoupleOfKooks, Kent Davis, Nikki Dawes, Simon Dominic, Olga Drebas, Evyn Fong, Caroline Gariba, Lars Grant-West, Alexandre Honoré, Ralph Horsley, Sam Keiser, Julian Kok, Katerina Ladon, Daniel Landerman, Olly Lawson, Linda Lithen, Titus Lunter, Andrew Mar, Brynn Metheney, Robson Michel, Calder Moore, Martin Mottet, Scott Murphy, David Auden Nash, Jessica Nguyen, Irina Nordsol, One Pixel Brush, Claudio Pozas, Chris Rahn, Chris Seaman, Cynthia Sheppard, Craig J Spearing, Brian Valeza, Svetlin Velinov, Lauren Walsh, Shawn Wood, Zuzanna Wuzyk, Kieran Yanner  
+- **Interior Illustrators.** Lily Abdullina, Wade Acuff, Alfven Ato, Tom Babbey, Helge C. Balzer, Luca Bancone, Mark Behm, Olivier Bernard, Zoltan Boros, Bruce Brenneise, Ekaterina Burmak, Dawn Carlos, Diana Cearley, Sidharth Chaturvedi, Jedd Chevrier, Conceptopolis, CoupleOfKooks, Kent Davis, Nikki Dawes, Simon Dominic, Olga Drebas, Evyn Fong, Caroline Gariba, Lars Grant-West, Alexandre Honoré, Ralph Horsley, Sam Keiser, Julian Kok, Katerina Ladon, Daniel Landerman, Olly Lawson, Linda Lithen, Titus Lunter, Andrew Mar, Brynn Metheney, Robson Michel, Calder Moore, Martin Mottet, Scott Murphy, David Auden Nash, Jessica Nguyen, Irina Nordsol, One Pixel Brush, Claudio Pozas, Chris Rahn, Chris Seaman, Cynthia Sheppard, Craig J Spearing, Brian Valeza, Svetlin Velinov, Lauren Walsh, Shawn Wood, Zuzanna Wužyk, Kieran Yanner  
 - **Concept Art Director.** Josh Herman, Kate Irwin  
 - **Concept Artists.** Carlo Arellano, Ekaterina Burmak, David Kegg, One Pixel Brush, Vinod Rams, Kieran Yanner  
-- **Consultants.** Rico Corazon, Ma'at Crook, Basheer Ghouse, James Mendez, Omar Ramadan-Santiago  
+- **Consultants.** Rico Corazón, Ma'at Crook, Basheer Ghouse, James Mendez, Omar Ramadan-Santiago  
 - **Project Engineer.** Cynda Callaway  
 - **Imaging Technicians.** Daniel Corona, Kevin Yee  
 - **Prepress Specialist.** Jefferson Dunlap  

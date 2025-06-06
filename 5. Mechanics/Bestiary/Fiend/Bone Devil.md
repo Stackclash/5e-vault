@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bone Devil
 ---
-# [[5. Mechanics/Bestiary/Fiend/Bone Devil.md|Bone Devil]]
+# [[5. Mechanics\Bestiary\Fiend\Bone Devil.md|Bone Devil]]
 *Source: Monster Manual p. 71. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Driven by hate, lust, and envy, bone devils act as the cruel taskmasters of the Nine Hells. They set weaker devils to work, taking special delight in seeing fiends that defy them demoted. At the same time, they long for promotion and are bitterly envious of their superiors, attempting to curry favor though it irks them to do so.
@@ -131,11 +131,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > - A barbed devil has a 30 percent chance of summoning one barbed devil.  
 > - A bearded devil has a 30 percent chance of summoning one bearded devil.  
-> - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|avg` (`3d6`) spined devils, `dice:1d6|noform|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30 percent chance of summoning one horned devil.  
 > - An ice devil has a 60 percent chance of summoning one ice devil.  
-> - A pit fiend summons `dice:2d4|noform|avg` (`2d4`) bearded devils, `dice:1d4|noform|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -150,21 +150,24 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "ac_class": "natural armor"
 "hp": !!int "142"
 "hit_dice": "15d10 + 60"
+"modifier": !!int "3"
 "stats":
-- !!int "18"
-- !!int "16"
-- !!int "18"
-- !!int "13"
-- !!int "14"
-- !!int "16"
+  - !!int "18"
+  - !!int "16"
+  - !!int "18"
+  - !!int "13"
+  - !!int "14"
+  - !!int "16"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "5"
+  - "intelligence": "+5"
+  - "wisdom": "+6"
+  - "charisma": "+7"
 "skillsaves":
-  "Deception": !!int "7"
-  "Insight": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+6"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
@@ -173,25 +176,25 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "languages": "Infernal, telepathy 120 ft."
 "cr": "9"
 "traits":
-- "desc": "Magical darkness doesn't impede the devil's darkvision."
-  "name": "Devil's Sight"
-- "desc": "The devil has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
+  - "desc": "Magical darkness doesn't impede the devil's darkvision."
+    "name": "Devil's Sight"
+  - "desc": "The devil has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The devil makes three attacks: two with its claws and one with its sting."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 8 (1d8\
-    \ + 4) slashing damage."
-  "name": "Claw"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8\
-    \ + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed\
-    \ on a DC 14 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success."
-  "name": "Sting"
+  - "desc": "The devil makes three attacks: two with its claws and one with its sting."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 8\
+      \ (1d8 + 4) slashing damage."
+    "name": "Claw"
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13\
+      \ (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must\
+      \ succeed on a DC 14 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success."
+    "name": "Sting"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Fiend/token/bone-devil.webp"
 ```
 ^statblock

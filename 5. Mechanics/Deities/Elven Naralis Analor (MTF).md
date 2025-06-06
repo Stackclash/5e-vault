@@ -6,6 +6,12 @@ tags:
   - deity/elven
   - domain/grave
   - domain/life
+alignment: Neutral Good
+category: The Seldarine
+domains: 'Life, Grave'
+pantheon: Elven
+province: 'Healing, suffering, death'
+symbol: White dove
 aliases:
   - Naralis Analor
 ---

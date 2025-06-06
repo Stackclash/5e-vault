@@ -10,16 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of the Black Raven
-one-hand-damage: 1d6 B
-two-hand-damage: 1d8 B
+one-hand-damage: 1d6 bludgeoning
+two-hand-damage: 1d8 bludgeoning
+weight: 4
 ---
 # Staff of the Black Raven
 *Staff, weapon, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Staff-of-the-Black-Raven.webp#right)  
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
@@ -27,7 +28,7 @@ This staff has a crystalline black raven perched at its top. It can be wielded a
 
 ## "Attack!"
 
-The raven flies out and makes a melee weapon attack against a target that you can see within 30 feet of you, using an attack bonus of +5. On a hit, it deals `dice:1d10|noform|avg` (`1d10`) magical piercing or slashing damage (your choice) as the raven pecks and slashes at the target. The target gains no benefit from cover, as the raven flies around any obstacle to attack. The raven then returns and perches atop the staff.
+The raven flies out and makes a melee weapon attack against a target that you can see within 30 feet of you, using an attack bonus of +5. On a hit, it deals `dice:1d10|noform|noparens|avg` (`d10`) magical piercing or slashing damage (your choice) as the raven pecks and slashes at the target. The target gains no benefit from cover, as the raven flies around any obstacle to attack. The raven then returns and perches atop the staff.
 
 ## "Collect!"
 

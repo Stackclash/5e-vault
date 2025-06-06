@@ -10,17 +10,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Shipwrecker
-one-hand-damage: 1d8 P
+one-hand-damage: 1d8 piercing
+weight: 2
 ---
 # Shipwrecker
 *Weapon ([[5. Mechanics/Items/War Pick.md\|war pick]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Shipwrecker.webp#right)  
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]]
 - **Weight**: 2.0 lbs.
 
-Barnacles and frost cover this magic war pick, which has the heavy property. Targets hit with this weapon take an extra `dice:1d6|noform|avg` (`1d6`) cold damage, and if the target is an object or structure, it takes the maximum piercing damage from the weapon, instead of rolling its weapon damage die. If the target is also a vehicle, its maximum speed is reduced by a cumulative 10 feet each time it's hit by the weapon. This penalty to speed remains for 1 minute.
+Barnacles and frost cover this magic war pick, which has the heavy property. Targets hit with this weapon take an extra `dice:1d6|noform|noparens|avg` (`d6`) cold damage, and if the target is an object or structure, it takes the maximum piercing damage from the weapon, instead of rolling its weapon damage die. If the target is also a vehicle, its maximum speed is reduced by a cumulative 10 feet each time it's hit by the weapon. This penalty to speed remains for 1 minute.
 
 ## Drop Anchor
 

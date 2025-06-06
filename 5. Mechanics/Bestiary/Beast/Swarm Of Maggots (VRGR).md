@@ -13,7 +13,7 @@ tags:
 aliases:
   - Swarm of Maggots
 ---
-# [[5. Mechanics/Bestiary/Beast/Swarm Of Maggots (VRGR).md|Swarm of Maggots]]
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Maggots (VRGR).md|Swarm of Maggots]]
 *Source: Van Richten's Guide to Ravenloft p. 247*
 
 Base creatures are among the first to respond to sinister forces at work in a land. As nefarious powers grip an area, populations of maggots, scarabs, and similar scavenging insects explode and become aggressive predators. Roll on the Swarm Behavior table to see how such swarms might manifest.
@@ -38,13 +38,14 @@ Base creatures are among the first to respond to sinister forces at work in a la
 "ac": !!int "11"
 "hp": !!int "22"
 "hit_dice": "5d8"
+"modifier": !!int "1"
 "stats":
-- !!int "3"
-- !!int "12"
-- !!int "10"
-- !!int "1"
-- !!int "7"
-- !!int "1"
+  - !!int "3"
+  - !!int "12"
+  - !!int "10"
+  - !!int "1"
+  - !!int "7"
+  - !!int "1"
 "speed": "20 ft., swim 20 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
@@ -55,27 +56,27 @@ Base creatures are among the first to respond to sinister forces at work in a la
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
-    \ can move through any opening large enough for a Tiny maggot. The swarm can't\
-    \ regain hit points or gain temporary hit points."
-  "name": "Swarm"
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through any opening large enough for a Tiny maggot. The swarm\
+      \ can't regain hit points or gain temporary hit points."
+    "name": "Swarm"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's\
-    \ space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm\
-    \ has half of its hit points or fewer. A creature damaged by the swarm must succeed\
-    \ on a DC 12 Constitution saving throw or contract a disease.\n\nEach time the\
-    \ diseased creature finishes a long rest, roll a d6 to determine the disease's\
-    \ effect:\n\n- 1-2. The creature is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
-    \ until it finishes a long rest.  \n- 3-4. The creature's hit point maximum\
-    \ decreases by 5 (2d4), and the reduction can't be removed until the disease ends.\
-    \ The creature dies if its hit point maximum drops to 0.  \n- 5-6. The creature\
-    \ has disadvantage on ability checks and attack rolls until it finishes its next\
-    \ long rest.  \n\n    The disease lasts until it's removed by magic or until the\
-    \ creature rolls the same random effect for the disease two long rests in a row.\
-    \  "
-  "name": "Infestation"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's\
+      \ space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the\
+      \ swarm has half of its hit points or fewer. A creature damaged by the swarm\
+      \ must succeed on a DC 12 Constitution saving throw or contract a disease.\n\
+      \nEach time the diseased creature finishes a long rest, roll a d6 to determine\
+      \ the disease's effect:\n\n- 1-2. The creature is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
+      \ until it finishes a long rest.  \n- 3-4. The creature's hit point maximum\
+      \ decreases by 5 (2d4), and the reduction can't be removed until the disease\
+      \ ends. The creature dies if its hit point maximum drops to 0.  \n- 5-6.\
+      \ The creature has disadvantage on ability checks and attack rolls until it\
+      \ finishes its next long rest.  \n\n    The disease lasts until it's removed\
+      \ by magic or until the creature rolls the same random effect for the disease\
+      \ two long rests in a row.  "
+    "name": "Infestation"
 "source":
-- "VRGR"
+  - "VRGR"
 "image": "5. Mechanics/Bestiary/Beast/token/swarm-of-maggots-vrgr.webp"
 ```
 ^statblock

@@ -18,19 +18,38 @@ tags:
   - spell/subclass/tempest-domain
   - spell/subclass/the-frozen-one
   - spell/subclass/the-genie
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Cleric (Ocean Domain)
+  - Cleric (Tempest Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Frozen One)
+  - Warlock (The Genie)
+  - Wizard
 school: Conjuration
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S'
+level: 1
+ritual: false
+time: 1 Action
+duration: Up to 1 hour
+components:
+  - V
+  - S
 aliases:
   - Fog Cloud
+range: 120 feet
+area:
+  type: sphere
+  size: 20
+concentration: true
 ---
 # Fog Cloud
 *1st-level, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
@@ -39,6 +58,6 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Ocean Domain (KPDM)\|Cleric (Ocean Domain)]]; [[List Spells Classes Cleric Tempest Domain\|Cleric (Tempest Domain)]]; [[List Spells Classes Warlock The Frozen One (KPDM)\|Warlock (The Frozen One)]]; [[List Spells Classes Warlock The Genie (TCE)\|Warlock (The Genie)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Tempest Domain.md\|Cleric (Tempest Domain)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Ocean Domain)](compendium/lists/list-spells-classes-ocean-domain-kpdm.md "subclass=KPDM"); [Warlock (The Genie)](compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Warlock (The Frozen One)](compendium/lists/list-spells-classes-the-frozen-one-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Player's Handbook p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

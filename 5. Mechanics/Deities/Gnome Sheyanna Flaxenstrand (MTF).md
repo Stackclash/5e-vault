@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/mtf
   - deity/gnome
   - domain/light
+alignment: Chaotic Good
+domains: Light
+pantheon: Gnome
+province: 'love, beauty, passion'
+symbol: Two silver goblets
 aliases:
   - Sheyanna Flaxenstrand
 ---

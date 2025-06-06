@@ -27,7 +27,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class. having a natural aptitude that is reflected by higher-than-average ability scores.
 
-![[5. Mechanics/Tables/Multiclassing Prerequisites.md\|Multiclassing Prerequisites]]
+![[5. Mechanics/Tables/Multiclassing Prerequisites (PHB).md\|Multiclassing Prerequisites]]
 
 ### Experience Points
 
@@ -47,7 +47,7 @@ Your proficiency bonus is always based on your total character level, as shown i
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
-![[5. Mechanics/Tables/Multiclassing Proficiencies.md\|Multiclassing Proficiencies]]
+![[5. Mechanics/Tables/Multiclassing Proficiencies (PHB).md\|Multiclassing Proficiencies]]
 
 ### Class Features
 
@@ -89,7 +89,7 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 
 If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
 
-![[5. Mechanics/Tables/Spellcasting Multiclass Spellcaster Spell Slots Per Spell Level.md\|Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level]]
+![[5. Mechanics/Tables/Spellcasting Multiclass Spellcaster Spell Slots Per Spell Level (PHB).md\|Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level]]
 
 #### Starting Equipment
 

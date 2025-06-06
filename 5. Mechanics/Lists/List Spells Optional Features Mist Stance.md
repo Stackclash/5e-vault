@@ -10,4 +10,4 @@ aliases:
 
 ## 3rd Level
 
-- [[Gaseous Form \|"PHB"]]
+- [[5. Mechanics/Spells/Gaseous Form.md \|"PHB"]]

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Copper Dragon Wyrmling
 ---
-# [[5. Mechanics/Bestiary/Dragon/Copper Dragon Wyrmling.md|Copper Dragon Wyrmling]]
+# [[5. Mechanics\Bestiary\Dragon\Copper Dragon Wyrmling.md|Copper Dragon Wyrmling]]
 *Source: Monster Manual p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
@@ -91,44 +91,47 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "ac_class": "natural armor"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
+"modifier": !!int "1"
 "stats":
-- !!int "15"
-- !!int "12"
-- !!int "13"
-- !!int "14"
-- !!int "11"
-- !!int "13"
+  - !!int "15"
+  - !!int "12"
+  - !!int "13"
+  - !!int "14"
+  - !!int "11"
+  - !!int "13"
 "speed": "30 ft., climb 30 ft., fly 60 ft."
 "saves":
-  "Charisma": !!int "3"
-  "Dexterity": !!int "3"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "3"
+  - "dexterity": "+3"
+  - "constitution": "+3"
+  - "wisdom": "+2"
+  - "charisma": "+3"
 "skillsaves":
-  "Stealth": !!int "3"
-  "Perception": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+3"
 "damage_immunities": "acid"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "1"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10\
-    \ + 2) piercing damage."
-  "name": "Bite"
-- "desc": "The dragon uses one of the following breath weapons.\n\n- Acid Breath.\
-    \ The dragon exhales acid in a 20-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid\
-    \ damage on a failed save, or half as much damage on a successful one.  \n- Slowing\
-    \ Breath. The dragon exhales gas in a 15-foot cone. Each creature in that area\
-    \ must succeed on a DC 11 Constitution saving throw. On a failed save, the creature\
-    \ can't use reactions, its speed is halved, and it can't make more than one attack\
-    \ on its turn. In addition, the creature can use either an action or a bonus action\
-    \ on its turn, but not both. These effects last for 1 minute. The creature can\
-    \ repeat the saving throw at the end of each of its turns, ending the effect on\
-    \ itself with a successful save.  "
-  "name": "Breath Weapons (Recharge 5-6)"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10\
+      \ + 2) piercing damage."
+    "name": "Bite"
+  - "desc": "The dragon uses one of the following breath weapons.\n\n- Acid Breath.\
+      \ The dragon exhales acid in a 20-foot line that is 5 feet wide. Each creature\
+      \ in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid\
+      \ damage on a failed save, or half as much damage on a successful one.  \n-\
+      \ Slowing Breath. The dragon exhales gas in a 15-foot cone. Each creature\
+      \ in that area must succeed on a DC 11 Constitution saving throw. On a failed\
+      \ save, the creature can't use reactions, its speed is halved, and it can't\
+      \ make more than one attack on its turn. In addition, the creature can use either\
+      \ an action or a bonus action on its turn, but not both. These effects last\
+      \ for 1 minute. The creature can repeat the saving throw at the end of each\
+      \ of its turns, ending the effect on itself with a successful save.  "
+    "name": "Breath Weapons (Recharge 5-6)"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Dragon/token/copper-dragon-wyrmling.webp"
 ```
 ^statblock

@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[Thaumaturgy \|"PHB"]] at class level 5
+- [[5. Mechanics/Spells/Thaumaturgy.md \|"PHB"]] at class level 5
 
 ## 1st Level
 
-- [[Ray Of Sickness \|"PHB"]] at class level 5
+- [[5. Mechanics/Spells/Ray Of Sickness.md \|"PHB"]] at class level 5
 
 ## 2nd Level
 
-- [[Crown Of Madness \|"PHB"]] at class level 5
+- [[5. Mechanics/Spells/Crown Of Madness.md \|"PHB"]] at class level 5

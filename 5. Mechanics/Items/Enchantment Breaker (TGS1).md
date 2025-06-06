@@ -18,6 +18,6 @@ This ring's tiny chains rotate slowly around your finger while worn. Whenever yo
 
 ## Shatter Enchantment
 
-When you're targeted by an enemy enchantment spell or fail a saving throw against one, you can use your reaction to weaken the enchantment's grip on you and other allies within 10 feet of you: allowing you and nearby allies to roll the enchantment's saving throw with advantage. Once you use this feature, it can't be used again until `dice:1d4|noform|avg` (`1d4`) days have passed.
+When you're targeted by an enemy enchantment spell or fail a saving throw against one, you can use your reaction to weaken the enchantment's grip on you and other allies within 10 feet of you: allowing you and nearby allies to roll the enchantment's saving throw with advantage. Once you use this feature, it can't be used again until `dice:1d4|noform|noparens|avg` (`d4`) days have passed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 59*

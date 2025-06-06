@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: 'grassland, forest, hill'
 size: Medium
 tags:
@@ -16,7 +16,7 @@ tags:
 aliases:
   - Giant Weasel
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Weasel.md|Giant Weasel]]
+# [[5. Mechanics\Bestiary\Beast\Giant Weasel.md|Giant Weasel]]
 *Source: Monster Manual p. 329. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -27,30 +27,33 @@ aliases:
 "ac": !!int "13"
 "hp": !!int "9"
 "hit_dice": "2d8"
+"modifier": !!int "3"
 "stats":
-- !!int "11"
-- !!int "16"
-- !!int "10"
-- !!int "4"
-- !!int "12"
-- !!int "5"
+  - !!int "11"
+  - !!int "16"
+  - !!int "10"
+  - !!int "4"
+  - !!int "12"
+  - !!int "5"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1/8"
 "traits":
-- "desc": "The weasel has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on hearing or smell."
-  "name": "Keen Hearing and Smell"
+  - "desc": "The weasel has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on hearing or smell."
+    "name": "Keen Hearing and Smell"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
-    \ + 3) piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+      \ + 3) piercing damage."
+    "name": "Bite"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Beast/token/giant-weasel.webp"
 ```
 ^statblock

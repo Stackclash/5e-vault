@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greek
   - domain/life
+alignment: Neutral Good
+domains: Life
+pantheon: Greek
+symbol: Hearth
 aliases:
   - Hestia
 ---

@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/elven
   - domain/life
+alignment: Chaotic Good
+category: The Seldarine
+domains: Life
+pantheon: Elven
+province: 'Love, beauty, the arts'
+symbol: Golden heart
 aliases:
   - Hanali Celanil
 ---

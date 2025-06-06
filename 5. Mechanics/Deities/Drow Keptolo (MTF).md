@@ -6,6 +6,12 @@ tags:
   - deity/drow
   - domain/nature
   - domain/trickery
+alignment: Chaotic Evil
+category: The Dark Seldarine
+domains: 'Nature, Trickery'
+pantheon: Drow
+province: 'Beauty, hedonism, fertility'
+symbol: Mushroom
 aliases:
   - Keptolo
 ---

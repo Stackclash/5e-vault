@@ -21,6 +21,6 @@ When a tree saturated in a magical environment is struck by lightning, there is 
 
 ## Effect:
 
-This herb may be applied to one melee weapon or up to 10 pieces of ammunition. A weapon that has had this herb applied to it is considered magical and deals an additional `dice:1d8|noform|avg` (`1d8`) lightning damage upon its first successful hit in a turn. This effect lasts for 1 hour.
+This herb may be applied to one melee weapon or up to 10 pieces of ammunition. A weapon that has had this herb applied to it is considered magical and deals an additional `dice:1d8|noform|noparens|avg` (`d8`) lightning damage upon its first successful hit in a turn. This effect lasts for 1 hour.
 
 *Source: Hamund's Herbalism Handbook p. 10*

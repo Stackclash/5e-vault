@@ -14,7 +14,7 @@ tags:
 aliases:
   - Swarm of Quippers
 ---
-# [[5. Mechanics/Bestiary/Beast/Swarm Of Quippers.md|Swarm of Quippers]]
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Quippers.md|Swarm of Quippers]]
 *Source: Monster Manual p. 338. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 > [!note] The Nature of Swarms
@@ -30,13 +30,14 @@ aliases:
 "ac": !!int "13"
 "hp": !!int "28"
 "hit_dice": "8d8 - 8"
+"modifier": !!int "3"
 "stats":
-- !!int "13"
-- !!int "16"
-- !!int "9"
-- !!int "1"
-- !!int "7"
-- !!int "2"
+  - !!int "13"
+  - !!int "16"
+  - !!int "9"
+  - !!int "1"
+  - !!int "7"
+  - !!int "2"
 "speed": "0 ft., swim 40 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
@@ -47,22 +48,22 @@ aliases:
 "languages": ""
 "cr": "1"
 "traits":
-- "desc": "The swarm has advantage on melee attack rolls against any creature that\
-    \ doesn't have all its hit points."
-  "name": "Blood Frenzy"
-- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
-    \ can move through any opening large enough for a Tiny quipper. The swarm can't\
-    \ regain hit points or gain temporary hit points."
-  "name": "Swarm"
-- "desc": "The swarm can breathe only underwater."
-  "name": "Water Breathing"
+  - "desc": "The swarm has advantage on melee attack rolls against any creature that\
+      \ doesn't have all its hit points."
+    "name": "Blood Frenzy"
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through any opening large enough for a Tiny quipper. The swarm\
+      \ can't regain hit points or gain temporary hit points."
+    "name": "Swarm"
+  - "desc": "The swarm can breathe only underwater."
+    "name": "Water Breathing"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's\
-    \ space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm\
-    \ has half of its hit points or fewer."
-  "name": "Bites"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's\
+      \ space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the\
+      \ swarm has half of its hit points or fewer."
+    "name": "Bites"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Beast/token/swarm-of-quippers.webp"
 ```
 ^statblock

@@ -29,7 +29,7 @@ Take into account each player's roleplaying style, and try not to favor one styl
 
 You can use inspiration to encourage player characters to take risks. A fighter might not normally hurl himself over a balcony to land in the mid of a pack of hungry ghouls, but you can reward the character's daring maneuver with inspiration. Such a reward tells the players that you want them to embrace swashbuckling action.
 
-This approach is great for campaigns that emphasize action-packed heroics. For such campaigns, consider allowing inspiration to be spent after a `dice:d20|noform|avg` (`d20`) roll, rather than before. This approach turns inspiration into a cushion against failure—and a guarantee that it comes into play only when a player is faced directly by failure. Such an assurance makes risky tactics less daunting.
+This approach is great for campaigns that emphasize action-packed heroics. For such campaigns, consider allowing inspiration to be spent after a `dice:d20|noform|noparens|avg` (`d20`) roll, rather than before. This approach turns inspiration into a cushion against failure—and a guarantee that it comes into play only when a player is faced directly by failure. Such an assurance makes risky tactics less daunting.
 
 ### A Reward for Victory
 
@@ -61,7 +61,7 @@ Start with awarding inspiration after an action, especially for your first campa
 
 ## Tracking Inspiration
 
-A player typically notes on a character sheet whether he or she has inspiration, or you can use poker chips or some other token. Alternatively, you can hand out special d20s to represent inspiration. When a player spends inspiration, he or she rolls the die and then hands it back to you. If the player instead gives the inspiration to someone else, the `dice:d20|noform|avg` (`d20`) can go to that other person.
+A player typically notes on a character sheet whether he or she has inspiration, or you can use poker chips or some other token. Alternatively, you can hand out special d20s to represent inspiration. When a player spends inspiration, he or she rolls the die and then hands it back to you. If the player instead gives the inspiration to someone else, the `dice:d20|noform|noparens|avg` (`d20`) can go to that other person.
 
 ## Ignoring Inspiration
 

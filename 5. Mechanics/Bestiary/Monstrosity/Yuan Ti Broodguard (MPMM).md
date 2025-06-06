@@ -16,7 +16,7 @@ tags:
 aliases:
   - Yuan-ti Broodguard
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Broodguard (MPMM).md|Yuan-ti Broodguard]]
+# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Broodguard (MPMM).md|Yuan-ti Broodguard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203*
 
 > [!quote] A quote from Mordekainen  
@@ -38,20 +38,22 @@ Most broodguards are made from human captives forced to consume a magical brew t
 "ac_class": "natural armor"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
+"modifier": !!int "2"
 "stats":
-- !!int "15"
-- !!int "14"
-- !!int "14"
-- !!int "6"
-- !!int "11"
-- !!int "4"
+  - !!int "15"
+  - !!int "14"
+  - !!int "14"
+  - !!int "6"
+  - !!int "11"
+  - !!int "4"
 "speed": "30 ft."
 "saves":
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "2"
-  "Strength": !!int "4"
+  - "strength": "+4"
+  - "dexterity": "+4"
+  - "wisdom": "+2"
 "skillsaves":
-  "Perception": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
@@ -59,22 +61,22 @@ Most broodguards are made from human captives forced to consume a magical brew t
 "languages": "Abyssal, Common, Draconic"
 "cr": "2"
 "traits":
-- "desc": "At the start of its turn, the broodguard can gain advantage on all melee\
-    \ weapon attack rolls it makes during that turn, but attack rolls against it have\
-    \ advantage until the start of its next turn."
-  "name": "Reckless"
+  - "desc": "At the start of its turn, the broodguard can gain advantage on all melee\
+      \ weapon attack rolls it makes during that turn, but attack rolls against it\
+      \ have advantage until the start of its next turn."
+    "name": "Reckless"
 "actions":
-- "desc": "The broodguard makes one Bite attack and two Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
-    \ + 2) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) slashing damage."
-  "name": "Claw"
+  - "desc": "The broodguard makes one Bite attack and two Claw attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+      \ + 2) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) slashing damage."
+    "name": "Claw"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-broodguard-mpmm.webp"
 ```
 ^statblock

@@ -10,25 +10,36 @@ tags:
   - spell/subclass/justice-domain
   - spell/subclass/prophecy-domain
   - spell/subclass/war-domain
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Cleric (Justice Domain)
+  - Cleric (Prophecy Domain)
+  - Cleric (War Domain)
+  - Paladin
 school: Evocation
-time: 1 bonus
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 1
+ritual: false
+time: 1 Bonus Action
+duration: Up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Divine Favor
+range: Self
+damageType: Radiant
+concentration: true
 ---
 # Divine Favor
 *1st-level, Evocation*  
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra `dice:1d4|noform|avg` (`1d4`) radiant damage on a hit.
+Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra `dice:1d4|noform|noparens|avg` (`d4`) radiant damage on a hit.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Cleric Justice Domain (KPDM)\|Cleric (Justice Domain)]]; [[List Spells Classes Cleric Prophecy Domain (KPDM)\|Cleric (Prophecy Domain)]]; [[List Spells Classes Cleric War Domain\|Cleric (War Domain)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Cleric (Justice Domain)](compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Prophecy Domain)](compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes War Domain.md\|Cleric (War Domain)]]
 
 *Source: Player's Handbook p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

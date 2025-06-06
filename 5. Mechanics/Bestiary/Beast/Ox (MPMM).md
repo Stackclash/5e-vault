@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'grassland, urban'
 size: Large
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Ox
 ---
-# [[5. Mechanics/Bestiary/Beast/Ox (MPMM).md|Ox]]
+# [[5. Mechanics\Bestiary\Beast\Ox (MPMM).md|Ox]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*
 
 Oxen are domesticated cattle bred for milk and meat production and for hauling. Many cultures incorporate the ox into their labor and diets.
@@ -33,29 +33,31 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 "ac": !!int "10"
 "hp": !!int "15"
 "hit_dice": "2d10 + 4"
+"modifier": !!int "0"
 "stats":
-- !!int "18"
-- !!int "10"
-- !!int "14"
-- !!int "2"
-- !!int "10"
-- !!int "4"
+  - !!int "18"
+  - !!int "10"
+  - !!int "14"
+  - !!int "2"
+  - !!int "10"
+  - !!int "4"
 "speed": "30 ft."
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The ox is considered to be one size larger for the purpose of determining\
-    \ its carrying capacity."
-  "name": "Beast of Burden"
+  - "desc": "The ox is considered to be one size larger for the purpose of determining\
+      \ its carrying capacity."
+    "name": "Beast of Burden"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
-    \ + 4) piercing damage. If the ox moved at least 20 feet straight toward the target\
-    \ immediately before the hit, the target takes an extra 7 (2d6) piercing damage."
-  "name": "Gore"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+      \ + 4) piercing damage. If the ox moved at least 20 feet straight toward the\
+      \ target immediately before the hit, the target takes an extra 7 (2d6) piercing\
+      \ damage."
+    "name": "Gore"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Beast/token/ox-mpmm.webp"
 ```
 ^statblock

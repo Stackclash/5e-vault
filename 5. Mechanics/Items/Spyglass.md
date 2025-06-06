@@ -8,6 +8,7 @@ tags:
 aliases:
   - Spyglass
 cost: 100000
+weight: 1
 ---
 # Spyglass
 *Adventuring gear*  

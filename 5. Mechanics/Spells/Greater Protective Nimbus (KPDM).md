@@ -9,25 +9,34 @@ tags:
   - spell/level/5th-level
   - spell/school/abjuration
   - spell/subclass/divine-soul
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul)
+  - Wizard
 school: Abjuration
-time: 1 action
-duration: 10 minute
-components: 'V, S, a transparent gemstone worth at least 50 gp'
+level: 5
+ritual: false
+time: 1 Action
+duration: 10 minutes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Greater Protective Nimbus
+material: a transparent gemstone worth at least 50 gp
 ---
 # Greater Protective Nimbus
 *5th-level, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
-- **Components:** V, S, a transparent gemstone worth at least 50 gp
-- **Duration:** 10 minute
+- **Components:** V, S, M (a transparent gemstone worth at least 50 gp)
+- **Duration:** 10 minutes
 
-You wrap yourself in a powerful corona that sheds bright light in a 30-foot radius and dim light for an additional 30 feet. Until the spell ends, you have resistance to necrotic damage and radiant damage. You can end the spell early by using an action to dismiss it, which creates a blast of light in a 30-foot radius. The blast deals `dice:4d8|noform|avg` (`4d8`) radiant damage to each creature in the area while simultaneously healing yourself of an equal amount of damage.
+You wrap yourself in a powerful corona that sheds bright light in a 30-foot radius and dim light for an additional 30 feet. Until the spell ends, you have resistance to necrotic damage and radiant damage. You can end the spell early by using an action to dismiss it, which creates a blast of light in a 30-foot radius. The blast deals `dice:4d8|noform|noparens|avg` (`4d8`) radiant damage to each creature in the area while simultaneously healing yourself of an equal amount of damage.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 224*

@@ -8,7 +8,7 @@ aliases:
   - Alkemancer
 ---
 # Alkemancer
-*[[Wizard.md\|Wizard]]: Arcane Tradition*  
+*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 167*  
 
 > [!tldr] Class and Feature Progression
@@ -19,19 +19,19 @@ aliases:
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Alkemancer%20(Level%202)'>Alkemancer</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Alkemancer (Level 2)' class='internal-link'>Alkemancer</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Essence%20Mastery%20(Level%206)'>Essence Mastery</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Essence Mastery (Level 6)' class='internal-link'>Essence Mastery</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Craft%20Minor%20Elixir%20(Level%2010)'>Craft Minor Elixir</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Craft Minor Elixir (Level 10)' class='internal-link'>Craft Minor Elixir</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Path%20of%20the%20Golden%20Glower%20(Level%2014)'>Path of the Golden Glower</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Path of the Golden Glower (Level 14)' class='internal-link'>Path of the Golden Glower</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -74,7 +75,7 @@ Beginning at 6th level, you can add one of the six fundamental essences to your 
 - Adding lead to a spell that improves your armor class, such as mage armor or shield, increases the spell's AC bonus by 2. If the spell has a duration longer than 1 round, the duration also increases by a number of additional rounds equal to your Intelligence modifier (minimum of 1). Any visible spell effect modified with lead takes on a dull gray sheen.  
 - Adding quicksilver to a spell that changes the form of a creature or an object, such as alter self or polymorph, increases the spell's duration by a number of minutes equal to your Intelligence modifier (minimum of 1). Spells with a duration briefer than 10 minutes, such as alchemical form, measure the increase in rounds instead of minutes. Any change in form modified with quicksilver is always accompanied by lustrous wisps or motes of silvery energy.  
 - Adding quintessence to a necromantic spell that grants temporary hit points, such as false life or life hack, increases the temporary hit points gained by a number equal to twice your Intelligence modifier (minimum of 2). Adding quintessence to a spell doesn't change the spell's visible aspects.  
-- Adding salt to a spell that deals acid damage gives the acid a pale, crystalline hue and causes it to become extremely painful. Any creature damaged by the spell must also make a successful Constitution saving throw or lose `dice:1d4|noform|avg` (`1d4`) points from its Strength and Dexterity scores (rolled separately). These lost points return automatically after a number of rounds equal to your Intelligence modifier (minimum of 1).  
+- Adding salt to a spell that deals acid damage gives the acid a pale, crystalline hue and causes it to become extremely painful. Any creature damaged by the spell must also make a successful Constitution saving throw or lose `dice:1d4|noform|noparens|avg` (`d4`) points from its Strength and Dexterity scores (rolled separately). These lost points return automatically after a number of rounds equal to your Intelligence modifier (minimum of 1).  
 - Adding void salt to a spell that deals necrotic damage causes the spell to shed palpable strands of darkness. Any creature damaged by the spell is also surrounded by a veil of cloying shadows and must make a successful Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] for a number of rounds equal to your Intelligence modifier (minimum of 1).  
 
 ### Craft Minor Elixir (Level 10)

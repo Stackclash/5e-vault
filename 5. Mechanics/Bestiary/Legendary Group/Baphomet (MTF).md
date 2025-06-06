@@ -27,7 +27,7 @@ The region containing Baphomet's lair is warped by his magic, creating one or mo
 - Beasts within 1 mile of the lair become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.  
 - If a humanoid spends at least 1 hour within 1 mile of the lair, that creature must succeed on a DC 18 Wisdom saving throw or descend into a madness determined by the Madness of Baphomet table. A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.  
 
-If Baphomet dies, these effects fade over the course of `dice:1d10|noform|avg` (`1d10`) days.
+If Baphomet dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`d10`) days.
 
 ### Madness of Baphomet
 

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Beast of the Sea
 ---
-# [[5. Mechanics/Bestiary/Beast/Beast Of The Sea (TCE).md|Beast of the Sea]]
+# [[5. Mechanics\Bestiary\Beast\Beast Of The Sea (TCE).md|Beast of the Sea]]
 *Source: Tasha's Cauldron of Everything p. 61*
 
 ```statblock
@@ -22,31 +22,32 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac_class": "13 + PB (natural armor)"
+"modifier": !!int "2"
 "stats":
-- !!int "14"
-- !!int "14"
-- !!int "15"
-- !!int "8"
-- !!int "14"
-- !!int "11"
+  - !!int "14"
+  - !!int "14"
+  - !!int "15"
+  - !!int "8"
+  - !!int "14"
+  - !!int "11"
 "speed": "5 ft., swim 60 ft."
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands the languages you speak"
 "traits":
-- "desc": "The beast can breathe both air and water."
-  "name": "Amphibious"
-- "desc": "You can add your proficiency bonus to any ability check or saving throw\
-    \ that the beast makes."
-  "name": "Primal Bond"
+  - "desc": "The beast can breathe both air and water."
+    "name": "Amphibious"
+  - "desc": "You can add your proficiency bonus to any ability check or saving throw\
+      \ that the beast makes."
+    "name": "Primal Bond"
 "actions":
-- "desc": "Melee Weapon Attack: YourSpellAttack to hit, reach 5 ft., one target.\
-    \ Hit: 1d6 + 2 + PB piercing damage or 1d6 + 2 + PB bludgeoning damage (your\
-    \ choice), and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-    \ (escape DC equal to your spellcasting save DC). Until this grapple ends, the\
-    \ beast can't use this attack on another target."
-  "name": "Binding Strike"
+  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. Hit: 1d6 + 2 + PB piercing damage or 1d6 + 2 + PB bludgeoning\
+      \ damage (your choice), and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ (escape DC equal to your spellcasting save DC). Until this grapple ends, the\
+      \ beast can't use this attack on another target."
+    "name": "Binding Strike"
 "source":
-- "TCE"
+  - "TCE"
 "image": "5. Mechanics/Bestiary/Beast/token/beast-of-the-sea-tce.webp"
 ```
 ^statblock

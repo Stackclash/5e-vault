@@ -8,6 +8,7 @@ tags:
 aliases:
   - Riding Saddle
 cost: 1000
+weight: 25
 ---
 # Riding Saddle
 *Tack and harness*  

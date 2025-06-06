@@ -7,6 +7,7 @@ tags:
   - item/tier/minor
 aliases:
   - Folding Boat
+weight: 4
 ---
 # Folding Boat
 *Wondrous item, minor, rare*  

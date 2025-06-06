@@ -21,7 +21,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Hammer-of-Willpower-.webp#right)  
 
 
-The might of this hammer changes to reflect your nature, using your innermost morality to overpower those that would oppose you. A creature hit by the hammer takes an extra `dice:1d8|noform|avg` (`1d8`) damage for each half of your alignment, for a total of `dice:2d8|noform|avg` (`2d8`) extra damage. The extra damages' type or types are determined by their associated alignments, as shown on the table below.
+The might of this hammer changes to reflect your nature, using your innermost morality to overpower those that would oppose you. A creature hit by the hammer takes an extra `dice:1d8|noform|noparens|avg` (`d8`) damage for each half of your alignment, for a total of `dice:2d8|noform|noparens|avg` (`2d8`) extra damage. The extra damages' type or types are determined by their associated alignments, as shown on the table below.
 
 | Alignment 1 | Damage Type 1 | Alignment 2 | Damage Type 2 |
 |-------------|---------------|-------------|---------------|

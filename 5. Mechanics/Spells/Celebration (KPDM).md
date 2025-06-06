@@ -9,21 +9,29 @@ tags:
   - spell/level/7th-level
   - spell/ritual
   - spell/school/enchantment
-level: 7th-level
-range: true
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 school: Enchantment
-time: 10 minute
+level: 7
+ritual: true
+time: 10 minutes
 duration: 1 hour
-components: 'V, S, a small party favor'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Celebration
+material: a small party favor
 ---
 # Celebration
 *7th-level, Enchantment (ritual)*  
 
-- **Casting time:** 10 minute unless cast as a ritual
+- **Casting time:** 10 minutes unless cast as a ritual
 - **Range:** 90 feet
-- **Components:** V, S, a small party favor
+- **Components:** V, S, M (a small party favor)
 - **Duration:** 1 hour
 
 > [!note]
@@ -43,6 +51,6 @@ If you expend your ritual focus, an unaffected intelligent creature must make a 
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 211*

@@ -20,27 +20,48 @@ tags:
   - spell/subclass/monster-slayer
   - spell/subclass/oath-of-devotion
   - spell/subclass/oath-of-radiance
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Paladin (Oath of Devotion)
+  - Paladin (Oath of Radiance)
+  - Ranger (Horizon Walker)
+  - Ranger (Monster Slayer)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Clockwork Soul)
+  - Sorcerer (Divine Soul)
+  - Warlock
+  - Wizard
 school: Abjuration
-time: 1 action
-duration: 'Concentration, up to 10 minute'
-components: 'V, S, holy water or powdered silver and iron, which the spell consumes'
+level: 1
+ritual: false
+time: 1 Action
+duration: Up to 10 minutes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Protection from Evil and Good
+range: Touch
+material: 'Holy water or powdered silver and iron, which the spell consumes.'
+concentration: true
 ---
 # Protection from Evil and Good
 *1st-level, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, holy water or powdered silver and iron, which the spell consumes
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (holy water or powdered silver and iron, which the spell consumes)
+- **Duration:** Concentration, up to 10 minutes
 
 Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.
 
 The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], or possessed by them. If the target is already [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Sorcerer Clockwork Soul (TCE)\|Sorcerer (Clockwork Soul)]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Ranger Horizon Walker (XGE)\|Ranger (Horizon Walker)]]; [[List Spells Classes Ranger Monster Slayer (XGE)\|Ranger (Monster Slayer)]]; [[List Spells Classes Paladin Oath Of Devotion\|Paladin (Oath of Devotion)]]; [[List Spells Classes Paladin Oath Of Radiance (KPDM)\|Paladin (Oath of Radiance)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Ranger (Monster Slayer)](compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Clockwork Soul)](compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Ranger (Horizon Walker)](compendium/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Radiance)](compendium/lists/list-spells-classes-oath-of-radiance-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

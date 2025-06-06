@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/forgotten-realms
   - domain/tempest
+alignment: Chaotic Evil
+domains: Tempest
+pantheon: Forgotten Realms
+symbol: Three lightning bolts radiating from a central point
 aliases:
   - Talos
 ---

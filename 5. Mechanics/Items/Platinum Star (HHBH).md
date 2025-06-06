@@ -21,6 +21,6 @@ A rather striking flower in the shape of a star, covered in tiny, reflective hai
 
 ## Effect:
 
-Once prepared, this herb may be used by up to 6 creatures simultaneously. All creatures that used this herb gain [[/5. Mechanics/Rules/Variant Rules/Inspiration.md\|inspiration]] that lasts for the next 8 hours.
+Once prepared, this herb may be used by up to 6 creatures simultaneously. All creatures that used this herb gain [[/5. Mechanics/Rules/Variant Rules/Inspiration (PHB).md\|inspiration]] that lasts for the next 8 hours.
 
 *Source: Hamund's Herbalism Handbook p. 27*

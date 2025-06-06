@@ -13,7 +13,7 @@ tags:
 aliases:
   - Granite Juggernaut
 ---
-# [[5. Mechanics/Bestiary/Construct/Granite Juggernaut (VEOR).md|Granite Juggernaut]]
+# [[5. Mechanics\Bestiary\Construct\Granite Juggernaut (VEOR).md|Granite Juggernaut]]
 *Source: Vecna: Eve of Ruin p. 221*
 
 > [!quote] A quote from Teythorn, Oerthian Adventurer  
@@ -31,13 +31,14 @@ A granite juggernaut is a lumbering Construct that can be found trundling across
 "ac_class": "natural armor"
 "hp": !!int "157"
 "hit_dice": "15d10 + 75"
+"modifier": !!int "-5"
 "stats":
-- !!int "23"
-- !!int "1"
-- !!int "20"
-- !!int "2"
-- !!int "11"
-- !!int "3"
+  - !!int "23"
+  - !!int "1"
+  - !!int "20"
+  - !!int "2"
+  - !!int "11"
+  - !!int "3"
 "speed": "30 ft. (in a straight line)"
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
@@ -49,27 +50,27 @@ A granite juggernaut is a lumbering Construct that can be found trundling across
 "languages": ""
 "cr": "12"
 "traits":
-- "desc": "The juggernaut has advantage on saving throws against spells and other\
-    \ magical effects."
-  "name": "Magic Resistance"
-- "desc": "The juggernaut deals double damage to objects and structures."
-  "name": "Siege Monster"
+  - "desc": "The juggernaut has advantage on saving throws against spells and other\
+      \ magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The juggernaut deals double damage to objects and structures."
+    "name": "Siege Monster"
 "actions":
-- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 11 (1d10\
-    \ + 6) bludgeoning damage, and if the target is a Large or smaller creature, it\
-    \ must succeed on a DC 18 Strength saving throw or have the [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
-    \ condition."
-  "name": "Slam"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 11\
+      \ (1d10 + 6) bludgeoning damage, and if the target is a Large or smaller creature,\
+      \ it must succeed on a DC 18 Strength saving throw or have the [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+      \ condition."
+    "name": "Slam"
 "bonus_actions":
-- "desc": "The juggernaut moves up to its speed. During this movement, the juggernaut\
-    \ can move through the spaces of creatures with the [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
-    \ condition. When the juggernaut enters the space of a [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
-    \ creature for the first time during this movement, the creature must make a DC\
-    \ 18 Dexterity saving throw, taking 55 (10d10) bludgeoning damage on a failed\
-    \ save or half as much damage on a successful one."
-  "name": "Devastating Roll"
+  - "desc": "The juggernaut moves up to its speed. During this movement, the juggernaut\
+      \ can move through the spaces of creatures with the [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+      \ condition. When the juggernaut enters the space of a [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+      \ creature for the first time during this movement, the creature must make a\
+      \ DC 18 Dexterity saving throw, taking 55 (10d10) bludgeoning damage on a failed\
+      \ save or half as much damage on a successful one."
+    "name": "Devastating Roll"
 "source":
-- "VEoR"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Construct/token/granite-juggernaut-veor.webp"
 ```
 ^statblock

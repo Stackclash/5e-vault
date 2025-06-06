@@ -10,4 +10,4 @@ aliases:
 
 ## 2nd Level
 
-- [[Gust Of Wind \|"PHB"]]
+- [[5. Mechanics/Spells/Gust Of Wind.md \|"PHB"]]

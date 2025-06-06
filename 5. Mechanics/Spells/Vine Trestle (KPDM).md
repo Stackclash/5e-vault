@@ -12,21 +12,32 @@ tags:
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 2nd-level
-range: true
+classes:
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Conjuration
-time: 10 minute
+level: 2
+ritual: true
+time: 10 minutes
 duration: '1 hour, Until dispelled'
-components: 'V, S, a 1-inch piece of green vine that is consumed in the casting'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Vine Trestle
+material: a 1-inch piece of green vine that is consumed in the casting
 ---
 # Vine Trestle
 *2nd-level, Conjuration (ritual)*  
 
-- **Casting time:** 10 minute unless cast as a ritual
+- **Casting time:** 10 minutes unless cast as a ritual
 - **Range:** 30 feet
-- **Components:** V, S, a 1-inch piece of green vine that is consumed in the casting
+- **Components:** V, S, M (a 1-inch piece of green vine that is consumed in the casting)
 - **Duration:** 1 hour, Until dispelled
 
 > [!note]
@@ -46,6 +57,6 @@ If you expend your ritual focus, the vine is permanent until destroyed or dispel
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 213*

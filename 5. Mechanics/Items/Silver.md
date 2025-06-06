@@ -8,6 +8,7 @@ tags:
 aliases:
   - Silver
 cost: 500
+weight: 1
 ---
 # Silver
 *Trade good*  

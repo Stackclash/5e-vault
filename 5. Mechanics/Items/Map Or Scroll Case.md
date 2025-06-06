@@ -8,6 +8,7 @@ tags:
 aliases:
   - Map or Scroll Case
 cost: 100
+weight: 1
 ---
 # Map or Scroll Case
 *Adventuring gear*  

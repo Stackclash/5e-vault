@@ -4,6 +4,8 @@ cssclasses: json5e-class
 tags:
   - class/ranger
   - compendium/src/5e/phb
+hitdice: 10
+hitRollAverage: 6
 aliases:
   - Ranger
 ---
@@ -17,28 +19,29 @@ aliases:
 > <tr><th colspan='4'></th><th colspan='5'>Spell Slots per Spell Level</th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Spells Known</th><th class="spellSlot">1st</th><th class="spellSlot">2nd</th><th class="spellSlot">3rd</th><th class="spellSlot">4th</th><th class="spellSlot">5th</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Favored%20Enemy%20(Level%201)'>Favored Enemy</a>, <a href='#Favored%20Foe%20(Level%201)'>Favored Foe</a>, <a href='#Natural%20Explorer%20(Level%201)'>Natural Explorer</a>, <a href='#Deft%20Explorer%20(Level%201)'>Deft Explorer</a></td><td class="value">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Fighting%20Style%20(Level%202)'>Fighting Style</a>, <a href='#Spellcasting%20(Level%202)'>Spellcasting</a>, <a href='#Spellcasting%20Focus%20(Level%202)'>Spellcasting Focus</a></td><td class="value">2</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Ranger%20Archetype%20(Level%203)'>Ranger Archetype</a>, <a href='#Primeval%20Awareness%20(Level%203)'>Primeval Awareness</a>, <a href='#Primal%20Awareness%20(Level%203)'>Primal Awareness</a></td><td class="value">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a>, <a href='#Martial%20Versatility%20(Level%204)'>Martial Versatility</a></td><td class="value">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra%20Attack%20(Level%205)'>Extra Attack</a></td><td class="value">4</td><td class="spellSlot">4</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Favored%20Enemy%20and%20Natural%20Explorer%20improvements%20(Level%206)'>Favored Enemy and Natural Explorer improvements</a>, <a href='#Deft%20Explorer%20Improvement%20(Level%206)'>Deft Explorer Improvement</a></td><td class="value">4</td><td class="spellSlot">4</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Ranger%20Archetype%20feature%20(Level%207)'>Ranger Archetype feature</a></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a>, <a href='#Land's%20Stride%20(Level%208)'>Land's Stride</a></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Favored Enemy (Level 1)' class='internal-link'>Favored Enemy</a>, <a href='#Favored Foe (Level 1)' class='internal-link'>Favored Foe</a>, <a href='#Natural Explorer (Level 1)' class='internal-link'>Natural Explorer</a>, <a href='#Deft Explorer (Level 1)' class='internal-link'>Deft Explorer</a></td><td class="value">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Fighting Style (Level 2)' class='internal-link'>Fighting Style</a>, <a href='#Spellcasting (Level 2)' class='internal-link'>Spellcasting</a>, <a href='#Spellcasting Focus (Level 2)' class='internal-link'>Spellcasting Focus</a></td><td class="value">2</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Ranger Archetype (Level 3)' class='internal-link'>Ranger Archetype</a>, <a href='#Primeval Awareness (Level 3)' class='internal-link'>Primeval Awareness</a>, <a href='#Primal Awareness (Level 3)' class='internal-link'>Primal Awareness</a></td><td class="value">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a>, <a href='#Martial Versatility (Level 4)' class='internal-link'>Martial Versatility</a></td><td class="value">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra Attack (Level 5)' class='internal-link'>Extra Attack</a></td><td class="value">4</td><td class="spellSlot">4</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Favored Enemy and Natural Explorer improvements (Level 6)' class='internal-link'>Favored Enemy and Natural Explorer improvements</a>, <a href='#Deft Explorer Improvement (Level 6)' class='internal-link'>Deft Explorer Improvement</a></td><td class="value">4</td><td class="spellSlot">4</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Ranger Archetype feature (Level 7)' class='internal-link'>Ranger Archetype feature</a></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a>, <a href='#Land's Stride (Level 8)' class='internal-link'>Land's Stride</a></td><td class="value">5</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td><td class="value">6</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Hide%20in%20Plain%20Sight%20(Level%2010)'>Hide in Plain Sight</a>, <a href='#Nature's%20Veil%20(Level%2010)'>Nature's Veil</a>, <a href='#Natural%20Explorer%20improvement%20(Level%2010)'>Natural Explorer improvement</a>, <a href='#Deft%20Explorer%20Improvement%20(Level%2010)'>Deft Explorer Improvement</a></td><td class="value">6</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Ranger%20Archetype%20feature%20(Level%2011)'>Ranger Archetype feature</a></td><td class="value">7</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td><td class="value">7</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Hide in Plain Sight (Level 10)' class='internal-link'>Hide in Plain Sight</a>, <a href='#Nature's Veil (Level 10)' class='internal-link'>Nature's Veil</a>, <a href='#Natural Explorer improvement (Level 10)' class='internal-link'>Natural Explorer improvement</a>, <a href='#Deft Explorer Improvement (Level 10)' class='internal-link'>Deft Explorer Improvement</a></td><td class="value">6</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Ranger Archetype feature (Level 11)' class='internal-link'>Ranger Archetype feature</a></td><td class="value">7</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">7</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td><td class="value">8</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Vanish%20(Level%2014)'>Vanish</a>, <a href='#Favored%20Enemy%20improvement%20(Level%2014)'>Favored Enemy improvement</a></td><td class="value">8</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Ranger%20Archetype%20feature%20(Level%2015)'>Ranger Archetype feature</a></td><td class="value">9</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td><td class="value">9</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Vanish (Level 14)' class='internal-link'>Vanish</a>, <a href='#Favored Enemy improvement (Level 14)' class='internal-link'>Favored Enemy improvement</a></td><td class="value">8</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Ranger Archetype feature (Level 15)' class='internal-link'>Ranger Archetype feature</a></td><td class="value">9</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">9</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td><td class="value">10</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Feral%20Senses%20(Level%2018)'>Feral Senses</a></td><td class="value">10</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2019)'>Ability Score Improvement</a></td><td class="value">11</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Foe%20Slayer%20(Level%2020)'>Foe Slayer</a></td><td class="value">11</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Feral Senses (Level 18)' class='internal-link'>Feral Senses</a></td><td class="value">10</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td><td class="value">11</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Foe Slayer (Level 20)' class='internal-link'>Foe Slayer</a></td><td class="value">11</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 ## Hit Points
 
@@ -65,7 +68,7 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 ## Multiclassing Ranger
 
-**Ability Score Minimum:**Dexterity 13, Wisdom 13
+**Ability Score Minimum:** Dexterity 13, Wisdom 13
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
@@ -114,6 +117,10 @@ Rangers are free-minded wanderers and seekers who patrol the edges of civilized 
 A relationship with civilization informs every ranger's personality and history. Some rangers see themselves as enforcers of the law and bringers of justice on civilization's frontier, answering to no sovereign power. Others are survivalists who eschew civilization altogether. They vanquish monsters to keep themselves safe while they live in and travel through the perilous wild areas of the world. If their efforts also benefit the kingdoms and other civilized realms that they avoid, so be it.
 
 If you're creating or playing a ranger character, the following sections offer ideas for embellishing the character and enhancing your roleplaying experience.
+
+> [!quote] A quote from Xanathar  
+> 
+> I'm a monster. Are you going to try to kill me? Didn't think so. Go kill some goblins or something. On second thought, goblins aren't monsters - they're people. So maybe you should call yourself a people killer.
 
 ## View of the World
 _Source: Xanathar's Guide to Everything_
@@ -195,15 +202,15 @@ You choose one additional favored enemy, as well as an associated language, at 6
 ### Favored Foe (Level 1)
 _Source: Tasha's Cauldron of Everything p. 56_
 
-*1st-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]], which replaces the Favored Enemy feature and works with the Foe Slayer feature*
+*1st-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Favored Enemy feature and works with the Foe Slayer feature*
 
 When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] (as if you were [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentrating]] on a spell).
 
-The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by `dice:1d4|noform|avg` (`1d4`).
+The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by `dice:1d4|noform|noparens|avg` (`d4`).
 
 You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-This feature's extra damage increases when you reach certain levels in this class: to `dice:1d6|noform|avg` (`1d6`) at 6th level and to `dice:1d8|noform|avg` (`1d8`) at 14th level.
+This feature's extra damage increases when you reach certain levels in this class: to `dice:1d6|noform|noparens|avg` (`d6`) at 6th level and to `dice:1d8|noform|noparens|avg` (`d8`) at 14th level.
 
 ### Natural Explorer (Level 1)
 
@@ -223,7 +230,7 @@ You choose additional favored terrain types at 6th and 10th level.
 ### Deft Explorer (Level 1)
 _Source: Tasha's Cauldron of Everything p. 56_
 
-*1st-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]], which replaces the Natural Explorer feature*
+*1st-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Natural Explorer feature*
 
 You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit below when you reach 6th level and 10th level in this class.
 
@@ -264,14 +271,14 @@ Additionally, when you gain a level in this class, you can choose one of the ran
 
 Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
 
-<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Wisdom modifier</span>
+<span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Wisdom</span>
 
-<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Wisdom modifier</span>
+<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Wisdom</span>
 
 ### Spellcasting Focus (Level 2)
 _Source: Tasha's Cauldron of Everything p. 56_
 
-*2nd-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*2nd-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
 You can use a [[5. Mechanics/Items/Druidic Foc(US).md\|druidic focus]] as a spellcasting focus for your ranger spells. A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of yew or another special wood, a staff drawn whole from a living tree, or an object incorporating feathers, fur, bones, and teeth from sacred animals.
 
@@ -286,7 +293,7 @@ Beginning at 3rd level, you can use your action and expend one ranger spell slot
 ### Primal Awareness (Level 3)
 _Source: Tasha's Cauldron of Everything p. 56_
 
-*3rd-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]], which replaces the Primeval Awareness feature*
+*3rd-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Primeval Awareness feature*
 
 You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don't already know them, as shown in the Primal Awareness Spells table. These spells don't count against the number of ranger spells you know.
 
@@ -312,7 +319,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Martial Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 56_
 
-*4th-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*4th-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice.
 
@@ -360,7 +367,7 @@ Once you are camouflaged in this way, you can try to hide by pressing yourself u
 ### Nature's Veil (Level 10)
 _Source: Tasha's Cauldron of Everything p. 56_
 
-*10th-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]], which replaces the Hide in Plain Sight feature*
+*10th-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Hide in Plain Sight feature*
 
 You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]], along with any equipment you are wearing or carrying, until the start of your next turn.
 
@@ -377,7 +384,7 @@ You gain an additional benefit when you reach 10th level in this class.
 
 #### Tireless
 
-As an action, you can give yourself a number of temporary hit points equal to `dice:1d8|noform|avg` (`1d8`) + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As an action, you can give yourself a number of temporary hit points equal to `dice:1d8|noform|noparens|avg` (`d8`) + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 In addition, whenever you finish a short rest, your [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] level, if any, is decreased by 1.
 

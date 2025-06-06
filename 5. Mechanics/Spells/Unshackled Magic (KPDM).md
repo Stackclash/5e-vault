@@ -8,19 +8,26 @@ tags:
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/enchantment
-level: 9th-level
-range: false
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 school: Enchantment
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 9
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Unshackled Magic
+concentration: true
 ---
 # Unshackled Magic
 *9th-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -29,6 +36,6 @@ You designate a creature within range that has the Spellcasting or Innate Spellc
 
 Each round while this spell remains in effect, the target makes another Charisma saving throw. On a successful save, it can act normally in that round, but this spell does not end.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 188*

@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/veor
 aliases:
-  - 'Chapter 4: The Ruined Colossus'
+  - Chapter 4: The Ruined Colossus
 ---
 # Chapter 4: The Ruined Colossus
 *Source: Vecna: Eve of Ruin* 
@@ -84,7 +84,7 @@ Mount Ironrot is affected by these environmental phenomena:
 
 Distances between locations anywhere in the Mournland are indeterminate and ever-changing. Map 4.1 shows the approximate positions of locations around Mount Ironrot relative to one another. The map doesn't include a scale due to this effect.
 
-Whenever the characters travel from one location to another, roll `dice:2d4|noform|avg` (`2d4`) to determine the number of hours it takes the party to reach their destination. Have the players designate one party member to make a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check on behalf of the group each time the characters travel. On a failed check, double the number of hours the party must travel to reach their destination.
+Whenever the characters travel from one location to another, roll `dice:2d4|noform|noparens|avg` (`2d4`) to determine the number of hours it takes the party to reach their destination. Have the players designate one party member to make a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check on behalf of the group each time the characters travel. On a failed check, double the number of hours the party must travel to reach their destination.
 
 #### Dangers
 
@@ -122,7 +122,7 @@ Each time the characters investigate one of the colossi shown on map 4.1, read o
 
 These colossi are smaller than Landro and are easily accessible, making the task of searching them relatively quick. For this reason, no maps of these ruined colossi are provided. You can simply narrate the characters' foray into each colossus.
 
-It takes `dice:1d4|noform|avg` (`1d4`) hours for the characters to search a colossus's wreckage for a Docent. At the end of this time, have one character make a DC 17 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check for the group. On a failed check, the characters don't find a *Docent*, but they can't be sure they didn't simply miss it; the characters can spend another `dice:1d4|noform|avg` (`1d4`) hours to reattempt the check. On a successful check, the characters not only determine that the colossus's *Docent* is definitely gone, but also uncover one of the following clues (determined by you):
+It takes `dice:1d4|noform|noparens|avg` (`d4`) hours for the characters to search a colossus's wreckage for a Docent. At the end of this time, have one character make a DC 17 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check for the group. On a failed check, the characters don't find a *Docent*, but they can't be sure they didn't simply miss it; the characters can spend another `dice:1d4|noform|noparens|avg` (`d4`) hours to reattempt the check. On a successful check, the characters not only determine that the colossus's *Docent* is definitely gone, but also uncover one of the following clues (determined by you):
 
 - **Deep Tracks.** Deep, angular boot prints belonging to unusually heavy, bipedal creatures lead to and from the wreckage. Examining multiple colossi and triangulating the boot prints' directions (no check required) points to the village of Ialos.  
 - **Second Party.** Smaller, fresher boot prints made by lighter bipeds meander aimlessly about the wreckage. It's impossible to discern the aim of these lighter bipeds from these tracks alone.  
@@ -162,7 +162,7 @@ A character who searches the area and succeeds on a DC 14 Wisdom ([[/5. Mechanic
 
 Mournland-roaming pilgrims (see the "Warforged Pilgrims" section later in this chapter) turned this ruined mill into an ossuary for fallen warforged.
 
-From this base, pilgrims venture out to find relics or lost warforged. At such times, `dice:2d4|noform|avg` (`2d4`) pilgrims (use the [[5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|warforged warrior]] stat block in appendix A) remain in Ialos to guard the mill or patrol its surroundings. When no expedition is underway, thirteen pilgrims (including their leader, Mercy, who also uses the [[5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|warforged warrior]] stat block) occupy Ialos. The pilgrims defend their home against attackers, but they flee when they're outmatched.
+From this base, pilgrims venture out to find relics or lost warforged. At such times, `dice:2d4|noform|noparens|avg` (`2d4`) pilgrims (use the [[5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|warforged warrior]] stat block in appendix A) remain in Ialos to guard the mill or patrol its surroundings. When no expedition is underway, thirteen pilgrims (including their leader, Mercy, who also uses the [[5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|warforged warrior]] stat block) occupy Ialos. The pilgrims defend their home against attackers, but they flee when they're outmatched.
 
 The following locations are keyed to map 4.2:
 
@@ -288,9 +288,9 @@ Whenever you end your turn with 0 hit points, the Docent can make a Wisdom ([[/5
 
 A Docent has the following properties:
 
-- **Languages.** The Docent knows Common, Giant, and `dice:1d4|noform|avg` (`1d4`) additional languages chosen by the DM. If a Docent knows fewer than six languages, it can learn a new language after it hears or reads the language through your senses.  
-- **Skills.** The Docent has a +7 bonus to ability checks using one of the following skills (roll a `dice:d4|noform|avg` (`d4`)): (1) [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], (2) [[/5. Mechanics/Rules/Skills.md#History\|History]], (3) [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], or (4) [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]].  
-- **Spells.** The Docent knows one of the following spells and can cast it at will, requiring no spell components (roll a `dice:d6|noform|avg` (`d6`)): (1–2) [[5. Mechanics/Spells/Detect Evil And Good.md\|Detect Evil and Good]] or (3–6) [[5. Mechanics/Spells/Detect Magic.md\|Detect Magic]]. The Docent decides when to cast the spell.  
+- **Languages.** The Docent knows Common, Giant, and `dice:1d4|noform|noparens|avg` (`d4`) additional languages chosen by the DM. If a Docent knows fewer than six languages, it can learn a new language after it hears or reads the language through your senses.  
+- **Skills.** The Docent has a +7 bonus to ability checks using one of the following skills (roll a `dice:d4|noform|noparens|avg` (`d4`)): (1) [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], (2) [[/5. Mechanics/Rules/Skills.md#History\|History]], (3) [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], or (4) [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]].  
+- **Spells.** The Docent knows one of the following spells and can cast it at will, requiring no spell components (roll a `dice:d6|noform|noparens|avg` (`d6`)): (1–2) [[5. Mechanics/Spells/Detect Evil And Good.md\|Detect Evil and Good]] or (3–6) [[5. Mechanics/Spells/Detect Magic.md\|Detect Magic]]. The Docent decides when to cast the spell.  
 
 ##### Personality
 
@@ -318,7 +318,7 @@ Since the Mournland's earliest days, Glaive has wielded her namesake weapon in s
 
 The invisible barrier described in the "Landro Features" section below makes it impossible to enter the colossus via typical means. The barrier is damaged in three places, allowing ingress via paths along Mount Ironrot into areas L5, L11, and L16 of the colossus. Map 4.3 includes a side view of Landro and the paths that lead into the colossus's interior.
 
-The easiest way to enter the colossus is through the mountain caves that lead to area L5. The characters can also search higher up the mountain along outdoor paths for the entrances to caverns that lead to areas L11 and L16. Searching for area L11 takes `dice:2d4|noform|avg` (`2d4`) hours, and during the characters' search, a hungry [[5. Mechanics/Bestiary/Monstrosity/Roc.md\|roc]] ambushes them. Searching for area L16 takes `dice:3d4|noform|avg` (`3d4`) hours, and during the characters' search, they stumble on a nest with two [[5. Mechanics/Bestiary/Monstrosity/Roc.md\|rocs]] and one roc egg the height of a human. The angry roc parents attack the characters, though the rocs don't pursue if the characters flee.
+The easiest way to enter the colossus is through the mountain caves that lead to area L5. The characters can also search higher up the mountain along outdoor paths for the entrances to caverns that lead to areas L11 and L16. Searching for area L11 takes `dice:2d4|noform|noparens|avg` (`2d4`) hours, and during the characters' search, a hungry [[5. Mechanics/Bestiary/Monstrosity/Roc.md\|roc]] ambushes them. Searching for area L16 takes `dice:3d4|noform|noparens|avg` (`3d4`) hours, and during the characters' search, they stumble on a nest with two [[5. Mechanics/Bestiary/Monstrosity/Roc.md\|rocs]] and one roc egg the height of a human. The angry roc parents attack the characters, though the rocs don't pursue if the characters flee.
 
 ### Landro Features
 
@@ -344,7 +344,7 @@ A steady stream of thin, oily liquid leaks from the graymatter engine and runs i
 When a creature looks at a puddle of graymatter fluid, the creature sees a twisted, monstrous version of itself with an inscrutable expression rather than its actual reflection. A creature that ingests any amount of graymatter fluid must succeed on a DC 14 Constitution saving throw or experience the following effects:
 
 - **Altered Speech.** The creature gains telepathy to a range of 30 feet but loses the ability to speak. Any attempts to speak generate only incoherent babbling. This effect ends after the creature finishes a long rest.  
-- **Psychic Damage.** For each ounce of graymatter fluid consumed, the creature takes `dice:2d10|noform|avg|text(11)` (`2d10`) psychic damage. A creature killed by this damage rises as a [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]] `dice:1d4|noform|avg` (`1d4`) hours after dying.  
+- **Psychic Damage.** For each ounce of graymatter fluid consumed, the creature takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) psychic damage. A creature killed by this damage rises as a [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]] `dice:1d4|noform|noparens|avg` (`d4`) hours after dying.  
 
 #### Invisible Barrier
 
@@ -625,7 +625,7 @@ When the lever on the wall is flipped, the hatch in the floor opens, and a 10-fo
 > The floor of this ruined, thirty-foot-tall chamber is bare except for a large, wooden chest. The ostentatious chest's dark walnut planks shine, and its iron straps are gilded with a thick sheet of gold leaf. An iron padlock crafted in the shape of a grinning demon hangs from the chest's hasp.
 ^205
 
-The chest is a [[5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] in disguise. As soon as a creature touches it, the mimic attacks. Once it has grappled a creature, the mimic attempts to drag its victim outside so it can drop the victim off the edge of the walkway (area L22). Creatures that fall take `dice:13d6|noform|avg|text(45)` (`13d6`) bludgeoning damage.
+The chest is a [[5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] in disguise. As soon as a creature touches it, the mimic attacks. Once it has grappled a creature, the mimic attempts to drag its victim outside so it can drop the victim off the edge of the walkway (area L22). Creatures that fall take `dice:13d6|noform|noparens|avg|text(45)` (`13d6`) bludgeoning damage.
 
 #### L26: Throat
 
@@ -636,7 +636,7 @@ The chest is a [[5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] in disguise
 
 If she still lives, Glaive has set a trap here for the characters. She tore out the weapons system from area L27 and moved it to the edge of that chamber so that it points down Landro's throat.
 
-As soon as a character is halfway up this area, Glaive activates the weapon, which ejects a jet of water in a 60-foot line. Any creature in this line must succeed on a DC 15 Dexterity saving throw or take `dice:4d10|noform|avg|text(22)` (`4d10`) bludgeoning damage and fall down to area L18, landing with the [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] condition.
+As soon as a character is halfway up this area, Glaive activates the weapon, which ejects a jet of water in a 60-foot line. Any creature in this line must succeed on a DC 15 Dexterity saving throw or take `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) bludgeoning damage and fall down to area L18, landing with the [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] condition.
 
 Glaive compromised the weapons system when she moved it; once fired, it breaks, losing its magic.
 
@@ -674,7 +674,7 @@ If a sentinel takes damage or the rod piece is removed from the graymatter engin
 
 ##### Retrieving the Rod Piece
 
-As long as the graymatter engine is active, the rod piece floating above the engine's ceramic shell is held in place with powerful magic. As an action, a creature can try to remove the piece. A creature that touches the piece must make a DC 15 Wisdom saving throw. On a failed save, the creature takes `dice:2d10|noform|avg|text(11)` (`2d10`) psychic damage, and the piece doesn't move. On a successful save, the creature takes half as much damage but is able to grab and move the piece freely. Successfully casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] (DC 14) on the piece suppresses the magic for 1 minute, during which time the piece can be touched and removed without requiring creatures to make a saving throw.
+As long as the graymatter engine is active, the rod piece floating above the engine's ceramic shell is held in place with powerful magic. As an action, a creature can try to remove the piece. A creature that touches the piece must make a DC 15 Wisdom saving throw. On a failed save, the creature takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) psychic damage, and the piece doesn't move. On a successful save, the creature takes half as much damage but is able to grab and move the piece freely. Successfully casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] (DC 14) on the piece suppresses the magic for 1 minute, during which time the piece can be touched and removed without requiring creatures to make a saving throw.
 
 When the piece is removed, the four defense sentinels attack the characters, and Landro's shutdown sequence begins (see the "Shutdown Sequence" section below). For more about the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], see this book's introduction.
 
@@ -733,7 +733,7 @@ When Landro's shutdown sequence is activated, a magical, soothing voice announce
 
 - **Antigravity Deactivated.** Landro's antigravity magic—including the antigravity wells and floors—is dispelled.  
 - **Barrier Dropped.** The invisible barrier around Landro disappears.  
-- **Self-Destruct Initiated.** Characters inside Landro must succeed on a DC 14 Dexterity saving throw or have the [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] condition as the colossus heaves and shudders. After 1 minute, the colossus explodes in a fiery conflagration. When this happens, creatures inside Landro must make a DC 18 Dexterity saving throw, taking `dice:18d10|noform|avg|text(99)` (`18d10`) fire damage on a failed save or half as much damage on a successful one. Unattended, nonmagical objects inside Landro are destroyed by the explosion.  
+- **Self-Destruct Initiated.** Characters inside Landro must succeed on a DC 14 Dexterity saving throw or have the [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] condition as the colossus heaves and shudders. After 1 minute, the colossus explodes in a fiery conflagration. When this happens, creatures inside Landro must make a DC 18 Dexterity saving throw, taking `dice:18d10|noform|noparens|avg|text(99)` (`18d10`) fire damage on a failed save or half as much damage on a successful one. Unattended, nonmagical objects inside Landro are destroyed by the explosion.  
 
 ## Next Steps
 

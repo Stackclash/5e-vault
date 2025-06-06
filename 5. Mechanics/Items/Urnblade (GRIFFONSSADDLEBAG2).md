@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Urnblade
-one-hand-damage: 1d6 N
+one-hand-damage: 1d6 necrotic
+weight: 3
 ---
 # Urnblade
 *Weapon ([[5. Mechanics/Items/Scimitar.md\|scimitar]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Urnblade.webp#right)  
 
-- **Damage**: 1d6 N
+- **Damage**: 1d6 necrotic
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
 

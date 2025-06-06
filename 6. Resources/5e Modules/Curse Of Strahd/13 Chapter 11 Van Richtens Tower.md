@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/cos
 aliases:
-  - 'Chapter 11: Van Richten''s Tower'
+  - Chapter 11: Van Richten's Tower
 ---
 # Chapter 11: Van Richten's Tower
 *Source: Curse of Strahd, p. 167* 
@@ -67,7 +67,7 @@ The wagon has a hidden trapdoor in its underbelly that can be detected by a char
 
 #### Booby Trap
 
-The inside handle of the door has a wire looped around it, and the wire is connected to a flask of alchemist's fire hanging from the wagon's ceiling. When the door is opened, the flask falls and explodes, igniting one hundred more flasks of alchemist's fire that dangle from wires like ornaments along the wagon's interior walls. A creature within 30 feet of the wagon when it explodes must succeed on a DC 12 Constitution saving throw, taking `dice:10d10|noform|avg|text(55)` (`10d10`) fire damage on a failed save, or half as much damage on a successful one. Creatures inside the wagon or within 5 feet of it have disadvantage on the saving throw. The wagon is reduced to flinders by the explosion, and the contents of the wagon (see "Treasure" below) are destroyed as well.
+The inside handle of the door has a wire looped around it, and the wire is connected to a flask of alchemist's fire hanging from the wagon's ceiling. When the door is opened, the flask falls and explodes, igniting one hundred more flasks of alchemist's fire that dangle from wires like ornaments along the wagon's interior walls. A creature within 30 feet of the wagon when it explodes must succeed on a DC 12 Constitution saving throw, taking `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) fire damage on a failed save, or half as much damage on a successful one. Creatures inside the wagon or within 5 feet of it have disadvantage on the saving throw. The wagon is reduced to flinders by the explosion, and the contents of the wagon (see "Treasure" below) are destroyed as well.
 
 A character inside the wagon spots the trap automatically (no ability check required) and can disable it with a successful DC 10 Dexterity check. A failed attempt to disable the trap triggers it.
 
@@ -85,7 +85,7 @@ The interior of the wagon contains the following items:
 - Three sets of [[5. Mechanics/Items/Manacles.md\|manacles]]  
 - A [[5. Mechanics/Items/Shovel.md\|shovel]]  
 - A wooden chest containing a gold [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]] of the Morninglord (worth 100 gp), three [[5. Mechanics/Items/Holy Water Flask.md\|vials of holy water]], three vials of perfume, two vials of [[5. Mechanics/Items/Antitoxin Vi(AL).md\|antitoxin]], a [[5. Mechanics/Items/Hempen Rope 50 F(EET).md\|50-foot coil of hempen rope]], a [[5. Mechanics/Items/Tinderbox.md\|tinderbox]], a [[5. Mechanics/Items/Steel Mirror.md\|steel mirror]], a sharpened wooden stake, and a [[5. Mechanics/Items/Spyglass.md\|spyglass]]  
-- Two [[5. Mechanics/Items/Spell Scroll (DMG).md\|spell scrolls]] ([[5. Mechanics/Spells/Major Image.md\|major image]] and [[5. Mechanics/Spells/Remove Curse.md\|remove curse]])  
+- Two [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]] ([[5. Mechanics/Spells/Major Image.md\|major image]] and [[5. Mechanics/Spells/Remove Curse.md\|remove curse]])  
 - A map of Barovia (showing all the locations marked on this adventure's map of Barovia)  
 - A charred page from van Richten's journal (show the players "Journal of Rudolph van Richten" in appendix F).  
 
@@ -102,9 +102,9 @@ Show the players the door symbol to the right. The door is magically locked and 
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/108-cos11-03.webp#center]]
 
-A creature that touches the door without first disabling the trap causes lightning to envelop the tower. Any creature outside the tower and within 10 feet of it must succeed on a DC 15 Dexterity saving throw, with disadvantage if it is wearing armor made of metal, taking `dice:4d10|noform|avg|text(22)` (`4d10`) lightning damage on a failed save, or half damage on a successful one. As long as the effect persists, any creature that enters the lightning for the first time on a turn or starts its turn there takes `dice:4d10|noform|avg|text(22)` (`4d10`) lightning damage. The lightning lasts for 10 minutes.
+A creature that touches the door without first disabling the trap causes lightning to envelop the tower. Any creature outside the tower and within 10 feet of it must succeed on a DC 15 Dexterity saving throw, with disadvantage if it is wearing armor made of metal, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) lightning damage on a failed save, or half damage on a successful one. As long as the effect persists, any creature that enters the lightning for the first time on a turn or starts its turn there takes `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) lightning damage. The lightning lasts for 10 minutes.
 
-The third time this trap is triggered, the magic fails and causes the tower to collapse. Each creature inside the tower when it collapses takes `dice:24d10|noform|avg|text(132)` (`24d10`) bludgeoning damage, while those within 20 feet of the tower must succeed on a DC 15 Dexterity saving throw or take `dice:8d10|noform|avg|text(44)` (`8d10`) bludgeoning damage from falling debris. The collapse not only destroys the tower but also most of its contents, including the animated armor in area V7. The wooden chest in area V7 (as well as the severed head inside it) remains intact but requires `dice:1d8+2|noform|avg` (`1d8 + 2`) hours of digging through rubble to find. The clay golems in area V4 are undamaged but buried under piles of debris. Every hour the characters spend searching through the rubble, they have a 10 percent chance of accidentally unearthing a berserk clay golem.
+The third time this trap is triggered, the magic fails and causes the tower to collapse. Each creature inside the tower when it collapses takes `dice:24d10|noform|noparens|avg|text(132)` (`24d10`) bludgeoning damage, while those within 20 feet of the tower must succeed on a DC 15 Dexterity saving throw or take `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) bludgeoning damage from falling debris. The collapse not only destroys the tower but also most of its contents, including the animated armor in area V7. The wooden chest in area V7 (as well as the severed head inside it) remains intact but requires `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) hours of digging through rubble to find. The clay golems in area V4 are undamaged but buried under piles of debris. Every hour the characters spend searching through the rubble, they have a 10 percent chance of accidentally unearthing a berserk clay golem.
 
 #### Opening the Door
 
@@ -123,7 +123,7 @@ Beyond the door is a 5-foot-square vestibule with a tattered curtain that concea
 > Rotting wooden beams support the scaffolding, which groans and creaks with the slightest breeze. A series of ladders and platforms lead to a hole in the northwest wall on the third floor.
 ^581
 
-The scaffolding can't support more than 200 pounds of weight. If it collapses, anyone standing on it falls 20 feet to the ground, taking `dice:1d6|noform|avg` (`1d6`) bludgeoning damage per 10 feet fallen plus an additional `dice:2d6|noform|avg` (`2d6`) piercing damage from the debris. A creature underneath the scaffolding must succeed on a DC 13 Dexterity saving throw or take `dice:4d6|noform|avg|text(14)` (`4d6`) bludgeoning damage from falling debris.
+The scaffolding can't support more than 200 pounds of weight. If it collapses, anyone standing on it falls 20 feet to the ground, taking `dice:1d6|noform|noparens|avg` (`d6`) bludgeoning damage per 10 feet fallen plus an additional `dice:2d6|noform|noparens|avg` (`2d6`) piercing damage from the debris. A creature underneath the scaffolding must succeed on a DC 13 Dexterity saving throw or take `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) bludgeoning damage from falling debris.
 
 ### V4. Tower, First Floor
 
@@ -179,7 +179,7 @@ The magic oils preserving Yan's head allow it to remember conversations it has w
 
 If your card reading reveals that a treasure is here, it's in a narrow compartment hidden in the wall behind the suit of armor. If the armor is activated and commanded to retrieve the treasure, it pulls the stones out of the wall, revealing the treasure beyond.
 
-If the characters have collapsed the tower (see area V2), they find the treasure after `dice:1d8+2|noform|avg` (`1d8 + 2`) hours of searching through the rubble. For each hour they spend searching, they have a 10 percent chance of accidentally unearthing a [[5. Mechanics/Bestiary/Construct/Clay Golem.md\|clay golem]] (see area V4) that withstood the collapse. The golem, which took no damage from the collapsing tower, is berserk and attacks until destroyed.
+If the characters have collapsed the tower (see area V2), they find the treasure after `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) hours of searching through the rubble. For each hour they spend searching, they have a 10 percent chance of accidentally unearthing a [[5. Mechanics/Bestiary/Construct/Clay Golem.md\|clay golem]] (see area V4) that withstood the collapse. The golem, which took no damage from the collapsing tower, is berserk and attacks until destroyed.
 
 ## Special Events
 

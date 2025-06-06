@@ -8,6 +8,7 @@ tags:
 aliases:
   - Diplomat's Pack
 cost: 3900
+weight: 36
 ---
 # Diplomat's Pack
 *Adventuring gear*  

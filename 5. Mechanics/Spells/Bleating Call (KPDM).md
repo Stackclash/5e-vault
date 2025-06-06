@@ -11,21 +11,31 @@ tags:
   - spell/school/enchantment
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Enchantment
-time: 1 action
+level: 2
+ritual: false
+time: 1 Action
 duration: 1 minute
-components: 'S, a bit of fur or hair from a young beast or humanoid'
+components:
+  - S
+  - M
 aliases:
   - Bleating Call
+material: a bit of fur or hair from a young beast or humanoid
 ---
 # Bleating Call
 *2nd-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 90 feet
-- **Components:** S, a bit of fur or hair from a young beast or humanoid
+- **Components:** S, M (a bit of fur or hair from a young beast or humanoid)
 - **Duration:** 1 minute
 
 You create a sound on a point within range. The sound's volume can range from a whisper to a scream, and it can be any sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
@@ -34,6 +44,6 @@ Each creature that starts its turn within 30 feet of the sound and can hear it m
 
 Creatures that can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] are immune to this spell.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 43*

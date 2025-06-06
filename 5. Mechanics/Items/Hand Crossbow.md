@@ -9,13 +9,14 @@ tags:
 aliases:
   - Hand Crossbow
 cost: 7500
-one-hand-damage: 1d6 P
-range: 30/120
+one-hand-damage: 1d6 piercing
+range: 30\120
+weight: 3
 ---
 # Hand Crossbow
 *Weapon*  
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Cost**: 75 gp

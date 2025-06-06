@@ -8,6 +8,7 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Water Absorption
+weight: 3
 ---
 # Rod of Water Absorption
 *Rod, major, rare*  
@@ -21,6 +22,6 @@ While holding the open end of the rod underwater, you can speak its first comman
 
 While holding the rod, you can use an action to speak its second or third command words. When you speak the second command word, you cast the [[5. Mechanics/Spells/Create Or Destroy Water.md\|create or destroy water]] spell (Create Water only) from the rod. You can cast the spell at up to 4th level in this way. Each gallon of water you create as part of the spell is drawn from the pool of water within the rod. If you cast this spell from the rod and cause the water to fall as rain, the spell consumes 10 gallons of water for each of the spell's slot levels.
 
-Speaking the third command word causes 10 or more gallons of water to erupt from the rod in a torrent of water, up to the maximum amount remaining within the rod. This water is drawn from the pool of water within the rod. The water is shot in a line 30 feet long and 1 foot wide. Any creature in the line must make a DC 15 Dexterity saving throw. On a failed save, a creature takes `dice:2d6|noform|avg` (`2d6`) bludgeoning damage for every 10 gallons of water used from the rod and is pushed 10 feet away from you. On a successful save, a creature takes half as much bludgeoning damage and isn't pushed.
+Speaking the third command word causes 10 or more gallons of water to erupt from the rod in a torrent of water, up to the maximum amount remaining within the rod. This water is drawn from the pool of water within the rod. The water is shot in a line 30 feet long and 1 foot wide. Any creature in the line must make a DC 15 Dexterity saving throw. On a failed save, a creature takes `dice:2d6|noform|noparens|avg` (`2d6`) bludgeoning damage for every 10 gallons of water used from the rod and is pushed 10 feet away from you. On a successful save, a creature takes half as much bludgeoning damage and isn't pushed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 150*

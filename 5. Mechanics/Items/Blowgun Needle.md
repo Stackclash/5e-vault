@@ -8,6 +8,7 @@ tags:
 aliases:
   - Blowgun Needle
 cost: 2
+weight: 0.02
 ---
 # Blowgun Needle
 *Ammunition*  

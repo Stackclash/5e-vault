@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Medium
 tags:
@@ -13,10 +13,10 @@ tags:
 aliases:
   - Living Shade
 ---
-# [[5. Mechanics/Bestiary/Fey/Living Shade (KPDM).md|Living Shade]]
+# [[5. Mechanics\Bestiary\Fey\Living Shade (KPDM).md|Living Shade]]
 *Source: Deep Magic p. 299*
 
-One of the rarer and more bizarre options for a familiar is the living shade, a fey creature often confused with undead creatures such as the [[5. Mechanics/Bestiary/Undead/Shadow.md|shadow]]. [[5. Mechanics/Classes/Wizard School Of Illusion.md|Illusionists]], [[5. Mechanics/Classes/Wizard.md|wizards]] who specialize in shadow, and [[5. Mechanics/Classes/Warlock The Archfey.md|Pact of the Archfey]] [[5. Mechanics/Classes/Warlock.md|warlocks]] are the most common masters of these creatures. Obtaining a living shade by casting the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] spell requires an additional material component: 50 gp worth of powdered jet.
+One of the rarer and more bizarre options for a familiar is the living shade, a fey creature often confused with undead creatures such as the [[5. Mechanics/Bestiary/Undead/Shadow.md|shadow]]. [[5. Mechanics/Classes/Wizard.md|Illusionists]], [[5. Mechanics/Classes/Wizard.md|wizards]] who specialize in shadow, and [[5. Mechanics/Classes/Warlock.md|Pact of the Archfey]] [[5. Mechanics/Classes/Warlock.md|warlocks]] are the most common masters of these creatures. Obtaining a living shade by casting the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] spell requires an additional material component: 50 gp worth of powdered jet.
 
 ## Familiar
 
@@ -30,16 +30,18 @@ If a living shade agrees to serve another creature as a familiar, it forms a tel
 "ac": !!int "12"
 "hp": !!int "18"
 "hit_dice": "4d8"
+"modifier": !!int "2"
 "stats":
-- !!int "6"
-- !!int "14"
-- !!int "10"
-- !!int "9"
-- !!int "10"
-- !!int "12"
+  - !!int "6"
+  - !!int "14"
+  - !!int "10"
+  - !!int "9"
+  - !!int "10"
+  - !!int "12"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+6"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
@@ -53,22 +55,22 @@ If a living shade agrees to serve another creature as a familiar, it forms a tel
 "languages": "understands Common but can't speak"
 "cr": "1/4"
 "traits":
-- "desc": "The living shade can move through a space as narrow as 1 inch wide without\
-    \ squeezing."
-  "name": "Amorphous"
-- "desc": "While in dim light or darkness, the living shade can take the Hide action\
-    \ as a bonus action."
-  "name": "Shadow Stealth"
-- "desc": "While in sunlight, the living shade has disadvantage on attack rolls, as\
-    \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
-    \ that rely on sight."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The living shade can move through a space as narrow as 1 inch wide without\
+      \ squeezing."
+    "name": "Amorphous"
+  - "desc": "While in dim light or darkness, the living shade can take the Hide action\
+      \ as a bonus action."
+    "name": "Shadow Stealth"
+  - "desc": "While in sunlight, the living shade has disadvantage on attack rolls,\
+      \ as well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on sight."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
-    \ cold damage."
-  "name": "Shadow Touch"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+      \ cold damage."
+    "name": "Shadow Touch"
 "source":
-- "KPDM"
+  - "KPDM"
 ```
 ^statblock
 

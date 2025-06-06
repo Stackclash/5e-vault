@@ -6,6 +6,12 @@ tags:
   - deity/dwarven
   - domain/grave
   - domain/knowledge
+alignment: Neutral
+category: The Mordinsamman
+domains: 'Grave, Knowledge'
+pantheon: Dwarven
+province: Buried secrets
+symbol: Gemstone in a mountain
 aliases:
   - Dumathoin
 ---

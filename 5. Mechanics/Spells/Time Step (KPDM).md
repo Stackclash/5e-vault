@@ -11,25 +11,33 @@ tags:
   - spell/level/2nd-level
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 school: Conjuration
-time: 1 action
+level: 2
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: V
+components:
+  - V
 aliases:
   - Time Step
 ---
 # Time Step
 *2nd-level, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** Instantaneous
 
 You briefly step forward in time. You disappear from your location and reappear at the start of your next turn in a location of your choice that you can see within 30 feet of the space you disappeared from. You can't be affected by anything that happens during the time you're missing, and you aren't aware of anything that happens during that time.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 262*

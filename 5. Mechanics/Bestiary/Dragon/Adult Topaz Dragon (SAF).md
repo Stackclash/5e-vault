@@ -13,7 +13,7 @@ tags:
 aliases:
   - Adult Topaz Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Topaz Dragon (SAF).md|Adult Topaz Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Adult Topaz Dragon (SAF).md|Adult Topaz Dragon]]
 *Source: Strongholds and Followers p. 218*
 
 The youngest species, the most enthusiastic about the world, the one you're most likely to meet, topaz dragons study magic obsessively, and their older kin consider this juvenile. When you're older you'll realize magic is just ambient interference from overlapping manifolds constrained by oblique functions. Well, poo on that, look, I made a fireball!
@@ -33,24 +33,29 @@ They're approachable and easy to talk to as long as you don't mind never getting
 "ac_class": "natural armor"
 "hp": !!int "104"
 "hit_dice": "16d12 + 0"
+"modifier": !!int "5"
 "stats":
-- !!int "18"
-- !!int "21"
-- !!int "10"
-- !!int "18"
-- !!int "15"
-- !!int "18"
+  - !!int "18"
+  - !!int "21"
+  - !!int "10"
+  - !!int "18"
+  - !!int "15"
+  - !!int "18"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  "Charisma": !!int "9"
-  "Dexterity": !!int "10"
-  "Wisdom": !!int "7"
-  "Intelligence": !!int "9"
+  - "dexterity": "+10"
+  - "intelligence": "+9"
+  - "wisdom": "+7"
+  - "charisma": "+9"
 "skillsaves":
-  "Religion": !!int "9"
-  "Insight": !!int "7"
-  "Perception": !!int "7"
-  "Arcana": !!int "9"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+9"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
+    "desc": "+9"
 "damage_vulnerabilities": "psychic"
 "damage_resistances": "bludgeoning, slashing, piercing from nonmagical weapons"
 "damage_immunities": "fire, lightning"
@@ -58,38 +63,38 @@ They're approachable and easy to talk to as long as you don't mind never getting
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "14"
 "traits":
-- "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Gemstone Dragon Psionics]].\
-    \ Charges: 16 • Recharge: 1d8 • Fracture: 13"
-  "name": ""
-- "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
-- "desc": "All allies within 30 feet gain +4 on Intelligence checks and saving throws."
-  "name": "Uplift Aura"
+  - "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].\
+      \ Charges: 16 • Recharge: d8 • Fracture: 13"
+    "name": ""
+  - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (3/Day)"
+  - "desc": "All allies within 30 feet gain +4 on Intelligence checks and saving throws."
+    "name": "Uplift Aura"
 "actions":
-- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 15 (2d10\
-    \ + 4) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 11 (2d6\
-    \ + 4) slashing damage."
-  "name": "Claw"
-- "desc": "Melee Weapon Attack: +9 to hit; reach 15 ft., one target. Hit: 13 (2d8\
-    \ + 4) bludgeoning damage."
-  "name": "Tail"
+  - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 15\
+      \ (2d10 + 4) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 11\
+      \ (2d6 + 4) slashing damage."
+    "name": "Claw"
+  - "desc": "Melee Weapon Attack: +9 to hit; reach 15 ft., one target. Hit: 13\
+      \ (2d8 + 4) bludgeoning damage."
+    "name": "Tail"
 "legendary_actions":
-- "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ Check."
-  "name": "Detect"
-- "desc": "The dragon uses a [[5. Mechanics/Lists/List Optfeaturetype Psi Man.md|psionic ability]]."
-  "name": "Psionics"
-- "desc": "The dragon releases a wave of telekinetic energy from its mind. Every creature\
-    \ within 15 feet must make a DC 24 Intelligence saving throw or take 11 (2d6 +\
-    \ 4) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
-    \ The dragon then can move up to half its movement speed."
-  "name": "Psionic Shift (Costs 2 Actions)"
+  - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ Check."
+    "name": "Detect"
+  - "desc": "The dragon uses a [[5. Mechanics/Lists/List Optfeaturetype Psi Man.md|psionic ability]]."
+    "name": "Psionics"
+  - "desc": "The dragon releases a wave of telekinetic energy from its mind. Every\
+      \ creature within 15 feet must make a DC 24 Intelligence saving throw or take\
+      \ 11 (2d6 + 4) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+      \ The dragon then can move up to half its movement speed."
+    "name": "Psionic Shift (Costs 2 Actions)"
 "source":
-- "SaF"
+  - "SaF"
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large%20Topaz%20Dragon.png"
 ```
 ^statblock

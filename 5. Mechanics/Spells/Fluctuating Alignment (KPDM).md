@@ -10,24 +10,33 @@ tags:
   - spell/school/enchantment
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Enchantment
-time: 1 action
-duration: 'Concentration, up to 10 minute'
-components: 'V, S'
+level: 4
+ritual: false
+time: 1 Action
+duration: up to 10 minutes
+components:
+  - V
+  - S
 aliases:
   - Fluctuating Alignment
+concentration: true
 ---
 # Fluctuating Alignment
 *4th-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
 - **Components:** V, S
-- **Duration:** Concentration, up to 10 minute
+- **Duration:** Concentration, up to 10 minutes
 
-You channel the force of chaos to taint your target's mind. A target that gets a failure on a Wisdom saving throw must roll `dice:1d20|noform|avg` (``) and consult the Alignment Fluctuation table to find its new alignment, and it must roll again after every minute of the spell's duration. The target's alignment stops fluctuating and returns to normal when the spell ends. These changes do not make the affected creature friendly or hostile toward the caster, but they can cause creatures to behave in unpredictable ways.
+You channel the force of chaos to taint your target's mind. A target that gets a failure on a Wisdom saving throw must roll `dice:1d20|noform|noparens|avg` (`d20`) and consult the Alignment Fluctuation table to find its new alignment, and it must roll again after every minute of the spell's duration. The target's alignment stops fluctuating and returns to normal when the spell ends. These changes do not make the affected creature friendly or hostile toward the caster, but they can cause creatures to behave in unpredictable ways.
 
 **Alignment Fluctuation**
 
@@ -46,6 +55,6 @@ You channel the force of chaos to taint your target's mind. A target that gets a
 | 19-20 | Neutral |
 ^alignment-fluctuation
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Deep Magic p. 184*

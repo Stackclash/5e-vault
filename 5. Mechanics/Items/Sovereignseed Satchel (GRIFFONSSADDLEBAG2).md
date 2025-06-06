@@ -13,7 +13,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Sovereignseed-Satchel.webp#right)  
 
 
-This unassuming leather satchel is embroidered with a floral pattern and is connected to a strange garden on a special demiplane. The garden produces 4 magical seeds daily at dawn, which automatically appear at the bottom of the bag each day. When you open the bag to retrieve the seeds for the first time each day, roll `dice:4d6|noform|avg` (`4d6`) and consult the table below to determine the nature of each seed. Any unused seeds turn to dust and are destroyed daily at dawn when the bag produces a new batch of seeds.
+This unassuming leather satchel is embroidered with a floral pattern and is connected to a strange garden on a special demiplane. The garden produces 4 magical seeds daily at dawn, which automatically appear at the bottom of the bag each day. When you open the bag to retrieve the seeds for the first time each day, roll `dice:4d6|noform|noparens|avg` (`4d6`) and consult the table below to determine the nature of each seed. Any unused seeds turn to dust and are destroyed daily at dawn when the bag produces a new batch of seeds.
 
 **Optional Caption**
 

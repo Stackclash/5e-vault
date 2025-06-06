@@ -20,9 +20,9 @@ The syrisquito has a glass vial at its end that holds up to one ounce of liquid.
 
 The syrisquito has 10 charges and regains all expended charges daily at dawn. While the syrisquito is within your space, you can use a bonus action to speak its command word to expend 1 of its charges and cause it to fly to a creature's space within 60 feet of you and inject the target with the entirety of the contents from the vial. If there are no contents in the vial, it siphons one ounce of the creature's blood instead. If the target is unwilling, it must succeed on a DC 15 Dexterity saving throw to avoid the syrisquito. The syrisquito then returns to your space.
 
-You choose whether the syrisquito's injection or siphoning is harmful or not each time you command it. If it's harmful, the creature takes `dice:1d6|noform|avg` (`1d6`) piercing damage from the syrisquito.
+You choose whether the syrisquito's injection or siphoning is harmful or not each time you command it. If it's harmful, the creature takes `dice:1d6|noform|noparens|avg` (`d6`) piercing damage from the syrisquito.
 
-If the syrisquito injects a living target with another creature's blood, the target takes `dice:1d10|noform|avg` (`1d10`) necrotic damage. If the syrisquito injects the target with something else, such as a potion or poison, the creature gains the effects of those contents instead.
+If the syrisquito injects a living target with another creature's blood, the target takes `dice:1d10|noform|noparens|avg` (`d10`) necrotic damage. If the syrisquito injects the target with something else, such as a potion or poison, the creature gains the effects of those contents instead.
 
 If the syrisquito holds a creature's blood for at least 1 minute, it can determine and magically share with you the following properties about that creature:
 
@@ -32,6 +32,6 @@ Any poison or disease already affecting the creature
 
 Any resistance or immunity to poison or disease it has
 
-The syrisquito is considered a magical object and is not a creature. It has AC 15, 20 hit points, and resistance to all damage. If the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on the syrisquito while it has at least 1 hit point, it regains `dice:2d6|noform|avg` (`2d6`) hit points. If the syrisquito drops to 0 hit points, it can't be used again for 24 hours, at which point it regains all its hit points.
+The syrisquito is considered a magical object and is not a creature. It has AC 15, 20 hit points, and resistance to all damage. If the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on the syrisquito while it has at least 1 hit point, it regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points. If the syrisquito drops to 0 hit points, it can't be used again for 24 hours, at which point it regains all its hit points.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

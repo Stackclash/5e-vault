@@ -8,6 +8,7 @@ tags:
 aliases:
   - Bit and bridle
 cost: 200
+weight: 1
 ---
 # Bit and bridle
 *Tack and harness*  

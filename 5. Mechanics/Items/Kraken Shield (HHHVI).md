@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kraken Shield
 armorClass: 2
+weight: 6
 ---
 # Kraken Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), legendary (requires attunement)*  

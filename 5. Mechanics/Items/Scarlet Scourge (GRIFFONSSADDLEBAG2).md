@@ -10,13 +10,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Scarlet Scourge
-one-hand-damage: 1d4 S
+one-hand-damage: 1d4 slashing
+weight: 3
 ---
 # Scarlet Scourge
 *Weapon ([[5. Mechanics/Items/Whip.md\|whip]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Scarlet-Scourge.webp#right)  
 
-- **Damage**: 1d4 S
+- **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
 

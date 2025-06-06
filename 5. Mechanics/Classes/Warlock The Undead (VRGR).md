@@ -8,7 +8,7 @@ aliases:
   - The Undead
 ---
 # The Undead
-*[[Warlock.md\|Warlock]]: Otherworldly Patron*  
+*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Van Richten's Guide to Ravenloft p. 30*  
 
 > [!tldr] Class and Feature Progression
@@ -18,20 +18,20 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#The%20Undead%20(Level%201)'>The Undead</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#The Undead (Level 1)' class='internal-link'>The Undead</a></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Grave%20Touched%20(Level%206)'>Grave Touched</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Grave Touched (Level 6)' class='internal-link'>Grave Touched</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Necrotic%20Husk%20(Level%2010)'>Necrotic Husk</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Necrotic Husk (Level 10)' class='internal-link'>Necrotic Husk</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Spirit%20Projection%20(Level%2014)'>Spirit Projection</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Spirit Projection (Level 14)' class='internal-link'>Spirit Projection</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -74,7 +75,7 @@ The Undead lets you choose from an expanded list of spells when you learn a warl
 
 You manifest an aspect of your patron's dreadful power. As a bonus action, you transform for 1 minute. You gain the following benefits while transformed:
 
-- You gain temporary hit points equal to `dice:1d10|noform|avg` (`1d10`) + your warlock level.  
+- You gain temporary hit points equal to `dice:1d10|noform|noparens|avg` (`d10`) + your warlock level.  
 - Once during each of your turns, when you hit a creature with an attack roll, you can force it to make a Wisdom saving throw, and if the saving throw fails, the target is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you until the end of your next turn.  
 - You are immune to the [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] condition.  
 
@@ -96,7 +97,7 @@ In addition, once during each of your turns, when you hit a creature with an att
 
 Your connection to undeath and necrotic energy now saturates your body. You have resistance to necrotic damage. If you are transformed using your Form of Dread, you instead become immune to necrotic damage.
 
-In addition, when you would be reduced to 0 hit points, you can use your reaction to drop to 1 hit point instead and cause your body to erupt with deathly energy. Each creature of your choice that is within 30 feet of you takes necrotic damage equal to `dice:2d10|noform|avg` (`2d10`) + your warlock level. You then gain 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]. Once you use this reaction, you can't do so again until you finish `dice:1d4|noform|avg` (`1d4`) long rests.
+In addition, when you would be reduced to 0 hit points, you can use your reaction to drop to 1 hit point instead and cause your body to erupt with deathly energy. Each creature of your choice that is within 30 feet of you takes necrotic damage equal to `dice:2d10|noform|noparens|avg` (`2d10`) + your warlock level. You then gain 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]. Once you use this reaction, you can't do so again until you finish `dice:1d4|noform|noparens|avg` (`d4`) long rests.
 
 ### Spirit Projection (Level 14)
 
@@ -110,7 +111,7 @@ While projecting your spirit, you gain the following benefits:
 
 - Your spirit and body gain resistance to bludgeoning, piercing, and slashing damage.  
 - When you cast a spell of the conjuration or necromancy school, the spell doesn't require verbal or somatic components or material components that lack a gold cost.  
-- You have a flying speed equal to your walking speed and can hover. You can move through creatures and objects as if they were difficult terrain, but you take `dice:1d10|noform|avg` (`1d10`) force damage if you end your turn inside a creature or an object.  
+- You have a flying speed equal to your walking speed and can hover. You can move through creatures and objects as if they were difficult terrain, but you take `dice:1d10|noform|noparens|avg` (`d10`) force damage if you end your turn inside a creature or an object.  
 - While you are using your Form of Dread, once during each of your turns when you deal necrotic damage to a creature, you regain hit points equal to half the amount of necrotic damage dealt.  
 
 Once you use this feature, you can't do so again until you finish a long rest.

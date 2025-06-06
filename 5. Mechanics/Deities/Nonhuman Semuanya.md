@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/nonhuman
   - domain/life
+alignment: Neutral
+domains: Life
+pantheon: Nonhuman
+symbol: Egg
 aliases:
   - Semuanya
 ---

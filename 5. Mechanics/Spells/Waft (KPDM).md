@@ -7,25 +7,32 @@ tags:
   - spell/class/sorcerer
   - spell/level/1st-level
   - spell/school/transmutation
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Sorcerer
 school: Transmutation
-time: 1 action
+level: 1
+ritual: false
+time: 1 Action
 duration: 1 round
-components: 'V, S, a topaz worth at least 10 gp'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Waft
+material: a topaz worth at least 10 gp
 ---
 # Waft
 *1st-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
-- **Components:** V, S, a topaz worth at least 10 gp
+- **Components:** V, S, M (a topaz worth at least 10 gp)
 - **Duration:** 1 round
 
 This spell was first invented by dragon parents to assist their offspring when learning to fly. You gain a flying speed of 60 feet for 1 round. At the start of your next turn, you float rapidly down and land gently on a solid surface beneath you.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 205*

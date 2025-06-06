@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/dragonlance
   - domain/death
+alignment: Neutral Evil
+category: The Gods of Evil
+domains: Death
+pantheon: Dragonlance
+symbol: Hood with two red eyes
 aliases:
   - Morgion
 ---

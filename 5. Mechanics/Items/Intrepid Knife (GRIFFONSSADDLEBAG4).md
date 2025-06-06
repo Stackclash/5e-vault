@@ -9,14 +9,15 @@ tags:
   - item/weapon/simple
 aliases:
   - Intrepid Knife
-one-hand-damage: 1d4 P
-range: 20/60
+one-hand-damage: 1d4 piercing
+range: 20\60
+weight: 1
 ---
 # Intrepid Knife
 *Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), common (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Intrepid-Knife.webp#right)  
 
-- **Damage**: 1d4 P
+- **Damage**: 1d4 piercing
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.

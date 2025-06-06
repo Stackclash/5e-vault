@@ -8,22 +8,28 @@ tags:
   - spell/class/paladin
   - spell/level/5th-level
   - spell/school/abjuration
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Paladin
 school: Abjuration
-time: 1 action
-duration: 10 minute
-components: 'V, S'
+level: 5
+ritual: false
+time: 1 Action
+duration: 10 minutes
+components:
+  - V
+  - S
 aliases:
   - Surprise Blessing
 ---
 # Surprise Blessing
 *5th-level, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
-- **Duration:** 10 minute
+- **Duration:** 10 minutes
 
 You touch a willing creature and choose one of the conditions listed below that the creature is currently subjected to. The condition's normal effect on the target is suspended, and the indicated effect applies instead. This spell's effect on the target lasts for the duration of
 
@@ -39,10 +45,10 @@ the original condition or until the spell ends. If this spell ends before the or
 
 **Petrified**: The target gains a +2 bonus to AC.
 
-**Poisoned**: The target heals `dice:2d6|noform|avg` (`2d6`) hit points at the start of its next turn, and it gains immunity to poison damage and the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition.
+**Poisoned**: The target heals `dice:2d6|noform|noparens|avg` (`2d6`) hit points at the start of its next turn, and it gains immunity to poison damage and the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition.
 
 **Stunned**: The target has advantage on Intelligence, Wisdom, and Charisma saving throws.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 111*

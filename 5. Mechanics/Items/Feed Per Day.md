@@ -8,6 +8,7 @@ tags:
 aliases:
   - Feed (per day)
 cost: 5
+weight: 10
 ---
 # Feed (per day)
 *Tack and harness*  

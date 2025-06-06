@@ -13,7 +13,7 @@ tags:
 aliases:
   - Air Elemental Myrmidon
 ---
-# [[5. Mechanics/Bestiary/Elemental/Air Elemental Myrmidon (MPMM).md|Air Elemental Myrmidon]]
+# [[5. Mechanics\Bestiary\Elemental\Air Elemental Myrmidon (MPMM).md|Air Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*
 
 ## Elemental Myrmidons
@@ -29,13 +29,14 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate]]"
 "hp": !!int "117"
 "hit_dice": "18d8 + 36"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "14"
-- !!int "14"
-- !!int "9"
-- !!int "10"
-- !!int "10"
+  - !!int "18"
+  - !!int "14"
+  - !!int "14"
+  - !!int "9"
+  - !!int "10"
+  - !!int "10"
 "speed": "30 ft., fly 30 ft. (hover)"
 "damage_resistances": "lightning; thunder; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
@@ -46,19 +47,19 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "languages": "Auran, one language of its creator's choice"
 "cr": "7"
 "actions":
-- "desc": "The myrmidon makes three Flail attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
-    \ + 4) force damage."
-  "name": "Flail"
-- "desc": "The myrmidon makes one Flail attack. On a hit, the target takes an extra\
-    \ 18 (4d8) lightning damage, and the target must succeed on a DC 13 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] until\
-    \ the end of the myrmidon's next turn."
-  "name": "Lightning Strike (Recharge 6)"
+  - "desc": "The myrmidon makes three Flail attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+      \ + 4) force damage."
+    "name": "Flail"
+  - "desc": "The myrmidon makes one Flail attack. On a hit, the target takes an extra\
+      \ 18 (4d8) lightning damage, and the target must succeed on a DC 13 Constitution\
+      \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] until\
+      \ the end of the myrmidon's next turn."
+    "name": "Lightning Strike (Recharge 6)"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Elemental/token/air-elemental-myrmidon-mpmm.webp"
 ```
 ^statblock

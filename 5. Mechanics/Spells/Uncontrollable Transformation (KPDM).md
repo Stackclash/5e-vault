@@ -9,24 +9,32 @@ tags:
   - spell/level/7th-level
   - spell/ritual
   - spell/school/transmutation
-level: 7th-level
-range: true
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 school: Transmutation
-time: 1 action
+level: 7
+ritual: true
+time: 1 Action
 duration: 1 hour
-components: 'V, S, the bill of a platypus'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Uncontrollable Transformation
+material: the bill of a platypus
 ---
 # Uncontrollable Transformation
 *7th-level, Transmutation (ritual)*  
 
-- **Casting time:** 1 action unless cast as a ritual
+- **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Self
-- **Components:** V, S, the bill of a platypus
+- **Components:** V, S, M (the bill of a platypus)
 - **Duration:** 1 hour
 
-You infuse your body with raw chaos and will it to adopt a helpful mutation. Roll a `dice:d10|noform|avg` (`d10`) and consult the Uncontrollable Transformation table below to determine what mutation occurs. You can try to control the shifting of your body to gain a mutation you prefer, but doing so is taxing; you can roll a `dice:d10|noform|avg` (`d10`) twice and choose the result you prefer, but you gain one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]. At the end of the spell, your body returns to its normal form.
+You infuse your body with raw chaos and will it to adopt a helpful mutation. Roll a `dice:d10|noform|noparens|avg` (`d10`) and consult the Uncontrollable Transformation table below to determine what mutation occurs. You can try to control the shifting of your body to gain a mutation you prefer, but doing so is taxing; you can roll a `dice:d10|noform|noparens|avg` (`d10`) twice and choose the result you prefer, but you gain one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]. At the end of the spell, your body returns to its normal form.
 
 **Uncontrollable Transformation**
 
@@ -40,14 +48,14 @@ You infuse your body with raw chaos and will it to adopt a helpful mutation. Rol
 | 4 | A second face appears on the back of your head. You gain [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to a range of 120 feet and advantage on sight-based and scent-based Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks. You become adept at carrying on conversations with yourself. |
 | 5 | You grow gills that not only allow you to breathe underwater but also filter poison out of the air. You gain immunity to inhaled poisons. |
 | 6 | Your hindquarters elongate, and you grow a second set of legs. Your base walking speed increases by 10 feet, and your carrying capacity becomes your Strength score multiplied by 20. |
-| 7 | You become incorporeal and can move through other creatures and objects as if they were difficult terrain. You take `dice:1d10\|noform\|avg` (`1d10`) force damage if you end your turn inside an object. You can't pick up or interact with physical objects that you weren't carrying when you became incorporeal. |
-| 8 | Your limbs elongate and flatten into prehensile paddles. You gain a swimming speed equal to your base walking speed and have advantage on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) checks made to climb or swim. In addition, your unarmed strikes deal `dice:1d6\|noform\|avg` (`1d6`) bludgeoning damage. |
+| 7 | You become incorporeal and can move through other creatures and objects as if they were difficult terrain. You take `dice:1d10\|noform\|noparens\|avg` (`d10`) force damage if you end your turn inside an object. You can't pick up or interact with physical objects that you weren't carrying when you became incorporeal. |
+| 8 | Your limbs elongate and flatten into prehensile paddles. You gain a swimming speed equal to your base walking speed and have advantage on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) checks made to climb or swim. In addition, your unarmed strikes deal `dice:1d6\|noform\|noparens\|avg` (`d6`) bludgeoning damage. |
 | 9 | Your head fills with a light gas and swells to four times its normal size, causing your hair to fall out. You have advantage on Intelligence and Wisdom ability checks and can levitate up to 5 feet above the ground. |
 | 10 | You grow three sets of feathered wings that give you a flying speed equal to your walking speed and the ability to hover. |
 ^uncontrollable-transformation
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, you gain an additional mutation for each slot level above 7th. You gain one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] for each mutation you try to control the outcome of.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 187*

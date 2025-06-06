@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/dmg
 aliases:
-  - 'Downtime Activity: Gaining Renown'
+  - Downtime Activity: Gaining Renown
 ---
 # Downtime Activity: Gaining Renown
 *Source: Dungeon Master's Guide p. 129* 

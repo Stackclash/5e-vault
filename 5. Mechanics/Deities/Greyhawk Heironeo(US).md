@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greyhawk
   - domain/war
+alignment: Lawful Good
+domains: War
+pantheon: Greyhawk
+symbol: Lightning bolt
 aliases:
   - Heironeous
 ---

@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/cos
 aliases:
-  - 'Appendix A: Character Options'
+  - Appendix A: Character Options
 ---
 # Appendix A: Character Options
 *Source: Curse of Strahd, p. 209* 

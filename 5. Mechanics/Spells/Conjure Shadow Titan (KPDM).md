@@ -9,14 +9,22 @@ tags:
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/conjuration
-level: 7th-level
-range: false
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Conjuration
+level: 7
+ritual: false
 time: 1 minute
-duration: 'Concentration, up to 1 hour'
-components: 'V, S'
+duration: up to 1 hour
+components:
+  - V
+  - S
 aliases:
   - Conjure Shadow Titan
+concentration: true
 ---
 # Conjure Shadow Titan
 *7th-level, Conjuration*  
@@ -32,6 +40,6 @@ The shadow titan is friendly to you and your companions. Roll initiative for the
 
 The shadow titan disappears when it drops to 0 hit points or when the spell ends.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 248*

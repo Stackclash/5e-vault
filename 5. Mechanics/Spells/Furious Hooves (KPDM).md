@@ -11,25 +11,37 @@ tags:
   - spell/level/2nd-level
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S, a nail'
+level: 2
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
+  - M
 aliases:
   - Furious Hooves
+concentration: true
+material: a nail
 ---
 # Furious Hooves
 *2nd-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, a nail
+- **Components:** V, S, M (a nail)
 - **Duration:** Concentration, up to 1 minute
 
-You enhance the feet or hooves of a creature you touch, imbuing it with power and swiftness. The target doubles its walking speed or increases it by 30 feet, whichever addition is smaller. In addition to any attacks the creature can normally make, this spell grants two hoof attacks, each of which deals bludgeoning damage equal to `dice:1d6|noform|avg` (`1d6`) + plus the target's Strength modifier (or `dice:1d8|noform|avg` (`1d8`) if the target of the spell is Large). For the duration of the spell, the affected creature automatically deals this bludgeoning damage to the target of its successful shove attack.
+You enhance the feet or hooves of a creature you touch, imbuing it with power and swiftness. The target doubles its walking speed or increases it by 30 feet, whichever addition is smaller. In addition to any attacks the creature can normally make, this spell grants two hoof attacks, each of which deals bludgeoning damage equal to `dice:1d6|noform|noparens|avg` (`d6`) + plus the target's Strength modifier (or `dice:1d8|noform|noparens|avg` (`d8`) if the target of the spell is Large). For the duration of the spell, the affected creature automatically deals this bludgeoning damage to the target of its successful shove attack.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 74*

@@ -17,28 +17,29 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Sidekick%20Class%20(Level%201)'>Sidekick Class</a>, <a href='#Bonus%20Proficiencies%20(Level%201)'>Bonus Proficiencies</a>, <a href='#Martial%20Role%20(Level%201)'>Martial Role</a></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Second%20Wind%20(Level%202)'>Second Wind</a></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Improved%20Critical%20(Level%203)'>Improved Critical</a></td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Sidekick Class (Level 1)' class='internal-link'>Sidekick Class</a>, <a href='#Bonus Proficiencies (Level 1)' class='internal-link'>Bonus Proficiencies</a>, <a href='#Martial Role (Level 1)' class='internal-link'>Martial Role</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Second Wind (Level 2)' class='internal-link'>Second Wind</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Improved Critical (Level 3)' class='internal-link'>Improved Critical</a></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Extra%20Attack%20(Level%206)'>Extra Attack</a></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Battle%20Readiness%20(Level%207)'>Battle Readiness</a></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Extra Attack (Level 6)' class='internal-link'>Extra Attack</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Battle Readiness (Level 7)' class='internal-link'>Battle Readiness</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Improved%20Defense%20(Level%2010)'>Improved Defense</a></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Indomitable%20(Level%2011)'>Indomitable</a></td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Improved Defense (Level 10)' class='internal-link'>Improved Defense</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Indomitable (Level 11)' class='internal-link'>Indomitable</a></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2014)'>Ability Score Improvement</a></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Extra%20Attack%20Improvement%20(Level%2015)'>Extra Attack Improvement</a></td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 14)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Extra Attack Improvement (Level 15)' class='internal-link'>Extra Attack Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Indomitable%20Improvement%20(Level%2018)'>Indomitable Improvement</a></td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2019)'>Ability Score Improvement</a></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Second%20Wind%20Improvement%20(Level%2020)'>Second Wind Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Indomitable Improvement (Level 18)' class='internal-link'>Indomitable Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Second Wind Improvement (Level 20)' class='internal-link'>Second Wind Improvement</a></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 ## Hit Points
 
@@ -49,8 +50,8 @@ aliases:
 ## Starting Warrior Sidekick
 
 - **Saving Throws**: One saving throw of your choice: Strength, Dexterity, or Constitution.
-- **Armor**: All armor; and shields if [humanoid](Bonus%20Progression%20(Level%201))
-- **Weapons**: All simple and martial weapons if [humanoid](Bonus%20Progression%20(Level%201))
+- **Armor**: All armor; and shields if [humanoid](#Bonus%20Proficiencies%20(Level%201))
+- **Weapons**: All simple and martial weapons if [humanoid](#Bonus%20Proficiencies%20(Level%201))
 - **Tools**: none
 - **Skills**: Two skills of your choice from the following list: [[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]], [[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]], [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]], [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]], [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]], and [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]].
 
@@ -89,7 +90,7 @@ Each warrior focuses on offense or defense in their training. Choose one of the 
 
 *2nd-level Warrior feature*
 
-The sidekick can use a bonus action on its turn to regain hit points equal to `dice:1d10|noform|avg` (`1d10`) + its level in this class. Once it uses this feature, it must finish a short or long rest before it can use it again.
+The sidekick can use a bonus action on its turn to regain hit points equal to `dice:1d10|noform|noparens|avg` (`d10`) + its level in this class. Once it uses this feature, it must finish a short or long rest before it can use it again.
 
 The sidekick can use this feature twice between rests starting at 20th level.
 
@@ -97,7 +98,7 @@ The sidekick can use this feature twice between rests starting at 20th level.
 
 *3rd-level Warrior feature*
 
-The sidekick's attack rolls score a critical hit on a roll of 19 or 20 on the `dice:d20|noform|avg` (`d20`).
+The sidekick's attack rolls score a critical hit on a roll of 19 or 20 on the `dice:d20|noform|noparens|avg` (`d20`).
 
 ### Ability Score Improvement (Level 4)
 

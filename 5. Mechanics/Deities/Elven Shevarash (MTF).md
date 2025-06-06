@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/elven
   - domain/war
+alignment: Chaotic Neutral
+category: The Seldarine
+domains: War
+pantheon: Elven
+province: 'Vengeance, loss, hatred'
+symbol: Broken arrow over a tear
 aliases:
   - Shevarash
 ---

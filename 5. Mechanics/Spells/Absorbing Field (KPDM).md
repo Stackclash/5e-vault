@@ -8,19 +8,26 @@ tags:
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/abjuration
-level: 6th-level
-range: false
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 school: Abjuration
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 6
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Absorbing Field
+concentration: true
 ---
 # Absorbing Field
 *6th-level, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -29,6 +36,6 @@ You cloak yourself in a protective field that absorbs incoming magic, rejuvenati
 
 Even if the spell manages to bypass the field, you gain advantage on your saving throw against the spell, if you need to do one.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 34*

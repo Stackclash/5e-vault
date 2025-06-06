@@ -9,21 +9,30 @@ tags:
   - spell/level/3rd-level
   - spell/ritual
   - spell/school/evocation
-level: 3rd-level
-range: true
+classes:
+  - Bard
+  - Cleric
+  - Paladin
 school: Evocation
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S, a vial of holy water, which is consumed'
+level: 3
+ritual: true
+time: 1 Action
+duration: up to 1 hour
+components:
+  - V
+  - S
+  - M
 aliases:
   - Invested Champion
+concentration: true
+material: 'a vial of holy water, which is consumed'
 ---
 # Invested Champion
 *3rd-level, Evocation (ritual)*  
 
-- **Casting time:** 1 action unless cast as a ritual
+- **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Touch
-- **Components:** V, S, a vial of holy water, which is consumed
+- **Components:** V, S, M (a vial of holy water, which is consumed)
 - **Duration:** Concentration, up to 1 hour
 
 You touch one creature and choose either to become its champion, or for it to become yours. If you choose a creature to become your champion, it fights on your behalf. While this spell is in effect, you can cast any spell with a range of touch on your champion as if the spell had a range of 60 feet. Your champion's attacks are considered magical, and you can use a bonus action on your turn to encourage your champion, granting it advantage on its next attack roll.
@@ -32,6 +41,6 @@ If you become the champion of another creature, you gain advantage on all attack
 
 Whichever version of the spell is cast, if the distance between the champion and its designated ally increases to more than 60 feet, the spell ends.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 86*

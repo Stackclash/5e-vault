@@ -15,7 +15,7 @@ tags:
 aliases:
   - Shadar-kai Soul Monger
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Shadar Kai Soul Monger (MPMM).md|Shadar-kai Soul Monger]]
+# [[5. Mechanics\Bestiary\Humanoid\Shadar Kai Soul Monger (MPMM).md|Shadar-kai Soul Monger]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 214, Mordenkainen's Tome of Foes p. 226*
 
 Wracked with despair over the loss of memories of a brighter time, soul mongers crave the vitality of others. The aching void within a soul monger radiates outward, manifesting as an unbearable weight that drains the vigor of anyone unfortunate enough to be in their presence. Those who have escaped the onslaught of a soul monger can hardly shake the memory of the sound they make—the moan of a tortured soul, lost in a bottomless well of tragedy.
@@ -46,20 +46,22 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "136"
 "hit_dice": "21d8 + 42"
+"modifier": !!int "3"
 "stats":
-- !!int "8"
-- !!int "17"
-- !!int "14"
-- !!int "19"
-- !!int "16"
-- !!int "13"
+  - !!int "8"
+  - !!int "17"
+  - !!int "14"
+  - !!int "19"
+  - !!int "16"
+  - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "7"
+  - "dexterity": "+7"
+  - "wisdom": "+7"
+  - "charisma": "+5"
 "skillsaves":
-  "Perception": !!int "7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+7"
 "damage_immunities": "necrotic, psychic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
@@ -67,44 +69,44 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "languages": "Common, Elvish"
 "cr": "11"
 "traits":
-- "desc": "The shadar-kai casts one of the following spells, requiring no material\
-    \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 16):\n\n1/day each: [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Finger Of Death.md|finger\
-    \ of death]], [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
-    \ [[5. Mechanics/Spells/Seeming.md|seeming]]"
-  "name": "Spellcasting"
-- "desc": "The shadar-kai has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
-    \ and magic can't put it to sleep."
-  "name": "Fey Ancestry"
-- "desc": "The shadar-kai has advantage on saving throws against spells and other\
-    \ magical effects."
-  "name": "Magic Resistance"
-- "desc": "When it reduces a creature to 0 hit points, the shadar-kai can gain temporary\
-    \ hit points equal to half the creature's hit point maximum. While the shadar-kai\
-    \ has temporary hit points from this trait, it has advantage on attack rolls."
-  "name": "Soul Thirst"
-- "desc": "Any Beast or Humanoid (except an elf) that starts its turn within 5 feet\
-    \ of the shadar-kai has its speed reduced by 20 feet until the start of that creature's\
-    \ next turn."
-  "name": "Weight of Ages"
+  - "desc": "The shadar-kai has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+      \ and magic can't put it to sleep."
+    "name": "Fey Ancestry"
+  - "desc": "The shadar-kai has advantage on saving throws against spells and other\
+      \ magical effects."
+    "name": "Magic Resistance"
+  - "desc": "When it reduces a creature to 0 hit points, the shadar-kai can gain temporary\
+      \ hit points equal to half the creature's hit point maximum. While the shadar-kai\
+      \ has temporary hit points from this trait, it has advantage on attack rolls."
+    "name": "Soul Thirst"
+  - "desc": "Any Beast or Humanoid (except an elf) that starts its turn within 5 feet\
+      \ of the shadar-kai has its speed reduced by 20 feet until the start of that\
+      \ creature's next turn."
+    "name": "Weight of Ages"
 "actions":
-- "desc": "The shadar-kai makes two Shadow Dagger attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60\
-    \ ft., one target. Hit: 13 (4d4 + 3) piercing damage plus 19 (3d12) necrotic\
-    \ damage, and the target has disadvantage on saving throws until the end of the\
-    \ shadar-kai's next turn. Hit or Miss: The dagger magically returns to the shadar-kai's\
-    \ hand immediately after a ranged attack."
-  "name": "Shadow Dagger"
-- "desc": "The shadar-kai emits weariness in a 60-foot cube. Each creature in that\
-    \ area must make a DC 16 Constitution saving throw. On a failed save, a creature\
-    \ takes 45 (10d8) psychic damage and suffers 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]].\
-    \ On a successful save, it takes half as much damage and doesn't gain a level\
-    \ of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]]."
-  "name": "Wave of Weariness (Recharge 4-6)"
+  - "desc": "The shadar-kai makes two Shadow Dagger attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. Hit: 13 (4d4 + 3) piercing damage plus 19 (3d12) necrotic\
+      \ damage, and the target has disadvantage on saving throws until the end of\
+      \ the shadar-kai's next turn. Hit or Miss: The dagger magically returns to\
+      \ the shadar-kai's hand immediately after a ranged attack."
+    "name": "Shadow Dagger"
+  - "desc": "The shadar-kai emits weariness in a 60-foot cube. Each creature in that\
+      \ area must make a DC 16 Constitution saving throw. On a failed save, a creature\
+      \ takes 45 (10d8) psychic damage and suffers 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]].\
+      \ On a successful save, it takes half as much damage and doesn't gain a level\
+      \ of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]]."
+    "name": "Wave of Weariness (Recharge 4-6)"
+  - "desc": "The shadar-kai casts one of the following spells, requiring no material\
+      \ components and using Intelligence as the spellcasting ability (spell save\
+      \ DC 16):\n\n1/day each: [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]],\
+      \ [[5. Mechanics/Spells/Finger Of Death.md|finger of death]], [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
+      \ [[5. Mechanics/Spells/Seeming.md|seeming]]"
+    "name": "Spellcasting"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Humanoid/token/shadar-kai-soul-monger-mpmm.webp"
 ```
 ^statblock

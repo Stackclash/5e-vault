@@ -7,6 +7,10 @@ tags:
   - domain/life
   - domain/light
   - domain/twilight
+alignment: Lawful Neutral
+domains: 'Life, Light, Twilight'
+pantheon: Faerûnian
+symbol: Staring eye on upright left gauntlet
 aliases:
   - Helm
   - The Watcher

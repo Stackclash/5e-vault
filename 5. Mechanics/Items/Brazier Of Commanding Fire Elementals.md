@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Brazier of Commanding Fire Elementals
+weight: 5
 ---
 # Brazier of Commanding Fire Elementals
 *Wondrous item, major, rare*  

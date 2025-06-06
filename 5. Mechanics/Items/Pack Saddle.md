@@ -8,6 +8,7 @@ tags:
 aliases:
   - Pack Saddle
 cost: 500
+weight: 15
 ---
 # Pack Saddle
 *Tack and harness*  

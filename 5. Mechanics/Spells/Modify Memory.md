@@ -14,19 +14,36 @@ tags:
   - spell/subclass/the-shapechanger
   - spell/subclass/time-domain
   - spell/subclass/trickery-domain
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Cleric (Beer Domain)
+  - Cleric (Prophecy Domain)
+  - Cleric (Time Domain)
+  - Cleric (Trickery Domain)
+  - Druid (Circle of Owls)
+  - Sorcerer (Fey Soul)
+  - Warlock (The Shapechanger)
+  - Wizard
 school: Enchantment
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S'
+level: 5
+ritual: false
+time: 1 Action
+duration: Up to 1 minute
+components:
+  - V
+  - S
 aliases:
   - Modify Memory
+range: 30 feet
+save:
+  type: WIS
+  success: none
+concentration: true
 ---
 # Modify Memory
 *5th-level, Enchantment*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -43,6 +60,6 @@ A [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] or [[5. Mechanics/Spells
 
 **At Higher Levels.** If you cast this spell using a spell slot of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level).
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Cleric Beer Domain (KPDM)\|Cleric (Beer Domain)]]; [[List Spells Classes Druid Circle Of Owls (KPDM)\|Druid (Circle of Owls)]]; [[List Spells Classes Sorcerer Fey Soul (GRIFFONSSADDLEBAG3)\|Sorcerer (Fey Soul)]]; [[List Spells Classes Cleric Prophecy Domain (KPDM)\|Cleric (Prophecy Domain)]]; [[List Spells Classes Warlock The Shapechanger (GRIFFONSSADDLEBAG4)\|Warlock (The Shapechanger)]]; [[List Spells Classes Cleric Time Domain (KPDM)\|Cleric (Time Domain)]]; [[List Spells Classes Cleric Trickery Domain\|Cleric (Trickery Domain)]]
+**Classes**: [Sorcerer (Fey Soul)](compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Time Domain)](compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [Cleric (Beer Domain)](compendium/lists/list-spells-classes-beer-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [Cleric (Prophecy Domain)](compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of Owls)](compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [Warlock (The Shapechanger)](compendium/lists/list-spells-classes-the-shapechanger-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4")
 
 *Source: Player's Handbook p. 261. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

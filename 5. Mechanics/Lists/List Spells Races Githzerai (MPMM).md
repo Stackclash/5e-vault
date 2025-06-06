@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[Mage Hand \|"PHB"]] at class level 5
+- [[5. Mechanics/Spells/Mage Hand.md \|"PHB"]] at class level 5
 
 ## 1st Level
 
-- [[Shield \|"PHB"]] at class level 5
+- [[5. Mechanics/Spells/Shield.md \|"PHB"]] at class level 5
 
 ## 2nd Level
 
-- [[Detect Thoughts \|"PHB"]] at class level 5
+- [[5. Mechanics/Spells/Detect Thoughts.md \|"PHB"]] at class level 5

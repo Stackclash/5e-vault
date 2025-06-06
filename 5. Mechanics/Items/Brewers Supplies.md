@@ -8,6 +8,7 @@ tags:
 aliases:
   - Brewer's Supplies
 cost: 2000
+weight: 9
 ---
 # Brewer's Supplies
 *Artisan's tools*  

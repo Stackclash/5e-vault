@@ -11,19 +11,27 @@ tags:
   - spell/ritual
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
-level: 2nd-level
-range: true
+classes:
+  - Bard
+  - Druid
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Wizard
 school: Transmutation
-time: 10 minute
+level: 2
+ritual: true
+time: 10 minutes
 duration: 1 hour
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Clearing the Field
 ---
 # Clearing the Field
 *2nd-level, Transmutation (ritual)*  
 
-- **Casting time:** 10 minute unless cast as a ritual
+- **Casting time:** 10 minutes unless cast as a ritual
 - **Range:** 40 feet
 - **Components:** V, S
 - **Duration:** 1 hour
@@ -43,6 +51,6 @@ If you expend your ritual focus, plant creatures in the area must make a success
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 211*

@@ -21,6 +21,6 @@ The second command word causes the cat to run toward and pounce on a target that
 
 The cat returns to its normal weight, sits up, and ceases to be animated when you speak its command word again using an action, even if you aren't holding it. Only the creature that first spoke the cat's command word to animate it can end the effect by speaking the command word again; even if another creature speaks the word, the cat does not respond to it.
 
-While animated, the cat has AC 15, 20 hit points, and resistance to all damage. If the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on the cat while it has at least 1 hit point, it regains `dice:2d6|noform|avg` (`2d6`) hit points. If the cat drops to 0 hit points, it reverts to its normal weight and can't be used again for 24 hours, at which point it regains all its hit points.
+While animated, the cat has AC 15, 20 hit points, and resistance to all damage. If the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on the cat while it has at least 1 hit point, it regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points. If the cat drops to 0 hit points, it reverts to its normal weight and can't be used again for 24 hours, at which point it regains all its hit points.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

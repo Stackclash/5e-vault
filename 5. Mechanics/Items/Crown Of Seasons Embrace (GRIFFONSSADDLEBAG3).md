@@ -16,7 +16,7 @@ aliases:
 
 This silver crown of tangled branches is dotted with tiny jewels, with a larger diamond resting at its center. While wearing the crown, you can change the shape of your ears using a bonus action. You also gain the elf's Trance racial trait if you don't already have it.
 
-The crown has 10 charges for the following properties. It regains `dice:1d8+2|noform|avg` (`1d8 + 2`) expended charges daily at dawn.
+The crown has 10 charges for the following properties. It regains `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) expended charges daily at dawn.
 
 ## Spells
 

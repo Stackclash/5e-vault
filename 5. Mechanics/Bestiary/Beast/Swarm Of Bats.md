@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'underdark, mountain, hill, urban'
 size: Medium
 tags:
@@ -17,7 +17,7 @@ tags:
 aliases:
   - Swarm of Bats
 ---
-# [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|Swarm of Bats]]
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Bats.md|Swarm of Bats]]
 *Source: Monster Manual p. 337, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 > [!note] The Nature of Swarms
@@ -33,13 +33,14 @@ aliases:
 "ac": !!int "12"
 "hp": !!int "22"
 "hit_dice": "5d8"
+"modifier": !!int "2"
 "stats":
-- !!int "5"
-- !!int "15"
-- !!int "10"
-- !!int "2"
-- !!int "12"
-- !!int "4"
+  - !!int "5"
+  - !!int "15"
+  - !!int "10"
+  - !!int "2"
+  - !!int "12"
+  - !!int "4"
 "speed": "0 ft., fly 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
@@ -50,23 +51,23 @@ aliases:
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The swarm can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]."
-  "name": "Echolocation"
-- "desc": "The swarm has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on hearing."
-  "name": "Keen Hearing"
-- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
-    \ can move through any opening large enough for a Tiny bat. The swarm can't regain\
-    \ hit points or gain temporary hit points."
-  "name": "Swarm"
+  - "desc": "The swarm can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]."
+    "name": "Echolocation"
+  - "desc": "The swarm has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ checks that rely on hearing."
+    "name": "Keen Hearing"
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through any opening large enough for a Tiny bat. The swarm\
+      \ can't regain hit points or gain temporary hit points."
+    "name": "Swarm"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's\
-    \ space. Hit: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm\
-    \ has half of its hit points or fewer."
-  "name": "Bites"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's\
+      \ space. Hit: 5 (2d4) piercing damage, or 2 (d4) piercing damage if the swarm\
+      \ has half of its hit points or fewer."
+    "name": "Bites"
 "source":
-- "MM"
-- "CoS"
+  - "MM"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Beast/token/swarm-of-bats.webp"
 ```
 ^statblock

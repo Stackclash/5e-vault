@@ -8,6 +8,7 @@ tags:
 aliases:
   - Costume Clothes
 cost: 500
+weight: 4
 ---
 # Costume Clothes
 *Adventuring gear*  

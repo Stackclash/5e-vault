@@ -6,6 +6,10 @@ tags:
   - deity/egyptian
   - domain/nature
   - domain/tempest
+alignment: Lawful Evil
+domains: 'Nature, Tempest'
+pantheon: Egyptian
+symbol: Crocodile head with horns and plumes
 aliases:
   - Sobek
 ---

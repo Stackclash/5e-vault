@@ -9,13 +9,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Eldritch Halberd
-one-hand-damage: 1d10 S
+one-hand-damage: 1d10 slashing
+weight: 6
 ---
 # Eldritch Halberd
 *Weapon ([[5. Mechanics/Items/Halberd.md\|halberd]]), cursed item, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Eldritch-Halberd.webp#right)  
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
@@ -27,6 +28,6 @@ When you use this weapon to either make an attack or cast [[5. Mechanics/Spells/
 
 ## Curse
 
-This halberd is cursed, and if you aren't a warlock, becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the halberd, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear. While you remain cursed, you can feel the watchful eye of the halberd listening to your thoughts: whenever you take psychic damage, roll a `dice:d10|noform|avg` (`d10`) and add the result to the total psychic damage taken.
+This halberd is cursed, and if you aren't a warlock, becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the halberd, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear. While you remain cursed, you can feel the watchful eye of the halberd listening to your thoughts: whenever you take psychic damage, roll a `dice:d10|noform|noparens|avg` (`d10`) and add the result to the total psychic damage taken.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*

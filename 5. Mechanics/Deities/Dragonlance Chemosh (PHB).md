@@ -5,6 +5,11 @@ tags:
   - compendium/src/5e/phb
   - deity/dragonlance
   - domain/death
+alignment: Lawful Evil
+category: The Gods of Evil
+domains: Death
+pantheon: Dragonlance
+symbol: Yellow skull
 aliases:
   - Chemosh
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Abyssal Worm
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Abyssal Worm (KPDM).md|Abyssal Worm]]
+# [[5. Mechanics\Bestiary\Monstrosity\Abyssal Worm (KPDM).md|Abyssal Worm]]
 *Source: Deep Magic p. 295*
 
 These creatures can be found in vast numbers in the lower planes, mostly providing fodder for demons and other denizens. Typically, an abyssal worm measures a foot to a foot and a half in length, its body gray in color, with mossy green and mustard yellow mottling. The worm's mouth is a round orifice ringed with sharp, needle-like teeth. The worm's skin exudes a slime that leaves a glistening trail in its path.
@@ -32,17 +32,20 @@ If an abyssal worm agrees to serve another creature as a familiar, it forms a te
 "ac": !!int "13"
 "hp": !!int "21"
 "hit_dice": "6d4 + 6"
+"modifier": !!int "3"
 "stats":
-- !!int "7"
-- !!int "16"
-- !!int "13"
-- !!int "4"
-- !!int "12"
-- !!int "7"
+  - !!int "7"
+  - !!int "16"
+  - !!int "13"
+  - !!int "4"
+  - !!int "12"
+  - !!int "7"
 "speed": "20 ft., burrow 20 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+5"
 "damage_resistances": "cold, fire, bludgeoning from nonmagical weapons"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
@@ -50,24 +53,24 @@ If an abyssal worm agrees to serve another creature as a familiar, it forms a te
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "Any creature other than an abyssal worm that starts its turn within 5 feet\
-    \ of the abyssal worm must succeed on a DC 13 Constitution saving throw or be\
-    \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] until the start of the\
-    \ creature's next turn. On a successful saving throw, the creature is immune to\
-    \ the stench of all abyssal worms for 1 hour."
-  "name": "Stench"
+  - "desc": "Any creature other than an abyssal worm that starts its turn within 5\
+      \ feet of the abyssal worm must succeed on a DC 13 Constitution saving throw\
+      \ or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] until the start\
+      \ of the creature's next turn. On a successful saving throw, the creature is\
+      \ immune to the stench of all abyssal worms for 1 hour."
+    "name": "Stench"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, 5 ft. reach, one target. Hit: 5 (1d4\
-    \ + 3) piercing damage plus 1 poison damage, and the abyssal worm attaches to\
-    \ the target. While attached, the abyssal worm doesn't attack. Instead, at the\
-    \ start of the abyssal worm's turn, the target loses 5 (1d4 + 3) hit points due\
-    \ to blood loss and also takes 1 poison damage.\n\nThe abyssal worm can detach\
-    \ itself by spending 5 feet of movement. It does so after draining 10 hit points\
-    \ of blood from its target or when the target dies. A creature, including the\
-    \ target, can use an action to detach the abyssal worm."
-  "name": "Bite"
+  - "desc": "Melee Weapon Attack: +5 to hit, 5 ft. reach, one target. Hit: 5 (1d4\
+      \ + 3) piercing damage plus 1 poison damage, and the abyssal worm attaches to\
+      \ the target. While attached, the abyssal worm doesn't attack. Instead, at the\
+      \ start of the abyssal worm's turn, the target loses 5 (1d4 + 3) hit points\
+      \ due to blood loss and also takes 1 poison damage.\n\nThe abyssal worm can\
+      \ detach itself by spending 5 feet of movement. It does so after draining 10\
+      \ hit points of blood from its target or when the target dies. A creature, including\
+      \ the target, can use an action to detach the abyssal worm."
+    "name": "Bite"
 "source":
-- "KPDM"
+  - "KPDM"
 ```
 ^statblock
 

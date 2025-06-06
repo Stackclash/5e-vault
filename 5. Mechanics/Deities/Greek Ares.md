@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greek
   - domain/war
+alignment: Chaotic Evil
+domains: War
+pantheon: Greek
+symbol: Spear
 aliases:
   - Ares
 ---

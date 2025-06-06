@@ -19,7 +19,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Cloudkept-Armor.webp#right)  
 
 
-This armor is buoyed by motes of captured clouds, which have been woven together into a fabric-like hide. While wearing it, you gain a +2 bonus to AC, and your jump distance is increased by 10 feet. If the armor normally imposes disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks, the cloudkept version of the armor doesn't. In addition, the maximum amount of bludgeoning damage you can take from falling is reduced to `dice:1d6|noform|avg` (`1d6`).
+This armor is buoyed by motes of captured clouds, which have been woven together into a fabric-like hide. While wearing it, you gain a +2 bonus to AC, and your jump distance is increased by 10 feet. If the armor normally imposes disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks, the cloudkept version of the armor doesn't. In addition, the maximum amount of bludgeoning damage you can take from falling is reduced to `dice:1d6|noform|noparens|avg` (`d6`).
 
 You can use an action to cast the [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] spell from the armor while wearing it, targeting only yourself. This version of the spell has the following changes:
 

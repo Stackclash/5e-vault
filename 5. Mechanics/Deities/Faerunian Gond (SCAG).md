@@ -6,6 +6,10 @@ tags:
   - deity/faerunian
   - domain/forge
   - domain/knowledge
+alignment: Neutral
+domains: 'Forge, Knowledge'
+pantheon: Faerûnian
+symbol: Toothed cog with four spokes
 aliases:
   - Gond
   - The Wonderbringer

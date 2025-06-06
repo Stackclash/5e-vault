@@ -6,6 +6,7 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Trick Knot
+weight: 5
 ---
 # Trick Knot
 *Wondrous item, uncommon*  

@@ -10,4 +10,4 @@ aliases:
 
 ## Cantrip
 
-- [[Minor Illusion \|"PHB"]] as cantrip
+- [[5. Mechanics/Spells/Minor Illusion.md \|"PHB"]] as cantrip

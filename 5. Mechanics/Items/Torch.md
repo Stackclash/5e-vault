@@ -8,6 +8,7 @@ tags:
 aliases:
   - Torch
 cost: 1
+weight: 1
 ---
 # Torch
 *Adventuring gear*  

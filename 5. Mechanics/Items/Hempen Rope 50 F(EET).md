@@ -8,6 +8,7 @@ tags:
 aliases:
   - Hempen Rope (50 feet)
 cost: 100
+weight: 10
 ---
 # Hempen Rope (50 feet)
 *Adventuring gear*  

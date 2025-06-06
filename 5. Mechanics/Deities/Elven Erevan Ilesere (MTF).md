@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/elven
   - domain/trickery
+alignment: Chaotic Neutral
+category: The Seldarine
+domains: Trickery
+pantheon: Elven
+province: 'Mischief, change'
+symbol: Asymmetrical starburst
 aliases:
   - Erevan Ilesere
 ---

@@ -17,7 +17,7 @@ cost: 5000
 
 ## Description:
 
-Shining black like a spider's leg, these foot-long thorns grow on vines tangled in cobwebs left behind by giant cave spiders. The tips of these thorns are hollow, while the inside is filled with numerous spongy cells capable of absorbing large amounts of toxins; something that seems to actually nourish the vines they're attached to. These properties also make the thorn a natural syringe that is specially adapted for the removal (and subsequent redistribution) of poisons in the bloodstream. For this reason, the drow believe that these thorns are a gift from Lolth and only granted to those who are destined to spread her venom throughout her enemies.
+Shining black like a spider's leg, these foot-long thorns grow on vines tangled in cobwebs left behind by giant cave spiders. The tips of these thorns are hollow, while the inside is filled with numerous spongy cells capable of absorbing large amounts of toxins; something that seems to actually nourish the vines they're attached to. These properties also make the thorn a natural syringe that is specially adapted for the removal (and subsequent redistribution) of poisons in the bloodstream. For this reason, the drow believe that these thorns are a gift from [[5. Mechanics/Deities/Drow Lolth (MTF).md\|Lolth]] and only granted to those who are destined to spread her venom throughout her enemies.
 
 ## Effect:
 

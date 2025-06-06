@@ -6,6 +6,12 @@ tags:
   - deity/elven
   - domain/nature
   - domain/trickery
+alignment: Chaotic Neutral
+category: The Seldarine
+domains: 'Nature, Trickery'
+pantheon: Elven
+province: 'Independence, outlawry'
+symbol: Leaf-shaped arrowhead
 aliases:
   - Gadhelyn
 ---

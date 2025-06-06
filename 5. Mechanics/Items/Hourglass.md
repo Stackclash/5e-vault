@@ -8,6 +8,7 @@ tags:
 aliases:
   - Hourglass
 cost: 2500
+weight: 1
 ---
 # Hourglass
 *Adventuring gear*  

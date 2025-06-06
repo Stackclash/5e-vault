@@ -9,12 +9,13 @@ tags:
   - item/weapon/melee
 aliases:
   - Soul Cleaver
-one-hand-damage: 1d12 S
+one-hand-damage: 1d12 slashing
+weight: 7
 ---
 # Soul Cleaver
 *Weapon ([[5. Mechanics/Items/Greataxe.md\|greataxe]]), very rare (requires attunement)*  
 
-- **Damage**: 1d12 S
+- **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
 

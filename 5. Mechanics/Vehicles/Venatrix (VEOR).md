@@ -10,6 +10,7 @@ aliases:
   - Venatrix
 ---
 # Venatrix
+%%-- Embedded content starts on the next line. --%%
 *Source: Vecna: Eve of Ruin*  
 
 
@@ -33,10 +34,10 @@ title: Venatrix
 
 ## Action Stations
 
-**Helm (Requires 1 Crew)** Drive and steer the Venatrix.
+**Helm (Requires 1 Crew).** Drive and steer the Venatrix.
 
-**2 Harpoon Guns (Each Station Requires 1 Crew)** *Ranged Weapon Attack:* +6 to hit, range 120 ft., one target. *Hit:* 10 (2d8 + 1) piercing damage.
+**2 Harpoon Guns (Each Station Requires 1 Crew).** *Ranged Weapon Attack:* +6 to hit, range 120 ft., one target. *Hit:* 10 (2d8 + 1) piercing damage.
 
-**Infernal Screamer (Requires 1 Crew)** One target the operator can see within 120 feet of itself must make a DC 15 Wisdom saving throw, taking 26 (4d12) psychic damage on a failed save or half as much damage on a successful one.
+**Infernal Screamer (Requires 1 Crew).** One target the operator can see within 120 feet of itself must make a DC 15 Wisdom saving throw, taking 26 (4d12) psychic damage on a failed save or half as much damage on a successful one.
 ```
 ^statblock

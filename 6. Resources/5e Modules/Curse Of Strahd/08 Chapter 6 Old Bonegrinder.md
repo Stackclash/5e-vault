@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/cos
 aliases:
-  - 'Chapter 6: Old Bonegrinder'
+  - Chapter 6: Old Bonegrinder
 ---
 # Chapter 6: Old Bonegrinder
 *Source: Curse of Strahd, p. 125* 
@@ -23,11 +23,11 @@ Made with the bones of the innocent, the hags' dream pastries allow Barovians to
 
 The [[5. Mechanics/Bestiary/Fiend/Night Hag.md\|hags]] possess the shared spellcasting abilities of a coven (see the "Hag Covens" sidebar in the hags entry in the "Monster Manual"). If one or more hags die, the coven is broken. [[4. World Almanac/NPCs/Morgantha (COS).md\|Morgantha]] tolerates her daughters only because they help her complete the coven. If one of them dies, [[4. World Almanac/NPCs/Morgantha (COS).md\|Morgantha]] sets out to abduct and consume a human child so that she can give birth to a new daughter (as described in the "Monster Manual").
 
-[[4. World Almanac/NPCs/Morgantha (COS).md\|Morgantha]] gave her coven's [[5. Mechanics/Items/Hag Eye.md\|hag eye]] to [[4. World Almanac/NPCs/Cyrus Belview (COS).md\|Cyrus Belview]], Strahd's disfigured manservant (see chapter 4, area K62), so that she could spy on Castle Ravenloft and keep an eye on the vampire. The hags are fearful of Strahd and respect his dominion over this land. For more information on the *hag eye*, see the hags entry in the Monster Manual.
+[[4. World Almanac/NPCs/Morgantha (COS).md\|Morgantha]] gave her coven's [[5. Mechanics/Items/Hag Eye (MM).md\|hag eye]] to [[4. World Almanac/NPCs/Cyrus Belview (COS).md\|Cyrus Belview]], Strahd's disfigured manservant (see chapter 4, area K62), so that she could spy on Castle Ravenloft and keep an eye on the vampire. The hags are fearful of Strahd and respect his dominion over this land. For more information on the *hag eye*, see the hags entry in the Monster Manual.
 
 ## Dream Pastries
 
-These pastries look and taste like small mincemeat pies. A creature that eats one in its entirety must succeed on a DC 16 Constitution saving throw or fall into a trance that lasts for `dice:1d4+4|noform|avg` (`1d4 + 4`) hours, during which time the creature is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] and has a speed of 0 feet. The trance ends if the affected creature takes any damage or if someone else uses an action to shake the creature out of its stupor.
+These pastries look and taste like small mincemeat pies. A creature that eats one in its entirety must succeed on a DC 16 Constitution saving throw or fall into a trance that lasts for `dice:1d4+4|noform|noparens|avg` (`1d4 + 4`) hours, during which time the creature is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] and has a speed of 0 feet. The trance ends if the affected creature takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
 While in the trance, the creature dreams of being in some joyous place, far removed from the evils of the world. The places and characters in the dream are vivid and believable, and when the dream ends, the affected creature experiences a longing to return to the place.
 

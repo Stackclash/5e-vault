@@ -17,7 +17,7 @@ tags:
 aliases:
   - Gnoll Flesh Gnawer
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Gnoll Flesh Gnawer (MPMM).md|Gnoll Flesh Gnawer]]
+# [[5. Mechanics\Bestiary\Monstrosity\Gnoll Flesh Gnawer (MPMM).md|Gnoll Flesh Gnawer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*
 
 These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
@@ -35,38 +35,39 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
+"modifier": !!int "2"
 "stats":
-- !!int "12"
-- !!int "14"
-- !!int "12"
-- !!int "8"
-- !!int "10"
-- !!int "8"
+  - !!int "12"
+  - !!int "14"
+  - !!int "12"
+  - !!int "8"
+  - !!int "10"
+  - !!int "8"
 "speed": "30 ft."
 "saves":
-  "Dexterity": !!int "4"
+  - "dexterity": "+4"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Gnoll"
 "cr": "1"
 "actions":
-- "desc": "The gnoll makes one Bite attack and two Shortsword attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
-    \ + 2) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-    \ + 2) piercing damage."
-  "name": "Shortsword"
-- "desc": "Until the end of the turn, the gnoll's speed increases by 60 feet and it\
-    \ doesn't provoke [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack|opportunity attacks]]."
-  "name": "Sudden Rush"
+  - "desc": "The gnoll makes one Bite attack and two Shortsword attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+      \ + 2) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+      \ + 2) piercing damage."
+    "name": "Shortsword"
+  - "desc": "Until the end of the turn, the gnoll's speed increases by 60 feet and\
+      \ it doesn't provoke [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack|opportunity attacks]]."
+    "name": "Sudden Rush"
 "bonus_actions":
-- "desc": "After the gnoll reduces a creature to 0 hit points with a melee attack\
-    \ on its turn, the gnoll moves up to half its speed and makes a Bite attack."
-  "name": "Rampage"
+  - "desc": "After the gnoll reduces a creature to 0 hit points with a melee attack\
+      \ on its turn, the gnoll moves up to half its speed and makes a Bite attack."
+    "name": "Rampage"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/gnoll-flesh-gnawer-mpmm.webp"
 ```
 ^statblock

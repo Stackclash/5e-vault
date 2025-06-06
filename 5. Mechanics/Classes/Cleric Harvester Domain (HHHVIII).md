@@ -9,7 +9,7 @@ aliases:
   - Harvester Domain
 ---
 # Harvester Domain
-*[[Cleric.md\|Cleric]]: Divine Domain*  
+*[[.nullCleric.md\|Cleric]]: Divine Domain*  
 *Source: Hamund's Harvesting Handbook: Volume III p. 110*  
 
 > [!tldr] Class and Feature Progression
@@ -19,14 +19,14 @@ aliases:
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Harvester%20Domain%20(Level%201)'>Harvester Domain</a></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel%20Divinity%20Bag%20Runneth%20Over%20(Level%202)'>Channel Divinity: Bag Runneth Over</a></td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Harvester Domain (Level 1)' class='internal-link'>Harvester Domain</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Channel Divinity: Bag Runneth Over (Level 2)' class='internal-link'>Channel Divinity: Bag Runneth Over</a></td></tr>
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Guided%20Hands%20(Level%206)'>Guided Hands</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Guided Hands (Level 6)' class='internal-link'>Guided Hands</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Divine%20Strike%20(Level%208)'>Divine Strike</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Divine Strike (Level 8)' class='internal-link'>Divine Strike</a></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -35,12 +35,13 @@ aliases:
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Life%20Harvest%20(Level%2017)'>Life Harvest</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Life Harvest (Level 17)' class='internal-link'>Life Harvest</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -49,7 +50,7 @@ aliases:
 
 Gods of harvesting are some of the oldest and most entrenched deities in their pantheons. This is because virtually every burgeoning humanoid race prays at some point for a successful hunt and the resulting harvest of food and resources. While they may not be as powerful as other gods, they are among the most reliable. They ensure their followers always have what they need and the means to take what they want. The clerics of these gods are naturally good at harvesting but can also use their steady hands and calm wisdom to hunt down any quarry they choose.
 
-Due to their overlap, gods of harvesting also tend to be gods of hunting like Artemis, Malar, or Uller. They may also be gods of nature, such as Silvanus and Osiris. Even gods of crafting like Ptah can extend their reach over the harvesting domain, due to their craft's reliance on the raw materials that only harvesting can provide.
+Due to their overlap, gods of harvesting also tend to be gods of hunting like [[5. Mechanics/Deities/Greek Artemis.md\|Artemis]], Malar, or [[5. Mechanics/Deities/Norse Uller.md\|Uller]]. They may also be gods of nature, such as Silvanus and [[5. Mechanics/Deities/Egyptian Osiris.md\|Osiris]]. Even gods of crafting like [[5. Mechanics/Deities/Egyptian Ptah.md\|Ptah]] can extend their reach over the harvesting domain, due to their craft's reliance on the raw materials that only harvesting can provide.
 
 ### Domain Spells (Level 1)
 
@@ -80,7 +81,7 @@ You can use this feature a number of times equal to your Wisdom modifier (a mini
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|avg` (`1d8`) damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Life Harvest (Level 17)
 

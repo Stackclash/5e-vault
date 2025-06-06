@@ -25,7 +25,7 @@ The artifact has the following random properties, which you can determine by rol
 
 ## Spells
 
-The book has 8 charges. It regains `dice:1d8|noform|avg` (`1d8`) expended charges daily at dawn. While holding it, you can use an action to cast [[5. Mechanics/Spells/Tashas Hideous Laughter.md\|Tasha's hideous laughter]] from it or to expend 1 or more of its charges to cast one of the following spells (save DC 20) from it: [[5. Mechanics/Spells/Magic Circle.md\|magic circle]] (1 charge), [[5. Mechanics/Spells/Magic Jar.md\|magic jar]] (3 charges), [[5. Mechanics/Spells/Planar Ally.md\|planar ally]] (3 charges), [[5. Mechanics/Spells/Planar Binding.md\|planar binding]] (2 charges), [[5. Mechanics/Spells/Plane Shift.md\|plane shift]] (to layers of the Abyss only; 3 charges), [[5. Mechanics/Spells/Summon Fiend (TCE).md\|summon fiend]] (3 charges).
+The book has 8 charges. It regains `dice:1d8|noform|noparens|avg` (`d8`) expended charges daily at dawn. While holding it, you can use an action to cast [[5. Mechanics/Spells/Tashas Hideous Laughter.md\|Tasha's hideous laughter]] from it or to expend 1 or more of its charges to cast one of the following spells (save DC 20) from it: [[5. Mechanics/Spells/Magic Circle.md\|magic circle]] (1 charge), [[5. Mechanics/Spells/Magic Jar.md\|magic jar]] (3 charges), [[5. Mechanics/Spells/Planar Ally.md\|planar ally]] (3 charges), [[5. Mechanics/Spells/Planar Binding.md\|planar binding]] (2 charges), [[5. Mechanics/Spells/Plane Shift.md\|plane shift]] (to layers of the Abyss only; 3 charges), [[5. Mechanics/Spells/Summon Fiend (TCE).md\|summon fiend]] (3 charges).
 
 ## Abyssal Reference
 
@@ -45,7 +45,7 @@ The first 10 pages of the *Demonomicon* are blank. As an action while holding th
 
 When you finish a long rest, if you and the *Demonomicon* are on the same plane of existence, the trapped creature of the highest challenge rating within the book can attempt to possess you. You must make a DC 20 Charisma saving throw. On a failure, you are possessed by the creature, which controls you like a puppet. The possessing creature can release you as an action, appearing in the closest unoccupied space. On a successful save, the fiend can't try to possess you again for 7 days.
 
-When the tome is discovered, it has `dice:1d4|noform|avg` (`1d4`) fiends occupying its pages, typically an assortment of demons.
+When the tome is discovered, it has `dice:1d4|noform|noparens|avg` (`d4`) fiends occupying its pages, typically an assortment of demons.
 
 ## Destroying the Demonomicon
 

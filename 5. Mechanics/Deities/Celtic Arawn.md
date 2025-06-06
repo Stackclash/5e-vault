@@ -6,6 +6,10 @@ tags:
   - deity/celtic
   - domain/death
   - domain/life
+alignment: Neutral Evil
+domains: 'Life, Death'
+pantheon: Celtic
+symbol: Black star on gray background
 aliases:
   - Arawn
 ---

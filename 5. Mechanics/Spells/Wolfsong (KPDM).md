@@ -8,19 +8,25 @@ tags:
   - spell/class/ranger
   - spell/level/1st-level
   - spell/school/transmutation
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Ranger
 school: Transmutation
-time: 1 action
+level: 1
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Wolfsong
 ---
 # Wolfsong
 *1st-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Instantaneous
@@ -33,6 +39,6 @@ A creature that understands the message is not compelled to act in a particular 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can name another specific recipient for each slot level above 2nd.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 122*

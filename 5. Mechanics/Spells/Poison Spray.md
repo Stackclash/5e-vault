@@ -25,27 +25,47 @@ tags:
   - spell/subclass/hunger-domain
   - spell/subclass/nature-domain
   - spell/subrace/elf-high
-level: cantrip
-range: false
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Hunger Domain)
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of Roses)
+  - Druid (Circle of the Land)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Conjuration
-time: 1 action
+level: cantrip
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Poison Spray
+range: 10 feet
+damageType: Poison
+save:
+  type: CON
+  success: none
 ---
 # Poison Spray
 *cantrip, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 10 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take `dice:1d12|noform|avg` (`1d12`) poison damage.
+You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take `dice:1d12|noform|noparens|avg` (`d12`) poison damage.
 
-This spell's damage increases by `dice:1d12|noform|avg` (`1d12`) when you reach 5th level (`dice:2d12|noform|avg` (`2d12`)), 11th level (`dice:3d12|noform|avg` (`3d12`)), and 17th level (`dice:4d12|noform|avg` (`4d12`)).
+This spell's damage increases by `dice:1d12|noform|noparens|avg` (`d12`) when you reach 5th level (`dice:2d12|noform|noparens|avg` (`2d12`)), 11th level (`dice:3d12|noform|noparens|avg` (`3d12`)), and 17th level (`dice:4d12|noform|noparens|avg` (`4d12`)).
 
-**Classes**: [[List Spells Classes Artificer\|Artificer]]; [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Druid Circle Of Roses (KPDM)\|Druid (Circle of Roses)]]; [[List Spells Classes Druid Circle Of The Land\|Druid (Circle of the Land)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]; [[List Spells Classes Cleric Hunger Domain (KPDM)\|Cleric (Hunger Domain)]]; [[List Spells Classes Cleric Nature Domain\|Cleric (Nature Domain)]]
+**Classes**: [Druid (Circle of Roses)](compendium/lists/list-spells-classes-circle-of-roses-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Hunger Domain)](compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

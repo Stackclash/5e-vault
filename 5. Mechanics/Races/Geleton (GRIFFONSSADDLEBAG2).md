@@ -11,7 +11,7 @@ aliases:
 *Source: The Griffon's Saddlebag, Book 2 p. 206*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Races/Geleton.webp#right)  
 
-- **Ability Scores**: Constitution +2, Apply +1 to one of Strength, Dexterity, Intelligence, Wisdom, Charisma
+- **Ability Scores**: Constitution +2; Apply +1 to one of Strength, Dexterity, Intelligence, Wisdom, or Charisma.
 - **Size**: Varies
 - **Speed**: 30 ft.
 

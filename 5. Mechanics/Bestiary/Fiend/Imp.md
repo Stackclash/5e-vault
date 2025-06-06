@@ -13,7 +13,7 @@ tags:
 aliases:
   - Imp
 ---
-# [[5. Mechanics/Bestiary/Fiend/Imp.md|Imp]]
+# [[5. Mechanics\Bestiary\Fiend\Imp.md|Imp]]
 *Source: Monster Manual p. 76, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Imps are found throughout the Lower Planes, either running errands for their infernal masters, spying on rivals, or misleading and waylaying mortals. An imp will proudly serve an evil master of any kind, but it can't be relied on to carry out tasks with any speed or efficiency.
@@ -138,11 +138,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > - A barbed devil has a 30 percent chance of summoning one barbed devil.  
 > - A bearded devil has a 30 percent chance of summoning one bearded devil.  
-> - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|avg` (`3d6`) spined devils, `dice:1d6|noform|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30 percent chance of summoning one horned devil.  
 > - An ice devil has a 60 percent chance of summoning one ice devil.  
-> - A pit fiend summons `dice:2d4|noform|avg` (`2d4`) bearded devils, `dice:1d4|noform|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -156,19 +156,24 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "ac": !!int "13"
 "hp": !!int "10"
 "hit_dice": "3d4 + 3"
+"modifier": !!int "3"
 "stats":
-- !!int "6"
-- !!int "17"
-- !!int "13"
-- !!int "11"
-- !!int "12"
-- !!int "14"
+  - !!int "6"
+  - !!int "17"
+  - !!int "13"
+  - !!int "11"
+  - !!int "12"
+  - !!int "14"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  "Deception": !!int "4"
-  "Stealth": !!int "5"
-  "Insight": !!int "3"
-  "Persuasion": !!int "4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+    "desc": "+3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
+    "desc": "+4"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+5"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ not made with silvered weapons"
 "damage_immunities": "fire, poison"
@@ -177,34 +182,34 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "languages": "Infernal, Common"
 "cr": "1"
 "traits":
-- "desc": "The imp can use its action to polymorph into a beast form that resembles\
-    \ a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb\
-    \ 20 ft.), or back into its true form. Its statistics are the same in each form,\
-    \ except for the speed changes noted. Any equipment it is wearing or carrying\
-    \ isn't transformed. It reverts to its true form if it dies."
-  "name": "Shapechanger"
-- "desc": "Magical darkness doesn't impede the imp's darkvision."
-  "name": "Devil's Sight"
-- "desc": "The imp has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
+  - "desc": "The imp can use its action to polymorph into a beast form that resembles\
+      \ a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb\
+      \ 20 ft.), or back into its true form. Its statistics are the same in each form,\
+      \ except for the speed changes noted. Any equipment it is wearing or carrying\
+      \ isn't transformed. It reverts to its true form if it dies."
+    "name": "Shapechanger"
+  - "desc": "Magical darkness doesn't impede the imp's darkvision."
+    "name": "Devil's Sight"
+  - "desc": "The imp has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
-    \ + 3) piercing damage, and the target must make a DC 11 Constitution saving throw,\
-    \ taking 10 (3d6) poison damage on a failed save, or half as much damage on a\
-    \ successful one."
-  "name": "Sting (Bite in Beast Form)"
-- "desc": "The imp magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ until it attacks, or until its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
-    \ ends (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on\
-    \ a spell). Any equipment the imp wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ with it."
-  "name": "Invisibility"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+      \ + 3) piercing damage, and the target must make a DC 11 Constitution saving\
+      \ throw, taking 10 (3d6) poison damage on a failed save, or half as much damage\
+      \ on a successful one."
+    "name": "Sting (Bite in Beast Form)"
+  - "desc": "The imp magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ until it attacks, or until its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
+      \ ends (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
+      \ on a spell). Any equipment the imp wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ with it."
+    "name": "Invisibility"
 "source":
-- "MM"
-- "CoS"
-- "TCE"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "TCE"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/imp.webp"
 ```
 ^statblock

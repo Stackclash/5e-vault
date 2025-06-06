@@ -15,9 +15,9 @@ aliases:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 
-This pair of gloves is matched with one dark metal gauntlet, which once belonged to a traitorous knight who was burned for his treason. While wearing these gloves and gauntlet, your unarmed strikes with your hands are turned into magic weapons that deal `dice:1d8|noform|avg` (`1d8`) necrotic damage.
+This pair of gloves is matched with one dark metal gauntlet, which once belonged to a traitorous knight who was burned for his treason. While wearing these gloves and gauntlet, your unarmed strikes with your hands are turned into magic weapons that deal `dice:1d8|noform|noparens|avg` (`d8`) necrotic damage.
 
-In addition, you can use a bonus action to speak the gauntlet's command word while holding a nonmagical melee weapon in the hand that's wearing it. When you do, the weapon becomes magical while you hold it in that hand. The weapon ceases to be magical if you throw, drop, or stow it. While the weapon is magical in this way, it's wreathed in dark flames that cause any target hit by it to take necrotic damage, instead of the weapon's normal damage, as well as an extra `dice:1d8|noform|avg` (`1d8`) fire damage.
+In addition, you can use a bonus action to speak the gauntlet's command word while holding a nonmagical melee weapon in the hand that's wearing it. When you do, the weapon becomes magical while you hold it in that hand. The weapon ceases to be magical if you throw, drop, or stow it. While the weapon is magical in this way, it's wreathed in dark flames that cause any target hit by it to take necrotic damage, instead of the weapon's normal damage, as well as an extra `dice:1d8|noform|noparens|avg` (`d8`) fire damage.
 
 While unworn, the gauntlet can be magically altered to fit over either hand by speaking its other command word as an action.
 

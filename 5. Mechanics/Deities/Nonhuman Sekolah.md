@@ -6,6 +6,10 @@ tags:
   - deity/nonhuman
   - domain/nature
   - domain/tempest
+alignment: Lawful Evil
+domains: 'Nature, Tempest'
+pantheon: Nonhuman
+symbol: Shark
 aliases:
   - Sekolah
 ---

@@ -8,6 +8,7 @@ tags:
 aliases:
   - Rod
 cost: 1000
+weight: 2
 ---
 # Rod
 *Spellcasting focus*  

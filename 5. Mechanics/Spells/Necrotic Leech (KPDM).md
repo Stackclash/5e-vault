@@ -10,29 +10,37 @@ tags:
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/necromancy
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Necromancy
-time: 1 action
+level: 5
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Necrotic Leech
 ---
 # Necrotic Leech
 *5th-level, Necromancy*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You channel destructive energy through your touch. Make a melee spell attack against a creature within your reach. The target takes `dice:8d10|noform|avg` (`8d10`) necrotic damage and must succeed on a Constitution saving throw or have disadvantage on attack rolls, saving throws, and ability checks for a number of rounds equal to the spell slot you expended. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+You channel destructive energy through your touch. Make a melee spell attack against a creature within your reach. The target takes `dice:8d10|noform|noparens|avg` (`8d10`) necrotic damage and must succeed on a Constitution saving throw or have disadvantage on attack rolls, saving throws, and ability checks for a number of rounds equal to the spell slot you expended. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 This spell has no effect on constructs or undead.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the spell's damage increases by `dice:1d10|noform|avg|text(1d10)` for each slot level above 5th.
+**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the spell's damage increases by `dice:1d10|noform|noparens|avg|text(d10)` for each slot level above 5th.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 96*

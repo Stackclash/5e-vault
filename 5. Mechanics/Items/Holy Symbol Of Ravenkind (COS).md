@@ -17,7 +17,7 @@ The Holy Symbol of Ravenkind is a unique holy symbol sacred to the good-hearted 
 
 The holy symbol is a platinum amulet shaped like the sun, with a large crystal embedded in its center.
 
-The holy symbol has 10 charges for the following properties. It regains `dice:1d6+4|noform|avg` (`1d6 + 4`) charges daily at dawn.
+The holy symbol has 10 charges for the following properties. It regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) charges daily at dawn.
 
 ## Hold Vampires
 

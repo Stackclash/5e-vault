@@ -8,7 +8,7 @@ aliases:
   - Alchemist
 ---
 # Alchemist
-*[[Artificer (TCE).md\|Artificer]]: Artificer Specialist*  
+*[[.nullArtificer (TCE).md\|Artificer]]: Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 14*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Alchemist%20(Level%203)'>Alchemist</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Alchemist (Level 3)' class='internal-link'>Alchemist</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Alchemical%20Savant%20(Level%205)'>Alchemical Savant</a></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Alchemical Savant (Level 5)' class='internal-link'>Alchemical Savant</a></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Restorative%20Reagents%20(Level%209)'>Restorative Reagents</a></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Restorative Reagents (Level 9)' class='internal-link'>Restorative Reagents</a></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Chemical%20Mastery%20(Level%2015)'>Chemical Mastery</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Chemical Mastery (Level 15)' class='internal-link'>Chemical Mastery</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -83,10 +84,10 @@ You can create additional *experimental elixirs* by expending a spell slot of 1s
 
 | dice: d6 | Effect |
 |----------|--------|
-| 1 | **Healing**. The drinker regains a number of hit points equal to `dice:2d4\|noform\|avg` (`2d4`) + your Intelligence modifier. |
+| 1 | **Healing**. The drinker regains a number of hit points equal to `dice:2d4\|noform\|noparens\|avg` (`2d4`) + your Intelligence modifier. |
 | 2 | **Swiftness**. The drinker's walking speed increases by 10 feet for 1 hour. |
 | 3 | **Resilience**. The drinker gains a +1 bonus to AC for 10 minutes. |
-| 4 | **Boldness**. The drinker can roll a `dice:d4\|noform\|avg` (`d4`) and add the number rolled to every attack roll and saving throw they make for the next minute. |
+| 4 | **Boldness**. The drinker can roll a `dice:d4\|noform\|noparens\|avg` (`d4`) and add the number rolled to every attack roll and saving throw they make for the next minute. |
 | 5 | **Flight**. The drinker gains a flying speed of 10 feet for 10 minutes. |
 | 6 | **Transformation**. The drinker's body is transformed as if by the [[5. Mechanics/Spells/Alter Self.md\|alter self]] spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes. |
 ^experimental-elixir
@@ -99,7 +100,7 @@ At 5th level, you develop masterful command of magical chemicals, enhancing the 
 
 Starting at 9th level, you can incorporate restorative reagents into some of your works:
 
-- Whenever a creature drinks an *experimental elixir* you created, the creature gains temporary hit points equal to `dice:2d6|noform|avg` (`2d6`) + your Intelligence modifier (minimum of 1 temporary hit point).  
+- Whenever a creature drinks an *experimental elixir* you created, the creature gains temporary hit points equal to `dice:2d6|noform|noparens|avg` (`2d6`) + your Intelligence modifier (minimum of 1 temporary hit point).  
 - You can cast [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] without expending a spell slot and without preparing the spell, provided you use [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.  
 
 ### Chemical Mastery (Level 15)

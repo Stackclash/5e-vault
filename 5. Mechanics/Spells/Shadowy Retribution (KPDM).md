@@ -11,27 +11,37 @@ tags:
   - spell/level/4th-level
   - spell/ritual
   - spell/school/necromancy
-level: 4th-level
-range: true
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Warlock
+  - Wizard
 school: Necromancy
-time: 10 minute
-duration: 12 hour
-components: 'V, S, a small silver cup filled with the caster''s blood'
+level: 4
+ritual: true
+time: 10 minutes
+duration: 12 hours
+components:
+  - V
+  - S
+  - M
 aliases:
   - Shadowy Retribution
+material: a small silver cup filled with the caster's blood
 ---
 # Shadowy Retribution
 *4th-level, Necromancy (ritual)*  
 
-- **Casting time:** 10 minute unless cast as a ritual
+- **Casting time:** 10 minutes unless cast as a ritual
 - **Range:** Self
-- **Components:** V, S, a small silver cup filled with the caster's blood
-- **Duration:** 12 hour
+- **Components:** V, S, M (a small silver cup filled with the caster's blood)
+- **Duration:** 12 hours
 
 > [!note]
 > This spell can only be cast as a ritual.
 
-You fill a small silver cup with your own blood (taking `dice:1d4|noform|avg` (`1d4`) piercing damage) while chanting vile curses in the dark. Once the chant is completed, you consume the blood and swear an oath of vengeance against any who harm you.
+You fill a small silver cup with your own blood (taking `dice:1d4|noform|noparens|avg` (`d4`) piercing damage) while chanting vile curses in the dark. Once the chant is completed, you consume the blood and swear an oath of vengeance against any who harm you.
 
 If you are reduced to 0 hit points, your oath is invoked; a [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]] materializes within 5 feet of you. The [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]] attacks the creature that reduced you to 0 hit points, ignoring all other targets, until it or the target is slain, at which point the [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]] dissipates into nothing.
 
@@ -45,6 +55,6 @@ If you expend your ritual focus, the spell summons a [[5. Mechanics/Bestiary/Und
 
 ## Summary
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 213*

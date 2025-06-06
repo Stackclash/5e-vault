@@ -10,6 +10,7 @@ tags:
 aliases:
   - Copper Dragon Scale Mail
 armorClass: 14 + Dex modifier (max of +2)
+weight: 45
 ---
 # Copper Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

@@ -6,6 +6,10 @@ tags:
   - deity/greek
   - domain/life
   - domain/nature
+alignment: Neutral Good
+domains: 'Life, Nature'
+pantheon: Greek
+symbol: Bow and arrow on lunar disk
 aliases:
   - Artemis
 ---

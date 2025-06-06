@@ -8,6 +8,7 @@ tags:
 aliases:
   - Caltrops (bag of 20)
 cost: 100
+weight: 2
 ---
 # Caltrops (bag of 20)
 *Adventuring gear*  

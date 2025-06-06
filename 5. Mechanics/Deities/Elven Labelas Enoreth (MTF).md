@@ -7,6 +7,12 @@ tags:
   - domain/arcana
   - domain/knowledge
   - domain/life
+alignment: Chaotic Good
+category: The Seldarine
+domains: 'Arcana, Knowledge, Life'
+pantheon: Elven
+province: 'Time, history, memory'
+symbol: Setting sun
 aliases:
   - Labelas Enoreth
 ---

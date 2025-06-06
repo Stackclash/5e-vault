@@ -22,6 +22,6 @@ Any creature can cast a spell of 1st through 4th level into it by touching the h
 
 While wearing this helmet, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. When the spell is cast or a new spell is stored, any previously stored spell is lost.
 
-If you are wearing the helmet when a spell of 5th level or higher is cast into the helm, the spell is expended without effect and you take `dice:2d6|noform|avg` (`2d6`) psychic damage. While a spell is stored within the helmet, your eyes glow with a brilliant color of your choice while you wear it.
+If you are wearing the helmet when a spell of 5th level or higher is cast into the helm, the spell is expended without effect and you take `dice:2d6|noform|noparens|avg` (`2d6`) psychic damage. While a spell is stored within the helmet, your eyes glow with a brilliant color of your choice while you wear it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 138*

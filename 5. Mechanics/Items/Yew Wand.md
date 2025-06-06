@@ -8,6 +8,7 @@ tags:
 aliases:
   - Yew Wand
 cost: 1000
+weight: 1
 ---
 # Yew Wand
 *Spellcasting focus*  

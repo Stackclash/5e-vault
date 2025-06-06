@@ -9,12 +9,13 @@ tags:
 aliases:
   - Shortsword
 cost: 1000
-one-hand-damage: 1d6 P
+one-hand-damage: 1d6 piercing
+weight: 2
 ---
 # Shortsword
 *Weapon*  
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Cost**: 10 gp
 - **Weight**: 2.0 lbs.

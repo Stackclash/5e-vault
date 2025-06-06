@@ -8,6 +8,7 @@ tags:
 aliases:
   - Block and Tackle
 cost: 100
+weight: 5
 ---
 # Block and Tackle
 *Adventuring gear*  

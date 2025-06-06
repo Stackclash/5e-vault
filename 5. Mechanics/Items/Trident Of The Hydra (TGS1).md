@@ -9,14 +9,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Trident of the Hydra
-one-hand-damage: 1d6 P
-range: 20/60
+one-hand-damage: 1d6 piercing
+range: 20\60
+weight: 4
 ---
 # Trident of the Hydra
 *Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Trident-of-the-Hydra.webp#right)  
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 4.0 lbs.

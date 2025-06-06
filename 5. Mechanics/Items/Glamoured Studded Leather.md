@@ -9,6 +9,7 @@ tags:
 aliases:
   - Glamoured Studded Leather
 armorClass: 12 + Dex modifier
+weight: 13
 ---
 # Glamoured Studded Leather
 *Light armor, major, rare*  

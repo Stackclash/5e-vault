@@ -9,15 +9,16 @@ tags:
 aliases:
   - Warhammer
 cost: 1500
-one-hand-damage: 1d8 B
-two-hand-damage: 1d10 B
+one-hand-damage: 1d8 bludgeoning
+two-hand-damage: 1d10 bludgeoning
+weight: 2
 ---
 # Warhammer
 *Weapon*  
 
 - **Damage**:
-  - One-handed: 1d8 B
-  - Two-handed: 1d10 B
+  - One-handed: 1d8 bludgeoning
+  - Two-handed: 1d10 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Cost**: 15 gp
 - **Weight**: 2.0 lbs.

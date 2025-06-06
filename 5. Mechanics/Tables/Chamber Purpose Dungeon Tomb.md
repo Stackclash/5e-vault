@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/dmg
 aliases:
-  - 'Chamber Purpose; Dungeon: Tomb'
+  - Chamber Purpose; Dungeon: Tomb
 ---
 # Chamber Purpose; Dungeon: Tomb
 *Source: Dungeon Master's Guide p. 292* 

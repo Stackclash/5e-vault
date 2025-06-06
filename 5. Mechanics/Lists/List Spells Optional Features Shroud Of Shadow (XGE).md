@@ -10,4 +10,4 @@ aliases:
 
 ## 2nd Level
 
-- [[Invisibility \|"PHB"]]
+- [[5. Mechanics/Spells/Invisibility.md \|"PHB"]]

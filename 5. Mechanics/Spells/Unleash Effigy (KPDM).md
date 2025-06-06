@@ -7,22 +7,28 @@ tags:
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/transmutation
-level: 9th-level
-range: false
+classes:
+  - Bard
+  - Wizard
 school: Transmutation
-time: 1 action
-duration: 'Concentration, up to 10 minute'
-components: 'V, S'
+level: 9
+ritual: false
+time: 1 Action
+duration: up to 10 minutes
+components:
+  - V
+  - S
 aliases:
   - Unleash Effigy
+concentration: true
 ---
 # Unleash Effigy
 *9th-level, Transmutation*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
-- **Duration:** Concentration, up to 10 minute
+- **Duration:** Concentration, up to 10 minutes
 
 You cause a stone statue that you can see within 60 feet of you to animate as your ally. The statue has the statistics of a [[5. Mechanics/Bestiary/Construct/Stone Golem.md\|stone golem]]. It takes a turn immediately after your turn. As a bonus action on your turn, you can order the golem to move and attack, provided you're within 60 feet of it. Without orders from you, the statue does nothing.
 
@@ -30,6 +36,6 @@ Whenever the statue has 75 hit points or fewer at the start of your turn or it i
 
 When the spell ends, the animated statue reverts to a normal, mundane statue.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 118*

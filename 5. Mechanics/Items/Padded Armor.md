@@ -9,6 +9,7 @@ aliases:
   - Padded Armor
 cost: 500
 armorClass: 11 + Dex modifier
+weight: 8
 ---
 # Padded Armor
 *Light armor*  

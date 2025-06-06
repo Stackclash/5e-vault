@@ -10,12 +10,12 @@ aliases:
 
 ## 1st Level
 
-- [[Detect Magic \|"PHB"]] 
+- [[5. Mechanics/Spells/Detect Magic.md \|"PHB"]] 
 
 ## 2nd Level
 
-- [[Levitate \|"PHB"]] 
+- [[5. Mechanics/Spells/Levitate.md \|"PHB"]] 
 
 ## 3rd Level
 
-- [[Dispel Magic \|"PHB"]]
+- [[5. Mechanics/Spells/Dispel Magic.md \|"PHB"]]

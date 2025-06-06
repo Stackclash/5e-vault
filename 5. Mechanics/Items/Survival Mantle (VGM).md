@@ -8,6 +8,7 @@ tags:
 aliases:
   - Survival Mantle
 armorClass: 15 + Dex modifier (max of +2)
+weight: 40
 ---
 # Survival Mantle
 *Medium armor*  

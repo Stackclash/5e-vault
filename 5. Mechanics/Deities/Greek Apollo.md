@@ -7,6 +7,10 @@ tags:
   - domain/knowledge
   - domain/life
   - domain/light
+alignment: Chaotic Good
+domains: 'Knowledge, Life, Light'
+pantheon: Greek
+symbol: Lyre
 aliases:
   - Apollo
 ---

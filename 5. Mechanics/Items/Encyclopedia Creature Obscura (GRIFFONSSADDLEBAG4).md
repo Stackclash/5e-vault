@@ -12,7 +12,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Encyclopedia-Creature-Obscura.webp#right)  
 
 
-There are fourteen unique entries in this classic, hard-to-find series of encyclopedic tomes, which were originally written by renowned hunters and archdruids. When found, roll a `dice:d20|noform|avg` (`d20`) or choose from the table below to determine which encyclopedic volume it is.
+There are fourteen unique entries in this classic, hard-to-find series of encyclopedic tomes, which were originally written by renowned hunters and archdruids. When found, roll a `dice:d20|noform|noparens|avg` (`d20`) or choose from the table below to determine which encyclopedic volume it is.
 
 If you have at least 5 levels in the ranger class and spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, you gain the favored enemy and language (or similar effect) associated with your volume of the encyclopedia. If you have 5 or more levels in the druid class and spend that same time reading it, you can use an action to expend 2 uses of your Wild Shape to transform into the volume's associated Wild Shape option or cast the listed spell. A benefit gained from the book is permanent.
 

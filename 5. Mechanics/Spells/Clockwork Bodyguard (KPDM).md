@@ -9,19 +9,27 @@ tags:
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/conjuration
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Wizard
 school: Conjuration
-time: 1 action
-duration: 'Concentration, up to 1 hour'
-components: 'V, S'
+level: 5
+ritual: false
+time: 1 Action
+duration: up to 1 hour
+components:
+  - V
+  - S
 aliases:
   - Clockwork Bodyguard
+concentration: true
 ---
 # Clockwork Bodyguard
 *5th-level, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
@@ -36,6 +44,6 @@ The clockwork creatures are friendly to you and your companions for the duration
 
 **At Higher Levels.** When you cast this spell using certain higher-level spell slots, more creatures of your choice appear: twice as many with a 6th-level slot, three times as many with a 7th-level slot, and four times as many with an 8th-level slot.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Sorcerer\|Sorcerer]]; [[List Spells Classes Wizard\|Wizard]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 50*

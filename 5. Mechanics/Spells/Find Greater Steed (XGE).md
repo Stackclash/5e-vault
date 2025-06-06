@@ -7,12 +7,17 @@ tags:
   - spell/class/paladin
   - spell/level/4th-level
   - spell/school/conjuration
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Paladin
 school: Conjuration
-time: 10 minute
+level: 4
+ritual: false
+time: 10 minutes
 duration: Instantaneous
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Find Greater Steed
 ---
@@ -20,7 +25,7 @@ aliases:
 *4th-level, Conjuration*  
 ![[5. Mechanics/Spells/img/find-greater-steed.webp#right]]  
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
@@ -40,6 +45,6 @@ Whenever the mount disappears, it leaves behind any objects it was wearing or ca
 > With the DM's permission, a paladin can summon a spirit in the form of a dragonnel using the find greater steed spell, which appears in *Xanathar's Guide to Everything*.
 ^dragonnel-steeds
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Paladin\|Paladin]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Xanathar's Guide to Everything p. 156, Fizban's Treasury of Dragons p. 190*

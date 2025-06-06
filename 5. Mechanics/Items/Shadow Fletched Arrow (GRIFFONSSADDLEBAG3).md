@@ -8,6 +8,7 @@ tags:
   - item/tier/minor
 aliases:
   - Shadow-Fletched Arrow
+weight: 0.05
 ---
 # Shadow-Fletched Arrow
 *Ammunition ([[5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  
@@ -15,7 +16,7 @@ aliases:
 
 - **Weight**: 0.05 lbs.
 
-This arrow is barbed with unforgiving spikes and releases a plume of magical shadow when shot. When a creature is hit by the arrow, it must make a DC 15 Constitution saving throw. A creature's Strength score is reduced by `dice:2d4|noform|avg` (`2d4`) for 1 hour on a failed save, or by half as much on a successful one. This effect can't reduce a creature's Strength score below 6. The arrow then becomes nonmagical.
+This arrow is barbed with unforgiving spikes and releases a plume of magical shadow when shot. When a creature is hit by the arrow, it must make a DC 15 Constitution saving throw. A creature's Strength score is reduced by `dice:2d4|noform|noparens|avg` (`2d4`) for 1 hour on a failed save, or by half as much on a successful one. This effect can't reduce a creature's Strength score below 6. The arrow then becomes nonmagical.
 
 Other types of magic ammunition of this kind exist, such as shadow-fletched bolts meant for a crossbow, though arrows are most common.
 

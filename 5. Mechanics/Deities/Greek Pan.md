@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/greek
   - domain/nature
+alignment: Chaotic Neutral
+domains: Nature
+pantheon: Greek
+symbol: Syrinx (pan pipes)
 aliases:
   - Pan
 ---

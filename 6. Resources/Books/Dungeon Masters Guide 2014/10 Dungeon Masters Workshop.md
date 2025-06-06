@@ -80,7 +80,7 @@ Hero points work well in epic fantasy and mythic campaigns in which the characte
 
 With this option, a character starts with 5 hero point at 1st level. Each time the character gains a level, he or she loses any unspent hero points and gains a new total equal to 5 + half the character's level.
 
-A player can spend a hero point whenever he or she makes an attack roll, an ability check, or a saving throw The player can spend the hero point after the roll is made but before any of its results are applied. Spending the hero point allows the player to roll a `dice:d6|noform|avg` (`d6`) and add it to the `dice:d20|noform|avg` (`d20`), possibly turning a failure into a success. A player can spend only 1 hero point per roll.
+A player can spend a hero point whenever he or she makes an attack roll, an ability check, or a saving throw The player can spend the hero point after the roll is made but before any of its results are applied. Spending the hero point allows the player to roll a `dice:d6|noform|noparens|avg` (`d6`) and add it to the `dice:d20|noform|noparens|avg` (`d20`), possibly turning a failure into a success. A player can spend only 1 hero point per roll.
 
 In addition, whenever a character fails a death saving throw, the player can spend one hero point to turn the failure into a success.
 
@@ -126,7 +126,7 @@ An Honor saving throw comes into play when you want to determine whether a chara
 
 #### Sanity Score
 
-Consider using the [[/5. Mechanics/Rules/Variant Rules/New Ability Scores Honor And Sanity.md\|New Ability Scores: Honor and Sanity]] if your campaign revolves around entities of an utterly alien and unspeakable nature, such as Great Cthulhu, whose powers and minions can shatter a character's mind.
+Consider using the [[/5. Mechanics/Rules/Variant Rules/New Ability Scores Honor And Sanity.md\|Sanity score]] if your campaign revolves around entities of an utterly alien and unspeakable nature, such as Great Cthulhu, whose powers and minions can shatter a character's mind.
 
 A character with a high Sanity is level-headed even in the face of insane circumstances, while a character with low Sanity is unsteady, breaking easily when confronted by eldritch horrors that are beyond normal reason.
 
@@ -238,19 +238,19 @@ A campaign might include explosives from the Renaissance or the modern world (th
 
 #### Bomb
 
-As an action, a character can light this bomb and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must succeed on a DC 12 Dexterity saving throw or take `dice:3d6|noform|avg` (`3d6`) fire damage.
+As an action, a character can light this bomb and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must succeed on a DC 12 Dexterity saving throw or take `dice:3d6|noform|noparens|avg` (`3d6`) fire damage.
 
 #### Gunpowder
 
 Gunpowder is chiefly used to propel a bullet out of the barrel of a pistol or rifle, or it is formed into a bomb. Gunpowder is sold in small wooden kegs and in water-resistant powder horns.
 
-Setting fire to a container full of gunpowder can cause it to explode, dealing fire damage to creatures within 10 feet of it (`dice:3d6|noform|avg` (`3d6`) for a powder horn, `dice:7d6|noform|avg` (`7d6`) for a keg). A successful DC 12 Dexterity saving throw halves the damage. Setting fire to an ounce of gunpowder causes it to flare for 1 round, shedding bright light in a 30-foot radius and dim light for an additional 30 feet.
+Setting fire to a container full of gunpowder can cause it to explode, dealing fire damage to creatures within 10 feet of it (`dice:3d6|noform|noparens|avg` (`3d6`) for a powder horn, `dice:7d6|noform|noparens|avg` (`7d6`) for a keg). A successful DC 12 Dexterity saving throw halves the damage. Setting fire to an ounce of gunpowder causes it to flare for 1 round, shedding bright light in a 30-foot radius and dim light for an additional 30 feet.
 
 #### Dynamite
 
-As an action, a creature can light a stick of dynamite and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must make a DC 12 Dexterity saving throw, taking `dice:3d6|noform|avg` (`3d6`) bludgeoning damage on a failed save, or half as much damage on a successful one.
+As an action, a creature can light a stick of dynamite and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must make a DC 12 Dexterity saving throw, taking `dice:3d6|noform|noparens|avg` (`3d6`) bludgeoning damage on a failed save, or half as much damage on a successful one.
 
-A character can bind sticks of dynamite together so they explode at the same time. Each additional stick increases the damage by `dice:1d6|noform|avg` (`1d6`) (to a maximum of `dice:10d6|noform|avg` (`10d6`)) and the burst radius by 5 feet (to a maximum of 20 feet).
+A character can bind sticks of dynamite together so they explode at the same time. Each additional stick increases the damage by `dice:1d6|noform|noparens|avg` (`d6`) (to a maximum of `dice:10d6|noform|noparens|avg` (`10d6`)) and the burst radius by 5 feet (to a maximum of 20 feet).
 
 Dynamite can be rigged with a longer fuse to explode after a set amount of time, usually 1 to 6 rounds. Roll initiative for the dynamite. After the set number of rounds goes by, the dynamite explodes on that initiative.
 
@@ -258,7 +258,7 @@ Dynamite can be rigged with a longer fuse to explode after a set amount of time,
 
 As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away.
 
-Each creature within 20 feet of an exploding fragmentation grenade must make a DC 15 Dexterity saving throw, taking `dice:5d6|noform|avg` (`5d6`) piercing damage on a failed save, or half as much damage on a successful one.
+Each creature within 20 feet of an exploding fragmentation grenade must make a DC 15 Dexterity saving throw, taking `dice:5d6|noform|noparens|avg` (`5d6`) piercing damage on a failed save, or half as much damage on a successful one.
 
 One round after a smoke grenade lands, it emits a cloud of smoke that creates a heavily obscured area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
 
@@ -281,32 +281,32 @@ A character who has seen an item used or has operated a similar item has advanta
 | Renaissance Item | Cost | Damage | Weight | Properties |
 |------------------|------|--------|--------|------------|
 | *Martial Ranged Weapons* |  |  |  |  |
-| Pistol | 250 gp | `dice:1d10\|noform\|avg` (`1d10`) piercing | 3 lb. | Ammunition (range 30/90), loading |
-| Musket | 500 gp | `dice:1d12\|noform\|avg` (`1d12`) piercing | 10 lb. | Ammunition (range 40/120), loading, two-handed |
+| &emsp;Pistol | 250 gp | `dice:1d10\|noform\|noparens\|avg` (`d10`) piercing | 3 lb. | Ammunition (range 30/90), loading |
+| &emsp;Musket | 500 gp | `dice:1d12\|noform\|noparens\|avg` (`d12`) piercing | 10 lb. | Ammunition (range 40/120), loading, two-handed |
 | *Ammunition* |  |  |  |  |
-| Bullets (10) | 3 gp | — | 2 lb. | — |
+| &emsp;Bullets (10) | 3 gp | — | 2 lb. | — |
 ^firearms
 
 | Modern Item | Cost | Damage | Weight | Properties |
 |-------------|------|--------|--------|------------|
 | *Martial Ranged Weapons* |  |  |  |  |
-| Pistol, automatic | — | `dice:2d6\|noform\|avg` (`2d6`) piercing | 3 lb. | Ammunition (range 50/150), reload (15 shots) |
-| Revolver | — | `dice:2d8\|noform\|avg` (`2d8`) piercing | 3 lb. | Ammunition (range 40/120), reload (6 shots) |
-| Rifle, hunting | — | `dice:2d10\|noform\|avg` (`2d10`) piercing | 8 lb. | Ammunition (range 80/240), reload (5 shots), two-handed |
-| Rifle, automatic | — | `dice:2d8\|noform\|avg` (`2d8`) piercing | 8 lb. | Ammunition (range 80/240), burst fire, reload (30 shots), two-handed |
-| Shotgun | — | `dice:2d8\|noform\|avg` (`2d8`) piercing | 7 lb. | Ammunition (range 30/90), reload (2 shots), two-handed |
+| &emsp;Pistol, automatic | — | `dice:2d6\|noform\|noparens\|avg` (`2d6`) piercing | 3 lb. | Ammunition (range 50/150), reload (15 shots) |
+| &emsp;Revolver | — | `dice:2d8\|noform\|noparens\|avg` (`2d8`) piercing | 3 lb. | Ammunition (range 40/120), reload (6 shots) |
+| &emsp;Rifle, hunting | — | `dice:2d10\|noform\|noparens\|avg` (`2d10`) piercing | 8 lb. | Ammunition (range 80/240), reload (5 shots), two-handed |
+| &emsp;Rifle, automatic | — | `dice:2d8\|noform\|noparens\|avg` (`2d8`) piercing | 8 lb. | Ammunition (range 80/240), burst fire, reload (30 shots), two-handed |
+| &emsp;Shotgun | — | `dice:2d8\|noform\|noparens\|avg` (`2d8`) piercing | 7 lb. | Ammunition (range 30/90), reload (2 shots), two-handed |
 | *Ammunition* |  |  |  |  |
-| Bullets (10) | — | — | 1 lb. | — |
+| &emsp;Bullets (10) | — | — | 1 lb. | — |
 ^modern-item-cost-damage-weight-properties
 
 | Futuristic Item | Cost | Damage | Weight | Properties |
 |-----------------|------|--------|--------|------------|
 | *Martial Ranged Weapons* |  |  |  |  |
-| Laser pistol | — | `dice:3d6\|noform\|avg` (`3d6`) radiant | 2 lb. | Ammunition (range 40/120), reload (50 shots) |
-| Antimatter rifle | — | `dice:6d8\|noform\|avg` (`6d8`) necrotic | 10 lb. | Ammunition (range 120/360), reload (2 shots), two-handed |
-| Laser rifle | — | `dice:3d8\|noform\|avg` (`3d8`) radiant | 7 lb. | Ammunition (range 100/300), reload (30 shots), two-handed |
+| &emsp;Laser pistol | — | `dice:3d6\|noform\|noparens\|avg` (`3d6`) radiant | 2 lb. | Ammunition (range 40/120), reload (50 shots) |
+| &emsp;Antimatter rifle | — | `dice:6d8\|noform\|noparens\|avg` (`6d8`) necrotic | 10 lb. | Ammunition (range 120/360), reload (2 shots), two-handed |
+| &emsp;Laser rifle | — | `dice:3d8\|noform\|noparens\|avg` (`3d8`) radiant | 7 lb. | Ammunition (range 100/300), reload (30 shots), two-handed |
 | *Ammunition* |  |  |  |  |
-| Energy cell | — | — | 5 oz. | — |
+| &emsp;Energy cell | — | — | 5 oz. | — |
 ^futuristic-item-cost-damage-weight-properties
 
 ### Plot Points
@@ -359,7 +359,7 @@ By cutting down on die rolls, math done on the fly, and the process of asking fo
 
 Recording initiative for each PC and monster, arranging everyone in the correct order, and remembering where you are in the list can bog the game down. If you want quicker combats, at the risk of those combats becoming unbalanced, try using the side initiative rule.
 
-Under this variant, the players roll a `dice:d20|noform|avg` (`d20`) for their initiative as a group, or side. You also roll a `dice:d20|noform|avg` (`d20`). Neither roll receives any modifiers. Whoever rolls highest wins initiative. In case of a tie, keep rerolling until the tie is broken.
+Under this variant, the players roll a `dice:d20|noform|noparens|avg` (`d20`) for their initiative as a group, or side. You also roll a `dice:d20|noform|noparens|avg` (`d20`). Neither roll receives any modifiers. Whoever rolls highest wins initiative. In case of a tie, keep rerolling until the tie is broken.
 
 When it's a side's turn, the members of that side can act in any order they choose. Once everyone on the side has taken a turn, the other side goes. A round ends when both sides have completed their turns.
 
@@ -612,9 +612,9 @@ You can start with the monster's expected challenge rating and use the Monster S
 
 Alternatively, you can assign a number of Hit Dice to a monster, then calculate its average hit points. Don't worry if the hit points aren't matching up with the expected challenge rating for the monster. Other factors can affect a monster's challenge rating, as shown in later steps, and you can always adjust a monster's Hit Dice and hit points later on.
 
-A monster can have as many Hit Dice as you want, but the size of the die used to calculate its hit points depends on the monster's size, as shown in the Hit Dice by Size table. For example, a Medium monster uses `dice:d8|noform|avg` (`d8`)s for hit points, so a Medium monster with 5 Hit Dice and a Constitution of 13 (+1 modifier) has `dice:5d8+5|noform|avg` (`5d8 + 5`) hit points.
+A monster can have as many Hit Dice as you want, but the size of the die used to calculate its hit points depends on the monster's size, as shown in the Hit Dice by Size table. For example, a Medium monster uses `dice:d8|noform|noparens|avg` (`d8`)s for hit points, so a Medium monster with 5 Hit Dice and a Constitution of 13 (+1 modifier) has `dice:5d8+5|noform|noparens|avg` (`5d8 + 5`) hit points.
 
-A monster typically has average hit points based on its Hit Dice. For example, a creature with `dice:5d8+5|noform|avg` (`5d8 + 5`) hit points has an average of 27 hit points (5 × 4.5 + 5).
+A monster typically has average hit points based on its Hit Dice. For example, a creature with `dice:5d8+5|noform|noparens|avg` (`5d8 + 5`) hit points has an average of 27 hit points (5 × 4.5 + 5).
 
 ![[5. Mechanics/Tables/Assign Hit Dice Hit Dice By Size.md\|Assign Hit Dice; Hit Dice by Size]]
 
@@ -662,7 +662,7 @@ You can start with the monster's expected challenge rating and use the Monster S
 
 Choose the type of damage based on how you imagine the damage being delivered. For example, if the monster is attacking with razor-sharp claws, the damage it deals is probably slashing damage. If its claws are poisonous, some portion of the damage might be poison damage instead of slashing damage.
 
-If you want the damage output to vary slightly from round to round, you can translate the damage range into a single die expression (for a monster with one attack) or multiple die expressions (for a monster with multiple attacks). For example, a challenge rating 2 monster deals 15-20 damage per round. If you imagine the creature having a Strength of 18 (+4 modifier), you could give it one melee attack that deals `dice:3d8+4|noform|avg` (`3d8 + 4`) (average 17.5) damage, split the damage output into two separate attacks that deal `dice:1d10+4|noform|avg` (`1d10 + 4`) (average 9) damage each, or use any other combination where the average damage output falls within the desired range.
+If you want the damage output to vary slightly from round to round, you can translate the damage range into a single die expression (for a monster with one attack) or multiple die expressions (for a monster with multiple attacks). For example, a challenge rating 2 monster deals 15-20 damage per round. If you imagine the creature having a Strength of 18 (+4 modifier), you could give it one melee attack that deals `dice:3d8+4|noform|noparens|avg` (`3d8 + 4`) (average 17.5) damage, split the damage output into two separate attacks that deal `dice:1d10+4|noform|noparens|avg` (`1d10 + 4`) (average 9) damage each, or use any other combination where the average damage output falls within the desired range.
 
 ##### Base the Damage on the Weapon
 
@@ -674,9 +674,9 @@ Some monsters use natural weapons, such as claws or tail spikes. Others wield ma
 
 If a monster has natural weapons, you decide how much damage it deals with those attacks, as well as the type of damage. See the Monster Manual for examples.
 
-If a monster wields a manufactured weapon, it deals damage appropriate to the weapon. For example, a greataxe in the hands of a Medium monster deals `dice:1d12|noform|avg` (`1d12`) slashing damage plus the monster's Strength modifier, as is normal for that weapon.
+If a monster wields a manufactured weapon, it deals damage appropriate to the weapon. For example, a greataxe in the hands of a Medium monster deals `dice:1d12|noform|noparens|avg` (`d12`) slashing damage plus the monster's Strength modifier, as is normal for that weapon.
 
-Big monsters typically wield oversized weapons that deal extra dice of damage on a hit. Double the weapon dice if the creature is Large, triple the weapon dice if it's Huge, and quadruple the weapon dice if it's Gargantuan. For example, a Huge giant wielding an appropriately sized greataxe deals `dice:3d12|noform|avg` (`3d12`) slashing damage (plus its Strength bonus), instead of the normal `dice:1d12|noform|avg` (`1d12`).
+Big monsters typically wield oversized weapons that deal extra dice of damage on a hit. Double the weapon dice if the creature is Large, triple the weapon dice if it's Huge, and quadruple the weapon dice if it's Gargantuan. For example, a Huge giant wielding an appropriately sized greataxe deals `dice:3d12|noform|noparens|avg` (`3d12`) slashing damage (plus its Strength bonus), instead of the normal `dice:1d12|noform|noparens|avg` (`d12`).
 
 A creature has disadvantage on attack rolls with a weapon that is sized for a larger attacker. You can rule that a weapon sized for an attacker two or more sizes larger is too big for the creature to use at all.
 
@@ -830,7 +830,7 @@ When creating a new spell, use existing spells as guidelines. Here are some thin
 
 For any spell that deals damage, use the Spell Damage table to determine approximately how much damage is appropriate given the spell's level. The table assumes the spell deals half damage on a successful saving throw or a missed attack. If your spell doesn't deal damage on a successful save, you can increase the damage by 25 percent.
 
-You can use different damage dice than the ones in the table, provided that the average result is about the same. Doing so can add a little variety to the spell. For example, you could change a cantrip's damage from `dice:1d10|noform|avg` (`1d10`) (average 5.5) to `dice:2d4|noform|avg` (`2d4`) (average 5), reducing the maximum damage and making an average result more likely.
+You can use different damage dice than the ones in the table, provided that the average result is about the same. Doing so can add a little variety to the spell. For example, you could change a cantrip's damage from `dice:1d10|noform|noparens|avg` (`d10`) (average 5.5) to `dice:2d4|noform|noparens|avg` (`2d4`) (average 5), reducing the maximum damage and making an average result more likely.
 
 ![[5. Mechanics/Tables/Spell Damage.md\|Spell Damage]]
 
@@ -1010,7 +1010,7 @@ Spells of 6th level and higher are particularly taxing to cast. You can use spel
 
 The number of spell points you have to spend is based on your level as a spellcaster, as shown in the Spell Points by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough points to create a slot above this maximum, you can't do so.
 
-The Spell Points by Level table applies to [[5. Mechanics/Classes/Bard.md\|bards]], [[5. Mechanics/Classes/Cleric.md\|clerics]], [[5. Mechanics/Classes/Druid.md\|druids]], [[5. Mechanics/Classes/Sorcerer.md\|sorcerers]], and [[5. Mechanics/Classes/Wizard.md\|wizards]]. For a [[5. Mechanics/Classes/Paladin.md\|paladin]] or [[5. Mechanics/Classes/Ranger.md\|ranger]], halve the character's level in that class and then consult the table. For a [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|fighter (Eldritch Knight)]] or [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|rogue (Arcane Trickster)]], divide the character's level in that class by three.
+The Spell Points by Level table applies to [[5. Mechanics/Classes/Bard.md\|bards]], [[5. Mechanics/Classes/Cleric.md\|clerics]], [[5. Mechanics/Classes/Druid.md\|druids]], [[5. Mechanics/Classes/Sorcerer.md\|sorcerers]], and [[5. Mechanics/Classes/Wizard.md\|wizards]]. For a [[5. Mechanics/Classes/Paladin.md\|paladin]] or [[5. Mechanics/Classes/Ranger.md\|ranger]], halve the character's level in that class and then consult the table. For a [[5. Mechanics/Classes/Fighter.md\|fighter (Eldritch Knight)]] or [[5. Mechanics/Classes/Rogue.md\|rogue (Arcane Trickster)]], divide the character's level in that class by three.
 
 This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking spell point expenditures for a monster can be a hassle.
 

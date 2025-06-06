@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/vgm
   - deity/orc
   - domain/death
+alignment: Neutral Evil
+domains: Death
+pantheon: Orc
+symbol: 'White hand, palm outward'
 aliases:
   - Yurtrus
 ---

@@ -17,7 +17,7 @@ tags:
 aliases:
   - Howler
 ---
-# [[5. Mechanics/Bestiary/Fiend/Howler (MPMM).md|Howler]]
+# [[5. Mechanics\Bestiary\Fiend\Howler (MPMM).md|Howler]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 155, Mordenkainen's Tome of Foes p. 210*
 
 > [!quote] A quote from Mordenkainen  
@@ -39,16 +39,18 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
 "ac_class": "natural armor"
 "hp": !!int "90"
 "hit_dice": "12d10 + 24"
+"modifier": !!int "3"
 "stats":
-- !!int "17"
-- !!int "16"
-- !!int "15"
-- !!int "5"
-- !!int "14"
-- !!int "6"
+  - !!int "17"
+  - !!int "16"
+  - !!int "15"
+  - !!int "5"
+  - !!int "14"
+  - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "5"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
@@ -56,27 +58,29 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
 "languages": "understands Abyssal but can't speak"
 "cr": "8"
 "traits":
-- "desc": "A howler has advantage on attack rolls against a creature if at least one\
-    \ of the howler's allies is within 5 feet of the creature and the ally isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
-  "name": "Pack Tactics"
+  - "desc": "A howler has advantage on attack rolls against a creature if at least\
+      \ one of the howler's allies is within 5 feet of the creature and the ally isn't\
+      \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
+    "name": "Pack Tactics"
 "actions":
-- "desc": "The howler makes two Rending Bite attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6\
-    \ + 3) piercing damage, plus 22 (4d10) psychic damage if the target is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]].\
-    \ This attack ignores damage resistance."
-  "name": "Rending Bite"
-- "desc": "The howler emits a keening howl in a 60-foot cone. Each creature in that\
-    \ area must succeed on a DC 13 Wisdom saving throw or take 16 (3d10) psychic damage\
-    \ and be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] until the end\
-    \ of the howler's next turn. While a creature is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-    \ in this way, its speed is halved, and it is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]].\
-    \ A target that successfully saves is immune to the Mind-Breaking Howl of all\
-    \ howlers for the next 24 hours."
-  "name": "Mind-Breaking Howl (Recharge 4-6)"
+  - "desc": "The howler makes two Rending Bite attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10\
+      \ (2d6 + 3) piercing damage, plus 22 (4d10) psychic damage if the target is\
+      \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]. This attack ignores\
+      \ damage resistance."
+    "name": "Rending Bite"
+  - "desc": "The howler emits a keening howl in a 60-foot cone. Each creature in that\
+      \ area must succeed on a DC 13 Wisdom saving throw or take 16 (3d10) psychic\
+      \ damage and be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] until\
+      \ the end of the howler's next turn. While a creature is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+      \ in this way, its speed is halved, and it is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]].\
+      \ A target that successfully saves is immune to the Mind-Breaking Howl of all\
+      \ howlers for the next 24 hours."
+    "name": "Mind-Breaking Howl (Recharge 4-6)"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Fiend/token/howler-mpmm.webp"
 ```
 ^statblock

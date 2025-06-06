@@ -8,6 +8,7 @@ tags:
 aliases:
   - Oil (flask)
 cost: 10
+weight: 1
 ---
 # Oil (flask)
 *Adventuring gear*  

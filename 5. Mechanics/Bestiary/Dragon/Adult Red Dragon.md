@@ -15,7 +15,7 @@ tags:
 aliases:
   - Adult Red Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md|Adult Red Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Adult Red Dragon.md|Adult Red Dragon]]
 *Source: Monster Manual p. 98. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
@@ -105,124 +105,128 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "ac_class": "natural armor"
 "hp": !!int "256"
 "hit_dice": "19d12 + 133"
+"modifier": !!int "0"
 "stats":
-- !!int "27"
-- !!int "10"
-- !!int "25"
-- !!int "16"
-- !!int "13"
-- !!int "21"
+  - !!int "27"
+  - !!int "10"
+  - !!int "25"
+  - !!int "16"
+  - !!int "13"
+  - !!int "21"
 "speed": "40 ft., climb 40 ft., fly 80 ft."
 "saves":
-  "Charisma": !!int "11"
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "7"
-  "Constitution": !!int "13"
+  - "dexterity": "+6"
+  - "constitution": "+13"
+  - "wisdom": "+7"
+  - "charisma": "+11"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "13"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+13"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+6"
 "damage_immunities": "fire"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
 "languages": "Common, Draconic"
 "cr": "17"
 "traits":
-- "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
+  - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (3/Day)"
 "actions":
-- "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
-    \ one with its bite and two with its claws."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 19\
-    \ (2d10 + 8) piercing damage plus 7 (2d6) fire damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 15 (2d6\
-    \ + 8) slashing damage."
-  "name": "Claw"
-- "desc": "Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 17\
-    \ (2d8 + 8) bludgeoning damage."
-  "name": "Tail"
-- "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success. If a creature's saving throw\
-    \ is successful or the effect ends for it, the creature is immune to the dragon's\
-    \ Frightful Presence for the next 24 hours."
-  "name": "Frightful Presence"
-- "desc": "The dragon exhales fire in a 60-foot cone. Each creature in that area must\
-    \ make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed\
-    \ save, or half as much damage on a successful one."
-  "name": "Fire Breath (Recharge 5-6)"
+  - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
+      \ one with its bite and two with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 19\
+      \ (2d10 + 8) piercing damage plus 7 (2d6) fire damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 15\
+      \ (2d6 + 8) slashing damage."
+    "name": "Claw"
+  - "desc": "Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 17\
+      \ (2d8 + 8) bludgeoning damage."
+    "name": "Tail"
+  - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
+      \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success. If a creature's saving\
+      \ throw is successful or the effect ends for it, the creature is immune to the\
+      \ dragon's Frightful Presence for the next 24 hours."
+    "name": "Frightful Presence"
+  - "desc": "The dragon exhales fire in a 60-foot cone. Each creature in that area\
+      \ must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on\
+      \ a failed save, or half as much damage on a successful one."
+    "name": "Fire Breath (Recharge 5-6)"
 "legendary_actions":
-- "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ check."
-  "name": "Detect"
-- "desc": "The dragon makes a tail attack."
-  "name": "Tail Attack"
-- "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
-    \ must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The dragon\
-    \ can then fly up to half its flying speed."
-  "name": "Wing Attack (Costs 2 Actions)"
+  - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ check."
+    "name": "Detect"
+  - "desc": "The dragon makes a tail attack."
+    "name": "Tail Attack"
+  - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
+      \ must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
+      \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The\
+      \ dragon can then fly up to half its flying speed."
+    "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
-- "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
-    \ action to cause one of the following effects; the dragon can't use the same\
-    \ effect two rounds in a row:"
-  "name": ""
-- "desc": "- Magma erupts from a point on the ground the dragon can see within 120\
-    \ feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in\
-    \ the geyser's area must make a DC 15 Dexterity saving throw, taking 21 (6d6)\
-    \ fire damage on a failed save, or half as much damage on a successful one.  \n\
-    - A tremor shakes the lair in a 60-foot radius around the dragon. Each creature\
-    \ other than the dragon on the ground in that area must succeed on a DC 15 Dexterity\
-    \ saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. \
-    \ \n- Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point\
-    \ the dragon can see within 120 feet of it. The sphere spreads around corners,\
-    \ and its area is lightly obscured. It lasts until initiative count 20 on the\
-    \ next round. Each creature that starts its turn in the cloud must succeed on\
-    \ a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ until the end of its turn. While [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ in this way, a creature is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]].\
-    \  "
-  "name": ""
-- "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md|adult]]\
-    \ or [[5. Mechanics/Bestiary/Dragon/Ancient Red Dragon.md|ancient]]) red dragon can\
-    \ use one or both of the following additional lair actions while in its lair:\n\
-    \n- Noxious Smoke. A cloud of thick, dark smoke fills a 20-foot-radius sphere\
-    \ centered on a point the dragon can see within 120 feet of it. The sphere spreads\
-    \ around corners, and its area is heavily obscured. A creature other than the\
-    \ dragon that starts its turn in the cloud or enters it for the first time on\
-    \ its turn must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ until the end of its turn. The cloud lasts until initiative count 20 on the\
-    \ next round.  \n- Searing Heat. Searing heat spreads out in a 15-foot-radius\
-    \ sphere centered on a point the dragon can see within 120 feet of it. Any creature\
-    \ that enters the affected area or starts its turn there must make a DC 15 Constitution\
-    \ saving throw, taking 10 (3d6) fire damage on a failed save, or half as much\
-    \ damage on a successful one. The heat lasts until initiative count 20 on the\
-    \ next round.  "
-  "name": "Additional Lair Actions"
+  - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
+      \ action to cause one of the following effects; the dragon can't use the same\
+      \ effect two rounds in a row:"
+    "name": ""
+  - "desc": "- Magma erupts from a point on the ground the dragon can see within 120\
+      \ feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in\
+      \ the geyser's area must make a DC 15 Dexterity saving throw, taking 21 (6d6)\
+      \ fire damage on a failed save, or half as much damage on a successful one.\
+      \  \n- A tremor shakes the lair in a 60-foot radius around the dragon. Each\
+      \ creature other than the dragon on the ground in that area must succeed on\
+      \ a DC 15 Dexterity saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+      \  \n- Volcanic gases form a cloud in a 20-foot-radius sphere centered on a\
+      \ point the dragon can see within 120 feet of it. The sphere spreads around\
+      \ corners, and its area is lightly obscured. It lasts until initiative count\
+      \ 20 on the next round. Each creature that starts its turn in the cloud must\
+      \ succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+      \ until the end of its turn. While [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+      \ in this way, a creature is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]].\
+      \  "
+    "name": ""
+  - "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md|adult]]\
+      \ or [[5. Mechanics/Bestiary/Dragon/Ancient Red Dragon.md|ancient]]) red dragon\
+      \ can use one or both of the following additional lair actions while in its\
+      \ lair:\n\n- Noxious Smoke. A cloud of thick, dark smoke fills a 20-foot-radius\
+      \ sphere centered on a point the dragon can see within 120 feet of it. The sphere\
+      \ spreads around corners, and its area is heavily obscured. A creature other\
+      \ than the dragon that starts its turn in the cloud or enters it for the first\
+      \ time on its turn must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+      \ until the end of its turn. The cloud lasts until initiative count 20 on the\
+      \ next round.  \n- Searing Heat. Searing heat spreads out in a 15-foot-radius\
+      \ sphere centered on a point the dragon can see within 120 feet of it. Any creature\
+      \ that enters the affected area or starts its turn there must make a DC 15 Constitution\
+      \ saving throw, taking 10 (3d6) fire damage on a failed save, or half as much\
+      \ damage on a successful one. The heat lasts until initiative count 20 on the\
+      \ next round.  "
+    "name": "Additional Lair Actions"
 "regional_effects":
-- "desc": "The region containing a legendary red dragon's lair is warped by the dragon's\
-    \ magic, which creates one or more of the following effects:"
-  "name": ""
-- "desc": "- Small earthquakes are common within 6 miles of the dragon's lair.  \n\
-    - Water sources within 1 mile of the lair are supernaturally warm and tainted\
-    \ by sulfur.  \n- Rocky fissures within 1 mile of the dragon's lair form portals\
-    \ to the Elemental Plane of Fire, allowing creatures of elemental fire into the\
-    \ world to dwell nearby.  "
-  "name": ""
-- "desc": "If the dragon dies, these effects fade over the course of 1d10 days."
-  "name": ""
-- "desc": "Any of these effects might appear in the area around a red dragon's lair,\
-    \ in addition to or instead of the effects described in the Monster Manual:\n\
-    \n- Desertification. Precipitation is almost nonexistent within 6 miles of\
-    \ the dragon's lair, making the land parched and arid and most plant life withered\
-    \ and brown.  \n- Fiery Senses. The dragon can hear up to 30 feet through\
-    \ any open flame within 1 mile of the dragon's lair.  \n- Ominous Flames.\
-    \ Open flames within 6 miles of the dragon's lair are tinged dark red, hiss and\
-    \ crackle constantly, and throw off embers and showers of sparks.  "
-  "name": "Additional Regional Effects"
+  - "desc": "The region containing a legendary red dragon's lair is warped by the\
+      \ dragon's magic, which creates one or more of the following effects:"
+    "name": ""
+  - "desc": "- Small earthquakes are common within 6 miles of the dragon's lair. \
+      \ \n- Water sources within 1 mile of the lair are supernaturally warm and tainted\
+      \ by sulfur.  \n- Rocky fissures within 1 mile of the dragon's lair form portals\
+      \ to the Elemental Plane of Fire, allowing creatures of elemental fire into\
+      \ the world to dwell nearby.  "
+    "name": ""
+  - "desc": "If the dragon dies, these effects fade over the course of d10 days."
+    "name": ""
+  - "desc": "Any of these effects might appear in the area around a red dragon's lair,\
+      \ in addition to or instead of the effects described in the Monster Manual:\n\
+      \n- Desertification. Precipitation is almost nonexistent within 6 miles\
+      \ of the dragon's lair, making the land parched and arid and most plant life\
+      \ withered and brown.  \n- Fiery Senses. The dragon can hear up to 30 feet\
+      \ through any open flame within 1 mile of the dragon's lair.  \n- Ominous\
+      \ Flames. Open flames within 6 miles of the dragon's lair are tinged dark\
+      \ red, hiss and crackle constantly, and throw off embers and showers of sparks.\
+      \  "
+    "name": "Additional Regional Effects"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Dragon/token/adult-red-dragon.webp"
 ```
 ^statblock

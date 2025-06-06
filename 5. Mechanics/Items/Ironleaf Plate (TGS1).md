@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ironleaf Plate
 armorClass: 18
+weight: 65
 ---
 # Ironleaf Plate
 *Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare (requires attunement)*  

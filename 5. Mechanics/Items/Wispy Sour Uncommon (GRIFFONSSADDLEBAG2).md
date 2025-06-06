@@ -18,6 +18,6 @@ The typical [[5. Mechanics/Items/Wispy Sour (GRIFFONSSADDLEBAG2).md\|wispy sour]
 
 The following wispy sour is an uncommon variant with additional properties. It also tastes better.
 
-For 1 minute after drinking this potion, you can regain `dice:1d8+2|noform|avg` (`1d8 + 2`) hit points once on each of your turns when you reduce a hostile creature to 0 hit points. If the creature is a construct or undead, you don't regain any hit points in this way. This variant contains a harmless will-o'-wisp fragment. Hazy visions of lost souls occasionally drift through the drink's cheery liquid.
+For 1 minute after drinking this potion, you can regain `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) hit points once on each of your turns when you reduce a hostile creature to 0 hit points. If the creature is a construct or undead, you don't regain any hit points in this way. This variant contains a harmless will-o'-wisp fragment. Hazy visions of lost souls occasionally drift through the drink's cheery liquid.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 192*

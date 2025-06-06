@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hazvongel
 ---
-# [[5. Mechanics/Bestiary/Fiend/Hazvongel (VEOR).md|Hazvongel]]
+# [[5. Mechanics\Bestiary\Fiend\Hazvongel (VEOR).md|Hazvongel]]
 *Source: Vecna: Eve of Ruin p. 222*
 
 > [!quote] A quote from The Demon Lord Pazuzu  
@@ -34,19 +34,21 @@ Hazvongels sometimes soar in the skies of the Abyss, where they originate, but t
 "ac_class": "natural armor"
 "hp": !!int "237"
 "hit_dice": "25d12 + 75"
+"modifier": !!int "5"
 "stats":
-- !!int "21"
-- !!int "20"
-- !!int "16"
-- !!int "12"
-- !!int "15"
-- !!int "11"
+  - !!int "21"
+  - !!int "20"
+  - !!int "16"
+  - !!int "12"
+  - !!int "15"
+  - !!int "11"
 "speed": "20 ft., fly 60 ft."
 "saves":
-  "Wisdom": !!int "7"
-  "Constitution": !!int "8"
+  - "constitution": "+8"
+  - "wisdom": "+7"
 "skillsaves":
-  "Perception": !!int "7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
@@ -56,21 +58,21 @@ Hazvongels sometimes soar in the skies of the Abyss, where they originate, but t
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "14"
 "traits":
-- "desc": "The hazvongel has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
+  - "desc": "The hazvongel has advantage on saving throws against spells and other\
+      \ magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The hazvongel makes three Talon attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 18\
-    \ (3d8 + 5) piercing damage."
-  "name": "Talon"
-- "desc": "The hazvongel launches a spray of blood in a 90-foot cone. Each creature\
-    \ in that area must make a DC 18 Dexterity saving throw, taking 27 (6d8) necrotic\
-    \ damage on a failed save or half as much damage on a successful one."
-  "name": "Blood Barrage (Recharge 5-6)"
+  - "desc": "The hazvongel makes three Talon attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 18\
+      \ (3d8 + 5) piercing damage."
+    "name": "Talon"
+  - "desc": "The hazvongel launches a spray of blood in a 90-foot cone. Each creature\
+      \ in that area must make a DC 18 Dexterity saving throw, taking 27 (6d8) necrotic\
+      \ damage on a failed save or half as much damage on a successful one."
+    "name": "Blood Barrage (Recharge 5-6)"
 "source":
-- "VEoR"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/hazvongel-veor.webp"
 ```
 ^statblock

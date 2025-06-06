@@ -14,25 +14,34 @@ tags:
   - spell/ritual
   - spell/school/divination
   - spell/subclass/divine-soul
-level: 1st-level
-range: true
+classes:
+  - Bard
+  - Cleric
+  - Paladin
+  - Sorcerer (Divine Soul)
 school: Divination
-time: 1 action
+level: 1
+ritual: true
+time: 1 Action
 duration: Instantaneous
-components: 'V, S, a freshly dug up tree root that is consumed by the spell'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Find Kin
+material: a freshly dug up tree root that is consumed by the spell
 ---
 # Find Kin
 *1st-level, Divination (ritual)*  
 
-- **Casting time:** 1 action unless cast as a ritual
+- **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Touch
-- **Components:** V, S, a freshly dug up tree root that is consumed by the spell
+- **Components:** V, S, M (a freshly dug up tree root that is consumed by the spell)
 - **Duration:** Instantaneous
 
 You touch one willing creature or make a melee spell attack against an unwilling creature, which is entitled to a Wisdom saving throw. On a failed save, or automatically if the target is willing, you learn the identity, appearance, and location of one randomly selected living relative of the target.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Paladin\|Paladin]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 69*

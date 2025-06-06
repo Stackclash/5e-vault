@@ -7,6 +7,10 @@ tags:
   - domain/knowledge
   - domain/order
   - domain/war
+alignment: Lawful Good
+domains: 'Knowledge, War, Order'
+pantheon: Greek
+symbol: Owl
 aliases:
   - Athena
 ---

@@ -8,6 +8,7 @@ tags:
 aliases:
   - Painter's Supplies
 cost: 1000
+weight: 5
 ---
 # Painter's Supplies
 *Artisan's tools*  

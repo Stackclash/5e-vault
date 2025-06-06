@@ -15,7 +15,7 @@ aliases:
 
 This midnight purple cloak has a hood which covers the top of your face; you can see through a pair of stylized eyes in the hood, which are opaque white. Pulling the hood up or down requires an action. While the hood is pulled up, you're immune to being [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], and you gain a +2 bonus to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks.
 
-While the hood is pulled up, you can use a bonus action on each of your turns to roll a `dice:d4|noform|avg` (`d4`) and gain one of the following random benefits.
+While the hood is pulled up, you can use a bonus action on each of your turns to roll a `dice:d4|noform|noparens|avg` (`d4`) and gain one of the following random benefits.
 
 `dice: [[Vigilantes Mantle (GRIFFONSSADDLEBAG4).md#^name-benefit]]`
 

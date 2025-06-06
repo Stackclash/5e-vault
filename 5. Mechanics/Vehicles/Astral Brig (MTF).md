@@ -10,6 +10,7 @@ aliases:
   - Astral Brig
 ---
 # Astral Brig
+%%-- Embedded content starts on the next line. --%%
 *Source: Mordenkainen's Tome of Foes p. 90*  
 
 The astral brig is the standard githyanki military vessel. It requires a crew of five and can transport up to sixty passengers. A brig is 90 feet long and 30 feet wide, with two levels below decks for quarters and storage space. It is equipped with two ballistae, each one operated by a pair of crew members, and has a top speed of 12 miles per hour.
@@ -30,6 +31,6 @@ title: Astral Brig
 
 ## Weapon: Ballistas (2)
 
-*Ranged Weapon Attack:* `dice:1d20+6|noform|text(+6)` to hit, range 120/480 ft., one target. *Hit:* `dice:3d10|noform|avg|text(16)` (`3d10`) piercing damage.
+*Ranged Weapon Attack:* `dice:1d20+6|noform|noparens|text(+6)` to hit, range 120/480 ft., one target. *Hit:* `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) piercing damage.
 ```
 ^statblock

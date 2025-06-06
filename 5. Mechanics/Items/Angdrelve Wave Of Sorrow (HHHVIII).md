@@ -9,15 +9,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Angdrelve (Wave of Sorrow)
-one-hand-damage: 2d6 S
-two-hand-damage: 3d6 S
+one-hand-damage: 2d6 slashing
+two-hand-damage: 3d6 slashing
+weight: 6
 ---
 # Angdrelve (Wave of Sorrow)
 *Weapon ([[5. Mechanics/Items/Greatsword.md\|greatsword]]), cursed item, artifact (requires attunement)*  
 
 - **Damage**:
-  - One-handed: 2d6 S
-  - Two-handed: 3d6 S
+  - One-handed: 2d6 slashing
+  - Two-handed: 3d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
@@ -27,7 +28,7 @@ When you attune to this weapon, your appearance changes to become supernaturally
 
 ## Magic Weapon
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, whenever you successfully hit with this weapon, you may choose to deal an additional `dice:3d6|noform|avg` (`3d6`) acid damage to your target.
+You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, whenever you successfully hit with this weapon, you may choose to deal an additional `dice:3d6|noform|noparens|avg` (`3d6`) acid damage to your target.
 
 ## Random Properties
 

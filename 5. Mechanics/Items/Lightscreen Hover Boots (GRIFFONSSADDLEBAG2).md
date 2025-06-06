@@ -20,6 +20,6 @@ As an action, you can speak the boots' command word to cause their light to shin
 
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]]. A [[5. Mechanics/Spells/Disintegrate.md\|disintegrate]] spell destroys the wall instantly, however.
 
-The wall lasts until the start of your next turn. Once you use this property, it can't be used again for `dice:1d4|noform|avg` (`1d4`) hours.
+The wall lasts until the start of your next turn. Once you use this property, it can't be used again for `dice:1d4|noform|noparens|avg` (`d4`) hours.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 115*

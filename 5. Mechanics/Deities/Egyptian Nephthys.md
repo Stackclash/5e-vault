@@ -5,6 +5,10 @@ tags:
   - compendium/src/5e/phb
   - deity/egyptian
   - domain/death
+alignment: Chaotic Good
+domains: Death
+pantheon: Egyptian
+symbol: Horns around a lunar disk
 aliases:
   - Nephthys
 ---

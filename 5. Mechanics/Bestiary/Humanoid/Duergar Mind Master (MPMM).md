@@ -15,7 +15,7 @@ tags:
 aliases:
   - Duergar Mind Master
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Duergar Mind Master (MPMM).md|Duergar Mind Master]]
+# [[5. Mechanics\Bestiary\Humanoid\Duergar Mind Master (MPMM).md|Duergar Mind Master]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 108, Mordenkainen's Tome of Foes p. 189*
 
 Wearing fearsome masks, duergar mind masters usually operate as spies, both inside and beyond a duergar stronghold. Their psionically augmented abilities enable them to see through illusions with ease and shrink down to miniature size to spy on their targets.
@@ -50,65 +50,69 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
+"modifier": !!int "3"
 "stats":
-- !!int "11"
-- !!int "17"
-- !!int "14"
-- !!int "15"
-- !!int "10"
-- !!int "12"
+  - !!int "11"
+  - !!int "17"
+  - !!int "14"
+  - !!int "15"
+  - !!int "10"
+  - !!int "12"
 "speed": "25 ft."
 "saves":
-  "Wisdom": !!int "2"
+  - "wisdom": "+2"
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+5"
 "damage_resistances": "poison"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 12"
 "languages": "Dwarvish, Undercommon"
 "cr": "2"
 "traits":
-- "desc": "The duergar has advantage on saving throws against spells and the [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], and [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-    \ conditions."
-  "name": "Duergar Resilience"
-- "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The duergar has advantage on saving throws against spells and the [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
+      \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], and [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
+      \ conditions."
+    "name": "Duergar Resilience"
+  - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
+      \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
+      \ that rely on sight."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "The duergar makes two Mind-Poison Dagger attacks. It can replace one attack\
-    \ with a use of Mind Mastery."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
-    \ + 3) piercing damage plus 10 (3d6) psychic damage, or 1 piercing damage plus\
-    \ 10 (3d6) psychic damage while under the effect of Reduce."
-  "name": "Mind-Poison Dagger"
-- "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-    \ throw, or its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
-    \ is broken (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
-    \ on a spell). Any equipment the duergar wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-    \ with it."
-  "name": "Invisibility (Recharge 4-6)"
-- "desc": "The duergar targets one creature it can see within 60 feet of it. The target\
-    \ must succeed on a DC 12 Intelligence saving throw, or the duergar causes it\
-    \ to use its reaction, if available, either to make one weapon attack against\
-    \ another creature the duergar can see or to move up to 10 feet in a direction\
-    \ of the duergar's choice. Creatures that can't be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
-    \ are immune to this effect."
-  "name": "Mind Mastery"
+  - "desc": "The duergar makes two Mind-Poison Dagger attacks. It can replace one\
+      \ attack with a use of Mind Mastery."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+      \ + 3) piercing damage plus 10 (3d6) psychic damage, or 1 piercing damage plus\
+      \ 10 (3d6) psychic damage while under the effect of Reduce."
+    "name": "Mind-Poison Dagger"
+  - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
+      \ throw, or its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
+      \ is broken (as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]]\
+      \ on a spell). Any equipment the duergar wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
+      \ with it."
+    "name": "Invisibility (Recharge 4-6)"
+  - "desc": "The duergar targets one creature it can see within 60 feet of it. The\
+      \ target must succeed on a DC 12 Intelligence saving throw, or the duergar causes\
+      \ it to use its reaction, if available, either to make one weapon attack against\
+      \ another creature the duergar can see or to move up to 10 feet in a direction\
+      \ of the duergar's choice. Creatures that can't be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+      \ are immune to this effect."
+    "name": "Mind Mastery"
 "bonus_actions":
-- "desc": "For 1 minute, the duergar magically decreases in size, along with anything\
-    \ it is wearing or carrying. While reduced, the duergar is Tiny, reduces its weapon\
-    \ damage to 1, and makes attack rolls, ability checks, and saving throws with\
-    \ disadvantage if they use Strength. It gains a +5 bonus to all Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
-    \ checks and a +5 bonus to its AC. It can also take a bonus action on each of\
-    \ its turns to take the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]] action."
-  "name": "Reduce (Recharges after a Short or Long Rest)"
+  - "desc": "For 1 minute, the duergar magically decreases in size, along with anything\
+      \ it is wearing or carrying. While reduced, the duergar is Tiny, reduces its\
+      \ weapon damage to 1, and makes attack rolls, ability checks, and saving throws\
+      \ with disadvantage if they use Strength. It gains a +5 bonus to all Dexterity\
+      \ ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]) checks and a +5 bonus to\
+      \ its AC. It can also take a bonus action on each of its turns to take the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
+      \ action."
+    "name": "Reduce (Recharges after a Short or Long Rest)"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Humanoid/token/duergar-mind-master-mpmm.webp"
 ```
 ^statblock

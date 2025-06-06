@@ -8,6 +8,7 @@ tags:
 aliases:
   - Component Pouch
 cost: 2500
+weight: 2
 ---
 # Component Pouch
 *Adventuring gear*  

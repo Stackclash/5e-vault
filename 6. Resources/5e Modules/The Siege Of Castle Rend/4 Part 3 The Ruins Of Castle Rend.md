@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/saf
 aliases:
-  - 'Part 3: The Ruins of Castle Rend'
+  - Part 3: The Ruins of Castle Rend
 ---
 # Part 3: The Ruins of Castle Rend
 *Source: The Siege of Castle Rend, p. 115* 
@@ -65,7 +65,7 @@ The keep's doors are unlocked by virtue of the original keys having been lost. T
 
 ### Floors
 
-Castle Rend's flagstones are cracked and filled with moss. The White Tusk orcs removed some of these stones and excavated the foundation to create hidden pit traps by covering the hole with flimsy wooden planks covered in moss. A pit trap can be spotted by making a successful DC 16 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check while within 30 feet of the pit. If a creature weighing more than 50 pounds (including gear) steps on a pit trap, it must make a successful DC 16 Dexterity saving throw or fall in. The pits are 30 feet deep and lined with wooden stakes. A creature that falls into a pit takes `dice:3d6|noform|avg|text(10)` (`3d6`) bludgeoning damage plus `dice:3d6|noform|avg|text(10)` (`3d6`) piercing damage.
+Castle Rend's flagstones are cracked and filled with moss. The White Tusk orcs removed some of these stones and excavated the foundation to create hidden pit traps by covering the hole with flimsy wooden planks covered in moss. A pit trap can be spotted by making a successful DC 16 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check while within 30 feet of the pit. If a creature weighing more than 50 pounds (including gear) steps on a pit trap, it must make a successful DC 16 Dexterity saving throw or fall in. The pits are 30 feet deep and lined with wooden stakes. A creature that falls into a pit takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage plus `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) piercing damage.
 
 Pit traps are marked on the map of Castle Rend (next page) with a red "X."
 
@@ -116,7 +116,7 @@ Castle Rend's bailey has largely been cleared of overgrowth by the orcs and thei
 
 The orcs atop the guard tower (C13) do not watch the bailey unless alerted by noise from the courtyard. To cover this blind spot, the bailey is filled with pit traps, covered with thin planks of wood, with the wood covered in mud and grass. The pits do not have spikes, but the boards have affixed chimes made of bone and metal.
 
-A creature that weighs more than 50 pounds (including its gear) falls into the pit if it steps on top of it, and must make a successful DC 16 Dexterity saving throw or fall in, breaking the boards, ringing the chimes, and attracting the attention of the sentries. The pits are 20 feet deep, and a creature that falls into one takes `dice:2d6|noform|avg|text(7)` (`2d6`) bludgeoning damage from the fall.
+A creature that weighs more than 50 pounds (including its gear) falls into the pit if it steps on top of it, and must make a successful DC 16 Dexterity saving throw or fall in, breaking the boards, ringing the chimes, and attracting the attention of the sentries. The pits are 20 feet deep, and a creature that falls into one takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage from the fall.
 
 If the chimes ring or another loud noise is made in the bailey, the orc sentries turn to look. Any character in the bailey can use their reaction to fall to the ground and make a Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check with disadvantage. If the result of their check is greater than the result of the orcs' Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, the character escapes the orcs' notice, and the orcs look back toward the forest.
 
@@ -186,7 +186,7 @@ About two dozen sets of orcish armor and crude weapons are haphazardly stored al
 
 The Blue Dragonflight stored their weapons and armor here. None of the armor fits the orcs, and most of it is rusty and corroded by time and water. The crest of the dragon knights is still visible on the chest pieces of the plate armor, though.
 
-Twelve suits of plate armor stand around the walls of this room. Eleven are rusted and pitted, but one still seems to gleam silver, as if it had been polished mere moments ago. This suit of [[5. Mechanics/Items/1 Armor.md\|+1 plate]] belonged to Raizorojan, Captain of the Blue Dragon Phalanx, and fits a human with a broad, athletic build. Other creatures will need to have it refitted. Touching the suit of magical plate causes eight of the rusty suits of armor to creak to life as [[5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]] and attack the pillagers until they all leave the room. These enchanted suits of armor have Strength (`dice:1d20+4|noform|text(+4)`) Strength; their slam attacks have a Slam (`dice:1d20+6|noform|text(+6)`) bonus to hit and deal `dice:2d6+4|noform|avg|text(2d6 + 4)|text(11)` (`2d6 + 4`) bludgeoning damage on a hit. These changes increase their challenge rating to 2 (450 XP).
+Twelve suits of plate armor stand around the walls of this room. Eleven are rusted and pitted, but one still seems to gleam silver, as if it had been polished mere moments ago. This suit of [[5. Mechanics/Items/1 Armor.md\|+1 plate]] belonged to Raizorojan, Captain of the Blue Dragon Phalanx, and fits a human with a broad, athletic build. Other creatures will need to have it refitted. Touching the suit of magical plate causes eight of the rusty suits of armor to creak to life as [[5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]] and attack the pillagers until they all leave the room. These enchanted suits of armor have Strength (`dice:1d20+4|noform|noparens|text(+4)`) Strength; their slam attacks have a Slam (`dice:1d20+6|noform|noparens|text(+6)`) bonus to hit and deal `dice:2d6+4|noform|noparens|avg|text(2d6 + 4)|text(11)` (`2d6 + 4`) bludgeoning damage on a hit. These changes increase their challenge rating to 2 (450 XP).
 
 ### C7. Coatroom
 
@@ -271,11 +271,11 @@ The dungeons of Castle Rend contain the sleeping quarters of the White Tusk clan
 
 This room was once a prison, but the White Tusk orcs have converted it into barracks for their lowliest grunts.
 
-Whichever [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orc]] is on watch duty for the night rests here with 2 [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] at his side. Any combat here instantly draws the attention of any orcs in areas C16a-d and awakens any that are asleep. A poisoned [[5. Mechanics/Items/Dagger.md\|dagger]] rests on the orc's bedside table. The orc throws this dagger at an enemy on his first turn in combat. On a hit, the target takes the dagger's `dice:1d4+3|noform|avg|text(normal damage)` (`1d4+3`) and must also make a DC 14 Constitution saving throw, taking `dice:9d6|noform|avg|text(9d6)|text(31)` (`9d6`) poison damage on a failed save, or half as much damage on a successful one.
+Whichever [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orc]] is on watch duty for the night rests here with 2 [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] at his side. Any combat here instantly draws the attention of any orcs in areas C16a-d and awakens any that are asleep. A poisoned [[5. Mechanics/Items/Dagger.md\|dagger]] rests on the orc's bedside table. The orc throws this dagger at an enemy on his first turn in combat. On a hit, the target takes the dagger's `dice:1d4+3|noform|noparens|avg|text(normal damage)` (`1d4+3`) and must also make a DC 14 Constitution saving throw, taking `dice:9d6|noform|noparens|avg|text(9d6)|text(31)` (`9d6`) poison damage on a failed save, or half as much damage on a successful one.
 
 #### Treasure
 
-A small treasure chest is stowed beneath the sentry's bed. It is unlocked and contains a vial of deadly poison. There is enough left to coat one weapon. The next time the poisoned weapon deals damage to a creature, it must also make a DC 14 Constitution saving throw, taking `dice:9d6|noform|avg|text(31)` (`9d6`) poison damage on a failed save, or half as much damage on a successful one.
+A small treasure chest is stowed beneath the sentry's bed. It is unlocked and contains a vial of deadly poison. There is enough left to coat one weapon. The next time the poisoned weapon deals damage to a creature, it must also make a DC 14 Constitution saving throw, taking `dice:9d6|noform|noparens|avg|text(31)` (`9d6`) poison damage on a failed save, or half as much damage on a successful one.
 
 ### C16. Barracks-Cells
 
@@ -294,7 +294,7 @@ Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker (SAF).md\|White Tusk 
 
 #### Treasure
 
-Each warspeaker keeps a small chest containing 100 gp underneath their cot. Additionally, one has a stack of three stone tablets that function like [[5. Mechanics/Items/Spell Scroll (DMG).md\|spell scrolls]]. Only creatures that can read Orc can use these stone scrolls of [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[5. Mechanics/Spells/Shield Of Faith.md\|shield of faith]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]].
+Each warspeaker keeps a small chest containing 100 gp underneath their cot. Additionally, one has a stack of three stone tablets that function like [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]]. Only creatures that can read Orc can use these stone scrolls of [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[5. Mechanics/Spells/Shield Of Faith.md\|shield of faith]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]].
 
 ### C18. Cauldron Room
 
@@ -310,9 +310,9 @@ The White Tusk orcs have not discovered the secret vault in which the Blue Drago
 
 Within the chamber is a small, uncorrupted shrine to St. Gaed the Confessor. A silver chalice worth 100 gp rests on it, filled with divine mead that has stayed fresh through the ages. A cleric, druid, or paladin that drinks of this holy mead restores 1 expended spell slot.
 
-The larger room to the west of this shrine contains four treasure chests, each locked and trapped with a poison needle trap. Opening a chest without the proper key (found in the scroll case in area C14) causes a needle to spring out from the lock three inches, delivering a dose of poison. A pricked creature takes 1 piercing damage and `dice:2d10|noform|avg|text(11)` (`2d10`) poison damage and must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 hour. A character who makes a successful DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check will deduce the trap's presence from alterations made to the lock to accommodate the needle. The needle can be removed from the lock, disarming the trap, by making a successful DC 15 Dexterity check using [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]. Failing to pick the lock triggers the trap.
+The larger room to the west of this shrine contains four treasure chests, each locked and trapped with a poison needle trap. Opening a chest without the proper key (found in the scroll case in area C14) causes a needle to spring out from the lock three inches, delivering a dose of poison. A pricked creature takes 1 piercing damage and `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) poison damage and must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 hour. A character who makes a successful DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check will deduce the trap's presence from alterations made to the lock to accommodate the needle. The needle can be removed from the lock, disarming the trap, by making a successful DC 15 Dexterity check using [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]. Failing to pick the lock triggers the trap.
 
-Each chest contains `dice:500+10d6|noform|avg` (`500 + 10d6`) gp and `dice:50+1d10|noform|avg` (`50 + 1d10`) pp.
+Each chest contains `dice:500+10d6|noform|noparens|avg` (`500 + 10d6`) gp and `dice:50+1d10|noform|noparens|avg` (`50 + 1d10`) pp.
 
 ### C20. Refuse Pit
 

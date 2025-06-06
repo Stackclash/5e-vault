@@ -9,6 +9,7 @@ tags:
 aliases:
   - Skyglider Shield
 armorClass: 2
+weight: 6
 ---
 # Skyglider Shield
 *Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, rare*  

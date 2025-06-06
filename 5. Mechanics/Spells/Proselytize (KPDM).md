@@ -11,27 +11,37 @@ tags:
   - spell/school/enchantment
   - spell/subclass/divine-soul
   - spell/subclass/oath-of-the-annihilator
-level: 1st-level
-range: false
+classes:
+  - Bard
+  - Cleric
+  - Paladin (Oath of the Annihilator)
+  - Sorcerer (Divine Soul)
+  - Warlock
 school: Enchantment
-time: 1 action
+level: 1
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: 'V, S, a holy symbol or religious tome, text, or pamphlet'
+components:
+  - V
+  - S
+  - M
 aliases:
   - Proselytize
+material: 'a holy symbol or religious tome, text, or pamphlet'
 ---
 # Proselytize
 *1st-level, Enchantment*  
 
-- **Casting time:** 1 action
-- **Range:** Self (10-feet radius)
-- **Components:** V, S, a holy symbol or religious tome, text, or pamphlet
+- **Casting time:** 1 Action
+- **Range:** Self (10-foot Radius)
+- **Components:** V, S, M (a holy symbol or religious tome, text, or pamphlet)
 - **Duration:** Instantaneous
 
 You imbue your words with darkness and fear, bringing creatures around you to their knees. Every creature within 10 feet of you must make a Wisdom saving throw. On a failed save, a creature is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and can't take reactions until the end of its next turn.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the radius of the effect increases by 10 feet for each slot level above 1st.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Sorcerer Divine Soul (XGE)\|Sorcerer (Divine Soul)]]; [[List Spells Classes Paladin Oath Of The Annihilator (KPDM)\|Paladin (Oath of the Annihilator)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [Paladin (Oath of the Annihilator)](compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 312*

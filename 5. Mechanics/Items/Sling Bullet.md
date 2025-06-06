@@ -7,6 +7,7 @@ tags:
   - item/rarity/none
 aliases:
   - Sling Bullet
+weight: 0.075
 ---
 # Sling Bullet
 *Ammunition*  

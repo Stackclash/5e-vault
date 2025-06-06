@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/vrgr
 aliases:
-  - 'Appendix: Spirit Board'
+  - Appendix: Spirit Board
 ---
 # Appendix: Spirit Board
 *Source: Van Richten's Guide to Ravenloft, p. 256* 

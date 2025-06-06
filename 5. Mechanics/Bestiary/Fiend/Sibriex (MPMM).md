@@ -14,7 +14,7 @@ tags:
 aliases:
   - Sibriex
 ---
-# [[5. Mechanics/Bestiary/Fiend/Sibriex (MPMM).md|Sibriex]]
+# [[5. Mechanics\Bestiary\Fiend\Sibriex (MPMM).md|Sibriex]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217, Mordenkainen's Tome of Foes p. 137*
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
@@ -33,21 +33,25 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "ac_class": "natural armor"
 "hp": !!int "150"
 "hit_dice": "12d12 + 72"
+"modifier": !!int "-4"
 "stats":
-- !!int "10"
-- !!int "3"
-- !!int "23"
-- !!int "25"
-- !!int "24"
-- !!int "25"
+  - !!int "10"
+  - !!int "3"
+  - !!int "23"
+  - !!int "25"
+  - !!int "24"
+  - !!int "25"
 "speed": "0 ft., fly 20 ft. (hover)"
 "saves":
-  "Charisma": !!int "13"
-  "Intelligence": !!int "13"
+  - "intelligence": "+13"
+  - "charisma": "+13"
 "skillsaves":
-  "Perception": !!int "13"
-  "History": !!int "13"
-  "Arcana": !!int "13"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+13"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
+    "desc": "+13"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+13"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
@@ -56,57 +60,58 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "languages": "all, telepathy 120 ft."
 "cr": "18"
 "traits":
-- "desc": "The sibriex casts one of the following spells, requiring no material components\
-    \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\n1/day: [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]"
-  "name": "Spellcasting"
-- "desc": "The sibriex emits an aura of corruption 30 feet in every direction. Vegetation\
-    \ withers in the aura, and the ground in the aura is difficult terrain for other\
-    \ creatures. Any creature that starts its turn in the aura must succeed on a DC\
-    \ 20 Constitution saving throw or take 14 (4d6) poison damage. A creature that\
-    \ succeeds on the save is immune to this sibriex's Contamination for 24 hours."
-  "name": "Contamination"
-- "desc": "If the sibriex fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
-- "desc": "The sibriex has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
+  - "desc": "The sibriex emits an aura of corruption 30 feet in every direction. Vegetation\
+      \ withers in the aura, and the ground in the aura is difficult terrain for other\
+      \ creatures. Any creature that starts its turn in the aura must succeed on a\
+      \ DC 20 Constitution saving throw or take 14 (4d6) poison damage. A creature\
+      \ that succeeds on the save is immune to this sibriex's Contamination for 24\
+      \ hours."
+    "name": "Contamination"
+  - "desc": "If the sibriex fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (3/Day)"
+  - "desc": "The sibriex has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The sibriex makes three Chain attacks, and it uses Squirt Bile."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 20\
-    \ (2d12 + 7) force damage."
-  "name": "Chain"
-- "desc": "The sibriex targets one creature it can see within 120 feet of it. The\
-    \ target must succeed on a DC 20 Dexterity saving throw or take 31 (9d6) acid\
-    \ damage."
-  "name": "Squirt Bile"
-- "desc": "The sibriex targets up to three creatures it can see within 120 feet of\
-    \ it. Each target must make a DC 20 Constitution saving throw. On a successful\
-    \ save, a creature becomes immune to this sibriex's Warp Creature. On a failed\
-    \ save, the target is [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], which\
-    \ causes it to also gain 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]].\
-    \ While [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] in this way, the\
-    \ target must repeat the saving throw at the start of each of its turns. Three\
-    \ successful saves against the poison end it, and ending the poison removes any\
-    \ levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]] caused by\
-    \ it. Each failed save causes the target to gain another level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]].\
-    \ Once the target reaches 6 levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
-    \ it dies and instantly transforms into a living [[5. Mechanics/Bestiary/Fiend/Manes.md|manes]]\
-    \ under the sibriex's control. The transformation of the body can be undone only\
-    \ by a [[5. Mechanics/Spells/Wish.md|wish]] spell."
-  "name": "Warp Creature"
+  - "desc": "The sibriex makes three Chain attacks, and it uses Squirt Bile."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 20\
+      \ (2d12 + 7) force damage."
+    "name": "Chain"
+  - "desc": "The sibriex targets one creature it can see within 120 feet of it. The\
+      \ target must succeed on a DC 20 Dexterity saving throw or take 31 (9d6) acid\
+      \ damage."
+    "name": "Squirt Bile"
+  - "desc": "The sibriex targets up to three creatures it can see within 120 feet\
+      \ of it. Each target must make a DC 20 Constitution saving throw. On a successful\
+      \ save, a creature becomes immune to this sibriex's Warp Creature. On a failed\
+      \ save, the target is [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
+      \ which causes it to also gain 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]].\
+      \ While [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] in this way, the\
+      \ target must repeat the saving throw at the start of each of its turns. Three\
+      \ successful saves against the poison end it, and ending the poison removes\
+      \ any levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]] caused\
+      \ by it. Each failed save causes the target to gain another level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]].\
+      \ Once the target reaches 6 levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+      \ it dies and instantly transforms into a living [[5. Mechanics/Bestiary/Fiend/Manes.md|manes]]\
+      \ under the sibriex's control. The transformation of the body can be undone\
+      \ only by a [[5. Mechanics/Spells/Wish.md|wish]] spell."
+    "name": "Warp Creature"
+  - "desc": "The sibriex casts one of the following spells, requiring no material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 21):\n\
+      \nAt will: [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+      \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\n1/day: [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]"
+    "name": "Spellcasting"
 "legendary_actions":
-- "desc": "The sibriex uses Spellcasting."
-  "name": "Cast a Spell"
-- "desc": "The sibriex uses Squirt Bile."
-  "name": "Spray Bile"
-- "desc": "The sibriex uses Warp Creature."
-  "name": "Warp (Costs 2 Actions)"
+  - "desc": "The sibriex uses Spellcasting."
+    "name": "Cast a Spell"
+  - "desc": "The sibriex uses Squirt Bile."
+    "name": "Spray Bile"
+  - "desc": "The sibriex uses Warp Creature."
+    "name": "Warp (Costs 2 Actions)"
 "source":
-- "MPMM"
-- "MTF"
+  - "MPMM"
+  - "MTF"
 "image": "5. Mechanics/Bestiary/Fiend/token/sibriex-mpmm.webp"
 ```
 ^statblock

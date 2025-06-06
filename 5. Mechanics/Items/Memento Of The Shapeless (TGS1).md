@@ -30,7 +30,7 @@ When you hit a creature with this weapon, you can also attempt to grapple it (sa
 
 ## Psuperpod
 
-As an action, choose a creature within 30 feet and make a melee attack against it using the weapon. The weapon stretches towards your target as a pseudopod, ignoring half and three-quarters cover, and deals `dice:6d8|noform|avg` (`6d8`) bludgeoning damage if it hits. After the attack, the weapon retracts back into its previous form. If you attempt to grapple the target with the attack, the save DC increases to 15 for this attack. If the creature fails, it is dragged up to 15 feet closer to you before being released from the weapon's grasp. If it failed the saving throw by 5 or more, it is dragged up to 30 feet closer to you and remains grappled. Once you've used this feature, you can't use it again until 12 hours have passed.
+As an action, choose a creature within 30 feet and make a melee attack against it using the weapon. The weapon stretches towards your target as a pseudopod, ignoring half and three-quarters cover, and deals `dice:6d8|noform|noparens|avg` (`6d8`) bludgeoning damage if it hits. After the attack, the weapon retracts back into its previous form. If you attempt to grapple the target with the attack, the save DC increases to 15 for this attack. If the creature fails, it is dragged up to 15 feet closer to you before being released from the weapon's grasp. If it failed the saving throw by 5 or more, it is dragged up to 30 feet closer to you and remains grappled. Once you've used this feature, you can't use it again until 12 hours have passed.
 
 ## Limb Replacement
 

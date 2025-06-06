@@ -9,7 +9,7 @@ aliases:
 # Deck of Illusions
 *Source: Dungeon Master's Guide p. 161. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing `dice:1d20-1|noform|avg` (` - 1`) cards.
+This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing `dice:1d20-1|noform|noparens|avg` (` - 1`) cards.
 
 The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you.
 

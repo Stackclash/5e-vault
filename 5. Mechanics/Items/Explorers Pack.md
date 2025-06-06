@@ -8,6 +8,7 @@ tags:
 aliases:
   - Explorer's Pack
 cost: 1000
+weight: 59
 ---
 # Explorer's Pack
 *Adventuring gear*  

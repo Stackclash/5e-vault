@@ -6,6 +6,12 @@ tags:
   - deity/drow
   - domain/arcana
   - domain/death
+alignment: Chaotic Evil
+category: The Dark Seldarine
+domains: 'Arcana, Death'
+pantheon: Drow
+province: Necromancy
+symbol: Drow hand wearing many silver rings
 aliases:
   - Kiaransalee
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: forest
 size: Small
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Twig Blight
 ---
-# [[5. Mechanics/Bestiary/Plant/Twig Blight.md|Twig Blight]]
+# [[5. Mechanics\Bestiary\Plant\Twig Blight.md|Twig Blight]]
 *Source: Monster Manual p. 32, Curse of Strahd. Available in the Basic Rules (2014)*
 
 Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.
@@ -55,32 +55,34 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 "ac_class": "natural armor"
 "hp": !!int "4"
 "hit_dice": "1d6 + 1"
+"modifier": !!int "1"
 "stats":
-- !!int "6"
-- !!int "13"
-- !!int "12"
-- !!int "4"
-- !!int "8"
-- !!int "3"
+  - !!int "6"
+  - !!int "13"
+  - !!int "12"
+  - !!int "4"
+  - !!int "8"
+  - !!int "3"
 "speed": "20 ft."
 "skillsaves":
-  "Stealth": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+3"
 "damage_vulnerabilities": "fire"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/8"
 "traits":
-- "desc": "While the blight remains motionless, it is indistinguishable from a dead\
-    \ shrub."
-  "name": "False Appearance"
+  - "desc": "While the blight remains motionless, it is indistinguishable from a dead\
+      \ shrub."
+    "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
-    \ + 1) piercing damage."
-  "name": "Claws"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+      \ + 1) piercing damage."
+    "name": "Claws"
 "source":
-- "MM"
-- "CoS"
+  - "MM"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Plant/token/twig-blight.webp"
 ```
 ^statblock

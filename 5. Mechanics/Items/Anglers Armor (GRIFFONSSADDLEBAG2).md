@@ -10,6 +10,7 @@ tags:
 aliases:
   - Angler's Armor
 armorClass: 14 + Dex modifier (max of +2)
+weight: 45
 ---
 # Angler's Armor
 *Medium armor ([[5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, uncommon (requires attunement)*  

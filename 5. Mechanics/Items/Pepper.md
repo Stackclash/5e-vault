@@ -8,6 +8,7 @@ tags:
 aliases:
   - Pepper
 cost: 200
+weight: 1
 ---
 # Pepper
 *Trade good*  

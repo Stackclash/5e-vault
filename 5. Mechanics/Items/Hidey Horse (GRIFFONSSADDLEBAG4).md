@@ -6,6 +6,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Hidey Horse
+weight: 10
 ---
 # Hidey Horse
 *Wondrous item, rare*  

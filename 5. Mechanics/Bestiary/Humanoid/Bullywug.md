@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: swamp
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Bullywug
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|Bullywug]]
+# [[5. Mechanics\Bestiary\Humanoid\Bullywug.md|Bullywug]]
 *Source: Monster Manual p. 35*
 
 Life as a bullywug is nasty, brutish, and wet. These frog-headed amphibious humanoids must stay constantly moist, dwelling in rainy forests, marshes, and damp caves. Always hungry and thoroughly evil, bullywugs overwhelm opponents with superior numbers when they can, but they flee from serious threats to search for easier prey.
@@ -49,44 +49,46 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 "ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
+"modifier": !!int "1"
 "stats":
-- !!int "12"
-- !!int "12"
-- !!int "13"
-- !!int "7"
-- !!int "10"
-- !!int "7"
+  - !!int "12"
+  - !!int "12"
+  - !!int "13"
+  - !!int "7"
+  - !!int "10"
+  - !!int "7"
 "speed": "20 ft., swim 40 ft."
 "skillsaves":
-  "Stealth": !!int "3"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
+    "desc": "+3"
 "senses": "passive Perception 10"
 "languages": "Bullywug"
 "cr": "1/4"
 "traits":
-- "desc": "The bullywug can breathe air and water."
-  "name": "Amphibious"
-- "desc": "The bullywug can communicate simple concepts to frogs and toads when it\
-    \ speaks in Bullywug."
-  "name": "Speak with Frogs and Toads"
-- "desc": "The bullywug has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
-    \ checks made to hide in swampy terrain."
-  "name": "Swamp Camouflage"
-- "desc": "The bullywug's long jump is up to 20 feet and its high jump is up to 10\
-    \ feet, with or without a running start."
-  "name": "Standing Leap"
+  - "desc": "The bullywug can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "The bullywug can communicate simple concepts to frogs and toads when\
+      \ it speaks in Bullywug."
+    "name": "Speak with Frogs and Toads"
+  - "desc": "The bullywug has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+      \ checks made to hide in swampy terrain."
+    "name": "Swamp Camouflage"
+  - "desc": "The bullywug's long jump is up to 20 feet and its high jump is up to\
+      \ 10 feet, with or without a running start."
+    "name": "Standing Leap"
 "actions":
-- "desc": "The bullywug makes two melee attacks: one with its bite and one with its\
-    \ spear."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
-    \ + 1) bludgeoning damage."
-  "name": "Bite"
-- "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
-    \ ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing\
-    \ damage if used with two hands to make a melee attack."
-  "name": "Spear"
+  - "desc": "The bullywug makes two melee attacks: one with its bite and one with\
+      \ its spear."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+      \ + 1) bludgeoning damage."
+    "name": "Bite"
+  - "desc": "Melee  or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing\
+      \ damage if used with two hands to make a melee attack."
+    "name": "Spear"
 "source":
-- "MM"
+  - "MM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/bullywug.webp"
 ```
 ^statblock

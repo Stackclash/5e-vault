@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhhviii
 aliases:
-  - 'Hamund: Mirrored Stance'
+  - Hamund: Mirrored Stance
 ---
 # Hamund: Mirrored Stance
 *Source: Hamund's Harvesting Handbook: Volume III* 

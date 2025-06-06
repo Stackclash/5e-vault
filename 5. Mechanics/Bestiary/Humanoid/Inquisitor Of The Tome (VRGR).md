@@ -13,7 +13,7 @@ tags:
 aliases:
   - Inquisitor of the Tome
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Inquisitor Of The Tome (VRGR).md|Inquisitor of the Tome]]
+# [[5. Mechanics\Bestiary\Humanoid\Inquisitor Of The Tome (VRGR).md|Inquisitor of the Tome]]
 *Source: Van Richten's Guide to Ravenloft p. 249, Vecna: Eve of Ruin*
 
 "Evil lurks everywhere. With our minds, we will unearth it, we will plumb its depths, and we will annihilate it." With those words, the psychically gifted priest Ulmed founded the Ulmist Inquisition, an order of psionic inquisitors that seeks to discover the wickedness hiding in people's souls.
@@ -32,62 +32,66 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 "ac": !!int "11"
 "hp": !!int "77"
 "hit_dice": "14d8 + 14"
+"modifier": !!int "1"
 "stats":
-- !!int "10"
-- !!int "12"
-- !!int "12"
-- !!int "19"
-- !!int "16"
-- !!int "15"
+  - !!int "10"
+  - !!int "12"
+  - !!int "12"
+  - !!int "19"
+  - !!int "16"
+  - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "7"
+  - "intelligence": "+7"
+  - "wisdom": "+6"
+  - "charisma": "+5"
 "skillsaves":
-  "Nature": !!int "7"
-  "Religion": !!int "10"
-  "History": !!int "7"
-  "Arcana": !!int "10"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+    "desc": "+10"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Nature|Nature]]"
+    "desc": "+7"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
+    "desc": "+10"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
 "senses": "truesight 30 ft., passive Perception 13"
 "languages": "any four languages, telepathy 120 ft."
 "cr": "8"
-"traits":
-- "desc": "The inquisitor casts one of the following spells, requiring no components\
-    \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\nAt\
-    \ will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[5. Mechanics/Spells/Levitate.md|levitate]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Sending.md|sending]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Otilukes Resilient Sphere.md|Otiluke's resilient sphere]],\
-    \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
-  "name": "Innate Spellcasting (Psionics)"
 "actions":
-- "desc": "The inquisitor attacks twice."
-  "name": "Multiattack"
-- "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 22\
-    \ (4d8 + 4) force damage, and if the target is a Large or smaller creature, the\
-    \ inquisitor can push it up to 10 feet away."
-  "name": "Force Bolt"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
-    \ + 4) slashing damage, or 9 (1d10 + 4) if used with two hands, plus 18 (4d8)\
-    \ force damage."
-  "name": "Silver Longsword"
-- "desc": "Each creature in a 20-foot-radius sphere centered on a point the inquisitor\
-    \ can see within 120 feet of it must succeed on a DC 15 Constitution saving throw\
-    \ or take 31 (6d8 + 4) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
-    \ and moved to the unoccupied space closest to the sphere's center. Large and\
-    \ smaller objects that aren't being worn or carried in the sphere automatically\
-    \ take the damage and are similarly moved."
-  "name": "Implode (Recharge 4-6)"
+  - "desc": "The inquisitor attacks twice."
+    "name": "Multiattack"
+  - "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 22\
+      \ (4d8 + 4) force damage, and if the target is a Large or smaller creature,\
+      \ the inquisitor can push it up to 10 feet away."
+    "name": "Force Bolt"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+      \ + 4) slashing damage, or 9 (1d10 + 4) if used with two hands, plus 18 (4d8)\
+      \ force damage."
+    "name": "Silver Longsword"
+  - "desc": "Each creature in a 20-foot-radius sphere centered on a point the inquisitor\
+      \ can see within 120 feet of it must succeed on a DC 15 Constitution saving\
+      \ throw or take 31 (6d8 + 4) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+      \ and moved to the unoccupied space closest to the sphere's center. Large and\
+      \ smaller objects that aren't being worn or carried in the sphere automatically\
+      \ take the damage and are similarly moved."
+    "name": "Implode (Recharge 4-6)"
+  - "desc": "The inquisitor casts one of the following spells, requiring no components\
+      \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n\
+      At will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+      \ [[5. Mechanics/Spells/Levitate.md|levitate]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
+      \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Sending.md|sending]]\n\
+      \n1/day each: [[5. Mechanics/Spells/Otilukes Resilient Sphere.md|Otiluke's resilient sphere]],\
+      \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
+    "name": "Innate Spellcasting (Psionics)"
 "reactions":
-- "desc": "In response to being hit by an attack roll, the inquisitor increases its\
-    \ AC by 4 against the attack. If this causes the attack to miss, the attacker\
-    \ is hit by the attack instead."
-  "name": "Telekinetic Deflection"
+  - "desc": "In response to being hit by an attack roll, the inquisitor increases\
+      \ its AC by 4 against the attack. If this causes the attack to miss, the attacker\
+      \ is hit by the attack instead."
+    "name": "Telekinetic Deflection"
 "source":
-- "VRGR"
-- "VEoR"
+  - "VRGR"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/inquisitor-of-the-tome-vrgr.webp"
 ```
 ^statblock

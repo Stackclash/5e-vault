@@ -15,22 +15,32 @@ tags:
   - spell/school/illusion
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
-level: 1st-level
-range: true
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 school: Illusion
+level: 1
+ritual: true
 time: 1 minute
-duration: 10 day
-components: 'S, a lead-based ink worth at least 10 gp, which the spell consumes'
+duration: 10 days
+components:
+  - S
+  - M
 aliases:
   - Illusory Script
+range: Touch
+material: 'A lead-based ink worth at least 10gp, which this spell consumes.'
 ---
 # Illusory Script
 *1st-level, Illusion (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** Touch
-- **Components:** S, a lead-based ink worth at least 10 gp, which the spell consumes
-- **Duration:** 10 day
+- **Components:** S, M (a lead-based ink worth at least 10 gp, which the spell consumes)
+- **Duration:** 10 days
 
 You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.
 
@@ -40,6 +50,6 @@ Should the spell be dispelled, the original script and the illusion both disappe
 
 A creature with [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]] can read the hidden message.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Rogue Arcane Trickster\|Rogue (Arcane Trickster)]]; [[List Spells Classes Fighter Eldritch Knight\|Fighter (Eldritch Knight)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
 
 *Source: Player's Handbook p. 252. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

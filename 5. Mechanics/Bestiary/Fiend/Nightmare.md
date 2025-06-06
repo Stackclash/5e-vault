@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nightmare
 ---
-# [[5. Mechanics/Bestiary/Fiend/Nightmare.md|Nightmare]]
+# [[5. Mechanics\Bestiary\Fiend\Nightmare.md|Nightmare]]
 *Source: Monster Manual p. 235, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A nightmare appears in a cloud of roiling smoke, its mane, tail, and hooves wreathed in flame. The creature's unearthly black form moves with supernatural speed, vanishing in a cloud of brimstone as quickly as it appeared.
@@ -35,35 +35,36 @@ Nightmares don't appear naturally in the multiverse. They must be created from p
 "ac_class": "natural armor"
 "hp": !!int "68"
 "hit_dice": "8d10 + 24"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "10"
-- !!int "13"
-- !!int "15"
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "10"
+  - !!int "13"
+  - !!int "15"
 "speed": "60 ft., fly 90 ft."
 "damage_immunities": "fire"
 "senses": "passive Perception 11"
 "languages": "understands Abyssal, Common, and Infernal but can't speak "
 "cr": "3"
 "traits":
-- "desc": "The nightmare can grant resistance to fire damage to anyone riding it."
-  "name": "Confer Fire Resistance"
-- "desc": "The nightmare sheds bright light in a 10-foot radius and dim light for\
-    \ an additional 10 feet."
-  "name": "Illumination"
+  - "desc": "The nightmare can grant resistance to fire damage to anyone riding it."
+    "name": "Confer Fire Resistance"
+  - "desc": "The nightmare sheds bright light in a 10-foot radius and dim light for\
+      \ an additional 10 feet."
+    "name": "Illumination"
 "actions":
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8\
-    \ + 4) bludgeoning damage plus 7 (2d6) fire damage."
-  "name": "Hooves"
-- "desc": "The nightmare and up to three willing creatures within 5 feet of it magically\
-    \ enter the Ethereal Plane from the Material Plane, or vice versa."
-  "name": "Ethereal Stride"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+      \ (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage."
+    "name": "Hooves"
+  - "desc": "The nightmare and up to three willing creatures within 5 feet of it magically\
+      \ enter the Ethereal Plane from the Material Plane, or vice versa."
+    "name": "Ethereal Stride"
 "source":
-- "MM"
-- "CoS"
-- "VEoR"
+  - "MM"
+  - "CoS"
+  - "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/nightmare.webp"
 ```
 ^statblock

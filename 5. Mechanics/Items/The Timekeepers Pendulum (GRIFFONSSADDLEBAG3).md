@@ -10,17 +10,18 @@ tags:
   - item/weapon/melee
 aliases:
   - The Timekeeper's Pendulum
-one-hand-damage: 1d12 S
+one-hand-damage: 1d12 slashing
+weight: 7
 ---
 # The Timekeeper's Pendulum
 *Weapon ([[5. Mechanics/Items/Greataxe.md\|greataxe]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/The-Timekeepers-Pendulum.webp#right)  
 
-- **Damage**: 1d12 S
+- **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. While holding it, you can use a bonus action to speak its command word. When you do, you are affected by the [[5. Mechanics/Spells/Haste.md\|haste]] spell, which lasts until the start of your next turn. At the start of your next turn, roll a `dice:d20|noform|avg` (`d20`). On a 1-10, you are affected by the [[5. Mechanics/Spells/Slow.md\|slow]] spell, or the [[5. Mechanics/Spells/Haste.md\|haste]] spell on an 11-20. The spell lasts until the start of your next turn, at which point you roll the `dice:d20|noform|avg` (`d20`) again. Continue to roll the `dice:d20|noform|avg` (`d20`) at the start of each of your turns in this way for 1 minute, gaining the effects of either the haste or [[5. Mechanics/Spells/Slow.md\|slow]] spell each turn, or until you end it using a bonus action. This property of the axe can't be used again until the next dawn.
+You gain a +3 bonus to attack and damage rolls made with this magic weapon. While holding it, you can use a bonus action to speak its command word. When you do, you are affected by the [[5. Mechanics/Spells/Haste.md\|haste]] spell, which lasts until the start of your next turn. At the start of your next turn, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1-10, you are affected by the [[5. Mechanics/Spells/Slow.md\|slow]] spell, or the [[5. Mechanics/Spells/Haste.md\|haste]] spell on an 11-20. The spell lasts until the start of your next turn, at which point you roll the `dice:d20|noform|noparens|avg` (`d20`) again. Continue to roll the `dice:d20|noform|noparens|avg` (`d20`) at the start of each of your turns in this way for 1 minute, gaining the effects of either the haste or [[5. Mechanics/Spells/Slow.md\|slow]] spell each turn, or until you end it using a bonus action. This property of the axe can't be used again until the next dawn.
 
 In addition, when you roll a 1 or 20 on an attack roll made with this weapon, you are immediately affected by either the slow or [[5. Mechanics/Spells/Haste.md\|haste]] spell, respectively. The spell lasts until the start of your next turn; if you are already affected by one of the spells, it's replaced by this one for the duration.
 

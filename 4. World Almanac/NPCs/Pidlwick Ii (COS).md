@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/pidlwick-ii.webp
+  - 4. World Almanac\NPCs\img\pidlwick-ii.webp
 relationships: []
 aliases:
   - Pidlwick II
@@ -151,16 +151,18 @@ actions:
 "ac_class": "natural armor"
 "hp": !!int "10"
 "hit_dice": "3d6"
+"modifier": !!int "2"
 "stats":
-- !!int "10"
-- !!int "14"
-- !!int "11"
-- !!int "8"
-- !!int "13"
-- !!int "10"
+  - !!int "10"
+  - !!int "14"
+  - !!int "11"
+  - !!int "8"
+  - !!int "13"
+  - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Performance": !!int "2"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Performance|Performance]]"
+    "desc": "+2"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
@@ -168,18 +170,18 @@ actions:
 "languages": "understands Common but doesn't speak and can't read or write"
 "cr": "1/4"
 "traits":
-- "desc": "During the first round of combat, Pidlwick II has advantage on attack rolls\
-    \ against any creature that hasn't had a turn yet."
-  "name": "Ambusher"
+  - "desc": "During the first round of combat, Pidlwick II has advantage on attack\
+      \ rolls against any creature that hasn't had a turn yet."
+    "name": "Ambusher"
 "actions":
-- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
-    \ bludgeoning damage."
-  "name": "Club"
-- "desc": "Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit:\
-    \ 4 (1d4 + 2) piercing damage."
-  "name": "Dart"
+  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+      \ bludgeoning damage."
+    "name": "Club"
+  - "desc": "Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit:\
+      \ 4 (1d4 + 2) piercing damage."
+    "name": "Dart"
 "source":
-- "CoS"
+  - "CoS"
 "image": "4. World Almanac/NPCs/token/pidlwick-ii-cos.webp"
 ```
 ^statblock

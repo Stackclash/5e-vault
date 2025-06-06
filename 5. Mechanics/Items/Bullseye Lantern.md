@@ -8,6 +8,7 @@ tags:
 aliases:
   - Bullseye Lantern
 cost: 1000
+weight: 2
 ---
 # Bullseye Lantern
 *Adventuring gear*  

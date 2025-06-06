@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/dwarven
   - domain/forge
+alignment: Lawful Good
+category: The Mordinsamman
+domains: Forge
+pantheon: Dwarven
+province: 'Mining, quarrying'
+symbol: A miner's pick
 aliases:
   - Ulaa
 ---

@@ -10,23 +10,31 @@ tags:
   - spell/school/conjuration
   - spell/subclass/harvester-domain
   - spell/subclass/oath-of-legacy
-level: 5th-level
-range: false
+classes:
+  - Bard
+  - Cleric (Harvester Domain)
+  - Paladin (Oath of Legacy)
+  - Warlock
+  - Wizard
 school: Conjuration
-time: 1 action
+level: 5
+ritual: false
+time: 1 Action
 duration: Instantaneous
-components: >-
-  V, S, the intact heart of the creature you wish to conjure, which the spell
-  consumes
+components:
+  - V
+  - S
+  - M
 aliases:
   - Conjure Creature
+material: 'the intact heart of the creature you wish to conjure, which the spell consumes'
 ---
 # Conjure Creature
 *5th-level, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
-- **Components:** V, S, the intact heart of the creature you wish to conjure, which the spell consumes
+- **Components:** V, S, M (the intact heart of the creature you wish to conjure, which the spell consumes)
 - **Duration:** Instantaneous
 
 Target a space within range while holding the heart of the creature you wish to conjure. When you cast this spell, the creature's heart disintegrates into dust, and a copy of that creature appears in the space you targeted. If there is not enough room to accommodate that creature, the spell automatically fails.
@@ -35,6 +43,6 @@ The conjured creature immediately performs one action of your choice from its st
 
 A creature's heart may be harvested with a DC 10 "harvesting check" unless otherwise stated in its harvesting table.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Warlock\|Warlock]]; [[List Spells Classes Wizard\|Wizard]]; [[List Spells Classes Cleric Harvester Domain (HHHVIII)\|Cleric (Harvester Domain)]]; [[List Spells Classes Paladin Oath Of Legacy (HHHVIII)\|Paladin (Oath of Legacy)]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [Paladin (Oath of Legacy)](compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Harvester Domain)](compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII")
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 69*

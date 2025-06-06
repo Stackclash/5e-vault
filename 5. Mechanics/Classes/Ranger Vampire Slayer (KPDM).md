@@ -8,7 +8,7 @@ aliases:
   - Vampire Slayer
 ---
 # Vampire Slayer
-*[[Ranger.md\|Ranger]]: Ranger Archetype*  
+*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
 *Source: Deep Magic p. 144*  
 
 > [!tldr] Class and Feature Progression
@@ -20,26 +20,27 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Vampire%20Slayer%20(Level%203)'>Vampire Slayer</a>, <a href='#Hunter's%20Prey%20(Level%203)'>Hunter's Prey</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Vampire Slayer (Level 3)' class='internal-link'>Vampire Slayer</a>, <a href='#Hunter's Prey (Level 3)' class='internal-link'>Hunter's Prey</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Defensive%20Tactics%20(Level%207)'>Defensive Tactics</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Defensive Tactics (Level 7)' class='internal-link'>Defensive Tactics</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Slayer's%20Strike%20(Level%2011)'>Slayer's Strike</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Slayer's Strike (Level 11)' class='internal-link'>Slayer's Strike</a></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Superior%20Hunter's%20Defense%20(Level%2015)'>Superior Hunter's Defense</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Superior Hunter's Defense (Level 15)' class='internal-link'>Superior Hunter's Defense</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -60,7 +61,7 @@ You must choose undead as your favored enemy type at 1st level. At 6th and 14th 
 
 At 3rd level, you can choose the following feature in place of Colossus Slayer, Giant Killer, or Horde Breaker:
 
-Empowered Strike Your expertise in fighting undead and lycanthropes allows you to harm them even when you're not wielding a magical weapon. When fighting a creature that has resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons, you can ignore this resistance once per turn when you hit successfully with your nonmagical weapon. If you are wielding a magical weapon, the creature takes an extra `dice:1d8|noform|avg` (`1d8`) damage from one of your successful attacks per turn.
+Empowered Strike Your expertise in fighting undead and lycanthropes allows you to harm them even when you're not wielding a magical weapon. When fighting a creature that has resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons, you can ignore this resistance once per turn when you hit successfully with your nonmagical weapon. If you are wielding a magical weapon, the creature takes an extra `dice:1d8|noform|noparens|avg` (`d8`) damage from one of your successful attacks per turn.
 
 ### Defensive Tactics (Level 7)
 
@@ -76,7 +77,7 @@ Ranger's Resilience. You have advantage on saving throws against paralysis and e
 
 At 11th level, you can choose the following feature in place of Volley or Whirlwind Attack.
 
-Straight Through the Heart. When you use an attack action, you can choose to make a single melee attack against a favored enemy in an effort to strike a vulnerable spot. If the attack hits, it deals an extra `dice:6d6|noform|avg` (`6d6`) damage.
+Straight Through the Heart. When you use an attack action, you can choose to make a single melee attack against a favored enemy in an effort to strike a vulnerable spot. If the attack hits, it deals an extra `dice:6d6|noform|noparens|avg` (`6d6`) damage.
 
 ### Superior Hunter's Defense (Level 15)
 

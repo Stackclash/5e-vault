@@ -10,14 +10,15 @@ tags:
   - item/weapon/simple
 aliases:
   - Druidic Throwing Club
-one-hand-damage: 1d4 B
-range: 20/60
+one-hand-damage: 1d4 bludgeoning
+range: 20\60
+weight: 2
 ---
 # Druidic Throwing Club
 *Weapon ([[5. Mechanics/Items/Club.md\|club]]), major, rare (requires attunement by a druid or ranger)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Druidic-Throwing-Club.webp#right)  
 
-- **Damage**: 1d4 B
+- **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.

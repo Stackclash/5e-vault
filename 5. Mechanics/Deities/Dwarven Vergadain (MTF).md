@@ -5,6 +5,12 @@ tags:
   - compendium/src/5e/mtf
   - deity/dwarven
   - domain/trickery
+alignment: Neutral
+category: The Mordinsamman
+domains: Trickery
+pantheon: Dwarven
+province: 'Luck, wealth'
+symbol: Gold coin bearing a dwarf's face
 aliases:
   - Vergadain
 ---

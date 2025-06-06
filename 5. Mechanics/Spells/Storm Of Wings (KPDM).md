@@ -8,33 +8,42 @@ tags:
   - spell/class/ranger
   - spell/level/4th-level
   - spell/school/conjuration
-level: 4th-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Ranger
 school: Conjuration
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: 'V, S, a drop of honey'
+level: 4
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
+  - S
+  - M
 aliases:
   - Storm of Wings
+concentration: true
+material: a drop of honey
 ---
 # Storm of Wings
 *4th-level, Conjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
-- **Components:** V, S, a drop of honey
+- **Components:** V, S, M (a drop of honey)
 - **Duration:** Concentration, up to 1 minute
 
 You create a storm of spectral birds, bats, or flying insects in a 15-foot-radius sphere on a point you can see within range. The storm spreads around corners, and its area is lightly obscured. Each creature in the storm when it appears and each a creature that starts its turn in the storm is affected by the storm.
 
 As a bonus action on your turn, you can move the storm up to 30 feet. As an action on your turn, you can change the storm from one type to another, such as from a storm of bats to a storm of insects.
 
-**Bats**. The creature takes `dice:4d6|noform|avg` (`4d6`) necrotic damage, and its speed is halved while within the storm as the bats cling to it and drain its blood.
+**Bats**. The creature takes `dice:4d6|noform|noparens|avg` (`4d6`) necrotic damage, and its speed is halved while within the storm as the bats cling to it and drain its blood.
 
-**Birds**. The creature takes `dice:4d6|noform|avg` (`4d6`) slashing damage, and it has disadvantage on attack rolls while within the storm as the birds fly in the way of the creature's attacks.
+**Birds**. The creature takes `dice:4d6|noform|noparens|avg` (`4d6`) slashing damage, and it has disadvantage on attack rolls while within the storm as the birds fly in the way of the creature's attacks.
 
-**Insects**. The creature takes `dice:4d6|noform|avg` (`4d6`) poison damage, and it must make a Constitution saving throw each time it casts a spell while within the storm. On a failed save, the creature fails to cast the spell, losing the action but not the spell slot.
+**Insects**. The creature takes `dice:4d6|noform|noparens|avg` (`4d6`) poison damage, and it must make a Constitution saving throw each time it casts a spell while within the storm. On a failed save, the creature fails to cast the spell, losing the action but not the spell slot.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 110*

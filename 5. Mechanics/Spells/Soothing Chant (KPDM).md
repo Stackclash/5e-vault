@@ -7,19 +7,24 @@ tags:
   - spell/class/cleric
   - spell/level/3rd-level
   - spell/school/abjuration
-level: 3rd-level
-range: false
+classes:
+  - Bard
+  - Cleric
 school: Abjuration
-time: 1 action
-duration: 'Concentration, up to 1 minute'
-components: V
+level: 3
+ritual: false
+time: 1 Action
+duration: up to 1 minute
+components:
+  - V
 aliases:
   - Soothing Chant
+concentration: true
 ---
 # Soothing Chant
 *3rd-level, Abjuration*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
@@ -30,6 +35,6 @@ On your turn, you can use a bonus action to designate up to six other creatures 
 
 The effects last for the duration or until you (or any other designated creatures) engage in hostile action against a [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] creature or in its presence. Any creature that you attack or target with a harmful spell, or that sees you attack or cast a harmful spell against another [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] creature, is no longer affected by this spell and can act normally against you (or against any creature you designated).
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Cleric\|Cleric]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 107*

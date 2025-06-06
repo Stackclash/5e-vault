@@ -6,6 +6,10 @@ tags:
   - deity/nonhuman
   - domain/knowledge
   - domain/war
+alignment: Lawful Evil
+domains: 'Knowledge, War'
+pantheon: Nonhuman
+symbol: Flaming sword
 aliases:
   - Surtur
 ---

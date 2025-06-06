@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/cos
 aliases:
-  - 'Chapter 13: The Amber Temple'
+  - Chapter 13: The Amber Temple
 ---
 # Chapter 13: The Amber Temple
 *Source: Curse of Strahd, p. 181* 
@@ -151,7 +151,7 @@ The arcanaloth carries a spellbook containing the wizard spells it has prepared 
 - [[5. Mechanics/Items/Riding Horse.md\|Riding horse]]  
 - Pit  
 - [[5. Mechanics/Items/Rowboat.md\|Rowboat]]  
-- [[5. Mechanics/Items/Spell Scroll (DMG).md\|Spell scroll]] ([[5. Mechanics/Spells/Moonbeam.md\|moonbeam]])  
+- [[5. Mechanics/Items/Spell Scroll.md\|Spell scroll]] ([[5. Mechanics/Spells/Moonbeam.md\|moonbeam]])  
 - [[5. Mechanics/Items/Mastiff.md\|Mastiffs]]  
 
 See the robe's description in the "Dungeon Master's Guide" for more information on each patch.
@@ -166,7 +166,7 @@ Set into the middle of the temple's north wall is a secret door. A character who
 
 ### X5c. Locked Doors
 
-These amber doors are sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress it is "Etherna." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If they are reduced to 0 hit points, necrotic energy fills the 30-foot cube directly north of the them. A creature in that area takes `dice:4d10|noform|avg|text(22)` (`4d10`) necrotic damage, turning to dust if reduced to 0 hit points. Beyond the doors lie the temple catacombs (area X31).
+These amber doors are sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress it is "Etherna." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If they are reduced to 0 hit points, necrotic energy fills the 30-foot cube directly north of the them. A creature in that area takes `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) necrotic damage, turning to dust if reduced to 0 hit points. Beyond the doors lie the temple catacombs (area X31).
 
 ### X5d. Amber Reflections
 
@@ -233,7 +233,7 @@ Hiding behind the lectern is [[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]]
 
 #### Treasure
 
-[[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] carries his spellbook, which contains all the spells he has prepared. He also has a gold amulet shaped like an upside-down V hidden under his robes. Of exquisite design, the amulet is worth 1,000 gp. It is the [[5. Mechanics/Items/Masters Amulet.md\|control amulet]] for the [[5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]] in area X35.
+[[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] carries his spellbook, which contains all the spells he has prepared. He also has a gold amulet shaped like an upside-down V hidden under his robes. Of exquisite design, the amulet is worth 1,000 gp. It is the [[5. Mechanics/Items/Masters Amulet (MM).md\|control amulet]] for the [[5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]] in area X35.
 
 Although he can tell that the amulet is magical, he doesn't know its purpose. The amulet thrums when it comes within 10 feet of the shield guardian. If [[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] realizes what the amulet does, he won't part with it.
 
@@ -596,7 +596,7 @@ Several of these amber-glazed rooms are located along the periphery of the compl
 
 #### X33a. Vault of Shalx
 
-The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Shalx." A character can push open the doors with a successful DC 25 Strength check. The door (AC 15, 30 hit points) can also be smashed. If the door is reduced to 0 hit points, necrotic energy fills the 30-foot cube directly in front of it. A creature in the area takes `dice:4d10|noform|avg|text(22)` (`4d10`) necrotic damage, turning to dust and bones if reduced to 0 hit points.
+The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Shalx." A character can push open the doors with a successful DC 25 Strength check. The door (AC 15, 30 hit points) can also be smashed. If the door is reduced to 0 hit points, necrotic energy fills the 30-foot cube directly in front of it. A creature in the area takes `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) necrotic damage, turning to dust and bones if reduced to 0 hit points.
 
 Adjust the following text if the creatures in this room have already been encountered and destroyed.
 
@@ -833,7 +833,7 @@ The ceiling here is 10 feet high. A [[5. Mechanics/Bestiary/Undead/Poltergeist.m
 
 #### Treasure
 
-A search of the room yields a wooden scroll tube containing an intact [[5. Mechanics/Items/Spell Scroll (DMG).md\|spell scroll]] of [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]].
+A search of the room yields a wooden scroll tube containing an intact [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]].
 
 ### X39. Plundered Treasury
 
@@ -924,7 +924,7 @@ Six piles of treasure are numbered on the map.
 
 #### Fortunes of Ravenloft
 
-If your card reading reveals that a treasure is here, it's buried in a random pile of treasure (roll a `dice:d6|noform|avg` (`d6`)).
+If your card reading reveals that a treasure is here, it's buried in a random pile of treasure (roll a `dice:d6|noform|noparens|avg` (`d6`)).
 
 ### X41. Fissure
 

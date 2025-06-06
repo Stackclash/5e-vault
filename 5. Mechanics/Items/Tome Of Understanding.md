@@ -7,6 +7,7 @@ tags:
   - item/tier/major
 aliases:
   - Tome of Understanding
+weight: 5
 ---
 # Tome of Understanding
 *Wondrous item, major, very rare*  

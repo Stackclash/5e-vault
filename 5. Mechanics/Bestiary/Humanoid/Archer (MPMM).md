@@ -15,7 +15,7 @@ tags:
 aliases:
   - Archer
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Archer (MPMM).md|Archer]]
+# [[5. Mechanics\Bestiary\Humanoid\Archer (MPMM).md|Archer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 49, Volo's Guide to Monsters p. 210*
 
 Archers defend castles, hunt wild game on the fringes of civilization, serve as artillery in military units, and occasionally make good coin as brigands or caravan guards.
@@ -51,36 +51,39 @@ Some renowned archers and groups of archers are known for the special fletching 
 "ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
+"modifier": !!int "4"
 "stats":
-- !!int "11"
-- !!int "18"
-- !!int "16"
-- !!int "11"
-- !!int "13"
-- !!int "10"
+  - !!int "11"
+  - !!int "18"
+  - !!int "16"
+  - !!int "11"
+  - !!int "13"
+  - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "5"
-  "Acrobatics": !!int "6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
+    "desc": "+6"
+  - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
+    "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "any one language (usually Common)"
 "cr": "3"
 "actions":
-- "desc": "The archer makes two Shortsword or Longbow attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
-    \ + 4) piercing damage."
-  "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit:\
-    \ 8 (1d8 + 4) piercing damage."
-  "name": "Longbow"
+  - "desc": "The archer makes two Shortsword or Longbow attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+      \ + 4) piercing damage."
+    "name": "Shortsword"
+  - "desc": "Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit:\
+      \ 8 (1d8 + 4) piercing damage."
+    "name": "Longbow"
 "bonus_actions":
-- "desc": "Immediately after making an attack roll or a damage roll with a ranged\
-    \ weapon, the archer can roll a d10 and add the number rolled to the total."
-  "name": "Archer's Eye (3/Day)"
+  - "desc": "Immediately after making an attack roll or a damage roll with a ranged\
+      \ weapon, the archer can roll a d10 and add the number rolled to the total."
+    "name": "Archer's Eye (3/Day)"
 "source":
-- "MPMM"
-- "VGM"
+  - "MPMM"
+  - "VGM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/archer-mpmm.webp"
 ```
 ^statblock

@@ -109,7 +109,7 @@ At 1st level, a [[5. Mechanics/Classes/Warlock.md\|warlock]] gains the [Otherwor
 - [[5. Mechanics/Classes/Warlock The Sibyl (KPDM).md\|The Sibyl]]  
 
 > [!note]
-> The Otherworldly Patrons presented here include modified or augmented [Pact Boons](compendium/classes/warlock.md#Pact%20Boon%20(Level%203)), which can be viewed [[5. Mechanics/Lists/List Optfeaturetype Pb.md\|here]].
+> The Otherworldly Patrons presented here include modified or augmented [Pact Boons](compendium/classes/warlock.md#Pact%20Boon%20(Level%203)), which can be viewed here^[[5. Mechanics/Lists/List Optfeaturetype Pb.md\|Optional features from [Pact Boon]]; defined in Deep Magic].
 
 > [!gallery]
 > ![The Genie Lord](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/KPDM/0029.webp#gallery)

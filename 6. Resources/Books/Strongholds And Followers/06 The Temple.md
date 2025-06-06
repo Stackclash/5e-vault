@@ -40,7 +40,7 @@ Here are some examples of deeds that would add to or subtract from your current 
 
 ## Petitioning your Deity
 
-**As an action, you can petition your deity for aid.** The GM ^[Of course, the GM can let the player roll! Just be aware, a 100 is just as likely as a 1.] rolls `dice:d100|noform|avg|text(percentile dice)` (`d100`) and adds your current concordance and your current level. **If you have a temple, you gain an extra +30 to your roll.**
+**As an action, you can petition your deity for aid.** The GM ^[Of course, the GM can let the player roll! Just be aware, a 100 is just as likely as a 1.] rolls `dice:d100|noform|noparens|avg|text(percentile dice)` (`d100`) and adds your current concordance and your current level. **If you have a temple, you gain an extra +30 to your roll.**
 
 You may receive aid, be ignored, or be punished for your repeated badgering. Unless you've been busting your ass (or have a temple), there's a good chance you'll be cursed just for being annoying.
 

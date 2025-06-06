@@ -8,7 +8,7 @@ aliases:
   - Path of the Beast
 ---
 # Path of the Beast
-*[[Barbarian.md\|Barbarian]]: Primal Path*  
+*[[.nullBarbarian.md\|Barbarian]]: Primal Path*  
 *Source: Tasha's Cauldron of Everything p. 24*  
 
 > [!tldr] Class and Feature Progression
@@ -20,18 +20,18 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path%20of%20the%20Beast%20(Level%203)'>Path of the Beast</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path of the Beast (Level 3)' class='internal-link'>Path of the Beast</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Bestial%20Soul%20(Level%206)'>Bestial Soul</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Bestial Soul (Level 6)' class='internal-link'>Bestial Soul</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Infectious%20Fury%20(Level%2010)'>Infectious Fury</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Infectious Fury (Level 10)' class='internal-link'>Infectious Fury</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Call%20the%20Hunt%20(Level%2014)'>Call the Hunt</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Call the Hunt (Level 14)' class='internal-link'>Call the Hunt</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -39,7 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -70,9 +71,9 @@ When you enter your rage, you can transform, revealing the bestial power within 
 
 You choose the weapon's form each time you rage:
 
-- **Bite.** Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals `dice:1d8|noform|avg` (`1d8`) piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of hit points equal to your proficiency bonus, provided you have less than half your hit points when you hit.  
-- **Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals `dice:1d6|noform|avg` (`1d6`) slashing damage on a hit. Once on each of your turns when you attack with a claw using the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can make one additional claw attack as part of the same action.  
-- **Tail.** You grow a lashing, spiny tail, which deals `dice:1d8|noform|avg` (`1d8`) piercing damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your reaction to swipe your tail and roll a `dice:d8|noform|avg` (`d8`), applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.  
+- **Bite.** Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals `dice:1d8|noform|noparens|avg` (`d8`) piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of hit points equal to your proficiency bonus, provided you have less than half your hit points when you hit.  
+- **Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals `dice:1d6|noform|noparens|avg` (`d6`) slashing damage on a hit. Once on each of your turns when you attack with a claw using the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can make one additional claw attack as part of the same action.  
+- **Tail.** You grow a lashing, spiny tail, which deals `dice:1d8|noform|noparens|avg` (`d8`) piercing damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your reaction to swipe your tail and roll a `dice:d8|noform|noparens|avg` (`d8`), applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.  
 
 ### Bestial Soul (Level 6)
 
@@ -93,7 +94,7 @@ You can also alter your form to help you adapt to your surroundings. When you fi
 When you hit a creature with your natural weapons while you are raging, the beast within you can curse your target with rabid fury. The target must succeed on a Wisdom saving throw (DC equal to 8 + your Constitution modifier + your proficiency bonus) or suffer one of the following effects (your choice):
 
 - The target must use its reaction to make a melee attack against another creature of your choice that you can see.  
-- The target takes `dice:2d12|noform|avg` (`2d12`) psychic damage.  
+- The target takes `dice:2d12|noform|noparens|avg` (`2d12`) psychic damage.  
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -103,6 +104,6 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 The beast within you grows so powerful that you can spread its ferocity to others and gain resilience from them joining your hunt. When you enter your rage, you can choose a number of other willing creatures you can see within 30 feet of you equal to your Constitution modifier (minimum of one creature).
 
-You gain 5 temporary hit points for each creature that accepts this feature. Until the rage ends, the chosen creatures can each use the following benefit once on each of their turns: when the creature hits a target with an attack roll and deals damage to it, the creature can roll a `dice:d6|noform|avg` (`d6`) and gain a bonus to the damage equal to the number rolled.
+You gain 5 temporary hit points for each creature that accepts this feature. Until the rage ends, the chosen creatures can each use the following benefit once on each of their turns: when the creature hits a target with an attack roll and deals damage to it, the creature can roll a `dice:d6|noform|noparens|avg` (`d6`) and gain a bonus to the damage equal to the number rolled.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.

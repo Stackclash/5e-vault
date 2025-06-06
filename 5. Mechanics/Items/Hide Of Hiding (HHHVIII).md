@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hide of Hiding
 armorClass: 11 + Dex modifier
+weight: 10
 ---
 # Hide of Hiding
 *Light armor ([[5. Mechanics/Items/Leather Armor.md\|leather armor]]), very rare (requires attunement)*  

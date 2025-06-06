@@ -8,25 +8,31 @@ tags:
   - spell/class/ranger
   - spell/level/2nd-level
   - spell/school/divination
-level: 2nd-level
-range: false
+classes:
+  - Bard
+  - Druid
+  - Ranger
 school: Divination
-time: 1 action
+level: 2
+ritual: false
+time: 1 Action
 duration: 1 hour
-components: 'V, S'
+components:
+  - V
+  - S
 aliases:
   - Hunter's Cunning
 ---
 # Hunter's Cunning
 *2nd-level, Divination*  
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** 1 hour
 
 You grant a creature you touch preternatural senses and insight into its immediate environment. Until the spell ends, the target gains advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) and Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) checks and ignores the effect of natural (nonmagical) difficult terrain.
 
-**Classes**: [[List Spells Classes Bard\|Bard]]; [[List Spells Classes Druid\|Druid]]; [[List Spells Classes Ranger\|Ranger]]
+**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 81*

@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Amulet of Proof against Detection and Location
+weight: 1
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Baboon
 ---
-# [[5. Mechanics/Bestiary/Beast/Baboon.md|Baboon]]
+# [[5. Mechanics\Bestiary\Beast\Baboon.md|Baboon]]
 *Source: Monster Manual p. 318, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -26,29 +26,30 @@ aliases:
 "ac": !!int "12"
 "hp": !!int "3"
 "hit_dice": "1d6"
+"modifier": !!int "2"
 "stats":
-- !!int "8"
-- !!int "14"
-- !!int "11"
-- !!int "4"
-- !!int "12"
-- !!int "6"
+  - !!int "8"
+  - !!int "14"
+  - !!int "11"
+  - !!int "4"
+  - !!int "12"
+  - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "senses": "passive Perception 11"
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The baboon has advantage on an attack roll against a creature if at least\
-    \ one of the baboon's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
-  "name": "Pack Tactics"
+  - "desc": "The baboon has advantage on an attack roll against a creature if at least\
+      \ one of the baboon's allies is within 5 feet of the creature and the ally isn't\
+      \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
+    "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4\
-    \ - 1) piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4\
+      \ - 1) piercing damage."
+    "name": "Bite"
 "source":
-- "MM"
-- "CoS"
+  - "MM"
+  - "CoS"
 "image": "5. Mechanics/Bestiary/Beast/token/baboon.webp"
 ```
 ^statblock

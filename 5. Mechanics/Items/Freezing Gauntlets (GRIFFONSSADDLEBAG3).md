@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Freezing-Gauntlets.webp#right)  
 
 
-When not worn, these gauntlets appear to be simple iron cuffs. Once worn, however, creeping plates of crystalline ice form from beneath the metal to encase your arms and hands in icy gauntlets. While wearing the gauntlets, you have resistance to cold damage, and any target you hit with them as part of an unarmed strike takes an extra `dice:1d4|noform|avg` (`1d4`) cold damage. Alternatively, frost creeps up the metal of any weapon you're holding. If you hit a target with a metal weapon, that target also takes an extra `dice:1d4|noform|avg` (`1d4`) cold damage from the attack.
+When not worn, these gauntlets appear to be simple iron cuffs. Once worn, however, creeping plates of crystalline ice form from beneath the metal to encase your arms and hands in icy gauntlets. While wearing the gauntlets, you have resistance to cold damage, and any target you hit with them as part of an unarmed strike takes an extra `dice:1d4|noform|noparens|avg` (`d4`) cold damage. Alternatively, frost creeps up the metal of any weapon you're holding. If you hit a target with a metal weapon, that target also takes an extra `dice:1d4|noform|noparens|avg` (`d4`) cold damage from the attack.
 
 ## Cone of Cold
 
