@@ -199,7 +199,7 @@ return function View() {
 >>     }
 >>   ]
 >> 
->>   return <dc.Table rows={npcs} columns={columns} />
+>>   return <dc.Table paging={20} rows={npcs} columns={columns} />
 >> }
 >> ```
 >
@@ -238,6 +238,6 @@ return function View() {
 >>     }
 >>   ]
 >> 
->>   return <dc.Table rows={locations} columns={columns} />
+>>   return <dc.Table paging={20} rows={locations} columns={columns} />
 >> }
 >> ```
