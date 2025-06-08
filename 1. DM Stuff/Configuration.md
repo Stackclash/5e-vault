@@ -222,6 +222,10 @@ return function View() {
 >>       render: (value, row) => dc.fileLink(value)
 >>     },
 >>     {
+>>       id: 'Type',
+>>       value: (row) => row.$tags.find(t => ['shop', 'region', 'settlement'].includes(t)) || '',
+>>     },
+>>     {
 >>       id: 'Parent Location',
 >>       value: (row) => row.value("location"),
 >>       render: (value, row) => !!value ? "✅" : "✘"
