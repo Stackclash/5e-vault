@@ -203,45 +203,45 @@ return function View() {
 >> }
 >> ```
 >
-## Locations
-```datacorejsx
-return function View() {
-  const locations = dc.useQuery(`
-    #location and
-    (
-      !location or
-      (#shop and length(items) = 0) or
-      (!image or image = "z_Assets/PlaceholderImage.png") or
-      (!["Places of Interest", "Regions", "Settlements", "Shops"].contains($name))
-    )
-  `)
-  const columns = [
-    {
-      id: 'Location',
-      value: (row) => row.$path,
-      render: (value, row) => dc.fileLink(value)
-    },
-    {
-      id: 'Type',
-      value: (row) => row.$tags.find(t => ['shop', 'region', 'settlement'].includes(t)) || '',
-    },
-    {
-      id: 'Parent Location',
-      value: (row) => row.value("location"),
-      render: (value, row) => !!value ? "✅" : "✘"
-    },
-    {
-      id: 'Items',
-      value: (row) => row.value("items") ? row.value("items").length : undefined,
-      render: (value, row) => typeof value === undefined ? "-" : (!!value ? "✅" : "✘")
-    },
-    {
-      id: 'Image',
-      value: (row) => !!row.value("image") || row.value("image") !== "z_Assets/PlaceholderImage.png",
-      render: (value, row) => value ? "✅" : "✘"
-    }
-  ]
-
-  return <dc.Table paging={20} rows={locations} columns={columns} />
-}
-```
+>> ## Locations
+>> ```datacorejsx
+>> return function View() {
+>>   const locations = dc.useQuery(`
+>>     #location and
+>>     (
+>>       !location or
+>>       (#shop and length(items) = 0) or
+>>       (!image or image = "z_Assets/PlaceholderImage.png") or
+>>       (!["Places of Interest", "Regions", "Settlements", "Shops"].contains($name))
+>>     )
+>>   `)
+>>   const columns = [
+>>     {
+>>       id: 'Location',
+>>       value: (row) => row.$path,
+>>       render: (value, row) => dc.fileLink(value)
+>>     },
+>>     {
+>>       id: 'Type',
+>>       value: (row) => row.$tags.find(t => ['#shop', '#region', '#settlement', '#place-of-interest', '#world'].includes(t)) || '',
+>>     },
+>>     {
+>>       id: 'Parent Location',
+>>       value: (row) => row.value("location"),
+>>       render: (value, row) => !!value ? "✅" : "✘"
+>>     },
+>>     {
+>>       id: 'Items',
+>>       value: (row) => row.value("items") ? row.value("items").length : null,
+>>       render: (value, row) => value === null ? "-" : (!!value ? "✅" : "✘")
+>>     },
+>>     {
+>>       id: 'Image',
+>>       value: (row) => !!row.value("image") || row.value("image") !== "z_Assets/PlaceholderImage.png",
+>>       render: (value, row) => value ? "✅" : "✘"
+>>     }
+>>   ]
+>> 
+>>   return <dc.Table paging={20} rows={locations} columns={columns} />
+>> }
+>> ```
