@@ -1,0 +1,15 @@
+{
+  "state": {
+    "din_health": {
+      "current": 24,
+      "temporary": 0,
+      "hitdiceUsed": 0
+    },
+    "din_luck_spell_1": {
+      "value": 0
+    },
+    "din_luck_spell_2": {
+      "value": 0
+    }
+  }
+}

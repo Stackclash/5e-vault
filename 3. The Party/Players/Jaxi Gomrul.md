@@ -630,7 +630,51 @@ proficiencies:
 bonuses:
   - name: Right of Arcana
     target: arcana
-	  value: 2
+    value: 2
+```
+```stats
+items:
+  - label: Armor Class
+    sublabel: Mage Armor (16)
+    value: 13
+  - label: Initiative
+    value: '+2'
+  - label: Spell DC
+    value: 14
+
+grid:
+  columns: 2
+```
+```healthpoints
+state_key: din_health
+health: 24
+hitdice:
+  dice: d6
+  value: 4
+```
+```badges
+dense: false # optional property, when true makes the badges smaller
+items:
+  - label: Level
+    value: '3'
+    reverse: true
+  - label: Initiative
+    value: '+2'
+  - label: Spell Save
+    value: 14
+  - label: AC
+    value: 13
+  - label: AC (Mage Armor)
+    value: 15
+```
+```consumable
+items:
+  - label: "Level 1"
+    state_key: din_luck_spell_1
+    uses: 4
+  - label: "Level 2"
+    state_key: din_luck_spell_2
+    uses: 2
 ```
 
 > [!statblocks|columns]
