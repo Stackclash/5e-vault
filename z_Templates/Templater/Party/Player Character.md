@@ -47,6 +47,7 @@ if (isNaN(dndBeyondInfo)) {
 }
 const character = new tp.user.dndBeyondCharacter(dndBeyondId)
 await character.initialize()
+console.log(character)
 
 await tp.file.move(path.join(locationConfig.players, character.name))
 
@@ -69,13 +70,13 @@ const properties = {
   speed: character.speeds.walk,
   defences: character.defences,
   background: character.background,
-  classes: await character.classes.map(async function(characterClass) {
+  classes: await Promise.all(character.classes.map(async function(characterClass) {
     return {
       ...characterClass,
       name: await tp.user.find_file(characterClass.name, '5. Mechanics/Classes'),
       subClass: await tp.user.find_file(characterClass.subClass, '5. Mechanics/Classes')
     }
-  }),
+  })),
   abilityScores: character.abilityScores,
   savingThrows: character.savingThrows,
   skills: character.skills,
@@ -83,23 +84,24 @@ const properties = {
   classFeatures: character.classFeatures,
   feats: character.feats,
   raceSpells: character.spells.race,
-  classSpells: await character.spells.class.map(async function(classSpell) {
+  classSpells: await Promise.all(character.spells.class.map(async function(classSpell) {
     return {
       ...classSpell,
       name: await tp.user.find_file(classSpell.name, '5. Mechanics/Spells')
     }
-  }),
+  })),
   currencies: character.currencies,
-  inventory: await character.inventory.map(async function(inv) {
+  inventory: await Promise.all(character.inventory.map(async function(inv) {
     return {
       ...inv,
       name: await tp.user.find_file(inv.name, '5. Mechanics/Items')
     }
-  }),
+  })),
   party: selectedParty,
   condition: 'healthy',
   tags: ['player'],
 }
+console.log(properties)
 -%>
 ---
 <% dump(properties) %>
