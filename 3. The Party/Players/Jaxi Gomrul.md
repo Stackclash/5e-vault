@@ -601,6 +601,38 @@ actions:
 > | **Initiative** | `$=dv.current().modifier` |
 > | **Speed** | `$=dv.current().speed` |
 
+```ability
+abilities:
+  strength: 9
+  dexterity: 14
+  constitution: 14
+  intelligence: 19
+  wisdom: 12
+  charisma: 10
+
+bonuses:
+  - name: Right of Power
+    target: strength
+    value: 2
+
+proficiencies:
+  - intelligence
+  - wisdom
+```
+```skills
+proficiencies:
+  - arcana
+  - deception
+  - history
+  - insight
+  - investigation
+
+bonuses:
+  - name: Right of Arcana
+    target: arcana
+	  value: 2
+```
+
 > [!statblocks|columns]
 > 
 >> [!blank]
