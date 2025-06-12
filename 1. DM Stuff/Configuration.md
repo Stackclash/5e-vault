@@ -233,7 +233,7 @@ return function View() {
 >>     {
 >>       id: 'Items',
 >>       value: (row) => row.value("items") ? row.value("items").length : null,
->>       render: (value, row) => value === null ? "-" : (!!value ? "✅" : "✘")
+>>       render: (value, row) => value === null ? "✅" : (!!value ? "✅" : "✘")
 >>     },
 >>     {
 >>       id: 'Image',
