@@ -657,7 +657,6 @@ dense: false # optional property, when true makes the badges smaller
 items:
   - label: Level
     value: '3'
-    reverse: true
   - label: Initiative
     value: '+2'
   - label: Spell Save
