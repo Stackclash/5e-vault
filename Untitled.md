@@ -1,7 +1,9 @@
 - [ ] Test Task
+	- hello: test
 
 ```dataviewjs
-const tasks = dv.current().tasks
+const tasks = dv.current().file.tasks
 
-tasks.forEach(t => dv.span(t))
+console.log(tasks)
+tasks.forEach(t => dv.span(t.text))
 ```
