@@ -1,5 +1,5 @@
-- [ ] Hello [step:: Test Task] 
-hello:: test
+- [ ] Hello
+	- step:: Test Task
 
 ```dataviewjs
 const tasks = dv.current().file.tasks
@@ -7,3 +7,4 @@ const tasks = dv.current().file.tasks
 console.log(tasks)
 tasks.forEach(t => dv.span(t.text))
 ```
+
