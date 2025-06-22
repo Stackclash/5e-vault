@@ -1,4 +1,5 @@
-- [ ] Test Task [hello:: test]
+- [ ] Hello [step:: Test Task] 
+hello:: test
 
 ```dataviewjs
 const tasks = dv.current().file.tasks
