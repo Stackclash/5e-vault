@@ -1,4 +1,4 @@
-- [ ] Hello
+- [ ] Hello [hello:: world] [test:: wow]
 	- step:: Test Task
 
 ```dataviewjs
