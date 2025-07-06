@@ -131,9 +131,7 @@ Description
 ## What Happened
 Small description.
 <%* } else { -%>
----
-obsidianUIMode: preview
----
+
 > [!Error] Error Executing Template
 > <% templateError %>
 <%* } -%>

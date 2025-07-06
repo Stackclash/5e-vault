@@ -21,3 +21,8 @@ obsidianUIMode: preview
 ---
 > [!Error] Error Executing Template
 > This template can only be used to create new files.
+> [!Error] Error Executing Template
+> This template can only be used 
+> [!Error] Error Executing Template
+> This template can only be used to create new files.
+to create new files.
