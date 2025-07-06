@@ -22,7 +22,7 @@ try {
   
   const config = dataview.api.page('Configuration')
   
-  if (!config || !config.locations || !config.locations.journals) {
+  if (!config || !config.locations || !config.locations.journals || !config.locations.preps || !config.locations.parties) {
     throw new Error('Configuration for file locations is not set up correctly')
   }
 
@@ -37,7 +37,7 @@ try {
         "isRequired": true,
         "input": {
           "type": "dataview",
-          "query": "dv.pages('#party').file.name"
+          "query": `"dv.pages('${config.location.parties}').file.name"`
         }
       },
       {
@@ -63,7 +63,7 @@ try {
   formattedDate = moment(data.date).format("YYYY-MM-DD")
   selectedParty = dataview.api.page(data.party)
 
-  const journals = dataview.api.pages("#session-journal").filter(p => p.party && p.party.path === selectedParty.file.path).sort(p => p.date, 'desc')
+  const journals = dataview.api.pages(`"${config.locations.journals}"`).filter(p => p.party && p.party.path === selectedParty.file.path).sort(p => p.date, 'desc')
   let newSessionNumber = 0
 
   if (journals.length > 0) {
@@ -71,7 +71,7 @@ try {
     newSessionNumber = parseInt(latestJournal.file.name.match(/^S(\d{1,})/)[1])+1
   }
 
-  const sessionNotes = dataview.api.pages("#session-prep").filter(p => p.file.name === formattedDate)
+  const sessionNotes = dataview.api.pages(`"${config.locations.preps}"`).filter(p => p.file.name === formattedDate)
 
   if (sessionNotes.length > 0) {
     prepNote = sessionNotes[0]
@@ -132,6 +132,9 @@ Description
 Small description.
 <%* } else { -%>
 
+
 > [!Error] Error Executing Template
 > <% templateError %>
+
+
 <%* } -%>

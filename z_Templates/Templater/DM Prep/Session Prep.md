@@ -103,9 +103,10 @@ await dv.view('listsGroupedByTag', {searchTag: '#session-journal', listTag: '#re
 
 ## Potential Treasure  
 <%* } else { -%>
----
-obsidianUIMode: preview
----
+
+
 > [!Error] Error Executing Template
 > <% templateError %>
+
+
 <%* } -%>
