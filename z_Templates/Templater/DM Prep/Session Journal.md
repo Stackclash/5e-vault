@@ -4,6 +4,7 @@ let formattedDate = ''
 let selectedParty = null
 let latestJournal = null
 try {
+  console.log(tp.config.run_mode)
   const path = require('path')
   const dataview = app.plugins.getPlugin("dataview")
   const modalForm = app.plugins.getPlugin('modalforms')
@@ -57,9 +58,9 @@ try {
   const data = result.getData()
 
   formattedDate = moment(data.date).format("YYYY-MM-DD")
-  selectedParty = dv.page(data.party)
+  selectedParty = dataview.api.page(data.party)
 
-  const journals = dv.pages("#session-journal").filter(p => p.party && p.party.path === selectedParty.file.path).sort(p => p.date, 'desc')
+  const journals = dataview.api.pages("#session-journal").filter(p => p.party && p.party.path === selectedParty.file.path).sort(p => p.date, 'desc')
   let newSessionNumber = 0
 
   if (journals.length > 0) {
@@ -67,7 +68,7 @@ try {
     newSessionNumber = parseInt(latestJournal.file.name.match(/^S(\d{1,})/)[1])+1
   }
 
-  const sessionNotes = dv.pages("#session-prep").filter(p => p.file.name === formattedDate)
+  const sessionNotes = dataview.api.pages("#session-prep").filter(p => p.file.name === formattedDate)
 
   if (sessionNotes.length > 0) {
     prepNote = sessionNotes[0]
