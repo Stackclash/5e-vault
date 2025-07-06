@@ -57,7 +57,7 @@ try {
   formattedDate = moment(data.date).format("YYYY-MM-DD")
   const selectedParty = dataview.api.page(data.party)
   
-  await tp.file.move(path.join(locationConfig.locations.preps, selectedParty.file.name, formattedDate))
+  await tp.file.move(path.join(config.locations.preps, selectedParty.file.name, formattedDate))
 } catch (e) {
   templateError = e.message
   console.error(e)
