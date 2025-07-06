@@ -20,7 +20,33 @@ try {
     throw new Error('Configuration for file locations is not set up correctly')
   }
   
-  const result = await modalForm.api.openForm('session-setup')
+  const result = await modalForm.api.openForm({
+      "title": "Session Setup",
+      "name": "session-setup",
+      "fields": [
+        {
+          "name": "party",
+          "label": "Party",
+          "description": "Campaign Party",
+          "isRequired": true,
+          "input": {
+            "type": "dataview",
+            "query": "dv.pages('#party').file.name"
+          }
+        },
+        {
+          "name": "date",
+          "label": "Date",
+          "description": "Date of Session",
+          "isRequired": false,
+          "input": {
+            "type": "date",
+            "hidden": false
+          }
+        }
+      ],
+      "version": "1"
+    })
 
   if (result.status === 'cancelled') {
     throw new Error('Modal was Cancelled')
@@ -38,7 +64,7 @@ try {
   new tp.obsidian.Notice(e.message, 5000)
 }
 -%>
-<%* if (!templateError) { %>
+<%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
 date: <% formattedDate || '' %>
@@ -72,10 +98,10 @@ await dv.view('listsGroupedByTag', {searchTag: '#session-journal', listTag: '#re
 
 
 ## Potential Treasure  
-<%* } else { %>
+<%* } else { -%>
 ---
 obsidianUIMode: preview
 ---
-> [!Error]
+> [!Error] Error Executing Template
 > <% templateError %>
-<%* } %>
+<%* } -%>
