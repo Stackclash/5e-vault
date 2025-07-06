@@ -3,51 +3,5 @@
   "attachShortcutToGlobalWindow": false,
   "globalNamespace": "MF",
   "formDefinitions": [
-    {
-      "title": "Session Setup",
-      "name": "session-setup",
-      "fields": [
-        {
-          "name": "party",
-          "label": "Party",
-          "description": "Campaign Party",
-          "isRequired": true,
-          "input": {
-            "type": "dataview",
-            "query": "dv.pages('#party').file.name"
-          }
-        },
-        {
-          "name": "date",
-          "label": "Date",
-          "description": "Date of Session",
-          "isRequired": false,
-          "input": {
-            "type": "date",
-            "hidden": false
-          }
-        }
-      ],
-      "version": "1"
-    },
-    {
-      "title": "Test",
-      "name": "Test",
-      "version": "1",
-      "fields": [
-        {
-          "name": "test",
-          "label": "",
-          "description": "",
-          "input": {
-            "type": "dataview",
-            "allowUnknownValues": false,
-            "hidden": false,
-            "query": "dv.pages('\"3. The Party/Parties\"').file.name"
-          },
-          "isRequired": false
-        }
-      ]
-    }
   ]
 }

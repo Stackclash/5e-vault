@@ -20,7 +20,7 @@ try {
   
   const config = dataview.api.page('Configuration')
   
-  if (!config || !config.locations || !config.locations.preps) {
+  if (!config || !config.locations || !config.locations.preps || !config.locations.parties) {
     throw new Error('Configuration for file locations is not set up correctly')
   }
   
@@ -35,7 +35,7 @@ try {
           "isRequired": true,
           "input": {
             "type": "dataview",
-            "query": "dv.pages('#party').file.name"
+            "query": "dv.pages('\"" + config.locations.parties + "\"').file.name"
           }
         },
         {
