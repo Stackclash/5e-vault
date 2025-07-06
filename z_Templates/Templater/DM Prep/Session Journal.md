@@ -66,6 +66,7 @@ try {
   const journals = dataview.api.pages(`"${config.locations.journals}"`).filter(p => p.party && p.party.path === selectedParty.file.path).sort(p => p.date, 'desc')
   let newSessionNumber = 0
 
+  console.log(journals)
   if (journals.length > 0) {
     latestJournal = journals[0]
     newSessionNumber = parseInt(latestJournal.file.name.match(/^S(\d{1,})/)[1])+1
@@ -74,10 +75,13 @@ try {
   const sessionNotes = dataview.api.pages(`"${config.locations.preps}"`).filter(p => p.file.name === formattedDate)
 
   if (sessionNotes.length > 0) {
-    prepNote = sessionNotes[0]
+    prepNote = sessionNotes[0].file.link
   } else {
-    prepNote = await tp.file.create_new(tp.file.find_tfile("Session Prep"), 'Session Prep', false)
-    console.log(prepNote)
+    const newPrepNote = await tp.file.create_new(tp.file.find_tfile("Session Prep"), 'Session Prep', false)
+    if (!newPrepNote) {
+      throw new Error('Failed to create new prep note')
+    }
+    prepNote = dataview.api.fileLink(newPrepNote.path, false, newPrepNote.basename)
   }
 
   await tp.file.move(path.join(config.locations.journals, selectedParty.file.name, `S${newSessionNumber} New Session Journal`))
@@ -99,7 +103,7 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 party: "<% selectedParty ? selectedParty.file.link : '' %>"
-prep-notes: "<% prepNote ? prepNote.file.link : '' %>"
+prep-notes: "<% prepNote ? prepNote : '' %>"
 tags:
   - session-journal
 ---
