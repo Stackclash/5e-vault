@@ -63,10 +63,10 @@ try {
   formattedDate = moment(data.date).format("YYYY-MM-DD")
   selectedParty = dataview.api.page(data.party)
 
-  const journals = dataview.api.pages(`"${config.locations.journals}"`).filter(p => p.party && p.party.path === selectedParty.file.path).sort(p => p.date, 'desc')
+  const journals = dataview.api.pages(`"${path.join(config.locations.journals, selectedParty.file.name)}"`).sort(p => p.date, 'desc')
   let newSessionNumber = 0
 
-  console.log(journals)
+  console.log(journals, `"${path.join(config.locations.journals, selectedParty.file.name)}"`)
   if (journals.length > 0) {
     latestJournal = journals[0]
     newSessionNumber = parseInt(latestJournal.file.name.match(/^S(\d{1,})/)[1])+1
