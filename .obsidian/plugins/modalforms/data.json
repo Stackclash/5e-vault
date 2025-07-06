@@ -29,6 +29,25 @@
         }
       ],
       "version": "1"
+    },
+    {
+      "title": "Test",
+      "name": "Test",
+      "version": "1",
+      "fields": [
+        {
+          "name": "test",
+          "label": "",
+          "description": "",
+          "input": {
+            "type": "dataview",
+            "allowUnknownValues": false,
+            "hidden": false,
+            "query": "dv.pages('\"3. The Party/Parties\"').file.name"
+          },
+          "isRequired": false
+        }
+      ]
     }
   ]
 }
