@@ -77,6 +77,7 @@ try {
     prepNote = sessionNotes[0]
   } else {
     prepNote = await tp.file.create_new(tp.file.find_tfile("Session Prep"), 'Session Prep', false)
+    console.log(prepNote)
   }
 
   await tp.file.move(path.join(config.locations.journals, selectedParty.file.name, `S${newSessionNumber} New Session Journal`))
