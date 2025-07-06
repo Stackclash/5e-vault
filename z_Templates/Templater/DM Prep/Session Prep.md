@@ -6,6 +6,10 @@ try {
   const dataview = app.plugins.getPlugin("dataview")
   const modalForm = app.plugins.getPlugin('modalforms')
   
+  if (tp.config.run_mode !== 0) {
+    throw new Error('This template can only be used to create new files.')
+  }
+
   if (!modalForm || !modalForm.api) {
     throw new Error('Modal Forms plugin is not available')
   }
@@ -21,7 +25,7 @@ try {
   }
   
   const result = await modalForm.api.openForm({
-      "title": "Session Setup",
+      "title": "Session Prep Setup",
       "name": "session-setup",
       "fields": [
         {

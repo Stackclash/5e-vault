@@ -4,11 +4,14 @@ let formattedDate = ''
 let selectedParty = null
 let latestJournal = null
 try {
-  console.log(tp.config.run_mode)
   const path = require('path')
   const dataview = app.plugins.getPlugin("dataview")
   const modalForm = app.plugins.getPlugin('modalforms')
   
+  if (tp.config.run_mode !== 0) {
+    throw new Error('This template can only be used to create new files.')
+  }
+
   if (!modalForm || !modalForm.api) {
     throw new Error('Modal Forms plugin is not available')
   }
@@ -19,12 +22,12 @@ try {
   
   const config = dataview.api.page('Configuration')
   
-  if (!config || !config.locations || !config.locations.preps) {
+  if (!config || !config.locations || !config.locations.journals) {
     throw new Error('Configuration for file locations is not set up correctly')
   }
 
   const result = await modalForm.api.openForm({
-    "title": "Session Setup",
+    "title": "Session Journal Setup",
     "name": "session-setup",
     "fields": [
       {
@@ -76,7 +79,7 @@ try {
     prepNote = await tp.file.create_new(tp.file.find_tfile("Session Prep"), 'Session Prep', false)
   }
 
-  await tp.file.move(path.join(locationConfig.journals, selectedParty.file.name, `S${newSessionNumber} New Session Journal`))
+  await tp.file.move(path.join(config.locations.journals, selectedParty.file.name, `S${newSessionNumber} New Session Journal`))
 } catch (e) {
   templateError = e.message
   console.error(e)
