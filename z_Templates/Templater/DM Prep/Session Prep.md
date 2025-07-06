@@ -1,8 +1,12 @@
 <%*
 const path = require('path')
-const dv = app.plugins.getPlugin("dataview").api
+let dv = app.plugins.getPlugin("dataview")
 const modalForm = app.plugins.getPlugin('modalforms').api
 const locationConfig = dv.page('Configuration').locations
+
+if (!dv || !dv.api) {
+  
+}
 
 const result = await modalForm.openForm('session-setup')
 const data = result.getData()
