@@ -1,38 +1,100 @@
 <%*
-const path = require('path')
-const dv = app.plugins.getPlugin("dataview").api
-const modalForm = app.plugins.getPlugin('modalforms').api
-const locationConfig = dv.page('Configuration').locations
+let templateError = false
+let formattedDate = ''
+let selectedParty = null
+let latestJournal = null
+try {
+  const path = require('path')
+  const dataview = app.plugins.getPlugin("dataview")
+  const modalForm = app.plugins.getPlugin('modalforms')
+  
+  if (!modalForm || !modalForm.api) {
+    throw new Error('Modal Forms plugin is not available')
+  }
 
-const result = await modalForm.openForm('session-setup')
-const data = result.getData()
+  if (!dataview || !dataview.api) {
+    throw new Error('Dataview plugin is not available')
+  }
+  
+  const config = dataview.api.page('Configuration')
+  
+  if (!config || !config.locations || !config.locations.preps) {
+    throw new Error('Configuration for file locations is not set up correctly')
+  }
 
-if (!data) {
-  throw new Error('Modal was Cancelled')
+  const result = await modalForm.api.openForm({
+    "title": "Session Setup",
+    "name": "session-setup",
+    "fields": [
+      {
+        "name": "party",
+        "label": "Party",
+        "description": "Campaign Party",
+        "isRequired": true,
+        "input": {
+          "type": "dataview",
+          "query": "dv.pages('#party').file.name"
+        }
+      },
+      {
+        "name": "date",
+        "label": "Date",
+        "description": "Date of Session",
+        "isRequired": false,
+        "input": {
+          "type": "date",
+          "hidden": false
+        }
+      }
+    ],
+    "version": "1"
+  })
+
+  if (result.status === 'cancelled') {
+    throw new Error('Modal was Cancelled')
+  }
+
+  const data = result.getData()
+
+  formattedDate = moment(data.date).format("YYYY-MM-DD")
+  selectedParty = dv.page(data.party)
+
+  const journals = dv.pages("#session-journal").filter(p => p.party && p.party.path === selectedParty.file.path).sort(p => p.date, 'desc')
+  let newSessionNumber = 0
+
+  if (journals.length > 0) {
+    latestJournal = journals[0]
+    newSessionNumber = parseInt(latestJournal.file.name.match(/^S(\d{1,})/)[1])+1
+  }
+
+  const sessionNotes = dv.pages("#session-prep").filter(p => p.file.name === formattedDate)
+
+  if (sessionNotes.length > 0) {
+    prepNote = sessionNotes[0]
+  } else {
+    prepNote = await tp.file.create_new(tp.file.find_tfile("Session Prep"), 'Session Prep', false)
+  }
+
+  await tp.file.move(path.join(locationConfig.journals, selectedParty.file.name, `S${newSessionNumber} New Session Journal`))
+} catch (e) {
+  templateError = e.message
+  console.error(e)
+  new tp.obsidian.Notice(e.message, 5000)
 }
-
-const formattedDate = moment(data.date).format("YYYY-MM-DD")
-const selectedParty = dv.page(data.party)
-
-let latestJournal = dv.pages("#session-journal").filter(p => p.party && p.party.path === selectedParty.file.path).sort(p => p.date, 'desc')[0]
-const newSessionNumber = parseInt(latestJournal.file.name.match(/^S(\d{1,})/)[1])+1
-
-let prepNote = dv.pages("#session-prep").filter(p => p.file.name === formattedDate)[0]
-
-await tp.file.move(path.join(locationConfig.journals, selectedParty.file.name, `S${newSessionNumber} New Session Journal`))
 -%>
+<%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
 date: <% formattedDate %>
 summary:
-fc-date: <% latestJournal['fc-end'] || latestJournal['fc-date'] %>
+fc-date: <% latestJournal ? latestJournal['fc-end'] || latestJournal['fc-date'] : '' %>
 fc-end: 
 timelines:
-  - <% latestJournal.timelines[0] %>
+  - <% latestJournal ? latestJournal.timelines[0] : '' %>
 aat-render-enabled: true
 fc-category: Session
-party: "<% selectedParty.file.link %>"
-prep-notes: "<% prepNote ? prepNote.file.link: '' %>"
+party: "<% selectedParty ? selectedParty.file.link : '' %>"
+prep-notes: "<% prepNote ? prepNote.file.link : '' %>"
 tags:
   - session-journal
 ---
@@ -64,3 +126,10 @@ Description
 
 ## What Happened
 Small description.
+<%* } else { -%>
+---
+obsidianUIMode: preview
+---
+> [!Error] Error Executing Template
+> <% templateError %>
+<%* } -%>
