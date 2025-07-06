@@ -35,7 +35,7 @@ try {
 }
 -%>
 ---
-date: <% formattedDate %>
+date: <% if (formattedDate) formattedDate %>
 tags:
   - session-prep
 ---
