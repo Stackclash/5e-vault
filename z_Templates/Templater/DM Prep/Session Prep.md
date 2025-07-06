@@ -1,4 +1,5 @@
 <%*
+let hasError = false
 let formattedDate = ''
 try {
   const path = require('path')
@@ -32,10 +33,14 @@ try {
   
   await tp.file.move(path.join(locationConfig.locations.preps, selectedParty.file.name, formattedDate))
 } catch (e) {
+  hasError = true
+  console.error(e)
   new tp.obsidian.Notice(e.message, 5000)
 }
 -%>
+<%* if (!hasError) { %>
 ---
+obsidianUIMode: preview
 date: <% formattedDate || '' %>
 tags:
   - session-prep
@@ -67,3 +72,4 @@ await dv.view('listsGroupedByTag', {searchTag: '#session-journal', listTag: '#re
 
 
 ## Potential Treasure  
+<%* } else { %>
