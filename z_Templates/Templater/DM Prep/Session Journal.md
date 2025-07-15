@@ -66,7 +66,7 @@ try {
   const journals = dataview.api.pages(`"${path.join(config.locations.journals, selectedParty.file.name)}"`).sort(p => p.date, 'desc')
   let newSessionNumber = 0
 
-  console.log(`"${path.join(config.locations.journals, selectedParty.file.name)}"`)
+  console.log(path.join(config.locations.journals, selectedParty.file.name),journals)
   if (journals.length > 0) {
     latestJournal = journals[0]
     newSessionNumber = parseInt(latestJournal.file.name.match(/^S(\d{1,})/)[1])+1

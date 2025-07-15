@@ -3,8 +3,8 @@ obsidianUIMode: preview
 active_world: "[[Eldoria]]"
 active_party: "[[Curse of Strahd]]"
 locations:
-  preps: 1. DM Stuff/Session Prep
-  journals: 1. DM Stuff/Session Journals
+  preps: 1. DM Stuff/Session Prep/
+  journals: 1. DM Stuff/Session Journals/
   parties: 3. The Party/Parties
   players: 3. The Party/Players
   quests: 3. The Party/Quests
