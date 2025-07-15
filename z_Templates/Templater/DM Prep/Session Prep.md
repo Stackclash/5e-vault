@@ -7,6 +7,7 @@ try {
   const dataview = app.plugins.getPlugin("dataview")
   const modalForm = app.plugins.getPlugin('modalforms')
   
+  console.log(tp.config.run_mode)
   if (tp.config.run_mode !== 0) {
     throw new Error('This template can only be used to create new files.')
   }
