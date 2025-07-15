@@ -1,6 +1,7 @@
 <%*
 let templateError = false
 let formattedDate = ''
+let selectedParty = null
 try {
   const path = require('path')
   const dataview = app.plugins.getPlugin("dataview")
@@ -59,7 +60,7 @@ try {
   const data = result.getData()
   
   formattedDate = moment(data.date).format("YYYY-MM-DD")
-  const selectedParty = dataview.api.page(data.party)
+  selectedParty = dataview.api.page(data.party)
   
   await tp.file.move(path.join(config.locations.preps, selectedParty.file.name, formattedDate))
 } catch (e) {
