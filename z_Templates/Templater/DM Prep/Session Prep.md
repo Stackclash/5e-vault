@@ -7,7 +7,6 @@ try {
   const dataview = app.plugins.getPlugin("dataview")
   const modalForm = app.plugins.getPlugin('modalforms')
   
-  console.log(tp.config.run_mode)
   if (tp.config.run_mode !== 0) {
     throw new Error('This template can only be used to create new files.')
   }
@@ -63,7 +62,7 @@ try {
   formattedDate = moment(data.date).format("YYYY-MM-DD")
   selectedParty = dataview.api.page(data.party)
   
-  await tp.file.move(path.join(config.locations.preps, selectedParty.file.name, formattedDate))
+  await tp.file.move(path.join(config.locations.preps, selectedParty.file.name, formattedDate), tp.file.find_tfile(tp.file.title))
 } catch (e) {
   templateError = e.message
   console.error(e)

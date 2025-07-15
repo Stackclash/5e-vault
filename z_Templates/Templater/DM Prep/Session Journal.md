@@ -66,6 +66,7 @@ try {
   const journals = dataview.api.pages(`"${path.join(config.locations.journals, selectedParty.file.name)}"`).sort(p => p.date, 'desc')
   let newSessionNumber = 0
 
+  console.log(`"${path.join(config.locations.journals, selectedParty.file.name)}"`)
   if (journals.length > 0) {
     latestJournal = journals[0]
     newSessionNumber = parseInt(latestJournal.file.name.match(/^S(\d{1,})/)[1])+1
@@ -83,7 +84,8 @@ try {
     prepNote = dataview.api.fileLink(newPrepNote.path, false, newPrepNote.basename)
   }
 
-  await tp.file.move(path.join(config.locations.journals, selectedParty.file.name, `S${newSessionNumber} New Session Journal`))
+  console.log(`S${newSessionNumber} New Session Journal`)
+  await tp.file.move(path.join(config.locations.journals, selectedParty.file.name, `S${newSessionNumber} New Session Journal`), tp.file.find_tfile(tp.file.title))
 } catch (e) {
   templateError = e.message
   console.error(e)
@@ -97,8 +99,7 @@ date: <% formattedDate %>
 summary:
 fc-date: <% latestJournal ? latestJournal['fc-end'] || latestJournal['fc-date'] : '' %>
 fc-end: 
-timelines:
-  - <% latestJournal ? latestJournal.timelines[0] : '' %>
+timelines: <% latestJournal ? `\n  - ${latestJournal.timelines[0]}` : '' %>
 aat-render-enabled: true
 fc-category: Session
 party: "<% selectedParty ? selectedParty.file.link : '' %>"
