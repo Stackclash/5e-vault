@@ -63,10 +63,9 @@ try {
   formattedDate = moment(data.date).format("YYYY-MM-DD")
   selectedParty = dataview.api.page(data.party)
 
-  const journals = dataview.api.pages(`"${path.join(config.locations.journals, selectedParty.file.name)}"`).sort(p => p.date, 'desc')
+  const journals = dataview.api.pages(`"${path.posix.join(config.locations.journals, selectedParty.file.name)}"`).sort(p => p.date, 'desc')
   let newSessionNumber = 0
 
-  console.log(path.join(config.locations.journals, selectedParty.file.name),journals)
   if (journals.length > 0) {
     latestJournal = journals[0]
     newSessionNumber = parseInt(latestJournal.file.name.match(/^S(\d{1,})/)[1])+1
@@ -84,8 +83,7 @@ try {
     prepNote = dataview.api.fileLink(newPrepNote.path, false, newPrepNote.basename)
   }
 
-  console.log(`S${newSessionNumber} New Session Journal`)
-  await tp.file.move(path.join(config.locations.journals, selectedParty.file.name, `S${newSessionNumber} New Session Journal`), tp.file.find_tfile(tp.file.title))
+  await tp.file.move(path.posix.join(config.locations.journals, selectedParty.file.name, `S${newSessionNumber} New Session Journal`), tp.file.find_tfile(tp.file.title))
 } catch (e) {
   templateError = e.message
   console.error(e)
