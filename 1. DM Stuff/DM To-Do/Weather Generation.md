@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-useCalendarium: true
+useCalendarium: false
 tempFlux: 10
 seasons:
   - name: Spring
