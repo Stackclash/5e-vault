@@ -18,7 +18,31 @@ try {
     throw new Error('Configuration for file locations is not set up correctly')
   }
 
-  await tp.file.move(path.posix.join(config.locations.campaigns, `New Campaign`), tp.file.find_tfile(tp.file.title))
+  const result = await modalForm.api.openForm({
+    "title": "Campaign Setup",
+    "name": "campaign-setup",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Name",
+        "description": "Campaign Name",
+        "isRequired": true,
+        "input": {
+          "type": "text",
+          "hidden": false,
+        }
+      }
+    ],
+    "version": "1"
+  })
+
+  if (result.status === 'cancelled') {
+    throw new Error('Modal was Cancelled')
+  }
+
+  const data = result.getData()
+
+  await tp.file.move(path.posix.join(config.locations.campaigns, data.name), tp.file.find_tfile(tp.file.title))
 } catch (e) {
   templateError = e.message
   console.error(e)
