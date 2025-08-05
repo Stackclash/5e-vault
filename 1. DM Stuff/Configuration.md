@@ -16,6 +16,54 @@ locations:
   npcs: 4. World Almanac/NPCs
   groups: 4. World Almanac/Groups
   monsters: 5. Mechanics/Bestiary
+  campaigns: 3. The Party/Campaigns
+relationship_mapping:
+- to: Father
+  from:
+    male: Son
+    female: Daughter
+- to: Mother
+  from:
+    male: Son
+    female: Daughter
+- to: Husband
+  from: Wife
+- to: Wife
+  from: Husband
+- to: Son
+  from:
+    male: Father
+    female: Mother
+- to: Daughter
+  from:
+    male: Father
+    female: Mother
+- to: Sister
+  from:
+    male: Brother
+    female: Sister
+- to: Brother
+  from:
+    male: Brother
+    female: Sister
+- to: Cousin
+  from: Cousin
+- to: Niece
+  from:
+    male: Uncle
+    female: Aunt
+- to: Nephew
+  from:
+    male: Uncle
+    female: Aunt
+- to: Uncle
+  from:
+    male: Nephew
+    female: Niece
+- to: Aunt
+  from:
+    male: Nephew
+    female: Niece
 ---
 > [!infobox|n-th]
 > | | |
@@ -130,6 +178,34 @@ actions:
 >> | NPCs | `INPUT[text:locations.npcs]` |
 >> | Groups | `INPUT[text:locations.groups]` |
 >> | Monsters | `INPUT[text:locations.monsters]` |
+
+# Relationship Mapping
+`BUTTON[add-relationship-mapping]`
+```meta-bind-button
+label: Add Relationship Mapping
+hidden: true
+id: add-relationship-mapping
+style: primary
+actions:
+  - type: inlineJS
+    code: |-
+      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+        if (!Array.isArray(fm.relationship_mapping)) {
+          fm.relationship_mapping = [{to: '', from: {male: '', female: ''}}]
+        } else {
+          fm.relationship_mapping = [...fm.relationship_mapping, {name: '', from: {male: '', female: ''}}]
+        }
+      })
+```
+```dataviewjs
+dv.table(['Relationship', 'Male', 'Female', 'Delete],
+  dv.current()['relationship_mapping'].map((r, i) => [
+    `\`INPUT[text:relationship_mapping[${i}].to]\``,
+    `\`INPUT[text:relationship_mapping[${i}].from.male]\``,
+    `\`INPUT[text:relationship_mapping[${i}].from.female]\``,
+    `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: relationship_mapping\n      index: ${i}\n\`\`\``
+  ]))
+```
 
 # Stats
 ```datacorejsx
