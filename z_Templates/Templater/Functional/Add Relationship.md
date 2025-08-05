@@ -2,24 +2,8 @@
 const dv = app.plugins.getPlugin("dataview").api
 const modalForm = app.plugins.getPlugin('modalforms').api
 
-// This is the mapping of relationships
-// The "to" key is used for the currently selected NPC
-// Add more relationships here to be able to add them to NPCs
-const relationshipMapping = [
-    {to: "Father", from: {male: "Son", female: "Daughter"}},
-    {to: "Mother", from: {male: "Son", female: "Daughter"}},
-    {to: "Husband", from: "Wife"},
-    {to: "Wife", from: "Husband"},
-    {to: "Son", from: {male: "Father", female: "Mother"}},
-    {to: "Daughter", from: {male: "Father", female: "Mother"}},
-    {to: "Sister", from: {male: "Brother", female: "Sister"}},
-    {to: "Brother", from: {male: "Brother", female: "Sister"}},
-    {to: "Cousin", from: "Cousin"},
-    {to: "Niece", from: {male: "Uncle", female: "Aunt"}},
-    {to: "Nephew", from: {male: "Uncle", female: "Aunt"}},
-    {to: "Uncle", from: {male: "Nephew", female: "Niece"}},
-    {to: "Aunt", from: {male: "Nephew", female: "Niece"}}
-]
+const config = dv.page('Configuration')
+const relationshipMapping = config['relationship_mapping'] || []
 
 const currentNpcs = tp.frontmatter.relationships && tp.frontmatter.relationships.map(r => r.split('|')[0]),
 
