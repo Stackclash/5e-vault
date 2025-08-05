@@ -21,6 +21,7 @@ locations:
 > | | |
 > |---|---|
 > | **Active World:** | `INPUT[suggester(optionQuery("#world")):active_world]` |
+> | **Active Campaign:** | `INPUT[suggester(optionQuery("#campaign")):active_campaign]` |
 > | **Active Party:** | `INPUT[suggester(optionQuery("#party")):active_party]` |
 
 # Current Party/World Info
@@ -113,6 +114,7 @@ actions:
 >> ## Campaign Details
 >> |||
 >> |:---:|:---:|
+>> | Campaigns | `INPUT[text:locations.campaigns]` |
 >> | Parties | `INPUT[text:locations.parties]` |
 >> | Players | `INPUT[text:locations.players]` |
 >> | Quests | `INPUT[text:locations.quests]` |
