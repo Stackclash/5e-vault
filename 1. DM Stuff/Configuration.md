@@ -18,52 +18,58 @@ locations:
   monsters: 5. Mechanics/Bestiary
   campaigns: 3. The Party/Campaigns
 relationship_mapping:
-- to: Father
-  from:
-    male: Son
-    female: Daughter
-- to: Mother
-  from:
-    male: Son
-    female: Daughter
-- to: Husband
-  from: Wife
-- to: Wife
-  from: Husband
-- to: Son
-  from:
-    male: Father
-    female: Mother
-- to: Daughter
-  from:
-    male: Father
-    female: Mother
-- to: Sister
-  from:
-    male: Brother
-    female: Sister
-- to: Brother
-  from:
-    male: Brother
-    female: Sister
-- to: Cousin
-  from: Cousin
-- to: Niece
-  from:
-    male: Uncle
-    female: Aunt
-- to: Nephew
-  from:
-    male: Uncle
-    female: Aunt
-- to: Uncle
-  from:
-    male: Nephew
-    female: Niece
-- to: Aunt
-  from:
-    male: Nephew
-    female: Niece
+  - to: Father
+    from:
+      male: Son
+      female: Daughter
+  - to: Mother
+    from:
+      male: Son
+      female: Daughter
+  - to: Husband
+    from:
+      male: ""
+      female: Wife
+  - to: Wife
+    from:
+      male: Husband
+      female: ""
+  - to: Son
+    from:
+      male: Father
+      female: Mother
+  - to: Daughter
+    from:
+      male: Father
+      female: Mother
+  - to: Sister
+    from:
+      male: Brother
+      female: Sister
+  - to: Brother
+    from:
+      male: Brother
+      female: Sister
+  - to: Cousin
+    from:
+      male: Cousin
+      female: Cousin
+  - to: Niece
+    from:
+      male: Uncle
+      female: Aunt
+  - to: Nephew
+    from:
+      male: Uncle
+      female: Aunt
+  - to: Uncle
+    from:
+      male: Nephew
+      female: Niece
+  - to: Aunt
+    from:
+      male: Nephew
+      female: Niece
 ---
 > [!infobox|n-th]
 > | | |
@@ -198,7 +204,7 @@ actions:
       })
 ```
 ```dataviewjs
-dv.table(['Relationship', 'Male', 'Female', 'Delete],
+dv.table(['Relationship', 'Male', 'Female', 'Delete'],
   dv.current()['relationship_mapping'].map((r, i) => [
     `\`INPUT[text:relationship_mapping[${i}].to]\``,
     `\`INPUT[text:relationship_mapping[${i}].from.male]\``,
