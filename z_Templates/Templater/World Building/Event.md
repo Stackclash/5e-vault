@@ -1,7 +1,9 @@
 <%*
 let templateError = false
 try {
-  
+  if (tp.config.run_mode !== 0) {
+    throw new Error('This template can only be used to create new files.')
+  }
 } catch (e) {
   templateError = e.message
   console.error(e)
