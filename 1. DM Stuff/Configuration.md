@@ -157,36 +157,9 @@ actions:
     templateFile: "z_Templates/Templater/DM Prep/Session Prep.md"
 ```
 
-# File Location Configuration
-> [!columns|no-t 3]
->> ## DM Details
->> |||
->> |:---:|:---:|
->> | Session Prep | `INPUT[text:locations.preps]` |
->> | Session Journals | `INPUT[text:locations.journals]` |
->
->> ## Campaign Details
->> |||
->> |:---:|:---:|
->> | Campaigns | `INPUT[text:locations.campaigns]` |
->> | Parties | `INPUT[text:locations.parties]` |
->> | Players | `INPUT[text:locations.players]` |
->> | Quests | `INPUT[text:locations.quests]` |
->
->> ## World Details
->> |||
->> |:---:|:---:|
->> | Worlds | `INPUT[text:locations.worlds]` |
->> | Regions | `INPUT[text:locations.regions]` |
->> | Settlements | `INPUT[text:locations.settlements]` |
->> | Places of Interest | `INPUT[text:locations.pois]` |
->> | Shops | `INPUT[text:locations.shops]` |
->> | NPCs | `INPUT[text:locations.npcs]` |
->> | Groups | `INPUT[text:locations.groups]` |
->> | Monsters | `INPUT[text:locations.monsters]` |
-
+# Configuration
 ```meta-bind
-INPUT[select(option(1, 'option 1'), option(2, 'option 2'), option(3, 'option 3'), class(tabbed))]
+INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship Mapping'), class(tabbed))]
 ```
 >[!tabbed-box]
 >>[!div-m] File Location Configuration
@@ -217,39 +190,33 @@ INPUT[select(option(1, 'option 1'), option(2, 'option 2'), option(3, 'option 3')
 >> >> | Groups | `INPUT[text:locations.groups]` |
 >> >> | Monsters | `INPUT[text:locations.monsters]` |
 >
->> [!div-m]
->> $b^2$ equals
-> 
->> [!div-m]
->> $\frac{E}{m}$
-
-# Relationship Mapping
-`BUTTON[add-relationship-mapping]`
-```meta-bind-button
-label: Add Relationship Mapping
-hidden: true
-id: add-relationship-mapping
-style: primary
-actions:
-  - type: inlineJS
-    code: |-
-      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-        if (!Array.isArray(fm.relationship_mapping)) {
-          fm.relationship_mapping = [{to: '', from: {male: '', female: ''}}]
-        } else {
-          fm.relationship_mapping = [...fm.relationship_mapping, {name: '', from: {male: '', female: ''}}]
-        }
-      })
-```
-```dataviewjs
-dv.table(['Relationship', 'Male', 'Female', 'Delete'],
-  dv.current()['relationship_mapping'].map((r, i) => [
-    `\`INPUT[text:relationship_mapping[${i}].to]\``,
-    `\`INPUT[text:relationship_mapping[${i}].from.male]\``,
-    `\`INPUT[text:relationship_mapping[${i}].from.female]\``,
-    `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: relationship_mapping\n      index: ${i}\n\`\`\``
-  ]))
-```
+>> [!div-m] Relationship Mapping
+>> `BUTTON[add-relationship-mapping]`
+>> ```meta-bind-button
+>> label: Add Relationship Mapping
+>> hidden: true
+>> id: add-relationship-mapping
+>> style: primary
+>> actions:
+>>   - type: inlineJS
+>>     code: |-
+>>       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+>>         if (!Array.isArray(fm.relationship_mapping)) {
+>>           fm.relationship_mapping = [{to: '', from: {male: '', female: ''}}]
+>>         } else {
+>>           fm.relationship_mapping = [...fm.relationship_mapping, {name: '', from: {male: '', female: ''}}]
+>>         }
+>>       })
+>> ```
+>> ```dataviewjs
+>> dv.table(['Relationship', 'Male', 'Female', 'Delete'],
+>>   dv.current()['relationship_mapping'].map((r, i) => [
+>>     `\`INPUT[text:relationship_mapping[${i}].to]\``,
+>>     `\`INPUT[text:relationship_mapping[${i}].from.male]\``,
+>>     `\`INPUT[text:relationship_mapping[${i}].from.female]\``,
+>>     `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: relationship_mapping\n      index: ${i}\n\`\`\``
+>>   ]))
+>> ```
 
 # Stats
 ```datacorejsx
