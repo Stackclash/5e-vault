@@ -224,18 +224,15 @@ return function View() {
   const columns = [
     {
       id: 'Relationship',
-      value: (row) => row.to,
-      render: (value, row) => <dc.Input type="text" value={value} onChange={(e) => row.setValue("to", e.target.value)} />
+      value: (row) => row.to
     },
     {
       id: 'Male',
-      value: (row) => row.from.male,
-      render: (value, row) => <dc.Input type="text" value={value} onChange={(e) => row.setValue("from.male", e.target.value)} />
+      value: (row) => row.from.male
     },
     {
       id: 'Female',
-      value: (row) => row.from.female,
-      render: (value, row) => <dc.Input type="text" value={value} onChange={(e) => row.setValue("from.female", e.target.value)} />
+      value: (row) => row.from.female
     }
   ]
 
