@@ -218,27 +218,6 @@ INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship M
 >>     `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: relationship_mapping\n      index: ${i}\n\`\`\``
 >>   ]))
 >> ```
-```datacorejsx
-return function View() {
-  const relationshipMapping = dc.useCurrentFile().value("relationship_mapping") || []
-  const columns = [
-    {
-      id: 'Relationship',
-      value: (row) => row.to
-    },
-    {
-      id: 'Male',
-      value: (row) => row.from.male
-    },
-    {
-      id: 'Female',
-      value: (row) => row.from.female
-    }
-  ]
-
-  return <dc.Table rows={relationshipMapping} columns={columns} />
-}
-```
 
 # Stats
 ```datacorejsx
