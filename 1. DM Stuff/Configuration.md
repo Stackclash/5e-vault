@@ -66,10 +66,11 @@ relationship_mapping:
     from:
       male: Nephew
       female: Niece
-  - to: Aunt
+  - name: ""
     from:
       male: Nephew
       female: Niece
+    to: Aunt
 ---
 > [!infobox|n-th]
 > | | |
