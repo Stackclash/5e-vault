@@ -1,4 +1,12 @@
 <%*
+let templateError = false
+try {
+
+} catch (e) {
+  templateError = e.message
+  console.error(e)
+  new tp.obsidian.Notice(e.message, 5000)
+}
 const modalForm = app.plugins.getPlugin('modalforms').api
 
 let parties = dv.pages("#party")
@@ -36,6 +44,7 @@ const { name: title, party: selectedParty } = result.getData()
 
 await tp.file.move(`4. World Almanac/Quests/` + title)
 -%>
+<%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
 party: "<% selectedParty.file.link %>"
@@ -55,4 +64,12 @@ tags:
 - 
 
 ## Quest Steps
-- [ ] 
+- [ ]
+<%* } else { -%>
+
+
+> [!Error] Error Executing Template
+> <% templateError %>
+
+
+<%* } -%>
