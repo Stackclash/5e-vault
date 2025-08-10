@@ -43,6 +43,7 @@ try {
   const data = result.getData()
 
   await tp.file.move(path.posix.join(config.locations.campaigns, data.name), tp.file.find_tfile(tp.file.title))
+  
 } catch (e) {
   templateError = e.message
   console.error(e)
