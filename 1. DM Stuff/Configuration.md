@@ -205,7 +205,7 @@ INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship M
 >>         if (!Array.isArray(fm.relationship_mapping)) {
 >>           fm.relationship_mapping = [{to: '', from: {male: '', female: ''}}]
 >>         } else {
->>           fm.relationship_mapping = [...fm.relationship_mapping, {name: '', from: {male: '', female: ''}}]
+>>           fm.relationship_mapping = [...fm.relationship_mapping, {to: '', from: {male: '', female: ''}}]
 >>         }
 >>       })
 >> ```
@@ -218,6 +218,30 @@ INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship M
 >>     `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: relationship_mapping\n      index: ${i}\n\`\`\``
 >>   ]))
 >> ```
+```datacorejsx
+return function View() {
+  console.log(dc.useCurrentFile().$relationship_mapping)
+  const columns = [
+    {
+      id: 'Relationship',
+      value: (row) => row.value("to"),
+      render: (value, row) => <dc.Input type="text" value={value} onChange={(e) => row.setValue("to", e.target.value)} />
+    },
+    {
+      id: 'Male',
+      value: (row) => row.value("from.male"),
+      render: (value, row) => <dc.Input type="text" value={value} onChange={(e) => row.setValue("from.male", e.target.value)} />
+    },
+    {
+      id: 'Female',
+      value: (row) => row.value("from.female"),
+      render: (value, row) => <dc.Input type="text" value={value} onChange={(e) => row.setValue("from.female", e.target.value)} />
+    }
+  ]
+
+  return <dc.Table rows={dc.useCurrentFile().$relationship_mapping} columns={columns} />
+}
+```
 
 # Stats
 ```datacorejsx
