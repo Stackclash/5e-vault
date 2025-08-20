@@ -1,9 +1,13 @@
+formulas:
+  Strength: note.abilityScores.strength.value
+  Image: note.image
 views:
-  - type: table
-    name: Table
+  - type: cards
+    name: Card Test
     filters:
       and:
         - file.path.startsWith("3. The Party/Players")
     order:
       - file.name
-      - classes
+      - formula.Strength
+      - formula.Image
