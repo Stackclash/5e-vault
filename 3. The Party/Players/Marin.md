@@ -819,28 +819,16 @@ actions:
 > | **Initiative** | `$=dv.current().modifier` |
 > | **Speed** | `$=dv.current().speed` |
 
-```meta-bind-js-view
-{abilityScores} as abilityScores
-{savingThrows} as savingThrows
----
-const mb = engine.getPlugin('obsidian-meta-bind-plugin').api
-const dnd = engine.getPlugin('dnd-ui-toolkit')
-console.log(dnd)
-const codeblock = `\`\`\`ability
+
+
+```ability
 abilities:
-  strength: ${context.bound.abilityScores.strength.value ?? 10}
-  dexterity: ${context.bound.abilityScores.dexterity.value ?? 10}
-  constitution: ${context.bound.abilityScores.constitution.value ?? 10}
-  intelligence: ${context.bound.abilityScores.intelligence.value ?? 10}
-  wisdom: ${context.bound.abilityScores.wisdom.value ?? 10}
-  charisma: ${context.bound.abilityScores.charisma.value ?? 10}
-proficiencies:
-  - ${Object.keys(context.bound.savingThrows).reduce((acc, curr) => {
-      if (context.bound.savingThrows[curr].proficiency) acc.push(curr)
-      return acc
-    }, []).join('\n  - ')}
-\`\`\``
-return engine.markdown.create(codeblock)
+  strength: "{{frontmatter.abilityScores.strength.value}}"
+  dexterity: "{{frontmatter.abilityScores.dexterity.value}}"
+  constitution: "{{frontmatter.abilityScores.constitution.value}}"
+  intelligence: "{{frontmatter.abilityScores.intelligence.value}}"
+  wisdom: "{{frontmatter.abilityScores.wisdom.value}}"
+  charisma: "{{frontmatter.abilityScores.charisma.value}}"
 ```
 
 ```ability
