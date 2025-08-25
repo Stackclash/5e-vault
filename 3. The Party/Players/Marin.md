@@ -819,18 +819,16 @@ actions:
 > | **Initiative** | `$=dv.current().modifier` |
 > | **Speed** | `$=dv.current().speed` |
 
-```datacorejsx
-  return function View() {
-    const file = dc.useCurrentFile()
-    return `\`\`\`ability\n
-  strength: 10
-  dexterity: 12
-  constitution: 14
-  intelligence: 16
-  wisdom: 18
-  charisma: 20
-\`\`\``
-  }
+```dataviewjs
+  const file = dv.current()
+  dv.paragraph(`\`\`\`ability
+  strength: ${file.abilityScores.strength.value}
+  dexterity: ${file.abilityScores.dexterity.value}
+  constitution: ${file.abilityScores.constitution.value}
+  intelligence: ${file.abilityScores.intelligence.value}
+  wisdom: ${file.abilityScores.wisdom.value}
+  charisma: ${file.abilityScores.charisma.value}
+  \`\`\``)
 ```
 
 > [!statblocks|columns]
