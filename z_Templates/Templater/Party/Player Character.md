@@ -2,6 +2,7 @@
 let templateError = false
 try {
   const path = require('path')
+  const { dump } = await self.require.import('https://esm.sh/js-yaml')
   const dataview = app.plugins.getPlugin("dataview")
 
   if (tp.config.run_mode !== 0) {
@@ -48,115 +49,77 @@ try {
     ]
   })
 
+  const { party: selectedParty, dndbeyond: dndBeyondInfo } = result.getData()
+
+  let dndBeyondId
+  if (isNaN(dndBeyondInfo)) {
+    dndBeyondId = dndBeyondInfo.match(/\d+$/)[0]
+  } else {
+    dndBeyondId = dndBeyondInfo
+  }
+  const character = new tp.user.dndBeyondCharacter(dndBeyondId)
+  await character.initialize()
+
+  await tp.file.move(path.posix.join(locationConfig.players, character.name))
+
+  const properties = {
+    obsidianUIMode: 'preview',
+    statblock: true,
+    name: character.name,
+    level: character.level,
+    ac: character.armorClass,
+    hp: character.healthPoints.current,
+    modifier: character.initiative,
+    proficiency: character.proficiencyBonus,
+    url: character.url,
+    image: character.image,
+    race: await tp.user.find_file(character.race.fullName, '5. Mechanics/Races'),
+    alignment: "character.alignment",
+    description: character.description,
+    passives: character.passives,
+    proficiencies: character.proficiencies,
+    speed: character.speeds.walk,
+    defences: character.defences,
+    background: character.background,
+    classes: await Promise.all(character.classes.map(async function(characterClass) {
+      return {
+        ...characterClass,
+        name: await tp.user.find_file(characterClass.name, '5. Mechanics/Classes'),
+        subClass: await tp.user.find_file(characterClass.subClass, '5. Mechanics/Classes')
+      }
+    })),
+    abilityScores: character.abilityScores,
+    savingThrows: character.savingThrows,
+    skills: character.skills,
+    racialTraits: character.racialTraits,
+    classFeatures: character.classFeatures,
+    feats: character.feats,
+    raceSpells: character.spells.race,
+    classSpells: await Promise.all(character.spells.class.map(async function(classSpell) {
+      return {
+        ...classSpell,
+        name: await tp.user.find_file(classSpell.name, '5. Mechanics/Spells')
+      }
+    })),
+    currencies: character.currencies,
+    inventory: await Promise.all(character.inventory.map(async function(inv) {
+      return {
+        ...inv,
+        name: await tp.user.find_file(inv.name, '5. Mechanics/Items')
+      }
+    })),
+    party: selectedParty,
+    condition: 'healthy',
+    tags: ['player'],
+  }
+
 } catch (e) {
   templateError = e.message
   console.error(e)
   new tp.obsidian.Notice(e.message, 5000)
 }
-const path = require('path')
-const { dump } = await self.require.import('https://esm.sh/js-yaml')
-const dv = app.plugins.getPlugin("dataview").api
-const modalForm = app.plugins.getPlugin('modalforms').api
-const locationConfig = dv.page('Configuration').locations
-
-let parties = dv.pages('#party')
-const result = await modalForm.openForm({
-  title: "Character Setup",
-  name: "character-setup",
-  fields: [
-    {
-      name: 'party',
-      label: 'Party',
-      description: 'What party is this character a part of?',
-      input: {
-        type: 'select',
-        allowUnknownValues: false,
-        hidden: false,
-        options: parties.map(p => ({
-          value: `[[${p.file.path}|${p.file.name}]]`,
-          label: p.file.name
-        })),
-        source: 'fixed'
-      },
-      isRequired: true
-    },
-    {
-      name: 'dndbeyond',
-      label: 'DnD Beyond',
-      description: 'Paste D&D Beyond character url or id here',
-      input: {
-        type: 'text',
-        hiddent: false
-      }
-    }
-  ]
-})
-const { party: selectedParty, dndbeyond: dndBeyondInfo } = result.getData()
-
-let dndBeyondId
-if (isNaN(dndBeyondInfo)) {
-  dndBeyondId = dndBeyondInfo.match(/\d+$/)[0]
-} else {
-  dndBeyondId = dndBeyondInfo
-}
-const character = new tp.user.dndBeyondCharacter(dndBeyondId)
-await character.initialize()
-console.log(character)
-
-await tp.file.move(path.join(locationConfig.players, character.name))
-
-const properties = {
-  obsidianUIMode: 'preview',
-  statblock: true,
-  name: character.name,
-  level: character.level,
-  ac: character.armorClass,
-  hp: character.healthPoints.current,
-  modifier: character.initiative,
-  proficiency: character.proficiencyBonus,
-  url: character.url,
-  image: character.image,
-  race: await tp.user.find_file(character.race.fullName, '5. Mechanics/Races'),
-  alignment: "character.alignment",
-  description: character.description,
-  passives: character.passives,
-  proficiencies: character.proficiencies,
-  speed: character.speeds.walk,
-  defences: character.defences,
-  background: character.background,
-  classes: await Promise.all(character.classes.map(async function(characterClass) {
-    return {
-      ...characterClass,
-      name: await tp.user.find_file(characterClass.name, '5. Mechanics/Classes'),
-      subClass: await tp.user.find_file(characterClass.subClass, '5. Mechanics/Classes')
-    }
-  })),
-  abilityScores: character.abilityScores,
-  savingThrows: character.savingThrows,
-  skills: character.skills,
-  racialTraits: character.racialTraits,
-  classFeatures: character.classFeatures,
-  feats: character.feats,
-  raceSpells: character.spells.race,
-  classSpells: await Promise.all(character.spells.class.map(async function(classSpell) {
-    return {
-      ...classSpell,
-      name: await tp.user.find_file(classSpell.name, '5. Mechanics/Spells')
-    }
-  })),
-  currencies: character.currencies,
-  inventory: await Promise.all(character.inventory.map(async function(inv) {
-    return {
-      ...inv,
-      name: await tp.user.find_file(inv.name, '5. Mechanics/Items')
-    }
-  })),
-  party: selectedParty,
-  condition: 'healthy',
-  tags: ['player'],
-}
-console.log(properties)
 -%>
+<%* if (!templateError) { -%>
 ---
 <% dump(properties) %>
 ---
@@ -431,3 +394,11 @@ dv.table(['Name', 'Equipped', 'Attuned', 'Armor Class'], armor.map(inv => {
 ## Hidden Details
 
 ## Notes
+<%* } else { -%>
+
+
+> [!Error] Error Executing Template
+> <% templateError %>
+
+
+<%* } -%>
