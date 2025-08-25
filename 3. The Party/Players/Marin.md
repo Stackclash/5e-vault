@@ -819,6 +819,14 @@ actions:
 > | **Initiative** | `$=dv.current().modifier` |
 > | **Speed** | `$=dv.current().speed` |
 
+```datacorejsx
+  return function View() {
+    const file = dc.useCurrentFile()
+    return `hello\n
+    hi`
+  }
+```
+
 > [!statblocks|columns]
 > 
 >> [!blank]
