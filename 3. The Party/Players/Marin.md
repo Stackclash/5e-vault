@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 statblock: true
 name: Marin
-level: 9
+level: 10
 ac: 19
 hp: 67
 modifier: 3
@@ -836,11 +836,26 @@ abilities:
   intelligence: ${context.bound.abilityScores.intelligence.value ?? 10}
   wisdom: ${context.bound.abilityScores.wisdom.value ?? 10}
   charisma: ${context.bound.abilityScores.charisma.value ?? 10}
-proficiences:
-  - charisma
-  - wisdom
+proficiencies:
+  - ${Object.keys(context.bound.savingThrows).reduce((acc, curr) => {
+      if (context.bound.savingThrows[curr].proficiency) acc.push(curr)
+      return acc
+    }, []).join('\n  - ')}
 \`\`\``
 return engine.markdown.create(codeblock)
+```
+
+```ability
+abilities:
+  strength: 7
+  dexterity: 16
+  constitution: 16
+  intelligence: 11
+  wisdom: 13
+  charisma: 20
+proficiencies:
+  - charisma
+  - wisdom
 ```
 
 > [!statblocks|columns]
