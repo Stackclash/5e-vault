@@ -820,22 +820,27 @@ actions:
 > | **Speed** | `$=dv.current().speed` |
 
 ```meta-bind-js-view
-{abilityScores.strength.value} as strength
-{abilityScores.dexterity.value} as dexterity
-{abilityScores.constitution.value} as constitution
-{abilityScores.intelligence.value} as intelligence
-{abilityScores.wisdom.value} as wisdom
-{abilityScores.charisma.value} as charisma
+{abilityScores} as abilityScores
+{savingThrows} as savingThrows
 ---
 const mb = engine.getPlugin('obsidian-meta-bind-plugin').api
+console.log(context.bound.savingThrows.reduce((acc, curr) => {
+      if (curr.proficiency) acc.push(curr.ability)
+      return acc
+    }, []).join('\n  - '))
 const codeblock = `\`\`\`ability
 abilities:
-  strength: ${context.bound.strength ?? 10}
-  dexterity: ${context.bound.dexterity ?? 10}
-  constitution: ${context.bound.constitution ?? 10}
-  intelligence: ${context.bound.intelligence ?? 10}
-  wisdom: ${context.bound.wisdom ?? 10}
-  charisma: ${context.bound.charisma ?? 10}
+  strength: ${context.bound.abilityScores.strength.value ?? 10}
+  dexterity: ${context.bound.abilityScores.dexterity.value ?? 10}
+  constitution: ${context.bound.abilityScores.constitution.value ?? 10}
+  intelligence: ${context.bound.abilityScores.intelligence.value ?? 10}
+  wisdom: ${context.bound.abilityScores.wisdom.value ?? 10}
+  charisma: ${context.bound.abilityScores.charisma.value ?? 10}
+proficiences:
+  - ${context.bound.savingThrows.reduce((acc, curr) => {
+      if (curr.proficiency) acc.push(curr.ability)
+      return acc
+    }, []).join('\n  - ')}
 \`\`\``
 return engine.markdown.create(codeblock)
 ```
