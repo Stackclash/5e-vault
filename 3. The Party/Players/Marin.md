@@ -831,19 +831,6 @@ abilities:
   charisma: "{{frontmatter.abilityScores.charisma.value}}"
 ```
 
-```ability
-abilities:
-  strength: 7
-  dexterity: 16
-  constitution: 16
-  intelligence: 11
-  wisdom: 13
-  charisma: 20
-proficiencies:
-  - charisma
-  - wisdom
-```
-
 ```skills
 proficiencies:
   - acrobatics
