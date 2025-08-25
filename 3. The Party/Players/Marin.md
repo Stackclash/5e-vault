@@ -821,12 +821,12 @@ actions:
 
 ```ability
 abilities:
-  strength: {{abilityScores.strength.value}}
-  dexterity: "{{abilityScores.dexterity.value}}"
-  constitution: "{{abilityScores.constitution.value}}"
-  intelligence: "{{abilityScores.intelligence.value}}"
-  wisdom: "{{abilityScores.wisdom.value}}"
-  charisma: "{{abilityScores.charisma.value}}"
+  strength: "{{frontmatter.abilityScores.strength.value}}"
+  dexterity: "{{frontmatter.abilityScores.dexterity.value}}"
+  constitution: "{{frontmatter.abilityScores.constitution.value}}"
+  intelligence: "{{frontmatter.abilityScores.intelligence.value}}"
+  wisdom: "{{frontmatter.abilityScores.wisdom.value}}"
+  charisma: "{{frontmatter.abilityScores.charisma.value}}"
 proficiencies:
   - charisma
   - wisdom
