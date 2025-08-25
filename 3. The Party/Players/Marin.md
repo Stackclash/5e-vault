@@ -824,8 +824,8 @@ actions:
 {savingThrows} as savingThrows
 ---
 const mb = engine.getPlugin('obsidian-meta-bind-plugin').api
-console.log(context.bound.savingThrows.reduce((acc, curr) => {
-      if (curr.proficiency) acc.push(curr.ability)
+console.log(Object.keys(context.bound.savingThrows).reduce((acc, curr) => {
+      if (context.bound.savingThrows[curr].proficiency) acc.push(curr)
       return acc
     }, []).join('\n  - '))
 const codeblock = `\`\`\`ability
@@ -837,10 +837,8 @@ abilities:
   wisdom: ${context.bound.abilityScores.wisdom.value ?? 10}
   charisma: ${context.bound.abilityScores.charisma.value ?? 10}
 proficiences:
-  - ${context.bound.savingThrows.reduce((acc, curr) => {
-      if (curr.proficiency) acc.push(curr.ability)
-      return acc
-    }, []).join('\n  - ')}
+  - charisma
+  - wisdom
 \`\`\``
 return engine.markdown.create(codeblock)
 ```
