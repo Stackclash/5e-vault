@@ -822,8 +822,14 @@ actions:
 ```datacorejsx
   return function View() {
     const file = dc.useCurrentFile()
-    return `hello\n
-    hi`
+    return `\`\`\`ability\n
+  strength: 10
+  dexterity: 12
+  constitution: 14
+  intelligence: 16
+  wisdom: 18
+  charisma: 20
+\`\`\``
   }
 ```
 
