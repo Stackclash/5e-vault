@@ -3,21 +3,21 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
 condition: healthy
-image: 
+image:
 relationships:
   - Stefania Martikov|wife
 tags:
   - npc
   - compendium/src/5e/cos
-aliases: 
+aliases:
 pronounced: DAG TOE-mes-cu
 race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age: 42
 alignment: Neutral Good
-occupation: 
-groups: 
-religions: 
+occupation:
+groups:
+religions:
 personality: Down-to-earth, hardworking, community-minded
 ideal: Honest work and a strong community are the keys to surviving these dark times
 bond: His family and fellow villagers, the land he works

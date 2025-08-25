@@ -66,10 +66,11 @@ relationship_mapping:
     from:
       male: Nephew
       female: Niece
-  - to: Aunt
+  - name: ""
     from:
       male: Nephew
       female: Niece
+    to: Aunt
 ---
 > [!infobox|n-th]
 > | | |
@@ -204,7 +205,7 @@ INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship M
 >>         if (!Array.isArray(fm.relationship_mapping)) {
 >>           fm.relationship_mapping = [{to: '', from: {male: '', female: ''}}]
 >>         } else {
->>           fm.relationship_mapping = [...fm.relationship_mapping, {name: '', from: {male: '', female: ''}}]
+>>           fm.relationship_mapping = [...fm.relationship_mapping, {to: '', from: {male: '', female: ''}}]
 >>         }
 >>       })
 >> ```

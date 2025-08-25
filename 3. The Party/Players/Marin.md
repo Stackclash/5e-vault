@@ -819,6 +819,18 @@ actions:
 > | **Initiative** | `$=dv.current().modifier` |
 > | **Speed** | `$=dv.current().speed` |
 
+```dataviewjs
+  const file = dv.current()
+  dv.paragraph(`\`\`\`ability
+  strength: ${file.abilityScores.strength.value}
+  dexterity: ${file.abilityScores.dexterity.value}
+  constitution: ${file.abilityScores.constitution.value}
+  intelligence: ${file.abilityScores.intelligence.value}
+  wisdom: ${file.abilityScores.wisdom.value}
+  charisma: ${file.abilityScores.charisma.value}
+  \`\`\``)
+```
+
 > [!statblocks|columns]
 > 
 >> [!blank]
