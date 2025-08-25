@@ -821,7 +821,7 @@ actions:
 
 ```ability
 abilities:
-  strength: "{{abilityScores.strength.value}}"
+  strength: {{abilityScores.strength.value}}
   dexterity: "{{abilityScores.dexterity.value}}"
   constitution: "{{abilityScores.constitution.value}}"
   intelligence: "{{abilityScores.intelligence.value}}"
