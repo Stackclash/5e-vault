@@ -819,16 +819,25 @@ actions:
 > | **Initiative** | `$=dv.current().modifier` |
 > | **Speed** | `$=dv.current().speed` |
 
-```dataviewjs
-  const file = dv.current()
-  dv.paragraph(`\`\`\`ability
-  strength: ${file.abilityScores.strength.value}
-  dexterity: ${file.abilityScores.dexterity.value}
-  constitution: ${file.abilityScores.constitution.value}
-  intelligence: ${file.abilityScores.intelligence.value}
-  wisdom: ${file.abilityScores.wisdom.value}
-  charisma: ${file.abilityScores.charisma.value}
-  \`\`\``)
+```meta-bind-js-view
+{abilityScores.strength.value} as strength
+{abilityScores.dexterity.value} as dexterity
+{abilityScores.constitution.value} as constitution
+{abilityScores.intelligence.value} as intelligence
+{abilityScores.wisdom.value} as wisdom
+{abilityScores.charisma.value} as charisma
+---
+const mb = engine.getPlugin('obsidian-meta-bind-plugin').api
+const codeblock = `\`\`\`ability
+abilities:
+  strength: ${context.bound.strength ?? 10}
+  dexterity: ${context.bound.dexterity ?? 10}
+  constitution: ${context.bound.constitution ?? 10}
+  intelligence: ${context.bound.intelligence ?? 10}
+  wisdom: ${context.bound.wisdom ?? 10}
+  charisma: ${context.bound.charisma ?? 10}
+\`\`\``
+return engine.markdown.create(codeblock)
 ```
 
 > [!statblocks|columns]
