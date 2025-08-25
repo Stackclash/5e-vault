@@ -22,6 +22,32 @@ try {
     throw new Error('Configuration for file locations is not set up correctly')
   }
 
+  const result = await modalForm.openForm({
+    title: "Character Setup",
+    name: "character-setup",
+    fields: [
+      {
+        "name": "party",
+        "label": "Party",
+        "description": "What party is this character a part of?",
+        "isRequired": true,
+        "input": {
+          "type": "dataview",
+          "query": "dv.pages('\"" + config.locations.parties + "\"')"
+        }
+      },
+      {
+        name: 'dndbeyond',
+        label: 'DnD Beyond',
+        description: 'Paste D&D Beyond character url or id here',
+        input: {
+          type: 'text',
+          hiddent: false
+        }
+      }
+    ]
+  })
+
 } catch (e) {
   templateError = e.message
   console.error(e)
@@ -52,7 +78,7 @@ const result = await modalForm.openForm({
         })),
         source: 'fixed'
       },
-      isRequired: false
+      isRequired: true
     },
     {
       name: 'dndbeyond',

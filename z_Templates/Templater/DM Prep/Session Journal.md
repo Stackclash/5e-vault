@@ -37,7 +37,7 @@ try {
         "isRequired": true,
         "input": {
           "type": "dataview",
-          "query": "dv.pages('\"" + config.locations.parties + "\"').file.name"
+          "query": "dv.pages('\"" + config.locations.parties + "\"')"
         }
       },
       {
@@ -61,7 +61,7 @@ try {
   const data = result.getData()
 
   formattedDate = moment(data.date).format("YYYY-MM-DD")
-  selectedParty = dataview.api.page(data.party)
+  selectedParty = data.party
 
   const journals = dataview.api.pages(`"${path.posix.join(config.locations.journals, selectedParty.file.name)}"`).sort(p => p.date, 'desc')
   let newSessionNumber = 0
