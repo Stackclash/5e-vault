@@ -824,10 +824,6 @@ actions:
 {savingThrows} as savingThrows
 ---
 const mb = engine.getPlugin('obsidian-meta-bind-plugin').api
-console.log(Object.keys(context.bound.savingThrows).reduce((acc, curr) => {
-      if (context.bound.savingThrows[curr].proficiency) acc.push(curr)
-      return acc
-    }, []).join('\n  - '))
 const codeblock = `\`\`\`ability
 abilities:
   strength: ${context.bound.abilityScores.strength.value ?? 10}
@@ -856,6 +852,25 @@ abilities:
 proficiencies:
   - charisma
   - wisdom
+```
+
+```meta-bind-js-view
+{skills} as skills
+---
+const mb = engine.getPlugin('obsidian-meta-bind-plugin').api
+const codeblock = `\`\`\`skills
+proficiencies:
+  - ${Object.keys(context.bound.skills).reduce((acc, curr) => {
+      if (context.bound.skills[curr].proficiency) acc.push(curr)
+      return acc
+    }, []).join('\n  - ')}
+expertise:
+  - ${Object.keys(context.bound.skills).reduce((acc, curr) => {
+      if (context.bound.skills[curr].expertise) acc.push(curr)
+      return acc
+    }, []).join('\n  - ')}
+\`\`\``
+return engine.markdown.create(codeblock)
 ```
 
 > [!statblocks|columns]
