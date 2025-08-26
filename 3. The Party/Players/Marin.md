@@ -819,8 +819,6 @@ actions:
 > | **Initiative** | `$=dv.current().modifier` |
 > | **Speed** | `$=dv.current().speed` |
 
-
-
 ```ability
 abilities:
   strength: "{{frontmatter.abilityScores.strength.value}}"
