@@ -16,7 +16,6 @@
   "obsidian-banners",
   "obsidian-dice-roller",
   "obsidian-excalidraw-plugin",
-  "dnd-ui-toolkit",
   "fantasy-content-generator",
   "obsidian-admonition",
   "obsidian-5e-statblocks",
@@ -32,5 +31,7 @@
   "image-window",
   "obsidian-textgenerator-plugin",
   "various-complements",
-  "datacore"
+  "smart-connections",
+  "datacore",
+  "dnd-ui-toolkit"
 ]
