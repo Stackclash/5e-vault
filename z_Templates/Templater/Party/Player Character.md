@@ -4,6 +4,7 @@ try {
   const path = require('path')
   const { dump } = await self.require.import('https://esm.sh/js-yaml')
   const dataview = app.plugins.getPlugin("dataview")
+  const modalForm = app.plugins.getPlugin('modalforms')
 
   if (tp.config.run_mode !== 0) {
     throw new Error('This template can only be used to create new files.')
@@ -23,7 +24,7 @@ try {
     throw new Error('Configuration for file locations is not set up correctly')
   }
 
-  const result = await modalForm.openForm({
+  const result = await modalForm.api.openForm({
     title: "Character Setup",
     name: "character-setup",
     fields: [
@@ -34,7 +35,7 @@ try {
         "isRequired": true,
         "input": {
           "type": "dataview",
-          "query": "dv.pages('\"" + config.locations.parties + "\"')"
+          "query": "dv.pages('\"" + config.locations.parties + "\"').file.name"
         }
       },
       {
@@ -49,13 +50,13 @@ try {
     ]
   })
 
-  const { party: selectedParty, dndbeyond: dndBeyondInfo } = result.getData()
+  const data = result.getData()
 
   let dndBeyondId
-  if (isNaN(dndBeyondInfo)) {
-    dndBeyondId = dndBeyondInfo.match(/\d+$/)[0]
+  if (isNaN(data.dndbeyond)) {
+    dndBeyondId = data.dndbeyond.match(/\d+$/)[0]
   } else {
-    dndBeyondId = dndBeyondInfo
+    dndBeyondId = data.dndbeyond
   }
   const character = new tp.user.dndBeyondCharacter(dndBeyondId)
   await character.initialize()
@@ -108,7 +109,7 @@ try {
         name: await tp.user.find_file(inv.name, '5. Mechanics/Items')
       }
     })),
-    party: selectedParty,
+    party: dv.page(data.party),
     condition: 'healthy',
     tags: ['player'],
   }
