@@ -17,8 +17,8 @@ description:
   hair: ""
   eyes: green
   skin: golden
-  height: 
-  weight: 
+  height:
+  weight:
   size: Medium
 passives:
   perception: 9
@@ -42,11 +42,11 @@ background:
   background:
     name: Sage
     description: <p>You spent years learning the lore of the multiverse. You scoured manuscripts, studied scrolls, and listened to the greatest experts on the subjects that interest you. Your efforts have made you a master in your fields of study.</p>
-  backstory: 
-  organizations: 
-  allies: 
-  enemies: 
-  notes: 
+  backstory:
+  organizations:
+  allies:
+  enemies:
+  notes:
 classes:
   - name: "[[5. Mechanics/Classes/Sorcerer.md|Sorcerer]]"
     subClass: "[[5. Mechanics/Classes/Sorcerer Draconic Bloodline.md|Sorcerer Draconic Bloodline]]"
@@ -509,6 +509,7 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 condition: healthy
 tags:
   - player
+location: "[[4. World Almanac/Places of Interest/Tsolenka Pass.md|Tsolenka Pass]]"
 ---
 `$="[![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")](" + dv.current().url + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`

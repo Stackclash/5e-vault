@@ -15,21 +15,17 @@ tags:
   - party
 ---
 ## **Characters**
-### **[[1. Players|Edit Players]]**
 > [!cards|dataview 6]
 >```dataview
 > TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	"![|150x250](" + image + ")" AS "Image",
 >	race AS "Race",
-> this.file.name AS "Test",
->	"`INPUT[inlineSelect(option(healthy),option(injured),option(dead)):" + this.file.path + "#condition]`" AS "Condition",
->	location AS "Location"
+>	"`INPUT[inlineSelect(option(healthy),option(injured),option(dead)):" + file.path + "#condition]`" AS "Condition",
+>	"`INPUT[suggester(optionQuery(#location)):" + file.path + "#location]`" AS "Location"
 >	FROM #player
 > SORT file.name asc
 >```
-
-`INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]`
 
 ## **Session Log**
 > [!cards|dataview 3]
