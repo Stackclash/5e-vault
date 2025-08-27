@@ -16,7 +16,7 @@ tags:
 ---
 ## **Characters**
 ### **[[1. Players|Edit Players]]**
-> [!cards|dataview 5]
+> [!cards|dataview 6]
 >```dataview
 > TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
