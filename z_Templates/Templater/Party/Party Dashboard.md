@@ -49,25 +49,23 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-banner: "![[PlaceholderImage.png]]"
-banner_y: 0
+movement: walking
+speed: normal
+hours_per_day: 8
 tags:
   - party
 ---
-# `=this.file.name`
 ## **Characters**
-### **[[1. Players|Edit Players]]**
 > [!cards|dataview 5]
 >```dataview
 > TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
->	embed(link(art)) AS "Art",
+>	"![|150x250](" + image + ")" AS "Image",
 >	race AS "Race",
 >	condition AS "Condition",
 >	location AS "Location"
->	FROM "3. The Party/1. Players"
->	WHERE party = this.file.name
->SORT file.name asc
+>	FROM #player
+> SORT file.name asc
 >```
 
 ## **Session Log**

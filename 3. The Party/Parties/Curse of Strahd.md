@@ -1,6 +1,5 @@
 ---
 obsidianUIMode: preview
-banner: "![[Barovia_Banner.webp]]"
 banner_y: 0
 hours_per_day: 8
 party_player:
@@ -9,20 +8,19 @@ party_player:
   - '[[3. The Party/Players/Seluvis Felo''melorn.md|Seluvis Felo''melorn]]'
   - '[[3. The Party/Players/Redgrave.md|Redgrave]]'
   - '[[Yevelda Ovak |Yevelda Ovak ]]'
-exhaustion_level: .nan
+exhaustion_level: 
 movement: walking
 speed: normal
 tags:
   - party
 ---
-# `=this.file.name`
 ## **Characters**
 ### **[[1. Players|Edit Players]]**
 > [!cards|dataview 5]
 >```dataview
 > TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
->	"![|150x150](" + image + ")" AS "Image",
+>	"![|150x250](" + image + ")" AS "Image",
 >	race AS "Race",
 >	condition AS "Condition",
 >	location AS "Location"
