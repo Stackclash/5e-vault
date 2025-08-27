@@ -27,6 +27,13 @@ tags:
 > SORT file.name asc
 >```
 
+## NPC Relationships
+```dataview
+TABLE WITHOUT ID
+  link(file.path, file.name) AS "Name",
+  partyRelationships[this.file.name]
+```
+
 ## **Session Log**
 > [!cards|dataview 3]
 >```dataview
