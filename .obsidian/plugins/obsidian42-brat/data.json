@@ -11,8 +11,7 @@
     },
     {
       "repo": "hay-kot/obsidian-dnd-ui-toolkit",
-      "version": "v0.18.0-feat-ability-block-templating.1",
-      "token": ""
+      "version": "v0.18.0-feat-ability-block-templating.1"
     }
   ],
   "themesList": [],
@@ -24,5 +23,6 @@
   "loggingVerboseEnabled": false,
   "debuggingMode": false,
   "notificationsEnabled": true,
-  "personalAccessToken": ""
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false
 }
