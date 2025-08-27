@@ -114,7 +114,8 @@ try {
     condition: 'healthy',
     tags: ['player'],
   }
-  properties.party = dataview.api.page(data.party).file.link
+  const selectedParty = dataview.api.page(data.party)
+  properties.party = `[[${selectedParty.file.path}|${selectedParty.file.name}]]`
 
 } catch (e) {
   templateError = e.message
@@ -125,8 +126,7 @@ try {
 <%* if (!templateError) { -%>
 ---
 <%*
-  console.log(yaml, properties)
-  yaml.dump(properties)
+  tR += yaml.dump(properties)
 -%>
 ---
 `$="[![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")](" + dv.current().url + ")"`
