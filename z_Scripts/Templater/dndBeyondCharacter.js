@@ -451,7 +451,7 @@ class DnDBeyondCharacter {
   }
 
   async initialize() {
-    return fetch(`https://character-service.dndbeyond.com/character/v5/character/${this.#id}`)
+    return requestUrl(`https://character-service.dndbeyond.com/character/v5/character/${this.#id}`)
       .then(response => this.#data = response.json.data)
       // .then(() => fs.writeFileSync(path.join(app.vault.adapter.getBasePath(), 'test.json'), JSON.stringify(this, null, 2)))
   }

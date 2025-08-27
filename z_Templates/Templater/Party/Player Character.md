@@ -2,9 +2,10 @@
 let templateError = false
 try {
   const path = require('path')
-  const { dump } = await self.require.import('https://esm.sh/js-yaml')
+  const yaml = await self.require.import('https://esm.sh/js-yaml')
   const dataview = app.plugins.getPlugin("dataview")
   const modalForm = app.plugins.getPlugin('modalforms')
+  console.log(yaml)
 
   if (tp.config.run_mode !== 0) {
     throw new Error('This template can only be used to create new files.')
@@ -61,7 +62,7 @@ try {
   const character = new tp.user.dndBeyondCharacter(dndBeyondId)
   await character.initialize()
 
-  await tp.file.move(path.posix.join(locationConfig.players, character.name))
+  await tp.file.move(path.posix.join(config.locations.players, character.name))
 
   const properties = {
     obsidianUIMode: 'preview',
@@ -109,7 +110,7 @@ try {
         name: await tp.user.find_file(inv.name, '5. Mechanics/Items')
       }
     })),
-    party: dv.page(data.party),
+    party: dataview.api.page(data.party),
     condition: 'healthy',
     tags: ['player'],
   }
