@@ -2,10 +2,10 @@
 let templateError = false
 try {
   const path = require('path')
-  const yaml = await self.require.import('https://esm.sh/js-yaml')
+  const { dump } = await self.require.import('https://esm.sh/js-yaml')
   const dataview = app.plugins.getPlugin("dataview")
   const modalForm = app.plugins.getPlugin('modalforms')
-  console.log(yaml)
+  console.log('HELLO', dump)
 
   if (tp.config.run_mode !== 0) {
     throw new Error('This template can only be used to create new files.')
@@ -123,7 +123,7 @@ try {
 -%>
 <%* if (!templateError) { -%>
 ---
-<% dump(properties) %>
+<%* dump(properties) -%>
 ---
 `$="[![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")](" + dv.current().url + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
