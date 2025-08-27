@@ -69,6 +69,12 @@ tags:
 >```
 
 ## NPC Relationships
+<!-- Use Datacore -->
+```datacorejsx
+return function View() {
+  
+}
+```
 ```dataview
 TABLE WITHOUT ID
   link(file.path, file.name) AS "Name",
