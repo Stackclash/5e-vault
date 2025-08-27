@@ -48,6 +48,18 @@ This is my Obsidian Vault I use to plan and run D&D sessions. I use many differe
 
 # CSS Snipets
 
+## Multiple Property Columns
+
+## Tabs in Obsidian
+
+## ITS Theme - Encoded Fonts and Icons
+
+## TTRPG-Convert-CLI DND 5E Compendium
+
+## Meta Bind Tabs
+
+## Custom Styles
+
 # Plugins Used
 - [Admonitions](https://plugins.javalent.com/admonitions)
 - [April's Automatic Timelines](https://github.com/April-Gras/obsidian-auto-timelines)

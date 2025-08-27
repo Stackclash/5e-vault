@@ -59,7 +59,7 @@ tags:
 ### **[[1. Players|Edit Players]]**
 > [!cards|dataview 5]
 >```dataview
-TABLE WITHOUT ID
+> TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	embed(link(art)) AS "Art",
 >	race AS "Race",
