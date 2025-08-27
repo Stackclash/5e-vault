@@ -31,7 +31,9 @@ tags:
 ```dataview
 TABLE WITHOUT ID
   link(file.path, file.name) AS "Name",
-  partyRelationships[this.file.name]
+  partyRelationships[this.file.name] AS "Relationship"
+FROM #npc
+WHERE contains(partyRelationships, this.file.name)
 ```
 
 ## **Session Log**

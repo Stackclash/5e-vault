@@ -8,29 +8,30 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
+location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 condition: healthy
 images: []
 relationships: []
 aliases:
   - Urwin Martikov
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced:
+race:
+gender:
+age:
 alignment: Lawful Good
-occupation: null
+occupation:
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
-partyRelationships: {}
-image: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
+partyRelationships:
+  Curse of Strahd: Stranger
+image:
 ---
 
 > [!infobox]
@@ -55,7 +56,7 @@ image: null
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*

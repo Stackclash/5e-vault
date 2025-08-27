@@ -68,6 +68,15 @@ tags:
 > SORT file.name asc
 >```
 
+## NPC Relationships
+```dataview
+TABLE WITHOUT ID
+  link(file.path, file.name) AS "Name",
+  partyRelationships[this.file.name] AS "Relationship"
+FROM #npc
+WHERE contains(partyRelationships, this.file.name)
+```
+
 ## **Session Log**
 ### **[[2. Session Journals|New Session Log]]**
 > [!cards|dataview 3]
