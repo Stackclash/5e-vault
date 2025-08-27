@@ -22,11 +22,14 @@ tags:
 >	link(file.path, name) AS "Name",
 >	"![|150x250](" + image + ")" AS "Image",
 >	race AS "Race",
->	condition AS "Condition",
+> this.file.name AS "Test",
+>	"`INPUT[inlineSelect(option(healthy),option(injured),option(dead)):" + this.file.path + "#condition]`" AS "Condition",
 >	location AS "Location"
 >	FROM #player
 > SORT file.name asc
 >```
+
+`INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]`
 
 ## **Session Log**
 > [!cards|dataview 3]
