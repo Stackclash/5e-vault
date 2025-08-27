@@ -1,5 +1,6 @@
 <%*
 let templateError = false
+let properties = {}
 try {
   const path = require('path')
   const { dump } = await self.require.import('https://esm.sh/js-yaml')
@@ -64,7 +65,7 @@ try {
 
   await tp.file.move(path.posix.join(config.locations.players, character.name))
 
-  const properties = {
+  properties = {
     obsidianUIMode: 'preview',
     statblock: true,
     name: character.name,
@@ -120,14 +121,11 @@ try {
   console.error(e)
   new tp.obsidian.Notice(e.message, 5000)
 }
--%>
-<%* if (!templateError) { -%>
----
-<%*
+
+if (!templateError) {
   console.log(properties)
-  dump(properties) 
+  tR += `---\n${dump(properties)}\n---`
 -%>
----
 `$="[![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")](" + dv.current().url + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
 ```meta-bind-button
