@@ -85,6 +85,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Quests
+```dataview
+TABLE WITHOUT ID
+link(file.path, name) AS "Name"
+FROM "3. The Party/Quests"
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name asc
+```
+
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button
