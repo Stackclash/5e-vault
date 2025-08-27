@@ -22,12 +22,12 @@ tags:
 >```dataview
 > TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
->	embed(link(art)) AS "Art",
+>	elink(image) AS "Image",
 >	race AS "Race",
 >	condition AS "Condition",
 >	location AS "Location"
->	FROM "#player"
->SORT file.name asc
+>	FROM #player
+> SORT file.name asc
 >```
 
 ## **Session Log**
